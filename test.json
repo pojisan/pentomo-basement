@@ -18,15 +18,6 @@
     "channelName": "Serina Maiko Ch.\u3010V4Mirai\u3011"
   },
   {
-    "channelId": "UC_cxiOVYi9TH3iPvam9f5yA",
-    "title": "[ PICAYUNE DREAMS 1 ] BULLET HEAVEN FEVER DREAM - Ciccino katterina Triple A Club V&U",
-    "thumbnail": "https://i.ytimg.com/vi/Riv6CjIUiic/default_live.jpg",
-    "status": "live",
-    "scheduledStartTime": "2024-03-21T21:00:00Z",
-    "url": "https://youtu.be/Riv6CjIUiic",
-    "channelName": "Ciccino Katterina Ch. V&U"
-  },
-  {
     "channelId": "UCHt4F3--Hq0sNXP6DEdlSmg",
     "title": "Dragon's Dogma 2 DAY ! ! ! Starting the Journey #1\u3010MIKI HITSUGI / SPECIALITE\u3011 SPOILERS (c) CAPCOM",
     "thumbnail": "https://i.ytimg.com/vi/joG3TlxtJqw/default_live.jpg",
@@ -46,8 +37,18 @@
   },
   {
     "channelId": "UCcAn8WXsoqw9x8DAkzYQNQQ",
+    "title": "Five Nights at Freddy's: Security Breach #shorts #shortslive #shortsfeed #shortsgaming #fnaf",
+    "thumbnail": "https://i.ytimg.com/vi/E2OCk2RM6vo/default_live.jpg",
+    "status": "live",
+    "scheduledStartTime": "2024-03-21T23:00:00Z",
+    "url": "https://youtu.be/E2OCk2RM6vo",
+    "channelName": "Zeli Zuimu Ch. V&U"
+  },
+  {
+    "channelId": "UCcAn8WXsoqw9x8DAkzYQNQQ",
     "title": "\u3010Five Nights at Freddy's: Security Breach - Part: 5\u3011I'm LOSING it.\u3010V&U | GEN4\u3011",
     "thumbnail": "https://i.ytimg.com/vi/42l96-Nytqg/default_live.jpg",
+    "status": "live",
     "scheduledStartTime": "2024-03-21T23:00:00Z",
     "url": "https://youtu.be/42l96-Nytqg",
     "channelName": "Zeli Zuimu Ch. V&U"
@@ -56,6 +57,7 @@
     "channelId": "UCIId2bA3BsBeBB80bdwNs4Q",
     "title": "\u3010EURO TRUCK SIM\u3011trucks love me, men fear me\u3010Yume+ | Rhea Nevermore\u3011",
     "thumbnail": "https://i.ytimg.com/vi/uSOJ3_xp4Us/default_live.jpg",
+    "status": "live",
     "scheduledStartTime": "2024-03-21T23:00:00Z",
     "url": "https://youtu.be/uSOJ3_xp4Us",
     "channelName": "Rhea Nevermore \u3010Yume+\u3011"

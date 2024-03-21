@@ -205,12 +205,6 @@
   thumbnail: https://i.ytimg.com/vi/1-p45ZWCqiE/default.jpg
   title: 'Abi takes you on the cutest hot chocolate date of your life #vtuber #shorts
     #date'
-13s3T9tthec:
-  channelId: UCcAn8WXsoqw9x8DAkzYQNQQ
-  scheduledStartTime: '2029-01-01T00:00:00Z'
-  thumbnail: https://i.ytimg.com/vi/13s3T9tthec/default.jpg
-  title: "\u3010ASMR\u3011YOU TASE YOUR LITTLE SISTER WITH THE TASER GUN YOU FOUND\
-    \ IN YOUR MILITARY DAD'S UTILITY CLOSET"
 14hP4r5x-6Q:
   channelId: UCESQsSc7Uh8EbiXVtmPbD_A
   scheduledStartTime: '2024-03-17T17:00:00Z'
@@ -547,6 +541,7 @@
 42l96-Nytqg:
   channelId: UCcAn8WXsoqw9x8DAkzYQNQQ
   scheduledStartTime: '2024-03-21T23:00:00Z'
+  status: live
   thumbnail: https://i.ytimg.com/vi/42l96-Nytqg/default_live.jpg
   title: "\u3010Five Nights at Freddy's: Security Breach - Part: 5\u3011I'm LOSING\
     \ it.\u3010V&U | GEN4\u3011"
@@ -1260,6 +1255,13 @@ E2I6540BwDI:
   scheduledStartTime: '2029-01-01T00:00:00Z'
   thumbnail: https://i.ytimg.com/vi/E2I6540BwDI/default.jpg
   title: "\u30D6\u30EA(\uFF9F\u2200\uFF9F)\u30CF\u30DE\u30C1 #vtuber"
+E2OCk2RM6vo:
+  channelId: UCcAn8WXsoqw9x8DAkzYQNQQ
+  scheduledStartTime: '2024-03-21T23:00:00Z'
+  status: live
+  thumbnail: https://i.ytimg.com/vi/E2OCk2RM6vo/default_live.jpg
+  title: 'Five Nights at Freddy''s: Security Breach #shorts #shortslive #shortsfeed
+    #shortsgaming #fnaf'
 E5F1aGbUTH4:
   channelId: UC-Y3evMx7MXbVeSbRKQ3gNw
   scheduledStartTime: '2024-03-20T03:00:00Z'
@@ -1354,7 +1356,7 @@ F3V1d6EJ9c8:
 F3cWFrVp0zI:
   channelId: UC9xR7uN0x5a6CH3Uopq7czA
   scheduledStartTime: '2024-03-21T21:00:00Z'
-  thumbnail: https://i.ytimg.com/vi/F3cWFrVp0zI/default_live.jpg
+  thumbnail: https://i.ytimg.com/vi/F3cWFrVp0zI/default.jpg
   title: Rating your cursed food suggestions! (handcam)
 FGSjbeP6a8k:
   channelId: UCchGYP5t5Vz48UVxNOifk-Q
@@ -2309,11 +2311,6 @@ QBff_ErdUak:
   scheduledStartTime: '2024-03-20T02:45:00Z'
   thumbnail: https://i.ytimg.com/vi/QBff_ErdUak/default.jpg
   title: "Carpe Diem... The Church is REBUILDING! (Mythical SMP Day 20-21)\u3010KoziiChu\u3011"
-QCmVWQHXeCQ:
-  channelId: UCkiUByBCF1aOiRd16xAlPMg
-  scheduledStartTime: '2029-01-01T00:00:00Z'
-  thumbnail: https://i.ytimg.com/vi/QCmVWQHXeCQ/default.jpg
-  title: Hag Vtuber...
 QIm3wgRa6bk:
   channelId: UCGwLSyPLaHpq0nuT_JVSMtQ
   scheduledStartTime: '2024-03-09T20:00:00Z'
@@ -2454,8 +2451,7 @@ Rh78ewE_SXo:
 Riv6CjIUiic:
   channelId: UC_cxiOVYi9TH3iPvam9f5yA
   scheduledStartTime: '2024-03-21T21:00:00Z'
-  status: live
-  thumbnail: https://i.ytimg.com/vi/Riv6CjIUiic/default_live.jpg
+  thumbnail: https://i.ytimg.com/vi/Riv6CjIUiic/default.jpg
   title: '[ PICAYUNE DREAMS 1 ] BULLET HEAVEN FEVER DREAM - Ciccino katterina Triple
     A Club V&U'
 RnLvTpFv45g:
@@ -2900,6 +2896,11 @@ X1qQ7yyGsLo:
   scheduledStartTime: '2024-03-10T03:30:00Z'
   thumbnail: https://i.ytimg.com/vi/X1qQ7yyGsLo/default.jpg
   title: 'Devour ~ #shorts #shortslive #viral'
+X9d_Q2YNs38:
+  channelId: UCkiUByBCF1aOiRd16xAlPMg
+  scheduledStartTime: '2029-01-01T00:00:00Z'
+  thumbnail: https://i.ytimg.com/vi/X9d_Q2YNs38/default.jpg
+  title: Don't Look it Up.
 XIL9w0cFt8A:
   channelId: UCPm_htRQjzhgFikcO_LTvTA
   scheduledStartTime: '2024-03-18T01:15:00Z'
@@ -5077,6 +5078,7 @@ uRxil0J3Ao4:
 uSOJ3_xp4Us:
   channelId: UCIId2bA3BsBeBB80bdwNs4Q
   scheduledStartTime: '2024-03-21T23:00:00Z'
+  status: live
   thumbnail: https://i.ytimg.com/vi/uSOJ3_xp4Us/default_live.jpg
   title: "\u3010EURO TRUCK SIM\u3011trucks love me, men fear me\u3010Yume+ | Rhea\
     \ Nevermore\u3011"
