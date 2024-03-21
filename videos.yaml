@@ -1354,7 +1354,6 @@ F3V1d6EJ9c8:
 F3cWFrVp0zI:
   channelId: UC9xR7uN0x5a6CH3Uopq7czA
   scheduledStartTime: '2024-03-21T21:00:00Z'
-  status: live
   thumbnail: https://i.ytimg.com/vi/F3cWFrVp0zI/default_live.jpg
   title: Rating your cursed food suggestions! (handcam)
 FGSjbeP6a8k:
@@ -3482,6 +3481,11 @@ cNcdGc6thKU:
   thumbnail: https://i.ytimg.com/vi/cNcdGc6thKU/default.jpg
   title: "\u3010Singing Stream / \u6B4C\u67A0\u3011Robot Anime Songs! \u3084\u3063\
     \u3071\u30ED\u30DC\u30A2\u30CB\u30BD\u30F3\u6700\u9AD8\uFF01"
+cTFcReU2o0I:
+  channelId: UCZIFph1bYyGxmFkkNNLAKdA
+  scheduledStartTime: '2029-01-01T00:00:00Z'
+  thumbnail: https://i.ytimg.com/vi/cTFcReU2o0I/default.jpg
+  title: I died
 cUW9R3zbweg:
   channelId: UCkiUByBCF1aOiRd16xAlPMg
   scheduledStartTime: '2029-01-01T00:00:00Z'
@@ -3601,11 +3605,6 @@ eCD2-NyeZYM:
   scheduledStartTime: '2024-03-17T00:00:00Z'
   thumbnail: https://i.ytimg.com/vi/eCD2-NyeZYM/default.jpg
   title: Tin Whistle but make it Anime
-eHkYIaK-uMY:
-  channelId: UCZIFph1bYyGxmFkkNNLAKdA
-  scheduledStartTime: '2024-03-10T02:00:00Z'
-  thumbnail: https://i.ytimg.com/vi/eHkYIaK-uMY/default.jpg
-  title: Delivering YOUR packages
 eSJ_Tljoqwk:
   channelId: UCr8NZ9jOrrVcIRnaHZCjJUg
   scheduledStartTime: '2024-03-19T15:00:00Z'
@@ -5202,6 +5201,7 @@ vKVAY7hDnc8:
 vSr6XJW2618:
   channelId: UC-1_-jUu-lALdGn9-MdBJ4Q
   scheduledStartTime: '2024-03-21T23:00:00Z'
+  status: live
   thumbnail: https://i.ytimg.com/vi/vSr6XJW2618/default_live.jpg
   title: "Sing to Win! \u3010One-Hand Clapping\u3011"
 vVXx5RIx70k:
