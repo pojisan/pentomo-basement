@@ -3,6 +3,7 @@
     "channelId": "UCr8NZ9jOrrVcIRnaHZCjJUg",
     "title": "I bought Jirai Kei clothes !\ud83c\udf80 Let's doodle them",
     "thumbnail": "https://i.ytimg.com/vi/JfkU6wzv7kM/default_live.jpg",
+    "status": "live",
     "scheduledStartTime": "2024-03-21T15:00:00Z",
     "url": "https://youtu.be/JfkU6wzv7kM",
     "channelName": "Karrot Keromi Ch. \u30ab\u30ed\u30c3\u30c8 \u30b1\u30ed\u30df\u3010MyHolo TV\u3011"
@@ -11,6 +12,7 @@
     "channelId": "UCK6oCMib62eYAIPrlrYRVrw",
     "title": "\u3010Handcam\u3011One Piece Card Opening - NEWEST SET (OP-06)",
     "thumbnail": "https://i.ytimg.com/vi/fHqoj6mPC-k/default_live.jpg",
+    "status": "live",
     "scheduledStartTime": "2024-03-21T15:00:00Z",
     "url": "https://youtu.be/fHqoj6mPC-k",
     "channelName": "Miya Mareena Ch."
@@ -30,6 +32,14 @@
     "scheduledStartTime": "2024-03-21T17:00:00Z",
     "url": "https://youtu.be/DsU8S7CGIE4",
     "channelName": "Reina Ronronea ch. \u3010globie\u3011"
+  },
+  {
+    "channelId": "UCdG9oj3n1Qhb7BUCsQSIiJg",
+    "title": "\u3010Suck Up!\u3011Luca try not to roast everyone challenge...\u3010Obari Luca | globie\u3011",
+    "thumbnail": "https://i.ytimg.com/vi/LOgEDUCgwNg/default_live.jpg",
+    "scheduledStartTime": "2024-03-21T18:00:00Z",
+    "url": "https://youtu.be/LOgEDUCgwNg",
+    "channelName": "Obari Luca Ch. \u3010globie\u3011"
   },
   {
     "channelId": "UCi6q0z8N1NNYgWPsM1OK25Q",
@@ -511,7 +521,7 @@
     "title": "SPONTANEOUS SHORK",
     "thumbnail": "https://i.ytimg.com/vi/UBXklZeTxXg/default_live.jpg",
     "scheduledStartTime": "2024-03-24T15:00:00Z",
-    "status": "this week",
+    "status": "next three days",
     "url": "https://youtu.be/UBXklZeTxXg",
     "channelName": "Miya Mareena Ch."
   },
