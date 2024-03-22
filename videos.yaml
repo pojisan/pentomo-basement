@@ -2425,6 +2425,7 @@ RTaa_kxZZds:
 RZB0wf38RGc:
   channelId: UCRlQzuVeYxTDPobPN1jaVkQ
   scheduledStartTime: '2024-03-22T00:00:00Z'
+  status: live
   thumbnail: https://i.ytimg.com/vi/RZB0wf38RGc/default_live.jpg
   title: "\u3016Project Zomboid\u3017Once again, but this time we win :3\u3016Cyon\
     \ \u2765 V&U\u3017"
@@ -3822,6 +3823,7 @@ gBPUndAnegk:
 gGniwcGpfCk:
   channelId: UCm6JMVKxg8PvJjl3F7J0tdQ
   scheduledStartTime: '2024-03-22T00:00:00Z'
+  status: live
   thumbnail: https://i.ytimg.com/vi/gGniwcGpfCk/default_live.jpg
   title: "what makes the market super? \u3010Supermarket Simulator\u3011"
 geh6tGI6x6s:
@@ -4077,6 +4079,7 @@ joG3TlxtJqw:
 jp92c7pdaVw:
   channelId: UCbrbFKFhyHD4bMJbEcXZz1g
   scheduledStartTime: '2024-03-22T00:00:00Z'
+  status: live
   thumbnail: https://i.ytimg.com/vi/jp92c7pdaVw/default_live.jpg
   title: "\u3010Kalimba\u3011   spica plays a thumb piano!!  \u3010Kirispica | V-Dere\u3011"
 jvF1RbSCOrw:
@@ -4317,6 +4320,7 @@ mMr44LBKx0I:
 mQmDhlLG17c:
   channelId: UCXIKBLg4fAVte7jDafWRRgQ
   scheduledStartTime: '2024-03-22T00:00:00Z'
+  status: live
   thumbnail: https://i.ytimg.com/vi/mQmDhlLG17c/default_live.jpg
   title: Project Zomboid ft. @CyonVNU @YurikagoKokone @MeetaVNU
 mTt9DdhQ0h4:
@@ -4848,7 +4852,6 @@ ru_pYUxoWRI:
 rxDeX3izZdU:
   channelId: UCv1ThyE4KVYnnVY8GLftnoA
   scheduledStartTime: '2024-03-21T21:00:00Z'
-  status: live
   thumbnail: https://i.ytimg.com/vi/rxDeX3izZdU/default_live.jpg
   title: "\u301021K DRUNK KARAOKE\u3011SIP, SIP, SIPPING ALL NIGHT!\u3010V4Mirai |\
     \ Serina Maiko | ENVtuber\u3011"
@@ -5080,8 +5083,7 @@ uSOJ3_xp4Us:
   scheduledStartTime: '2024-03-21T23:00:00Z'
   status: live
   thumbnail: https://i.ytimg.com/vi/uSOJ3_xp4Us/default_live.jpg
-  title: "\u3010EURO TRUCK SIM\u3011trucks love me, men fear me\u3010Yume+ | Rhea\
-    \ Nevermore\u3011"
+  title: "\u3010IDENTITY V\u3011apparently trucks hate me\u3010Yume+ | Rhea Nevermore\u3011"
 uUwk6jyIJlM:
   channelId: UCM_Mb-ZC3jMg3p32jN6v4cA
   scheduledStartTime: '2029-01-01T00:00:00Z'

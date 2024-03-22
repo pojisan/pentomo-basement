@@ -9,15 +9,6 @@
     "channelName": "Lottie Shinju Ch.\u3010PixelLink\u3011"
   },
   {
-    "channelId": "UCv1ThyE4KVYnnVY8GLftnoA",
-    "title": "\u301021K DRUNK KARAOKE\u3011SIP, SIP, SIPPING ALL NIGHT!\u3010V4Mirai | Serina Maiko | ENVtuber\u3011",
-    "thumbnail": "https://i.ytimg.com/vi/rxDeX3izZdU/default_live.jpg",
-    "status": "live",
-    "scheduledStartTime": "2024-03-21T21:00:00Z",
-    "url": "https://youtu.be/rxDeX3izZdU",
-    "channelName": "Serina Maiko Ch.\u3010V4Mirai\u3011"
-  },
-  {
     "channelId": "UCHt4F3--Hq0sNXP6DEdlSmg",
     "title": "Dragon's Dogma 2 DAY ! ! ! Starting the Journey #1\u3010MIKI HITSUGI / SPECIALITE\u3011 SPOILERS (c) CAPCOM",
     "thumbnail": "https://i.ytimg.com/vi/joG3TlxtJqw/default_live.jpg",
@@ -55,7 +46,7 @@
   },
   {
     "channelId": "UCIId2bA3BsBeBB80bdwNs4Q",
-    "title": "\u3010EURO TRUCK SIM\u3011trucks love me, men fear me\u3010Yume+ | Rhea Nevermore\u3011",
+    "title": "\u3010IDENTITY V\u3011apparently trucks hate me\u3010Yume+ | Rhea Nevermore\u3011",
     "thumbnail": "https://i.ytimg.com/vi/uSOJ3_xp4Us/default_live.jpg",
     "status": "live",
     "scheduledStartTime": "2024-03-21T23:00:00Z",
@@ -66,6 +57,7 @@
     "channelId": "UCbrbFKFhyHD4bMJbEcXZz1g",
     "title": "\u3010Kalimba\u3011   spica plays a thumb piano!!  \u3010Kirispica | V-Dere\u3011",
     "thumbnail": "https://i.ytimg.com/vi/jp92c7pdaVw/default_live.jpg",
+    "status": "live",
     "scheduledStartTime": "2024-03-22T00:00:00Z",
     "url": "https://youtu.be/jp92c7pdaVw",
     "channelName": "kirispica \u3010V-Dere\u3011"
@@ -74,6 +66,7 @@
     "channelId": "UCRlQzuVeYxTDPobPN1jaVkQ",
     "title": "\u3016Project Zomboid\u3017Once again, but this time we win :3\u3016Cyon \u2765 V&U\u3017",
     "thumbnail": "https://i.ytimg.com/vi/RZB0wf38RGc/default_live.jpg",
+    "status": "live",
     "scheduledStartTime": "2024-03-22T00:00:00Z",
     "url": "https://youtu.be/RZB0wf38RGc",
     "channelName": "Cyon Hart Ch. V&U"
@@ -82,6 +75,7 @@
     "channelId": "UCXIKBLg4fAVte7jDafWRRgQ",
     "title": "Project Zomboid ft. @CyonVNU @YurikagoKokone @MeetaVNU",
     "thumbnail": "https://i.ytimg.com/vi/mQmDhlLG17c/default_live.jpg",
+    "status": "live",
     "scheduledStartTime": "2024-03-22T00:00:00Z",
     "url": "https://youtu.be/mQmDhlLG17c",
     "channelName": "Echo Lyne Ch. V&U"
@@ -90,6 +84,7 @@
     "channelId": "UCm6JMVKxg8PvJjl3F7J0tdQ",
     "title": "what makes the market super? \u3010Supermarket Simulator\u3011",
     "thumbnail": "https://i.ytimg.com/vi/gGniwcGpfCk/default_live.jpg",
+    "status": "live",
     "scheduledStartTime": "2024-03-22T00:00:00Z",
     "url": "https://youtu.be/gGniwcGpfCk",
     "channelName": "Rowa Arctos Ch. V&U"
@@ -243,7 +238,6 @@
     "title": "\u3010Project Zomboid\u3011I Have To... Why Was I Here Again?\u3010VICTORIA VALERIE | SPECIALITE\u3011",
     "thumbnail": "https://i.ytimg.com/vi/OQSgYlycaPc/default_live.jpg",
     "scheduledStartTime": "2024-03-23T00:00:00Z",
-    "status": "next three days",
     "url": "https://youtu.be/OQSgYlycaPc",
     "channelName": "Victoria Valerie\ud83d\udd76\ufe0f | Specialite EN"
   },
@@ -252,7 +246,6 @@
     "title": "i come bear-ing songs \ud83c\udfb6\ud83c\udf99\ufe0f \u3010Archived Karaoke\u3011",
     "thumbnail": "https://i.ytimg.com/vi/dO5_OBWZtKk/default_live.jpg",
     "scheduledStartTime": "2024-03-23T00:00:00Z",
-    "status": "next three days",
     "url": "https://youtu.be/dO5_OBWZtKk",
     "channelName": "Rowa Arctos Ch. V&U"
   },
@@ -531,7 +524,7 @@
     "title": "Rowacoin Market Review - Q1 2024",
     "thumbnail": "https://i.ytimg.com/vi/_pHJFCiyexY/default_live.jpg",
     "scheduledStartTime": "2024-03-25T00:00:00Z",
-    "status": "this week",
+    "status": "next three days",
     "url": "https://youtu.be/_pHJFCiyexY",
     "channelName": "Rowa Arctos Ch. V&U"
   },
@@ -540,7 +533,7 @@
     "title": "\u3010Roleplay\u3011I AM YOUR DOCTOR AND YOU ARE MY PATIENT",
     "thumbnail": "https://i.ytimg.com/vi/9XnKTeEIb-g/default_live.jpg",
     "scheduledStartTime": "2024-03-25T00:00:00Z",
-    "status": "this week",
+    "status": "next three days",
     "url": "https://youtu.be/9XnKTeEIb-g",
     "channelName": "Mivi Aivori Ch. V&U"
   },
