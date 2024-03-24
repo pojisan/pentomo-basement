@@ -44,17 +44,6 @@
     "actualStartTime": "2024-03-24T19:59:03Z"
   },
   {
-    "id": "oX7jnYt_ia4",
-    "vidUrl": "https://youtu.be/oX7jnYt_ia4",
-    "vidTitle": "\u3010VALORANT\u3011SURPRISE!\u3010bondliveEN | Ivaela Daemoni\u3011",
-    "channelId": "UCxbNEW7xykTC7hE5FYgwrOw",
-    "channelName": "Ivaela Daemoni || \u30a4\u30f4\u30a7\u30e9\u30fb\u30c7\u30e2\u30cb \u3016bondliveEN\u3017",
-    "channelThumb": "https://yt3.ggpht.com/6AdKvH7UfEzyeI4_00Z3JmyuSOc7ruRoF4ghhn06eMNN4PxHBvxli2S4NyypvDdWkEDQAHMnqmc=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Ivaela",
-    "scheduledStartTime": "2024-03-24T20:05:00Z",
-    "actualStartTime": "2024-03-24T20:06:51Z"
-  },
-  {
     "id": "6OfOKpRgee4",
     "vidUrl": "https://youtu.be/6OfOKpRgee4",
     "vidTitle": "\u3010DRAWING\u3011 Oh Boy It's Doodlin Time",
@@ -162,7 +151,7 @@
     "channelThumb": "https://yt3.ggpht.com/vCtnJzYIQZi4DtDvSMyEpWdolmNJoIzlO4YD0036Tm2-sRRYRjPNL0xikMCq2Q8p4hqcAKaY9V4=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Yoki",
     "scheduledStartTime": "2024-03-24T22:30:00Z",
-    "actualStartTime": ""
+    "actualStartTime": "2024-03-24T22:33:14Z"
   },
   {
     "id": "NT03vQZ5ox8",
@@ -294,6 +283,17 @@
     "channelThumb": "https://yt3.ggpht.com/SSZxkgjfV0O05zq1bBLOI0PszOCoxuPrANQ0Ysngsd0t81mnkwzEgIW2ypSIQJLn8swR14zLJQ=s88-c-k-c0x00ffffff-no-nd-rj",
     "shortName": "Bae",
     "scheduledStartTime": "2024-03-25T01:00:00Z",
+    "actualStartTime": ""
+  },
+  {
+    "id": "4NFnYmf4ar0",
+    "vidUrl": "https://youtu.be/4NFnYmf4ar0",
+    "vidTitle": "\u3010CHAT\u3011Back from Japan ~ \u2606",
+    "channelId": "UCyl1z3jo3XHR1riLFKG5UAg",
+    "channelName": "Watson Amelia Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/RZ4Fp3L6_zyq6YA7s5WnH8-22iezMLwdJhtkBgs_EAb06mvMCnF59JKMNu9YPCqb7nhaeXMdPvY=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Ame",
+    "scheduledStartTime": "2024-03-25T01:05:00Z",
     "actualStartTime": ""
   },
   {
@@ -470,17 +470,6 @@
     "channelThumb": "https://yt3.ggpht.com/FlbqAWrn9OdE4QcjGweQkH_2WUf2kCAQPbiC4dVvt6ItUWE4pLnUrs9MJ3-KtyeULY0hGe-VPio=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Obake PAM",
     "scheduledStartTime": "2024-03-25T19:30:00Z",
-    "actualStartTime": ""
-  },
-  {
-    "id": "TML5HEgL7hs",
-    "vidUrl": "https://youtu.be/TML5HEgL7hs",
-    "vidTitle": "[WEEKLY SCHEDULE 03/18 - 03/24 + FREE CHAT]  ayyyoooo whats up",
-    "channelId": "UCH24asiIqsVUQlz8FvXJbcw",
-    "channelName": "Cerenity Cosmica Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/zoHHhJzMfyidljtnsLucfyBOboqXWp_4j8ViZMBc4U7hzhfwYzS7MOGUwiOWkVxgd2Y7pDR9pA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Cerenity",
-    "scheduledStartTime": "2024-03-25T19:45:00Z",
     "actualStartTime": ""
   },
   {
@@ -1108,5 +1097,17 @@
     "shortName": "Cerenity",
     "scheduledStartTime": "2024-03-24T19:00:00Z",
     "actualStartTime": "2024-03-24T18:54:56Z"
+  },
+  {
+    "id": "oX7jnYt_ia4",
+    "vidUrl": "https://youtu.be/oX7jnYt_ia4",
+    "vidTitle": "\u3010VALORANT\u3011SURPRISE!\u3010bondliveEN | Ivaela Daemoni\u3011",
+    "channelId": "UCxbNEW7xykTC7hE5FYgwrOw",
+    "channelName": "Ivaela Daemoni || \u30a4\u30f4\u30a7\u30e9\u30fb\u30c7\u30e2\u30cb \u3016bondliveEN\u3017",
+    "channelThumb": "https://yt3.ggpht.com/6AdKvH7UfEzyeI4_00Z3JmyuSOc7ruRoF4ghhn06eMNN4PxHBvxli2S4NyypvDdWkEDQAHMnqmc=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Ivaela",
+    "scheduledStartTime": "2024-03-24T20:05:00Z",
+    "actualStartTime": "2024-03-24T20:06:51Z"
   }
 ]
