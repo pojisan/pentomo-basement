@@ -1,16 +1,5 @@
 [
   {
-    "id": "hESOKj6CdXo",
-    "vidUrl": "https://youtu.be/hESOKj6CdXo",
-    "vidTitle": "DRAGON'S DOGMA 2!",
-    "channelId": "UCFgXWZOUZA2oYHNr6qDmsTQ",
-    "channelName": "Scarle Yonaguni \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/oYEH8ckOxzEJ0GXlZGp4aSxvZrMWAeodRUg_MRgHqJEr7bEyjXdoC5VyYZ143XtcIKUozhQq6Q=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Scarle",
-    "scheduledStartTime": "2024-03-24T08:05:00Z",
-    "actualStartTime": "2024-03-24T08:10:48Z"
-  },
-  {
     "id": "0g-ixb4xTTU",
     "vidUrl": "https://youtu.be/0g-ixb4xTTU",
     "vidTitle": "\u3010VOICES OF THE VOID\u3011WE ARE NOT ALONE.\u3010NIJISANJI EN | Yu Q. Wilson\u3011",
@@ -110,6 +99,17 @@
     "actualStartTime": ""
   },
   {
+    "id": "cvRd5JTdt1w",
+    "vidUrl": "https://youtu.be/cvRd5JTdt1w",
+    "vidTitle": "\u3010\u65e5\u672c\u8a9e\u96d1\u8ac7\u3011\u4eca\u6708\u3082\u304a\u8a71\u3057\u3057\u307e\u3057\u3087\u3046\uff5e\u3000JAPANESE SPEAKING STREAM\u3010NIJISANJI EN | Maria Marionette\u3011",
+    "channelId": "UCwaS8_S7kMiKA3izlTWHbQg",
+    "channelName": "Maria Marionette \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/EZJ0E6UnrsXZKRPGwZQUJHQ4e3y9PkCHInZFzP06lAE6cYN6MXSZL7O5L5jmTRuDPSzbxNty=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Maria",
+    "scheduledStartTime": "2024-03-25T08:00:00Z",
+    "actualStartTime": ""
+  },
+  {
     "id": "nY4GGIMqSEM",
     "vidUrl": "https://youtu.be/nY4GGIMqSEM",
     "vidTitle": "HOT SINGLE MAIDENS IN YOUR AREA \u3010AIA'S TABLETOP ADVENTURES\u3011\u3010NIJISANJI EN | Aia Amare \u3011",
@@ -130,5 +130,16 @@
     "shortName": "Fulgur",
     "scheduledStartTime": "2025-02-26T14:00:00Z",
     "actualStartTime": ""
+  },
+  {
+    "id": "hESOKj6CdXo",
+    "vidUrl": "https://youtu.be/hESOKj6CdXo",
+    "vidTitle": "DRAGON'S DOGMA 2!",
+    "channelId": "UCFgXWZOUZA2oYHNr6qDmsTQ",
+    "channelName": "Scarle Yonaguni \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/oYEH8ckOxzEJ0GXlZGp4aSxvZrMWAeodRUg_MRgHqJEr7bEyjXdoC5VyYZ143XtcIKUozhQq6Q=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Scarle",
+    "scheduledStartTime": "2024-03-24T08:05:00Z",
+    "actualStartTime": "2024-03-24T08:10:48Z"
   }
 ]
