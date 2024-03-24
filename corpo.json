@@ -11,17 +11,6 @@
     "actualStartTime": "2024-03-24T15:41:21Z"
   },
   {
-    "id": "0coJE_jPa1g",
-    "vidUrl": "https://youtu.be/0coJE_jPa1g",
-    "vidTitle": "[PEAKS OF YORE] I wanna climb!! [V&U | GEN 5]",
-    "channelId": "UCH24asiIqsVUQlz8FvXJbcw",
-    "channelName": "Cerenity Cosmica Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/zoHHhJzMfyidljtnsLucfyBOboqXWp_4j8ViZMBc4U7hzhfwYzS7MOGUwiOWkVxgd2Y7pDR9pA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Cerenity",
-    "scheduledStartTime": "2024-03-24T19:00:00Z",
-    "actualStartTime": "2024-03-24T18:54:56Z"
-  },
-  {
     "id": "EbNmvgAO_g0",
     "vidUrl": "https://youtu.be/EbNmvgAO_g0",
     "vidTitle": "\u3010\ud83c\udf89CLIPPING COMPETITION\ud83c\udf89\u3011Premiere & Winners announcement\u3010Pippa Pebblesworth | globie\u3011",
@@ -84,6 +73,17 @@
     "channelName": "Inami Yoki Ch.",
     "channelThumb": "https://yt3.ggpht.com/vCtnJzYIQZi4DtDvSMyEpWdolmNJoIzlO4YD0036Tm2-sRRYRjPNL0xikMCq2Q8p4hqcAKaY9V4=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Yoki",
+    "scheduledStartTime": "2024-03-24T22:00:00Z",
+    "actualStartTime": ""
+  },
+  {
+    "id": "T9pZrMnsiDQ",
+    "vidUrl": "https://youtu.be/T9pZrMnsiDQ",
+    "vidTitle": "IS DARK SOULS DLC HARD?",
+    "channelId": "UC9NNMwafy9quvNWafFukNDw",
+    "channelName": "Kagekiri Maeve Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/chqWD1VyGO8YdOq75KWxKvH0RcBMayDUlmtDeO9Btb__V9Zr-ow3CSoiOfhE3SrynzSC9J8=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Maeve",
     "scheduledStartTime": "2024-03-24T22:00:00Z",
     "actualStartTime": ""
   },
@@ -748,17 +748,6 @@
     "actualStartTime": ""
   },
   {
-    "id": "eLZhWD6zvc4",
-    "vidUrl": "https://youtu.be/eLZhWD6zvc4",
-    "vidTitle": "MEMBERSHIPS ARE FINALLY OPEN!!",
-    "channelId": "UClcMT9V9iu7xphkHVHglHTg",
-    "channelName": "Nyanami Ruru & Rumi Ch.",
-    "channelThumb": "https://yt3.ggpht.com/e-csUdgwEj5h-rQ2vwXX-EVOeXk3BZRlaqnHS7-Mnd1ZC9icqo02aHhGvl_f50l_UX1bPsJgwFs=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Nyanheras",
-    "scheduledStartTime": "2024-03-24T16:00:00Z",
-    "actualStartTime": "2024-03-24T16:05:33Z"
-  },
-  {
     "id": "UtU4ZNgZ9hk",
     "vidUrl": "https://youtu.be/UtU4ZNgZ9hk",
     "vidTitle": "\u3010ORIGINAL SONG\u3011Analyze my own song? Is that allowed here? #zhunisession",
@@ -768,5 +757,16 @@
     "shortName": "Zhuni",
     "scheduledStartTime": "2024-03-24T18:35:00Z",
     "actualStartTime": "2024-03-24T18:37:07Z"
+  },
+  {
+    "id": "0coJE_jPa1g",
+    "vidUrl": "https://youtu.be/0coJE_jPa1g",
+    "vidTitle": "[PEAKS OF YORE] I wanna climb!! [V&U | GEN 5]",
+    "channelId": "UCH24asiIqsVUQlz8FvXJbcw",
+    "channelName": "Cerenity Cosmica Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/zoHHhJzMfyidljtnsLucfyBOboqXWp_4j8ViZMBc4U7hzhfwYzS7MOGUwiOWkVxgd2Y7pDR9pA=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Cerenity",
+    "scheduledStartTime": "2024-03-24T19:00:00Z",
+    "actualStartTime": "2024-03-24T18:54:56Z"
   }
 ]
