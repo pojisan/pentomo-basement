@@ -33,17 +33,6 @@
     "actualStartTime": "2024-03-24T15:41:21Z"
   },
   {
-    "id": "eLZhWD6zvc4",
-    "vidUrl": "https://youtu.be/eLZhWD6zvc4",
-    "vidTitle": "MEMBERSHIPS ARE FINALLY OPEN!!",
-    "channelId": "UClcMT9V9iu7xphkHVHglHTg",
-    "channelName": "Nyanami Ruru & Rumi Ch.",
-    "channelThumb": "https://yt3.ggpht.com/e-csUdgwEj5h-rQ2vwXX-EVOeXk3BZRlaqnHS7-Mnd1ZC9icqo02aHhGvl_f50l_UX1bPsJgwFs=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Nyanheras",
-    "scheduledStartTime": "2024-03-24T16:00:00Z",
-    "actualStartTime": "2024-03-24T16:05:33Z"
-  },
-  {
     "id": "3QUia9n_g7I",
     "vidUrl": "https://youtu.be/3QUia9n_g7I",
     "vidTitle": "Anime Girl bakes Brazilian PUDIM! | The World's Best Custard Treat!\u3010V4Mirai | Abi Kadabura\u3011",
@@ -429,6 +418,17 @@
     "actualStartTime": ""
   },
   {
+    "id": "tWrlg9I1uUw",
+    "vidUrl": "https://youtu.be/tWrlg9I1uUw",
+    "vidTitle": "Gachaing For Gilgamesh\u3010FATE/GRAND ORDER\u3011",
+    "channelId": "UCA4bOB1Jnw5-lbuoSCfxc-w",
+    "channelName": "Nova Aokami Ch. [VReverie]",
+    "channelThumb": "https://yt3.ggpht.com/meX1uEFMv6_rki86cHBRXvTGGW7VxvnhWUREh2SUpbA8O77kQKR7xnKGU2Vwmbb69aPmsfji=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Nova",
+    "scheduledStartTime": "2024-03-28T00:00:00Z",
+    "actualStartTime": ""
+  },
+  {
     "id": "dUngXP-3XRw",
     "vidUrl": "https://youtu.be/dUngXP-3XRw",
     "vidTitle": "\u9762\u767d\u3044\u672c\u3092\u898b\u3064\u3051\u305f\u305e\u2026\u2026\ud83d\ude18\ud83d\udc9b\u3010\u30b9\u30ab\u30a4\u30ea\u30e0\u3011\u3010\u6b4c\u7f8e\u9cf4\u30af\u30e9\u30e9 / Phase Connect\u3011",
@@ -735,5 +735,16 @@
     "shortName": "Mion",
     "scheduledStartTime": "2024-03-03T04:55:00Z",
     "actualStartTime": ""
+  },
+  {
+    "id": "eLZhWD6zvc4",
+    "vidUrl": "https://youtu.be/eLZhWD6zvc4",
+    "vidTitle": "MEMBERSHIPS ARE FINALLY OPEN!!",
+    "channelId": "UClcMT9V9iu7xphkHVHglHTg",
+    "channelName": "Nyanami Ruru & Rumi Ch.",
+    "channelThumb": "https://yt3.ggpht.com/e-csUdgwEj5h-rQ2vwXX-EVOeXk3BZRlaqnHS7-Mnd1ZC9icqo02aHhGvl_f50l_UX1bPsJgwFs=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Nyanheras",
+    "scheduledStartTime": "2024-03-24T16:00:00Z",
+    "actualStartTime": "2024-03-24T16:05:33Z"
   }
 ]
