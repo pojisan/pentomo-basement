@@ -88,17 +88,6 @@
     "actualStartTime": "2024-03-25T00:01:12Z"
   },
   {
-    "id": "OQSgYlycaPc",
-    "vidUrl": "https://youtu.be/OQSgYlycaPc",
-    "vidTitle": "\u3010Project Zomboid\u3011I Have To... Why Was I Here Again?\u3010VICTORIA VALERIE | SPECIALITE\u3011",
-    "channelId": "UCo9wBz0FkJwiLeagB8tWXCg",
-    "channelName": "Victoria Valerie\ud83d\udd76\ufe0f | Specialite EN",
-    "channelThumb": "https://yt3.ggpht.com/PpTKshRBevggGdsuLf3bn8AJ5gX_7To1142LIR4VMZxOcnYWZ8dUNMlUf_KDHJnZbc4jV430kUA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Vicky",
-    "scheduledStartTime": "2024-03-25T00:00:00Z",
-    "actualStartTime": ""
-  },
-  {
     "id": "_pHJFCiyexY",
     "vidUrl": "https://youtu.be/_pHJFCiyexY",
     "vidTitle": "Rowacoin Market Review - Q1 2024",
@@ -106,6 +95,17 @@
     "channelName": "Rowa Arctos Ch. V&U",
     "channelThumb": "https://yt3.ggpht.com/WmNbhoHWj8pD0aH58BLyjB0H02ILdnbOijCG9o-ul3FCfui6lTVQArugcLsifoJg82Tvd56Nvg=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Rowa",
+    "scheduledStartTime": "2024-03-25T00:00:00Z",
+    "actualStartTime": "2024-03-25T00:06:49Z"
+  },
+  {
+    "id": "OQSgYlycaPc",
+    "vidUrl": "https://youtu.be/OQSgYlycaPc",
+    "vidTitle": "\u3010Project Zomboid\u3011I Have To... Why Was I Here Again?\u3010VICTORIA VALERIE | SPECIALITE\u3011",
+    "channelId": "UCo9wBz0FkJwiLeagB8tWXCg",
+    "channelName": "Victoria Valerie\ud83d\udd76\ufe0f | Specialite EN",
+    "channelThumb": "https://yt3.ggpht.com/PpTKshRBevggGdsuLf3bn8AJ5gX_7To1142LIR4VMZxOcnYWZ8dUNMlUf_KDHJnZbc4jV430kUA=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Vicky",
     "scheduledStartTime": "2024-03-25T00:00:00Z",
     "actualStartTime": ""
   },
@@ -811,18 +811,6 @@
     "shortName": "Cerenity",
     "scheduledStartTime": "2024-03-24T19:00:00Z",
     "actualStartTime": "2024-03-24T18:54:56Z"
-  },
-  {
-    "id": "EbNmvgAO_g0",
-    "vidUrl": "https://youtu.be/EbNmvgAO_g0",
-    "vidTitle": "\u3010\ud83c\udf89CLIPPING COMPETITION\ud83c\udf89\u3011Premiere & Winners announcement\u3010Pippa Pebblesworth | globie\u3011",
-    "channelId": "UC3FWSdh_KtELaee8t400JbA",
-    "channelName": "Pippa Pebblesworth ch. \u3010globie\u3011",
-    "channelThumb": "https://yt3.ggpht.com/FV-T274wCeRSrHKm54acTNEJLJTDlE5BdPrKoJQY0kxaTdO4uerFlxG8HJmAvS2HbSQIMzfa7A=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Pippa",
-    "scheduledStartTime": "2024-03-24T19:00:00Z",
-    "actualStartTime": "2024-03-24T19:05:30Z"
   },
   {
     "id": "aSZZhKoVkqs",
