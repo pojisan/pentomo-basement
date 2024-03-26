@@ -22,17 +22,6 @@
     "actualStartTime": "2024-03-26T06:10:18Z"
   },
   {
-    "id": "sCysH7EOll8",
-    "vidUrl": "https://youtu.be/sCysH7EOll8",
-    "vidTitle": "\u3010\u304a\u7d75\u63cf\u304d\u3011 \u306a\u3093\u304b\u63cf\u304f\u3088\uff5e\u3093\u3075\u3075 \u3010\u306b\u3058\u3055\u3093\u3058 | \u30bb\u30d5\u30a3\u30ca\u3011",
-    "channelId": "UCeGendL8CO5RkffB6IFwHow",
-    "channelName": "\u30bb\u30d5\u30a3\u30ca / Seffyna\u3010\u306b\u3058\u3055\u3093\u3058\u3011",
-    "channelThumb": "https://yt3.ggpht.com/0QDtmroClBOCB8eZSOVWlGObtXc7wf8tk-USsyvw5nY-i_IE8xsxebzGBzD5OfHGlNBICUmgDg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Seffyna",
-    "scheduledStartTime": "2024-03-26T07:00:00Z",
-    "actualStartTime": ""
-  },
-  {
     "id": "CrE22QHvxQ8",
     "vidUrl": "https://youtu.be/CrE22QHvxQ8",
     "vidTitle": "\u3010ANIMAL CROSSING\u3011Vanta Decorator Bringer back at it again\u3010NIJISANJI EN | Vantacrow Bringer\u3011",
@@ -77,17 +66,6 @@
     "actualStartTime": ""
   },
   {
-    "id": "TDcbjcb7Fc8",
-    "vidUrl": "https://youtu.be/TDcbjcb7Fc8",
-    "vidTitle": "CONFESSIONS OF A FORMER FANFIC WRITER \u3010NIJISANJI EN | Aia Amare \u3011",
-    "channelId": "UCN68LoM3khS4gdBMiWJO8WA",
-    "channelName": "Aia Amare \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/ZtRcLNqOjG8w9CMolweuy-jnNGin0W0KjxVxUpzni3uvqKY6rJgnAphvHOEmxcqSV7yXwqkKcg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Aia",
-    "scheduledStartTime": "2024-03-26T23:00:00Z",
-    "actualStartTime": ""
-  },
-  {
     "id": "3pMyUjfMJ5E",
     "vidUrl": "https://youtu.be/3pMyUjfMJ5E",
     "vidTitle": "\uc190\uc744 \uc7a1\uc544\uc918 (Hold my Hand) / Finana Ryugu (Cover)",
@@ -95,6 +73,17 @@
     "channelName": "Finana Ryugu \u3010NIJISANJI EN\u3011",
     "channelThumb": "https://yt3.ggpht.com/fL9tFSUSDCS-BkrZLrtAig3_55Tg0UaZxh2xChyUyoCElYh5tV05LOQWh68krLarWJ2unbLF=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Finana",
+    "scheduledStartTime": "2024-03-26T23:00:00Z",
+    "actualStartTime": ""
+  },
+  {
+    "id": "TDcbjcb7Fc8",
+    "vidUrl": "https://youtu.be/TDcbjcb7Fc8",
+    "vidTitle": "CONFESSIONS OF A FORMER FANFIC WRITER \u3010NIJISANJI EN | Aia Amare \u3011",
+    "channelId": "UCN68LoM3khS4gdBMiWJO8WA",
+    "channelName": "Aia Amare \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/ZtRcLNqOjG8w9CMolweuy-jnNGin0W0KjxVxUpzni3uvqKY6rJgnAphvHOEmxcqSV7yXwqkKcg=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Aia",
     "scheduledStartTime": "2024-03-26T23:00:00Z",
     "actualStartTime": ""
   },
@@ -151,6 +140,18 @@
     "channelThumb": "https://yt3.ggpht.com/cpOrgCDSmgMO9mNbftd8UKAtsZwIGRCV5t5EmjoQ2FcP-W3N7s6S4UUc_Daz24qjDnBxrTEBrtQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Kunai",
     "scheduledStartTime": "2024-03-31T16:00:00Z",
+    "actualStartTime": ""
+  },
+  {
+    "id": "sCysH7EOll8",
+    "vidUrl": "https://youtu.be/sCysH7EOll8",
+    "vidTitle": "\u3010\u304a\u7d75\u63cf\u304d\u3011 \u306a\u3093\u304b\u63cf\u304f\u3088\uff5e\u3093\u3075\u3075 \u3010\u306b\u3058\u3055\u3093\u3058 | \u30bb\u30d5\u30a3\u30ca\u3011",
+    "channelId": "UCeGendL8CO5RkffB6IFwHow",
+    "channelName": "\u30bb\u30d5\u30a3\u30ca / Seffyna\u3010\u306b\u3058\u3055\u3093\u3058\u3011",
+    "channelThumb": "https://yt3.ggpht.com/0QDtmroClBOCB8eZSOVWlGObtXc7wf8tk-USsyvw5nY-i_IE8xsxebzGBzD5OfHGlNBICUmgDg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Seffyna",
+    "scheduledStartTime": "2024-03-26T07:00:00Z",
     "actualStartTime": ""
   }
 ]
