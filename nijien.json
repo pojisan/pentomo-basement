@@ -22,17 +22,6 @@
     "actualStartTime": ""
   },
   {
-    "id": "3pMyUjfMJ5E",
-    "vidUrl": "https://youtu.be/3pMyUjfMJ5E",
-    "vidTitle": "\uc190\uc744 \uc7a1\uc544\uc918 (Hold my Hand) / Finana Ryugu (Cover)",
-    "channelId": "UCu-J8uIXuLZh16gG-cT1naw",
-    "channelName": "Finana Ryugu \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/fL9tFSUSDCS-BkrZLrtAig3_55Tg0UaZxh2xChyUyoCElYh5tV05LOQWh68krLarWJ2unbLF=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Finana",
-    "scheduledStartTime": "2024-03-26T23:00:00Z",
-    "actualStartTime": ""
-  },
-  {
     "id": "TDcbjcb7Fc8",
     "vidUrl": "https://youtu.be/TDcbjcb7Fc8",
     "vidTitle": "CONFESSIONS OF A FORMER FANFIC WRITER \u3010NIJISANJI EN | Aia Amare \u3011",
@@ -40,6 +29,17 @@
     "channelName": "Aia Amare \u3010NIJISANJI EN\u3011",
     "channelThumb": "https://yt3.ggpht.com/ZtRcLNqOjG8w9CMolweuy-jnNGin0W0KjxVxUpzni3uvqKY6rJgnAphvHOEmxcqSV7yXwqkKcg=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Aia",
+    "scheduledStartTime": "2024-03-26T23:00:00Z",
+    "actualStartTime": ""
+  },
+  {
+    "id": "3pMyUjfMJ5E",
+    "vidUrl": "https://youtu.be/3pMyUjfMJ5E",
+    "vidTitle": "\uc190\uc744 \uc7a1\uc544\uc918 (Hold my Hand) / Finana Ryugu (Cover)",
+    "channelId": "UCu-J8uIXuLZh16gG-cT1naw",
+    "channelName": "Finana Ryugu \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/fL9tFSUSDCS-BkrZLrtAig3_55Tg0UaZxh2xChyUyoCElYh5tV05LOQWh68krLarWJ2unbLF=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Finana",
     "scheduledStartTime": "2024-03-26T23:00:00Z",
     "actualStartTime": ""
   },
@@ -153,17 +153,5 @@
     "shortName": "Zali",
     "scheduledStartTime": "2024-03-26T13:00:00Z",
     "actualStartTime": "2024-03-26T13:01:01Z"
-  },
-  {
-    "id": "MfiNMCJWJ2c",
-    "vidUrl": "https://youtu.be/MfiNMCJWJ2c",
-    "vidTitle": "\u3010Shinkansen 0 | \u65b0\u5e79\u7dda 0\u53f7\u3011FIND ANOMALIES  \u65b0\u5e79\u7dda\u30a2\u30a4\u30b9\u3067\u6b6f\u6b20\u3051\u307e\u3057\u305f\u3010NIJISANJI EN | Meloco Kyoran\u3011",
-    "channelId": "UChKXd7oqD18qiIYBoRIHTlw",
-    "channelName": "Meloco Kyoran\u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/R4_Tzx3rBLlHOAL8G5DvpzPs4Cwutg_22ISvrp0s5_3I3POjHeZVQgui9z3F3cC9EEV1B-dmc6U=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Meloco",
-    "scheduledStartTime": "2024-03-26T13:00:00Z",
-    "actualStartTime": "2024-03-26T13:08:53Z"
   }
 ]
