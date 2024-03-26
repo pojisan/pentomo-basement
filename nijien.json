@@ -11,17 +11,6 @@
     "actualStartTime": "2024-03-26T01:55:40Z"
   },
   {
-    "id": "Xajjijgb5ow",
-    "vidUrl": "https://youtu.be/Xajjijgb5ow",
-    "vidTitle": "\u3010Persona 3 Reload\u3011pls help me socialize smile\u26a0\ufe0fSPOILERS\u26a0\ufe0f \u3010NIJISANJI EN | Victoria Brightshield\u3011",
-    "channelId": "UChTA8kHyInr2rKZ2aBv5ULw",
-    "channelName": "Victoria Brightshield \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/UObY_OAxjbHsXjWzNlFNhUlKuEOZxvvapSVL5lzzeED1tCp7gFW2acrqfjsQx0jodDnzWsCjJg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Vivi",
-    "scheduledStartTime": "2024-03-26T03:00:00Z",
-    "actualStartTime": "2024-03-26T03:17:54Z"
-  },
-  {
     "id": "U3yvnYDOxfQ",
     "vidUrl": "https://youtu.be/U3yvnYDOxfQ",
     "vidTitle": "\u3010DRAGON QUEST BUILDERS 2\u3011ACNH, MINECRAFT, AND DRAGON QUEST IN ONE?\u3010NIJISANJI EN | Vantacrow Bringer\u3011",
@@ -164,5 +153,17 @@
     "shortName": "Scarle",
     "scheduledStartTime": "2024-03-26T02:15:00Z",
     "actualStartTime": "2024-03-26T02:16:17Z"
+  },
+  {
+    "id": "Xajjijgb5ow",
+    "vidUrl": "https://youtu.be/Xajjijgb5ow",
+    "vidTitle": "\u3010Persona 3 Reload\u3011pls help me socialize smile\u26a0\ufe0fSPOILERS\u26a0\ufe0f \u3010NIJISANJI EN | Victoria Brightshield\u3011",
+    "channelId": "UChTA8kHyInr2rKZ2aBv5ULw",
+    "channelName": "Victoria Brightshield \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/UObY_OAxjbHsXjWzNlFNhUlKuEOZxvvapSVL5lzzeED1tCp7gFW2acrqfjsQx0jodDnzWsCjJg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Vivi",
+    "scheduledStartTime": "2024-03-26T03:00:00Z",
+    "actualStartTime": "2024-03-26T03:17:54Z"
   }
 ]
