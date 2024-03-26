@@ -1,25 +1,14 @@
 [
   {
-    "id": "9h_rtAwy7RM",
-    "vidUrl": "https://youtu.be/9h_rtAwy7RM",
-    "vidTitle": "Birthday Totsumachi Karaoke! \u3010NIJISANJI EN | Fulgur Ovid\u3011",
-    "channelId": "UCGhqxhovNfaPBpxfCruy9EA",
-    "channelName": "Fulgur Ovid \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/XNXzzx7l8J6c1GjXnKYd1jKH8ANlEIs9zpeFeAQTaXwZWJWVlFPa3iwuH8SVXm0IBKwP5cBq=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Fulgur",
-    "scheduledStartTime": "2024-03-26T14:00:00Z",
-    "actualStartTime": "2024-03-26T14:00:46Z"
-  },
-  {
-    "id": "szAcANc_yHs",
-    "vidUrl": "https://youtu.be/szAcANc_yHs",
-    "vidTitle": "\u3010EN ZATSU\u3011chu chu chu ^_^\u3010NIJISANJI EN | Kunai Nakasato\u3011",
-    "channelId": "UCwqtK-m6954_aHEvOYtZpyQ",
-    "channelName": "Kunai Nakasato \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/cpOrgCDSmgMO9mNbftd8UKAtsZwIGRCV5t5EmjoQ2FcP-W3N7s6S4UUc_Daz24qjDnBxrTEBrtQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Kunai",
-    "scheduledStartTime": "2024-03-26T17:00:00Z",
-    "actualStartTime": "2024-03-26T16:59:42Z"
+    "id": "3pMyUjfMJ5E",
+    "vidUrl": "https://youtu.be/3pMyUjfMJ5E",
+    "vidTitle": "\uc190\uc744 \uc7a1\uc544\uc918 (Hold my Hand) / Finana Ryugu (Cover)",
+    "channelId": "UCu-J8uIXuLZh16gG-cT1naw",
+    "channelName": "Finana Ryugu \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/fL9tFSUSDCS-BkrZLrtAig3_55Tg0UaZxh2xChyUyoCElYh5tV05LOQWh68krLarWJ2unbLF=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Finana",
+    "scheduledStartTime": "2024-03-26T23:00:00Z",
+    "actualStartTime": ""
   },
   {
     "id": "TDcbjcb7Fc8",
@@ -29,17 +18,6 @@
     "channelName": "Aia Amare \u3010NIJISANJI EN\u3011",
     "channelThumb": "https://yt3.ggpht.com/ZtRcLNqOjG8w9CMolweuy-jnNGin0W0KjxVxUpzni3uvqKY6rJgnAphvHOEmxcqSV7yXwqkKcg=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Aia",
-    "scheduledStartTime": "2024-03-26T23:00:00Z",
-    "actualStartTime": ""
-  },
-  {
-    "id": "3pMyUjfMJ5E",
-    "vidUrl": "https://youtu.be/3pMyUjfMJ5E",
-    "vidTitle": "\uc190\uc744 \uc7a1\uc544\uc918 (Hold my Hand) / Finana Ryugu (Cover)",
-    "channelId": "UCu-J8uIXuLZh16gG-cT1naw",
-    "channelName": "Finana Ryugu \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/fL9tFSUSDCS-BkrZLrtAig3_55Tg0UaZxh2xChyUyoCElYh5tV05LOQWh68krLarWJ2unbLF=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Finana",
     "scheduledStartTime": "2024-03-26T23:00:00Z",
     "actualStartTime": ""
   },
@@ -141,5 +119,17 @@
     "shortName": "Kunai",
     "scheduledStartTime": "2024-03-31T16:00:00Z",
     "actualStartTime": ""
+  },
+  {
+    "id": "szAcANc_yHs",
+    "vidUrl": "https://youtu.be/szAcANc_yHs",
+    "vidTitle": "\u3010EN ZATSU\u3011chu chu chu ^_^\u3010NIJISANJI EN | Kunai Nakasato\u3011",
+    "channelId": "UCwqtK-m6954_aHEvOYtZpyQ",
+    "channelName": "Kunai Nakasato \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/cpOrgCDSmgMO9mNbftd8UKAtsZwIGRCV5t5EmjoQ2FcP-W3N7s6S4UUc_Daz24qjDnBxrTEBrtQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Kunai",
+    "scheduledStartTime": "2024-03-26T17:00:00Z",
+    "actualStartTime": "2024-03-26T16:59:42Z"
   }
 ]
