@@ -33,17 +33,6 @@
     "actualStartTime": "2024-03-27T18:03:36Z"
   },
   {
-    "id": "q6l1jHLH-Vc",
-    "vidUrl": "https://youtu.be/q6l1jHLH-Vc",
-    "vidTitle": "\u3010Music\u3011Making Lovely Tunes In Lovely Composer!",
-    "channelId": "UCykMWf8B8I7c_jA8FTy2tGw",
-    "channelName": "Amiya Ch. \u30a2\u30df\u30e4\u30fb\u30a2\u30e9\u30cb\u30e3",
-    "channelThumb": "https://yt3.ggpht.com/91Fqx3Xut4jaSefCeiDLVGQDSdkWAvt5jA8ejzT18EztYTppy29JNzpa7G-KThC8TzuAmlKBQcs=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Ami",
-    "scheduledStartTime": "2024-03-27T19:00:00Z",
-    "actualStartTime": "2024-03-27T19:00:11Z"
-  },
-  {
     "id": "4J2H-4e6sOE",
     "vidUrl": "https://youtu.be/4J2H-4e6sOE",
     "vidTitle": "Inside You There Are Two Wolves | WolfQuest w/ Dizzy, Muyu, Saya",
@@ -64,17 +53,6 @@
     "shortName": "Angy",
     "scheduledStartTime": "2024-03-27T19:30:00Z",
     "actualStartTime": "2024-03-27T19:30:27Z"
-  },
-  {
-    "id": "E3RG9emiWnE",
-    "vidUrl": "https://youtu.be/E3RG9emiWnE",
-    "vidTitle": "youtube stream/vod for anyone who can't access twitch !",
-    "channelId": "UC8CKGSvp9bRfmtWyfV5L9Jw",
-    "channelName": "Yuuna Nini",
-    "channelThumb": "https://yt3.ggpht.com/zv6VpVF9djuMycAHUUtRulGNEnMIlPWiNt3kFKBJ6DkyOFgu016nN7ZYl3BiO1gNJkKZ4_hZlw=s88-c-k-c0x00ffffff-no-nd-rj",
-    "shortName": "Yuuna",
-    "scheduledStartTime": "2024-03-27T20:00:00Z",
-    "actualStartTime": "2024-03-27T20:00:11Z"
   },
   {
     "id": "6lxmnKlP904",
@@ -2354,6 +2332,30 @@
     "shortName": "Nyanheras",
     "scheduledStartTime": "2024-03-27T16:00:00Z",
     "actualStartTime": "2024-03-27T16:03:33Z"
+  },
+  {
+    "id": "q6l1jHLH-Vc",
+    "vidUrl": "https://youtu.be/q6l1jHLH-Vc",
+    "vidTitle": "\u3010Music\u3011Making Lovely Tunes In Lovely Composer!",
+    "channelId": "UCykMWf8B8I7c_jA8FTy2tGw",
+    "channelName": "Amiya Ch. \u30a2\u30df\u30e4\u30fb\u30a2\u30e9\u30cb\u30e3",
+    "channelThumb": "https://yt3.ggpht.com/91Fqx3Xut4jaSefCeiDLVGQDSdkWAvt5jA8ejzT18EztYTppy29JNzpa7G-KThC8TzuAmlKBQcs=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Ami",
+    "scheduledStartTime": "2024-03-27T19:00:00Z",
+    "actualStartTime": "2024-03-27T19:00:11Z"
+  },
+  {
+    "id": "E3RG9emiWnE",
+    "vidUrl": "https://youtu.be/E3RG9emiWnE",
+    "vidTitle": "youtube stream/vod for anyone who can't access twitch !",
+    "channelId": "UC8CKGSvp9bRfmtWyfV5L9Jw",
+    "channelName": "Yuuna Nini",
+    "channelThumb": "https://yt3.ggpht.com/zv6VpVF9djuMycAHUUtRulGNEnMIlPWiNt3kFKBJ6DkyOFgu016nN7ZYl3BiO1gNJkKZ4_hZlw=s88-c-k-c0x00ffffff-no-nd-rj",
+    "graveyard": true,
+    "shortName": "Yuuna",
+    "scheduledStartTime": "2024-03-27T20:00:00Z",
+    "actualStartTime": "2024-03-27T20:00:11Z"
   },
   {
     "id": "m7hwX9e18MU",
