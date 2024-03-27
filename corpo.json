@@ -11,17 +11,6 @@
     "actualStartTime": "2024-03-27T17:29:41Z"
   },
   {
-    "id": "AeQobUfw65A",
-    "vidUrl": "https://youtu.be/AeQobUfw65A",
-    "vidTitle": "\u3010Duet Night Abyss Technical Test PART 2\u3011TIME TO GO BACK IN EVERYONE!!!\u3010Sarugaku Leon Jr. | Globie\u3011",
-    "channelId": "UC-LAnFLXU9BusFv7n8lFj8g",
-    "channelName": "Sarugaku Leon Jr. ch.\u3010globie\u3011",
-    "channelThumb": "https://yt3.ggpht.com/e13waaN0PPXE8TcWvHVMp8fRRU8JsEeplaZBMPTsNUW_iknS32QkIgFkiKtwweKBCFUZMPnj=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Leon",
-    "scheduledStartTime": "2024-03-27T18:00:00Z",
-    "actualStartTime": "2024-03-27T17:59:03Z"
-  },
-  {
     "id": "wxAiPhzqNTo",
     "vidUrl": "https://youtu.be/wxAiPhzqNTo",
     "vidTitle": "\u3010VALORANT\u30113AM HORRORANT TIME\u3010VOLs\u3011",
@@ -42,17 +31,6 @@
     "shortName": "Kilia",
     "scheduledStartTime": "2024-03-27T20:00:00Z",
     "actualStartTime": "2024-03-27T20:00:33Z"
-  },
-  {
-    "id": "5XICIMVitOE",
-    "vidUrl": "https://youtu.be/5XICIMVitOE",
-    "vidTitle": "\u3010RE VILLAGE\u3011good googly moogly that thing is juicy\u3010Yume+ | Rhea Nevermore\u3011",
-    "channelId": "UCIId2bA3BsBeBB80bdwNs4Q",
-    "channelName": "Rhea Nevermore \u3010Yume+\u3011",
-    "channelThumb": "https://yt3.ggpht.com/POsoK-HHPySyD4C6ell2PZeeqjOfPFYW1SOYN0ZwETReBmkJ7ScxoTkyB3BliqEg3Qh6ulsjwQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Rhea",
-    "scheduledStartTime": "2024-03-27T20:00:00Z",
-    "actualStartTime": "2024-03-27T20:05:58Z"
   },
   {
     "id": "su2WJiTc-9s",
@@ -2292,6 +2270,18 @@
     "actualStartTime": "2024-03-27T16:03:33Z"
   },
   {
+    "id": "AeQobUfw65A",
+    "vidUrl": "https://youtu.be/AeQobUfw65A",
+    "vidTitle": "\u3010Duet Night Abyss Technical Test PART 2\u3011TIME TO GO BACK IN EVERYONE!!!\u3010Sarugaku Leon Jr. | Globie\u3011",
+    "channelId": "UC-LAnFLXU9BusFv7n8lFj8g",
+    "channelName": "Sarugaku Leon Jr. ch.\u3010globie\u3011",
+    "channelThumb": "https://yt3.ggpht.com/e13waaN0PPXE8TcWvHVMp8fRRU8JsEeplaZBMPTsNUW_iknS32QkIgFkiKtwweKBCFUZMPnj=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Leon",
+    "scheduledStartTime": "2024-03-27T18:00:00Z",
+    "actualStartTime": "2024-03-27T17:59:03Z"
+  },
+  {
     "id": "E3RG9emiWnE",
     "vidUrl": "https://youtu.be/E3RG9emiWnE",
     "vidTitle": "youtube stream/vod for anyone who can't access twitch !",
@@ -2326,5 +2316,17 @@
     "shortName": "Ivaela",
     "scheduledStartTime": "2024-03-27T20:00:00Z",
     "actualStartTime": "2024-03-27T20:05:02Z"
+  },
+  {
+    "id": "5XICIMVitOE",
+    "vidUrl": "https://youtu.be/5XICIMVitOE",
+    "vidTitle": "\u3010RE VILLAGE\u3011good googly moogly that thing is juicy\u3010Yume+ | Rhea Nevermore\u3011",
+    "channelId": "UCIId2bA3BsBeBB80bdwNs4Q",
+    "channelName": "Rhea Nevermore \u3010Yume+\u3011",
+    "channelThumb": "https://yt3.ggpht.com/POsoK-HHPySyD4C6ell2PZeeqjOfPFYW1SOYN0ZwETReBmkJ7ScxoTkyB3BliqEg3Qh6ulsjwQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Rhea",
+    "scheduledStartTime": "2024-03-27T20:00:00Z",
+    "actualStartTime": "2024-03-27T20:05:58Z"
   }
 ]
