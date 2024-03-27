@@ -22,17 +22,6 @@
     "actualStartTime": "2024-03-27T17:59:03Z"
   },
   {
-    "id": "iSXbDGb4whQ",
-    "vidUrl": "https://youtu.be/iSXbDGb4whQ",
-    "vidTitle": "\u3010Frog's Adventure\u3011frogiwawa play frog gaem #kfp #\u30ad\u30a2\u30e9\u30a4\u30d6",
-    "channelId": "UCHsx4Hqa-1ORjQTh9TYDhww",
-    "channelName": "Takanashi Kiara Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/w7TKJYU7zmamFmf-WxfahCo_K7Bg2__Pk-CCBNnbewMG-77OZLqJO9MLvDAmH9nEkZH8OkWgSQ=s88-c-k-c0x00ffffff-no-nd-rj",
-    "shortName": "Kiara",
-    "scheduledStartTime": "2024-03-27T18:00:00Z",
-    "actualStartTime": "2024-03-27T18:03:36Z"
-  },
-  {
     "id": "wxAiPhzqNTo",
     "vidUrl": "https://youtu.be/wxAiPhzqNTo",
     "vidTitle": "\u3010VALORANT\u30113AM HORRORANT TIME\u3010VOLs\u3011",
@@ -2332,6 +2321,18 @@
     "shortName": "Nyanheras",
     "scheduledStartTime": "2024-03-27T16:00:00Z",
     "actualStartTime": "2024-03-27T16:03:33Z"
+  },
+  {
+    "id": "iSXbDGb4whQ",
+    "vidUrl": "https://youtu.be/iSXbDGb4whQ",
+    "vidTitle": "\u3010Frog's Adventure\u3011frogiwawa play frog gaem #kfp #\u30ad\u30a2\u30e9\u30a4\u30d6",
+    "channelId": "UCHsx4Hqa-1ORjQTh9TYDhww",
+    "channelName": "Takanashi Kiara Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/w7TKJYU7zmamFmf-WxfahCo_K7Bg2__Pk-CCBNnbewMG-77OZLqJO9MLvDAmH9nEkZH8OkWgSQ=s88-c-k-c0x00ffffff-no-nd-rj",
+    "graveyard": true,
+    "shortName": "Kiara",
+    "scheduledStartTime": "2024-03-27T18:00:00Z",
+    "actualStartTime": "2024-03-27T18:03:36Z"
   },
   {
     "id": "E3RG9emiWnE",
