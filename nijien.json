@@ -11,17 +11,6 @@
     "actualStartTime": "2024-03-26T23:08:07Z"
   },
   {
-    "id": "IFyxQEbdgUM",
-    "vidUrl": "https://youtu.be/IFyxQEbdgUM",
-    "vidTitle": "\u3010\uc190\uc744 \uc7a1\uc544\uc918 (Hold my Hand) AFTER-TALK\u3011 THANK YOU GUYS FOR WATCHING!!!",
-    "channelId": "UCu-J8uIXuLZh16gG-cT1naw",
-    "channelName": "Finana Ryugu \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/fL9tFSUSDCS-BkrZLrtAig3_55Tg0UaZxh2xChyUyoCElYh5tV05LOQWh68krLarWJ2unbLF=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Finana",
-    "scheduledStartTime": "2024-03-26T23:15:00Z",
-    "actualStartTime": "2024-03-26T23:16:49Z"
-  },
-  {
     "id": "IrdfctTmj-Q",
     "vidUrl": "https://youtu.be/IrdfctTmj-Q",
     "vidTitle": "COME AND SPIN THE WHEEL OF FATE WITH ME\u3010 BUCKSHOT ROULETTE \u3011 \u3010NIJISANJI EN | Alban Knox\u3011",
@@ -141,5 +130,17 @@
     "shortName": "Kunai",
     "scheduledStartTime": "2024-03-31T16:00:00Z",
     "actualStartTime": ""
+  },
+  {
+    "id": "IFyxQEbdgUM",
+    "vidUrl": "https://youtu.be/IFyxQEbdgUM",
+    "vidTitle": "\u3010\uc190\uc744 \uc7a1\uc544\uc918 (Hold my Hand) AFTER-TALK\u3011 THANK YOU GUYS FOR WATCHING!!!",
+    "channelId": "UCu-J8uIXuLZh16gG-cT1naw",
+    "channelName": "Finana Ryugu \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/fL9tFSUSDCS-BkrZLrtAig3_55Tg0UaZxh2xChyUyoCElYh5tV05LOQWh68krLarWJ2unbLF=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Finana",
+    "scheduledStartTime": "2024-03-26T23:15:00Z",
+    "actualStartTime": "2024-03-26T23:16:49Z"
   }
 ]
