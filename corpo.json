@@ -1276,17 +1276,6 @@
     "actualStartTime": ""
   },
   {
-    "id": "KZXONBlDPWM",
-    "vidUrl": "https://youtu.be/KZXONBlDPWM",
-    "vidTitle": "Io's Radio Stream\u3010Karaoke\u3011#shortslive #shorts",
-    "channelId": "UCH8mDMzaR5MGFdCF4WdsGDA",
-    "channelName": "Amase Io CH. \u5929\u702c \u30a4\u30aa\u3010Project Memoire\u3011",
-    "channelThumb": "https://yt3.ggpht.com/X1sgPuBT-qyqDLp-Z42L1Xx6FqUOvvgaTeOz8DhHobGpDBiCOsmAcvzXRRUXihT9mv0QrEPPfQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Io",
-    "scheduledStartTime": "2024-03-31T00:00:00Z",
-    "actualStartTime": ""
-  },
-  {
     "id": "P0SWhrYCU8k",
     "vidUrl": "https://youtu.be/P0SWhrYCU8k",
     "vidTitle": "\u3010Members Only\u3011 I showed you my WIP please respond \u3010Yuno Hanaki\u3011",
@@ -1647,6 +1636,17 @@
     "channelThumb": "https://yt3.ggpht.com/_gEDbY7u2OIZKKyvRYtvd4BsEWGEgvJTnQT25v8O5LbN-3XROnJgY7Ku5NNOnnDZpWJiG0cLoA=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Miya",
     "scheduledStartTime": "2024-04-06T14:00:00Z",
+    "actualStartTime": ""
+  },
+  {
+    "id": "KZXONBlDPWM",
+    "vidUrl": "https://youtu.be/KZXONBlDPWM",
+    "vidTitle": "Io's Radio Stream\u3010Karaoke\u3011#shortslive #shorts",
+    "channelId": "UCH8mDMzaR5MGFdCF4WdsGDA",
+    "channelName": "Amase Io CH. \u5929\u702c \u30a4\u30aa\u3010Project Memoire\u3011",
+    "channelThumb": "https://yt3.ggpht.com/X1sgPuBT-qyqDLp-Z42L1Xx6FqUOvvgaTeOz8DhHobGpDBiCOsmAcvzXRRUXihT9mv0QrEPPfQ=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Io",
+    "scheduledStartTime": "2024-04-07T00:00:00Z",
     "actualStartTime": ""
   },
   {
@@ -2098,17 +2098,5 @@
     "shortName": "Liola",
     "scheduledStartTime": "2024-03-28T06:00:00Z",
     "actualStartTime": "2024-03-28T05:59:59Z"
-  },
-  {
-    "id": "Lm4lO8o7ovw",
-    "vidUrl": "https://youtu.be/Lm4lO8o7ovw",
-    "vidTitle": "Revisiting NEOPETS in 2024! Welcome to my childhood... | #vtuber",
-    "channelId": "UC4WsLE_xdrnd05D05Go9oXw",
-    "channelName": "Raian Valerius Ch.\u3010DAYBREAK\u3011",
-    "channelThumb": "https://yt3.ggpht.com/U-YHv4OyKQr7l090SG-9Kg_-T3QiUcrloCLg8c5oYdR8BYW9D7Rwb2mnyY0DcTtkAZmVuDhAjFk=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Raian",
-    "scheduledStartTime": "2024-03-28T13:00:00Z",
-    "actualStartTime": "2024-03-28T13:16:43Z"
   }
 ]
