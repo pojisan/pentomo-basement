@@ -11,17 +11,6 @@
     "actualStartTime": "2024-03-27T17:29:41Z"
   },
   {
-    "id": "OIgHOQkLxcA",
-    "vidUrl": "https://youtu.be/OIgHOQkLxcA",
-    "vidTitle": "\u3010Splatoon 3\u3011 How 2 Woomy",
-    "channelId": "UCMwGHR0BTZuLsmjY_NT5Pwg",
-    "channelName": "Ninomae Ina'nis Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/f4uYWHJxiGwyXm8NUlm818N1MRnywtgL6wM8JdWqWsKBzI7v1eg8dxDWG7igkWuukUSiufydqPg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Ina",
-    "scheduledStartTime": "2024-03-27T21:00:00Z",
-    "actualStartTime": "2024-03-27T21:00:51Z"
-  },
-  {
     "id": "XBR-eYtQ3_8",
     "vidUrl": "https://youtu.be/XBR-eYtQ3_8",
     "vidTitle": "FINALLY OPENING UP ABOUT MY BUSINESS",
@@ -891,17 +880,6 @@
     "actualStartTime": ""
   },
   {
-    "id": "1vDdu6uZXUY",
-    "vidUrl": "https://youtu.be/1vDdu6uZXUY",
-    "vidTitle": "WHAT IS THIS GAME?",
-    "channelId": "UC1uzMZ7x_Hgun5t8J9uFanw",
-    "channelName": "BriAtCookiebox",
-    "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_kFO9kNCi6Y5IBI4e28nzZGgvgmSudo1CTJ29y4=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Bri",
-    "scheduledStartTime": "2024-03-28T23:00:00Z",
-    "actualStartTime": ""
-  },
-  {
     "id": "XdSIqZCVxGI",
     "vidUrl": "https://youtu.be/XdSIqZCVxGI",
     "vidTitle": "\u3010SKYRIM\u3011hey you. you're finally awake\u3010Yume+ | Rhea Nevermore\u3011",
@@ -1174,17 +1152,6 @@
     "channelThumb": "https://yt3.ggpht.com/MOmaBB08GVq5lIY13WTEtrmqB8l2Nwald3Y_XLd28nmqQTOdbgHgQFkiItRLn79KWLevOiurgg=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Reina",
     "scheduledStartTime": "2024-03-29T12:00:00Z",
-    "actualStartTime": ""
-  },
-  {
-    "id": "Bz-eS17_VW4",
-    "vidUrl": "https://youtu.be/Bz-eS17_VW4",
-    "vidTitle": "I BOUGHT STEAM GAMES UNDER $2",
-    "channelId": "UCyF7SeIyWlUznk_sg_XjC8Q",
-    "channelName": "Umi Kyoku \u3010\u3046\u307f\u304d\u3087\u304f\u3011",
-    "channelThumb": "https://yt3.ggpht.com/swraGRJ-7ukDEjf58l8YghX2KRDuxS2AEW417T7BWmc-NehlFSgYeMftFJ9VuDE43C07xHQLKBA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Umi",
-    "scheduledStartTime": "2024-03-29T14:00:00Z",
     "actualStartTime": ""
   },
   {
@@ -2156,17 +2123,6 @@
     "actualStartTime": ""
   },
   {
-    "id": "5CKMz_j6hnc",
-    "vidUrl": "https://youtu.be/5CKMz_j6hnc",
-    "vidTitle": "\u3010SCHEDULE\u3011Mar 11 - Mar 17",
-    "channelId": "UCKB7m_tgX7lsU3Piv_hhH2A",
-    "channelName": "Salmon Lordette Ch. [VReverie]",
-    "channelThumb": "https://yt3.ggpht.com/S3YUDVxRy7VrtoW4qwM4ryWyg0txHBtxjsg1x4yuDr5Q7WAjisREsT91QnQIi-XxrIhTcmofDw=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Salmon",
-    "scheduledStartTime": "2026-01-15T10:15:00Z",
-    "actualStartTime": ""
-  },
-  {
     "id": "RzmveEoZIig",
     "vidUrl": "https://youtu.be/RzmveEoZIig",
     "vidTitle": "\u3010WEEKLY SCHEDULE / Twitter Space chat\u3011",
@@ -2291,6 +2247,18 @@
     "shortName": "Ivaela",
     "scheduledStartTime": "2024-03-27T20:00:00Z",
     "actualStartTime": "2024-03-27T20:05:02Z"
+  },
+  {
+    "id": "OIgHOQkLxcA",
+    "vidUrl": "https://youtu.be/OIgHOQkLxcA",
+    "vidTitle": "\u3010Splatoon 3\u3011 How 2 Woomy",
+    "channelId": "UCMwGHR0BTZuLsmjY_NT5Pwg",
+    "channelName": "Ninomae Ina'nis Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/f4uYWHJxiGwyXm8NUlm818N1MRnywtgL6wM8JdWqWsKBzI7v1eg8dxDWG7igkWuukUSiufydqPg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Ina",
+    "scheduledStartTime": "2024-03-27T21:00:00Z",
+    "actualStartTime": "2024-03-27T21:00:51Z"
   },
   {
     "id": "buHUsBvGRZ8",
