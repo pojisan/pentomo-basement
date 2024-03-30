@@ -44,17 +44,6 @@
     "actualStartTime": "2024-03-30T03:38:51Z"
   },
   {
-    "id": "HsgOeNeoRHk",
-    "vidUrl": "https://youtu.be/HsgOeNeoRHk",
-    "vidTitle": "1 Hour of Sleep Aid Positive Affirmations ASMR -\u3010NIJISANJI EN | Doppio Dropscythe\u3011",
-    "channelId": "UCy91xBlY_Brh3bnHxKtjrrg",
-    "channelName": "Doppio Dropscythe\u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/X1LtitsaIYwwrNyC5vmTCzUJUC1LHRlrkBcVHQIUkGb--Sj8ZrX_FFB7HwbG5oum7oNf80mZ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Doppio",
-    "scheduledStartTime": "2024-03-30T03:04:00Z",
-    "actualStartTime": "2024-03-30T03:06:29Z"
-  },
-  {
     "id": "Ai_UnzDaxZk",
     "vidUrl": "https://youtu.be/Ai_UnzDaxZk",
     "vidTitle": "If you're somehow still awake, let's talk a little bit.\u3010NIJISANJI EN | Doppio Dropscythe\u3011",
@@ -63,7 +52,7 @@
     "channelThumb": "https://yt3.ggpht.com/X1LtitsaIYwwrNyC5vmTCzUJUC1LHRlrkBcVHQIUkGb--Sj8ZrX_FFB7HwbG5oum7oNf80mZ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Doppio",
     "scheduledStartTime": "2024-03-30T04:05:00Z",
-    "actualStartTime": ""
+    "actualStartTime": "2024-03-30T04:11:11Z"
   },
   {
     "id": "RJQvL2vQoks",
@@ -207,5 +196,17 @@
     "shortName": "Kunai",
     "scheduledStartTime": "2024-03-31T16:00:00Z",
     "actualStartTime": ""
+  },
+  {
+    "id": "HsgOeNeoRHk",
+    "vidUrl": "https://youtu.be/HsgOeNeoRHk",
+    "vidTitle": "1 Hour of Sleep Aid Positive Affirmations ASMR -\u3010NIJISANJI EN | Doppio Dropscythe\u3011",
+    "channelId": "UCy91xBlY_Brh3bnHxKtjrrg",
+    "channelName": "Doppio Dropscythe\u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/X1LtitsaIYwwrNyC5vmTCzUJUC1LHRlrkBcVHQIUkGb--Sj8ZrX_FFB7HwbG5oum7oNf80mZ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Doppio",
+    "scheduledStartTime": "2024-03-30T03:04:00Z",
+    "actualStartTime": "2024-03-30T03:06:29Z"
   }
 ]
