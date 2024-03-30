@@ -44,17 +44,6 @@
     "actualStartTime": "2024-03-30T06:00:13Z"
   },
   {
-    "id": "dqqhC1xoBts",
-    "vidUrl": "https://youtu.be/dqqhC1xoBts",
-    "vidTitle": "\u3010Last PRISM Stream\u3011Thank you for everything!\u3010PRISM Project Gen 1\u3011",
-    "channelId": "UCRWF6QSuklmwY3UJHyVTQ1w",
-    "channelName": "Aoi Tokimori / \u6642\u5b88\u3042\u304a\u3044 [PRISM Project]",
-    "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_l9a2_DW5jZjQjrTgygdwUQbJzI0PnRM5vRA5F6=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Aoi",
-    "scheduledStartTime": "2024-03-30T06:15:00Z",
-    "actualStartTime": "2024-03-30T06:15:36Z"
-  },
-  {
     "id": "pht3GmYzs6U",
     "vidUrl": "https://youtu.be/pht3GmYzs6U",
     "vidTitle": "HELP ME I'M POOR \ud83d\ude2d\ud83d\udc97\u3010 Animal Crossing New Horizons \u3011",
@@ -73,6 +62,17 @@
     "channelName": "Aozora Furia Ch. \u9752\u7a7a\u30d5\u30ea\u30a2",
     "channelThumb": "https://yt3.ggpht.com/OAT3gzcHM9H5SLvG5bPnLouS1udQP4gPaNYFB3dwsF4OyjORvn8i7fqkB_9d4mpgZQAt-btbuw=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Furi",
+    "scheduledStartTime": "2024-03-30T09:00:00Z",
+    "actualStartTime": ""
+  },
+  {
+    "id": "EkZNhGdvxbc",
+    "vidUrl": "https://youtu.be/EkZNhGdvxbc",
+    "vidTitle": "\u3010Needy Streamer Overdose\u3011WOW Cute girls! I hope they're doing mentally okay! ^-^ \u3010production kawaii\u3011",
+    "channelId": "UCaxiDe_TuMLXkwRMVLm5VwQ",
+    "channelName": "Lethe Bonapuchi Ch. \u30ec\u30c3\u30c6\u30dc\u30ca\u30d7\u30c1 \u3010kawaii\u3011",
+    "channelThumb": "https://yt3.ggpht.com/Zzn-lffpprmp6_2y3sOeCN1yw-ARyXBh7a992WGez2D2Mo9RixB5PiBBndwuZA1NpUjjcDnb=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Lethe",
     "scheduledStartTime": "2024-03-30T09:00:00Z",
     "actualStartTime": ""
   },
@@ -1056,17 +1056,6 @@
     "actualStartTime": ""
   },
   {
-    "id": "mfoHpYA39oc",
-    "vidUrl": "https://youtu.be/mfoHpYA39oc",
-    "vidTitle": "\u2726 WEEKLY SCHEDULE 26/3 - 31/3 \u2727",
-    "channelId": "UCaxiDe_TuMLXkwRMVLm5VwQ",
-    "channelName": "Lethe Bonapuchi Ch. \u30ec\u30c3\u30c6\u30dc\u30ca\u30d7\u30c1 \u3010kawaii\u3011",
-    "channelThumb": "https://yt3.ggpht.com/Zzn-lffpprmp6_2y3sOeCN1yw-ARyXBh7a992WGez2D2Mo9RixB5PiBBndwuZA1NpUjjcDnb=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Lethe",
-    "scheduledStartTime": "2025-03-09T13:00:00Z",
-    "actualStartTime": ""
-  },
-  {
     "id": "H-17ibwg_I8",
     "vidUrl": "https://youtu.be/H-17ibwg_I8",
     "vidTitle": "\u3010SCHEDULE\u3011free chat! \u273f",
@@ -1522,5 +1511,17 @@
     "shortName": "Jun",
     "scheduledStartTime": "2024-03-30T04:00:00Z",
     "actualStartTime": "2024-03-30T03:57:53Z"
+  },
+  {
+    "id": "dqqhC1xoBts",
+    "vidUrl": "https://youtu.be/dqqhC1xoBts",
+    "vidTitle": "\u3010Last PRISM Stream\u3011Thank you for everything!\u3010PRISM Project Gen 1\u3011",
+    "channelId": "UCRWF6QSuklmwY3UJHyVTQ1w",
+    "channelName": "Aoi Tokimori / \u6642\u5b88\u3042\u304a\u3044 [PRISM Project]",
+    "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_l9a2_DW5jZjQjrTgygdwUQbJzI0PnRM5vRA5F6=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Aoi",
+    "scheduledStartTime": "2024-03-30T06:15:00Z",
+    "actualStartTime": "2024-03-30T06:15:36Z"
   }
 ]
