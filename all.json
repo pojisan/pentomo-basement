@@ -22,17 +22,6 @@
     "actualStartTime": "2024-03-30T00:51:06Z"
   },
   {
-    "id": "i1FUdrfbmS4",
-    "vidUrl": "https://youtu.be/i1FUdrfbmS4",
-    "vidTitle": "\u3010ENTER THE GUNGEON\u3011bullet heaven\u3010NIJISANJI EN | Sonny Brisko\u3011",
-    "channelId": "UCuuAb_72QzK0M1USPMEl1yw",
-    "channelName": "Sonny Brisko \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/Z6Pi1VkybXJu7D-yDxlSnL6hlavVbedb3qfkbCHc6zllK-Eo4lCqmNxpxc4XUM0IEFACqpdwsKo=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Sonny",
-    "scheduledStartTime": "2024-03-30T01:00:00Z",
-    "actualStartTime": "2024-03-30T01:01:13Z"
-  },
-  {
     "id": "LNaEMEuuv7c",
     "vidUrl": "https://youtu.be/LNaEMEuuv7c",
     "vidTitle": "GAWRSH! New crates, new KOZII FIGURE!! More loot, too! Omg! (Mythical SMP Day 30)\u3010KoziiChu\u3011",
@@ -1601,6 +1590,18 @@
     "shortName": "Boomi",
     "scheduledStartTime": "2024-03-30T00:00:00Z",
     "actualStartTime": "2024-03-30T00:09:42Z"
+  },
+  {
+    "id": "i1FUdrfbmS4",
+    "vidUrl": "https://youtu.be/i1FUdrfbmS4",
+    "vidTitle": "\u3010ENTER THE GUNGEON\u3011bullet heaven\u3010NIJISANJI EN | Sonny Brisko\u3011",
+    "channelId": "UCuuAb_72QzK0M1USPMEl1yw",
+    "channelName": "Sonny Brisko \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/Z6Pi1VkybXJu7D-yDxlSnL6hlavVbedb3qfkbCHc6zllK-Eo4lCqmNxpxc4XUM0IEFACqpdwsKo=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Sonny",
+    "scheduledStartTime": "2024-03-30T01:00:00Z",
+    "actualStartTime": "2024-03-30T01:01:13Z"
   },
   {
     "id": "YeMoyiWdlfg",
