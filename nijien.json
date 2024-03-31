@@ -44,6 +44,17 @@
     "actualStartTime": "2024-03-31T05:15:45Z"
   },
   {
+    "id": "CQnuI8_VZG8",
+    "vidUrl": "https://youtu.be/CQnuI8_VZG8",
+    "vidTitle": "\u3010Escape Simulator\u3011 \u305b\u3002\u3002\u3002\u305b\u3093\u3071\u3044\u3002\u3002\u3002\u3053\u3053\u306f\u3002\u3002\u3002\ud83d\ude33 \u3010\u306b\u3058\u3055\u3093\u3058 | \u30bb\u30d5\u30a3\u30ca\u3011",
+    "channelId": "UCeGendL8CO5RkffB6IFwHow",
+    "channelName": "\u30bb\u30d5\u30a3\u30ca / Seffyna\u3010\u306b\u3058\u3055\u3093\u3058\u3011",
+    "channelThumb": "https://yt3.ggpht.com/0QDtmroClBOCB8eZSOVWlGObtXc7wf8tk-USsyvw5nY-i_IE8xsxebzGBzD5OfHGlNBICUmgDg=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Seffyna",
+    "scheduledStartTime": "2024-03-31T06:00:00Z",
+    "actualStartTime": "2024-03-31T06:02:20Z"
+  },
+  {
     "id": "ObhcNk0lUT8",
     "vidUrl": "https://youtu.be/ObhcNk0lUT8",
     "vidTitle": "Idk what's goin  [NIJISANJI EN | Vantacrow Bringer]",
@@ -53,17 +64,6 @@
     "shortName": "Vanta",
     "scheduledStartTime": "2024-03-31T05:12:00Z",
     "actualStartTime": "2024-03-31T05:15:29Z"
-  },
-  {
-    "id": "CQnuI8_VZG8",
-    "vidUrl": "https://youtu.be/CQnuI8_VZG8",
-    "vidTitle": "\u3010Escape Simulator\u3011 \u305b\u3002\u3002\u3002\u305b\u3093\u3071\u3044\u3002\u3002\u3002\u3053\u3053\u306f\u3002\u3002\u3002\ud83d\ude33 \u3010\u306b\u3058\u3055\u3093\u3058 | \u30bb\u30d5\u30a3\u30ca\u3011",
-    "channelId": "UCeGendL8CO5RkffB6IFwHow",
-    "channelName": "\u30bb\u30d5\u30a3\u30ca / Seffyna\u3010\u306b\u3058\u3055\u3093\u3058\u3011",
-    "channelThumb": "https://yt3.ggpht.com/0QDtmroClBOCB8eZSOVWlGObtXc7wf8tk-USsyvw5nY-i_IE8xsxebzGBzD5OfHGlNBICUmgDg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Seffyna",
-    "scheduledStartTime": "2024-03-31T06:00:00Z",
-    "actualStartTime": ""
   },
   {
     "id": "fHmPYkRCbBE",
@@ -196,17 +196,5 @@
     "shortName": "Scarle",
     "scheduledStartTime": "2024-04-06T03:00:00Z",
     "actualStartTime": ""
-  },
-  {
-    "id": "Ch5a131Bq-M",
-    "vidUrl": "https://youtu.be/Ch5a131Bq-M",
-    "vidTitle": "\u3010Persona 3 Reload | #2\u3011tartar sauce? \u3010NIJISANJI EN | Claude Clawmark\u3011",
-    "channelId": "UCdh-YF2gTzqDNu0VU9lwPPw",
-    "channelName": "Claude Clawmark \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/e7od55bIqtwAdCdpEdEf1d-PITBdVzntIaqGwTif46sTptNuJQ4WlVPPcfskh3wqb9axkDuOSg=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Claude",
-    "scheduledStartTime": "2024-03-31T00:30:00Z",
-    "actualStartTime": "2024-03-31T00:30:07Z"
   }
 ]
