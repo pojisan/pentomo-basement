@@ -1,27 +1,5 @@
 [
   {
-    "id": "RF0X3934JvU",
-    "vidUrl": "https://youtu.be/RF0X3934JvU",
-    "vidTitle": "VTuber Morning Show: Preparing for Debut Tomorrow! \u3010V4Mirai | Abi Kadabura\u3011",
-    "channelId": "UCESQsSc7Uh8EbiXVtmPbD_A",
-    "channelName": "Abi Kadabura Ch.\u3010V4Mirai\u3011",
-    "channelThumb": "https://yt3.ggpht.com/B_9QpINpsFh56b7Ji0WR1H0D5HO69g-93EuXiqaldjR5WXOSXB1aPfw0AJS4cPRikq_axPzh=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Abi",
-    "scheduledStartTime": "2024-03-31T17:00:00Z",
-    "actualStartTime": "2024-03-31T16:59:10Z"
-  },
-  {
-    "id": "gXKN4Di-B4g",
-    "vidUrl": "https://youtu.be/gXKN4Di-B4g",
-    "vidTitle": "\u3010KARAOKE\u3011Moar Singing.\u3010Yume+ | Mimosa Shirosaki\u3011",
-    "channelId": "UCqmSYkXLwsL0zEar5GooYkg",
-    "channelName": "Mimosa Shirosaki \u3010Yume+\u3011",
-    "channelThumb": "https://yt3.ggpht.com/N2epFpbQoGAzXd6q2EhpasgOviB2OuG9AvbQnDVY3HbugpsY5WDZ_p5Um93pEeNBKsJaGFXz=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Mimosa",
-    "scheduledStartTime": "2024-03-31T17:00:00Z",
-    "actualStartTime": "2024-03-31T17:00:11Z"
-  },
-  {
     "id": "ox6o2NmtyJo",
     "vidUrl": "https://youtu.be/ox6o2NmtyJo",
     "vidTitle": "\u3010Month Summary\u3011March - superdono reading + more!",
@@ -979,6 +957,17 @@
     "actualStartTime": ""
   },
   {
+    "id": "IemXo_IWp-4",
+    "vidUrl": "https://youtu.be/IemXo_IWp-4",
+    "vidTitle": "\u3010APEX\u3011WARNING: this vtuber cannot FPS well\u3010Yume+ | Rhea Nevermore\u3011",
+    "channelId": "UCIId2bA3BsBeBB80bdwNs4Q",
+    "channelName": "Rhea Nevermore \u3010Yume+\u3011",
+    "channelThumb": "https://yt3.ggpht.com/POsoK-HHPySyD4C6ell2PZeeqjOfPFYW1SOYN0ZwETReBmkJ7ScxoTkyB3BliqEg3Qh6ulsjwQ=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Rhea",
+    "scheduledStartTime": "2024-04-06T22:00:00Z",
+    "actualStartTime": ""
+  },
+  {
     "id": "SIn-a7ZSra8",
     "vidUrl": "https://youtu.be/SIn-a7ZSra8",
     "vidTitle": "Tell me YOUR favorite anime genre!! (and I'll roast it)\u3010SatzuRan\u3011\u3010Ran Tsukiha | Production kawaii\u3011",
@@ -1447,6 +1436,30 @@
     "shortName": "Nana",
     "scheduledStartTime": "2024-03-31T15:00:00Z",
     "actualStartTime": ""
+  },
+  {
+    "id": "RF0X3934JvU",
+    "vidUrl": "https://youtu.be/RF0X3934JvU",
+    "vidTitle": "VTuber Morning Show: Preparing for Debut Tomorrow! \u3010V4Mirai | Abi Kadabura\u3011",
+    "channelId": "UCESQsSc7Uh8EbiXVtmPbD_A",
+    "channelName": "Abi Kadabura Ch.\u3010V4Mirai\u3011",
+    "channelThumb": "https://yt3.ggpht.com/B_9QpINpsFh56b7Ji0WR1H0D5HO69g-93EuXiqaldjR5WXOSXB1aPfw0AJS4cPRikq_axPzh=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Abi",
+    "scheduledStartTime": "2024-03-31T17:00:00Z",
+    "actualStartTime": "2024-03-31T16:59:10Z"
+  },
+  {
+    "id": "gXKN4Di-B4g",
+    "vidUrl": "https://youtu.be/gXKN4Di-B4g",
+    "vidTitle": "\u3010KARAOKE\u3011Moar Singing.\u3010Yume+ | Mimosa Shirosaki\u3011",
+    "channelId": "UCqmSYkXLwsL0zEar5GooYkg",
+    "channelName": "Mimosa Shirosaki \u3010Yume+\u3011",
+    "channelThumb": "https://yt3.ggpht.com/N2epFpbQoGAzXd6q2EhpasgOviB2OuG9AvbQnDVY3HbugpsY5WDZ_p5Um93pEeNBKsJaGFXz=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Mimosa",
+    "scheduledStartTime": "2024-03-31T17:00:00Z",
+    "actualStartTime": "2024-03-31T17:00:11Z"
   },
   {
     "id": "zuhJdEdtm48",
