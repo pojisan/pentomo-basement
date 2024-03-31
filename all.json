@@ -22,17 +22,6 @@
     "actualStartTime": "2024-03-30T22:00:13Z"
   },
   {
-    "id": "pE3przsipUE",
-    "vidUrl": "https://youtu.be/pE3przsipUE",
-    "vidTitle": "\u3010SUPERMARKET SIMULATOR\u3011 YOU ARE LATE FOR YOUR SHIFT \u3010NIJISANJI EN | Aia Amare \u3011",
-    "channelId": "UCN68LoM3khS4gdBMiWJO8WA",
-    "channelName": "Aia Amare \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/ZtRcLNqOjG8w9CMolweuy-jnNGin0W0KjxVxUpzni3uvqKY6rJgnAphvHOEmxcqSV7yXwqkKcg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Aia",
-    "scheduledStartTime": "2024-03-30T22:00:00Z",
-    "actualStartTime": "2024-03-30T22:03:24Z"
-  },
-  {
     "id": "AB7k2hEggFM",
     "vidUrl": "https://youtu.be/AB7k2hEggFM",
     "vidTitle": "I Let Chat BREAK Elden Ring For Charity (READ DESC.) #partner #shorts #shortslive #shortsgaming",
@@ -231,17 +220,6 @@
     "actualStartTime": ""
   },
   {
-    "id": "lgLg1RL54nA",
-    "vidUrl": "https://youtu.be/lgLg1RL54nA",
-    "vidTitle": "\u3010SHINKANSEN 0 | \u65b0\u5e79\u7dda 0\u53f7\u3011PLAYING A SCARY GAME ONCE AGAIN\u3010NIJISANJI EN | Luca Kaneshiro\u3011",
-    "channelId": "UC7Gb7Uawe20QyFibhLl1lzA",
-    "channelName": "Luca Kaneshiro\u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/tCeBfd6DnX3fAO2dIv6Smje0Wj7iQT9sLFFW2jPI8Bfw6d9VY8jIYApFFrSYxK-ZTWxM1hu1=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Luca",
-    "scheduledStartTime": "2024-03-31T04:00:00Z",
-    "actualStartTime": ""
-  },
-  {
     "id": "oSMFGG18AoM",
     "vidUrl": "https://youtu.be/oSMFGG18AoM",
     "vidTitle": "\u3010SHINKANSEN 0 | \u65b0\u5e79\u7dda 0\u53f7\u3011DENSHA KOWAI MAIGO NI NARUNDA YOOOOOOO\u3010NIJISANJI EN | Reimu Endou\u3011",
@@ -315,6 +293,17 @@
     "channelName": "Ririsya Music",
     "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_mloXDi05ooIOUUMCiUNzptH3fEefE0ZvuZEsOQ=s88-c-k-c0x00ffffff-no-rj-mo",
     "shortName": "Ririsya",
+    "scheduledStartTime": "2024-03-31T05:00:00Z",
+    "actualStartTime": ""
+  },
+  {
+    "id": "lgLg1RL54nA",
+    "vidUrl": "https://youtu.be/lgLg1RL54nA",
+    "vidTitle": "\u3010SHINKANSEN 0 | \u65b0\u5e79\u7dda 0\u53f7\u3011PLAYING A SCARY GAME ONCE AGAIN\u3010NIJISANJI EN | Luca Kaneshiro\u3011",
+    "channelId": "UC7Gb7Uawe20QyFibhLl1lzA",
+    "channelName": "Luca Kaneshiro\u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/tCeBfd6DnX3fAO2dIv6Smje0Wj7iQT9sLFFW2jPI8Bfw6d9VY8jIYApFFrSYxK-ZTWxM1hu1=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Luca",
     "scheduledStartTime": "2024-03-31T05:00:00Z",
     "actualStartTime": ""
   },
@@ -1368,6 +1357,18 @@
     "shortName": "Ember",
     "scheduledStartTime": "2024-03-30T19:00:00Z",
     "actualStartTime": "2024-03-30T19:02:31Z"
+  },
+  {
+    "id": "pE3przsipUE",
+    "vidUrl": "https://youtu.be/pE3przsipUE",
+    "vidTitle": "\u3010SUPERMARKET SIMULATOR\u3011 YOU ARE LATE FOR YOUR SHIFT \u3010NIJISANJI EN | Aia Amare \u3011",
+    "channelId": "UCN68LoM3khS4gdBMiWJO8WA",
+    "channelName": "Aia Amare \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/ZtRcLNqOjG8w9CMolweuy-jnNGin0W0KjxVxUpzni3uvqKY6rJgnAphvHOEmxcqSV7yXwqkKcg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Aia",
+    "scheduledStartTime": "2024-03-30T22:00:00Z",
+    "actualStartTime": "2024-03-30T22:03:24Z"
   },
   {
     "id": "wkzxZG7p26s",
