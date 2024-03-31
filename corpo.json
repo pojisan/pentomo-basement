@@ -66,17 +66,6 @@
     "actualStartTime": "2024-03-31T13:53:12Z"
   },
   {
-    "id": "h6y-OK63IRA",
-    "vidUrl": "https://youtu.be/h6y-OK63IRA",
-    "vidTitle": "NOT STREAMING POV! But am guesting at @BrotherSharp",
-    "channelId": "UCB-8nNthtuVIZniqXNyrhKQ",
-    "channelName": "Yurikago Kokone Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/sK-dD3nEWHQmTHoNRNObL5TaoYPvFaflhbHYGWr4cZwd_o0eEclK8hTSr19HZwtU5-GWBilfWg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Kokone",
-    "scheduledStartTime": "2024-03-31T13:00:00Z",
-    "actualStartTime": ""
-  },
-  {
     "id": "PM2l83KjjV0",
     "vidUrl": "https://youtu.be/PM2l83KjjV0",
     "vidTitle": "\u3010Mascot Crochet\u3011EP1: Takanashi Kiara - Kotori",
@@ -85,7 +74,7 @@
     "channelThumb": "https://yt3.ggpht.com/jPWRHtDGZ3b-HXw__M_4Le5LhYAwxpcy7_Inwji6RhxGC7NK34Nihv_LwLgjtCfdTMuDE92y=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Lida",
     "scheduledStartTime": "2024-03-31T14:00:00Z",
-    "actualStartTime": ""
+    "actualStartTime": "2024-03-31T13:59:50Z"
   },
   {
     "id": "K7ab9hQo7io",
@@ -459,6 +448,17 @@
     "channelThumb": "https://yt3.ggpht.com/gHLRZOEihJIIcqQJmj8hsp4CsuRIbKIYKzRxQp9Q9du6DfBDFlnMv3xYCXMnKqSe3N8a1ki6Yw=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Katta",
     "scheduledStartTime": "2024-04-01T19:00:00Z",
+    "actualStartTime": ""
+  },
+  {
+    "id": "74p-Rp_pejU",
+    "vidUrl": "https://youtu.be/74p-Rp_pejU",
+    "vidTitle": "\u3010MY RETURN + Fan Mascot reveal !\u3011Hi, I've missed you a lot dumbass...\u3010V&U  | GEN4\u3011",
+    "channelId": "UCXhRd4KkpzYsPm5hFTPVsqw",
+    "channelName": "Misma Ryzing Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/G4Ny8VTJw2-E0za2aahMa1JMAMTwmCaJcgeZZQi_oXev3r85AhhGdSaTE7bI7UyEcid6ajTtDg=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Misma",
+    "scheduledStartTime": "2024-04-01T19:30:00Z",
     "actualStartTime": ""
   },
   {
@@ -1260,18 +1260,6 @@
     "actualStartTime": ""
   },
   {
-    "id": "3yxByKvhlHU",
-    "vidUrl": "https://youtu.be/3yxByKvhlHU",
-    "vidTitle": "i still don't have my license\u3010Pacific Drive\u3011",
-    "channelId": "UC1ogmLVdMrU4HuLBUYtzjVQ",
-    "channelName": "ayu",
-    "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_nYKOij2hXfBtITYSJyxOPaPBPaxk3s-GcARgxVjQ=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Ayu",
-    "scheduledStartTime": "2024-03-31T00:15:00Z",
-    "actualStartTime": "2024-03-31T00:17:51Z"
-  },
-  {
     "id": "wLZ45vUuVk4",
     "vidUrl": "https://youtu.be/wLZ45vUuVk4",
     "vidTitle": "\u3010ASMR\u3011End your week with self care \u2661\u3010Yume Plus | Rhea Nevermore\u3011",
@@ -1294,5 +1282,17 @@
     "shortName": "Meeta",
     "scheduledStartTime": "2024-03-31T01:45:00Z",
     "actualStartTime": "2024-03-31T01:34:13Z"
+  },
+  {
+    "id": "h6y-OK63IRA",
+    "vidUrl": "https://youtu.be/h6y-OK63IRA",
+    "vidTitle": "NOT STREAMING POV! But am guesting at @BrotherSharp",
+    "channelId": "UCB-8nNthtuVIZniqXNyrhKQ",
+    "channelName": "Yurikago Kokone Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/sK-dD3nEWHQmTHoNRNObL5TaoYPvFaflhbHYGWr4cZwd_o0eEclK8hTSr19HZwtU5-GWBilfWg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Kokone",
+    "scheduledStartTime": "2024-03-31T13:00:00Z",
+    "actualStartTime": ""
   }
 ]
