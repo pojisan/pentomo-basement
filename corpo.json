@@ -110,17 +110,6 @@
     "actualStartTime": "2024-03-30T23:56:06Z"
   },
   {
-    "id": "7ZSydFGFvFg",
-    "vidUrl": "https://youtu.be/7ZSydFGFvFg",
-    "vidTitle": "\u3010Minecraft\u3011Guess who got whitelisted?!\u3010Yume+ | Mimosa Shirosaki\u3011",
-    "channelId": "UCqmSYkXLwsL0zEar5GooYkg",
-    "channelName": "Mimosa Shirosaki \u3010Yume+\u3011",
-    "channelThumb": "https://yt3.ggpht.com/N2epFpbQoGAzXd6q2EhpasgOviB2OuG9AvbQnDVY3HbugpsY5WDZ_p5Um93pEeNBKsJaGFXz=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Mimosa",
-    "scheduledStartTime": "2024-03-31T00:00:00Z",
-    "actualStartTime": "2024-03-30T23:00:17Z"
-  },
-  {
     "id": "b0Iy3yg0HMs",
     "vidUrl": "https://youtu.be/b0Iy3yg0HMs",
     "vidTitle": "Late Night Show Debut | Overworking & Loneliness in the Gaming Space\u3010V4Mirai | Abi Kadabura\u3011",
@@ -173,7 +162,18 @@
     "channelThumb": "https://yt3.ggpht.com/iFJsuBeka3rm3zWT09RkNEiijQj3YcRFDWIiwS27VOlR8how5j4-GU1bWF1bKrfV4fvhk8uxSA=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Amaya",
     "scheduledStartTime": "2024-03-31T00:30:00Z",
-    "actualStartTime": ""
+    "actualStartTime": "2024-03-31T00:52:43Z"
+  },
+  {
+    "id": "7ZSydFGFvFg",
+    "vidUrl": "https://youtu.be/7ZSydFGFvFg",
+    "vidTitle": "\u3010Minecraft\u3011Guess who got whitelisted?!\u3010Yume+ | Mimosa Shirosaki\u3011",
+    "channelId": "UCqmSYkXLwsL0zEar5GooYkg",
+    "channelName": "Mimosa Shirosaki \u3010Yume+\u3011",
+    "channelThumb": "https://yt3.ggpht.com/N2epFpbQoGAzXd6q2EhpasgOviB2OuG9AvbQnDVY3HbugpsY5WDZ_p5Um93pEeNBKsJaGFXz=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Mimosa",
+    "scheduledStartTime": "2024-03-31T00:00:00Z",
+    "actualStartTime": "2024-03-30T23:00:17Z"
   },
   {
     "id": "J00cRSYip5o",
@@ -668,6 +668,17 @@
     "channelThumb": "https://yt3.ggpht.com/vJEi9jvzwANF4rzrVugBrJ2CumIsI3pGN68Bap-eEXSqZbp-hNpLAdqSwSIqmgqhHUbbdUzrR-w=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Spectra",
     "scheduledStartTime": "2024-04-01T18:00:00Z",
+    "actualStartTime": ""
+  },
+  {
+    "id": "mJfmZgI9Vyk",
+    "vidUrl": "https://youtu.be/mJfmZgI9Vyk",
+    "vidTitle": "\u3010\u6b4c\u3063\u3066\u307f\u305f\u3011\u79c1\u3001\u30a2\u30a4\u30c9\u30eb\u5ba3\u8a00 / Watashi, Idol Sengen (cover)\u3010Kohaku Yumekui\u3011",
+    "channelId": "UCHxUvAIXHfDzpTW02v7Qarg",
+    "channelName": "Kohaku Yumekui Ch. \u5922\u55b0\u5df1\u767d\u3010kawaii\u3011",
+    "channelThumb": "https://yt3.ggpht.com/Tz6Hm43Exb8k5sGZ7DRbucOkivDD4w7FU78_bPV69vWM47zCAODykYVo76pwXqry2b1DI1HI=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Kohaku",
+    "scheduledStartTime": "2024-04-01T21:15:00Z",
     "actualStartTime": ""
   },
   {
