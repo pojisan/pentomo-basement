@@ -24,30 +24,6 @@
     "premiere": false
   },
   {
-    "id": "M9Mgjs5K3Tc",
-    "vidUrl": "https://youtu.be/M9Mgjs5K3Tc",
-    "vidTitle": "\u3010PRINCESS PEACH: SHOWTIME!\u3011Ultimate girlbossing time!",
-    "channelId": "@kiliakurayami",
-    "channelName": "Kilia Kurayami Ch. \u3010EIEN Project\u3011",
-    "channelThumb": "https://yt3.ggpht.com/lfSudxn7RE0Izwj8K2GriTxOebvU7pOlFL6lRkZQfYUex3cksfnEasQtUcPcfXkEJaXYVwxAfQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Kilia",
-    "scheduledStartTime": "2024-04-01T19:00:00Z",
-    "actualStartTime": "2024-04-01T19:00:54Z",
-    "premiere": false
-  },
-  {
-    "id": "GZzZMK_kC2g",
-    "vidUrl": "https://youtu.be/GZzZMK_kC2g",
-    "vidTitle": "\u3010Q+A\u3011ask me anything!",
-    "channelId": "@kattarina_qutie",
-    "channelName": "Kattarina Qutie Ch. idol-EN",
-    "channelThumb": "https://yt3.ggpht.com/gHLRZOEihJIIcqQJmj8hsp4CsuRIbKIYKzRxQp9Q9du6DfBDFlnMv3xYCXMnKqSe3N8a1ki6Yw=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Katta",
-    "scheduledStartTime": "2024-04-01T19:00:00Z",
-    "actualStartTime": "2024-04-01T19:04:15Z",
-    "premiere": false
-  },
-  {
     "id": "hixkPmM611c",
     "vidUrl": "https://youtu.be/hixkPmM611c",
     "vidTitle": "I MISSED YOU. \u3010EIEN Project\u3011",
@@ -153,18 +129,6 @@
     "shortName": "Mariya",
     "scheduledStartTime": "2024-04-01T22:00:00Z",
     "actualStartTime": "2024-04-01T22:04:57Z",
-    "premiere": false
-  },
-  {
-    "id": "jbDjl54UZlI",
-    "vidUrl": "https://youtu.be/jbDjl54UZlI",
-    "vidTitle": "If I say my NAME the stream ENDs - April Fools Challenge \u3010MIKI HITSUGI | SPECIALITE\u3011#mik1tv",
-    "channelId": "@mikihitsugi",
-    "channelName": "Miki Hitsugi | Specialite EN",
-    "channelThumb": "https://yt3.ggpht.com/7YT74XmVpX9ySRWPf2hpfLz_m8fdW-xfK32LMvmGPo0U3gNiCf3G5PaemNK6eKV0Ex5POa3GrlE=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Migi",
-    "scheduledStartTime": "2024-04-01T22:15:00Z",
-    "actualStartTime": "2024-04-01T22:03:43Z",
     "premiere": false
   },
   {
@@ -512,6 +476,18 @@
     "channelThumb": "https://yt3.ggpht.com/_SxRVgoQJ7geF9izKj4VzPpxTPLrEGcDP54bXk8_sbxVAglW5Vcr-c7ZdcdsFvXSTrZfv9hiwA=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Mikumi",
     "scheduledStartTime": "2024-04-02T08:30:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "Z1fGwRMU-9k",
+    "vidUrl": "https://youtu.be/Z1fGwRMU-9k",
+    "vidTitle": "\u3010That's Not My Neighbour\u3011My Neighbour is a VTuber?! JK They're just sussy \u3010production kawaii\u3011",
+    "channelId": "@lethebonapuchi",
+    "channelName": "Lethe Bonapuchi Ch. \u30ec\u30c3\u30c6\u30dc\u30ca\u30d7\u30c1 \u3010kawaii\u3011",
+    "channelThumb": "https://yt3.ggpht.com/Zzn-lffpprmp6_2y3sOeCN1yw-ARyXBh7a992WGez2D2Mo9RixB5PiBBndwuZA1NpUjjcDnb=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Lethe",
+    "scheduledStartTime": "2024-04-02T09:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -2476,6 +2452,19 @@
     "premiere": false
   },
   {
+    "id": "M9Mgjs5K3Tc",
+    "vidUrl": "https://youtu.be/M9Mgjs5K3Tc",
+    "vidTitle": "\u3010PRINCESS PEACH: SHOWTIME!\u3011Ultimate girlbossing time!",
+    "channelId": "@kiliakurayami",
+    "channelName": "Kilia Kurayami Ch. \u3010EIEN Project\u3011",
+    "channelThumb": "https://yt3.ggpht.com/lfSudxn7RE0Izwj8K2GriTxOebvU7pOlFL6lRkZQfYUex3cksfnEasQtUcPcfXkEJaXYVwxAfQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Kilia",
+    "scheduledStartTime": "2024-04-01T19:00:00Z",
+    "actualStartTime": "2024-04-01T19:00:54Z",
+    "premiere": false
+  },
+  {
     "id": "o01mLB2sE1Y",
     "vidUrl": "https://youtu.be/o01mLB2sE1Y",
     "vidTitle": "I'm Secretly an H-Anime VA, my story",
@@ -2486,6 +2475,19 @@
     "shortName": "Xin",
     "scheduledStartTime": "2024-04-01T19:00:00Z",
     "actualStartTime": "2024-04-01T19:01:43Z",
+    "premiere": false
+  },
+  {
+    "id": "GZzZMK_kC2g",
+    "vidUrl": "https://youtu.be/GZzZMK_kC2g",
+    "vidTitle": "\u3010Q+A\u3011ask me anything!",
+    "channelId": "@kattarina_qutie",
+    "channelName": "Kattarina Qutie Ch. idol-EN",
+    "channelThumb": "https://yt3.ggpht.com/gHLRZOEihJIIcqQJmj8hsp4CsuRIbKIYKzRxQp9Q9du6DfBDFlnMv3xYCXMnKqSe3N8a1ki6Yw=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Katta",
+    "scheduledStartTime": "2024-04-01T19:00:00Z",
+    "actualStartTime": "2024-04-01T19:04:15Z",
     "premiere": false
   },
   {
