@@ -24,18 +24,6 @@
     "premiere": false
   },
   {
-    "id": "Z7Rfn18Tc20",
-    "vidUrl": "https://youtu.be/Z7Rfn18Tc20",
-    "vidTitle": "EASTER BUNNIES AINT THE ONLY THING TIENE HUEVOS",
-    "channelId": "@scarleyonaguni",
-    "channelName": "Scarle Yonaguni \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/oYEH8ckOxzEJ0GXlZGp4aSxvZrMWAeodRUg_MRgHqJEr7bEyjXdoC5VyYZ143XtcIKUozhQq6Q=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Scarle",
-    "scheduledStartTime": "2024-04-01T04:00:00Z",
-    "actualStartTime": "2024-04-01T04:08:07Z",
-    "premiere": false
-  },
-  {
     "id": "XgFYMJPP5Bc",
     "vidUrl": "https://youtu.be/XgFYMJPP5Bc",
     "vidTitle": "\u30103DIO ASMR\u3011Office ASMR \u2014 Chatting, Keyboard\u3010Kou Mariya | V4Mirai | ENVtuber\u3011#shorts #shortsfeed",
@@ -93,18 +81,6 @@
     "shortName": "Lumin",
     "scheduledStartTime": "2024-04-01T05:00:00Z",
     "actualStartTime": "2024-04-01T04:54:19Z",
-    "premiere": false
-  },
-  {
-    "id": "FqXBtRunBOA",
-    "vidUrl": "https://youtu.be/FqXBtRunBOA",
-    "vidTitle": "\u3093\u3075",
-    "channelId": "@seffyna",
-    "channelName": "\u30bb\u30d5\u30a3\u30ca / Seffyna\u3010\u306b\u3058\u3055\u3093\u3058\u3011",
-    "channelThumb": "https://yt3.ggpht.com/0QDtmroClBOCB8eZSOVWlGObtXc7wf8tk-USsyvw5nY-i_IE8xsxebzGBzD5OfHGlNBICUmgDg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Seffyna",
-    "scheduledStartTime": "2024-04-01T05:00:00Z",
-    "actualStartTime": "2024-04-01T04:57:40Z",
     "premiere": false
   },
   {
@@ -1512,6 +1488,18 @@
     "premiere": false
   },
   {
+    "id": "jH4n-rpq4SY",
+    "vidUrl": "https://youtu.be/jH4n-rpq4SY",
+    "vidTitle": "\u3010Lethal Company\u3011I-I-I'm definitely n-not scared or a-anything!!!\u3010Yuuki Ame\u30fbbondlive EN\u3011",
+    "channelId": "@yuukiame_",
+    "channelName": "Yuuki Ame / \u52c7\u6c17\u3042\u3081\u3010bondlive EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/rybr-bFchWkS9x4YS03WaFH5JtYXkl3lEMjxqFsf6IvbCC5OxCMPKQwOGpl2jx6y28p_vHMXi1w=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Yuuki",
+    "scheduledStartTime": "2024-04-06T01:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "kdck0aw_OUw",
     "vidUrl": "https://youtu.be/kdck0aw_OUw",
     "vidTitle": "tremors watchalong \u3010members only\u3011",
@@ -1757,7 +1745,7 @@
     "vidTitle": "\u3010Hey, I'm back. Miss me?\u3011",
     "channelId": "@nonanon",
     "channelName": "Non Anon / \u4e9c\u97f3\u30ce\u30f3 \u3010EverAfter\u3011",
-    "channelThumb": "https://yt3.ggpht.com/uT6vVjHKmfy0cYGb1nEnPI0Tu0PZmzAZ46xuk4s2kHBX_eZrIJ47vrk1zhiW1lXOnNN43TcBjZ4=s88-c-k-c0x00ffffff-no-rj",
+    "channelThumb": "https://yt3.ggpht.com/sxw_fIVZnYL-7WOuDUPYpsAQWHtcy-ZRqNY1MiaTm7Z6Cb-GB_BULxH31wMG930UdmTjv-_CqQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Non",
     "scheduledStartTime": "2024-05-04T05:00:00Z",
     "actualStartTime": "",
@@ -1946,6 +1934,32 @@
     "shortName": "Aishii",
     "scheduledStartTime": "2024-04-01T01:00:00Z",
     "actualStartTime": "2024-04-01T01:03:27Z",
+    "premiere": false
+  },
+  {
+    "id": "Z7Rfn18Tc20",
+    "vidUrl": "https://youtu.be/Z7Rfn18Tc20",
+    "vidTitle": "EASTER BUNNIES AINT THE ONLY THING TIENE HUEVOS",
+    "channelId": "@scarleyonaguni",
+    "channelName": "Scarle Yonaguni \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/oYEH8ckOxzEJ0GXlZGp4aSxvZrMWAeodRUg_MRgHqJEr7bEyjXdoC5VyYZ143XtcIKUozhQq6Q=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Scarle",
+    "scheduledStartTime": "2024-04-01T04:00:00Z",
+    "actualStartTime": "2024-04-01T04:08:07Z",
+    "premiere": false
+  },
+  {
+    "id": "FqXBtRunBOA",
+    "vidUrl": "https://youtu.be/FqXBtRunBOA",
+    "vidTitle": "\u3093\u3075",
+    "channelId": "@seffyna",
+    "channelName": "\u30bb\u30d5\u30a3\u30ca / Seffyna\u3010\u306b\u3058\u3055\u3093\u3058\u3011",
+    "channelThumb": "https://yt3.ggpht.com/0QDtmroClBOCB8eZSOVWlGObtXc7wf8tk-USsyvw5nY-i_IE8xsxebzGBzD5OfHGlNBICUmgDg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Seffyna",
+    "scheduledStartTime": "2024-04-01T05:00:00Z",
+    "actualStartTime": "2024-04-01T04:57:40Z",
     "premiere": false
   },
   {
