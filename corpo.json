@@ -36,18 +36,6 @@
     "premiere": false
   },
   {
-    "id": "aVsVTOTFRjs",
-    "vidUrl": "https://youtu.be/aVsVTOTFRjs",
-    "vidTitle": "\u3010KAYA MATSURI\u3011Nostalgia Edition\u3010Kaya Nishikino | Production kawaii\u3011",
-    "channelId": "@kayanishikino",
-    "channelName": "Kaya Nishikino Ch. \u9326\u91ce\u6953\u591c\u3010kawaii\u3011",
-    "channelThumb": "https://yt3.ggpht.com/AItTH3F0F7PbQDVtW9UPUEAr4YcJhdP_5FYySlSsSn2yjWzP3ah7W121h1PjZMDWjnirLQ492Q=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Kaya",
-    "scheduledStartTime": "2024-04-01T01:00:00Z",
-    "actualStartTime": "2024-04-01T01:01:05Z",
-    "premiere": false
-  },
-  {
     "id": "84fQ4Tb6wX8",
     "vidUrl": "https://youtu.be/84fQ4Tb6wX8",
     "vidTitle": "Liar's End full event with live voice acting \u3010GODDESS OF VICTORY: NIKKE\u3011",
@@ -92,7 +80,7 @@
     "channelThumb": "https://yt3.ggpht.com/gQXL64aSlteGuabzrOCxa7Qs-OdOJ0EAMeTP1hpSpI_5_IAkpjy3X0Y4aTVe9BxxXvXOCE5VdLc=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Nene",
     "scheduledStartTime": "2024-04-01T02:30:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-01T02:32:54Z",
     "premiere": false
   },
   {
@@ -440,6 +428,18 @@
     "channelThumb": "https://yt3.ggpht.com/EZIsXrouGx2aOmLFm39j_fLbX-5XSqIZZN20OHosxCvZbrjXFAk9z_GBWk1B4jaafizyAjTDBPY=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Nia",
     "scheduledStartTime": "2024-04-01T22:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "Q8bGuikNBzM",
+    "vidUrl": "https://youtu.be/Q8bGuikNBzM",
+    "vidTitle": "????",
+    "channelId": "@chiakikatsumi",
+    "channelName": "Chiaki Katsumi Ch.\u3010PixelLink\u3011",
+    "channelThumb": "https://yt3.ggpht.com/foOq8GN3CxnY7f2TMWmBWfYuaXDpULtqmMGSJQmQD3LxmDgBCKqVBqZp5icdSvnjtX35LRC0zA=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Chiaki",
+    "scheduledStartTime": "2024-04-01T23:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -1697,16 +1697,16 @@
     "premiere": false
   },
   {
-    "id": "0CRnGH86YJQ",
-    "vidUrl": "https://youtu.be/0CRnGH86YJQ",
-    "vidTitle": "\u300aasmr\u300bexperimenting for you!\u2764\ufe0f\u200d\ud83e\ude79jp onomatopoeia\u2502ear cleaning\u2502whispers\u2502f4a",
-    "channelId": "@amayawhisperch",
-    "channelName": "Amaya Whisper CH.",
-    "channelThumb": "https://yt3.ggpht.com/iFJsuBeka3rm3zWT09RkNEiijQj3YcRFDWIiwS27VOlR8how5j4-GU1bWF1bKrfV4fvhk8uxSA=s88-c-k-c0x00ffffff-no-rj",
+    "id": "aVsVTOTFRjs",
+    "vidUrl": "https://youtu.be/aVsVTOTFRjs",
+    "vidTitle": "\u3010KAYA MATSURI\u3011Nostalgia Edition\u3010Kaya Nishikino | Production kawaii\u3011",
+    "channelId": "@kayanishikino",
+    "channelName": "Kaya Nishikino Ch. \u9326\u91ce\u6953\u591c\u3010kawaii\u3011",
+    "channelThumb": "https://yt3.ggpht.com/AItTH3F0F7PbQDVtW9UPUEAr4YcJhdP_5FYySlSsSn2yjWzP3ah7W121h1PjZMDWjnirLQ492Q=s88-c-k-c0x00ffffff-no-rj",
     "graveyard": true,
-    "shortName": "Amaya",
-    "scheduledStartTime": "2024-04-01T00:30:00Z",
-    "actualStartTime": "2024-04-01T00:31:40Z",
+    "shortName": "Kaya",
+    "scheduledStartTime": "2024-04-01T01:00:00Z",
+    "actualStartTime": "2024-04-01T01:01:05Z",
     "premiere": false
   },
   {
