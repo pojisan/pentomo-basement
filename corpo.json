@@ -1,17 +1,5 @@
 [
   {
-    "id": "rh5exFVQ3KI",
-    "vidUrl": "https://youtu.be/rh5exFVQ3KI",
-    "vidTitle": "[ONLY UP] TIME TO SHOW SOME SKILLS with APRIL FOOLS ZATSU!!!",
-    "channelId": "@lunarisurufi",
-    "channelName": "Lunaris Urufi Ch. \u4eba\u72fc \u30eb\u30ca\u30ea\u30b9\u3010MyHolo TV\u3011",
-    "channelThumb": "https://yt3.ggpht.com/6I21pwlSrO2EPb6LwRsOtbc3nkGRjzfZyTfWoShQQ6xr28tr-NiEEPrPYSdsKQTmeD5tLfh8ehw=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Luna",
-    "scheduledStartTime": "2024-04-01T13:00:00Z",
-    "actualStartTime": "2024-04-01T13:00:40Z",
-    "premiere": false
-  },
-  {
     "id": "PlPEaOt7Wa8",
     "vidUrl": "https://youtu.be/PlPEaOt7Wa8",
     "vidTitle": "\u3010Honkai: Star Rail\u3011More Space Shark !!!",
@@ -2313,6 +2301,19 @@
     "shortName": "Cinnia",
     "scheduledStartTime": "2024-04-01T13:00:00Z",
     "actualStartTime": "2024-04-01T13:00:29Z",
+    "premiere": false
+  },
+  {
+    "id": "rh5exFVQ3KI",
+    "vidUrl": "https://youtu.be/rh5exFVQ3KI",
+    "vidTitle": "[ONLY UP] TIME TO SHOW SOME SKILLS with APRIL FOOLS ZATSU!!!",
+    "channelId": "@lunarisurufi",
+    "channelName": "Lunaris Urufi Ch. \u4eba\u72fc \u30eb\u30ca\u30ea\u30b9\u3010MyHolo TV\u3011",
+    "channelThumb": "https://yt3.ggpht.com/6I21pwlSrO2EPb6LwRsOtbc3nkGRjzfZyTfWoShQQ6xr28tr-NiEEPrPYSdsKQTmeD5tLfh8ehw=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Luna",
+    "scheduledStartTime": "2024-04-01T13:00:00Z",
+    "actualStartTime": "2024-04-01T13:00:40Z",
     "premiere": false
   },
   {
