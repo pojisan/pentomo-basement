@@ -24,30 +24,6 @@
     "premiere": false
   },
   {
-    "id": "ZLWNjrQYVEA",
-    "vidUrl": "https://youtu.be/ZLWNjrQYVEA",
-    "vidTitle": "\u226aKeep Talking and Nobody Explodes \u226b rAtBoi and YUNG SH1N1GAM1 B01 back at it again",
-    "channelId": "@hakosbaelz",
-    "channelName": "Hakos Baelz Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/SSZxkgjfV0O05zq1bBLOI0PszOCoxuPrANQ0Ysngsd0t81mnkwzEgIW2ypSIQJLn8swR14zLJQ=s88-c-k-c0x00ffffff-no-nd-rj",
-    "shortName": "Bae",
-    "scheduledStartTime": "2024-04-01T01:00:00Z",
-    "actualStartTime": "2024-04-01T01:02:01Z",
-    "premiere": false
-  },
-  {
-    "id": "q2eShP56_9w",
-    "vidUrl": "https://youtu.be/q2eShP56_9w",
-    "vidTitle": "\u3010DOPE COLLAB\u3011swag swag swag with Hayko (keep talkin' and no one gunna exploded)",
-    "channelId": "@moricalliope",
-    "channelName": "Mori Calliope Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/8B_T08sx8R7XVi5Mwx_l9sjQm5FGWGspeujSvVDvd80Zyr-3VvVTRGVLOnBrqNRxZp6ZeXAV=s88-c-k-c0x00ffffff-no-nd-rj",
-    "shortName": "Mori",
-    "scheduledStartTime": "2024-04-01T01:00:00Z",
-    "actualStartTime": "2024-04-01T01:02:06Z",
-    "premiere": false
-  },
-  {
     "id": "tx-ch4ThBos",
     "vidUrl": "https://youtu.be/tx-ch4ThBos",
     "vidTitle": "\u3010SHASHINGO\u3011\u3075\u3041\uff1f\u30d5\u30af\u30ed\u30a6\u306f\u8ab0\uff1f\u30e0\u30e1\u30a4\u3067\u3059\uff01",
@@ -81,6 +57,32 @@
     "shortName": "Mori",
     "scheduledStartTime": "2024-04-03T14:00:00Z",
     "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "ZLWNjrQYVEA",
+    "vidUrl": "https://youtu.be/ZLWNjrQYVEA",
+    "vidTitle": "\u226aKeep Talking and Nobody Explodes \u226b rAtBoi and YUNG SH1N1GAM1 B01 back at it again",
+    "channelId": "@hakosbaelz",
+    "channelName": "Hakos Baelz Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/SSZxkgjfV0O05zq1bBLOI0PszOCoxuPrANQ0Ysngsd0t81mnkwzEgIW2ypSIQJLn8swR14zLJQ=s88-c-k-c0x00ffffff-no-nd-rj",
+    "graveyard": true,
+    "shortName": "Bae",
+    "scheduledStartTime": "2024-04-01T01:00:00Z",
+    "actualStartTime": "2024-04-01T01:02:01Z",
+    "premiere": false
+  },
+  {
+    "id": "q2eShP56_9w",
+    "vidUrl": "https://youtu.be/q2eShP56_9w",
+    "vidTitle": "\u3010DOPE COLLAB\u3011swag swag swag with Hayko (keep talkin' and no one gunna exploded)",
+    "channelId": "@moricalliope",
+    "channelName": "Mori Calliope Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/8B_T08sx8R7XVi5Mwx_l9sjQm5FGWGspeujSvVDvd80Zyr-3VvVTRGVLOnBrqNRxZp6ZeXAV=s88-c-k-c0x00ffffff-no-nd-rj",
+    "graveyard": true,
+    "shortName": "Mori",
+    "scheduledStartTime": "2024-04-01T01:00:00Z",
+    "actualStartTime": "2024-04-01T01:02:06Z",
     "premiere": false
   }
 ]
