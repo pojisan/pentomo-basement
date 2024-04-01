@@ -108,18 +108,6 @@
     "premiere": false
   },
   {
-    "id": "lgw9LrcUfC8",
-    "vidUrl": "https://youtu.be/lgw9LrcUfC8",
-    "vidTitle": "A completely normal collab",
-    "channelId": "@fuyocloverfield",
-    "channelName": "Fuyo Cloverfield Ch. idol-EN",
-    "channelThumb": "https://yt3.ggpht.com/vqd3NC2ixgsJGUcvuvCIbQ-iDDwb6ESIgj791dJQhJ8gZ6OtG3-C2yzcfVPMPDF3cwU_eVeojHQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Fuyo",
-    "scheduledStartTime": "2024-04-01T17:00:00Z",
-    "actualStartTime": "2024-04-01T17:10:39Z",
-    "premiere": false
-  },
-  {
     "id": "rM7Vn55N7eY",
     "vidUrl": "https://youtu.be/rM7Vn55N7eY",
     "vidTitle": "Loser.",
@@ -165,18 +153,6 @@
     "shortName": "DK",
     "scheduledStartTime": "2024-04-01T18:00:00Z",
     "actualStartTime": "2024-04-01T17:59:20Z",
-    "premiere": false
-  },
-  {
-    "id": "I5U4Y8SGGtE",
-    "vidUrl": "https://youtu.be/I5U4Y8SGGtE",
-    "vidTitle": "Princess Drops a F@#$%ing Piano on You ASMR",
-    "channelId": "@spectravnu",
-    "channelName": "Spectra Libitina Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/vJEi9jvzwANF4rzrVugBrJ2CumIsI3pGN68Bap-eEXSqZbp-hNpLAdqSwSIqmgqhHUbbdUzrR-w=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Spectra",
-    "scheduledStartTime": "2024-04-01T18:00:00Z",
-    "actualStartTime": "2024-04-01T18:00:06Z",
     "premiere": false
   },
   {
@@ -1220,6 +1196,18 @@
     "channelThumb": "https://yt3.ggpht.com/N2epFpbQoGAzXd6q2EhpasgOviB2OuG9AvbQnDVY3HbugpsY5WDZ_p5Um93pEeNBKsJaGFXz=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Mimosa",
     "scheduledStartTime": "2024-04-03T19:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "-RZsunEZ1Ys",
+    "vidUrl": "https://youtu.be/-RZsunEZ1Ys",
+    "vidTitle": "\u3010KARAOKE\u3011JP SONGS WOOOO\u3010bondliveEN | Ivaela Daemoni\u3011",
+    "channelId": "@ivaelad",
+    "channelName": "Ivaela Daemoni || \u30a4\u30f4\u30a7\u30e9\u30fb\u30c7\u30e2\u30cb \u3016bondliveEN\u3017",
+    "channelThumb": "https://yt3.ggpht.com/jrJJ8oX8ZP5WElJi21bGfW0jZYnQ3FSAQtsnHMZXQ8_OZ1MnSOFCdTeAVpJVXf7Dul4Ed49h-Q=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Ivaela",
+    "scheduledStartTime": "2024-04-03T20:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -2366,6 +2354,19 @@
     "shortName": "MYTHOS VT",
     "scheduledStartTime": "2024-04-01T14:00:00Z",
     "actualStartTime": "2024-04-01T14:00:08Z",
+    "premiere": false
+  },
+  {
+    "id": "lgw9LrcUfC8",
+    "vidUrl": "https://youtu.be/lgw9LrcUfC8",
+    "vidTitle": "A completely normal collab",
+    "channelId": "@fuyocloverfield",
+    "channelName": "Fuyo Cloverfield Ch. idol-EN",
+    "channelThumb": "https://yt3.ggpht.com/vqd3NC2ixgsJGUcvuvCIbQ-iDDwb6ESIgj791dJQhJ8gZ6OtG3-C2yzcfVPMPDF3cwU_eVeojHQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Fuyo",
+    "scheduledStartTime": "2024-04-01T17:00:00Z",
+    "actualStartTime": "2024-04-01T17:10:39Z",
     "premiere": false
   },
   {
