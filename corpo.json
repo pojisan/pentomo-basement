@@ -1,5 +1,17 @@
 [
   {
+    "id": "4s2aqPw2H04",
+    "vidUrl": "https://youtu.be/4s2aqPw2H04",
+    "vidTitle": "[Gaming] Let's Chat with Yagami Noah\uff5cVTuber /GTA5 in Street Junkies\u3010GTA5\u3011\u65e5\u672c\u8a9e/PC",
+    "channelId": "@yagaminoah",
+    "channelName": "Yagami Noah / \u516b\u795e\u30ce\u30a2\u3010bondlive EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/zv3gY8PI3ZXN4KgiMrdVaBT-8XTB09763VvuJFtZ7yx0nLVUiMbUoa5RlyU_BEUmvaztteqGD5A=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Noah",
+    "scheduledStartTime": "2024-04-01T10:00:00Z",
+    "actualStartTime": "2024-04-01T10:04:01Z",
+    "premiere": false
+  },
+  {
     "id": "rh5exFVQ3KI",
     "vidUrl": "https://youtu.be/rh5exFVQ3KI",
     "vidTitle": "[ONLY UP] TIME TO SHOW SOME SKILLS with APRIL FOOLS ZATSU!!!",
@@ -117,18 +129,6 @@
     "shortName": "Rhea",
     "scheduledStartTime": "2024-04-01T16:00:00Z",
     "actualStartTime": "2024-04-01T16:01:57Z",
-    "premiere": false
-  },
-  {
-    "id": "Oma7eiiJkUA",
-    "vidUrl": "https://youtu.be/Oma7eiiJkUA",
-    "vidTitle": "The best duet of all time",
-    "channelId": "@fuyocloverfield",
-    "channelName": "Fuyo Cloverfield Ch. idol-EN",
-    "channelThumb": "https://yt3.ggpht.com/vqd3NC2ixgsJGUcvuvCIbQ-iDDwb6ESIgj791dJQhJ8gZ6OtG3-C2yzcfVPMPDF3cwU_eVeojHQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Fuyo",
-    "scheduledStartTime": "2024-04-01T16:00:00Z",
-    "actualStartTime": "2024-04-01T16:00:07Z",
     "premiere": false
   },
   {
@@ -1982,7 +1982,7 @@
   {
     "id": "KSdkyEDQFS4",
     "vidUrl": "https://youtu.be/KSdkyEDQFS4",
-    "vidTitle": "\u3008 Weekly Schedule: 3/25-3/31 + Free Chat \u3009",
+    "vidTitle": "\u3008 Weekly Schedule: 04/01-04/07 + Free Chat \u3009",
     "channelId": "@mivivnu",
     "channelName": "Mivi Aivori Ch. V&U",
     "channelThumb": "https://yt3.ggpht.com/b0A2emwbDeLrLg3NZ5zlJf0AjwnxRx8dKsbah9w_DAOW5W-nhvK_JmA87yYFwYN6KeB4dOzH=s88-c-k-c0x00ffffff-no-rj",
@@ -2146,6 +2146,19 @@
     "premiere": false
   },
   {
+    "id": "yccysErpZXk",
+    "vidUrl": "https://youtu.be/yccysErpZXk",
+    "vidTitle": "DBD AND ME. BEST FRIENDS",
+    "channelId": "@starryyozzy",
+    "channelName": "Starry Yozzy / \u30b9\u30bf\u30fc\u30ea\u30fc\u30e8\u30b8\u30fc",
+    "channelThumb": "https://yt3.ggpht.com/tCYYc5ryRY8qRWycxZUT9_KTPN8FXQN8di_U1CJb8dN6b7xKo-Pg3JDr3-ZKQvXut2omIzYoys8=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Yozzy",
+    "scheduledStartTime": "",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "ebehWjEAwb4",
     "vidUrl": "https://youtu.be/ebehWjEAwb4",
     "vidTitle": "Baba Is Not Pii\u3010#Piisutachio\u3011",
@@ -2233,6 +2246,19 @@
     "graveyard": true,
     "shortName": "Nana",
     "scheduledStartTime": "2024-03-31T15:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "YLEXrOtZhZg",
+    "vidUrl": "https://youtu.be/YLEXrOtZhZg",
+    "vidTitle": "PULL MY DEVIL TRIGGER! {DMC 3}",
+    "channelId": "@starryyozzy",
+    "channelName": "Starry Yozzy / \u30b9\u30bf\u30fc\u30ea\u30fc\u30e8\u30b8\u30fc",
+    "channelThumb": "https://yt3.ggpht.com/tCYYc5ryRY8qRWycxZUT9_KTPN8FXQN8di_U1CJb8dN6b7xKo-Pg3JDr3-ZKQvXut2omIzYoys8=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Yozzy",
+    "scheduledStartTime": "2024-03-31T21:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },

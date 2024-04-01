@@ -32,7 +32,7 @@
     "channelThumb": "https://yt3.ggpht.com/cpOrgCDSmgMO9mNbftd8UKAtsZwIGRCV5t5EmjoQ2FcP-W3N7s6S4UUc_Daz24qjDnBxrTEBrtQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Kunai",
     "scheduledStartTime": "2024-04-01T16:00:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-01T16:00:23Z",
     "premiere": false
   },
   {
@@ -84,6 +84,30 @@
     "premiere": false
   },
   {
+    "id": "xDGvgL1uv58",
+    "vidUrl": "https://youtu.be/xDGvgL1uv58",
+    "vidTitle": "\u3010L4D2\u3011100 THINGS I WANT TO DO BEFORE TURNING INTO A ZOM w/ KRISISIS\u3010NIJISANJI EN | Vezalius Bandage\u3011",
+    "channelId": "@vezaliusbandage",
+    "channelName": "Vezalius Bandage \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/rnqrntYI1y38pqQeqYAmX3_gG1vZ-iYeMGHY0nCC-lxqKdoBspKriRXzMPv7PByMydEYm9YvvzU=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Zali",
+    "scheduledStartTime": "2024-04-02T12:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "xxr8zJ9A1IM",
+    "vidUrl": "https://youtu.be/xxr8zJ9A1IM",
+    "vidTitle": "\u3010EN ZATSU\u3011just chillin~\u3010NIJISANJI EN | Kunai Nakasato\u3011",
+    "channelId": "@kunainakasato",
+    "channelName": "Kunai Nakasato \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/cpOrgCDSmgMO9mNbftd8UKAtsZwIGRCV5t5EmjoQ2FcP-W3N7s6S4UUc_Daz24qjDnBxrTEBrtQ=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Kunai",
+    "scheduledStartTime": "2024-04-02T16:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "yYQqRfyXx6A",
     "vidUrl": "https://youtu.be/yYQqRfyXx6A",
     "vidTitle": "I PLAY YAKUZA 0 FOR THE 1ST TIME! Part 3",
@@ -129,19 +153,6 @@
     "shortName": "Scarle",
     "scheduledStartTime": "2024-04-06T03:00:00Z",
     "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "Mx1CiAgP7ew",
-    "vidUrl": "https://youtu.be/Mx1CiAgP7ew",
-    "vidTitle": "SEEMS LIKE I HAVE FINALLY ARRIVED\u3010NIJISANJI EN | Vezalius Bandage\u3011",
-    "channelId": "@vezaliusbandage",
-    "channelName": "Vezalius Bandage \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/rnqrntYI1y38pqQeqYAmX3_gG1vZ-iYeMGHY0nCC-lxqKdoBspKriRXzMPv7PByMydEYm9YvvzU=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Zali",
-    "scheduledStartTime": "2024-04-01T14:00:00Z",
-    "actualStartTime": "2024-04-01T14:00:37Z",
     "premiere": false
   }
 ]
