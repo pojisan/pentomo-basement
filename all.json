@@ -36,18 +36,6 @@
     "premiere": false
   },
   {
-    "id": "Eu7Z4LP-8ak",
-    "vidUrl": "https://youtu.be/Eu7Z4LP-8ak",
-    "vidTitle": "assets seized. let's chat!",
-    "channelId": "@rowavnu",
-    "channelName": "Rowa Arctos Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/WmNbhoHWj8pD0aH58BLyjB0H02ILdnbOijCG9o-ul3FCfui6lTVQArugcLsifoJg82Tvd56Nvg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Rowa",
-    "scheduledStartTime": "2024-04-01T22:00:00Z",
-    "actualStartTime": "2024-04-01T22:01:08Z",
-    "premiere": false
-  },
-  {
     "id": "pQpBwVNLtxM",
     "vidUrl": "https://youtu.be/pQpBwVNLtxM",
     "vidTitle": "\u3010COMEBACK\u3011MY FIRST INDIE STREAM & CATNIP CARTEL MEETING",
@@ -116,7 +104,7 @@
     "channelThumb": "https://yt3.ggpht.com/ZtRcLNqOjG8w9CMolweuy-jnNGin0W0KjxVxUpzni3uvqKY6rJgnAphvHOEmxcqSV7yXwqkKcg=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Aia",
     "scheduledStartTime": "2024-04-01T23:15:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-01T23:21:48Z",
     "premiere": false
   },
   {
@@ -127,7 +115,7 @@
     "channelName": "Abi Kadabura Ch.\u3010V4Mirai\u3011",
     "channelThumb": "https://yt3.ggpht.com/B_9QpINpsFh56b7Ji0WR1H0D5HO69g-93EuXiqaldjR5WXOSXB1aPfw0AJS4cPRikq_axPzh=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Abi",
-    "scheduledStartTime": "2024-04-02T00:00:00Z",
+    "scheduledStartTime": "2024-04-01T23:30:00Z",
     "actualStartTime": "",
     "premiere": true
   },
@@ -391,6 +379,18 @@
     "channelName": "IRyS Ch. hololive-EN",
     "channelThumb": "https://yt3.ggpht.com/cDSMiVy3Xa49Ci_YyouVNzfCwVXKRYmOeywWQ_UFKzvAp6tvyeMtXMyzWzQ2u8ft4EENsJKt7A=s88-c-k-c0x00ffffff-no-nd-rj",
     "shortName": "Irys",
+    "scheduledStartTime": "2024-04-02T03:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "nblGAuUPwsk",
+    "vidUrl": "https://youtu.be/nblGAuUPwsk",
+    "vidTitle": "\u3010RP\u3011We're Going On A Date?!\u3010NIJISANJI EN | Victoria Brightshield\u3011",
+    "channelId": "@victoriabrightshield",
+    "channelName": "Victoria Brightshield \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/UObY_OAxjbHsXjWzNlFNhUlKuEOZxvvapSVL5lzzeED1tCp7gFW2acrqfjsQx0jodDnzWsCjJg=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Vivi",
     "scheduledStartTime": "2024-04-02T03:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2088,6 +2088,18 @@
     "premiere": false
   },
   {
+    "id": "XyebSGbSI-A",
+    "vidUrl": "https://youtu.be/XyebSGbSI-A",
+    "vidTitle": "Session 51: The Sea Wolf Part 2 | Into The Mists [DND] w/ Vtubers",
+    "channelId": "@ginimercury",
+    "channelName": "Roza Coatl Ch.",
+    "channelThumb": "https://yt3.ggpht.com/J_RmocTP4ficzRZ6AFtUiEXoekNfliyRQcber2EXH-nBkNjhci71GaeNHsp4gzLMZs14HZ1U6WQ=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Roza",
+    "scheduledStartTime": "2024-04-08T19:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "PYkA5s7sKw8",
     "vidUrl": "https://youtu.be/PYkA5s7sKw8",
     "vidTitle": "Let's talk about my Trip!",
@@ -2457,6 +2469,19 @@
     "shortName": "Echo Lyne",
     "scheduledStartTime": "2024-04-01T21:00:00Z",
     "actualStartTime": "2024-04-01T21:03:23Z",
+    "premiere": false
+  },
+  {
+    "id": "Eu7Z4LP-8ak",
+    "vidUrl": "https://youtu.be/Eu7Z4LP-8ak",
+    "vidTitle": "assets seized. let's chat!",
+    "channelId": "@rowavnu",
+    "channelName": "Rowa Arctos Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/WmNbhoHWj8pD0aH58BLyjB0H02ILdnbOijCG9o-ul3FCfui6lTVQArugcLsifoJg82Tvd56Nvg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Rowa",
+    "scheduledStartTime": "2024-04-01T22:00:00Z",
+    "actualStartTime": "2024-04-01T22:01:08Z",
     "premiere": false
   },
   {
