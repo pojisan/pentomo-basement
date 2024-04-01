@@ -1,17 +1,5 @@
 [
   {
-    "id": "N4FgQ-G4PZM",
-    "vidUrl": "https://youtu.be/N4FgQ-G4PZM",
-    "vidTitle": "\u3010HOLLOW KNIGHT\u3011Biboo of the Void, what is your wisdom? (Overcharmed Challenge)",
-    "channelId": "@kosekibijou",
-    "channelName": "Koseki Bijou Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/75xH5tujXTVPHlQXask8_qTbOeyq0BY4hKxNfvgTrsuqhK_oActrFV197roYikUNZhzayfiLmg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Biboo",
-    "scheduledStartTime": "2024-04-01T01:00:00Z",
-    "actualStartTime": "2024-04-01T01:00:01Z",
-    "premiere": false
-  },
-  {
     "id": "tx-ch4ThBos",
     "vidUrl": "https://youtu.be/tx-ch4ThBos",
     "vidTitle": "\u3010SHASHINGO\u3011\u3075\u3041\uff1f\u30d5\u30af\u30ed\u30a6\u306f\u8ab0\uff1f\u30e0\u30e1\u30a4\u3067\u3059\uff01",
@@ -420,6 +408,18 @@
     "premiere": false
   },
   {
+    "id": "aYLan_yHElk",
+    "vidUrl": "https://youtu.be/aYLan_yHElk",
+    "vidTitle": "Im having so much fun pretending to be a short, flat, redhead! [Dragon's Dogma 2] Part 6",
+    "channelId": "@ginimercury",
+    "channelName": "Kei Nyne",
+    "channelThumb": "https://yt3.ggpht.com/hEaDtIHmovWES9DWlvnyHna_lt6nQ0C5Fp4m_yCzXEG0SbGE6Upo4Z5pxn3-zIihinyfM3hjow=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Roza",
+    "scheduledStartTime": "2024-04-01T18:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "GZzZMK_kC2g",
     "vidUrl": "https://youtu.be/GZzZMK_kC2g",
     "vidTitle": "\u3010Q+A\u3011ask me anything!",
@@ -439,18 +439,6 @@
     "channelName": "Amiya Ch. \u30a2\u30df\u30e4\u30fb\u30a2\u30e9\u30cb\u30e3",
     "channelThumb": "https://yt3.ggpht.com/91Fqx3Xut4jaSefCeiDLVGQDSdkWAvt5jA8ejzT18EztYTppy29JNzpa7G-KThC8TzuAmlKBQcs=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Amiya",
-    "scheduledStartTime": "2024-04-01T19:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "aYLan_yHElk",
-    "vidUrl": "https://youtu.be/aYLan_yHElk",
-    "vidTitle": "Im having so much fun pretending to be a short, flat, redhead! [Dragon's Dogma 2] Part 6",
-    "channelId": "@ginimercury",
-    "channelName": "Kei Nyne",
-    "channelThumb": "https://yt3.ggpht.com/hEaDtIHmovWES9DWlvnyHna_lt6nQ0C5Fp4m_yCzXEG0SbGE6Upo4Z5pxn3-zIihinyfM3hjow=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Roza",
     "scheduledStartTime": "2024-04-01T19:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -1920,6 +1908,19 @@
     "shortName": "Airi",
     "scheduledStartTime": "2024-03-31T21:00:00Z",
     "actualStartTime": "2024-03-31T20:59:54Z",
+    "premiere": false
+  },
+  {
+    "id": "N4FgQ-G4PZM",
+    "vidUrl": "https://youtu.be/N4FgQ-G4PZM",
+    "vidTitle": "\u3010HOLLOW KNIGHT\u3011Biboo of the Void, what is your wisdom? (Overcharmed Challenge)",
+    "channelId": "@kosekibijou",
+    "channelName": "Koseki Bijou Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/75xH5tujXTVPHlQXask8_qTbOeyq0BY4hKxNfvgTrsuqhK_oActrFV197roYikUNZhzayfiLmg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Biboo",
+    "scheduledStartTime": "2024-04-01T01:00:00Z",
+    "actualStartTime": "2024-04-01T01:00:01Z",
     "premiere": false
   },
   {

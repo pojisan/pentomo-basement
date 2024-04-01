@@ -1,17 +1,5 @@
 [
   {
-    "id": "N4FgQ-G4PZM",
-    "vidUrl": "https://youtu.be/N4FgQ-G4PZM",
-    "vidTitle": "\u3010HOLLOW KNIGHT\u3011Biboo of the Void, what is your wisdom? (Overcharmed Challenge)",
-    "channelId": "@kosekibijou",
-    "channelName": "Koseki Bijou Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/75xH5tujXTVPHlQXask8_qTbOeyq0BY4hKxNfvgTrsuqhK_oActrFV197roYikUNZhzayfiLmg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Biboo",
-    "scheduledStartTime": "2024-04-01T01:00:00Z",
-    "actualStartTime": "2024-04-01T01:00:01Z",
-    "premiere": false
-  },
-  {
     "id": "tx-ch4ThBos",
     "vidUrl": "https://youtu.be/tx-ch4ThBos",
     "vidTitle": "\u3010SHASHINGO\u3011\u3075\u3041\uff1f\u30d5\u30af\u30ed\u30a6\u306f\u8ab0\uff1f\u30e0\u30e1\u30a4\u3067\u3059\uff01",
@@ -45,6 +33,19 @@
     "shortName": "Mori",
     "scheduledStartTime": "2024-04-03T14:00:00Z",
     "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "N4FgQ-G4PZM",
+    "vidUrl": "https://youtu.be/N4FgQ-G4PZM",
+    "vidTitle": "\u3010HOLLOW KNIGHT\u3011Biboo of the Void, what is your wisdom? (Overcharmed Challenge)",
+    "channelId": "@kosekibijou",
+    "channelName": "Koseki Bijou Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/75xH5tujXTVPHlQXask8_qTbOeyq0BY4hKxNfvgTrsuqhK_oActrFV197roYikUNZhzayfiLmg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Biboo",
+    "scheduledStartTime": "2024-04-01T01:00:00Z",
+    "actualStartTime": "2024-04-01T01:00:01Z",
     "premiere": false
   }
 ]
