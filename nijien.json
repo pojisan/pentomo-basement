@@ -1,17 +1,5 @@
 [
   {
-    "id": "8uZMbxXaCNs",
-    "vidUrl": "https://youtu.be/8uZMbxXaCNs",
-    "vidTitle": "SPECIALZ / Luca Kaneshiro & Meloco Kyoran",
-    "channelId": "@lucakaneshiro",
-    "channelName": "Luca Kaneshiro\u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/tCeBfd6DnX3fAO2dIv6Smje0Wj7iQT9sLFFW2jPI8Bfw6d9VY8jIYApFFrSYxK-ZTWxM1hu1=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Luca",
-    "scheduledStartTime": "2024-04-01T11:00:00Z",
-    "actualStartTime": "2024-04-01T11:00:07Z",
-    "premiere": false
-  },
-  {
     "id": "3X-HvrN06kI",
     "vidUrl": "https://youtu.be/3X-HvrN06kI",
     "vidTitle": "[WOAH] THE BRINGER OF JUSTICE IS HERE  [NIJISANJI EN | Vantacrow Bringer]",
@@ -153,19 +141,6 @@
     "shortName": "Scarle",
     "scheduledStartTime": "2024-04-06T03:00:00Z",
     "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "IEqfNUABUPw",
-    "vidUrl": "https://youtu.be/IEqfNUABUPw",
-    "vidTitle": "HAPPY FOOL\u3010NIJISANJI  EN | Maria Marionette\u3011",
-    "channelId": "@mariamarionette",
-    "channelName": "Maria Marionette \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/EZJ0E6UnrsXZKRPGwZQUJHQ4e3y9PkCHInZFzP06lAE6cYN6MXSZL7O5L5jmTRuDPSzbxNty=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Maririn",
-    "scheduledStartTime": "2024-04-01T09:00:00Z",
-    "actualStartTime": "2024-04-01T09:04:17Z",
     "premiere": false
   }
 ]
