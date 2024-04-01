@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "dxdRLPUYbLo",
-    "vidUrl": "https://youtu.be/dxdRLPUYbLo",
-    "vidTitle": "MARIO MADE ME CRY [Super Mario World]",
-    "channelId": "@neneamanoch",
-    "channelName": "Nene Amano Ch. \u5929\u91ce\u5be7\u3005\u3010kawaii\u3011",
-    "channelThumb": "https://yt3.ggpht.com/gQXL64aSlteGuabzrOCxa7Qs-OdOJ0EAMeTP1hpSpI_5_IAkpjy3X0Y4aTVe9BxxXvXOCE5VdLc=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Nene",
-    "scheduledStartTime": "2024-04-01T15:00:00Z",
-    "actualStartTime": "2024-04-01T15:09:15Z",
-    "premiere": false
-  },
-  {
     "id": "ELbumUS3ulk",
     "vidUrl": "https://youtu.be/ELbumUS3ulk",
     "vidTitle": "\u3010SUPERMARKET SIMULATOR\u3011HU IS THE BEST EMPLOYEE!\u3010globie 1st Gen\u3011",
@@ -33,18 +21,6 @@
     "shortName": "Hu",
     "scheduledStartTime": "2024-04-01T16:00:00Z",
     "actualStartTime": "2024-04-01T16:00:18Z",
-    "premiere": false
-  },
-  {
-    "id": "oQ3-qJnWd7c",
-    "vidUrl": "https://youtu.be/oQ3-qJnWd7c",
-    "vidTitle": "\u3010?????\u3011Polyester taste testing\u3010Yume Plus | Rhea Nevermore\u3011",
-    "channelId": "@rheanevermore",
-    "channelName": "Rhea Nevermore \u3010Yume+\u3011",
-    "channelThumb": "https://yt3.ggpht.com/POsoK-HHPySyD4C6ell2PZeeqjOfPFYW1SOYN0ZwETReBmkJ7ScxoTkyB3BliqEg3Qh6ulsjwQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Rhea",
-    "scheduledStartTime": "2024-04-01T16:00:00Z",
-    "actualStartTime": "2024-04-01T16:01:57Z",
     "premiere": false
   },
   {
@@ -276,6 +252,18 @@
     "premiere": false
   },
   {
+    "id": "YlJuNpulZKU",
+    "vidUrl": "https://youtu.be/YlJuNpulZKU",
+    "vidTitle": "\u3010DEBUT?\u3011let's meet LESLIE the SALAMANDER",
+    "channelId": "@lottieshinju",
+    "channelName": "Lottie Shinju Ch.\u3010PixelLink\u3011",
+    "channelThumb": "https://yt3.ggpht.com/iB7oY1uapYSoA1zpmn8TtVnCrTatyrR92ou_vLr9RmlWU2r7Ad91OBND7N2lr5iOZK4kMRok4g=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Lottie",
+    "scheduledStartTime": "2024-04-01T21:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "iFv46Dsm2dQ",
     "vidUrl": "https://youtu.be/iFv46Dsm2dQ",
     "vidTitle": "\ud83d\udd2e PALM READING \u270b",
@@ -439,6 +427,18 @@
     "channelName": "Nene Amano Ch. \u5929\u91ce\u5be7\u3005\u3010kawaii\u3011",
     "channelThumb": "https://yt3.ggpht.com/gQXL64aSlteGuabzrOCxa7Qs-OdOJ0EAMeTP1hpSpI_5_IAkpjy3X0Y4aTVe9BxxXvXOCE5VdLc=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Nene",
+    "scheduledStartTime": "2024-04-02T00:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "kbiI26Mx4eE",
+    "vidUrl": "https://youtu.be/kbiI26Mx4eE",
+    "vidTitle": "[NEW COSTUME REVEAL] Oooh Shiny - Triple A Club V&U",
+    "channelId": "@ciccinovnu",
+    "channelName": "Ciccino Katterina Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/1a_CZ4DAxk-IBbjBaAdu5yAL6PzmqauC0IurAK8sWODiLNqdIu7zg6fexuKmuwfUEFoaVXeLKw4=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Ciccino",
     "scheduledStartTime": "2024-04-02T00:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2434,6 +2434,32 @@
     "shortName": "MYTHOS VT",
     "scheduledStartTime": "2024-04-01T14:00:00Z",
     "actualStartTime": "2024-04-01T14:00:08Z",
+    "premiere": false
+  },
+  {
+    "id": "dxdRLPUYbLo",
+    "vidUrl": "https://youtu.be/dxdRLPUYbLo",
+    "vidTitle": "MARIO MADE ME CRY [Super Mario World]",
+    "channelId": "@neneamanoch",
+    "channelName": "Nene Amano Ch. \u5929\u91ce\u5be7\u3005\u3010kawaii\u3011",
+    "channelThumb": "https://yt3.ggpht.com/gQXL64aSlteGuabzrOCxa7Qs-OdOJ0EAMeTP1hpSpI_5_IAkpjy3X0Y4aTVe9BxxXvXOCE5VdLc=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Nene",
+    "scheduledStartTime": "2024-04-01T15:00:00Z",
+    "actualStartTime": "2024-04-01T15:09:15Z",
+    "premiere": false
+  },
+  {
+    "id": "oQ3-qJnWd7c",
+    "vidUrl": "https://youtu.be/oQ3-qJnWd7c",
+    "vidTitle": "\u3010?????\u3011Polyester taste testing\u3010Yume Plus | Rhea Nevermore\u3011",
+    "channelId": "@rheanevermore",
+    "channelName": "Rhea Nevermore \u3010Yume+\u3011",
+    "channelThumb": "https://yt3.ggpht.com/POsoK-HHPySyD4C6ell2PZeeqjOfPFYW1SOYN0ZwETReBmkJ7ScxoTkyB3BliqEg3Qh6ulsjwQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Rhea",
+    "scheduledStartTime": "2024-04-01T16:00:00Z",
+    "actualStartTime": "2024-04-01T16:01:57Z",
     "premiere": false
   }
 ]
