@@ -84,18 +84,6 @@
     "premiere": false
   },
   {
-    "id": "o01mLB2sE1Y",
-    "vidUrl": "https://youtu.be/o01mLB2sE1Y",
-    "vidTitle": "I'm Secretly an H-Anime VA, my story",
-    "channelId": "@xinasuwa",
-    "channelName": "Xin Asuwa Ch.",
-    "channelThumb": "https://yt3.ggpht.com/klkgyjaDV5_SOgiCDCeA_eVlOagwjlCrsAta5GTT6ey-LG7G7U-iSeqwZwsZttrJjV7WrhPF1nU=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Xin",
-    "scheduledStartTime": "2024-04-01T19:00:00Z",
-    "actualStartTime": "2024-04-01T19:01:43Z",
-    "premiere": false
-  },
-  {
     "id": "GZzZMK_kC2g",
     "vidUrl": "https://youtu.be/GZzZMK_kC2g",
     "vidTitle": "\u3010Q+A\u3011ask me anything!",
@@ -152,7 +140,7 @@
     "channelThumb": "https://yt3.ggpht.com/3pIMiD4FJEzYSAXPR4CchM-vKiT7gfMtJagky2oGpvyMy0UqATsnAPLJ8DFE1eTJQH2MYkxPHQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Yuno",
     "scheduledStartTime": "2024-04-01T20:30:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-01T20:35:36Z",
     "premiere": false
   },
   {
@@ -1476,6 +1464,18 @@
     "premiere": false
   },
   {
+    "id": "iQNS291cppU",
+    "vidUrl": "https://youtu.be/iQNS291cppU",
+    "vidTitle": "\u3010KARAOKE: THROWBACK THURSDAY\u3011Oh Me Oh My!\u3010V4Mirai | Serina Maiko | ENVtuber\u3011",
+    "channelId": "@serinamaiko",
+    "channelName": "Serina Maiko Ch.\u3010V4Mirai\u3011",
+    "channelThumb": "https://yt3.ggpht.com/e1ZnaffpDDEYZ3e7gmoBxrsB5Ssh18bPpkjVpG3mn4GakmEXEenv1ArFAoj1DSB5fsNLG4cs=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Serina",
+    "scheduledStartTime": "2024-04-04T22:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "N8wpCxqexcU",
     "vidUrl": "https://youtu.be/N8wpCxqexcU",
     "vidTitle": "\u3010SMASH OR PASS\u3011Kamen Rider edition\u3010Ran Tsukiha | Production kawaii\u3011",
@@ -2382,6 +2382,19 @@
     "shortName": "Ragi",
     "scheduledStartTime": "2024-04-01T18:15:00Z",
     "actualStartTime": "2024-04-01T18:16:26Z",
+    "premiere": false
+  },
+  {
+    "id": "o01mLB2sE1Y",
+    "vidUrl": "https://youtu.be/o01mLB2sE1Y",
+    "vidTitle": "I'm Secretly an H-Anime VA, my story",
+    "channelId": "@xinasuwa",
+    "channelName": "Xin Asuwa Ch.",
+    "channelThumb": "https://yt3.ggpht.com/klkgyjaDV5_SOgiCDCeA_eVlOagwjlCrsAta5GTT6ey-LG7G7U-iSeqwZwsZttrJjV7WrhPF1nU=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Xin",
+    "scheduledStartTime": "2024-04-01T19:00:00Z",
+    "actualStartTime": "2024-04-01T19:01:43Z",
     "premiere": false
   },
   {
