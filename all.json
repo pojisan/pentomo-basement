@@ -24,18 +24,6 @@
     "premiere": false
   },
   {
-    "id": "CbU1UV-ysXI",
-    "vidUrl": "https://youtu.be/CbU1UV-ysXI",
-    "vidTitle": "\ud83d\udd3b\ud83d\udda4 Iyla Stream |  Happy National BlubBlub Day \u0e27\u0e31\u0e19\u0e14\u0e35\u0e27\u0e31\u0e19\u0e02\u0e2d\u0e07\u0e04\u0e38\u0e13\u0e23\u0e36\u0e40\u0e1b\u0e25\u0e48\u0e32\u0e19\u0e30",
-    "channelId": "@goozillaily",
-    "channelName": "Goozilla Ily Ch. [Autumnia]",
-    "channelThumb": "https://yt3.ggpht.com/jds_vfaqo4fnyTfPohyRPUqgIR6zUfltLSkUvuL26fVY2ZVqfPBjUdIWcux0qe8hgt68pWen=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Goozilla",
-    "scheduledStartTime": "2024-04-01T11:21:48Z",
-    "actualStartTime": "2024-04-01T11:22:26Z",
-    "premiere": false
-  },
-  {
     "id": "eg4Pmcni7mM",
     "vidUrl": "https://youtu.be/eg4Pmcni7mM",
     "vidTitle": "\u3010VALORANT\u3011WOOF WOOF? Play with viewers!\u3010VOLs\u3011",
@@ -105,18 +93,6 @@
     "shortName": "Io",
     "scheduledStartTime": "2024-04-01T13:00:00Z",
     "actualStartTime": "2024-04-01T13:04:33Z",
-    "premiere": false
-  },
-  {
-    "id": "C83cR-uWxzQ",
-    "vidUrl": "https://youtu.be/C83cR-uWxzQ",
-    "vidTitle": "Hi my kittens  \u4ffa\u3068\u8a71\u305d\uff1f\u3010NIJISANJI EN\uff5cRomeo Kyoran\u3011",
-    "channelId": "@melocokyoran",
-    "channelName": "Meloco Kyoran\u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/R4_Tzx3rBLlHOAL8G5DvpzPs4Cwutg_22ISvrp0s5_3I3POjHeZVQgui9z3F3cC9EEV1B-dmc6U=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Meloco",
-    "scheduledStartTime": "2024-04-01T13:00:00Z",
-    "actualStartTime": "2024-04-01T13:05:18Z",
     "premiere": false
   },
   {
@@ -1668,6 +1644,18 @@
     "premiere": true
   },
   {
+    "id": "E59muDzxIPQ",
+    "vidUrl": "https://youtu.be/E59muDzxIPQ",
+    "vidTitle": "\u3010HAND-CAM | GUNPLA BUILDING\u3011I'm creating a monster!",
+    "channelId": "@kiliakurayami",
+    "channelName": "Kilia Kurayami Ch. \u3010EIEN Project\u3011",
+    "channelThumb": "https://yt3.ggpht.com/lfSudxn7RE0Izwj8K2GriTxOebvU7pOlFL6lRkZQfYUex3cksfnEasQtUcPcfXkEJaXYVwxAfQ=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Kilia",
+    "scheduledStartTime": "2024-04-05T19:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "kKXXGC8Jd8Y",
     "vidUrl": "https://youtu.be/kKXXGC8Jd8Y",
     "vidTitle": "\u3010FORTNITE\u3011I swear Im not an ipad kid LEAVE ME ALONE\u3010Yume+ | Rhea Nevermore\u3011",
@@ -2114,6 +2102,19 @@
     "premiere": false
   },
   {
+    "id": "CbU1UV-ysXI",
+    "vidUrl": "https://youtu.be/CbU1UV-ysXI",
+    "vidTitle": "\ud83d\udd3b\ud83d\udda4 Iyla Stream |  Happy National BlubBlub Day \u0e27\u0e31\u0e19\u0e14\u0e35\u0e27\u0e31\u0e19\u0e02\u0e2d\u0e07\u0e04\u0e38\u0e13\u0e23\u0e36\u0e40\u0e1b\u0e25\u0e48\u0e32\u0e19\u0e30",
+    "channelId": "@goozillaily",
+    "channelName": "Goozilla Ily Ch. [Autumnia]",
+    "channelThumb": "https://yt3.ggpht.com/jds_vfaqo4fnyTfPohyRPUqgIR6zUfltLSkUvuL26fVY2ZVqfPBjUdIWcux0qe8hgt68pWen=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Goozilla",
+    "scheduledStartTime": "2024-04-01T11:21:48Z",
+    "actualStartTime": "2024-04-01T11:22:26Z",
+    "premiere": false
+  },
+  {
     "id": "CB4RzkBwsx4",
     "vidUrl": "https://youtu.be/CB4RzkBwsx4",
     "vidTitle": "SOMETHING REALLY EXCITING TO SHOW YOU\u3010NIJISANJI EN | Yu Q. Wilson\u3011",
@@ -2124,6 +2125,19 @@
     "shortName": "Wilson",
     "scheduledStartTime": "2024-04-01T13:00:00Z",
     "actualStartTime": "2024-04-01T13:00:35Z",
+    "premiere": false
+  },
+  {
+    "id": "C83cR-uWxzQ",
+    "vidUrl": "https://youtu.be/C83cR-uWxzQ",
+    "vidTitle": "Hi my kittens  \u4ffa\u3068\u8a71\u305d\uff1f\u3010NIJISANJI EN\uff5cRomeo Kyoran\u3011",
+    "channelId": "@melocokyoran",
+    "channelName": "Meloco Kyoran\u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/R4_Tzx3rBLlHOAL8G5DvpzPs4Cwutg_22ISvrp0s5_3I3POjHeZVQgui9z3F3cC9EEV1B-dmc6U=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Meloco",
+    "scheduledStartTime": "2024-04-01T13:00:00Z",
+    "actualStartTime": "2024-04-01T13:05:18Z",
     "premiere": false
   },
   {
