@@ -60,18 +60,6 @@
     "premiere": false
   },
   {
-    "id": "FSuxsK0lPMw",
-    "vidUrl": "https://youtu.be/FSuxsK0lPMw",
-    "vidTitle": "\u3010Reverse:1999\u3011IT FINALLY DOWNLOADED AAA\u3010Sarugaku Leon Jr. | Globie\u3011",
-    "channelId": "@sarugakuleonjr",
-    "channelName": "Sarugaku Leon Jr. ch.\u3010globie\u3011",
-    "channelThumb": "https://yt3.ggpht.com/e13waaN0PPXE8TcWvHVMp8fRRU8JsEeplaZBMPTsNUW_iknS32QkIgFkiKtwweKBCFUZMPnj=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Leon",
-    "scheduledStartTime": "2024-04-02T16:00:00Z",
-    "actualStartTime": "2024-04-02T16:00:11Z",
-    "premiere": false
-  },
-  {
     "id": "mEplGOACT1U",
     "vidUrl": "https://youtu.be/mEplGOACT1U",
     "vidTitle": "\u3010GENSHIN IMPACT\u3011LET US OUT OF PRISON",
@@ -216,18 +204,6 @@
     "premiere": false
   },
   {
-    "id": "5Je2FvlUB9U",
-    "vidUrl": "https://youtu.be/5Je2FvlUB9U",
-    "vidTitle": "\u3010PRINCESS PEACH: SHOWTIME!\u3011Serving and slaying!",
-    "channelId": "@kiliakurayami",
-    "channelName": "Kilia Kurayami Ch. \u3010EIEN Project\u3011",
-    "channelThumb": "https://yt3.ggpht.com/lfSudxn7RE0Izwj8K2GriTxOebvU7pOlFL6lRkZQfYUex3cksfnEasQtUcPcfXkEJaXYVwxAfQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Kilia",
-    "scheduledStartTime": "2024-04-02T19:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "Tbiri2rS0j0",
     "vidUrl": "https://youtu.be/Tbiri2rS0j0",
     "vidTitle": "[CULT OF THE LAMB]  the cutest cult grows~!! [V&U | GEN 5]",
@@ -235,6 +211,18 @@
     "channelName": "Cerenity Cosmica Ch. V&U",
     "channelThumb": "https://yt3.ggpht.com/dnyzDEaJzR5qZiWFp73wK_f91hlDHxiORtJ6jwu9nzWcLr_vvkHf9IQc2PGhpiBwKWMF5ns2xg=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Cerenity",
+    "scheduledStartTime": "2024-04-02T19:00:00Z",
+    "actualStartTime": "2024-04-02T18:55:10Z",
+    "premiere": false
+  },
+  {
+    "id": "5Je2FvlUB9U",
+    "vidUrl": "https://youtu.be/5Je2FvlUB9U",
+    "vidTitle": "\u3010PRINCESS PEACH: SHOWTIME!\u3011Serving and slaying!",
+    "channelId": "@kiliakurayami",
+    "channelName": "Kilia Kurayami Ch. \u3010EIEN Project\u3011",
+    "channelThumb": "https://yt3.ggpht.com/lfSudxn7RE0Izwj8K2GriTxOebvU7pOlFL6lRkZQfYUex3cksfnEasQtUcPcfXkEJaXYVwxAfQ=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Kilia",
     "scheduledStartTime": "2024-04-02T19:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -1232,6 +1220,18 @@
     "channelThumb": "https://yt3.ggpht.com/iFJsuBeka3rm3zWT09RkNEiijQj3YcRFDWIiwS27VOlR8how5j4-GU1bWF1bKrfV4fvhk8uxSA=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Amaya",
     "scheduledStartTime": "2024-04-04T00:30:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "Vd7JJVhR4_U",
+    "vidUrl": "https://youtu.be/Vd7JJVhR4_U",
+    "vidTitle": "\u3010FASHION DESIGN\u3011RYUBIE THEMED JACKET?!\u3010EIEN Project\u3011",
+    "channelId": "@blaiseshinryu",
+    "channelName": "Blaise Shinryu Ch. \u3010EIEN Project\u3011",
+    "channelThumb": "https://yt3.ggpht.com/XWFo-WwtDhyl38I7E6RMNNpfKq28um2HF1UZVx2gvEl3_wlbtX9oRoE_fGIwtWyUetQZwEL8=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Blaise",
+    "scheduledStartTime": "2024-04-04T01:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -2798,6 +2798,19 @@
     "shortName": "Raian",
     "scheduledStartTime": "2024-04-02T13:00:00Z",
     "actualStartTime": "2024-04-02T13:05:24Z",
+    "premiere": false
+  },
+  {
+    "id": "FSuxsK0lPMw",
+    "vidUrl": "https://youtu.be/FSuxsK0lPMw",
+    "vidTitle": "\u3010Reverse:1999\u3011IT FINALLY DOWNLOADED AAA\u3010Sarugaku Leon Jr. | Globie\u3011",
+    "channelId": "@sarugakuleonjr",
+    "channelName": "Sarugaku Leon Jr. ch.\u3010globie\u3011",
+    "channelThumb": "https://yt3.ggpht.com/e13waaN0PPXE8TcWvHVMp8fRRU8JsEeplaZBMPTsNUW_iknS32QkIgFkiKtwweKBCFUZMPnj=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Leon",
+    "scheduledStartTime": "2024-04-02T16:00:00Z",
+    "actualStartTime": "2024-04-02T16:00:11Z",
     "premiere": false
   },
   {
