@@ -24,30 +24,6 @@
     "premiere": false
   },
   {
-    "id": "8hY-9v_TB-A",
-    "vidUrl": "https://youtu.be/8hY-9v_TB-A",
-    "vidTitle": "[Zatsudon Ep. 7] I have an Announcement...",
-    "channelId": "@mionakuma",
-    "channelName": "Mion Akuma \u3010AuroraLiveVR\u3011",
-    "channelThumb": "https://yt3.ggpht.com/nDRQClGe1KvbcnQM7n2UBSmCiV22fXLRrRsedlRZNFktAK5tsWp21FA7HQNoAkDvwyzrdF-0og=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Mion",
-    "scheduledStartTime": "2024-04-02T02:00:00Z",
-    "actualStartTime": "2024-04-02T02:00:21Z",
-    "premiere": false
-  },
-  {
-    "id": "95JJt9hW4Gc",
-    "vidUrl": "https://youtu.be/95JJt9hW4Gc",
-    "vidTitle": "Announcement~",
-    "channelId": "@mionakuma",
-    "channelName": "Mion Akuma \u3010AuroraLiveVR\u3011",
-    "channelThumb": "https://yt3.ggpht.com/nDRQClGe1KvbcnQM7n2UBSmCiV22fXLRrRsedlRZNFktAK5tsWp21FA7HQNoAkDvwyzrdF-0og=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Mion",
-    "scheduledStartTime": "2024-04-02T02:00:00Z",
-    "actualStartTime": "2024-04-02T02:00:30Z",
-    "premiere": false
-  },
-  {
     "id": "eEor_jybxK0",
     "vidUrl": "https://youtu.be/eEor_jybxK0",
     "vidTitle": "Just a simple farmer, boy I love Stardew Valley! (Mythical SMP Day 33)\u3010KoziiChu\u3011",
@@ -86,7 +62,7 @@
   {
     "id": "E1ZlF3-wt7w",
     "vidUrl": "https://youtu.be/E1ZlF3-wt7w",
-    "vidTitle": "DRAGON BALL FIGHTER Z!!! [PRISM PROJECT GEN 6]",
+    "vidTitle": "DRAGON BALL FIGHTER Z!!!!",
     "channelId": "@akanejun",
     "channelName": "Jun Akane / \u8d64\u91d1\u30b8\u30e5\u30f3",
     "channelThumb": "https://yt3.ggpht.com/Xav9rWL58VySYhTAZnC5aKZQ_WRRKSJhGW6SMN_u-O26vHkSl0OMnwiVJGUt7aPujvAqSbKMH3c=s88-c-k-c0x00ffffff-no-rj",
@@ -188,6 +164,18 @@
     "channelThumb": "https://yt3.ggpht.com/IMEVvbgtQtGfQnvkzPyYrTqOeGIFKWQhFd-Vanu73RPRKE_iS6om68dVM1STi0vPcZwVO5CQbg=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Athy",
     "scheduledStartTime": "2024-04-02T04:30:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "Y6JN2GrHLxM",
+    "vidUrl": "https://youtu.be/Y6JN2GrHLxM",
+    "vidTitle": "trying not to burn the kitchen down!\u3010Overcooked\u3011w/ @Miyuora",
+    "channelId": "@ayucouldeat",
+    "channelName": "ayu",
+    "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_nYKOij2hXfBtITYSJyxOPaPBPaxk3s-GcARgxVjQ=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Ayu",
+    "scheduledStartTime": "2024-04-02T06:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -308,6 +296,18 @@
     "channelThumb": "https://yt3.ggpht.com/gQXL64aSlteGuabzrOCxa7Qs-OdOJ0EAMeTP1hpSpI_5_IAkpjy3X0Y4aTVe9BxxXvXOCE5VdLc=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Nene",
     "scheduledStartTime": "2024-04-02T15:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "FSuxsK0lPMw",
+    "vidUrl": "https://youtu.be/FSuxsK0lPMw",
+    "vidTitle": "\u3010Reverse:1999\u3011IT FINALLY DOWNLOADED AAA\u3010Sarugaku Leon Jr. | Globie\u3011",
+    "channelId": "@sarugakuleonjr",
+    "channelName": "Sarugaku Leon Jr. ch.\u3010globie\u3011",
+    "channelThumb": "https://yt3.ggpht.com/e13waaN0PPXE8TcWvHVMp8fRRU8JsEeplaZBMPTsNUW_iknS32QkIgFkiKtwweKBCFUZMPnj=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Leon",
+    "scheduledStartTime": "2024-04-02T16:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -2661,6 +2661,32 @@
     "shortName": "Ayu",
     "scheduledStartTime": "2024-04-02T01:45:00Z",
     "actualStartTime": "2024-04-02T01:48:19Z",
+    "premiere": false
+  },
+  {
+    "id": "8hY-9v_TB-A",
+    "vidUrl": "https://youtu.be/8hY-9v_TB-A",
+    "vidTitle": "[Zatsudon Ep. 7] I have an Announcement...",
+    "channelId": "@mionakuma",
+    "channelName": "Mion Akuma \u3010AuroraLiveVR\u3011",
+    "channelThumb": "https://yt3.ggpht.com/nDRQClGe1KvbcnQM7n2UBSmCiV22fXLRrRsedlRZNFktAK5tsWp21FA7HQNoAkDvwyzrdF-0og=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Mion",
+    "scheduledStartTime": "2024-04-02T02:00:00Z",
+    "actualStartTime": "2024-04-02T02:00:21Z",
+    "premiere": false
+  },
+  {
+    "id": "95JJt9hW4Gc",
+    "vidUrl": "https://youtu.be/95JJt9hW4Gc",
+    "vidTitle": "Announcement~",
+    "channelId": "@mionakuma",
+    "channelName": "Mion Akuma \u3010AuroraLiveVR\u3011",
+    "channelThumb": "https://yt3.ggpht.com/nDRQClGe1KvbcnQM7n2UBSmCiV22fXLRrRsedlRZNFktAK5tsWp21FA7HQNoAkDvwyzrdF-0og=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Mion",
+    "scheduledStartTime": "2024-04-02T02:00:00Z",
+    "actualStartTime": "2024-04-02T02:00:30Z",
     "premiere": false
   },
   {
