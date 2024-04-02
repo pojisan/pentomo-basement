@@ -1,0 +1,376 @@
+{
+  "NijiEN": {
+    "LazuLight": {
+      "Pomu": {
+        "title": "Pomu Rainpuff \u3010NIJISANJI EN\u3011",
+        "thumbnail": "https://yt3.ggpht.com/m2uqTymqS-XEzQfA9OnZZkIBni-VbzMki5_Zx8OWQc4O1OdA6YxCg2r9MHfMvHJlDGT8gu-IZQ=s88-c-k-c0x00ffffff-no-rj",
+        "videoCount": "912",
+        "custom": "@pomurainpuff",
+        "lastActivity": "2024-01-20T04:07:01Z",
+        "nickname": "Pomu"
+      },
+      "Elira": {
+        "title": "Elira Pendora \u3010NIJISANJI EN\u3011",
+        "thumbnail": "https://yt3.ggpht.com/FqSL5KhR59LugywQ6QJo_fH98JS7m8WWDAfvziM3R_kyW79EmY-iEWsF_dlOcqCRdkXeQz4D=s88-c-k-c0x00ffffff-no-rj",
+        "videoCount": "715",
+        "custom": "@elirapendora",
+        "lastActivity": "2024-02-13T01:17:43Z",
+        "nickname": "Elira"
+      },
+      "Finana": {
+        "title": "Finana Ryugu \u3010NIJISANJI EN\u3011",
+        "thumbnail": "https://yt3.ggpht.com/fL9tFSUSDCS-BkrZLrtAig3_55Tg0UaZxh2xChyUyoCElYh5tV05LOQWh68krLarWJ2unbLF=s88-c-k-c0x00ffffff-no-rj",
+        "videoCount": "753",
+        "custom": "@finanaryugu",
+        "lastActivity": "2024-03-30T07:08:55Z",
+        "nickname": "Finana"
+      },
+      "Mint": {
+        "title": "Maid Mint Ch. \u30df\u30f3\u30c8\u30fb\u30d5\u30a1\u30f3\u30c8\u30fc\u30e0",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_n6SmSe9iw5XzCygBSuq4RXvP8jq7iN-C9qojMh=s88-c-k-c0x00ffffff-no-rj",
+        "videoCount": "8",
+        "custom": "@mintfantome",
+        "lastActivity": "2024-04-02T02:25:01Z",
+        "nickname": "Mint"
+      }
+    },
+    "OBSYDIA": {
+      "Wosemi": {
+        "title": "Rosemi Lovelock\u3010NIJISANJI EN\u3011",
+        "thumbnail": "https://yt3.ggpht.com/dIXH0sOv8hWRp2KlAz4jb7D5JHLaRgLSi2QTWv8mKqbuLQV-tSpvR9tmBNy50zEVSLaNGVpQgA=s88-c-k-c0x00ffffff-no-rj",
+        "videoCount": "696",
+        "custom": "@rosemi_lovelock",
+        "lastActivity": "2024-03-30T03:08:49Z",
+        "nickname": "Wosemi"
+      },
+      "Petra": {
+        "title": "Petra Gurin\u3010NIJISANJI EN\u3011",
+        "thumbnail": "https://yt3.ggpht.com/WNmANCsJ3gMNySRRTw0Rl9HOs0i6m_o86pvE2VkcUaHc6RAhmXw86eCXXeZAjApzqu63Rd4h=s88-c-k-c0x00ffffff-no-rj",
+        "videoCount": "548",
+        "custom": "@petragurin",
+        "lastActivity": "2024-04-01T15:15:54Z",
+        "nickname": "Petra"
+      },
+      "Selen": {
+        "title": "Selen Tatsuki \u3010NIJISANJI EN\u3011",
+        "thumbnail": "https://yt3.ggpht.com/_gn6aEh-Qi4Y08PMH9xbk9EvTpqMcsW2w_s6kvV37AsDmiJ-pNVALdqH8S3IXtCVsmsWDEA6Qw=s88-c-k-c0x00ffffff-no-rj",
+        "videoCount": "0",
+        "custom": "@selentatsuki",
+        "lastActivity": "",
+        "nickname": "Selen"
+      },
+      "Doki": {
+        "title": "Dokibird",
+        "thumbnail": "https://yt3.ggpht.com/ytc/AIdro_mC0pGjawRZCRFtIToTH7N3ujPqCAFuJOGcVH_8gw=s88-c-k-c0x00ffffff-no-rj",
+        "videoCount": "92",
+        "custom": "@dokibird",
+        "lastActivity": "2024-04-01T13:24:45Z",
+        "nickname": "Doki"
+      }
+    },
+    "Ethyria": {
+      "Nina": {
+        "title": "Nina Kosaka\u3010NIJISANJI EN\u3011",
+        "thumbnail": "https://yt3.ggpht.com/NjMA51STFyTrh_BoFeCBs5SbI73cwYTzBZqqVf3L2Nm8nzEel_GKx2IJCQ88mjZjbvHqehR_UA=s88-c-k-c0x00ffffff-no-rj",
+        "videoCount": "557",
+        "custom": "@ninakosaka",
+        "lastActivity": "2023-07-08T06:48:17Z",
+        "nickname": "Nina"
+      },
+      "Millie": {
+        "title": "Millie Parfait\u3010NIJISANJI EN\u3011",
+        "thumbnail": "https://yt3.ggpht.com/QlRHzMM0rIUcawzWSJ5ZIoWUhXJD8M_aCfVFrHYzlP0WEJF-4mU8jkb0s8MTPpGy4NdfRXlUiJ4=s88-c-k-c0x00ffffff-no-rj",
+        "videoCount": "633",
+        "custom": "@millieparfait",
+        "lastActivity": "2024-03-31T14:00:30Z",
+        "nickname": "Millie"
+      },
+      "Enna": {
+        "title": "Enna Alouette\u3010NIJISANJI EN\u3011",
+        "thumbnail": "https://yt3.ggpht.com/MKS8EHgSx1cC75IPUIf0zQefXweMfVpyUQxEQ_emFsTh-LTwODz6jXotb1q-QTrNpvPpf_sSuoM=s88-c-k-c0x00ffffff-no-rj",
+        "videoCount": "526",
+        "custom": "@ennaalouette",
+        "lastActivity": "2024-04-01T20:39:08Z",
+        "nickname": "Enna"
+      },
+      "Reimu": {
+        "title": "Reimu Endou\u3010NIJISANJI EN\u3011",
+        "thumbnail": "https://yt3.ggpht.com/jwZT783V-LU58DMyjShj-CWJ3GGsM5DaHX20vtIExe7LNGpaS0P5pZJV_EH11AprgaHocu6CKA=s88-c-k-c0x00ffffff-no-rj",
+        "videoCount": "689",
+        "custom": "@reimuendou",
+        "lastActivity": "2024-03-31T07:16:21Z",
+        "nickname": "Reimu"
+      },
+      "Matara": {
+        "title": "Matara Kan",
+        "thumbnail": "https://yt3.ggpht.com/EshqZxFnNCSFGF9tEImwb3jKDRjHv8geYGcbMF5u6mmFZClxP6juxn7NOGanSlslqwhGRFFvww=s88-c-k-c0x00ffffff-no-rj",
+        "videoCount": "71",
+        "custom": "@matarakan",
+        "lastActivity": "2024-04-01T19:07:02Z",
+        "nickname": "Matara"
+      }
+    },
+    "Luxiem": {
+      "Luca": {
+        "title": "Luca Kaneshiro\u3010NIJISANJI EN\u3011",
+        "thumbnail": "https://yt3.ggpht.com/tCeBfd6DnX3fAO2dIv6Smje0Wj7iQT9sLFFW2jPI8Bfw6d9VY8jIYApFFrSYxK-ZTWxM1hu1=s88-c-k-c0x00ffffff-no-rj",
+        "videoCount": "523",
+        "custom": "@lucakaneshiro",
+        "lastActivity": "2024-04-01T11:00:07Z",
+        "nickname": "Luca"
+      },
+      "Shu": {
+        "title": "Shu Yamino\u3010NIJISANJI EN\u3011",
+        "thumbnail": "https://yt3.ggpht.com/SGnMAuOdDcpIQ_ZU6UmfEB6Qi-FYoDc5yxRYJefVx6tIuCX65SH1TAWxKtKOcitXvwD5BLNztbA=s88-c-k-c0x00ffffff-no-rj",
+        "videoCount": "406",
+        "custom": "@shuyamino",
+        "lastActivity": "2024-03-20T08:13:36Z",
+        "nickname": "Shu"
+      },
+      "Ike": {
+        "title": "Ike Eveland\u3010NIJISANJI EN\u3011",
+        "thumbnail": "https://yt3.ggpht.com/Qk21faZcDJ7SZHtuPO9hUMMPEDcNy7FliS-nEuwTRrk9_wCjrR7ffANmJFUVz4-gQNsdUp3ffQ=s88-c-k-c0x00ffffff-no-rj",
+        "videoCount": "417",
+        "custom": "@ikeeveland",
+        "lastActivity": "2024-04-01T14:32:06Z",
+        "nickname": "Ike"
+      },
+      "Mysta": {
+        "title": "Mysta Rias \u3010NIJISANJI EN\u3011",
+        "thumbnail": "https://yt3.ggpht.com/XNqSxIYgxUTBjs6Vbnh8I6keep3B97OGt4LA7ajDdBKq0SW22m9ixn4oW-zAnzBikmq_hk3VoAg=s88-c-k-c0x00ffffff-no-rj",
+        "videoCount": "419",
+        "custom": "@mystarias",
+        "lastActivity": "2023-08-27T20:28:42Z",
+        "nickname": "Mysta"
+      },
+      "Vox": {
+        "title": "Vox Akuma\u3010NIJISANJI EN\u3011",
+        "thumbnail": "https://yt3.ggpht.com/Ggu-BApFGVIyHyfC8ITEwq44CrVcRvp46PDioK7Z_K3949gUOnexLrke2BRyBxajJl8fiZXshA=s88-c-k-c0x00ffffff-no-rj",
+        "videoCount": "507",
+        "custom": "@voxakuma",
+        "lastActivity": "2024-01-26T17:59:43Z",
+        "nickname": "Vox"
+      },
+      "Kuro": {
+        "title": "K9KURO",
+        "thumbnail": "https://yt3.ggpht.com/zuG2TLEc_A-yWjHFTFYWe4ITzqRG7R5sMbYpa9kSFwtXM_pF-coqDuq7MZxz0hK8oB234TWX=s88-c-k-c0x00ffffff-no-rj",
+        "videoCount": "51",
+        "custom": "@k9kuro",
+        "lastActivity": "2024-04-01T17:14:18Z",
+        "nickname": "Kuro"
+      }
+    },
+    "Noctyx": {
+      "Sonny": {
+        "title": "Sonny Brisko \u3010NIJISANJI EN\u3011",
+        "thumbnail": "https://yt3.ggpht.com/Z6Pi1VkybXJu7D-yDxlSnL6hlavVbedb3qfkbCHc6zllK-Eo4lCqmNxpxc4XUM0IEFACqpdwsKo=s88-c-k-c0x00ffffff-no-rj",
+        "videoCount": "427",
+        "custom": "@sonnybrisko",
+        "lastActivity": "2024-03-31T14:35:17Z",
+        "nickname": "Sonny"
+      },
+      "Uki": {
+        "title": "Uki Violeta \u3010NIJISANJI EN\u3011",
+        "thumbnail": "https://yt3.ggpht.com/WIy30MlmcCTxrEuKULkAdh8itCfT4Up5myJbpVHTkKbfKcgriF_qL6d3iJMD_mQfwb0B1JDT=s88-c-k-c0x00ffffff-no-rj",
+        "videoCount": "496",
+        "custom": "@ukivioleta",
+        "lastActivity": "2024-04-01T02:05:57Z",
+        "nickname": "Uki"
+      },
+      "Alban": {
+        "title": "Alban Knox \u3010NIJISANJI EN\u3011",
+        "thumbnail": "https://yt3.ggpht.com/rbTGK5bXuub0l3feyx8c780FtoRAtT1KDgqOGQq2wSisQJo17wk9PusEc_ZjUMK_uwZ47LIZiSI=s88-c-k-c0x00ffffff-no-rj",
+        "videoCount": "646",
+        "custom": "@albanknox",
+        "lastActivity": "2024-04-02T02:48:59Z",
+        "nickname": "Alban"
+      },
+      "Fulgur": {
+        "title": "Fulgur Ovid \u3010NIJISANJI EN\u3011",
+        "thumbnail": "https://yt3.ggpht.com/XNXzzx7l8J6c1GjXnKYd1jKH8ANlEIs9zpeFeAQTaXwZWJWVlFPa3iwuH8SVXm0IBKwP5cBq=s88-c-k-c0x00ffffff-no-rj",
+        "videoCount": "471",
+        "custom": "@fulgurovid",
+        "lastActivity": "2024-04-01T21:10:02Z",
+        "nickname": "Fulgur"
+      },
+      "Yugo": {
+        "title": "Yugo Asuma \u3010NIJISANJI EN\u3011",
+        "thumbnail": "https://yt3.ggpht.com/dUDmqz15wCiw7pHG7Qkdzw2iZ0i_7ByJBugyCb4VTa8ebmfsUo3YJuwe6DHmFdCrHh6BPLYc=s88-c-k-c0x00ffffff-no-rj",
+        "videoCount": "0",
+        "custom": "@yugoasuma",
+        "lastActivity": "",
+        "nickname": "Yugo"
+      },
+      "Unnamed": {
+        "title": "Unn\u00e4med",
+        "thumbnail": "https://yt3.ggpht.com/bPLPd81HaVZYBHtaFjJm0V6lrEs8E1Dh80NaUvKB-FY0qdrOLh5L6po9YgKjtgNTEDokktYKs6o=s88-c-k-c0x00ffffff-no-nd-rj",
+        "videoCount": "63",
+        "custom": "@unnamednow00",
+        "lastActivity": "2024-03-08T11:49:00Z",
+        "nickname": "Unnamed"
+      }
+    },
+    "ILUNA": {
+      "Maririn": {
+        "title": "Maria Marionette \u3010NIJISANJI EN\u3011",
+        "thumbnail": "https://yt3.ggpht.com/EZJ0E6UnrsXZKRPGwZQUJHQ4e3y9PkCHInZFzP06lAE6cYN6MXSZL7O5L5jmTRuDPSzbxNty=s88-c-k-c0x00ffffff-no-rj",
+        "videoCount": "563",
+        "custom": "@mariamarionette",
+        "lastActivity": "2024-04-01T14:31:32Z",
+        "nickname": "Maririn"
+      },
+      "Kyo": {
+        "title": "Kyo Kaneko \u3010NIJISANJI EN\u3011",
+        "thumbnail": "https://yt3.ggpht.com/Jrg2qRROP6b6M2BqlgVUANBVPy-PJX53vxMjhdwipZiftG04DMK4LccsdH5lrmkkkRv19WMnrw=s88-c-k-c0x00ffffff-no-rj",
+        "videoCount": "465",
+        "custom": "@kyokaneko",
+        "lastActivity": "2024-02-17T08:22:34Z",
+        "nickname": "Kyo"
+      },
+      "Aia": {
+        "title": "Aia Amare \u3010NIJISANJI EN\u3011",
+        "thumbnail": "https://yt3.ggpht.com/ZtRcLNqOjG8w9CMolweuy-jnNGin0W0KjxVxUpzni3uvqKY6rJgnAphvHOEmxcqSV7yXwqkKcg=s88-c-k-c0x00ffffff-no-rj",
+        "videoCount": "478",
+        "custom": "@aiaamare",
+        "lastActivity": "2024-04-02T02:31:09Z",
+        "nickname": "Aia"
+      },
+      "Aster": {
+        "title": "Aster Arcadia \u3010NIJISANJI EN\u3011",
+        "thumbnail": "https://yt3.ggpht.com/PfyW7HnjCKF15WfzvFBLo_vx94y_tZw_jpnjku0GyvZnynSODh2E9aJ0Vi1mlc3R8sF_hXNl-g=s88-c-k-c0x00ffffff-no-rj",
+        "videoCount": "510",
+        "custom": "@asterarcadia",
+        "lastActivity": "2024-03-31T15:43:35Z",
+        "nickname": "Aster"
+      },
+      "Scarle": {
+        "title": "Scarle Yonaguni \u3010NIJISANJI EN\u3011",
+        "thumbnail": "https://yt3.ggpht.com/oYEH8ckOxzEJ0GXlZGp4aSxvZrMWAeodRUg_MRgHqJEr7bEyjXdoC5VyYZ143XtcIKUozhQq6Q=s88-c-k-c0x00ffffff-no-rj",
+        "videoCount": "793",
+        "custom": "@scarleyonaguni",
+        "lastActivity": "2024-04-01T06:27:48Z",
+        "nickname": "Scarle"
+      },
+      "Ren": {
+        "title": "Ren Zotto \u3010NIJISANJI EN\u3011",
+        "thumbnail": "https://yt3.ggpht.com/9-JRRUNPn8SanGWeg4zEEqqK14niqROhgUKzAkvuBAx1sOCcTSpG18-uQTn87w0EaH1l9emGCw=s88-c-k-c0x00ffffff-no-rj",
+        "videoCount": "322",
+        "custom": "@renzotto",
+        "lastActivity": "2024-03-25T08:22:41Z",
+        "nickname": "Ren"
+      }
+    },
+    "XSOLEIL": {
+      "Zaion": {
+        "title": "Zaion LanZa\u3010NIJISANJI EN\u3011",
+        "thumbnail": "https://yt3.ggpht.com/DrHNK8DkQhELD8LMdrvJ7SSj0t5UrZfQjvMuYUDlGM1LTREgx7GEg7kE48EWBDWCcfzaDGiktqg=s88-c-k-c0x00ffffff-no-rj",
+        "videoCount": "0",
+        "custom": "@zaionlanza",
+        "lastActivity": "",
+        "nickname": "Zaion"
+      },
+      "Doppio": {
+        "title": "Doppio Dropscythe\u3010NIJISANJI EN\u3011",
+        "thumbnail": "https://yt3.ggpht.com/X1LtitsaIYwwrNyC5vmTCzUJUC1LHRlrkBcVHQIUkGb--Sj8ZrX_FFB7HwbG5oum7oNf80mZ=s88-c-k-c0x00ffffff-no-rj",
+        "videoCount": "337",
+        "custom": "@doppiodropscythe",
+        "lastActivity": "2024-04-01T23:50:33Z",
+        "nickname": "Doppio"
+      },
+      "Meloco": {
+        "title": "Meloco Kyoran\u3010NIJISANJI EN\u3011",
+        "thumbnail": "https://yt3.ggpht.com/R4_Tzx3rBLlHOAL8G5DvpzPs4Cwutg_22ISvrp0s5_3I3POjHeZVQgui9z3F3cC9EEV1B-dmc6U=s88-c-k-c0x00ffffff-no-rj",
+        "videoCount": "292",
+        "custom": "@melocokyoran",
+        "lastActivity": "2024-04-01T14:36:41Z",
+        "nickname": "Meloco"
+      },
+      "Hex": {
+        "title": "Hex Haywire\u3010NIJISANJI EN\u3011",
+        "thumbnail": "https://yt3.ggpht.com/krG1d8TvRL7GUoOsXXTUpuFQkgpRQkpx8402WzitwxFZOVz8z6UqsPsoUOERJkuJ8FLqQi0Gpg=s88-c-k-c0x00ffffff-no-rj",
+        "videoCount": "350",
+        "custom": "@hexhaywire",
+        "lastActivity": "2024-03-31T20:05:59Z",
+        "nickname": "Hex"
+      },
+      "Kotoka": {
+        "title": "Kotoka Torahime\u3010NIJISANJI EN\u3011",
+        "thumbnail": "https://yt3.ggpht.com/uhBaBUnvP5DX8KJwTdLOIBo3UXPi47-9h5ouPJAiFNGve8qAJKwsZcSAfzzs2ludQQawmCD3fg=s88-c-k-c0x00ffffff-no-rj",
+        "videoCount": "341",
+        "custom": "@kotokatorahime",
+        "lastActivity": "2024-02-20T12:00:47Z",
+        "nickname": "Kotoka"
+      },
+      "Ver": {
+        "title": "Ver Vermillion\u3010NIJISANJI EN\u3011",
+        "thumbnail": "https://yt3.ggpht.com/QwgUIFhcWKt-yHJ19FqCYelMr9M4fL1JCYuL14ZwdeggK08tKrvqEx9ZU99Tv7HVOaGFA0oPng=s88-c-k-c0x00ffffff-no-rj",
+        "videoCount": "318",
+        "custom": "@ververmillion",
+        "lastActivity": "2024-03-29T14:35:20Z",
+        "nickname": "Ver"
+      }
+    },
+    "Krisis": {
+      "Zali": {
+        "title": "Vezalius Bandage \u3010NIJISANJI EN\u3011",
+        "thumbnail": "https://yt3.ggpht.com/rnqrntYI1y38pqQeqYAmX3_gG1vZ-iYeMGHY0nCC-lxqKdoBspKriRXzMPv7PByMydEYm9YvvzU=s88-c-k-c0x00ffffff-no-rj",
+        "videoCount": "236",
+        "custom": "@vezaliusbandage",
+        "lastActivity": "2024-04-01T16:01:28Z",
+        "nickname": "Zali"
+      },
+      "Vanta": {
+        "title": "Vantacrow Bringer \u3010NIJISANJI EN\u3011",
+        "thumbnail": "https://yt3.ggpht.com/GLPkvp_8o7OvZ3q57IpqDSHIyv6OqZFK6tO1egzLoMjE19EBlo3tISEMIOLEvkC5jnl2Uus93A=s88-c-k-c0x00ffffff-no-rj",
+        "videoCount": "286",
+        "custom": "@vantacrowbringer",
+        "lastActivity": "2024-04-02T01:57:21Z",
+        "nickname": "Vanta"
+      },
+      "Wilson": {
+        "title": "Yu Q. Wilson \u3010NIJISANJI EN\u3011",
+        "thumbnail": "https://yt3.ggpht.com/GR1e8gQ-x7ehgpqAZmrwoJBI7ReZneaTR6PEQvgcW3kIabEvfTenrpiNRWZSH6QpysfZftKKrA=s88-c-k-c0x00ffffff-no-rj",
+        "videoCount": "172",
+        "custom": "@yuq.wilson",
+        "lastActivity": "2024-04-02T00:09:59Z",
+        "nickname": "Wilson"
+      }
+    },
+    "TTT": {
+      "Claude": {
+        "title": "Claude Clawmark \u3010NIJISANJI EN\u3011",
+        "thumbnail": "https://yt3.ggpht.com/e7od55bIqtwAdCdpEdEf1d-PITBdVzntIaqGwTif46sTptNuJQ4WlVPPcfskh3wqb9axkDuOSg=s88-c-k-c0x00ffffff-no-rj",
+        "videoCount": "98",
+        "custom": "@claudeclawmark",
+        "lastActivity": "2024-03-31T06:02:42Z",
+        "nickname": "Claude"
+      },
+      "Vivi": {
+        "title": "Victoria Brightshield \u3010NIJISANJI EN\u3011",
+        "thumbnail": "https://yt3.ggpht.com/UObY_OAxjbHsXjWzNlFNhUlKuEOZxvvapSVL5lzzeED1tCp7gFW2acrqfjsQx0jodDnzWsCjJg=s88-c-k-c0x00ffffff-no-rj",
+        "videoCount": "106",
+        "custom": "@victoriabrightshield",
+        "lastActivity": "2024-04-01T23:22:29Z",
+        "nickname": "Vivi"
+      },
+      "Kunai": {
+        "title": "Kunai Nakasato \u3010NIJISANJI EN\u3011",
+        "thumbnail": "https://yt3.ggpht.com/cpOrgCDSmgMO9mNbftd8UKAtsZwIGRCV5t5EmjoQ2FcP-W3N7s6S4UUc_Daz24qjDnBxrTEBrtQ=s88-c-k-c0x00ffffff-no-rj",
+        "videoCount": "127",
+        "custom": "@kunainakasato",
+        "lastActivity": "2024-04-01T20:12:26Z",
+        "nickname": "Kunai"
+      }
+    },
+    "Other": {
+      "Seffyna": {
+        "title": "\u30bb\u30d5\u30a3\u30ca / Seffyna\u3010\u306b\u3058\u3055\u3093\u3058\u3011",
+        "thumbnail": "https://yt3.ggpht.com/0QDtmroClBOCB8eZSOVWlGObtXc7wf8tk-USsyvw5nY-i_IE8xsxebzGBzD5OfHGlNBICUmgDg=s88-c-k-c0x00ffffff-no-rj",
+        "videoCount": "1151",
+        "custom": "@seffyna",
+        "lastActivity": "2024-04-01T06:07:36Z",
+        "nickname": "Seffyna"
+      }
+    }
+  }
+}
