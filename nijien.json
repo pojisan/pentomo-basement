@@ -1,17 +1,5 @@
 [
   {
-    "id": "UlfYaCKXOMM",
-    "vidUrl": "https://youtu.be/UlfYaCKXOMM",
-    "vidTitle": "LOVE ADVICE WITH DAME AIA AMARE (YOU ARE MAIDENLESS) \u3010NIJISANJI EN | Aia Amare \u3011",
-    "channelId": "@aiaamare",
-    "channelName": "Aia Amare \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/ZtRcLNqOjG8w9CMolweuy-jnNGin0W0KjxVxUpzni3uvqKY6rJgnAphvHOEmxcqSV7yXwqkKcg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Aia",
-    "scheduledStartTime": "2024-04-01T23:15:00Z",
-    "actualStartTime": "2024-04-01T23:21:48Z",
-    "premiere": false
-  },
-  {
     "id": "y9ZEL4ZAgI4",
     "vidUrl": "https://youtu.be/y9ZEL4ZAgI4",
     "vidTitle": "\u3010THE MURDER OF SONIC THE HEDGEHOG\u3011it was not me\u3010Dokibird\u3011",
@@ -168,6 +156,18 @@
     "premiere": false
   },
   {
+    "id": "m0zoNvjeAF8",
+    "vidUrl": "https://youtu.be/m0zoNvjeAF8",
+    "vidTitle": "HELLO WORLD!!! Is it ok if I haunt you again?",
+    "channelId": "@mintfantome",
+    "channelName": "Maid Mint Ch. \u30df\u30f3\u30c8\u30fb\u30d5\u30a1\u30f3\u30c8\u30fc\u30e0",
+    "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_n6SmSe9iw5XzCygBSuq4RXvP8jq7iN-C9qojMh=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Mint",
+    "scheduledStartTime": "2024-04-04T23:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "K5S0mEeM8yU",
     "vidUrl": "https://youtu.be/K5S0mEeM8yU",
     "vidTitle": "1 DEATH 1 SHOT!\ud83e\udd74\ud83c\udf7e BUCKSHOT ROULETTE",
@@ -189,6 +189,19 @@
     "shortName": "Scarle",
     "scheduledStartTime": "2024-04-06T03:00:00Z",
     "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "UlfYaCKXOMM",
+    "vidUrl": "https://youtu.be/UlfYaCKXOMM",
+    "vidTitle": "LOVE ADVICE WITH DAME AIA AMARE (YOU ARE MAIDENLESS) \u3010NIJISANJI EN | Aia Amare \u3011",
+    "channelId": "@aiaamare",
+    "channelName": "Aia Amare \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/ZtRcLNqOjG8w9CMolweuy-jnNGin0W0KjxVxUpzni3uvqKY6rJgnAphvHOEmxcqSV7yXwqkKcg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Aia",
+    "scheduledStartTime": "2024-04-01T23:15:00Z",
+    "actualStartTime": "2024-04-01T23:21:48Z",
     "premiere": false
   }
 ]
