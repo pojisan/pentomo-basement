@@ -24,18 +24,6 @@
     "premiere": false
   },
   {
-    "id": "kbiI26Mx4eE",
-    "vidUrl": "https://youtu.be/kbiI26Mx4eE",
-    "vidTitle": "[NEW COSTUME REVEAL] Oooh Shiny - Triple A Club V&U",
-    "channelId": "@ciccinovnu",
-    "channelName": "Ciccino Katterina Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/1a_CZ4DAxk-IBbjBaAdu5yAL6PzmqauC0IurAK8sWODiLNqdIu7zg6fexuKmuwfUEFoaVXeLKw4=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Ciccino",
-    "scheduledStartTime": "2024-04-02T00:00:00Z",
-    "actualStartTime": "2024-04-02T00:00:30Z",
-    "premiere": false
-  },
-  {
     "id": "JRbC8Wc494U",
     "vidUrl": "https://youtu.be/JRbC8Wc494U",
     "vidTitle": "\u3010April Fool's?\u3011Come get your Totally Normal Fortune-Telling! Scientific Readings Only",
@@ -165,18 +153,6 @@
     "shortName": "Kokone",
     "scheduledStartTime": "2024-04-02T01:03:00Z",
     "actualStartTime": "2024-04-02T01:02:10Z",
-    "premiere": false
-  },
-  {
-    "id": "sIfBjbdKvGk",
-    "vidUrl": "https://youtu.be/sIfBjbdKvGk",
-    "vidTitle": "Kokone's Production Presents.....",
-    "channelId": "@yurikagokokone",
-    "channelName": "Yurikago Kokone Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/utaAqtiHdchtKs-9YjmLmfS5prSh8My-EFrAbHpuVqu5E03DmcFOEPuCYZEXB5v0TVD87FoM=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Kokone",
-    "scheduledStartTime": "2024-04-02T01:00:00Z",
-    "actualStartTime": "2024-04-02T01:00:07Z",
     "premiere": false
   },
   {
@@ -2455,7 +2431,7 @@
   {
     "id": "iFv46Dsm2dQ",
     "vidUrl": "https://youtu.be/iFv46Dsm2dQ",
-    "vidTitle": "\ud83d\udd2e PALM READING \u270b",
+    "vidTitle": "\ud83d\udd2e PALM READING (APRIL FOOLS) \u270b",
     "channelId": "@echovnu",
     "channelName": "Echo Lyne Ch. V&U",
     "channelThumb": "https://yt3.ggpht.com/GXeZ1UMgOyI-peaWarT6IrEjhqilp90c7VnxBbAvFx2oy-wKlJMJnBR1m3oi2pwqryx8OwSk5A=s88-c-k-c0x00ffffff-no-rj",
@@ -2502,6 +2478,19 @@
     "shortName": "Suri",
     "scheduledStartTime": "2024-04-01T23:00:00Z",
     "actualStartTime": "2024-04-01T23:00:23Z",
+    "premiere": false
+  },
+  {
+    "id": "kbiI26Mx4eE",
+    "vidUrl": "https://youtu.be/kbiI26Mx4eE",
+    "vidTitle": "[NEW COSTUME REVEAL] Oooh Shiny - Triple A Club V&U",
+    "channelId": "@ciccinovnu",
+    "channelName": "Ciccino Katterina Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/1a_CZ4DAxk-IBbjBaAdu5yAL6PzmqauC0IurAK8sWODiLNqdIu7zg6fexuKmuwfUEFoaVXeLKw4=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Ciccino",
+    "scheduledStartTime": "2024-04-02T00:00:00Z",
+    "actualStartTime": "2024-04-02T00:00:30Z",
     "premiere": false
   }
 ]
