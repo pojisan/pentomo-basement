@@ -120,18 +120,6 @@
     "premiere": false
   },
   {
-    "id": "9o58WXHY-gY",
-    "vidUrl": "https://youtu.be/9o58WXHY-gY",
-    "vidTitle": "Post Announcement Zatsu\u3010Yurikago Kokone | V&U\u3011",
-    "channelId": "@yurikagokokone",
-    "channelName": "Yurikago Kokone Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/utaAqtiHdchtKs-9YjmLmfS5prSh8My-EFrAbHpuVqu5E03DmcFOEPuCYZEXB5v0TVD87FoM=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Kokone",
-    "scheduledStartTime": "2024-04-02T01:03:00Z",
-    "actualStartTime": "2024-04-02T01:02:10Z",
-    "premiere": false
-  },
-  {
     "id": "XZy5KfyJYKg",
     "vidUrl": "https://youtu.be/XZy5KfyJYKg",
     "vidTitle": "\u3010Zatsudan\u3011Io's Vacation Trip!",
@@ -141,6 +129,18 @@
     "shortName": "Io",
     "scheduledStartTime": "2024-04-02T01:00:00Z",
     "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "9o58WXHY-gY",
+    "vidUrl": "https://youtu.be/9o58WXHY-gY",
+    "vidTitle": "Post Announcement Zatsu\u3010Yurikago Kokone | V&U\u3011",
+    "channelId": "@yurikagokokone",
+    "channelName": "Yurikago Kokone Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/utaAqtiHdchtKs-9YjmLmfS5prSh8My-EFrAbHpuVqu5E03DmcFOEPuCYZEXB5v0TVD87FoM=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Kokone",
+    "scheduledStartTime": "2024-04-02T01:03:00Z",
+    "actualStartTime": "2024-04-02T01:02:10Z",
     "premiere": false
   },
   {
@@ -488,6 +488,18 @@
     "channelThumb": "https://yt3.ggpht.com/FlbqAWrn9OdE4QcjGweQkH_2WUf2kCAQPbiC4dVvt6ItUWE4pLnUrs9MJ3-KtyeULY0hGe-VPio=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Obake PAM",
     "scheduledStartTime": "2024-04-02T19:30:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "BpwdYZjaN_0",
+    "vidUrl": "https://youtu.be/BpwdYZjaN_0",
+    "vidTitle": "\u3010GHOST OF TSUSHIMA: Part 5\u3011NEW ADVENTURES, MORE HONOR!!!!\u3010V&U | GEN4\u3011",
+    "channelId": "@mismavnu",
+    "channelName": "Misma Ryzing Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/G4Ny8VTJw2-E0za2aahMa1JMAMTwmCaJcgeZZQi_oXev3r85AhhGdSaTE7bI7UyEcid6ajTtDg=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Misma",
+    "scheduledStartTime": "2024-04-02T20:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -2478,32 +2490,6 @@
     "shortName": "Suri",
     "scheduledStartTime": "2024-04-01T23:00:00Z",
     "actualStartTime": "2024-04-01T23:00:23Z",
-    "premiere": false
-  },
-  {
-    "id": "y9hWq_wP6Xs",
-    "vidUrl": "https://youtu.be/y9hWq_wP6Xs",
-    "vidTitle": "APRIL FOUL !\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
-    "channelId": "@confetticoni",
-    "channelName": "Coni Confetti Ch. idol-EN",
-    "channelThumb": "https://yt3.ggpht.com/DHI9aYg-eO1nO1PKAyVyDIP7BhuK88nkWcztyfKc-dp0zrdErFkKsbkgC13KqMucq46qreLKpz8=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Coni",
-    "scheduledStartTime": "2024-04-01T23:56:23Z",
-    "actualStartTime": "2024-04-01T23:56:35Z",
-    "premiere": false
-  },
-  {
-    "id": "kbiI26Mx4eE",
-    "vidUrl": "https://youtu.be/kbiI26Mx4eE",
-    "vidTitle": "[NEW COSTUME REVEAL] Oooh Shiny - Triple A Club V&U",
-    "channelId": "@ciccinovnu",
-    "channelName": "Ciccino Katterina Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/1a_CZ4DAxk-IBbjBaAdu5yAL6PzmqauC0IurAK8sWODiLNqdIu7zg6fexuKmuwfUEFoaVXeLKw4=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Ciccino",
-    "scheduledStartTime": "2024-04-02T00:00:00Z",
-    "actualStartTime": "2024-04-02T00:00:30Z",
     "premiere": false
   }
 ]
