@@ -24,18 +24,6 @@
     "premiere": false
   },
   {
-    "id": "0ZyJuDdXTjA",
-    "vidUrl": "https://youtu.be/0ZyJuDdXTjA",
-    "vidTitle": "\u3016Ori and the Will of the Wisps\u3017This is the end?! Q^Q\u3016Cyon \u2765 V&U\u3017",
-    "channelId": "@cyonvnu",
-    "channelName": "Cyon Hart Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/gsviy0KcEYuRE4MyNsKcEBoS0lIaW9wgkz9raEwVrQ0tIUM473cN8ORz-rdHps1IYSHxZdzI_g=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Cyon",
-    "scheduledStartTime": "2024-04-02T08:00:00Z",
-    "actualStartTime": "2024-04-02T08:03:31Z",
-    "premiere": false
-  },
-  {
     "id": "QByj_Dq2P6M",
     "vidUrl": "https://youtu.be/QByj_Dq2P6M",
     "vidTitle": "GOTTA PRACTICE!!! Mario Kart 8\u3010NIJISANJI  EN | Maria Marionette\u3011",
@@ -2676,19 +2664,6 @@
     "premiere": false
   },
   {
-    "id": "0oI7Yc8YBhw",
-    "vidUrl": "https://youtu.be/0oI7Yc8YBhw",
-    "vidTitle": "\u3010OniMon #20\u3011 Let's Learn About Animals! \u3010Yuno Hanaki\u3011",
-    "channelId": "@yunohanaki",
-    "channelName": "Yuno Hanaki Ch. \u83ef\u9b3c\u7d50\u671b \u3010kawaii\u3011",
-    "channelThumb": "https://yt3.ggpht.com/3pIMiD4FJEzYSAXPR4CchM-vKiT7gfMtJagky2oGpvyMy0UqATsnAPLJ8DFE1eTJQH2MYkxPHQ=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Yuno",
-    "scheduledStartTime": "2024-04-01T20:30:00Z",
-    "actualStartTime": "2024-04-01T20:36:06Z",
-    "premiere": false
-  },
-  {
     "id": "iFv46Dsm2dQ",
     "vidUrl": "https://youtu.be/iFv46Dsm2dQ",
     "vidTitle": "\ud83d\udd2e PALM READING (APRIL FOOLS) \u270b",
@@ -2894,6 +2869,19 @@
     "shortName": "Tonya",
     "scheduledStartTime": "2024-04-02T04:15:00Z",
     "actualStartTime": "2024-04-02T04:13:16Z",
+    "premiere": false
+  },
+  {
+    "id": "0ZyJuDdXTjA",
+    "vidUrl": "https://youtu.be/0ZyJuDdXTjA",
+    "vidTitle": "\u3016Ori and the Will of the Wisps\u3017This is the end?! Q^Q\u3016Cyon \u2765 V&U\u3017",
+    "channelId": "@cyonvnu",
+    "channelName": "Cyon Hart Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/gsviy0KcEYuRE4MyNsKcEBoS0lIaW9wgkz9raEwVrQ0tIUM473cN8ORz-rdHps1IYSHxZdzI_g=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Cyon",
+    "scheduledStartTime": "2024-04-02T08:00:00Z",
+    "actualStartTime": "2024-04-02T08:03:31Z",
     "premiere": false
   },
   {
