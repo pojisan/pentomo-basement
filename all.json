@@ -1,17 +1,5 @@
 [
   {
-    "id": "VwWoxzbY9QQ",
-    "vidUrl": "https://youtu.be/VwWoxzbY9QQ",
-    "vidTitle": "\u3010Shinkansen 0 / \u65b0\u5e79\u7dda 0\u53f7\u3011GO GO SHINKANSEN",
-    "channelId": "@irys",
-    "channelName": "IRyS Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/cDSMiVy3Xa49Ci_YyouVNzfCwVXKRYmOeywWQ_UFKzvAp6tvyeMtXMyzWzQ2u8ft4EENsJKt7A=s88-c-k-c0x00ffffff-no-nd-rj",
-    "shortName": "Irys",
-    "scheduledStartTime": "2024-04-02T03:00:00Z",
-    "actualStartTime": "2024-04-02T03:07:10Z",
-    "premiere": false
-  },
-  {
     "id": "rEdYcdkbjG8",
     "vidUrl": "https://youtu.be/rEdYcdkbjG8",
     "vidTitle": "OTAKU TALK WITH ISLA-SAMA",
@@ -67,6 +55,18 @@
     "channelName": "Cyon Hart Ch. V&U",
     "channelThumb": "https://yt3.ggpht.com/gsviy0KcEYuRE4MyNsKcEBoS0lIaW9wgkz9raEwVrQ0tIUM473cN8ORz-rdHps1IYSHxZdzI_g=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Cyon",
+    "scheduledStartTime": "2024-04-02T08:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "A99L5T5AqgY",
+    "vidUrl": "https://youtu.be/A99L5T5AqgY",
+    "vidTitle": "\u3010\u5bdd\u8d77\u304d\u3042\u3064\u68ee\u3011 \u5cf6\u3092\u3042\u3063\u3061\u3053\u3063\u3061\u6574\u5099\u3057\u3066\u308b \u3010\u306b\u3058\u3055\u3093\u3058 | \u30bb\u30d5\u30a3\u30ca\u3011",
+    "channelId": "@seffyna",
+    "channelName": "\u30bb\u30d5\u30a3\u30ca / Seffyna\u3010\u306b\u3058\u3055\u3093\u3058\u3011",
+    "channelThumb": "https://yt3.ggpht.com/0QDtmroClBOCB8eZSOVWlGObtXc7wf8tk-USsyvw5nY-i_IE8xsxebzGBzD5OfHGlNBICUmgDg=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Seffyna",
     "scheduledStartTime": "2024-04-02T08:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2822,6 +2822,19 @@
     "shortName": "Hiyori",
     "scheduledStartTime": "2024-04-02T03:00:00Z",
     "actualStartTime": "2024-04-02T03:02:30Z",
+    "premiere": false
+  },
+  {
+    "id": "VwWoxzbY9QQ",
+    "vidUrl": "https://youtu.be/VwWoxzbY9QQ",
+    "vidTitle": "\u3010Shinkansen 0 / \u65b0\u5e79\u7dda 0\u53f7\u3011GO GO SHINKANSEN",
+    "channelId": "@irys",
+    "channelName": "IRyS Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/cDSMiVy3Xa49Ci_YyouVNzfCwVXKRYmOeywWQ_UFKzvAp6tvyeMtXMyzWzQ2u8ft4EENsJKt7A=s88-c-k-c0x00ffffff-no-nd-rj",
+    "graveyard": true,
+    "shortName": "Irys",
+    "scheduledStartTime": "2024-04-02T03:00:00Z",
+    "actualStartTime": "2024-04-02T03:07:10Z",
     "premiere": false
   },
   {
