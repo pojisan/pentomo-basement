@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "dcbSLUiHciY",
-    "vidUrl": "https://youtu.be/dcbSLUiHciY",
-    "vidTitle": "\u3010Inscryption\u3011So it begins...",
-    "channelId": "@aishiiaivt",
-    "channelName": "Aishii Ai Ch. ",
-    "channelThumb": "https://yt3.ggpht.com/5lZebcvMcKGO60QqEpNlAKMvPq4BBlDBw89gYfuMUfX2Bz6mTufczpwLhmwp3EBT0t5CITq_rQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Aishii",
-    "scheduledStartTime": "2024-04-02T01:00:00Z",
-    "actualStartTime": "2024-04-02T01:01:51Z",
-    "premiere": false
-  },
-  {
     "id": "fbizp1y4TFk",
     "vidUrl": "https://youtu.be/fbizp1y4TFk",
     "vidTitle": "\u3010 TODAY ONLY  ZATSU \u3011REJECT KAWOO PRAISE SHRIMP",
@@ -57,18 +45,6 @@
     "shortName": "Clara",
     "scheduledStartTime": "2024-04-02T04:00:00Z",
     "actualStartTime": "2024-04-02T04:00:33Z",
-    "premiere": false
-  },
-  {
-    "id": "hlf1boPu8IM",
-    "vidUrl": "https://youtu.be/hlf1boPu8IM",
-    "vidTitle": "\u3010ASMR\u3011catgirl nurses you to sleep... \ud83d\udc95\ud83d\udca4",
-    "channelId": "@miuakumiya",
-    "channelName": "Miu Akumiya | Specialite EN",
-    "channelThumb": "https://yt3.ggpht.com/H0RUX3QxKuAJyYYt-hjfuZpMZXSyrmwH-ovu8KW9Kvyd-D3wToBb_5QDZQ2a3q__w6yo65EQ5xc=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Miu",
-    "scheduledStartTime": "2024-04-02T04:02:03Z",
-    "actualStartTime": "2024-04-02T04:02:13Z",
     "premiere": false
   },
   {
@@ -2645,6 +2621,19 @@
     "premiere": false
   },
   {
+    "id": "dcbSLUiHciY",
+    "vidUrl": "https://youtu.be/dcbSLUiHciY",
+    "vidTitle": "\u3010Inscryption\u3011So it begins...",
+    "channelId": "@aishiiaivt",
+    "channelName": "Aishii Ai Ch. ",
+    "channelThumb": "https://yt3.ggpht.com/5lZebcvMcKGO60QqEpNlAKMvPq4BBlDBw89gYfuMUfX2Bz6mTufczpwLhmwp3EBT0t5CITq_rQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Aishii",
+    "scheduledStartTime": "2024-04-02T01:00:00Z",
+    "actualStartTime": "2024-04-02T01:01:51Z",
+    "premiere": false
+  },
+  {
     "id": "DWh1mLl43gA",
     "vidUrl": "https://youtu.be/DWh1mLl43gA",
     "vidTitle": "Cy goes LIVE! Just Chatting\u3010bondliveEN | Cyanne Aria\u3011#vtuber",
@@ -2772,6 +2761,19 @@
     "shortName": "Cielo",
     "scheduledStartTime": "2024-04-02T04:00:00Z",
     "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "hlf1boPu8IM",
+    "vidUrl": "https://youtu.be/hlf1boPu8IM",
+    "vidTitle": "\u3010ASMR\u3011catgirl nurses you to sleep... \ud83d\udc95\ud83d\udca4",
+    "channelId": "@miuakumiya",
+    "channelName": "Miu Akumiya | Specialite EN",
+    "channelThumb": "https://yt3.ggpht.com/H0RUX3QxKuAJyYYt-hjfuZpMZXSyrmwH-ovu8KW9Kvyd-D3wToBb_5QDZQ2a3q__w6yo65EQ5xc=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Miu",
+    "scheduledStartTime": "2024-04-02T04:02:03Z",
+    "actualStartTime": "2024-04-02T04:02:13Z",
     "premiere": false
   }
 ]
