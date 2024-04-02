@@ -122,13 +122,25 @@
   {
     "id": "NL4tkJiFAVE",
     "vidUrl": "https://youtu.be/NL4tkJiFAVE",
-    "vidTitle": "\u3010TEKKEN 8\u3011Tekken Tuesday with OPEN SESSIONS!\u3010#Coyote / #KemoV\u3011#tekken #\u9244\u62f38",
+    "vidTitle": "\u3010TEKKEN 8\u3011Vtuber does Eddy Combo with Eyes Closed\u3010#Coyote / #KemoV\u3011#tekken #\u9244\u62f38",
     "channelId": "@coyote_kemov",
     "channelName": "\u30b3\u30e8\u30fc\u30c6 / Coyote",
     "channelThumb": "https://yt3.ggpht.com/VwLc2w11lh_JlrsDB9P4OvBJpqaoAZdS08gqQx7vtJ5-4DjsEiP5Un6xmT0q8VE6zr8uXYEnTqg=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Coyo",
     "scheduledStartTime": "2024-04-02T14:30:00Z",
     "actualStartTime": "2024-04-02T14:30:42Z",
+    "premiere": false
+  },
+  {
+    "id": "MITVOiIMRDg",
+    "vidUrl": "https://youtu.be/MITVOiIMRDg",
+    "vidTitle": "\u3010PERSONA 3 RELOAD *SPOILER ALERT*\u3011WE BACKK!\u3010globie 1st Gen\u3011",
+    "channelId": "@taringhu",
+    "channelName": "Taring Hu ch. \u30bf\u30ea\u30f3\u30d5\u30fc\u3010globie\u3011",
+    "channelThumb": "https://yt3.ggpht.com/ZVYdvQBa9q2BLWfDnqUrpJD16c5Tr0vGoXjvBFgydUvA1XKt1cuJPT8aMM6bSE_MtPFQVwaQYA=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Hu",
+    "scheduledStartTime": "2024-04-02T15:00:00Z",
+    "actualStartTime": "",
     "premiere": false
   },
   {
@@ -223,6 +235,18 @@
     "channelName": "Tomoe Carmine Ch. \u30c8\u30e2\u30a8\u30fb\u30ab\u30fc\u30de\u30a4\u30f3\u3010kawaii\u3011",
     "channelThumb": "https://yt3.ggpht.com/eZL22MkBQh4myHNfCyj9pFql_IgFh84HMUYFvw-cp_9jx_RIftFJc_fFNi6YxJ5LhyArJH11PQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Tomoe",
+    "scheduledStartTime": "2024-04-02T18:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "XJucgBNekU0",
+    "vidUrl": "https://youtu.be/XJucgBNekU0",
+    "vidTitle": "cubes kil to nice music\u3010Beat Saber\u3011",
+    "channelId": "@fuyocloverfield",
+    "channelName": "Fuyo Cloverfield Ch. idol-EN",
+    "channelThumb": "https://yt3.ggpht.com/vqd3NC2ixgsJGUcvuvCIbQ-iDDwb6ESIgj791dJQhJ8gZ6OtG3-C2yzcfVPMPDF3cwU_eVeojHQ=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Fuyo",
     "scheduledStartTime": "2024-04-02T18:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -716,6 +740,18 @@
     "channelThumb": "https://yt3.ggpht.com/gQXL64aSlteGuabzrOCxa7Qs-OdOJ0EAMeTP1hpSpI_5_IAkpjy3X0Y4aTVe9BxxXvXOCE5VdLc=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Nene",
     "scheduledStartTime": "2024-04-03T15:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "t___e2ixO18",
+    "vidUrl": "https://youtu.be/t___e2ixO18",
+    "vidTitle": "Making a Fuyo Figure!",
+    "channelId": "@fuyocloverfield",
+    "channelName": "Fuyo Cloverfield Ch. idol-EN",
+    "channelThumb": "https://yt3.ggpht.com/vqd3NC2ixgsJGUcvuvCIbQ-iDDwb6ESIgj791dJQhJ8gZ6OtG3-C2yzcfVPMPDF3cwU_eVeojHQ=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Fuyo",
+    "scheduledStartTime": "2024-04-03T16:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
