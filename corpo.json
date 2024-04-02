@@ -1,17 +1,5 @@
 [
   {
-    "id": "y9hWq_wP6Xs",
-    "vidUrl": "https://youtu.be/y9hWq_wP6Xs",
-    "vidTitle": "APRIL FOUL !\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
-    "channelId": "@confetticoni",
-    "channelName": "Coni Confetti Ch. idol-EN",
-    "channelThumb": "https://yt3.ggpht.com/DHI9aYg-eO1nO1PKAyVyDIP7BhuK88nkWcztyfKc-dp0zrdErFkKsbkgC13KqMucq46qreLKpz8=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Coni",
-    "scheduledStartTime": "2024-04-01T23:56:23Z",
-    "actualStartTime": "2024-04-01T23:56:35Z",
-    "premiere": false
-  },
-  {
     "id": "JRbC8Wc494U",
     "vidUrl": "https://youtu.be/JRbC8Wc494U",
     "vidTitle": "\u3010April Fool's?\u3011Come get your Totally Normal Fortune-Telling! Scientific Readings Only",
@@ -296,6 +284,18 @@
     "channelThumb": "https://yt3.ggpht.com/_SxRVgoQJ7geF9izKj4VzPpxTPLrEGcDP54bXk8_sbxVAglW5Vcr-c7ZdcdsFvXSTrZfv9hiwA=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Mikumi",
     "scheduledStartTime": "2024-04-02T08:30:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "Ju0v5nWOL20",
+    "vidUrl": "https://youtu.be/Ju0v5nWOL20",
+    "vidTitle": "THANK YOU - READING BIRTHDAY DONOS! PT 3!\u3010Just Chatting/Zatsudan\u3011",
+    "channelId": "@eliastellaria",
+    "channelName": "Elia Stellaria\u3010V-Dere\u3011",
+    "channelThumb": "https://yt3.ggpht.com/06-Ihgh44rPrUWXBSXAGR0a10dQKGBTm-AEJxG1ThlclvCzFFugh1FSz5PXqXP606Y_BV98SKA=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Elia",
+    "scheduledStartTime": "2024-04-02T09:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -2478,6 +2478,19 @@
     "shortName": "Suri",
     "scheduledStartTime": "2024-04-01T23:00:00Z",
     "actualStartTime": "2024-04-01T23:00:23Z",
+    "premiere": false
+  },
+  {
+    "id": "y9hWq_wP6Xs",
+    "vidUrl": "https://youtu.be/y9hWq_wP6Xs",
+    "vidTitle": "APRIL FOUL !\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d",
+    "channelId": "@confetticoni",
+    "channelName": "Coni Confetti Ch. idol-EN",
+    "channelThumb": "https://yt3.ggpht.com/DHI9aYg-eO1nO1PKAyVyDIP7BhuK88nkWcztyfKc-dp0zrdErFkKsbkgC13KqMucq46qreLKpz8=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Coni",
+    "scheduledStartTime": "2024-04-01T23:56:23Z",
+    "actualStartTime": "2024-04-01T23:56:35Z",
     "premiere": false
   },
   {
