@@ -24,30 +24,6 @@
     "premiere": false
   },
   {
-    "id": "qZCnD0y17QI",
-    "vidUrl": "https://youtu.be/qZCnD0y17QI",
-    "vidTitle": "\u3010TOUHOU 8\u3011 EHH MAJI? EASY MODO?\u3010V&U | GEN 5\u3011",
-    "channelId": "@tomomivnu",
-    "channelName": "Tomomi Toraya Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/VVorqIxpJu58JyAADFOQB604PDjYiMgpvkJD_NfvJ3uXGe-J8mLJTjYB3CzmlWokVy_nBmDVKQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Tomomi",
-    "scheduledStartTime": "2024-04-02T03:45:00Z",
-    "actualStartTime": "2024-04-02T05:24:01Z",
-    "premiere": false
-  },
-  {
-    "id": "OmWhbqn5xrg",
-    "vidUrl": "https://youtu.be/OmWhbqn5xrg",
-    "vidTitle": "\u81ea\u7136\u306e\u9593\u9055\u3044\u3092\u4fee\u6b63\u3057\u307e\u3059\uff01\uff01\uff01\uff01\u3010\u6b4c\u7f8e\u9cf4\u30af\u30e9\u30e9 / Phase Connect\u3011",
-    "channelId": "@kaminariclara",
-    "channelName": "Clara Ch. \u6b4c\u7f8e\u9cf4\u30af\u30e9\u30e9 \u3010Phase Connect\u3011",
-    "channelThumb": "https://yt3.ggpht.com/Ds02-91FQsIFHxhISPbW0dvCSyrXDEmKyRHIn04c1vRKMXMNobf9Ny4UszPfbWXyNPze7gVqTQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Clara",
-    "scheduledStartTime": "2024-04-02T04:00:00Z",
-    "actualStartTime": "2024-04-02T04:00:33Z",
-    "premiere": false
-  },
-  {
     "id": "rEdYcdkbjG8",
     "vidUrl": "https://youtu.be/rEdYcdkbjG8",
     "vidTitle": "OTAKU TALK WITH ISLA-SAMA",
@@ -2800,6 +2776,32 @@
     "shortName": "Jun",
     "scheduledStartTime": "2024-04-02T03:30:00Z",
     "actualStartTime": "2024-04-02T03:33:15Z",
+    "premiere": false
+  },
+  {
+    "id": "qZCnD0y17QI",
+    "vidUrl": "https://youtu.be/qZCnD0y17QI",
+    "vidTitle": "\u3010TOUHOU 8\u3011 EHH MAJI? EASY MODO?\u3010V&U | GEN 5\u3011",
+    "channelId": "@tomomivnu",
+    "channelName": "Tomomi Toraya Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/VVorqIxpJu58JyAADFOQB604PDjYiMgpvkJD_NfvJ3uXGe-J8mLJTjYB3CzmlWokVy_nBmDVKQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Tomomi",
+    "scheduledStartTime": "2024-04-02T03:45:00Z",
+    "actualStartTime": "2024-04-02T05:24:01Z",
+    "premiere": false
+  },
+  {
+    "id": "OmWhbqn5xrg",
+    "vidUrl": "https://youtu.be/OmWhbqn5xrg",
+    "vidTitle": "\u81ea\u7136\u306e\u9593\u9055\u3044\u3092\u4fee\u6b63\u3057\u307e\u3059\uff01\uff01\uff01\uff01\u3010\u6b4c\u7f8e\u9cf4\u30af\u30e9\u30e9 / Phase Connect\u3011",
+    "channelId": "@kaminariclara",
+    "channelName": "Clara Ch. \u6b4c\u7f8e\u9cf4\u30af\u30e9\u30e9 \u3010Phase Connect\u3011",
+    "channelThumb": "https://yt3.ggpht.com/Ds02-91FQsIFHxhISPbW0dvCSyrXDEmKyRHIn04c1vRKMXMNobf9Ny4UszPfbWXyNPze7gVqTQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Clara",
+    "scheduledStartTime": "2024-04-02T04:00:00Z",
+    "actualStartTime": "2024-04-02T04:00:33Z",
     "premiere": false
   },
   {
