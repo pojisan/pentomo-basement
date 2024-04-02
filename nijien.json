@@ -24,18 +24,6 @@
     "premiere": false
   },
   {
-    "id": "7cSfp5R3wfE",
-    "vidUrl": "https://youtu.be/7cSfp5R3wfE",
-    "vidTitle": "Psalm 5:9-13",
-    "channelId": "@hexhaywire",
-    "channelName": "Hex Haywire\u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/krG1d8TvRL7GUoOsXXTUpuFQkgpRQkpx8402WzitwxFZOVz8z6UqsPsoUOERJkuJ8FLqQi0Gpg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Hex",
-    "scheduledStartTime": "2024-04-02T15:45:00Z",
-    "actualStartTime": "2024-04-02T15:52:47Z",
-    "premiere": false
-  },
-  {
     "id": "vlR6IrNWnQk",
     "vidUrl": "https://youtu.be/vlR6IrNWnQk",
     "vidTitle": "\u3010SUPERMARKET SIMULATOR\u3011will he ever come back to my register?\u3010NIJISANJI EN | Uki Violeta\u3011",
@@ -44,6 +32,18 @@
     "channelThumb": "https://yt3.ggpht.com/WIy30MlmcCTxrEuKULkAdh8itCfT4Up5myJbpVHTkKbfKcgriF_qL6d3iJMD_mQfwb0B1JDT=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Uki",
     "scheduledStartTime": "2024-04-02T21:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "XsVjZUH1Mog",
+    "vidUrl": "https://youtu.be/XsVjZUH1Mog",
+    "vidTitle": "\u3010CONTENT WARNING\u3011GOING VIRAL w/ Karada-san, Mama Yamino, Dolce & Romeo",
+    "channelId": "@rosemi_lovelock",
+    "channelName": "Rosemi Lovelock\u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/dIXH0sOv8hWRp2KlAz4jb7D5JHLaRgLSi2QTWv8mKqbuLQV-tSpvR9tmBNy50zEVSLaNGVpQgA=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Wosemi",
+    "scheduledStartTime": "2024-04-03T00:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -178,5 +178,18 @@
     "scheduledStartTime": "2024-04-07T13:00:00Z",
     "actualStartTime": "",
     "premiere": true
+  },
+  {
+    "id": "7cSfp5R3wfE",
+    "vidUrl": "https://youtu.be/7cSfp5R3wfE",
+    "vidTitle": "Psalm 5:9-13",
+    "channelId": "@hexhaywire",
+    "channelName": "Hex Haywire\u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/krG1d8TvRL7GUoOsXXTUpuFQkgpRQkpx8402WzitwxFZOVz8z6UqsPsoUOERJkuJ8FLqQi0Gpg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Hex",
+    "scheduledStartTime": "2024-04-02T15:45:00Z",
+    "actualStartTime": "2024-04-02T15:52:47Z",
+    "premiere": false
   }
 ]
