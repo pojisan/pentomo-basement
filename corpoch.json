@@ -1046,7 +1046,7 @@
       "Nami": {
         "title": "Namiji Freesia Ch. \u30ca\u30df\u30b8\u30fb\u30d5\u30ea\u30fc\u30b8\u30a2\u3010kawaii\u3011",
         "thumbnail": "https://yt3.ggpht.com/1O_xpQJtJuijAdrkpsEU0jXfLoJXDo5mjUiH2Bbwp0d2Exrbz8ljQdo2Ml5H1VkTQ5BFi33pCg=s88-c-k-c0x00ffffff-no-rj",
-        "videoCount": "679",
+        "videoCount": "680",
         "custom": "@namijifreesia",
         "lastActivity": "2024-04-02T01:52:52Z",
         "nickname": "Nami"
@@ -1257,6 +1257,7 @@
   },
   "StellarVersePro": {},
   "Tsunderia": {
+    "Gen 0": {},
     "TsunQuest": {
       "Ember": {
         "title": "Ember Amane Ch. \u3010Phase Connect\u3011",
@@ -1265,6 +1266,14 @@
         "custom": "@emberamane",
         "lastActivity": "2024-04-02T17:13:13Z",
         "nickname": "Ember"
+      },
+      "Meru": {
+        "title": "Meruru",
+        "thumbnail": "https://yt3.ggpht.com/N4kyEb4Bo7vpvIRgOYEYEZjwmizUbJBxCFJo98U2roXVZk5RU3-SZ9-Lq3DW-uLfjVtyP3Ca=s88-c-k-c0x00ffffff-no-rj",
+        "videoCount": "292",
+        "custom": "@meruru",
+        "lastActivity": "2023-12-19T01:00:06Z",
+        "nickname": "Meru"
       },
       "Yuuna": {
         "title": "Yuuna Nini",
