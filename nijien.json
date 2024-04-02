@@ -36,18 +36,6 @@
     "premiere": false
   },
   {
-    "id": "xxr8zJ9A1IM",
-    "vidUrl": "https://youtu.be/xxr8zJ9A1IM",
-    "vidTitle": "\u3010EN ZATSU\u3011just chillin~\u3010NIJISANJI EN | Kunai Nakasato\u3011",
-    "channelId": "@kunainakasato",
-    "channelName": "Kunai Nakasato \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/cpOrgCDSmgMO9mNbftd8UKAtsZwIGRCV5t5EmjoQ2FcP-W3N7s6S4UUc_Daz24qjDnBxrTEBrtQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Kunai",
-    "scheduledStartTime": "2024-04-02T16:00:00Z",
-    "actualStartTime": "2024-04-02T16:00:50Z",
-    "premiere": false
-  },
-  {
     "id": "vlR6IrNWnQk",
     "vidUrl": "https://youtu.be/vlR6IrNWnQk",
     "vidTitle": "\u3010SUPERMARKET SIMULATOR\u3011will he ever come back to my register?\u3010NIJISANJI EN | Uki Violeta\u3011",
@@ -190,5 +178,18 @@
     "scheduledStartTime": "2024-04-07T13:00:00Z",
     "actualStartTime": "",
     "premiere": true
+  },
+  {
+    "id": "xxr8zJ9A1IM",
+    "vidUrl": "https://youtu.be/xxr8zJ9A1IM",
+    "vidTitle": "\u3010EN ZATSU\u3011just chillin~\u3010NIJISANJI EN | Kunai Nakasato\u3011",
+    "channelId": "@kunainakasato",
+    "channelName": "Kunai Nakasato \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/cpOrgCDSmgMO9mNbftd8UKAtsZwIGRCV5t5EmjoQ2FcP-W3N7s6S4UUc_Daz24qjDnBxrTEBrtQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Kunai",
+    "scheduledStartTime": "2024-04-02T16:00:00Z",
+    "actualStartTime": "2024-04-02T16:00:50Z",
+    "premiere": false
   }
 ]
