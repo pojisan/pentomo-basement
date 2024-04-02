@@ -60,18 +60,6 @@
     "premiere": false
   },
   {
-    "id": "S-y_HuvgIQE",
-    "vidUrl": "https://youtu.be/S-y_HuvgIQE",
-    "vidTitle": "\u226aUNARCHIVED\u30fb\u6b4c\u67a0 \u226b Last Dawn of the Dork in Aussie Shed #shorts",
-    "channelId": "@hakosbaelz",
-    "channelName": "Hakos Baelz Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/SSZxkgjfV0O05zq1bBLOI0PszOCoxuPrANQ0Ysngsd0t81mnkwzEgIW2ypSIQJLn8swR14zLJQ=s88-c-k-c0x00ffffff-no-nd-rj",
-    "shortName": "Bae",
-    "scheduledStartTime": "2024-04-02T13:00:00Z",
-    "actualStartTime": "2024-04-02T13:01:52Z",
-    "premiere": false
-  },
-  {
     "id": "wEa7gS1Nkg4",
     "vidUrl": "https://youtu.be/wEa7gS1Nkg4",
     "vidTitle": "\u3010Honkai Star Rail\u3011Playing the 2.1 update!",
@@ -812,6 +800,18 @@
     "channelThumb": "https://yt3.ggpht.com/GLPkvp_8o7OvZ3q57IpqDSHIyv6OqZFK6tO1egzLoMjE19EBlo3tISEMIOLEvkC5jnl2Uus93A=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Vanta",
     "scheduledStartTime": "2024-04-03T03:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "1Kbu5Y95-38",
+    "vidUrl": "https://youtu.be/1Kbu5Y95-38",
+    "vidTitle": "FIRST TIME MONSTER RANCHER 2!!! \ud83e\udd96\ud83d\udc99",
+    "channelId": "@isla_kawaii",
+    "channelName": "Isla Coleman Ch. \u30a2\u30a4\u30e9\u30fb\u30b3\u30fc\u30eb\u30de\u30f3\u3010kawaii\u3011",
+    "channelThumb": "https://yt3.ggpht.com/KsvJ_nvtsnENS74uknH4gxrD8fVCA2DJjiSiyrVIl2JKyVW28zny7nclNnl2j9VhZ3CDIE4pTg=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Isla",
+    "scheduledStartTime": "2024-04-03T04:15:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -2790,32 +2790,6 @@
     "shortName": "Tonya",
     "scheduledStartTime": "2024-04-02T04:15:00Z",
     "actualStartTime": "2024-04-02T04:13:16Z",
-    "premiere": false
-  },
-  {
-    "id": "O6rKJjjhOpg",
-    "vidUrl": "https://youtu.be/O6rKJjjhOpg",
-    "vidTitle": "\u3010LEFT 4 DEAD 2\u30115am but anything for my guys\u3010NIJISANJI EN | Claude Clawmark\u3011",
-    "channelId": "@claudeclawmark",
-    "channelName": "Claude Clawmark \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/e7od55bIqtwAdCdpEdEf1d-PITBdVzntIaqGwTif46sTptNuJQ4WlVPPcfskh3wqb9axkDuOSg=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Claude",
-    "scheduledStartTime": "2024-04-02T12:00:00Z",
-    "actualStartTime": "2024-04-02T12:10:11Z",
-    "premiere": false
-  },
-  {
-    "id": "e9vkb7rq_L8",
-    "vidUrl": "https://youtu.be/e9vkb7rq_L8",
-    "vidTitle": "\u3010LEFT 4 DEAD 2\u3011WE WORK TOGETHER OR DIE TOGETHER\u3010NIJISANJI EN | Yu Q. Wilson\u3011",
-    "channelId": "@yuq.wilson",
-    "channelName": "Yu Q. Wilson \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/GR1e8gQ-x7ehgpqAZmrwoJBI7ReZneaTR6PEQvgcW3kIabEvfTenrpiNRWZSH6QpysfZftKKrA=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Wilson",
-    "scheduledStartTime": "2024-04-02T12:00:00Z",
-    "actualStartTime": "2024-04-02T12:10:53Z",
     "premiere": false
   },
   {

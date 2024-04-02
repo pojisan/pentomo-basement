@@ -190,31 +190,5 @@
     "scheduledStartTime": "2024-04-07T13:00:00Z",
     "actualStartTime": "",
     "premiere": true
-  },
-  {
-    "id": "O6rKJjjhOpg",
-    "vidUrl": "https://youtu.be/O6rKJjjhOpg",
-    "vidTitle": "\u3010LEFT 4 DEAD 2\u30115am but anything for my guys\u3010NIJISANJI EN | Claude Clawmark\u3011",
-    "channelId": "@claudeclawmark",
-    "channelName": "Claude Clawmark \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/e7od55bIqtwAdCdpEdEf1d-PITBdVzntIaqGwTif46sTptNuJQ4WlVPPcfskh3wqb9axkDuOSg=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Claude",
-    "scheduledStartTime": "2024-04-02T12:00:00Z",
-    "actualStartTime": "2024-04-02T12:10:11Z",
-    "premiere": false
-  },
-  {
-    "id": "e9vkb7rq_L8",
-    "vidUrl": "https://youtu.be/e9vkb7rq_L8",
-    "vidTitle": "\u3010LEFT 4 DEAD 2\u3011WE WORK TOGETHER OR DIE TOGETHER\u3010NIJISANJI EN | Yu Q. Wilson\u3011",
-    "channelId": "@yuq.wilson",
-    "channelName": "Yu Q. Wilson \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/GR1e8gQ-x7ehgpqAZmrwoJBI7ReZneaTR6PEQvgcW3kIabEvfTenrpiNRWZSH6QpysfZftKKrA=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Wilson",
-    "scheduledStartTime": "2024-04-02T12:00:00Z",
-    "actualStartTime": "2024-04-02T12:10:53Z",
-    "premiere": false
   }
 ]
