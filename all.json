@@ -84,18 +84,6 @@
     "premiere": false
   },
   {
-    "id": "L-0yIcj_6uc",
-    "vidUrl": "https://youtu.be/L-0yIcj_6uc",
-    "vidTitle": "DAY 2 OF DAILY MINAZUKI!",
-    "channelId": "@minazukimana",
-    "channelName": "MinazukiMana - VOLs",
-    "channelThumb": "https://yt3.ggpht.com/O64mRHiN_f8Xzpwucwlf_pegYaW8OWoHcNhfVAwXcSvy3NNUbDoTjQGq0cdyrR0EdGXV4gv6XA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Mana",
-    "scheduledStartTime": "2024-04-02T11:30:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "VEx_2pI6xXo",
     "vidUrl": "https://youtu.be/VEx_2pI6xXo",
     "vidTitle": "\u3010SHINKANSEN 0\u3011 Chilla's Art... The bullet train version of Exit 8?! \u3010Kirispica | V-Dere\u3011 #\u65b0\u5e79\u7dda0\u53f7",
@@ -104,7 +92,19 @@
     "channelThumb": "https://yt3.ggpht.com/g-0m2dXUzHK-nxWmbCKFPv5JNDhOohDJinKkpHRC1QlnGonVeGYkHBbzuoLpx_HINkqXeCNHFg=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Spica",
     "scheduledStartTime": "2024-04-02T11:30:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-02T11:30:49Z",
+    "premiere": false
+  },
+  {
+    "id": "L-0yIcj_6uc",
+    "vidUrl": "https://youtu.be/L-0yIcj_6uc",
+    "vidTitle": "DAY 2 OF DAILY MINAZUKI!",
+    "channelId": "@minazukimana",
+    "channelName": "MinazukiMana - VOLs",
+    "channelThumb": "https://yt3.ggpht.com/O64mRHiN_f8Xzpwucwlf_pegYaW8OWoHcNhfVAwXcSvy3NNUbDoTjQGq0cdyrR0EdGXV4gv6XA=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Mana",
+    "scheduledStartTime": "2024-04-02T11:30:00Z",
+    "actualStartTime": "2024-04-02T11:32:48Z",
     "premiere": false
   },
   {
@@ -379,6 +379,18 @@
     "channelName": "Mozumi Pichi Ch.\u3010V-Dere\u3011",
     "channelThumb": "https://yt3.ggpht.com/-MORJjUXDCIxCYeCuEktQiDRvqDLv33ZG5fqCbxX6Y_U8dxMEIL9seZmRBtDbnTHQuCrs82YLQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Mozzu",
+    "scheduledStartTime": "2024-04-02T17:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "PNL3G-d12qw",
+    "vidUrl": "https://youtu.be/PNL3G-d12qw",
+    "vidTitle": "\u3010Holo X Break\u3011O'riends IS SO BACK!!!!!!!!!!! #kfp #\u30ad\u30a2\u30e9\u30a4\u30d6",
+    "channelId": "@takanashikiara",
+    "channelName": "Takanashi Kiara Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/w7TKJYU7zmamFmf-WxfahCo_K7Bg2__Pk-CCBNnbewMG-77OZLqJO9MLvDAmH9nEkZH8OkWgSQ=s88-c-k-c0x00ffffff-no-nd-rj",
+    "shortName": "Kiara",
     "scheduledStartTime": "2024-04-02T17:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -1004,6 +1016,18 @@
     "channelThumb": "https://yt3.ggpht.com/e-csUdgwEj5h-rQ2vwXX-EVOeXk3BZRlaqnHS7-Mnd1ZC9icqo02aHhGvl_f50l_UX1bPsJgwFs=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Nyanheras",
     "scheduledStartTime": "2024-04-03T16:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "_rWs6Ah2g28",
+    "vidUrl": "https://youtu.be/_rWs6Ah2g28",
+    "vidTitle": "The DEMON will give you NIGHTMARES!\u3010  Exanimum: The Silent Call \u3011",
+    "channelId": "@xinasuwa",
+    "channelName": "Xin Asuwa Ch.",
+    "channelThumb": "https://yt3.ggpht.com/klkgyjaDV5_SOgiCDCeA_eVlOagwjlCrsAta5GTT6ey-LG7G7U-iSeqwZwsZttrJjV7WrhPF1nU=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Xin",
+    "scheduledStartTime": "2024-04-03T17:30:00Z",
     "actualStartTime": "",
     "premiere": false
   },
