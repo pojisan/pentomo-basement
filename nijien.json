@@ -1,17 +1,5 @@
 [
   {
-    "id": "y9ZEL4ZAgI4",
-    "vidUrl": "https://youtu.be/y9ZEL4ZAgI4",
-    "vidTitle": "\u3010THE MURDER OF SONIC THE HEDGEHOG\u3011it was not me\u3010Dokibird\u3011",
-    "channelId": "@dokibird",
-    "channelName": "Dokibird",
-    "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_mC0pGjawRZCRFtIToTH7N3ujPqCAFuJOGcVH_8gw=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Doki",
-    "scheduledStartTime": "2024-04-02T00:00:00Z",
-    "actualStartTime": "2024-04-02T00:02:55Z",
-    "premiere": false
-  },
-  {
     "id": "F5mpo118onc",
     "vidUrl": "https://youtu.be/F5mpo118onc",
     "vidTitle": "\u3010ANIMAL CROSSING\u3011VILLAGER HUNTING AND DECORATING\u3010NIJISANJI EN | Vantacrow Bringer\u3011",
@@ -189,6 +177,19 @@
     "shortName": "Scarle",
     "scheduledStartTime": "2024-04-06T03:00:00Z",
     "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "y9ZEL4ZAgI4",
+    "vidUrl": "https://youtu.be/y9ZEL4ZAgI4",
+    "vidTitle": "\u3010THE MURDER OF SONIC THE HEDGEHOG\u3011it was not me\u3010Dokibird\u3011",
+    "channelId": "@dokibird",
+    "channelName": "Dokibird",
+    "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_mC0pGjawRZCRFtIToTH7N3ujPqCAFuJOGcVH_8gw=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Doki",
+    "scheduledStartTime": "2024-04-02T00:00:00Z",
+    "actualStartTime": "2024-04-02T00:02:55Z",
     "premiere": false
   }
 ]

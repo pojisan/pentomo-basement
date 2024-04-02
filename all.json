@@ -1,17 +1,5 @@
 [
   {
-    "id": "y9ZEL4ZAgI4",
-    "vidUrl": "https://youtu.be/y9ZEL4ZAgI4",
-    "vidTitle": "\u3010THE MURDER OF SONIC THE HEDGEHOG\u3011it was not me\u3010Dokibird\u3011",
-    "channelId": "@dokibird",
-    "channelName": "Dokibird",
-    "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_mC0pGjawRZCRFtIToTH7N3ujPqCAFuJOGcVH_8gw=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Doki",
-    "scheduledStartTime": "2024-04-02T00:00:00Z",
-    "actualStartTime": "2024-04-02T00:02:55Z",
-    "premiere": false
-  },
-  {
     "id": "tlsLs5sY3Zc",
     "vidUrl": "https://youtu.be/tlsLs5sY3Zc",
     "vidTitle": "MY... FRACTURED BUT WHOLE PLAYTHROUGH",
@@ -105,18 +93,6 @@
     "shortName": "Vivi",
     "scheduledStartTime": "2024-04-02T03:00:00Z",
     "actualStartTime": "2024-04-02T03:08:46Z",
-    "premiere": false
-  },
-  {
-    "id": "E1ZlF3-wt7w",
-    "vidUrl": "https://youtu.be/E1ZlF3-wt7w",
-    "vidTitle": "DRAGON BALL FIGHTER Z!!!!",
-    "channelId": "@akanejun",
-    "channelName": "Jun Akane / \u8d64\u91d1\u30b8\u30e5\u30f3",
-    "channelThumb": "https://yt3.ggpht.com/Xav9rWL58VySYhTAZnC5aKZQ_WRRKSJhGW6SMN_u-O26vHkSl0OMnwiVJGUt7aPujvAqSbKMH3c=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Jun",
-    "scheduledStartTime": "2024-04-02T03:30:00Z",
-    "actualStartTime": "2024-04-02T03:33:15Z",
     "premiere": false
   },
   {
@@ -380,6 +356,18 @@
     "channelThumb": "https://yt3.ggpht.com/d1sfvqWiJPB51QNzYWdhfomd-El9OgOGZp-PtJkZhsN0kGeVUyYuJEASnMFyVlAdm2pGRGI19A=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Lua",
     "scheduledStartTime": "2024-04-02T13:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "LuKI2T45Mo8",
+    "vidUrl": "https://youtu.be/LuKI2T45Mo8",
+    "vidTitle": "First time playing Final Fantasy 7!! pt.3\u3010Final Fantasy VII Remake\u3011",
+    "channelId": "@karrotkeromi",
+    "channelName": "Karrot Keromi Ch. \u30ab\u30ed\u30c3\u30c8 \u30b1\u30ed\u30df\u3010MyHolo TV\u3011",
+    "channelThumb": "https://yt3.ggpht.com/Wbi94uoqulRJCwB_jHN8m7C-TH8gHSts_WhEW4fbC86gFMZPu01qO59X-SvSvl-gts4r5oz99Rg=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Karrot",
+    "scheduledStartTime": "2024-04-02T14:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -2587,6 +2575,19 @@
     "premiere": false
   },
   {
+    "id": "y9ZEL4ZAgI4",
+    "vidUrl": "https://youtu.be/y9ZEL4ZAgI4",
+    "vidTitle": "\u3010THE MURDER OF SONIC THE HEDGEHOG\u3011it was not me\u3010Dokibird\u3011",
+    "channelId": "@dokibird",
+    "channelName": "Dokibird",
+    "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_mC0pGjawRZCRFtIToTH7N3ujPqCAFuJOGcVH_8gw=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Doki",
+    "scheduledStartTime": "2024-04-02T00:00:00Z",
+    "actualStartTime": "2024-04-02T00:02:55Z",
+    "premiere": false
+  },
+  {
     "id": "r5FW3tpH4qY",
     "vidUrl": "https://youtu.be/r5FW3tpH4qY",
     "vidTitle": "Minecraft's April Fools update ?!?! \u2661",
@@ -2714,6 +2715,19 @@
     "shortName": "Charzu",
     "scheduledStartTime": "2024-04-02T02:06:22Z",
     "actualStartTime": "2024-04-02T02:06:36Z",
+    "premiere": false
+  },
+  {
+    "id": "E1ZlF3-wt7w",
+    "vidUrl": "https://youtu.be/E1ZlF3-wt7w",
+    "vidTitle": "DRAGON BALL FIGHTER Z!!!!",
+    "channelId": "@akanejun",
+    "channelName": "Jun Akane / \u8d64\u91d1\u30b8\u30e5\u30f3",
+    "channelThumb": "https://yt3.ggpht.com/Xav9rWL58VySYhTAZnC5aKZQ_WRRKSJhGW6SMN_u-O26vHkSl0OMnwiVJGUt7aPujvAqSbKMH3c=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Jun",
+    "scheduledStartTime": "2024-04-02T03:30:00Z",
+    "actualStartTime": "2024-04-02T03:33:15Z",
     "premiere": false
   },
   {
