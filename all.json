@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "6STAb_UBbuU",
-    "vidUrl": "https://youtu.be/6STAb_UBbuU",
-    "vidTitle": "\u3010BALATRO\u3011 lucky at cards, unlucky in everything else\u3010NIJISANJI EN | Claude Clawmark\u3011",
-    "channelId": "@claudeclawmark",
-    "channelName": "Claude Clawmark \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/e7od55bIqtwAdCdpEdEf1d-PITBdVzntIaqGwTif46sTptNuJQ4WlVPPcfskh3wqb9axkDuOSg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Claude",
-    "scheduledStartTime": "2024-04-03T08:00:00Z",
-    "actualStartTime": "2024-04-03T07:53:58Z",
-    "premiere": false
-  },
-  {
     "id": "AQDH623YkaI",
     "vidUrl": "https://youtu.be/AQDH623YkaI",
     "vidTitle": "Circles? - THE WITNESS\u3010NIJISANJI  EN | Maria Marionette\u3011",
@@ -332,6 +320,18 @@
     "channelThumb": "https://yt3.ggpht.com/e-csUdgwEj5h-rQ2vwXX-EVOeXk3BZRlaqnHS7-Mnd1ZC9icqo02aHhGvl_f50l_UX1bPsJgwFs=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Nyanheras",
     "scheduledStartTime": "2024-04-03T16:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "GrguVJa-NC8",
+    "vidUrl": "https://youtu.be/GrguVJa-NC8",
+    "vidTitle": "\u3010A Difficult Game About Climbing\u3011Time to lose my mind #kfp #\u30ad\u30a2\u30e9\u30a4\u30d6",
+    "channelId": "@takanashikiara",
+    "channelName": "Takanashi Kiara Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/w7TKJYU7zmamFmf-WxfahCo_K7Bg2__Pk-CCBNnbewMG-77OZLqJO9MLvDAmH9nEkZH8OkWgSQ=s88-c-k-c0x00ffffff-no-nd-rj",
+    "shortName": "Kiara",
+    "scheduledStartTime": "2024-04-03T17:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -1044,6 +1044,18 @@
     "premiere": false
   },
   {
+    "id": "E9YNrlbDVG4",
+    "vidUrl": "https://youtu.be/E9YNrlbDVG4",
+    "vidTitle": "the new Prince of Persia game lessgo!",
+    "channelId": "@nikkirei",
+    "channelName": "Nikki Rei Ch. idol-EN",
+    "channelThumb": "https://yt3.ggpht.com/7yN9yQvJhx4cVCL5rLOgsBYiRtRMYEurmtjT0DosKX6qpuoSm9zeo4ELHwy7RW-knfVPzNEqAg=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Nikki",
+    "scheduledStartTime": "2024-04-04T16:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "B-wgqGf4CsU",
     "vidUrl": "https://youtu.be/B-wgqGf4CsU",
     "vidTitle": "\u3010Shinkansen 0\u3011so many anomalies",
@@ -1567,6 +1579,18 @@
     "channelName": "Kai Saikota Ch. idol-EN",
     "channelThumb": "https://yt3.ggpht.com/0rVHZdUlMh90grMz90Dv_PPWyAvBb2BbkSN2QSDU6JWGdavGje-34q4D6E1OYgBkx74vfrxzyw=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Kai",
+    "scheduledStartTime": "2024-04-05T16:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "DmbNJZAVjS4",
+    "vidUrl": "https://youtu.be/DmbNJZAVjS4",
+    "vidTitle": "\u3016 Membership \u3017Drawing Body Emotes: THE TUMMY",
+    "channelId": "@nikkirei",
+    "channelName": "Nikki Rei Ch. idol-EN",
+    "channelThumb": "https://yt3.ggpht.com/7yN9yQvJhx4cVCL5rLOgsBYiRtRMYEurmtjT0DosKX6qpuoSm9zeo4ELHwy7RW-knfVPzNEqAg=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Nikki",
     "scheduledStartTime": "2024-04-05T16:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2735,6 +2759,19 @@
     "shortName": "Boomi",
     "scheduledStartTime": "2024-04-03T00:00:00Z",
     "actualStartTime": "2024-04-03T00:09:26Z",
+    "premiere": false
+  },
+  {
+    "id": "6STAb_UBbuU",
+    "vidUrl": "https://youtu.be/6STAb_UBbuU",
+    "vidTitle": "\u3010BALATRO\u3011 lucky at cards, unlucky in everything else\u3010NIJISANJI EN | Claude Clawmark\u3011",
+    "channelId": "@claudeclawmark",
+    "channelName": "Claude Clawmark \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/e7od55bIqtwAdCdpEdEf1d-PITBdVzntIaqGwTif46sTptNuJQ4WlVPPcfskh3wqb9axkDuOSg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Claude",
+    "scheduledStartTime": "2024-04-03T08:00:00Z",
+    "actualStartTime": "2024-04-03T07:53:58Z",
     "premiere": false
   },
   {
