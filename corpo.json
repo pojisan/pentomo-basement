@@ -36,30 +36,6 @@
     "premiere": false
   },
   {
-    "id": "lFqoubfJaac",
-    "vidUrl": "https://youtu.be/lFqoubfJaac",
-    "vidTitle": "LIFE IS LIKE A HURRICANE\u3010DUCKTALES REMASTERED\u3011",
-    "channelId": "@umikyoku",
-    "channelName": "Umi Kyoku \u3010\u3046\u307f\u304d\u3087\u304f\u3011",
-    "channelThumb": "https://yt3.ggpht.com/swraGRJ-7ukDEjf58l8YghX2KRDuxS2AEW417T7BWmc-NehlFSgYeMftFJ9VuDE43C07xHQLKBA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Umi",
-    "scheduledStartTime": "2024-04-03T14:30:00Z",
-    "actualStartTime": "2024-04-03T14:43:16Z",
-    "premiere": false
-  },
-  {
-    "id": "X8F4NZsPD4w",
-    "vidUrl": "https://youtu.be/X8F4NZsPD4w",
-    "vidTitle": "TIIIFFAAA BOBBAAAAAAAAA\u3010FINAL FANTASY 7 REBIRTH\u3011",
-    "channelId": "@oumiyaemma",
-    "channelName": "Oumiya Emma / \u5927\u5bae\u30a8\u30de",
-    "channelThumb": "https://yt3.ggpht.com/UZ38UIPBURy_Tp5sVb5MmZo2zqO_1ZVtG-i2pIC94AZxqzIvcOYQMOEnU46DHMTLzHKqsL6x3A=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Emma",
-    "scheduledStartTime": "2024-04-03T15:15:00Z",
-    "actualStartTime": "2024-04-03T15:01:59Z",
-    "premiere": false
-  },
-  {
     "id": "yTIKDMdJDBg",
     "vidUrl": "https://youtu.be/yTIKDMdJDBg",
     "vidTitle": "\u3010PERSONA 3 RELOAD\u3011IS FUUKA REPLACING CHIHIRO???",
@@ -2841,32 +2817,6 @@
     "premiere": false
   },
   {
-    "id": "fpbKtGCR7zA",
-    "vidUrl": "https://youtu.be/fpbKtGCR7zA",
-    "vidTitle": "\u3010DAVE THE DIVER\u3011 women want me, fish fear me!!",
-    "channelId": "@hiranokokoro",
-    "channelName": "Hirano Kokoro \u300c\u308d\u308d\u300d",
-    "channelThumb": "https://yt3.ggpht.com/Pc-k4wd6VsvLoZPUmql6OForU2LDiXTu3TeGZASvNqkD4OW-zEUxuNatHZQLRMUrt4IhcE0rtg=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Roro",
-    "scheduledStartTime": "2024-04-03T13:00:00Z",
-    "actualStartTime": "2024-04-03T13:12:24Z",
-    "premiere": false
-  },
-  {
-    "id": "o78d-twKTgM",
-    "vidUrl": "https://youtu.be/o78d-twKTgM",
-    "vidTitle": "Women want me, Fish fear me | Vertical Stream",
-    "channelId": "@hiranokokoro",
-    "channelName": "Hirano Kokoro \u300c\u308d\u308d\u300d",
-    "channelThumb": "https://yt3.ggpht.com/Pc-k4wd6VsvLoZPUmql6OForU2LDiXTu3TeGZASvNqkD4OW-zEUxuNatHZQLRMUrt4IhcE0rtg=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Roro",
-    "scheduledStartTime": "2024-04-03T13:00:00Z",
-    "actualStartTime": "2024-04-03T13:13:08Z",
-    "premiere": false
-  },
-  {
     "id": "xCfSxpdGivI",
     "vidUrl": "https://youtu.be/xCfSxpdGivI",
     "vidTitle": "\ud83c\udf41Poppy Playtime - Chaper 1 | This is fine \u0e40\u0e01\u0e21\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01\u0e46 \u3010Goozi Game\u3011",
@@ -2890,6 +2840,19 @@
     "shortName": "Yuuki",
     "scheduledStartTime": "2024-04-03T14:00:00Z",
     "actualStartTime": "2024-04-03T13:00:25Z",
+    "premiere": false
+  },
+  {
+    "id": "lFqoubfJaac",
+    "vidUrl": "https://youtu.be/lFqoubfJaac",
+    "vidTitle": "LIFE IS LIKE A HURRICANE\u3010DUCKTALES REMASTERED\u3011",
+    "channelId": "@umikyoku",
+    "channelName": "Umi Kyoku \u3010\u3046\u307f\u304d\u3087\u304f\u3011",
+    "channelThumb": "https://yt3.ggpht.com/swraGRJ-7ukDEjf58l8YghX2KRDuxS2AEW417T7BWmc-NehlFSgYeMftFJ9VuDE43C07xHQLKBA=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Umi",
+    "scheduledStartTime": "2024-04-03T14:30:00Z",
+    "actualStartTime": "2024-04-03T14:43:16Z",
     "premiere": false
   }
 ]
