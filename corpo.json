@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "cxrdQzYXiJU",
-    "vidUrl": "https://youtu.be/cxrdQzYXiJU",
-    "vidTitle": "Even More Pizza\u3010Pizza Tower\u3011",
-    "channelId": "@chiakikatsumi",
-    "channelName": "Chiaki Katsumi Ch.\u3010PixelLink\u3011",
-    "channelThumb": "https://yt3.ggpht.com/0fSRWqUeKcBNJeZX33wkdct45WIDQd0CxMX2Faq80kSDKsvsuk2Nma-sBkzGYT2QjqCXCk4S9sU=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Chiaki",
-    "scheduledStartTime": "2024-04-03T04:30:00Z",
-    "actualStartTime": "2024-04-03T04:29:21Z",
-    "premiere": false
-  },
-  {
     "id": "04aWnFpE8fw",
     "vidUrl": "https://youtu.be/04aWnFpE8fw",
     "vidTitle": "SURPRISE\u3010CONTENT WARNING \u3011",
@@ -33,18 +21,6 @@
     "shortName": "Elia",
     "scheduledStartTime": "2024-04-03T05:10:00Z",
     "actualStartTime": "2024-04-03T05:15:56Z",
-    "premiere": false
-  },
-  {
-    "id": "WKvJErarN9o",
-    "vidUrl": "https://youtu.be/WKvJErarN9o",
-    "vidTitle": "\u3010[Chilla's Art] Shinkansen 0 | \u65b0\u5e79\u7dda 0\u53f7\u3011\u6016\u304f\u306a\u308b\u304b\u306a\u3042 \u30fd(O_O )\uff89\u3010VOLs\u3011",
-    "channelId": "@shirousamikumi",
-    "channelName": "ShirousaMikumi - VOLs",
-    "channelThumb": "https://yt3.ggpht.com/_SxRVgoQJ7geF9izKj4VzPpxTPLrEGcDP54bXk8_sbxVAglW5Vcr-c7ZdcdsFvXSTrZfv9hiwA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Mikumi",
-    "scheduledStartTime": "2024-04-03T08:30:00Z",
-    "actualStartTime": "",
     "premiere": false
   },
   {
@@ -68,6 +44,18 @@
     "channelThumb": "https://yt3.ggpht.com/Zzn-lffpprmp6_2y3sOeCN1yw-ARyXBh7a992WGez2D2Mo9RixB5PiBBndwuZA1NpUjjcDnb=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Lethe",
     "scheduledStartTime": "2024-04-03T09:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "WKvJErarN9o",
+    "vidUrl": "https://youtu.be/WKvJErarN9o",
+    "vidTitle": "\u3010[Chilla's Art] Shinkansen 0 | \u65b0\u5e79\u7dda 0\u53f7\u3011\u6016\u304f\u306a\u308b\u304b\u306a\u3042 \u30fd(O_O )\uff89\u3010VOLs\u3011",
+    "channelId": "@shirousamikumi",
+    "channelName": "ShirousaMikumi - VOLs",
+    "channelThumb": "https://yt3.ggpht.com/_SxRVgoQJ7geF9izKj4VzPpxTPLrEGcDP54bXk8_sbxVAglW5Vcr-c7ZdcdsFvXSTrZfv9hiwA=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Mikumi",
+    "scheduledStartTime": "2024-04-03T11:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -680,6 +668,18 @@
     "channelThumb": "https://yt3.ggpht.com/Tz6Hm43Exb8k5sGZ7DRbucOkivDD4w7FU78_bPV69vWM47zCAODykYVo76pwXqry2b1DI1HI=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Kohaku",
     "scheduledStartTime": "2024-04-04T03:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "mYXjaGcIKAw",
+    "vidUrl": "https://youtu.be/mYXjaGcIKAw",
+    "vidTitle": "\u3010MARIO KART\u3011PETALIGHT VS YOU! (Playing w/Viewers)\u3010V4Mirai | Yae Yugiri \u3011",
+    "channelId": "@yaeyugiri",
+    "channelName": "Yae Yugiri Ch.\u3010V4Mirai\u3011",
+    "channelThumb": "https://yt3.ggpht.com/a0JskLcC5p4seJdSX1afFTvnA4ezQ3kNZX051kQx3x9U18Px3B_lumxJv-pmhiUD8Z5t_kzrwg=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Yae",
+    "scheduledStartTime": "2024-04-04T04:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -2052,6 +2052,18 @@
     "premiere": false
   },
   {
+    "id": "hrQ1x6ZN8ZM",
+    "vidUrl": "https://youtu.be/hrQ1x6ZN8ZM",
+    "vidTitle": "THIS VTUBER GOT MAIN CHARACTER SYNDROME \ud83d\udca4 Detective Kohaku\u2019s Zatsu Consultation \u96d1\u8ac7",
+    "channelId": "@kohakuyumekui",
+    "channelName": "Kohaku Yumekui Ch. \u5922\u55b0\u5df1\u767d\u3010kawaii\u3011",
+    "channelThumb": "https://yt3.ggpht.com/Tz6Hm43Exb8k5sGZ7DRbucOkivDD4w7FU78_bPV69vWM47zCAODykYVo76pwXqry2b1DI1HI=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Kohaku",
+    "scheduledStartTime": "2024-04-07T21:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "7W61ol3BM4c",
     "vidUrl": "https://youtu.be/7W61ol3BM4c",
     "vidTitle": "\u3010HANDCAM\u3011My strength has made you cry. - Figure-Rise KR Den-o Axe Form\u3010Ran Tsukiha\u3011",
@@ -2583,6 +2595,19 @@
     "shortName": "Boomi",
     "scheduledStartTime": "2024-04-03T00:00:00Z",
     "actualStartTime": "2024-04-03T00:09:26Z",
+    "premiere": false
+  },
+  {
+    "id": "cxrdQzYXiJU",
+    "vidUrl": "https://youtu.be/cxrdQzYXiJU",
+    "vidTitle": "Even More Pizza\u3010Pizza Tower\u3011",
+    "channelId": "@chiakikatsumi",
+    "channelName": "Chiaki Katsumi Ch.\u3010PixelLink\u3011",
+    "channelThumb": "https://yt3.ggpht.com/0fSRWqUeKcBNJeZX33wkdct45WIDQd0CxMX2Faq80kSDKsvsuk2Nma-sBkzGYT2QjqCXCk4S9sU=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Chiaki",
+    "scheduledStartTime": "2024-04-03T04:30:00Z",
+    "actualStartTime": "2024-04-03T04:29:21Z",
     "premiere": false
   }
 ]
