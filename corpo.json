@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "KXlZqC3khYM",
-    "vidUrl": "https://youtu.be/KXlZqC3khYM",
-    "vidTitle": "Are We Out of the Tutorial Now? \u3010 WARHAMMER 40K ROGUE TRADER PART 2 \u3011",
-    "channelId": "@skyeshinryu",
-    "channelName": "Skye Shinryu Ch. \u3010EIEN Project\u3011",
-    "channelThumb": "https://yt3.ggpht.com/_n-f4Knr9kOn9-luPbvdbJNu8KSjDVcAkME6Lq4Z4O7YX4-hiU0CN_oUeHqkapbOy3mMDVFFCQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Skye",
-    "scheduledStartTime": "2024-04-03T03:00:00Z",
-    "actualStartTime": "2024-04-03T03:00:04Z",
-    "premiere": false
-  },
-  {
     "id": "1Kbu5Y95-38",
     "vidUrl": "https://youtu.be/1Kbu5Y95-38",
     "vidTitle": "FIRST TIME MONSTER RANCHER 2!!! \ud83e\udd96\ud83d\udc99",
@@ -2559,6 +2547,19 @@
     "shortName": "Boomi",
     "scheduledStartTime": "2024-04-03T00:00:00Z",
     "actualStartTime": "2024-04-03T00:09:26Z",
+    "premiere": false
+  },
+  {
+    "id": "KXlZqC3khYM",
+    "vidUrl": "https://youtu.be/KXlZqC3khYM",
+    "vidTitle": "Are We Out of the Tutorial Now? \u3010 WARHAMMER 40K ROGUE TRADER PART 2 \u3011",
+    "channelId": "@skyeshinryu",
+    "channelName": "Skye Shinryu Ch. \u3010EIEN Project\u3011",
+    "channelThumb": "https://yt3.ggpht.com/_n-f4Knr9kOn9-luPbvdbJNu8KSjDVcAkME6Lq4Z4O7YX4-hiU0CN_oUeHqkapbOy3mMDVFFCQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Skye",
+    "scheduledStartTime": "2024-04-03T03:00:00Z",
+    "actualStartTime": "2024-04-03T03:00:04Z",
     "premiere": false
   }
 ]

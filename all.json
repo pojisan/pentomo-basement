@@ -36,18 +36,6 @@
     "premiere": false
   },
   {
-    "id": "KXlZqC3khYM",
-    "vidUrl": "https://youtu.be/KXlZqC3khYM",
-    "vidTitle": "Are We Out of the Tutorial Now? \u3010 WARHAMMER 40K ROGUE TRADER PART 2 \u3011",
-    "channelId": "@skyeshinryu",
-    "channelName": "Skye Shinryu Ch. \u3010EIEN Project\u3011",
-    "channelThumb": "https://yt3.ggpht.com/_n-f4Knr9kOn9-luPbvdbJNu8KSjDVcAkME6Lq4Z4O7YX4-hiU0CN_oUeHqkapbOy3mMDVFFCQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Skye",
-    "scheduledStartTime": "2024-04-03T03:00:00Z",
-    "actualStartTime": "2024-04-03T03:00:04Z",
-    "premiere": false
-  },
-  {
     "id": "1Kbu5Y95-38",
     "vidUrl": "https://youtu.be/1Kbu5Y95-38",
     "vidTitle": "FIRST TIME MONSTER RANCHER 2!!! \ud83e\udd96\ud83d\udc99",
@@ -91,7 +79,7 @@
     "channelName": "Scarle Yonaguni \u3010NIJISANJI EN\u3011",
     "channelThumb": "https://yt3.ggpht.com/oYEH8ckOxzEJ0GXlZGp4aSxvZrMWAeodRUg_MRgHqJEr7bEyjXdoC5VyYZ143XtcIKUozhQq6Q=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Scarle",
-    "scheduledStartTime": "2024-04-03T06:45:00Z",
+    "scheduledStartTime": "2024-04-03T07:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -151,6 +139,18 @@
     "channelName": "Vezalius Bandage \u3010NIJISANJI EN\u3011",
     "channelThumb": "https://yt3.ggpht.com/rnqrntYI1y38pqQeqYAmX3_gG1vZ-iYeMGHY0nCC-lxqKdoBspKriRXzMPv7PByMydEYm9YvvzU=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Zali",
+    "scheduledStartTime": "2024-04-03T09:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "mSTWMbhsAzc",
+    "vidUrl": "https://youtu.be/mSTWMbhsAzc",
+    "vidTitle": "\u3010MHW:IB\u3011we hun mon\u3010NIJISANJI EN | Sonny Brisko\u3011",
+    "channelId": "@sonnybrisko",
+    "channelName": "Sonny Brisko \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/Z6Pi1VkybXJu7D-yDxlSnL6hlavVbedb3qfkbCHc6zllK-Eo4lCqmNxpxc4XUM0IEFACqpdwsKo=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Sonny",
     "scheduledStartTime": "2024-04-03T09:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2591,6 +2591,19 @@
     "shortName": "Boomi",
     "scheduledStartTime": "2024-04-03T00:00:00Z",
     "actualStartTime": "2024-04-03T00:09:26Z",
+    "premiere": false
+  },
+  {
+    "id": "KXlZqC3khYM",
+    "vidUrl": "https://youtu.be/KXlZqC3khYM",
+    "vidTitle": "Are We Out of the Tutorial Now? \u3010 WARHAMMER 40K ROGUE TRADER PART 2 \u3011",
+    "channelId": "@skyeshinryu",
+    "channelName": "Skye Shinryu Ch. \u3010EIEN Project\u3011",
+    "channelThumb": "https://yt3.ggpht.com/_n-f4Knr9kOn9-luPbvdbJNu8KSjDVcAkME6Lq4Z4O7YX4-hiU0CN_oUeHqkapbOy3mMDVFFCQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Skye",
+    "scheduledStartTime": "2024-04-03T03:00:00Z",
+    "actualStartTime": "2024-04-03T03:00:04Z",
     "premiere": false
   },
   {
