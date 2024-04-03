@@ -192,18 +192,6 @@
     "premiere": false
   },
   {
-    "id": "GXSISqNXwyU",
-    "vidUrl": "https://youtu.be/GXSISqNXwyU",
-    "vidTitle": "we're going back to high school... \u3010Cosmonious High \u2661\u3011",
-    "channelId": "@stfuboomi_",
-    "channelName": "Boomi Mamana Ch. \u9b54\u611b\u3076\u307f\u3010lucid\u2601\ufe0f\u3011",
-    "channelThumb": "https://yt3.ggpht.com/Ir7xaFhyOLm30TDU6WsFUT24WE8_o7SGK3eUmpbCsOOWFjh22e4XJsPhUYCvUtdgSUM2sUzOtg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Boomi",
-    "scheduledStartTime": "2024-04-03T00:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "oTkjxHRu11A",
     "vidUrl": "https://youtu.be/oTkjxHRu11A",
     "vidTitle": "\u3010Princess Peach: Showtime!\u3011 TAKING ON ACT 2 \u3010Yuno Hanaki\u3011",
@@ -212,7 +200,19 @@
     "channelThumb": "https://yt3.ggpht.com/3pIMiD4FJEzYSAXPR4CchM-vKiT7gfMtJagky2oGpvyMy0UqATsnAPLJ8DFE1eTJQH2MYkxPHQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Yuno",
     "scheduledStartTime": "2024-04-03T00:00:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-03T00:09:17Z",
+    "premiere": false
+  },
+  {
+    "id": "GXSISqNXwyU",
+    "vidUrl": "https://youtu.be/GXSISqNXwyU",
+    "vidTitle": "we're going back to high school... \u3010Cosmonious High \u2661\u3011",
+    "channelId": "@stfuboomi_",
+    "channelName": "Boomi Mamana Ch. \u9b54\u611b\u3076\u307f\u3010lucid\u2601\ufe0f\u3011",
+    "channelThumb": "https://yt3.ggpht.com/Ir7xaFhyOLm30TDU6WsFUT24WE8_o7SGK3eUmpbCsOOWFjh22e4XJsPhUYCvUtdgSUM2sUzOtg=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Boomi",
+    "scheduledStartTime": "2024-04-03T00:00:00Z",
+    "actualStartTime": "2024-04-03T00:09:26Z",
     "premiere": false
   },
   {
@@ -224,7 +224,7 @@
     "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_nYKOij2hXfBtITYSJyxOPaPBPaxk3s-GcARgxVjQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Ayu",
     "scheduledStartTime": "2024-04-03T00:05:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-03T00:08:40Z",
     "premiere": false
   },
   {
@@ -836,6 +836,18 @@
     "channelThumb": "https://yt3.ggpht.com/iFJsuBeka3rm3zWT09RkNEiijQj3YcRFDWIiwS27VOlR8how5j4-GU1bWF1bKrfV4fvhk8uxSA=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Amaya",
     "scheduledStartTime": "2024-04-04T00:30:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "-is3ammM0ls",
+    "vidUrl": "https://youtu.be/-is3ammM0ls",
+    "vidTitle": "STORYTIME \ud83d\udcd6 My Most Embarrassing Memories...",
+    "channelId": "@echovnu",
+    "channelName": "Echo Lyne Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/GXeZ1UMgOyI-peaWarT6IrEjhqilp90c7VnxBbAvFx2oy-wKlJMJnBR1m3oi2pwqryx8OwSk5A=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Echo Lyne",
+    "scheduledStartTime": "2024-04-04T01:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
