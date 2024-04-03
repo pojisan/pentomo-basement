@@ -202,31 +202,5 @@
     "scheduledStartTime": "2024-04-07T13:00:00Z",
     "actualStartTime": "",
     "premiere": true
-  },
-  {
-    "id": "gNejaChrOpA",
-    "vidUrl": "https://youtu.be/gNejaChrOpA",
-    "vidTitle": "\u3010CONTENT WARNING\u3011it just doesn't end does it\u3010NIJISANJI EN | Claude Clawmark\u3011",
-    "channelId": "@claudeclawmark",
-    "channelName": "Claude Clawmark \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/e7od55bIqtwAdCdpEdEf1d-PITBdVzntIaqGwTif46sTptNuJQ4WlVPPcfskh3wqb9axkDuOSg=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Claude",
-    "scheduledStartTime": "2024-04-03T02:00:00Z",
-    "actualStartTime": "2024-04-03T02:02:32Z",
-    "premiere": false
-  },
-  {
-    "id": "vu0Iukt1_lw",
-    "vidUrl": "https://youtu.be/vu0Iukt1_lw",
-    "vidTitle": "\u3010CONTENT WARNING\u3011 PROFESSIONAL CONTENT CREATORS [Collab] ft. Claude & Aster",
-    "channelId": "@finanaryugu",
-    "channelName": "Finana Ryugu \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/fL9tFSUSDCS-BkrZLrtAig3_55Tg0UaZxh2xChyUyoCElYh5tV05LOQWh68krLarWJ2unbLF=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Finana",
-    "scheduledStartTime": "2024-04-03T02:00:00Z",
-    "actualStartTime": "2024-04-03T02:02:38Z",
-    "premiere": false
   }
 ]
