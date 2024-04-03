@@ -96,18 +96,6 @@
     "premiere": false
   },
   {
-    "id": "doje6O4rPdQ",
-    "vidUrl": "https://youtu.be/doje6O4rPdQ",
-    "vidTitle": "let's study together!",
-    "channelId": "@ayucouldeat",
-    "channelName": "ayu",
-    "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_nYKOij2hXfBtITYSJyxOPaPBPaxk3s-GcARgxVjQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Ayu",
-    "scheduledStartTime": "2024-04-03T00:05:00Z",
-    "actualStartTime": "2024-04-03T00:08:40Z",
-    "premiere": false
-  },
-  {
     "id": "gswTvpxXv7o",
     "vidUrl": "https://youtu.be/gswTvpxXv7o",
     "vidTitle": "ALMOST DONE HEAVENSWARD \u3010FFXIV Heavensward MSQ\u3011",
@@ -264,18 +252,6 @@
     "premiere": false
   },
   {
-    "id": "-x3eLY7DSeo",
-    "vidUrl": "https://youtu.be/-x3eLY7DSeo",
-    "vidTitle": "\u3010MUMEI DRAWS\u3011Drawing Your Profile Pictures PART # 3",
-    "channelId": "@nanashimumei",
-    "channelName": "Nanashi Mumei Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/owZmjfnG_SGVmfkl3eS7Lv47pGvIr2SrS36imh6O8i0H3Wy41fYKD26U7wnyRB627fXoq0aQ0Q=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Mumei",
-    "scheduledStartTime": "2024-04-03T02:30:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "QIEs-PRf1kE",
     "vidUrl": "https://youtu.be/QIEs-PRf1kE",
     "vidTitle": "i can walk",
@@ -283,6 +259,18 @@
     "channelName": "Scarle Yonaguni \u3010NIJISANJI EN\u3011",
     "channelThumb": "https://yt3.ggpht.com/oYEH8ckOxzEJ0GXlZGp4aSxvZrMWAeodRUg_MRgHqJEr7bEyjXdoC5VyYZ143XtcIKUozhQq6Q=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Scarle",
+    "scheduledStartTime": "2024-04-03T02:30:00Z",
+    "actualStartTime": "2024-04-03T02:30:39Z",
+    "premiere": false
+  },
+  {
+    "id": "-x3eLY7DSeo",
+    "vidUrl": "https://youtu.be/-x3eLY7DSeo",
+    "vidTitle": "\u3010MUMEI DRAWS\u3011Drawing Your Profile Pictures PART # 3",
+    "channelId": "@nanashimumei",
+    "channelName": "Nanashi Mumei Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/owZmjfnG_SGVmfkl3eS7Lv47pGvIr2SrS36imh6O8i0H3Wy41fYKD26U7wnyRB627fXoq0aQ0Q=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Mumei",
     "scheduledStartTime": "2024-04-03T02:30:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2656,19 +2644,6 @@
     "premiere": false
   },
   {
-    "id": "VWv6uBJaABw",
-    "vidUrl": "https://youtu.be/VWv6uBJaABw",
-    "vidTitle": "Friend who doesn't know Genshin Impact RATES the characters!\u3010GENSHIN IMPACT TIERLIST\u3011@ZhuniExcel_NS",
-    "channelId": "@aylayew_ns",
-    "channelName": "Ayla Yew \u3010NexStage Project\u3011",
-    "channelThumb": "https://yt3.ggpht.com/j9b3F_6kPAJQns4jhE4FQN1LCO6mbP6BY2ixZTLHk2r2F0KZsqQ9xBjWI11d9RmeeRsFb7KLO04=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Ayla",
-    "scheduledStartTime": "2024-04-02T23:00:00Z",
-    "actualStartTime": "2024-04-02T23:03:11Z",
-    "premiere": false
-  },
-  {
     "id": "XvcmLmqE4Xk",
     "vidUrl": "https://youtu.be/XvcmLmqE4Xk",
     "vidTitle": "\u3010MARIO KART\u3011Race it out with me and Aradia! \ud83c\udfbc",
@@ -2692,6 +2667,19 @@
     "shortName": "Boomi",
     "scheduledStartTime": "2024-04-03T00:00:00Z",
     "actualStartTime": "2024-04-03T00:09:26Z",
+    "premiere": false
+  },
+  {
+    "id": "doje6O4rPdQ",
+    "vidUrl": "https://youtu.be/doje6O4rPdQ",
+    "vidTitle": "let's study together!",
+    "channelId": "@ayucouldeat",
+    "channelName": "ayu",
+    "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_nYKOij2hXfBtITYSJyxOPaPBPaxk3s-GcARgxVjQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Ayu",
+    "scheduledStartTime": "2024-04-03T00:05:00Z",
+    "actualStartTime": "2024-04-03T00:08:40Z",
     "premiere": false
   },
   {
