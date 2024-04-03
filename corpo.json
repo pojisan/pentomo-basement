@@ -96,30 +96,6 @@
     "premiere": false
   },
   {
-    "id": "sJDkylGaE7I",
-    "vidUrl": "https://youtu.be/sJDkylGaE7I",
-    "vidTitle": "\u3010GTA V\u3011DO YOU SMELL FIRE?\u3014Pt. 5\u3015",
-    "channelId": "@mivivnu",
-    "channelName": "Mivi Aivori Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/b0A2emwbDeLrLg3NZ5zlJf0AjwnxRx8dKsbah9w_DAOW5W-nhvK_JmA87yYFwYN6KeB4dOzH=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Mivi",
-    "scheduledStartTime": "2024-04-03T00:00:00Z",
-    "actualStartTime": "2024-04-03T00:05:13Z",
-    "premiere": false
-  },
-  {
-    "id": "oTkjxHRu11A",
-    "vidUrl": "https://youtu.be/oTkjxHRu11A",
-    "vidTitle": "\u3010Princess Peach: Showtime!\u3011 TAKING ON ACT 2 \u3010Yuno Hanaki\u3011",
-    "channelId": "@yunohanaki",
-    "channelName": "Yuno Hanaki Ch. \u83ef\u9b3c\u7d50\u671b \u3010kawaii\u3011",
-    "channelThumb": "https://yt3.ggpht.com/3pIMiD4FJEzYSAXPR4CchM-vKiT7gfMtJagky2oGpvyMy0UqATsnAPLJ8DFE1eTJQH2MYkxPHQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Yuno",
-    "scheduledStartTime": "2024-04-03T00:00:00Z",
-    "actualStartTime": "2024-04-03T00:09:17Z",
-    "premiere": false
-  },
-  {
     "id": "GXSISqNXwyU",
     "vidUrl": "https://youtu.be/GXSISqNXwyU",
     "vidTitle": "we're going back to high school... \u3010Cosmonious High \u2661\u3011",
@@ -2620,6 +2596,32 @@
     "shortName": "Ran",
     "scheduledStartTime": "2024-04-02T22:30:00Z",
     "actualStartTime": "2024-04-02T22:30:13Z",
+    "premiere": false
+  },
+  {
+    "id": "sJDkylGaE7I",
+    "vidUrl": "https://youtu.be/sJDkylGaE7I",
+    "vidTitle": "\u3010GTA V\u3011DO YOU SMELL FIRE?\u3014Pt. 5\u3015",
+    "channelId": "@mivivnu",
+    "channelName": "Mivi Aivori Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/b0A2emwbDeLrLg3NZ5zlJf0AjwnxRx8dKsbah9w_DAOW5W-nhvK_JmA87yYFwYN6KeB4dOzH=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Mivi",
+    "scheduledStartTime": "2024-04-03T00:00:00Z",
+    "actualStartTime": "2024-04-03T00:05:13Z",
+    "premiere": false
+  },
+  {
+    "id": "oTkjxHRu11A",
+    "vidUrl": "https://youtu.be/oTkjxHRu11A",
+    "vidTitle": "\u3010Princess Peach: Showtime!\u3011 TAKING ON ACT 2 \u3010Yuno Hanaki\u3011",
+    "channelId": "@yunohanaki",
+    "channelName": "Yuno Hanaki Ch. \u83ef\u9b3c\u7d50\u671b \u3010kawaii\u3011",
+    "channelThumb": "https://yt3.ggpht.com/3pIMiD4FJEzYSAXPR4CchM-vKiT7gfMtJagky2oGpvyMy0UqATsnAPLJ8DFE1eTJQH2MYkxPHQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Yuno",
+    "scheduledStartTime": "2024-04-03T00:00:00Z",
+    "actualStartTime": "2024-04-03T00:09:17Z",
     "premiere": false
   }
 ]
