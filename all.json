@@ -144,6 +144,30 @@
     "premiere": false
   },
   {
+    "id": "whk2hj3fx08",
+    "vidUrl": "https://youtu.be/whk2hj3fx08",
+    "vidTitle": "\u3010Landlord's Super\u3011 Fauna's a landlord now. Bit sad innit?",
+    "channelId": "@ceresfauna",
+    "channelName": "Ceres Fauna Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/cBtserkb211p6If2OewgWd8oriIKRkfwTcP4_Vdq2YETG5TK9Q02v4cYmnLU03KBAJ0gcDha7oQ=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Fauna",
+    "scheduledStartTime": "2024-04-03T22:00:00Z",
+    "actualStartTime": "2024-04-03T22:00:07Z",
+    "premiere": false
+  },
+  {
+    "id": "kaIHR2rcFv0",
+    "vidUrl": "https://youtu.be/kaIHR2rcFv0",
+    "vidTitle": "\u3010Far Cry 5\u3011We Don't Know Anything About This Game ft. @lanariaria",
+    "channelId": "@niasuzune",
+    "channelName": "Nia Suzune / \u9234\u97f3\u306b\u3042",
+    "channelThumb": "https://yt3.ggpht.com/EZIsXrouGx2aOmLFm39j_fLbX-5XSqIZZN20OHosxCvZbrjXFAk9z_GBWk1B4jaafizyAjTDBPY=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Nia",
+    "scheduledStartTime": "2024-04-03T22:00:00Z",
+    "actualStartTime": "2024-04-03T22:01:12Z",
+    "premiere": false
+  },
+  {
     "id": "FCjs1NKmzi4",
     "vidUrl": "https://youtu.be/FCjs1NKmzi4",
     "vidTitle": "\u3010LEFT4DEAD2\u3011huntin zombies w/ @ZumiDokumi, @ConfettiConi, & @rakunpoko! \ud83e\udddf\u200d\u2642\ufe0f",
@@ -180,18 +204,6 @@
     "premiere": false
   },
   {
-    "id": "kaIHR2rcFv0",
-    "vidUrl": "https://youtu.be/kaIHR2rcFv0",
-    "vidTitle": "\u3010Far Cry 5\u3011We Don't Know Anything About This Game ft. @lanariaria",
-    "channelId": "@niasuzune",
-    "channelName": "Nia Suzune / \u9234\u97f3\u306b\u3042",
-    "channelThumb": "https://yt3.ggpht.com/EZIsXrouGx2aOmLFm39j_fLbX-5XSqIZZN20OHosxCvZbrjXFAk9z_GBWk1B4jaafizyAjTDBPY=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Nia",
-    "scheduledStartTime": "2024-04-03T22:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "p_1zQNiJrLI",
     "vidUrl": "https://youtu.be/p_1zQNiJrLI",
     "vidTitle": "LEFT 4 DEAD 2 w/ @NanimoNavi @ZumiDokumi @rakunpoko",
@@ -199,18 +211,6 @@
     "channelName": "Coni Confetti Ch. idol-EN",
     "channelThumb": "https://yt3.ggpht.com/DHI9aYg-eO1nO1PKAyVyDIP7BhuK88nkWcztyfKc-dp0zrdErFkKsbkgC13KqMucq46qreLKpz8=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Coni",
-    "scheduledStartTime": "2024-04-03T22:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "whk2hj3fx08",
-    "vidUrl": "https://youtu.be/whk2hj3fx08",
-    "vidTitle": "\u3010Landlord's Super\u3011 Fauna's a landlord now. Bit sad innit?",
-    "channelId": "@ceresfauna",
-    "channelName": "Ceres Fauna Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/cBtserkb211p6If2OewgWd8oriIKRkfwTcP4_Vdq2YETG5TK9Q02v4cYmnLU03KBAJ0gcDha7oQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Fauna",
     "scheduledStartTime": "2024-04-03T22:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -1016,6 +1016,18 @@
     "channelThumb": "https://yt3.ggpht.com/T30qwb0jUMNHh6WY7ZUjsFZKTP9hoPyZO4d4Knvf22uj_1DV5xvkK-ReGlX8zeshgoQeOmWovg=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Ran",
     "scheduledStartTime": "2024-04-04T22:30:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "LhRspssXY64",
+    "vidUrl": "https://youtu.be/LhRspssXY64",
+    "vidTitle": "Duo MCs?\u3010The Walking Dead\u3011",
+    "channelId": "@chiakikatsumi",
+    "channelName": "Chiaki Katsumi Ch.\u3010PixelLink\u3011",
+    "channelThumb": "https://yt3.ggpht.com/0fSRWqUeKcBNJeZX33wkdct45WIDQd0CxMX2Faq80kSDKsvsuk2Nma-sBkzGYT2QjqCXCk4S9sU=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Chiaki",
+    "scheduledStartTime": "2024-04-04T23:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
