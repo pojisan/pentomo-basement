@@ -1,17 +1,5 @@
 [
   {
-    "id": "uIXEir7-XwA",
-    "vidUrl": "https://youtu.be/uIXEir7-XwA",
-    "vidTitle": "\u3010MARIO KART 8 DELUXE\u3011TRAINING FOR #NIJIEN_MKBattle\u3010NIJISANJI EN | Vezalius Bandage\u3011",
-    "channelId": "@vezaliusbandage",
-    "channelName": "Vezalius Bandage \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/rnqrntYI1y38pqQeqYAmX3_gG1vZ-iYeMGHY0nCC-lxqKdoBspKriRXzMPv7PByMydEYm9YvvzU=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Zali",
-    "scheduledStartTime": "2024-04-03T13:00:00Z",
-    "actualStartTime": "2024-04-03T13:05:14Z",
-    "premiere": false
-  },
-  {
     "id": "t4HqNbcrryw",
     "vidUrl": "https://youtu.be/t4HqNbcrryw",
     "vidTitle": "\u3010DEADSPACE 3 PART 6\u3011 the demons in me are loud but my love for @ReimuEndou is HARDER",
@@ -166,5 +154,18 @@
     "scheduledStartTime": "2024-04-07T13:00:00Z",
     "actualStartTime": "",
     "premiere": true
+  },
+  {
+    "id": "uIXEir7-XwA",
+    "vidUrl": "https://youtu.be/uIXEir7-XwA",
+    "vidTitle": "\u3010MARIO KART 8 DELUXE\u3011TRAINING FOR #NIJIEN_MKBattle\u3010NIJISANJI EN | Vezalius Bandage\u3011",
+    "channelId": "@vezaliusbandage",
+    "channelName": "Vezalius Bandage \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/rnqrntYI1y38pqQeqYAmX3_gG1vZ-iYeMGHY0nCC-lxqKdoBspKriRXzMPv7PByMydEYm9YvvzU=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Zali",
+    "scheduledStartTime": "2024-04-03T13:00:00Z",
+    "actualStartTime": "2024-04-03T13:05:14Z",
+    "premiere": false
   }
 ]
