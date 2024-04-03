@@ -36,18 +36,6 @@
     "premiere": false
   },
   {
-    "id": "CKMZr0vVt1s",
-    "vidUrl": "https://youtu.be/CKMZr0vVt1s",
-    "vidTitle": "\u3010COMEBACK\u3011I'm back!! And I'm indie!!",
-    "channelId": "@shikimiyoshino",
-    "channelName": "Shiki Miyoshino / \u7f8e\u5409\u91ce\u3057\u304d",
-    "channelThumb": "https://yt3.ggpht.com/Id9BL2cZTLJmv9ZoQEGIk_eFPBrQ7REmfIB6tsb34vcls6pWmKCsifuJ4Ii40vRYZvX9uGd9=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Shiki",
-    "scheduledStartTime": "2024-04-02T21:55:13Z",
-    "actualStartTime": "2024-04-02T21:57:27Z",
-    "premiere": false
-  },
-  {
     "id": "0zr-722e_EE",
     "vidUrl": "https://youtu.be/0zr-722e_EE",
     "vidTitle": "\u3010KARAOKE\u3011 F.unny U.nnecessary C.ensorship K.araoke\u3010V4Mirai | Serina Maiko | ENVtuber\u3011",
@@ -332,6 +320,18 @@
     "channelThumb": "https://yt3.ggpht.com/VVorqIxpJu58JyAADFOQB604PDjYiMgpvkJD_NfvJ3uXGe-J8mLJTjYB3CzmlWokVy_nBmDVKQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Tomomi",
     "scheduledStartTime": "2024-04-03T01:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "-dLycf66C7w",
+    "vidUrl": "https://youtu.be/-dLycf66C7w",
+    "vidTitle": "I'm not not streaming",
+    "channelId": "@owlthy",
+    "channelName": "Athy \ud83e\udd89\ud83d\udc89",
+    "channelThumb": "https://yt3.ggpht.com/IMEVvbgtQtGfQnvkzPyYrTqOeGIFKWQhFd-Vanu73RPRKE_iS6om68dVM1STi0vPcZwVO5CQbg=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Athy",
+    "scheduledStartTime": "2024-04-03T01:30:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -2727,16 +2727,16 @@
     "premiere": false
   },
   {
-    "id": "BpwdYZjaN_0",
-    "vidUrl": "https://youtu.be/BpwdYZjaN_0",
-    "vidTitle": "\u3010GHOST OF TSUSHIMA: Part 5\u3011NEW ADVENTURES, MORE HONOR!!!!\u3010V&U | GEN4\u3011",
-    "channelId": "@mismavnu",
-    "channelName": "Misma Ryzing Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/G4Ny8VTJw2-E0za2aahMa1JMAMTwmCaJcgeZZQi_oXev3r85AhhGdSaTE7bI7UyEcid6ajTtDg=s88-c-k-c0x00ffffff-no-rj",
+    "id": "CKMZr0vVt1s",
+    "vidUrl": "https://youtu.be/CKMZr0vVt1s",
+    "vidTitle": "\u3010COMEBACK\u3011I'm back!! And I'm indie!!",
+    "channelId": "@shikimiyoshino",
+    "channelName": "Shiki Miyoshino / \u7f8e\u5409\u91ce\u3057\u304d",
+    "channelThumb": "https://yt3.ggpht.com/Id9BL2cZTLJmv9ZoQEGIk_eFPBrQ7REmfIB6tsb34vcls6pWmKCsifuJ4Ii40vRYZvX9uGd9=s88-c-k-c0x00ffffff-no-rj",
     "graveyard": true,
-    "shortName": "Misma",
-    "scheduledStartTime": "2024-04-02T20:00:00Z",
-    "actualStartTime": "2024-04-02T20:00:23Z",
+    "shortName": "Shiki",
+    "scheduledStartTime": "2024-04-02T21:55:13Z",
+    "actualStartTime": "2024-04-02T21:57:27Z",
     "premiere": false
   },
   {
