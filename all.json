@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "u8b_NViah44",
-    "vidUrl": "https://youtu.be/u8b_NViah44",
-    "vidTitle": "\u3010MORTUARY ASSISTANT\u3011First horror game! Apparently Raymond is hot\u3010Pippa Pebblesworth | globie\u3011",
-    "channelId": "@pippapebblesworth",
-    "channelName": "Pippa Pebblesworth ch. \u3010globie\u3011",
-    "channelThumb": "https://yt3.ggpht.com/FV-T274wCeRSrHKm54acTNEJLJTDlE5BdPrKoJQY0kxaTdO4uerFlxG8HJmAvS2HbSQIMzfa7A=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Pippa",
-    "scheduledStartTime": "2024-04-03T18:00:00Z",
-    "actualStartTime": "2024-04-03T18:01:05Z",
-    "premiere": false
-  },
-  {
     "id": "TrG9t0wZ-7k",
     "vidUrl": "https://youtu.be/TrG9t0wZ-7k",
     "vidTitle": "\u3010Metroid 2\u3011They're getting more powerful....",
@@ -559,6 +547,18 @@
     "channelName": "Vantacrow Bringer \u3010NIJISANJI EN\u3011",
     "channelThumb": "https://yt3.ggpht.com/GLPkvp_8o7OvZ3q57IpqDSHIyv6OqZFK6tO1egzLoMjE19EBlo3tISEMIOLEvkC5jnl2Uus93A=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Vanta",
+    "scheduledStartTime": "2024-04-04T03:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "LEtpqPCSTV8",
+    "vidUrl": "https://youtu.be/LEtpqPCSTV8",
+    "vidTitle": "\u3010MUMEI DRAWS\u3011Drawing Your Profile Pictures PART # 4",
+    "channelId": "@nanashimumei",
+    "channelName": "Nanashi Mumei Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/owZmjfnG_SGVmfkl3eS7Lv47pGvIr2SrS36imh6O8i0H3Wy41fYKD26U7wnyRB627fXoq0aQ0Q=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Mumei",
     "scheduledStartTime": "2024-04-04T03:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2719,6 +2719,19 @@
     "shortName": "Hu",
     "scheduledStartTime": "2024-04-03T17:00:00Z",
     "actualStartTime": "2024-04-03T17:09:20Z",
+    "premiere": false
+  },
+  {
+    "id": "u8b_NViah44",
+    "vidUrl": "https://youtu.be/u8b_NViah44",
+    "vidTitle": "\u3010MORTUARY ASSISTANT\u3011First horror game! Apparently Raymond is hot\u3010Pippa Pebblesworth | globie\u3011",
+    "channelId": "@pippapebblesworth",
+    "channelName": "Pippa Pebblesworth ch. \u3010globie\u3011",
+    "channelThumb": "https://yt3.ggpht.com/FV-T274wCeRSrHKm54acTNEJLJTDlE5BdPrKoJQY0kxaTdO4uerFlxG8HJmAvS2HbSQIMzfa7A=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Pippa",
+    "scheduledStartTime": "2024-04-03T18:00:00Z",
+    "actualStartTime": "2024-04-03T18:01:05Z",
     "premiere": false
   },
   {

@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "u8b_NViah44",
-    "vidUrl": "https://youtu.be/u8b_NViah44",
-    "vidTitle": "\u3010MORTUARY ASSISTANT\u3011First horror game! Apparently Raymond is hot\u3010Pippa Pebblesworth | globie\u3011",
-    "channelId": "@pippapebblesworth",
-    "channelName": "Pippa Pebblesworth ch. \u3010globie\u3011",
-    "channelThumb": "https://yt3.ggpht.com/FV-T274wCeRSrHKm54acTNEJLJTDlE5BdPrKoJQY0kxaTdO4uerFlxG8HJmAvS2HbSQIMzfa7A=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Pippa",
-    "scheduledStartTime": "2024-04-03T18:00:00Z",
-    "actualStartTime": "2024-04-03T18:01:05Z",
-    "premiere": false
-  },
-  {
     "id": "TrG9t0wZ-7k",
     "vidUrl": "https://youtu.be/TrG9t0wZ-7k",
     "vidTitle": "\u3010Metroid 2\u3011They're getting more powerful....",
@@ -2773,6 +2761,19 @@
     "shortName": "Hu",
     "scheduledStartTime": "2024-04-03T17:00:00Z",
     "actualStartTime": "2024-04-03T17:09:20Z",
+    "premiere": false
+  },
+  {
+    "id": "u8b_NViah44",
+    "vidUrl": "https://youtu.be/u8b_NViah44",
+    "vidTitle": "\u3010MORTUARY ASSISTANT\u3011First horror game! Apparently Raymond is hot\u3010Pippa Pebblesworth | globie\u3011",
+    "channelId": "@pippapebblesworth",
+    "channelName": "Pippa Pebblesworth ch. \u3010globie\u3011",
+    "channelThumb": "https://yt3.ggpht.com/FV-T274wCeRSrHKm54acTNEJLJTDlE5BdPrKoJQY0kxaTdO4uerFlxG8HJmAvS2HbSQIMzfa7A=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Pippa",
+    "scheduledStartTime": "2024-04-03T18:00:00Z",
+    "actualStartTime": "2024-04-03T18:01:05Z",
     "premiere": false
   },
   {
