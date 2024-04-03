@@ -72,18 +72,6 @@
     "premiere": false
   },
   {
-    "id": "_IrrUlkpj2A",
-    "vidUrl": "https://youtu.be/_IrrUlkpj2A",
-    "vidTitle": "\u3010PalWorld\u3011#3 Challenging the boss! \u3010Yuuki Ame\u30fbbondlive EN\u3011",
-    "channelId": "@yuukiame_",
-    "channelName": "Yuuki Ame / \u52c7\u6c17\u3042\u3081\u3010bondlive EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/rybr-bFchWkS9x4YS03WaFH5JtYXkl3lEMjxqFsf6IvbCC5OxCMPKQwOGpl2jx6y28p_vHMXi1w=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Yuuki",
-    "scheduledStartTime": "2024-04-03T14:00:00Z",
-    "actualStartTime": "2024-04-03T13:00:25Z",
-    "premiere": false
-  },
-  {
     "id": "ZXWi-fm6JqQ",
     "vidUrl": "https://youtu.be/ZXWi-fm6JqQ",
     "vidTitle": "\u3010HELLDIVERS 2\u3011HELL DIVING !!!",
@@ -128,7 +116,19 @@
     "channelThumb": "https://yt3.ggpht.com/swraGRJ-7ukDEjf58l8YghX2KRDuxS2AEW417T7BWmc-NehlFSgYeMftFJ9VuDE43C07xHQLKBA=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Umi",
     "scheduledStartTime": "2024-04-03T14:30:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-03T14:43:16Z",
+    "premiere": false
+  },
+  {
+    "id": "_IrrUlkpj2A",
+    "vidUrl": "https://youtu.be/_IrrUlkpj2A",
+    "vidTitle": "\u3010PalWorld\u3011#3 Challenging the boss! \u3010Yuuki Ame\u30fbbondlive EN\u3011",
+    "channelId": "@yuukiame_",
+    "channelName": "Yuuki Ame / \u52c7\u6c17\u3042\u3081\u3010bondlive EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/rybr-bFchWkS9x4YS03WaFH5JtYXkl3lEMjxqFsf6IvbCC5OxCMPKQwOGpl2jx6y28p_vHMXi1w=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Yuuki",
+    "scheduledStartTime": "2024-04-03T14:00:00Z",
+    "actualStartTime": "2024-04-03T13:00:25Z",
     "premiere": false
   },
   {
@@ -823,6 +823,18 @@
     "channelName": "Lida Oriana Ch.",
     "channelThumb": "https://yt3.ggpht.com/jPWRHtDGZ3b-HXw__M_4Le5LhYAwxpcy7_Inwji6RhxGC7NK34Nihv_LwLgjtCfdTMuDE92y=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Lida",
+    "scheduledStartTime": "2024-04-04T14:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "fB6sn7yHdTM",
+    "vidUrl": "https://youtu.be/fB6sn7yHdTM",
+    "vidTitle": "I'm back! What's coming next?",
+    "channelId": "@yurarikudou",
+    "channelName": "Yura Rikudou / \u516d\u9053\u30e6\u30e9",
+    "channelThumb": "https://yt3.ggpht.com/yILITMwS2t2HFysY-sKxOFGmrAaQheI4LMzf-ezgCTX9rjPTSJtZQK3E48WTtxtCWinefdwl-g=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Yura",
     "scheduledStartTime": "2024-04-04T14:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2788,19 +2800,6 @@
     "shortName": "Mikumi",
     "scheduledStartTime": "2024-04-03T11:00:00Z",
     "actualStartTime": "2024-04-03T11:32:46Z",
-    "premiere": false
-  },
-  {
-    "id": "BmsybRewB7w",
-    "vidUrl": "https://youtu.be/BmsybRewB7w",
-    "vidTitle": "\u3010 Supermarket Simulator \u3011Expanding My Business!",
-    "channelId": "@ariasynth",
-    "channelName": "Aria Synth - VOLs",
-    "channelThumb": "https://yt3.ggpht.com/GzhW3aRAfRerOI_6Ks3M8ptbOQaYsmkW_0Wq5HdZdAoxYWBMyrePhNooYwH_JhW7HKAVGiaesak=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Aria",
-    "scheduledStartTime": "2024-04-03T12:00:00Z",
-    "actualStartTime": "2024-04-03T12:02:30Z",
     "premiere": false
   },
   {
