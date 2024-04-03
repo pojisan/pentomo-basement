@@ -144,18 +144,6 @@
     "premiere": false
   },
   {
-    "id": "qFkHDL-OauE",
-    "vidUrl": "https://youtu.be/qFkHDL-OauE",
-    "vidTitle": "DAY 3 OF DAILY MINAZUKI!!!",
-    "channelId": "@minazukimana",
-    "channelName": "MinazukiMana - VOLs",
-    "channelThumb": "https://yt3.ggpht.com/O64mRHiN_f8Xzpwucwlf_pegYaW8OWoHcNhfVAwXcSvy3NNUbDoTjQGq0cdyrR0EdGXV4gv6XA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Mana",
-    "scheduledStartTime": "2024-04-03T13:45:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "ZXWi-fm6JqQ",
     "vidUrl": "https://youtu.be/ZXWi-fm6JqQ",
     "vidTitle": "\u3010HELLDIVERS 2\u3011HELL DIVING !!!",
@@ -187,6 +175,18 @@
     "channelName": "Karrot Keromi Ch. \u30ab\u30ed\u30c3\u30c8 \u30b1\u30ed\u30df\u3010MyHolo TV\u3011",
     "channelThumb": "https://yt3.ggpht.com/Wbi94uoqulRJCwB_jHN8m7C-TH8gHSts_WhEW4fbC86gFMZPu01qO59X-SvSvl-gts4r5oz99Rg=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Karrot",
+    "scheduledStartTime": "2024-04-03T14:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "qFkHDL-OauE",
+    "vidUrl": "https://youtu.be/qFkHDL-OauE",
+    "vidTitle": "DAY 3 OF DAILY MINAZUKI!!!",
+    "channelId": "@minazukimana",
+    "channelName": "MinazukiMana - VOLs",
+    "channelThumb": "https://yt3.ggpht.com/O64mRHiN_f8Xzpwucwlf_pegYaW8OWoHcNhfVAwXcSvy3NNUbDoTjQGq0cdyrR0EdGXV4gv6XA=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Mana",
     "scheduledStartTime": "2024-04-03T14:00:00Z",
     "actualStartTime": "",
     "premiere": false
