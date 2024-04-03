@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "sFS2sJIejQI",
-    "vidUrl": "https://youtu.be/sFS2sJIejQI",
-    "vidTitle": "\u3010Fate/Samurai Remnant\u3011 WaaaAAAAAHHHHHHHH!!!!!!!!! \u3010#6\u3011 \u26a0SPOILER WARNING",
-    "channelId": "@ninomaeinanis",
-    "channelName": "Ninomae Ina'nis Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/f4uYWHJxiGwyXm8NUlm818N1MRnywtgL6wM8JdWqWsKBzI7v1eg8dxDWG7igkWuukUSiufydqPg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Ina",
-    "scheduledStartTime": "2024-04-02T21:00:00Z",
-    "actualStartTime": "2024-04-02T21:00:32Z",
-    "premiere": false
-  },
-  {
     "id": "qYWc3fSXwPE",
     "vidUrl": "https://youtu.be/qYWc3fSXwPE",
     "vidTitle": "100089 IQ SPEEDRUN (totally real IQ)\u3010The Witness\u3011pt.2 \ud83d\udd0d Mysterious Tuesday",
@@ -57,18 +45,6 @@
     "shortName": "Biboo",
     "scheduledStartTime": "2024-04-02T23:00:00Z",
     "actualStartTime": "2024-04-02T22:57:39Z",
-    "premiere": false
-  },
-  {
-    "id": "RdZ8wqmfS34",
-    "vidUrl": "https://youtu.be/RdZ8wqmfS34",
-    "vidTitle": "FINISHING UP DARK SOULS 3 DLC",
-    "channelId": "@briatcookiebox",
-    "channelName": "BriAtCookiebox",
-    "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_kFO9kNCi6Y5IBI4e28nzZGgvgmSudo1CTJ29y4=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Bri",
-    "scheduledStartTime": "2024-04-02T23:00:00Z",
-    "actualStartTime": "2024-04-02T23:00:13Z",
     "premiere": false
   },
   {
@@ -320,6 +296,18 @@
     "channelThumb": "https://yt3.ggpht.com/IMEVvbgtQtGfQnvkzPyYrTqOeGIFKWQhFd-Vanu73RPRKE_iS6om68dVM1STi0vPcZwVO5CQbg=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Athy",
     "scheduledStartTime": "2024-04-03T01:30:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "ILSLsjV6-Dg",
+    "vidUrl": "https://youtu.be/ILSLsjV6-Dg",
+    "vidTitle": "\u3010KARAOKE\u3011SURPRISE! EN KARAOKE MORNING\u3010VOLs\u3011",
+    "channelId": "@shirousamikumi",
+    "channelName": "ShirousaMikumi - VOLs",
+    "channelThumb": "https://yt3.ggpht.com/_SxRVgoQJ7geF9izKj4VzPpxTPLrEGcDP54bXk8_sbxVAglW5Vcr-c7ZdcdsFvXSTrZfv9hiwA=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Mikumi",
+    "scheduledStartTime": "2024-04-03T01:45:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -2775,6 +2763,19 @@
     "premiere": false
   },
   {
+    "id": "sFS2sJIejQI",
+    "vidUrl": "https://youtu.be/sFS2sJIejQI",
+    "vidTitle": "\u3010Fate/Samurai Remnant\u3011 WaaaAAAAAHHHHHHHH!!!!!!!!! \u3010#6\u3011 \u26a0SPOILER WARNING",
+    "channelId": "@ninomaeinanis",
+    "channelName": "Ninomae Ina'nis Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/f4uYWHJxiGwyXm8NUlm818N1MRnywtgL6wM8JdWqWsKBzI7v1eg8dxDWG7igkWuukUSiufydqPg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Ina",
+    "scheduledStartTime": "2024-04-02T21:00:00Z",
+    "actualStartTime": "2024-04-02T21:00:32Z",
+    "premiere": false
+  },
+  {
     "id": "G5ihZHD73Bk",
     "vidUrl": "https://youtu.be/G5ihZHD73Bk",
     "vidTitle": "\u3010Zatsu\u3011VTuber loses her voice\u3010Ran Tsukiha | Production kawaii\u3011",
@@ -2785,6 +2786,19 @@
     "shortName": "Ran",
     "scheduledStartTime": "2024-04-02T22:30:00Z",
     "actualStartTime": "2024-04-02T22:30:13Z",
+    "premiere": false
+  },
+  {
+    "id": "RdZ8wqmfS34",
+    "vidUrl": "https://youtu.be/RdZ8wqmfS34",
+    "vidTitle": "FINISHING UP DARK SOULS 3 DLC",
+    "channelId": "@briatcookiebox",
+    "channelName": "BriAtCookiebox",
+    "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_kFO9kNCi6Y5IBI4e28nzZGgvgmSudo1CTJ29y4=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Bri",
+    "scheduledStartTime": "2024-04-02T23:00:00Z",
+    "actualStartTime": "2024-04-02T23:00:13Z",
     "premiere": false
   },
   {
