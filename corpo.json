@@ -2661,6 +2661,19 @@
     "premiere": false
   },
   {
+    "id": "u6gmxNibKP8",
+    "vidUrl": "https://youtu.be/u6gmxNibKP8",
+    "vidTitle": "Vilhelm Vanderbos ch. Live Stream",
+    "channelId": "@vilhelmvanderbos",
+    "channelName": "Vilhelm Vanderbos ch.",
+    "channelThumb": "https://yt3.ggpht.com/c60BWhfKQyUhIXQMCrPGcY54qXLPT9ze_eO1Cjm69Kko4ctGcDbEKYSVAZHhpgzPzW2pi8Ncc_0=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Vilhelm",
+    "scheduledStartTime": "",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "vGTkEKh0uRM",
     "vidUrl": "https://youtu.be/vGTkEKh0uRM",
     "vidTitle": "Eel awa",
@@ -2840,19 +2853,6 @@
     "shortName": "Yuuki",
     "scheduledStartTime": "2024-04-03T14:00:00Z",
     "actualStartTime": "2024-04-03T13:00:25Z",
-    "premiere": false
-  },
-  {
-    "id": "lFqoubfJaac",
-    "vidUrl": "https://youtu.be/lFqoubfJaac",
-    "vidTitle": "LIFE IS LIKE A HURRICANE\u3010DUCKTALES REMASTERED\u3011",
-    "channelId": "@umikyoku",
-    "channelName": "Umi Kyoku \u3010\u3046\u307f\u304d\u3087\u304f\u3011",
-    "channelThumb": "https://yt3.ggpht.com/swraGRJ-7ukDEjf58l8YghX2KRDuxS2AEW417T7BWmc-NehlFSgYeMftFJ9VuDE43C07xHQLKBA=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Umi",
-    "scheduledStartTime": "2024-04-03T14:30:00Z",
-    "actualStartTime": "2024-04-03T14:43:16Z",
     "premiere": false
   }
 ]
