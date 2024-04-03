@@ -127,7 +127,7 @@
     "channelName": "Scarle Yonaguni \u3010NIJISANJI EN\u3011",
     "channelThumb": "https://yt3.ggpht.com/oYEH8ckOxzEJ0GXlZGp4aSxvZrMWAeodRUg_MRgHqJEr7bEyjXdoC5VyYZ143XtcIKUozhQq6Q=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Scarle",
-    "scheduledStartTime": "2024-04-03T06:00:00Z",
+    "scheduledStartTime": "2024-04-03T06:15:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -320,6 +320,18 @@
     "channelThumb": "https://yt3.ggpht.com/8B_T08sx8R7XVi5Mwx_l9sjQm5FGWGspeujSvVDvd80Zyr-3VvVTRGVLOnBrqNRxZp6ZeXAV=s88-c-k-c0x00ffffff-no-nd-rj",
     "shortName": "Mori",
     "scheduledStartTime": "2024-04-03T14:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "lFqoubfJaac",
+    "vidUrl": "https://youtu.be/lFqoubfJaac",
+    "vidTitle": "LIFE IS LIKE A HURRICANE\u3010DUCKTALES REMASTERED\u3011",
+    "channelId": "@umikyoku",
+    "channelName": "Umi Kyoku \u3010\u3046\u307f\u304d\u3087\u304f\u3011",
+    "channelThumb": "https://yt3.ggpht.com/swraGRJ-7ukDEjf58l8YghX2KRDuxS2AEW417T7BWmc-NehlFSgYeMftFJ9VuDE43C07xHQLKBA=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Umi",
+    "scheduledStartTime": "2024-04-03T14:30:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -643,18 +655,6 @@
     "channelName": "Shiori Novella Ch. hololive-EN",
     "channelThumb": "https://yt3.ggpht.com/ZlovVsPyh8NgS37S4dfONiCBySiboGPbT9cYuirb8JM3JhSnqlpJk-8SQUEA7jPfqXpMvjaa=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Shiori",
-    "scheduledStartTime": "2024-04-03T23:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "lFqoubfJaac",
-    "vidUrl": "https://youtu.be/lFqoubfJaac",
-    "vidTitle": "LIFE IS LIKE A HURRICANE\u3010DUCKTALES REMASTERED\u3011",
-    "channelId": "@umikyoku",
-    "channelName": "Umi Kyoku \u3010\u3046\u307f\u304d\u3087\u304f\u3011",
-    "channelThumb": "https://yt3.ggpht.com/swraGRJ-7ukDEjf58l8YghX2KRDuxS2AEW417T7BWmc-NehlFSgYeMftFJ9VuDE43C07xHQLKBA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Umi",
     "scheduledStartTime": "2024-04-03T23:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2604,19 +2604,6 @@
     "premiere": false
   },
   {
-    "id": "APzaO3nC3Xk",
-    "vidUrl": "https://youtu.be/APzaO3nC3Xk",
-    "vidTitle": "\u3010 JUST CHATTING \u3011I WANT TO TALK WITH YOU\u3002\u3002\uff01\u3010 PIXELLINK\u30fbNEBI NEBU \u3011",
-    "channelId": "@nebinebu",
-    "channelName": "Nebi Nebu Ch.\u3010PixelLink\u3011",
-    "channelThumb": "https://yt3.ggpht.com/ISIGJXVKQQOGr9G6acb4mkNl8W6qNDzBHOdvO65x9JIZB0unQUOxkuzd7ZTmmZRirMPBrwCJ=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Nebi",
-    "scheduledStartTime": "2024-04-02T16:00:00Z",
-    "actualStartTime": "2024-04-02T16:01:11Z",
-    "premiere": false
-  },
-  {
     "id": "G5ihZHD73Bk",
     "vidUrl": "https://youtu.be/G5ihZHD73Bk",
     "vidTitle": "\u3010Zatsu\u3011VTuber loses her voice\u3010Ran Tsukiha | Production kawaii\u3011",
@@ -2640,19 +2627,6 @@
     "shortName": "Boomi",
     "scheduledStartTime": "2024-04-03T00:00:00Z",
     "actualStartTime": "2024-04-03T00:09:26Z",
-    "premiere": false
-  },
-  {
-    "id": "YuAfhjrBoQw",
-    "vidUrl": "https://youtu.be/YuAfhjrBoQw",
-    "vidTitle": "\u3010Plate Up!\u3011WELCOME TO THE TENCHI CAFE \u2615 | Mino Mieko Ch.",
-    "channelId": "@minomieko",
-    "channelName": "Mino Mieko Ch.",
-    "channelThumb": "https://yt3.ggpht.com/ryVy3g8W7qKzcFFCsuZgiGN3lo7_bDXvBM70mR8jhiGDlVFBaMZD28kB8pJIsDeEXZCY0zRX=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Mieko",
-    "scheduledStartTime": "2024-04-03T01:00:00Z",
-    "actualStartTime": "2024-04-03T01:03:04Z",
     "premiere": false
   },
   {
