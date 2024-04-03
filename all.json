@@ -1,17 +1,5 @@
 [
   {
-    "id": "yYQqRfyXx6A",
-    "vidUrl": "https://youtu.be/yYQqRfyXx6A",
-    "vidTitle": "I PLAY YAKUZA 0 FOR THE 1ST TIME! Part 3",
-    "channelId": "@scarleyonaguni",
-    "channelName": "Scarle Yonaguni \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/oYEH8ckOxzEJ0GXlZGp4aSxvZrMWAeodRUg_MRgHqJEr7bEyjXdoC5VyYZ143XtcIKUozhQq6Q=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Scarle",
-    "scheduledStartTime": "2024-04-03T07:30:00Z",
-    "actualStartTime": "2024-04-03T07:39:05Z",
-    "premiere": false
-  },
-  {
     "id": "AQDH623YkaI",
     "vidUrl": "https://youtu.be/AQDH623YkaI",
     "vidTitle": "Circles? - THE WITNESS\u3010NIJISANJI  EN | Maria Marionette\u3011",
@@ -620,6 +608,18 @@
     "channelThumb": "https://yt3.ggpht.com/J_RmocTP4ficzRZ6AFtUiEXoekNfliyRQcber2EXH-nBkNjhci71GaeNHsp4gzLMZs14HZ1U6WQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Roza",
     "scheduledStartTime": "2024-04-03T23:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "1FHsYtsxggM",
+    "vidUrl": "https://youtu.be/1FHsYtsxggM",
+    "vidTitle": "Yugioh Player Learns Shadowverse W/ A Pro",
+    "channelId": "@novaaokami",
+    "channelName": "Nova Aokami Ch. [VReverie]",
+    "channelThumb": "https://yt3.ggpht.com/meX1uEFMv6_rki86cHBRXvTGGW7VxvnhWUREh2SUpbA8O77kQKR7xnKGU2Vwmbb69aPmsfji=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Nova",
+    "scheduledStartTime": "2024-04-04T00:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -2806,6 +2806,19 @@
     "shortName": "Boomi",
     "scheduledStartTime": "2024-04-03T00:00:00Z",
     "actualStartTime": "2024-04-03T00:09:26Z",
+    "premiere": false
+  },
+  {
+    "id": "yYQqRfyXx6A",
+    "vidUrl": "https://youtu.be/yYQqRfyXx6A",
+    "vidTitle": "I PLAY YAKUZA 0 FOR THE 1ST TIME! Part 3",
+    "channelId": "@scarleyonaguni",
+    "channelName": "Scarle Yonaguni \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/oYEH8ckOxzEJ0GXlZGp4aSxvZrMWAeodRUg_MRgHqJEr7bEyjXdoC5VyYZ143XtcIKUozhQq6Q=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Scarle",
+    "scheduledStartTime": "2024-04-03T07:30:00Z",
+    "actualStartTime": "2024-04-03T07:39:05Z",
     "premiere": false
   },
   {
