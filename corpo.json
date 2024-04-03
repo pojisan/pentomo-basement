@@ -60,18 +60,6 @@
     "premiere": false
   },
   {
-    "id": "mhh0EJSmJPg",
-    "vidUrl": "https://youtu.be/mhh0EJSmJPg",
-    "vidTitle": "First time playing Final Fantasy 7!! pt.4\u3010Final Fantasy VII Remake\u3011",
-    "channelId": "@karrotkeromi",
-    "channelName": "Karrot Keromi Ch. \u30ab\u30ed\u30c3\u30c8 \u30b1\u30ed\u30df\u3010MyHolo TV\u3011",
-    "channelThumb": "https://yt3.ggpht.com/Wbi94uoqulRJCwB_jHN8m7C-TH8gHSts_WhEW4fbC86gFMZPu01qO59X-SvSvl-gts4r5oz99Rg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Karrot",
-    "scheduledStartTime": "2024-04-03T14:00:00Z",
-    "actualStartTime": "2024-04-03T14:01:50Z",
-    "premiere": false
-  },
-  {
     "id": "lFqoubfJaac",
     "vidUrl": "https://youtu.be/lFqoubfJaac",
     "vidTitle": "LIFE IS LIKE A HURRICANE\u3010DUCKTALES REMASTERED\u3011",
@@ -2876,6 +2864,19 @@
     "shortName": "Yuuki",
     "scheduledStartTime": "2024-04-03T14:00:00Z",
     "actualStartTime": "2024-04-03T13:00:25Z",
+    "premiere": false
+  },
+  {
+    "id": "mhh0EJSmJPg",
+    "vidUrl": "https://youtu.be/mhh0EJSmJPg",
+    "vidTitle": "First time playing Final Fantasy 7!! pt.4\u3010Final Fantasy VII Remake\u3011",
+    "channelId": "@karrotkeromi",
+    "channelName": "Karrot Keromi Ch. \u30ab\u30ed\u30c3\u30c8 \u30b1\u30ed\u30df\u3010MyHolo TV\u3011",
+    "channelThumb": "https://yt3.ggpht.com/Wbi94uoqulRJCwB_jHN8m7C-TH8gHSts_WhEW4fbC86gFMZPu01qO59X-SvSvl-gts4r5oz99Rg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Karrot",
+    "scheduledStartTime": "2024-04-03T14:00:00Z",
+    "actualStartTime": "2024-04-03T14:01:50Z",
     "premiere": false
   }
 ]
