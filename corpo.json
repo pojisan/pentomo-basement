@@ -1,17 +1,5 @@
 [
   {
-    "id": "gc0vK4ZbHN4",
-    "vidUrl": "https://youtu.be/gc0vK4ZbHN4",
-    "vidTitle": "just a little bit of guerilla, beerpal...",
-    "channelId": "@mioricelesta",
-    "channelName": "Miori Celesta",
-    "channelThumb": "https://yt3.ggpht.com/kaNjFSu8SjR9kJjHuxcfwKsA12ZeruRk8iJNOxeK0z1_5-zEuaMg_F-BHlXUztmPSVbuKgcxag=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Mio",
-    "scheduledStartTime": "2024-04-03T02:15:00Z",
-    "actualStartTime": "2024-04-03T02:17:20Z",
-    "premiere": false
-  },
-  {
     "id": "tj2KMOt5XV8",
     "vidUrl": "https://youtu.be/tj2KMOt5XV8",
     "vidTitle": "WORK WITH ME? \ud83d\udc97\u3010 Co-Working and Zatsu! \u3011",
@@ -2220,18 +2208,6 @@
     "premiere": false
   },
   {
-    "id": "AWrWEbQOiYk",
-    "vidUrl": "https://youtu.be/AWrWEbQOiYk",
-    "vidTitle": "Twitter Space Free Chat",
-    "channelId": "@echovnu",
-    "channelName": "Echo Lyne Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/GXeZ1UMgOyI-peaWarT6IrEjhqilp90c7VnxBbAvFx2oy-wKlJMJnBR1m3oi2pwqryx8OwSk5A=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Echo Lyne",
-    "scheduledStartTime": "2024-06-23T04:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "H-17ibwg_I8",
     "vidUrl": "https://youtu.be/H-17ibwg_I8",
     "vidTitle": "\u3010SCHEDULE\u3011free chat! \u273f",
@@ -2558,6 +2534,19 @@
     "shortName": "Boomi",
     "scheduledStartTime": "2024-04-03T00:00:00Z",
     "actualStartTime": "2024-04-03T00:09:26Z",
+    "premiere": false
+  },
+  {
+    "id": "gc0vK4ZbHN4",
+    "vidUrl": "https://youtu.be/gc0vK4ZbHN4",
+    "vidTitle": "just a little bit of guerilla, beerpal...",
+    "channelId": "@mioricelesta",
+    "channelName": "Miori Celesta",
+    "channelThumb": "https://yt3.ggpht.com/kaNjFSu8SjR9kJjHuxcfwKsA12ZeruRk8iJNOxeK0z1_5-zEuaMg_F-BHlXUztmPSVbuKgcxag=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Mio",
+    "scheduledStartTime": "2024-04-03T02:15:00Z",
+    "actualStartTime": "2024-04-03T02:17:20Z",
     "premiere": false
   },
   {
