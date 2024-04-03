@@ -24,30 +24,6 @@
     "premiere": false
   },
   {
-    "id": "9cnIli8kbZM",
-    "vidUrl": "https://youtu.be/9cnIli8kbZM",
-    "vidTitle": "SUPAAA MAKAA SIM",
-    "channelId": "@junaunagi",
-    "channelName": "Juna Unagi Ch. idol-EN",
-    "channelThumb": "https://yt3.ggpht.com/2Z4a4Pzt3NDAzzTL_Iz9gc6HZ5uPReVnqYjz8ZDtVfcRaE026n_DgpamMVBQ4gWMBeIzfeUxUgw=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Juna",
-    "scheduledStartTime": "2024-04-03T18:00:00Z",
-    "actualStartTime": "2024-04-03T17:59:24Z",
-    "premiere": false
-  },
-  {
-    "id": "IjpX8eHYcjM",
-    "vidUrl": "https://youtu.be/IjpX8eHYcjM",
-    "vidTitle": "\u3010Escaped Chasm\u3011 Discovering a New World",
-    "channelId": "@amoralumina",
-    "channelName": "Amora Lumina Ch. \u3010EIEN Project\u3011",
-    "channelThumb": "https://yt3.ggpht.com/0IlubsFJreJnGc7-mB5nm7oNLqyyIv6KO2eIrsQYbc8wnfGpjOH-SUn5mMh7QzHMnVRLmMQRDA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Amora",
-    "scheduledStartTime": "2024-04-03T18:00:00Z",
-    "actualStartTime": "2024-04-03T18:00:05Z",
-    "premiere": false
-  },
-  {
     "id": "u8b_NViah44",
     "vidUrl": "https://youtu.be/u8b_NViah44",
     "vidTitle": "\u3010MORTUARY ASSISTANT\u3011First horror game! Apparently Raymond is hot\u3010Pippa Pebblesworth | globie\u3011",
@@ -81,18 +57,6 @@
     "shortName": "Mimosa",
     "scheduledStartTime": "2024-04-03T19:00:00Z",
     "actualStartTime": "2024-04-03T19:03:44Z",
-    "premiere": false
-  },
-  {
-    "id": "LpQO1MzS62A",
-    "vidUrl": "https://youtu.be/LpQO1MzS62A",
-    "vidTitle": "RAH! to be beat!\u3010Crypt of The NecroDancer\u3011",
-    "channelId": "@rakikazuki",
-    "channelName": "Raki Kazuki Ch.\u3010PixelLink\u3011",
-    "channelThumb": "https://yt3.ggpht.com/Ge4x2_hwt_sqQzuqoRpAsV_0SsEJ89TPznVPu-eG3ETMopiMM0iX0uW6jjIGsR-MFVWCsw1WiA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Ragi",
-    "scheduledStartTime": "2024-04-03T19:10:00Z",
-    "actualStartTime": "2024-04-03T19:10:08Z",
     "premiere": false
   },
   {
@@ -2744,19 +2708,6 @@
     "premiere": false
   },
   {
-    "id": "mKW2mIOpBOw",
-    "vidUrl": "https://youtu.be/mKW2mIOpBOw",
-    "vidTitle": "\u3010DEAD SPACE 3\u3011oooh WE ARE SO BACK\u3010NIJISANJI EN | Reimu Endou\u3011",
-    "channelId": "@reimuendou",
-    "channelName": "Reimu Endou\u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/jwZT783V-LU58DMyjShj-CWJ3GGsM5DaHX20vtIExe7LNGpaS0P5pZJV_EH11AprgaHocu6CKA=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Reimu",
-    "scheduledStartTime": "2024-04-03T15:00:00Z",
-    "actualStartTime": "2024-04-03T15:05:48Z",
-    "premiere": false
-  },
-  {
     "id": "yTIKDMdJDBg",
     "vidUrl": "https://youtu.be/yTIKDMdJDBg",
     "vidTitle": "\u3010PERSONA 3 RELOAD\u3011IS FUUKA REPLACING CHIHIRO???",
@@ -2806,6 +2757,32 @@
     "shortName": "Hu",
     "scheduledStartTime": "2024-04-03T17:00:00Z",
     "actualStartTime": "2024-04-03T17:09:20Z",
+    "premiere": false
+  },
+  {
+    "id": "9cnIli8kbZM",
+    "vidUrl": "https://youtu.be/9cnIli8kbZM",
+    "vidTitle": "SUPAAA MAKAA SIM",
+    "channelId": "@junaunagi",
+    "channelName": "Juna Unagi Ch. idol-EN",
+    "channelThumb": "https://yt3.ggpht.com/2Z4a4Pzt3NDAzzTL_Iz9gc6HZ5uPReVnqYjz8ZDtVfcRaE026n_DgpamMVBQ4gWMBeIzfeUxUgw=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Juna",
+    "scheduledStartTime": "2024-04-03T18:00:00Z",
+    "actualStartTime": "2024-04-03T17:59:24Z",
+    "premiere": false
+  },
+  {
+    "id": "LpQO1MzS62A",
+    "vidUrl": "https://youtu.be/LpQO1MzS62A",
+    "vidTitle": "RAH! to be beat!\u3010Crypt of The NecroDancer\u3011",
+    "channelId": "@rakikazuki",
+    "channelName": "Raki Kazuki Ch.\u3010PixelLink\u3011",
+    "channelThumb": "https://yt3.ggpht.com/Ge4x2_hwt_sqQzuqoRpAsV_0SsEJ89TPznVPu-eG3ETMopiMM0iX0uW6jjIGsR-MFVWCsw1WiA=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Ragi",
+    "scheduledStartTime": "2024-04-03T19:10:00Z",
+    "actualStartTime": "2024-04-03T19:10:08Z",
     "premiere": false
   },
   {
