@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "TrG9t0wZ-7k",
-    "vidUrl": "https://youtu.be/TrG9t0wZ-7k",
-    "vidTitle": "\u3010Metroid 2\u3011They're getting more powerful....",
-    "channelId": "@amiyaaranha",
-    "channelName": "Amiya Ch. \u30a2\u30df\u30e4\u30fb\u30a2\u30e9\u30cb\u30e3",
-    "channelThumb": "https://yt3.ggpht.com/91Fqx3Xut4jaSefCeiDLVGQDSdkWAvt5jA8ejzT18EztYTppy29JNzpa7G-KThC8TzuAmlKBQcs=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Amiya",
-    "scheduledStartTime": "2024-04-03T19:00:00Z",
-    "actualStartTime": "2024-04-03T19:00:35Z",
-    "premiere": false
-  },
-  {
     "id": "EcdCsY_bZ64",
     "vidUrl": "https://youtu.be/EcdCsY_bZ64",
     "vidTitle": "Are we in Florida? | Elden Ring | Part 7",
@@ -69,18 +57,6 @@
     "shortName": "Finana",
     "scheduledStartTime": "2024-04-03T20:00:00Z",
     "actualStartTime": "2024-04-03T20:05:38Z",
-    "premiere": false
-  },
-  {
-    "id": "RnWq6uRCBJE",
-    "vidUrl": "https://youtu.be/RnWq6uRCBJE",
-    "vidTitle": "pt. 2 Ranking 5e Bard Subclasses (AGAIN AGAIN)\u3010D&D Zatsu\u3011",
-    "channelId": "@airiviridis",
-    "channelName": "Airi Viridis Ch. \u3010V-Dere\u3011",
-    "channelThumb": "https://yt3.ggpht.com/hr4djvNbGuwQ5f6fID5xc6hY5sYgWPMw02AbbvKDKxPvMdlhk3FTXFbdexF_I5KHe9RizOg2ZQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Airi",
-    "scheduledStartTime": "2024-04-03T21:00:00Z",
-    "actualStartTime": "2024-04-03T20:59:57Z",
     "premiere": false
   },
   {
@@ -266,7 +242,7 @@
   {
     "id": "d3naUtVuqNw",
     "vidUrl": "https://youtu.be/d3naUtVuqNw",
-    "vidTitle": "\u3010Ender Lilies Magnolia\u3011Bloom For Me Ep.01",
+    "vidTitle": "\u3010Ender Magnolia\u3011Bloom For Me Ep.01 - Early Access",
     "channelId": "@shiorinovella",
     "channelName": "Shiori Novella Ch. hololive-EN",
     "channelThumb": "https://yt3.ggpht.com/ZlovVsPyh8NgS37S4dfONiCBySiboGPbT9cYuirb8JM3JhSnqlpJk-8SQUEA7jPfqXpMvjaa=s88-c-k-c0x00ffffff-no-rj",
@@ -871,6 +847,18 @@
     "channelName": "Kattarina Qutie Ch. idol-EN",
     "channelThumb": "https://yt3.ggpht.com/gHLRZOEihJIIcqQJmj8hsp4CsuRIbKIYKzRxQp9Q9du6DfBDFlnMv3xYCXMnKqSe3N8a1ki6Yw=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Katta",
+    "scheduledStartTime": "2024-04-04T17:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "_rWs6Ah2g28",
+    "vidUrl": "https://youtu.be/_rWs6Ah2g28",
+    "vidTitle": "The DEMON will give you NIGHTMARES!\u3010  Exanimum: The Silent Call \u3011",
+    "channelId": "@xinasuwa",
+    "channelName": "Xin Asuwa Ch.",
+    "channelThumb": "https://yt3.ggpht.com/klkgyjaDV5_SOgiCDCeA_eVlOagwjlCrsAta5GTT6ey-LG7G7U-iSeqwZwsZttrJjV7WrhPF1nU=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Xin",
     "scheduledStartTime": "2024-04-04T17:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2830,6 +2818,19 @@
     "premiere": false
   },
   {
+    "id": "TrG9t0wZ-7k",
+    "vidUrl": "https://youtu.be/TrG9t0wZ-7k",
+    "vidTitle": "\u3010Metroid 2\u3011They're getting more powerful....",
+    "channelId": "@amiyaaranha",
+    "channelName": "Amiya Ch. \u30a2\u30df\u30e4\u30fb\u30a2\u30e9\u30cb\u30e3",
+    "channelThumb": "https://yt3.ggpht.com/91Fqx3Xut4jaSefCeiDLVGQDSdkWAvt5jA8ejzT18EztYTppy29JNzpa7G-KThC8TzuAmlKBQcs=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Amiya",
+    "scheduledStartTime": "2024-04-03T19:00:00Z",
+    "actualStartTime": "2024-04-03T19:00:35Z",
+    "premiere": false
+  },
+  {
     "id": "tbV8WQ7Dey0",
     "vidUrl": "https://youtu.be/tbV8WQ7Dey0",
     "vidTitle": "\u3010NOT GTA V\u3011EPIC FAIL ZATSU\u3010Yume+ | Mimosa Shirosaki\u3011",
@@ -2866,6 +2867,19 @@
     "shortName": "Ivaela",
     "scheduledStartTime": "2024-04-03T20:00:00Z",
     "actualStartTime": "2024-04-03T20:01:02Z",
+    "premiere": false
+  },
+  {
+    "id": "RnWq6uRCBJE",
+    "vidUrl": "https://youtu.be/RnWq6uRCBJE",
+    "vidTitle": "pt. 2 Ranking 5e Bard Subclasses (AGAIN AGAIN)\u3010D&D Zatsu\u3011",
+    "channelId": "@airiviridis",
+    "channelName": "Airi Viridis Ch. \u3010V-Dere\u3011",
+    "channelThumb": "https://yt3.ggpht.com/hr4djvNbGuwQ5f6fID5xc6hY5sYgWPMw02AbbvKDKxPvMdlhk3FTXFbdexF_I5KHe9RizOg2ZQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Airi",
+    "scheduledStartTime": "2024-04-03T21:00:00Z",
+    "actualStartTime": "2024-04-03T20:59:57Z",
     "premiere": false
   },
   {
@@ -3099,19 +3113,6 @@
     "graveyard": true,
     "shortName": "Cielo",
     "scheduledStartTime": "2024-04-02T04:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "_rWs6Ah2g28",
-    "vidUrl": "https://youtu.be/_rWs6Ah2g28",
-    "vidTitle": "The DEMON will give you NIGHTMARES!\u3010  Exanimum: The Silent Call \u3011",
-    "channelId": "@xinasuwa",
-    "channelName": "Xin Asuwa Ch.",
-    "channelThumb": "https://yt3.ggpht.com/klkgyjaDV5_SOgiCDCeA_eVlOagwjlCrsAta5GTT6ey-LG7G7U-iSeqwZwsZttrJjV7WrhPF1nU=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Xin",
-    "scheduledStartTime": "2024-04-03T19:00:00Z",
     "actualStartTime": "",
     "premiere": false
   }
