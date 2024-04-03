@@ -36,18 +36,6 @@
     "premiere": false
   },
   {
-    "id": "tbV8WQ7Dey0",
-    "vidUrl": "https://youtu.be/tbV8WQ7Dey0",
-    "vidTitle": "\u3010NOT GTA V\u3011EPIC FAIL ZATSU\u3010Yume+ | Mimosa Shirosaki\u3011",
-    "channelId": "@mimosashirosaki",
-    "channelName": "Mimosa Shirosaki \u3010Yume+\u3011",
-    "channelThumb": "https://yt3.ggpht.com/N2epFpbQoGAzXd6q2EhpasgOviB2OuG9AvbQnDVY3HbugpsY5WDZ_p5Um93pEeNBKsJaGFXz=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Mimosa",
-    "scheduledStartTime": "2024-04-03T19:00:00Z",
-    "actualStartTime": "2024-04-03T19:03:44Z",
-    "premiere": false
-  },
-  {
     "id": "EcdCsY_bZ64",
     "vidUrl": "https://youtu.be/EcdCsY_bZ64",
     "vidTitle": "Are we in Florida? | Elden Ring | Part 7",
@@ -247,6 +235,18 @@
     "channelName": "Kai Saikota Ch. idol-EN",
     "channelThumb": "https://yt3.ggpht.com/0rVHZdUlMh90grMz90Dv_PPWyAvBb2BbkSN2QSDU6JWGdavGje-34q4D6E1OYgBkx74vfrxzyw=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Kai",
+    "scheduledStartTime": "2024-04-03T23:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "leRYsHGb-Oo",
+    "vidUrl": "https://youtu.be/leRYsHGb-Oo",
+    "vidTitle": "Playing Dragon's Dogma 2 but 100% in Character  #4\u3010MIKI HITSUGI / SPECIALITE\u3011 SPOILERS (c) CAPCOM",
+    "channelId": "@mikihitsugi",
+    "channelName": "Miki Hitsugi | Specialite EN",
+    "channelThumb": "https://yt3.ggpht.com/7YT74XmVpX9ySRWPf2hpfLz_m8fdW-xfK32LMvmGPo0U3gNiCf3G5PaemNK6eKV0Ex5POa3GrlE=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Migi",
     "scheduledStartTime": "2024-04-03T23:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2698,19 +2698,6 @@
     "premiere": false
   },
   {
-    "id": "yaUBRSISb6Y",
-    "vidUrl": "https://youtu.be/yaUBRSISb6Y",
-    "vidTitle": "\u3010L.A Noire\u3011criminals- OUT!",
-    "channelId": "@kattarina_qutie",
-    "channelName": "Kattarina Qutie Ch. idol-EN",
-    "channelThumb": "https://yt3.ggpht.com/gHLRZOEihJIIcqQJmj8hsp4CsuRIbKIYKzRxQp9Q9du6DfBDFlnMv3xYCXMnKqSe3N8a1ki6Yw=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Katta",
-    "scheduledStartTime": "2024-04-03T13:00:00Z",
-    "actualStartTime": "2024-04-03T13:07:25Z",
-    "premiere": false
-  },
-  {
     "id": "xCfSxpdGivI",
     "vidUrl": "https://youtu.be/xCfSxpdGivI",
     "vidTitle": "\ud83c\udf41Poppy Playtime - Chaper 1 | This is fine \u0e40\u0e01\u0e21\u0e19\u0e48\u0e32\u0e23\u0e31\u0e01\u0e46 \u3010Goozi Game\u3011",
@@ -2799,6 +2786,19 @@
     "shortName": "Juna",
     "scheduledStartTime": "2024-04-03T18:00:00Z",
     "actualStartTime": "2024-04-03T17:59:24Z",
+    "premiere": false
+  },
+  {
+    "id": "tbV8WQ7Dey0",
+    "vidUrl": "https://youtu.be/tbV8WQ7Dey0",
+    "vidTitle": "\u3010NOT GTA V\u3011EPIC FAIL ZATSU\u3010Yume+ | Mimosa Shirosaki\u3011",
+    "channelId": "@mimosashirosaki",
+    "channelName": "Mimosa Shirosaki \u3010Yume+\u3011",
+    "channelThumb": "https://yt3.ggpht.com/N2epFpbQoGAzXd6q2EhpasgOviB2OuG9AvbQnDVY3HbugpsY5WDZ_p5Um93pEeNBKsJaGFXz=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Mimosa",
+    "scheduledStartTime": "2024-04-03T19:00:00Z",
+    "actualStartTime": "2024-04-03T19:03:44Z",
     "premiere": false
   },
   {

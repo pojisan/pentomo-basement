@@ -1,17 +1,5 @@
 [
   {
-    "id": "GrguVJa-NC8",
-    "vidUrl": "https://youtu.be/GrguVJa-NC8",
-    "vidTitle": "\u3010A Difficult Game About Climbing\u3011Time to lose my mind #kfp #\u30ad\u30a2\u30e9\u30a4\u30d6",
-    "channelId": "@takanashikiara",
-    "channelName": "Takanashi Kiara Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/w7TKJYU7zmamFmf-WxfahCo_K7Bg2__Pk-CCBNnbewMG-77OZLqJO9MLvDAmH9nEkZH8OkWgSQ=s88-c-k-c0x00ffffff-no-nd-rj",
-    "shortName": "Kiara",
-    "scheduledStartTime": "2024-04-03T17:00:00Z",
-    "actualStartTime": "2024-04-03T17:00:40Z",
-    "premiere": false
-  },
-  {
     "id": "whk2hj3fx08",
     "vidUrl": "https://youtu.be/whk2hj3fx08",
     "vidTitle": "\u3010Landlord's Super\u3011 Fauna's a landlord now. Bit sad innit?",
@@ -69,6 +57,19 @@
     "shortName": "Mori",
     "scheduledStartTime": "2024-04-04T02:00:00Z",
     "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "GrguVJa-NC8",
+    "vidUrl": "https://youtu.be/GrguVJa-NC8",
+    "vidTitle": "\u3010A Difficult Game About Climbing\u3011Time to lose my mind #kfp #\u30ad\u30a2\u30e9\u30a4\u30d6",
+    "channelId": "@takanashikiara",
+    "channelName": "Takanashi Kiara Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/w7TKJYU7zmamFmf-WxfahCo_K7Bg2__Pk-CCBNnbewMG-77OZLqJO9MLvDAmH9nEkZH8OkWgSQ=s88-c-k-c0x00ffffff-no-nd-rj",
+    "graveyard": true,
+    "shortName": "Kiara",
+    "scheduledStartTime": "2024-04-03T17:00:00Z",
+    "actualStartTime": "2024-04-03T17:00:40Z",
     "premiere": false
   }
 ]
