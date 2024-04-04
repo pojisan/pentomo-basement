@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "IwY3mMsrxdk",
-    "vidUrl": "https://youtu.be/IwY3mMsrxdk",
-    "vidTitle": "\u3010JAPAN TRIP ZATSU\u3011 I'M IN SEVERE DEBT :D",
-    "channelId": "@amoriavnu",
-    "channelName": "Amoria Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/xE9UTkowb3ioACbhZJuLwEGgBQEq4akaOHZZBTGmgn807ALVQKp91t_Gr74tgSpWRmN7SaEgnQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Amoria",
-    "scheduledStartTime": "2024-04-04T02:00:00Z",
-    "actualStartTime": "2024-04-04T02:14:14Z",
-    "premiere": false
-  },
-  {
     "id": "SMvQYm746Rg",
     "vidUrl": "https://youtu.be/SMvQYm746Rg",
     "vidTitle": "Does This Game Still Hold Up? | RETRO GAME TIME! \ud83d\udc97\u3010 Super Mario 64 \u3011",
@@ -2678,6 +2666,19 @@
     "shortName": "Uta",
     "scheduledStartTime": "2024-04-04T01:00:00Z",
     "actualStartTime": "2024-04-04T01:03:52Z",
+    "premiere": false
+  },
+  {
+    "id": "IwY3mMsrxdk",
+    "vidUrl": "https://youtu.be/IwY3mMsrxdk",
+    "vidTitle": "\u3010JAPAN TRIP ZATSU\u3011 I'M IN SEVERE DEBT :D",
+    "channelId": "@amoriavnu",
+    "channelName": "Amoria Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/xE9UTkowb3ioACbhZJuLwEGgBQEq4akaOHZZBTGmgn807ALVQKp91t_Gr74tgSpWRmN7SaEgnQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Amoria",
+    "scheduledStartTime": "2024-04-04T02:00:00Z",
+    "actualStartTime": "2024-04-04T02:14:14Z",
     "premiere": false
   },
   {
