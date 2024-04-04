@@ -24,18 +24,6 @@
     "premiere": false
   },
   {
-    "id": "27G7JAI_AS4",
-    "vidUrl": "https://youtu.be/27G7JAI_AS4",
-    "vidTitle": "This image was my first impression of Corpse Party",
-    "channelId": "@amayawhisperch",
-    "channelName": "Amaya Whisper CH.",
-    "channelThumb": "https://yt3.ggpht.com/iFJsuBeka3rm3zWT09RkNEiijQj3YcRFDWIiwS27VOlR8how5j4-GU1bWF1bKrfV4fvhk8uxSA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Amaya",
-    "scheduledStartTime": "2024-04-04T00:30:00Z",
-    "actualStartTime": "2024-04-04T00:31:53Z",
-    "premiere": false
-  },
-  {
     "id": "mYXjaGcIKAw",
     "vidUrl": "https://youtu.be/mYXjaGcIKAw",
     "vidTitle": "\u3010MARIO KART\u3011PETALIGHT VS YOU! (Playing w/Viewers)\u3010V4Mirai | Yae Yugiri \u3011",
@@ -1087,6 +1075,18 @@
     "channelName": "Clara Ch. \u6b4c\u7f8e\u9cf4\u30af\u30e9\u30e9 \u3010Phase Connect\u3011",
     "channelThumb": "https://yt3.ggpht.com/Ds02-91FQsIFHxhISPbW0dvCSyrXDEmKyRHIn04c1vRKMXMNobf9Ny4UszPfbWXyNPze7gVqTQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Clara",
+    "scheduledStartTime": "2024-04-05T04:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "wyY5sLNm03I",
+    "vidUrl": "https://youtu.be/wyY5sLNm03I",
+    "vidTitle": "\u3010ART\u3011drawing new @welcometolucid members! hello darkness my old tea star!?",
+    "channelId": "@neiomicielo",
+    "channelName": "Neiomi Cielo Ch.\u3010lucid\u2601\ufe0f\u3011",
+    "channelThumb": "https://yt3.ggpht.com/Scg_jH2aOtaFnREeE_96R4xFDpw0cxp1A-sM6poZ_dl-6N2igdC-27zQ7UOguRqYARzQ6pTK0w=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Cielo",
     "scheduledStartTime": "2024-04-05T04:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2625,16 +2625,16 @@
     "premiere": false
   },
   {
-    "id": "87-p4p2JVTY",
-    "vidUrl": "https://youtu.be/87-p4p2JVTY",
-    "vidTitle": "we're nearing the end!\u3010GTA IV pt. 17 \u2661\u3011",
-    "channelId": "@stfuboomi_",
-    "channelName": "Boomi Mamana Ch. \u9b54\u611b\u3076\u307f\u3010lucid\u2601\ufe0f\u3011",
-    "channelThumb": "https://yt3.ggpht.com/Ir7xaFhyOLm30TDU6WsFUT24WE8_o7SGK3eUmpbCsOOWFjh22e4XJsPhUYCvUtdgSUM2sUzOtg=s88-c-k-c0x00ffffff-no-rj",
+    "id": "27G7JAI_AS4",
+    "vidUrl": "https://youtu.be/27G7JAI_AS4",
+    "vidTitle": "This image was my first impression of Corpse Party",
+    "channelId": "@amayawhisperch",
+    "channelName": "Amaya Whisper CH.",
+    "channelThumb": "https://yt3.ggpht.com/iFJsuBeka3rm3zWT09RkNEiijQj3YcRFDWIiwS27VOlR8how5j4-GU1bWF1bKrfV4fvhk8uxSA=s88-c-k-c0x00ffffff-no-rj",
     "graveyard": true,
-    "shortName": "Boomi",
-    "scheduledStartTime": "2024-04-04T00:00:00Z",
-    "actualStartTime": "2024-04-04T00:08:21Z",
+    "shortName": "Amaya",
+    "scheduledStartTime": "2024-04-04T00:30:00Z",
+    "actualStartTime": "2024-04-04T00:31:53Z",
     "premiere": false
   },
   {
