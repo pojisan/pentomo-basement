@@ -24,18 +24,6 @@
     "premiere": false
   },
   {
-    "id": "VEhgY_ION1g",
-    "vidUrl": "https://youtu.be/VEhgY_ION1g",
-    "vidTitle": "DAY 4 OF DAILY MINAZUKI! | Supermarket Simulator",
-    "channelId": "@minazukimana",
-    "channelName": "MinazukiMana - VOLs",
-    "channelThumb": "https://yt3.ggpht.com/O64mRHiN_f8Xzpwucwlf_pegYaW8OWoHcNhfVAwXcSvy3NNUbDoTjQGq0cdyrR0EdGXV4gv6XA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Mana",
-    "scheduledStartTime": "2024-04-04T12:00:00Z",
-    "actualStartTime": "2024-04-04T12:02:14Z",
-    "premiere": false
-  },
-  {
     "id": "csiZG2zKuhU",
     "vidUrl": "https://youtu.be/csiZG2zKuhU",
     "vidTitle": "\ud83d\udd34\u3010CONTENT WARNING\u3011 NEW HORROR GAME LIKE LETHAL COMPANY \ud83d\udd25 Come Join!",
@@ -140,7 +128,7 @@
     "channelThumb": "https://yt3.ggpht.com/ZVYdvQBa9q2BLWfDnqUrpJD16c5Tr0vGoXjvBFgydUvA1XKt1cuJPT8aMM6bSE_MtPFQVwaQYA=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Hu",
     "scheduledStartTime": "2024-04-04T14:00:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-04T14:41:48Z",
     "premiere": false
   },
   {
@@ -152,7 +140,7 @@
     "channelThumb": "https://yt3.ggpht.com/yILITMwS2t2HFysY-sKxOFGmrAaQheI4LMzf-ezgCTX9rjPTSJtZQK3E48WTtxtCWinefdwl-g=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Yura",
     "scheduledStartTime": "2024-04-04T14:30:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-04T14:37:19Z",
     "premiere": false
   },
   {
@@ -776,6 +764,18 @@
     "channelThumb": "https://yt3.ggpht.com/Scg_jH2aOtaFnREeE_96R4xFDpw0cxp1A-sM6poZ_dl-6N2igdC-27zQ7UOguRqYARzQ6pTK0w=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Cielo",
     "scheduledStartTime": "2024-04-05T04:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "S97w7qsQwTM",
+    "vidUrl": "https://youtu.be/S97w7qsQwTM",
+    "vidTitle": "Work with me!! \u270d\u270d\u270d",
+    "channelId": "@liolalightbringer",
+    "channelName": "Liola Ch.\u3010MyHolo TV\u3011",
+    "channelThumb": "https://yt3.ggpht.com/pa-ydC8sTdCOp5QdufDcysaOEqZMj09zQsvKoNcJ6RcHlo3Ijaczoor3PNAOrLGN0S5ugEe7=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Liola",
+    "scheduledStartTime": "2024-04-05T06:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -2503,19 +2503,6 @@
     "premiere": false
   },
   {
-    "id": "sHYlCgwgmH4",
-    "vidUrl": "https://youtu.be/sHYlCgwgmH4",
-    "vidTitle": "\u3010Honkai: Star Rail\u3011Our New Mommy Acheron Is Here!\u3010UTAHIME MOCHIZUKI | SPECIALITE\u3011",
-    "channelId": "@utahimemochizuki",
-    "channelName": "Utahime Mochizuki | Specialite EN",
-    "channelThumb": "https://yt3.ggpht.com/osBzLXvtdsDnt8yz3Eir3dzxCzGyrtg7-2jVXwKMBrLUijflbHEBU49IXRX_6fBOqtw8JpHiJQ=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Uta",
-    "scheduledStartTime": "2024-04-04T01:00:00Z",
-    "actualStartTime": "2024-04-04T01:03:52Z",
-    "premiere": false
-  },
-  {
     "id": "-CPPjxNHf1Y",
     "vidUrl": "https://youtu.be/-CPPjxNHf1Y",
     "vidTitle": "\u3010working\u3011lets relax and work together\ud83e\udd0d #zatsudan",
@@ -2552,6 +2539,19 @@
     "shortName": "Aria",
     "scheduledStartTime": "2024-04-04T11:00:00Z",
     "actualStartTime": "2024-04-04T10:59:24Z",
+    "premiere": false
+  },
+  {
+    "id": "VEhgY_ION1g",
+    "vidUrl": "https://youtu.be/VEhgY_ION1g",
+    "vidTitle": "DAY 4 OF DAILY MINAZUKI! | Supermarket Simulator",
+    "channelId": "@minazukimana",
+    "channelName": "MinazukiMana - VOLs",
+    "channelThumb": "https://yt3.ggpht.com/O64mRHiN_f8Xzpwucwlf_pegYaW8OWoHcNhfVAwXcSvy3NNUbDoTjQGq0cdyrR0EdGXV4gv6XA=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Mana",
+    "scheduledStartTime": "2024-04-04T12:00:00Z",
+    "actualStartTime": "2024-04-04T12:02:14Z",
     "premiere": false
   },
   {
