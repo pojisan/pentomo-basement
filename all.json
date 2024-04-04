@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "e11Ejl31y9A",
-    "vidUrl": "https://youtu.be/e11Ejl31y9A",
-    "vidTitle": "\u3010MONSTER HUNTER WORLD\u3011How I will Destroy Monsters 101",
-    "channelId": "@irys",
-    "channelName": "IRyS Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/cDSMiVy3Xa49Ci_YyouVNzfCwVXKRYmOeywWQ_UFKzvAp6tvyeMtXMyzWzQ2u8ft4EENsJKt7A=s88-c-k-c0x00ffffff-no-nd-rj",
-    "shortName": "Irys",
-    "scheduledStartTime": "2024-04-04T03:30:00Z",
-    "actualStartTime": "2024-04-04T03:30:34Z",
-    "premiere": false
-  },
-  {
     "id": "oePPkR5zhmk",
     "vidUrl": "https://youtu.be/oePPkR5zhmk",
     "vidTitle": "First Time! Time to reside the evil? \u3010 Resident Evil 4 \u3011",
@@ -2631,6 +2619,19 @@
     "shortName": "Uta",
     "scheduledStartTime": "2024-04-04T01:00:00Z",
     "actualStartTime": "2024-04-04T01:03:52Z",
+    "premiere": false
+  },
+  {
+    "id": "e11Ejl31y9A",
+    "vidUrl": "https://youtu.be/e11Ejl31y9A",
+    "vidTitle": "\u3010MONSTER HUNTER WORLD\u3011How I will Destroy Monsters 101",
+    "channelId": "@irys",
+    "channelName": "IRyS Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/cDSMiVy3Xa49Ci_YyouVNzfCwVXKRYmOeywWQ_UFKzvAp6tvyeMtXMyzWzQ2u8ft4EENsJKt7A=s88-c-k-c0x00ffffff-no-nd-rj",
+    "graveyard": true,
+    "shortName": "Irys",
+    "scheduledStartTime": "2024-04-04T03:30:00Z",
+    "actualStartTime": "2024-04-04T03:30:34Z",
     "premiere": false
   },
   {
