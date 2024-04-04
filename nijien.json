@@ -48,6 +48,18 @@
     "premiere": false
   },
   {
+    "id": "aYUgGoicy00",
+    "vidUrl": "https://youtu.be/aYUgGoicy00",
+    "vidTitle": "WE'RE BACK IN THE SHADOWS\u3010 SHADOW CORRIDOR 2 \u3011 \u3010NIJISANJI EN | Alban Knox\u3011",
+    "channelId": "@albanknox",
+    "channelName": "Alban Knox \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/rbTGK5bXuub0l3feyx8c780FtoRAtT1KDgqOGQq2wSisQJo17wk9PusEc_ZjUMK_uwZ47LIZiSI=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Alban",
+    "scheduledStartTime": "2024-04-04T11:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "sZtqEtsqeLs",
     "vidUrl": "https://youtu.be/sZtqEtsqeLs",
     "vidTitle": "\u3010REVIEWING YOUR ROOM\u3011WHAT'S IN YOUR ROOM #VezkitRoom ? \ud83e\udd14\ud83d\udd0d\u3010NIJISANJI EN | Vezalius Bandage\u3011",
@@ -190,19 +202,6 @@
     "shortName": "Vivi",
     "scheduledStartTime": "2024-04-04T00:00:00Z",
     "actualStartTime": "2024-04-04T00:15:37Z",
-    "premiere": false
-  },
-  {
-    "id": "UAVVr1jQcXU",
-    "vidUrl": "https://youtu.be/UAVVr1jQcXU",
-    "vidTitle": "\u3010Mario Kart\u3011 Training arc :3c with vivi! \u3010NIJISANJI EN | Kunai Nakasato\u3011",
-    "channelId": "@kunainakasato",
-    "channelName": "Kunai Nakasato \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/cpOrgCDSmgMO9mNbftd8UKAtsZwIGRCV5t5EmjoQ2FcP-W3N7s6S4UUc_Daz24qjDnBxrTEBrtQ=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Kunai",
-    "scheduledStartTime": "2024-04-04T00:15:00Z",
-    "actualStartTime": "2024-04-04T00:14:49Z",
     "premiere": false
   }
 ]
