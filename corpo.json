@@ -1,17 +1,5 @@
 [
   {
-    "id": "N40QvCgQ8I4",
-    "vidUrl": "https://youtu.be/N40QvCgQ8I4",
-    "vidTitle": "\u3010Lethal Company\u3011Just me, myself and the monsters",
-    "channelId": "@lillianthemaid",
-    "channelName": "Lillian\u3010BlueJump EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/ZyQVNSp-gOO1KVonCwFgE0I1lz749HgsVPc0GV4tOYvv3TdSE_nzE7iS9fZEZtlxqWbz2Ta_ww=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Lillian",
-    "scheduledStartTime": "2024-04-04T10:00:00Z",
-    "actualStartTime": "2024-04-04T10:00:57Z",
-    "premiere": false
-  },
-  {
     "id": "f9lk4fNc-wQ",
     "vidUrl": "https://youtu.be/f9lk4fNc-wQ",
     "vidTitle": "[Gaming] Let's Chat with Yagami Noah\uff5cVTuber /GTA5 in Street Junkies\u3010GTA5\u3011\u65e5\u672c\u8a9e/PC",
@@ -2613,6 +2601,19 @@
     "shortName": "Mikumi",
     "scheduledStartTime": "2024-04-04T08:30:00Z",
     "actualStartTime": "2024-04-04T08:26:02Z",
+    "premiere": false
+  },
+  {
+    "id": "N40QvCgQ8I4",
+    "vidUrl": "https://youtu.be/N40QvCgQ8I4",
+    "vidTitle": "\u3010Lethal Company\u3011Just me, myself and the monsters",
+    "channelId": "@lillianthemaid",
+    "channelName": "Lillian\u3010BlueJump EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/ZyQVNSp-gOO1KVonCwFgE0I1lz749HgsVPc0GV4tOYvv3TdSE_nzE7iS9fZEZtlxqWbz2Ta_ww=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Lillian",
+    "scheduledStartTime": "2024-04-04T10:00:00Z",
+    "actualStartTime": "2024-04-04T10:00:57Z",
     "premiere": false
   }
 ]
