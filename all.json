@@ -1,17 +1,5 @@
 [
   {
-    "id": "whk2hj3fx08",
-    "vidUrl": "https://youtu.be/whk2hj3fx08",
-    "vidTitle": "\u3010Landlord's Super\u3011 Fauna's a landlord now. Bit sad innit?",
-    "channelId": "@ceresfauna",
-    "channelName": "Ceres Fauna Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/cBtserkb211p6If2OewgWd8oriIKRkfwTcP4_Vdq2YETG5TK9Q02v4cYmnLU03KBAJ0gcDha7oQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Fauna",
-    "scheduledStartTime": "2024-04-03T22:00:00Z",
-    "actualStartTime": "2024-04-03T22:00:07Z",
-    "premiere": false
-  },
-  {
     "id": "kaIHR2rcFv0",
     "vidUrl": "https://youtu.be/kaIHR2rcFv0",
     "vidTitle": "\u3010Far Cry 5\u3011We Don't Know Anything About This Game ft. @lanariaria",
@@ -33,18 +21,6 @@
     "shortName": "Shiori",
     "scheduledStartTime": "2024-04-03T23:00:00Z",
     "actualStartTime": "2024-04-03T22:53:12Z",
-    "premiere": false
-  },
-  {
-    "id": "aGNklu0rF_o",
-    "vidUrl": "https://youtu.be/aGNklu0rF_o",
-    "vidTitle": "\u3010Shinkansen 0 / \u65b0\u5e79\u7dda 0\u53f7\u3011I like trains...?",
-    "channelId": "@kosekibijou",
-    "channelName": "Koseki Bijou Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/75xH5tujXTVPHlQXask8_qTbOeyq0BY4hKxNfvgTrsuqhK_oActrFV197roYikUNZhzayfiLmg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Biboo",
-    "scheduledStartTime": "2024-04-03T23:00:00Z",
-    "actualStartTime": "2024-04-03T22:58:09Z",
     "premiere": false
   },
   {
@@ -314,7 +290,7 @@
   {
     "id": "zVhPNuzUKj8",
     "vidUrl": "https://youtu.be/zVhPNuzUKj8",
-    "vidTitle": "what is that dragon girl doing?! \ud83d\udca2",
+    "vidTitle": "what is that dragon girl doing?! \ud83d\udca2 (she is being a broke artist; passpartout 2)",
     "channelId": "@surivnu",
     "channelName": "Suri Solari Ch. V&U",
     "channelThumb": "https://yt3.ggpht.com/VaElIFntfdnsdEWcuX4b3ZB6JpT8YmhAr7Tf-2h80TO_ygsd8OxSf1TgZjtSpwt6K26DwgloNg=s88-c-k-c0x00ffffff-no-rj",
@@ -368,7 +344,7 @@
     "channelThumb": "https://yt3.ggpht.com/lfSudxn7RE0Izwj8K2GriTxOebvU7pOlFL6lRkZQfYUex3cksfnEasQtUcPcfXkEJaXYVwxAfQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Kilia",
     "scheduledStartTime": "2024-04-04T01:45:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-04T01:47:17Z",
     "premiere": false
   },
   {
@@ -2902,6 +2878,32 @@
     "shortName": "Airi",
     "scheduledStartTime": "2024-04-03T21:00:00Z",
     "actualStartTime": "2024-04-03T20:59:57Z",
+    "premiere": false
+  },
+  {
+    "id": "whk2hj3fx08",
+    "vidUrl": "https://youtu.be/whk2hj3fx08",
+    "vidTitle": "\u3010Landlord's Super\u3011 Fauna's a landlord now. Bit sad innit?",
+    "channelId": "@ceresfauna",
+    "channelName": "Ceres Fauna Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/cBtserkb211p6If2OewgWd8oriIKRkfwTcP4_Vdq2YETG5TK9Q02v4cYmnLU03KBAJ0gcDha7oQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Fauna",
+    "scheduledStartTime": "2024-04-03T22:00:00Z",
+    "actualStartTime": "2024-04-03T22:00:07Z",
+    "premiere": false
+  },
+  {
+    "id": "aGNklu0rF_o",
+    "vidUrl": "https://youtu.be/aGNklu0rF_o",
+    "vidTitle": "\u3010Shinkansen 0 / \u65b0\u5e79\u7dda 0\u53f7\u3011I like trains...?",
+    "channelId": "@kosekibijou",
+    "channelName": "Koseki Bijou Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/75xH5tujXTVPHlQXask8_qTbOeyq0BY4hKxNfvgTrsuqhK_oActrFV197roYikUNZhzayfiLmg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Biboo",
+    "scheduledStartTime": "2024-04-03T23:00:00Z",
+    "actualStartTime": "2024-04-03T22:58:09Z",
     "premiere": false
   },
   {
