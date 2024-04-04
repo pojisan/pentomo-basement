@@ -24,18 +24,6 @@
     "premiere": false
   },
   {
-    "id": "5NGgQxedSkA",
-    "vidUrl": "https://youtu.be/5NGgQxedSkA",
-    "vidTitle": "\u3010KARAOKE | \u6b4c\u67a0\u3011Singing until I'm satisfied #shorts",
-    "channelId": "@karrotkeromi",
-    "channelName": "Karrot Keromi Ch. \u30ab\u30ed\u30c3\u30c8 \u30b1\u30ed\u30df\u3010MyHolo TV\u3011",
-    "channelThumb": "https://yt3.ggpht.com/Wbi94uoqulRJCwB_jHN8m7C-TH8gHSts_WhEW4fbC86gFMZPu01qO59X-SvSvl-gts4r5oz99Rg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Karrot",
-    "scheduledStartTime": "2024-04-04T14:00:00Z",
-    "actualStartTime": "2024-04-04T14:04:26Z",
-    "premiere": false
-  },
-  {
     "id": "4wcMZrviI1s",
     "vidUrl": "https://youtu.be/4wcMZrviI1s",
     "vidTitle": "\u3010BALDUR'S GATE 3\u3011Part 10 of no Astarion\u3010globie 1st Gen\u3011",
@@ -117,6 +105,18 @@
     "shortName": "Umi",
     "scheduledStartTime": "2024-04-04T17:15:00Z",
     "actualStartTime": "2024-04-04T17:31:01Z",
+    "premiere": false
+  },
+  {
+    "id": "ttRmYmTHNVY",
+    "vidUrl": "https://youtu.be/ttRmYmTHNVY",
+    "vidTitle": "I LOVE women [Stellar Blade: Demo]",
+    "channelId": "@ginimercury",
+    "channelName": "Roza Coatl Ch.",
+    "channelThumb": "https://yt3.ggpht.com/J_RmocTP4ficzRZ6AFtUiEXoekNfliyRQcber2EXH-nBkNjhci71GaeNHsp4gzLMZs14HZ1U6WQ=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Roza",
+    "scheduledStartTime": "2024-04-04T19:00:00Z",
+    "actualStartTime": "2024-04-04T17:47:07Z",
     "premiere": false
   },
   {
@@ -211,18 +211,6 @@
     "channelName": "Kaya Nishikino Ch. \u9326\u91ce\u6953\u591c\u3010kawaii\u3011",
     "channelThumb": "https://yt3.ggpht.com/AItTH3F0F7PbQDVtW9UPUEAr4YcJhdP_5FYySlSsSn2yjWzP3ah7W121h1PjZMDWjnirLQ492Q=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Kaya",
-    "scheduledStartTime": "2024-04-04T19:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "ttRmYmTHNVY",
-    "vidUrl": "https://youtu.be/ttRmYmTHNVY",
-    "vidTitle": "I LOVE women [Stellar Blade: Demo]",
-    "channelId": "@ginimercury",
-    "channelName": "Roza Coatl Ch.",
-    "channelThumb": "https://yt3.ggpht.com/J_RmocTP4ficzRZ6AFtUiEXoekNfliyRQcber2EXH-nBkNjhci71GaeNHsp4gzLMZs14HZ1U6WQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Roza",
     "scheduledStartTime": "2024-04-04T19:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -1226,7 +1214,7 @@
   {
     "id": "Tfo_7pXi4tA",
     "vidUrl": "https://youtu.be/Tfo_7pXi4tA",
-    "vidTitle": "the... finale???\u3010GTA IV pt. 18 \u2661\u3011",
+    "vidTitle": "jk not the finale but we're close!!!\u3010GTA IV pt. 18 \u2661\u3011",
     "channelId": "@stfuboomi_",
     "channelName": "Boomi Mamana Ch. \u9b54\u611b\u3076\u307f\u3010lucid\u2601\ufe0f\u3011",
     "channelThumb": "https://yt3.ggpht.com/Ir7xaFhyOLm30TDU6WsFUT24WE8_o7SGK3eUmpbCsOOWFjh22e4XJsPhUYCvUtdgSUM2sUzOtg=s88-c-k-c0x00ffffff-no-rj",
@@ -2682,6 +2670,19 @@
     "shortName": "MYTHOS VT",
     "scheduledStartTime": "2024-04-04T14:00:00Z",
     "actualStartTime": "2024-04-04T14:01:13Z",
+    "premiere": false
+  },
+  {
+    "id": "5NGgQxedSkA",
+    "vidUrl": "https://youtu.be/5NGgQxedSkA",
+    "vidTitle": "\u3010KARAOKE | \u6b4c\u67a0\u3011Singing until I'm satisfied #shorts",
+    "channelId": "@karrotkeromi",
+    "channelName": "Karrot Keromi Ch. \u30ab\u30ed\u30c3\u30c8 \u30b1\u30ed\u30df\u3010MyHolo TV\u3011",
+    "channelThumb": "https://yt3.ggpht.com/Wbi94uoqulRJCwB_jHN8m7C-TH8gHSts_WhEW4fbC86gFMZPu01qO59X-SvSvl-gts4r5oz99Rg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Karrot",
+    "scheduledStartTime": "2024-04-04T14:00:00Z",
+    "actualStartTime": "2024-04-04T14:04:26Z",
     "premiere": false
   }
 ]
