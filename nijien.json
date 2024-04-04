@@ -24,18 +24,6 @@
     "premiere": false
   },
   {
-    "id": "Alp5fmALh5Y",
-    "vidUrl": "https://youtu.be/Alp5fmALh5Y",
-    "vidTitle": "HOT TAKES GAME SHOW W/ FULGUR! \u3010NIJISANJI EN | Aia Amare \u3011",
-    "channelId": "@aiaamare",
-    "channelName": "Aia Amare \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/ZtRcLNqOjG8w9CMolweuy-jnNGin0W0KjxVxUpzni3uvqKY6rJgnAphvHOEmxcqSV7yXwqkKcg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Aia",
-    "scheduledStartTime": "2024-04-05T00:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "lVDX6Lqxx4o",
     "vidUrl": "https://youtu.be/lVDX6Lqxx4o",
     "vidTitle": "\u3010MINECRAFT\u3011almost done with the onsen (I think)\u3010NIJISANJI EN | Uki Violeta\u3011",
@@ -44,6 +32,18 @@
     "channelThumb": "https://yt3.ggpht.com/WIy30MlmcCTxrEuKULkAdh8itCfT4Up5myJbpVHTkKbfKcgriF_qL6d3iJMD_mQfwb0B1JDT=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Uki",
     "scheduledStartTime": "2024-04-05T00:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "Alp5fmALh5Y",
+    "vidUrl": "https://youtu.be/Alp5fmALh5Y",
+    "vidTitle": "HOT TAKES GAME SHOW W/ FULGUR! \u3010NIJISANJI EN | Aia Amare \u3011",
+    "channelId": "@aiaamare",
+    "channelName": "Aia Amare \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/ZtRcLNqOjG8w9CMolweuy-jnNGin0W0KjxVxUpzni3uvqKY6rJgnAphvHOEmxcqSV7yXwqkKcg=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Aia",
+    "scheduledStartTime": "2024-04-05T00:15:00Z",
     "actualStartTime": "",
     "premiere": false
   },
