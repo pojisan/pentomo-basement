@@ -84,18 +84,6 @@
     "premiere": false
   },
   {
-    "id": "cyI4uQG2pR0",
-    "vidUrl": "https://youtu.be/cyI4uQG2pR0",
-    "vidTitle": "\u3010Playing with Viewers\u3011Meimber Party Pt. 2",
-    "channelId": "@majokkomeimi",
-    "channelName": "Meimi Majokko Ch. \u9b54\u5973\u3063\u5b50\u3081\u3044\u307f\u3010kawaii\u3011",
-    "channelThumb": "https://yt3.ggpht.com/yKOTdfPIaUJm7wH2snXzhSgGPqJL4STR1n08lCrGFZa-7oxEZuSgy080xUQt7Y3iPp2m47FLYA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Meimi",
-    "scheduledStartTime": "2024-04-04T01:45:00Z",
-    "actualStartTime": "2024-04-04T01:45:45Z",
-    "premiere": false
-  },
-  {
     "id": "IwY3mMsrxdk",
     "vidUrl": "https://youtu.be/IwY3mMsrxdk",
     "vidTitle": "\u3010JAPAN TRIP ZATSU\u3011 I'M IN SEVERE DEBT :D",
@@ -2066,7 +2054,7 @@
   {
     "id": "1PVUtvouzsM",
     "vidUrl": "https://youtu.be/1PVUtvouzsM",
-    "vidTitle": "\u3010NEW OUTFIT REVEAL\u3011Okaerinasai mase~ #DressUpMariring\u3010Maria Marionette | NIJISANJI EN\u3011",
+    "vidTitle": "\u3010NEW OUTFIT REVEAL\u3011MoeMoeKyun~ #DressUpMariring\u3010Maria Marionette | NIJISANJI EN\u3011",
     "channelId": "@mariamarionette",
     "channelName": "Maria Marionette \u3010NIJISANJI EN\u3011",
     "channelThumb": "https://yt3.ggpht.com/EZJ0E6UnrsXZKRPGwZQUJHQ4e3y9PkCHInZFzP06lAE6cYN6MXSZL7O5L5jmTRuDPSzbxNty=s88-c-k-c0x00ffffff-no-rj",
@@ -2364,6 +2352,18 @@
     "premiere": false
   },
   {
+    "id": "nNqJkAnJuaM",
+    "vidUrl": "https://youtu.be/nNqJkAnJuaM",
+    "vidTitle": "i'm back and i'm indie again!! \ud83c\udf1f[VTUBER]",
+    "channelId": "@nanaasteria",
+    "channelName": "Nana Asteria Ch. \u30a2\u30b9\u30c6\u30ea\u30a2\u306a\u306a",
+    "channelThumb": "https://yt3.ggpht.com/pAlP_Z372U181eTZj9dSzjrMG-4cdVAp1gul2TEHe2wbgpwdwrg6s2DoXwxGnYBKFYPvds0WHao=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Nana",
+    "scheduledStartTime": "2024-04-12T03:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "k2899GElpfo",
     "vidUrl": "https://youtu.be/k2899GElpfo",
     "vidTitle": "\u3010DEBUT\u3011THE TRUE STAR ARRIVES\u3010Brian\u3011",
@@ -2637,19 +2637,6 @@
     "premiere": false
   },
   {
-    "id": "27G7JAI_AS4",
-    "vidUrl": "https://youtu.be/27G7JAI_AS4",
-    "vidTitle": "This image was my first impression of Corpse Party",
-    "channelId": "@amayawhisperch",
-    "channelName": "Amaya Whisper CH.",
-    "channelThumb": "https://yt3.ggpht.com/iFJsuBeka3rm3zWT09RkNEiijQj3YcRFDWIiwS27VOlR8how5j4-GU1bWF1bKrfV4fvhk8uxSA=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Amaya",
-    "scheduledStartTime": "2024-04-04T00:30:00Z",
-    "actualStartTime": "2024-04-04T00:31:53Z",
-    "premiere": false
-  },
-  {
     "id": "Vd7JJVhR4_U",
     "vidUrl": "https://youtu.be/Vd7JJVhR4_U",
     "vidTitle": "\u3010FASHION DESIGN\u3011RYUBIE THEMED JACKET?!\u3010EIEN Project\u3011",
@@ -2686,6 +2673,19 @@
     "shortName": "Uta",
     "scheduledStartTime": "2024-04-04T01:00:00Z",
     "actualStartTime": "2024-04-04T01:03:52Z",
+    "premiere": false
+  },
+  {
+    "id": "cyI4uQG2pR0",
+    "vidUrl": "https://youtu.be/cyI4uQG2pR0",
+    "vidTitle": "\u3010Playing with Viewers\u3011Meimber Party Pt. 2",
+    "channelId": "@majokkomeimi",
+    "channelName": "Meimi Majokko Ch. \u9b54\u5973\u3063\u5b50\u3081\u3044\u307f\u3010kawaii\u3011",
+    "channelThumb": "https://yt3.ggpht.com/yKOTdfPIaUJm7wH2snXzhSgGPqJL4STR1n08lCrGFZa-7oxEZuSgy080xUQt7Y3iPp2m47FLYA=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Meimi",
+    "scheduledStartTime": "2024-04-04T01:45:00Z",
+    "actualStartTime": "2024-04-04T01:45:45Z",
     "premiere": false
   },
   {
