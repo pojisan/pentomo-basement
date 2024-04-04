@@ -144,18 +144,6 @@
     "premiere": false
   },
   {
-    "id": "FJq4XXQDLds",
-    "vidUrl": "https://youtu.be/FJq4XXQDLds",
-    "vidTitle": "Wii Sports 3: A \"game\" that \"exists\"",
-    "channelId": "@rinpenrose",
-    "channelName": "Rin Penrose Ch. idol-EN",
-    "channelThumb": "https://yt3.ggpht.com/A4q2cLOTiWlNsZpT8P2XmIgv-ZJUP4OR-2hpei0ZTM2bnpAZOdY5b1YuwslYnQCcVGJYAaGT=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Rin",
-    "scheduledStartTime": "2024-04-04T18:30:00Z",
-    "actualStartTime": "2024-04-04T18:30:28Z",
-    "premiere": false
-  },
-  {
     "id": "ttRmYmTHNVY",
     "vidUrl": "https://youtu.be/ttRmYmTHNVY",
     "vidTitle": "I LOVE women [Stellar Blade: Demo]",
@@ -248,6 +236,18 @@
     "channelThumb": "https://yt3.ggpht.com/eBm5-Is9XQiT7Ct2XPL-eAPzgNXgHqbHjgIb_z76sHswS5dVISwa8Ty-R9zVkHeBCxiVnL7-UQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Roca",
     "scheduledStartTime": "2024-04-04T20:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "I3AzDyqMC9s",
+    "vidUrl": "https://youtu.be/I3AzDyqMC9s",
+    "vidTitle": "\u3010The Fear Files\u3011The Nth Room Case\u3010Part 6\u3011",
+    "channelId": "@dkvnu",
+    "channelName": "D.K Graves Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/eLNO3hNUzmagTyaDMrJsEEL_MPotkeZh0N4uxccEYYmc2z-J93O5XGOmfTS5MwzNYRTDxgUCOg=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "DK",
+    "scheduledStartTime": "2024-04-04T20:45:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -2778,6 +2778,19 @@
     "shortName": "MYTHOS VT",
     "scheduledStartTime": "2024-04-04T14:00:00Z",
     "actualStartTime": "2024-04-04T14:01:13Z",
+    "premiere": false
+  },
+  {
+    "id": "FJq4XXQDLds",
+    "vidUrl": "https://youtu.be/FJq4XXQDLds",
+    "vidTitle": "Wii Sports 3: A \"game\" that \"exists\"",
+    "channelId": "@rinpenrose",
+    "channelName": "Rin Penrose Ch. idol-EN",
+    "channelThumb": "https://yt3.ggpht.com/A4q2cLOTiWlNsZpT8P2XmIgv-ZJUP4OR-2hpei0ZTM2bnpAZOdY5b1YuwslYnQCcVGJYAaGT=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Rin",
+    "scheduledStartTime": "2024-04-04T18:30:00Z",
+    "actualStartTime": "2024-04-04T18:30:28Z",
     "premiere": false
   }
 ]
