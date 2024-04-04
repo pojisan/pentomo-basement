@@ -75,7 +75,7 @@
       "Noah": {
         "title": "Yagami Noah / \u516b\u795e\u30ce\u30a2\u3010bondlive EN\u3011",
         "thumbnail": "https://yt3.ggpht.com/zv3gY8PI3ZXN4KgiMrdVaBT-8XTB09763VvuJFtZ7yx0nLVUiMbUoa5RlyU_BEUmvaztteqGD5A=s88-c-k-c0x00ffffff-no-rj",
-        "videoCount": "201",
+        "videoCount": "202",
         "custom": "@yagaminoah",
         "lastActivity": "2024-04-04T16:24:42Z",
         "nickname": "Noah"
@@ -1294,7 +1294,24 @@
   },
   "StellarVersePro": {},
   "Tsunderia": {
-    "Gen 0": {},
+    "Gen 0": {
+      "Saya": {
+        "title": "Saya Ch. \u30b5\u30e4\u30fb\u30b5\u30a4\u30ed\u30af\u30b5\u30b9 \u3010Phase Connect\u3011",
+        "thumbnail": "https://yt3.ggpht.com/Sk0YT3dR5xgecNjohKRwTe9mVZsFXMjnhkbbI6JxrnpPN-p-Aw_CAETRK8V9FzP4sFlMLBNTRw=s88-c-k-c0x00ffffff-no-rj",
+        "videoCount": "54",
+        "custom": "@sayasairroxs",
+        "lastActivity": "2024-04-04T19:10:42Z",
+        "nickname": "Saya"
+      },
+      "Muyu": {
+        "title": "Muyu Ch. \u3080\u3046\u3080\u3086\u3010Phase Connect\u3011",
+        "thumbnail": "https://yt3.ggpht.com/BoAq-UdPFP5MPfUMIWFQwgmeBERbkZx40VxLdrMas6I7c5koPDBUmh4LaJLUJQd9rZbD9KSKog4=s88-c-k-c0x00ffffff-no-rj",
+        "videoCount": "89",
+        "custom": "@muumuyu",
+        "lastActivity": "2024-04-03T23:44:31Z",
+        "nickname": "Muyu"
+      }
+    },
     "TsunQuest": {
       "Ember": {
         "title": "Ember Amane Ch. \u3010Phase Connect\u3011",
@@ -1827,9 +1844,9 @@
       "Mimosa": {
         "title": "Mimosa Shirosaki \u3010Yume+\u3011",
         "thumbnail": "https://yt3.ggpht.com/N2epFpbQoGAzXd6q2EhpasgOviB2OuG9AvbQnDVY3HbugpsY5WDZ_p5Um93pEeNBKsJaGFXz=s88-c-k-c0x00ffffff-no-rj",
-        "videoCount": "31",
+        "videoCount": "32",
         "custom": "@mimosashirosaki",
-        "lastActivity": "2024-04-04T08:50:47Z",
+        "lastActivity": "2024-04-04T21:45:02Z",
         "nickname": "Mimosa"
       },
       "Raein": {
@@ -2247,9 +2264,9 @@
       "Kiara": {
         "title": "Takanashi Kiara Ch. hololive-EN",
         "thumbnail": "https://yt3.ggpht.com/w7TKJYU7zmamFmf-WxfahCo_K7Bg2__Pk-CCBNnbewMG-77OZLqJO9MLvDAmH9nEkZH8OkWgSQ=s88-c-k-c0x00ffffff-no-nd-rj",
-        "videoCount": "1096",
+        "videoCount": "1097",
         "custom": "@takanashikiara",
-        "lastActivity": "2024-04-03T20:43:30Z",
+        "lastActivity": "2024-04-04T21:37:31Z",
         "nickname": "Kiara"
       },
       "Ina": {
