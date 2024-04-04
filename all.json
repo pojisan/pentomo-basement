@@ -12,30 +12,6 @@
     "premiere": false
   },
   {
-    "id": "oePPkR5zhmk",
-    "vidUrl": "https://youtu.be/oePPkR5zhmk",
-    "vidTitle": "First Time! Time to reside the evil? \u3010 Resident Evil 4 \u3011",
-    "channelId": "@eliastellaria",
-    "channelName": "Elia Stellaria\u3010V-Dere\u3011",
-    "channelThumb": "https://yt3.ggpht.com/06-Ihgh44rPrUWXBSXAGR0a10dQKGBTm-AEJxG1ThlclvCzFFugh1FSz5PXqXP606Y_BV98SKA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Elia",
-    "scheduledStartTime": "2024-04-04T08:00:00Z",
-    "actualStartTime": "2024-04-04T08:01:14Z",
-    "premiere": false
-  },
-  {
-    "id": "naeeHJeH1Ag",
-    "vidUrl": "https://youtu.be/naeeHJeH1Ag",
-    "vidTitle": "\u3010GAME STREAM\u30fb\u30b2\u30fc\u30e0\u914d\u4fe1\u3011I'm a Suika God (Maybe)\u30fb\u30b9\u30a4\u30ab\u30b2\u30fc\u30e0\u3084\u308a\u307e\u3057\u3087\u3046\uff01",
-    "channelId": "@lumintsukiboshi",
-    "channelName": "Lumin Tsukiboshi\u30fb\u308b\u307f\u3093\ud83d\udcab\ud83d\udc51 ",
-    "channelThumb": "https://yt3.ggpht.com/GFwKlBk3CTxJtS0qwzh9PjXMdR7Zz1SvhtDnUWWHzaLbbTs60oipOhpOBSzfVjzCZh5Iv68qW3s=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Lumin",
-    "scheduledStartTime": "2024-04-04T09:00:00Z",
-    "actualStartTime": "2024-04-04T08:50:27Z",
-    "premiere": false
-  },
-  {
     "id": "N40QvCgQ8I4",
     "vidUrl": "https://youtu.be/N40QvCgQ8I4",
     "vidTitle": "\u3010Lethal Company\u3011Just me, myself and the monsters",
@@ -2669,6 +2645,19 @@
     "premiere": false
   },
   {
+    "id": "oePPkR5zhmk",
+    "vidUrl": "https://youtu.be/oePPkR5zhmk",
+    "vidTitle": "First Time! Time to reside the evil? \u3010 Resident Evil 4 \u3011",
+    "channelId": "@eliastellaria",
+    "channelName": "Elia Stellaria\u3010V-Dere\u3011",
+    "channelThumb": "https://yt3.ggpht.com/06-Ihgh44rPrUWXBSXAGR0a10dQKGBTm-AEJxG1ThlclvCzFFugh1FSz5PXqXP606Y_BV98SKA=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Elia",
+    "scheduledStartTime": "2024-04-04T08:00:00Z",
+    "actualStartTime": "2024-04-04T08:01:14Z",
+    "premiere": false
+  },
+  {
     "id": "n0WMaGFn1hE",
     "vidUrl": "https://youtu.be/n0WMaGFn1hE",
     "vidTitle": "\u3010SHASHINGO\u3011Let's learn japanese.\u3010VOLs\u3011",
@@ -2679,6 +2668,19 @@
     "shortName": "Mikumi",
     "scheduledStartTime": "2024-04-04T08:30:00Z",
     "actualStartTime": "2024-04-04T08:26:02Z",
+    "premiere": false
+  },
+  {
+    "id": "naeeHJeH1Ag",
+    "vidUrl": "https://youtu.be/naeeHJeH1Ag",
+    "vidTitle": "\u3010GAME STREAM\u30fb\u30b2\u30fc\u30e0\u914d\u4fe1\u3011I'm a Suika God (Maybe)\u30fb\u30b9\u30a4\u30ab\u30b2\u30fc\u30e0\u3084\u308a\u307e\u3057\u3087\u3046\uff01",
+    "channelId": "@lumintsukiboshi",
+    "channelName": "Lumin Tsukiboshi\u30fb\u308b\u307f\u3093\ud83d\udcab\ud83d\udc51 ",
+    "channelThumb": "https://yt3.ggpht.com/GFwKlBk3CTxJtS0qwzh9PjXMdR7Zz1SvhtDnUWWHzaLbbTs60oipOhpOBSzfVjzCZh5Iv68qW3s=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Lumin",
+    "scheduledStartTime": "2024-04-04T09:00:00Z",
+    "actualStartTime": "2024-04-04T08:50:27Z",
     "premiere": false
   },
   {
