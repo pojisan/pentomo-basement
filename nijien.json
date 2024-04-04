@@ -24,30 +24,6 @@
     "premiere": false
   },
   {
-    "id": "aOQgnTNyXlA",
-    "vidUrl": "https://youtu.be/aOQgnTNyXlA",
-    "vidTitle": "\u3010Mario Kart 8 Deluxe\u3011PRACTICING WITH KUNAI\u3010NIJISANJI EN | Victoria Brightshield\u3011",
-    "channelId": "@victoriabrightshield",
-    "channelName": "Victoria Brightshield \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/UObY_OAxjbHsXjWzNlFNhUlKuEOZxvvapSVL5lzzeED1tCp7gFW2acrqfjsQx0jodDnzWsCjJg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Vivi",
-    "scheduledStartTime": "2024-04-04T00:00:00Z",
-    "actualStartTime": "2024-04-04T00:15:37Z",
-    "premiere": false
-  },
-  {
-    "id": "UAVVr1jQcXU",
-    "vidUrl": "https://youtu.be/UAVVr1jQcXU",
-    "vidTitle": "\u3010Mario Kart\u3011 Training arc :3c with vivi! \u3010NIJISANJI EN | Kunai Nakasato\u3011",
-    "channelId": "@kunainakasato",
-    "channelName": "Kunai Nakasato \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/cpOrgCDSmgMO9mNbftd8UKAtsZwIGRCV5t5EmjoQ2FcP-W3N7s6S4UUc_Daz24qjDnBxrTEBrtQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Kunai",
-    "scheduledStartTime": "2024-04-04T00:15:00Z",
-    "actualStartTime": "2024-04-04T00:14:49Z",
-    "premiere": false
-  },
-  {
     "id": "i9qeeL33osc",
     "vidUrl": "https://youtu.be/i9qeeL33osc",
     "vidTitle": "I PLAY PERSONA 3 RELOAD FOR THE 1ST TIME! PART 6 SPOILERS",
@@ -80,6 +56,18 @@
     "channelThumb": "https://yt3.ggpht.com/rnqrntYI1y38pqQeqYAmX3_gG1vZ-iYeMGHY0nCC-lxqKdoBspKriRXzMPv7PByMydEYm9YvvzU=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Zali",
     "scheduledStartTime": "2024-04-04T13:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "oO0H1zkpbTQ",
+    "vidUrl": "https://youtu.be/oO0H1zkpbTQ",
+    "vidTitle": "\u3010ALONE IN THE DARK\u3011Run up the stairs and dont look BACK\u3010NIJISANJI EN | Reimu Endou\u3011",
+    "channelId": "@reimuendou",
+    "channelName": "Reimu Endou\u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/jwZT783V-LU58DMyjShj-CWJ3GGsM5DaHX20vtIExe7LNGpaS0P5pZJV_EH11AprgaHocu6CKA=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Reimu",
+    "scheduledStartTime": "2024-04-04T14:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -190,5 +178,31 @@
     "scheduledStartTime": "2024-04-07T13:00:00Z",
     "actualStartTime": "",
     "premiere": true
+  },
+  {
+    "id": "aOQgnTNyXlA",
+    "vidUrl": "https://youtu.be/aOQgnTNyXlA",
+    "vidTitle": "\u3010Mario Kart 8 Deluxe\u3011PRACTICING WITH KUNAI\u3010NIJISANJI EN | Victoria Brightshield\u3011",
+    "channelId": "@victoriabrightshield",
+    "channelName": "Victoria Brightshield \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/UObY_OAxjbHsXjWzNlFNhUlKuEOZxvvapSVL5lzzeED1tCp7gFW2acrqfjsQx0jodDnzWsCjJg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Vivi",
+    "scheduledStartTime": "2024-04-04T00:00:00Z",
+    "actualStartTime": "2024-04-04T00:15:37Z",
+    "premiere": false
+  },
+  {
+    "id": "UAVVr1jQcXU",
+    "vidUrl": "https://youtu.be/UAVVr1jQcXU",
+    "vidTitle": "\u3010Mario Kart\u3011 Training arc :3c with vivi! \u3010NIJISANJI EN | Kunai Nakasato\u3011",
+    "channelId": "@kunainakasato",
+    "channelName": "Kunai Nakasato \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/cpOrgCDSmgMO9mNbftd8UKAtsZwIGRCV5t5EmjoQ2FcP-W3N7s6S4UUc_Daz24qjDnBxrTEBrtQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Kunai",
+    "scheduledStartTime": "2024-04-04T00:15:00Z",
+    "actualStartTime": "2024-04-04T00:14:49Z",
+    "premiere": false
   }
 ]
