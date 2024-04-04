@@ -252,18 +252,6 @@
     "premiere": false
   },
   {
-    "id": "saLdi_kAUEo",
-    "vidUrl": "https://youtu.be/saLdi_kAUEo",
-    "vidTitle": "How many memes can I make...?",
-    "channelId": "@inamiyokich",
-    "channelName": "Inami Yoki Ch.",
-    "channelThumb": "https://yt3.ggpht.com/vCtnJzYIQZi4DtDvSMyEpWdolmNJoIzlO4YD0036Tm2-sRRYRjPNL0xikMCq2Q8p4hqcAKaY9V4=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Yoki",
-    "scheduledStartTime": "2024-04-04T23:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "IiIEyPowtik",
     "vidUrl": "https://youtu.be/IiIEyPowtik",
     "vidTitle": "Minecraft Dating Show..? GID DATIN'!! (Mythical SMP Day 36)\u3010KoziiChu\u3011",
@@ -272,7 +260,7 @@
     "channelThumb": "https://yt3.ggpht.com/pt7bh9RYZ3pOOWcrG50EYG7lzCsC8s8hq67f0mX9l5F9P9Igly4mbCxB4RW4h4Mp2xcfMOaA=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Koziichu",
     "scheduledStartTime": "2024-04-04T23:45:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-04T23:40:05Z",
     "premiere": false
   },
   {
@@ -380,6 +368,18 @@
     "channelThumb": "https://yt3.ggpht.com/WIy30MlmcCTxrEuKULkAdh8itCfT4Up5myJbpVHTkKbfKcgriF_qL6d3iJMD_mQfwb0B1JDT=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Uki",
     "scheduledStartTime": "2024-04-05T00:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "saLdi_kAUEo",
+    "vidUrl": "https://youtu.be/saLdi_kAUEo",
+    "vidTitle": "How many memes can I make...?",
+    "channelId": "@inamiyokich",
+    "channelName": "Inami Yoki Ch.",
+    "channelThumb": "https://yt3.ggpht.com/vCtnJzYIQZi4DtDvSMyEpWdolmNJoIzlO4YD0036Tm2-sRRYRjPNL0xikMCq2Q8p4hqcAKaY9V4=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Yoki",
+    "scheduledStartTime": "2024-04-05T00:15:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -732,18 +732,6 @@
     "premiere": false
   },
   {
-    "id": "VZrCVtSois8",
-    "vidUrl": "https://youtu.be/VZrCVtSois8",
-    "vidTitle": "\u3016Subnautica: Below Zero\u3017where do we go now? owo\u3016Cyon \u2765 V&U\u3017",
-    "channelId": "@cyonvnu",
-    "channelName": "Cyon Hart Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/gsviy0KcEYuRE4MyNsKcEBoS0lIaW9wgkz9raEwVrQ0tIUM473cN8ORz-rdHps1IYSHxZdzI_g=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Cyon",
-    "scheduledStartTime": "2024-04-05T03:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "MspN5UBZE9A",
     "vidUrl": "https://youtu.be/MspN5UBZE9A",
     "vidTitle": "\u9003\u3052\u308d\u304a\u304a\u304a\u304a\u304a\u3049\u304a\u304a\uff01\uff01\uff01\u3010\u30c8\u30a5\u30fc\u30e0\u30ec\u30a4\u30c0\u30fc2\u3011\u3010\u6b4c\u7f8e\u9cf4\u30af\u30e9\u30e9 / Phase Connect\u3011",
@@ -751,6 +739,18 @@
     "channelName": "Clara Ch. \u6b4c\u7f8e\u9cf4\u30af\u30e9\u30e9 \u3010Phase Connect\u3011",
     "channelThumb": "https://yt3.ggpht.com/Ds02-91FQsIFHxhISPbW0dvCSyrXDEmKyRHIn04c1vRKMXMNobf9Ny4UszPfbWXyNPze7gVqTQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Clara",
+    "scheduledStartTime": "2024-04-05T04:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "VZrCVtSois8",
+    "vidUrl": "https://youtu.be/VZrCVtSois8",
+    "vidTitle": "\u3016Subnautica: Below Zero\u3017where do we go now? owo\u3016Cyon \u2765 V&U\u3017",
+    "channelId": "@cyonvnu",
+    "channelName": "Cyon Hart Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/gsviy0KcEYuRE4MyNsKcEBoS0lIaW9wgkz9raEwVrQ0tIUM473cN8ORz-rdHps1IYSHxZdzI_g=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Cyon",
     "scheduledStartTime": "2024-04-05T04:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2787,19 +2787,6 @@
     "premiere": false
   },
   {
-    "id": "gYiQSQxiK2E",
-    "vidUrl": "https://youtu.be/gYiQSQxiK2E",
-    "vidTitle": "Re:CIPE For You Story II with live English voice acting  \u3010GODDESS OF VICTORY: NIKKE Re:Zero Collab\u3011",
-    "channelId": "@obakepam",
-    "channelName": "Obake PAM Ch.",
-    "channelThumb": "https://yt3.ggpht.com/FlbqAWrn9OdE4QcjGweQkH_2WUf2kCAQPbiC4dVvt6ItUWE4pLnUrs9MJ3-KtyeULY0hGe-VPio=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Obake PAM",
-    "scheduledStartTime": "2024-04-04T20:00:00Z",
-    "actualStartTime": "2024-04-04T20:12:15Z",
-    "premiere": false
-  },
-  {
     "id": "I3AzDyqMC9s",
     "vidUrl": "https://youtu.be/I3AzDyqMC9s",
     "vidTitle": "\u3010HEAVY TW!! The Fear Files\u3011The Nth Room Case\u3010Part 6\u3011",
@@ -2823,19 +2810,6 @@
     "shortName": "Nen",
     "scheduledStartTime": "2024-04-04T21:00:00Z",
     "actualStartTime": "2024-04-04T21:00:55Z",
-    "premiere": false
-  },
-  {
-    "id": "-VwTRzQxrHk",
-    "vidUrl": "https://youtu.be/-VwTRzQxrHk",
-    "vidTitle": "[MTG ARENA] Dying with an ALL BLUE deck",
-    "channelId": "@reinasunch",
-    "channelName": "Reina Sun Ch. \u30ec\u30a4\u30ca\u30fb\u30b5\u30f3\u300eproduction kawaii\u300f",
-    "channelThumb": "https://yt3.ggpht.com/4RX4F31z_vt136oTmk9X1aHxUrOt7TCeeUggiNx8avUBu1j5B8Blo1lktZplgYt8yVhjxKXgUi0=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Reina",
-    "scheduledStartTime": "2024-04-04T21:30:00Z",
-    "actualStartTime": "2024-04-04T21:36:56Z",
     "premiere": false
   },
   {
