@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "--_KdCi63NY",
-    "vidUrl": "https://youtu.be/--_KdCi63NY",
-    "vidTitle": "WHAT HAS DAVE BEEN UP TO??!!\u3010DAVE THE DIVER\u3011",
-    "channelId": "@aylayew_ns",
-    "channelName": "Ayla Yew \u3010NexStage Project\u3011",
-    "channelThumb": "https://yt3.ggpht.com/j9b3F_6kPAJQns4jhE4FQN1LCO6mbP6BY2ixZTLHk2r2F0KZsqQ9xBjWI11d9RmeeRsFb7KLO04=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Ayla",
-    "scheduledStartTime": "2024-04-04T18:00:00Z",
-    "actualStartTime": "2024-04-04T18:00:07Z",
-    "premiere": false
-  },
-  {
     "id": "kAWxGD5Zif4",
     "vidUrl": "https://youtu.be/kAWxGD5Zif4",
     "vidTitle": "ENDURANCE TO 70 STARS!!!\u3010SUPER MARIO 64\u3011",
@@ -836,6 +824,18 @@
     "channelThumb": "https://yt3.ggpht.com/EZJ0E6UnrsXZKRPGwZQUJHQ4e3y9PkCHInZFzP06lAE6cYN6MXSZL7O5L5jmTRuDPSzbxNty=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Maririn",
     "scheduledStartTime": "2024-04-05T06:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "dqa4FTbEQE4",
+    "vidUrl": "https://youtu.be/dqa4FTbEQE4",
+    "vidTitle": "\u3010APEX SCARZ CUP\u3011My first JP Tournament\u3010Dokibird\u3011",
+    "channelId": "@dokibird",
+    "channelName": "Dokibird",
+    "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_mf5svGdYXrmhbf9rUUO08gWVso8TBzUt8kmmIF9nySfKk=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Doki",
+    "scheduledStartTime": "2024-04-05T09:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -2772,6 +2772,19 @@
     "shortName": "Tomoe",
     "scheduledStartTime": "2024-04-04T18:00:00Z",
     "actualStartTime": "2024-04-04T17:58:33Z",
+    "premiere": false
+  },
+  {
+    "id": "--_KdCi63NY",
+    "vidUrl": "https://youtu.be/--_KdCi63NY",
+    "vidTitle": "WHAT HAS DAVE BEEN UP TO??!!\u3010DAVE THE DIVER\u3011",
+    "channelId": "@aylayew_ns",
+    "channelName": "Ayla Yew \u3010NexStage Project\u3011",
+    "channelThumb": "https://yt3.ggpht.com/j9b3F_6kPAJQns4jhE4FQN1LCO6mbP6BY2ixZTLHk2r2F0KZsqQ9xBjWI11d9RmeeRsFb7KLO04=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Ayla",
+    "scheduledStartTime": "2024-04-04T18:00:00Z",
+    "actualStartTime": "2024-04-04T18:00:07Z",
     "premiere": false
   },
   {
