@@ -1,17 +1,5 @@
 [
   {
-    "id": "c9EkRnuVVFA",
-    "vidUrl": "https://youtu.be/c9EkRnuVVFA",
-    "vidTitle": "\u3010BIRTHDAY STREAM!\u3011 #HoppyAmiDay2024 \ud83c\udf26\ufe0f\ud83d\udc38 Also First Indie Stream! \u3010Ami Amami | \u96e8\u6d77\u3042\u307f\u3011",
-    "channelId": "@amamiami",
-    "channelName": "Ami Amami / \u96e8\u6d77\u3042\u307f",
-    "channelThumb": "https://yt3.ggpht.com/UBuXoRJHyJ4AQeqy3d7_i6Hl-Kj49nfQJNMgUMdJLcE2NObzlJXLSHXHH3YnNoeW9zB4g-gN=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Ami",
-    "scheduledStartTime": "2024-04-04T00:00:00Z",
-    "actualStartTime": "2024-04-04T00:01:23Z",
-    "premiere": false
-  },
-  {
     "id": "SMvQYm746Rg",
     "vidUrl": "https://youtu.be/SMvQYm746Rg",
     "vidTitle": "Does This Game Still Hold Up? | RETRO GAME TIME! \ud83d\udc97\u3010 Super Mario 64 \u3011",
@@ -32,7 +20,7 @@
     "channelThumb": "https://yt3.ggpht.com/06-Ihgh44rPrUWXBSXAGR0a10dQKGBTm-AEJxG1ThlclvCzFFugh1FSz5PXqXP606Y_BV98SKA=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Elia",
     "scheduledStartTime": "2024-04-04T08:00:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-04T08:01:14Z",
     "premiere": false
   },
   {
@@ -2556,6 +2544,19 @@
     "premiere": false
   },
   {
+    "id": "c9EkRnuVVFA",
+    "vidUrl": "https://youtu.be/c9EkRnuVVFA",
+    "vidTitle": "\u3010BIRTHDAY STREAM!\u3011 #HoppyAmiDay2024 \ud83c\udf26\ufe0f\ud83d\udc38 Also First Indie Stream! \u3010Ami Amami | \u96e8\u6d77\u3042\u307f\u3011",
+    "channelId": "@amamiami",
+    "channelName": "Ami Amami / \u96e8\u6d77\u3042\u307f",
+    "channelThumb": "https://yt3.ggpht.com/UBuXoRJHyJ4AQeqy3d7_i6Hl-Kj49nfQJNMgUMdJLcE2NObzlJXLSHXHH3YnNoeW9zB4g-gN=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Ami",
+    "scheduledStartTime": "2024-04-04T00:00:00Z",
+    "actualStartTime": "2024-04-04T00:01:23Z",
+    "premiere": false
+  },
+  {
     "id": "Vd7JJVhR4_U",
     "vidUrl": "https://youtu.be/Vd7JJVhR4_U",
     "vidTitle": "\u3010FASHION DESIGN\u3011RYUBIE THEMED JACKET?!\u3010EIEN Project\u3011",
@@ -2595,19 +2596,6 @@
     "premiere": false
   },
   {
-    "id": "htqQIpTec1A",
-    "vidUrl": "https://youtu.be/htqQIpTec1A",
-    "vidTitle": "I CAUGHT MY GENMATES\u3010Palworld\u3011w/ @HiyoriMokami & @LetheBonapuchi",
-    "channelId": "@kohakuyumekui",
-    "channelName": "Kohaku Yumekui Ch. \u5922\u55b0\u5df1\u767d\u3010kawaii\u3011",
-    "channelThumb": "https://yt3.ggpht.com/Tz6Hm43Exb8k5sGZ7DRbucOkivDD4w7FU78_bPV69vWM47zCAODykYVo76pwXqry2b1DI1HI=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Kohaku",
-    "scheduledStartTime": "2024-04-04T03:00:00Z",
-    "actualStartTime": "2024-04-04T03:01:42Z",
-    "premiere": false
-  },
-  {
     "id": "fRCQRepjf7Y",
     "vidUrl": "https://youtu.be/fRCQRepjf7Y",
     "vidTitle": "\u3010 Palworld \u3011Isekai'd to Palworld with my genmates ft. @KohakuYumekui & @LetheBonapuchi",
@@ -2631,19 +2619,6 @@
     "shortName": "Cielo",
     "scheduledStartTime": "2024-04-04T03:30:00Z",
     "actualStartTime": "2024-04-04T03:43:07Z",
-    "premiere": false
-  },
-  {
-    "id": "8ZV-qhhwR5w",
-    "vidUrl": "https://youtu.be/8ZV-qhhwR5w",
-    "vidTitle": "[GUERILLA STREAM] I'm lonely doing laundry come hang out with me [V&U | GEN 5]",
-    "channelId": "@cerenityvnu",
-    "channelName": "Cerenity Cosmica Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/dnyzDEaJzR5qZiWFp73wK_f91hlDHxiORtJ6jwu9nzWcLr_vvkHf9IQc2PGhpiBwKWMF5ns2xg=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Cerenity",
-    "scheduledStartTime": "2024-04-04T05:15:00Z",
-    "actualStartTime": "2024-04-04T05:14:12Z",
     "premiere": false
   }
 ]
