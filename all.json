@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "Bko3thbNoy0",
-    "vidUrl": "https://youtu.be/Bko3thbNoy0",
-    "vidTitle": "Short Mystery BL Visual Novel - Start;Again \u3010NIJISANJI EN | Fulgur Ovid\u3011",
-    "channelId": "@fulgurovid",
-    "channelName": "Fulgur Ovid \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/XNXzzx7l8J6c1GjXnKYd1jKH8ANlEIs9zpeFeAQTaXwZWJWVlFPa3iwuH8SVXm0IBKwP5cBq=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Fulgur",
-    "scheduledStartTime": "2024-04-04T14:00:00Z",
-    "actualStartTime": "2024-04-04T14:01:00Z",
-    "premiere": false
-  },
-  {
     "id": "U1wGoNGALM8",
     "vidUrl": "https://youtu.be/U1wGoNGALM8",
     "vidTitle": "[\ud83d\udd343YR CELEBRATION DONOTHON] this time is really gunna be the last!!!!!!!",
@@ -69,18 +57,6 @@
     "shortName": "Enna",
     "scheduledStartTime": "2024-04-04T15:00:00Z",
     "actualStartTime": "2024-04-04T15:01:47Z",
-    "premiere": false
-  },
-  {
-    "id": "-i90azHdG9U",
-    "vidUrl": "https://youtu.be/-i90azHdG9U",
-    "vidTitle": "i farm",
-    "channelId": "@hexhaywire",
-    "channelName": "Hex Haywire\u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/krG1d8TvRL7GUoOsXXTUpuFQkgpRQkpx8402WzitwxFZOVz8z6UqsPsoUOERJkuJ8FLqQi0Gpg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Hex",
-    "scheduledStartTime": "2024-04-04T15:45:00Z",
-    "actualStartTime": "2024-04-04T16:05:01Z",
     "premiere": false
   },
   {
@@ -2855,6 +2831,19 @@
     "shortName": "Aria",
     "scheduledStartTime": "2024-04-04T11:00:00Z",
     "actualStartTime": "2024-04-04T10:59:24Z",
+    "premiere": false
+  },
+  {
+    "id": "Bko3thbNoy0",
+    "vidUrl": "https://youtu.be/Bko3thbNoy0",
+    "vidTitle": "Short Mystery BL Visual Novel - Start;Again \u3010NIJISANJI EN | Fulgur Ovid\u3011",
+    "channelId": "@fulgurovid",
+    "channelName": "Fulgur Ovid \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/XNXzzx7l8J6c1GjXnKYd1jKH8ANlEIs9zpeFeAQTaXwZWJWVlFPa3iwuH8SVXm0IBKwP5cBq=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Fulgur",
+    "scheduledStartTime": "2024-04-04T14:00:00Z",
+    "actualStartTime": "2024-04-04T14:01:00Z",
     "premiere": false
   },
   {
