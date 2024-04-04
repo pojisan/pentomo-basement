@@ -1,17 +1,5 @@
 [
   {
-    "id": "EcdCsY_bZ64",
-    "vidUrl": "https://youtu.be/EcdCsY_bZ64",
-    "vidTitle": "Are we in Florida? | Elden Ring | Part 7",
-    "channelId": "@emberamane",
-    "channelName": "Ember Amane Ch. \u3010Phase Connect\u3011",
-    "channelThumb": "https://yt3.ggpht.com/DEkqZgNRdCOo4QicUE-KZvSRke0scAYn1xVAQ3rZo3ccY0YqACOcV517lIeBjPz5Y7OSLjnlbg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Ember",
-    "scheduledStartTime": "2024-04-03T19:20:00Z",
-    "actualStartTime": "2024-04-03T19:52:43Z",
-    "premiere": false
-  },
-  {
     "id": "pse-Y-ST8AA",
     "vidUrl": "https://youtu.be/pse-Y-ST8AA",
     "vidTitle": "\ud83d\udc80\u3010HOUSE OF ASHES\u3011UH..WHAT?\u3010Yume+ | Raein Clowd\u3011",
@@ -247,6 +235,18 @@
     "channelName": "Yae Yugiri Ch.\u3010V4Mirai\u3011",
     "channelThumb": "https://yt3.ggpht.com/a0JskLcC5p4seJdSX1afFTvnA4ezQ3kNZX051kQx3x9U18Px3B_lumxJv-pmhiUD8Z5t_kzrwg=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Yae",
+    "scheduledStartTime": "2024-04-04T01:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "sHYlCgwgmH4",
+    "vidUrl": "https://youtu.be/sHYlCgwgmH4",
+    "vidTitle": "\u3010Honkai: Star Rail\u3011Our New Mommy Is Here!\u3010UTAHIME MOCHIZUKI | SPECIALITE\u3011",
+    "channelId": "@utahimemochizuki",
+    "channelName": "Utahime Mochizuki | Specialite EN",
+    "channelThumb": "https://yt3.ggpht.com/osBzLXvtdsDnt8yz3Eir3dzxCzGyrtg7-2jVXwKMBrLUijflbHEBU49IXRX_6fBOqtw8JpHiJQ=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Uta",
     "scheduledStartTime": "2024-04-04T01:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -518,7 +518,7 @@
   {
     "id": "csiZG2zKuhU",
     "vidUrl": "https://youtu.be/csiZG2zKuhU",
-    "vidTitle": "\u3010CONTENT WARNING\u3011 NEW HORROR GAME LIKE LETHAL COMPANY \ud83d\udd25 Come Join!",
+    "vidTitle": "\ud83d\udd34\u3010CONTENT WARNING\u3011 NEW HORROR GAME LIKE LETHAL COMPANY \ud83d\udd25 Come Join!",
     "channelId": "@auregaliaaruri",
     "channelName": "Aruri Ch. \u30a2\u30eb\u30ea \ud83d\udddd\ufe0f\ud83c\udf80",
     "channelThumb": "https://yt3.ggpht.com/Ppd9mggKtHGNEzkDfQvJOb2_jpnaKOrBUdILMkNcAig21_83A1J5XhjFoshKNQO11Fzw7FN-=s88-c-k-c0x00ffffff-no-rj",
@@ -1166,7 +1166,7 @@
   {
     "id": "VkltcPBwRrc",
     "vidUrl": "https://youtu.be/VkltcPBwRrc",
-    "vidTitle": "\u3010EXIT 8\u3011 Another Day Of Getting Jumpscared By My Chat And The Game \ud83d\ude35\u200d\ud83d\udcab",
+    "vidTitle": "\ud83d\udd34\u3010EXIT 8\u3011 Another Day Of Getting Jumpscared By My Chat And The Game \ud83d\ude35\u200d\ud83d\udcab",
     "channelId": "@auregaliaaruri",
     "channelName": "Aruri Ch. \u30a2\u30eb\u30ea \ud83d\udddd\ufe0f\ud83c\udf80",
     "channelThumb": "https://yt3.ggpht.com/Ppd9mggKtHGNEzkDfQvJOb2_jpnaKOrBUdILMkNcAig21_83A1J5XhjFoshKNQO11Fzw7FN-=s88-c-k-c0x00ffffff-no-rj",
@@ -2861,6 +2861,19 @@
     "premiere": false
   },
   {
+    "id": "EcdCsY_bZ64",
+    "vidUrl": "https://youtu.be/EcdCsY_bZ64",
+    "vidTitle": "Are we in Florida? | Elden Ring | Part 7",
+    "channelId": "@emberamane",
+    "channelName": "Ember Amane Ch. \u3010Phase Connect\u3011",
+    "channelThumb": "https://yt3.ggpht.com/DEkqZgNRdCOo4QicUE-KZvSRke0scAYn1xVAQ3rZo3ccY0YqACOcV517lIeBjPz5Y7OSLjnlbg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Ember",
+    "scheduledStartTime": "2024-04-03T19:20:00Z",
+    "actualStartTime": "2024-04-03T19:52:43Z",
+    "premiere": false
+  },
+  {
     "id": "-RZsunEZ1Ys",
     "vidUrl": "https://youtu.be/-RZsunEZ1Ys",
     "vidTitle": "\u3010KARAOKE\u3011JP SONGS WOOOO\u3010bondliveEN | Ivaela Daemoni\u3011",
@@ -2884,45 +2897,6 @@
     "shortName": "Airi",
     "scheduledStartTime": "2024-04-03T21:00:00Z",
     "actualStartTime": "2024-04-03T20:59:57Z",
-    "premiere": false
-  },
-  {
-    "id": "dYcSTtnYc1M",
-    "vidUrl": "https://youtu.be/dYcSTtnYc1M",
-    "vidTitle": "Can We Survive Left 4 Dead 2?",
-    "channelId": "@rakunpoko",
-    "channelName": "Poko Rakun Ch. idol-EN",
-    "channelThumb": "https://yt3.ggpht.com/ma1Az7kp5ye3ZWtR9IGoFcWEVQ6ReN8VugO_PGP6qokwj430zQKuR9Uo_L5N3gCVTWsH_vQT1w=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Poko",
-    "scheduledStartTime": "2024-04-03T22:00:00Z",
-    "actualStartTime": "2024-04-03T22:19:28Z",
-    "premiere": false
-  },
-  {
-    "id": "FCjs1NKmzi4",
-    "vidUrl": "https://youtu.be/FCjs1NKmzi4",
-    "vidTitle": "\u3010LEFT4DEAD2\u3011huntin zombies w/ @ZumiDokumi, @ConfettiConi, & @rakunpoko! \ud83e\udddf\u200d\u2642\ufe0f",
-    "channelId": "@nanimonavi",
-    "channelName": "Nanimo Navi Ch. \u3010EIEN Project\u3011",
-    "channelThumb": "https://yt3.ggpht.com/sQsF3JpF26yNBW9ZNusWQHHFligM4D__RBmINLE0wJtXKHIdtlzhwNfIg_xR7Fx7LrMtG7Pt=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Navi",
-    "scheduledStartTime": "2024-04-03T22:00:00Z",
-    "actualStartTime": "2024-04-03T22:20:35Z",
-    "premiere": false
-  },
-  {
-    "id": "p_1zQNiJrLI",
-    "vidUrl": "https://youtu.be/p_1zQNiJrLI",
-    "vidTitle": "LEFT 4 DEAD 2 w/ @NanimoNavi @ZumiDokumi @rakunpoko",
-    "channelId": "@confetticoni",
-    "channelName": "Coni Confetti Ch. idol-EN",
-    "channelThumb": "https://yt3.ggpht.com/DHI9aYg-eO1nO1PKAyVyDIP7BhuK88nkWcztyfKc-dp0zrdErFkKsbkgC13KqMucq46qreLKpz8=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Coni",
-    "scheduledStartTime": "2024-04-03T22:18:55Z",
-    "actualStartTime": "2024-04-03T22:19:04Z",
     "premiere": false
   },
   {
