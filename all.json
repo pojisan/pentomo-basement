@@ -24,18 +24,6 @@
     "premiere": false
   },
   {
-    "id": "ETb-0Z-6rYU",
-    "vidUrl": "https://youtu.be/ETb-0Z-6rYU",
-    "vidTitle": "\u3010Umineko\u3011Let's begin our Golden Witch journey!",
-    "channelId": "@shikimiyoshino",
-    "channelName": "Shiki Miyoshino / \u7f8e\u5409\u91ce\u3057\u304d\u3010Requiem\u3011",
-    "channelThumb": "https://yt3.ggpht.com/Id9BL2cZTLJmv9ZoQEGIk_eFPBrQ7REmfIB6tsb34vcls6pWmKCsifuJ4Ii40vRYZvX9uGd9=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Shiki",
-    "scheduledStartTime": "2024-04-05T13:55:53Z",
-    "actualStartTime": "2024-04-05T13:57:50Z",
-    "premiere": false
-  },
-  {
     "id": "qB77tMms674",
     "vidUrl": "https://youtu.be/qB77tMms674",
     "vidTitle": "Spoomki Gaems",
@@ -96,18 +84,6 @@
     "premiere": false
   },
   {
-    "id": "6XvQDXOGLF4",
-    "vidUrl": "https://youtu.be/6XvQDXOGLF4",
-    "vidTitle": "[\ud83d\udd343YR CELEBRATION DONOTHON] UNDER 45!!!!!!!!!!!!!!!!!!! IM GUNNA WIN!!!",
-    "channelId": "@piapiufo",
-    "channelName": "PiaPiUFO",
-    "channelThumb": "https://yt3.ggpht.com/EQIzNtDXu-Jwzu3j-_g1j_x4IGzwHcD7crPFenEgKwR4WFWurW6CzbKVkyGiaEcwKG3Aorfmjw=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Piapi",
-    "scheduledStartTime": "2024-04-06T14:00:00Z",
-    "actualStartTime": "2024-04-05T14:28:10Z",
-    "premiere": false
-  },
-  {
     "id": "KS4cu69WiK8",
     "vidUrl": "https://youtu.be/KS4cu69WiK8",
     "vidTitle": "Pregnant VTuber finishes A Difficult Game About Climbing in ONE SITTING\u3010V4Mirai | Goozalo Kadabura\u3011",
@@ -116,7 +92,7 @@
     "channelThumb": "https://yt3.ggpht.com/B_9QpINpsFh56b7Ji0WR1H0D5HO69g-93EuXiqaldjR5WXOSXB1aPfw0AJS4cPRikq_axPzh=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Abi",
     "scheduledStartTime": "2024-04-05T18:00:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-05T17:57:02Z",
     "premiere": false
   },
   {
@@ -128,8 +104,20 @@
     "channelThumb": "https://yt3.ggpht.com/vJEi9jvzwANF4rzrVugBrJ2CumIsI3pGN68Bap-eEXSqZbp-hNpLAdqSwSIqmgqhHUbbdUzrR-w=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Spectra",
     "scheduledStartTime": "2024-04-05T18:00:00Z",
-    "actualStartTime": "",
-    "premiere": true
+    "actualStartTime": "2024-04-05T18:00:06Z",
+    "premiere": false
+  },
+  {
+    "id": "6XvQDXOGLF4",
+    "vidUrl": "https://youtu.be/6XvQDXOGLF4",
+    "vidTitle": "[\ud83d\udd343YR CELEBRATION DONOTHON] UNDER 45!!!!!!!!!!!!!!!!!!! IM GUNNA WIN!!!",
+    "channelId": "@piapiufo",
+    "channelName": "PiaPiUFO",
+    "channelThumb": "https://yt3.ggpht.com/EQIzNtDXu-Jwzu3j-_g1j_x4IGzwHcD7crPFenEgKwR4WFWurW6CzbKVkyGiaEcwKG3Aorfmjw=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Piapi",
+    "scheduledStartTime": "2024-04-06T14:00:00Z",
+    "actualStartTime": "2024-04-05T14:28:10Z",
+    "premiere": false
   },
   {
     "id": "AGSggpz-PIg",
@@ -2365,6 +2353,19 @@
     "shortName": "MYTHOS VT",
     "scheduledStartTime": "2024-04-05T13:00:00Z",
     "actualStartTime": "2024-04-05T13:01:41Z",
+    "premiere": false
+  },
+  {
+    "id": "ETb-0Z-6rYU",
+    "vidUrl": "https://youtu.be/ETb-0Z-6rYU",
+    "vidTitle": "\u3010Umineko\u3011Let's begin our Golden Witch journey!",
+    "channelId": "@shikimiyoshino",
+    "channelName": "Shiki Miyoshino / \u7f8e\u5409\u91ce\u3057\u304d\u3010Requiem\u3011",
+    "channelThumb": "https://yt3.ggpht.com/Id9BL2cZTLJmv9ZoQEGIk_eFPBrQ7REmfIB6tsb34vcls6pWmKCsifuJ4Ii40vRYZvX9uGd9=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Shiki",
+    "scheduledStartTime": "2024-04-05T13:55:53Z",
+    "actualStartTime": "2024-04-05T13:57:50Z",
     "premiere": false
   },
   {
