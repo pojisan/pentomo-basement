@@ -24,18 +24,6 @@
     "premiere": false
   },
   {
-    "id": "SY6iU1GWj1k",
-    "vidUrl": "https://youtu.be/SY6iU1GWj1k",
-    "vidTitle": "\u3010A Way Out\u3011How much time will we waste on minigames this time? @MismaVNU",
-    "channelId": "@yurikagokokone",
-    "channelName": "Yurikago Kokone Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/xwSS6tbTBzvBuI0LLjA-0MQ77ZacslZB2TKN7lXcknwNBswpyMTjp9K4vLTR5B2jH4upTIAT5MI=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Kokone",
-    "scheduledStartTime": "2024-04-05T00:00:00Z",
-    "actualStartTime": "2024-04-04T23:59:25Z",
-    "premiere": false
-  },
-  {
     "id": "4Usi7FSpn64",
     "vidUrl": "https://youtu.be/4Usi7FSpn64",
     "vidTitle": "Building Up My Horror Tolerance w a Girl Like Me\u3010Slay the Princess\u3011",
@@ -165,18 +153,6 @@
     "shortName": "Charzu",
     "scheduledStartTime": "2024-04-05T02:36:55Z",
     "actualStartTime": "2024-04-05T02:37:10Z",
-    "premiere": false
-  },
-  {
-    "id": "-qnA3a_fHVc",
-    "vidUrl": "https://youtu.be/-qnA3a_fHVc",
-    "vidTitle": "\u3010Karaoke\u3011Some singing.... ? \u3010Yuuki Ame\u30fbbondlive EN\u3011",
-    "channelId": "@yuukiame_",
-    "channelName": "Yuuki Ame / \u52c7\u6c17\u3042\u3081\u3010bondlive EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/rybr-bFchWkS9x4YS03WaFH5JtYXkl3lEMjxqFsf6IvbCC5OxCMPKQwOGpl2jx6y28p_vHMXi1w=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Yuuki",
-    "scheduledStartTime": "2024-04-05T03:00:00Z",
-    "actualStartTime": "2024-04-05T03:00:35Z",
     "premiere": false
   },
   {
@@ -2435,6 +2411,19 @@
     "premiere": false
   },
   {
+    "id": "SY6iU1GWj1k",
+    "vidUrl": "https://youtu.be/SY6iU1GWj1k",
+    "vidTitle": "\u3010A Way Out\u3011How much time will we waste on minigames this time? @MismaVNU",
+    "channelId": "@yurikagokokone",
+    "channelName": "Yurikago Kokone Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/xwSS6tbTBzvBuI0LLjA-0MQ77ZacslZB2TKN7lXcknwNBswpyMTjp9K4vLTR5B2jH4upTIAT5MI=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Kokone",
+    "scheduledStartTime": "2024-04-05T00:00:00Z",
+    "actualStartTime": "2024-04-04T23:59:25Z",
+    "premiere": false
+  },
+  {
     "id": "Nb1LlbwWmdo",
     "vidUrl": "https://youtu.be/Nb1LlbwWmdo",
     "vidTitle": "\u3010Watchalong\u3011Watch Rock-A-Doodle with me!",
@@ -2445,19 +2434,6 @@
     "shortName": "Amiya",
     "scheduledStartTime": "2024-04-05T00:00:00Z",
     "actualStartTime": "2024-04-05T00:00:34Z",
-    "premiere": false
-  },
-  {
-    "id": "Rwj5WrcCCJQ",
-    "vidUrl": "https://youtu.be/Rwj5WrcCCJQ",
-    "vidTitle": "Rating Your TRASH Anime Taste",
-    "channelId": "@neneamanoch",
-    "channelName": "Nene Amano Ch. \u5929\u91ce\u5be7\u3005\u3010kawaii\u3011",
-    "channelThumb": "https://yt3.ggpht.com/gQXL64aSlteGuabzrOCxa7Qs-OdOJ0EAMeTP1hpSpI_5_IAkpjy3X0Y4aTVe9BxxXvXOCE5VdLc=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Nene",
-    "scheduledStartTime": "2024-04-05T00:00:00Z",
-    "actualStartTime": "2024-04-05T00:01:57Z",
     "premiere": false
   },
   {
@@ -2523,6 +2499,19 @@
     "shortName": "Migi",
     "scheduledStartTime": "2024-04-05T01:15:00Z",
     "actualStartTime": "2024-04-05T01:08:55Z",
+    "premiere": false
+  },
+  {
+    "id": "-qnA3a_fHVc",
+    "vidUrl": "https://youtu.be/-qnA3a_fHVc",
+    "vidTitle": "\u3010Karaoke\u3011Some singing.... ? \u3010Yuuki Ame\u30fbbondlive EN\u3011",
+    "channelId": "@yuukiame_",
+    "channelName": "Yuuki Ame / \u52c7\u6c17\u3042\u3081\u3010bondlive EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/rybr-bFchWkS9x4YS03WaFH5JtYXkl3lEMjxqFsf6IvbCC5OxCMPKQwOGpl2jx6y28p_vHMXi1w=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Yuuki",
+    "scheduledStartTime": "2024-04-05T03:00:00Z",
+    "actualStartTime": "2024-04-05T03:00:35Z",
     "premiere": false
   }
 ]
