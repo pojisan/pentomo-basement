@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "sX5d2krH44k",
-    "vidUrl": "https://youtu.be/sX5d2krH44k",
-    "vidTitle": "\u3010Games\u3011Playing Lots of Arcade Games!",
-    "channelId": "@amiyaaranha",
-    "channelName": "Amiya Ch. \u30a2\u30df\u30e4\u30fb\u30a2\u30e9\u30cb\u30e3",
-    "channelThumb": "https://yt3.ggpht.com/91Fqx3Xut4jaSefCeiDLVGQDSdkWAvt5jA8ejzT18EztYTppy29JNzpa7G-KThC8TzuAmlKBQcs=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Amiya",
-    "scheduledStartTime": "2024-04-05T19:00:00Z",
-    "actualStartTime": "2024-04-05T19:00:18Z",
-    "premiere": false
-  },
-  {
     "id": "68ZuBWdzH5Q",
     "vidUrl": "https://youtu.be/68ZuBWdzH5Q",
     "vidTitle": "BATSU if I don't finish my work",
@@ -307,18 +295,6 @@
     "channelName": "Cerenity Cosmica Ch. V&U",
     "channelThumb": "https://yt3.ggpht.com/dnyzDEaJzR5qZiWFp73wK_f91hlDHxiORtJ6jwu9nzWcLr_vvkHf9IQc2PGhpiBwKWMF5ns2xg=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Cerenity",
-    "scheduledStartTime": "2024-04-05T23:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "WfLow-3pfJo",
-    "vidUrl": "https://youtu.be/WfLow-3pfJo",
-    "vidTitle": "IS THIS THE FINALE?",
-    "channelId": "@briatcookiebox",
-    "channelName": "BriAtCookiebox",
-    "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_nC7dRnnTDxs3724EZNLjdWAX7n5w7Vpv6hM9ss3dUJ_w=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Bri",
     "scheduledStartTime": "2024-04-05T23:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2400,6 +2376,19 @@
     "shortName": "Nyanheras",
     "scheduledStartTime": "2024-04-05T16:00:00Z",
     "actualStartTime": "2024-04-05T16:03:28Z",
+    "premiere": false
+  },
+  {
+    "id": "sX5d2krH44k",
+    "vidUrl": "https://youtu.be/sX5d2krH44k",
+    "vidTitle": "\u3010Games\u3011Playing Lots of Arcade Games!",
+    "channelId": "@amiyaaranha",
+    "channelName": "Amiya Ch. \u30a2\u30df\u30e4\u30fb\u30a2\u30e9\u30cb\u30e3",
+    "channelThumb": "https://yt3.ggpht.com/91Fqx3Xut4jaSefCeiDLVGQDSdkWAvt5jA8ejzT18EztYTppy29JNzpa7G-KThC8TzuAmlKBQcs=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Amiya",
+    "scheduledStartTime": "2024-04-05T19:00:00Z",
+    "actualStartTime": "2024-04-05T19:00:18Z",
     "premiere": false
   },
   {
