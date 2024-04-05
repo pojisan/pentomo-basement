@@ -1,17 +1,5 @@
 [
   {
-    "id": "-6sTqEGG9dU",
-    "vidUrl": "https://youtu.be/-6sTqEGG9dU",
-    "vidTitle": "[Gaming] Let's Chat with Yagami Noah\uff5cVTuber /GTA5 in Street Junkies\u3010GTA5\u3011\u65e5\u672c\u8a9e/PC",
-    "channelId": "@yagaminoah",
-    "channelName": "Yagami Noah / \u516b\u795e\u30ce\u30a2\u3010bondlive EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/zv3gY8PI3ZXN4KgiMrdVaBT-8XTB09763VvuJFtZ7yx0nLVUiMbUoa5RlyU_BEUmvaztteqGD5A=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Noah",
-    "scheduledStartTime": "2024-04-05T10:45:00Z",
-    "actualStartTime": "2024-04-05T10:39:30Z",
-    "premiere": false
-  },
-  {
     "id": "kQi2gNwBmT8",
     "vidUrl": "https://youtu.be/kQi2gNwBmT8",
     "vidTitle": "\u3010GOOSE DUCK\u3011Purrs of Innocence: Am I truly Sane? Hehe | Collab\u3010VOLs\u3011",
@@ -189,6 +177,18 @@
     "shortName": "Raein",
     "scheduledStartTime": "2024-04-05T16:00:00Z",
     "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "e8d0r-LcRfg",
+    "vidUrl": "https://youtu.be/e8d0r-LcRfg",
+    "vidTitle": "revenge karaoke! sing the bad vibes away! \u0b67(\u0e51\u2022\u0300\u15dd\u2022\u0301)\u0aed\u2728\ud83c\udf86 #vtuber #shorts #\u6b4c\u67a0",
+    "channelId": "@lila_daybreak",
+    "channelName": "Lila Maria Ch.\u3010DAYBREAK\u3011",
+    "channelThumb": "https://yt3.ggpht.com/d_xPe3A4nrO3B3qfhtdnJjS7d12YfuYt-b6Cg_A_17KFMJaZk1tbC1RXPHWqB09ItKE8UPkOpA=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Lila",
+    "scheduledStartTime": "2024-04-05T16:15:00Z",
+    "actualStartTime": "2024-04-05T16:15:02Z",
     "premiere": false
   },
   {
@@ -1094,7 +1094,7 @@
   {
     "id": "iJAkAjOKSzQ",
     "vidUrl": "https://youtu.be/iJAkAjOKSzQ",
-    "vidTitle": "i got invited to a BIG TOURNAMENT \ud83c\udfc6 \u2502 SUPER STREAMER LOBBY",
+    "vidTitle": "i got invited to a BIG TOURNAMENT (+300 players) \ud83c\udfc6 \u2502 SUPER STREAMER LOBBY",
     "channelId": "@rakunpoko",
     "channelName": "Poko Rakun Ch. idol-EN",
     "channelThumb": "https://yt3.ggpht.com/ma1Az7kp5ye3ZWtR9IGoFcWEVQ6ReN8VugO_PGP6qokwj430zQKuR9Uo_L5N3gCVTWsH_vQT1w=s88-c-k-c0x00ffffff-no-rj",
@@ -2359,6 +2359,19 @@
     "shortName": "Cielo",
     "scheduledStartTime": "2024-04-05T04:00:00Z",
     "actualStartTime": "2024-04-05T04:00:57Z",
+    "premiere": false
+  },
+  {
+    "id": "-6sTqEGG9dU",
+    "vidUrl": "https://youtu.be/-6sTqEGG9dU",
+    "vidTitle": "[Gaming] Let's Chat with Yagami Noah\uff5cVTuber /GTA5 in Street Junkies\u3010GTA5\u3011\u65e5\u672c\u8a9e/PC",
+    "channelId": "@yagaminoah",
+    "channelName": "Yagami Noah / \u516b\u795e\u30ce\u30a2\u3010bondlive EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/zv3gY8PI3ZXN4KgiMrdVaBT-8XTB09763VvuJFtZ7yx0nLVUiMbUoa5RlyU_BEUmvaztteqGD5A=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Noah",
+    "scheduledStartTime": "2024-04-05T10:45:00Z",
+    "actualStartTime": "2024-04-05T10:39:30Z",
     "premiere": false
   },
   {
