@@ -38,7 +38,7 @@
   {
     "id": "kQi2gNwBmT8",
     "vidUrl": "https://youtu.be/kQi2gNwBmT8",
-    "vidTitle": "\u3010FEIGN\u3011Purrs of Innocence: Am I truly Sane? Hehe | Collab\u3010VOLs\u3011",
+    "vidTitle": "\u3010GOOSE DUCK\u3011Purrs of Innocence: Am I truly Sane? Hehe | Collab\u3010VOLs\u3011",
     "channelId": "@angycatto_vols",
     "channelName": "Angy Catto - VOLs",
     "channelThumb": "https://yt3.ggpht.com/QmtGoU3n-jCQAj1gfC6hKg-PiFlyGTW-sz1HZJZlV8Av1Kdial8AJphIpJD7ywQWtUuVgyjo=s88-c-k-c0x00ffffff-no-rj",
@@ -120,6 +120,18 @@
     "premiere": false
   },
   {
+    "id": "Jy67qAKvXiA",
+    "vidUrl": "https://youtu.be/Jy67qAKvXiA",
+    "vidTitle": "DAY 5 OF DAILY MINAZUKI! | Goose Goose Duck (not Feign)",
+    "channelId": "@minazukimana",
+    "channelName": "MinazukiMana - VOLs",
+    "channelThumb": "https://yt3.ggpht.com/O64mRHiN_f8Xzpwucwlf_pegYaW8OWoHcNhfVAwXcSvy3NNUbDoTjQGq0cdyrR0EdGXV4gv6XA=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Mana",
+    "scheduledStartTime": "2024-04-05T14:35:00Z",
+    "actualStartTime": "2024-04-05T14:37:27Z",
+    "premiere": false
+  },
+  {
     "id": "6XvQDXOGLF4",
     "vidUrl": "https://youtu.be/6XvQDXOGLF4",
     "vidTitle": "[\ud83d\udd343YR CELEBRATION DONOTHON] UNDER 45!!!!!!!!!!!!!!!!!!! IM GUNNA WIN!!!",
@@ -129,18 +141,6 @@
     "shortName": "Piapi",
     "scheduledStartTime": "2024-04-06T14:00:00Z",
     "actualStartTime": "2024-04-05T14:28:10Z",
-    "premiere": false
-  },
-  {
-    "id": "4q9kbU7CD98",
-    "vidUrl": "https://youtu.be/4q9kbU7CD98",
-    "vidTitle": "\u3010Poppy Playtime 2\u3011Will I ever finish this?\u3010VOLs\u3011",
-    "channelId": "@shirousamikumi",
-    "channelName": "ShirousaMikumi - VOLs",
-    "channelThumb": "https://yt3.ggpht.com/6Jy6Uud2Vx08hfesvUg3vb2cSd0tj_30_Eeq-Ypg3jK7srTbiGUJKE94YJhedV96ExRC6-KGDA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Mikumi",
-    "scheduledStartTime": "2024-04-05T14:30:00Z",
-    "actualStartTime": "",
     "premiere": false
   },
   {
@@ -1496,6 +1496,18 @@
     "channelThumb": "https://yt3.ggpht.com/pa-ydC8sTdCOp5QdufDcysaOEqZMj09zQsvKoNcJ6RcHlo3Ijaczoor3PNAOrLGN0S5ugEe7=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Liola",
     "scheduledStartTime": "2024-04-07T06:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "4q9kbU7CD98",
+    "vidUrl": "https://youtu.be/4q9kbU7CD98",
+    "vidTitle": "\u3010Poppy Playtime 2\u3011Will I ever finish this?\u3010VOLs\u3011",
+    "channelId": "@shirousamikumi",
+    "channelName": "ShirousaMikumi - VOLs",
+    "channelThumb": "https://yt3.ggpht.com/6Jy6Uud2Vx08hfesvUg3vb2cSd0tj_30_Eeq-Ypg3jK7srTbiGUJKE94YJhedV96ExRC6-KGDA=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Mikumi",
+    "scheduledStartTime": "2024-04-07T11:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
