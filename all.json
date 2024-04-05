@@ -84,18 +84,6 @@
     "premiere": false
   },
   {
-    "id": "Jy67qAKvXiA",
-    "vidUrl": "https://youtu.be/Jy67qAKvXiA",
-    "vidTitle": "DAY 5 OF DAILY MINAZUKI! | Goose Goose Duck (not Feign)",
-    "channelId": "@minazukimana",
-    "channelName": "MinazukiMana - VOLs",
-    "channelThumb": "https://yt3.ggpht.com/O64mRHiN_f8Xzpwucwlf_pegYaW8OWoHcNhfVAwXcSvy3NNUbDoTjQGq0cdyrR0EdGXV4gv6XA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Mana",
-    "scheduledStartTime": "2024-04-05T14:35:00Z",
-    "actualStartTime": "2024-04-05T14:37:27Z",
-    "premiere": false
-  },
-  {
     "id": "qB77tMms674",
     "vidUrl": "https://youtu.be/qB77tMms674",
     "vidTitle": "Spoomki Gaems",
@@ -117,18 +105,6 @@
     "shortName": "Umi",
     "scheduledStartTime": "2024-04-05T15:00:00Z",
     "actualStartTime": "2024-04-05T15:42:09Z",
-    "premiere": false
-  },
-  {
-    "id": "DSrC0YvLtyw",
-    "vidUrl": "https://youtu.be/DSrC0YvLtyw",
-    "vidTitle": "Muyu Morning Zoomba: 8",
-    "channelId": "@muumuyu",
-    "channelName": "Muyu Ch. \u3080\u3046\u3080\u3086\u3010Phase Connect\u3011",
-    "channelThumb": "https://yt3.ggpht.com/BoAq-UdPFP5MPfUMIWFQwgmeBERbkZx40VxLdrMas6I7c5koPDBUmh4LaJLUJQd9rZbD9KSKog4=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Muyu",
-    "scheduledStartTime": "2024-04-05T15:30:00Z",
-    "actualStartTime": "2024-04-05T15:45:10Z",
     "premiere": false
   },
   {
@@ -182,7 +158,7 @@
   {
     "id": "71HeNaE0vmE",
     "vidUrl": "https://youtu.be/71HeNaE0vmE",
-    "vidTitle": "KAI IS RAPIDLY APPROACHING YOUR LOCATION \u2601\ufe0f\ud83c\udf08 #DragonAlert Episode 10",
+    "vidTitle": "KAI SIBLING IS HERE TODAY \u2601\ufe0f\ud83c\udf08 #DragonAlert Episode 10",
     "channelId": "@kaisaikota",
     "channelName": "Kai Saikota Ch. idol-EN",
     "channelThumb": "https://yt3.ggpht.com/0rVHZdUlMh90grMz90Dv_PPWyAvBb2BbkSN2QSDU6JWGdavGje-34q4D6E1OYgBkx74vfrxzyw=s88-c-k-c0x00ffffff-no-rj",
@@ -2402,19 +2378,6 @@
     "premiere": false
   },
   {
-    "id": "-6sTqEGG9dU",
-    "vidUrl": "https://youtu.be/-6sTqEGG9dU",
-    "vidTitle": "[Gaming] Let's Chat with Yagami Noah\uff5cVTuber /GTA5 in Street Junkies\u3010GTA5\u3011\u65e5\u672c\u8a9e/PC",
-    "channelId": "@yagaminoah",
-    "channelName": "Yagami Noah / \u516b\u795e\u30ce\u30a2\u3010bondlive EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/zv3gY8PI3ZXN4KgiMrdVaBT-8XTB09763VvuJFtZ7yx0nLVUiMbUoa5RlyU_BEUmvaztteqGD5A=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Noah",
-    "scheduledStartTime": "2024-04-05T10:45:00Z",
-    "actualStartTime": "2024-04-05T10:39:30Z",
-    "premiere": false
-  },
-  {
     "id": "KraJsKHFWNk",
     "vidUrl": "https://youtu.be/KraJsKHFWNk",
     "vidTitle": "\u3010\u3074\u306a\u68ee\u3011 \u6d41\u308c\u661f\u3088\u3053\u305b\u203c\ufe0f\u203c\ufe0f\u203c\ufe0f \u3010\u306b\u3058\u3055\u3093\u3058 | \u30bb\u30d5\u30a3\u30ca\u3011",
@@ -2451,6 +2414,32 @@
     "shortName": "MYTHOS VT",
     "scheduledStartTime": "2024-04-05T13:00:00Z",
     "actualStartTime": "2024-04-05T13:01:41Z",
+    "premiere": false
+  },
+  {
+    "id": "Jy67qAKvXiA",
+    "vidUrl": "https://youtu.be/Jy67qAKvXiA",
+    "vidTitle": "DAY 5 OF DAILY MINAZUKI! | Goose Goose Duck (not Feign)",
+    "channelId": "@minazukimana",
+    "channelName": "MinazukiMana - VOLs",
+    "channelThumb": "https://yt3.ggpht.com/O64mRHiN_f8Xzpwucwlf_pegYaW8OWoHcNhfVAwXcSvy3NNUbDoTjQGq0cdyrR0EdGXV4gv6XA=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Mana",
+    "scheduledStartTime": "2024-04-05T14:35:00Z",
+    "actualStartTime": "2024-04-05T14:37:27Z",
+    "premiere": false
+  },
+  {
+    "id": "DSrC0YvLtyw",
+    "vidUrl": "https://youtu.be/DSrC0YvLtyw",
+    "vidTitle": "Muyu Morning Zoomba: 8",
+    "channelId": "@muumuyu",
+    "channelName": "Muyu Ch. \u3080\u3046\u3080\u3086\u3010Phase Connect\u3011",
+    "channelThumb": "https://yt3.ggpht.com/BoAq-UdPFP5MPfUMIWFQwgmeBERbkZx40VxLdrMas6I7c5koPDBUmh4LaJLUJQd9rZbD9KSKog4=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Muyu",
+    "scheduledStartTime": "2024-04-05T15:30:00Z",
+    "actualStartTime": "2024-04-05T15:45:10Z",
     "premiere": false
   },
   {
