@@ -48,18 +48,6 @@
     "premiere": false
   },
   {
-    "id": "Gu94Ay7IO2k",
-    "vidUrl": "https://youtu.be/Gu94Ay7IO2k",
-    "vidTitle": "\ud83d\udd2b\u3010APEX\u3011EAGER NEWBIE LEARNS FPS?\u3010Yume+ | Raein Clowd\u3011",
-    "channelId": "@raeinclowd",
-    "channelName": "Raein Clowd \u3010Yume+\u3011",
-    "channelThumb": "https://yt3.ggpht.com/sA-eGMxU97-A3x-xDBVsFZG0ZQ48KwV_K5tzv-WP3R6toHCBZp8JyTmUJMqotUeFK43zY5XHAvY=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Raein",
-    "scheduledStartTime": "2024-04-04T22:00:00Z",
-    "actualStartTime": "2024-04-04T21:57:18Z",
-    "premiere": false
-  },
-  {
     "id": "534y8I8xkko",
     "vidUrl": "https://youtu.be/534y8I8xkko",
     "vidTitle": "junpei is the worst character\u3010PERSONA 3 RELOAD\u3011",
@@ -69,18 +57,6 @@
     "shortName": "Kai",
     "scheduledStartTime": "2024-04-04T22:00:00Z",
     "actualStartTime": "2024-04-04T22:01:23Z",
-    "premiere": false
-  },
-  {
-    "id": "N8wpCxqexcU",
-    "vidUrl": "https://youtu.be/N8wpCxqexcU",
-    "vidTitle": "\u3010SMASH OR PASS\u3011Kamen Rider edition\u3010Ran Tsukiha | Production kawaii\u3011",
-    "channelId": "@rantsukiha",
-    "channelName": "Ran Tsukiha Ch. \u6708\u8776\u862d\u3010kawaii\u3011",
-    "channelThumb": "https://yt3.ggpht.com/T30qwb0jUMNHh6WY7ZUjsFZKTP9hoPyZO4d4Knvf22uj_1DV5xvkK-ReGlX8zeshgoQeOmWovg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Ran",
-    "scheduledStartTime": "2024-04-04T22:30:00Z",
-    "actualStartTime": "2024-04-04T22:31:10Z",
     "premiere": false
   },
   {
@@ -427,6 +403,18 @@
     "channelName": "Rhea Nevermore \u3010Yume+\u3011",
     "channelThumb": "https://yt3.ggpht.com/POsoK-HHPySyD4C6ell2PZeeqjOfPFYW1SOYN0ZwETReBmkJ7ScxoTkyB3BliqEg3Qh6ulsjwQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Rhea",
+    "scheduledStartTime": "2024-04-05T01:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "sHQ6jN-CrUU",
+    "vidUrl": "https://youtu.be/sHQ6jN-CrUU",
+    "vidTitle": "\u3010Content Warning\u3011FAME FAME FAME FAME",
+    "channelId": "@lidaoriana",
+    "channelName": "Lida Oriana Ch.",
+    "channelThumb": "https://yt3.ggpht.com/jPWRHtDGZ3b-HXw__M_4Le5LhYAwxpcy7_Inwji6RhxGC7NK34Nihv_LwLgjtCfdTMuDE92y=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Lida",
     "scheduledStartTime": "2024-04-05T01:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2771,16 +2759,29 @@
     "premiere": false
   },
   {
-    "id": "Vtlx7ofi5qw",
-    "vidUrl": "https://youtu.be/Vtlx7ofi5qw",
-    "vidTitle": "GRIS! Let's finish this BEAUTIFUL game!\u3010 Reina Ronronea | globie\u3011",
-    "channelId": "@reinaronronea",
-    "channelName": "Reina Ronronea ch. \u3010globie\u3011",
-    "channelThumb": "https://yt3.ggpht.com/MOmaBB08GVq5lIY13WTEtrmqB8l2Nwald3Y_XLd28nmqQTOdbgHgQFkiItRLn79KWLevOiurgg=s88-c-k-c0x00ffffff-no-rj",
+    "id": "Gu94Ay7IO2k",
+    "vidUrl": "https://youtu.be/Gu94Ay7IO2k",
+    "vidTitle": "\ud83d\udd2b\u3010APEX\u3011EAGER NEWBIE LEARNS FPS?\u3010Yume+ | Raein Clowd\u3011",
+    "channelId": "@raeinclowd",
+    "channelName": "Raein Clowd \u3010Yume+\u3011",
+    "channelThumb": "https://yt3.ggpht.com/sA-eGMxU97-A3x-xDBVsFZG0ZQ48KwV_K5tzv-WP3R6toHCBZp8JyTmUJMqotUeFK43zY5XHAvY=s88-c-k-c0x00ffffff-no-rj",
     "graveyard": true,
-    "shortName": "Reina",
+    "shortName": "Raein",
     "scheduledStartTime": "2024-04-04T22:00:00Z",
-    "actualStartTime": "2024-04-04T22:03:12Z",
+    "actualStartTime": "2024-04-04T21:57:18Z",
+    "premiere": false
+  },
+  {
+    "id": "N8wpCxqexcU",
+    "vidUrl": "https://youtu.be/N8wpCxqexcU",
+    "vidTitle": "\u3010SMASH OR PASS\u3011Kamen Rider edition\u3010Ran Tsukiha | Production kawaii\u3011",
+    "channelId": "@rantsukiha",
+    "channelName": "Ran Tsukiha Ch. \u6708\u8776\u862d\u3010kawaii\u3011",
+    "channelThumb": "https://yt3.ggpht.com/T30qwb0jUMNHh6WY7ZUjsFZKTP9hoPyZO4d4Knvf22uj_1DV5xvkK-ReGlX8zeshgoQeOmWovg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Ran",
+    "scheduledStartTime": "2024-04-04T22:30:00Z",
+    "actualStartTime": "2024-04-04T22:31:10Z",
     "premiere": false
   }
 ]
