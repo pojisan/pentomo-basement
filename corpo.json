@@ -156,18 +156,6 @@
     "premiere": false
   },
   {
-    "id": "cFKrXLm_tIs",
-    "vidUrl": "https://youtu.be/cFKrXLm_tIs",
-    "vidTitle": "\u3010INDIE DEBUT\u3011IM BAAAACK \ud83d\udc4b\ud83e\ude75",
-    "channelId": "@makosameshima",
-    "channelName": "Mako Sameshima / \u9bab\u5cf6\u30e1\u30a4\u30b3",
-    "channelThumb": "https://yt3.ggpht.com/Lb94e96h6IqonxEXvoZ2tCDLAhXInONAfZxWdOixgznfm0chh9wHAmzJ1gYpktbAGNP7t9WMWQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Mako",
-    "scheduledStartTime": "2024-04-04T23:00:00Z",
-    "actualStartTime": "2024-04-04T23:01:22Z",
-    "premiere": false
-  },
-  {
     "id": "jaBCtteDKxs",
     "vidUrl": "https://youtu.be/jaBCtteDKxs",
     "vidTitle": "hi :D",
@@ -895,6 +883,18 @@
     "channelName": "Abi Kadabura Ch.\u3010V4Mirai\u3011",
     "channelThumb": "https://yt3.ggpht.com/B_9QpINpsFh56b7Ji0WR1H0D5HO69g-93EuXiqaldjR5WXOSXB1aPfw0AJS4cPRikq_axPzh=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Abi",
+    "scheduledStartTime": "2024-04-05T18:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "PMWF8pK6AKE",
+    "vidUrl": "https://youtu.be/PMWF8pK6AKE",
+    "vidTitle": "The End of Splatoon 1",
+    "channelId": "@rinpenrose",
+    "channelName": "Rin Penrose Ch. idol-EN",
+    "channelThumb": "https://yt3.ggpht.com/A4q2cLOTiWlNsZpT8P2XmIgv-ZJUP4OR-2hpei0ZTM2bnpAZOdY5b1YuwslYnQCcVGJYAaGT=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Rin",
     "scheduledStartTime": "2024-04-05T18:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2768,6 +2768,19 @@
     "shortName": "Nen",
     "scheduledStartTime": "2024-04-04T21:00:00Z",
     "actualStartTime": "2024-04-04T21:00:55Z",
+    "premiere": false
+  },
+  {
+    "id": "cFKrXLm_tIs",
+    "vidUrl": "https://youtu.be/cFKrXLm_tIs",
+    "vidTitle": "\u3010INDIE DEBUT\u3011IM BAAAACK \ud83d\udc4b\ud83e\ude75",
+    "channelId": "@makosameshima",
+    "channelName": "Mako Sameshima / \u9bab\u5cf6\u30e1\u30a4\u30b3",
+    "channelThumb": "https://yt3.ggpht.com/Lb94e96h6IqonxEXvoZ2tCDLAhXInONAfZxWdOixgznfm0chh9wHAmzJ1gYpktbAGNP7t9WMWQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Mako",
+    "scheduledStartTime": "2024-04-04T23:00:00Z",
+    "actualStartTime": "2024-04-04T23:01:22Z",
     "premiere": false
   }
 ]
