@@ -60,18 +60,6 @@
     "premiere": false
   },
   {
-    "id": "iQNS291cppU",
-    "vidUrl": "https://youtu.be/iQNS291cppU",
-    "vidTitle": "\u3010KARAOKE: THROWBACK THURSDAY\u3011Oh Me Oh My!\u3010V4Mirai | Serina Maiko | ENVtuber\u3011",
-    "channelId": "@serinamaiko",
-    "channelName": "Serina Maiko Ch.\u3010V4Mirai\u3011",
-    "channelThumb": "https://yt3.ggpht.com/e1ZnaffpDDEYZ3e7gmoBxrsB5Ssh18bPpkjVpG3mn4GakmEXEenv1ArFAoj1DSB5fsNLG4cs=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Serina",
-    "scheduledStartTime": "2024-04-04T22:00:00Z",
-    "actualStartTime": "2024-04-04T21:57:15Z",
-    "premiere": false
-  },
-  {
     "id": "Gu94Ay7IO2k",
     "vidUrl": "https://youtu.be/Gu94Ay7IO2k",
     "vidTitle": "\ud83d\udd2b\u3010APEX\u3011EAGER NEWBIE LEARNS FPS?\u3010Yume+ | Raein Clowd\u3011",
@@ -368,7 +356,19 @@
     "channelThumb": "https://yt3.ggpht.com/ZtRcLNqOjG8w9CMolweuy-jnNGin0W0KjxVxUpzni3uvqKY6rJgnAphvHOEmxcqSV7yXwqkKcg=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Aia",
     "scheduledStartTime": "2024-04-05T00:15:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-05T00:21:37Z",
+    "premiere": false
+  },
+  {
+    "id": "RG1PXbqqZOA",
+    "vidUrl": "https://youtu.be/RG1PXbqqZOA",
+    "vidTitle": "Unboxing a Sanrio Snack Box & More! ft. My Big Sis!",
+    "channelId": "@niasuzune",
+    "channelName": "Nia Suzune / \u9234\u97f3\u306b\u3042\u3010Requiem\u3011",
+    "channelThumb": "https://yt3.ggpht.com/EZIsXrouGx2aOmLFm39j_fLbX-5XSqIZZN20OHosxCvZbrjXFAk9z_GBWk1B4jaafizyAjTDBPY=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Nia",
+    "scheduledStartTime": "2024-04-05T00:30:00Z",
+    "actualStartTime": "2024-04-05T00:24:52Z",
     "premiere": false
   },
   {
@@ -391,18 +391,6 @@
     "channelName": "Amaya Whisper CH.",
     "channelThumb": "https://yt3.ggpht.com/iFJsuBeka3rm3zWT09RkNEiijQj3YcRFDWIiwS27VOlR8how5j4-GU1bWF1bKrfV4fvhk8uxSA=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Amaya",
-    "scheduledStartTime": "2024-04-05T00:30:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "RG1PXbqqZOA",
-    "vidUrl": "https://youtu.be/RG1PXbqqZOA",
-    "vidTitle": "Unboxing a Sanrio Snack Box & More! ft. My Big Sis!",
-    "channelId": "@niasuzune",
-    "channelName": "Nia Suzune / \u9234\u97f3\u306b\u3042\u3010Requiem\u3011",
-    "channelThumb": "https://yt3.ggpht.com/EZIsXrouGx2aOmLFm39j_fLbX-5XSqIZZN20OHosxCvZbrjXFAk9z_GBWk1B4jaafizyAjTDBPY=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Nia",
     "scheduledStartTime": "2024-04-05T00:30:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -787,6 +775,18 @@
     "channelName": "Miu Akumiya | Specialite EN",
     "channelThumb": "https://yt3.ggpht.com/H0RUX3QxKuAJyYYt-hjfuZpMZXSyrmwH-ovu8KW9Kvyd-D3wToBb_5QDZQ2a3q__w6yo65EQ5xc=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Miu",
+    "scheduledStartTime": "2024-04-05T04:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "aP24BaR1mmE",
+    "vidUrl": "https://youtu.be/aP24BaR1mmE",
+    "vidTitle": "\u3010POKEMON TCG\u3011VS members! (Palherjar and higher)",
+    "channelId": "@walkyrialiora",
+    "channelName": "Liora Walkyria Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/zt8XzYjIRVzc0Wf5UrCEUkmdPiKeSpBvavHDwnsMcVKIQRt9E4argsQQPA3swaIS-BFRB0bS8g=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Liora",
     "scheduledStartTime": "2024-04-05T04:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2846,6 +2846,19 @@
     "shortName": "Nen",
     "scheduledStartTime": "2024-04-04T21:00:00Z",
     "actualStartTime": "2024-04-04T21:00:55Z",
+    "premiere": false
+  },
+  {
+    "id": "iQNS291cppU",
+    "vidUrl": "https://youtu.be/iQNS291cppU",
+    "vidTitle": "\u3010KARAOKE: THROWBACK THURSDAY\u3011Oh Me Oh My!\u3010V4Mirai | Serina Maiko | ENVtuber\u3011",
+    "channelId": "@serinamaiko",
+    "channelName": "Serina Maiko Ch.\u3010V4Mirai\u3011",
+    "channelThumb": "https://yt3.ggpht.com/e1ZnaffpDDEYZ3e7gmoBxrsB5Ssh18bPpkjVpG3mn4GakmEXEenv1ArFAoj1DSB5fsNLG4cs=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Serina",
+    "scheduledStartTime": "2024-04-04T22:00:00Z",
+    "actualStartTime": "2024-04-04T21:57:15Z",
     "premiere": false
   },
   {
