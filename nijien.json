@@ -1,29 +1,5 @@
 [
   {
-    "id": "E9W-oYNKJ0Q",
-    "vidUrl": "https://youtu.be/E9W-oYNKJ0Q",
-    "vidTitle": "Lost Masters... trying to get it back solo PART 17 Duo w/ @5up",
-    "channelId": "@asterarcadia",
-    "channelName": "Aster Arcadia \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/PfyW7HnjCKF15WfzvFBLo_vx94y_tZw_jpnjku0GyvZnynSODh2E9aJ0Vi1mlc3R8sF_hXNl-g=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Aster",
-    "scheduledStartTime": "2024-04-05T02:00:00Z",
-    "actualStartTime": "2024-04-05T02:05:27Z",
-    "premiere": false
-  },
-  {
-    "id": "KraJsKHFWNk",
-    "vidUrl": "https://youtu.be/KraJsKHFWNk",
-    "vidTitle": "\u3010\u3074\u306a\u68ee\u3011 \u6d41\u308c\u661f\u3088\u3053\u305b\u203c\ufe0f\u203c\ufe0f\u203c\ufe0f \u3010\u306b\u3058\u3055\u3093\u3058 | \u30bb\u30d5\u30a3\u30ca\u3011",
-    "channelId": "@seffyna",
-    "channelName": "\u30bb\u30d5\u30a3\u30ca / Seffyna\u3010\u306b\u3058\u3055\u3093\u3058\u3011",
-    "channelThumb": "https://yt3.ggpht.com/0QDtmroClBOCB8eZSOVWlGObtXc7wf8tk-USsyvw5nY-i_IE8xsxebzGBzD5OfHGlNBICUmgDg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Seffyna",
-    "scheduledStartTime": "2024-04-05T12:00:00Z",
-    "actualStartTime": "2024-04-05T11:59:30Z",
-    "premiere": false
-  },
-  {
     "id": "M0b636evx4U",
     "vidUrl": "https://youtu.be/M0b636evx4U",
     "vidTitle": "\u3010#NIJIEN_MKBattle\u3011BLUE CAPTAIN HOPCON TRAINING\u3010NIJISANJI EN Mario Kart Special Battle\u3011",
@@ -45,6 +21,18 @@
     "shortName": "Shu",
     "scheduledStartTime": "2024-04-05T12:00:00Z",
     "actualStartTime": "2024-04-05T12:00:30Z",
+    "premiere": false
+  },
+  {
+    "id": "_wABoyFb7v8",
+    "vidUrl": "https://youtu.be/_wABoyFb7v8",
+    "vidTitle": "Lost Masters... grinding it back again solo PART 18",
+    "channelId": "@asterarcadia",
+    "channelName": "Aster Arcadia \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/PfyW7HnjCKF15WfzvFBLo_vx94y_tZw_jpnjku0GyvZnynSODh2E9aJ0Vi1mlc3R8sF_hXNl-g=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Aster",
+    "scheduledStartTime": "2024-04-05T13:15:00Z",
+    "actualStartTime": "2024-04-05T13:12:30Z",
     "premiere": false
   },
   {
@@ -156,6 +144,19 @@
     "premiere": true
   },
   {
+    "id": "E9W-oYNKJ0Q",
+    "vidUrl": "https://youtu.be/E9W-oYNKJ0Q",
+    "vidTitle": "Lost Masters... trying to get it back solo PART 17 Duo w/ @5up",
+    "channelId": "@asterarcadia",
+    "channelName": "Aster Arcadia \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/PfyW7HnjCKF15WfzvFBLo_vx94y_tZw_jpnjku0GyvZnynSODh2E9aJ0Vi1mlc3R8sF_hXNl-g=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Aster",
+    "scheduledStartTime": "2024-04-05T02:00:00Z",
+    "actualStartTime": "2024-04-05T02:05:27Z",
+    "premiere": false
+  },
+  {
     "id": "K5S0mEeM8yU",
     "vidUrl": "https://youtu.be/K5S0mEeM8yU",
     "vidTitle": "I PLAY HONKAI STAR RAIL FOR THE 1ST TIME WITH EYE TRACKERS!",
@@ -166,6 +167,19 @@
     "shortName": "Scarle",
     "scheduledStartTime": "2024-04-05T03:45:00Z",
     "actualStartTime": "2024-04-05T04:10:54Z",
+    "premiere": false
+  },
+  {
+    "id": "KraJsKHFWNk",
+    "vidUrl": "https://youtu.be/KraJsKHFWNk",
+    "vidTitle": "\u3010\u3074\u306a\u68ee\u3011 \u6d41\u308c\u661f\u3088\u3053\u305b\u203c\ufe0f\u203c\ufe0f\u203c\ufe0f \u3010\u306b\u3058\u3055\u3093\u3058 | \u30bb\u30d5\u30a3\u30ca\u3011",
+    "channelId": "@seffyna",
+    "channelName": "\u30bb\u30d5\u30a3\u30ca / Seffyna\u3010\u306b\u3058\u3055\u3093\u3058\u3011",
+    "channelThumb": "https://yt3.ggpht.com/0QDtmroClBOCB8eZSOVWlGObtXc7wf8tk-USsyvw5nY-i_IE8xsxebzGBzD5OfHGlNBICUmgDg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Seffyna",
+    "scheduledStartTime": "2024-04-05T12:00:00Z",
+    "actualStartTime": "2024-04-05T11:59:30Z",
     "premiere": false
   }
 ]
