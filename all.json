@@ -204,18 +204,6 @@
     "premiere": false
   },
   {
-    "id": "Yavc77e0U_g",
-    "vidUrl": "https://youtu.be/Yavc77e0U_g",
-    "vidTitle": "\u3010SHINKANSEN 0\u3011HELP ME IM SCARED",
-    "channelId": "@miuakumiya",
-    "channelName": "Miu Akumiya | Specialite EN",
-    "channelThumb": "https://yt3.ggpht.com/H0RUX3QxKuAJyYYt-hjfuZpMZXSyrmwH-ovu8KW9Kvyd-D3wToBb_5QDZQ2a3q__w6yo65EQ5xc=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Miu",
-    "scheduledStartTime": "2024-04-05T04:00:06Z",
-    "actualStartTime": "2024-04-05T04:00:19Z",
-    "premiere": false
-  },
-  {
     "id": "S97w7qsQwTM",
     "vidUrl": "https://youtu.be/S97w7qsQwTM",
     "vidTitle": "Work with me!! \u270d\u270d\u270d",
@@ -1292,6 +1280,18 @@
     "channelThumb": "https://yt3.ggpht.com/e-csUdgwEj5h-rQ2vwXX-EVOeXk3BZRlaqnHS7-Mnd1ZC9icqo02aHhGvl_f50l_UX1bPsJgwFs=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Nyanheras",
     "scheduledStartTime": "2024-04-06T16:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "0Faczay31NI",
+    "vidUrl": "https://youtu.be/0Faczay31NI",
+    "vidTitle": "What hides in this forest?\u3010Little Misfortune\u3011",
+    "channelId": "@chiakikatsumi",
+    "channelName": "Chiaki Katsumi Ch.\u3010PixelLink\u3011",
+    "channelThumb": "https://yt3.ggpht.com/0fSRWqUeKcBNJeZX33wkdct45WIDQd0CxMX2Faq80kSDKsvsuk2Nma-sBkzGYT2QjqCXCk4S9sU=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Chiaki",
+    "scheduledStartTime": "2024-04-06T18:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -2478,6 +2478,19 @@
     "shortName": "Migi",
     "scheduledStartTime": "2024-04-05T01:15:00Z",
     "actualStartTime": "2024-04-05T01:08:55Z",
+    "premiere": false
+  },
+  {
+    "id": "Yavc77e0U_g",
+    "vidUrl": "https://youtu.be/Yavc77e0U_g",
+    "vidTitle": "\u3010SHINKANSEN 0\u3011HELP ME IM SCARED",
+    "channelId": "@miuakumiya",
+    "channelName": "Miu Akumiya | Specialite EN",
+    "channelThumb": "https://yt3.ggpht.com/H0RUX3QxKuAJyYYt-hjfuZpMZXSyrmwH-ovu8KW9Kvyd-D3wToBb_5QDZQ2a3q__w6yo65EQ5xc=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Miu",
+    "scheduledStartTime": "2024-04-05T04:00:06Z",
+    "actualStartTime": "2024-04-05T04:00:19Z",
     "premiere": false
   },
   {
