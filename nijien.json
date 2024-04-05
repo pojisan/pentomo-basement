@@ -1,17 +1,5 @@
 [
   {
-    "id": "M0b636evx4U",
-    "vidUrl": "https://youtu.be/M0b636evx4U",
-    "vidTitle": "\u3010#NIJIEN_MKBattle\u3011BLUE CAPTAIN HOPCON TRAINING\u3010NIJISANJI EN Mario Kart Special Battle\u3011",
-    "channelId": "@yuq.wilson",
-    "channelName": "Yu Q. Wilson \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/GR1e8gQ-x7ehgpqAZmrwoJBI7ReZneaTR6PEQvgcW3kIabEvfTenrpiNRWZSH6QpysfZftKKrA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Wilson",
-    "scheduledStartTime": "2024-04-05T12:00:00Z",
-    "actualStartTime": "2024-04-05T12:00:09Z",
-    "premiere": false
-  },
-  {
     "id": "_wABoyFb7v8",
     "vidUrl": "https://youtu.be/_wABoyFb7v8",
     "vidTitle": "Lost Masters... grinding it back again :c PART 18",
@@ -21,18 +9,6 @@
     "shortName": "Aster",
     "scheduledStartTime": "2024-04-05T13:15:00Z",
     "actualStartTime": "2024-04-05T13:12:30Z",
-    "premiere": false
-  },
-  {
-    "id": "dLANyiN_lqY",
-    "vidUrl": "https://youtu.be/dLANyiN_lqY",
-    "vidTitle": "It felt like forever without you",
-    "channelId": "@ververmillion",
-    "channelName": "Ver Vermillion\u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/QwgUIFhcWKt-yHJ19FqCYelMr9M4fL1JCYuL14ZwdeggK08tKrvqEx9ZU99Tv7HVOaGFA0oPng=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Ver",
-    "scheduledStartTime": "2024-04-05T14:00:00Z",
-    "actualStartTime": "2024-04-05T14:02:30Z",
     "premiere": false
   },
   {
@@ -166,6 +142,32 @@
     "shortName": "Seffyna",
     "scheduledStartTime": "2024-04-05T12:00:00Z",
     "actualStartTime": "2024-04-05T11:59:30Z",
+    "premiere": false
+  },
+  {
+    "id": "M0b636evx4U",
+    "vidUrl": "https://youtu.be/M0b636evx4U",
+    "vidTitle": "\u3010#NIJIEN_MKBattle\u3011BLUE CAPTAIN HOPCON TRAINING\u3010NIJISANJI EN Mario Kart Special Battle\u3011",
+    "channelId": "@yuq.wilson",
+    "channelName": "Yu Q. Wilson \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/GR1e8gQ-x7ehgpqAZmrwoJBI7ReZneaTR6PEQvgcW3kIabEvfTenrpiNRWZSH6QpysfZftKKrA=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Wilson",
+    "scheduledStartTime": "2024-04-05T12:00:00Z",
+    "actualStartTime": "2024-04-05T12:00:09Z",
+    "premiere": false
+  },
+  {
+    "id": "dLANyiN_lqY",
+    "vidUrl": "https://youtu.be/dLANyiN_lqY",
+    "vidTitle": "It felt like forever without you",
+    "channelId": "@ververmillion",
+    "channelName": "Ver Vermillion\u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/QwgUIFhcWKt-yHJ19FqCYelMr9M4fL1JCYuL14ZwdeggK08tKrvqEx9ZU99Tv7HVOaGFA0oPng=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Ver",
+    "scheduledStartTime": "2024-04-05T14:00:00Z",
+    "actualStartTime": "2024-04-05T14:02:30Z",
     "premiere": false
   }
 ]
