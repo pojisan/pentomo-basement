@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "TBlBitwZKNg",
-    "vidUrl": "https://youtu.be/TBlBitwZKNg",
-    "vidTitle": "\u3010THE WITCH'S HOUSE MV\u3011I GOT 99 PROBLEMS BUT A WITCH AIN'T ONE\u3010NIJISANJI EN | Vantacrow Bringer\u3011",
-    "channelId": "@vantacrowbringer",
-    "channelName": "Vantacrow Bringer \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/GLPkvp_8o7OvZ3q57IpqDSHIyv6OqZFK6tO1egzLoMjE19EBlo3tISEMIOLEvkC5jnl2Uus93A=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Vanta",
-    "scheduledStartTime": "2024-04-05T03:00:00Z",
-    "actualStartTime": "2024-04-05T03:01:43Z",
-    "premiere": false
-  },
-  {
     "id": "K5S0mEeM8yU",
     "vidUrl": "https://youtu.be/K5S0mEeM8yU",
     "vidTitle": "I PLAY HONKAI STAR RAIL FOR THE 1ST TIME WITH EYE TRACKERS!",
@@ -166,5 +154,18 @@
     "scheduledStartTime": "2024-04-07T13:00:00Z",
     "actualStartTime": "",
     "premiere": true
+  },
+  {
+    "id": "TBlBitwZKNg",
+    "vidUrl": "https://youtu.be/TBlBitwZKNg",
+    "vidTitle": "\u3010THE WITCH'S HOUSE MV\u3011I GOT 99 PROBLEMS BUT A WITCH AIN'T ONE\u3010NIJISANJI EN | Vantacrow Bringer\u3011",
+    "channelId": "@vantacrowbringer",
+    "channelName": "Vantacrow Bringer \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/GLPkvp_8o7OvZ3q57IpqDSHIyv6OqZFK6tO1egzLoMjE19EBlo3tISEMIOLEvkC5jnl2Uus93A=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Vanta",
+    "scheduledStartTime": "2024-04-05T03:00:00Z",
+    "actualStartTime": "2024-04-05T03:01:43Z",
+    "premiere": false
   }
 ]

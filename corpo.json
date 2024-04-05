@@ -72,18 +72,6 @@
     "premiere": false
   },
   {
-    "id": "wyY5sLNm03I",
-    "vidUrl": "https://youtu.be/wyY5sLNm03I",
-    "vidTitle": "\u3010ART\u3011drawing new @welcometolucid members! hello darkness my old tea star!?",
-    "channelId": "@neiomicielo",
-    "channelName": "Neiomi Cielo Ch.\u3010lucid\u2601\ufe0f\u3011",
-    "channelThumb": "https://yt3.ggpht.com/Scg_jH2aOtaFnREeE_96R4xFDpw0cxp1A-sM6poZ_dl-6N2igdC-27zQ7UOguRqYARzQ6pTK0w=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Cielo",
-    "scheduledStartTime": "2024-04-05T04:00:00Z",
-    "actualStartTime": "2024-04-05T04:00:57Z",
-    "premiere": false
-  },
-  {
     "id": "MspN5UBZE9A",
     "vidUrl": "https://youtu.be/MspN5UBZE9A",
     "vidTitle": "\u9003\u3052\u308d\u304a\u304a\u304a\u304a\u304a\u3049\u304a\u304a\uff01\uff01\uff01\u3010\u30c8\u30a5\u30fc\u30e0\u30ec\u30a4\u30c0\u30fc2\u3011\u3010\u6b4c\u7f8e\u9cf4\u30af\u30e9\u30e9 / Phase Connect\u3011",
@@ -199,6 +187,18 @@
     "channelName": "Yura Rikudou / \u516d\u9053\u30e6\u30e9",
     "channelThumb": "https://yt3.ggpht.com/yILITMwS2t2HFysY-sKxOFGmrAaQheI4LMzf-ezgCTX9rjPTSJtZQK3E48WTtxtCWinefdwl-g=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Yura",
+    "scheduledStartTime": "2024-04-05T13:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "9OdsIUI3SAI",
+    "vidUrl": "https://youtu.be/9OdsIUI3SAI",
+    "vidTitle": "\u3010VALORANT\u3011pew pew time with friend! :3 [ MYTH-0S EN | MAE NOBU ]",
+    "channelId": "@mythosvt",
+    "channelName": "MYTHOS VT OFFICIAL",
+    "channelThumb": "https://yt3.ggpht.com/B29jTdW5CzeW8wKyi4pczco-ejeEpBblzjOGL8n7oozCZsZrdLJ-VqHHztEAfOlBI18RfZ86Bw=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "MYTHOS VT",
     "scheduledStartTime": "2024-04-05T13:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2415,16 +2415,16 @@
     "premiere": false
   },
   {
-    "id": "CTHIAZtaCbM",
-    "vidUrl": "https://youtu.be/CTHIAZtaCbM",
-    "vidTitle": "Is This Game TOO SCARY For Us!? \ud83d\ude31\u3010 DEMONOLOGIST \u3011",
-    "channelId": "@sheeichokawaii",
-    "channelName": "Shee Icho Ch. \u9280\u674f\u3057\u3044\u3010kawaii\u3011",
-    "channelThumb": "https://yt3.ggpht.com/9WpvwRlwjSUM4bCLMLpNv3BvRtnQWki4eY-YAsKAkuzUxJaLXhLDJu5XMQoPU_zbzunktQvMpg=s88-c-k-c0x00ffffff-no-rj",
+    "id": "wyY5sLNm03I",
+    "vidUrl": "https://youtu.be/wyY5sLNm03I",
+    "vidTitle": "\u3010ART\u3011drawing new @welcometolucid members! hello darkness my old tea star!?",
+    "channelId": "@neiomicielo",
+    "channelName": "Neiomi Cielo Ch.\u3010lucid\u2601\ufe0f\u3011",
+    "channelThumb": "https://yt3.ggpht.com/Scg_jH2aOtaFnREeE_96R4xFDpw0cxp1A-sM6poZ_dl-6N2igdC-27zQ7UOguRqYARzQ6pTK0w=s88-c-k-c0x00ffffff-no-rj",
     "graveyard": true,
-    "shortName": "Shee",
-    "scheduledStartTime": "2024-04-05T02:30:00Z",
-    "actualStartTime": "2024-04-05T02:36:58Z",
+    "shortName": "Cielo",
+    "scheduledStartTime": "2024-04-05T04:00:00Z",
+    "actualStartTime": "2024-04-05T04:00:57Z",
     "premiere": false
   }
 ]
