@@ -48,18 +48,6 @@
     "premiere": false
   },
   {
-    "id": "CTHIAZtaCbM",
-    "vidUrl": "https://youtu.be/CTHIAZtaCbM",
-    "vidTitle": "Is This Game TOO SCARY For Us!? \ud83d\ude31\u3010 DEMONOLOGIST \u3011",
-    "channelId": "@sheeichokawaii",
-    "channelName": "Shee Icho Ch. \u9280\u674f\u3057\u3044\u3010kawaii\u3011",
-    "channelThumb": "https://yt3.ggpht.com/9WpvwRlwjSUM4bCLMLpNv3BvRtnQWki4eY-YAsKAkuzUxJaLXhLDJu5XMQoPU_zbzunktQvMpg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Shee",
-    "scheduledStartTime": "2024-04-05T02:30:00Z",
-    "actualStartTime": "2024-04-05T02:36:58Z",
-    "premiere": false
-  },
-  {
     "id": "Bo7RQP0pWlY",
     "vidUrl": "https://youtu.be/Bo7RQP0pWlY",
     "vidTitle": "\u3010 DEMONOLOGIST\u3011 a dhampir, a maid, a detective and a wolf walk into a house...surely...",
@@ -2424,6 +2412,19 @@
     "shortName": "Migi",
     "scheduledStartTime": "2024-04-05T01:15:00Z",
     "actualStartTime": "2024-04-05T01:08:55Z",
+    "premiere": false
+  },
+  {
+    "id": "CTHIAZtaCbM",
+    "vidUrl": "https://youtu.be/CTHIAZtaCbM",
+    "vidTitle": "Is This Game TOO SCARY For Us!? \ud83d\ude31\u3010 DEMONOLOGIST \u3011",
+    "channelId": "@sheeichokawaii",
+    "channelName": "Shee Icho Ch. \u9280\u674f\u3057\u3044\u3010kawaii\u3011",
+    "channelThumb": "https://yt3.ggpht.com/9WpvwRlwjSUM4bCLMLpNv3BvRtnQWki4eY-YAsKAkuzUxJaLXhLDJu5XMQoPU_zbzunktQvMpg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Shee",
+    "scheduledStartTime": "2024-04-05T02:30:00Z",
+    "actualStartTime": "2024-04-05T02:36:58Z",
     "premiere": false
   }
 ]
