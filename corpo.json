@@ -96,18 +96,6 @@
     "premiere": false
   },
   {
-    "id": "sbGYDA3fUys",
-    "vidUrl": "https://youtu.be/sbGYDA3fUys",
-    "vidTitle": "Dueling @Rosemi_Lovelock In Yugioh Master Duel",
-    "channelId": "@novaaokami",
-    "channelName": "Nova Aokami Ch. [VReverie]",
-    "channelThumb": "https://yt3.ggpht.com/meX1uEFMv6_rki86cHBRXvTGGW7VxvnhWUREh2SUpbA8O77kQKR7xnKGU2Vwmbb69aPmsfji=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Nova",
-    "scheduledStartTime": "2024-04-05T12:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "3v5wgDL_gmg",
     "vidUrl": "https://youtu.be/3v5wgDL_gmg",
     "vidTitle": "\u3010Megaman Legends\u3011My name is Hippopotamus",
@@ -646,6 +634,18 @@
     "scheduledStartTime": "2024-04-06T00:00:00Z",
     "actualStartTime": "",
     "premiere": true
+  },
+  {
+    "id": "sbGYDA3fUys",
+    "vidUrl": "https://youtu.be/sbGYDA3fUys",
+    "vidTitle": "Dueling @Rosemi_Lovelock In Yugioh Master Duel",
+    "channelId": "@novaaokami",
+    "channelName": "Nova Aokami Ch. [VReverie]",
+    "channelThumb": "https://yt3.ggpht.com/meX1uEFMv6_rki86cHBRXvTGGW7VxvnhWUREh2SUpbA8O77kQKR7xnKGU2Vwmbb69aPmsfji=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Nova",
+    "scheduledStartTime": "2024-04-06T00:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
   },
   {
     "id": "UF6IgRE4Ub0",
