@@ -168,18 +168,6 @@
     "premiere": false
   },
   {
-    "id": "43UKMkgVg8U",
-    "vidUrl": "https://youtu.be/43UKMkgVg8U",
-    "vidTitle": "[3D HUGS!] Chat Wif a 3D #Anime Demon Girl",
-    "channelId": "@reinasunch",
-    "channelName": "Reina Sun Ch. \u30ec\u30a4\u30ca\u30fb\u30b5\u30f3\u300eproduction kawaii\u300f",
-    "channelThumb": "https://yt3.ggpht.com/4RX4F31z_vt136oTmk9X1aHxUrOt7TCeeUggiNx8avUBu1j5B8Blo1lktZplgYt8yVhjxKXgUi0=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Reina",
-    "scheduledStartTime": "2024-04-05T20:30:00Z",
-    "actualStartTime": "2024-04-05T20:27:13Z",
-    "premiere": false
-  },
-  {
     "id": "KZXONBlDPWM",
     "vidUrl": "https://youtu.be/KZXONBlDPWM",
     "vidTitle": "Io's Radio Guerilla Stream\u3010Karaoke\u3011#shortslive #shorts",
@@ -271,6 +259,18 @@
     "channelName": "Mila Marlenka \u3010CIESTE\u3011",
     "channelThumb": "https://yt3.ggpht.com/fI8bhGYEiIiDYNWWoonyiSMtEHols90joU-FmG20hnjKRL0RzydX2Hv6Gy_Pf6-x3iVIFkZJELY=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Mila",
+    "scheduledStartTime": "2024-04-05T22:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "OV79W1VDO6M",
+    "vidUrl": "https://youtu.be/OV79W1VDO6M",
+    "vidTitle": "\u3010Dragon's Dogma 2\u3011WILL I BE ABLE TO RUN THIS GAME?",
+    "channelId": "@niasuzune",
+    "channelName": "Nia Suzune / \u9234\u97f3\u306b\u3042\u3010Requiem\u3011",
+    "channelThumb": "https://yt3.ggpht.com/EZIsXrouGx2aOmLFm39j_fLbX-5XSqIZZN20OHosxCvZbrjXFAk9z_GBWk1B4jaafizyAjTDBPY=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Nia",
     "scheduledStartTime": "2024-04-05T22:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -487,6 +487,18 @@
     "channelName": "Nene Amano Ch. \u5929\u91ce\u5be7\u3005\u3010kawaii\u3011",
     "channelThumb": "https://yt3.ggpht.com/gQXL64aSlteGuabzrOCxa7Qs-OdOJ0EAMeTP1hpSpI_5_IAkpjy3X0Y4aTVe9BxxXvXOCE5VdLc=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Nene",
+    "scheduledStartTime": "2024-04-06T00:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "OsjiVt3Mf8w",
+    "vidUrl": "https://youtu.be/OsjiVt3Mf8w",
+    "vidTitle": "\u3010#NIJIEN_MKBattle\u3011VROOOOOOM (runs off the map)\u3010NIJISANJI EN | Victoria Brightshield\u3011",
+    "channelId": "@victoriabrightshield",
+    "channelName": "Victoria Brightshield \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/UObY_OAxjbHsXjWzNlFNhUlKuEOZxvvapSVL5lzzeED1tCp7gFW2acrqfjsQx0jodDnzWsCjJg=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Vivi",
     "scheduledStartTime": "2024-04-06T00:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2452,6 +2464,19 @@
     "shortName": "Saya",
     "scheduledStartTime": "2024-04-05T20:00:00Z",
     "actualStartTime": "2024-04-05T19:57:18Z",
+    "premiere": false
+  },
+  {
+    "id": "43UKMkgVg8U",
+    "vidUrl": "https://youtu.be/43UKMkgVg8U",
+    "vidTitle": "[3D HUGS!] Chat Wif a 3D #Anime Demon Girl",
+    "channelId": "@reinasunch",
+    "channelName": "Reina Sun Ch. \u30ec\u30a4\u30ca\u30fb\u30b5\u30f3\u300eproduction kawaii\u300f",
+    "channelThumb": "https://yt3.ggpht.com/4RX4F31z_vt136oTmk9X1aHxUrOt7TCeeUggiNx8avUBu1j5B8Blo1lktZplgYt8yVhjxKXgUi0=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Reina",
+    "scheduledStartTime": "2024-04-05T20:30:00Z",
+    "actualStartTime": "2024-04-05T20:27:13Z",
     "premiere": false
   },
   {
