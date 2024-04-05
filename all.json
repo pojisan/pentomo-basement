@@ -24,18 +24,6 @@
     "premiere": false
   },
   {
-    "id": "b-MW_rw2wHk",
-    "vidUrl": "https://youtu.be/b-MW_rw2wHk",
-    "vidTitle": "\u3010Overcooked 2 Collab\u3011LET. US. COOK.\u3010Sarugaku Leon Jr. | Globie\u3011",
-    "channelId": "@sarugakuleonjr",
-    "channelName": "Sarugaku Leon Jr. ch.\u3010globie\u3011",
-    "channelThumb": "https://yt3.ggpht.com/e13waaN0PPXE8TcWvHVMp8fRRU8JsEeplaZBMPTsNUW_iknS32QkIgFkiKtwweKBCFUZMPnj=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Leon",
-    "scheduledStartTime": "2024-04-05T16:00:00Z",
-    "actualStartTime": "2024-04-05T15:59:33Z",
-    "premiere": false
-  },
-  {
     "id": "Iiu9d8z06_s",
     "vidUrl": "https://youtu.be/Iiu9d8z06_s",
     "vidTitle": "\u3010AMNESIA THE DARK DESCENT\u3011BOI WHO TF?\u3010globie 1st Gen\u3011",
@@ -45,18 +33,6 @@
     "shortName": "Hu",
     "scheduledStartTime": "2024-04-05T16:00:00Z",
     "actualStartTime": "2024-04-05T15:59:43Z",
-    "premiere": false
-  },
-  {
-    "id": "s5od8S3iRbI",
-    "vidUrl": "https://youtu.be/s5od8S3iRbI",
-    "vidTitle": "We're Kirby and Waddle Dee!",
-    "channelId": "@nyanheras",
-    "channelName": "Nyanami Ruru & Rumi Ch.",
-    "channelThumb": "https://yt3.ggpht.com/e-csUdgwEj5h-rQ2vwXX-EVOeXk3BZRlaqnHS7-Mnd1ZC9icqo02aHhGvl_f50l_UX1bPsJgwFs=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Nyanheras",
-    "scheduledStartTime": "2024-04-05T16:00:00Z",
-    "actualStartTime": "2024-04-05T16:03:28Z",
     "premiere": false
   },
   {
@@ -127,6 +103,18 @@
     "channelName": "Kilia Kurayami Ch. \u3010EIEN Project\u3011",
     "channelThumb": "https://yt3.ggpht.com/lfSudxn7RE0Izwj8K2GriTxOebvU7pOlFL6lRkZQfYUex3cksfnEasQtUcPcfXkEJaXYVwxAfQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Kilia",
+    "scheduledStartTime": "2024-04-05T19:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "NiS6PV8flM8",
+    "vidUrl": "https://youtu.be/NiS6PV8flM8",
+    "vidTitle": "Dicebuilding Roguelike | Slice & Dice",
+    "channelId": "@emberamane",
+    "channelName": "Ember Amane Ch. \u3010Phase Connect\u3011",
+    "channelThumb": "https://yt3.ggpht.com/DEkqZgNRdCOo4QicUE-KZvSRke0scAYn1xVAQ3rZo3ccY0YqACOcV517lIeBjPz5Y7OSLjnlbg=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Ember",
     "scheduledStartTime": "2024-04-05T19:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -355,6 +343,18 @@
     "channelName": "Pippa Pebblesworth ch. \u3010globie\u3011",
     "channelThumb": "https://yt3.ggpht.com/FV-T274wCeRSrHKm54acTNEJLJTDlE5BdPrKoJQY0kxaTdO4uerFlxG8HJmAvS2HbSQIMzfa7A=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Pippa",
+    "scheduledStartTime": "2024-04-05T22:30:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "fcWR4vgXgAk",
+    "vidUrl": "https://youtu.be/fcWR4vgXgAk",
+    "vidTitle": "Why Pippa is in a BUNNY SUIT ?! \ud83d\ude33 w/ @PippaPebblesworth \u3010MIKI HITSUGI / SPECIALITE\u3011 #mik1tv",
+    "channelId": "@mikihitsugi",
+    "channelName": "Miki Hitsugi | Specialite EN",
+    "channelThumb": "https://yt3.ggpht.com/7YT74XmVpX9ySRWPf2hpfLz_m8fdW-xfK32LMvmGPo0U3gNiCf3G5PaemNK6eKV0Ex5POa3GrlE=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Migi",
     "scheduledStartTime": "2024-04-05T22:30:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2318,19 +2318,6 @@
     "premiere": false
   },
   {
-    "id": "kQi2gNwBmT8",
-    "vidUrl": "https://youtu.be/kQi2gNwBmT8",
-    "vidTitle": "\u3010VALORANT\u3011Im an innocent catto\u3010VOLs\u3011",
-    "channelId": "@angycatto_vols",
-    "channelName": "Angy Catto - VOLs",
-    "channelThumb": "https://yt3.ggpht.com/QmtGoU3n-jCQAj1gfC6hKg-PiFlyGTW-sz1HZJZlV8Av1Kdial8AJphIpJD7ywQWtUuVgyjo=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Angy",
-    "scheduledStartTime": "2024-04-05T13:00:00Z",
-    "actualStartTime": "2024-04-05T12:59:31Z",
-    "premiere": false
-  },
-  {
     "id": "QcKmJPD00I0",
     "vidUrl": "https://youtu.be/QcKmJPD00I0",
     "vidTitle": "\u3010HI-FI RUSH\u3011Rhythm Hack N' Slash? Let's be bad. FIRST TIME PLAYING!",
@@ -2367,6 +2354,32 @@
     "shortName": "Mana",
     "scheduledStartTime": "2024-04-05T14:35:00Z",
     "actualStartTime": "2024-04-05T14:37:27Z",
+    "premiere": false
+  },
+  {
+    "id": "b-MW_rw2wHk",
+    "vidUrl": "https://youtu.be/b-MW_rw2wHk",
+    "vidTitle": "\u3010Overcooked 2 Collab\u3011LET. US. COOK.\u3010Sarugaku Leon Jr. | Globie\u3011",
+    "channelId": "@sarugakuleonjr",
+    "channelName": "Sarugaku Leon Jr. ch.\u3010globie\u3011",
+    "channelThumb": "https://yt3.ggpht.com/e13waaN0PPXE8TcWvHVMp8fRRU8JsEeplaZBMPTsNUW_iknS32QkIgFkiKtwweKBCFUZMPnj=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Leon",
+    "scheduledStartTime": "2024-04-05T16:00:00Z",
+    "actualStartTime": "2024-04-05T15:59:33Z",
+    "premiere": false
+  },
+  {
+    "id": "s5od8S3iRbI",
+    "vidUrl": "https://youtu.be/s5od8S3iRbI",
+    "vidTitle": "We're Kirby and Waddle Dee!",
+    "channelId": "@nyanheras",
+    "channelName": "Nyanami Ruru & Rumi Ch.",
+    "channelThumb": "https://yt3.ggpht.com/e-csUdgwEj5h-rQ2vwXX-EVOeXk3BZRlaqnHS7-Mnd1ZC9icqo02aHhGvl_f50l_UX1bPsJgwFs=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Nyanheras",
+    "scheduledStartTime": "2024-04-05T16:00:00Z",
+    "actualStartTime": "2024-04-05T16:03:28Z",
     "premiere": false
   },
   {
