@@ -144,30 +144,6 @@
     "premiere": false
   },
   {
-    "id": "1Wf4zDm6hHA",
-    "vidUrl": "https://youtu.be/1Wf4zDm6hHA",
-    "vidTitle": "\u3010cover\u3011DECO*27 - Animal\u3010Kerby\u3011",
-    "channelId": "@cerberuskerby",
-    "channelName": "\u53ef\u6bd4 \u3010Kerby\u3011",
-    "channelThumb": "https://yt3.ggpht.com/u1PdYPMdBHBQDtnVKs3qMOestntsRGbP4YBKgVUQy64GZ1M3xQQUpkDrbP2TxwyamAfB1a2rUFU=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Kerby",
-    "scheduledStartTime": "2024-04-05T14:00:00Z",
-    "actualStartTime": "2024-04-05T14:00:07Z",
-    "premiere": false
-  },
-  {
-    "id": "DSrC0YvLtyw",
-    "vidUrl": "https://youtu.be/DSrC0YvLtyw",
-    "vidTitle": "Muyu Morning Zoomba: 8",
-    "channelId": "@muumuyu",
-    "channelName": "Muyu Ch. \u3080\u3046\u3080\u3086\u3010Phase Connect\u3011",
-    "channelThumb": "https://yt3.ggpht.com/BoAq-UdPFP5MPfUMIWFQwgmeBERbkZx40VxLdrMas6I7c5koPDBUmh4LaJLUJQd9rZbD9KSKog4=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Muyu",
-    "scheduledStartTime": "2024-04-05T14:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "4q9kbU7CD98",
     "vidUrl": "https://youtu.be/4q9kbU7CD98",
     "vidTitle": "\u3010Poppy Playtime 2\u3011Will I ever finish this?\u3010VOLs\u3011",
@@ -200,6 +176,18 @@
     "channelThumb": "https://yt3.ggpht.com/vqd3NC2ixgsJGUcvuvCIbQ-iDDwb6ESIgj791dJQhJ8gZ6OtG3-C2yzcfVPMPDF3cwU_eVeojHQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Fuyo",
     "scheduledStartTime": "2024-04-05T15:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "DSrC0YvLtyw",
+    "vidUrl": "https://youtu.be/DSrC0YvLtyw",
+    "vidTitle": "Muyu Morning Zoomba: 8",
+    "channelId": "@muumuyu",
+    "channelName": "Muyu Ch. \u3080\u3046\u3080\u3086\u3010Phase Connect\u3011",
+    "channelThumb": "https://yt3.ggpht.com/BoAq-UdPFP5MPfUMIWFQwgmeBERbkZx40VxLdrMas6I7c5koPDBUmh4LaJLUJQd9rZbD9KSKog4=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Muyu",
+    "scheduledStartTime": "2024-04-05T15:30:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -2400,19 +2388,6 @@
     "shortName": "Cielo",
     "scheduledStartTime": "2024-04-05T04:00:00Z",
     "actualStartTime": "2024-04-05T04:00:57Z",
-    "premiere": false
-  },
-  {
-    "id": "RJnlflQLUOo",
-    "vidUrl": "https://youtu.be/RJnlflQLUOo",
-    "vidTitle": "Hello, how are you! #shortsfeed",
-    "channelId": "@lillianthemaid",
-    "channelName": "Lillian\u3010BlueJump EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/ZyQVNSp-gOO1KVonCwFgE0I1lz749HgsVPc0GV4tOYvv3TdSE_nzE7iS9fZEZtlxqWbz2Ta_ww=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Lillian",
-    "scheduledStartTime": "2024-04-05T10:00:00Z",
-    "actualStartTime": "2024-04-05T10:06:02Z",
     "premiere": false
   },
   {
