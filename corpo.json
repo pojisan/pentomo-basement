@@ -1,17 +1,5 @@
 [
   {
-    "id": "_Bj92wkBxC0",
-    "vidUrl": "https://youtu.be/_Bj92wkBxC0",
-    "vidTitle": "PRAISE THE SUN!!! (First Dark Souls playthrough)",
-    "channelId": "@rourinroca",
-    "channelName": "Roca Rourin Ch. idol-EN",
-    "channelThumb": "https://yt3.ggpht.com/eBm5-Is9XQiT7Ct2XPL-eAPzgNXgHqbHjgIb_z76sHswS5dVISwa8Ty-R9zVkHeBCxiVnL7-UQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Roca",
-    "scheduledStartTime": "2024-04-05T19:00:00Z",
-    "actualStartTime": "2024-04-05T18:57:30Z",
-    "premiere": false
-  },
-  {
     "id": "qnN-ha-IiHY",
     "vidUrl": "https://youtu.be/qnN-ha-IiHY",
     "vidTitle": "POV: weird girl in bar stares at you \u3010Free Chat\u3011",
@@ -2436,6 +2424,19 @@
     "shortName": "Nyanheras",
     "scheduledStartTime": "2024-04-05T16:00:00Z",
     "actualStartTime": "2024-04-05T16:03:28Z",
+    "premiere": false
+  },
+  {
+    "id": "_Bj92wkBxC0",
+    "vidUrl": "https://youtu.be/_Bj92wkBxC0",
+    "vidTitle": "PRAISE THE SUN!!! (First Dark Souls playthrough)",
+    "channelId": "@rourinroca",
+    "channelName": "Roca Rourin Ch. idol-EN",
+    "channelThumb": "https://yt3.ggpht.com/eBm5-Is9XQiT7Ct2XPL-eAPzgNXgHqbHjgIb_z76sHswS5dVISwa8Ty-R9zVkHeBCxiVnL7-UQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Roca",
+    "scheduledStartTime": "2024-04-05T19:00:00Z",
+    "actualStartTime": "2024-04-05T18:57:30Z",
     "premiere": false
   },
   {
