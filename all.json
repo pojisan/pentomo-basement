@@ -48,30 +48,6 @@
     "premiere": false
   },
   {
-    "id": "FqYOwITnJ68",
-    "vidUrl": "https://youtu.be/FqYOwITnJ68",
-    "vidTitle": "\u3010MINECRAFT COLLAB\u3011block game with @KosekiBijou !!",
-    "channelId": "@moricalliope",
-    "channelName": "Mori Calliope Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/8B_T08sx8R7XVi5Mwx_l9sjQm5FGWGspeujSvVDvd80Zyr-3VvVTRGVLOnBrqNRxZp6ZeXAV=s88-c-k-c0x00ffffff-no-nd-rj",
-    "shortName": "Mori",
-    "scheduledStartTime": "2024-04-05T01:59:31Z",
-    "actualStartTime": "2024-04-05T02:00:03Z",
-    "premiere": false
-  },
-  {
-    "id": "rE-PzwBHyhk",
-    "vidUrl": "https://youtu.be/rE-PzwBHyhk",
-    "vidTitle": "\u3010MINECRAFT\u3011Base building with @MoriCalliope ft. ROCK HARD CONSTRUCTIONS",
-    "channelId": "@kosekibijou",
-    "channelName": "Koseki Bijou Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/75xH5tujXTVPHlQXask8_qTbOeyq0BY4hKxNfvgTrsuqhK_oActrFV197roYikUNZhzayfiLmg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Biboo",
-    "scheduledStartTime": "2024-04-05T02:00:00Z",
-    "actualStartTime": "2024-04-05T01:59:43Z",
-    "premiere": false
-  },
-  {
     "id": "E9W-oYNKJ0Q",
     "vidUrl": "https://youtu.be/E9W-oYNKJ0Q",
     "vidTitle": "MASTER RANK FINALLY ACHIEVED!!! PART 17 Duo w/ @5up",
@@ -81,18 +57,6 @@
     "shortName": "Aster",
     "scheduledStartTime": "2024-04-05T02:00:00Z",
     "actualStartTime": "2024-04-05T02:05:27Z",
-    "premiere": false
-  },
-  {
-    "id": "Bo7RQP0pWlY",
-    "vidUrl": "https://youtu.be/Bo7RQP0pWlY",
-    "vidTitle": "\u3010 DEMONOLOGIST\u3011 a dhampir, a maid, a detective and a wolf walk into a house...surely...",
-    "channelId": "@hiyorimokami",
-    "channelName": "Hiyori Mokami Ch. \u6843\u795e\u65e5\u548c\u3010kawaii\u3011",
-    "channelThumb": "https://yt3.ggpht.com/Vj2QGSwnGea4gY_hmHATQTkM-2noJld4JtpdmiHmXRerJ2umbuiPZwDfLeWVOrXteS4vXqZlCw=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Hiyori",
-    "scheduledStartTime": "2024-04-05T02:30:00Z",
-    "actualStartTime": "2024-04-05T02:38:06Z",
     "premiere": false
   },
   {
@@ -290,7 +254,7 @@
   {
     "id": "9OdsIUI3SAI",
     "vidUrl": "https://youtu.be/9OdsIUI3SAI",
-    "vidTitle": "\u3010VALORANT\u3011pew pew time with friend! :3 [ MYTH-0S EN | MAE NOBU ]",
+    "vidTitle": "\u3010VALORANT\u3011first time playing Valo with friend! :3 [ MYTH-0S EN | MAE NOBU ]",
     "channelId": "@mythosvt",
     "channelName": "MYTHOS VT OFFICIAL",
     "channelThumb": "https://yt3.ggpht.com/B29jTdW5CzeW8wKyi4pczco-ejeEpBblzjOGL8n7oozCZsZrdLJ-VqHHztEAfOlBI18RfZ86Bw=s88-c-k-c0x00ffffff-no-rj",
@@ -2433,16 +2397,42 @@
     "premiere": false
   },
   {
-    "id": "TBlBitwZKNg",
-    "vidUrl": "https://youtu.be/TBlBitwZKNg",
-    "vidTitle": "\u3010THE WITCH'S HOUSE MV\u3011I GOT 99 PROBLEMS BUT A WITCH AIN'T ONE\u3010NIJISANJI EN | Vantacrow Bringer\u3011",
-    "channelId": "@vantacrowbringer",
-    "channelName": "Vantacrow Bringer \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/GLPkvp_8o7OvZ3q57IpqDSHIyv6OqZFK6tO1egzLoMjE19EBlo3tISEMIOLEvkC5jnl2Uus93A=s88-c-k-c0x00ffffff-no-rj",
+    "id": "FqYOwITnJ68",
+    "vidUrl": "https://youtu.be/FqYOwITnJ68",
+    "vidTitle": "\u3010MINECRAFT COLLAB\u3011block game with @KosekiBijou !!",
+    "channelId": "@moricalliope",
+    "channelName": "Mori Calliope Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/8B_T08sx8R7XVi5Mwx_l9sjQm5FGWGspeujSvVDvd80Zyr-3VvVTRGVLOnBrqNRxZp6ZeXAV=s88-c-k-c0x00ffffff-no-nd-rj",
     "graveyard": true,
-    "shortName": "Vanta",
-    "scheduledStartTime": "2024-04-05T03:00:00Z",
-    "actualStartTime": "2024-04-05T03:01:43Z",
+    "shortName": "Mori",
+    "scheduledStartTime": "2024-04-05T01:59:31Z",
+    "actualStartTime": "2024-04-05T02:00:03Z",
+    "premiere": false
+  },
+  {
+    "id": "rE-PzwBHyhk",
+    "vidUrl": "https://youtu.be/rE-PzwBHyhk",
+    "vidTitle": "\u3010MINECRAFT\u3011Base building with @MoriCalliope ft. ROCK HARD CONSTRUCTIONS",
+    "channelId": "@kosekibijou",
+    "channelName": "Koseki Bijou Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/75xH5tujXTVPHlQXask8_qTbOeyq0BY4hKxNfvgTrsuqhK_oActrFV197roYikUNZhzayfiLmg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Biboo",
+    "scheduledStartTime": "2024-04-05T02:00:00Z",
+    "actualStartTime": "2024-04-05T01:59:43Z",
+    "premiere": false
+  },
+  {
+    "id": "Bo7RQP0pWlY",
+    "vidUrl": "https://youtu.be/Bo7RQP0pWlY",
+    "vidTitle": "\u3010 DEMONOLOGIST\u3011 a dhampir, a maid, a detective and a wolf walk into a house...surely...",
+    "channelId": "@hiyorimokami",
+    "channelName": "Hiyori Mokami Ch. \u6843\u795e\u65e5\u548c\u3010kawaii\u3011",
+    "channelThumb": "https://yt3.ggpht.com/Vj2QGSwnGea4gY_hmHATQTkM-2noJld4JtpdmiHmXRerJ2umbuiPZwDfLeWVOrXteS4vXqZlCw=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Hiyori",
+    "scheduledStartTime": "2024-04-05T02:30:00Z",
+    "actualStartTime": "2024-04-05T02:38:06Z",
     "premiere": false
   },
   {
