@@ -1,17 +1,5 @@
 [
   {
-    "id": "4IyqAPSmW0s",
-    "vidUrl": "https://youtu.be/4IyqAPSmW0s",
-    "vidTitle": "\u3010YU-GI-OH! MASTER DUEL\u3011Trap Card Trickery w/ Nova",
-    "channelId": "@rosemi_lovelock",
-    "channelName": "Rosemi Lovelock\u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/dIXH0sOv8hWRp2KlAz4jb7D5JHLaRgLSi2QTWv8mKqbuLQV-tSpvR9tmBNy50zEVSLaNGVpQgA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Wosemi",
-    "scheduledStartTime": "2024-04-06T00:00:00Z",
-    "actualStartTime": "2024-04-06T00:05:23Z",
-    "premiere": false
-  },
-  {
     "id": "OsjiVt3Mf8w",
     "vidUrl": "https://youtu.be/OsjiVt3Mf8w",
     "vidTitle": "\u3010#NIJIEN_MKBattle\u3011VROOOOOOM (runs off the map)\u3010NIJISANJI EN | Victoria Brightshield\u3011",
@@ -142,5 +130,18 @@
     "scheduledStartTime": "2024-04-07T13:00:00Z",
     "actualStartTime": "",
     "premiere": true
+  },
+  {
+    "id": "4IyqAPSmW0s",
+    "vidUrl": "https://youtu.be/4IyqAPSmW0s",
+    "vidTitle": "\u3010YU-GI-OH! MASTER DUEL\u3011Trap Card Trickery w/ Nova",
+    "channelId": "@rosemi_lovelock",
+    "channelName": "Rosemi Lovelock\u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/dIXH0sOv8hWRp2KlAz4jb7D5JHLaRgLSi2QTWv8mKqbuLQV-tSpvR9tmBNy50zEVSLaNGVpQgA=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Wosemi",
+    "scheduledStartTime": "2024-04-06T00:00:00Z",
+    "actualStartTime": "2024-04-06T00:05:23Z",
+    "premiere": false
   }
 ]
