@@ -1,17 +1,5 @@
 [
   {
-    "id": "4TrfvoEBSuc",
-    "vidUrl": "https://youtu.be/4TrfvoEBSuc",
-    "vidTitle": "\u3010Supermarket Simulator\u3011Look. I'm not addicted to this game. I can stop anytime I want.",
-    "channelId": "@lethebonapuchi",
-    "channelName": "Lethe Bonapuchi Ch. \u30ec\u30c3\u30c6\u30dc\u30ca\u30d7\u30c1 \u3010kawaii\u3011",
-    "channelThumb": "https://yt3.ggpht.com/Zzn-lffpprmp6_2y3sOeCN1yw-ARyXBh7a992WGez2D2Mo9RixB5PiBBndwuZA1NpUjjcDnb=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Lethe",
-    "scheduledStartTime": "2024-04-06T09:00:00Z",
-    "actualStartTime": "2024-04-06T09:00:40Z",
-    "premiere": false
-  },
-  {
     "id": "Hz4ZqzyVmGc",
     "vidUrl": "https://youtu.be/Hz4ZqzyVmGc",
     "vidTitle": "\u3010SUPERMARKET SIMULATOR\u3011MIKUMI MART\u3010VOLs\u3011",
@@ -91,7 +79,7 @@
     "channelName": "Yura Rikudou / \u516d\u9053\u30e6\u30e9",
     "channelThumb": "https://yt3.ggpht.com/yILITMwS2t2HFysY-sKxOFGmrAaQheI4LMzf-ezgCTX9rjPTSJtZQK3E48WTtxtCWinefdwl-g=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Yura",
-    "scheduledStartTime": "2024-04-06T13:30:00Z",
+    "scheduledStartTime": "2024-04-06T13:45:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -1969,6 +1957,19 @@
     "shortName": "Hu",
     "scheduledStartTime": "2024-04-06T06:00:00Z",
     "actualStartTime": "2024-04-06T06:07:43Z",
+    "premiere": false
+  },
+  {
+    "id": "4TrfvoEBSuc",
+    "vidUrl": "https://youtu.be/4TrfvoEBSuc",
+    "vidTitle": "\u3010Supermarket Simulator\u3011Look. I'm not addicted to this game. I can stop anytime I want.",
+    "channelId": "@lethebonapuchi",
+    "channelName": "Lethe Bonapuchi Ch. \u30ec\u30c3\u30c6\u30dc\u30ca\u30d7\u30c1 \u3010kawaii\u3011",
+    "channelThumb": "https://yt3.ggpht.com/Zzn-lffpprmp6_2y3sOeCN1yw-ARyXBh7a992WGez2D2Mo9RixB5PiBBndwuZA1NpUjjcDnb=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Lethe",
+    "scheduledStartTime": "2024-04-06T09:00:00Z",
+    "actualStartTime": "2024-04-06T09:00:40Z",
     "premiere": false
   },
   {
