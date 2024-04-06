@@ -60,18 +60,6 @@
     "premiere": false
   },
   {
-    "id": "0DffRQGAlnY",
-    "vidUrl": "https://youtu.be/0DffRQGAlnY",
-    "vidTitle": "WAKE UP!!! \ud83d\ude2d\ud83d\udca2",
-    "channelId": "@surivnu",
-    "channelName": "Suri Solari Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/VaElIFntfdnsdEWcuX4b3ZB6JpT8YmhAr7Tf-2h80TO_ygsd8OxSf1TgZjtSpwt6K26DwgloNg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Suri",
-    "scheduledStartTime": "2024-04-06T18:00:00Z",
-    "actualStartTime": "2024-04-06T18:11:07Z",
-    "premiere": false
-  },
-  {
     "id": "5zjzgLyEAoQ",
     "vidUrl": "https://youtu.be/5zjzgLyEAoQ",
     "vidTitle": "BECOME SEXY          \u3010FFXIV FFXVI collab: The Path Infernal\u3011",
@@ -211,6 +199,18 @@
     "channelName": "Elia Stellaria\u3010V-Dere\u3011",
     "channelThumb": "https://yt3.ggpht.com/06-Ihgh44rPrUWXBSXAGR0a10dQKGBTm-AEJxG1ThlclvCzFFugh1FSz5PXqXP606Y_BV98SKA=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Elia",
+    "scheduledStartTime": "2024-04-06T22:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "6EPjaApnpVQ",
+    "vidUrl": "https://youtu.be/6EPjaApnpVQ",
+    "vidTitle": "Decorating My Cave With Fairy Aesthetics!",
+    "channelId": "@chiyomoberi",
+    "channelName": "Chiyo Moberi \u3010CIESTE\u3011",
+    "channelThumb": "https://yt3.ggpht.com/rCQWrIhA0g-D2eraOSkn9GkzKGYNjnUmuTi1SBXQzChsbdYoicnz-OA8swsYORrrvrQer2YhTDI=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Chiyo",
     "scheduledStartTime": "2024-04-06T22:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -1956,6 +1956,19 @@
     "shortName": "Goozilla",
     "scheduledStartTime": "2024-04-06T16:52:42Z",
     "actualStartTime": "2024-04-06T16:52:57Z",
+    "premiere": false
+  },
+  {
+    "id": "0DffRQGAlnY",
+    "vidUrl": "https://youtu.be/0DffRQGAlnY",
+    "vidTitle": "WAKE UP!!! \ud83d\ude2d\ud83d\udca2",
+    "channelId": "@surivnu",
+    "channelName": "Suri Solari Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/VaElIFntfdnsdEWcuX4b3ZB6JpT8YmhAr7Tf-2h80TO_ygsd8OxSf1TgZjtSpwt6K26DwgloNg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Suri",
+    "scheduledStartTime": "2024-04-06T18:00:00Z",
+    "actualStartTime": "2024-04-06T18:11:07Z",
     "premiere": false
   }
 ]
