@@ -24,18 +24,6 @@
     "premiere": false
   },
   {
-    "id": "gugsWtAaFwc",
-    "vidUrl": "https://youtu.be/gugsWtAaFwc",
-    "vidTitle": "Go white girl go!\u300e Ender Lillies \u300f",
-    "channelId": "@fuyocloverfield",
-    "channelName": "Fuyo Cloverfield Ch. idol-EN",
-    "channelThumb": "https://yt3.ggpht.com/vqd3NC2ixgsJGUcvuvCIbQ-iDDwb6ESIgj791dJQhJ8gZ6OtG3-C2yzcfVPMPDF3cwU_eVeojHQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Fuyo",
-    "scheduledStartTime": "2024-04-06T15:00:00Z",
-    "actualStartTime": "2024-04-06T15:03:48Z",
-    "premiere": false
-  },
-  {
     "id": "jjlfmGrnnz8",
     "vidUrl": "https://youtu.be/jjlfmGrnnz8",
     "vidTitle": "Getting SUPER STICKY With You \ud83d\ude33\ud83d\ude33\ud83d\ude33[Sticky Business]",
@@ -200,6 +188,18 @@
     "channelThumb": "https://yt3.ggpht.com/ASECFzLfCvbb1ZpfSXbamj37Nx2LMdVl_mQWiUkqFydEjBSjuv2iqFJOmGLEzSzV1BdjRikA5Mo=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Zhuni",
     "scheduledStartTime": "2024-04-06T20:45:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "d3uKL_w6loM",
+    "vidUrl": "https://youtu.be/d3uKL_w6loM",
+    "vidTitle": "\u3010FR/EN/JP/CN/VN/ES\u3011UNPLANNED STREAM lets talk a little bit \u3010Kumanui Miel | globie\u3011",
+    "channelId": "@kumanuimiel",
+    "channelName": "Kumanui Miel Ch. \u718a\u7e2b\u30df\u30a8\u30eb\u3010globie\u3011",
+    "channelThumb": "https://yt3.ggpht.com/8f_4es6nBZAfGqpbSLfr5b12pv2elBhAnKV4NHf8BUZPY0edK5rfovLJbl22foZdWjvPIlHt=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Miel",
+    "scheduledStartTime": "2024-04-06T21:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -1917,6 +1917,19 @@
     "shortName": "Yuno",
     "scheduledStartTime": "2024-04-06T12:00:00Z",
     "actualStartTime": "2024-04-06T12:00:40Z",
+    "premiere": false
+  },
+  {
+    "id": "gugsWtAaFwc",
+    "vidUrl": "https://youtu.be/gugsWtAaFwc",
+    "vidTitle": "Go white girl go!\u300e Ender Lillies \u300f",
+    "channelId": "@fuyocloverfield",
+    "channelName": "Fuyo Cloverfield Ch. idol-EN",
+    "channelThumb": "https://yt3.ggpht.com/vqd3NC2ixgsJGUcvuvCIbQ-iDDwb6ESIgj791dJQhJ8gZ6OtG3-C2yzcfVPMPDF3cwU_eVeojHQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Fuyo",
+    "scheduledStartTime": "2024-04-06T15:00:00Z",
+    "actualStartTime": "2024-04-06T15:03:48Z",
     "premiere": false
   },
   {
