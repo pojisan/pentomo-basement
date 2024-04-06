@@ -60,18 +60,6 @@
     "premiere": false
   },
   {
-    "id": "G-x_-I0CKHk",
-    "vidUrl": "https://youtu.be/G-x_-I0CKHk",
-    "vidTitle": "\u3010The Convenience Store\u3011...yabe\u3010bondliveEN | Ivaela Daemoni\u3011",
-    "channelId": "@ivaelad",
-    "channelName": "Ivaela Daemoni || \u30a4\u30f4\u30a7\u30e9\u30fb\u30c7\u30e2\u30cb \u3016bondliveEN\u3017",
-    "channelThumb": "https://yt3.ggpht.com/jrJJ8oX8ZP5WElJi21bGfW0jZYnQ3FSAQtsnHMZXQ8_OZ1MnSOFCdTeAVpJVXf7Dul4Ed49h-Q=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Ivaela",
-    "scheduledStartTime": "2024-04-06T20:00:00Z",
-    "actualStartTime": "2024-04-06T20:00:54Z",
-    "premiere": false
-  },
-  {
     "id": "9xa-v-KPCe8",
     "vidUrl": "https://youtu.be/9xa-v-KPCe8",
     "vidTitle": "WHAT THE HECK IS A MANAGED DEMOCRACY!? \ud83e\udd2f \u3010 HELLDIVERS 2 \ud83d\udc97 \u3011",
@@ -315,6 +303,18 @@
     "id": "Or-XBmUvj4k",
     "vidUrl": "https://youtu.be/Or-XBmUvj4k",
     "vidTitle": "(more) FIRST TIME HOLLOW KNIGHT",
+    "channelId": "@maevevnu",
+    "channelName": "Kagekiri Maeve Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/chqWD1VyGO8YdOq75KWxKvH0RcBMayDUlmtDeO9Btb__V9Zr-ow3CSoiOfhE3SrynzSC9J8=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Maeve",
+    "scheduledStartTime": "2024-04-06T22:30:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "iyjgTd77OPo",
+    "vidUrl": "https://youtu.be/iyjgTd77OPo",
+    "vidTitle": "(more) FIRST TIME HOLLOW KNIGHT #shorts #shortslive #shortsfeed #shortsgaming",
     "channelId": "@maevevnu",
     "channelName": "Kagekiri Maeve Ch. V&U",
     "channelThumb": "https://yt3.ggpht.com/chqWD1VyGO8YdOq75KWxKvH0RcBMayDUlmtDeO9Btb__V9Zr-ow3CSoiOfhE3SrynzSC9J8=s88-c-k-c0x00ffffff-no-rj",
@@ -1946,6 +1946,19 @@
     "shortName": "Goozilla",
     "scheduledStartTime": "2024-04-06T16:52:42Z",
     "actualStartTime": "2024-04-06T16:52:57Z",
+    "premiere": false
+  },
+  {
+    "id": "G-x_-I0CKHk",
+    "vidUrl": "https://youtu.be/G-x_-I0CKHk",
+    "vidTitle": "\u3010The Convenience Store\u3011...yabe\u3010bondliveEN | Ivaela Daemoni\u3011",
+    "channelId": "@ivaelad",
+    "channelName": "Ivaela Daemoni || \u30a4\u30f4\u30a7\u30e9\u30fb\u30c7\u30e2\u30cb \u3016bondliveEN\u3017",
+    "channelThumb": "https://yt3.ggpht.com/jrJJ8oX8ZP5WElJi21bGfW0jZYnQ3FSAQtsnHMZXQ8_OZ1MnSOFCdTeAVpJVXf7Dul4Ed49h-Q=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Ivaela",
+    "scheduledStartTime": "2024-04-06T20:00:00Z",
+    "actualStartTime": "2024-04-06T20:00:54Z",
     "premiere": false
   },
   {
