@@ -108,18 +108,6 @@
     "premiere": false
   },
   {
-    "id": "Aoh-rFDlU84",
-    "vidUrl": "https://youtu.be/Aoh-rFDlU84",
-    "vidTitle": "Muyu Morning Zoomba: 9",
-    "channelId": "@muumuyu",
-    "channelName": "Muyu Ch. \u3080\u3046\u3080\u3086\u3010Phase Connect\u3011",
-    "channelThumb": "https://yt3.ggpht.com/BoAq-UdPFP5MPfUMIWFQwgmeBERbkZx40VxLdrMas6I7c5koPDBUmh4LaJLUJQd9rZbD9KSKog4=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Muyu",
-    "scheduledStartTime": "2024-04-06T15:00:00Z",
-    "actualStartTime": "2024-04-06T15:02:34Z",
-    "premiere": false
-  },
-  {
     "id": "gugsWtAaFwc",
     "vidUrl": "https://youtu.be/gugsWtAaFwc",
     "vidTitle": "Go white girl go!\u300e Ender Lillies \u300f",
@@ -129,6 +117,18 @@
     "shortName": "Fuyo",
     "scheduledStartTime": "2024-04-06T15:00:00Z",
     "actualStartTime": "2024-04-06T15:03:48Z",
+    "premiere": false
+  },
+  {
+    "id": "Aoh-rFDlU84",
+    "vidUrl": "https://youtu.be/Aoh-rFDlU84",
+    "vidTitle": "Muyu Morning Zoomba: 9",
+    "channelId": "@muumuyu",
+    "channelName": "Muyu Ch. \u3080\u3046\u3080\u3086\u3010Phase Connect\u3011",
+    "channelThumb": "https://yt3.ggpht.com/BoAq-UdPFP5MPfUMIWFQwgmeBERbkZx40VxLdrMas6I7c5koPDBUmh4LaJLUJQd9rZbD9KSKog4=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Muyu",
+    "scheduledStartTime": "2024-04-06T15:00:00Z",
+    "actualStartTime": "2024-04-06T15:02:34Z",
     "premiere": false
   },
   {
