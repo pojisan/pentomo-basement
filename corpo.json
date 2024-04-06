@@ -12,30 +12,6 @@
     "premiere": false
   },
   {
-    "id": "pkJm0gMW8mE",
-    "vidUrl": "https://youtu.be/pkJm0gMW8mE",
-    "vidTitle": "Rin (if Rin was at a different time)",
-    "channelId": "@rinpenrose",
-    "channelName": "Rin Penrose Ch. idol-EN",
-    "channelThumb": "https://yt3.ggpht.com/A4q2cLOTiWlNsZpT8P2XmIgv-ZJUP4OR-2hpei0ZTM2bnpAZOdY5b1YuwslYnQCcVGJYAaGT=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Rin",
-    "scheduledStartTime": "2024-04-06T12:00:00Z",
-    "actualStartTime": "2024-04-06T12:00:18Z",
-    "premiere": false
-  },
-  {
-    "id": "__XyIZ631gI",
-    "vidUrl": "https://youtu.be/__XyIZ631gI",
-    "vidTitle": "\u3010Morning Work\u3011 WORK ESCAPED WORK ESCAPED AAAA \u3010Yuno Hanaki\u3011",
-    "channelId": "@yunohanaki",
-    "channelName": "Yuno Hanaki Ch. \u83ef\u9b3c\u7d50\u671b \u3010kawaii\u3011",
-    "channelThumb": "https://yt3.ggpht.com/3pIMiD4FJEzYSAXPR4CchM-vKiT7gfMtJagky2oGpvyMy0UqATsnAPLJ8DFE1eTJQH2MYkxPHQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Yuno",
-    "scheduledStartTime": "2024-04-06T12:00:00Z",
-    "actualStartTime": "2024-04-06T12:00:40Z",
-    "premiere": false
-  },
-  {
     "id": "dJELwme1-nA",
     "vidUrl": "https://youtu.be/dJELwme1-nA",
     "vidTitle": "[Gaming] Let's Chat with Yagami Noah\uff5cVTuber /GTA5 in Street Junkies\u3010GTA5\u3011\u65e5\u672c\u8a9e/PC",
@@ -1934,19 +1910,6 @@
     "premiere": false
   },
   {
-    "id": "4TrfvoEBSuc",
-    "vidUrl": "https://youtu.be/4TrfvoEBSuc",
-    "vidTitle": "\u3010Supermarket Simulator\u3011Look. I'm not addicted to this game. I can stop anytime I want.",
-    "channelId": "@lethebonapuchi",
-    "channelName": "Lethe Bonapuchi Ch. \u30ec\u30c3\u30c6\u30dc\u30ca\u30d7\u30c1 \u3010kawaii\u3011",
-    "channelThumb": "https://yt3.ggpht.com/Zzn-lffpprmp6_2y3sOeCN1yw-ARyXBh7a992WGez2D2Mo9RixB5PiBBndwuZA1NpUjjcDnb=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Lethe",
-    "scheduledStartTime": "2024-04-06T09:00:00Z",
-    "actualStartTime": "2024-04-06T09:00:40Z",
-    "premiere": false
-  },
-  {
     "id": "IFDYUIzefyM",
     "vidUrl": "https://youtu.be/IFDYUIzefyM",
     "vidTitle": "[Gaming] Let's Chat with Yagami Noah\uff5cVTuber Minecraft",
@@ -1970,6 +1933,32 @@
     "shortName": "Charlotte",
     "scheduledStartTime": "2024-04-06T11:00:00Z",
     "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "pkJm0gMW8mE",
+    "vidUrl": "https://youtu.be/pkJm0gMW8mE",
+    "vidTitle": "Rin (if Rin was at a different time)",
+    "channelId": "@rinpenrose",
+    "channelName": "Rin Penrose Ch. idol-EN",
+    "channelThumb": "https://yt3.ggpht.com/A4q2cLOTiWlNsZpT8P2XmIgv-ZJUP4OR-2hpei0ZTM2bnpAZOdY5b1YuwslYnQCcVGJYAaGT=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Rin",
+    "scheduledStartTime": "2024-04-06T12:00:00Z",
+    "actualStartTime": "2024-04-06T12:00:18Z",
+    "premiere": false
+  },
+  {
+    "id": "__XyIZ631gI",
+    "vidUrl": "https://youtu.be/__XyIZ631gI",
+    "vidTitle": "\u3010Morning Work\u3011 WORK ESCAPED WORK ESCAPED AAAA \u3010Yuno Hanaki\u3011",
+    "channelId": "@yunohanaki",
+    "channelName": "Yuno Hanaki Ch. \u83ef\u9b3c\u7d50\u671b \u3010kawaii\u3011",
+    "channelThumb": "https://yt3.ggpht.com/3pIMiD4FJEzYSAXPR4CchM-vKiT7gfMtJagky2oGpvyMy0UqATsnAPLJ8DFE1eTJQH2MYkxPHQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Yuno",
+    "scheduledStartTime": "2024-04-06T12:00:00Z",
+    "actualStartTime": "2024-04-06T12:00:40Z",
     "premiere": false
   }
 ]
