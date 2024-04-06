@@ -48,18 +48,6 @@
     "premiere": false
   },
   {
-    "id": "ajEEOCmaTvM",
-    "vidUrl": "https://youtu.be/ajEEOCmaTvM",
-    "vidTitle": "DAY 6 OF DAILY MINAZUKI! | Shinkansen 0",
-    "channelId": "@minazukimana",
-    "channelName": "MinazukiMana - VOLs",
-    "channelThumb": "https://yt3.ggpht.com/O64mRHiN_f8Xzpwucwlf_pegYaW8OWoHcNhfVAwXcSvy3NNUbDoTjQGq0cdyrR0EdGXV4gv6XA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Mana",
-    "scheduledStartTime": "2024-04-06T14:00:00Z",
-    "actualStartTime": "2024-04-06T14:07:43Z",
-    "premiere": false
-  },
-  {
     "id": "6rvGIc9FWNc",
     "vidUrl": "https://youtu.be/6rvGIc9FWNc",
     "vidTitle": "\u2600\ufe0f\u3010GOLDEN SUN\u3011#5 MASTER OF ALL 4 PSYNERGIES\u3010Yume+ | Raein Clowd\u3011",
@@ -960,18 +948,6 @@
     "premiere": false
   },
   {
-    "id": "LUNhaBTMuyk",
-    "vidUrl": "https://youtu.be/LUNhaBTMuyk",
-    "vidTitle": "My name is Lethe! I am a chef and you are an egg.",
-    "channelId": "@lethebonapuchi",
-    "channelName": "Lethe Bonapuchi Ch. \u30ec\u30c3\u30c6\u30dc\u30ca\u30d7\u30c1 \u3010kawaii\u3011",
-    "channelThumb": "https://yt3.ggpht.com/Zzn-lffpprmp6_2y3sOeCN1yw-ARyXBh7a992WGez2D2Mo9RixB5PiBBndwuZA1NpUjjcDnb=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Lethe",
-    "scheduledStartTime": "2024-04-07T06:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "YZ4kclBadBk",
     "vidUrl": "https://youtu.be/YZ4kclBadBk",
     "vidTitle": "Frieren Watchalong \ud83d\udcfa #shorts",
@@ -980,6 +956,18 @@
     "channelThumb": "https://yt3.ggpht.com/pa-ydC8sTdCOp5QdufDcysaOEqZMj09zQsvKoNcJ6RcHlo3Ijaczoor3PNAOrLGN0S5ugEe7=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Liola",
     "scheduledStartTime": "2024-04-07T06:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "LUNhaBTMuyk",
+    "vidUrl": "https://youtu.be/LUNhaBTMuyk",
+    "vidTitle": "My name is Lethe! I am a chef and you are an egg.",
+    "channelId": "@lethebonapuchi",
+    "channelName": "Lethe Bonapuchi Ch. \u30ec\u30c3\u30c6\u30dc\u30ca\u30d7\u30c1 \u3010kawaii\u3011",
+    "channelThumb": "https://yt3.ggpht.com/Zzn-lffpprmp6_2y3sOeCN1yw-ARyXBh7a992WGez2D2Mo9RixB5PiBBndwuZA1NpUjjcDnb=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Lethe",
+    "scheduledStartTime": "2024-04-07T08:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -1944,16 +1932,16 @@
     "premiere": false
   },
   {
-    "id": "dJELwme1-nA",
-    "vidUrl": "https://youtu.be/dJELwme1-nA",
-    "vidTitle": "[Gaming] Let's Chat with Yagami Noah\uff5cVTuber /GTA5 in Street Junkies\u3010GTA5\u3011\u65e5\u672c\u8a9e/PC",
-    "channelId": "@yagaminoah",
-    "channelName": "Yagami Noah / \u516b\u795e\u30ce\u30a2\u3010bondlive EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/zv3gY8PI3ZXN4KgiMrdVaBT-8XTB09763VvuJFtZ7yx0nLVUiMbUoa5RlyU_BEUmvaztteqGD5A=s88-c-k-c0x00ffffff-no-rj",
+    "id": "ajEEOCmaTvM",
+    "vidUrl": "https://youtu.be/ajEEOCmaTvM",
+    "vidTitle": "DAY 6 OF DAILY MINAZUKI! | Shinkansen 0",
+    "channelId": "@minazukimana",
+    "channelName": "MinazukiMana - VOLs",
+    "channelThumb": "https://yt3.ggpht.com/O64mRHiN_f8Xzpwucwlf_pegYaW8OWoHcNhfVAwXcSvy3NNUbDoTjQGq0cdyrR0EdGXV4gv6XA=s88-c-k-c0x00ffffff-no-rj",
     "graveyard": true,
-    "shortName": "Noah",
-    "scheduledStartTime": "2024-04-06T12:30:00Z",
-    "actualStartTime": "2024-04-06T12:34:23Z",
+    "shortName": "Mana",
+    "scheduledStartTime": "2024-04-06T14:00:00Z",
+    "actualStartTime": "2024-04-06T14:07:43Z",
     "premiere": false
   }
 ]
