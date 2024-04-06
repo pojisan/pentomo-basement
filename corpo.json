@@ -48,18 +48,6 @@
     "premiere": false
   },
   {
-    "id": "0akTvRQArmA",
-    "vidUrl": "https://youtu.be/0akTvRQArmA",
-    "vidTitle": "[MUKBANG!] Eating an ENTIRE SUSHI PLATTER!!!",
-    "channelId": "@reinasunch",
-    "channelName": "Reina Sun Ch. \u30ec\u30a4\u30ca\u30fb\u30b5\u30f3\u300eproduction kawaii\u300f",
-    "channelThumb": "https://yt3.ggpht.com/4RX4F31z_vt136oTmk9X1aHxUrOt7TCeeUggiNx8avUBu1j5B8Blo1lktZplgYt8yVhjxKXgUi0=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Reina",
-    "scheduledStartTime": "2024-04-06T21:30:00Z",
-    "actualStartTime": "2024-04-06T21:32:35Z",
-    "premiere": false
-  },
-  {
     "id": "iJAkAjOKSzQ",
     "vidUrl": "https://youtu.be/iJAkAjOKSzQ",
     "vidTitle": "i got invited to a BIG TOURNAMENT (+300 players) \ud83c\udfc6 \u2502 SUPER STREAMER LOBBY",
@@ -1947,32 +1935,6 @@
     "premiere": false
   },
   {
-    "id": "5zjzgLyEAoQ",
-    "vidUrl": "https://youtu.be/5zjzgLyEAoQ",
-    "vidTitle": "BECOME SEXY          \u3010FFXIV FFXVI collab: The Path Infernal\u3011",
-    "channelId": "@obakepam",
-    "channelName": "Obake PAM Ch.",
-    "channelThumb": "https://yt3.ggpht.com/FlbqAWrn9OdE4QcjGweQkH_2WUf2kCAQPbiC4dVvt6ItUWE4pLnUrs9MJ3-KtyeULY0hGe-VPio=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Obake PAM",
-    "scheduledStartTime": "2024-04-06T18:45:00Z",
-    "actualStartTime": "2024-04-06T18:48:21Z",
-    "premiere": false
-  },
-  {
-    "id": "c02AmkTckjc",
-    "vidUrl": "https://youtu.be/c02AmkTckjc",
-    "vidTitle": "\u3010Loopy Chronicles\u3011I'm Covered in Stickers!",
-    "channelId": "@amiyaaranha",
-    "channelName": "Amiya Ch. \u30a2\u30df\u30e4\u30fb\u30a2\u30e9\u30cb\u30e3",
-    "channelThumb": "https://yt3.ggpht.com/91Fqx3Xut4jaSefCeiDLVGQDSdkWAvt5jA8ejzT18EztYTppy29JNzpa7G-KThC8TzuAmlKBQcs=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Amiya",
-    "scheduledStartTime": "2024-04-06T19:00:00Z",
-    "actualStartTime": "2024-04-06T18:59:55Z",
-    "premiere": false
-  },
-  {
     "id": "svw-Zq2TS4A",
     "vidUrl": "https://youtu.be/svw-Zq2TS4A",
     "vidTitle": "\u3010Drawing Stream\u3011Let's draw REMedy PART 2\u3010Yume+ | Mimosa Shirosaki\u3011",
@@ -1996,6 +1958,19 @@
     "shortName": "Zhuni",
     "scheduledStartTime": "2024-04-06T20:45:00Z",
     "actualStartTime": "2024-04-06T22:04:54Z",
+    "premiere": false
+  },
+  {
+    "id": "0akTvRQArmA",
+    "vidUrl": "https://youtu.be/0akTvRQArmA",
+    "vidTitle": "[MUKBANG!] Eating an ENTIRE SUSHI PLATTER!!!",
+    "channelId": "@reinasunch",
+    "channelName": "Reina Sun Ch. \u30ec\u30a4\u30ca\u30fb\u30b5\u30f3\u300eproduction kawaii\u300f",
+    "channelThumb": "https://yt3.ggpht.com/4RX4F31z_vt136oTmk9X1aHxUrOt7TCeeUggiNx8avUBu1j5B8Blo1lktZplgYt8yVhjxKXgUi0=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Reina",
+    "scheduledStartTime": "2024-04-06T21:30:00Z",
+    "actualStartTime": "2024-04-06T21:32:35Z",
     "premiere": false
   }
 ]
