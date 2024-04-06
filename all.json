@@ -60,18 +60,6 @@
     "premiere": false
   },
   {
-    "id": "lmaAtgYtb0I",
-    "vidUrl": "https://youtu.be/lmaAtgYtb0I",
-    "vidTitle": "\u3010Watchalong\u3011LoTR: The Return of the King",
-    "channelId": "@shiorinovella",
-    "channelName": "Shiori Novella Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/ZlovVsPyh8NgS37S4dfONiCBySiboGPbT9cYuirb8JM3JhSnqlpJk-8SQUEA7jPfqXpMvjaa=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Shiori",
-    "scheduledStartTime": "2024-04-05T23:00:00Z",
-    "actualStartTime": "2024-04-05T22:57:54Z",
-    "premiere": false
-  },
-  {
     "id": "ev-fS2Ddj18",
     "vidUrl": "https://youtu.be/ev-fS2Ddj18",
     "vidTitle": "\u3010Kokone's Boutique ep.7\u3011Fitting @CyonVNU in modern tech thief wear",
@@ -410,7 +398,7 @@
   {
     "id": "te8jfUS7SSw",
     "vidUrl": "https://youtu.be/te8jfUS7SSw",
-    "vidTitle": "LIVE DJ * unarchived grooves and funk\u3010Mono Monet \ud83d\udcad\ud83c\udfa8 V4Mirai\u3011",
+    "vidTitle": "LIVE DJ * unarchived grooves and funk #shorts #shortsfeed #shortslive\u3010Mono Monet \ud83d\udcad\ud83c\udfa8 V4Mirai\u3011",
     "channelId": "@monomonet",
     "channelName": "Mono Monet Ch.\u3010V4Mirai\u3011",
     "channelThumb": "https://yt3.ggpht.com/1AObPqJEofqIz45ovlHX18ux-lyxgla1Dgl9MtIA89AwcQ8C1iqzebATYn4uGsAshj0bQNDp=s88-c-k-c0x00ffffff-no-rj",
@@ -2277,6 +2265,19 @@
     "shortName": "Mikumi",
     "scheduledStartTime": "2024-04-05T22:45:00Z",
     "actualStartTime": "2024-04-05T22:42:49Z",
+    "premiere": false
+  },
+  {
+    "id": "lmaAtgYtb0I",
+    "vidUrl": "https://youtu.be/lmaAtgYtb0I",
+    "vidTitle": "\u3010Watchalong\u3011LoTR: The Return of the King",
+    "channelId": "@shiorinovella",
+    "channelName": "Shiori Novella Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/ZlovVsPyh8NgS37S4dfONiCBySiboGPbT9cYuirb8JM3JhSnqlpJk-8SQUEA7jPfqXpMvjaa=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Shiori",
+    "scheduledStartTime": "2024-04-05T23:00:00Z",
+    "actualStartTime": "2024-04-05T22:57:54Z",
     "premiere": false
   },
   {
