@@ -36,18 +36,6 @@
     "premiere": false
   },
   {
-    "id": "hB4mASQZZG8",
-    "vidUrl": "https://youtu.be/hB4mASQZZG8",
-    "vidTitle": "We're not THAT similar, right...?\u3010Huniepop\u3011",
-    "channelId": "@amayawhisperch",
-    "channelName": "Amaya Whisper CH.",
-    "channelThumb": "https://yt3.ggpht.com/iFJsuBeka3rm3zWT09RkNEiijQj3YcRFDWIiwS27VOlR8how5j4-GU1bWF1bKrfV4fvhk8uxSA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Amaya",
-    "scheduledStartTime": "2024-04-06T00:30:00Z",
-    "actualStartTime": "2024-04-06T00:34:54Z",
-    "premiere": false
-  },
-  {
     "id": "ccSZGge5u1I",
     "vidUrl": "https://youtu.be/ccSZGge5u1I",
     "vidTitle": "\u3010Shinkansen 0 / \u65b0\u5e79\u7dda 0\u53f7 + Jisatsu\u3011here comes the choo choo train!?!?!? #calliolive",
@@ -153,18 +141,6 @@
     "shortName": "Piapi",
     "scheduledStartTime": "2024-04-06T02:05:00Z",
     "actualStartTime": "2024-04-06T02:10:05Z",
-    "premiere": false
-  },
-  {
-    "id": "SkAuUPwEyN0",
-    "vidUrl": "https://youtu.be/SkAuUPwEyN0",
-    "vidTitle": "Valorant? :3",
-    "channelId": "@akanejun",
-    "channelName": "Jun Akane / \u8d64\u91d1\u30b8\u30e5\u30f3",
-    "channelThumb": "https://yt3.ggpht.com/Xav9rWL58VySYhTAZnC5aKZQ_WRRKSJhGW6SMN_u-O26vHkSl0OMnwiVJGUt7aPujvAqSbKMH3c=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Jun",
-    "scheduledStartTime": "2024-04-06T02:30:00Z",
-    "actualStartTime": "2024-04-06T02:27:15Z",
     "premiere": false
   },
   {
@@ -1015,6 +991,18 @@
     "channelName": "Cerenity Cosmica Ch. V&U",
     "channelThumb": "https://yt3.ggpht.com/dnyzDEaJzR5qZiWFp73wK_f91hlDHxiORtJ6jwu9nzWcLr_vvkHf9IQc2PGhpiBwKWMF5ns2xg=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Cerenity",
+    "scheduledStartTime": "2024-04-07T01:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "nmP3OsH4-AA",
+    "vidUrl": "https://youtu.be/nmP3OsH4-AA",
+    "vidTitle": "this is my vlogger arc \ud83e\udd33 \u3010Content Warning\u3011",
+    "channelId": "@rowavnu",
+    "channelName": "Rowa Arctos Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/Y3fKMGNnV6tQDQFjhGpH8Xdat8S1z76xZHdCg08gb5SUN_reNurU1yATDviGnoxKwgmfoBf5ZA=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Rowa",
     "scheduledStartTime": "2024-04-07T01:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2076,7 +2064,7 @@
   {
     "id": "ev-fS2Ddj18",
     "vidUrl": "https://youtu.be/ev-fS2Ddj18",
-    "vidTitle": "\u3010Kokone's Boutique ep.7\u3011Fitting @CyonVNU in modern tech thief wear",
+    "vidTitle": "\u3010Kokone's Boutique ep.8\u3011Fitting @CyonVNU in modern tech thief wear",
     "channelId": "@yurikagokokone",
     "channelName": "Yurikago Kokone Ch. V&U",
     "channelThumb": "https://yt3.ggpht.com/xwSS6tbTBzvBuI0LLjA-0MQ77ZacslZB2TKN7lXcknwNBswpyMTjp9K4vLTR5B2jH4upTIAT5MI=s88-c-k-c0x00ffffff-no-rj",
@@ -2110,6 +2098,19 @@
     "shortName": "Lottie",
     "scheduledStartTime": "2024-04-06T00:10:00Z",
     "actualStartTime": "2024-04-06T00:09:59Z",
+    "premiere": false
+  },
+  {
+    "id": "hB4mASQZZG8",
+    "vidUrl": "https://youtu.be/hB4mASQZZG8",
+    "vidTitle": "We're not THAT similar, right...?\u3010Huniepop\u3011",
+    "channelId": "@amayawhisperch",
+    "channelName": "Amaya Whisper CH.",
+    "channelThumb": "https://yt3.ggpht.com/iFJsuBeka3rm3zWT09RkNEiijQj3YcRFDWIiwS27VOlR8how5j4-GU1bWF1bKrfV4fvhk8uxSA=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Amaya",
+    "scheduledStartTime": "2024-04-06T00:30:00Z",
+    "actualStartTime": "2024-04-06T00:34:54Z",
     "premiere": false
   },
   {
