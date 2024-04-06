@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "Hz4ZqzyVmGc",
-    "vidUrl": "https://youtu.be/Hz4ZqzyVmGc",
-    "vidTitle": "\u3010SUPERMARKET SIMULATOR\u3011MIKUMI MART\u3010VOLs\u3011",
-    "channelId": "@shirousamikumi",
-    "channelName": "ShirousaMikumi - VOLs",
-    "channelThumb": "https://yt3.ggpht.com/6Jy6Uud2Vx08hfesvUg3vb2cSd0tj_30_Eeq-Ypg3jK7srTbiGUJKE94YJhedV96ExRC6-KGDA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Mikumi",
-    "scheduledStartTime": "2024-04-06T11:30:00Z",
-    "actualStartTime": "2024-04-06T11:51:38Z",
-    "premiere": false
-  },
-  {
     "id": "dJELwme1-nA",
     "vidUrl": "https://youtu.be/dJELwme1-nA",
     "vidTitle": "[Gaming] Let's Chat with Yagami Noah\uff5cVTuber /GTA5 in Street Junkies\u3010GTA5\u3011\u65e5\u672c\u8a9e/PC",
@@ -115,7 +103,7 @@
     "channelName": "Raein Clowd \u3010Yume+\u3011",
     "channelThumb": "https://yt3.ggpht.com/sA-eGMxU97-A3x-xDBVsFZG0ZQ48KwV_K5tzv-WP3R6toHCBZp8JyTmUJMqotUeFK43zY5XHAvY=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Raein",
-    "scheduledStartTime": "2024-04-06T14:00:00Z",
+    "scheduledStartTime": "2024-04-06T14:40:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -134,7 +122,7 @@
   {
     "id": "J2Jt3mfKYfc",
     "vidUrl": "https://youtu.be/J2Jt3mfKYfc",
-    "vidTitle": "This vtuber just released a dojin",
+    "vidTitle": "This vtuber just released a dojin?!",
     "channelId": "@oumiyaemma",
     "channelName": "Oumiya Emma / \u5927\u5bae\u30a8\u30de",
     "channelThumb": "https://yt3.ggpht.com/UZ38UIPBURy_Tp5sVb5MmZo2zqO_1ZVtG-i2pIC94AZxqzIvcOYQMOEnU46DHMTLzHKqsL6x3A=s88-c-k-c0x00ffffff-no-rj",
@@ -1044,6 +1032,18 @@
     "premiere": false
   },
   {
+    "id": "3kMsawAqHUQ",
+    "vidUrl": "https://youtu.be/3kMsawAqHUQ",
+    "vidTitle": "2012 DEEP DIVE WITH ISLA-SAMA",
+    "channelId": "@isla_kawaii",
+    "channelName": "Isla Coleman Ch. \u30a2\u30a4\u30e9\u30fb\u30b3\u30fc\u30eb\u30de\u30f3\u3010kawaii\u3011",
+    "channelThumb": "https://yt3.ggpht.com/KsvJ_nvtsnENS74uknH4gxrD8fVCA2DJjiSiyrVIl2JKyVW28zny7nclNnl2j9VhZ3CDIE4pTg=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Isla",
+    "scheduledStartTime": "2024-04-07T04:15:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "KLmbaNXomts",
     "vidUrl": "https://youtu.be/KLmbaNXomts",
     "vidTitle": "Frieren Watchalong PART 2 (EP 15~28) \ud83d\udcfa",
@@ -1874,6 +1874,19 @@
     "shortName": "Noah",
     "scheduledStartTime": "2024-04-06T11:00:00Z",
     "actualStartTime": "2024-04-06T11:04:30Z",
+    "premiere": false
+  },
+  {
+    "id": "Hz4ZqzyVmGc",
+    "vidUrl": "https://youtu.be/Hz4ZqzyVmGc",
+    "vidTitle": "\u3010SUPERMARKET SIMULATOR\u3011MIKUMI MART\u3010VOLs\u3011",
+    "channelId": "@shirousamikumi",
+    "channelName": "ShirousaMikumi - VOLs",
+    "channelThumb": "https://yt3.ggpht.com/6Jy6Uud2Vx08hfesvUg3vb2cSd0tj_30_Eeq-Ypg3jK7srTbiGUJKE94YJhedV96ExRC6-KGDA=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Mikumi",
+    "scheduledStartTime": "2024-04-06T11:30:00Z",
+    "actualStartTime": "2024-04-06T11:51:38Z",
     "premiere": false
   },
   {
