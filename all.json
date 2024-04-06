@@ -12,30 +12,6 @@
     "premiere": false
   },
   {
-    "id": "XJIe6-u2OtY",
-    "vidUrl": "https://youtu.be/XJIe6-u2OtY",
-    "vidTitle": "\u3010Like a Dragon: Infinite Wealth\u3011what are we doing #kfp #\u30ad\u30a2\u30e9\u30a4\u30d6 (spoiler warning)",
-    "channelId": "@takanashikiara",
-    "channelName": "Takanashi Kiara Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/w7TKJYU7zmamFmf-WxfahCo_K7Bg2__Pk-CCBNnbewMG-77OZLqJO9MLvDAmH9nEkZH8OkWgSQ=s88-c-k-c0x00ffffff-no-nd-rj",
-    "shortName": "Kiara",
-    "scheduledStartTime": "2024-04-06T14:15:00Z",
-    "actualStartTime": "2024-04-06T14:15:45Z",
-    "premiere": false
-  },
-  {
-    "id": "f5jF36pxQZE",
-    "vidUrl": "https://youtu.be/f5jF36pxQZE",
-    "vidTitle": "\u3010SUPER MARKET SIMULATOR\u3011laaaa LICUADORA LA LICUADORAAA\u3010NIJISANJI EN | Reimu Endou\u3011",
-    "channelId": "@reimuendou",
-    "channelName": "Reimu Endou\u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/jwZT783V-LU58DMyjShj-CWJ3GGsM5DaHX20vtIExe7LNGpaS0P5pZJV_EH11AprgaHocu6CKA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Reimu",
-    "scheduledStartTime": "2024-04-06T15:00:00Z",
-    "actualStartTime": "2024-04-06T15:01:15Z",
-    "premiere": false
-  },
-  {
     "id": "OgXLcW8XXMk",
     "vidUrl": "https://youtu.be/OgXLcW8XXMk",
     "vidTitle": "3D Printing Chibi Figurines: It's Dremel Time!",
@@ -204,18 +180,6 @@
     "premiere": false
   },
   {
-    "id": "G-x_-I0CKHk",
-    "vidUrl": "https://youtu.be/G-x_-I0CKHk",
-    "vidTitle": "\u3010The Convenience Store\u3011...yabe\u3010bondliveEN | Ivaela Daemoni\u3011",
-    "channelId": "@ivaelad",
-    "channelName": "Ivaela Daemoni || \u30a4\u30f4\u30a7\u30e9\u30fb\u30c7\u30e2\u30cb \u3016bondliveEN\u3017",
-    "channelThumb": "https://yt3.ggpht.com/jrJJ8oX8ZP5WElJi21bGfW0jZYnQ3FSAQtsnHMZXQ8_OZ1MnSOFCdTeAVpJVXf7Dul4Ed49h-Q=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Ivaela",
-    "scheduledStartTime": "2024-04-06T20:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "izkAFJ8tUJc",
     "vidUrl": "https://youtu.be/izkAFJ8tUJc",
     "vidTitle": "\u3010UNARCHIVED KARAOKE/ \u6b4c\u67a0\u3011Chillin' and singin' \ud83c\udfb6",
@@ -223,6 +187,18 @@
     "channelName": "Roca Rourin Ch. idol-EN",
     "channelThumb": "https://yt3.ggpht.com/eBm5-Is9XQiT7Ct2XPL-eAPzgNXgHqbHjgIb_z76sHswS5dVISwa8Ty-R9zVkHeBCxiVnL7-UQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Roca",
+    "scheduledStartTime": "2024-04-06T20:00:00Z",
+    "actualStartTime": "2024-04-06T19:55:40Z",
+    "premiere": false
+  },
+  {
+    "id": "G-x_-I0CKHk",
+    "vidUrl": "https://youtu.be/G-x_-I0CKHk",
+    "vidTitle": "\u3010The Convenience Store\u3011...yabe\u3010bondliveEN | Ivaela Daemoni\u3011",
+    "channelId": "@ivaelad",
+    "channelName": "Ivaela Daemoni || \u30a4\u30f4\u30a7\u30e9\u30fb\u30c7\u30e2\u30cb \u3016bondliveEN\u3017",
+    "channelThumb": "https://yt3.ggpht.com/jrJJ8oX8ZP5WElJi21bGfW0jZYnQ3FSAQtsnHMZXQ8_OZ1MnSOFCdTeAVpJVXf7Dul4Ed49h-Q=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Ivaela",
     "scheduledStartTime": "2024-04-06T20:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -1935,6 +1911,32 @@
     "premiere": false
   },
   {
+    "id": "XJIe6-u2OtY",
+    "vidUrl": "https://youtu.be/XJIe6-u2OtY",
+    "vidTitle": "\u3010Like a Dragon: Infinite Wealth\u3011what are we doing #kfp #\u30ad\u30a2\u30e9\u30a4\u30d6 (spoiler warning)",
+    "channelId": "@takanashikiara",
+    "channelName": "Takanashi Kiara Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/w7TKJYU7zmamFmf-WxfahCo_K7Bg2__Pk-CCBNnbewMG-77OZLqJO9MLvDAmH9nEkZH8OkWgSQ=s88-c-k-c0x00ffffff-no-nd-rj",
+    "graveyard": true,
+    "shortName": "Kiara",
+    "scheduledStartTime": "2024-04-06T14:15:00Z",
+    "actualStartTime": "2024-04-06T14:15:45Z",
+    "premiere": false
+  },
+  {
+    "id": "f5jF36pxQZE",
+    "vidUrl": "https://youtu.be/f5jF36pxQZE",
+    "vidTitle": "\u3010SUPER MARKET SIMULATOR\u3011laaaa LICUADORA LA LICUADORAAA\u3010NIJISANJI EN | Reimu Endou\u3011",
+    "channelId": "@reimuendou",
+    "channelName": "Reimu Endou\u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/jwZT783V-LU58DMyjShj-CWJ3GGsM5DaHX20vtIExe7LNGpaS0P5pZJV_EH11AprgaHocu6CKA=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Reimu",
+    "scheduledStartTime": "2024-04-06T15:00:00Z",
+    "actualStartTime": "2024-04-06T15:01:15Z",
+    "premiere": false
+  },
+  {
     "id": "Orf-86sf7ck",
     "vidUrl": "https://youtu.be/Orf-86sf7ck",
     "vidTitle": "\u3010#NIJIEN_MKBattle\u3011 Last minute training arc~\u3010NIJISANJI EN | Kunai Nakasato\u3011",
@@ -1945,19 +1947,6 @@
     "shortName": "Kunai",
     "scheduledStartTime": "2024-04-06T16:00:00Z",
     "actualStartTime": "2024-04-06T15:59:50Z",
-    "premiere": false
-  },
-  {
-    "id": "po66q0nc52s",
-    "vidUrl": "https://youtu.be/po66q0nc52s",
-    "vidTitle": "RURU'S TURNING 3 YEARS OLD!! \ud83c\udf89",
-    "channelId": "@nyanheras",
-    "channelName": "Nyanami Ruru & Rumi Ch.",
-    "channelThumb": "https://yt3.ggpht.com/e-csUdgwEj5h-rQ2vwXX-EVOeXk3BZRlaqnHS7-Mnd1ZC9icqo02aHhGvl_f50l_UX1bPsJgwFs=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Nyanheras",
-    "scheduledStartTime": "2024-04-06T16:00:00Z",
-    "actualStartTime": "2024-04-06T16:01:12Z",
     "premiere": false
   },
   {

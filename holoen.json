@@ -1,17 +1,5 @@
 [
   {
-    "id": "XJIe6-u2OtY",
-    "vidUrl": "https://youtu.be/XJIe6-u2OtY",
-    "vidTitle": "\u3010Like a Dragon: Infinite Wealth\u3011what are we doing #kfp #\u30ad\u30a2\u30e9\u30a4\u30d6 (spoiler warning)",
-    "channelId": "@takanashikiara",
-    "channelName": "Takanashi Kiara Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/w7TKJYU7zmamFmf-WxfahCo_K7Bg2__Pk-CCBNnbewMG-77OZLqJO9MLvDAmH9nEkZH8OkWgSQ=s88-c-k-c0x00ffffff-no-nd-rj",
-    "shortName": "Kiara",
-    "scheduledStartTime": "2024-04-06T14:15:00Z",
-    "actualStartTime": "2024-04-06T14:15:45Z",
-    "premiere": false
-  },
-  {
     "id": "lhUrxaMSXHE",
     "vidUrl": "https://youtu.be/lhUrxaMSXHE",
     "vidTitle": "\u3010DRAGON'S DOGMA 2\u3011Journey of the ARIZZLER",
@@ -117,6 +105,19 @@
     "shortName": "Mori",
     "scheduledStartTime": "2025-04-04T10:30:00Z",
     "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "XJIe6-u2OtY",
+    "vidUrl": "https://youtu.be/XJIe6-u2OtY",
+    "vidTitle": "\u3010Like a Dragon: Infinite Wealth\u3011what are we doing #kfp #\u30ad\u30a2\u30e9\u30a4\u30d6 (spoiler warning)",
+    "channelId": "@takanashikiara",
+    "channelName": "Takanashi Kiara Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/w7TKJYU7zmamFmf-WxfahCo_K7Bg2__Pk-CCBNnbewMG-77OZLqJO9MLvDAmH9nEkZH8OkWgSQ=s88-c-k-c0x00ffffff-no-nd-rj",
+    "graveyard": true,
+    "shortName": "Kiara",
+    "scheduledStartTime": "2024-04-06T14:15:00Z",
+    "actualStartTime": "2024-04-06T14:15:45Z",
     "premiere": false
   }
 ]
