@@ -48,18 +48,6 @@
     "premiere": false
   },
   {
-    "id": "gagn8fHzxDs",
-    "vidUrl": "https://youtu.be/gagn8fHzxDs",
-    "vidTitle": "\ud83c\udf19 Working Stream | \u0e2b\u0e32\u0e01\u0e22\u0e31\u0e07\u0e44\u0e21\u0e48\u0e2b\u0e25\u0e31\u0e1a \u0e21\u0e32\u0e43\u0e2b\u0e49\u0e25\u0e35\u0e48\u0e01\u0e2d\u0e14\u0e04\u0e38\u0e13\u0e19\u0e2d\u0e19\u0e2a\u0e34",
-    "channelId": "@goozillaily",
-    "channelName": "Goozilla Ily Ch. [Autumnia]",
-    "channelThumb": "https://yt3.ggpht.com/jds_vfaqo4fnyTfPohyRPUqgIR6zUfltLSkUvuL26fVY2ZVqfPBjUdIWcux0qe8hgt68pWen=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Goozilla",
-    "scheduledStartTime": "2024-04-06T16:52:42Z",
-    "actualStartTime": "2024-04-06T16:52:57Z",
-    "premiere": false
-  },
-  {
     "id": "SlTefsiaklk",
     "vidUrl": "https://youtu.be/SlTefsiaklk",
     "vidTitle": "Saturday? Sunday? It's Sekiday [Sekiro: Shadows Die Twice]",
@@ -319,6 +307,18 @@
     "channelName": "Echo Lyne Ch. V&U",
     "channelThumb": "https://yt3.ggpht.com/GXeZ1UMgOyI-peaWarT6IrEjhqilp90c7VnxBbAvFx2oy-wKlJMJnBR1m3oi2pwqryx8OwSk5A=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Echo Lyne",
+    "scheduledStartTime": "2024-04-06T22:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "yYjdQjP7I2g",
+    "vidUrl": "https://youtu.be/yYjdQjP7I2g",
+    "vidTitle": "TETRIO SUPER STREAMER LOBBY! Chat can play too!! #streamerlobby \u3010KoziiChu\u3011",
+    "channelId": "@koziichu",
+    "channelName": "KoziiChu",
+    "channelThumb": "https://yt3.ggpht.com/pt7bh9RYZ3pOOWcrG50EYG7lzCsC8s8hq67f0mX9l5F9P9Igly4mbCxB4RW4h4Mp2xcfMOaA=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Koziichu",
     "scheduledStartTime": "2024-04-06T22:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -1015,7 +1015,7 @@
     "channelName": "Miya Mareena Ch.",
     "channelThumb": "https://yt3.ggpht.com/_gEDbY7u2OIZKKyvRYtvd4BsEWGEgvJTnQT25v8O5LbN-3XROnJgY7Ku5NNOnnDZpWJiG0cLoA=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Miya",
-    "scheduledStartTime": "2024-04-07T15:00:00Z",
+    "scheduledStartTime": "2024-04-07T14:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -1930,6 +1930,19 @@
     "shortName": "Blaise",
     "scheduledStartTime": "2024-04-06T16:00:00Z",
     "actualStartTime": "2024-04-06T16:01:54Z",
+    "premiere": false
+  },
+  {
+    "id": "gagn8fHzxDs",
+    "vidUrl": "https://youtu.be/gagn8fHzxDs",
+    "vidTitle": "\ud83c\udf19 Working Stream | \u0e2b\u0e32\u0e01\u0e22\u0e31\u0e07\u0e44\u0e21\u0e48\u0e2b\u0e25\u0e31\u0e1a \u0e21\u0e32\u0e43\u0e2b\u0e49\u0e25\u0e35\u0e48\u0e01\u0e2d\u0e14\u0e04\u0e38\u0e13\u0e19\u0e2d\u0e19\u0e2a\u0e34",
+    "channelId": "@goozillaily",
+    "channelName": "Goozilla Ily Ch. [Autumnia]",
+    "channelThumb": "https://yt3.ggpht.com/jds_vfaqo4fnyTfPohyRPUqgIR6zUfltLSkUvuL26fVY2ZVqfPBjUdIWcux0qe8hgt68pWen=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Goozilla",
+    "scheduledStartTime": "2024-04-06T16:52:42Z",
+    "actualStartTime": "2024-04-06T16:52:57Z",
     "premiere": false
   }
 ]
