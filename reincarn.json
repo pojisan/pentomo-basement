@@ -1,17 +1,5 @@
 [
   {
-    "id": "epMct_3BXXM",
-    "vidUrl": "https://youtu.be/epMct_3BXXM",
-    "vidTitle": "\u3010KARAOKE AFTER PARTY\u3011it's over ahhhhhhh\u3010Dokibird\u3011",
-    "channelId": "@dokibird",
-    "channelName": "Dokibird",
-    "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_mf5svGdYXrmhbf9rUUO08gWVso8TBzUt8kmmIF9nySfKk=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Doki",
-    "scheduledStartTime": "2024-04-06T03:00:00Z",
-    "actualStartTime": "2024-04-06T03:01:00Z",
-    "premiere": false
-  },
-  {
     "id": "TMmdSmxkb-A",
     "vidUrl": "https://youtu.be/TMmdSmxkb-A",
     "vidTitle": "\u3010FE8 RANDOMIZER\u3011HAG EMBLEM DAY 3 w/ClioAite, @ChisakaAiri @renniesaurus",
@@ -21,6 +9,31 @@
     "shortName": "Sayu",
     "scheduledStartTime": "2024-04-06T04:00:00Z",
     "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "hfTgzbCblOU",
+    "vidUrl": "https://youtu.be/hfTgzbCblOU",
+    "vidTitle": "\u3010METAL GEAR SOLID PACHISLOT MACHINE\u3011don't let this stream make you forget that m-\u3010Maid Mint Fantome\u3011",
+    "channelId": "@mintfantome",
+    "channelName": "Maid Mint Ch. \u30df\u30f3\u30c8\u30fb\u30d5\u30a1\u30f3\u30c8\u30fc\u30e0",
+    "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_mxbJ__S3iWA9yHCK-ABLglmhGfKYmpCZWxxP4D-w4ymQ=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Mint",
+    "scheduledStartTime": "2024-04-06T22:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "epMct_3BXXM",
+    "vidUrl": "https://youtu.be/epMct_3BXXM",
+    "vidTitle": "\u3010KARAOKE AFTER PARTY\u3011it's over ahhhhhhh\u3010Dokibird\u3011",
+    "channelId": "@dokibird",
+    "channelName": "Dokibird",
+    "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_mf5svGdYXrmhbf9rUUO08gWVso8TBzUt8kmmIF9nySfKk=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Doki",
+    "scheduledStartTime": "2024-04-06T03:00:00Z",
+    "actualStartTime": "2024-04-06T03:01:00Z",
     "premiere": false
   }
 ]
