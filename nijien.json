@@ -24,18 +24,6 @@
     "premiere": false
   },
   {
-    "id": "MOV6WMH-CiU",
-    "vidUrl": "https://youtu.be/MOV6WMH-CiU",
-    "vidTitle": "\u3010#NIJIEN_MKBattle\u3011IT'S TIME TO PRACTICE \u3010NIJISANJI EN | Shu Yamino\u3011",
-    "channelId": "@shuyamino",
-    "channelName": "Shu Yamino\u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/SGnMAuOdDcpIQ_ZU6UmfEB6Qi-FYoDc5yxRYJefVx6tIuCX65SH1TAWxKtKOcitXvwD5BLNztbA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Shu",
-    "scheduledStartTime": "2024-04-06T01:05:00Z",
-    "actualStartTime": "2024-04-06T01:07:56Z",
-    "premiere": false
-  },
-  {
     "id": "clOGSeBwgQc",
     "vidUrl": "https://youtu.be/clOGSeBwgQc",
     "vidTitle": "\u3010NEW OUTFIT\u3011COME BUY ROBE!  \u2606\u2b52NIJISANJI EN \u2727 Millie Parfait \u2606\u2b52",
@@ -142,6 +130,19 @@
     "shortName": "Wosemi",
     "scheduledStartTime": "2024-04-06T00:00:00Z",
     "actualStartTime": "2024-04-06T00:05:23Z",
+    "premiere": false
+  },
+  {
+    "id": "MOV6WMH-CiU",
+    "vidUrl": "https://youtu.be/MOV6WMH-CiU",
+    "vidTitle": "\u3010#NIJIEN_MKBattle\u3011IT'S TIME TO PRACTICE \u3010NIJISANJI EN | Shu Yamino\u3011",
+    "channelId": "@shuyamino",
+    "channelName": "Shu Yamino\u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/SGnMAuOdDcpIQ_ZU6UmfEB6Qi-FYoDc5yxRYJefVx6tIuCX65SH1TAWxKtKOcitXvwD5BLNztbA=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Shu",
+    "scheduledStartTime": "2024-04-06T01:05:00Z",
+    "actualStartTime": "2024-04-06T01:07:56Z",
     "premiere": false
   }
 ]
