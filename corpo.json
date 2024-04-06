@@ -36,18 +36,6 @@
     "premiere": false
   },
   {
-    "id": "qFZJCy3Kqko",
-    "vidUrl": "https://youtu.be/qFZJCy3Kqko",
-    "vidTitle": "sorry sakana /w @KanekoLumi \u3010\u6b4c\u7f8e\u9cf4\u30af\u30e9\u30e9 / Phase Connect\u3011",
-    "channelId": "@kaminariclara",
-    "channelName": "Clara Ch. \u6b4c\u7f8e\u9cf4\u30af\u30e9\u30e9 \u3010Phase Connect\u3011",
-    "channelThumb": "https://yt3.ggpht.com/Ds02-91FQsIFHxhISPbW0dvCSyrXDEmKyRHIn04c1vRKMXMNobf9Ny4UszPfbWXyNPze7gVqTQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Clara",
-    "scheduledStartTime": "2024-04-06T04:00:00Z",
-    "actualStartTime": "2024-04-06T04:00:57Z",
-    "premiere": false
-  },
-  {
     "id": "xn4_jcJRLHQ",
     "vidUrl": "https://youtu.be/xn4_jcJRLHQ",
     "vidTitle": "HELP ME I'M POOR \ud83d\ude2d\ud83d\udc97\u3010 Animal Crossing New Horizons \u3011",
@@ -57,18 +45,6 @@
     "shortName": "Shee",
     "scheduledStartTime": "2024-04-06T04:00:00Z",
     "actualStartTime": "2024-04-06T04:01:43Z",
-    "premiere": false
-  },
-  {
-    "id": "9XrZI3GBnW0",
-    "vidUrl": "https://youtu.be/9XrZI3GBnW0",
-    "vidTitle": "Dreaming of gorillas? Very late night zatsu...",
-    "channelId": "@echovnu",
-    "channelName": "Echo Lyne Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/GXeZ1UMgOyI-peaWarT6IrEjhqilp90c7VnxBbAvFx2oy-wKlJMJnBR1m3oi2pwqryx8OwSk5A=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Echo Lyne",
-    "scheduledStartTime": "2024-04-06T05:35:00Z",
-    "actualStartTime": "2024-04-06T05:36:15Z",
     "premiere": false
   },
   {
@@ -1955,19 +1931,6 @@
     "premiere": false
   },
   {
-    "id": "s5od8S3iRbI",
-    "vidUrl": "https://youtu.be/s5od8S3iRbI",
-    "vidTitle": "We're Kirby and Waddle Dee!",
-    "channelId": "@nyanheras",
-    "channelName": "Nyanami Ruru & Rumi Ch.",
-    "channelThumb": "https://yt3.ggpht.com/e-csUdgwEj5h-rQ2vwXX-EVOeXk3BZRlaqnHS7-Mnd1ZC9icqo02aHhGvl_f50l_UX1bPsJgwFs=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Nyanheras",
-    "scheduledStartTime": "2024-04-05T16:00:00Z",
-    "actualStartTime": "2024-04-05T16:03:28Z",
-    "premiere": false
-  },
-  {
     "id": "kKXXGC8Jd8Y",
     "vidUrl": "https://youtu.be/kKXXGC8Jd8Y",
     "vidTitle": "\u3010FORTNITE\u3011I swear Im not an ipad kid LEAVE ME ALONE\u3010Yume+ | Rhea Nevermore\u3011",
@@ -2108,6 +2071,19 @@
     "shortName": "Furia",
     "scheduledStartTime": "2024-04-06T02:00:00Z",
     "actualStartTime": "2024-04-06T02:06:58Z",
+    "premiere": false
+  },
+  {
+    "id": "qFZJCy3Kqko",
+    "vidUrl": "https://youtu.be/qFZJCy3Kqko",
+    "vidTitle": "sorry sakana /w @KanekoLumi \u3010\u6b4c\u7f8e\u9cf4\u30af\u30e9\u30e9 / Phase Connect\u3011",
+    "channelId": "@kaminariclara",
+    "channelName": "Clara Ch. \u6b4c\u7f8e\u9cf4\u30af\u30e9\u30e9 \u3010Phase Connect\u3011",
+    "channelThumb": "https://yt3.ggpht.com/Ds02-91FQsIFHxhISPbW0dvCSyrXDEmKyRHIn04c1vRKMXMNobf9Ny4UszPfbWXyNPze7gVqTQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Clara",
+    "scheduledStartTime": "2024-04-06T04:00:00Z",
+    "actualStartTime": "2024-04-06T04:00:57Z",
     "premiere": false
   }
 ]
