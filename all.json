@@ -24,18 +24,6 @@
     "premiere": false
   },
   {
-    "id": "6rvGIc9FWNc",
-    "vidUrl": "https://youtu.be/6rvGIc9FWNc",
-    "vidTitle": "\u2600\ufe0f\u3010GOLDEN SUN\u3011#5 MASTER OF ALL 4 PSYNERGIES\u3010Yume+ | Raein Clowd\u3011",
-    "channelId": "@raeinclowd",
-    "channelName": "Raein Clowd \u3010Yume+\u3011",
-    "channelThumb": "https://yt3.ggpht.com/sA-eGMxU97-A3x-xDBVsFZG0ZQ48KwV_K5tzv-WP3R6toHCBZp8JyTmUJMqotUeFK43zY5XHAvY=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Raein",
-    "scheduledStartTime": "2024-04-06T14:40:00Z",
-    "actualStartTime": "2024-04-06T14:34:03Z",
-    "premiere": false
-  },
-  {
     "id": "f5jF36pxQZE",
     "vidUrl": "https://youtu.be/f5jF36pxQZE",
     "vidTitle": "\u3010SUPER MARKET SIMULATOR\u3011laaaa LICUADORA LA LICUADORAAA\u3010NIJISANJI EN | Reimu Endou\u3011",
@@ -72,30 +60,6 @@
     "premiere": false
   },
   {
-    "id": "JlVDfVYhUgM",
-    "vidUrl": "https://youtu.be/JlVDfVYhUgM",
-    "vidTitle": "i review your puppers",
-    "channelId": "@hexhaywire",
-    "channelName": "Hex Haywire\u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/krG1d8TvRL7GUoOsXXTUpuFQkgpRQkpx8402WzitwxFZOVz8z6UqsPsoUOERJkuJ8FLqQi0Gpg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Hex",
-    "scheduledStartTime": "2024-04-06T15:45:00Z",
-    "actualStartTime": "2024-04-06T16:02:04Z",
-    "premiere": false
-  },
-  {
-    "id": "UihAt7Wji2A",
-    "vidUrl": "https://youtu.be/UihAt7Wji2A",
-    "vidTitle": "\u3010Tales of Arise\u3011 Da- I mean dad- I mean.. Dohalim",
-    "channelId": "@kaylexskullcastor",
-    "channelName": "Kaylex Skullcastor Ch. Legion",
-    "channelThumb": "https://yt3.ggpht.com/yBYtwbzSuAJeF6wFyn8SsRj0SltRG3AwX05tcUO39OrcF4G9Bt5HPbuM5dKW56XfI8OLFWyQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Kaylex",
-    "scheduledStartTime": "2024-04-06T16:00:00Z",
-    "actualStartTime": "2024-04-06T15:50:59Z",
-    "premiere": false
-  },
-  {
     "id": "Orf-86sf7ck",
     "vidUrl": "https://youtu.be/Orf-86sf7ck",
     "vidTitle": "\u3010#NIJIEN_MKBattle\u3011 Last minute training arc~\u3010NIJISANJI EN | Kunai Nakasato\u3011",
@@ -105,18 +69,6 @@
     "shortName": "Kunai",
     "scheduledStartTime": "2024-04-06T16:00:00Z",
     "actualStartTime": "2024-04-06T15:59:50Z",
-    "premiere": false
-  },
-  {
-    "id": "po66q0nc52s",
-    "vidUrl": "https://youtu.be/po66q0nc52s",
-    "vidTitle": "RURU'S TURNING 3 YEARS OLD!! \ud83c\udf89",
-    "channelId": "@nyanheras",
-    "channelName": "Nyanami Ruru & Rumi Ch.",
-    "channelThumb": "https://yt3.ggpht.com/e-csUdgwEj5h-rQ2vwXX-EVOeXk3BZRlaqnHS7-Mnd1ZC9icqo02aHhGvl_f50l_UX1bPsJgwFs=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Nyanheras",
-    "scheduledStartTime": "2024-04-06T16:00:00Z",
-    "actualStartTime": "2024-04-06T16:01:12Z",
     "premiere": false
   },
   {
@@ -1980,6 +1932,58 @@
     "shortName": "Yuno",
     "scheduledStartTime": "2024-04-06T12:00:00Z",
     "actualStartTime": "2024-04-06T12:00:40Z",
+    "premiere": false
+  },
+  {
+    "id": "6rvGIc9FWNc",
+    "vidUrl": "https://youtu.be/6rvGIc9FWNc",
+    "vidTitle": "\u2600\ufe0f\u3010GOLDEN SUN\u3011#5 MASTER OF ALL 4 PSYNERGIES\u3010Yume+ | Raein Clowd\u3011",
+    "channelId": "@raeinclowd",
+    "channelName": "Raein Clowd \u3010Yume+\u3011",
+    "channelThumb": "https://yt3.ggpht.com/sA-eGMxU97-A3x-xDBVsFZG0ZQ48KwV_K5tzv-WP3R6toHCBZp8JyTmUJMqotUeFK43zY5XHAvY=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Raein",
+    "scheduledStartTime": "2024-04-06T14:40:00Z",
+    "actualStartTime": "2024-04-06T14:34:03Z",
+    "premiere": false
+  },
+  {
+    "id": "JlVDfVYhUgM",
+    "vidUrl": "https://youtu.be/JlVDfVYhUgM",
+    "vidTitle": "i review your puppers",
+    "channelId": "@hexhaywire",
+    "channelName": "Hex Haywire\u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/krG1d8TvRL7GUoOsXXTUpuFQkgpRQkpx8402WzitwxFZOVz8z6UqsPsoUOERJkuJ8FLqQi0Gpg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Hex",
+    "scheduledStartTime": "2024-04-06T15:45:00Z",
+    "actualStartTime": "2024-04-06T16:02:04Z",
+    "premiere": false
+  },
+  {
+    "id": "UihAt7Wji2A",
+    "vidUrl": "https://youtu.be/UihAt7Wji2A",
+    "vidTitle": "\u3010Tales of Arise\u3011 Da- I mean dad- I mean.. Dohalim",
+    "channelId": "@kaylexskullcastor",
+    "channelName": "Kaylex Skullcastor Ch. Legion",
+    "channelThumb": "https://yt3.ggpht.com/yBYtwbzSuAJeF6wFyn8SsRj0SltRG3AwX05tcUO39OrcF4G9Bt5HPbuM5dKW56XfI8OLFWyQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Kaylex",
+    "scheduledStartTime": "2024-04-06T16:00:00Z",
+    "actualStartTime": "2024-04-06T15:50:59Z",
+    "premiere": false
+  },
+  {
+    "id": "po66q0nc52s",
+    "vidUrl": "https://youtu.be/po66q0nc52s",
+    "vidTitle": "RURU'S TURNING 3 YEARS OLD!! \ud83c\udf89",
+    "channelId": "@nyanheras",
+    "channelName": "Nyanami Ruru & Rumi Ch.",
+    "channelThumb": "https://yt3.ggpht.com/e-csUdgwEj5h-rQ2vwXX-EVOeXk3BZRlaqnHS7-Mnd1ZC9icqo02aHhGvl_f50l_UX1bPsJgwFs=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Nyanheras",
+    "scheduledStartTime": "2024-04-06T16:00:00Z",
+    "actualStartTime": "2024-04-06T16:01:12Z",
     "premiere": false
   },
   {
