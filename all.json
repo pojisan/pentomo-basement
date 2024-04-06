@@ -120,18 +120,6 @@
     "premiere": false
   },
   {
-    "id": "Tfo_7pXi4tA",
-    "vidUrl": "https://youtu.be/Tfo_7pXi4tA",
-    "vidTitle": "jk not the finale but we're close!!!\u3010GTA IV pt. 18 \u2661\u3011",
-    "channelId": "@stfuboomi_",
-    "channelName": "Boomi Mamana Ch. \u9b54\u611b\u3076\u307f\u3010lucid\u2601\ufe0f\u3011",
-    "channelThumb": "https://yt3.ggpht.com/Ir7xaFhyOLm30TDU6WsFUT24WE8_o7SGK3eUmpbCsOOWFjh22e4XJsPhUYCvUtdgSUM2sUzOtg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Boomi",
-    "scheduledStartTime": "2024-04-06T00:00:00Z",
-    "actualStartTime": "2024-04-06T00:02:56Z",
-    "premiere": false
-  },
-  {
     "id": "4IyqAPSmW0s",
     "vidUrl": "https://youtu.be/4IyqAPSmW0s",
     "vidTitle": "\u3010YU-GI-OH! MASTER DUEL\u3011Trap Card Trickery w/ Nova",
@@ -350,7 +338,7 @@
   {
     "id": "lKVCzRER2BA",
     "vidUrl": "https://youtu.be/lKVCzRER2BA",
-    "vidTitle": "\u3010 ZATSU & COMMUNITY CRAB GAME\u3011It's finally time to bully you in crab game...and REAL PACK APPS! \ud83e\udd80",
+    "vidTitle": "\u3010 ZATSU & COMMUNITY CRAB GAME\u3011It's finally time to bully you in crab game...and YAP REVIEW! \ud83e\udd80",
     "channelId": "@hiyorimokami",
     "channelName": "Hiyori Mokami Ch. \u6843\u795e\u65e5\u548c\u3010kawaii\u3011",
     "channelThumb": "https://yt3.ggpht.com/Vj2QGSwnGea4gY_hmHATQTkM-2noJld4JtpdmiHmXRerJ2umbuiPZwDfLeWVOrXteS4vXqZlCw=s88-c-k-c0x00ffffff-no-rj",
@@ -429,18 +417,6 @@
     "shortName": "Amiya",
     "scheduledStartTime": "2024-04-06T02:30:00Z",
     "actualStartTime": "2024-04-06T02:28:13Z",
-    "premiere": false
-  },
-  {
-    "id": "6XvQDXOGLF4",
-    "vidUrl": "https://youtu.be/6XvQDXOGLF4",
-    "vidTitle": "[\ud83d\udd343YR CELEBRATION DONOTHON] UNDER 45!!!!!!!!!!!!!!!!!!! IM GUNNA WIN!!!",
-    "channelId": "@piapiufo",
-    "channelName": "PiaPiUFO",
-    "channelThumb": "https://yt3.ggpht.com/EQIzNtDXu-Jwzu3j-_g1j_x4IGzwHcD7crPFenEgKwR4WFWurW6CzbKVkyGiaEcwKG3Aorfmjw=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Piapi",
-    "scheduledStartTime": "2024-04-06T14:00:00Z",
-    "actualStartTime": "2024-04-05T14:28:10Z",
     "premiere": false
   },
   {
@@ -1992,6 +1968,18 @@
     "premiere": false
   },
   {
+    "id": "FB9utWn_4yw",
+    "vidUrl": "https://youtu.be/FB9utWn_4yw",
+    "vidTitle": "\u3010Cover\u3011Welcome to the Black Parade\u3010Mako Sameshima\u3011",
+    "channelId": "@makosameshima",
+    "channelName": "Mako Sameshima / \u9bab\u5cf6\u30e1\u30a4\u30b3",
+    "channelThumb": "https://yt3.ggpht.com/Lb94e96h6IqonxEXvoZ2tCDLAhXInONAfZxWdOixgznfm0chh9wHAmzJ1gYpktbAGNP7t9WMWQ=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Mako",
+    "scheduledStartTime": "2024-04-12T23:00:00Z",
+    "actualStartTime": "",
+    "premiere": true
+  },
+  {
     "id": "k2899GElpfo",
     "vidUrl": "https://youtu.be/k2899GElpfo",
     "vidTitle": "\u3010DEBUT\u3011THE TRUE STAR ARRIVES\u3010Brian\u3011",
@@ -2325,6 +2313,19 @@
     "shortName": "Mikumi",
     "scheduledStartTime": "2024-04-05T22:45:00Z",
     "actualStartTime": "2024-04-05T22:42:49Z",
+    "premiere": false
+  },
+  {
+    "id": "Tfo_7pXi4tA",
+    "vidUrl": "https://youtu.be/Tfo_7pXi4tA",
+    "vidTitle": "jk not the finale but we're close!!!\u3010GTA IV pt. 18 \u2661\u3011",
+    "channelId": "@stfuboomi_",
+    "channelName": "Boomi Mamana Ch. \u9b54\u611b\u3076\u307f\u3010lucid\u2601\ufe0f\u3011",
+    "channelThumb": "https://yt3.ggpht.com/Ir7xaFhyOLm30TDU6WsFUT24WE8_o7SGK3eUmpbCsOOWFjh22e4XJsPhUYCvUtdgSUM2sUzOtg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Boomi",
+    "scheduledStartTime": "2024-04-06T00:00:00Z",
+    "actualStartTime": "2024-04-06T00:02:56Z",
     "premiere": false
   },
   {
