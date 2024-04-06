@@ -132,18 +132,6 @@
     "premiere": false
   },
   {
-    "id": "LwifbI6WL2k",
-    "vidUrl": "https://youtu.be/LwifbI6WL2k",
-    "vidTitle": "\u3010Supermarket Simulator\u3011Yes, I am streaming\u3010VOLs\u3011",
-    "channelId": "@shirousamikumi",
-    "channelName": "ShirousaMikumi - VOLs",
-    "channelThumb": "https://yt3.ggpht.com/6Jy6Uud2Vx08hfesvUg3vb2cSd0tj_30_Eeq-Ypg3jK7srTbiGUJKE94YJhedV96ExRC6-KGDA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Mikumi",
-    "scheduledStartTime": "2024-04-05T22:45:00Z",
-    "actualStartTime": "2024-04-05T22:42:49Z",
-    "premiere": false
-  },
-  {
     "id": "OX47xytUEKw",
     "vidUrl": "https://youtu.be/OX47xytUEKw",
     "vidTitle": "FRICK",
@@ -391,6 +379,18 @@
     "channelName": "Yuuki Ame / \u52c7\u6c17\u3042\u3081\u3010bondlive EN\u3011",
     "channelThumb": "https://yt3.ggpht.com/rybr-bFchWkS9x4YS03WaFH5JtYXkl3lEMjxqFsf6IvbCC5OxCMPKQwOGpl2jx6y28p_vHMXi1w=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Yuuki",
+    "scheduledStartTime": "2024-04-06T01:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "pVxdwQX9zgE",
+    "vidUrl": "https://youtu.be/pVxdwQX9zgE",
+    "vidTitle": "\u3010Doronko Wanko\u3011 I AM YOUR FROG DOG! Is Amiami puppy-coded? \u3010Ami Amami | \u96e8\u6d77\u3042\u307f\u3011",
+    "channelId": "@amamiami",
+    "channelName": "Ami Amami / \u96e8\u6d77\u3042\u307f",
+    "channelThumb": "https://yt3.ggpht.com/UBuXoRJHyJ4AQeqy3d7_i6Hl-Kj49nfQJNMgUMdJLcE2NObzlJXLSHXHH3YnNoeW9zB4g-gN=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Ami",
     "scheduledStartTime": "2024-04-06T01:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2455,6 +2455,19 @@
     "shortName": "Rhea",
     "scheduledStartTime": "2024-04-05T22:00:00Z",
     "actualStartTime": "2024-04-05T21:58:08Z",
+    "premiere": false
+  },
+  {
+    "id": "LwifbI6WL2k",
+    "vidUrl": "https://youtu.be/LwifbI6WL2k",
+    "vidTitle": "\u3010Supermarket Simulator\u3011Yes, I am streaming\u3010VOLs\u3011",
+    "channelId": "@shirousamikumi",
+    "channelName": "ShirousaMikumi - VOLs",
+    "channelThumb": "https://yt3.ggpht.com/6Jy6Uud2Vx08hfesvUg3vb2cSd0tj_30_Eeq-Ypg3jK7srTbiGUJKE94YJhedV96ExRC6-KGDA=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Mikumi",
+    "scheduledStartTime": "2024-04-05T22:45:00Z",
+    "actualStartTime": "2024-04-05T22:42:49Z",
     "premiere": false
   }
 ]
