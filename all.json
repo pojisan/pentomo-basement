@@ -24,18 +24,6 @@
     "premiere": false
   },
   {
-    "id": "ev-fS2Ddj18",
-    "vidUrl": "https://youtu.be/ev-fS2Ddj18",
-    "vidTitle": "\u3010Kokone's Boutique ep.7\u3011Fitting @CyonVNU in modern tech thief wear",
-    "channelId": "@yurikagokokone",
-    "channelName": "Yurikago Kokone Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/xwSS6tbTBzvBuI0LLjA-0MQ77ZacslZB2TKN7lXcknwNBswpyMTjp9K4vLTR5B2jH4upTIAT5MI=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Kokone",
-    "scheduledStartTime": "2024-04-06T00:00:00Z",
-    "actualStartTime": "2024-04-06T00:00:30Z",
-    "premiere": false
-  },
-  {
     "id": "-X-g-K4YouM",
     "vidUrl": "https://youtu.be/-X-g-K4YouM",
     "vidTitle": "Playing my first fromsoft game.",
@@ -285,18 +273,6 @@
     "shortName": "Luca",
     "scheduledStartTime": "2024-04-06T04:10:00Z",
     "actualStartTime": "2024-04-06T04:11:32Z",
-    "premiere": false
-  },
-  {
-    "id": "l7FnEAjqNpw",
-    "vidUrl": "https://youtu.be/l7FnEAjqNpw",
-    "vidTitle": "\u3010\u3074\u306a\u68ee\u3011 \u304a\u663c\u3042\u3064\u68ee \u3010\u306b\u3058\u3055\u3093\u3058 | \u30bb\u30d5\u30a3\u30ca\u3011",
-    "channelId": "@seffyna",
-    "channelName": "\u30bb\u30d5\u30a3\u30ca / Seffyna\u3010\u306b\u3058\u3055\u3093\u3058\u3011",
-    "channelThumb": "https://yt3.ggpht.com/0QDtmroClBOCB8eZSOVWlGObtXc7wf8tk-USsyvw5nY-i_IE8xsxebzGBzD5OfHGlNBICUmgDg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Seffyna",
-    "scheduledStartTime": "2024-04-06T03:30:00Z",
-    "actualStartTime": "",
     "premiere": false
   },
   {
@@ -2098,6 +2074,19 @@
     "premiere": false
   },
   {
+    "id": "ev-fS2Ddj18",
+    "vidUrl": "https://youtu.be/ev-fS2Ddj18",
+    "vidTitle": "\u3010Kokone's Boutique ep.7\u3011Fitting @CyonVNU in modern tech thief wear",
+    "channelId": "@yurikagokokone",
+    "channelName": "Yurikago Kokone Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/xwSS6tbTBzvBuI0LLjA-0MQ77ZacslZB2TKN7lXcknwNBswpyMTjp9K4vLTR5B2jH4upTIAT5MI=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Kokone",
+    "scheduledStartTime": "2024-04-06T00:00:00Z",
+    "actualStartTime": "2024-04-06T00:00:30Z",
+    "premiere": false
+  },
+  {
     "id": "Tfo_7pXi4tA",
     "vidUrl": "https://youtu.be/Tfo_7pXi4tA",
     "vidTitle": "jk not the finale but we're close!!!\u3010GTA IV pt. 18 \u2661\u3011",
@@ -2445,6 +2434,19 @@
     "graveyard": true,
     "shortName": "Goozilla",
     "scheduledStartTime": "2024-04-05T13:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "l7FnEAjqNpw",
+    "vidUrl": "https://youtu.be/l7FnEAjqNpw",
+    "vidTitle": "\u3010\u3074\u306a\u68ee\u3011 \u304a\u663c\u3042\u3064\u68ee \u3010\u306b\u3058\u3055\u3093\u3058 | \u30bb\u30d5\u30a3\u30ca\u3011",
+    "channelId": "@seffyna",
+    "channelName": "\u30bb\u30d5\u30a3\u30ca / Seffyna\u3010\u306b\u3058\u3055\u3093\u3058\u3011",
+    "channelThumb": "https://yt3.ggpht.com/0QDtmroClBOCB8eZSOVWlGObtXc7wf8tk-USsyvw5nY-i_IE8xsxebzGBzD5OfHGlNBICUmgDg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Seffyna",
+    "scheduledStartTime": "2024-04-06T03:30:00Z",
     "actualStartTime": "",
     "premiere": false
   }

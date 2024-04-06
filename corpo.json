@@ -24,18 +24,6 @@
     "premiere": false
   },
   {
-    "id": "ev-fS2Ddj18",
-    "vidUrl": "https://youtu.be/ev-fS2Ddj18",
-    "vidTitle": "\u3010Kokone's Boutique ep.7\u3011Fitting @CyonVNU in modern tech thief wear",
-    "channelId": "@yurikagokokone",
-    "channelName": "Yurikago Kokone Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/xwSS6tbTBzvBuI0LLjA-0MQ77ZacslZB2TKN7lXcknwNBswpyMTjp9K4vLTR5B2jH4upTIAT5MI=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Kokone",
-    "scheduledStartTime": "2024-04-06T00:00:00Z",
-    "actualStartTime": "2024-04-06T00:00:30Z",
-    "premiere": false
-  },
-  {
     "id": "-X-g-K4YouM",
     "vidUrl": "https://youtu.be/-X-g-K4YouM",
     "vidTitle": "Playing my first fromsoft game.",
@@ -2165,6 +2153,19 @@
     "shortName": "Mikumi",
     "scheduledStartTime": "2024-04-05T22:45:00Z",
     "actualStartTime": "2024-04-05T22:42:49Z",
+    "premiere": false
+  },
+  {
+    "id": "ev-fS2Ddj18",
+    "vidUrl": "https://youtu.be/ev-fS2Ddj18",
+    "vidTitle": "\u3010Kokone's Boutique ep.7\u3011Fitting @CyonVNU in modern tech thief wear",
+    "channelId": "@yurikagokokone",
+    "channelName": "Yurikago Kokone Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/xwSS6tbTBzvBuI0LLjA-0MQ77ZacslZB2TKN7lXcknwNBswpyMTjp9K4vLTR5B2jH4upTIAT5MI=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Kokone",
+    "scheduledStartTime": "2024-04-06T00:00:00Z",
+    "actualStartTime": "2024-04-06T00:00:30Z",
     "premiere": false
   },
   {
