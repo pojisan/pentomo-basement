@@ -1,17 +1,5 @@
 [
   {
-    "id": "XZy5KfyJYKg",
-    "vidUrl": "https://youtu.be/XZy5KfyJYKg",
-    "vidTitle": "\u3010Zatsudan\u3011Io's Vacation Trip!",
-    "channelId": "@amase_io",
-    "channelName": "Amase Io CH. \u5929\u702c \u30a4\u30aa\u3010Project Memoire\u3011",
-    "channelThumb": "https://yt3.ggpht.com/X1sgPuBT-qyqDLp-Z42L1Xx6FqUOvvgaTeOz8DhHobGpDBiCOsmAcvzXRRUXihT9mv0QrEPPfQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Io",
-    "scheduledStartTime": "2024-04-07T01:00:00Z",
-    "actualStartTime": "2024-04-07T01:03:37Z",
-    "premiere": false
-  },
-  {
     "id": "-dWEXuduFMs",
     "vidUrl": "https://youtu.be/-dWEXuduFMs",
     "vidTitle": "\u3010Diablo 4\u3011Mommy Lilith I'll eat your blood petal",
@@ -900,18 +888,6 @@
     "premiere": false
   },
   {
-    "id": "VMkhpmBSESk",
-    "vidUrl": "https://youtu.be/VMkhpmBSESk",
-    "vidTitle": "ALWAYS POLISH YOUR KEY",
-    "channelId": "@kikilockheartch",
-    "channelName": "Kiki Lockheart Ch. \u3010EIEN Project\u3011",
-    "channelThumb": "https://yt3.ggpht.com/7rG1LY7n4F5kPi_WOMU5fl8vgtvhqtnuN9PA4omiWTfUDiJeK1r5Bh9nnWNVcfwLGeXY2Ib8kA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Kiki",
-    "scheduledStartTime": "2025-10-26T04:45:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "XHeZ6AuGYAY",
     "vidUrl": "https://youtu.be/XHeZ6AuGYAY",
     "vidTitle": "\u3010NEW FREE CHAT\u3011Check here for my sched or if I have a twitter space!\u3010Lila Maria / DAY/BREAK\u3011",
@@ -1489,6 +1465,19 @@
     "shortName": "Jun",
     "scheduledStartTime": "2024-04-07T01:00:00Z",
     "actualStartTime": "2024-04-07T00:59:17Z",
+    "premiere": false
+  },
+  {
+    "id": "XZy5KfyJYKg",
+    "vidUrl": "https://youtu.be/XZy5KfyJYKg",
+    "vidTitle": "\u3010Zatsudan\u3011Io's Vacation Trip!",
+    "channelId": "@amase_io",
+    "channelName": "Amase Io CH. \u5929\u702c \u30a4\u30aa\u3010Project Memoire\u3011",
+    "channelThumb": "https://yt3.ggpht.com/X1sgPuBT-qyqDLp-Z42L1Xx6FqUOvvgaTeOz8DhHobGpDBiCOsmAcvzXRRUXihT9mv0QrEPPfQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Io",
+    "scheduledStartTime": "2024-04-07T01:00:00Z",
+    "actualStartTime": "2024-04-07T01:03:37Z",
     "premiere": false
   },
   {
