@@ -36,18 +36,6 @@
     "premiere": false
   },
   {
-    "id": "kkIyj7yPvxE",
-    "vidUrl": "https://youtu.be/kkIyj7yPvxE",
-    "vidTitle": "\ud83d\udd34Valorant | If I DIE in Valorant I HAVE to do PUSH UPS \ud83d\udcaa\ud83d\udca5",
-    "channelId": "@goozillaily",
-    "channelName": "Goozilla Ily Ch. [Autumnia]",
-    "channelThumb": "https://yt3.ggpht.com/jds_vfaqo4fnyTfPohyRPUqgIR6zUfltLSkUvuL26fVY2ZVqfPBjUdIWcux0qe8hgt68pWen=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Goozilla",
-    "scheduledStartTime": "2024-04-07T12:58:39Z",
-    "actualStartTime": "2024-04-07T12:58:52Z",
-    "premiere": false
-  },
-  {
     "id": "aCKFxOsVTdI",
     "vidUrl": "https://youtu.be/aCKFxOsVTdI",
     "vidTitle": "\u3010SHASHINGO\u3011\u65e5\u672c\u8a9e\u30b2\u30fc\u30e0 + \u304a\u9152\u98f2\u3082\u3046\uff01\uff01(\u82f1\u8a9e\u7981\u6b62)",
@@ -140,7 +128,7 @@
     "channelThumb": "https://yt3.ggpht.com/eZL22MkBQh4myHNfCyj9pFql_IgFh84HMUYFvw-cp_9jx_RIftFJc_fFNi6YxJ5LhyArJH11PQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Tomoe",
     "scheduledStartTime": "2024-04-07T14:00:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-07T13:57:24Z",
     "premiere": false
   },
   {
@@ -380,6 +368,18 @@
     "channelThumb": "https://yt3.ggpht.com/7yN9yQvJhx4cVCL5rLOgsBYiRtRMYEurmtjT0DosKX6qpuoSm9zeo4ELHwy7RW-knfVPzNEqAg=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Nikki",
     "scheduledStartTime": "2024-04-07T20:45:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "GH_S0Ovvo-I",
+    "vidUrl": "https://youtu.be/GH_S0Ovvo-I",
+    "vidTitle": "\u3010DEBUT 2.0...?\u3011Rest in Peace...or not.\u3010Dr.NOVA(e) | V4Mirai | ENVtuber\u3011",
+    "channelId": "@drnovae",
+    "channelName": "Dr.NOVA(e) Ch.\u3010V4Mirai\u3011",
+    "channelThumb": "https://yt3.ggpht.com/Q5uPSXLX-UaT7iQ1VRWbehhySRrtvEcWEA-ey6HfpVmHlZSz5zUrlC9g5UQuNfsgO5UOjJfI_Q=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Novae",
+    "scheduledStartTime": "2024-04-07T21:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -896,6 +896,18 @@
     "channelThumb": "https://yt3.ggpht.com/wVYBYMI9s6Rq0ONjpaDlrGWx7j-Qf4p-zsxBJgK65NLMvDuYu2A_4VB69LA2PhBlElWgVZbe-OI=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Rem",
     "scheduledStartTime": "2024-04-09T22:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "WiuK_nMoPY4",
+    "vidUrl": "https://youtu.be/WiuK_nMoPY4",
+    "vidTitle": "\u3010Surgeon Simulator\u3011TRUST ME, IM A DOCTOR!....kinda\u3010Dr.NOVA(e) | V4Mirai | ENVtuber\u3011",
+    "channelId": "@drnovae",
+    "channelName": "Dr.NOVA(e) Ch.\u3010V4Mirai\u3011",
+    "channelThumb": "https://yt3.ggpht.com/Q5uPSXLX-UaT7iQ1VRWbehhySRrtvEcWEA-ey6HfpVmHlZSz5zUrlC9g5UQuNfsgO5UOjJfI_Q=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Novae",
+    "scheduledStartTime": "2024-04-10T00:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -1512,6 +1524,19 @@
     "shortName": "Uta",
     "scheduledStartTime": "2024-04-07T05:00:00Z",
     "actualStartTime": "2024-04-07T05:00:53Z",
+    "premiere": false
+  },
+  {
+    "id": "kkIyj7yPvxE",
+    "vidUrl": "https://youtu.be/kkIyj7yPvxE",
+    "vidTitle": "\ud83d\udd34Valorant | If I DIE in Valorant I HAVE to do PUSH UPS \ud83d\udcaa\ud83d\udca5",
+    "channelId": "@goozillaily",
+    "channelName": "Goozilla Ily Ch. [Autumnia]",
+    "channelThumb": "https://yt3.ggpht.com/jds_vfaqo4fnyTfPohyRPUqgIR6zUfltLSkUvuL26fVY2ZVqfPBjUdIWcux0qe8hgt68pWen=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Goozilla",
+    "scheduledStartTime": "2024-04-07T12:58:39Z",
+    "actualStartTime": "2024-04-07T12:58:52Z",
     "premiere": false
   },
   {
