@@ -84,18 +84,6 @@
     "premiere": false
   },
   {
-    "id": "KbzbRQ0LT4M",
-    "vidUrl": "https://youtu.be/KbzbRQ0LT4M",
-    "vidTitle": "[Gaming] Let's Chat with Yagami Noah\uff5cVTuber Minecraft",
-    "channelId": "@yagaminoah",
-    "channelName": "Yagami Noah / \u516b\u795e\u30ce\u30a2\u3010bondlive EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/zv3gY8PI3ZXN4KgiMrdVaBT-8XTB09763VvuJFtZ7yx0nLVUiMbUoa5RlyU_BEUmvaztteqGD5A=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Noah",
-    "scheduledStartTime": "2024-04-07T15:30:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "HGiZY5zm3cc",
     "vidUrl": "https://youtu.be/HGiZY5zm3cc",
     "vidTitle": "\u3010Persona 4 Golden\u3011LET'S GET OUR BROSUKE!!!",
@@ -104,7 +92,7 @@
     "channelThumb": "https://yt3.ggpht.com/Id9BL2cZTLJmv9ZoQEGIk_eFPBrQ7REmfIB6tsb34vcls6pWmKCsifuJ4Ii40vRYZvX9uGd9=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Shiki",
     "scheduledStartTime": "2024-04-07T15:55:18Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-07T15:57:19Z",
     "premiere": false
   },
   {
@@ -116,19 +104,7 @@
     "channelThumb": "https://yt3.ggpht.com/ao0Uyr-lSSR-cD9QJVrID38symffMEms-OUHRGu-i1DBBybDZglU9ELIgv6YtjBDBY6o0das7g=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Mero",
     "scheduledStartTime": "2024-04-07T16:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "TJ9mCTTyMDA",
-    "vidUrl": "https://youtu.be/TJ9mCTTyMDA",
-    "vidTitle": "SURPRISEEEE OMG MORE CONTENT WARNING\u3010CONTENT WARNING \u3011",
-    "channelId": "@eliastellaria",
-    "channelName": "Elia Stellaria\u3010V-Dere\u3011",
-    "channelThumb": "https://yt3.ggpht.com/06-Ihgh44rPrUWXBSXAGR0a10dQKGBTm-AEJxG1ThlclvCzFFugh1FSz5PXqXP606Y_BV98SKA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Elia",
-    "scheduledStartTime": "2024-04-07T16:00:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-07T15:59:27Z",
     "premiere": false
   },
   {
@@ -140,7 +116,7 @@
     "channelThumb": "https://yt3.ggpht.com/e-csUdgwEj5h-rQ2vwXX-EVOeXk3BZRlaqnHS7-Mnd1ZC9icqo02aHhGvl_f50l_UX1bPsJgwFs=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Nyanheras",
     "scheduledStartTime": "2024-04-07T16:00:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-07T16:01:42Z",
     "premiere": false
   },
   {
@@ -152,6 +128,30 @@
     "channelThumb": "https://yt3.ggpht.com/j9b3F_6kPAJQns4jhE4FQN1LCO6mbP6BY2ixZTLHk2r2F0KZsqQ9xBjWI11d9RmeeRsFb7KLO04=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Ayla",
     "scheduledStartTime": "2024-04-07T16:00:00Z",
+    "actualStartTime": "2024-04-07T16:01:51Z",
+    "premiere": false
+  },
+  {
+    "id": "TJ9mCTTyMDA",
+    "vidUrl": "https://youtu.be/TJ9mCTTyMDA",
+    "vidTitle": "SURPRISEEEE OMG MORE CONTENT WARNING\u3010CONTENT WARNING \u3011",
+    "channelId": "@eliastellaria",
+    "channelName": "Elia Stellaria\u3010V-Dere\u3011",
+    "channelThumb": "https://yt3.ggpht.com/06-Ihgh44rPrUWXBSXAGR0a10dQKGBTm-AEJxG1ThlclvCzFFugh1FSz5PXqXP606Y_BV98SKA=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Elia",
+    "scheduledStartTime": "2024-04-07T16:00:00Z",
+    "actualStartTime": "2024-04-07T16:03:52Z",
+    "premiere": false
+  },
+  {
+    "id": "KbzbRQ0LT4M",
+    "vidUrl": "https://youtu.be/KbzbRQ0LT4M",
+    "vidTitle": "[Gaming] Let's Chat with Yagami Noah\uff5cVTuber Minecraft",
+    "channelId": "@yagaminoah",
+    "channelName": "Yagami Noah / \u516b\u795e\u30ce\u30a2\u3010bondlive EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/zv3gY8PI3ZXN4KgiMrdVaBT-8XTB09763VvuJFtZ7yx0nLVUiMbUoa5RlyU_BEUmvaztteqGD5A=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Noah",
+    "scheduledStartTime": "2024-04-07T15:30:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -1509,19 +1509,6 @@
     "shortName": "Io",
     "scheduledStartTime": "2024-04-07T01:00:00Z",
     "actualStartTime": "2024-04-07T01:03:37Z",
-    "premiere": false
-  },
-  {
-    "id": "nmP3OsH4-AA",
-    "vidUrl": "https://youtu.be/nmP3OsH4-AA",
-    "vidTitle": "i can jump this time i promise \ud83e\udd72 \u3010Lethal Company\u3011",
-    "channelId": "@rowavnu",
-    "channelName": "Rowa Arctos Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/Y3fKMGNnV6tQDQFjhGpH8Xdat8S1z76xZHdCg08gb5SUN_reNurU1yATDviGnoxKwgmfoBf5ZA=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Rowa",
-    "scheduledStartTime": "2024-04-07T01:00:00Z",
-    "actualStartTime": "2024-04-07T01:19:02Z",
     "premiere": false
   },
   {
