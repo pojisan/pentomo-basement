@@ -24,18 +24,6 @@
     "premiere": false
   },
   {
-    "id": "wiV68dOn6Kk",
-    "vidUrl": "https://youtu.be/wiV68dOn6Kk",
-    "vidTitle": "My voice acting is in a game!",
-    "channelId": "@obakepam",
-    "channelName": "Obake PAM Ch.",
-    "channelThumb": "https://yt3.ggpht.com/FlbqAWrn9OdE4QcjGweQkH_2WUf2kCAQPbiC4dVvt6ItUWE4pLnUrs9MJ3-KtyeULY0hGe-VPio=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Obake PAM",
-    "scheduledStartTime": "2024-04-07T00:00:00Z",
-    "actualStartTime": "2024-04-07T00:04:29Z",
-    "premiere": false
-  },
-  {
     "id": "AdzlqMO6kZU",
     "vidUrl": "https://youtu.be/AdzlqMO6kZU",
     "vidTitle": "\u3010PERSONA 3 RELOAD\u3011 i. love kenji :)",
@@ -1459,19 +1447,6 @@
     "premiere": false
   },
   {
-    "id": "Qp8hn3bPxYQ",
-    "vidUrl": "https://youtu.be/Qp8hn3bPxYQ",
-    "vidTitle": "LUNALIA DEBUT \ud83c\udf19 watchalong with @Kou_Mariya!! #v4mirai #vtuberdebut \u3010Mono Monet \ud83d\udcad\ud83c\udfa8 V4Mirai\u3011",
-    "channelId": "@monomonet",
-    "channelName": "Mono Monet Ch.\u3010V4Mirai\u3011",
-    "channelThumb": "https://yt3.ggpht.com/1AObPqJEofqIz45ovlHX18ux-lyxgla1Dgl9MtIA89AwcQ8C1iqzebATYn4uGsAshj0bQNDp=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Mono",
-    "scheduledStartTime": "2024-04-06T23:30:00Z",
-    "actualStartTime": "2024-04-06T23:34:01Z",
-    "premiere": false
-  },
-  {
     "id": "egH6eNqKLbQ",
     "vidUrl": "https://youtu.be/egH6eNqKLbQ",
     "vidTitle": "\u3010V4MIRAI DEBUT WATCHALONG\u3011Discovering a Ghost Writer @AliasAnono  #sponsored",
@@ -1521,6 +1496,19 @@
     "shortName": "Spectra",
     "scheduledStartTime": "2024-04-06T23:50:00Z",
     "actualStartTime": "2024-04-06T23:51:32Z",
+    "premiere": false
+  },
+  {
+    "id": "wiV68dOn6Kk",
+    "vidUrl": "https://youtu.be/wiV68dOn6Kk",
+    "vidTitle": "My voice acting is in a game!",
+    "channelId": "@obakepam",
+    "channelName": "Obake PAM Ch.",
+    "channelThumb": "https://yt3.ggpht.com/FlbqAWrn9OdE4QcjGweQkH_2WUf2kCAQPbiC4dVvt6ItUWE4pLnUrs9MJ3-KtyeULY0hGe-VPio=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Obake PAM",
+    "scheduledStartTime": "2024-04-07T00:00:00Z",
+    "actualStartTime": "2024-04-07T00:04:29Z",
     "premiere": false
   },
   {
@@ -1651,19 +1639,6 @@
     "shortName": "Kokone",
     "scheduledStartTime": "2024-04-07T02:00:00Z",
     "actualStartTime": "2024-04-07T02:00:12Z",
-    "premiere": false
-  },
-  {
-    "id": "XkxQmh0LPjo",
-    "vidUrl": "https://youtu.be/XkxQmh0LPjo",
-    "vidTitle": "Yumi V4MIRAI Debut Watchalong #sponsored",
-    "channelId": "@rakunpoko",
-    "channelName": "Poko Rakun Ch. idol-EN",
-    "channelThumb": "https://yt3.ggpht.com/ma1Az7kp5ye3ZWtR9IGoFcWEVQ6ReN8VugO_PGP6qokwj430zQKuR9Uo_L5N3gCVTWsH_vQT1w=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Poko",
-    "scheduledStartTime": "2024-04-07T02:00:00Z",
-    "actualStartTime": "2024-04-07T02:00:17Z",
     "premiere": false
   }
 ]
