@@ -1,17 +1,5 @@
 [
   {
-    "id": "HGiZY5zm3cc",
-    "vidUrl": "https://youtu.be/HGiZY5zm3cc",
-    "vidTitle": "\u3010Persona 4 Golden\u3011LET'S GET OUR BROSUKE!!!",
-    "channelId": "@shikimiyoshino",
-    "channelName": "Shiki Miyoshino / \u7f8e\u5409\u91ce\u3057\u304d\u3010Requiem\u3011",
-    "channelThumb": "https://yt3.ggpht.com/Id9BL2cZTLJmv9ZoQEGIk_eFPBrQ7REmfIB6tsb34vcls6pWmKCsifuJ4Ii40vRYZvX9uGd9=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Shiki",
-    "scheduledStartTime": "2024-04-07T15:55:18Z",
-    "actualStartTime": "2024-04-07T15:57:19Z",
-    "premiere": false
-  },
-  {
     "id": "ZZcEdVhhWL4",
     "vidUrl": "https://youtu.be/ZZcEdVhhWL4",
     "vidTitle": "\u3010JACKBOX 3\u3011Playing with Rutainers!!",
@@ -116,7 +104,7 @@
     "channelThumb": "https://yt3.ggpht.com/gHLRZOEihJIIcqQJmj8hsp4CsuRIbKIYKzRxQp9Q9du6DfBDFlnMv3xYCXMnKqSe3N8a1ki6Yw=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Katta",
     "scheduledStartTime": "2024-04-07T19:00:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-07T19:08:18Z",
     "premiere": false
   },
   {
@@ -128,7 +116,7 @@
     "channelThumb": "https://yt3.ggpht.com/ao0Uyr-lSSR-cD9QJVrID38symffMEms-OUHRGu-i1DBBybDZglU9ELIgv6YtjBDBY6o0das7g=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Mero",
     "scheduledStartTime": "2024-04-07T19:00:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-07T19:08:29Z",
     "premiere": false
   },
   {
@@ -1058,7 +1046,7 @@
   {
     "id": "o9GWfthjn_0",
     "vidUrl": "https://youtu.be/o9GWfthjn_0",
-    "vidTitle": "Momo + IMPORTANT ANNOUNCEMENT! \u2601\ufe0f\ud83c\udf08 #DragonAlert Episode 11",
+    "vidTitle": "@OtakoMomo  + IMPORTANT ANNOUNCEMENT! \u2601\ufe0f\ud83c\udf08 #DragonAlert Episode 11",
     "channelId": "@kaisaikota",
     "channelName": "Kai Saikota Ch. idol-EN",
     "channelThumb": "https://yt3.ggpht.com/0rVHZdUlMh90grMz90Dv_PPWyAvBb2BbkSN2QSDU6JWGdavGje-34q4D6E1OYgBkx74vfrxzyw=s88-c-k-c0x00ffffff-no-rj",
@@ -1567,6 +1555,19 @@
     "shortName": "Goozilla",
     "scheduledStartTime": "2024-04-07T12:58:39Z",
     "actualStartTime": "2024-04-07T12:58:52Z",
+    "premiere": false
+  },
+  {
+    "id": "HGiZY5zm3cc",
+    "vidUrl": "https://youtu.be/HGiZY5zm3cc",
+    "vidTitle": "\u3010Persona 4 Golden\u3011LET'S GET OUR BROSUKE!!!",
+    "channelId": "@shikimiyoshino",
+    "channelName": "Shiki Miyoshino / \u7f8e\u5409\u91ce\u3057\u304d\u3010Requiem\u3011",
+    "channelThumb": "https://yt3.ggpht.com/Id9BL2cZTLJmv9ZoQEGIk_eFPBrQ7REmfIB6tsb34vcls6pWmKCsifuJ4Ii40vRYZvX9uGd9=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Shiki",
+    "scheduledStartTime": "2024-04-07T15:55:18Z",
+    "actualStartTime": "2024-04-07T15:57:19Z",
     "premiere": false
   },
   {
