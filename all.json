@@ -24,18 +24,6 @@
     "premiere": false
   },
   {
-    "id": "1PVUtvouzsM",
-    "vidUrl": "https://youtu.be/1PVUtvouzsM",
-    "vidTitle": "\u3010NEW OUTFIT REVEAL\u3011MoeMoeKyun~ #DressUpMariring\u3010Maria Marionette | NIJISANJI EN\u3011",
-    "channelId": "@mariamarionette",
-    "channelName": "Maria Marionette \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/EZJ0E6UnrsXZKRPGwZQUJHQ4e3y9PkCHInZFzP06lAE6cYN6MXSZL7O5L5jmTRuDPSzbxNty=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Maririn",
-    "scheduledStartTime": "2024-04-07T11:00:00Z",
-    "actualStartTime": "2024-04-07T10:59:53Z",
-    "premiere": false
-  },
-  {
     "id": "vFbF3jP4dAw",
     "vidUrl": "https://youtu.be/vFbF3jP4dAw",
     "vidTitle": "\u3010Minecraft\u3011visiting the nether",
@@ -487,6 +475,18 @@
     "channelName": "Hiyori Mokami Ch. \u6843\u795e\u65e5\u548c\u3010kawaii\u3011",
     "channelThumb": "https://yt3.ggpht.com/Vj2QGSwnGea4gY_hmHATQTkM-2noJld4JtpdmiHmXRerJ2umbuiPZwDfLeWVOrXteS4vXqZlCw=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Hiyori",
+    "scheduledStartTime": "2024-04-07T23:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "lTN5Rtcmprc",
+    "vidUrl": "https://youtu.be/lTN5Rtcmprc",
+    "vidTitle": "First Time Starto! \u2744\ufe0f\u3010MONSTER HUNTER WORLD: ICE BORNE \u3011",
+    "channelId": "@rakunpoko",
+    "channelName": "Poko Rakun Ch. idol-EN",
+    "channelThumb": "https://yt3.ggpht.com/ma1Az7kp5ye3ZWtR9IGoFcWEVQ6ReN8VugO_PGP6qokwj430zQKuR9Uo_L5N3gCVTWsH_vQT1w=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Poko",
     "scheduledStartTime": "2024-04-07T23:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -1361,19 +1361,6 @@
     "premiere": false
   },
   {
-    "id": "4ivfApuTjfM",
-    "vidUrl": "https://youtu.be/4ivfApuTjfM",
-    "vidTitle": "\u3010Debut Watchalong\u3011I'm so excited!!!! #v4mirai #sponsored",
-    "channelId": "@inamiyokich",
-    "channelName": "Inami Yoki Ch.",
-    "channelThumb": "https://yt3.ggpht.com/vCtnJzYIQZi4DtDvSMyEpWdolmNJoIzlO4YD0036Tm2-sRRYRjPNL0xikMCq2Q8p4hqcAKaY9V4=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Yoki",
-    "scheduledStartTime": "2024-04-06T23:50:00Z",
-    "actualStartTime": "2024-04-06T23:50:49Z",
-    "premiere": false
-  },
-  {
     "id": "zxoqOKVQ1eI",
     "vidUrl": "https://youtu.be/zxoqOKVQ1eI",
     "vidTitle": "\u3010DEBUT WATCHALONG\u3011From One Ghostwriter to Another! V4Mirai's 3rd Generation!\u3010V&U | GEN4\u3011",
@@ -1592,6 +1579,19 @@
     "shortName": "Uta",
     "scheduledStartTime": "2024-04-07T05:00:00Z",
     "actualStartTime": "2024-04-07T05:00:53Z",
+    "premiere": false
+  },
+  {
+    "id": "1PVUtvouzsM",
+    "vidUrl": "https://youtu.be/1PVUtvouzsM",
+    "vidTitle": "\u3010NEW OUTFIT REVEAL\u3011MoeMoeKyun~ #DressUpMariring\u3010Maria Marionette | NIJISANJI EN\u3011",
+    "channelId": "@mariamarionette",
+    "channelName": "Maria Marionette \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/EZJ0E6UnrsXZKRPGwZQUJHQ4e3y9PkCHInZFzP06lAE6cYN6MXSZL7O5L5jmTRuDPSzbxNty=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Maririn",
+    "scheduledStartTime": "2024-04-07T11:00:00Z",
+    "actualStartTime": "2024-04-07T10:59:53Z",
     "premiere": false
   },
   {
