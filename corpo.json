@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "AfilT4OYT_s",
-    "vidUrl": "https://youtu.be/AfilT4OYT_s",
-    "vidTitle": "\u3010ELDEN RING\u3011\u3088\u3046\u3053\u305d\u3001\u30af\u30e9\u30e9\u306e\u5929\u56fd\u3078\u3010\u6b4c\u7f8e\u9cf4\u30af\u30e9\u30e9 / Phase Connect\u3011",
-    "channelId": "@kaminariclara",
-    "channelName": "Clara Ch. \u6b4c\u7f8e\u9cf4\u30af\u30e9\u30e9 \u3010Phase Connect\u3011",
-    "channelThumb": "https://yt3.ggpht.com/Ds02-91FQsIFHxhISPbW0dvCSyrXDEmKyRHIn04c1vRKMXMNobf9Ny4UszPfbWXyNPze7gVqTQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Clara",
-    "scheduledStartTime": "2024-04-07T06:00:00Z",
-    "actualStartTime": "2024-04-07T06:00:54Z",
-    "premiere": false
-  },
-  {
     "id": "YZ4kclBadBk",
     "vidUrl": "https://youtu.be/YZ4kclBadBk",
     "vidTitle": "Frieren Watchalong EP 15~28 \ud83d\udcfa #shorts",
@@ -43,18 +31,6 @@
     "channelName": "ShirousaMikumi - VOLs",
     "channelThumb": "https://yt3.ggpht.com/6Jy6Uud2Vx08hfesvUg3vb2cSd0tj_30_Eeq-Ypg3jK7srTbiGUJKE94YJhedV96ExRC6-KGDA=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Mikumi",
-    "scheduledStartTime": "2024-04-07T11:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "GAw_yDzYunk",
-    "vidUrl": "https://youtu.be/GAw_yDzYunk",
-    "vidTitle": "\u3010Karaoke\u3011singing and yapping but VERTICALLY #shorts",
-    "channelId": "@mayunocharlotte-vols",
-    "channelName": "Mayuno A. Charlotte - VOLs",
-    "channelThumb": "https://yt3.ggpht.com/I8IJ1Mc_mhQXeqAzhvpXj6kFF_LOMS1MeIpEBgBt1tt2DuqupCXmAgTjy9LLGLNtdjQbGE5jIg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Charlotte",
     "scheduledStartTime": "2024-04-07T11:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -1570,6 +1546,19 @@
     "shortName": "Uta",
     "scheduledStartTime": "2024-04-07T05:00:00Z",
     "actualStartTime": "2024-04-07T05:00:53Z",
+    "premiere": false
+  },
+  {
+    "id": "AfilT4OYT_s",
+    "vidUrl": "https://youtu.be/AfilT4OYT_s",
+    "vidTitle": "\u3010ELDEN RING\u3011\u3088\u3046\u3053\u305d\u3001\u30af\u30e9\u30e9\u306e\u5929\u56fd\u3078\u3010\u6b4c\u7f8e\u9cf4\u30af\u30e9\u30e9 / Phase Connect\u3011",
+    "channelId": "@kaminariclara",
+    "channelName": "Clara Ch. \u6b4c\u7f8e\u9cf4\u30af\u30e9\u30e9 \u3010Phase Connect\u3011",
+    "channelThumb": "https://yt3.ggpht.com/Ds02-91FQsIFHxhISPbW0dvCSyrXDEmKyRHIn04c1vRKMXMNobf9Ny4UszPfbWXyNPze7gVqTQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Clara",
+    "scheduledStartTime": "2024-04-07T06:00:00Z",
+    "actualStartTime": "2024-04-07T06:00:54Z",
     "premiere": false
   }
 ]
