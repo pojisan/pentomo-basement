@@ -48,18 +48,6 @@
     "premiere": false
   },
   {
-    "id": "5bQtlKKKDpU",
-    "vidUrl": "https://youtu.be/5bQtlKKKDpU",
-    "vidTitle": "\u3010DORONKO WANKO\u3011revenge of the fuzzy fluffy filthy sisters \ud83d\udc3e",
-    "channelId": "@fuwamococh",
-    "channelName": "FUWAMOCO Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/zt63obGOD6fnCX0elnzt8xkylqOTnAENmSCKmwg_PSiC857DDgB28kEjQ-FJlWGtNYZ9lqzEag=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "FWMC",
-    "scheduledStartTime": "2024-04-07T01:00:00Z",
-    "actualStartTime": "2024-04-07T00:55:13Z",
-    "premiere": false
-  },
-  {
     "id": "XZy5KfyJYKg",
     "vidUrl": "https://youtu.be/XZy5KfyJYKg",
     "vidTitle": "\u3010Zatsudan\u3011Io's Vacation Trip!",
@@ -69,30 +57,6 @@
     "shortName": "Io",
     "scheduledStartTime": "2024-04-07T01:00:00Z",
     "actualStartTime": "2024-04-07T01:03:37Z",
-    "premiere": false
-  },
-  {
-    "id": "nmP3OsH4-AA",
-    "vidUrl": "https://youtu.be/nmP3OsH4-AA",
-    "vidTitle": "i can jump this time i promise \ud83e\udd72 \u3010Lethal Company\u3011",
-    "channelId": "@rowavnu",
-    "channelName": "Rowa Arctos Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/Y3fKMGNnV6tQDQFjhGpH8Xdat8S1z76xZHdCg08gb5SUN_reNurU1yATDviGnoxKwgmfoBf5ZA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Rowa",
-    "scheduledStartTime": "2024-04-07T01:00:00Z",
-    "actualStartTime": "2024-04-07T01:19:02Z",
-    "premiere": false
-  },
-  {
-    "id": "iLHi5DTLlGI",
-    "vidUrl": "https://youtu.be/iLHi5DTLlGI",
-    "vidTitle": "[CONTENT WARNING] TRIPLE A CLUB COLLAB!! SMILE FOR THE CAMERA! [V&U | GEN 5]",
-    "channelId": "@cerenityvnu",
-    "channelName": "Cerenity Cosmica Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/dnyzDEaJzR5qZiWFp73wK_f91hlDHxiORtJ6jwu9nzWcLr_vvkHf9IQc2PGhpiBwKWMF5ns2xg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Cerenity",
-    "scheduledStartTime": "2024-04-07T01:00:00Z",
-    "actualStartTime": "2024-04-07T01:19:26Z",
     "premiere": false
   },
   {
@@ -307,18 +271,6 @@
     "channelName": "Kohaku Yumekui Ch. \u5922\u55b0\u5df1\u767d\u3010kawaii\u3011",
     "channelThumb": "https://yt3.ggpht.com/Tz6Hm43Exb8k5sGZ7DRbucOkivDD4w7FU78_bPV69vWM47zCAODykYVo76pwXqry2b1DI1HI=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Kohaku",
-    "scheduledStartTime": "2024-04-07T04:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "AHsyjFiSlSE",
-    "vidUrl": "https://youtu.be/AHsyjFiSlSE",
-    "vidTitle": "*sits next to you* #shorts #shortsfeed #shortslive\u3010Mono Monet \ud83d\udcad\ud83c\udfa8 V4Mirai\u3011",
-    "channelId": "@monomonet",
-    "channelName": "Mono Monet Ch.\u3010V4Mirai\u3011",
-    "channelThumb": "https://yt3.ggpht.com/1AObPqJEofqIz45ovlHX18ux-lyxgla1Dgl9MtIA89AwcQ8C1iqzebATYn4uGsAshj0bQNDp=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Mono",
     "scheduledStartTime": "2024-04-07T04:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -1589,6 +1541,19 @@
     "premiere": false
   },
   {
+    "id": "5bQtlKKKDpU",
+    "vidUrl": "https://youtu.be/5bQtlKKKDpU",
+    "vidTitle": "\u3010DORONKO WANKO\u3011revenge of the fuzzy fluffy filthy sisters \ud83d\udc3e",
+    "channelId": "@fuwamococh",
+    "channelName": "FUWAMOCO Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/zt63obGOD6fnCX0elnzt8xkylqOTnAENmSCKmwg_PSiC857DDgB28kEjQ-FJlWGtNYZ9lqzEag=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "FWMC",
+    "scheduledStartTime": "2024-04-07T01:00:00Z",
+    "actualStartTime": "2024-04-07T00:55:13Z",
+    "premiere": false
+  },
+  {
     "id": "Xchb8r30lNs",
     "vidUrl": "https://youtu.be/Xchb8r30lNs",
     "vidTitle": "\u3010DEBUT\u3011I'm going to swordfight your dad\u3010VReverie Guardians\u3011",
@@ -1612,6 +1577,32 @@
     "shortName": "Jun",
     "scheduledStartTime": "2024-04-07T01:00:00Z",
     "actualStartTime": "2024-04-07T00:59:17Z",
+    "premiere": false
+  },
+  {
+    "id": "nmP3OsH4-AA",
+    "vidUrl": "https://youtu.be/nmP3OsH4-AA",
+    "vidTitle": "i can jump this time i promise \ud83e\udd72 \u3010Lethal Company\u3011",
+    "channelId": "@rowavnu",
+    "channelName": "Rowa Arctos Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/Y3fKMGNnV6tQDQFjhGpH8Xdat8S1z76xZHdCg08gb5SUN_reNurU1yATDviGnoxKwgmfoBf5ZA=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Rowa",
+    "scheduledStartTime": "2024-04-07T01:00:00Z",
+    "actualStartTime": "2024-04-07T01:19:02Z",
+    "premiere": false
+  },
+  {
+    "id": "iLHi5DTLlGI",
+    "vidUrl": "https://youtu.be/iLHi5DTLlGI",
+    "vidTitle": "[CONTENT WARNING] TRIPLE A CLUB COLLAB!! SMILE FOR THE CAMERA! [V&U | GEN 5]",
+    "channelId": "@cerenityvnu",
+    "channelName": "Cerenity Cosmica Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/dnyzDEaJzR5qZiWFp73wK_f91hlDHxiORtJ6jwu9nzWcLr_vvkHf9IQc2PGhpiBwKWMF5ns2xg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Cerenity",
+    "scheduledStartTime": "2024-04-07T01:00:00Z",
+    "actualStartTime": "2024-04-07T01:19:26Z",
     "premiere": false
   },
   {
