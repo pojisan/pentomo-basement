@@ -48,18 +48,6 @@
     "premiere": false
   },
   {
-    "id": "TJ9mCTTyMDA",
-    "vidUrl": "https://youtu.be/TJ9mCTTyMDA",
-    "vidTitle": "SURPRISEEEE OMG MORE CONTENT WARNING\u3010CONTENT WARNING \u3011",
-    "channelId": "@eliastellaria",
-    "channelName": "Elia Stellaria\u3010V-Dere\u3011",
-    "channelThumb": "https://yt3.ggpht.com/06-Ihgh44rPrUWXBSXAGR0a10dQKGBTm-AEJxG1ThlclvCzFFugh1FSz5PXqXP606Y_BV98SKA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Elia",
-    "scheduledStartTime": "2024-04-07T16:00:00Z",
-    "actualStartTime": "2024-04-07T16:03:52Z",
-    "premiere": false
-  },
-  {
     "id": "UrUIU6tYkXc",
     "vidUrl": "https://youtu.be/UrUIU6tYkXc",
     "vidTitle": "\u3010 Danganronpa 2: Goodbye Despair \u3011Wannabe Analyst Tries Solving Mysteries",
@@ -69,18 +57,6 @@
     "shortName": "Aria",
     "scheduledStartTime": "2024-04-07T16:30:00Z",
     "actualStartTime": "2024-04-07T16:34:18Z",
-    "premiere": false
-  },
-  {
-    "id": "JyAOHkz6Puc",
-    "vidUrl": "https://youtu.be/JyAOHkz6Puc",
-    "vidTitle": "Unhinged Reddit Stories | Reddit Stories",
-    "channelId": "@xinasuwa",
-    "channelName": "Xin Asuwa Ch.",
-    "channelThumb": "https://yt3.ggpht.com/klkgyjaDV5_SOgiCDCeA_eVlOagwjlCrsAta5GTT6ey-LG7G7U-iSeqwZwsZttrJjV7WrhPF1nU=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Xin",
-    "scheduledStartTime": "2024-04-07T17:00:00Z",
-    "actualStartTime": "2024-04-07T17:00:43Z",
     "premiere": false
   },
   {
@@ -1571,6 +1547,32 @@
     "shortName": "Goozilla",
     "scheduledStartTime": "2024-04-07T12:58:39Z",
     "actualStartTime": "2024-04-07T12:58:52Z",
+    "premiere": false
+  },
+  {
+    "id": "TJ9mCTTyMDA",
+    "vidUrl": "https://youtu.be/TJ9mCTTyMDA",
+    "vidTitle": "SURPRISEEEE OMG MORE CONTENT WARNING\u3010CONTENT WARNING \u3011",
+    "channelId": "@eliastellaria",
+    "channelName": "Elia Stellaria\u3010V-Dere\u3011",
+    "channelThumb": "https://yt3.ggpht.com/06-Ihgh44rPrUWXBSXAGR0a10dQKGBTm-AEJxG1ThlclvCzFFugh1FSz5PXqXP606Y_BV98SKA=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Elia",
+    "scheduledStartTime": "2024-04-07T16:00:00Z",
+    "actualStartTime": "2024-04-07T16:03:52Z",
+    "premiere": false
+  },
+  {
+    "id": "JyAOHkz6Puc",
+    "vidUrl": "https://youtu.be/JyAOHkz6Puc",
+    "vidTitle": "Unhinged Reddit Stories | Reddit Stories",
+    "channelId": "@xinasuwa",
+    "channelName": "Xin Asuwa Ch.",
+    "channelThumb": "https://yt3.ggpht.com/klkgyjaDV5_SOgiCDCeA_eVlOagwjlCrsAta5GTT6ey-LG7G7U-iSeqwZwsZttrJjV7WrhPF1nU=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Xin",
+    "scheduledStartTime": "2024-04-07T17:00:00Z",
+    "actualStartTime": "2024-04-07T17:00:43Z",
     "premiere": false
   },
   {
