@@ -1,17 +1,5 @@
 [
   {
-    "id": "lhUrxaMSXHE",
-    "vidUrl": "https://youtu.be/lhUrxaMSXHE",
-    "vidTitle": "\u3010DRAGON'S DOGMA 2\u3011Journey of the ARIZZLER",
-    "channelId": "@kosekibijou",
-    "channelName": "Koseki Bijou Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/75xH5tujXTVPHlQXask8_qTbOeyq0BY4hKxNfvgTrsuqhK_oActrFV197roYikUNZhzayfiLmg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Biboo",
-    "scheduledStartTime": "2024-04-06T23:00:00Z",
-    "actualStartTime": "2024-04-06T22:57:33Z",
-    "premiere": false
-  },
-  {
     "id": "tDvegaC1dYw",
     "vidUrl": "https://youtu.be/tDvegaC1dYw",
     "vidTitle": "\u3010BALDUR'S GATE 3\u3011 LET ME ROLEPLAY (w/ @WalkyriaLiora )",
@@ -69,6 +57,18 @@
     "shortName": "Clara",
     "scheduledStartTime": "2024-04-07T06:00:00Z",
     "actualStartTime": "2024-04-07T06:00:54Z",
+    "premiere": false
+  },
+  {
+    "id": "YZ4kclBadBk",
+    "vidUrl": "https://youtu.be/YZ4kclBadBk",
+    "vidTitle": "Frieren Watchalong EP 15~28 \ud83d\udcfa #shorts",
+    "channelId": "@liolalightbringer",
+    "channelName": "Liola Ch.\u3010MyHolo TV\u3011",
+    "channelThumb": "https://yt3.ggpht.com/pa-ydC8sTdCOp5QdufDcysaOEqZMj09zQsvKoNcJ6RcHlo3Ijaczoor3PNAOrLGN0S5ugEe7=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Liola",
+    "scheduledStartTime": "2024-04-07T06:00:00Z",
+    "actualStartTime": "2024-04-07T06:52:46Z",
     "premiere": false
   },
   {
@@ -190,6 +190,18 @@
     "scheduledStartTime": "2024-04-07T13:00:00Z",
     "actualStartTime": "",
     "premiere": true
+  },
+  {
+    "id": "XZMoI8TDdsk",
+    "vidUrl": "https://youtu.be/XZMoI8TDdsk",
+    "vidTitle": "DAY 7 OF DAILY MINAZUKI! | Birthday Stream (community games + karaoke)",
+    "channelId": "@minazukimana",
+    "channelName": "MinazukiMana - VOLs",
+    "channelThumb": "https://yt3.ggpht.com/O64mRHiN_f8Xzpwucwlf_pegYaW8OWoHcNhfVAwXcSvy3NNUbDoTjQGq0cdyrR0EdGXV4gv6XA=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Mana",
+    "scheduledStartTime": "2024-04-07T13:30:00Z",
+    "actualStartTime": "",
+    "premiere": false
   },
   {
     "id": "lO-zZGiu2no",
@@ -1230,6 +1242,19 @@
     "premiere": false
   },
   {
+    "id": "lhUrxaMSXHE",
+    "vidUrl": "https://youtu.be/lhUrxaMSXHE",
+    "vidTitle": "\u3010DRAGON'S DOGMA 2\u3011Journey of the ARIZZLER",
+    "channelId": "@kosekibijou",
+    "channelName": "Koseki Bijou Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/75xH5tujXTVPHlQXask8_qTbOeyq0BY4hKxNfvgTrsuqhK_oActrFV197roYikUNZhzayfiLmg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Biboo",
+    "scheduledStartTime": "2024-04-06T23:00:00Z",
+    "actualStartTime": "2024-04-06T22:57:33Z",
+    "premiere": false
+  },
+  {
     "id": "tm98ton4BYs",
     "vidUrl": "https://youtu.be/tm98ton4BYs",
     "vidTitle": "\u3010V4MIRAI GEN3 WATCHALONG\u3011PREPARE YOUR BOOQUETS FOR @AliasAnono \u3010Kumanui Miel | globie\u3011",
@@ -1513,19 +1538,6 @@
     "shortName": "Uta",
     "scheduledStartTime": "2024-04-07T05:00:00Z",
     "actualStartTime": "2024-04-07T05:00:53Z",
-    "premiere": false
-  },
-  {
-    "id": "YZ4kclBadBk",
-    "vidUrl": "https://youtu.be/YZ4kclBadBk",
-    "vidTitle": "Frieren Watchalong EP 15~28 \ud83d\udcfa #shorts",
-    "channelId": "@liolalightbringer",
-    "channelName": "Liola Ch.\u3010MyHolo TV\u3011",
-    "channelThumb": "https://yt3.ggpht.com/pa-ydC8sTdCOp5QdufDcysaOEqZMj09zQsvKoNcJ6RcHlo3Ijaczoor3PNAOrLGN0S5ugEe7=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Liola",
-    "scheduledStartTime": "2024-04-07T06:00:00Z",
-    "actualStartTime": "2024-04-07T06:52:46Z",
     "premiere": false
   },
   {
