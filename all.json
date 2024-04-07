@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "4q9kbU7CD98",
-    "vidUrl": "https://youtu.be/4q9kbU7CD98",
-    "vidTitle": "\u3010Poppy Playtime 2\u3011Will I ever finish this?\u3010VOLs\u3011",
-    "channelId": "@shirousamikumi",
-    "channelName": "ShirousaMikumi - VOLs",
-    "channelThumb": "https://yt3.ggpht.com/6Jy6Uud2Vx08hfesvUg3vb2cSd0tj_30_Eeq-Ypg3jK7srTbiGUJKE94YJhedV96ExRC6-KGDA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Mikumi",
-    "scheduledStartTime": "2024-04-07T11:00:00Z",
-    "actualStartTime": "2024-04-07T10:56:19Z",
-    "premiere": false
-  },
-  {
     "id": "vFbF3jP4dAw",
     "vidUrl": "https://youtu.be/vFbF3jP4dAw",
     "vidTitle": "\u3010Minecraft\u3011visiting the nether",
@@ -69,18 +57,6 @@
     "shortName": "Mori",
     "scheduledStartTime": "2024-04-07T12:59:53Z",
     "actualStartTime": "2024-04-07T13:00:28Z",
-    "premiere": false
-  },
-  {
-    "id": "h-Msoyo7IQ4",
-    "vidUrl": "https://youtu.be/h-Msoyo7IQ4",
-    "vidTitle": "Puppet Cafe - \u3071\u307a\u3063\u3068\u304b\u3075\u3047\u2661 Maria Marionette \u3010OFFICIAL MV\u3011 Original Song \u30aa\u30ea\u30b8\u30ca\u30eb\u66f2",
-    "channelId": "@mariamarionette",
-    "channelName": "Maria Marionette \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/EZJ0E6UnrsXZKRPGwZQUJHQ4e3y9PkCHInZFzP06lAE6cYN6MXSZL7O5L5jmTRuDPSzbxNty=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Maririn",
-    "scheduledStartTime": "2024-04-07T13:00:00Z",
-    "actualStartTime": "2024-04-07T13:00:07Z",
     "premiere": false
   },
   {
@@ -1361,19 +1337,6 @@
     "premiere": false
   },
   {
-    "id": "zxoqOKVQ1eI",
-    "vidUrl": "https://youtu.be/zxoqOKVQ1eI",
-    "vidTitle": "\u3010DEBUT WATCHALONG\u3011From One Ghostwriter to Another! V4Mirai's 3rd Generation!\u3010V&U | GEN4\u3011",
-    "channelId": "@spectravnu",
-    "channelName": "Spectra Libitina Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/vJEi9jvzwANF4rzrVugBrJ2CumIsI3pGN68Bap-eEXSqZbp-hNpLAdqSwSIqmgqhHUbbdUzrR-w=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Spectra",
-    "scheduledStartTime": "2024-04-06T23:50:00Z",
-    "actualStartTime": "2024-04-06T23:51:32Z",
-    "premiere": false
-  },
-  {
     "id": "dJxkpsT2QRg",
     "vidUrl": "https://youtu.be/dJxkpsT2QRg",
     "vidTitle": "\u3010V4MIRAI DEBUT WATCHALONG\u3011 New cutie?? @DrNovae  | #sponsored",
@@ -1579,6 +1542,19 @@
     "shortName": "Uta",
     "scheduledStartTime": "2024-04-07T05:00:00Z",
     "actualStartTime": "2024-04-07T05:00:53Z",
+    "premiere": false
+  },
+  {
+    "id": "4q9kbU7CD98",
+    "vidUrl": "https://youtu.be/4q9kbU7CD98",
+    "vidTitle": "\u3010Poppy Playtime 2\u3011Will I ever finish this?\u3010VOLs\u3011",
+    "channelId": "@shirousamikumi",
+    "channelName": "ShirousaMikumi - VOLs",
+    "channelThumb": "https://yt3.ggpht.com/6Jy6Uud2Vx08hfesvUg3vb2cSd0tj_30_Eeq-Ypg3jK7srTbiGUJKE94YJhedV96ExRC6-KGDA=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Mikumi",
+    "scheduledStartTime": "2024-04-07T11:00:00Z",
+    "actualStartTime": "2024-04-07T10:56:19Z",
     "premiere": false
   },
   {
