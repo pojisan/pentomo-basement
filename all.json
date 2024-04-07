@@ -168,18 +168,6 @@
     "premiere": false
   },
   {
-    "id": "7-98KsUc_y0",
-    "vidUrl": "https://youtu.be/7-98KsUc_y0",
-    "vidTitle": "\u301011K SPECIAL\u3011a date with me...? \ud83d\udc95",
-    "channelId": "@miuakumiya",
-    "channelName": "Miu Akumiya | Specialite EN",
-    "channelThumb": "https://yt3.ggpht.com/H0RUX3QxKuAJyYYt-hjfuZpMZXSyrmwH-ovu8KW9Kvyd-D3wToBb_5QDZQ2a3q__w6yo65EQ5xc=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Miu",
-    "scheduledStartTime": "2024-04-07T04:00:46Z",
-    "actualStartTime": "2024-04-07T04:00:56Z",
-    "premiere": false
-  },
-  {
     "id": "NqvCtoOFVjc",
     "vidUrl": "https://youtu.be/NqvCtoOFVjc",
     "vidTitle": "\u3010GUNPLA BUILDING\u3011Hello Kitty x MS-06S Char's Zaku II",
@@ -260,7 +248,7 @@
     "channelThumb": "https://yt3.ggpht.com/Ds02-91FQsIFHxhISPbW0dvCSyrXDEmKyRHIn04c1vRKMXMNobf9Ny4UszPfbWXyNPze7gVqTQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Clara",
     "scheduledStartTime": "2024-04-07T06:00:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-07T06:00:54Z",
     "premiere": false
   },
   {
@@ -1596,6 +1584,19 @@
     "shortName": "Kohaku",
     "scheduledStartTime": "2024-04-07T04:00:00Z",
     "actualStartTime": "2024-04-07T04:00:27Z",
+    "premiere": false
+  },
+  {
+    "id": "7-98KsUc_y0",
+    "vidUrl": "https://youtu.be/7-98KsUc_y0",
+    "vidTitle": "\u301011K SPECIAL\u3011a date with me...? \ud83d\udc95",
+    "channelId": "@miuakumiya",
+    "channelName": "Miu Akumiya | Specialite EN",
+    "channelThumb": "https://yt3.ggpht.com/H0RUX3QxKuAJyYYt-hjfuZpMZXSyrmwH-ovu8KW9Kvyd-D3wToBb_5QDZQ2a3q__w6yo65EQ5xc=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Miu",
+    "scheduledStartTime": "2024-04-07T04:00:46Z",
+    "actualStartTime": "2024-04-07T04:00:56Z",
     "premiere": false
   },
   {
