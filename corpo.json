@@ -108,18 +108,6 @@
     "premiere": false
   },
   {
-    "id": "FCEarKcad0A",
-    "vidUrl": "https://youtu.be/FCEarKcad0A",
-    "vidTitle": "Nikki Rei Presents: This week schedule: 1-7 April",
-    "channelId": "@nikkirei",
-    "channelName": "Nikki Rei Ch. idol-EN",
-    "channelThumb": "https://yt3.ggpht.com/7yN9yQvJhx4cVCL5rLOgsBYiRtRMYEurmtjT0DosKX6qpuoSm9zeo4ELHwy7RW-knfVPzNEqAg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Nikki",
-    "scheduledStartTime": "2024-04-07T20:45:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "7W61ol3BM4c",
     "vidUrl": "https://youtu.be/7W61ol3BM4c",
     "vidTitle": "\u3010HANDCAM\u3011My strength has made you cry. - Figure-Rise KR Den-o Axe Form\u3010Ran Tsukiha\u3011",
@@ -1664,19 +1652,6 @@
     "premiere": false
   },
   {
-    "id": "7-98KsUc_y0",
-    "vidUrl": "https://youtu.be/7-98KsUc_y0",
-    "vidTitle": "\u301011K SPECIAL\u3011a date with me...? \ud83d\udc95",
-    "channelId": "@miuakumiya",
-    "channelName": "Miu Akumiya | Specialite EN",
-    "channelThumb": "https://yt3.ggpht.com/H0RUX3QxKuAJyYYt-hjfuZpMZXSyrmwH-ovu8KW9Kvyd-D3wToBb_5QDZQ2a3q__w6yo65EQ5xc=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Miu",
-    "scheduledStartTime": "2024-04-07T04:00:46Z",
-    "actualStartTime": "2024-04-07T04:00:56Z",
-    "premiere": false
-  },
-  {
     "id": "kkIyj7yPvxE",
     "vidUrl": "https://youtu.be/kkIyj7yPvxE",
     "vidTitle": "\ud83d\udd34Valorant | If I DIE in Valorant I HAVE to do PUSH UPS \ud83d\udcaa\ud83d\udca5",
@@ -1765,6 +1740,19 @@
     "shortName": "Ivaela",
     "scheduledStartTime": "2024-04-07T20:00:00Z",
     "actualStartTime": "2024-04-07T20:01:58Z",
+    "premiere": false
+  },
+  {
+    "id": "FCEarKcad0A",
+    "vidUrl": "https://youtu.be/FCEarKcad0A",
+    "vidTitle": "Nikki Rei Presents: This week schedule: 1-7 April",
+    "channelId": "@nikkirei",
+    "channelName": "Nikki Rei Ch. idol-EN",
+    "channelThumb": "https://yt3.ggpht.com/7yN9yQvJhx4cVCL5rLOgsBYiRtRMYEurmtjT0DosKX6qpuoSm9zeo4ELHwy7RW-knfVPzNEqAg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Nikki",
+    "scheduledStartTime": "2024-04-07T20:45:00Z",
+    "actualStartTime": "",
     "premiere": false
   }
 ]
