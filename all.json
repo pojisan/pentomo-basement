@@ -24,18 +24,6 @@
     "premiere": false
   },
   {
-    "id": "2-f9BjUZiU4",
-    "vidUrl": "https://youtu.be/2-f9BjUZiU4",
-    "vidTitle": "Is this a horror game?\u3010 League of Legends \u3011",
-    "channelId": "@eliastellaria",
-    "channelName": "Elia Stellaria\u3010V-Dere\u3011",
-    "channelThumb": "https://yt3.ggpht.com/06-Ihgh44rPrUWXBSXAGR0a10dQKGBTm-AEJxG1ThlclvCzFFugh1FSz5PXqXP606Y_BV98SKA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Elia",
-    "scheduledStartTime": "2024-04-06T22:00:00Z",
-    "actualStartTime": "2024-04-06T22:01:29Z",
-    "premiere": false
-  },
-  {
     "id": "hfTgzbCblOU",
     "vidUrl": "https://youtu.be/hfTgzbCblOU",
     "vidTitle": "\u3010METAL GEAR SOLID PACHISLOT MACHINE\u3011don't let this stream make you forget that m-\u3010Maid Mint Fantome\u3011",
@@ -360,30 +348,6 @@
     "premiere": false
   },
   {
-    "id": "JJOlJNg-yuM",
-    "vidUrl": "https://youtu.be/JJOlJNg-yuM",
-    "vidTitle": "\u3010#NIJIEN_MKBattle\u3011representing red\u3010NIJISANJI EN | Sonny Brisko\u3011",
-    "channelId": "@sonnybrisko",
-    "channelName": "Sonny Brisko \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/Z6Pi1VkybXJu7D-yDxlSnL6hlavVbedb3qfkbCHc6zllK-Eo4lCqmNxpxc4XUM0IEFACqpdwsKo=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Sonny",
-    "scheduledStartTime": "2024-04-07T02:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "b01DxEqDsVw",
-    "vidUrl": "https://youtu.be/b01DxEqDsVw",
-    "vidTitle": "DRIFTING TO VICTORY FOR TEAM BLUE!!! #NIJIEN_MKBattle",
-    "channelId": "@asterarcadia",
-    "channelName": "Aster Arcadia \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/PfyW7HnjCKF15WfzvFBLo_vx94y_tZw_jpnjku0GyvZnynSODh2E9aJ0Vi1mlc3R8sF_hXNl-g=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Aster",
-    "scheduledStartTime": "2024-04-07T02:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "tMrqv-u8Nrg",
     "vidUrl": "https://youtu.be/tMrqv-u8Nrg",
     "vidTitle": "SPECIALZ \u3010REM Kanashibari | V4Mirai Cover\u3011",
@@ -392,8 +356,8 @@
     "channelThumb": "https://yt3.ggpht.com/wVYBYMI9s6Rq0ONjpaDlrGWx7j-Qf4p-zsxBJgK65NLMvDuYu2A_4VB69LA2PhBlElWgVZbe-OI=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Rem",
     "scheduledStartTime": "2024-04-07T02:10:00Z",
-    "actualStartTime": "",
-    "premiere": true
+    "actualStartTime": "2024-04-07T02:10:07Z",
+    "premiere": false
   },
   {
     "id": "up-8_-Ip4WE",
@@ -404,7 +368,7 @@
     "channelThumb": "https://yt3.ggpht.com/UVbddIOlZlIgpuZK2Ou7_yjprYZfAVJYRgkcCVhQWnY_xjEoxrcDQoTtNyTXFHnW0-O8liLT=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Yumi",
     "scheduledStartTime": "2024-04-07T02:15:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-07T02:16:13Z",
     "premiere": false
   },
   {
@@ -480,6 +444,18 @@
     "premiere": false
   },
   {
+    "id": "JJOlJNg-yuM",
+    "vidUrl": "https://youtu.be/JJOlJNg-yuM",
+    "vidTitle": "\u3010#NIJIEN_MKBattle\u3011representing red\u3010NIJISANJI EN | Sonny Brisko\u3011",
+    "channelId": "@sonnybrisko",
+    "channelName": "Sonny Brisko \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/Z6Pi1VkybXJu7D-yDxlSnL6hlavVbedb3qfkbCHc6zllK-Eo4lCqmNxpxc4XUM0IEFACqpdwsKo=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Sonny",
+    "scheduledStartTime": "2024-04-07T03:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "Nplel7ZxRWc",
     "vidUrl": "https://youtu.be/Nplel7ZxRWc",
     "vidTitle": "\u3010Cassette Beasts\u3011Best Buddies!",
@@ -487,6 +463,18 @@
     "channelName": "Lillian\u3010BlueJump EN\u3011",
     "channelThumb": "https://yt3.ggpht.com/ZyQVNSp-gOO1KVonCwFgE0I1lz749HgsVPc0GV4tOYvv3TdSE_nzE7iS9fZEZtlxqWbz2Ta_ww=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Lillian",
+    "scheduledStartTime": "2024-04-07T03:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "b01DxEqDsVw",
+    "vidUrl": "https://youtu.be/b01DxEqDsVw",
+    "vidTitle": "DRIFTING TO VICTORY FOR TEAM BLUE!!! #NIJIEN_MKBattle",
+    "channelId": "@asterarcadia",
+    "channelName": "Aster Arcadia \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/PfyW7HnjCKF15WfzvFBLo_vx94y_tZw_jpnjku0GyvZnynSODh2E9aJ0Vi1mlc3R8sF_hXNl-g=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Aster",
     "scheduledStartTime": "2024-04-07T03:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -1572,19 +1560,6 @@
     "premiere": false
   },
   {
-    "id": "3yqZLw9E1FM",
-    "vidUrl": "https://youtu.be/3yqZLw9E1FM",
-    "vidTitle": "\u3010HOSPITAL 666\u3011Smell of life and.. DEATH! ft. @Merpperoni @Fisani @liolalightbringer \u3010globie 1st Gen\u3011",
-    "channelId": "@taringhu",
-    "channelName": "Taring Hu ch. \u30bf\u30ea\u30f3\u30d5\u30fc\u3010globie\u3011",
-    "channelThumb": "https://yt3.ggpht.com/ZVYdvQBa9q2BLWfDnqUrpJD16c5Tr0vGoXjvBFgydUvA1XKt1cuJPT8aMM6bSE_MtPFQVwaQYA=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Hu",
-    "scheduledStartTime": "2024-04-06T06:00:00Z",
-    "actualStartTime": "2024-04-06T06:07:43Z",
-    "premiere": false
-  },
-  {
     "id": "DLp2CyBA8BQ",
     "vidUrl": "https://youtu.be/DLp2CyBA8BQ",
     "vidTitle": "\u3010BLAISE N' BREAKFAST\u3011BREAKFAST RAMEN?! 4/6/2024\u3010EIEN Project\u3011",
@@ -1647,6 +1622,19 @@
     "shortName": "Mero",
     "scheduledStartTime": "2024-04-06T22:00:00Z",
     "actualStartTime": "2024-04-06T21:59:47Z",
+    "premiere": false
+  },
+  {
+    "id": "2-f9BjUZiU4",
+    "vidUrl": "https://youtu.be/2-f9BjUZiU4",
+    "vidTitle": "Is this a horror game?\u3010 League of Legends \u3011",
+    "channelId": "@eliastellaria",
+    "channelName": "Elia Stellaria\u3010V-Dere\u3011",
+    "channelThumb": "https://yt3.ggpht.com/06-Ihgh44rPrUWXBSXAGR0a10dQKGBTm-AEJxG1ThlclvCzFFugh1FSz5PXqXP606Y_BV98SKA=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Elia",
+    "scheduledStartTime": "2024-04-06T22:00:00Z",
+    "actualStartTime": "2024-04-06T22:01:29Z",
     "premiere": false
   },
   {
