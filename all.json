@@ -1,29 +1,5 @@
 [
   {
-    "id": "Or-XBmUvj4k",
-    "vidUrl": "https://youtu.be/Or-XBmUvj4k",
-    "vidTitle": "(more) FIRST TIME HOLLOW KNIGHT",
-    "channelId": "@maevevnu",
-    "channelName": "Kagekiri Maeve Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/chqWD1VyGO8YdOq75KWxKvH0RcBMayDUlmtDeO9Btb__V9Zr-ow3CSoiOfhE3SrynzSC9J8=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Maeve",
-    "scheduledStartTime": "2024-04-06T22:30:00Z",
-    "actualStartTime": "2024-04-06T22:30:01Z",
-    "premiere": false
-  },
-  {
-    "id": "iyjgTd77OPo",
-    "vidUrl": "https://youtu.be/iyjgTd77OPo",
-    "vidTitle": "(more) FIRST TIME HOLLOW KNIGHT #shorts #shortslive #shortsfeed #shortsgaming",
-    "channelId": "@maevevnu",
-    "channelName": "Kagekiri Maeve Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/chqWD1VyGO8YdOq75KWxKvH0RcBMayDUlmtDeO9Btb__V9Zr-ow3CSoiOfhE3SrynzSC9J8=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Maeve",
-    "scheduledStartTime": "2024-04-06T22:30:00Z",
-    "actualStartTime": "2024-04-06T22:33:47Z",
-    "premiere": false
-  },
-  {
     "id": "lhUrxaMSXHE",
     "vidUrl": "https://youtu.be/lhUrxaMSXHE",
     "vidTitle": "\u3010DRAGON'S DOGMA 2\u3011Journey of the ARIZZLER",
@@ -33,18 +9,6 @@
     "shortName": "Biboo",
     "scheduledStartTime": "2024-04-06T23:00:00Z",
     "actualStartTime": "2024-04-06T22:57:33Z",
-    "premiere": false
-  },
-  {
-    "id": "AdzlqMO6kZU",
-    "vidUrl": "https://youtu.be/AdzlqMO6kZU",
-    "vidTitle": "\u3010PERSONA 3 RELOAD\u3011 i. love kenji :)",
-    "channelId": "@amoriavnu",
-    "channelName": "Amoria Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/xE9UTkowb3ioACbhZJuLwEGgBQEq4akaOHZZBTGmgn807ALVQKp91t_Gr74tgSpWRmN7SaEgnQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Amoria",
-    "scheduledStartTime": "2024-04-07T00:00:00Z",
-    "actualStartTime": "2024-04-07T00:07:55Z",
     "premiere": false
   },
   {
@@ -578,7 +542,7 @@
   {
     "id": "vlXi3g39tik",
     "vidUrl": "https://youtu.be/vlXi3g39tik",
-    "vidTitle": "Anime Girl Cupcakes! Turning Lunalia into Food.\u3010V4Mirai | Goozalo Kadabura\u3011",
+    "vidTitle": "Anime Girl Cupcakes! ANNOUNCEMENTS + Turning Lunalia into YUM!\u3010V4Mirai | Goozalo Kadabura\u3011",
     "channelId": "@abikadabura",
     "channelName": "Abi Kadabura Ch.\u3010V4Mirai\u3011",
     "channelThumb": "https://yt3.ggpht.com/B_9QpINpsFh56b7Ji0WR1H0D5HO69g-93EuXiqaldjR5WXOSXB1aPfw0AJS4cPRikq_axPzh=s88-c-k-c0x00ffffff-no-rj",
@@ -1435,6 +1399,32 @@
     "premiere": false
   },
   {
+    "id": "Or-XBmUvj4k",
+    "vidUrl": "https://youtu.be/Or-XBmUvj4k",
+    "vidTitle": "(more) FIRST TIME HOLLOW KNIGHT",
+    "channelId": "@maevevnu",
+    "channelName": "Kagekiri Maeve Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/chqWD1VyGO8YdOq75KWxKvH0RcBMayDUlmtDeO9Btb__V9Zr-ow3CSoiOfhE3SrynzSC9J8=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Maeve",
+    "scheduledStartTime": "2024-04-06T22:30:00Z",
+    "actualStartTime": "2024-04-06T22:30:01Z",
+    "premiere": false
+  },
+  {
+    "id": "iyjgTd77OPo",
+    "vidUrl": "https://youtu.be/iyjgTd77OPo",
+    "vidTitle": "(more) FIRST TIME HOLLOW KNIGHT #shorts #shortslive #shortsfeed #shortsgaming",
+    "channelId": "@maevevnu",
+    "channelName": "Kagekiri Maeve Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/chqWD1VyGO8YdOq75KWxKvH0RcBMayDUlmtDeO9Btb__V9Zr-ow3CSoiOfhE3SrynzSC9J8=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Maeve",
+    "scheduledStartTime": "2024-04-06T22:30:00Z",
+    "actualStartTime": "2024-04-06T22:33:47Z",
+    "premiere": false
+  },
+  {
     "id": "tm98ton4BYs",
     "vidUrl": "https://youtu.be/tm98ton4BYs",
     "vidTitle": "\u3010V4MIRAI GEN3 WATCHALONG\u3011PREPARE YOUR BOOQUETS FOR @AliasAnono \u3010Kumanui Miel | globie\u3011",
@@ -1510,6 +1500,19 @@
     "shortName": "Spectra",
     "scheduledStartTime": "2024-04-06T23:50:00Z",
     "actualStartTime": "2024-04-06T23:51:32Z",
+    "premiere": false
+  },
+  {
+    "id": "AdzlqMO6kZU",
+    "vidUrl": "https://youtu.be/AdzlqMO6kZU",
+    "vidTitle": "\u3010PERSONA 3 RELOAD\u3011 i. love kenji :)",
+    "channelId": "@amoriavnu",
+    "channelName": "Amoria Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/xE9UTkowb3ioACbhZJuLwEGgBQEq4akaOHZZBTGmgn807ALVQKp91t_Gr74tgSpWRmN7SaEgnQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Amoria",
+    "scheduledStartTime": "2024-04-07T00:00:00Z",
+    "actualStartTime": "2024-04-07T00:07:55Z",
     "premiere": false
   },
   {
