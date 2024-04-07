@@ -60,30 +60,6 @@
     "premiere": false
   },
   {
-    "id": "ZWyEMtVO7kg",
-    "vidUrl": "https://youtu.be/ZWyEMtVO7kg",
-    "vidTitle": "charlotte suzu does standup comedy",
-    "channelId": "@charlottesuzu",
-    "channelName": "Charlotte Suzu / \u30b7\u30e3\u30fc\u30ed\u30c3\u30c8\u30fb\u30b9\u30ba \u3010kawaii\u3011",
-    "channelThumb": "https://yt3.ggpht.com/GsB4xQkkRT82EzVSuT8nU34Dj0MoofYZRwsTw2WWy4DHpvrGkmN2_59njomL2MuZCuR0I7i3-XM=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Charzu",
-    "scheduledStartTime": "2024-04-07T02:00:20Z",
-    "actualStartTime": "2024-04-07T02:00:34Z",
-    "premiere": false
-  },
-  {
-    "id": "7jtxZAvhkSI",
-    "vidUrl": "https://youtu.be/7jtxZAvhkSI",
-    "vidTitle": "\u3010DEBUT\u3011Bring Out Your Headphones and Shades!\u3010VReverie Guardians\u3011",
-    "channelId": "@kamikorinona",
-    "channelName": "Kamiko Rinona Ch. [VReverie]",
-    "channelThumb": "https://yt3.ggpht.com/qcl7TbdV-JgQfqc02hhSCVMPYaWzXpZvVCmiuyB2URAiz7Xkb-OtUwWm9Wwb-2iPjbqU2wfZFB8=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Rinona",
-    "scheduledStartTime": "2024-04-07T03:00:00Z",
-    "actualStartTime": "2024-04-07T02:56:45Z",
-    "premiere": false
-  },
-  {
     "id": "Nplel7ZxRWc",
     "vidUrl": "https://youtu.be/Nplel7ZxRWc",
     "vidTitle": "\u3010Cassette Beasts\u3011Best Buddies!",
@@ -105,6 +81,30 @@
     "shortName": "Naki",
     "scheduledStartTime": "2024-04-07T03:00:00Z",
     "actualStartTime": "2024-04-07T03:01:38Z",
+    "premiere": false
+  },
+  {
+    "id": "to6ihgC0hQY",
+    "vidUrl": "https://youtu.be/to6ihgC0hQY",
+    "vidTitle": "\u3010ASMR | 3DIO\u3011ear massage & soft whispers",
+    "channelId": "@ayucouldeat",
+    "channelName": "ayu",
+    "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_lsWCiI3Ql224DtcPwGp6l3xJ-gt-C5PpfEVnH7GxeZXhU=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Ayu",
+    "scheduledStartTime": "2024-04-07T04:00:00Z",
+    "actualStartTime": "2024-04-07T03:55:28Z",
+    "premiere": false
+  },
+  {
+    "id": "7jtxZAvhkSI",
+    "vidUrl": "https://youtu.be/7jtxZAvhkSI",
+    "vidTitle": "\u3010DEBUT\u3011Bring Out Your Headphones and Shades!\u3010VReverie Guardians\u3011",
+    "channelId": "@kamikorinona",
+    "channelName": "Kamiko Rinona Ch. [VReverie]",
+    "channelThumb": "https://yt3.ggpht.com/qcl7TbdV-JgQfqc02hhSCVMPYaWzXpZvVCmiuyB2URAiz7Xkb-OtUwWm9Wwb-2iPjbqU2wfZFB8=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Rinona",
+    "scheduledStartTime": "2024-04-07T03:00:00Z",
+    "actualStartTime": "2024-04-07T02:56:45Z",
     "premiere": false
   },
   {
@@ -374,7 +374,7 @@
   {
     "id": "vlXi3g39tik",
     "vidUrl": "https://youtu.be/vlXi3g39tik",
-    "vidTitle": "Wake Up with Abi Kadabura: Making My K\u014dhai!\u3010V4Mirai | Goozalo Kadabura\u3011",
+    "vidTitle": "Anime Girl Cupcakes! Turning Lunalia into Food.\u3010V4Mirai | Goozalo Kadabura\u3011",
     "channelId": "@abikadabura",
     "channelName": "Abi Kadabura Ch.\u3010V4Mirai\u3011",
     "channelThumb": "https://yt3.ggpht.com/B_9QpINpsFh56b7Ji0WR1H0D5HO69g-93EuXiqaldjR5WXOSXB1aPfw0AJS4cPRikq_axPzh=s88-c-k-c0x00ffffff-no-rj",
@@ -728,6 +728,18 @@
     "channelThumb": "https://yt3.ggpht.com/BoAq-UdPFP5MPfUMIWFQwgmeBERbkZx40VxLdrMas6I7c5koPDBUmh4LaJLUJQd9rZbD9KSKog4=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Muyu",
     "scheduledStartTime": "2024-04-09T14:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "m6tdd7bMq9E",
+    "vidUrl": "https://youtu.be/m6tdd7bMq9E",
+    "vidTitle": "\u3010ASMR\u3011gentle singing in the rain\u3010REM Kanashibari | V4Mirai | ENVtuber\u3011",
+    "channelId": "@remkanashibari",
+    "channelName": "REM Kanashibari Ch.\u3010V4Mirai\u3011",
+    "channelThumb": "https://yt3.ggpht.com/wVYBYMI9s6Rq0ONjpaDlrGWx7j-Qf4p-zsxBJgK65NLMvDuYu2A_4VB69LA2PhBlElWgVZbe-OI=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Rem",
+    "scheduledStartTime": "2024-04-09T22:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -1463,19 +1475,6 @@
     "premiere": false
   },
   {
-    "id": "wiV68dOn6Kk",
-    "vidUrl": "https://youtu.be/wiV68dOn6Kk",
-    "vidTitle": "My voice acting is in a game!",
-    "channelId": "@obakepam",
-    "channelName": "Obake PAM Ch.",
-    "channelThumb": "https://yt3.ggpht.com/FlbqAWrn9OdE4QcjGweQkH_2WUf2kCAQPbiC4dVvt6ItUWE4pLnUrs9MJ3-KtyeULY0hGe-VPio=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Obake PAM",
-    "scheduledStartTime": "2024-04-07T00:00:00Z",
-    "actualStartTime": "2024-04-07T00:04:29Z",
-    "premiere": false
-  },
-  {
     "id": "dJxkpsT2QRg",
     "vidUrl": "https://youtu.be/dJxkpsT2QRg",
     "vidTitle": "\u3010V4MIRAI DEBUT WATCHALONG\u3011 New cutie?? @DrNovae  | #sponsored",
@@ -1554,19 +1553,6 @@
     "premiere": false
   },
   {
-    "id": "iLHi5DTLlGI",
-    "vidUrl": "https://youtu.be/iLHi5DTLlGI",
-    "vidTitle": "[CONTENT WARNING] TRIPLE A CLUB COLLAB!! SMILE FOR THE CAMERA! [V&U | GEN 5]",
-    "channelId": "@cerenityvnu",
-    "channelName": "Cerenity Cosmica Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/dnyzDEaJzR5qZiWFp73wK_f91hlDHxiORtJ6jwu9nzWcLr_vvkHf9IQc2PGhpiBwKWMF5ns2xg=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Cerenity",
-    "scheduledStartTime": "2024-04-07T01:00:00Z",
-    "actualStartTime": "2024-04-07T01:19:26Z",
-    "premiere": false
-  },
-  {
     "id": "SwXRQIsrsB0",
     "vidUrl": "https://youtu.be/SwXRQIsrsB0",
     "vidTitle": "\u3010 V4MIRAI DEBUT WATCHALONG \u3011 Dreaming of @REMKanashibari 's Debut! #sponsored",
@@ -1629,6 +1615,19 @@
     "shortName": "Kokone",
     "scheduledStartTime": "2024-04-07T02:00:00Z",
     "actualStartTime": "2024-04-07T02:00:12Z",
+    "premiere": false
+  },
+  {
+    "id": "ZWyEMtVO7kg",
+    "vidUrl": "https://youtu.be/ZWyEMtVO7kg",
+    "vidTitle": "charlotte suzu does standup comedy",
+    "channelId": "@charlottesuzu",
+    "channelName": "Charlotte Suzu / \u30b7\u30e3\u30fc\u30ed\u30c3\u30c8\u30fb\u30b9\u30ba \u3010kawaii\u3011",
+    "channelThumb": "https://yt3.ggpht.com/GsB4xQkkRT82EzVSuT8nU34Dj0MoofYZRwsTw2WWy4DHpvrGkmN2_59njomL2MuZCuR0I7i3-XM=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Charzu",
+    "scheduledStartTime": "2024-04-07T02:00:20Z",
+    "actualStartTime": "2024-04-07T02:00:34Z",
     "premiere": false
   }
 ]
