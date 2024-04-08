@@ -132,18 +132,6 @@
     "premiere": false
   },
   {
-    "id": "GkajPDuob6Y",
-    "vidUrl": "https://youtu.be/GkajPDuob6Y",
-    "vidTitle": "\u3010DRAGON'S DOGMA 2\u3011Let me Yeet you! | Part 3\u3010VOLs\u3011",
-    "channelId": "@angycatto_vols",
-    "channelName": "Angy Catto - VOLs",
-    "channelThumb": "https://yt3.ggpht.com/QmtGoU3n-jCQAj1gfC6hKg-PiFlyGTW-sz1HZJZlV8Av1Kdial8AJphIpJD7ywQWtUuVgyjo=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Angy",
-    "scheduledStartTime": "2024-04-08T14:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "dfdTQgf91Fo",
     "vidUrl": "https://youtu.be/dfdTQgf91Fo",
     "vidTitle": "\u3010FIND YOURSELF\u3011Repeat after me: WHAT ARE WE? PHANTOMOS\u3010NIJISANJI EN | Reimu Endou\u3011",
@@ -152,7 +140,19 @@
     "channelThumb": "https://yt3.ggpht.com/jwZT783V-LU58DMyjShj-CWJ3GGsM5DaHX20vtIExe7LNGpaS0P5pZJV_EH11AprgaHocu6CKA=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Reimu",
     "scheduledStartTime": "2024-04-08T14:00:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-08T14:00:34Z",
+    "premiere": false
+  },
+  {
+    "id": "GkajPDuob6Y",
+    "vidUrl": "https://youtu.be/GkajPDuob6Y",
+    "vidTitle": "\u3010DRAGON'S DOGMA 2\u3011Let me Yeet you! | Part 3\u3010VOLs\u3011",
+    "channelId": "@angycatto_vols",
+    "channelName": "Angy Catto - VOLs",
+    "channelThumb": "https://yt3.ggpht.com/QmtGoU3n-jCQAj1gfC6hKg-PiFlyGTW-sz1HZJZlV8Av1Kdial8AJphIpJD7ywQWtUuVgyjo=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Angy",
+    "scheduledStartTime": "2024-04-08T14:00:00Z",
+    "actualStartTime": "2024-04-08T14:01:17Z",
     "premiere": false
   },
   {
@@ -379,6 +379,18 @@
     "channelName": "Mivi Aivori Ch. V&U",
     "channelThumb": "https://yt3.ggpht.com/b0A2emwbDeLrLg3NZ5zlJf0AjwnxRx8dKsbah9w_DAOW5W-nhvK_JmA87yYFwYN6KeB4dOzH=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Mivi",
+    "scheduledStartTime": "2024-04-08T22:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "CSFznW3BzEo",
+    "vidUrl": "https://youtu.be/CSFznW3BzEo",
+    "vidTitle": "\u3010Supermarket Simulator\u3011my company died so now i work a regular 9-5",
+    "channelId": "@niasuzune",
+    "channelName": "Nia Suzune / \u9234\u97f3\u306b\u3042\u3010Requiem\u3011",
+    "channelThumb": "https://yt3.ggpht.com/EZIsXrouGx2aOmLFm39j_fLbX-5XSqIZZN20OHosxCvZbrjXFAk9z_GBWk1B4jaafizyAjTDBPY=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Nia",
     "scheduledStartTime": "2024-04-08T22:00:00Z",
     "actualStartTime": "",
     "premiere": false
