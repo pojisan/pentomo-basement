@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "GkajPDuob6Y",
-    "vidUrl": "https://youtu.be/GkajPDuob6Y",
-    "vidTitle": "\u3010DRAGON'S DOGMA 2\u3011Let me Yeet you! | Part 3\u3010VOLs\u3011",
-    "channelId": "@angycatto_vols",
-    "channelName": "Angy Catto - VOLs",
-    "channelThumb": "https://yt3.ggpht.com/QmtGoU3n-jCQAj1gfC6hKg-PiFlyGTW-sz1HZJZlV8Av1Kdial8AJphIpJD7ywQWtUuVgyjo=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Angy",
-    "scheduledStartTime": "2024-04-08T14:00:00Z",
-    "actualStartTime": "2024-04-08T14:01:17Z",
-    "premiere": false
-  },
-  {
     "id": "tpJstDsWz18",
     "vidUrl": "https://youtu.be/tpJstDsWz18",
     "vidTitle": "VERY GRAPHIC WAIFU BOOMER SHOOTER (OMG)",
@@ -33,18 +21,6 @@
     "shortName": "Coni",
     "scheduledStartTime": "2024-04-08T14:55:52Z",
     "actualStartTime": "2024-04-08T14:56:01Z",
-    "premiere": false
-  },
-  {
-    "id": "Xo-gsxYXW5g",
-    "vidUrl": "https://youtu.be/Xo-gsxYXW5g",
-    "vidTitle": "I'm Just An Innocent Puppy I Pwomise Master\ud83e\udd7a\ud83e\udd7a\ud83e\udd7a [DORONKO WANKO]",
-    "channelId": "@neneamanoch",
-    "channelName": "Nene Amano Ch. \u5929\u91ce\u5be7\u3005\u3010kawaii\u3011",
-    "channelThumb": "https://yt3.ggpht.com/gQXL64aSlteGuabzrOCxa7Qs-OdOJ0EAMeTP1hpSpI_5_IAkpjy3X0Y4aTVe9BxxXvXOCE5VdLc=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Nene",
-    "scheduledStartTime": "2024-04-08T15:00:00Z",
-    "actualStartTime": "2024-04-08T15:04:30Z",
     "premiere": false
   },
   {
@@ -427,6 +403,18 @@
     "channelName": "Meimi Majokko Ch. \u9b54\u5973\u3063\u5b50\u3081\u3044\u307f\u3010kawaii\u3011",
     "channelThumb": "https://yt3.ggpht.com/yKOTdfPIaUJm7wH2snXzhSgGPqJL4STR1n08lCrGFZa-7oxEZuSgy080xUQt7Y3iPp2m47FLYA=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Meimi",
+    "scheduledStartTime": "2024-04-09T00:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "hPQwFe5r3ME",
+    "vidUrl": "https://youtu.be/hPQwFe5r3ME",
+    "vidTitle": "Building A Deck With ONLY 10 Master Packs W/ @TheDuelLogs",
+    "channelId": "@novaaokami",
+    "channelName": "Nova Aokami Ch. [VReverie]",
+    "channelThumb": "https://yt3.ggpht.com/meX1uEFMv6_rki86cHBRXvTGGW7VxvnhWUREh2SUpbA8O77kQKR7xnKGU2Vwmbb69aPmsfji=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Nova",
     "scheduledStartTime": "2024-04-09T00:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2694,6 +2682,32 @@
     "shortName": "Miel",
     "scheduledStartTime": "2024-04-08T05:00:00Z",
     "actualStartTime": "2024-04-08T05:01:31Z",
+    "premiere": false
+  },
+  {
+    "id": "GkajPDuob6Y",
+    "vidUrl": "https://youtu.be/GkajPDuob6Y",
+    "vidTitle": "\u3010DRAGON'S DOGMA 2\u3011Let me Yeet you! | Part 3\u3010VOLs\u3011",
+    "channelId": "@angycatto_vols",
+    "channelName": "Angy Catto - VOLs",
+    "channelThumb": "https://yt3.ggpht.com/QmtGoU3n-jCQAj1gfC6hKg-PiFlyGTW-sz1HZJZlV8Av1Kdial8AJphIpJD7ywQWtUuVgyjo=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Angy",
+    "scheduledStartTime": "2024-04-08T14:00:00Z",
+    "actualStartTime": "2024-04-08T14:01:17Z",
+    "premiere": false
+  },
+  {
+    "id": "Xo-gsxYXW5g",
+    "vidUrl": "https://youtu.be/Xo-gsxYXW5g",
+    "vidTitle": "I'm Just An Innocent Puppy I Pwomise Master\ud83e\udd7a\ud83e\udd7a\ud83e\udd7a [DORONKO WANKO]",
+    "channelId": "@neneamanoch",
+    "channelName": "Nene Amano Ch. \u5929\u91ce\u5be7\u3005\u3010kawaii\u3011",
+    "channelThumb": "https://yt3.ggpht.com/gQXL64aSlteGuabzrOCxa7Qs-OdOJ0EAMeTP1hpSpI_5_IAkpjy3X0Y4aTVe9BxxXvXOCE5VdLc=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Nene",
+    "scheduledStartTime": "2024-04-08T15:00:00Z",
+    "actualStartTime": "2024-04-08T15:04:30Z",
     "premiere": false
   },
   {
