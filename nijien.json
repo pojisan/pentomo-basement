@@ -36,18 +36,6 @@
     "premiere": false
   },
   {
-    "id": "Bg-Ox_6CG3E",
-    "vidUrl": "https://youtu.be/Bg-Ox_6CG3E",
-    "vidTitle": "\u3010SCHOOL LABYRINTH\u3011 feeling a lil silly n did a ritual no biggie\u3010NIJISANJI EN | Claude Clawmark\u3011",
-    "channelId": "@claudeclawmark",
-    "channelName": "Claude Clawmark \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/e7od55bIqtwAdCdpEdEf1d-PITBdVzntIaqGwTif46sTptNuJQ4WlVPPcfskh3wqb9axkDuOSg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Claude",
-    "scheduledStartTime": "2024-04-08T22:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "jSObVzbOtLU",
     "vidUrl": "https://youtu.be/jSObVzbOtLU",
     "vidTitle": "\u3010SHINKANSEN 0 | \u65b0\u5e79\u7dda 0\u53f7\u3011SPEED OF SOUND!!",
@@ -178,6 +166,19 @@
     "shortName": "Enna",
     "scheduledStartTime": "2024-04-08T15:00:00Z",
     "actualStartTime": "2024-04-08T15:15:47Z",
+    "premiere": false
+  },
+  {
+    "id": "Bg-Ox_6CG3E",
+    "vidUrl": "https://youtu.be/Bg-Ox_6CG3E",
+    "vidTitle": "\u3010SCHOOL LABYRINTH\u3011 feeling a lil silly n did a ritual no biggie\u3010NIJISANJI EN | Claude Clawmark\u3011",
+    "channelId": "@claudeclawmark",
+    "channelName": "Claude Clawmark \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/e7od55bIqtwAdCdpEdEf1d-PITBdVzntIaqGwTif46sTptNuJQ4WlVPPcfskh3wqb9axkDuOSg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Claude",
+    "scheduledStartTime": "2024-04-08T22:00:00Z",
+    "actualStartTime": "",
     "premiere": false
   }
 ]
