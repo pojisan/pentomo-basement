@@ -132,18 +132,6 @@
     "premiere": false
   },
   {
-    "id": "_Xj76yIo_ck",
-    "vidUrl": "https://youtu.be/_Xj76yIo_ck",
-    "vidTitle": "let's try some dps?!\u3010Overwatch\u3011",
-    "channelId": "@ayucouldeat",
-    "channelName": "ayu",
-    "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_lsWCiI3Ql224DtcPwGp6l3xJ-gt-C5PpfEVnH7GxeZXhU=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Ayu",
-    "scheduledStartTime": "2024-04-08T04:00:00Z",
-    "actualStartTime": "2024-04-08T03:56:01Z",
-    "premiere": false
-  },
-  {
     "id": "reu57vNchcQ",
     "vidUrl": "https://youtu.be/reu57vNchcQ",
     "vidTitle": "\u307e\u3060\u307e\u3060\u3044\u3063\u3071\u3044\u4fee\u6b63\u3067\u304d\u308b\u3068\u3053\u304c\u3042\u308b\u3088\uff01\uff01\uff01\u3010\u6b4c\u7f8e\u9cf4\u30af\u30e9\u30e9 / Phase Connect\u3011",
@@ -523,6 +511,18 @@
     "channelName": "Zeli Zuimu Ch. V&U",
     "channelThumb": "https://yt3.ggpht.com/x-Jy2Z-kGAif3VDun_IhsnyYfzF5aWhNbwG6fcms85aKwauMlcr0dwA2onUFirEFs2BD8YFwjWg=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Zeli",
+    "scheduledStartTime": "2024-04-09T00:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "Vt_m9wPEFyA",
+    "vidUrl": "https://youtu.be/Vt_m9wPEFyA",
+    "vidTitle": "\u3010SHADOW OF THE COLOSSUS\u3011the acupuncture specialist\u3010Dokibird\u3011",
+    "channelId": "@dokibird",
+    "channelName": "Dokibird",
+    "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_mf5svGdYXrmhbf9rUUO08gWVso8TBzUt8kmmIF9nySfKk=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Doki",
     "scheduledStartTime": "2024-04-09T00:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2020,6 +2020,19 @@
     "shortName": "Rowa",
     "scheduledStartTime": "2024-04-07T23:00:00Z",
     "actualStartTime": "2024-04-07T23:01:05Z",
+    "premiere": false
+  },
+  {
+    "id": "_Xj76yIo_ck",
+    "vidUrl": "https://youtu.be/_Xj76yIo_ck",
+    "vidTitle": "let's try some dps?!\u3010Overwatch\u3011",
+    "channelId": "@ayucouldeat",
+    "channelName": "ayu",
+    "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_lsWCiI3Ql224DtcPwGp6l3xJ-gt-C5PpfEVnH7GxeZXhU=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Ayu",
+    "scheduledStartTime": "2024-04-08T04:00:00Z",
+    "actualStartTime": "2024-04-08T03:56:01Z",
     "premiere": false
   },
   {
