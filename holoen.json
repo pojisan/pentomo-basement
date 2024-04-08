@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "6duKZ-0ZLi4",
-    "vidUrl": "https://youtu.be/6duKZ-0ZLi4",
-    "vidTitle": "\u226aLies of P \u226b MAVERICK GAMING #9\u3010SPOILER WARNING\u3011",
-    "channelId": "@hakosbaelz",
-    "channelName": "Hakos Baelz Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/SSZxkgjfV0O05zq1bBLOI0PszOCoxuPrANQ0Ysngsd0t81mnkwzEgIW2ypSIQJLn8swR14zLJQ=s88-c-k-c0x00ffffff-no-nd-rj",
-    "shortName": "Bae",
-    "scheduledStartTime": "2024-04-08T01:00:00Z",
-    "actualStartTime": "2024-04-08T01:01:06Z",
-    "premiere": false
-  },
-  {
     "id": "Upd-qVgh9dc",
     "vidUrl": "https://youtu.be/Upd-qVgh9dc",
     "vidTitle": "\u3010MONSTER HUNTER WORLD\u3011I WANT TO WEAR THESE MONSTERS",
@@ -44,7 +32,7 @@
     "channelThumb": "https://yt3.ggpht.com/ZlovVsPyh8NgS37S4dfONiCBySiboGPbT9cYuirb8JM3JhSnqlpJk-8SQUEA7jPfqXpMvjaa=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Shiori",
     "scheduledStartTime": "2024-04-08T04:00:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-08T03:56:35Z",
     "premiere": false
   },
   {
@@ -105,6 +93,19 @@
     "shortName": "Mori",
     "scheduledStartTime": "2025-04-04T10:30:00Z",
     "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "6duKZ-0ZLi4",
+    "vidUrl": "https://youtu.be/6duKZ-0ZLi4",
+    "vidTitle": "\u226aLies of P \u226b MAVERICK GAMING #9\u3010SPOILER WARNING\u3011",
+    "channelId": "@hakosbaelz",
+    "channelName": "Hakos Baelz Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/SSZxkgjfV0O05zq1bBLOI0PszOCoxuPrANQ0Ysngsd0t81mnkwzEgIW2ypSIQJLn8swR14zLJQ=s88-c-k-c0x00ffffff-no-nd-rj",
+    "graveyard": true,
+    "shortName": "Bae",
+    "scheduledStartTime": "2024-04-08T01:00:00Z",
+    "actualStartTime": "2024-04-08T01:01:06Z",
     "premiere": false
   }
 ]
