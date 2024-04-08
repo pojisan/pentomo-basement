@@ -252,18 +252,6 @@
     "premiere": false
   },
   {
-    "id": "rZ797qTDXfU",
-    "vidUrl": "https://youtu.be/rZ797qTDXfU",
-    "vidTitle": "Temp Waiting Room For Twitter Space",
-    "channelId": "@emberamane",
-    "channelName": "Ember Amane Ch. \u3010Phase Connect\u3011",
-    "channelThumb": "https://yt3.ggpht.com/DEkqZgNRdCOo4QicUE-KZvSRke0scAYn1xVAQ3rZo3ccY0YqACOcV517lIeBjPz5Y7OSLjnlbg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Ember",
-    "scheduledStartTime": "2024-04-08T19:35:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "92q8sXD6NiA",
     "vidUrl": "https://youtu.be/92q8sXD6NiA",
     "vidTitle": "Guerilla - Anime Girl Cries while working\u30103dio ASMR\u3011",
@@ -271,6 +259,18 @@
     "channelName": "Airi Viridis Ch. \u3010V-Dere\u3011",
     "channelThumb": "https://yt3.ggpht.com/hr4djvNbGuwQ5f6fID5xc6hY5sYgWPMw02AbbvKDKxPvMdlhk3FTXFbdexF_I5KHe9RizOg2ZQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Airi",
+    "scheduledStartTime": "2024-04-08T21:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "OcTqQ7EBA0Q",
+    "vidUrl": "https://youtu.be/OcTqQ7EBA0Q",
+    "vidTitle": "\u3010FR/EN/JP/CN/VN/ES\u3011TBC stream \u3010Kumanui Miel | globie\u3011",
+    "channelId": "@kumanuimiel",
+    "channelName": "Kumanui Miel Ch. \u718a\u7e2b\u30df\u30a8\u30eb\u3010globie\u3011",
+    "channelThumb": "https://yt3.ggpht.com/8f_4es6nBZAfGqpbSLfr5b12pv2elBhAnKV4NHf8BUZPY0edK5rfovLJbl22foZdWjvPIlHt=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Miel",
     "scheduledStartTime": "2024-04-08T21:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2846,19 +2846,6 @@
     "premiere": false
   },
   {
-    "id": "Gxl4mBCqdL8",
-    "vidUrl": "https://youtu.be/Gxl4mBCqdL8",
-    "vidTitle": "\u3010Hollow Knight Speedrun\u3011 Get a load of this Guy\u3010Aluba%\u3011",
-    "channelId": "@amoralumina",
-    "channelName": "Amora Lumina Ch. \u3010EIEN Project\u3011",
-    "channelThumb": "https://yt3.ggpht.com/0IlubsFJreJnGc7-mB5nm7oNLqyyIv6KO2eIrsQYbc8wnfGpjOH-SUn5mMh7QzHMnVRLmMQRDA=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Amora",
-    "scheduledStartTime": "2024-04-08T18:00:00Z",
-    "actualStartTime": "2024-04-08T18:00:27Z",
-    "premiere": false
-  },
-  {
     "id": "3bH45Swzykw",
     "vidUrl": "https://youtu.be/3bH45Swzykw",
     "vidTitle": "AliasAnono Live Stream",
@@ -3102,6 +3089,19 @@
     "graveyard": true,
     "shortName": "Cielo",
     "scheduledStartTime": "2024-04-02T04:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "rZ797qTDXfU",
+    "vidUrl": "https://youtu.be/rZ797qTDXfU",
+    "vidTitle": "Temp Waiting Room For Twitter Space",
+    "channelId": "@emberamane",
+    "channelName": "Ember Amane Ch. \u3010Phase Connect\u3011",
+    "channelThumb": "https://yt3.ggpht.com/DEkqZgNRdCOo4QicUE-KZvSRke0scAYn1xVAQ3rZo3ccY0YqACOcV517lIeBjPz5Y7OSLjnlbg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Ember",
+    "scheduledStartTime": "2024-04-08T19:35:00Z",
     "actualStartTime": "",
     "premiere": false
   }
