@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "CXEwL7MSMKA",
-    "vidUrl": "https://youtu.be/CXEwL7MSMKA",
-    "vidTitle": "\u3010ART\u3011Designing Our Community Mascot",
-    "channelId": "@miyamareena",
-    "channelName": "Miya Mareena Ch.",
-    "channelThumb": "https://yt3.ggpht.com/_gEDbY7u2OIZKKyvRYtvd4BsEWGEgvJTnQT25v8O5LbN-3XROnJgY7Ku5NNOnnDZpWJiG0cLoA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Miya",
-    "scheduledStartTime": "2024-04-08T14:00:00Z",
-    "actualStartTime": "2024-04-08T13:46:40Z",
-    "premiere": false
-  },
-  {
     "id": "GkajPDuob6Y",
     "vidUrl": "https://youtu.be/GkajPDuob6Y",
     "vidTitle": "\u3010DRAGON'S DOGMA 2\u3011Let me Yeet you! | Part 3\u3010VOLs\u3011",
@@ -284,6 +272,18 @@
     "channelThumb": "https://yt3.ggpht.com/Tz6Hm43Exb8k5sGZ7DRbucOkivDD4w7FU78_bPV69vWM47zCAODykYVo76pwXqry2b1DI1HI=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Kohaku",
     "scheduledStartTime": "2024-04-08T20:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "92q8sXD6NiA",
+    "vidUrl": "https://youtu.be/92q8sXD6NiA",
+    "vidTitle": "Guerilla - Anime Girl Cries while working\u30103dio ASMR\u3011",
+    "channelId": "@airiviridis",
+    "channelName": "Airi Viridis Ch. \u3010V-Dere\u3011",
+    "channelThumb": "https://yt3.ggpht.com/hr4djvNbGuwQ5f6fID5xc6hY5sYgWPMw02AbbvKDKxPvMdlhk3FTXFbdexF_I5KHe9RizOg2ZQ=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Airi",
+    "scheduledStartTime": "2024-04-08T21:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -1620,6 +1620,18 @@
     "premiere": false
   },
   {
+    "id": "s-LMXs1_9ew",
+    "vidUrl": "https://youtu.be/s-LMXs1_9ew",
+    "vidTitle": "\u3010GENSHIN IMPACT\u3011Opening my eyes to a whole new world!\u3010Kamiko Rinona\u3011",
+    "channelId": "@kamikorinona",
+    "channelName": "Kamiko Rinona Ch. [VReverie]",
+    "channelThumb": "https://yt3.ggpht.com/qcl7TbdV-JgQfqc02hhSCVMPYaWzXpZvVCmiuyB2URAiz7Xkb-OtUwWm9Wwb-2iPjbqU2wfZFB8=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Rinona",
+    "scheduledStartTime": "2024-04-12T14:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "223F_XHlLqU",
     "vidUrl": "https://youtu.be/223F_XHlLqU",
     "vidTitle": "We're In Debt! Yippie!! [Rollercoaster Tycoon]",
@@ -2550,6 +2562,19 @@
     "shortName": "Miel",
     "scheduledStartTime": "2024-04-08T05:00:00Z",
     "actualStartTime": "2024-04-08T05:01:31Z",
+    "premiere": false
+  },
+  {
+    "id": "CXEwL7MSMKA",
+    "vidUrl": "https://youtu.be/CXEwL7MSMKA",
+    "vidTitle": "\u3010ART\u3011Designing Our Community Mascot",
+    "channelId": "@miyamareena",
+    "channelName": "Miya Mareena Ch.",
+    "channelThumb": "https://yt3.ggpht.com/_gEDbY7u2OIZKKyvRYtvd4BsEWGEgvJTnQT25v8O5LbN-3XROnJgY7Ku5NNOnnDZpWJiG0cLoA=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Miya",
+    "scheduledStartTime": "2024-04-08T14:00:00Z",
+    "actualStartTime": "2024-04-08T13:46:40Z",
     "premiere": false
   }
 ]
