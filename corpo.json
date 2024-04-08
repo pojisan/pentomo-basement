@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "8ljJVR2CwEo",
-    "vidUrl": "https://youtu.be/8ljJVR2CwEo",
-    "vidTitle": "\u3010DEBUT 2.0\u3011THE WEASEL IS OUT OF THE BAG",
-    "channelId": "@furiferntail",
-    "channelName": "Furi Ferntail Ch. [VReverie]",
-    "channelThumb": "https://yt3.ggpht.com/FU6LvWJCONpqZAK_zMBXjRAr9d9vTEd22ZV_MwwMfxaWyNGPgt3a9UkGK3Atguk7uL0DHVVNFYI=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Furi",
-    "scheduledStartTime": "2024-04-08T19:00:00Z",
-    "actualStartTime": "2024-04-08T19:00:18Z",
-    "premiere": false
-  },
-  {
     "id": "5A8E-FG3e18",
     "vidUrl": "https://youtu.be/5A8E-FG3e18",
     "vidTitle": "IT'S MY BIRTHDAY!! \ud83e\udd73\ud83d\udc97 \u3010 CELEBRATE WITH ME \ud83c\udf82\ud83d\udc97 \u3011",
@@ -45,30 +33,6 @@
     "shortName": "Roza",
     "scheduledStartTime": "2024-04-08T19:00:00Z",
     "actualStartTime": "2024-04-08T19:43:15Z",
-    "premiere": false
-  },
-  {
-    "id": "IkWBQ9nvl4U",
-    "vidUrl": "https://youtu.be/IkWBQ9nvl4U",
-    "vidTitle": "\u3010THROUGH THE WOODS\u3011 Press X to Espen \u3010EIEN Project\u3011",
-    "channelId": "@mirrisaffire",
-    "channelName": "Mirri Saffire Ch. \u3010EIEN Project\u3011",
-    "channelThumb": "https://yt3.ggpht.com/GWHFDvrzmnk469kmCi5vDRD1dC3bwYzjHTKXCWzPDdPdUJAF92u2gib2CuauiY89t85HbU-7xcA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Mirri",
-    "scheduledStartTime": "2024-04-08T20:00:00Z",
-    "actualStartTime": "2024-04-08T20:00:23Z",
-    "premiere": false
-  },
-  {
-    "id": "gMxxRMNayhY",
-    "vidUrl": "https://youtu.be/gMxxRMNayhY",
-    "vidTitle": "\u3010DEBUT 2.0\u3011learn more about me!\u3010REM Kanashibari | V4Mirai | ENVtuber\u3011",
-    "channelId": "@remkanashibari",
-    "channelName": "REM Kanashibari Ch.\u3010V4Mirai\u3011",
-    "channelThumb": "https://yt3.ggpht.com/wVYBYMI9s6Rq0ONjpaDlrGWx7j-Qf4p-zsxBJgK65NLMvDuYu2A_4VB69LA2PhBlElWgVZbe-OI=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Rem",
-    "scheduledStartTime": "2024-04-08T21:00:00Z",
-    "actualStartTime": "2024-04-08T21:00:23Z",
     "premiere": false
   },
   {
@@ -2962,6 +2926,19 @@
     "premiere": false
   },
   {
+    "id": "8ljJVR2CwEo",
+    "vidUrl": "https://youtu.be/8ljJVR2CwEo",
+    "vidTitle": "\u3010DEBUT 2.0\u3011THE WEASEL IS OUT OF THE BAG",
+    "channelId": "@furiferntail",
+    "channelName": "Furi Ferntail Ch. [VReverie]",
+    "channelThumb": "https://yt3.ggpht.com/FU6LvWJCONpqZAK_zMBXjRAr9d9vTEd22ZV_MwwMfxaWyNGPgt3a9UkGK3Atguk7uL0DHVVNFYI=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Furi",
+    "scheduledStartTime": "2024-04-08T19:00:00Z",
+    "actualStartTime": "2024-04-08T19:00:18Z",
+    "premiere": false
+  },
+  {
     "id": "rZ797qTDXfU",
     "vidUrl": "https://youtu.be/rZ797qTDXfU",
     "vidTitle": "Temp Waiting Room For Twitter Space",
@@ -2972,6 +2949,19 @@
     "shortName": "Ember",
     "scheduledStartTime": "2024-04-08T19:35:00Z",
     "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "IkWBQ9nvl4U",
+    "vidUrl": "https://youtu.be/IkWBQ9nvl4U",
+    "vidTitle": "\u3010THROUGH THE WOODS\u3011 Press X to Espen \u3010EIEN Project\u3011",
+    "channelId": "@mirrisaffire",
+    "channelName": "Mirri Saffire Ch. \u3010EIEN Project\u3011",
+    "channelThumb": "https://yt3.ggpht.com/GWHFDvrzmnk469kmCi5vDRD1dC3bwYzjHTKXCWzPDdPdUJAF92u2gib2CuauiY89t85HbU-7xcA=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Mirri",
+    "scheduledStartTime": "2024-04-08T20:00:00Z",
+    "actualStartTime": "2024-04-08T20:00:23Z",
     "premiere": false
   },
   {
