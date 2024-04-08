@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "NoznEOPo4UY",
-    "vidUrl": "https://youtu.be/NoznEOPo4UY",
-    "vidTitle": "\u3010ZOOMBINIS\u3011my childhood game that I can still quote way too well \u3010Maid Mint Fantome\u3011",
-    "channelId": "@mintfantome",
-    "channelName": "Maid Mint Ch. \u30df\u30f3\u30c8\u30fb\u30d5\u30a1\u30f3\u30c8\u30fc\u30e0",
-    "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_mxbJ__S3iWA9yHCK-ABLglmhGfKYmpCZWxxP4D-w4ymQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Mint",
-    "scheduledStartTime": "2024-04-07T20:00:00Z",
-    "actualStartTime": "2024-04-07T20:03:00Z",
-    "premiere": false
-  },
-  {
     "id": "hrQ1x6ZN8ZM",
     "vidUrl": "https://youtu.be/hrQ1x6ZN8ZM",
     "vidTitle": "THIS VTUBER GOT MAIN CHARACTER SYNDROME \ud83d\udca4 Detective Kohaku\u2019s Zatsu Consultation \u96d1\u8ac7",
@@ -296,7 +284,7 @@
     "channelThumb": "https://yt3.ggpht.com/pt7bh9RYZ3pOOWcrG50EYG7lzCsC8s8hq67f0mX9l5F9P9Igly4mbCxB4RW4h4Mp2xcfMOaA=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Koziichu",
     "scheduledStartTime": "2024-04-08T00:30:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-08T00:14:35Z",
     "premiere": false
   },
   {
@@ -308,7 +296,7 @@
     "channelThumb": "https://yt3.ggpht.com/pt7bh9RYZ3pOOWcrG50EYG7lzCsC8s8hq67f0mX9l5F9P9Igly4mbCxB4RW4h4Mp2xcfMOaA=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Koziichu",
     "scheduledStartTime": "2024-04-08T00:30:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-08T00:14:39Z",
     "premiere": false
   },
   {
@@ -2019,6 +2007,19 @@
     "shortName": "Ivaela",
     "scheduledStartTime": "2024-04-07T20:00:00Z",
     "actualStartTime": "2024-04-07T20:01:58Z",
+    "premiere": false
+  },
+  {
+    "id": "NoznEOPo4UY",
+    "vidUrl": "https://youtu.be/NoznEOPo4UY",
+    "vidTitle": "\u3010ZOOMBINIS\u3011my childhood game that I can still quote way too well \u3010Maid Mint Fantome\u3011",
+    "channelId": "@mintfantome",
+    "channelName": "Maid Mint Ch. \u30df\u30f3\u30c8\u30fb\u30d5\u30a1\u30f3\u30c8\u30fc\u30e0",
+    "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_mxbJ__S3iWA9yHCK-ABLglmhGfKYmpCZWxxP4D-w4ymQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Mint",
+    "scheduledStartTime": "2024-04-07T20:00:00Z",
+    "actualStartTime": "2024-04-07T20:03:00Z",
     "premiere": false
   },
   {
