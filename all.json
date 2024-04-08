@@ -24,18 +24,6 @@
     "premiere": false
   },
   {
-    "id": "LR2GfTiv8LA",
-    "vidUrl": "https://youtu.be/LR2GfTiv8LA",
-    "vidTitle": "I TOUCHED GRASS YESTERDAY! | Mino Mieko Ch.",
-    "channelId": "@minomieko",
-    "channelName": "Mino Mieko Ch.",
-    "channelThumb": "https://yt3.ggpht.com/ryVy3g8W7qKzcFFCsuZgiGN3lo7_bDXvBM70mR8jhiGDlVFBaMZD28kB8pJIsDeEXZCY0zRX=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Mieko",
-    "scheduledStartTime": "2024-04-08T17:00:00Z",
-    "actualStartTime": "2024-04-08T17:32:21Z",
-    "premiere": false
-  },
-  {
     "id": "2eb3IwBDc1U",
     "vidUrl": "https://youtu.be/2eb3IwBDc1U",
     "vidTitle": "I am improving... right??? (First Dark Souls playthrough)",
@@ -960,6 +948,18 @@
     "premiere": false
   },
   {
+    "id": "gLnynRSZCUM",
+    "vidUrl": "https://youtu.be/gLnynRSZCUM",
+    "vidTitle": "\u3010SHINKANSEN 0 | \u65b0\u5e79\u7dda 0\u53f7\u3011my hobbies are riding trains and finding ghost\u3010Maid Mint Fantome\u3011",
+    "channelId": "@mintfantome",
+    "channelName": "Maid Mint Ch. \u30df\u30f3\u30c8\u30fb\u30d5\u30a1\u30f3\u30c8\u30fc\u30e0",
+    "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_mxbJ__S3iWA9yHCK-ABLglmhGfKYmpCZWxxP4D-w4ymQ=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Mint",
+    "scheduledStartTime": "2024-04-09T22:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "m6tdd7bMq9E",
     "vidUrl": "https://youtu.be/m6tdd7bMq9E",
     "vidTitle": "\u3010ASMR\u3011gentle singing in the rain \u2614\u3010REM Kanashibari | V4Mirai | ENVtuber\u3011",
@@ -1700,6 +1700,18 @@
     "channelThumb": "https://yt3.ggpht.com/eBm5-Is9XQiT7Ct2XPL-eAPzgNXgHqbHjgIb_z76sHswS5dVISwa8Ty-R9zVkHeBCxiVnL7-UQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Roca",
     "scheduledStartTime": "2024-04-11T20:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "BryHrYk08gY",
+    "vidUrl": "https://youtu.be/BryHrYk08gY",
+    "vidTitle": "GIVE ME ALL YOUR MONEY (not a robbery)\u3010Supermarket Simulator\u3011",
+    "channelId": "@kohakuyumekui",
+    "channelName": "Kohaku Yumekui Ch. \u5922\u55b0\u5df1\u767d\u3010kawaii\u3011",
+    "channelThumb": "https://yt3.ggpht.com/Tz6Hm43Exb8k5sGZ7DRbucOkivDD4w7FU78_bPV69vWM47zCAODykYVo76pwXqry2b1DI1HI=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Kohaku",
+    "scheduledStartTime": "2024-04-11T21:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -2822,29 +2834,16 @@
     "premiere": false
   },
   {
-    "id": "Al0MBVGCQ8U",
-    "vidUrl": "https://youtu.be/Al0MBVGCQ8U",
-    "vidTitle": "\u3010Work With Me!\u3011 Cyanne Aria\u3010bondlive_EN\u3011#vtuber #shorts",
-    "channelId": "@cyannearia",
-    "channelName": "Cyanne Aria / \u30b7\u30a2\u30f3 \u3042\u308a\u3042\u3010bondlive_EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/fjWfn3-Jb9IKgpj3xm03JQ5unmbpHdzve2SV3Sntnt8sWA5CRPyfFIjr4A1_GX8X7QrsthdR=s88-c-k-c0x00ffffff-no-rj",
+    "id": "LR2GfTiv8LA",
+    "vidUrl": "https://youtu.be/LR2GfTiv8LA",
+    "vidTitle": "I TOUCHED GRASS YESTERDAY! | Mino Mieko Ch.",
+    "channelId": "@minomieko",
+    "channelName": "Mino Mieko Ch.",
+    "channelThumb": "https://yt3.ggpht.com/ryVy3g8W7qKzcFFCsuZgiGN3lo7_bDXvBM70mR8jhiGDlVFBaMZD28kB8pJIsDeEXZCY0zRX=s88-c-k-c0x00ffffff-no-rj",
     "graveyard": true,
-    "shortName": "Cy",
+    "shortName": "Mieko",
     "scheduledStartTime": "2024-04-08T17:00:00Z",
-    "actualStartTime": "2024-04-08T17:00:36Z",
-    "premiere": false
-  },
-  {
-    "id": "p0wSEaLP_o0",
-    "vidUrl": "https://youtu.be/p0wSEaLP_o0",
-    "vidTitle": "One Step Forward. Two Steps Back.",
-    "channelId": "@mozumipichi",
-    "channelName": "Mozumi Pichi Ch.\u3010V-Dere\u3011",
-    "channelThumb": "https://yt3.ggpht.com/-MORJjUXDCIxCYeCuEktQiDRvqDLv33ZG5fqCbxX6Y_U8dxMEIL9seZmRBtDbnTHQuCrs82YLQ=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Mozzu",
-    "scheduledStartTime": "2024-04-08T17:00:00Z",
-    "actualStartTime": "2024-04-08T17:06:31Z",
+    "actualStartTime": "2024-04-08T17:32:21Z",
     "premiere": false
   },
   {
@@ -2884,19 +2883,6 @@
     "shortName": "Kilia",
     "scheduledStartTime": "2024-04-08T19:00:00Z",
     "actualStartTime": "2024-04-08T19:06:40Z",
-    "premiere": false
-  },
-  {
-    "id": "Z_txDgwsoFM",
-    "vidUrl": "https://youtu.be/Z_txDgwsoFM",
-    "vidTitle": "BRITISH CONTENT?!\u3010CONTENT WARNING \u3011",
-    "channelId": "@eliastellaria",
-    "channelName": "Elia Stellaria\u3010V-Dere\u3011",
-    "channelThumb": "https://yt3.ggpht.com/06-Ihgh44rPrUWXBSXAGR0a10dQKGBTm-AEJxG1ThlclvCzFFugh1FSz5PXqXP606Y_BV98SKA=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Elia",
-    "scheduledStartTime": "2024-04-08T19:00:00Z",
-    "actualStartTime": "2024-04-08T19:07:02Z",
     "premiere": false
   },
   {
