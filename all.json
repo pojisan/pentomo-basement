@@ -260,7 +260,7 @@
     "channelThumb": "https://yt3.ggpht.com/PfyW7HnjCKF15WfzvFBLo_vx94y_tZw_jpnjku0GyvZnynSODh2E9aJ0Vi1mlc3R8sF_hXNl-g=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Aster",
     "scheduledStartTime": "2024-04-08T02:00:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-08T02:35:16Z",
     "premiere": false
   },
   {
@@ -480,6 +480,18 @@
     "premiere": false
   },
   {
+    "id": "dfdTQgf91Fo",
+    "vidUrl": "https://youtu.be/dfdTQgf91Fo",
+    "vidTitle": "\u3010FIND YOURSELF\u3011Repeat after me: WHAT ARE WE? PHANTOMOS\u3010NIJISANJI EN | Reimu Endou\u3011",
+    "channelId": "@reimuendou",
+    "channelName": "Reimu Endou\u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/jwZT783V-LU58DMyjShj-CWJ3GGsM5DaHX20vtIExe7LNGpaS0P5pZJV_EH11AprgaHocu6CKA=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Reimu",
+    "scheduledStartTime": "2024-04-08T14:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "iLdIkuVaYhc",
     "vidUrl": "https://youtu.be/iLdIkuVaYhc",
     "vidTitle": "\u3010Megaman Legends\u3011Adventures of Mr. Hippopotamus",
@@ -620,18 +632,6 @@
     "channelThumb": "https://yt3.ggpht.com/GWHFDvrzmnk469kmCi5vDRD1dC3bwYzjHTKXCWzPDdPdUJAF92u2gib2CuauiY89t85HbU-7xcA=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Mirri",
     "scheduledStartTime": "2024-04-08T20:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "gMxxRMNayhY",
-    "vidUrl": "https://youtu.be/gMxxRMNayhY",
-    "vidTitle": "\u3010DEBUT 2.0\u3011learn more about me!\u3010REM Kanashibari | V4Mirai | ENVtuber\u3011",
-    "channelId": "@remkanashibari",
-    "channelName": "REM Kanashibari Ch.\u3010V4Mirai\u3011",
-    "channelThumb": "https://yt3.ggpht.com/wVYBYMI9s6Rq0ONjpaDlrGWx7j-Qf4p-zsxBJgK65NLMvDuYu2A_4VB69LA2PhBlElWgVZbe-OI=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Rem",
-    "scheduledStartTime": "2024-04-08T21:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -864,18 +864,6 @@
     "premiere": false
   },
   {
-    "id": "m6tdd7bMq9E",
-    "vidUrl": "https://youtu.be/m6tdd7bMq9E",
-    "vidTitle": "\u3010ASMR\u3011gentle singing in the rain\u3010REM Kanashibari | V4Mirai | ENVtuber\u3011",
-    "channelId": "@remkanashibari",
-    "channelName": "REM Kanashibari Ch.\u3010V4Mirai\u3011",
-    "channelThumb": "https://yt3.ggpht.com/wVYBYMI9s6Rq0ONjpaDlrGWx7j-Qf4p-zsxBJgK65NLMvDuYu2A_4VB69LA2PhBlElWgVZbe-OI=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Rem",
-    "scheduledStartTime": "2024-04-09T22:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "3f6tVXMsMnc",
     "vidUrl": "https://youtu.be/3f6tVXMsMnc",
     "vidTitle": "\u3010Fran Bow\u3011Mystery world~? Part 4",
@@ -1087,18 +1075,6 @@
     "channelName": "Mirri Saffire Ch. \u3010EIEN Project\u3011",
     "channelThumb": "https://yt3.ggpht.com/GWHFDvrzmnk469kmCi5vDRD1dC3bwYzjHTKXCWzPDdPdUJAF92u2gib2CuauiY89t85HbU-7xcA=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Mirri",
-    "scheduledStartTime": "2024-04-10T20:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "ekWzvaq3538",
-    "vidUrl": "https://youtu.be/ekWzvaq3538",
-    "vidTitle": "\u3010Kitchen Simulator\u3011IT'S RAWWWW\u3010REM Kanashibari | V4Mirai | ENVtuber\u3011",
-    "channelId": "@remkanashibari",
-    "channelName": "REM Kanashibari Ch.\u3010V4Mirai\u3011",
-    "channelThumb": "https://yt3.ggpht.com/wVYBYMI9s6Rq0ONjpaDlrGWx7j-Qf4p-zsxBJgK65NLMvDuYu2A_4VB69LA2PhBlElWgVZbe-OI=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Rem",
     "scheduledStartTime": "2024-04-10T20:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -1822,18 +1798,6 @@
     "scheduledStartTime": "2024-05-05T04:00:00Z",
     "actualStartTime": "",
     "premiere": true
-  },
-  {
-    "id": "8vrLrc6iLfM",
-    "vidUrl": "https://youtu.be/8vrLrc6iLfM",
-    "vidTitle": "\u3010This Week's Schedule\u3011",
-    "channelId": "@remkanashibari",
-    "channelName": "REM Kanashibari Ch.\u3010V4Mirai\u3011",
-    "channelThumb": "https://yt3.ggpht.com/wVYBYMI9s6Rq0ONjpaDlrGWx7j-Qf4p-zsxBJgK65NLMvDuYu2A_4VB69LA2PhBlElWgVZbe-OI=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Rem",
-    "scheduledStartTime": "2024-05-05T22:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
   },
   {
     "id": "XOr70VIuczQ",
