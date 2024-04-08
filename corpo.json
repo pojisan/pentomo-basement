@@ -24,18 +24,6 @@
     "premiere": false
   },
   {
-    "id": "vUHGouW9s-w",
-    "vidUrl": "https://youtu.be/vUHGouW9s-w",
-    "vidTitle": "\u3010ZATSU\u3011YAPPING\u3010Yae Yugiri | V4Mirai | VTuber\u3011",
-    "channelId": "@yaeyugiri",
-    "channelName": "Yae Yugiri Ch.\u3010V4Mirai\u3011",
-    "channelThumb": "https://yt3.ggpht.com/4YU-ifBGgSoq-RvD3MYlUq_mhH23Ioe8h_t083RWrYs3c4qDcJQ_nEds5DGrI7C2FQOz0kLb=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Yae",
-    "scheduledStartTime": "2024-04-08T01:00:00Z",
-    "actualStartTime": "2024-04-08T01:00:44Z",
-    "premiere": false
-  },
-  {
     "id": "tf12Y8qK6IE",
     "vidUrl": "https://youtu.be/tf12Y8qK6IE",
     "vidTitle": "\u3010Dark Souls 3\u3011Serious Old Bosses Meet the Joyful Boss",
@@ -45,18 +33,6 @@
     "shortName": "Elayna",
     "scheduledStartTime": "2024-04-08T01:10:00Z",
     "actualStartTime": "2024-04-08T01:15:53Z",
-    "premiere": false
-  },
-  {
-    "id": "capB0wz_mGY",
-    "vidUrl": "https://youtu.be/capB0wz_mGY",
-    "vidTitle": "Let me draw and sell you !! \ud83c\udfa8",
-    "channelId": "@mioricelesta",
-    "channelName": "Miori Celesta",
-    "channelThumb": "https://yt3.ggpht.com/kaNjFSu8SjR9kJjHuxcfwKsA12ZeruRk8iJNOxeK0z1_5-zEuaMg_F-BHlXUztmPSVbuKgcxag=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Mio",
-    "scheduledStartTime": "2024-04-08T01:30:00Z",
-    "actualStartTime": "2024-04-08T01:30:20Z",
     "premiere": false
   },
   {
@@ -1969,6 +1945,32 @@
     "shortName": "Rowa",
     "scheduledStartTime": "2024-04-07T23:00:00Z",
     "actualStartTime": "2024-04-07T23:01:05Z",
+    "premiere": false
+  },
+  {
+    "id": "vUHGouW9s-w",
+    "vidUrl": "https://youtu.be/vUHGouW9s-w",
+    "vidTitle": "\u3010ZATSU\u3011YAPPING\u3010Yae Yugiri | V4Mirai | VTuber\u3011",
+    "channelId": "@yaeyugiri",
+    "channelName": "Yae Yugiri Ch.\u3010V4Mirai\u3011",
+    "channelThumb": "https://yt3.ggpht.com/4YU-ifBGgSoq-RvD3MYlUq_mhH23Ioe8h_t083RWrYs3c4qDcJQ_nEds5DGrI7C2FQOz0kLb=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Yae",
+    "scheduledStartTime": "2024-04-08T01:00:00Z",
+    "actualStartTime": "2024-04-08T01:00:44Z",
+    "premiere": false
+  },
+  {
+    "id": "capB0wz_mGY",
+    "vidUrl": "https://youtu.be/capB0wz_mGY",
+    "vidTitle": "Let me draw and sell you !! \ud83c\udfa8",
+    "channelId": "@mioricelesta",
+    "channelName": "Miori Celesta",
+    "channelThumb": "https://yt3.ggpht.com/kaNjFSu8SjR9kJjHuxcfwKsA12ZeruRk8iJNOxeK0z1_5-zEuaMg_F-BHlXUztmPSVbuKgcxag=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Mio",
+    "scheduledStartTime": "2024-04-08T01:30:00Z",
+    "actualStartTime": "2024-04-08T01:30:20Z",
     "premiere": false
   }
 ]
