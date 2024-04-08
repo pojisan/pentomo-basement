@@ -36,6 +36,18 @@
     "premiere": false
   },
   {
+    "id": "HgU40SFIz1s",
+    "vidUrl": "https://youtu.be/HgU40SFIz1s",
+    "vidTitle": "[Gaming] Let's Chat with Yagami Noah\uff5cVTuber /GTA5 in Street Junkies\u3010GTA5\u3011\u65e5\u672c\u8a9e/PC",
+    "channelId": "@yagaminoah",
+    "channelName": "Yagami Noah / \u516b\u795e\u30ce\u30a2\u3010bondlive EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/zv3gY8PI3ZXN4KgiMrdVaBT-8XTB09763VvuJFtZ7yx0nLVUiMbUoa5RlyU_BEUmvaztteqGD5A=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Noah",
+    "scheduledStartTime": "2024-04-08T10:30:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "A4nsSWDatHU",
     "vidUrl": "https://youtu.be/A4nsSWDatHU",
     "vidTitle": "\u3010Escape from Mystwood Mansion\u3011Mikumi brain doko?\u3010VOLs\u3011",
@@ -560,6 +572,18 @@
     "channelThumb": "https://yt3.ggpht.com/Ds02-91FQsIFHxhISPbW0dvCSyrXDEmKyRHIn04c1vRKMXMNobf9Ny4UszPfbWXyNPze7gVqTQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Clara",
     "scheduledStartTime": "2024-04-09T04:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "KbzbRQ0LT4M",
+    "vidUrl": "https://youtu.be/KbzbRQ0LT4M",
+    "vidTitle": "[Gaming] Let's Chat with Yagami Noah\uff5cVTuber Minecraft",
+    "channelId": "@yagaminoah",
+    "channelName": "Yagami Noah / \u516b\u795e\u30ce\u30a2\u3010bondlive EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/zv3gY8PI3ZXN4KgiMrdVaBT-8XTB09763VvuJFtZ7yx0nLVUiMbUoa5RlyU_BEUmvaztteqGD5A=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Noah",
+    "scheduledStartTime": "2024-04-09T08:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -2447,19 +2471,6 @@
     "graveyard": true,
     "shortName": "Nikki",
     "scheduledStartTime": "2024-04-07T20:45:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "KbzbRQ0LT4M",
-    "vidUrl": "https://youtu.be/KbzbRQ0LT4M",
-    "vidTitle": "[Gaming] Let's Chat with Yagami Noah\uff5cVTuber Minecraft",
-    "channelId": "@yagaminoah",
-    "channelName": "Yagami Noah / \u516b\u795e\u30ce\u30a2\u3010bondlive EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/zv3gY8PI3ZXN4KgiMrdVaBT-8XTB09763VvuJFtZ7yx0nLVUiMbUoa5RlyU_BEUmvaztteqGD5A=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Noah",
-    "scheduledStartTime": "2024-04-08T08:00:00Z",
     "actualStartTime": "",
     "premiere": false
   }
