@@ -96,18 +96,6 @@
     "premiere": false
   },
   {
-    "id": "04VEnmixbfM",
-    "vidUrl": "https://youtu.be/04VEnmixbfM",
-    "vidTitle": "Getting Ready for Raya with Luna!!!!",
-    "channelId": "@lunarisurufi",
-    "channelName": "Lunaris Urufi Ch. \u4eba\u72fc \u30eb\u30ca\u30ea\u30b9\u3010MyHolo TV\u3011",
-    "channelThumb": "https://yt3.ggpht.com/6I21pwlSrO2EPb6LwRsOtbc3nkGRjzfZyTfWoShQQ6xr28tr-NiEEPrPYSdsKQTmeD5tLfh8ehw=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Luna",
-    "scheduledStartTime": "2024-04-08T13:30:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "iLdIkuVaYhc",
     "vidUrl": "https://youtu.be/iLdIkuVaYhc",
     "vidTitle": "\u3010Megaman Legends\u3011Adventures of Mr. Hippopotamus",
@@ -116,7 +104,19 @@
     "channelThumb": "https://yt3.ggpht.com/yILITMwS2t2HFysY-sKxOFGmrAaQheI4LMzf-ezgCTX9rjPTSJtZQK3E48WTtxtCWinefdwl-g=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Yura",
     "scheduledStartTime": "2024-04-08T13:30:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-08T13:30:54Z",
+    "premiere": false
+  },
+  {
+    "id": "04VEnmixbfM",
+    "vidUrl": "https://youtu.be/04VEnmixbfM",
+    "vidTitle": "Getting Ready for Raya with Luna!!!!",
+    "channelId": "@lunarisurufi",
+    "channelName": "Lunaris Urufi Ch. \u4eba\u72fc \u30eb\u30ca\u30ea\u30b9\u3010MyHolo TV\u3011",
+    "channelThumb": "https://yt3.ggpht.com/6I21pwlSrO2EPb6LwRsOtbc3nkGRjzfZyTfWoShQQ6xr28tr-NiEEPrPYSdsKQTmeD5tLfh8ehw=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Luna",
+    "scheduledStartTime": "2024-04-08T13:30:00Z",
+    "actualStartTime": "2024-04-08T13:31:45Z",
     "premiere": false
   },
   {
@@ -127,6 +127,18 @@
     "channelName": "Miya Mareena Ch.",
     "channelThumb": "https://yt3.ggpht.com/_gEDbY7u2OIZKKyvRYtvd4BsEWGEgvJTnQT25v8O5LbN-3XROnJgY7Ku5NNOnnDZpWJiG0cLoA=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Miya",
+    "scheduledStartTime": "2024-04-08T14:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "GkajPDuob6Y",
+    "vidUrl": "https://youtu.be/GkajPDuob6Y",
+    "vidTitle": "\u3010DRAGON'S DOGMA 2\u3011Let me Yeet you! | Part 3\u3010VOLs\u3011",
+    "channelId": "@angycatto_vols",
+    "channelName": "Angy Catto - VOLs",
+    "channelThumb": "https://yt3.ggpht.com/QmtGoU3n-jCQAj1gfC6hKg-PiFlyGTW-sz1HZJZlV8Av1Kdial8AJphIpJD7ywQWtUuVgyjo=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Angy",
     "scheduledStartTime": "2024-04-08T14:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -319,18 +331,6 @@
     "channelName": "Lottie Shinju Ch.\u3010PixelLink\u3011",
     "channelThumb": "https://yt3.ggpht.com/iB7oY1uapYSoA1zpmn8TtVnCrTatyrR92ou_vLr9RmlWU2r7Ad91OBND7N2lr5iOZK4kMRok4g=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Lottie",
-    "scheduledStartTime": "2024-04-08T20:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "HbGKnZzTgMs",
-    "vidUrl": "https://youtu.be/HbGKnZzTgMs",
-    "vidTitle": "Finishing up my art~",
-    "channelId": "@rourinroca",
-    "channelName": "Roca Rourin Ch. idol-EN",
-    "channelThumb": "https://yt3.ggpht.com/eBm5-Is9XQiT7Ct2XPL-eAPzgNXgHqbHjgIb_z76sHswS5dVISwa8Ty-R9zVkHeBCxiVnL7-UQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Roca",
     "scheduledStartTime": "2024-04-08T20:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -1452,6 +1452,18 @@
     "premiere": false
   },
   {
+    "id": "HbGKnZzTgMs",
+    "vidUrl": "https://youtu.be/HbGKnZzTgMs",
+    "vidTitle": "Finishing up my art~",
+    "channelId": "@rourinroca",
+    "channelName": "Roca Rourin Ch. idol-EN",
+    "channelThumb": "https://yt3.ggpht.com/eBm5-Is9XQiT7Ct2XPL-eAPzgNXgHqbHjgIb_z76sHswS5dVISwa8Ty-R9zVkHeBCxiVnL7-UQ=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Roca",
+    "scheduledStartTime": "2024-04-11T20:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "SJQfUt94YGU",
     "vidUrl": "https://youtu.be/SJQfUt94YGU",
     "vidTitle": "\ud83d\udd2b\u3010APEX  LEGENDS\u3011GUN FUN\u3010Yume+ | Raein Clowd\u3011",
@@ -1916,6 +1928,18 @@
     "channelThumb": "https://yt3.ggpht.com/FU6LvWJCONpqZAK_zMBXjRAr9d9vTEd22ZV_MwwMfxaWyNGPgt3a9UkGK3Atguk7uL0DHVVNFYI=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Furi",
     "scheduledStartTime": "2024-04-13T19:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "qMe4IuUWREI",
+    "vidUrl": "https://youtu.be/qMe4IuUWREI",
+    "vidTitle": "\u3010UNARCHIVED KARAOKE/ \u6b4c\u67a0\u3011I'll sing a bit, just for you \ud83c\udfb6",
+    "channelId": "@rourinroca",
+    "channelName": "Roca Rourin Ch. idol-EN",
+    "channelThumb": "https://yt3.ggpht.com/eBm5-Is9XQiT7Ct2XPL-eAPzgNXgHqbHjgIb_z76sHswS5dVISwa8Ty-R9zVkHeBCxiVnL7-UQ=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Roca",
+    "scheduledStartTime": "2024-04-13T20:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
