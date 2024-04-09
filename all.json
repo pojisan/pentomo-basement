@@ -108,18 +108,6 @@
     "premiere": false
   },
   {
-    "id": "HPLAFe-OFh8",
-    "vidUrl": "https://youtu.be/HPLAFe-OFh8",
-    "vidTitle": "\u3010Vertical Zatsu\u3011Mindless Monday--we're yapping about whatever as usual~ #shorts",
-    "channelId": "@hiyorimokami",
-    "channelName": "Hiyori Mokami Ch. \u6843\u795e\u65e5\u548c\u3010kawaii\u3011",
-    "channelThumb": "https://yt3.ggpht.com/Vj2QGSwnGea4gY_hmHATQTkM-2noJld4JtpdmiHmXRerJ2umbuiPZwDfLeWVOrXteS4vXqZlCw=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Hiyori",
-    "scheduledStartTime": "2024-04-09T03:00:00Z",
-    "actualStartTime": "2024-04-09T03:05:42Z",
-    "premiere": false
-  },
-  {
     "id": "2y2umHh0npU",
     "vidUrl": "https://youtu.be/2y2umHh0npU",
     "vidTitle": "\u3010Dark Souls 3\u3011 Gorgeous view ahead?",
@@ -200,6 +188,18 @@
     "channelThumb": "https://yt3.ggpht.com/gsviy0KcEYuRE4MyNsKcEBoS0lIaW9wgkz9raEwVrQ0tIUM473cN8ORz-rdHps1IYSHxZdzI_g=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Cyon",
     "scheduledStartTime": "2024-04-09T08:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "ZhBHnwU89-Y",
+    "vidUrl": "https://youtu.be/ZhBHnwU89-Y",
+    "vidTitle": "\u3010\u611f\u8b1d\u3011post-bday dono catchup\u3010NIJISANJI EN | Sonny Brisko\u3011",
+    "channelId": "@sonnybrisko",
+    "channelName": "Sonny Brisko \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/Z6Pi1VkybXJu7D-yDxlSnL6hlavVbedb3qfkbCHc6zllK-Eo4lCqmNxpxc4XUM0IEFACqpdwsKo=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Sonny",
+    "scheduledStartTime": "2024-04-09T10:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -559,6 +559,18 @@
     "channelName": "Obake PAM Ch.",
     "channelThumb": "https://yt3.ggpht.com/FlbqAWrn9OdE4QcjGweQkH_2WUf2kCAQPbiC4dVvt6ItUWE4pLnUrs9MJ3-KtyeULY0hGe-VPio=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Obake PAM",
+    "scheduledStartTime": "2024-04-09T21:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "O85ZcTskEgs",
+    "vidUrl": "https://youtu.be/O85ZcTskEgs",
+    "vidTitle": "GUESS WHO'S WOOPIN' BACK\u3010SHINING PEARL #6\u3011",
+    "channelId": "@lottieshinju",
+    "channelName": "Lottie Shinju Ch.\u3010PixelLink\u3011",
+    "channelThumb": "https://yt3.ggpht.com/iB7oY1uapYSoA1zpmn8TtVnCrTatyrR92ou_vLr9RmlWU2r7Ad91OBND7N2lr5iOZK4kMRok4g=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Lottie",
     "scheduledStartTime": "2024-04-09T21:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -3226,6 +3238,19 @@
     "shortName": "Io",
     "scheduledStartTime": "2024-04-09T01:00:00Z",
     "actualStartTime": "2024-04-09T01:03:38Z",
+    "premiere": false
+  },
+  {
+    "id": "HPLAFe-OFh8",
+    "vidUrl": "https://youtu.be/HPLAFe-OFh8",
+    "vidTitle": "\u3010Vertical Zatsu\u3011Mindless Monday--we're yapping about whatever as usual~ #shorts",
+    "channelId": "@hiyorimokami",
+    "channelName": "Hiyori Mokami Ch. \u6843\u795e\u65e5\u548c\u3010kawaii\u3011",
+    "channelThumb": "https://yt3.ggpht.com/Vj2QGSwnGea4gY_hmHATQTkM-2noJld4JtpdmiHmXRerJ2umbuiPZwDfLeWVOrXteS4vXqZlCw=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Hiyori",
+    "scheduledStartTime": "2024-04-09T03:00:00Z",
+    "actualStartTime": "2024-04-09T03:05:42Z",
     "premiere": false
   },
   {
