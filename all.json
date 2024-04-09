@@ -60,18 +60,6 @@
     "premiere": false
   },
   {
-    "id": "yrB5u5jvzW4",
-    "vidUrl": "https://youtu.be/yrB5u5jvzW4",
-    "vidTitle": "\u3010KARAOKE/\u6b4c\u67a0\u3011J-POP SONGS ONLY!!",
-    "channelId": "@luaasuka",
-    "channelName": "Lua Asuka Ch. \u98db\u9ce5\u7460\u85cd\u3010kawaii\u3011",
-    "channelThumb": "https://yt3.ggpht.com/d1sfvqWiJPB51QNzYWdhfomd-El9OgOGZp-PtJkZhsN0kGeVUyYuJEASnMFyVlAdm2pGRGI19A=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Lua",
-    "scheduledStartTime": "2024-04-09T13:00:00Z",
-    "actualStartTime": "2024-04-09T13:01:01Z",
-    "premiere": false
-  },
-  {
     "id": "M1CQmn3ixqk",
     "vidUrl": "https://youtu.be/M1CQmn3ixqk",
     "vidTitle": "\u3010VALORANT\u3011Penguins go pewpew with @ShirousaMikumi !\u3010VOL\u3011",
@@ -823,6 +811,18 @@
     "channelName": "Dr.NOVA(e) Ch.\u3010V4Mirai\u3011",
     "channelThumb": "https://yt3.ggpht.com/Q5uPSXLX-UaT7iQ1VRWbehhySRrtvEcWEA-ey6HfpVmHlZSz5zUrlC9g5UQuNfsgO5UOjJfI_Q=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Novae",
+    "scheduledStartTime": "2024-04-10T00:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "_erW6Q-CdtM",
+    "vidUrl": "https://youtu.be/_erW6Q-CdtM",
+    "vidTitle": "\u3010Princess Peach: Showtime!\u3011 Which Peach is next?! \u3010Yuno Hanaki\u3011",
+    "channelId": "@yunohanaki",
+    "channelName": "Yuno Hanaki Ch. \u83ef\u9b3c\u7d50\u671b \u3010kawaii\u3011",
+    "channelThumb": "https://yt3.ggpht.com/3pIMiD4FJEzYSAXPR4CchM-vKiT7gfMtJagky2oGpvyMy0UqATsnAPLJ8DFE1eTJQH2MYkxPHQ=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Yuno",
     "scheduledStartTime": "2024-04-10T00:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -3386,6 +3386,19 @@
     "shortName": "Tomo",
     "scheduledStartTime": "2024-04-09T05:00:00Z",
     "actualStartTime": "2024-04-09T05:03:24Z",
+    "premiere": false
+  },
+  {
+    "id": "yrB5u5jvzW4",
+    "vidUrl": "https://youtu.be/yrB5u5jvzW4",
+    "vidTitle": "\u3010KARAOKE/\u6b4c\u67a0\u3011J-POP SONGS ONLY!!",
+    "channelId": "@luaasuka",
+    "channelName": "Lua Asuka Ch. \u98db\u9ce5\u7460\u85cd\u3010kawaii\u3011",
+    "channelThumb": "https://yt3.ggpht.com/d1sfvqWiJPB51QNzYWdhfomd-El9OgOGZp-PtJkZhsN0kGeVUyYuJEASnMFyVlAdm2pGRGI19A=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Lua",
+    "scheduledStartTime": "2024-04-09T13:00:00Z",
+    "actualStartTime": "2024-04-09T13:01:01Z",
     "premiere": false
   },
   {
