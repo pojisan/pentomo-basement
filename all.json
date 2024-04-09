@@ -48,18 +48,6 @@
     "premiere": false
   },
   {
-    "id": "3VK71wUQHWk",
-    "vidUrl": "https://youtu.be/3VK71wUQHWk",
-    "vidTitle": "\u3010Valorant\u3011Anime girl shoots humans PEW PEW PEW",
-    "channelId": "@arialyuriko",
-    "channelName": "Arial Yuriko Ch. [VReverie]",
-    "channelThumb": "https://yt3.ggpht.com/IU2v8OvK9p2KPE6Udi-AxcHpDdRmZ8ixovTLb3dDzCahVLSuIc4iKBKNd5LE6lFvlgUfTIHi=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Arial",
-    "scheduledStartTime": "2024-04-09T16:00:00Z",
-    "actualStartTime": "2024-04-09T16:00:11Z",
-    "premiere": false
-  },
-  {
     "id": "5m5tkRmJiGE",
     "vidUrl": "https://youtu.be/5m5tkRmJiGE",
     "vidTitle": "This is fine\u300e Ender Lillies \u300f",
@@ -69,18 +57,6 @@
     "shortName": "Fuyo",
     "scheduledStartTime": "2024-04-09T16:00:00Z",
     "actualStartTime": "2024-04-09T16:05:18Z",
-    "premiere": false
-  },
-  {
-    "id": "yhsopDU3e4Y",
-    "vidUrl": "https://youtu.be/yhsopDU3e4Y",
-    "vidTitle": "\u3010KIRBY AND THE FORGOTTEN LAND\u3011 Onto the next chapter!!",
-    "channelId": "@nyanheras",
-    "channelName": "Nyanami Ruru & Rumi Ch.",
-    "channelThumb": "https://yt3.ggpht.com/e-csUdgwEj5h-rQ2vwXX-EVOeXk3BZRlaqnHS7-Mnd1ZC9icqo02aHhGvl_f50l_UX1bPsJgwFs=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Nyanheras",
-    "scheduledStartTime": "2024-04-09T16:00:00Z",
-    "actualStartTime": "2024-04-09T16:13:12Z",
     "premiere": false
   },
   {
@@ -943,6 +919,18 @@
     "channelName": "Hakos Baelz Ch. hololive-EN",
     "channelThumb": "https://yt3.ggpht.com/SSZxkgjfV0O05zq1bBLOI0PszOCoxuPrANQ0Ysngsd0t81mnkwzEgIW2ypSIQJLn8swR14zLJQ=s88-c-k-c0x00ffffff-no-nd-rj",
     "shortName": "Bae",
+    "scheduledStartTime": "2024-04-10T03:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "bDr0wD4_Xg4",
+    "vidUrl": "https://youtu.be/bDr0wD4_Xg4",
+    "vidTitle": "\u3010Devil May Cry 3\u3011FILLING YOUR DARK SOUL WITH LIGHT\u3010NIJISANJI EN | Victoria Brightshield\u3011",
+    "channelId": "@victoriabrightshield",
+    "channelName": "Victoria Brightshield \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/UObY_OAxjbHsXjWzNlFNhUlKuEOZxvvapSVL5lzzeED1tCp7gFW2acrqfjsQx0jodDnzWsCjJg=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Vivi",
     "scheduledStartTime": "2024-04-10T03:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -3470,6 +3458,32 @@
     "shortName": "Hu",
     "scheduledStartTime": "2024-04-09T16:00:00Z",
     "actualStartTime": "2024-04-09T15:58:24Z",
+    "premiere": false
+  },
+  {
+    "id": "3VK71wUQHWk",
+    "vidUrl": "https://youtu.be/3VK71wUQHWk",
+    "vidTitle": "\u3010Valorant\u3011Anime girl shoots humans PEW PEW PEW",
+    "channelId": "@arialyuriko",
+    "channelName": "Arial Yuriko Ch. [VReverie]",
+    "channelThumb": "https://yt3.ggpht.com/IU2v8OvK9p2KPE6Udi-AxcHpDdRmZ8ixovTLb3dDzCahVLSuIc4iKBKNd5LE6lFvlgUfTIHi=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Arial",
+    "scheduledStartTime": "2024-04-09T16:00:00Z",
+    "actualStartTime": "2024-04-09T16:00:11Z",
+    "premiere": false
+  },
+  {
+    "id": "yhsopDU3e4Y",
+    "vidUrl": "https://youtu.be/yhsopDU3e4Y",
+    "vidTitle": "\u3010KIRBY AND THE FORGOTTEN LAND\u3011 Onto the next chapter!!",
+    "channelId": "@nyanheras",
+    "channelName": "Nyanami Ruru & Rumi Ch.",
+    "channelThumb": "https://yt3.ggpht.com/e-csUdgwEj5h-rQ2vwXX-EVOeXk3BZRlaqnHS7-Mnd1ZC9icqo02aHhGvl_f50l_UX1bPsJgwFs=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Nyanheras",
+    "scheduledStartTime": "2024-04-09T16:00:00Z",
+    "actualStartTime": "2024-04-09T16:13:12Z",
     "premiere": false
   },
   {
