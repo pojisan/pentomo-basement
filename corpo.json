@@ -24,18 +24,6 @@
     "premiere": false
   },
   {
-    "id": "6ea0LHAu-6I",
-    "vidUrl": "https://youtu.be/6ea0LHAu-6I",
-    "vidTitle": "\u3010Balatro\u3011Testing my RNG with this new game...",
-    "channelId": "@aishiiaivt",
-    "channelName": "Aishii Ai Ch. ",
-    "channelThumb": "https://yt3.ggpht.com/5lZebcvMcKGO60QqEpNlAKMvPq4BBlDBw89gYfuMUfX2Bz6mTufczpwLhmwp3EBT0t5CITq_rQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Aishii",
-    "scheduledStartTime": "2024-04-09T01:00:00Z",
-    "actualStartTime": "2024-04-09T01:01:14Z",
-    "premiere": false
-  },
-  {
     "id": "FVC-Z4O8zXs",
     "vidUrl": "https://youtu.be/FVC-Z4O8zXs",
     "vidTitle": "IT'S MY BIRTHDAY!! \ud83e\udd73\ud83d\udc97 \u3010 TIPSY CELEBRATION TIME!! \ud83c\udf82\ud83d\udc97 \u3011",
@@ -3087,6 +3075,19 @@
     "shortName": "Tonya",
     "scheduledStartTime": "2024-04-09T01:00:00Z",
     "actualStartTime": "2024-04-09T01:00:42Z",
+    "premiere": false
+  },
+  {
+    "id": "6ea0LHAu-6I",
+    "vidUrl": "https://youtu.be/6ea0LHAu-6I",
+    "vidTitle": "\u3010Balatro\u3011Testing my RNG with this new game...",
+    "channelId": "@aishiiaivt",
+    "channelName": "Aishii Ai Ch. ",
+    "channelThumb": "https://yt3.ggpht.com/5lZebcvMcKGO60QqEpNlAKMvPq4BBlDBw89gYfuMUfX2Bz6mTufczpwLhmwp3EBT0t5CITq_rQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Aishii",
+    "scheduledStartTime": "2024-04-09T01:00:00Z",
+    "actualStartTime": "2024-04-09T01:01:14Z",
     "premiere": false
   },
   {
