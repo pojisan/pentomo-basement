@@ -1,17 +1,5 @@
 [
   {
-    "id": "xW_OqOuZPuw",
-    "vidUrl": "https://youtu.be/xW_OqOuZPuw",
-    "vidTitle": "Playing Halo for the first time EVER",
-    "channelId": "@mioricelesta",
-    "channelName": "Miori Celesta",
-    "channelThumb": "https://yt3.ggpht.com/kaNjFSu8SjR9kJjHuxcfwKsA12ZeruRk8iJNOxeK0z1_5-zEuaMg_F-BHlXUztmPSVbuKgcxag=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Mio",
-    "scheduledStartTime": "2024-04-09T00:45:00Z",
-    "actualStartTime": "2024-04-09T00:40:00Z",
-    "premiere": false
-  },
-  {
     "id": "8wxIwieV7QA",
     "vidUrl": "https://youtu.be/8wxIwieV7QA",
     "vidTitle": "\u3010INDIE HORROR NIGHT\u3011FIRST TIME SCROLLING ITCH.IO!?",
@@ -98,11 +86,23 @@
   {
     "id": "M1CQmn3ixqk",
     "vidUrl": "https://youtu.be/M1CQmn3ixqk",
-    "vidTitle": "\u3010BREAD & FRED\u3011Angy Catto & @ShirousaMikumi \u3010VOLs\u3011",
+    "vidTitle": "\u3010BREAD & FRED\u3011Meet the cute chaotic penguins! Angy & @ShirousaMikumi \u3010VOLs\u3011",
     "channelId": "@angycatto_vols",
     "channelName": "Angy Catto - VOLs",
     "channelThumb": "https://yt3.ggpht.com/QmtGoU3n-jCQAj1gfC6hKg-PiFlyGTW-sz1HZJZlV8Av1Kdial8AJphIpJD7ywQWtUuVgyjo=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Angy",
+    "scheduledStartTime": "2024-04-09T13:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "OOacUT2tyLc",
+    "vidUrl": "https://youtu.be/OOacUT2tyLc",
+    "vidTitle": "\u3010Working / Zatsudan\u3011Compromise for how much I miss you\ud83d\udcd8 - Nious Heiramond",
+    "channelId": "@heiramondnious",
+    "channelName": "Nious Heiramond",
+    "channelThumb": "https://yt3.ggpht.com/b-K26QC5jj-gDEifdqwVnFlh9mBb_Q7pteGB1Re34mWu2nthcmYyC6zJVH4Pz0EfEX7NnfEa=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Nious",
     "scheduledStartTime": "2024-04-09T13:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -960,6 +960,18 @@
     "premiere": false
   },
   {
+    "id": "730NRTr_JOU",
+    "vidUrl": "https://youtu.be/730NRTr_JOU",
+    "vidTitle": "\u30105K Endurance Karaoke Stream\u30fb5\u5343\u4eba\u767b\u9332\u76ee\u6307\u305b\u6b4c\u67a0\u8010\u4e45\u914d\u4fe1\u3011I\u2019M JUST GONNA KEEP SINGING",
+    "channelId": "@lumintsukiboshi",
+    "channelName": "Lumin Tsukiboshi\u30fb\u308b\u307f\u3093\ud83d\udcab\ud83d\udc51 ",
+    "channelThumb": "https://yt3.ggpht.com/GFwKlBk3CTxJtS0qwzh9PjXMdR7Zz1SvhtDnUWWHzaLbbTs60oipOhpOBSzfVjzCZh5Iv68qW3s=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Lumin",
+    "scheduledStartTime": "2024-04-10T03:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "gyZi4zQKFPU",
     "vidUrl": "https://youtu.be/gyZi4zQKFPU",
     "vidTitle": "P-BOT, ENHANCE \u3010 MARS FIRST LOGISTICS \u3011",
@@ -992,6 +1004,18 @@
     "channelThumb": "https://yt3.ggpht.com/yBYtwbzSuAJeF6wFyn8SsRj0SltRG3AwX05tcUO39OrcF4G9Bt5HPbuM5dKW56XfI8OLFWyQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Kaylex",
     "scheduledStartTime": "2024-04-10T03:00:13Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "0jZl24fSTcs",
+    "vidUrl": "https://youtu.be/0jZl24fSTcs",
+    "vidTitle": "\u3010DEBUT 2.0\u3011SMASH OR PASS: Horror Edition\u3010Yumi The Witch | V4Mirai | ENVtuber\u3011",
+    "channelId": "@yumithewitch",
+    "channelName": "Yumi the Witch Ch.\u3010V4Mirai\u3011",
+    "channelThumb": "https://yt3.ggpht.com/k481pwD9PWdvammPbZ6YdWWA8Aw8TuvTmVvep2ICveehwHFlc0oubCggJajlD_2uhwdahA6X1w=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Yumi",
+    "scheduledStartTime": "2024-04-10T04:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -2076,6 +2100,18 @@
     "premiere": false
   },
   {
+    "id": "xSmUxdyjdAs",
+    "vidUrl": "https://youtu.be/xSmUxdyjdAs",
+    "vidTitle": "\u3010Just Chatting\u3011Let me read you a scary bedtime story\u3010Yumi The Witch | V4Mirai | ENVtuber\u3011",
+    "channelId": "@yumithewitch",
+    "channelName": "Yumi the Witch Ch.\u3010V4Mirai\u3011",
+    "channelThumb": "https://yt3.ggpht.com/k481pwD9PWdvammPbZ6YdWWA8Aw8TuvTmVvep2ICveehwHFlc0oubCggJajlD_2uhwdahA6X1w=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Yumi",
+    "scheduledStartTime": "2024-04-12T04:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "xijQd7c4_gc",
     "vidUrl": "https://youtu.be/xijQd7c4_gc",
     "vidTitle": "\u3016Project Zomboid\u3017Once again we thrive (for real) w/@AuriLunami \u3016Cyon \u2765 V&U\u3017",
@@ -3048,18 +3084,6 @@
     "premiere": false
   },
   {
-    "id": "MxBbP33miKw",
-    "vidUrl": "https://youtu.be/MxBbP33miKw",
-    "vidTitle": "\u3010Hey, I'm back. Miss me?\u3011",
-    "channelId": "@nonanon",
-    "channelName": "Non Anon / \u4e9c\u97f3\u30ce\u30f3 \u3010EverAfter\u3011",
-    "channelThumb": "https://yt3.ggpht.com/sxw_fIVZnYL-7WOuDUPYpsAQWHtcy-ZRqNY1MiaTm7Z6Cb-GB_BULxH31wMG930UdmTjv-_CqQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Non",
-    "scheduledStartTime": "2024-05-04T05:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "3c3PT9pr27o",
     "vidUrl": "https://youtu.be/3c3PT9pr27o",
     "vidTitle": "\u3010#Reimumu3D \u304a\u62ab\u9732\u76ee\u3011\ud83d\ude4fTHE BACK IS REAAAAL\ud83d\ude4f\u3010NIJISANJI EN | Reimu Endou\u3011",
@@ -3108,30 +3132,6 @@
     "premiere": false
   },
   {
-    "id": "i-DzVoVX22s",
-    "vidUrl": "https://youtu.be/i-DzVoVX22s",
-    "vidTitle": "bread schedule",
-    "channelId": "@niniyuuna",
-    "channelName": "Yuuna Nini",
-    "channelThumb": "https://yt3.ggpht.com/zv6VpVF9djuMycAHUUtRulGNEnMIlPWiNt3kFKBJ6DkyOFgu016nN7ZYl3BiO1gNJkKZ4_hZlw=s88-c-k-c0x00ffffff-no-nd-rj",
-    "shortName": "Yuuna",
-    "scheduledStartTime": "2024-12-22T03:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "KB2bt0FMb5U",
-    "vidUrl": "https://youtu.be/KB2bt0FMb5U",
-    "vidTitle": "[ WEEKLY SCHEDULE FEB 12 - 17 ] \ud83c\udf3f\ud83d\udc34",
-    "channelId": "@lorelailoch",
-    "channelName": "Lorelai Loch",
-    "channelThumb": "https://yt3.ggpht.com/B4ZOCe8vf523qVFp9hcUwHIVdtPW5xkAEIJBBQT43pdQNygRyVfBD9z_fLabNfkAr2lZ7fr1=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Lorelai",
-    "scheduledStartTime": "2025-01-01T19:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "ILV0rhfsbAw",
     "vidUrl": "https://youtu.be/ILV0rhfsbAw",
     "vidTitle": "\u3010FREE CHAT\u3011The Dead Zone",
@@ -3152,18 +3152,6 @@
     "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_mxbJ__S3iWA9yHCK-ABLglmhGfKYmpCZWxxP4D-w4ymQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Mint",
     "scheduledStartTime": "2025-04-06T04:10:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "VMkhpmBSESk",
-    "vidUrl": "https://youtu.be/VMkhpmBSESk",
-    "vidTitle": "ALWAYS POLISH YOUR KEY",
-    "channelId": "@kikilockheartch",
-    "channelName": "Kiki Lockheart Ch. \u3010EIEN Project\u3011",
-    "channelThumb": "https://yt3.ggpht.com/7rG1LY7n4F5kPi_WOMU5fl8vgtvhqtnuN9PA4omiWTfUDiJeK1r5Bh9nnWNVcfwLGeXY2Ib8kA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Kiki",
-    "scheduledStartTime": "2025-10-26T04:45:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -3200,30 +3188,6 @@
     "channelThumb": "https://yt3.ggpht.com/Rfw0lIyzSK0w6oeZ0tcfzM_VdJNo4PFEBZ4vrhVvZBtylWWoKxKpu6HHSAd1_jcy7-LlZVEBC1g=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Zumi",
     "scheduledStartTime": "2026-01-01T23:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "5CKMz_j6hnc",
-    "vidUrl": "https://youtu.be/5CKMz_j6hnc",
-    "vidTitle": "\u3010SCHEDULE\u3011Mar 11 - Mar 17",
-    "channelId": "@salmonlordette",
-    "channelName": "Salmon Lordette Ch. [VReverie]",
-    "channelThumb": "https://yt3.ggpht.com/S3YUDVxRy7VrtoW4qwM4ryWyg0txHBtxjsg1x4yuDr5Q7WAjisREsT91QnQIi-XxrIhTcmofDw=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Salmon",
-    "scheduledStartTime": "2026-01-15T10:15:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "tpPuiNDFtpo",
-    "vidUrl": "https://youtu.be/tpPuiNDFtpo",
-    "vidTitle": "back from hiatus stream!!!!!!!!!!!!!!!!!!!!!!!!!",
-    "channelId": "@amemachihanabi",
-    "channelName": "Hanabi ch. \u96e8\u8857\u306f\u306a\u3073",
-    "channelThumb": "https://yt3.ggpht.com/X7rN9PsC3bwHC7-DPg91rY2fyHbNvDX323xbAEAdoEBuhO6kr7fF9KiXULHn7Wc1LUCbF1TElwM=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Mayor",
-    "scheduledStartTime": "2026-03-31T16:45:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -3327,6 +3291,19 @@
     "shortName": "Mero",
     "scheduledStartTime": "2024-04-09T00:25:00Z",
     "actualStartTime": "2024-04-09T00:26:45Z",
+    "premiere": false
+  },
+  {
+    "id": "xW_OqOuZPuw",
+    "vidUrl": "https://youtu.be/xW_OqOuZPuw",
+    "vidTitle": "Playing Halo for the first time EVER",
+    "channelId": "@mioricelesta",
+    "channelName": "Miori Celesta",
+    "channelThumb": "https://yt3.ggpht.com/kaNjFSu8SjR9kJjHuxcfwKsA12ZeruRk8iJNOxeK0z1_5-zEuaMg_F-BHlXUztmPSVbuKgcxag=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Mio",
+    "scheduledStartTime": "2024-04-09T00:45:00Z",
+    "actualStartTime": "2024-04-09T00:40:00Z",
     "premiere": false
   },
   {
@@ -3434,32 +3411,6 @@
     "premiere": false
   },
   {
-    "id": "M4aFUM5FjDg",
-    "vidUrl": "https://youtu.be/M4aFUM5FjDg",
-    "vidTitle": "Senniursa Ch. \u30bb\u30cb\u30b0\u30de Live Stream",
-    "channelId": "@senniursa",
-    "channelName": "Senniursa Ch.",
-    "channelThumb": "https://yt3.ggpht.com/ZDjic-7GIfMpgDDSMNtpdFo0QcdW86XCyfdGAfS9FZU-Toy2qPG_1T0zt4gKrc7zMZNdsJUbrA=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Senniursa",
-    "scheduledStartTime": "",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "TNsQKw83M2M",
-    "vidUrl": "https://youtu.be/TNsQKw83M2M",
-    "vidTitle": "Unarchived Comfy Gaming\ufe31Nolie\u3010\u4e43\u8389\u3011",
-    "channelId": "@nolienoa",
-    "channelName": "Nolie\u3010\u4e43\u8389\u3011NOA Talent",
-    "channelThumb": "https://yt3.ggpht.com/Qu_wOQptNHV7-kpNzRx0C_GfxmrlpoFqlogFXsMRttwSMALtjKj_KMw2Vf02K_tniLHlA6cqvA=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Nolie",
-    "scheduledStartTime": "",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "XrylmPw8zxA",
     "vidUrl": "https://youtu.be/XrylmPw8zxA",
     "vidTitle": "Yumi the Witch Live Stream",
@@ -3551,19 +3502,6 @@
     "premiere": false
   },
   {
-    "id": "p67AeNM6o10",
-    "vidUrl": "https://youtu.be/p67AeNM6o10",
-    "vidTitle": "Nini Yuuna Ch. \u306b\u306b\u3086\u30fc\u306a Live Stream",
-    "channelId": "@niniyuuna",
-    "channelName": "Yuuna Nini",
-    "channelThumb": "https://yt3.ggpht.com/zv6VpVF9djuMycAHUUtRulGNEnMIlPWiNt3kFKBJ6DkyOFgu016nN7ZYl3BiO1gNJkKZ4_hZlw=s88-c-k-c0x00ffffff-no-nd-rj",
-    "graveyard": true,
-    "shortName": "Yuuna",
-    "scheduledStartTime": "",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "pT7EGiJjbag",
     "vidUrl": "https://youtu.be/pT7EGiJjbag",
     "vidTitle": "\u53ef\u6bd4 \u3010Kerby\u3011 Live Stream",
@@ -3612,58 +3550,6 @@
     "graveyard": true,
     "shortName": "Vance",
     "scheduledStartTime": "",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "ebehWjEAwb4",
-    "vidUrl": "https://youtu.be/ebehWjEAwb4",
-    "vidTitle": "Baba Is Not Pii\u3010#Piisutachio\u3011",
-    "channelId": "@piipistachio",
-    "channelName": "Pistachio",
-    "channelThumb": "https://yt3.ggpht.com/fImsdUPvm6gTVCHDT19AiuUZjQ1mhzOxnx9p4ngM3oLdUAleNsoMP_jkScyKTDoy08wSTpTfwBg=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Pii",
-    "scheduledStartTime": "2024-01-09T04:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "VZMA8E1Y2-Y",
-    "vidUrl": "https://youtu.be/VZMA8E1Y2-Y",
-    "vidTitle": "\u3010WATCHALONG\u3011I'm Regretting This\u3010#Piisutachio\u3011",
-    "channelId": "@piipistachio",
-    "channelName": "Pistachio",
-    "channelThumb": "https://yt3.ggpht.com/fImsdUPvm6gTVCHDT19AiuUZjQ1mhzOxnx9p4ngM3oLdUAleNsoMP_jkScyKTDoy08wSTpTfwBg=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Pii",
-    "scheduledStartTime": "2024-01-11T04:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "hFWBiqdOkyE",
-    "vidUrl": "https://youtu.be/hFWBiqdOkyE",
-    "vidTitle": "\u3010COLLAB\u3011Does Miu Know Dawae!?\u3010#Piisutachio\u3011ft. @MiuAkumiya",
-    "channelId": "@piipistachio",
-    "channelName": "Pistachio",
-    "channelThumb": "https://yt3.ggpht.com/fImsdUPvm6gTVCHDT19AiuUZjQ1mhzOxnx9p4ngM3oLdUAleNsoMP_jkScyKTDoy08wSTpTfwBg=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Pii",
-    "scheduledStartTime": "2024-01-14T04:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "DyzwW7FKhpE",
-    "vidUrl": "https://youtu.be/DyzwW7FKhpE",
-    "vidTitle": "\u3010SCHEDULE\u3011Week 2 of January!!\u3010#Piisutachio\u3011",
-    "channelId": "@piipistachio",
-    "channelName": "Pistachio",
-    "channelThumb": "https://yt3.ggpht.com/fImsdUPvm6gTVCHDT19AiuUZjQ1mhzOxnx9p4ngM3oLdUAleNsoMP_jkScyKTDoy08wSTpTfwBg=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Pii",
-    "scheduledStartTime": "2024-01-14T12:45:00Z",
     "actualStartTime": "",
     "premiere": false
   },
