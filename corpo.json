@@ -48,18 +48,6 @@
     "premiere": false
   },
   {
-    "id": "ucWAkFieUpM",
-    "vidUrl": "https://youtu.be/ucWAkFieUpM",
-    "vidTitle": "\u3010WILD RIFT\u3011Hu LoL-ing but on a phone!\u3010globie 1st Gen\u3011",
-    "channelId": "@taringhu",
-    "channelName": "Taring Hu ch. \u30bf\u30ea\u30f3\u30d5\u30fc\u3010globie\u3011",
-    "channelThumb": "https://yt3.ggpht.com/ZVYdvQBa9q2BLWfDnqUrpJD16c5Tr0vGoXjvBFgydUvA1XKt1cuJPT8aMM6bSE_MtPFQVwaQYA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Hu",
-    "scheduledStartTime": "2024-04-09T16:00:00Z",
-    "actualStartTime": "2024-04-09T15:58:24Z",
-    "premiere": false
-  },
-  {
     "id": "4NuhuFGEpag",
     "vidUrl": "https://youtu.be/4NuhuFGEpag",
     "vidTitle": "I NEED SOME ACTION",
@@ -248,7 +236,7 @@
     "channelThumb": "https://yt3.ggpht.com/8f_4es6nBZAfGqpbSLfr5b12pv2elBhAnKV4NHf8BUZPY0edK5rfovLJbl22foZdWjvPIlHt=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Miel",
     "scheduledStartTime": "2024-04-09T18:30:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-09T18:31:24Z",
     "premiere": false
   },
   {
@@ -643,6 +631,18 @@
     "channelName": "Yuno Hanaki Ch. \u83ef\u9b3c\u7d50\u671b \u3010kawaii\u3011",
     "channelThumb": "https://yt3.ggpht.com/3pIMiD4FJEzYSAXPR4CchM-vKiT7gfMtJagky2oGpvyMy0UqATsnAPLJ8DFE1eTJQH2MYkxPHQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Yuno",
+    "scheduledStartTime": "2024-04-10T00:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "asJHjzvPu3M",
+    "vidUrl": "https://youtu.be/asJHjzvPu3M",
+    "vidTitle": "\u3010Karaoke\u3011Shounen Anime Songs to Naruto Run to!\ud83c\udfa4",
+    "channelId": "@majokkomeimi",
+    "channelName": "Meimi Majokko Ch. \u9b54\u5973\u3063\u5b50\u3081\u3044\u307f\u3010kawaii\u3011",
+    "channelThumb": "https://yt3.ggpht.com/yKOTdfPIaUJm7wH2snXzhSgGPqJL4STR1n08lCrGFZa-7oxEZuSgy080xUQt7Y3iPp2m47FLYA=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Meimi",
     "scheduledStartTime": "2024-04-10T00:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -3446,6 +3446,19 @@
     "shortName": "Karrot",
     "scheduledStartTime": "2024-04-09T14:00:00Z",
     "actualStartTime": "2024-04-09T14:01:33Z",
+    "premiere": false
+  },
+  {
+    "id": "ucWAkFieUpM",
+    "vidUrl": "https://youtu.be/ucWAkFieUpM",
+    "vidTitle": "\u3010WILD RIFT\u3011Hu LoL-ing but on a phone!\u3010globie 1st Gen\u3011",
+    "channelId": "@taringhu",
+    "channelName": "Taring Hu ch. \u30bf\u30ea\u30f3\u30d5\u30fc\u3010globie\u3011",
+    "channelThumb": "https://yt3.ggpht.com/ZVYdvQBa9q2BLWfDnqUrpJD16c5Tr0vGoXjvBFgydUvA1XKt1cuJPT8aMM6bSE_MtPFQVwaQYA=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Hu",
+    "scheduledStartTime": "2024-04-09T16:00:00Z",
+    "actualStartTime": "2024-04-09T15:58:24Z",
     "premiere": false
   },
   {
