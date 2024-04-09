@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "M1CQmn3ixqk",
-    "vidUrl": "https://youtu.be/M1CQmn3ixqk",
-    "vidTitle": "\u3010VALORANT\u3011PEWPEW!\u3010VOL\u3011",
-    "channelId": "@angycatto_vols",
-    "channelName": "Angy Catto - VOLs",
-    "channelThumb": "https://yt3.ggpht.com/QmtGoU3n-jCQAj1gfC6hKg-PiFlyGTW-sz1HZJZlV8Av1Kdial8AJphIpJD7ywQWtUuVgyjo=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Angy",
-    "scheduledStartTime": "2024-04-09T13:00:00Z",
-    "actualStartTime": "2024-04-09T13:01:37Z",
-    "premiere": false
-  },
-  {
     "id": "-XALIetx2XA",
     "vidUrl": "https://youtu.be/-XALIetx2XA",
     "vidTitle": "\ud83d\udd34\u3010MINISHOOT' ADVENTURES\u3011 Addictive NEW Bullet Hell Shooter Game! \ud83d\ude80",
@@ -213,18 +201,6 @@
     "shortName": "Nyanheras",
     "scheduledStartTime": "2024-04-09T16:00:00Z",
     "actualStartTime": "2024-04-09T16:13:12Z",
-    "premiere": false
-  },
-  {
-    "id": "NRgIqeuCeKQ",
-    "vidUrl": "https://youtu.be/NRgIqeuCeKQ",
-    "vidTitle": "\ud83d\udd34Goose Goose Duck | \u0e2d\u0e21\u0e2d\u0e07\u0e01\u0e38\u0e2a\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e44\u0e1b!! \ud83e\udd86",
-    "channelId": "@goozillaily",
-    "channelName": "Goozilla Ily Ch. [Autumnia]",
-    "channelThumb": "https://yt3.ggpht.com/jds_vfaqo4fnyTfPohyRPUqgIR6zUfltLSkUvuL26fVY2ZVqfPBjUdIWcux0qe8hgt68pWen=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Goozilla",
-    "scheduledStartTime": "2024-04-09T16:04:21Z",
-    "actualStartTime": "",
     "premiere": false
   },
   {
@@ -3461,6 +3437,19 @@
     "premiere": false
   },
   {
+    "id": "M1CQmn3ixqk",
+    "vidUrl": "https://youtu.be/M1CQmn3ixqk",
+    "vidTitle": "\u3010VALORANT\u3011PEWPEW!\u3010VOL\u3011",
+    "channelId": "@angycatto_vols",
+    "channelName": "Angy Catto - VOLs",
+    "channelThumb": "https://yt3.ggpht.com/QmtGoU3n-jCQAj1gfC6hKg-PiFlyGTW-sz1HZJZlV8Av1Kdial8AJphIpJD7ywQWtUuVgyjo=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Angy",
+    "scheduledStartTime": "2024-04-09T13:00:00Z",
+    "actualStartTime": "2024-04-09T13:01:37Z",
+    "premiere": false
+  },
+  {
     "id": "YLFvvBy8cUI",
     "vidUrl": "https://youtu.be/YLFvvBy8cUI",
     "vidTitle": "\ud83d\udd34Goose Goose Duck | \u0e2d\u0e21\u0e2d\u0e07\u0e01\u0e38\u0e2a\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e44\u0e1b!! \ud83e\udd86",
@@ -3471,19 +3460,6 @@
     "shortName": "Goozilla",
     "scheduledStartTime": "2024-04-09T13:22:34Z",
     "actualStartTime": "2024-04-09T13:22:46Z",
-    "premiere": false
-  },
-  {
-    "id": "oZWm7ki5Fbw",
-    "vidUrl": "https://youtu.be/oZWm7ki5Fbw",
-    "vidTitle": "\u3010TEKKEN 8\u3011Tekken Tuesday Session Time FIGHT ME\u3010#Coyote / #KemoV\u3011#tekken #\u9244\u62f38",
-    "channelId": "@coyote_kemov",
-    "channelName": "\u30b3\u30e8\u30fc\u30c6 / Coyote",
-    "channelThumb": "https://yt3.ggpht.com/VwLc2w11lh_JlrsDB9P4OvBJpqaoAZdS08gqQx7vtJ5-4DjsEiP5Un6xmT0q8VE6zr8uXYEnTqg=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Coyo",
-    "scheduledStartTime": "2024-04-09T13:45:00Z",
-    "actualStartTime": "2024-04-09T13:45:37Z",
     "premiere": false
   },
   {

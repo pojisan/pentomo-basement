@@ -1,17 +1,5 @@
 [
   {
-    "id": "aWv79t2UXsQ",
-    "vidUrl": "https://youtu.be/aWv79t2UXsQ",
-    "vidTitle": "\u3010LETHAL COMPANY\u3011New Update FUN! \u30a2\u30d7\u30c7\u6765\u305f\uff01\u308f\u30fc\u3044\uff01\uff01  #\u3075\u308c\u3042\u3044\u3093\u306a\u306b\u3083",
-    "channelId": "@irys",
-    "channelName": "IRyS Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/cDSMiVy3Xa49Ci_YyouVNzfCwVXKRYmOeywWQ_UFKzvAp6tvyeMtXMyzWzQ2u8ft4EENsJKt7A=s88-c-k-c0x00ffffff-no-nd-rj",
-    "shortName": "Irys",
-    "scheduledStartTime": "2024-04-09T12:00:00Z",
-    "actualStartTime": "2024-04-09T12:03:48Z",
-    "premiere": false
-  },
-  {
     "id": "OOacUT2tyLc",
     "vidUrl": "https://youtu.be/OOacUT2tyLc",
     "vidTitle": "\u3010Working / Zatsudan\u3011Compromise for how much I miss you\ud83d\udcd8 - Nious Heiramond",
@@ -21,18 +9,6 @@
     "shortName": "Nious",
     "scheduledStartTime": "2024-04-09T13:00:00Z",
     "actualStartTime": "2024-04-09T13:00:23Z",
-    "premiere": false
-  },
-  {
-    "id": "M1CQmn3ixqk",
-    "vidUrl": "https://youtu.be/M1CQmn3ixqk",
-    "vidTitle": "\u3010VALORANT\u3011PEWPEW!\u3010VOL\u3011",
-    "channelId": "@angycatto_vols",
-    "channelName": "Angy Catto - VOLs",
-    "channelThumb": "https://yt3.ggpht.com/QmtGoU3n-jCQAj1gfC6hKg-PiFlyGTW-sz1HZJZlV8Av1Kdial8AJphIpJD7ywQWtUuVgyjo=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Angy",
-    "scheduledStartTime": "2024-04-09T13:00:00Z",
-    "actualStartTime": "2024-04-09T13:01:37Z",
     "premiere": false
   },
   {
@@ -273,18 +249,6 @@
     "shortName": "Kunai",
     "scheduledStartTime": "2024-04-09T16:05:00Z",
     "actualStartTime": "2024-04-09T16:04:52Z",
-    "premiere": false
-  },
-  {
-    "id": "NRgIqeuCeKQ",
-    "vidUrl": "https://youtu.be/NRgIqeuCeKQ",
-    "vidTitle": "\ud83d\udd34Goose Goose Duck | \u0e2d\u0e21\u0e2d\u0e07\u0e01\u0e38\u0e2a\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e44\u0e1b!! \ud83e\udd86",
-    "channelId": "@goozillaily",
-    "channelName": "Goozilla Ily Ch. [Autumnia]",
-    "channelThumb": "https://yt3.ggpht.com/jds_vfaqo4fnyTfPohyRPUqgIR6zUfltLSkUvuL26fVY2ZVqfPBjUdIWcux0qe8hgt68pWen=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Goozilla",
-    "scheduledStartTime": "2024-04-09T16:04:21Z",
-    "actualStartTime": "",
     "premiere": false
   },
   {
@@ -3496,6 +3460,19 @@
     "premiere": false
   },
   {
+    "id": "aWv79t2UXsQ",
+    "vidUrl": "https://youtu.be/aWv79t2UXsQ",
+    "vidTitle": "\u3010LETHAL COMPANY\u3011New Update FUN! \u30a2\u30d7\u30c7\u6765\u305f\uff01\u308f\u30fc\u3044\uff01\uff01  #\u3075\u308c\u3042\u3044\u3093\u306a\u306b\u3083",
+    "channelId": "@irys",
+    "channelName": "IRyS Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/cDSMiVy3Xa49Ci_YyouVNzfCwVXKRYmOeywWQ_UFKzvAp6tvyeMtXMyzWzQ2u8ft4EENsJKt7A=s88-c-k-c0x00ffffff-no-nd-rj",
+    "graveyard": true,
+    "shortName": "Irys",
+    "scheduledStartTime": "2024-04-09T12:00:00Z",
+    "actualStartTime": "2024-04-09T12:03:48Z",
+    "premiere": false
+  },
+  {
     "id": "yrB5u5jvzW4",
     "vidUrl": "https://youtu.be/yrB5u5jvzW4",
     "vidTitle": "\u3010KARAOKE/\u6b4c\u67a0\u3011J-POP SONGS ONLY!!",
@@ -3506,6 +3483,19 @@
     "shortName": "Lua",
     "scheduledStartTime": "2024-04-09T13:00:00Z",
     "actualStartTime": "2024-04-09T13:01:01Z",
+    "premiere": false
+  },
+  {
+    "id": "M1CQmn3ixqk",
+    "vidUrl": "https://youtu.be/M1CQmn3ixqk",
+    "vidTitle": "\u3010VALORANT\u3011PEWPEW!\u3010VOL\u3011",
+    "channelId": "@angycatto_vols",
+    "channelName": "Angy Catto - VOLs",
+    "channelThumb": "https://yt3.ggpht.com/QmtGoU3n-jCQAj1gfC6hKg-PiFlyGTW-sz1HZJZlV8Av1Kdial8AJphIpJD7ywQWtUuVgyjo=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Angy",
+    "scheduledStartTime": "2024-04-09T13:00:00Z",
+    "actualStartTime": "2024-04-09T13:01:37Z",
     "premiere": false
   },
   {
@@ -3532,19 +3522,6 @@
     "shortName": "Goozilla",
     "scheduledStartTime": "2024-04-09T13:22:34Z",
     "actualStartTime": "2024-04-09T13:22:46Z",
-    "premiere": false
-  },
-  {
-    "id": "oZWm7ki5Fbw",
-    "vidUrl": "https://youtu.be/oZWm7ki5Fbw",
-    "vidTitle": "\u3010TEKKEN 8\u3011Tekken Tuesday Session Time FIGHT ME\u3010#Coyote / #KemoV\u3011#tekken #\u9244\u62f38",
-    "channelId": "@coyote_kemov",
-    "channelName": "\u30b3\u30e8\u30fc\u30c6 / Coyote",
-    "channelThumb": "https://yt3.ggpht.com/VwLc2w11lh_JlrsDB9P4OvBJpqaoAZdS08gqQx7vtJ5-4DjsEiP5Un6xmT0q8VE6zr8uXYEnTqg=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Coyo",
-    "scheduledStartTime": "2024-04-09T13:45:00Z",
-    "actualStartTime": "2024-04-09T13:45:37Z",
     "premiere": false
   },
   {
