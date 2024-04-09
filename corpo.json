@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "FVC-Z4O8zXs",
-    "vidUrl": "https://youtu.be/FVC-Z4O8zXs",
-    "vidTitle": "IT'S MY BIRTHDAY!! \ud83e\udd73\ud83d\udc97 \u3010 TIPSY CELEBRATION TIME!! \ud83c\udf82\ud83d\udc97 \u3011",
-    "channelId": "@sheeichokawaii",
-    "channelName": "Shee Icho Ch. \u9280\u674f\u3057\u3044\u3010kawaii\u3011",
-    "channelThumb": "https://yt3.ggpht.com/9WpvwRlwjSUM4bCLMLpNv3BvRtnQWki4eY-YAsKAkuzUxJaLXhLDJu5XMQoPU_zbzunktQvMpg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Shee",
-    "scheduledStartTime": "2024-04-09T02:00:00Z",
-    "actualStartTime": "2024-04-09T02:03:01Z",
-    "premiere": false
-  },
-  {
     "id": "cfWPRtV7caE",
     "vidUrl": "https://youtu.be/cfWPRtV7caE",
     "vidTitle": "\u3016Sekiro\u3017h e l p\u3016Cyon \u2765 V&U\u3017",
@@ -3219,6 +3207,19 @@
     "shortName": "Io",
     "scheduledStartTime": "2024-04-09T01:00:00Z",
     "actualStartTime": "2024-04-09T01:03:38Z",
+    "premiere": false
+  },
+  {
+    "id": "FVC-Z4O8zXs",
+    "vidUrl": "https://youtu.be/FVC-Z4O8zXs",
+    "vidTitle": "IT'S MY BIRTHDAY!! \ud83e\udd73\ud83d\udc97 \u3010 TIPSY CELEBRATION TIME!! \ud83c\udf82\ud83d\udc97 \u3011",
+    "channelId": "@sheeichokawaii",
+    "channelName": "Shee Icho Ch. \u9280\u674f\u3057\u3044\u3010kawaii\u3011",
+    "channelThumb": "https://yt3.ggpht.com/9WpvwRlwjSUM4bCLMLpNv3BvRtnQWki4eY-YAsKAkuzUxJaLXhLDJu5XMQoPU_zbzunktQvMpg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Shee",
+    "scheduledStartTime": "2024-04-09T02:00:00Z",
+    "actualStartTime": "2024-04-09T02:03:01Z",
     "premiere": false
   },
   {
