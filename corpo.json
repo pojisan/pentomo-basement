@@ -144,18 +144,6 @@
     "premiere": false
   },
   {
-    "id": "7N13S5YuSss",
-    "vidUrl": "https://youtu.be/7N13S5YuSss",
-    "vidTitle": "VRChat Shenanigans + Mini Announcement!",
-    "channelId": "@echovnu",
-    "channelName": "Echo Lyne Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/GXeZ1UMgOyI-peaWarT6IrEjhqilp90c7VnxBbAvFx2oy-wKlJMJnBR1m3oi2pwqryx8OwSk5A=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Echo Lyne",
-    "scheduledStartTime": "2024-04-09T19:00:00Z",
-    "actualStartTime": "2024-04-09T19:00:19Z",
-    "premiere": false
-  },
-  {
     "id": "oG8h0gXbVVY",
     "vidUrl": "https://youtu.be/oG8h0gXbVVY",
     "vidTitle": "\u3010Metroid 2\u3011THEIR NUMBERS ARE DWINDLING!",
@@ -631,6 +619,18 @@
     "channelName": "Yae Yugiri Ch.\u3010V4Mirai\u3011",
     "channelThumb": "https://yt3.ggpht.com/4YU-ifBGgSoq-RvD3MYlUq_mhH23Ioe8h_t083RWrYs3c4qDcJQ_nEds5DGrI7C2FQOz0kLb=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Yae",
+    "scheduledStartTime": "2024-04-10T01:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "bJnOoGx1H3M",
+    "vidUrl": "https://youtu.be/bJnOoGx1H3M",
+    "vidTitle": "\u3010Honkai: Star Rail\u3011Dreaming Of Her...\u3010UTAHIME MOCHIZUKI | SPECIALITE\u3011",
+    "channelId": "@utahimemochizuki",
+    "channelName": "Utahime Mochizuki | Specialite EN",
+    "channelThumb": "https://yt3.ggpht.com/osBzLXvtdsDnt8yz3Eir3dzxCzGyrtg7-2jVXwKMBrLUijflbHEBU49IXRX_6fBOqtw8JpHiJQ=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Uta",
     "scheduledStartTime": "2024-04-10T01:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -3311,19 +3311,6 @@
     "premiere": false
   },
   {
-    "id": "OTHfF1XOP1Y",
-    "vidUrl": "https://youtu.be/OTHfF1XOP1Y",
-    "vidTitle": "\u3010L.A Noire\u3011im the best detective in the world!",
-    "channelId": "@kattarina_qutie",
-    "channelName": "Kattarina Qutie Ch. idol-EN",
-    "channelThumb": "https://yt3.ggpht.com/gHLRZOEihJIIcqQJmj8hsp4CsuRIbKIYKzRxQp9Q9du6DfBDFlnMv3xYCXMnKqSe3N8a1ki6Yw=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Katta",
-    "scheduledStartTime": "2024-04-09T13:00:00Z",
-    "actualStartTime": "2024-04-09T13:03:00Z",
-    "premiere": false
-  },
-  {
     "id": "YLFvvBy8cUI",
     "vidUrl": "https://youtu.be/YLFvvBy8cUI",
     "vidTitle": "\ud83d\udd34Goose Goose Duck | \u0e2d\u0e21\u0e2d\u0e07\u0e01\u0e38\u0e2a\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e44\u0e1b!! \ud83e\udd86",
@@ -3399,6 +3386,19 @@
     "shortName": "Nebi",
     "scheduledStartTime": "2024-04-09T16:00:00Z",
     "actualStartTime": "2024-04-09T16:49:36Z",
+    "premiere": false
+  },
+  {
+    "id": "7N13S5YuSss",
+    "vidUrl": "https://youtu.be/7N13S5YuSss",
+    "vidTitle": "VRChat Shenanigans + Mini Announcement!",
+    "channelId": "@echovnu",
+    "channelName": "Echo Lyne Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/GXeZ1UMgOyI-peaWarT6IrEjhqilp90c7VnxBbAvFx2oy-wKlJMJnBR1m3oi2pwqryx8OwSk5A=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Echo Lyne",
+    "scheduledStartTime": "2024-04-09T19:00:00Z",
+    "actualStartTime": "2024-04-09T19:00:19Z",
     "premiere": false
   },
   {
