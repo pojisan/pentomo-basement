@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "ZhBHnwU89-Y",
-    "vidUrl": "https://youtu.be/ZhBHnwU89-Y",
-    "vidTitle": "\u3010\u611f\u8b1d\u3011post-bday dono catchup\u3010NIJISANJI EN | Sonny Brisko\u3011",
-    "channelId": "@sonnybrisko",
-    "channelName": "Sonny Brisko \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/Z6Pi1VkybXJu7D-yDxlSnL6hlavVbedb3qfkbCHc6zllK-Eo4lCqmNxpxc4XUM0IEFACqpdwsKo=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Sonny",
-    "scheduledStartTime": "2024-04-09T10:00:00Z",
-    "actualStartTime": "2024-04-09T10:06:49Z",
-    "premiere": false
-  },
-  {
     "id": "DVoMoSkSflg",
     "vidUrl": "https://youtu.be/DVoMoSkSflg",
     "vidTitle": "\u3010KARAOKE\u3011Life update #\u6b4c\u67a0",
@@ -3356,6 +3344,19 @@
     "shortName": "Tomo",
     "scheduledStartTime": "2024-04-09T05:00:00Z",
     "actualStartTime": "2024-04-09T05:03:24Z",
+    "premiere": false
+  },
+  {
+    "id": "ZhBHnwU89-Y",
+    "vidUrl": "https://youtu.be/ZhBHnwU89-Y",
+    "vidTitle": "\u3010\u611f\u8b1d\u3011post-bday dono catchup\u3010NIJISANJI EN | Sonny Brisko\u3011",
+    "channelId": "@sonnybrisko",
+    "channelName": "Sonny Brisko \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/Z6Pi1VkybXJu7D-yDxlSnL6hlavVbedb3qfkbCHc6zllK-Eo4lCqmNxpxc4XUM0IEFACqpdwsKo=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Sonny",
+    "scheduledStartTime": "2024-04-09T10:00:00Z",
+    "actualStartTime": "2024-04-09T10:06:49Z",
     "premiere": false
   },
   {
