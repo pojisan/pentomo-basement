@@ -36,30 +36,6 @@
     "premiere": false
   },
   {
-    "id": "PYkA5s7sKw8",
-    "vidUrl": "https://youtu.be/PYkA5s7sKw8",
-    "vidTitle": "Let's talk about my Trip!",
-    "channelId": "@lidaoriana",
-    "channelName": "Lida Oriana Ch.",
-    "channelThumb": "https://yt3.ggpht.com/jPWRHtDGZ3b-HXw__M_4Le5LhYAwxpcy7_Inwji6RhxGC7NK34Nihv_LwLgjtCfdTMuDE92y=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Lida",
-    "scheduledStartTime": "2024-04-09T14:00:00Z",
-    "actualStartTime": "2024-04-09T13:59:35Z",
-    "premiere": false
-  },
-  {
-    "id": "ijdVbWRMozo",
-    "vidUrl": "https://youtu.be/ijdVbWRMozo",
-    "vidTitle": "\u3010DUOLINGO\u3011 Learning Bahasa Indo!!\u3010Projek Hikayat\u3011",
-    "channelId": "@kurisukowach.",
-    "channelName": "Kurisu Kowa Ch. ",
-    "channelThumb": "https://yt3.ggpht.com/evUgeuKpRB2sj9Hb7Mq6Q3HR7L3_0Hi1ucJPtCvGBrnJ88SxxxSqFroVKz_Ov9lsHVaAjEyuuio=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Kowa",
-    "scheduledStartTime": "2024-04-09T14:00:00Z",
-    "actualStartTime": "2024-04-09T14:00:18Z",
-    "premiere": false
-  },
-  {
     "id": "sarrBhcREIw",
     "vidUrl": "https://youtu.be/sarrBhcREIw",
     "vidTitle": "\u3010Sucker for Love: First Date\u3011Finally my own Eldritch waifu for smooching \ud83e\udd7a\ud83d\udc96\ud83d\udc96",
@@ -189,6 +165,18 @@
     "shortName": "Nyanheras",
     "scheduledStartTime": "2024-04-09T16:00:00Z",
     "actualStartTime": "2024-04-09T16:13:12Z",
+    "premiere": false
+  },
+  {
+    "id": "yU5kk1zEygs",
+    "vidUrl": "https://youtu.be/yU5kk1zEygs",
+    "vidTitle": "\u3010 MARIO KART 8 DELUXE \u3011VIEWER PARTICIPATION \u2606 LET'S PLAY MARIO KART\uff01\u3010 PIXELLINK\u30fbNEBI NEBU \u3011",
+    "channelId": "@nebinebu",
+    "channelName": "Nebi Nebu Ch.\u3010PixelLink\u3011",
+    "channelThumb": "https://yt3.ggpht.com/ISIGJXVKQQOGr9G6acb4mkNl8W6qNDzBHOdvO65x9JIZB0unQUOxkuzd7ZTmmZRirMPBrwCJ=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Nebi",
+    "scheduledStartTime": "2024-04-09T16:00:00Z",
+    "actualStartTime": "2024-04-09T16:49:36Z",
     "premiere": false
   },
   {
@@ -3397,19 +3385,6 @@
     "premiere": false
   },
   {
-    "id": "AuJU9t0KRZs",
-    "vidUrl": "https://youtu.be/AuJU9t0KRZs",
-    "vidTitle": "\u3010Supermarket Simulator\u3011Making Io's Money Worth! NO1 HYONEY MART",
-    "channelId": "@amase_io",
-    "channelName": "Amase Io CH. \u5929\u702c \u30a4\u30aa\u3010Project Memoire\u3011",
-    "channelThumb": "https://yt3.ggpht.com/X1sgPuBT-qyqDLp-Z42L1Xx6FqUOvvgaTeOz8DhHobGpDBiCOsmAcvzXRRUXihT9mv0QrEPPfQ=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Io",
-    "scheduledStartTime": "2024-04-09T01:00:00Z",
-    "actualStartTime": "2024-04-09T01:03:38Z",
-    "premiere": false
-  },
-  {
     "id": "GqMpteVWe28",
     "vidUrl": "https://youtu.be/GqMpteVWe28",
     "vidTitle": "Let's Study Psychology Together!\u30103dio ASMR\u3011",
@@ -3472,6 +3447,32 @@
     "shortName": "Goozilla",
     "scheduledStartTime": "2024-04-09T13:22:34Z",
     "actualStartTime": "2024-04-09T13:22:46Z",
+    "premiere": false
+  },
+  {
+    "id": "PYkA5s7sKw8",
+    "vidUrl": "https://youtu.be/PYkA5s7sKw8",
+    "vidTitle": "Let's talk about my Trip!",
+    "channelId": "@lidaoriana",
+    "channelName": "Lida Oriana Ch.",
+    "channelThumb": "https://yt3.ggpht.com/jPWRHtDGZ3b-HXw__M_4Le5LhYAwxpcy7_Inwji6RhxGC7NK34Nihv_LwLgjtCfdTMuDE92y=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Lida",
+    "scheduledStartTime": "2024-04-09T14:00:00Z",
+    "actualStartTime": "2024-04-09T13:59:35Z",
+    "premiere": false
+  },
+  {
+    "id": "ijdVbWRMozo",
+    "vidUrl": "https://youtu.be/ijdVbWRMozo",
+    "vidTitle": "\u3010DUOLINGO\u3011 Learning Bahasa Indo!!\u3010Projek Hikayat\u3011",
+    "channelId": "@kurisukowach.",
+    "channelName": "Kurisu Kowa Ch. ",
+    "channelThumb": "https://yt3.ggpht.com/evUgeuKpRB2sj9Hb7Mq6Q3HR7L3_0Hi1ucJPtCvGBrnJ88SxxxSqFroVKz_Ov9lsHVaAjEyuuio=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Kowa",
+    "scheduledStartTime": "2024-04-09T14:00:00Z",
+    "actualStartTime": "2024-04-09T14:00:18Z",
     "premiere": false
   },
   {
