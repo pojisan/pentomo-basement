@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "i1f3zZ1IYKc",
-    "vidUrl": "https://youtu.be/i1f3zZ1IYKc",
-    "vidTitle": "\u3010Zomboid\u3011WE WILL MAKE IT TO DAY 2\u3010Yume+ | Mero Umiko\u3011",
-    "channelId": "@meroumiko",
-    "channelName": "Mero Umiko \u3010Yume+\u3011",
-    "channelThumb": "https://yt3.ggpht.com/ao0Uyr-lSSR-cD9QJVrID38symffMEms-OUHRGu-i1DBBybDZglU9ELIgv6YtjBDBY6o0das7g=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Mero",
-    "scheduledStartTime": "2024-04-09T13:00:00Z",
-    "actualStartTime": "2024-04-09T12:58:48Z",
-    "premiere": false
-  },
-  {
     "id": "OOacUT2tyLc",
     "vidUrl": "https://youtu.be/OOacUT2tyLc",
     "vidTitle": "\u3010Working / Zatsudan\u3011Compromise for how much I miss you\ud83d\udcd8 - Nious Heiramond",
@@ -38,7 +26,7 @@
   {
     "id": "M1CQmn3ixqk",
     "vidUrl": "https://youtu.be/M1CQmn3ixqk",
-    "vidTitle": "\u3010VALORANT\u3011Penguins go pewpew with @ShirousaMikumi !\u3010VOL\u3011",
+    "vidTitle": "\u3010VALORANT\u3011PEWPEW!\u3010VOL\u3011",
     "channelId": "@angycatto_vols",
     "channelName": "Angy Catto - VOLs",
     "channelThumb": "https://yt3.ggpht.com/QmtGoU3n-jCQAj1gfC6hKg-PiFlyGTW-sz1HZJZlV8Av1Kdial8AJphIpJD7ywQWtUuVgyjo=s88-c-k-c0x00ffffff-no-rj",
@@ -69,18 +57,6 @@
     "shortName": "Aruri",
     "scheduledStartTime": "2024-04-09T13:00:00Z",
     "actualStartTime": "2024-04-09T13:01:55Z",
-    "premiere": false
-  },
-  {
-    "id": "lbfLGIQKsQw",
-    "vidUrl": "https://youtu.be/lbfLGIQKsQw",
-    "vidTitle": "\u3010BREAD AND FRED\u3011With @AngyCatto_VOLs \u3010VOLs\u3011",
-    "channelId": "@shirousamikumi",
-    "channelName": "ShirousaMikumi - VOLs",
-    "channelThumb": "https://yt3.ggpht.com/6Jy6Uud2Vx08hfesvUg3vb2cSd0tj_30_Eeq-Ypg3jK7srTbiGUJKE94YJhedV96ExRC6-KGDA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Mikumi",
-    "scheduledStartTime": "2024-04-09T13:00:00Z",
-    "actualStartTime": "2024-04-09T13:02:20Z",
     "premiere": false
   },
   {
@@ -3473,6 +3449,19 @@
     "premiere": false
   },
   {
+    "id": "i1f3zZ1IYKc",
+    "vidUrl": "https://youtu.be/i1f3zZ1IYKc",
+    "vidTitle": "\u3010Zomboid\u3011WE WILL MAKE IT TO DAY 2\u3010Yume+ | Mero Umiko\u3011",
+    "channelId": "@meroumiko",
+    "channelName": "Mero Umiko \u3010Yume+\u3011",
+    "channelThumb": "https://yt3.ggpht.com/ao0Uyr-lSSR-cD9QJVrID38symffMEms-OUHRGu-i1DBBybDZglU9ELIgv6YtjBDBY6o0das7g=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Mero",
+    "scheduledStartTime": "2024-04-09T13:00:00Z",
+    "actualStartTime": "2024-04-09T12:58:48Z",
+    "premiere": false
+  },
+  {
     "id": "yrB5u5jvzW4",
     "vidUrl": "https://youtu.be/yrB5u5jvzW4",
     "vidTitle": "\u3010KARAOKE/\u6b4c\u67a0\u3011J-POP SONGS ONLY!!",
@@ -3496,6 +3485,19 @@
     "shortName": "Luca",
     "scheduledStartTime": "2024-04-09T13:00:00Z",
     "actualStartTime": "2024-04-09T13:01:41Z",
+    "premiere": false
+  },
+  {
+    "id": "lbfLGIQKsQw",
+    "vidUrl": "https://youtu.be/lbfLGIQKsQw",
+    "vidTitle": "\u3010BREAD AND FRED\u3011With @AngyCatto_VOLs \u3010VOLs\u3011",
+    "channelId": "@shirousamikumi",
+    "channelName": "ShirousaMikumi - VOLs",
+    "channelThumb": "https://yt3.ggpht.com/6Jy6Uud2Vx08hfesvUg3vb2cSd0tj_30_Eeq-Ypg3jK7srTbiGUJKE94YJhedV96ExRC6-KGDA=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Mikumi",
+    "scheduledStartTime": "2024-04-09T13:00:00Z",
+    "actualStartTime": "2024-04-09T13:02:20Z",
     "premiere": false
   },
   {
