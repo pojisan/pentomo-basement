@@ -84,18 +84,6 @@
     "premiere": false
   },
   {
-    "id": "dOZn3d-SRZs",
-    "vidUrl": "https://youtu.be/dOZn3d-SRZs",
-    "vidTitle": "\u3010HELLDIVERS 2\u3011WE'RE DIVING INTO HELL?\u3010Yume+ | Rhea Nevermore\u3011",
-    "channelId": "@rheanevermore",
-    "channelName": "Rhea Nevermore \u3010Yume+\u3011",
-    "channelThumb": "https://yt3.ggpht.com/POsoK-HHPySyD4C6ell2PZeeqjOfPFYW1SOYN0ZwETReBmkJ7ScxoTkyB3BliqEg3Qh6ulsjwQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Rhea",
-    "scheduledStartTime": "2024-04-09T19:00:00Z",
-    "actualStartTime": "2024-04-09T18:59:48Z",
-    "premiere": false
-  },
-  {
     "id": "oG8h0gXbVVY",
     "vidUrl": "https://youtu.be/oG8h0gXbVVY",
     "vidTitle": "\u3010Metroid 2\u3011THEIR NUMBERS ARE DWINDLING!",
@@ -296,7 +284,7 @@
     "channelThumb": "https://yt3.ggpht.com/swraGRJ-7ukDEjf58l8YghX2KRDuxS2AEW417T7BWmc-NehlFSgYeMftFJ9VuDE43C07xHQLKBA=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Umi",
     "scheduledStartTime": "2024-04-09T21:30:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-09T21:42:24Z",
     "premiere": false
   },
   {
@@ -3487,6 +3475,19 @@
     "shortName": "Mozzu",
     "scheduledStartTime": "2024-04-09T18:00:00Z",
     "actualStartTime": "2024-04-09T18:22:38Z",
+    "premiere": false
+  },
+  {
+    "id": "dOZn3d-SRZs",
+    "vidUrl": "https://youtu.be/dOZn3d-SRZs",
+    "vidTitle": "\u3010HELLDIVERS 2\u3011WE'RE DIVING INTO HELL?\u3010Yume+ | Rhea Nevermore\u3011",
+    "channelId": "@rheanevermore",
+    "channelName": "Rhea Nevermore \u3010Yume+\u3011",
+    "channelThumb": "https://yt3.ggpht.com/POsoK-HHPySyD4C6ell2PZeeqjOfPFYW1SOYN0ZwETReBmkJ7ScxoTkyB3BliqEg3Qh6ulsjwQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Rhea",
+    "scheduledStartTime": "2024-04-09T19:00:00Z",
+    "actualStartTime": "2024-04-09T18:59:48Z",
     "premiere": false
   },
   {
