@@ -108,6 +108,30 @@
     "premiere": false
   },
   {
+    "id": "YLFvvBy8cUI",
+    "vidUrl": "https://youtu.be/YLFvvBy8cUI",
+    "vidTitle": "\ud83d\udd34Goose Goose Duck | \u0e2d\u0e21\u0e2d\u0e07\u0e01\u0e38\u0e2a\u0e40\u0e1b\u0e25\u0e35\u0e48\u0e22\u0e19\u0e44\u0e1b!! \ud83e\udd86",
+    "channelId": "@goozillaily",
+    "channelName": "Goozilla Ily Ch. [Autumnia]",
+    "channelThumb": "https://yt3.ggpht.com/jds_vfaqo4fnyTfPohyRPUqgIR6zUfltLSkUvuL26fVY2ZVqfPBjUdIWcux0qe8hgt68pWen=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Goozilla",
+    "scheduledStartTime": "2024-04-09T13:30:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "oZWm7ki5Fbw",
+    "vidUrl": "https://youtu.be/oZWm7ki5Fbw",
+    "vidTitle": "\u3010TEKKEN 8\u3011Tekken Tuesday Session Time FIGHT ME\u3010#Coyote / #KemoV\u3011#tekken #\u9244\u62f38",
+    "channelId": "@coyote_kemov",
+    "channelName": "\u30b3\u30e8\u30fc\u30c6 / Coyote",
+    "channelThumb": "https://yt3.ggpht.com/VwLc2w11lh_JlrsDB9P4OvBJpqaoAZdS08gqQx7vtJ5-4DjsEiP5Un6xmT0q8VE6zr8uXYEnTqg=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Coyo",
+    "scheduledStartTime": "2024-04-09T13:45:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "PYkA5s7sKw8",
     "vidUrl": "https://youtu.be/PYkA5s7sKw8",
     "vidTitle": "Let's talk about my Trip!",
@@ -3032,19 +3056,6 @@
     "premiere": false
   },
   {
-    "id": "lMdEqPX1gww",
-    "vidUrl": "https://youtu.be/lMdEqPX1gww",
-    "vidTitle": "\u3010Ily\u3011Whatever \u2726 Topic | Sub topic",
-    "channelId": "@goozillaily",
-    "channelName": "Goozilla Ily Ch. [Autumnia]",
-    "channelThumb": "https://yt3.ggpht.com/jds_vfaqo4fnyTfPohyRPUqgIR6zUfltLSkUvuL26fVY2ZVqfPBjUdIWcux0qe8hgt68pWen=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Goozilla",
-    "scheduledStartTime": "",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "lY4LjPKpMh0",
     "vidUrl": "https://youtu.be/lY4LjPKpMh0",
     "vidTitle": "Zeus \u26a1\ufe0f Mythos Live Stream",
@@ -3131,6 +3142,19 @@
     "channelThumb": "https://yt3.ggpht.com/fMH-jV4av9c83joWiiU7MKY5MB_hH-1-o1Mnm1UZE6MHeG7Byea8PRBU9x0ONYgn_VTx9qfAtFI=s88-c-k-c0x00ffffff-no-rj",
     "graveyard": true,
     "shortName": "Vance",
+    "scheduledStartTime": "",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "zAU6P60RxjI",
+    "vidUrl": "https://youtu.be/zAU6P60RxjI",
+    "vidTitle": "\u3010Ily\u3011Whatever \u2726 Topic | Sub topic",
+    "channelId": "@goozillaily",
+    "channelName": "Goozilla Ily Ch. [Autumnia]",
+    "channelThumb": "https://yt3.ggpht.com/jds_vfaqo4fnyTfPohyRPUqgIR6zUfltLSkUvuL26fVY2ZVqfPBjUdIWcux0qe8hgt68pWen=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Goozilla",
     "scheduledStartTime": "",
     "actualStartTime": "",
     "premiere": false
