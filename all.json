@@ -108,18 +108,6 @@
     "premiere": false
   },
   {
-    "id": "acCYp4midVc",
-    "vidUrl": "https://youtu.be/acCYp4midVc",
-    "vidTitle": "\u3010PALWORLD\u3011NEW UPDATE??? NEW BOSS?\u3010ArashiNebula_HOSHIZORA\u3011",
-    "channelId": "@arashinebula2112",
-    "channelName": "Arashi Nebula",
-    "channelThumb": "https://yt3.ggpht.com/-jw5oxt97JESkHso-kFi1Cr5C1sFn0Lkc00j66E8l_FiOJ_VJIolE8r0jG0V8KPXe6W5dG8q=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Nebula",
-    "scheduledStartTime": "2024-04-09T03:00:00Z",
-    "actualStartTime": "2024-04-09T03:01:01Z",
-    "premiere": false
-  },
-  {
     "id": "BQ9wQ9zCavQ",
     "vidUrl": "https://youtu.be/BQ9wQ9zCavQ",
     "vidTitle": "STUDY WITH ME | Anime Girl | LIVE POMODORO | Finish your TAXES NOW!\u3010V4Mirai | Goozalo Kadabura\u3011",
@@ -2090,7 +2078,7 @@
   {
     "id": "QDomrOrfwS4",
     "vidUrl": "https://youtu.be/QDomrOrfwS4",
-    "vidTitle": "\u3010Free Chat\u3011HELP! I am stuck in your phone?!?! \ud83d\ude31",
+    "vidTitle": "\u3010Free Chat\u3011HELP! I am stuck in your phone?!?! \ud83d\ude31 #shorts",
     "channelId": "@tomoecarmine",
     "channelName": "Tomoe Carmine Ch. \u30c8\u30e2\u30a8\u30fb\u30ab\u30fc\u30de\u30a4\u30f3\u3010kawaii\u3011",
     "channelThumb": "https://yt3.ggpht.com/eZL22MkBQh4myHNfCyj9pFql_IgFh84HMUYFvw-cp_9jx_RIftFJc_fFNi6YxJ5LhyArJH11PQ=s88-c-k-c0x00ffffff-no-rj",
@@ -3177,6 +3165,19 @@
     "shortName": "Io",
     "scheduledStartTime": "2024-04-09T01:00:00Z",
     "actualStartTime": "2024-04-09T01:03:38Z",
+    "premiere": false
+  },
+  {
+    "id": "acCYp4midVc",
+    "vidUrl": "https://youtu.be/acCYp4midVc",
+    "vidTitle": "\u3010PALWORLD\u3011NEW UPDATE??? NEW BOSS?\u3010ArashiNebula_HOSHIZORA\u3011",
+    "channelId": "@arashinebula2112",
+    "channelName": "Arashi Nebula",
+    "channelThumb": "https://yt3.ggpht.com/-jw5oxt97JESkHso-kFi1Cr5C1sFn0Lkc00j66E8l_FiOJ_VJIolE8r0jG0V8KPXe6W5dG8q=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Nebula",
+    "scheduledStartTime": "2024-04-09T03:00:00Z",
+    "actualStartTime": "2024-04-09T03:01:01Z",
     "premiere": false
   },
   {
