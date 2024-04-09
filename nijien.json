@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "bfra0ip_nag",
-    "vidUrl": "https://youtu.be/bfra0ip_nag",
-    "vidTitle": "\u3010EN ZATSU\u3011yo\u3010NIJISANJI EN | Kunai Nakasato\u3011",
-    "channelId": "@kunainakasato",
-    "channelName": "Kunai Nakasato \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/cpOrgCDSmgMO9mNbftd8UKAtsZwIGRCV5t5EmjoQ2FcP-W3N7s6S4UUc_Daz24qjDnBxrTEBrtQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Kunai",
-    "scheduledStartTime": "2024-04-09T16:05:00Z",
-    "actualStartTime": "2024-04-09T16:04:52Z",
-    "premiere": false
-  },
-  {
     "id": "elccZ_z9-Y4",
     "vidUrl": "https://youtu.be/elccZ_z9-Y4",
     "vidTitle": "\u3010CONTENT WARNING\u3011 spooktube won't know what hit em\u3010NIJISANJI EN | Claude Clawmark\u3011",
@@ -177,6 +165,19 @@
     "shortName": "Reimu",
     "scheduledStartTime": "2024-05-05T01:00:00Z",
     "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "bfra0ip_nag",
+    "vidUrl": "https://youtu.be/bfra0ip_nag",
+    "vidTitle": "\u3010EN ZATSU\u3011yo\u3010NIJISANJI EN | Kunai Nakasato\u3011",
+    "channelId": "@kunainakasato",
+    "channelName": "Kunai Nakasato \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/cpOrgCDSmgMO9mNbftd8UKAtsZwIGRCV5t5EmjoQ2FcP-W3N7s6S4UUc_Daz24qjDnBxrTEBrtQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Kunai",
+    "scheduledStartTime": "2024-04-09T16:05:00Z",
+    "actualStartTime": "2024-04-09T16:04:52Z",
     "premiere": false
   }
 ]
