@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "DVoMoSkSflg",
-    "vidUrl": "https://youtu.be/DVoMoSkSflg",
-    "vidTitle": "\u3010KARAOKE\u3011Life update #\u6b4c\u67a0",
-    "channelId": "@serina_daybreak",
-    "channelName": "Serina Fraize Ch.\u3010DAYBREAK\u3011",
-    "channelThumb": "https://yt3.ggpht.com/D5RqVN3V5gtYwB2RkI8Mw36Mr_paGjI3hhJf76duKo8LIASNQDgHwnVSh0fj0OYopUWjacmo7HA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Serina",
-    "scheduledStartTime": "2024-04-09T12:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "aWv79t2UXsQ",
     "vidUrl": "https://youtu.be/aWv79t2UXsQ",
     "vidTitle": "\u3010LETHAL COMPANY\u3011New Update FUN! \u30a2\u30d7\u30c7\u6765\u305f\uff01\u308f\u30fc\u3044\uff01\uff01  #\u3075\u308c\u3042\u3044\u3093\u306a\u306b\u3083",
@@ -31,6 +19,18 @@
     "channelName": "IRyS Ch. hololive-EN",
     "channelThumb": "https://yt3.ggpht.com/cDSMiVy3Xa49Ci_YyouVNzfCwVXKRYmOeywWQ_UFKzvAp6tvyeMtXMyzWzQ2u8ft4EENsJKt7A=s88-c-k-c0x00ffffff-no-nd-rj",
     "shortName": "Irys",
+    "scheduledStartTime": "2024-04-09T12:00:00Z",
+    "actualStartTime": "2024-04-09T12:03:48Z",
+    "premiere": false
+  },
+  {
+    "id": "DVoMoSkSflg",
+    "vidUrl": "https://youtu.be/DVoMoSkSflg",
+    "vidTitle": "\u3010KARAOKE\u3011Life update #\u6b4c\u67a0",
+    "channelId": "@serina_daybreak",
+    "channelName": "Serina Fraize Ch.\u3010DAYBREAK\u3011",
+    "channelThumb": "https://yt3.ggpht.com/D5RqVN3V5gtYwB2RkI8Mw36Mr_paGjI3hhJf76duKo8LIASNQDgHwnVSh0fj0OYopUWjacmo7HA=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Serina",
     "scheduledStartTime": "2024-04-09T12:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -691,6 +691,18 @@
     "channelName": "BriAtCookiebox",
     "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_nC7dRnnTDxs3724EZNLjdWAX7n5w7Vpv6hM9ss3dUJ_w=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Bri",
+    "scheduledStartTime": "2024-04-09T23:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "ua8ruz9wf1w",
+    "vidUrl": "https://youtu.be/ua8ruz9wf1w",
+    "vidTitle": "\u3010Monster Hunter World\u3011A whole new WORLD",
+    "channelId": "@kosekibijou",
+    "channelName": "Koseki Bijou Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/75xH5tujXTVPHlQXask8_qTbOeyq0BY4hKxNfvgTrsuqhK_oActrFV197roYikUNZhzayfiLmg=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Biboo",
     "scheduledStartTime": "2024-04-09T23:00:00Z",
     "actualStartTime": "",
     "premiere": false
