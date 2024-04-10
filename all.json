@@ -108,18 +108,6 @@
     "premiere": false
   },
   {
-    "id": "TFKeewkON_k",
-    "vidUrl": "https://youtu.be/TFKeewkON_k",
-    "vidTitle": "\u3010VALORANT\u3011RANK RANK RANK\u3010VOLs\u3011",
-    "channelId": "@shirousamikumi",
-    "channelName": "ShirousaMikumi - VOLs",
-    "channelThumb": "https://yt3.ggpht.com/6Jy6Uud2Vx08hfesvUg3vb2cSd0tj_30_Eeq-Ypg3jK7srTbiGUJKE94YJhedV96ExRC6-KGDA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Mikumi",
-    "scheduledStartTime": "2024-04-10T11:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "ap0x55XCUvM",
     "vidUrl": "https://youtu.be/ap0x55XCUvM",
     "vidTitle": "\u3010ANIMAL CROSSING\u30113 STARS, HERE WE COME!",
@@ -140,6 +128,18 @@
     "channelThumb": "https://yt3.ggpht.com/tCeBfd6DnX3fAO2dIv6Smje0Wj7iQT9sLFFW2jPI8Bfw6d9VY8jIYApFFrSYxK-ZTWxM1hu1=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Luca",
     "scheduledStartTime": "2024-04-10T11:15:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "TFKeewkON_k",
+    "vidUrl": "https://youtu.be/TFKeewkON_k",
+    "vidTitle": "\u3010VALORANT\u3011RANK RANK RANK\u3010VOLs\u3011",
+    "channelId": "@shirousamikumi",
+    "channelName": "ShirousaMikumi - VOLs",
+    "channelThumb": "https://yt3.ggpht.com/6Jy6Uud2Vx08hfesvUg3vb2cSd0tj_30_Eeq-Ypg3jK7srTbiGUJKE94YJhedV96ExRC6-KGDA=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Mikumi",
+    "scheduledStartTime": "2024-04-10T11:30:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -643,6 +643,18 @@
     "channelName": "Raein Clowd \u3010Yume+\u3011",
     "channelThumb": "https://yt3.ggpht.com/TJhoA7sWUEEW6PIYSsiV--qB2se4lgHL24gTVby9CNmfn7eKkQ5zAXJow9N5TEUX82iBKv1YoA=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Raein",
+    "scheduledStartTime": "2024-04-10T22:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "CeveQIus_pA",
+    "vidUrl": "https://youtu.be/CeveQIus_pA",
+    "vidTitle": "\u3010GTFO\u3011 spaghetti man\u3010NIJISANJI EN | Claude Clawmark\u3011",
+    "channelId": "@claudeclawmark",
+    "channelName": "Claude Clawmark \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/e7od55bIqtwAdCdpEdEf1d-PITBdVzntIaqGwTif46sTptNuJQ4WlVPPcfskh3wqb9axkDuOSg=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Claude",
     "scheduledStartTime": "2024-04-10T22:00:00Z",
     "actualStartTime": "",
     "premiere": false
