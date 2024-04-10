@@ -72,18 +72,6 @@
     "premiere": false
   },
   {
-    "id": "WZyOQzVSxKg",
-    "vidUrl": "https://youtu.be/WZyOQzVSxKg",
-    "vidTitle": "\u3010JUST CHATTING\u3011Saan po ang best nuggets? \ud83e\udd7a\u2728\u2728\u2728",
-    "channelId": "@serina_daybreak",
-    "channelName": "Serina Fraize Ch.\u3010DAYBREAK\u3011",
-    "channelThumb": "https://yt3.ggpht.com/D5RqVN3V5gtYwB2RkI8Mw36Mr_paGjI3hhJf76duKo8LIASNQDgHwnVSh0fj0OYopUWjacmo7HA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Serina",
-    "scheduledStartTime": "2024-04-10T14:00:00Z",
-    "actualStartTime": "2024-04-10T14:10:32Z",
-    "premiere": false
-  },
-  {
     "id": "pgXVriZ1Ksw",
     "vidUrl": "https://youtu.be/pgXVriZ1Ksw",
     "vidTitle": "\u3010HOLOXBREAK\u3011 i'm ready for this !!! - First impressions",
@@ -98,7 +86,7 @@
   {
     "id": "s9Dg93HUzoo",
     "vidUrl": "https://youtu.be/s9Dg93HUzoo",
-    "vidTitle": "Trying out the new Holo Indie game! | Holo X Break #shortslive",
+    "vidTitle": "Trying out the new Holo Indie game! | Holo X Break",
     "channelId": "@hiranokokoro",
     "channelName": "Hirano Kokoro \u300c\u308d\u308d\u300d",
     "channelThumb": "https://yt3.ggpht.com/Pc-k4wd6VsvLoZPUmql6OForU2LDiXTu3TeGZASvNqkD4OW-zEUxuNatHZQLRMUrt4IhcE0rtg=s88-c-k-c0x00ffffff-no-rj",
@@ -1812,6 +1800,18 @@
     "premiere": false
   },
   {
+    "id": "hiByJamW3hY",
+    "vidUrl": "https://youtu.be/hiByJamW3hY",
+    "vidTitle": "Content Warning | do scary things BECOME FAMOUS!",
+    "channelId": "@buoyafuru",
+    "channelName": "Buoy Afuru | CIESTE",
+    "channelThumb": "https://yt3.ggpht.com/H_892LDXqcHxCpLlCzwFJ2ZvFUNxe0budpC4ZJAquXYKViznzWrgDf28fFWKZYKjYMi-3t_9aio=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Buoy",
+    "scheduledStartTime": "2024-04-12T21:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "uz7b8cQIJ7A",
     "vidUrl": "https://youtu.be/uz7b8cQIJ7A",
     "vidTitle": "Come. [ZATSUDAN]",
@@ -3110,19 +3110,6 @@
     "premiere": false
   },
   {
-    "id": "bJnOoGx1H3M",
-    "vidUrl": "https://youtu.be/bJnOoGx1H3M",
-    "vidTitle": "\u3010Honkai: Star Rail\u3011Dreaming Of Her...\u3010UTAHIME MOCHIZUKI | SPECIALITE\u3011",
-    "channelId": "@utahimemochizuki",
-    "channelName": "Utahime Mochizuki | Specialite EN",
-    "channelThumb": "https://yt3.ggpht.com/osBzLXvtdsDnt8yz3Eir3dzxCzGyrtg7-2jVXwKMBrLUijflbHEBU49IXRX_6fBOqtw8JpHiJQ=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Uta",
-    "scheduledStartTime": "2024-04-10T01:00:00Z",
-    "actualStartTime": "2024-04-10T00:59:06Z",
-    "premiere": false
-  },
-  {
     "id": "3f6tVXMsMnc",
     "vidUrl": "https://youtu.be/3f6tVXMsMnc",
     "vidTitle": "\u3010Fran Bow\u3011Mystery world~? Part 4",
@@ -3159,6 +3146,19 @@
     "shortName": "Mana",
     "scheduledStartTime": "2024-04-10T11:00:00Z",
     "actualStartTime": "2024-04-10T10:52:42Z",
+    "premiere": false
+  },
+  {
+    "id": "WZyOQzVSxKg",
+    "vidUrl": "https://youtu.be/WZyOQzVSxKg",
+    "vidTitle": "\u3010JUST CHATTING\u3011Saan po ang best nuggets? \ud83e\udd7a\u2728\u2728\u2728",
+    "channelId": "@serina_daybreak",
+    "channelName": "Serina Fraize Ch.\u3010DAYBREAK\u3011",
+    "channelThumb": "https://yt3.ggpht.com/D5RqVN3V5gtYwB2RkI8Mw36Mr_paGjI3hhJf76duKo8LIASNQDgHwnVSh0fj0OYopUWjacmo7HA=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Serina",
+    "scheduledStartTime": "2024-04-10T14:00:00Z",
+    "actualStartTime": "2024-04-10T14:10:32Z",
     "premiere": false
   }
 ]
