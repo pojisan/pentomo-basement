@@ -1,17 +1,5 @@
 [
   {
-    "id": "b2ZALu0z7fw",
-    "vidUrl": "https://youtu.be/b2ZALu0z7fw",
-    "vidTitle": "\u3010CONTENT WARNING\u3011WE HAVE TO BEAT 45K VIEWERS [Collab] ft. Aia, Claude & Wilson",
-    "channelId": "@finanaryugu",
-    "channelName": "Finana Ryugu \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/ahtDvnkUuPHE3BN5IDwy6imkXXFGhfygaPLHIrfY4LF3aDxK9uzWJkxCFTDIvCpfxZI3BmZn=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Finana",
-    "scheduledStartTime": "2024-04-09T22:00:00Z",
-    "actualStartTime": "2024-04-09T22:00:37Z",
-    "premiere": false
-  },
-  {
     "id": "5nZcCSAKug0",
     "vidUrl": "https://youtu.be/5nZcCSAKug0",
     "vidTitle": "I WILL GO VERY FAST TODAY YIPPIEEEEEE\u3010 A DANCE OF FIRE AND ICE \u3011 \u3010NIJISANJI EN | Alban Knox\u3011",
@@ -56,7 +44,7 @@
     "channelThumb": "https://yt3.ggpht.com/oYEH8ckOxzEJ0GXlZGp4aSxvZrMWAeodRUg_MRgHqJEr7bEyjXdoC5VyYZ143XtcIKUozhQq6Q=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Scarle",
     "scheduledStartTime": "2024-04-10T02:30:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-10T02:51:48Z",
     "premiere": false
   },
   {
@@ -68,6 +56,18 @@
     "channelThumb": "https://yt3.ggpht.com/UObY_OAxjbHsXjWzNlFNhUlKuEOZxvvapSVL5lzzeED1tCp7gFW2acrqfjsQx0jodDnzWsCjJg=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Vivi",
     "scheduledStartTime": "2024-04-10T03:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "fKrQSmUqhCI",
+    "vidUrl": "https://youtu.be/fKrQSmUqhCI",
+    "vidTitle": "shu does the d-word (Dave the Diver pt. 5)",
+    "channelId": "@shuyamino",
+    "channelName": "Shu Yamino\u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/SGnMAuOdDcpIQ_ZU6UmfEB6Qi-FYoDc5yxRYJefVx6tIuCX65SH1TAWxKtKOcitXvwD5BLNztbA=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Shu",
+    "scheduledStartTime": "2024-04-10T04:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -189,6 +189,19 @@
     "shortName": "Reimu",
     "scheduledStartTime": "2024-05-05T01:00:00Z",
     "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "b2ZALu0z7fw",
+    "vidUrl": "https://youtu.be/b2ZALu0z7fw",
+    "vidTitle": "\u3010CONTENT WARNING\u3011WE HAVE TO BEAT 45K VIEWERS [Collab] ft. Aia, Claude & Wilson",
+    "channelId": "@finanaryugu",
+    "channelName": "Finana Ryugu \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/ahtDvnkUuPHE3BN5IDwy6imkXXFGhfygaPLHIrfY4LF3aDxK9uzWJkxCFTDIvCpfxZI3BmZn=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Finana",
+    "scheduledStartTime": "2024-04-09T22:00:00Z",
+    "actualStartTime": "2024-04-09T22:00:37Z",
     "premiere": false
   }
 ]
