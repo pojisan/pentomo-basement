@@ -72,18 +72,6 @@
     "premiere": false
   },
   {
-    "id": "sB90BDebzic",
-    "vidUrl": "https://youtu.be/sB90BDebzic",
-    "vidTitle": "AMONG US WITH THE BESTIES",
-    "channelId": "@junaunagi",
-    "channelName": "Juna Unagi Ch. idol-EN",
-    "channelThumb": "https://yt3.ggpht.com/2Z4a4Pzt3NDAzzTL_Iz9gc6HZ5uPReVnqYjz8ZDtVfcRaE026n_DgpamMVBQ4gWMBeIzfeUxUgw=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Juna",
-    "scheduledStartTime": "2024-04-10T18:00:00Z",
-    "actualStartTime": "2024-04-10T17:59:51Z",
-    "premiere": false
-  },
-  {
     "id": "P28RUOkafjE",
     "vidUrl": "https://youtu.be/P28RUOkafjE",
     "vidTitle": "\u3010AMONGUS\u3011idol spring special\ud83c\udf38",
@@ -307,18 +295,6 @@
     "channelName": "Ciccino Katterina Ch. V&U",
     "channelThumb": "https://yt3.ggpht.com/1a_CZ4DAxk-IBbjBaAdu5yAL6PzmqauC0IurAK8sWODiLNqdIu7zg6fexuKmuwfUEFoaVXeLKw4=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Ciccino",
-    "scheduledStartTime": "2024-04-10T20:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "cn6rYsd6CGc",
-    "vidUrl": "https://youtu.be/cn6rYsd6CGc",
-    "vidTitle": "The ORIGINAL Pokemon TCG Pocket! \u3010 GAMEBOY Pokemon TCG \u3011",
-    "channelId": "@koziichu",
-    "channelName": "KoziiChu",
-    "channelThumb": "https://yt3.ggpht.com/pt7bh9RYZ3pOOWcrG50EYG7lzCsC8s8hq67f0mX9l5F9P9Igly4mbCxB4RW4h4Mp2xcfMOaA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Koziichu",
     "scheduledStartTime": "2024-04-10T20:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -3352,6 +3328,19 @@
     "shortName": "Navi",
     "scheduledStartTime": "2024-04-10T17:30:00Z",
     "actualStartTime": "2024-04-10T17:37:26Z",
+    "premiere": false
+  },
+  {
+    "id": "sB90BDebzic",
+    "vidUrl": "https://youtu.be/sB90BDebzic",
+    "vidTitle": "AMONG US WITH THE BESTIES",
+    "channelId": "@junaunagi",
+    "channelName": "Juna Unagi Ch. idol-EN",
+    "channelThumb": "https://yt3.ggpht.com/2Z4a4Pzt3NDAzzTL_Iz9gc6HZ5uPReVnqYjz8ZDtVfcRaE026n_DgpamMVBQ4gWMBeIzfeUxUgw=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Juna",
+    "scheduledStartTime": "2024-04-10T18:00:00Z",
+    "actualStartTime": "2024-04-10T17:59:51Z",
     "premiere": false
   }
 ]
