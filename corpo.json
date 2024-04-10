@@ -120,18 +120,6 @@
     "premiere": false
   },
   {
-    "id": "bJnOoGx1H3M",
-    "vidUrl": "https://youtu.be/bJnOoGx1H3M",
-    "vidTitle": "\u3010Honkai: Star Rail\u3011Dreaming Of Her...\u3010UTAHIME MOCHIZUKI | SPECIALITE\u3011",
-    "channelId": "@utahimemochizuki",
-    "channelName": "Utahime Mochizuki | Specialite EN",
-    "channelThumb": "https://yt3.ggpht.com/osBzLXvtdsDnt8yz3Eir3dzxCzGyrtg7-2jVXwKMBrLUijflbHEBU49IXRX_6fBOqtw8JpHiJQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Uta",
-    "scheduledStartTime": "2024-04-10T01:00:00Z",
-    "actualStartTime": "2024-04-10T00:59:06Z",
-    "premiere": false
-  },
-  {
     "id": "3vh9Z3djMII",
     "vidUrl": "https://youtu.be/3vh9Z3djMII",
     "vidTitle": "\u3010LIES OF P #3\u3011we're at path of pilgrim now!!\u3010PixelLink\u3011",
@@ -3373,32 +3361,6 @@
     "premiere": false
   },
   {
-    "id": "KY-Ab3ROBKU",
-    "vidUrl": "https://youtu.be/KY-Ab3ROBKU",
-    "vidTitle": "Friend who doesn't know Genshin Impact RATES the characters! Part 2\u3010GENSHIN IMPACT TIERLIST\u3011",
-    "channelId": "@aylayew_ns",
-    "channelName": "Ayla Yew \u3010NexStage Project\u3011",
-    "channelThumb": "https://yt3.ggpht.com/j9b3F_6kPAJQns4jhE4FQN1LCO6mbP6BY2ixZTLHk2r2F0KZsqQ9xBjWI11d9RmeeRsFb7KLO04=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Ayla",
-    "scheduledStartTime": "2024-04-09T23:00:00Z",
-    "actualStartTime": "2024-04-09T23:00:54Z",
-    "premiere": false
-  },
-  {
-    "id": "un6G4FMJpYo",
-    "vidUrl": "https://youtu.be/un6G4FMJpYo",
-    "vidTitle": "Tuesday? No. TEKKEN TUESDAY!!!! W/VIEWERS!",
-    "channelId": "@akanejun",
-    "channelName": "Jun Akane / \u8d64\u91d1\u30b8\u30e5\u30f3",
-    "channelThumb": "https://yt3.ggpht.com/Xav9rWL58VySYhTAZnC5aKZQ_WRRKSJhGW6SMN_u-O26vHkSl0OMnwiVJGUt7aPujvAqSbKMH3c=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Jun",
-    "scheduledStartTime": "2024-04-10T00:00:00Z",
-    "actualStartTime": "2024-04-10T00:01:01Z",
-    "premiere": false
-  },
-  {
     "id": "_erW6Q-CdtM",
     "vidUrl": "https://youtu.be/_erW6Q-CdtM",
     "vidTitle": "\u3010Princess Peach: Showtime!\u3011 Which Peach is next?! \u3010Yuno Hanaki\u3011",
@@ -3409,19 +3371,6 @@
     "shortName": "Yuno",
     "scheduledStartTime": "2024-04-10T00:00:00Z",
     "actualStartTime": "2024-04-10T00:09:13Z",
-    "premiere": false
-  },
-  {
-    "id": "3jj43XHgM6w",
-    "vidUrl": "https://youtu.be/3jj43XHgM6w",
-    "vidTitle": "\u3010Shinkansen 0\u3011Chilla's Art but make it Exit 8....?\u3010Harima Tem | bondlive EN\u3011",
-    "channelId": "@harimatem",
-    "channelName": "Harima Tem  / \u30cf\u30ea\u30de \u30c6\u30f3\u3010bondlive EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/PClzVfKTRxOj4mSLeu6jc1PCexHXe1mU1Lq4hfxsfeQeu44psHTnRX_iOiyv0AShnFo21OttFNQ=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Tem",
-    "scheduledStartTime": "2024-04-10T00:00:21Z",
-    "actualStartTime": "2024-04-10T00:00:57Z",
     "premiere": false
   },
   {
@@ -3448,6 +3397,19 @@
     "shortName": "Koziichu",
     "scheduledStartTime": "2024-04-10T00:30:00Z",
     "actualStartTime": "2024-04-10T00:35:21Z",
+    "premiere": false
+  },
+  {
+    "id": "bJnOoGx1H3M",
+    "vidUrl": "https://youtu.be/bJnOoGx1H3M",
+    "vidTitle": "\u3010Honkai: Star Rail\u3011Dreaming Of Her...\u3010UTAHIME MOCHIZUKI | SPECIALITE\u3011",
+    "channelId": "@utahimemochizuki",
+    "channelName": "Utahime Mochizuki | Specialite EN",
+    "channelThumb": "https://yt3.ggpht.com/osBzLXvtdsDnt8yz3Eir3dzxCzGyrtg7-2jVXwKMBrLUijflbHEBU49IXRX_6fBOqtw8JpHiJQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Uta",
+    "scheduledStartTime": "2024-04-10T01:00:00Z",
+    "actualStartTime": "2024-04-10T00:59:06Z",
     "premiere": false
   },
   {
