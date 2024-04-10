@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "ZSAd8WwUBa8",
-    "vidUrl": "https://youtu.be/ZSAd8WwUBa8",
-    "vidTitle": "\u3010MARIO KART 8\u3011RACING THE HEROES\u3010NIJISANJI EN | Yu Q. Wilson\u3011",
-    "channelId": "@yuq.wilson",
-    "channelName": "Yu Q. Wilson \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/GR1e8gQ-x7ehgpqAZmrwoJBI7ReZneaTR6PEQvgcW3kIabEvfTenrpiNRWZSH6QpysfZftKKrA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Wilson",
-    "scheduledStartTime": "2024-04-10T10:00:00Z",
-    "actualStartTime": "2024-04-10T10:04:24Z",
-    "premiere": false
-  },
-  {
     "id": "ap0x55XCUvM",
     "vidUrl": "https://youtu.be/ap0x55XCUvM",
     "vidTitle": "\u3010ANIMAL CROSSING\u30113 STARS, HERE WE COME!",
@@ -120,6 +108,18 @@
     "premiere": false
   },
   {
+    "id": "qN2GpS0_a-Y",
+    "vidUrl": "https://youtu.be/qN2GpS0_a-Y",
+    "vidTitle": "\u3010 Danganronpa 2: Goodbye Despair \u3011I Can Feel the Murder Coming!",
+    "channelId": "@ariasynth",
+    "channelName": "Aria Synth - VOLs",
+    "channelThumb": "https://yt3.ggpht.com/GzhW3aRAfRerOI_6Ks3M8ptbOQaYsmkW_0Wq5HdZdAoxYWBMyrePhNooYwH_JhW7HKAVGiaesak=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Aria",
+    "scheduledStartTime": "2024-04-10T14:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "tx08aUGLyHM",
     "vidUrl": "https://youtu.be/tx08aUGLyHM",
     "vidTitle": "\u3010FINAL FANTASY VII Rebirth\u3011PLEASE TELL ME ZACK COMES BACK",
@@ -176,6 +176,18 @@
     "channelThumb": "https://yt3.ggpht.com/gQXL64aSlteGuabzrOCxa7Qs-OdOJ0EAMeTP1hpSpI_5_IAkpjy3X0Y4aTVe9BxxXvXOCE5VdLc=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Nene",
     "scheduledStartTime": "2024-04-10T15:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "Rriw5VzGBQw",
+    "vidUrl": "https://youtu.be/Rriw5VzGBQw",
+    "vidTitle": "i'm not really here",
+    "channelId": "@hexhaywire",
+    "channelName": "Hex Haywire\u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/krG1d8TvRL7GUoOsXXTUpuFQkgpRQkpx8402WzitwxFZOVz8z6UqsPsoUOERJkuJ8FLqQi0Gpg=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Hex",
+    "scheduledStartTime": "2024-04-10T15:45:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -3089,6 +3101,19 @@
     "shortName": "Tonya",
     "scheduledStartTime": "2024-04-10T03:00:00Z",
     "actualStartTime": "2024-04-10T03:09:44Z",
+    "premiere": false
+  },
+  {
+    "id": "ZSAd8WwUBa8",
+    "vidUrl": "https://youtu.be/ZSAd8WwUBa8",
+    "vidTitle": "\u3010MARIO KART 8\u3011RACING THE HEROES\u3010NIJISANJI EN | Yu Q. Wilson\u3011",
+    "channelId": "@yuq.wilson",
+    "channelName": "Yu Q. Wilson \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/GR1e8gQ-x7ehgpqAZmrwoJBI7ReZneaTR6PEQvgcW3kIabEvfTenrpiNRWZSH6QpysfZftKKrA=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Wilson",
+    "scheduledStartTime": "2024-04-10T10:00:00Z",
+    "actualStartTime": "2024-04-10T10:04:24Z",
     "premiere": false
   },
   {
