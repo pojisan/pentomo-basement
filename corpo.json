@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "0MOWIFlXh7w",
-    "vidUrl": "https://youtu.be/0MOWIFlXh7w",
-    "vidTitle": "\u3010Zatsu\u3011NO YAP! JUST APP! Reviewing silly Membership Apps until we're done~!",
-    "channelId": "@hiyorimokami",
-    "channelName": "Hiyori Mokami Ch. \u6843\u795e\u65e5\u548c\u3010kawaii\u3011",
-    "channelThumb": "https://yt3.ggpht.com/Vj2QGSwnGea4gY_hmHATQTkM-2noJld4JtpdmiHmXRerJ2umbuiPZwDfLeWVOrXteS4vXqZlCw=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Hiyori",
-    "scheduledStartTime": "2024-04-10T03:00:00Z",
-    "actualStartTime": "2024-04-10T03:04:42Z",
-    "premiere": false
-  },
-  {
     "id": "76apVEJifiA",
     "vidUrl": "https://youtu.be/76apVEJifiA",
     "vidTitle": "Have you seen my baby dino? Now you have!!!",
@@ -80,7 +68,7 @@
     "channelThumb": "https://yt3.ggpht.com/FV-T274wCeRSrHKm54acTNEJLJTDlE5BdPrKoJQY0kxaTdO4uerFlxG8HJmAvS2HbSQIMzfa7A=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Pippa",
     "scheduledStartTime": "2024-04-10T08:30:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-10T08:32:51Z",
     "premiere": false
   },
   {
@@ -3240,6 +3228,19 @@
     "shortName": "Io",
     "scheduledStartTime": "2024-04-10T01:15:00Z",
     "actualStartTime": "2024-04-10T01:14:49Z",
+    "premiere": false
+  },
+  {
+    "id": "0MOWIFlXh7w",
+    "vidUrl": "https://youtu.be/0MOWIFlXh7w",
+    "vidTitle": "\u3010Zatsu\u3011NO YAP! JUST APP! Reviewing silly Membership Apps until we're done~!",
+    "channelId": "@hiyorimokami",
+    "channelName": "Hiyori Mokami Ch. \u6843\u795e\u65e5\u548c\u3010kawaii\u3011",
+    "channelThumb": "https://yt3.ggpht.com/Vj2QGSwnGea4gY_hmHATQTkM-2noJld4JtpdmiHmXRerJ2umbuiPZwDfLeWVOrXteS4vXqZlCw=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Hiyori",
+    "scheduledStartTime": "2024-04-10T03:00:00Z",
+    "actualStartTime": "2024-04-10T03:04:42Z",
     "premiere": false
   },
   {
