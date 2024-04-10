@@ -1,17 +1,5 @@
 [
   {
-    "id": "-kGmGuDPVwk",
-    "vidUrl": "https://youtu.be/-kGmGuDPVwk",
-    "vidTitle": "MION~tization CELEBRATION PT. 2",
-    "channelId": "@mionakuma",
-    "channelName": "Mion Akuma \u3010AuroraLiveVR\u3011",
-    "channelThumb": "https://yt3.ggpht.com/nDRQClGe1KvbcnQM7n2UBSmCiV22fXLRrRsedlRZNFktAK5tsWp21FA7HQNoAkDvwyzrdF-0og=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Mion",
-    "scheduledStartTime": "2024-04-10T02:00:00Z",
-    "actualStartTime": "2024-04-10T02:23:15Z",
-    "premiere": false
-  },
-  {
     "id": "730NRTr_JOU",
     "vidUrl": "https://youtu.be/730NRTr_JOU",
     "vidTitle": "\u30105K Endurance Karaoke Stream\u30fb5\u5343\u4eba\u767b\u9332\u76ee\u6307\u305b\u6b4c\u67a0\u8010\u4e45\u914d\u4fe1\u3011I\u2019M JUST GONNA KEEP SINGING",
@@ -3253,6 +3241,19 @@
     "shortName": "Io",
     "scheduledStartTime": "2024-04-10T01:15:00Z",
     "actualStartTime": "2024-04-10T01:14:49Z",
+    "premiere": false
+  },
+  {
+    "id": "-kGmGuDPVwk",
+    "vidUrl": "https://youtu.be/-kGmGuDPVwk",
+    "vidTitle": "MION~tization CELEBRATION PT. 2",
+    "channelId": "@mionakuma",
+    "channelName": "Mion Akuma \u3010AuroraLiveVR\u3011",
+    "channelThumb": "https://yt3.ggpht.com/nDRQClGe1KvbcnQM7n2UBSmCiV22fXLRrRsedlRZNFktAK5tsWp21FA7HQNoAkDvwyzrdF-0og=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Mion",
+    "scheduledStartTime": "2024-04-10T02:00:00Z",
+    "actualStartTime": "2024-04-10T02:23:15Z",
     "premiere": false
   },
   {
