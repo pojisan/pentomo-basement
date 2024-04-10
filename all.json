@@ -96,18 +96,6 @@
     "premiere": false
   },
   {
-    "id": "3vh9Z3djMII",
-    "vidUrl": "https://youtu.be/3vh9Z3djMII",
-    "vidTitle": "\u3010LIES OF P #3\u3011we're at path of pilgrim now!!\u3010PixelLink\u3011",
-    "channelId": "@miunausako",
-    "channelName": "Miuna Usako Ch.\u3010PixelLink\u3011",
-    "channelThumb": "https://yt3.ggpht.com/RYRGGRwlHY1oVaarYXI1qTmsPVPpndVup-lM4VI7xowL9qvRNyl6593ldAeeWhVH8F50K9_yKHg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Miuna",
-    "scheduledStartTime": "2024-04-10T01:00:00Z",
-    "actualStartTime": "2024-04-10T01:00:45Z",
-    "premiere": false
-  },
-  {
     "id": "d2mGE5mn9pI",
     "vidUrl": "https://youtu.be/d2mGE5mn9pI",
     "vidTitle": "fighting rhythm game? nani? | Mino Mieko Ch.",
@@ -117,18 +105,6 @@
     "shortName": "Mieko",
     "scheduledStartTime": "2024-04-10T01:00:00Z",
     "actualStartTime": "2024-04-10T01:01:34Z",
-    "premiere": false
-  },
-  {
-    "id": "5nZcCSAKug0",
-    "vidUrl": "https://youtu.be/5nZcCSAKug0",
-    "vidTitle": "I WILL GO VERY FAST TODAY YIPPIEEEEEE\u3010 A DANCE OF FIRE AND ICE \u3011 \u3010NIJISANJI EN | Alban Knox\u3011",
-    "channelId": "@albanknox",
-    "channelName": "Alban Knox \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/rbTGK5bXuub0l3feyx8c780FtoRAtT1KDgqOGQq2wSisQJo17wk9PusEc_ZjUMK_uwZ47LIZiSI=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Alban",
-    "scheduledStartTime": "2024-04-10T01:00:00Z",
-    "actualStartTime": "2024-04-10T01:02:00Z",
     "premiere": false
   },
   {
@@ -3387,6 +3363,32 @@
     "shortName": "Uta",
     "scheduledStartTime": "2024-04-10T01:00:00Z",
     "actualStartTime": "2024-04-10T00:59:06Z",
+    "premiere": false
+  },
+  {
+    "id": "3vh9Z3djMII",
+    "vidUrl": "https://youtu.be/3vh9Z3djMII",
+    "vidTitle": "\u3010LIES OF P #3\u3011we're at path of pilgrim now!!\u3010PixelLink\u3011",
+    "channelId": "@miunausako",
+    "channelName": "Miuna Usako Ch.\u3010PixelLink\u3011",
+    "channelThumb": "https://yt3.ggpht.com/RYRGGRwlHY1oVaarYXI1qTmsPVPpndVup-lM4VI7xowL9qvRNyl6593ldAeeWhVH8F50K9_yKHg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Miuna",
+    "scheduledStartTime": "2024-04-10T01:00:00Z",
+    "actualStartTime": "2024-04-10T01:00:45Z",
+    "premiere": false
+  },
+  {
+    "id": "5nZcCSAKug0",
+    "vidUrl": "https://youtu.be/5nZcCSAKug0",
+    "vidTitle": "I WILL GO VERY FAST TODAY YIPPIEEEEEE\u3010 A DANCE OF FIRE AND ICE \u3011 \u3010NIJISANJI EN | Alban Knox\u3011",
+    "channelId": "@albanknox",
+    "channelName": "Alban Knox \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/rbTGK5bXuub0l3feyx8c780FtoRAtT1KDgqOGQq2wSisQJo17wk9PusEc_ZjUMK_uwZ47LIZiSI=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Alban",
+    "scheduledStartTime": "2024-04-10T01:00:00Z",
+    "actualStartTime": "2024-04-10T01:02:00Z",
     "premiere": false
   },
   {
