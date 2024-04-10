@@ -144,18 +144,6 @@
     "premiere": false
   },
   {
-    "id": "r1rLYHgUgeg",
-    "vidUrl": "https://youtu.be/r1rLYHgUgeg",
-    "vidTitle": "\u3010GUILTY GEAR: STRIVE\u3011find me guilty then\u3010NIJISANJI EN | Sonny Brisko\u3011",
-    "channelId": "@sonnybrisko",
-    "channelName": "Sonny Brisko \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/Z6Pi1VkybXJu7D-yDxlSnL6hlavVbedb3qfkbCHc6zllK-Eo4lCqmNxpxc4XUM0IEFACqpdwsKo=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Sonny",
-    "scheduledStartTime": "2024-04-10T01:00:00Z",
-    "actualStartTime": "2024-04-10T01:03:44Z",
-    "premiere": false
-  },
-  {
     "id": "6U5EuoRaaes",
     "vidUrl": "https://youtu.be/6U5EuoRaaes",
     "vidTitle": "\u3010DETROIT: BECOME HUMAN P2\u3011How do I keep Connor Alive\u3010NIJISANJI EN | Vantacrow Bringer\u3011",
@@ -1160,6 +1148,18 @@
     "channelThumb": "https://yt3.ggpht.com/Id9BL2cZTLJmv9ZoQEGIk_eFPBrQ7REmfIB6tsb34vcls6pWmKCsifuJ4Ii40vRYZvX9uGd9=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Shiki",
     "scheduledStartTime": "2024-04-11T00:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "TRLYJeFybeg",
+    "vidUrl": "https://youtu.be/TRLYJeFybeg",
+    "vidTitle": "\u3010MGS 1\u3011First Playthrough!! (No Spoilers) \u3010Kou Mariya | VTuber | V4Mirai\u3011",
+    "channelId": "@kou_mariya",
+    "channelName": "Kou Mariya Ch.\u3010V4Mirai\u3011",
+    "channelThumb": "https://yt3.ggpht.com/b6s7s0_W759AaVDUhJlnTvAwMW5iltLHlFyoLweiPvJCmYElo79SdBVOqzIELuSTAUMzHffg=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Mariya",
+    "scheduledStartTime": "2024-04-11T01:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -3402,6 +3402,19 @@
     "premiere": false
   },
   {
+    "id": "r1rLYHgUgeg",
+    "vidUrl": "https://youtu.be/r1rLYHgUgeg",
+    "vidTitle": "\u3010GUILTY GEAR: STRIVE\u3011find me guilty then\u3010NIJISANJI EN | Sonny Brisko\u3011",
+    "channelId": "@sonnybrisko",
+    "channelName": "Sonny Brisko \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/Z6Pi1VkybXJu7D-yDxlSnL6hlavVbedb3qfkbCHc6zllK-Eo4lCqmNxpxc4XUM0IEFACqpdwsKo=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Sonny",
+    "scheduledStartTime": "2024-04-10T01:00:00Z",
+    "actualStartTime": "2024-04-10T01:03:44Z",
+    "premiere": false
+  },
+  {
     "id": "3f6tVXMsMnc",
     "vidUrl": "https://youtu.be/3f6tVXMsMnc",
     "vidTitle": "\u3010Fran Bow\u3011Mystery world~? Part 4",
@@ -3488,6 +3501,19 @@
     "channelThumb": "https://yt3.ggpht.com/rAO0mwPqTC6evPt5c-RCUPxnZr6IYgeO6RJj9rnY-Bkb7lw4rFmUGr3kFTX7rqO1TqCzQpGvXw=s88-c-k-c0x00ffffff-no-rj",
     "graveyard": true,
     "shortName": "Ambros",
+    "scheduledStartTime": "",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "frzCWWOUV9M",
+    "vidUrl": "https://youtu.be/frzCWWOUV9M",
+    "vidTitle": "\u3010Street Karaoke!\u3011What's Your Favorite Season?\u3010V4Mirai | Serina Maiko | ENVtuber\u3011#shortslive #shorts",
+    "channelId": "@serinamaiko",
+    "channelName": "Serina Maiko Ch.\u3010V4Mirai\u3011",
+    "channelThumb": "https://yt3.ggpht.com/e1ZnaffpDDEYZ3e7gmoBxrsB5Ssh18bPpkjVpG3mn4GakmEXEenv1ArFAoj1DSB5fsNLG4cs=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Serina",
     "scheduledStartTime": "",
     "actualStartTime": "",
     "premiere": false
