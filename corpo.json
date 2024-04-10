@@ -1,17 +1,5 @@
 [
   {
-    "id": "qhEeEecVrko",
-    "vidUrl": "https://youtu.be/qhEeEecVrko",
-    "vidTitle": "THE FINALE (maybe) OF OUTER WILDS!",
-    "channelId": "@briatcookiebox",
-    "channelName": "BriAtCookiebox",
-    "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_nC7dRnnTDxs3724EZNLjdWAX7n5w7Vpv6hM9ss3dUJ_w=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Bri",
-    "scheduledStartTime": "2024-04-09T23:00:00Z",
-    "actualStartTime": "2024-04-09T22:58:32Z",
-    "premiere": false
-  },
-  {
     "id": "ya2PWT_MGXM",
     "vidUrl": "https://youtu.be/ya2PWT_MGXM",
     "vidTitle": "i'm back. come say hi \ud83d\udca2\ud83d\udca4",
@@ -3120,19 +3108,6 @@
     "premiere": false
   },
   {
-    "id": "ijdVbWRMozo",
-    "vidUrl": "https://youtu.be/ijdVbWRMozo",
-    "vidTitle": "\u3010DUOLINGO\u3011 Learning Bahasa Indo!!\u3010Projek Hikayat\u3011",
-    "channelId": "@kurisukowach.",
-    "channelName": "Kurisu Kowa Ch. ",
-    "channelThumb": "https://yt3.ggpht.com/evUgeuKpRB2sj9Hb7Mq6Q3HR7L3_0Hi1ucJPtCvGBrnJ88SxxxSqFroVKz_Ov9lsHVaAjEyuuio=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Kowa",
-    "scheduledStartTime": "2024-04-09T14:00:00Z",
-    "actualStartTime": "2024-04-09T14:00:18Z",
-    "premiere": false
-  },
-  {
     "id": "ucWAkFieUpM",
     "vidUrl": "https://youtu.be/ucWAkFieUpM",
     "vidTitle": "\u3010WILD RIFT\u3011Hu LoL-ing but on a phone!\u3010globie 1st Gen\u3011",
@@ -3260,6 +3235,19 @@
     "shortName": "Ragi",
     "scheduledStartTime": "2024-04-09T22:00:00Z",
     "actualStartTime": "2024-04-09T22:00:47Z",
+    "premiere": false
+  },
+  {
+    "id": "qhEeEecVrko",
+    "vidUrl": "https://youtu.be/qhEeEecVrko",
+    "vidTitle": "THE FINALE (maybe) OF OUTER WILDS!",
+    "channelId": "@briatcookiebox",
+    "channelName": "BriAtCookiebox",
+    "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_nC7dRnnTDxs3724EZNLjdWAX7n5w7Vpv6hM9ss3dUJ_w=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Bri",
+    "scheduledStartTime": "2024-04-09T23:00:00Z",
+    "actualStartTime": "2024-04-09T22:58:32Z",
     "premiere": false
   },
   {
