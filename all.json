@@ -24,18 +24,6 @@
     "premiere": false
   },
   {
-    "id": "ujax264zhak",
-    "vidUrl": "https://youtu.be/ujax264zhak",
-    "vidTitle": "YAKUZA 0 Part 4",
-    "channelId": "@scarleyonaguni",
-    "channelName": "Scarle Yonaguni \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/oYEH8ckOxzEJ0GXlZGp4aSxvZrMWAeodRUg_MRgHqJEr7bEyjXdoC5VyYZ143XtcIKUozhQq6Q=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Scarle",
-    "scheduledStartTime": "2024-04-10T02:30:00Z",
-    "actualStartTime": "2024-04-10T02:51:48Z",
-    "premiere": false
-  },
-  {
     "id": "730NRTr_JOU",
     "vidUrl": "https://youtu.be/730NRTr_JOU",
     "vidTitle": "\u30105K Endurance Karaoke Stream\u30fb5\u5343\u4eba\u767b\u9332\u76ee\u6307\u305b\u6b4c\u67a0\u8010\u4e45\u914d\u4fe1\u3011I\u2019M JUST GONNA KEEP SINGING",
@@ -57,18 +45,6 @@
     "shortName": "Shu",
     "scheduledStartTime": "2024-04-10T04:00:00Z",
     "actualStartTime": "2024-04-10T04:00:46Z",
-    "premiere": false
-  },
-  {
-    "id": "76apVEJifiA",
-    "vidUrl": "https://youtu.be/76apVEJifiA",
-    "vidTitle": "Have you seen my baby dino? Now you have!!!",
-    "channelId": "@isla_kawaii",
-    "channelName": "Isla Coleman Ch. \u30a2\u30a4\u30e9\u30fb\u30b3\u30fc\u30eb\u30de\u30f3\u3010kawaii\u3011",
-    "channelThumb": "https://yt3.ggpht.com/KsvJ_nvtsnENS74uknH4gxrD8fVCA2DJjiSiyrVIl2JKyVW28zny7nclNnl2j9VhZ3CDIE4pTg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Isla",
-    "scheduledStartTime": "2024-04-10T04:17:49Z",
-    "actualStartTime": "2024-04-10T04:18:04Z",
     "premiere": false
   },
   {
@@ -3194,6 +3170,19 @@
     "premiere": false
   },
   {
+    "id": "ujax264zhak",
+    "vidUrl": "https://youtu.be/ujax264zhak",
+    "vidTitle": "YAKUZA 0 Part 4",
+    "channelId": "@scarleyonaguni",
+    "channelName": "Scarle Yonaguni \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/oYEH8ckOxzEJ0GXlZGp4aSxvZrMWAeodRUg_MRgHqJEr7bEyjXdoC5VyYZ143XtcIKUozhQq6Q=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Scarle",
+    "scheduledStartTime": "2024-04-10T02:30:00Z",
+    "actualStartTime": "2024-04-10T02:51:48Z",
+    "premiere": false
+  },
+  {
     "id": "0MOWIFlXh7w",
     "vidUrl": "https://youtu.be/0MOWIFlXh7w",
     "vidTitle": "\u3010Zatsu\u3011NO YAP! JUST APP! Reviewing silly Membership Apps until we're done~!",
@@ -3217,6 +3206,19 @@
     "shortName": "Tonya",
     "scheduledStartTime": "2024-04-10T03:00:00Z",
     "actualStartTime": "2024-04-10T03:09:44Z",
+    "premiere": false
+  },
+  {
+    "id": "76apVEJifiA",
+    "vidUrl": "https://youtu.be/76apVEJifiA",
+    "vidTitle": "Have you seen my baby dino? Now you have!!!",
+    "channelId": "@isla_kawaii",
+    "channelName": "Isla Coleman Ch. \u30a2\u30a4\u30e9\u30fb\u30b3\u30fc\u30eb\u30de\u30f3\u3010kawaii\u3011",
+    "channelThumb": "https://yt3.ggpht.com/KsvJ_nvtsnENS74uknH4gxrD8fVCA2DJjiSiyrVIl2JKyVW28zny7nclNnl2j9VhZ3CDIE4pTg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Isla",
+    "scheduledStartTime": "2024-04-10T04:17:49Z",
+    "actualStartTime": "2024-04-10T04:18:04Z",
     "premiere": false
   },
   {
