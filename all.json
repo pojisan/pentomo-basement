@@ -24,18 +24,6 @@
     "premiere": false
   },
   {
-    "id": "X9puYBrNVDo",
-    "vidUrl": "https://youtu.be/X9puYBrNVDo",
-    "vidTitle": "\u3010MHWI\u3011I'M BORED SO I GUERILLA\u3010NIJISANJI EN | Vezalius Bandage\u3011",
-    "channelId": "@vezaliusbandage",
-    "channelName": "Vezalius Bandage \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/rnqrntYI1y38pqQeqYAmX3_gG1vZ-iYeMGHY0nCC-lxqKdoBspKriRXzMPv7PByMydEYm9YvvzU=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Zali",
-    "scheduledStartTime": "2024-04-10T18:45:00Z",
-    "actualStartTime": "2024-04-10T18:46:08Z",
-    "premiere": false
-  },
-  {
     "id": "_gkZy_qe3EU",
     "vidUrl": "https://youtu.be/_gkZy_qe3EU",
     "vidTitle": "A wild ghost girl appears to talk to you!! \ud83d\udc7b\u3010Free Chat\u3011",
@@ -81,18 +69,6 @@
     "shortName": "Rem",
     "scheduledStartTime": "2024-04-10T20:00:00Z",
     "actualStartTime": "2024-04-10T19:59:49Z",
-    "premiere": false
-  },
-  {
-    "id": "PJIOxETEa6Q",
-    "vidUrl": "https://youtu.be/PJIOxETEa6Q",
-    "vidTitle": "\u3010Zomboid\u3011I have an addiction\u3010Yume+ | Mero Umiko\u3011",
-    "channelId": "@meroumiko",
-    "channelName": "Mero Umiko \u3010Yume+\u3011",
-    "channelThumb": "https://yt3.ggpht.com/ao0Uyr-lSSR-cD9QJVrID38symffMEms-OUHRGu-i1DBBybDZglU9ELIgv6YtjBDBY6o0das7g=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Mero",
-    "scheduledStartTime": "2024-04-10T20:00:00Z",
-    "actualStartTime": "2024-04-10T20:00:05Z",
     "premiere": false
   },
   {
@@ -1039,6 +1015,18 @@
     "channelName": "Cyanne Aria / \u30b7\u30a2\u30f3 \u3042\u308a\u3042\u3010bondlive_EN\u3011",
     "channelThumb": "https://yt3.ggpht.com/fjWfn3-Jb9IKgpj3xm03JQ5unmbpHdzve2SV3Sntnt8sWA5CRPyfFIjr4A1_GX8X7QrsthdR=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Cy",
+    "scheduledStartTime": "2024-04-11T17:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "Z7kLwzudPkU",
+    "vidUrl": "https://youtu.be/Z7kLwzudPkU",
+    "vidTitle": "CONTENT WARNING",
+    "channelId": "@confetticoni",
+    "channelName": "Coni Confetti Ch. idol-EN",
+    "channelThumb": "https://yt3.ggpht.com/DHI9aYg-eO1nO1PKAyVyDIP7BhuK88nkWcztyfKc-dp0zrdErFkKsbkgC13KqMucq46qreLKpz8=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Coni",
     "scheduledStartTime": "2024-04-11T17:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -3199,6 +3187,32 @@
     "shortName": "Katta",
     "scheduledStartTime": "2024-04-10T18:00:00Z",
     "actualStartTime": "2024-04-10T18:02:18Z",
+    "premiere": false
+  },
+  {
+    "id": "X9puYBrNVDo",
+    "vidUrl": "https://youtu.be/X9puYBrNVDo",
+    "vidTitle": "\u3010MHWI\u3011I'M BORED SO I GUERILLA\u3010NIJISANJI EN | Vezalius Bandage\u3011",
+    "channelId": "@vezaliusbandage",
+    "channelName": "Vezalius Bandage \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/rnqrntYI1y38pqQeqYAmX3_gG1vZ-iYeMGHY0nCC-lxqKdoBspKriRXzMPv7PByMydEYm9YvvzU=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Zali",
+    "scheduledStartTime": "2024-04-10T18:45:00Z",
+    "actualStartTime": "2024-04-10T18:46:08Z",
+    "premiere": false
+  },
+  {
+    "id": "PJIOxETEa6Q",
+    "vidUrl": "https://youtu.be/PJIOxETEa6Q",
+    "vidTitle": "\u3010Zomboid\u3011I have an addiction\u3010Yume+ | Mero Umiko\u3011",
+    "channelId": "@meroumiko",
+    "channelName": "Mero Umiko \u3010Yume+\u3011",
+    "channelThumb": "https://yt3.ggpht.com/ao0Uyr-lSSR-cD9QJVrID38symffMEms-OUHRGu-i1DBBybDZglU9ELIgv6YtjBDBY6o0das7g=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Mero",
+    "scheduledStartTime": "2024-04-10T20:00:00Z",
+    "actualStartTime": "2024-04-10T20:00:05Z",
     "premiere": false
   },
   {
