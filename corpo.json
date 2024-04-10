@@ -1,17 +1,5 @@
 [
   {
-    "id": "Datox8TtVx0",
-    "vidUrl": "https://youtu.be/Datox8TtVx0",
-    "vidTitle": "50K Celebration!!\u3010Just Chatting/Zatsudan\u3011",
-    "channelId": "@eliastellaria",
-    "channelName": "Elia Stellaria\u3010V-Dere\u3011",
-    "channelThumb": "https://yt3.ggpht.com/06-Ihgh44rPrUWXBSXAGR0a10dQKGBTm-AEJxG1ThlclvCzFFugh1FSz5PXqXP606Y_BV98SKA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Elia",
-    "scheduledStartTime": "2024-04-10T08:00:00Z",
-    "actualStartTime": "2024-04-10T08:05:05Z",
-    "premiere": false
-  },
-  {
     "id": "kLD_w0janN0",
     "vidUrl": "https://youtu.be/kLD_w0janN0",
     "vidTitle": "VIRTUAL YOUTUBER SAYS HELLO.",
@@ -799,6 +787,18 @@
     "channelName": "Skye Shinryu Ch. \u3010EIEN Project\u3011",
     "channelThumb": "https://yt3.ggpht.com/_n-f4Knr9kOn9-luPbvdbJNu8KSjDVcAkME6Lq4Z4O7YX4-hiU0CN_oUeHqkapbOy3mMDVFFCQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Skye",
+    "scheduledStartTime": "2024-04-11T03:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "RrRjDPfngQw",
+    "vidUrl": "https://youtu.be/RrRjDPfngQw",
+    "vidTitle": "\u3010TTS ZATSU\u3011 your girl has vocal nodules \ud83d\ude2d",
+    "channelId": "@amoriavnu",
+    "channelName": "Amoria Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/xE9UTkowb3ioACbhZJuLwEGgBQEq4akaOHZZBTGmgn807ALVQKp91t_Gr74tgSpWRmN7SaEgnQ=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Amoria",
     "scheduledStartTime": "2024-04-11T03:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -3039,19 +3039,6 @@
     "premiere": false
   },
   {
-    "id": "Xv0qio5fhJA",
-    "vidUrl": "https://youtu.be/Xv0qio5fhJA",
-    "vidTitle": "Raccoon yap yap!! (sleep and sleeve deprived)",
-    "channelId": "@rakikazuki",
-    "channelName": "Raki Kazuki Ch.\u3010PixelLink\u3011",
-    "channelThumb": "https://yt3.ggpht.com/Ge4x2_hwt_sqQzuqoRpAsV_0SsEJ89TPznVPu-eG3ETMopiMM0iX0uW6jjIGsR-MFVWCsw1WiA=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Ragi",
-    "scheduledStartTime": "2024-04-09T22:00:00Z",
-    "actualStartTime": "2024-04-09T22:00:47Z",
-    "premiere": false
-  },
-  {
     "id": "r24gFWxvb4k",
     "vidUrl": "https://youtu.be/r24gFWxvb4k",
     "vidTitle": "30K Celebration | Bye before my TRIP!\u3010V4Mirai | Goozalo Kadabura\u3011",
@@ -3153,6 +3140,19 @@
     "shortName": "Tonya",
     "scheduledStartTime": "2024-04-10T03:00:00Z",
     "actualStartTime": "2024-04-10T03:09:44Z",
+    "premiere": false
+  },
+  {
+    "id": "Datox8TtVx0",
+    "vidUrl": "https://youtu.be/Datox8TtVx0",
+    "vidTitle": "50K Celebration!!\u3010Just Chatting/Zatsudan\u3011",
+    "channelId": "@eliastellaria",
+    "channelName": "Elia Stellaria\u3010V-Dere\u3011",
+    "channelThumb": "https://yt3.ggpht.com/06-Ihgh44rPrUWXBSXAGR0a10dQKGBTm-AEJxG1ThlclvCzFFugh1FSz5PXqXP606Y_BV98SKA=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Elia",
+    "scheduledStartTime": "2024-04-10T08:00:00Z",
+    "actualStartTime": "2024-04-10T08:05:05Z",
     "premiere": false
   }
 ]
