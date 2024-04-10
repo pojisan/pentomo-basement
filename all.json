@@ -444,6 +444,18 @@
     "premiere": false
   },
   {
+    "id": "xfC8CGhvfgQ",
+    "vidUrl": "https://youtu.be/xfC8CGhvfgQ",
+    "vidTitle": "\u3010SHINKANSEN 0 | \u65b0\u5e79\u7dda 0\u53f7\u3011did we get on the wrong train? \ud83d\udc3e",
+    "channelId": "@fuwamococh",
+    "channelName": "FUWAMOCO Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/zt63obGOD6fnCX0elnzt8xkylqOTnAENmSCKmwg_PSiC857DDgB28kEjQ-FJlWGtNYZ9lqzEag=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "FWMC",
+    "scheduledStartTime": "2024-04-10T01:00:00Z",
+    "actualStartTime": "2024-04-10T00:55:18Z",
+    "premiere": false
+  },
+  {
     "id": "3vh9Z3djMII",
     "vidUrl": "https://youtu.be/3vh9Z3djMII",
     "vidTitle": "\u3010LIES OF P #3\u3011we're at path of pilgrim now!!\u3010PixelLink\u3011",
@@ -523,18 +535,6 @@
     "channelName": "Sonny Brisko \u3010NIJISANJI EN\u3011",
     "channelThumb": "https://yt3.ggpht.com/Z6Pi1VkybXJu7D-yDxlSnL6hlavVbedb3qfkbCHc6zllK-Eo4lCqmNxpxc4XUM0IEFACqpdwsKo=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Sonny",
-    "scheduledStartTime": "2024-04-10T01:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "xfC8CGhvfgQ",
-    "vidUrl": "https://youtu.be/xfC8CGhvfgQ",
-    "vidTitle": "\u3010SHINKANSEN 0 | \u65b0\u5e79\u7dda 0\u53f7\u3011did we get on the wrong train? \ud83d\udc3e",
-    "channelId": "@fuwamococh",
-    "channelName": "FUWAMOCO Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/zt63obGOD6fnCX0elnzt8xkylqOTnAENmSCKmwg_PSiC857DDgB28kEjQ-FJlWGtNYZ9lqzEag=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "FWMC",
     "scheduledStartTime": "2024-04-10T01:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2484,18 +2484,6 @@
     "premiere": false
   },
   {
-    "id": "LH3HIHtrB3E",
-    "vidUrl": "https://youtu.be/LH3HIHtrB3E",
-    "vidTitle": "\u3016Subnautica: Below Zero\u3017for actually for real hopefully\u3016Cyon \u2765 V&U\u3017",
-    "channelId": "@cyonvnu",
-    "channelName": "Cyon Hart Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/gsviy0KcEYuRE4MyNsKcEBoS0lIaW9wgkz9raEwVrQ0tIUM473cN8ORz-rdHps1IYSHxZdzI_g=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Cyon",
-    "scheduledStartTime": "2024-04-13T03:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "nNqJkAnJuaM",
     "vidUrl": "https://youtu.be/nNqJkAnJuaM",
     "vidTitle": "i'm back and i'm indie again!! \ud83c\udf1f[INDIE VTUBER DEBUT]",
@@ -3441,19 +3429,6 @@
     "premiere": false
   },
   {
-    "id": "PJT7AsYcXg0",
-    "vidUrl": "https://youtu.be/PJT7AsYcXg0",
-    "vidTitle": "\u3010Persona 3 Reload\u3011SEES is now complete!",
-    "channelId": "@isabellegoodwillow",
-    "channelName": "Isabelle Goodwillow Ch. Legion",
-    "channelThumb": "https://yt3.ggpht.com/rJuMWEjmRiOqnhqo-Njw1VWunxkM7Ho0nZxNxVaa36z_PMile2XKRg-Yx3Ln4snqEAJq62zwNQ=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Isabelle",
-    "scheduledStartTime": "2024-04-09T21:15:40Z",
-    "actualStartTime": "2024-04-09T21:16:51Z",
-    "premiere": false
-  },
-  {
     "id": "5T1troBKyGA",
     "vidUrl": "https://youtu.be/5T1troBKyGA",
     "vidTitle": "Back to the Strategy Games\u3010Crusader Kings 2\u3011",
@@ -3503,19 +3478,6 @@
     "shortName": "Ragi",
     "scheduledStartTime": "2024-04-09T22:00:00Z",
     "actualStartTime": "2024-04-09T22:00:47Z",
-    "premiere": false
-  },
-  {
-    "id": "NiQCBbpl7PE",
-    "vidUrl": "https://youtu.be/NiQCBbpl7PE",
-    "vidTitle": "[Elden Ring 1] Is This The Elden Ring? - Ciccino Katterina Triple A Club V&U",
-    "channelId": "@ciccinovnu",
-    "channelName": "Ciccino Katterina Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/1a_CZ4DAxk-IBbjBaAdu5yAL6PzmqauC0IurAK8sWODiLNqdIu7zg6fexuKmuwfUEFoaVXeLKw4=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Ciccino",
-    "scheduledStartTime": "2024-04-09T22:00:00Z",
-    "actualStartTime": "2024-04-09T22:25:03Z",
     "premiere": false
   },
   {
