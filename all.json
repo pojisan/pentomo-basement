@@ -72,18 +72,6 @@
     "premiere": false
   },
   {
-    "id": "jpS-wVhHXjc",
-    "vidUrl": "https://youtu.be/jpS-wVhHXjc",
-    "vidTitle": "\u3010Doronko Wanko\u3011Is Naki Man's Best Friend?",
-    "channelId": "@nakikamizuki",
-    "channelName": "Naki Kamizuki / \u4e0a\u6708\u306a\u304d\u3010EverAfter\u3011",
-    "channelThumb": "https://yt3.ggpht.com/t3KM-C9LCI4Wxs7nnt_ND2joYBvc-tNS2bCswz6V4LDsPlba4fV67WehglvHnaxDYrubPXue=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Naki",
-    "scheduledStartTime": "2024-04-10T14:30:00Z",
-    "actualStartTime": "2024-04-10T14:29:45Z",
-    "premiere": false
-  },
-  {
     "id": "IuwJIt4HEQA",
     "vidUrl": "https://youtu.be/IuwJIt4HEQA",
     "vidTitle": "\u3010ASMR/3DIO\u3011Did you have a nightmare? I'll hold you. \ud83d\udc8b [Morning Voice][Comfort][Heartbeats]",
@@ -1116,6 +1104,18 @@
     "premiere": false
   },
   {
+    "id": "gETIPgS4LVc",
+    "vidUrl": "https://youtu.be/gETIPgS4LVc",
+    "vidTitle": "\u3010Chit chat\u3011\u307e\u3063\u305f\u308a\u96d1\u8ac7\uff01/Let's relax and talk!\u3010VTuber/Ririsya\u3011",
+    "channelId": "@ririsyamusic",
+    "channelName": "\u51db\u3005\u54b2 / Ririsya",
+    "channelThumb": "https://yt3.ggpht.com/oYBTybAbyRi5xDlm4984w-s8PWjZzljiQDZ8KUh5fnqvLGh2OISvsoTZzOlQ6IRASupqJbq6g3Y=s88-c-k-c0x00ffffff-no-nd-rj",
+    "shortName": "Ririsya",
+    "scheduledStartTime": "2024-04-11T11:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "pBZwsaffzJU",
     "vidUrl": "https://youtu.be/pBZwsaffzJU",
     "vidTitle": "\u3010HANDCAM + TTS\u3011 HEAL ME, EMOTIONAL SUPPORT VOLLEYBALL BOYS",
@@ -2086,6 +2086,18 @@
     "scheduledStartTime": "2024-04-12T23:00:00Z",
     "actualStartTime": "",
     "premiere": true
+  },
+  {
+    "id": "w5GNg953jPU",
+    "vidUrl": "https://youtu.be/w5GNg953jPU",
+    "vidTitle": "DRUNK VRCHAT ft. new hair and outfits \ud83d\ude33",
+    "channelId": "@mioricelesta",
+    "channelName": "Miori Celesta",
+    "channelThumb": "https://yt3.ggpht.com/kaNjFSu8SjR9kJjHuxcfwKsA12ZeruRk8iJNOxeK0z1_5-zEuaMg_F-BHlXUztmPSVbuKgcxag=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Mio",
+    "scheduledStartTime": "2024-04-12T23:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
   },
   {
     "id": "X6ftyph4jq4",
@@ -3169,6 +3181,19 @@
     "shortName": "Serina",
     "scheduledStartTime": "2024-04-10T14:00:00Z",
     "actualStartTime": "2024-04-10T14:10:32Z",
+    "premiere": false
+  },
+  {
+    "id": "jpS-wVhHXjc",
+    "vidUrl": "https://youtu.be/jpS-wVhHXjc",
+    "vidTitle": "\u3010Doronko Wanko\u3011Is Naki Man's Best Friend?",
+    "channelId": "@nakikamizuki",
+    "channelName": "Naki Kamizuki / \u4e0a\u6708\u306a\u304d\u3010EverAfter\u3011",
+    "channelThumb": "https://yt3.ggpht.com/t3KM-C9LCI4Wxs7nnt_ND2joYBvc-tNS2bCswz6V4LDsPlba4fV67WehglvHnaxDYrubPXue=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Naki",
+    "scheduledStartTime": "2024-04-10T14:30:00Z",
+    "actualStartTime": "2024-04-10T14:29:45Z",
     "premiere": false
   },
   {
