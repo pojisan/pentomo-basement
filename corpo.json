@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "OFaHYbaN01Q",
-    "vidUrl": "https://youtu.be/OFaHYbaN01Q",
-    "vidTitle": "ManaMart by Manang Mana | Supermarket Simulator pt. 2",
-    "channelId": "@minazukimana",
-    "channelName": "MinazukiMana - VOLs",
-    "channelThumb": "https://yt3.ggpht.com/O64mRHiN_f8Xzpwucwlf_pegYaW8OWoHcNhfVAwXcSvy3NNUbDoTjQGq0cdyrR0EdGXV4gv6XA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Mana",
-    "scheduledStartTime": "2024-04-10T11:00:00Z",
-    "actualStartTime": "2024-04-10T10:52:42Z",
-    "premiere": false
-  },
-  {
     "id": "ap0x55XCUvM",
     "vidUrl": "https://youtu.be/ap0x55XCUvM",
     "vidTitle": "\u3010ANIMAL CROSSING\u30113 STARS, HERE WE COME!",
@@ -3150,6 +3138,19 @@
     "shortName": "Tonya",
     "scheduledStartTime": "2024-04-10T03:00:00Z",
     "actualStartTime": "2024-04-10T03:09:44Z",
+    "premiere": false
+  },
+  {
+    "id": "OFaHYbaN01Q",
+    "vidUrl": "https://youtu.be/OFaHYbaN01Q",
+    "vidTitle": "ManaMart by Manang Mana | Supermarket Simulator pt. 2",
+    "channelId": "@minazukimana",
+    "channelName": "MinazukiMana - VOLs",
+    "channelThumb": "https://yt3.ggpht.com/O64mRHiN_f8Xzpwucwlf_pegYaW8OWoHcNhfVAwXcSvy3NNUbDoTjQGq0cdyrR0EdGXV4gv6XA=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Mana",
+    "scheduledStartTime": "2024-04-10T11:00:00Z",
+    "actualStartTime": "2024-04-10T10:52:42Z",
     "premiere": false
   }
 ]
