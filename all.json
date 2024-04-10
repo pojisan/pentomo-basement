@@ -1,17 +1,5 @@
 [
   {
-    "id": "kLD_w0janN0",
-    "vidUrl": "https://youtu.be/kLD_w0janN0",
-    "vidTitle": "VIRTUAL YOUTUBER SAYS HELLO.",
-    "channelId": "@lethebonapuchi",
-    "channelName": "Lethe Bonapuchi Ch. \u30ec\u30c3\u30c6\u30dc\u30ca\u30d7\u30c1 \u3010kawaii\u3011",
-    "channelThumb": "https://yt3.ggpht.com/Zzn-lffpprmp6_2y3sOeCN1yw-ARyXBh7a992WGez2D2Mo9RixB5PiBBndwuZA1NpUjjcDnb=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Lethe",
-    "scheduledStartTime": "2024-04-10T10:00:00Z",
-    "actualStartTime": "2024-04-10T10:03:46Z",
-    "premiere": false
-  },
-  {
     "id": "eXAcAlPV3mI",
     "vidUrl": "https://youtu.be/eXAcAlPV3mI",
     "vidTitle": "LUCA LUCA BIRTHDAY STREAM #LucaPOGDay2024",
@@ -129,6 +117,18 @@
     "shortName": "Roro",
     "scheduledStartTime": "2024-04-10T14:00:00Z",
     "actualStartTime": "2024-04-10T14:11:59Z",
+    "premiere": false
+  },
+  {
+    "id": "vinUp96Y8Zo",
+    "vidUrl": "https://youtu.be/vinUp96Y8Zo",
+    "vidTitle": "\ud83c\udf19 FreeTalk | \u0e01\u0e2d\u0e07\u0e42\u0e08\u0e23 \u0e21\u0e32\u0e19\u0e31\u0e48\u0e07\u0e04\u0e38\u0e22\u0e14\u0e36\u0e01\u0e46\u0e01\u0e31\u0e19\u0e19\u0e30\u0e15\u0e49\u0e32\u0e27 Vocal Recording and Work\ud83c\udf99",
+    "channelId": "@goozillaily",
+    "channelName": "Goozilla Ily Ch. [Autumnia]",
+    "channelThumb": "https://yt3.ggpht.com/jds_vfaqo4fnyTfPohyRPUqgIR6zUfltLSkUvuL26fVY2ZVqfPBjUdIWcux0qe8hgt68pWen=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Goozilla",
+    "scheduledStartTime": "2024-04-10T14:25:00Z",
+    "actualStartTime": "",
     "premiere": false
   },
   {
@@ -432,18 +432,6 @@
     "premiere": false
   },
   {
-    "id": "-zxbmUR2xzY",
-    "vidUrl": "https://youtu.be/-zxbmUR2xzY",
-    "vidTitle": "\u3010CONTENT WARNING\u3011 w/ Uki, Vanta & Vox \u3010NIJISANJI EN | Enna Alouette\u3011",
-    "channelId": "@ennaalouette",
-    "channelName": "Enna Alouette\u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/MKS8EHgSx1cC75IPUIf0zQefXweMfVpyUQxEQ_emFsTh-LTwODz6jXotb1q-QTrNpvPpf_sSuoM=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Enna",
-    "scheduledStartTime": "2024-04-10T20:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "UH9oUpszKqU",
     "vidUrl": "https://youtu.be/UH9oUpszKqU",
     "vidTitle": "MION~tization CELEBRATION PT. 3",
@@ -716,6 +704,18 @@
     "channelThumb": "https://yt3.ggpht.com/nDRQClGe1KvbcnQM7n2UBSmCiV22fXLRrRsedlRZNFktAK5tsWp21FA7HQNoAkDvwyzrdF-0og=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Mion",
     "scheduledStartTime": "2024-04-10T23:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "-zxbmUR2xzY",
+    "vidUrl": "https://youtu.be/-zxbmUR2xzY",
+    "vidTitle": "\u3010CONTENT WARNING\u3011 w/ Uki, Vanta & Vox \u3010NIJISANJI EN | Enna Alouette\u3011",
+    "channelId": "@ennaalouette",
+    "channelName": "Enna Alouette\u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/MKS8EHgSx1cC75IPUIf0zQefXweMfVpyUQxEQ_emFsTh-LTwODz6jXotb1q-QTrNpvPpf_sSuoM=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Enna",
+    "scheduledStartTime": "2024-04-11T00:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -3124,6 +3124,19 @@
     "shortName": "Tonya",
     "scheduledStartTime": "2024-04-10T03:00:00Z",
     "actualStartTime": "2024-04-10T03:09:44Z",
+    "premiere": false
+  },
+  {
+    "id": "kLD_w0janN0",
+    "vidUrl": "https://youtu.be/kLD_w0janN0",
+    "vidTitle": "VIRTUAL YOUTUBER SAYS HELLO.",
+    "channelId": "@lethebonapuchi",
+    "channelName": "Lethe Bonapuchi Ch. \u30ec\u30c3\u30c6\u30dc\u30ca\u30d7\u30c1 \u3010kawaii\u3011",
+    "channelThumb": "https://yt3.ggpht.com/Zzn-lffpprmp6_2y3sOeCN1yw-ARyXBh7a992WGez2D2Mo9RixB5PiBBndwuZA1NpUjjcDnb=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Lethe",
+    "scheduledStartTime": "2024-04-10T10:00:00Z",
+    "actualStartTime": "2024-04-10T10:03:46Z",
     "premiere": false
   },
   {
