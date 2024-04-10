@@ -24,18 +24,6 @@
     "premiere": false
   },
   {
-    "id": "UScguleX1pc",
-    "vidUrl": "https://youtu.be/UScguleX1pc",
-    "vidTitle": "\u3010PERSONA 3 RELOAD\u3011MOMMY MITSURU",
-    "channelId": "@nyanheras",
-    "channelName": "Nyanami Ruru & Rumi Ch.",
-    "channelThumb": "https://yt3.ggpht.com/e-csUdgwEj5h-rQ2vwXX-EVOeXk3BZRlaqnHS7-Mnd1ZC9icqo02aHhGvl_f50l_UX1bPsJgwFs=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Nyanheras",
-    "scheduledStartTime": "2024-04-10T16:00:00Z",
-    "actualStartTime": "2024-04-10T16:03:42Z",
-    "premiere": false
-  },
-  {
     "id": "aAAcVRds6AA",
     "vidUrl": "https://youtu.be/aAAcVRds6AA",
     "vidTitle": "[Gaming] Let's Chat with Yagami Noah\uff5cVTuber /GTA5 in Street Junkies\u3010GTA5\u3011\u65e5\u672c\u8a9e/PC",
@@ -93,18 +81,6 @@
     "shortName": "Tonya",
     "scheduledStartTime": "2024-04-10T17:30:00Z",
     "actualStartTime": "2024-04-10T17:30:52Z",
-    "premiere": false
-  },
-  {
-    "id": "XmT-ZUt-Xzg",
-    "vidUrl": "https://youtu.be/XmT-ZUt-Xzg",
-    "vidTitle": "\u3010HANDCAM\u3011 build a bear yappening \ud83e\uddf8",
-    "channelId": "@nanimonavi",
-    "channelName": "Nanimo Navi Ch. \u3010EIEN Project\u3011",
-    "channelThumb": "https://yt3.ggpht.com/sQsF3JpF26yNBW9ZNusWQHHFligM4D__RBmINLE0wJtXKHIdtlzhwNfIg_xR7Fx7LrMtG7Pt=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Navi",
-    "scheduledStartTime": "2024-04-10T17:30:00Z",
-    "actualStartTime": "2024-04-10T17:37:26Z",
     "premiere": false
   },
   {
@@ -824,6 +800,18 @@
     "channelThumb": "https://yt3.ggpht.com/xE9UTkowb3ioACbhZJuLwEGgBQEq4akaOHZZBTGmgn807ALVQKp91t_Gr74tgSpWRmN7SaEgnQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Amoria",
     "scheduledStartTime": "2024-04-11T03:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "_Z9h6whmaQo",
+    "vidUrl": "https://youtu.be/_Z9h6whmaQo",
+    "vidTitle": "\u3010The Wolf Among Us\u3011Chapter 3 here we go!",
+    "channelId": "@yurarikudou",
+    "channelName": "Yura Rikudou / \u516d\u9053\u30e6\u30e9",
+    "channelThumb": "https://yt3.ggpht.com/yILITMwS2t2HFysY-sKxOFGmrAaQheI4LMzf-ezgCTX9rjPTSJtZQK3E48WTtxtCWinefdwl-g=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Yura",
+    "scheduledStartTime": "2024-04-11T03:30:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -3290,6 +3278,32 @@
     "shortName": "Nebi",
     "scheduledStartTime": "2024-04-10T16:00:00Z",
     "actualStartTime": "2024-04-10T15:59:19Z",
+    "premiere": false
+  },
+  {
+    "id": "UScguleX1pc",
+    "vidUrl": "https://youtu.be/UScguleX1pc",
+    "vidTitle": "\u3010PERSONA 3 RELOAD\u3011MOMMY MITSURU",
+    "channelId": "@nyanheras",
+    "channelName": "Nyanami Ruru & Rumi Ch.",
+    "channelThumb": "https://yt3.ggpht.com/e-csUdgwEj5h-rQ2vwXX-EVOeXk3BZRlaqnHS7-Mnd1ZC9icqo02aHhGvl_f50l_UX1bPsJgwFs=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Nyanheras",
+    "scheduledStartTime": "2024-04-10T16:00:00Z",
+    "actualStartTime": "2024-04-10T16:03:42Z",
+    "premiere": false
+  },
+  {
+    "id": "XmT-ZUt-Xzg",
+    "vidUrl": "https://youtu.be/XmT-ZUt-Xzg",
+    "vidTitle": "\u3010HANDCAM\u3011 build a bear yappening \ud83e\uddf8",
+    "channelId": "@nanimonavi",
+    "channelName": "Nanimo Navi Ch. \u3010EIEN Project\u3011",
+    "channelThumb": "https://yt3.ggpht.com/sQsF3JpF26yNBW9ZNusWQHHFligM4D__RBmINLE0wJtXKHIdtlzhwNfIg_xR7Fx7LrMtG7Pt=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Navi",
+    "scheduledStartTime": "2024-04-10T17:30:00Z",
+    "actualStartTime": "2024-04-10T17:37:26Z",
     "premiere": false
   }
 ]
