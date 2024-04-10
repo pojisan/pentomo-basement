@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "ap0x55XCUvM",
-    "vidUrl": "https://youtu.be/ap0x55XCUvM",
-    "vidTitle": "\u3010ANIMAL CROSSING\u30113 STARS, HERE WE COME!",
-    "channelId": "@kiliakurayami",
-    "channelName": "Kilia Kurayami Ch. \u3010EIEN Project\u3011",
-    "channelThumb": "https://yt3.ggpht.com/lfSudxn7RE0Izwj8K2GriTxOebvU7pOlFL6lRkZQfYUex3cksfnEasQtUcPcfXkEJaXYVwxAfQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Kilia",
-    "scheduledStartTime": "2024-04-10T11:00:00Z",
-    "actualStartTime": "2024-04-10T11:14:40Z",
-    "premiere": false
-  },
-  {
     "id": "TFKeewkON_k",
     "vidUrl": "https://youtu.be/TFKeewkON_k",
     "vidTitle": "\u3010VALORANT\u3011RANK RANK RANK\u3010VOLs\u3011",
@@ -1232,18 +1220,6 @@
     "channelThumb": "https://yt3.ggpht.com/T30qwb0jUMNHh6WY7ZUjsFZKTP9hoPyZO4d4Knvf22uj_1DV5xvkK-ReGlX8zeshgoQeOmWovg=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Ran",
     "scheduledStartTime": "2024-04-11T22:30:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "2esgfuUy5Fk",
-    "vidUrl": "https://youtu.be/2esgfuUy5Fk",
-    "vidTitle": "New Adventures Await!\u3010Little Goody Two Shoes\u3011",
-    "channelId": "@chiakikatsumi",
-    "channelName": "Chiaki Katsumi Ch.\u3010PixelLink\u3011",
-    "channelThumb": "https://yt3.ggpht.com/0fSRWqUeKcBNJeZX33wkdct45WIDQd0CxMX2Faq80kSDKsvsuk2Nma-sBkzGYT2QjqCXCk4S9sU=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Chiaki",
-    "scheduledStartTime": "2024-04-11T23:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -3175,6 +3151,19 @@
     "shortName": "Mana",
     "scheduledStartTime": "2024-04-10T11:00:00Z",
     "actualStartTime": "2024-04-10T10:52:42Z",
+    "premiere": false
+  },
+  {
+    "id": "ap0x55XCUvM",
+    "vidUrl": "https://youtu.be/ap0x55XCUvM",
+    "vidTitle": "\u3010ANIMAL CROSSING\u30113 STARS, HERE WE COME!",
+    "channelId": "@kiliakurayami",
+    "channelName": "Kilia Kurayami Ch. \u3010EIEN Project\u3011",
+    "channelThumb": "https://yt3.ggpht.com/lfSudxn7RE0Izwj8K2GriTxOebvU7pOlFL6lRkZQfYUex3cksfnEasQtUcPcfXkEJaXYVwxAfQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Kilia",
+    "scheduledStartTime": "2024-04-10T11:00:00Z",
+    "actualStartTime": "2024-04-10T11:14:40Z",
     "premiere": false
   }
 ]
