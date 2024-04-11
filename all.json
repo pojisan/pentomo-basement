@@ -24,18 +24,6 @@
     "premiere": false
   },
   {
-    "id": "DeyEuO0zgeE",
-    "vidUrl": "https://youtu.be/DeyEuO0zgeE",
-    "vidTitle": "\u3010Railbound\u3011Choo choo chu! \ud83d\ude82\ud83d\udca8 CONDUCTOR PUZZLE GAME!!!",
-    "channelId": "@tomoecarmine",
-    "channelName": "Tomoe Carmine Ch. \u30c8\u30e2\u30a8\u30fb\u30ab\u30fc\u30de\u30a4\u30f3\u3010kawaii\u3011",
-    "channelThumb": "https://yt3.ggpht.com/eZL22MkBQh4myHNfCyj9pFql_IgFh84HMUYFvw-cp_9jx_RIftFJc_fFNi6YxJ5LhyArJH11PQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Tomoe",
-    "scheduledStartTime": "2024-04-11T18:00:00Z",
-    "actualStartTime": "2024-04-11T17:57:50Z",
-    "premiere": false
-  },
-  {
     "id": "Bp2bqQKSAYs",
     "vidUrl": "https://youtu.be/Bp2bqQKSAYs",
     "vidTitle": "\u3010Everyday\u266a Today\u2019s MENU for EMIYA Family\u3011OMURICE TIME!!!!!!!!",
@@ -81,18 +69,6 @@
     "shortName": "Kohaku",
     "scheduledStartTime": "2024-04-11T21:00:00Z",
     "actualStartTime": "2024-04-11T21:01:49Z",
-    "premiere": false
-  },
-  {
-    "id": "AHYznTLyrT0",
-    "vidUrl": "https://youtu.be/AHYznTLyrT0",
-    "vidTitle": "VTuber Reacts to Iconic #WWE Moments",
-    "channelId": "@reinasunch",
-    "channelName": "Reina Sun Ch. \u30ec\u30a4\u30ca\u30fb\u30b5\u30f3\u300eproduction kawaii\u300f",
-    "channelThumb": "https://yt3.ggpht.com/4RX4F31z_vt136oTmk9X1aHxUrOt7TCeeUggiNx8avUBu1j5B8Blo1lktZplgYt8yVhjxKXgUi0=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Reina",
-    "scheduledStartTime": "2024-04-11T21:30:00Z",
-    "actualStartTime": "2024-04-11T21:35:31Z",
     "premiere": false
   },
   {
@@ -487,6 +463,18 @@
     "channelName": "Utahime Mochizuki | Specialite EN",
     "channelThumb": "https://yt3.ggpht.com/osBzLXvtdsDnt8yz3Eir3dzxCzGyrtg7-2jVXwKMBrLUijflbHEBU49IXRX_6fBOqtw8JpHiJQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Uta",
+    "scheduledStartTime": "2024-04-12T01:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "yhhHvEjiXno",
+    "vidUrl": "https://youtu.be/yhhHvEjiXno",
+    "vidTitle": "IT'S TIME TO GET METAL\u3010 METAL: HELLSINGER \u3011 \u3010NIJISANJI EN | Alban Knox\u3011",
+    "channelId": "@albanknox",
+    "channelName": "Alban Knox \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/rbTGK5bXuub0l3feyx8c780FtoRAtT1KDgqOGQq2wSisQJo17wk9PusEc_ZjUMK_uwZ47LIZiSI=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Alban",
     "scheduledStartTime": "2024-04-12T01:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2632,16 +2620,16 @@
     "premiere": false
   },
   {
-    "id": "R0ue9p1Mk5Y",
-    "vidUrl": "https://youtu.be/R0ue9p1Mk5Y",
-    "vidTitle": "\u3010Art\u3011More PC-98 Style Game Screen Drawing!",
-    "channelId": "@amiyaaranha",
-    "channelName": "Amiya Ch. \u30a2\u30df\u30e4\u30fb\u30a2\u30e9\u30cb\u30e3",
-    "channelThumb": "https://yt3.ggpht.com/91Fqx3Xut4jaSefCeiDLVGQDSdkWAvt5jA8ejzT18EztYTppy29JNzpa7G-KThC8TzuAmlKBQcs=s88-c-k-c0x00ffffff-no-rj",
+    "id": "DeyEuO0zgeE",
+    "vidUrl": "https://youtu.be/DeyEuO0zgeE",
+    "vidTitle": "\u3010Railbound\u3011Choo choo chu! \ud83d\ude82\ud83d\udca8 CONDUCTOR PUZZLE GAME!!!",
+    "channelId": "@tomoecarmine",
+    "channelName": "Tomoe Carmine Ch. \u30c8\u30e2\u30a8\u30fb\u30ab\u30fc\u30de\u30a4\u30f3\u3010kawaii\u3011",
+    "channelThumb": "https://yt3.ggpht.com/eZL22MkBQh4myHNfCyj9pFql_IgFh84HMUYFvw-cp_9jx_RIftFJc_fFNi6YxJ5LhyArJH11PQ=s88-c-k-c0x00ffffff-no-rj",
     "graveyard": true,
-    "shortName": "Amiya",
-    "scheduledStartTime": "2024-04-11T19:00:00Z",
-    "actualStartTime": "2024-04-11T19:01:13Z",
+    "shortName": "Tomoe",
+    "scheduledStartTime": "2024-04-11T18:00:00Z",
+    "actualStartTime": "2024-04-11T17:57:50Z",
     "premiere": false
   },
   {
@@ -2658,16 +2646,16 @@
     "premiere": false
   },
   {
-    "id": "YRIpIorUdJ8",
-    "vidUrl": "https://youtu.be/YRIpIorUdJ8",
-    "vidTitle": "THE BOWSER BATTLE EPISODE\u3010SUPER MARIO 64\u3011",
-    "channelId": "@lottieshinju",
-    "channelName": "Lottie Shinju Ch.\u3010PixelLink\u3011",
-    "channelThumb": "https://yt3.ggpht.com/iB7oY1uapYSoA1zpmn8TtVnCrTatyrR92ou_vLr9RmlWU2r7Ad91OBND7N2lr5iOZK4kMRok4g=s88-c-k-c0x00ffffff-no-rj",
+    "id": "AHYznTLyrT0",
+    "vidUrl": "https://youtu.be/AHYznTLyrT0",
+    "vidTitle": "VTuber Reacts to Iconic #WWE Moments",
+    "channelId": "@reinasunch",
+    "channelName": "Reina Sun Ch. \u30ec\u30a4\u30ca\u30fb\u30b5\u30f3\u300eproduction kawaii\u300f",
+    "channelThumb": "https://yt3.ggpht.com/4RX4F31z_vt136oTmk9X1aHxUrOt7TCeeUggiNx8avUBu1j5B8Blo1lktZplgYt8yVhjxKXgUi0=s88-c-k-c0x00ffffff-no-rj",
     "graveyard": true,
-    "shortName": "Lottie",
-    "scheduledStartTime": "2024-04-11T21:00:00Z",
-    "actualStartTime": "2024-04-11T21:00:24Z",
+    "shortName": "Reina",
+    "scheduledStartTime": "2024-04-11T21:30:00Z",
+    "actualStartTime": "2024-04-11T21:35:31Z",
     "premiere": false
   },
   {
