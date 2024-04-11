@@ -12,30 +12,6 @@
     "premiere": false
   },
   {
-    "id": "Ze69oIz_XDI",
-    "vidUrl": "https://youtu.be/Ze69oIz_XDI",
-    "vidTitle": "\u3010Minecraft\u3011visiting the nether-again!",
-    "channelId": "@kattarina_qutie",
-    "channelName": "Kattarina Qutie Ch. idol-EN",
-    "channelThumb": "https://yt3.ggpht.com/gHLRZOEihJIIcqQJmj8hsp4CsuRIbKIYKzRxQp9Q9du6DfBDFlnMv3xYCXMnKqSe3N8a1ki6Yw=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Katta",
-    "scheduledStartTime": "2024-04-11T10:00:00Z",
-    "actualStartTime": "2024-04-11T10:06:42Z",
-    "premiere": false
-  },
-  {
-    "id": "gETIPgS4LVc",
-    "vidUrl": "https://youtu.be/gETIPgS4LVc",
-    "vidTitle": "\u3010Chit chat\u3011\u307e\u3063\u305f\u308a\u96d1\u8ac7\uff01/Let's relax and talk!\u3010VTuber/Ririsya\u3011",
-    "channelId": "@ririsyamusic",
-    "channelName": "\u51db\u3005\u54b2 / Ririsya",
-    "channelThumb": "https://yt3.ggpht.com/oYBTybAbyRi5xDlm4984w-s8PWjZzljiQDZ8KUh5fnqvLGh2OISvsoTZzOlQ6IRASupqJbq6g3Y=s88-c-k-c0x00ffffff-no-nd-rj",
-    "shortName": "Ririsya",
-    "scheduledStartTime": "2024-04-11T11:00:00Z",
-    "actualStartTime": "2024-04-11T11:01:15Z",
-    "premiere": false
-  },
-  {
     "id": "pBZwsaffzJU",
     "vidUrl": "https://youtu.be/pBZwsaffzJU",
     "vidTitle": "\u3010HANDCAM + TTS\u3011 HEAL ME, EMOTIONAL SUPPORT VOLLEYBALL BOYS",
@@ -57,18 +33,6 @@
     "shortName": "Mana",
     "scheduledStartTime": "2024-04-11T11:30:00Z",
     "actualStartTime": "2024-04-11T11:33:05Z",
-    "premiere": false
-  },
-  {
-    "id": "02_asIHYxH0",
-    "vidUrl": "https://youtu.be/02_asIHYxH0",
-    "vidTitle": "[Gaming] Let's Chat with Yagami Noah\uff5cVTuber /GTA5 in TGS\u3010GTA5\u3011\u65e5\u672c\u8a9e/PC",
-    "channelId": "@yagaminoah",
-    "channelName": "Yagami Noah / \u516b\u795e\u30ce\u30a2\u3010bondlive EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/zv3gY8PI3ZXN4KgiMrdVaBT-8XTB09763VvuJFtZ7yx0nLVUiMbUoa5RlyU_BEUmvaztteqGD5A=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Noah",
-    "scheduledStartTime": "2024-04-11T11:50:00Z",
-    "actualStartTime": "2024-04-11T11:51:28Z",
     "premiere": false
   },
   {
@@ -117,6 +81,18 @@
     "shortName": "Angy",
     "scheduledStartTime": "2024-04-11T12:00:00Z",
     "actualStartTime": "2024-04-11T12:05:18Z",
+    "premiere": false
+  },
+  {
+    "id": "zHGkR_P-9eQ",
+    "vidUrl": "https://youtu.be/zHGkR_P-9eQ",
+    "vidTitle": "[Gaming] Let's Chat with Yagami Noah\uff5cVTuber /GTA5 in Street Junkies\u3010GTA5\u3011\u65e5\u672c\u8a9e/PC",
+    "channelId": "@yagaminoah",
+    "channelName": "Yagami Noah / \u516b\u795e\u30ce\u30a2\u3010bondlive EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/zv3gY8PI3ZXN4KgiMrdVaBT-8XTB09763VvuJFtZ7yx0nLVUiMbUoa5RlyU_BEUmvaztteqGD5A=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Noah",
+    "scheduledStartTime": "2024-04-11T12:50:00Z",
+    "actualStartTime": "2024-04-11T12:51:14Z",
     "premiere": false
   },
   {
@@ -2909,6 +2885,32 @@
     "premiere": false
   },
   {
+    "id": "Ze69oIz_XDI",
+    "vidUrl": "https://youtu.be/Ze69oIz_XDI",
+    "vidTitle": "\u3010Minecraft\u3011visiting the nether-again!",
+    "channelId": "@kattarina_qutie",
+    "channelName": "Kattarina Qutie Ch. idol-EN",
+    "channelThumb": "https://yt3.ggpht.com/gHLRZOEihJIIcqQJmj8hsp4CsuRIbKIYKzRxQp9Q9du6DfBDFlnMv3xYCXMnKqSe3N8a1ki6Yw=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Katta",
+    "scheduledStartTime": "2024-04-11T10:00:00Z",
+    "actualStartTime": "2024-04-11T10:06:42Z",
+    "premiere": false
+  },
+  {
+    "id": "gETIPgS4LVc",
+    "vidUrl": "https://youtu.be/gETIPgS4LVc",
+    "vidTitle": "\u3010Chit chat\u3011\u307e\u3063\u305f\u308a\u96d1\u8ac7\uff01/Let's relax and talk!\u3010VTuber/Ririsya\u3011",
+    "channelId": "@ririsyamusic",
+    "channelName": "\u51db\u3005\u54b2 / Ririsya",
+    "channelThumb": "https://yt3.ggpht.com/oYBTybAbyRi5xDlm4984w-s8PWjZzljiQDZ8KUh5fnqvLGh2OISvsoTZzOlQ6IRASupqJbq6g3Y=s88-c-k-c0x00ffffff-no-nd-rj",
+    "graveyard": true,
+    "shortName": "Ririsya",
+    "scheduledStartTime": "2024-04-11T11:00:00Z",
+    "actualStartTime": "2024-04-11T11:01:15Z",
+    "premiere": false
+  },
+  {
     "id": "Ed-ku8AnpJY",
     "vidUrl": "https://youtu.be/Ed-ku8AnpJY",
     "vidTitle": "\u3010THE KARAOKE\u3011Another horror for the bunny\u3010VOLs\u3011",
@@ -2919,6 +2921,19 @@
     "shortName": "Mikumi",
     "scheduledStartTime": "2024-04-11T11:00:00Z",
     "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "02_asIHYxH0",
+    "vidUrl": "https://youtu.be/02_asIHYxH0",
+    "vidTitle": "[Gaming] Let's Chat with Yagami Noah\uff5cVTuber /GTA5 in TGS\u3010GTA5\u3011\u65e5\u672c\u8a9e/PC",
+    "channelId": "@yagaminoah",
+    "channelName": "Yagami Noah / \u516b\u795e\u30ce\u30a2\u3010bondlive EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/zv3gY8PI3ZXN4KgiMrdVaBT-8XTB09763VvuJFtZ7yx0nLVUiMbUoa5RlyU_BEUmvaztteqGD5A=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Noah",
+    "scheduledStartTime": "2024-04-11T11:50:00Z",
+    "actualStartTime": "2024-04-11T11:51:28Z",
     "premiere": false
   }
 ]
