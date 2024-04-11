@@ -48,18 +48,6 @@
     "premiere": false
   },
   {
-    "id": "GniS_bKGniQ",
-    "vidUrl": "https://youtu.be/GniS_bKGniQ",
-    "vidTitle": "\u3010ZATSU & chill\u3011let\u2019s slow down nei\u2026",
-    "channelId": "@neiomicielo",
-    "channelName": "Neiomi Cielo Ch.\u3010lucid\u2601\ufe0f\u3011",
-    "channelThumb": "https://yt3.ggpht.com/Scg_jH2aOtaFnREeE_96R4xFDpw0cxp1A-sM6poZ_dl-6N2igdC-27zQ7UOguRqYARzQ6pTK0w=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Cielo",
-    "scheduledStartTime": "2024-04-11T03:45:00Z",
-    "actualStartTime": "2024-04-11T03:48:37Z",
-    "premiere": false
-  },
-  {
     "id": "S_BgRMHQYD4",
     "vidUrl": "https://youtu.be/S_BgRMHQYD4",
     "vidTitle": "\u3010\u6e05\u695a\u62c5\u5f53\u3011\u30c7\u30fc\u30c8\u3057\u3088\u3046\ud83d\udc9b\u3010\u6b4c\u7f8e\u9cf4\u30af\u30e9\u30e9 / Phase Connect\u3011",
@@ -2737,19 +2725,6 @@
     "premiere": false
   },
   {
-    "id": "FK6v0ri83Tw",
-    "vidUrl": "https://youtu.be/FK6v0ri83Tw",
-    "vidTitle": "\u3010 INFINITE CRAFT \u3011CRAFTING ENDLESS POSSIBILITIES\uff01\u3010 PIXELLINK\u30fbNEBI NEBU \u3011",
-    "channelId": "@nebinebu",
-    "channelName": "Nebi Nebu Ch.\u3010PixelLink\u3011",
-    "channelThumb": "https://yt3.ggpht.com/ISIGJXVKQQOGr9G6acb4mkNl8W6qNDzBHOdvO65x9JIZB0unQUOxkuzd7ZTmmZRirMPBrwCJ=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Nebi",
-    "scheduledStartTime": "2024-04-10T16:00:00Z",
-    "actualStartTime": "2024-04-10T15:59:19Z",
-    "premiere": false
-  },
-  {
     "id": "UScguleX1pc",
     "vidUrl": "https://youtu.be/UScguleX1pc",
     "vidTitle": "\u3010PERSONA 3 RELOAD\u3011MOMMY MITSURU",
@@ -2854,32 +2829,6 @@
     "premiere": false
   },
   {
-    "id": "FzArmAP2B0s",
-    "vidUrl": "https://youtu.be/FzArmAP2B0s",
-    "vidTitle": "ELDEN RING BINGO ft. TWO CLUELESS PLAYERS ( @BriAtCookiebox )",
-    "channelId": "@maevevnu",
-    "channelName": "Kagekiri Maeve Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/chqWD1VyGO8YdOq75KWxKvH0RcBMayDUlmtDeO9Btb__V9Zr-ow3CSoiOfhE3SrynzSC9J8=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Maeve",
-    "scheduledStartTime": "2024-04-10T23:00:00Z",
-    "actualStartTime": "2024-04-10T23:00:27Z",
-    "premiere": false
-  },
-  {
-    "id": "31Zzul3ig0Y",
-    "vidUrl": "https://youtu.be/31Zzul3ig0Y",
-    "vidTitle": "ELDEN RING BINGO WITH @MaeveVNU",
-    "channelId": "@briatcookiebox",
-    "channelName": "BriAtCookiebox",
-    "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_nC7dRnnTDxs3724EZNLjdWAX7n5w7Vpv6hM9ss3dUJ_w=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Bri",
-    "scheduledStartTime": "2024-04-10T23:00:00Z",
-    "actualStartTime": "2024-04-10T23:01:40Z",
-    "premiere": false
-  },
-  {
     "id": "dJoEEUWAUkU",
     "vidUrl": "https://youtu.be/dJoEEUWAUkU",
     "vidTitle": "\u3010Phasmophobia\u3011I surely can tame the ghost",
@@ -2942,6 +2891,19 @@
     "shortName": "Skye",
     "scheduledStartTime": "2024-04-11T03:00:00Z",
     "actualStartTime": "2024-04-11T03:00:07Z",
+    "premiere": false
+  },
+  {
+    "id": "GniS_bKGniQ",
+    "vidUrl": "https://youtu.be/GniS_bKGniQ",
+    "vidTitle": "\u3010ZATSU & chill\u3011let\u2019s slow down nei\u2026",
+    "channelId": "@neiomicielo",
+    "channelName": "Neiomi Cielo Ch.\u3010lucid\u2601\ufe0f\u3011",
+    "channelThumb": "https://yt3.ggpht.com/Scg_jH2aOtaFnREeE_96R4xFDpw0cxp1A-sM6poZ_dl-6N2igdC-27zQ7UOguRqYARzQ6pTK0w=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Cielo",
+    "scheduledStartTime": "2024-04-11T03:45:00Z",
+    "actualStartTime": "2024-04-11T03:48:37Z",
     "premiere": false
   }
 ]
