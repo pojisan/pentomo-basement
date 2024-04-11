@@ -456,18 +456,6 @@
     "premiere": false
   },
   {
-    "id": "MxncBrYBXII",
-    "vidUrl": "https://youtu.be/MxncBrYBXII",
-    "vidTitle": "Let's Open The Digital Gate!\u3010DIGIMON TCG\u3011",
-    "channelId": "@novaaokami",
-    "channelName": "Nova Aokami Ch. [VReverie]",
-    "channelThumb": "https://yt3.ggpht.com/meX1uEFMv6_rki86cHBRXvTGGW7VxvnhWUREh2SUpbA8O77kQKR7xnKGU2Vwmbb69aPmsfji=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Nova",
-    "scheduledStartTime": "2024-04-12T00:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "pWgsfZowrK8",
     "vidUrl": "https://youtu.be/pWgsfZowrK8",
     "vidTitle": "\u3010The Mortuary Assistant\u3011my sleep paralysis demon\u3010Yume+ | Mimosa Shirosaki\u3011",
@@ -535,6 +523,18 @@
     "channelName": "Mivi Aivori Ch. V&U",
     "channelThumb": "https://yt3.ggpht.com/b0A2emwbDeLrLg3NZ5zlJf0AjwnxRx8dKsbah9w_DAOW5W-nhvK_JmA87yYFwYN6KeB4dOzH=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Mivi",
+    "scheduledStartTime": "2024-04-12T01:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "MxncBrYBXII",
+    "vidUrl": "https://youtu.be/MxncBrYBXII",
+    "vidTitle": "Let's Open The Digital Gate!\u3010DIGIMON TCG\u3011",
+    "channelId": "@novaaokami",
+    "channelName": "Nova Aokami Ch. [VReverie]",
+    "channelThumb": "https://yt3.ggpht.com/meX1uEFMv6_rki86cHBRXvTGGW7VxvnhWUREh2SUpbA8O77kQKR7xnKGU2Vwmbb69aPmsfji=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Nova",
     "scheduledStartTime": "2024-04-12T01:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -967,6 +967,18 @@
     "channelName": "Umi Kyoku \u3010\u3046\u307f\u304d\u3087\u304f\u3011",
     "channelThumb": "https://yt3.ggpht.com/swraGRJ-7ukDEjf58l8YghX2KRDuxS2AEW417T7BWmc-NehlFSgYeMftFJ9VuDE43C07xHQLKBA=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Umi",
+    "scheduledStartTime": "2024-04-12T13:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "ZrWwuwuEOQY",
+    "vidUrl": "https://youtu.be/ZrWwuwuEOQY",
+    "vidTitle": "\u3010BEAT SABER VR\u3011CHOP CHOP CHOP\u3010NIJISANJI EN | Vezalius Bandage\u3011",
+    "channelId": "@vezaliusbandage",
+    "channelName": "Vezalius Bandage \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/rnqrntYI1y38pqQeqYAmX3_gG1vZ-iYeMGHY0nCC-lxqKdoBspKriRXzMPv7PByMydEYm9YvvzU=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Zali",
     "scheduledStartTime": "2024-04-12T13:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2713,19 +2725,6 @@
     "shortName": "Spectra",
     "scheduledStartTime": "2024-04-11T15:00:00Z",
     "actualStartTime": "2024-04-11T15:00:23Z",
-    "premiere": false
-  },
-  {
-    "id": "3kExcBGN9fA",
-    "vidUrl": "https://youtu.be/3kExcBGN9fA",
-    "vidTitle": "\u3010HOLO X BREAK\u3011Breaking the holo with @TakanashiKiara",
-    "channelId": "@nerissaravencroft",
-    "channelName": "Nerissa Ravencroft Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/JDCIBWj11TgjY2Uyba_efZ0n5hzjysMB9GxkvHGkIN_sfFQJR5mx3iVPqgJ96IPcYjZpCLsb=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Nerissa",
-    "scheduledStartTime": "2024-04-11T18:00:00Z",
-    "actualStartTime": "2024-04-11T17:55:11Z",
     "premiere": false
   },
   {

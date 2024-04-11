@@ -408,18 +408,6 @@
     "premiere": false
   },
   {
-    "id": "MxncBrYBXII",
-    "vidUrl": "https://youtu.be/MxncBrYBXII",
-    "vidTitle": "Let's Open The Digital Gate!\u3010DIGIMON TCG\u3011",
-    "channelId": "@novaaokami",
-    "channelName": "Nova Aokami Ch. [VReverie]",
-    "channelThumb": "https://yt3.ggpht.com/meX1uEFMv6_rki86cHBRXvTGGW7VxvnhWUREh2SUpbA8O77kQKR7xnKGU2Vwmbb69aPmsfji=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Nova",
-    "scheduledStartTime": "2024-04-12T00:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "pWgsfZowrK8",
     "vidUrl": "https://youtu.be/pWgsfZowrK8",
     "vidTitle": "\u3010The Mortuary Assistant\u3011my sleep paralysis demon\u3010Yume+ | Mimosa Shirosaki\u3011",
@@ -475,6 +463,18 @@
     "channelName": "Mivi Aivori Ch. V&U",
     "channelThumb": "https://yt3.ggpht.com/b0A2emwbDeLrLg3NZ5zlJf0AjwnxRx8dKsbah9w_DAOW5W-nhvK_JmA87yYFwYN6KeB4dOzH=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Mivi",
+    "scheduledStartTime": "2024-04-12T01:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "MxncBrYBXII",
+    "vidUrl": "https://youtu.be/MxncBrYBXII",
+    "vidTitle": "Let's Open The Digital Gate!\u3010DIGIMON TCG\u3011",
+    "channelId": "@novaaokami",
+    "channelName": "Nova Aokami Ch. [VReverie]",
+    "channelThumb": "https://yt3.ggpht.com/meX1uEFMv6_rki86cHBRXvTGGW7VxvnhWUREh2SUpbA8O77kQKR7xnKGU2Vwmbb69aPmsfji=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Nova",
     "scheduledStartTime": "2024-04-12T01:00:00Z",
     "actualStartTime": "",
     "premiere": false
