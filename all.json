@@ -44,7 +44,7 @@
     "channelThumb": "https://yt3.ggpht.com/06-Ihgh44rPrUWXBSXAGR0a10dQKGBTm-AEJxG1ThlclvCzFFugh1FSz5PXqXP606Y_BV98SKA=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Elia",
     "scheduledStartTime": "2024-04-11T08:30:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-11T08:24:22Z",
     "premiere": false
   },
   {
@@ -631,6 +631,18 @@
     "channelName": "Inami Yoki Ch.",
     "channelThumb": "https://yt3.ggpht.com/vCtnJzYIQZi4DtDvSMyEpWdolmNJoIzlO4YD0036Tm2-sRRYRjPNL0xikMCq2Q8p4hqcAKaY9V4=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Yoki",
+    "scheduledStartTime": "2024-04-11T22:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "GRo2B4Pa2cY",
+    "vidUrl": "https://youtu.be/GRo2B4Pa2cY",
+    "vidTitle": "\u3016Content Warning\u3017Making content for the first time w/@MaeveVNU @Kou_Mariya \u3016Cyon \u2765 V&U\u3017",
+    "channelId": "@cyonvnu",
+    "channelName": "Cyon Hart Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/gsviy0KcEYuRE4MyNsKcEBoS0lIaW9wgkz9raEwVrQ0tIUM473cN8ORz-rdHps1IYSHxZdzI_g=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Cyon",
     "scheduledStartTime": "2024-04-11T22:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2713,19 +2725,6 @@
     "premiere": false
   },
   {
-    "id": "sB90BDebzic",
-    "vidUrl": "https://youtu.be/sB90BDebzic",
-    "vidTitle": "AMONG US WITH THE BESTIES",
-    "channelId": "@junaunagi",
-    "channelName": "Juna Unagi Ch. idol-EN",
-    "channelThumb": "https://yt3.ggpht.com/2Z4a4Pzt3NDAzzTL_Iz9gc6HZ5uPReVnqYjz8ZDtVfcRaE026n_DgpamMVBQ4gWMBeIzfeUxUgw=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Juna",
-    "scheduledStartTime": "2024-04-10T18:00:00Z",
-    "actualStartTime": "2024-04-10T17:59:51Z",
-    "premiere": false
-  },
-  {
     "id": "7lZqefGp1nQ",
     "vidUrl": "https://youtu.be/7lZqefGp1nQ",
     "vidTitle": "\u3010Among Us\u3011HUGE IDOL AMOGUS COLLAB",
@@ -2801,19 +2800,6 @@
     "shortName": "Lida",
     "scheduledStartTime": "2024-04-10T23:00:00Z",
     "actualStartTime": "2024-04-10T23:10:03Z",
-    "premiere": false
-  },
-  {
-    "id": "kfSmviBESQM",
-    "vidUrl": "https://youtu.be/kfSmviBESQM",
-    "vidTitle": "\u3010Red Dead Redemption 2\u3011when the west is wilding (part 7)",
-    "channelId": "@moricalliope",
-    "channelName": "Mori Calliope Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/8B_T08sx8R7XVi5Mwx_l9sjQm5FGWGspeujSvVDvd80Zyr-3VvVTRGVLOnBrqNRxZp6ZeXAV=s88-c-k-c0x00ffffff-no-nd-rj",
-    "graveyard": true,
-    "shortName": "Mori",
-    "scheduledStartTime": "2024-04-11T00:59:47Z",
-    "actualStartTime": "2024-04-11T01:00:23Z",
     "premiere": false
   },
   {
