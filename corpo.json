@@ -48,18 +48,6 @@
     "premiere": false
   },
   {
-    "id": "di06jZpndh8",
-    "vidUrl": "https://youtu.be/di06jZpndh8",
-    "vidTitle": "\u3010Five Nights at Freddy's: Security Breach - END Part: 6\u3011montgummygator!!!!!!!!!!\u3010V&U | GEN4\u3011",
-    "channelId": "@zelivnu",
-    "channelName": "Zeli Zuimu Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/x-Jy2Z-kGAif3VDun_IhsnyYfzF5aWhNbwG6fcms85aKwauMlcr0dwA2onUFirEFs2BD8YFwjWg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Zeli",
-    "scheduledStartTime": "2024-04-11T00:00:00Z",
-    "actualStartTime": "2024-04-11T00:00:38Z",
-    "premiere": false
-  },
-  {
     "id": "ez2wiBOsQFk",
     "vidUrl": "https://youtu.be/ez2wiBOsQFk",
     "vidTitle": "\u3010Balatro\u3011Betting it all on the Heart of the Cards! \u2665\ufe0f\u2663\ufe0f\u2666\ufe0f\u2660\ufe0f (Deckbuilder Wed)",
@@ -129,18 +117,6 @@
     "shortName": "Non",
     "scheduledStartTime": "2024-04-11T01:00:00Z",
     "actualStartTime": "2024-04-11T01:01:58Z",
-    "premiere": false
-  },
-  {
-    "id": "dpqd-_w0rjk",
-    "vidUrl": "https://youtu.be/dpqd-_w0rjk",
-    "vidTitle": "\u3010Coromon\u3011IO WANTS TO BE THE VERY BEST!",
-    "channelId": "@amase_io",
-    "channelName": "Amase Io CH. \u5929\u702c \u30a4\u30aa\u3010Project Memoire\u3011",
-    "channelThumb": "https://yt3.ggpht.com/X1sgPuBT-qyqDLp-Z42L1Xx6FqUOvvgaTeOz8DhHobGpDBiCOsmAcvzXRRUXihT9mv0QrEPPfQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Io",
-    "scheduledStartTime": "2024-04-11T01:00:00Z",
-    "actualStartTime": "2024-04-11T01:03:23Z",
     "premiere": false
   },
   {
@@ -356,7 +332,7 @@
     "channelThumb": "https://yt3.ggpht.com/yILITMwS2t2HFysY-sKxOFGmrAaQheI4LMzf-ezgCTX9rjPTSJtZQK3E48WTtxtCWinefdwl-g=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Yura",
     "scheduledStartTime": "2024-04-11T03:30:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-11T03:27:45Z",
     "premiere": false
   },
   {
@@ -3143,6 +3119,32 @@
     "shortName": "Lida",
     "scheduledStartTime": "2024-04-10T23:00:00Z",
     "actualStartTime": "2024-04-10T23:10:03Z",
+    "premiere": false
+  },
+  {
+    "id": "di06jZpndh8",
+    "vidUrl": "https://youtu.be/di06jZpndh8",
+    "vidTitle": "\u3010Five Nights at Freddy's: Security Breach - END Part: 6\u3011montgummygator!!!!!!!!!!\u3010V&U | GEN4\u3011",
+    "channelId": "@zelivnu",
+    "channelName": "Zeli Zuimu Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/x-Jy2Z-kGAif3VDun_IhsnyYfzF5aWhNbwG6fcms85aKwauMlcr0dwA2onUFirEFs2BD8YFwjWg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Zeli",
+    "scheduledStartTime": "2024-04-11T00:00:00Z",
+    "actualStartTime": "2024-04-11T00:00:38Z",
+    "premiere": false
+  },
+  {
+    "id": "dpqd-_w0rjk",
+    "vidUrl": "https://youtu.be/dpqd-_w0rjk",
+    "vidTitle": "\u3010Coromon\u3011IO WANTS TO BE THE VERY BEST!",
+    "channelId": "@amase_io",
+    "channelName": "Amase Io CH. \u5929\u702c \u30a4\u30aa\u3010Project Memoire\u3011",
+    "channelThumb": "https://yt3.ggpht.com/X1sgPuBT-qyqDLp-Z42L1Xx6FqUOvvgaTeOz8DhHobGpDBiCOsmAcvzXRRUXihT9mv0QrEPPfQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Io",
+    "scheduledStartTime": "2024-04-11T01:00:00Z",
+    "actualStartTime": "2024-04-11T01:03:23Z",
     "premiere": false
   },
   {
