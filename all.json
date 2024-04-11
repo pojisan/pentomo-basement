@@ -1,17 +1,5 @@
 [
   {
-    "id": "-zxbmUR2xzY",
-    "vidUrl": "https://youtu.be/-zxbmUR2xzY",
-    "vidTitle": "\u3010CONTENT WARNING\u3011 w/ Uki, Vanta & Vox \u3010NIJISANJI EN | Enna Alouette\u3011",
-    "channelId": "@ennaalouette",
-    "channelName": "Enna Alouette\u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/MKS8EHgSx1cC75IPUIf0zQefXweMfVpyUQxEQ_emFsTh-LTwODz6jXotb1q-QTrNpvPpf_sSuoM=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Enna",
-    "scheduledStartTime": "2024-04-11T00:00:00Z",
-    "actualStartTime": "2024-04-11T00:03:44Z",
-    "premiere": false
-  },
-  {
     "id": "kfSmviBESQM",
     "vidUrl": "https://youtu.be/kfSmviBESQM",
     "vidTitle": "\u3010Red Dead Redemption 2\u3011when the west is wilding (part 7)",
@@ -117,18 +105,6 @@
     "shortName": "Clara",
     "scheduledStartTime": "2024-04-11T04:00:00Z",
     "actualStartTime": "2024-04-11T04:00:24Z",
-    "premiere": false
-  },
-  {
-    "id": "cQDkFbImHtA",
-    "vidUrl": "https://youtu.be/cQDkFbImHtA",
-    "vidTitle": "\u3010KARAOKE / \u6b4c\u67a0\u3011Unarchived UtaRyS Time #shorts",
-    "channelId": "@irys",
-    "channelName": "IRyS Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/cDSMiVy3Xa49Ci_YyouVNzfCwVXKRYmOeywWQ_UFKzvAp6tvyeMtXMyzWzQ2u8ft4EENsJKt7A=s88-c-k-c0x00ffffff-no-nd-rj",
-    "shortName": "Irys",
-    "scheduledStartTime": "2024-04-11T04:00:00Z",
-    "actualStartTime": "2024-04-11T04:02:53Z",
     "premiere": false
   },
   {
@@ -888,6 +864,18 @@
     "premiere": false
   },
   {
+    "id": "uBV2-gATUuk",
+    "vidUrl": "https://youtu.be/uBV2-gATUuk",
+    "vidTitle": "\u3010MINECRAFT\u3011cozy and calm building time\u3010NIJISANJI EN | Uki Violeta\u3011",
+    "channelId": "@ukivioleta",
+    "channelName": "Uki Violeta \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/WIy30MlmcCTxrEuKULkAdh8itCfT4Up5myJbpVHTkKbfKcgriF_qL6d3iJMD_mQfwb0B1JDT=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Uki",
+    "scheduledStartTime": "2024-04-12T00:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "uOtw9D2Ayts",
     "vidUrl": "https://youtu.be/uOtw9D2Ayts",
     "vidTitle": "we (\ud83d\udc2f\ud83d\udc3b) are not making it out. \u3010Keep Talking & No One Explodes\u3011w/ @TomomiVNU",
@@ -1064,6 +1052,18 @@
     "channelThumb": "https://yt3.ggpht.com/oYEH8ckOxzEJ0GXlZGp4aSxvZrMWAeodRUg_MRgHqJEr7bEyjXdoC5VyYZ143XtcIKUozhQq6Q=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Scarle",
     "scheduledStartTime": "2024-04-12T02:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "oqf7YYpb9uU",
+    "vidUrl": "https://youtu.be/oqf7YYpb9uU",
+    "vidTitle": "\u3010Detroit: Become Human\u3011Our hearts are compatible. You have to take mine.",
+    "channelId": "@ashadawn",
+    "channelName": "Asha Dawn Ch. Legion",
+    "channelThumb": "https://yt3.ggpht.com/kbvof6XayuNhDx21no3Y819T1r_fPw_8OvizzR8hJ3LkpvUYbw6vkbHlifJoBVPnW0TX_J3sq04=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Asha",
+    "scheduledStartTime": "2024-04-12T02:00:27Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -2894,6 +2894,19 @@
     "premiere": false
   },
   {
+    "id": "-zxbmUR2xzY",
+    "vidUrl": "https://youtu.be/-zxbmUR2xzY",
+    "vidTitle": "\u3010CONTENT WARNING\u3011 w/ Uki, Vanta & Vox \u3010NIJISANJI EN | Enna Alouette\u3011",
+    "channelId": "@ennaalouette",
+    "channelName": "Enna Alouette\u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/MKS8EHgSx1cC75IPUIf0zQefXweMfVpyUQxEQ_emFsTh-LTwODz6jXotb1q-QTrNpvPpf_sSuoM=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Enna",
+    "scheduledStartTime": "2024-04-11T00:00:00Z",
+    "actualStartTime": "2024-04-11T00:03:44Z",
+    "premiere": false
+  },
+  {
     "id": "dpqd-_w0rjk",
     "vidUrl": "https://youtu.be/dpqd-_w0rjk",
     "vidTitle": "\u3010Coromon\u3011IO WANTS TO BE THE VERY BEST!",
@@ -2904,19 +2917,6 @@
     "shortName": "Io",
     "scheduledStartTime": "2024-04-11T01:00:00Z",
     "actualStartTime": "2024-04-11T01:03:23Z",
-    "premiere": false
-  },
-  {
-    "id": "D3hvn8Oxfhs",
-    "vidUrl": "https://youtu.be/D3hvn8Oxfhs",
-    "vidTitle": "something",
-    "channelId": "@rosemi_lovelock",
-    "channelName": "Rosemi Lovelock\u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/dIXH0sOv8hWRp2KlAz4jb7D5JHLaRgLSi2QTWv8mKqbuLQV-tSpvR9tmBNy50zEVSLaNGVpQgA=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Wosemi",
-    "scheduledStartTime": "2024-04-11T02:00:00Z",
-    "actualStartTime": "2024-04-11T02:01:28Z",
     "premiere": false
   },
   {
