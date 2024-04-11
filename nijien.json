@@ -1,17 +1,5 @@
 [
   {
-    "id": "9VFb7efpGpU",
-    "vidUrl": "https://youtu.be/9VFb7efpGpU",
-    "vidTitle": "\u3010TEATIME W/ UKI\u3011concert post-talk & idol outfit showcase\u3010NIJISANJI EN | Uki Violeta\u3011",
-    "channelId": "@ukivioleta",
-    "channelName": "Uki Violeta \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/WIy30MlmcCTxrEuKULkAdh8itCfT4Up5myJbpVHTkKbfKcgriF_qL6d3iJMD_mQfwb0B1JDT=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Uki",
-    "scheduledStartTime": "2024-04-11T19:00:00Z",
-    "actualStartTime": "2024-04-11T19:01:20Z",
-    "premiere": false
-  },
-  {
     "id": "fBaCMEp7Fvg",
     "vidUrl": "https://youtu.be/fBaCMEp7Fvg",
     "vidTitle": "\u3010DRAGON'S DOGMA 2\u3011DOGMA BALLS, FIRST GAMEPLAY !!",
@@ -44,6 +32,18 @@
     "channelThumb": "https://yt3.ggpht.com/WIy30MlmcCTxrEuKULkAdh8itCfT4Up5myJbpVHTkKbfKcgriF_qL6d3iJMD_mQfwb0B1JDT=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Uki",
     "scheduledStartTime": "2024-04-12T00:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "-Lcd3ALF0CE",
+    "vidUrl": "https://youtu.be/-Lcd3ALF0CE",
+    "vidTitle": "\u3010IB REMAKE\u3011Let's see what this is all about\u3010NIJISANJI EN | Vantacrow Bringer\u3011",
+    "channelId": "@vantacrowbringer",
+    "channelName": "Vantacrow Bringer \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/GLPkvp_8o7OvZ3q57IpqDSHIyv6OqZFK6tO1egzLoMjE19EBlo3tISEMIOLEvkC5jnl2Uus93A=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Vanta",
+    "scheduledStartTime": "2024-04-12T02:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
