@@ -24,18 +24,6 @@
     "premiere": false
   },
   {
-    "id": "6g2_N1kraCE",
-    "vidUrl": "https://youtu.be/6g2_N1kraCE",
-    "vidTitle": "WHAT THE HECK IS THIS GAME!? \ud83d\ude31\u3010 DAVE THE DIVER \ud83d\udc97 \u3011",
-    "channelId": "@sheeichokawaii",
-    "channelName": "Shee Icho Ch. \u9280\u674f\u3057\u3044\u3010kawaii\u3011",
-    "channelThumb": "https://yt3.ggpht.com/9WpvwRlwjSUM4bCLMLpNv3BvRtnQWki4eY-YAsKAkuzUxJaLXhLDJu5XMQoPU_zbzunktQvMpg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Shee",
-    "scheduledStartTime": "2024-04-11T02:45:00Z",
-    "actualStartTime": "2024-04-11T02:47:08Z",
-    "premiere": false
-  },
-  {
     "id": "QBdWe-1ckd0",
     "vidUrl": "https://youtu.be/QBdWe-1ckd0",
     "vidTitle": "\u3010Thief Simulator\u3011Stealing your heart! \u2661 and also your fridge, TV, air fryer, etc.\u3010production kawaii\u3011",
@@ -60,6 +48,18 @@
     "premiere": false
   },
   {
+    "id": "GniS_bKGniQ",
+    "vidUrl": "https://youtu.be/GniS_bKGniQ",
+    "vidTitle": "\u3010ZATSU & chill\u3011let\u2019s slow down nei\u2026",
+    "channelId": "@neiomicielo",
+    "channelName": "Neiomi Cielo Ch.\u3010lucid\u2601\ufe0f\u3011",
+    "channelThumb": "https://yt3.ggpht.com/Scg_jH2aOtaFnREeE_96R4xFDpw0cxp1A-sM6poZ_dl-6N2igdC-27zQ7UOguRqYARzQ6pTK0w=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Cielo",
+    "scheduledStartTime": "2024-04-11T03:45:00Z",
+    "actualStartTime": "2024-04-11T03:48:37Z",
+    "premiere": false
+  },
+  {
     "id": "k_-moofskkQ",
     "vidUrl": "https://youtu.be/k_-moofskkQ",
     "vidTitle": "BECOME DOG!!!  \ud83d\udc3e \u3010DORONKO WANKO\u3011",
@@ -80,7 +80,7 @@
     "channelThumb": "https://yt3.ggpht.com/EZJ0E6UnrsXZKRPGwZQUJHQ4e3y9PkCHInZFzP06lAE6cYN6MXSZL7O5L5jmTRuDPSzbxNty=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Maririn",
     "scheduledStartTime": "2024-04-11T07:00:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-11T07:00:00Z",
     "premiere": false
   },
   {
@@ -92,7 +92,7 @@
     "channelThumb": "https://yt3.ggpht.com/5lZebcvMcKGO60QqEpNlAKMvPq4BBlDBw89gYfuMUfX2Bz6mTufczpwLhmwp3EBT0t5CITq_rQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Aishii",
     "scheduledStartTime": "2024-04-11T07:00:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-11T07:00:09Z",
     "premiere": false
   },
   {
@@ -2763,19 +2763,6 @@
     "premiere": false
   },
   {
-    "id": "XmT-ZUt-Xzg",
-    "vidUrl": "https://youtu.be/XmT-ZUt-Xzg",
-    "vidTitle": "\u3010HANDCAM\u3011 build a bear yappening \ud83e\uddf8",
-    "channelId": "@nanimonavi",
-    "channelName": "Nanimo Navi Ch. \u3010EIEN Project\u3011",
-    "channelThumb": "https://yt3.ggpht.com/sQsF3JpF26yNBW9ZNusWQHHFligM4D__RBmINLE0wJtXKHIdtlzhwNfIg_xR7Fx7LrMtG7Pt=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Navi",
-    "scheduledStartTime": "2024-04-10T17:30:00Z",
-    "actualStartTime": "2024-04-10T17:37:26Z",
-    "premiere": false
-  },
-  {
     "id": "sB90BDebzic",
     "vidUrl": "https://youtu.be/sB90BDebzic",
     "vidTitle": "AMONG US WITH THE BESTIES",
@@ -2906,6 +2893,19 @@
     "premiere": false
   },
   {
+    "id": "6g2_N1kraCE",
+    "vidUrl": "https://youtu.be/6g2_N1kraCE",
+    "vidTitle": "WHAT THE HECK IS THIS GAME!? \ud83d\ude31\u3010 DAVE THE DIVER \ud83d\udc97 \u3011",
+    "channelId": "@sheeichokawaii",
+    "channelName": "Shee Icho Ch. \u9280\u674f\u3057\u3044\u3010kawaii\u3011",
+    "channelThumb": "https://yt3.ggpht.com/9WpvwRlwjSUM4bCLMLpNv3BvRtnQWki4eY-YAsKAkuzUxJaLXhLDJu5XMQoPU_zbzunktQvMpg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Shee",
+    "scheduledStartTime": "2024-04-11T02:45:00Z",
+    "actualStartTime": "2024-04-11T02:47:08Z",
+    "premiere": false
+  },
+  {
     "id": "53rEF-nLLlg",
     "vidUrl": "https://youtu.be/53rEF-nLLlg",
     "vidTitle": "\u3010 WORK \u3011Figuring Out Spicy Donothon Reward For Y'all \u3010 ART \u3011",
@@ -2916,19 +2916,6 @@
     "shortName": "Skye",
     "scheduledStartTime": "2024-04-11T03:00:00Z",
     "actualStartTime": "2024-04-11T03:00:07Z",
-    "premiere": false
-  },
-  {
-    "id": "GniS_bKGniQ",
-    "vidUrl": "https://youtu.be/GniS_bKGniQ",
-    "vidTitle": "\u3010ZATSU & chill\u3011let\u2019s slow down nei\u2026",
-    "channelId": "@neiomicielo",
-    "channelName": "Neiomi Cielo Ch.\u3010lucid\u2601\ufe0f\u3011",
-    "channelThumb": "https://yt3.ggpht.com/Scg_jH2aOtaFnREeE_96R4xFDpw0cxp1A-sM6poZ_dl-6N2igdC-27zQ7UOguRqYARzQ6pTK0w=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Cielo",
-    "scheduledStartTime": "2024-04-11T03:45:00Z",
-    "actualStartTime": "2024-04-11T03:48:37Z",
     "premiere": false
   },
   {
