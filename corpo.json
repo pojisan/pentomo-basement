@@ -108,18 +108,6 @@
     "premiere": false
   },
   {
-    "id": "kAxK9_2FSeM",
-    "vidUrl": "https://youtu.be/kAxK9_2FSeM",
-    "vidTitle": "i beat mario 64 i still wanna yap",
-    "channelId": "@lottieshinju",
-    "channelName": "Lottie Shinju Ch.\u3010PixelLink\u3011",
-    "channelThumb": "https://yt3.ggpht.com/iB7oY1uapYSoA1zpmn8TtVnCrTatyrR92ou_vLr9RmlWU2r7Ad91OBND7N2lr5iOZK4kMRok4g=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Lottie",
-    "scheduledStartTime": "2024-04-11T22:20:00Z",
-    "actualStartTime": "2024-04-11T22:22:24Z",
-    "premiere": false
-  },
-  {
     "id": "NQwQXfeivng",
     "vidUrl": "https://youtu.be/NQwQXfeivng",
     "vidTitle": "\u3010HANDCAM\u3011Wipe off your tears with these! - Figure-Rise KR Den-o Axe Form\u3010Ran Tsukiha\u3011",
@@ -249,18 +237,6 @@
     "shortName": "Rowa",
     "scheduledStartTime": "2024-04-12T00:00:00Z",
     "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "W95KDAwfX8w",
-    "vidUrl": "https://youtu.be/W95KDAwfX8w",
-    "vidTitle": "\u3010GOD HAND\u3011(REAL) (NOT FAKE) WE'RE DOING IT FELLAS\u3010V&U | GEN 5\u3011",
-    "channelId": "@tomomivnu",
-    "channelName": "Tomomi Toraya Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/VVorqIxpJu58JyAADFOQB604PDjYiMgpvkJD_NfvJ3uXGe-J8mLJTjYB3CzmlWokVy_nBmDVKQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Tomomi",
-    "scheduledStartTime": "2024-04-12T01:00:00Z",
-    "actualStartTime": "2024-04-11T21:09:43Z",
     "premiere": false
   },
   {
@@ -2124,6 +2100,18 @@
     "premiere": false
   },
   {
+    "id": "ycvm-KobOv8",
+    "vidUrl": "https://youtu.be/ycvm-KobOv8",
+    "vidTitle": "A Mono-Monday Birthday Party!\u3010Mono Monet \ud83d\udcad\ud83c\udfa8 V4Mirai\u3011",
+    "channelId": "@monomonet",
+    "channelName": "Mono Monet Ch.\u3010V4Mirai\u3011",
+    "channelThumb": "https://yt3.ggpht.com/yGSaLcq2s8iEaYr0CT1LopK3DcZ3n1se4amUvosvhbxxPCtv_8T5k2kgR-d3HsXVrpS5uzf2UQ=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Mono",
+    "scheduledStartTime": "2024-04-15T22:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "m26MurAlIY0",
     "vidUrl": "https://youtu.be/m26MurAlIY0",
     "vidTitle": "\u3010KARAOKE PRACTICE\u30112000-2010's Vocaloid Edition\u3010Yae Yugiri | V4Mirai | VTuber\u3011",
@@ -2628,6 +2616,19 @@
     "shortName": "Ivaela",
     "scheduledStartTime": "2024-04-11T20:00:00Z",
     "actualStartTime": "2024-04-11T20:00:27Z",
+    "premiere": false
+  },
+  {
+    "id": "kAxK9_2FSeM",
+    "vidUrl": "https://youtu.be/kAxK9_2FSeM",
+    "vidTitle": "i beat mario 64 i still wanna yap",
+    "channelId": "@lottieshinju",
+    "channelName": "Lottie Shinju Ch.\u3010PixelLink\u3011",
+    "channelThumb": "https://yt3.ggpht.com/iB7oY1uapYSoA1zpmn8TtVnCrTatyrR92ou_vLr9RmlWU2r7Ad91OBND7N2lr5iOZK4kMRok4g=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Lottie",
+    "scheduledStartTime": "2024-04-11T22:20:00Z",
+    "actualStartTime": "2024-04-11T22:22:24Z",
     "premiere": false
   }
 ]
