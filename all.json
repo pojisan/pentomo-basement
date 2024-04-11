@@ -1,29 +1,5 @@
 [
   {
-    "id": "FzArmAP2B0s",
-    "vidUrl": "https://youtu.be/FzArmAP2B0s",
-    "vidTitle": "ELDEN RING BINGO ft. TWO CLUELESS PLAYERS ( @BriAtCookiebox )",
-    "channelId": "@maevevnu",
-    "channelName": "Kagekiri Maeve Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/chqWD1VyGO8YdOq75KWxKvH0RcBMayDUlmtDeO9Btb__V9Zr-ow3CSoiOfhE3SrynzSC9J8=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Maeve",
-    "scheduledStartTime": "2024-04-10T23:00:00Z",
-    "actualStartTime": "2024-04-10T23:00:27Z",
-    "premiere": false
-  },
-  {
-    "id": "31Zzul3ig0Y",
-    "vidUrl": "https://youtu.be/31Zzul3ig0Y",
-    "vidTitle": "ELDEN RING BINGO WITH @MaeveVNU",
-    "channelId": "@briatcookiebox",
-    "channelName": "BriAtCookiebox",
-    "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_nC7dRnnTDxs3724EZNLjdWAX7n5w7Vpv6hM9ss3dUJ_w=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Bri",
-    "scheduledStartTime": "2024-04-10T23:00:00Z",
-    "actualStartTime": "2024-04-10T23:01:40Z",
-    "premiere": false
-  },
-  {
     "id": "-zxbmUR2xzY",
     "vidUrl": "https://youtu.be/-zxbmUR2xzY",
     "vidTitle": "\u3010CONTENT WARNING\u3011 w/ Uki, Vanta & Vox \u3010NIJISANJI EN | Enna Alouette\u3011",
@@ -1051,6 +1027,18 @@
     "channelName": "Shabel Tonya Ch",
     "channelThumb": "https://yt3.ggpht.com/ljnQBMPIiErFtOnv6LDIzoufhOH4RhAd0_NIYUZxk_uXWAiW7bz8CGwYqi61PIjfd6coOwkjOpQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Tonya",
+    "scheduledStartTime": "2024-04-12T02:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "eH9vbZOPFIY",
+    "vidUrl": "https://youtu.be/eH9vbZOPFIY",
+    "vidTitle": "\u3010CONTENT WARNING\u3011smash that like button\u3010Dokibird\u3011",
+    "channelId": "@dokibird",
+    "channelName": "Dokibird",
+    "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_m53sCnXF6ENdSpHx-q_4fOn-EGaIteMhq8HX17zcGwzeQ=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Doki",
     "scheduledStartTime": "2024-04-12T02:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2867,6 +2855,32 @@
     "premiere": false
   },
   {
+    "id": "FzArmAP2B0s",
+    "vidUrl": "https://youtu.be/FzArmAP2B0s",
+    "vidTitle": "ELDEN RING BINGO ft. TWO CLUELESS PLAYERS ( @BriAtCookiebox )",
+    "channelId": "@maevevnu",
+    "channelName": "Kagekiri Maeve Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/chqWD1VyGO8YdOq75KWxKvH0RcBMayDUlmtDeO9Btb__V9Zr-ow3CSoiOfhE3SrynzSC9J8=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Maeve",
+    "scheduledStartTime": "2024-04-10T23:00:00Z",
+    "actualStartTime": "2024-04-10T23:00:27Z",
+    "premiere": false
+  },
+  {
+    "id": "31Zzul3ig0Y",
+    "vidUrl": "https://youtu.be/31Zzul3ig0Y",
+    "vidTitle": "ELDEN RING BINGO WITH @MaeveVNU",
+    "channelId": "@briatcookiebox",
+    "channelName": "BriAtCookiebox",
+    "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_nC7dRnnTDxs3724EZNLjdWAX7n5w7Vpv6hM9ss3dUJ_w=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Bri",
+    "scheduledStartTime": "2024-04-10T23:00:00Z",
+    "actualStartTime": "2024-04-10T23:01:40Z",
+    "premiere": false
+  },
+  {
     "id": "dJoEEUWAUkU",
     "vidUrl": "https://youtu.be/dJoEEUWAUkU",
     "vidTitle": "\u3010Phasmophobia\u3011I surely can tame the ghost",
@@ -2929,19 +2943,6 @@
     "shortName": "Uta",
     "scheduledStartTime": "2024-04-11T02:00:00Z",
     "actualStartTime": "2024-04-11T02:11:34Z",
-    "premiere": false
-  },
-  {
-    "id": "HlmgHQAmurM",
-    "vidUrl": "https://youtu.be/HlmgHQAmurM",
-    "vidTitle": "Godrick? More like, GodSickInTheHead \ud83d\ude0e\ud83d\udcaa",
-    "channelId": "@akanejun",
-    "channelName": "Jun Akane / \u8d64\u91d1\u30b8\u30e5\u30f3",
-    "channelThumb": "https://yt3.ggpht.com/Xav9rWL58VySYhTAZnC5aKZQ_WRRKSJhGW6SMN_u-O26vHkSl0OMnwiVJGUt7aPujvAqSbKMH3c=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Jun",
-    "scheduledStartTime": "2024-04-11T03:00:00Z",
-    "actualStartTime": "2024-04-11T02:56:05Z",
     "premiere": false
   },
   {
