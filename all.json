@@ -72,18 +72,6 @@
     "premiere": false
   },
   {
-    "id": "uzzGh5t_hW4",
-    "vidUrl": "https://youtu.be/uzzGh5t_hW4",
-    "vidTitle": "\u3010Little Goody Two Shoes\u3011I CAN'T WAIT!!!!",
-    "channelId": "@shikimiyoshino",
-    "channelName": "Shiki Miyoshino / \u7f8e\u5409\u91ce\u3057\u304d\u3010Requiem\u3011",
-    "channelThumb": "https://yt3.ggpht.com/Id9BL2cZTLJmv9ZoQEGIk_eFPBrQ7REmfIB6tsb34vcls6pWmKCsifuJ4Ii40vRYZvX9uGd9=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Shiki",
-    "scheduledStartTime": "2024-04-10T23:57:06Z",
-    "actualStartTime": "2024-04-10T23:58:32Z",
-    "premiere": false
-  },
-  {
     "id": "0DOwdm17Af4",
     "vidUrl": "https://youtu.be/0DOwdm17Af4",
     "vidTitle": "I'm gonna survive the hardest Fallout 4 mode with only a sword",
@@ -117,18 +105,6 @@
     "shortName": "Meimi",
     "scheduledStartTime": "2024-04-11T00:00:00Z",
     "actualStartTime": "2024-04-11T00:01:27Z",
-    "premiere": false
-  },
-  {
-    "id": "O3CAV8vDY3w",
-    "vidUrl": "https://youtu.be/O3CAV8vDY3w",
-    "vidTitle": "my braincells are anything but united \ud83d\ude02 \u3010Pokemon Unite\u3011",
-    "channelId": "@rowavnu",
-    "channelName": "Rowa Arctos Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/Y3fKMGNnV6tQDQFjhGpH8Xdat8S1z76xZHdCg08gb5SUN_reNurU1yATDviGnoxKwgmfoBf5ZA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Rowa",
-    "scheduledStartTime": "2024-04-11T00:00:00Z",
-    "actualStartTime": "2024-04-11T00:01:46Z",
     "premiere": false
   },
   {
@@ -512,7 +488,7 @@
     "channelThumb": "https://yt3.ggpht.com/oYEH8ckOxzEJ0GXlZGp4aSxvZrMWAeodRUg_MRgHqJEr7bEyjXdoC5VyYZ143XtcIKUozhQq6Q=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Scarle",
     "scheduledStartTime": "2024-04-11T02:15:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-11T02:32:32Z",
     "premiere": false
   },
   {
@@ -524,7 +500,7 @@
     "channelThumb": "https://yt3.ggpht.com/J_RmocTP4ficzRZ6AFtUiEXoekNfliyRQcber2EXH-nBkNjhci71GaeNHsp4gzLMZs14HZ1U6WQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Roza",
     "scheduledStartTime": "2024-04-11T02:30:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-11T02:32:39Z",
     "premiere": false
   },
   {
@@ -3084,19 +3060,6 @@
     "premiere": false
   },
   {
-    "id": "OFaHYbaN01Q",
-    "vidUrl": "https://youtu.be/OFaHYbaN01Q",
-    "vidTitle": "ManaMart by Manang Mana | Supermarket Simulator pt. 2",
-    "channelId": "@minazukimana",
-    "channelName": "MinazukiMana - VOLs",
-    "channelThumb": "https://yt3.ggpht.com/O64mRHiN_f8Xzpwucwlf_pegYaW8OWoHcNhfVAwXcSvy3NNUbDoTjQGq0cdyrR0EdGXV4gv6XA=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Mana",
-    "scheduledStartTime": "2024-04-10T11:00:00Z",
-    "actualStartTime": "2024-04-10T10:52:42Z",
-    "premiere": false
-  },
-  {
     "id": "WZyOQzVSxKg",
     "vidUrl": "https://youtu.be/WZyOQzVSxKg",
     "vidTitle": "\u3010JUST CHATTING\u3011Saan po ang best nuggets? \ud83e\udd7a\u2728\u2728\u2728",
@@ -3289,6 +3252,32 @@
     "shortName": "Lida",
     "scheduledStartTime": "2024-04-10T23:00:00Z",
     "actualStartTime": "2024-04-10T23:10:03Z",
+    "premiere": false
+  },
+  {
+    "id": "uzzGh5t_hW4",
+    "vidUrl": "https://youtu.be/uzzGh5t_hW4",
+    "vidTitle": "\u3010Little Goody Two Shoes\u3011I CAN'T WAIT!!!!",
+    "channelId": "@shikimiyoshino",
+    "channelName": "Shiki Miyoshino / \u7f8e\u5409\u91ce\u3057\u304d\u3010Requiem\u3011",
+    "channelThumb": "https://yt3.ggpht.com/Id9BL2cZTLJmv9ZoQEGIk_eFPBrQ7REmfIB6tsb34vcls6pWmKCsifuJ4Ii40vRYZvX9uGd9=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Shiki",
+    "scheduledStartTime": "2024-04-10T23:57:06Z",
+    "actualStartTime": "2024-04-10T23:58:32Z",
+    "premiere": false
+  },
+  {
+    "id": "O3CAV8vDY3w",
+    "vidUrl": "https://youtu.be/O3CAV8vDY3w",
+    "vidTitle": "my braincells are anything but united \ud83d\ude02 \u3010Pokemon Unite\u3011",
+    "channelId": "@rowavnu",
+    "channelName": "Rowa Arctos Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/Y3fKMGNnV6tQDQFjhGpH8Xdat8S1z76xZHdCg08gb5SUN_reNurU1yATDviGnoxKwgmfoBf5ZA=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Rowa",
+    "scheduledStartTime": "2024-04-11T00:00:00Z",
+    "actualStartTime": "2024-04-11T00:01:46Z",
     "premiere": false
   },
   {
