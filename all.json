@@ -24,18 +24,6 @@
     "premiere": false
   },
   {
-    "id": "iMlHtG-v6MA",
-    "vidUrl": "https://youtu.be/iMlHtG-v6MA",
-    "vidTitle": "\u3010Dark Souls 3\u3011 Praise the Boss",
-    "channelId": "@elaynaduskfell",
-    "channelName": "Elayna Duskfell Ch. Legion",
-    "channelThumb": "https://yt3.ggpht.com/0RMVwqYrh_4HAhaUmUL3pP6S0DWfSZ-NZuTe1jfjjlEWVzpnMlI0WAja4rVw1w8EzaVQLjED=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Elayna",
-    "scheduledStartTime": "2024-04-12T00:46:32Z",
-    "actualStartTime": "2024-04-12T01:06:03Z",
-    "premiere": false
-  },
-  {
     "id": "2esgfuUy5Fk",
     "vidUrl": "https://youtu.be/2esgfuUy5Fk",
     "vidTitle": "New Adventures Await!\u3010Little Goody Two Shoes\u3011",
@@ -1004,6 +992,18 @@
     "channelThumb": "https://yt3.ggpht.com/kaNjFSu8SjR9kJjHuxcfwKsA12ZeruRk8iJNOxeK0z1_5-zEuaMg_F-BHlXUztmPSVbuKgcxag=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Mio",
     "scheduledStartTime": "2024-04-12T23:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "6OiVJ3LvsE0",
+    "vidUrl": "https://youtu.be/6OiVJ3LvsE0",
+    "vidTitle": "\u3010RESIDENT EVIL: 4 RE4MAKE - PT 3\u3011LEON! oh help ME(zeli) LEON!\u3010V&U | GEN4\u3011",
+    "channelId": "@zelivnu",
+    "channelName": "Zeli Zuimu Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/x-Jy2Z-kGAif3VDun_IhsnyYfzF5aWhNbwG6fcms85aKwauMlcr0dwA2onUFirEFs2BD8YFwjWg=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Zeli",
+    "scheduledStartTime": "2024-04-13T00:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -2551,6 +2551,19 @@
     "premiere": false
   },
   {
+    "id": "iMlHtG-v6MA",
+    "vidUrl": "https://youtu.be/iMlHtG-v6MA",
+    "vidTitle": "\u3010Dark Souls 3\u3011 Praise the Boss",
+    "channelId": "@elaynaduskfell",
+    "channelName": "Elayna Duskfell Ch. Legion",
+    "channelThumb": "https://yt3.ggpht.com/0RMVwqYrh_4HAhaUmUL3pP6S0DWfSZ-NZuTe1jfjjlEWVzpnMlI0WAja4rVw1w8EzaVQLjED=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Elayna",
+    "scheduledStartTime": "2024-04-12T00:46:32Z",
+    "actualStartTime": "2024-04-12T01:06:03Z",
+    "premiere": false
+  },
+  {
     "id": "aT7OB15mBg4",
     "vidUrl": "https://youtu.be/aT7OB15mBg4",
     "vidTitle": "\u3010COWORKING\u3011 Get stuff done with me | Typing Sounds ASMR \u2661 Hand Cam",
@@ -2561,19 +2574,6 @@
     "shortName": "Roro",
     "scheduledStartTime": "2024-04-12T01:00:00Z",
     "actualStartTime": "2024-04-12T01:17:23Z",
-    "premiere": false
-  },
-  {
-    "id": "a5kzLyUCQpk",
-    "vidUrl": "https://youtu.be/a5kzLyUCQpk",
-    "vidTitle": "Co-Working ASMR  \u2661 Typing Sounds  \u2661 Hand Cam | Vertical Stream",
-    "channelId": "@hiranokokoro",
-    "channelName": "Hirano Kokoro \u300c\u308d\u308d\u300d",
-    "channelThumb": "https://yt3.ggpht.com/Pc-k4wd6VsvLoZPUmql6OForU2LDiXTu3TeGZASvNqkD4OW-zEUxuNatHZQLRMUrt4IhcE0rtg=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Roro",
-    "scheduledStartTime": "2024-04-12T01:15:00Z",
-    "actualStartTime": "2024-04-12T01:17:43Z",
     "premiere": false
   },
   {
