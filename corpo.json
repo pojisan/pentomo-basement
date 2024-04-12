@@ -24,18 +24,6 @@
     "premiere": false
   },
   {
-    "id": "72gI1G5j5bU",
-    "vidUrl": "https://youtu.be/72gI1G5j5bU",
-    "vidTitle": "\u3010STARDEW VALLEY\u3011Farming with @KurisuKowaCh. ! [ MYTH-0S EN | MAE ]",
-    "channelId": "@mythosvt",
-    "channelName": "MYTHOS VT OFFICIAL",
-    "channelThumb": "https://yt3.ggpht.com/B29jTdW5CzeW8wKyi4pczco-ejeEpBblzjOGL8n7oozCZsZrdLJ-VqHHztEAfOlBI18RfZ86Bw=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "MYTHOS VT",
-    "scheduledStartTime": "2024-04-12T13:00:00Z",
-    "actualStartTime": "2024-04-12T13:03:09Z",
-    "premiere": false
-  },
-  {
     "id": "ptn-fTJBMlQ",
     "vidUrl": "https://youtu.be/ptn-fTJBMlQ",
     "vidTitle": "\ud83d\udd34\u3010GRIS\u3011 A Magnificent and Beautiful Game About The Stages of Grief \ud83e\udd40\ud83d\udda4",
@@ -93,18 +81,6 @@
     "shortName": "Rhea",
     "scheduledStartTime": "2024-04-12T14:00:00Z",
     "actualStartTime": "2024-04-12T14:00:38Z",
-    "premiere": false
-  },
-  {
-    "id": "m9wkUW2Vw9Y",
-    "vidUrl": "https://youtu.be/m9wkUW2Vw9Y",
-    "vidTitle": "\u3010CONTENT WARNING\u3011WE ARE ADDICTED!",
-    "channelId": "@kiliakurayami",
-    "channelName": "Kilia Kurayami Ch. \u3010EIEN Project\u3011",
-    "channelThumb": "https://yt3.ggpht.com/lfSudxn7RE0Izwj8K2GriTxOebvU7pOlFL6lRkZQfYUex3cksfnEasQtUcPcfXkEJaXYVwxAfQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Kilia",
-    "scheduledStartTime": "2024-04-12T14:20:00Z",
-    "actualStartTime": "2024-04-12T14:19:13Z",
     "premiere": false
   },
   {
@@ -2366,6 +2342,19 @@
     "premiere": false
   },
   {
+    "id": "72gI1G5j5bU",
+    "vidUrl": "https://youtu.be/72gI1G5j5bU",
+    "vidTitle": "\u3010STARDEW VALLEY\u3011Farming with @KurisuKowaCh. ! [ MYTH-0S EN | MAE ]",
+    "channelId": "@mythosvt",
+    "channelName": "MYTHOS VT OFFICIAL",
+    "channelThumb": "https://yt3.ggpht.com/B29jTdW5CzeW8wKyi4pczco-ejeEpBblzjOGL8n7oozCZsZrdLJ-VqHHztEAfOlBI18RfZ86Bw=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "MYTHOS VT",
+    "scheduledStartTime": "2024-04-12T13:00:00Z",
+    "actualStartTime": "2024-04-12T13:03:09Z",
+    "premiere": false
+  },
+  {
     "id": "s-LMXs1_9ew",
     "vidUrl": "https://youtu.be/s-LMXs1_9ew",
     "vidTitle": "\u3010GENSHIN IMPACT\u3011Opening my eyes to a whole new world!",
@@ -2389,6 +2378,19 @@
     "shortName": "Karrot",
     "scheduledStartTime": "2024-04-12T14:00:00Z",
     "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "m9wkUW2Vw9Y",
+    "vidUrl": "https://youtu.be/m9wkUW2Vw9Y",
+    "vidTitle": "\u3010CONTENT WARNING\u3011WE ARE ADDICTED!",
+    "channelId": "@kiliakurayami",
+    "channelName": "Kilia Kurayami Ch. \u3010EIEN Project\u3011",
+    "channelThumb": "https://yt3.ggpht.com/lfSudxn7RE0Izwj8K2GriTxOebvU7pOlFL6lRkZQfYUex3cksfnEasQtUcPcfXkEJaXYVwxAfQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Kilia",
+    "scheduledStartTime": "2024-04-12T14:20:00Z",
+    "actualStartTime": "2024-04-12T14:19:13Z",
     "premiere": false
   }
 ]
