@@ -264,18 +264,6 @@
     "premiere": false
   },
   {
-    "id": "uHdziwYRiDU",
-    "vidUrl": "https://youtu.be/uHdziwYRiDU",
-    "vidTitle": "\u3010ASMR RP\u3011Nap time with Taichou \u3010V&U | GEN4\u3011#asmr",
-    "channelId": "@dkvnu",
-    "channelName": "D.K Graves Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/eLNO3hNUzmagTyaDMrJsEEL_MPotkeZh0N4uxccEYYmc2z-J93O5XGOmfTS5MwzNYRTDxgUCOg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "DK",
-    "scheduledStartTime": "2024-04-12T18:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "zTX_qs210MM",
     "vidUrl": "https://youtu.be/zTX_qs210MM",
     "vidTitle": "\u3010GLOBIE DEBUT WATCHALONG 1/2\u3011HYPE HYPE HYPE w/ D.K\u3010V&U  | GEN4\u3011",
@@ -427,6 +415,18 @@
     "channelName": "Kumanui Miel Ch. \u718a\u7e2b\u30df\u30a8\u30eb\u3010globie\u3011",
     "channelThumb": "https://yt3.ggpht.com/8f_4es6nBZAfGqpbSLfr5b12pv2elBhAnKV4NHf8BUZPY0edK5rfovLJbl22foZdWjvPIlHt=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Miel",
+    "scheduledStartTime": "2024-04-12T20:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "uHdziwYRiDU",
+    "vidUrl": "https://youtu.be/uHdziwYRiDU",
+    "vidTitle": "\u3010ASMR RP\u3011Nap time with Taichou \u3010V&U | GEN4\u3011#asmr",
+    "channelId": "@dkvnu",
+    "channelName": "D.K Graves Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/eLNO3hNUzmagTyaDMrJsEEL_MPotkeZh0N4uxccEYYmc2z-J93O5XGOmfTS5MwzNYRTDxgUCOg=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "DK",
     "scheduledStartTime": "2024-04-12T20:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2389,19 +2389,6 @@
     "shortName": "MYTHOS VT",
     "scheduledStartTime": "2024-04-12T13:00:00Z",
     "actualStartTime": "2024-04-12T13:03:09Z",
-    "premiere": false
-  },
-  {
-    "id": "rjfG-jCtXJI",
-    "vidUrl": "https://youtu.be/rjfG-jCtXJI",
-    "vidTitle": "Content Warning is Terrifying",
-    "channelId": "@rakunpoko",
-    "channelName": "Poko Rakun Ch. idol-EN",
-    "channelThumb": "https://yt3.ggpht.com/ma1Az7kp5ye3ZWtR9IGoFcWEVQ6ReN8VugO_PGP6qokwj430zQKuR9Uo_L5N3gCVTWsH_vQT1w=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Poko",
-    "scheduledStartTime": "2024-04-12T13:00:00Z",
-    "actualStartTime": "2024-04-12T13:10:48Z",
     "premiere": false
   },
   {
