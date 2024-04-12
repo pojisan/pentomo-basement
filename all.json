@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "ZrWwuwuEOQY",
-    "vidUrl": "https://youtu.be/ZrWwuwuEOQY",
-    "vidTitle": "\u3010BEAT SABER VR\u3011CHOP CHOP CHOP\u3010NIJISANJI EN | Vezalius Bandage\u3011",
-    "channelId": "@vezaliusbandage",
-    "channelName": "Vezalius Bandage \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/rnqrntYI1y38pqQeqYAmX3_gG1vZ-iYeMGHY0nCC-lxqKdoBspKriRXzMPv7PByMydEYm9YvvzU=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Zali",
-    "scheduledStartTime": "2024-04-12T13:00:00Z",
-    "actualStartTime": "2024-04-12T13:00:06Z",
-    "premiere": false
-  },
-  {
     "id": "ptn-fTJBMlQ",
     "vidUrl": "https://youtu.be/ptn-fTJBMlQ",
     "vidTitle": "\ud83d\udd34\u3010GRIS\u3011 A Magnificent and Beautiful Game About The Stages of Grief \ud83e\udd40\ud83d\udda4",
@@ -384,6 +372,18 @@
     "premiere": false
   },
   {
+    "id": "jzFGhyjCOU8",
+    "vidUrl": "https://youtu.be/jzFGhyjCOU8",
+    "vidTitle": "ART * drawing your new pfp!!\u3010Mono Monet \ud83d\udcad\ud83c\udfa8 V4Mirai\u3011",
+    "channelId": "@monomonet",
+    "channelName": "Mono Monet Ch.\u3010V4Mirai\u3011",
+    "channelThumb": "https://yt3.ggpht.com/yGSaLcq2s8iEaYr0CT1LopK3DcZ3n1se4amUvosvhbxxPCtv_8T5k2kgR-d3HsXVrpS5uzf2UQ=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Mono",
+    "scheduledStartTime": "2024-04-12T20:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "uHdziwYRiDU",
     "vidUrl": "https://youtu.be/uHdziwYRiDU",
     "vidTitle": "\u3010ASMR RP\u3011Nap time with Taichou \u3010V&U | GEN4\u3011#asmr",
@@ -644,6 +644,18 @@
     "channelThumb": "https://yt3.ggpht.com/kaNjFSu8SjR9kJjHuxcfwKsA12ZeruRk8iJNOxeK0z1_5-zEuaMg_F-BHlXUztmPSVbuKgcxag=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Mio",
     "scheduledStartTime": "2024-04-12T23:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "1lq4Le0mJWo",
+    "vidUrl": "https://youtu.be/1lq4Le0mJWo",
+    "vidTitle": "KILLER IS DEAD ! ! !",
+    "channelId": "@confetticoni",
+    "channelName": "Coni Confetti Ch. idol-EN",
+    "channelThumb": "https://yt3.ggpht.com/DHI9aYg-eO1nO1PKAyVyDIP7BhuK88nkWcztyfKc-dp0zrdErFkKsbkgC13KqMucq46qreLKpz8=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Coni",
+    "scheduledStartTime": "2024-04-13T00:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -926,7 +938,7 @@
   {
     "id": "r1Voz0VhadM",
     "vidUrl": "https://youtu.be/r1Voz0VhadM",
-    "vidTitle": "\u3010Anime Watch Along\u3011Konosuba! God's blessing on this wonderful world! Episode 7 to 12",
+    "vidTitle": "\u3010Anime Watch Along\u3011Konosuba! God's blessing on this wonderful world! Episode 7 to 11",
     "channelId": "@ashadawn",
     "channelName": "Asha Dawn Ch. Legion",
     "channelThumb": "https://yt3.ggpht.com/kbvof6XayuNhDx21no3Y819T1r_fPw_8OvizzR8hJ3LkpvUYbw6vkbHlifJoBVPnW0TX_J3sq04=s88-c-k-c0x00ffffff-no-rj",
@@ -2339,6 +2351,19 @@
     "shortName": "Pippa",
     "scheduledStartTime": "2024-04-12T10:30:00Z",
     "actualStartTime": "2024-04-12T10:34:03Z",
+    "premiere": false
+  },
+  {
+    "id": "ZrWwuwuEOQY",
+    "vidUrl": "https://youtu.be/ZrWwuwuEOQY",
+    "vidTitle": "\u3010BEAT SABER VR\u3011CHOP CHOP CHOP\u3010NIJISANJI EN | Vezalius Bandage\u3011",
+    "channelId": "@vezaliusbandage",
+    "channelName": "Vezalius Bandage \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/rnqrntYI1y38pqQeqYAmX3_gG1vZ-iYeMGHY0nCC-lxqKdoBspKriRXzMPv7PByMydEYm9YvvzU=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Zali",
+    "scheduledStartTime": "2024-04-12T13:00:00Z",
+    "actualStartTime": "2024-04-12T13:00:06Z",
     "premiere": false
   },
   {
