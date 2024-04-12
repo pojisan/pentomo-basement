@@ -36,18 +36,6 @@
     "premiere": false
   },
   {
-    "id": "j_24D5NgpnI",
-    "vidUrl": "https://youtu.be/j_24D5NgpnI",
-    "vidTitle": "\u3010Amelie\u3011getting all lilika endings!\u3010Yume+ | Mero Umiko\u3011",
-    "channelId": "@meroumiko",
-    "channelName": "Mero Umiko \u3010Yume+\u3011",
-    "channelThumb": "https://yt3.ggpht.com/ao0Uyr-lSSR-cD9QJVrID38symffMEms-OUHRGu-i1DBBybDZglU9ELIgv6YtjBDBY6o0das7g=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Mero",
-    "scheduledStartTime": "2024-04-12T02:00:00Z",
-    "actualStartTime": "2024-04-12T02:00:38Z",
-    "premiere": false
-  },
-  {
     "id": "Xq12ryfg_Fk",
     "vidUrl": "https://youtu.be/Xq12ryfg_Fk",
     "vidTitle": "\u3010DOOM\u3011Long Time No Doom",
@@ -69,18 +57,6 @@
     "shortName": "Charzu",
     "scheduledStartTime": "2024-04-12T02:01:39Z",
     "actualStartTime": "2024-04-12T02:01:53Z",
-    "premiere": false
-  },
-  {
-    "id": "oqf7YYpb9uU",
-    "vidUrl": "https://youtu.be/oqf7YYpb9uU",
-    "vidTitle": "\u3010Detroit: Become Human\u3011Our hearts are compatible. You have to take mine.",
-    "channelId": "@ashadawn",
-    "channelName": "Asha Dawn Ch. Legion",
-    "channelThumb": "https://yt3.ggpht.com/kbvof6XayuNhDx21no3Y819T1r_fPw_8OvizzR8hJ3LkpvUYbw6vkbHlifJoBVPnW0TX_J3sq04=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Asha",
-    "scheduledStartTime": "2024-04-12T02:10:00Z",
-    "actualStartTime": "2024-04-12T02:09:55Z",
     "premiere": false
   },
   {
@@ -2479,6 +2455,19 @@
     "premiere": false
   },
   {
+    "id": "j_24D5NgpnI",
+    "vidUrl": "https://youtu.be/j_24D5NgpnI",
+    "vidTitle": "\u3010Amelie\u3011getting all lilika endings!\u3010Yume+ | Mero Umiko\u3011",
+    "channelId": "@meroumiko",
+    "channelName": "Mero Umiko \u3010Yume+\u3011",
+    "channelThumb": "https://yt3.ggpht.com/ao0Uyr-lSSR-cD9QJVrID38symffMEms-OUHRGu-i1DBBybDZglU9ELIgv6YtjBDBY6o0das7g=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Mero",
+    "scheduledStartTime": "2024-04-12T02:00:00Z",
+    "actualStartTime": "2024-04-12T02:00:38Z",
+    "premiere": false
+  },
+  {
     "id": "lR1lkH40TuE",
     "vidUrl": "https://youtu.be/lR1lkH40TuE",
     "vidTitle": "\u3010ARK SURVIVAL ASCENDED\u3011I joined a server~",
@@ -2492,16 +2481,16 @@
     "premiere": false
   },
   {
-    "id": "-Lcd3ALF0CE",
-    "vidUrl": "https://youtu.be/-Lcd3ALF0CE",
-    "vidTitle": "\u3010IB REMAKE\u3011Let's see what this is all about\u3010NIJISANJI EN | Vantacrow Bringer\u3011",
-    "channelId": "@vantacrowbringer",
-    "channelName": "Vantacrow Bringer \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/GLPkvp_8o7OvZ3q57IpqDSHIyv6OqZFK6tO1egzLoMjE19EBlo3tISEMIOLEvkC5jnl2Uus93A=s88-c-k-c0x00ffffff-no-rj",
+    "id": "oqf7YYpb9uU",
+    "vidUrl": "https://youtu.be/oqf7YYpb9uU",
+    "vidTitle": "\u3010Detroit: Become Human\u3011Our hearts are compatible. You have to take mine.",
+    "channelId": "@ashadawn",
+    "channelName": "Asha Dawn Ch. Legion",
+    "channelThumb": "https://yt3.ggpht.com/kbvof6XayuNhDx21no3Y819T1r_fPw_8OvizzR8hJ3LkpvUYbw6vkbHlifJoBVPnW0TX_J3sq04=s88-c-k-c0x00ffffff-no-rj",
     "graveyard": true,
-    "shortName": "Vanta",
-    "scheduledStartTime": "2024-04-12T02:00:00Z",
-    "actualStartTime": "2024-04-12T02:01:36Z",
+    "shortName": "Asha",
+    "scheduledStartTime": "2024-04-12T02:10:00Z",
+    "actualStartTime": "2024-04-12T02:09:55Z",
     "premiere": false
   },
   {
