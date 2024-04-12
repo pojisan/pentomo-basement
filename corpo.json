@@ -1,29 +1,5 @@
 [
   {
-    "id": "m9ortuRsjXI",
-    "vidUrl": "https://youtu.be/m9ortuRsjXI",
-    "vidTitle": "\u3010Cuphead #2\u3011It's Flying Stages Day! (Not My Favorite...)",
-    "channelId": "@nakikamizuki",
-    "channelName": "Naki Kamizuki / \u4e0a\u6708\u306a\u304d\u3010EverAfter\u3011",
-    "channelThumb": "https://yt3.ggpht.com/t3KM-C9LCI4Wxs7nnt_ND2joYBvc-tNS2bCswz6V4LDsPlba4fV67WehglvHnaxDYrubPXue=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Naki",
-    "scheduledStartTime": "2024-04-12T03:00:00Z",
-    "actualStartTime": "2024-04-12T03:01:11Z",
-    "premiere": false
-  },
-  {
-    "id": "WnzQQGOCgFY",
-    "vidUrl": "https://youtu.be/WnzQQGOCgFY",
-    "vidTitle": "\u3010 Minecraft \u3011First Time in the Production kawaii server! \u26cf\ufe0f ITS TIME TO EXPLORE RELICS OF SENPAIS! \ud83d\uddff",
-    "channelId": "@hiyorimokami",
-    "channelName": "Hiyori Mokami Ch. \u6843\u795e\u65e5\u548c\u3010kawaii\u3011",
-    "channelThumb": "https://yt3.ggpht.com/Vj2QGSwnGea4gY_hmHATQTkM-2noJld4JtpdmiHmXRerJ2umbuiPZwDfLeWVOrXteS4vXqZlCw=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Hiyori",
-    "scheduledStartTime": "2024-04-12T03:00:00Z",
-    "actualStartTime": "2024-04-12T03:04:28Z",
-    "premiere": false
-  },
-  {
     "id": "oiLdZW936xI",
     "vidUrl": "https://youtu.be/oiLdZW936xI",
     "vidTitle": "\u3010Singing Stream / \u6b4c\u67a0\u3011Friday Night Karaoke\u30fb\u91d1\u66dc\u65e5\u3060\u30fc\uff01\u4e00\u7dd2\u306b\u6b4c\u304a\u3046\uff01\uff01",
@@ -2393,6 +2369,32 @@
     "shortName": "Shee",
     "scheduledStartTime": "2024-04-12T02:30:00Z",
     "actualStartTime": "2024-04-12T02:32:31Z",
+    "premiere": false
+  },
+  {
+    "id": "m9ortuRsjXI",
+    "vidUrl": "https://youtu.be/m9ortuRsjXI",
+    "vidTitle": "\u3010Cuphead #2\u3011It's Flying Stages Day! (Not My Favorite...)",
+    "channelId": "@nakikamizuki",
+    "channelName": "Naki Kamizuki / \u4e0a\u6708\u306a\u304d\u3010EverAfter\u3011",
+    "channelThumb": "https://yt3.ggpht.com/t3KM-C9LCI4Wxs7nnt_ND2joYBvc-tNS2bCswz6V4LDsPlba4fV67WehglvHnaxDYrubPXue=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Naki",
+    "scheduledStartTime": "2024-04-12T03:00:00Z",
+    "actualStartTime": "2024-04-12T03:01:11Z",
+    "premiere": false
+  },
+  {
+    "id": "WnzQQGOCgFY",
+    "vidUrl": "https://youtu.be/WnzQQGOCgFY",
+    "vidTitle": "\u3010 Minecraft \u3011First Time in the Production kawaii server! \u26cf\ufe0f ITS TIME TO EXPLORE RELICS OF SENPAIS! \ud83d\uddff",
+    "channelId": "@hiyorimokami",
+    "channelName": "Hiyori Mokami Ch. \u6843\u795e\u65e5\u548c\u3010kawaii\u3011",
+    "channelThumb": "https://yt3.ggpht.com/Vj2QGSwnGea4gY_hmHATQTkM-2noJld4JtpdmiHmXRerJ2umbuiPZwDfLeWVOrXteS4vXqZlCw=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Hiyori",
+    "scheduledStartTime": "2024-04-12T03:00:00Z",
+    "actualStartTime": "2024-04-12T03:04:28Z",
     "premiere": false
   },
   {
