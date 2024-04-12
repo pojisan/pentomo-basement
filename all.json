@@ -60,18 +60,6 @@
     "premiere": false
   },
   {
-    "id": "zjmHgoztZjU",
-    "vidUrl": "https://youtu.be/zjmHgoztZjU",
-    "vidTitle": "\u3016Zatsu/Slither.io\u3017Just chilling for a little :3\u3016Cyon \u2765 V&U\u3017",
-    "channelId": "@cyonvnu",
-    "channelName": "Cyon Hart Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/gsviy0KcEYuRE4MyNsKcEBoS0lIaW9wgkz9raEwVrQ0tIUM473cN8ORz-rdHps1IYSHxZdzI_g=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Cyon",
-    "scheduledStartTime": "2024-04-12T04:30:00Z",
-    "actualStartTime": "2024-04-12T04:32:55Z",
-    "premiere": false
-  },
-  {
     "id": "oiLdZW936xI",
     "vidUrl": "https://youtu.be/oiLdZW936xI",
     "vidTitle": "\u3010Singing Stream / \u6b4c\u67a0\u3011Friday Night Karaoke\u30fb\u91d1\u66dc\u65e5\u3060\u30fc\uff01\u4e00\u7dd2\u306b\u6b4c\u304a\u3046\uff01\uff01",
@@ -2406,6 +2394,19 @@
     "shortName": "Skye",
     "scheduledStartTime": "2024-04-12T04:00:00Z",
     "actualStartTime": "2024-04-12T04:00:17Z",
+    "premiere": false
+  },
+  {
+    "id": "zjmHgoztZjU",
+    "vidUrl": "https://youtu.be/zjmHgoztZjU",
+    "vidTitle": "\u3016Zatsu/Slither.io\u3017Just chilling for a little :3\u3016Cyon \u2765 V&U\u3017",
+    "channelId": "@cyonvnu",
+    "channelName": "Cyon Hart Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/gsviy0KcEYuRE4MyNsKcEBoS0lIaW9wgkz9raEwVrQ0tIUM473cN8ORz-rdHps1IYSHxZdzI_g=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Cyon",
+    "scheduledStartTime": "2024-04-12T04:30:00Z",
+    "actualStartTime": "2024-04-12T04:32:55Z",
     "premiere": false
   },
   {
