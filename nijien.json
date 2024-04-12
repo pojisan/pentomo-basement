@@ -1,17 +1,5 @@
 [
   {
-    "id": "-Lcd3ALF0CE",
-    "vidUrl": "https://youtu.be/-Lcd3ALF0CE",
-    "vidTitle": "\u3010IB REMAKE\u3011Let's see what this is all about\u3010NIJISANJI EN | Vantacrow Bringer\u3011",
-    "channelId": "@vantacrowbringer",
-    "channelName": "Vantacrow Bringer \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/GLPkvp_8o7OvZ3q57IpqDSHIyv6OqZFK6tO1egzLoMjE19EBlo3tISEMIOLEvkC5jnl2Uus93A=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Vanta",
-    "scheduledStartTime": "2024-04-12T02:00:00Z",
-    "actualStartTime": "2024-04-12T02:01:36Z",
-    "premiere": false
-  },
-  {
     "id": "P1IZIL-4eOM",
     "vidUrl": "https://youtu.be/P1IZIL-4eOM",
     "vidTitle": "\u3010Soma\u3011Swordmaster vs Underwater Research Facility\u3010NIJISANJI EN | Victoria Brightshield\u3011",
@@ -177,6 +165,19 @@
     "shortName": "Reimu",
     "scheduledStartTime": "2024-05-05T01:00:00Z",
     "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "-Lcd3ALF0CE",
+    "vidUrl": "https://youtu.be/-Lcd3ALF0CE",
+    "vidTitle": "\u3010IB REMAKE\u3011Let's see what this is all about\u3010NIJISANJI EN | Vantacrow Bringer\u3011",
+    "channelId": "@vantacrowbringer",
+    "channelName": "Vantacrow Bringer \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/GLPkvp_8o7OvZ3q57IpqDSHIyv6OqZFK6tO1egzLoMjE19EBlo3tISEMIOLEvkC5jnl2Uus93A=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Vanta",
+    "scheduledStartTime": "2024-04-12T02:00:00Z",
+    "actualStartTime": "2024-04-12T02:01:36Z",
     "premiere": false
   }
 ]
