@@ -24,18 +24,6 @@
     "premiere": false
   },
   {
-    "id": "jzFGhyjCOU8",
-    "vidUrl": "https://youtu.be/jzFGhyjCOU8",
-    "vidTitle": "ART * drawing your new pfp!!\u3010Mono Monet \ud83d\udcad\ud83c\udfa8 V4Mirai\u3011",
-    "channelId": "@monomonet",
-    "channelName": "Mono Monet Ch.\u3010V4Mirai\u3011",
-    "channelThumb": "https://yt3.ggpht.com/yGSaLcq2s8iEaYr0CT1LopK3DcZ3n1se4amUvosvhbxxPCtv_8T5k2kgR-d3HsXVrpS5uzf2UQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Mono",
-    "scheduledStartTime": "2024-04-12T20:00:00Z",
-    "actualStartTime": "2024-04-12T20:02:42Z",
-    "premiere": false
-  },
-  {
     "id": "zUrC5Ai0e_E",
     "vidUrl": "https://youtu.be/zUrC5Ai0e_E",
     "vidTitle": "minecwaft...",
@@ -45,18 +33,6 @@
     "shortName": "Ayu",
     "scheduledStartTime": "2024-04-12T21:00:00Z",
     "actualStartTime": "2024-04-12T20:58:32Z",
-    "premiere": false
-  },
-  {
-    "id": "MU3KM5bkF1U",
-    "vidUrl": "https://youtu.be/MU3KM5bkF1U",
-    "vidTitle": "\u3010 Card Shark\u3011RICH PEOPLE IN SIGHT\u3010 Kumanui Miel | globie\u3011",
-    "channelId": "@kumanuimiel",
-    "channelName": "Kumanui Miel Ch. \u718a\u7e2b\u30df\u30a8\u30eb\u3010globie\u3011",
-    "channelThumb": "https://yt3.ggpht.com/8f_4es6nBZAfGqpbSLfr5b12pv2elBhAnKV4NHf8BUZPY0edK5rfovLJbl22foZdWjvPIlHt=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Miel",
-    "scheduledStartTime": "2024-04-12T21:00:00Z",
-    "actualStartTime": "2024-04-12T21:00:37Z",
     "premiere": false
   },
   {
@@ -403,6 +379,18 @@
     "channelName": "Nene Amano Ch. \u5929\u91ce\u5be7\u3005\u3010kawaii\u3011",
     "channelThumb": "https://yt3.ggpht.com/gQXL64aSlteGuabzrOCxa7Qs-OdOJ0EAMeTP1hpSpI_5_IAkpjy3X0Y4aTVe9BxxXvXOCE5VdLc=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Nene",
+    "scheduledStartTime": "2024-04-13T00:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "ZODFuOgJn2o",
+    "vidUrl": "https://youtu.be/ZODFuOgJn2o",
+    "vidTitle": "\u3010Content Warning\u3011help us!!\u3010V&U | GEN4\u3011#contentwarning #shortsfeed #shorts #shortsgaming #shortslive",
+    "channelId": "@dkvnu",
+    "channelName": "D.K Graves Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/eLNO3hNUzmagTyaDMrJsEEL_MPotkeZh0N4uxccEYYmc2z-J93O5XGOmfTS5MwzNYRTDxgUCOg=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "DK",
     "scheduledStartTime": "2024-04-13T00:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2491,6 +2479,32 @@
     "shortName": "Uta",
     "scheduledStartTime": "2024-04-12T20:00:00Z",
     "actualStartTime": "2024-04-12T20:01:41Z",
+    "premiere": false
+  },
+  {
+    "id": "jzFGhyjCOU8",
+    "vidUrl": "https://youtu.be/jzFGhyjCOU8",
+    "vidTitle": "ART * drawing your new pfp!!\u3010Mono Monet \ud83d\udcad\ud83c\udfa8 V4Mirai\u3011",
+    "channelId": "@monomonet",
+    "channelName": "Mono Monet Ch.\u3010V4Mirai\u3011",
+    "channelThumb": "https://yt3.ggpht.com/yGSaLcq2s8iEaYr0CT1LopK3DcZ3n1se4amUvosvhbxxPCtv_8T5k2kgR-d3HsXVrpS5uzf2UQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Mono",
+    "scheduledStartTime": "2024-04-12T20:00:00Z",
+    "actualStartTime": "2024-04-12T20:02:42Z",
+    "premiere": false
+  },
+  {
+    "id": "MU3KM5bkF1U",
+    "vidUrl": "https://youtu.be/MU3KM5bkF1U",
+    "vidTitle": "\u3010 Card Shark\u3011RICH PEOPLE IN SIGHT\u3010 Kumanui Miel | globie\u3011",
+    "channelId": "@kumanuimiel",
+    "channelName": "Kumanui Miel Ch. \u718a\u7e2b\u30df\u30a8\u30eb\u3010globie\u3011",
+    "channelThumb": "https://yt3.ggpht.com/8f_4es6nBZAfGqpbSLfr5b12pv2elBhAnKV4NHf8BUZPY0edK5rfovLJbl22foZdWjvPIlHt=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Miel",
+    "scheduledStartTime": "2024-04-12T21:00:00Z",
+    "actualStartTime": "2024-04-12T21:00:37Z",
     "premiere": false
   },
   {
