@@ -1,17 +1,5 @@
 [
   {
-    "id": "oiLdZW936xI",
-    "vidUrl": "https://youtu.be/oiLdZW936xI",
-    "vidTitle": "\u3010Singing Stream / \u6b4c\u67a0\u3011Friday Night Karaoke\u30fb\u91d1\u66dc\u65e5\u3060\u30fc\uff01\u4e00\u7dd2\u306b\u6b4c\u304a\u3046\uff01\uff01",
-    "channelId": "@lumintsukiboshi",
-    "channelName": "Lumin Tsukiboshi\u30fb\u308b\u307f\u3093\ud83d\udcab\ud83d\udc51 ",
-    "channelThumb": "https://yt3.ggpht.com/GFwKlBk3CTxJtS0qwzh9PjXMdR7Zz1SvhtDnUWWHzaLbbTs60oipOhpOBSzfVjzCZh5Iv68qW3s=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Lumin",
-    "scheduledStartTime": "2024-04-12T10:00:00Z",
-    "actualStartTime": "2024-04-12T09:54:49Z",
-    "premiere": false
-  },
-  {
     "id": "1bU6w6e4J8o",
     "vidUrl": "https://youtu.be/1bU6w6e4J8o",
     "vidTitle": "\u3010PRINCESS PEACH: SHOWTIME!\u3011Saving the theatre!",
@@ -2437,6 +2425,19 @@
     "shortName": "Skye",
     "scheduledStartTime": "2024-04-12T04:00:00Z",
     "actualStartTime": "2024-04-12T04:00:17Z",
+    "premiere": false
+  },
+  {
+    "id": "oiLdZW936xI",
+    "vidUrl": "https://youtu.be/oiLdZW936xI",
+    "vidTitle": "\u3010Singing Stream / \u6b4c\u67a0\u3011Friday Night Karaoke\u30fb\u91d1\u66dc\u65e5\u3060\u30fc\uff01\u4e00\u7dd2\u306b\u6b4c\u304a\u3046\uff01\uff01",
+    "channelId": "@lumintsukiboshi",
+    "channelName": "Lumin Tsukiboshi\u30fb\u308b\u307f\u3093\ud83d\udcab\ud83d\udc51 ",
+    "channelThumb": "https://yt3.ggpht.com/GFwKlBk3CTxJtS0qwzh9PjXMdR7Zz1SvhtDnUWWHzaLbbTs60oipOhpOBSzfVjzCZh5Iv68qW3s=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Lumin",
+    "scheduledStartTime": "2024-04-12T10:00:00Z",
+    "actualStartTime": "2024-04-12T09:54:49Z",
     "premiere": false
   },
   {
