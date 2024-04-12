@@ -24,18 +24,6 @@
     "premiere": false
   },
   {
-    "id": "tTKtIqXqFpg",
-    "vidUrl": "https://youtu.be/tTKtIqXqFpg",
-    "vidTitle": "The Brotherhood is Born.... [Warhammer 40k ASSEMBLY HANDCAM]",
-    "channelId": "@mozumipichi",
-    "channelName": "Mozumi Pichi Ch.\u3010V-Dere\u3011",
-    "channelThumb": "https://yt3.ggpht.com/-MORJjUXDCIxCYeCuEktQiDRvqDLv33ZG5fqCbxX6Y_U8dxMEIL9seZmRBtDbnTHQuCrs82YLQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Mozzu",
-    "scheduledStartTime": "2024-04-12T17:30:00Z",
-    "actualStartTime": "2024-04-12T17:38:43Z",
-    "premiere": false
-  },
-  {
     "id": "s1JyU0TWW9Q",
     "vidUrl": "https://youtu.be/s1JyU0TWW9Q",
     "vidTitle": "NEW VTUBERS???? \u3010GLOBIE DEBUT WATCH-A-LONG\u3011#sponsored",
@@ -48,18 +36,6 @@
     "premiere": false
   },
   {
-    "id": "zTX_qs210MM",
-    "vidUrl": "https://youtu.be/zTX_qs210MM",
-    "vidTitle": "\u3010GLOBIE DEBUT WATCHALONG 1/2\u3011HYPE HYPE HYPE w/ D.K\u3010V&U  | GEN4\u3011",
-    "channelId": "@mismavnu",
-    "channelName": "Misma Ryzing Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/G4Ny8VTJw2-E0za2aahMa1JMAMTwmCaJcgeZZQi_oXev3r85AhhGdSaTE7bI7UyEcid6ajTtDg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Misma",
-    "scheduledStartTime": "2024-04-12T18:00:00Z",
-    "actualStartTime": "2024-04-12T17:57:17Z",
-    "premiere": false
-  },
-  {
     "id": "_n3VpNokcdE",
     "vidUrl": "https://youtu.be/_n3VpNokcdE",
     "vidTitle": "New EU gang friends?!\u3010Globie Gen 2 Watchalong!\u3011",
@@ -69,18 +45,6 @@
     "shortName": "Spectra",
     "scheduledStartTime": "2024-04-12T18:00:00Z",
     "actualStartTime": "2024-04-12T17:59:43Z",
-    "premiere": false
-  },
-  {
-    "id": "d-rqSD5qLMs",
-    "vidUrl": "https://youtu.be/d-rqSD5qLMs",
-    "vidTitle": "BACK TO MINECRAFT!!!!! \u26cf\ufe0f",
-    "channelId": "@echovnu",
-    "channelName": "Echo Lyne Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/GXeZ1UMgOyI-peaWarT6IrEjhqilp90c7VnxBbAvFx2oy-wKlJMJnBR1m3oi2pwqryx8OwSk5A=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Echo Lyne",
-    "scheduledStartTime": "2024-04-12T18:00:00Z",
-    "actualStartTime": "2024-04-12T17:59:59Z",
     "premiere": false
   },
   {
@@ -295,6 +259,18 @@
     "channelName": "Airi Viridis Ch. \u3010V-Dere\u3011",
     "channelThumb": "https://yt3.ggpht.com/hr4djvNbGuwQ5f6fID5xc6hY5sYgWPMw02AbbvKDKxPvMdlhk3FTXFbdexF_I5KHe9RizOg2ZQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Airi",
+    "scheduledStartTime": "2024-04-12T21:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "zUrC5Ai0e_E",
+    "vidUrl": "https://youtu.be/zUrC5Ai0e_E",
+    "vidTitle": "minecwaft...",
+    "channelId": "@ayucouldeat",
+    "channelName": "ayu",
+    "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_lsWCiI3Ql224DtcPwGp6l3xJ-gt-C5PpfEVnH7GxeZXhU=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Ayu",
     "scheduledStartTime": "2024-04-12T21:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2391,6 +2367,45 @@
     "shortName": "Pippa",
     "scheduledStartTime": "2024-04-12T16:30:00Z",
     "actualStartTime": "2024-04-12T16:31:45Z",
+    "premiere": false
+  },
+  {
+    "id": "tTKtIqXqFpg",
+    "vidUrl": "https://youtu.be/tTKtIqXqFpg",
+    "vidTitle": "The Brotherhood is Born.... [Warhammer 40k ASSEMBLY HANDCAM]",
+    "channelId": "@mozumipichi",
+    "channelName": "Mozumi Pichi Ch.\u3010V-Dere\u3011",
+    "channelThumb": "https://yt3.ggpht.com/-MORJjUXDCIxCYeCuEktQiDRvqDLv33ZG5fqCbxX6Y_U8dxMEIL9seZmRBtDbnTHQuCrs82YLQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Mozzu",
+    "scheduledStartTime": "2024-04-12T17:30:00Z",
+    "actualStartTime": "2024-04-12T17:38:43Z",
+    "premiere": false
+  },
+  {
+    "id": "zTX_qs210MM",
+    "vidUrl": "https://youtu.be/zTX_qs210MM",
+    "vidTitle": "\u3010GLOBIE DEBUT WATCHALONG 1/2\u3011HYPE HYPE HYPE w/ D.K\u3010V&U  | GEN4\u3011",
+    "channelId": "@mismavnu",
+    "channelName": "Misma Ryzing Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/G4Ny8VTJw2-E0za2aahMa1JMAMTwmCaJcgeZZQi_oXev3r85AhhGdSaTE7bI7UyEcid6ajTtDg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Misma",
+    "scheduledStartTime": "2024-04-12T18:00:00Z",
+    "actualStartTime": "2024-04-12T17:57:17Z",
+    "premiere": false
+  },
+  {
+    "id": "d-rqSD5qLMs",
+    "vidUrl": "https://youtu.be/d-rqSD5qLMs",
+    "vidTitle": "BACK TO MINECRAFT!!!!! \u26cf\ufe0f",
+    "channelId": "@echovnu",
+    "channelName": "Echo Lyne Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/GXeZ1UMgOyI-peaWarT6IrEjhqilp90c7VnxBbAvFx2oy-wKlJMJnBR1m3oi2pwqryx8OwSk5A=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Echo Lyne",
+    "scheduledStartTime": "2024-04-12T18:00:00Z",
+    "actualStartTime": "2024-04-12T17:59:59Z",
     "premiere": false
   },
   {
