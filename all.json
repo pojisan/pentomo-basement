@@ -132,6 +132,18 @@
     "premiere": false
   },
   {
+    "id": "2ET7ehSXPOw",
+    "vidUrl": "https://youtu.be/2ET7ehSXPOw",
+    "vidTitle": "\u3010MEMBER'S ONLY\u3011what are we playing?",
+    "channelId": "@moricalliope",
+    "channelName": "Mori Calliope Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/8B_T08sx8R7XVi5Mwx_l9sjQm5FGWGspeujSvVDvd80Zyr-3VvVTRGVLOnBrqNRxZp6ZeXAV=s88-c-k-c0x00ffffff-no-nd-rj",
+    "shortName": "Mori",
+    "scheduledStartTime": "2024-04-12T13:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "KKbKpnchnpA",
     "vidUrl": "https://youtu.be/KKbKpnchnpA",
     "vidTitle": "\u3010STARDEW VALLEY\u3011 Farming Adventures with @MYTHOSVT Maechii~\u3010Projek Hikayat\u3011",
@@ -2344,19 +2356,6 @@
     "shortName": "Raein",
     "scheduledStartTime": "2024-04-12T00:05:00Z",
     "actualStartTime": "2024-04-12T00:05:58Z",
-    "premiere": false
-  },
-  {
-    "id": "mfdmyx6-YgQ",
-    "vidUrl": "https://youtu.be/mfdmyx6-YgQ",
-    "vidTitle": "\u3010Monster Hunter World\u3011the reaper's hunt is ON!",
-    "channelId": "@moricalliope",
-    "channelName": "Mori Calliope Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/8B_T08sx8R7XVi5Mwx_l9sjQm5FGWGspeujSvVDvd80Zyr-3VvVTRGVLOnBrqNRxZp6ZeXAV=s88-c-k-c0x00ffffff-no-nd-rj",
-    "graveyard": true,
-    "shortName": "Mori",
-    "scheduledStartTime": "2024-04-12T01:59:38Z",
-    "actualStartTime": "2024-04-12T02:00:52Z",
     "premiere": false
   },
   {
