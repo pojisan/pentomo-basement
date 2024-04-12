@@ -307,7 +307,19 @@
     "channelName": "Isla Coleman Ch. \u30a2\u30a4\u30e9\u30fb\u30b3\u30fc\u30eb\u30de\u30f3\u3010kawaii\u3011",
     "channelThumb": "https://yt3.ggpht.com/KsvJ_nvtsnENS74uknH4gxrD8fVCA2DJjiSiyrVIl2JKyVW28zny7nclNnl2j9VhZ3CDIE4pTg=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Isla",
-    "scheduledStartTime": "2024-04-12T04:15:00Z",
+    "scheduledStartTime": "2024-04-12T04:15:35Z",
+    "actualStartTime": "2024-04-12T04:15:53Z",
+    "premiere": false
+  },
+  {
+    "id": "zjmHgoztZjU",
+    "vidUrl": "https://youtu.be/zjmHgoztZjU",
+    "vidTitle": "\u3016Zatsu/Slither.io\u3017Just chilling for a little :3\u3016Cyon \u2765 V&U\u3017",
+    "channelId": "@cyonvnu",
+    "channelName": "Cyon Hart Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/gsviy0KcEYuRE4MyNsKcEBoS0lIaW9wgkz9raEwVrQ0tIUM473cN8ORz-rdHps1IYSHxZdzI_g=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Cyon",
+    "scheduledStartTime": "2024-04-12T04:30:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -2550,32 +2562,6 @@
     "shortName": "Ayu",
     "scheduledStartTime": "2024-04-12T01:00:00Z",
     "actualStartTime": "2024-04-12T00:55:32Z",
-    "premiere": false
-  },
-  {
-    "id": "yhhHvEjiXno",
-    "vidUrl": "https://youtu.be/yhhHvEjiXno",
-    "vidTitle": "IT'S TIME TO GET METAL\u3010 METAL: HELLSINGER \u3011 \u3010NIJISANJI EN | Alban Knox\u3011",
-    "channelId": "@albanknox",
-    "channelName": "Alban Knox \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/rbTGK5bXuub0l3feyx8c780FtoRAtT1KDgqOGQq2wSisQJo17wk9PusEc_ZjUMK_uwZ47LIZiSI=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Alban",
-    "scheduledStartTime": "2024-04-12T01:00:00Z",
-    "actualStartTime": "2024-04-12T01:06:35Z",
-    "premiere": false
-  },
-  {
-    "id": "GURYx7ix4BA",
-    "vidUrl": "https://youtu.be/GURYx7ix4BA",
-    "vidTitle": "\u3010LIVE RP ASMR\u3011I'll Clean Every Last Inch of You\u3010Alias Anono | V4Mirai | ENVtuber\u3011",
-    "channelId": "@aliasanono",
-    "channelName": "Alias Anono Ch. \u3010V4Mirai\u3011",
-    "channelThumb": "https://yt3.ggpht.com/2cjQaeikgrJlNLffvtgcuH9FNsGIOdBdC34ShNNmqpW4MH-n2GPJGT3gv2oz8awap2nOeKneoQ=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Alias",
-    "scheduledStartTime": "2024-04-12T02:00:00Z",
-    "actualStartTime": "2024-04-12T02:00:45Z",
     "premiere": false
   },
   {
