@@ -1,17 +1,5 @@
 [
   {
-    "id": "nKFbxAGTLBU",
-    "vidUrl": "https://youtu.be/nKFbxAGTLBU",
-    "vidTitle": "\u3010 Danganronpa 2: Goodbye Despair \u3011Second Murder Incoming! NAGITO PLEASE STOP DERAILING! PT. 3",
-    "channelId": "@ariasynth",
-    "channelName": "Aria Synth - VOLs",
-    "channelThumb": "https://yt3.ggpht.com/GzhW3aRAfRerOI_6Ks3M8ptbOQaYsmkW_0Wq5HdZdAoxYWBMyrePhNooYwH_JhW7HKAVGiaesak=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Aria",
-    "scheduledStartTime": "2024-04-12T13:00:00Z",
-    "actualStartTime": "2024-04-12T13:29:44Z",
-    "premiere": false
-  },
-  {
     "id": "aESmySJyDHs",
     "vidUrl": "https://youtu.be/aESmySJyDHs",
     "vidTitle": "Have you heard about Namin\u00e9?\u3010Kingdom Hearts Re:CoM\u3011",
@@ -204,18 +192,6 @@
     "premiere": false
   },
   {
-    "id": "1lpL9jNy_XI",
-    "vidUrl": "https://youtu.be/1lpL9jNy_XI",
-    "vidTitle": "\u3010Karaoke\u3011Do, Re, Mi~",
-    "channelId": "@isabellegoodwillow",
-    "channelName": "Isabelle Goodwillow Ch. Legion",
-    "channelThumb": "https://yt3.ggpht.com/rJuMWEjmRiOqnhqo-Njw1VWunxkM7Ho0nZxNxVaa36z_PMile2XKRg-Yx3Ln4snqEAJq62zwNQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Isabelle",
-    "scheduledStartTime": "2024-04-12T21:00:41Z",
-    "actualStartTime": "2024-04-12T21:00:46Z",
-    "premiere": false
-  },
-  {
     "id": "2wHhDQB991A",
     "vidUrl": "https://youtu.be/2wHhDQB991A",
     "vidTitle": "\u3010Shinkansen 0 | \u65b0\u5e79\u7dda 0\u53f7\u3011NOT EVEN A FLINCH \ud83d\udd0d Challenge Me Friday",
@@ -224,7 +200,7 @@
     "channelThumb": "https://yt3.ggpht.com/Tz6Hm43Exb8k5sGZ7DRbucOkivDD4w7FU78_bPV69vWM47zCAODykYVo76pwXqry2b1DI1HI=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Kohaku",
     "scheduledStartTime": "2024-04-12T21:00:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-12T21:06:56Z",
     "premiere": false
   },
   {
@@ -236,7 +212,19 @@
     "channelThumb": "https://yt3.ggpht.com/rCQWrIhA0g-D2eraOSkn9GkzKGYNjnUmuTi1SBXQzChsbdYoicnz-OA8swsYORrrvrQer2YhTDI=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Chiyo",
     "scheduledStartTime": "2024-04-12T21:00:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-12T21:08:44Z",
+    "premiere": false
+  },
+  {
+    "id": "1lpL9jNy_XI",
+    "vidUrl": "https://youtu.be/1lpL9jNy_XI",
+    "vidTitle": "\u3010Karaoke\u3011Do, Re, Mi~",
+    "channelId": "@isabellegoodwillow",
+    "channelName": "Isabelle Goodwillow Ch. Legion",
+    "channelThumb": "https://yt3.ggpht.com/rJuMWEjmRiOqnhqo-Njw1VWunxkM7Ho0nZxNxVaa36z_PMile2XKRg-Yx3Ln4snqEAJq62zwNQ=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Isabelle",
+    "scheduledStartTime": "2024-04-12T21:00:41Z",
+    "actualStartTime": "2024-04-12T21:00:46Z",
     "premiere": false
   },
   {
@@ -271,6 +259,18 @@
     "channelName": "Utahime Mochizuki | Specialite EN",
     "channelThumb": "https://yt3.ggpht.com/osBzLXvtdsDnt8yz3Eir3dzxCzGyrtg7-2jVXwKMBrLUijflbHEBU49IXRX_6fBOqtw8JpHiJQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Uta",
+    "scheduledStartTime": "2024-04-12T22:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "_2wJlphQXAc",
+    "vidUrl": "https://youtu.be/_2wJlphQXAc",
+    "vidTitle": "ASMR whispering...? You want me to what?!",
+    "channelId": "@inamiyokich",
+    "channelName": "Inami Yoki Ch.",
+    "channelThumb": "https://yt3.ggpht.com/vCtnJzYIQZi4DtDvSMyEpWdolmNJoIzlO4YD0036Tm2-sRRYRjPNL0xikMCq2Q8p4hqcAKaY9V4=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Yoki",
     "scheduledStartTime": "2024-04-12T22:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2269,6 +2269,19 @@
     "premiere": false
   },
   {
+    "id": "nKFbxAGTLBU",
+    "vidUrl": "https://youtu.be/nKFbxAGTLBU",
+    "vidTitle": "\u3010 Danganronpa 2: Goodbye Despair \u3011Second Murder Incoming! NAGITO PLEASE STOP DERAILING! PT. 3",
+    "channelId": "@ariasynth",
+    "channelName": "Aria Synth - VOLs",
+    "channelThumb": "https://yt3.ggpht.com/GzhW3aRAfRerOI_6Ks3M8ptbOQaYsmkW_0Wq5HdZdAoxYWBMyrePhNooYwH_JhW7HKAVGiaesak=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Aria",
+    "scheduledStartTime": "2024-04-12T13:00:00Z",
+    "actualStartTime": "2024-04-12T13:29:44Z",
+    "premiere": false
+  },
+  {
     "id": "s-LMXs1_9ew",
     "vidUrl": "https://youtu.be/s-LMXs1_9ew",
     "vidTitle": "\u3010GENSHIN IMPACT\u3011Opening my eyes to a whole new world!",
@@ -2334,19 +2347,6 @@
     "premiere": false
   },
   {
-    "id": "tTKtIqXqFpg",
-    "vidUrl": "https://youtu.be/tTKtIqXqFpg",
-    "vidTitle": "The Brotherhood is Born.... [Warhammer 40k ASSEMBLY HANDCAM]",
-    "channelId": "@mozumipichi",
-    "channelName": "Mozumi Pichi Ch.\u3010V-Dere\u3011",
-    "channelThumb": "https://yt3.ggpht.com/-MORJjUXDCIxCYeCuEktQiDRvqDLv33ZG5fqCbxX6Y_U8dxMEIL9seZmRBtDbnTHQuCrs82YLQ=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Mozzu",
-    "scheduledStartTime": "2024-04-12T17:30:00Z",
-    "actualStartTime": "2024-04-12T17:38:43Z",
-    "premiere": false
-  },
-  {
     "id": "s1JyU0TWW9Q",
     "vidUrl": "https://youtu.be/s1JyU0TWW9Q",
     "vidTitle": "NEW VTUBERS???? \u3010GLOBIE DEBUT WATCH-A-LONG\u3011#sponsored",
@@ -2357,19 +2357,6 @@
     "shortName": "Umi",
     "scheduledStartTime": "2024-04-12T18:00:00Z",
     "actualStartTime": "2024-04-12T17:48:04Z",
-    "premiere": false
-  },
-  {
-    "id": "_n3VpNokcdE",
-    "vidUrl": "https://youtu.be/_n3VpNokcdE",
-    "vidTitle": "New EU gang friends?!\u3010Globie Gen 2 Watchalong!\u3011",
-    "channelId": "@spectravnu",
-    "channelName": "Spectra Libitina Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/vJEi9jvzwANF4rzrVugBrJ2CumIsI3pGN68Bap-eEXSqZbp-hNpLAdqSwSIqmgqhHUbbdUzrR-w=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Spectra",
-    "scheduledStartTime": "2024-04-12T18:00:00Z",
-    "actualStartTime": "2024-04-12T17:59:43Z",
     "premiere": false
   },
   {
