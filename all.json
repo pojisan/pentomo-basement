@@ -36,18 +36,6 @@
     "premiere": false
   },
   {
-    "id": "rjfG-jCtXJI",
-    "vidUrl": "https://youtu.be/rjfG-jCtXJI",
-    "vidTitle": "Content Warning is Terrifying",
-    "channelId": "@rakunpoko",
-    "channelName": "Poko Rakun Ch. idol-EN",
-    "channelThumb": "https://yt3.ggpht.com/ma1Az7kp5ye3ZWtR9IGoFcWEVQ6ReN8VugO_PGP6qokwj430zQKuR9Uo_L5N3gCVTWsH_vQT1w=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Poko",
-    "scheduledStartTime": "2024-04-12T13:00:00Z",
-    "actualStartTime": "2024-04-12T13:10:48Z",
-    "premiere": false
-  },
-  {
     "id": "nKFbxAGTLBU",
     "vidUrl": "https://youtu.be/nKFbxAGTLBU",
     "vidTitle": "\u3010 Danganronpa 2: Goodbye Despair \u3011Second Murder Incoming! NAGITO PLEASE STOP DERAILING! PT. 3",
@@ -264,6 +252,18 @@
     "premiere": false
   },
   {
+    "id": "sCGsaDMLhA8",
+    "vidUrl": "https://youtu.be/sCGsaDMLhA8",
+    "vidTitle": "Gold??",
+    "channelId": "@junaunagi",
+    "channelName": "Juna Unagi Ch. idol-EN",
+    "channelThumb": "https://yt3.ggpht.com/2Z4a4Pzt3NDAzzTL_Iz9gc6HZ5uPReVnqYjz8ZDtVfcRaE026n_DgpamMVBQ4gWMBeIzfeUxUgw=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Juna",
+    "scheduledStartTime": "2024-04-12T18:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "uHdziwYRiDU",
     "vidUrl": "https://youtu.be/uHdziwYRiDU",
     "vidTitle": "\u3010ASMR RP\u3011Nap time with Taichou \u3010V&U | GEN4\u3011#asmr",
@@ -271,6 +271,18 @@
     "channelName": "D.K Graves Ch. V&U",
     "channelThumb": "https://yt3.ggpht.com/eLNO3hNUzmagTyaDMrJsEEL_MPotkeZh0N4uxccEYYmc2z-J93O5XGOmfTS5MwzNYRTDxgUCOg=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "DK",
+    "scheduledStartTime": "2024-04-12T18:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "zTX_qs210MM",
+    "vidUrl": "https://youtu.be/zTX_qs210MM",
+    "vidTitle": "\u3010GLOBIE DEBUT WATCHALONG 1/2\u3011HYPE HYPE HYPE w/ D.K\u3010V&U  | GEN4\u3011",
+    "channelId": "@mismavnu",
+    "channelName": "Misma Ryzing Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/G4Ny8VTJw2-E0za2aahMa1JMAMTwmCaJcgeZZQi_oXev3r85AhhGdSaTE7bI7UyEcid6ajTtDg=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Misma",
     "scheduledStartTime": "2024-04-12T18:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -336,18 +348,6 @@
     "premiere": false
   },
   {
-    "id": "UETcZATAwPQ",
-    "vidUrl": "https://youtu.be/UETcZATAwPQ",
-    "vidTitle": "This side story is too good to be a side story",
-    "channelId": "@obakepam",
-    "channelName": "Obake PAM Ch.",
-    "channelThumb": "https://yt3.ggpht.com/FlbqAWrn9OdE4QcjGweQkH_2WUf2kCAQPbiC4dVvt6ItUWE4pLnUrs9MJ3-KtyeULY0hGe-VPio=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Obake PAM",
-    "scheduledStartTime": "2024-04-12T19:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "q_BpnXD7MkU",
     "vidUrl": "https://youtu.be/q_BpnXD7MkU",
     "vidTitle": "\u30103DIO ASMR\u3011Breaking your bones \u2661 \u3010Kaya Nishikino | Production kawaii\u3011",
@@ -384,13 +384,13 @@
     "premiere": false
   },
   {
-    "id": "zTX_qs210MM",
-    "vidUrl": "https://youtu.be/zTX_qs210MM",
-    "vidTitle": "\u3010GLOBIE DEBUT WATCHALONG 1/2\u3011HYPE HYPE HYPE w/ D.K\u3010V&U  | GEN4\u3011",
-    "channelId": "@mismavnu",
-    "channelName": "Misma Ryzing Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/G4Ny8VTJw2-E0za2aahMa1JMAMTwmCaJcgeZZQi_oXev3r85AhhGdSaTE7bI7UyEcid6ajTtDg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Misma",
+    "id": "UETcZATAwPQ",
+    "vidUrl": "https://youtu.be/UETcZATAwPQ",
+    "vidTitle": "This side story is too good to be a side story",
+    "channelId": "@obakepam",
+    "channelName": "Obake PAM Ch.",
+    "channelThumb": "https://yt3.ggpht.com/FlbqAWrn9OdE4QcjGweQkH_2WUf2kCAQPbiC4dVvt6ItUWE4pLnUrs9MJ3-KtyeULY0hGe-VPio=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Obake PAM",
     "scheduledStartTime": "2024-04-12T19:30:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -439,6 +439,18 @@
     "channelName": "Kohaku Yumekui Ch. \u5922\u55b0\u5df1\u767d\u3010kawaii\u3011",
     "channelThumb": "https://yt3.ggpht.com/Tz6Hm43Exb8k5sGZ7DRbucOkivDD4w7FU78_bPV69vWM47zCAODykYVo76pwXqry2b1DI1HI=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Kohaku",
+    "scheduledStartTime": "2024-04-12T21:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "316oGiOQCFE",
+    "vidUrl": "https://youtu.be/316oGiOQCFE",
+    "vidTitle": "We Are Now Professional Content Creators! But at what cost...",
+    "channelId": "@chiyomoberi",
+    "channelName": "Chiyo Moberi \u3010CIESTE\u3011",
+    "channelThumb": "https://yt3.ggpht.com/rCQWrIhA0g-D2eraOSkn9GkzKGYNjnUmuTi1SBXQzChsbdYoicnz-OA8swsYORrrvrQer2YhTDI=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Chiyo",
     "scheduledStartTime": "2024-04-12T21:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2380,6 +2392,19 @@
     "premiere": false
   },
   {
+    "id": "rjfG-jCtXJI",
+    "vidUrl": "https://youtu.be/rjfG-jCtXJI",
+    "vidTitle": "Content Warning is Terrifying",
+    "channelId": "@rakunpoko",
+    "channelName": "Poko Rakun Ch. idol-EN",
+    "channelThumb": "https://yt3.ggpht.com/ma1Az7kp5ye3ZWtR9IGoFcWEVQ6ReN8VugO_PGP6qokwj430zQKuR9Uo_L5N3gCVTWsH_vQT1w=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Poko",
+    "scheduledStartTime": "2024-04-12T13:00:00Z",
+    "actualStartTime": "2024-04-12T13:10:48Z",
+    "premiere": false
+  },
+  {
     "id": "s-LMXs1_9ew",
     "vidUrl": "https://youtu.be/s-LMXs1_9ew",
     "vidTitle": "\u3010GENSHIN IMPACT\u3011Opening my eyes to a whole new world!",
@@ -2390,19 +2415,6 @@
     "shortName": "Rinona",
     "scheduledStartTime": "2024-04-12T14:00:00Z",
     "actualStartTime": "2024-04-12T13:57:22Z",
-    "premiere": false
-  },
-  {
-    "id": "ZqtrY0PGxZE",
-    "vidUrl": "https://youtu.be/ZqtrY0PGxZE",
-    "vidTitle": "\u3010ZATSU\u3011eepy early morning zatsu with joat\u3010Yume+ | Rhea Nevermore\u3011",
-    "channelId": "@rheanevermore",
-    "channelName": "Rhea Nevermore \u3010Yume+\u3011",
-    "channelThumb": "https://yt3.ggpht.com/POsoK-HHPySyD4C6ell2PZeeqjOfPFYW1SOYN0ZwETReBmkJ7ScxoTkyB3BliqEg3Qh6ulsjwQ=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Rhea",
-    "scheduledStartTime": "2024-04-12T14:00:00Z",
-    "actualStartTime": "2024-04-12T14:00:38Z",
     "premiere": false
   },
   {
