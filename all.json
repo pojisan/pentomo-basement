@@ -24,18 +24,6 @@
     "premiere": false
   },
   {
-    "id": "X-PU0k-RuQA",
-    "vidUrl": "https://youtu.be/X-PU0k-RuQA",
-    "vidTitle": "\u3010HITMAN 3\u3011OLD HABITS DIE HARD\u3010NIJISANJI EN | Yu Q. Wilson\u3011",
-    "channelId": "@yuq.wilson",
-    "channelName": "Yu Q. Wilson \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/GR1e8gQ-x7ehgpqAZmrwoJBI7ReZneaTR6PEQvgcW3kIabEvfTenrpiNRWZSH6QpysfZftKKrA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Wilson",
-    "scheduledStartTime": "2024-04-12T12:00:00Z",
-    "actualStartTime": "2024-04-12T12:01:32Z",
-    "premiere": false
-  },
-  {
     "id": "UAGQERjqP8E",
     "vidUrl": "https://youtu.be/UAGQERjqP8E",
     "vidTitle": "[\ud83d\udd34CONTENT WARNING ] Bratty slime is gunna rizz your oshi and make you watch (COLLAB)",
@@ -703,6 +691,18 @@
     "channelName": "Yae Yugiri Ch.\u3010V4Mirai\u3011",
     "channelThumb": "https://yt3.ggpht.com/4YU-ifBGgSoq-RvD3MYlUq_mhH23Ioe8h_t083RWrYs3c4qDcJQ_nEds5DGrI7C2FQOz0kLb=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Yae",
+    "scheduledStartTime": "2024-04-12T23:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "Wu57FF4kBfM",
+    "vidUrl": "https://youtu.be/Wu57FF4kBfM",
+    "vidTitle": "\u3010TOMODACHI LIFE\u3011give me the drama\u3010Maid Mint Fantome\u3011",
+    "channelId": "@mintfantome",
+    "channelName": "Maid Mint Ch. \u30df\u30f3\u30c8\u30fb\u30d5\u30a1\u30f3\u30c8\u30fc\u30e0",
+    "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_mxbJ__S3iWA9yHCK-ABLglmhGfKYmpCZWxxP4D-w4ymQ=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Mint",
     "scheduledStartTime": "2024-04-12T23:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2402,6 +2402,19 @@
     "shortName": "Pippa",
     "scheduledStartTime": "2024-04-12T10:30:00Z",
     "actualStartTime": "2024-04-12T10:34:03Z",
+    "premiere": false
+  },
+  {
+    "id": "X-PU0k-RuQA",
+    "vidUrl": "https://youtu.be/X-PU0k-RuQA",
+    "vidTitle": "\u3010HITMAN 3\u3011OLD HABITS DIE HARD\u3010NIJISANJI EN | Yu Q. Wilson\u3011",
+    "channelId": "@yuq.wilson",
+    "channelName": "Yu Q. Wilson \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/GR1e8gQ-x7ehgpqAZmrwoJBI7ReZneaTR6PEQvgcW3kIabEvfTenrpiNRWZSH6QpysfZftKKrA=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Wilson",
+    "scheduledStartTime": "2024-04-12T12:00:00Z",
+    "actualStartTime": "2024-04-12T12:01:32Z",
     "premiere": false
   },
   {
