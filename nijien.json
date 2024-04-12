@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "XCZ0KxNvbnI",
-    "vidUrl": "https://youtu.be/XCZ0KxNvbnI",
-    "vidTitle": "\u3010JeogSeoul\u3011we are hydrated and moisturized\u3010NIJISANJI EN | Uki Violeta & Fulgur Ovid\u3011",
-    "channelId": "@ukivioleta",
-    "channelName": "Uki Violeta \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/WIy30MlmcCTxrEuKULkAdh8itCfT4Up5myJbpVHTkKbfKcgriF_qL6d3iJMD_mQfwb0B1JDT=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Uki",
-    "scheduledStartTime": "2024-04-12T12:00:00Z",
-    "actualStartTime": "2024-04-12T12:01:57Z",
-    "premiere": false
-  },
-  {
     "id": "ZrWwuwuEOQY",
     "vidUrl": "https://youtu.be/ZrWwuwuEOQY",
     "vidTitle": "\u3010BEAT SABER VR\u3011CHOP CHOP CHOP\u3010NIJISANJI EN | Vezalius Bandage\u3011",
@@ -178,6 +166,19 @@
     "shortName": "Alban",
     "scheduledStartTime": "2024-04-12T11:00:00Z",
     "actualStartTime": "2024-04-12T11:03:34Z",
+    "premiere": false
+  },
+  {
+    "id": "XCZ0KxNvbnI",
+    "vidUrl": "https://youtu.be/XCZ0KxNvbnI",
+    "vidTitle": "\u3010JeogSeoul\u3011we are hydrated and moisturized\u3010NIJISANJI EN | Uki Violeta & Fulgur Ovid\u3011",
+    "channelId": "@ukivioleta",
+    "channelName": "Uki Violeta \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/WIy30MlmcCTxrEuKULkAdh8itCfT4Up5myJbpVHTkKbfKcgriF_qL6d3iJMD_mQfwb0B1JDT=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Uki",
+    "scheduledStartTime": "2024-04-12T12:00:00Z",
+    "actualStartTime": "2024-04-12T12:01:57Z",
     "premiere": false
   }
 ]
