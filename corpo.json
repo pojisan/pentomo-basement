@@ -120,18 +120,6 @@
     "premiere": false
   },
   {
-    "id": "ApZb_agI5B4",
-    "vidUrl": "https://youtu.be/ApZb_agI5B4",
-    "vidTitle": "This game has sharks apparently. I'm sold",
-    "channelId": "@rinpenrose",
-    "channelName": "Rin Penrose Ch. idol-EN",
-    "channelThumb": "https://yt3.ggpht.com/A4q2cLOTiWlNsZpT8P2XmIgv-ZJUP4OR-2hpei0ZTM2bnpAZOdY5b1YuwslYnQCcVGJYAaGT=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Rin",
-    "scheduledStartTime": "2024-04-12T18:00:00Z",
-    "actualStartTime": "2024-04-12T18:01:58Z",
-    "premiere": false
-  },
-  {
     "id": "CC7qZJvfHbk",
     "vidUrl": "https://youtu.be/CC7qZJvfHbk",
     "vidTitle": "Time to....go down??? (First Dark Souls playthrough)",
@@ -614,7 +602,7 @@
   {
     "id": "X6ftyph4jq4",
     "vidUrl": "https://youtu.be/X6ftyph4jq4",
-    "vidTitle": "300K SUBS CELEBRATION! 3D Anime Girl Karaoke Singing Japanese and English Songs! #shorts #vtuber",
+    "vidTitle": "300K SUBS CELEBRATION! VTUBER KARAOKE! #shorts #vtuber",
     "channelId": "@neneamanoch",
     "channelName": "Nene Amano Ch. \u5929\u91ce\u5be7\u3005\u3010kawaii\u3011",
     "channelThumb": "https://yt3.ggpht.com/gQXL64aSlteGuabzrOCxa7Qs-OdOJ0EAMeTP1hpSpI_5_IAkpjy3X0Y4aTVe9BxxXvXOCE5VdLc=s88-c-k-c0x00ffffff-no-rj",
@@ -2380,19 +2368,6 @@
     "premiere": false
   },
   {
-    "id": "223F_XHlLqU",
-    "vidUrl": "https://youtu.be/223F_XHlLqU",
-    "vidTitle": "We're In Debt! Yippie!! [Rollercoaster Tycoon]",
-    "channelId": "@neneamanoch",
-    "channelName": "Nene Amano Ch. \u5929\u91ce\u5be7\u3005\u3010kawaii\u3011",
-    "channelThumb": "https://yt3.ggpht.com/gQXL64aSlteGuabzrOCxa7Qs-OdOJ0EAMeTP1hpSpI_5_IAkpjy3X0Y4aTVe9BxxXvXOCE5VdLc=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Nene",
-    "scheduledStartTime": "2024-04-12T15:00:00Z",
-    "actualStartTime": "2024-04-12T15:04:24Z",
-    "premiere": false
-  },
-  {
     "id": "FlGkoZ4JgSs",
     "vidUrl": "https://youtu.be/FlGkoZ4JgSs",
     "vidTitle": "\u3010Cyberpunk 2077 #8\u3011CITY TO MONKE ONCE AGAIN?!?!\u3010Sarugaku Leon Jr. | Globie\u3011",
@@ -2442,6 +2417,19 @@
     "shortName": "Vilhelm",
     "scheduledStartTime": "2024-04-12T18:00:00Z",
     "actualStartTime": "2024-04-12T17:56:18Z",
+    "premiere": false
+  },
+  {
+    "id": "ApZb_agI5B4",
+    "vidUrl": "https://youtu.be/ApZb_agI5B4",
+    "vidTitle": "This game has sharks apparently. I'm sold",
+    "channelId": "@rinpenrose",
+    "channelName": "Rin Penrose Ch. idol-EN",
+    "channelThumb": "https://yt3.ggpht.com/A4q2cLOTiWlNsZpT8P2XmIgv-ZJUP4OR-2hpei0ZTM2bnpAZOdY5b1YuwslYnQCcVGJYAaGT=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Rin",
+    "scheduledStartTime": "2024-04-12T18:00:00Z",
+    "actualStartTime": "2024-04-12T18:01:58Z",
     "premiere": false
   }
 ]
