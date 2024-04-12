@@ -1,29 +1,5 @@
 [
   {
-    "id": "vxnnAA1Ptqg",
-    "vidUrl": "https://youtu.be/vxnnAA1Ptqg",
-    "vidTitle": "\u3010Study With Me\u3011We Type!\u3010Yume+ | Mero Umiko\u3011",
-    "channelId": "@meroumiko",
-    "channelName": "Mero Umiko \u3010Yume+\u3011",
-    "channelThumb": "https://yt3.ggpht.com/ao0Uyr-lSSR-cD9QJVrID38symffMEms-OUHRGu-i1DBBybDZglU9ELIgv6YtjBDBY6o0das7g=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Mero",
-    "scheduledStartTime": "2024-04-12T12:00:00Z",
-    "actualStartTime": "2024-04-12T12:00:50Z",
-    "premiere": false
-  },
-  {
-    "id": "ptn-fTJBMlQ",
-    "vidUrl": "https://youtu.be/ptn-fTJBMlQ",
-    "vidTitle": "\ud83d\udd34\u3010GRIS\u3011 A Magnificent and Beautiful Game About The Stages of Grief \ud83e\udd40\ud83d\udda4",
-    "channelId": "@auregaliaaruri",
-    "channelName": "Aruri Ch. \u30a2\u30eb\u30ea \ud83d\udddd\ufe0f\ud83c\udf80",
-    "channelThumb": "https://yt3.ggpht.com/Ppd9mggKtHGNEzkDfQvJOb2_jpnaKOrBUdILMkNcAig21_83A1J5XhjFoshKNQO11Fzw7FN-=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Aruri",
-    "scheduledStartTime": "2024-04-12T13:00:00Z",
-    "actualStartTime": "2024-04-12T13:03:17Z",
-    "premiere": false
-  },
-  {
     "id": "nKFbxAGTLBU",
     "vidUrl": "https://youtu.be/nKFbxAGTLBU",
     "vidTitle": "\u3010 Danganronpa 2: Goodbye Despair \u3011Second Murder Incoming! NAGITO PLEASE STOP DERAILING! PT. 3",
@@ -2366,16 +2342,16 @@
     "premiere": false
   },
   {
-    "id": "ZrWwuwuEOQY",
-    "vidUrl": "https://youtu.be/ZrWwuwuEOQY",
-    "vidTitle": "\u3010BEAT SABER VR\u3011CHOP CHOP CHOP\u3010NIJISANJI EN | Vezalius Bandage\u3011",
-    "channelId": "@vezaliusbandage",
-    "channelName": "Vezalius Bandage \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/rnqrntYI1y38pqQeqYAmX3_gG1vZ-iYeMGHY0nCC-lxqKdoBspKriRXzMPv7PByMydEYm9YvvzU=s88-c-k-c0x00ffffff-no-rj",
+    "id": "vxnnAA1Ptqg",
+    "vidUrl": "https://youtu.be/vxnnAA1Ptqg",
+    "vidTitle": "\u3010Study With Me\u3011We Type!\u3010Yume+ | Mero Umiko\u3011",
+    "channelId": "@meroumiko",
+    "channelName": "Mero Umiko \u3010Yume+\u3011",
+    "channelThumb": "https://yt3.ggpht.com/ao0Uyr-lSSR-cD9QJVrID38symffMEms-OUHRGu-i1DBBybDZglU9ELIgv6YtjBDBY6o0das7g=s88-c-k-c0x00ffffff-no-rj",
     "graveyard": true,
-    "shortName": "Zali",
-    "scheduledStartTime": "2024-04-12T13:00:00Z",
-    "actualStartTime": "2024-04-12T13:00:06Z",
+    "shortName": "Mero",
+    "scheduledStartTime": "2024-04-12T12:00:00Z",
+    "actualStartTime": "2024-04-12T12:00:50Z",
     "premiere": false
   },
   {
@@ -2402,6 +2378,19 @@
     "shortName": "MYTHOS VT",
     "scheduledStartTime": "2024-04-12T13:00:00Z",
     "actualStartTime": "2024-04-12T13:03:09Z",
+    "premiere": false
+  },
+  {
+    "id": "ptn-fTJBMlQ",
+    "vidUrl": "https://youtu.be/ptn-fTJBMlQ",
+    "vidTitle": "\ud83d\udd34\u3010GRIS\u3011 A Magnificent and Beautiful Game About The Stages of Grief \ud83e\udd40\ud83d\udda4",
+    "channelId": "@auregaliaaruri",
+    "channelName": "Aruri Ch. \u30a2\u30eb\u30ea \ud83d\udddd\ufe0f\ud83c\udf80",
+    "channelThumb": "https://yt3.ggpht.com/Ppd9mggKtHGNEzkDfQvJOb2_jpnaKOrBUdILMkNcAig21_83A1J5XhjFoshKNQO11Fzw7FN-=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Aruri",
+    "scheduledStartTime": "2024-04-12T13:00:00Z",
+    "actualStartTime": "2024-04-12T13:03:17Z",
     "premiere": false
   },
   {
