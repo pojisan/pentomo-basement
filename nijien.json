@@ -1,17 +1,5 @@
 [
   {
-    "id": "fBaCMEp7Fvg",
-    "vidUrl": "https://youtu.be/fBaCMEp7Fvg",
-    "vidTitle": "\u3010DRAGON'S DOGMA 2\u3011DOGMA BALLS, FIRST GAMEPLAY !!",
-    "channelId": "@finanaryugu",
-    "channelName": "Finana Ryugu \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/ahtDvnkUuPHE3BN5IDwy6imkXXFGhfygaPLHIrfY4LF3aDxK9uzWJkxCFTDIvCpfxZI3BmZn=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Finana",
-    "scheduledStartTime": "2024-04-11T20:00:00Z",
-    "actualStartTime": "2024-04-11T20:07:06Z",
-    "premiere": false
-  },
-  {
     "id": "dz3N9z9Zmnc",
     "vidUrl": "https://youtu.be/dz3N9z9Zmnc",
     "vidTitle": "\u3010BALDUR'S GATE 3\u3011 LET'S START ACT 3! (pt 18) \u3010NIJISANJI EN | Aia Amare \u3011",
@@ -189,6 +177,19 @@
     "shortName": "Reimu",
     "scheduledStartTime": "2024-05-05T01:00:00Z",
     "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "fBaCMEp7Fvg",
+    "vidUrl": "https://youtu.be/fBaCMEp7Fvg",
+    "vidTitle": "\u3010DRAGON'S DOGMA 2\u3011DOGMA BALLS, FIRST GAMEPLAY !!",
+    "channelId": "@finanaryugu",
+    "channelName": "Finana Ryugu \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/ahtDvnkUuPHE3BN5IDwy6imkXXFGhfygaPLHIrfY4LF3aDxK9uzWJkxCFTDIvCpfxZI3BmZn=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Finana",
+    "scheduledStartTime": "2024-04-11T20:00:00Z",
+    "actualStartTime": "2024-04-11T20:07:06Z",
     "premiere": false
   }
 ]
