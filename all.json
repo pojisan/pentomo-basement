@@ -48,18 +48,6 @@
     "premiere": false
   },
   {
-    "id": "VGxVf5N2Q14",
-    "vidUrl": "https://youtu.be/VGxVf5N2Q14",
-    "vidTitle": "\u3010Inscryption\u3011AI HATE THIS GUY SO MUCH UGGHHHH",
-    "channelId": "@aishiiaivt",
-    "channelName": "Aishii Ai Ch. ",
-    "channelThumb": "https://yt3.ggpht.com/5lZebcvMcKGO60QqEpNlAKMvPq4BBlDBw89gYfuMUfX2Bz6mTufczpwLhmwp3EBT0t5CITq_rQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Aishii",
-    "scheduledStartTime": "2024-04-12T01:00:00Z",
-    "actualStartTime": "2024-04-12T01:01:39Z",
-    "premiere": false
-  },
-  {
     "id": "aT7OB15mBg4",
     "vidUrl": "https://youtu.be/aT7OB15mBg4",
     "vidTitle": "\u3010COWORKING\u3011 Get stuff done with me | Typing Sounds ASMR \u2661 Hand Cam",
@@ -320,7 +308,7 @@
     "channelThumb": "https://yt3.ggpht.com/gsviy0KcEYuRE4MyNsKcEBoS0lIaW9wgkz9raEwVrQ0tIUM473cN8ORz-rdHps1IYSHxZdzI_g=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Cyon",
     "scheduledStartTime": "2024-04-12T04:30:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-12T04:32:55Z",
     "premiere": false
   },
   {
@@ -367,6 +355,18 @@
     "channelName": "ShirousaMikumi - VOLs",
     "channelThumb": "https://yt3.ggpht.com/6Jy6Uud2Vx08hfesvUg3vb2cSd0tj_30_Eeq-Ypg3jK7srTbiGUJKE94YJhedV96ExRC6-KGDA=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Mikumi",
+    "scheduledStartTime": "2024-04-12T11:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "SgvyFUz_5QY",
+    "vidUrl": "https://youtu.be/SgvyFUz_5QY",
+    "vidTitle": "CHECKING A NEW RHYTHM GAME\u3010 \u30ef\u30fc\u30eb\u30c9\u30c0\u30a4\u30b9\u30bf\u30fc / World Dai Star \u3011 \u3010NIJISANJI EN | Alban Knox\u3011",
+    "channelId": "@albanknox",
+    "channelName": "Alban Knox \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/rbTGK5bXuub0l3feyx8c780FtoRAtT1KDgqOGQq2wSisQJo17wk9PusEc_ZjUMK_uwZ47LIZiSI=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Alban",
     "scheduledStartTime": "2024-04-12T11:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2574,6 +2574,19 @@
     "shortName": "Raein",
     "scheduledStartTime": "2024-04-12T00:05:00Z",
     "actualStartTime": "2024-04-12T00:05:58Z",
+    "premiere": false
+  },
+  {
+    "id": "VGxVf5N2Q14",
+    "vidUrl": "https://youtu.be/VGxVf5N2Q14",
+    "vidTitle": "\u3010Inscryption\u3011AI HATE THIS GUY SO MUCH UGGHHHH",
+    "channelId": "@aishiiaivt",
+    "channelName": "Aishii Ai Ch. ",
+    "channelThumb": "https://yt3.ggpht.com/5lZebcvMcKGO60QqEpNlAKMvPq4BBlDBw89gYfuMUfX2Bz6mTufczpwLhmwp3EBT0t5CITq_rQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Aishii",
+    "scheduledStartTime": "2024-04-12T01:00:00Z",
+    "actualStartTime": "2024-04-12T01:01:39Z",
     "premiere": false
   },
   {
