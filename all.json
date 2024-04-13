@@ -1,17 +1,5 @@
 [
   {
-    "id": "Vwuzbg3CHiI",
-    "vidUrl": "https://youtu.be/Vwuzbg3CHiI",
-    "vidTitle": "\u3010 VCR RUST \u3011\u30aa\u30fc\u30e9\u30a4\u30fc\uff1f\uff1f\u62db\u5f85\u3055\u308c\u305f\u3093\u3060\u3002\u5371\u967a\u306a\u65b0\u4e16\u754c\u3092\u63a2\u691c\u3057\u3088\u3046\uff01\uff01#1",
-    "channelId": "@moricalliope",
-    "channelName": "Mori Calliope Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/8B_T08sx8R7XVi5Mwx_l9sjQm5FGWGspeujSvVDvd80Zyr-3VvVTRGVLOnBrqNRxZp6ZeXAV=s88-c-k-c0x00ffffff-no-nd-rj",
-    "shortName": "Mori",
-    "scheduledStartTime": "2024-04-13T09:58:54Z",
-    "actualStartTime": "2024-04-13T10:00:35Z",
-    "premiere": false
-  },
-  {
     "id": "1OYCE5nZoek",
     "vidUrl": "https://youtu.be/1OYCE5nZoek",
     "vidTitle": "\u226a VCR RUST \u226b New World, New Faces, NEW ADVENTURES!! #1",
@@ -177,18 +165,6 @@
     "shortName": "Karrot",
     "scheduledStartTime": "2024-04-13T14:00:00Z",
     "actualStartTime": "2024-04-13T14:01:36Z",
-    "premiere": false
-  },
-  {
-    "id": "HE1l20bNVKs",
-    "vidUrl": "https://youtu.be/HE1l20bNVKs",
-    "vidTitle": "H E L P :3",
-    "channelId": "@reinasunch",
-    "channelName": "Reina Sun Ch. \u30ec\u30a4\u30ca\u30fb\u30b5\u30f3\u300eproduction kawaii\u300f",
-    "channelThumb": "https://yt3.ggpht.com/4RX4F31z_vt136oTmk9X1aHxUrOt7TCeeUggiNx8avUBu1j5B8Blo1lktZplgYt8yVhjxKXgUi0=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Reina",
-    "scheduledStartTime": "2024-04-13T14:17:26Z",
-    "actualStartTime": "2024-04-13T14:18:24Z",
     "premiere": false
   },
   {
@@ -1963,6 +1939,19 @@
     "premiere": false
   },
   {
+    "id": "Vwuzbg3CHiI",
+    "vidUrl": "https://youtu.be/Vwuzbg3CHiI",
+    "vidTitle": "\u3010 VCR RUST \u3011\u30aa\u30fc\u30e9\u30a4\u30fc\uff1f\uff1f\u62db\u5f85\u3055\u308c\u305f\u3093\u3060\u3002\u5371\u967a\u306a\u65b0\u4e16\u754c\u3092\u63a2\u691c\u3057\u3088\u3046\uff01\uff01#1",
+    "channelId": "@moricalliope",
+    "channelName": "Mori Calliope Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/8B_T08sx8R7XVi5Mwx_l9sjQm5FGWGspeujSvVDvd80Zyr-3VvVTRGVLOnBrqNRxZp6ZeXAV=s88-c-k-c0x00ffffff-no-nd-rj",
+    "graveyard": true,
+    "shortName": "Mori",
+    "scheduledStartTime": "2024-04-13T09:58:54Z",
+    "actualStartTime": "2024-04-13T10:00:35Z",
+    "premiere": false
+  },
+  {
     "id": "SRuT34hPh2k",
     "vidUrl": "https://youtu.be/SRuT34hPh2k",
     "vidTitle": "\u3010 WORK \u30113RD DONOTHON REWARD PLOTTING LETS GO \u3010 ART \u3011",
@@ -1973,6 +1962,19 @@
     "shortName": "Skye",
     "scheduledStartTime": "2024-04-13T13:00:00Z",
     "actualStartTime": "2024-04-13T13:00:32Z",
+    "premiere": false
+  },
+  {
+    "id": "HE1l20bNVKs",
+    "vidUrl": "https://youtu.be/HE1l20bNVKs",
+    "vidTitle": "H E L P :3",
+    "channelId": "@reinasunch",
+    "channelName": "Reina Sun Ch. \u30ec\u30a4\u30ca\u30fb\u30b5\u30f3\u300eproduction kawaii\u300f",
+    "channelThumb": "https://yt3.ggpht.com/4RX4F31z_vt136oTmk9X1aHxUrOt7TCeeUggiNx8avUBu1j5B8Blo1lktZplgYt8yVhjxKXgUi0=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Reina",
+    "scheduledStartTime": "2024-04-13T14:17:26Z",
+    "actualStartTime": "2024-04-13T14:18:24Z",
     "premiere": false
   },
   {
