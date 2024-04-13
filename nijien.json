@@ -1,17 +1,5 @@
 [
   {
-    "id": "c0zL9UwgAvM",
-    "vidUrl": "https://youtu.be/c0zL9UwgAvM",
-    "vidTitle": "\u3010Genshin Impact\u3011 Pushing through Sumeru Story before 4.6 ARLECCHINO\u3010NIJISANJI EN | Ver Vermillion\u3011",
-    "channelId": "@ververmillion",
-    "channelName": "Ver Vermillion\u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/QwgUIFhcWKt-yHJ19FqCYelMr9M4fL1JCYuL14ZwdeggK08tKrvqEx9ZU99Tv7HVOaGFA0oPng=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Ver",
-    "scheduledStartTime": "2024-04-12T23:00:00Z",
-    "actualStartTime": "2024-04-12T23:26:23Z",
-    "premiere": false
-  },
-  {
     "id": "cD2epITOxCY",
     "vidUrl": "https://youtu.be/cD2epITOxCY",
     "vidTitle": "\u3010Cantonese/\u5ee3\u6771\u8a71 Zatsu\u3011\u540c\u4f60\u50be\u5413\u5048\u5566 ! I can only read in English.. \ud83d\ude2d\u3010NIJISANJI EN | Victoria Brightshield\u3011",
@@ -189,6 +177,19 @@
     "shortName": "Reimu",
     "scheduledStartTime": "2024-05-05T01:00:00Z",
     "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "c0zL9UwgAvM",
+    "vidUrl": "https://youtu.be/c0zL9UwgAvM",
+    "vidTitle": "\u3010Genshin Impact\u3011 Pushing through Sumeru Story before 4.6 ARLECCHINO\u3010NIJISANJI EN | Ver Vermillion\u3011",
+    "channelId": "@ververmillion",
+    "channelName": "Ver Vermillion\u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/QwgUIFhcWKt-yHJ19FqCYelMr9M4fL1JCYuL14ZwdeggK08tKrvqEx9ZU99Tv7HVOaGFA0oPng=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Ver",
+    "scheduledStartTime": "2024-04-12T23:00:00Z",
+    "actualStartTime": "2024-04-12T23:26:23Z",
     "premiere": false
   }
 ]

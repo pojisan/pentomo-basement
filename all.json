@@ -36,18 +36,6 @@
     "premiere": false
   },
   {
-    "id": "c0zL9UwgAvM",
-    "vidUrl": "https://youtu.be/c0zL9UwgAvM",
-    "vidTitle": "\u3010Genshin Impact\u3011 Pushing through Sumeru Story before 4.6 ARLECCHINO\u3010NIJISANJI EN | Ver Vermillion\u3011",
-    "channelId": "@ververmillion",
-    "channelName": "Ver Vermillion\u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/QwgUIFhcWKt-yHJ19FqCYelMr9M4fL1JCYuL14ZwdeggK08tKrvqEx9ZU99Tv7HVOaGFA0oPng=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Ver",
-    "scheduledStartTime": "2024-04-12T23:00:00Z",
-    "actualStartTime": "2024-04-12T23:26:23Z",
-    "premiere": false
-  },
-  {
     "id": "HOUpwcSTCc0",
     "vidUrl": "https://youtu.be/HOUpwcSTCc0",
     "vidTitle": "deploy d-dragoobah! (MGSV: Phantom Pain; PART 8)",
@@ -153,18 +141,6 @@
     "shortName": "Cerenity",
     "scheduledStartTime": "2024-04-13T04:00:00Z",
     "actualStartTime": "2024-04-13T04:07:22Z",
-    "premiere": false
-  },
-  {
-    "id": "ZzePtn-saHM",
-    "vidUrl": "https://youtu.be/ZzePtn-saHM",
-    "vidTitle": "LET'S DESIGN CATMATES \ud83e\udef5 MASCOT!",
-    "channelId": "@miuakumiya",
-    "channelName": "Miu Akumiya | Specialite EN",
-    "channelThumb": "https://yt3.ggpht.com/H0RUX3QxKuAJyYYt-hjfuZpMZXSyrmwH-ovu8KW9Kvyd-D3wToBb_5QDZQ2a3q__w6yo65EQ5xc=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Miu",
-    "scheduledStartTime": "2024-04-13T04:00:37Z",
-    "actualStartTime": "2024-04-13T04:00:48Z",
     "premiere": false
   },
   {
@@ -416,6 +392,18 @@
     "channelThumb": "https://yt3.ggpht.com/w7TKJYU7zmamFmf-WxfahCo_K7Bg2__Pk-CCBNnbewMG-77OZLqJO9MLvDAmH9nEkZH8OkWgSQ=s88-c-k-c0x00ffffff-no-nd-rj",
     "shortName": "Kiara",
     "scheduledStartTime": "2024-04-13T14:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "iP4c5U9izr8",
+    "vidUrl": "https://youtu.be/iP4c5U9izr8",
+    "vidTitle": "\u3010HELLDIVERS 2\u30113 BIG GUYS.\u3010V&U | GEN4\u3011",
+    "channelId": "@zelivnu",
+    "channelName": "Zeli Zuimu Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/x-Jy2Z-kGAif3VDun_IhsnyYfzF5aWhNbwG6fcms85aKwauMlcr0dwA2onUFirEFs2BD8YFwjWg=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Zeli",
+    "scheduledStartTime": "2024-04-13T15:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -1944,19 +1932,6 @@
     "premiere": false
   },
   {
-    "id": "FVuY5mtjD84",
-    "vidUrl": "https://youtu.be/FVuY5mtjD84",
-    "vidTitle": "\u3010THE LETTER\u3011We reading ghostie!\u3010globie 1st Gen\u3011",
-    "channelId": "@taringhu",
-    "channelName": "Taring Hu ch. \u30bf\u30ea\u30f3\u30d5\u30fc\u3010globie\u3011",
-    "channelThumb": "https://yt3.ggpht.com/ZVYdvQBa9q2BLWfDnqUrpJD16c5Tr0vGoXjvBFgydUvA1XKt1cuJPT8aMM6bSE_MtPFQVwaQYA=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Hu",
-    "scheduledStartTime": "2024-04-12T15:00:00Z",
-    "actualStartTime": "2024-04-12T14:58:58Z",
-    "premiere": false
-  },
-  {
     "id": "FlGkoZ4JgSs",
     "vidUrl": "https://youtu.be/FlGkoZ4JgSs",
     "vidTitle": "\u3010Cyberpunk 2077 #8\u3011CITY TO MONKE ONCE AGAIN?!?!\u3010Sarugaku Leon Jr. | Globie\u3011",
@@ -2061,6 +2036,19 @@
     "premiere": false
   },
   {
+    "id": "c0zL9UwgAvM",
+    "vidUrl": "https://youtu.be/c0zL9UwgAvM",
+    "vidTitle": "\u3010Genshin Impact\u3011 Pushing through Sumeru Story before 4.6 ARLECCHINO\u3010NIJISANJI EN | Ver Vermillion\u3011",
+    "channelId": "@ververmillion",
+    "channelName": "Ver Vermillion\u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/QwgUIFhcWKt-yHJ19FqCYelMr9M4fL1JCYuL14ZwdeggK08tKrvqEx9ZU99Tv7HVOaGFA0oPng=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Ver",
+    "scheduledStartTime": "2024-04-12T23:00:00Z",
+    "actualStartTime": "2024-04-12T23:26:23Z",
+    "premiere": false
+  },
+  {
     "id": "QlCpTXEhkfg",
     "vidUrl": "https://youtu.be/QlCpTXEhkfg",
     "vidTitle": "\u3010Content Warning ft @YurikagoKokone @SkyeShinryu @AmoraLumina \u3011help us\u3010V&U | GEN4\u3011#contentwarning",
@@ -2136,6 +2124,19 @@
     "shortName": "Charzu",
     "scheduledStartTime": "2024-04-13T02:01:49Z",
     "actualStartTime": "2024-04-13T02:02:04Z",
+    "premiere": false
+  },
+  {
+    "id": "ZzePtn-saHM",
+    "vidUrl": "https://youtu.be/ZzePtn-saHM",
+    "vidTitle": "LET'S DESIGN CATMATES \ud83e\udef5 MASCOT!",
+    "channelId": "@miuakumiya",
+    "channelName": "Miu Akumiya | Specialite EN",
+    "channelThumb": "https://yt3.ggpht.com/H0RUX3QxKuAJyYYt-hjfuZpMZXSyrmwH-ovu8KW9Kvyd-D3wToBb_5QDZQ2a3q__w6yo65EQ5xc=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Miu",
+    "scheduledStartTime": "2024-04-13T04:00:37Z",
+    "actualStartTime": "2024-04-13T04:00:48Z",
     "premiere": false
   },
   {
