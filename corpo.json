@@ -84,18 +84,6 @@
     "premiere": false
   },
   {
-    "id": "u5DlVFQNI7Y",
-    "vidUrl": "https://youtu.be/u5DlVFQNI7Y",
-    "vidTitle": "\u3010GAMING\u3011LET'S SOLVE A MYSTERY\u3010Yumi The Witch | V4Mirai | ENVtuber\u3011",
-    "channelId": "@yumithewitch",
-    "channelName": "Yumi the Witch Ch.\u3010V4Mirai\u3011",
-    "channelThumb": "https://yt3.ggpht.com/k481pwD9PWdvammPbZ6YdWWA8Aw8TuvTmVvep2ICveehwHFlc0oubCggJajlD_2uhwdahA6X1w=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Yumi",
-    "scheduledStartTime": "2024-04-13T04:00:00Z",
-    "actualStartTime": "2024-04-13T03:59:30Z",
-    "premiere": false
-  },
-  {
     "id": "leho9wcppto",
     "vidUrl": "https://youtu.be/leho9wcppto",
     "vidTitle": "[GIRAFFE TOWN] I DON'T CARE IF I HAVE SLIPPERY FEET I GOTTA SEE MY OSHI! [V&U | GEN 5]",
@@ -2024,19 +2012,6 @@
     "premiere": false
   },
   {
-    "id": "FlGkoZ4JgSs",
-    "vidUrl": "https://youtu.be/FlGkoZ4JgSs",
-    "vidTitle": "\u3010Cyberpunk 2077 #8\u3011CITY TO MONKE ONCE AGAIN?!?!\u3010Sarugaku Leon Jr. | Globie\u3011",
-    "channelId": "@sarugakuleonjr",
-    "channelName": "Sarugaku Leon Jr. ch.\u3010globie\u3011",
-    "channelThumb": "https://yt3.ggpht.com/e13waaN0PPXE8TcWvHVMp8fRRU8JsEeplaZBMPTsNUW_iknS32QkIgFkiKtwweKBCFUZMPnj=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Leon",
-    "scheduledStartTime": "2024-04-12T16:00:00Z",
-    "actualStartTime": "2024-04-12T15:59:22Z",
-    "premiere": false
-  },
-  {
     "id": "uu2zeUTxRgY",
     "vidUrl": "https://youtu.be/uu2zeUTxRgY",
     "vidTitle": "\u3010CHATTING / \u96d1\u8ac7\u3011Hyping about kouhais debut!\u3010Pippa Pebblesworth | globie\u3011",
@@ -2229,6 +2204,19 @@
     "shortName": "Nana",
     "scheduledStartTime": "2024-04-13T03:00:00Z",
     "actualStartTime": "2024-04-13T03:08:36Z",
+    "premiere": false
+  },
+  {
+    "id": "u5DlVFQNI7Y",
+    "vidUrl": "https://youtu.be/u5DlVFQNI7Y",
+    "vidTitle": "\u3010GAMING\u3011LET'S SOLVE A MYSTERY\u3010Yumi The Witch | V4Mirai | ENVtuber\u3011",
+    "channelId": "@yumithewitch",
+    "channelName": "Yumi the Witch Ch.\u3010V4Mirai\u3011",
+    "channelThumb": "https://yt3.ggpht.com/k481pwD9PWdvammPbZ6YdWWA8Aw8TuvTmVvep2ICveehwHFlc0oubCggJajlD_2uhwdahA6X1w=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Yumi",
+    "scheduledStartTime": "2024-04-13T04:00:00Z",
+    "actualStartTime": "2024-04-13T03:59:30Z",
     "premiere": false
   }
 ]
