@@ -188,7 +188,7 @@
     "channelThumb": "https://yt3.ggpht.com/Ds02-91FQsIFHxhISPbW0dvCSyrXDEmKyRHIn04c1vRKMXMNobf9Ny4UszPfbWXyNPze7gVqTQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Clara",
     "scheduledStartTime": "2024-04-13T06:00:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-13T06:00:39Z",
     "premiere": false
   },
   {
@@ -787,6 +787,18 @@
     "channelName": "Nerissa Ravencroft Ch. hololive-EN",
     "channelThumb": "https://yt3.ggpht.com/JDCIBWj11TgjY2Uyba_efZ0n5hzjysMB9GxkvHGkIN_sfFQJR5mx3iVPqgJ96IPcYjZpCLsb=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Nerissa",
+    "scheduledStartTime": "2024-04-13T23:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "myXKNKutvPg",
+    "vidUrl": "https://youtu.be/myXKNKutvPg",
+    "vidTitle": "So NIKKE dropped a new sides tory\u3010GODDESS OF VICTORY: NIKKE\u3011",
+    "channelId": "@obakepam",
+    "channelName": "Obake PAM Ch.",
+    "channelThumb": "https://yt3.ggpht.com/FlbqAWrn9OdE4QcjGweQkH_2WUf2kCAQPbiC4dVvt6ItUWE4pLnUrs9MJ3-KtyeULY0hGe-VPio=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Obake PAM",
     "scheduledStartTime": "2024-04-13T23:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2072,19 +2084,6 @@
     "shortName": "Nia",
     "scheduledStartTime": "2024-04-13T00:00:00Z",
     "actualStartTime": "2024-04-13T00:04:19Z",
-    "premiere": false
-  },
-  {
-    "id": "OCPCJW7oRLM",
-    "vidUrl": "https://youtu.be/OCPCJW7oRLM",
-    "vidTitle": "\u3010MOVED TO JAPAN\u3011new digs, same dogs \ud83d\udc3e\ud83d\udc93",
-    "channelId": "@fuwamococh",
-    "channelName": "FUWAMOCO Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/zt63obGOD6fnCX0elnzt8xkylqOTnAENmSCKmwg_PSiC857DDgB28kEjQ-FJlWGtNYZ9lqzEag=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "FWMC",
-    "scheduledStartTime": "2024-04-13T01:00:00Z",
-    "actualStartTime": "2024-04-13T00:55:06Z",
     "premiere": false
   },
   {
