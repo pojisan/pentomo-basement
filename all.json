@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "MeoSCVBhHdY",
-    "vidUrl": "https://youtu.be/MeoSCVBhHdY",
-    "vidTitle": "\u3010ALGS CHALLENGER CIRCUIT\u3011Revenge arc for the besties\u3010Dokibird\u3011",
-    "channelId": "@dokibird",
-    "channelName": "Dokibird",
-    "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_m53sCnXF6ENdSpHx-q_4fOn-EGaIteMhq8HX17zcGwzeQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Doki",
-    "scheduledStartTime": "2024-04-13T19:00:00Z",
-    "actualStartTime": "2024-04-13T19:00:46Z",
-    "premiere": false
-  },
-  {
     "id": "5X49P8AlU2Y",
     "vidUrl": "https://youtu.be/5X49P8AlU2Y",
     "vidTitle": "\u3010METAL GEAR SOLID THE TWIN SNAKES\u3011you like asslevania, don't you?\u3010Maid Mint Fantome\u3011",
@@ -740,6 +728,18 @@
     "channelThumb": "https://yt3.ggpht.com/zuG2TLEc_A-yWjHFTFYWe4ITzqRG7R5sMbYpa9kSFwtXM_pF-coqDuq7MZxz0hK8oB234TWX=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Kuro",
     "scheduledStartTime": "2024-04-14T13:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "QZkt28iss_E",
+    "vidUrl": "https://youtu.be/QZkt28iss_E",
+    "vidTitle": "\u3010Like a Dragon: Infinite Wealth\u3011Meeting our Mum and BIGGEST PLOT TWIST #kfp (spoiler warning)",
+    "channelId": "@takanashikiara",
+    "channelName": "Takanashi Kiara Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/w7TKJYU7zmamFmf-WxfahCo_K7Bg2__Pk-CCBNnbewMG-77OZLqJO9MLvDAmH9nEkZH8OkWgSQ=s88-c-k-c0x00ffffff-no-nd-rj",
+    "shortName": "Kiara",
+    "scheduledStartTime": "2024-04-14T14:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -1810,29 +1810,16 @@
     "premiere": false
   },
   {
-    "id": "CBiGIRV-ujE",
-    "vidUrl": "https://youtu.be/CBiGIRV-ujE",
-    "vidTitle": "WILL THEY HOLD HANDS???",
-    "channelId": "@junaunagi",
-    "channelName": "Juna Unagi Ch. idol-EN",
-    "channelThumb": "https://yt3.ggpht.com/2Z4a4Pzt3NDAzzTL_Iz9gc6HZ5uPReVnqYjz8ZDtVfcRaE026n_DgpamMVBQ4gWMBeIzfeUxUgw=s88-c-k-c0x00ffffff-no-rj",
+    "id": "MeoSCVBhHdY",
+    "vidUrl": "https://youtu.be/MeoSCVBhHdY",
+    "vidTitle": "\u3010ALGS CHALLENGER CIRCUIT\u3011Revenge arc for the besties\u3010Dokibird\u3011",
+    "channelId": "@dokibird",
+    "channelName": "Dokibird",
+    "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_m53sCnXF6ENdSpHx-q_4fOn-EGaIteMhq8HX17zcGwzeQ=s88-c-k-c0x00ffffff-no-rj",
     "graveyard": true,
-    "shortName": "Juna",
-    "scheduledStartTime": "2024-04-13T20:00:00Z",
-    "actualStartTime": "2024-04-13T20:00:40Z",
-    "premiere": false
-  },
-  {
-    "id": "5dGA-3uVGhY",
-    "vidUrl": "https://youtu.be/5dGA-3uVGhY",
-    "vidTitle": "\u3010HANDCAM BAKING\u3011Cookies: Without A Recipe!\u3010V4Mirai | Serina Maiko | ENVtuber\u3011",
-    "channelId": "@serinamaiko",
-    "channelName": "Serina Maiko Ch.\u3010V4Mirai\u3011",
-    "channelThumb": "https://yt3.ggpht.com/e1ZnaffpDDEYZ3e7gmoBxrsB5Ssh18bPpkjVpG3mn4GakmEXEenv1ArFAoj1DSB5fsNLG4cs=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Serina",
-    "scheduledStartTime": "2024-04-13T21:00:00Z",
-    "actualStartTime": "2024-04-13T20:57:15Z",
+    "shortName": "Doki",
+    "scheduledStartTime": "2024-04-13T19:00:00Z",
+    "actualStartTime": "2024-04-13T19:00:46Z",
     "premiere": false
   },
   {
