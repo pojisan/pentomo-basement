@@ -84,18 +84,6 @@
     "premiere": false
   },
   {
-    "id": "LFFRkZ8s-NI",
-    "vidUrl": "https://youtu.be/LFFRkZ8s-NI",
-    "vidTitle": "\u3010Mario Kart 8\u3011(slightly) Sleep Deprived Racing!! WITH VIEWERS",
-    "channelId": "@amoralumina",
-    "channelName": "Amora Lumina Ch. \u3010EIEN Project\u3011",
-    "channelThumb": "https://yt3.ggpht.com/0IlubsFJreJnGc7-mB5nm7oNLqyyIv6KO2eIrsQYbc8wnfGpjOH-SUn5mMh7QzHMnVRLmMQRDA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Amora",
-    "scheduledStartTime": "2024-04-13T18:00:00Z",
-    "actualStartTime": "2024-04-13T18:00:37Z",
-    "premiere": false
-  },
-  {
     "id": "x5rrGU6XQDQ",
     "vidUrl": "https://youtu.be/x5rrGU6XQDQ",
     "vidTitle": "\u3010Detroit: Become Human\u3011My name is Connor, I'm the android sent by CyberLife!",
@@ -1842,6 +1830,19 @@
     "shortName": "Obake PAM",
     "scheduledStartTime": "2024-04-13T17:00:00Z",
     "actualStartTime": "2024-04-13T17:11:40Z",
+    "premiere": false
+  },
+  {
+    "id": "LFFRkZ8s-NI",
+    "vidUrl": "https://youtu.be/LFFRkZ8s-NI",
+    "vidTitle": "\u3010Mario Kart 8\u3011(slightly) Sleep Deprived Racing!! WITH VIEWERS",
+    "channelId": "@amoralumina",
+    "channelName": "Amora Lumina Ch. \u3010EIEN Project\u3011",
+    "channelThumb": "https://yt3.ggpht.com/0IlubsFJreJnGc7-mB5nm7oNLqyyIv6KO2eIrsQYbc8wnfGpjOH-SUn5mMh7QzHMnVRLmMQRDA=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Amora",
+    "scheduledStartTime": "2024-04-13T18:00:00Z",
+    "actualStartTime": "2024-04-13T18:00:37Z",
     "premiere": false
   },
   {
