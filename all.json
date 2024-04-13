@@ -84,18 +84,6 @@
     "premiere": false
   },
   {
-    "id": "nNqJkAnJuaM",
-    "vidUrl": "https://youtu.be/nNqJkAnJuaM",
-    "vidTitle": "i'm back and i'm indie again!! \ud83c\udf1f[INDIE VTUBER DEBUT]",
-    "channelId": "@nanaasteria",
-    "channelName": "Nana Asteria Ch. \u30a2\u30b9\u30c6\u30ea\u30a2\u306a\u306a",
-    "channelThumb": "https://yt3.ggpht.com/pAlP_Z372U181eTZj9dSzjrMG-4cdVAp1gul2TEHe2wbgpwdwrg6s2DoXwxGnYBKFYPvds0WHao=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Nana",
-    "scheduledStartTime": "2024-04-13T03:00:00Z",
-    "actualStartTime": "2024-04-13T03:08:36Z",
-    "premiere": false
-  },
-  {
     "id": "-hXAbasP0b4",
     "vidUrl": "https://youtu.be/-hXAbasP0b4",
     "vidTitle": "DRUNK 3D STREAM ft. new wardrobe (pt 2)",
@@ -451,18 +439,6 @@
     "channelName": "Shiki Miyoshino / \u7f8e\u5409\u91ce\u3057\u304d\u3010Requiem\u3011",
     "channelThumb": "https://yt3.ggpht.com/Id9BL2cZTLJmv9ZoQEGIk_eFPBrQ7REmfIB6tsb34vcls6pWmKCsifuJ4Ii40vRYZvX9uGd9=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Shiki",
-    "scheduledStartTime": "2024-04-13T16:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "jQPN_b6VUG4",
-    "vidUrl": "https://youtu.be/jQPN_b6VUG4",
-    "vidTitle": "Endurance Stream | Mila Streamed FOR HOW LONG?!",
-    "channelId": "@milamarlenka",
-    "channelName": "Mila Marlenka \u3010CIESTE\u3011",
-    "channelThumb": "https://yt3.ggpht.com/fI8bhGYEiIiDYNWWoonyiSMtEHols90joU-FmG20hnjKRL0RzydX2Hv6Gy_Pf6-x3iVIFkZJELY=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Mila",
     "scheduledStartTime": "2024-04-13T16:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -1692,6 +1668,18 @@
     "premiere": false
   },
   {
+    "id": "jQPN_b6VUG4",
+    "vidUrl": "https://youtu.be/jQPN_b6VUG4",
+    "vidTitle": "Endurance Stream | Mila Streamed FOR HOW LONG?!",
+    "channelId": "@milamarlenka",
+    "channelName": "Mila Marlenka \u3010CIESTE\u3011",
+    "channelThumb": "https://yt3.ggpht.com/fI8bhGYEiIiDYNWWoonyiSMtEHols90joU-FmG20hnjKRL0RzydX2Hv6Gy_Pf6-x3iVIFkZJELY=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Mila",
+    "scheduledStartTime": "2024-04-21T16:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "FpxxZsJ7diA",
     "vidUrl": "https://youtu.be/FpxxZsJ7diA",
     "vidTitle": "\u3010#EnnaIsReal3D \u304a\u62ab\u9732\u76ee\u3011 \u2728 MY AWKWARD 3D DEBUT \u2728 \u3010NIJISANJI EN | Enna Alouette\u3011",
@@ -2127,16 +2115,16 @@
     "premiere": false
   },
   {
-    "id": "ZzePtn-saHM",
-    "vidUrl": "https://youtu.be/ZzePtn-saHM",
-    "vidTitle": "LET'S DESIGN CATMATES \ud83e\udef5 MASCOT!",
-    "channelId": "@miuakumiya",
-    "channelName": "Miu Akumiya | Specialite EN",
-    "channelThumb": "https://yt3.ggpht.com/H0RUX3QxKuAJyYYt-hjfuZpMZXSyrmwH-ovu8KW9Kvyd-D3wToBb_5QDZQ2a3q__w6yo65EQ5xc=s88-c-k-c0x00ffffff-no-rj",
+    "id": "nNqJkAnJuaM",
+    "vidUrl": "https://youtu.be/nNqJkAnJuaM",
+    "vidTitle": "i'm back and i'm indie again!! \ud83c\udf1f[INDIE VTUBER DEBUT]",
+    "channelId": "@nanaasteria",
+    "channelName": "Nana Asteria Ch. \u30a2\u30b9\u30c6\u30ea\u30a2\u306a\u306a",
+    "channelThumb": "https://yt3.ggpht.com/pAlP_Z372U181eTZj9dSzjrMG-4cdVAp1gul2TEHe2wbgpwdwrg6s2DoXwxGnYBKFYPvds0WHao=s88-c-k-c0x00ffffff-no-rj",
     "graveyard": true,
-    "shortName": "Miu",
-    "scheduledStartTime": "2024-04-13T04:00:37Z",
-    "actualStartTime": "2024-04-13T04:00:48Z",
+    "shortName": "Nana",
+    "scheduledStartTime": "2024-04-13T03:00:00Z",
+    "actualStartTime": "2024-04-13T03:08:36Z",
     "premiere": false
   },
   {
