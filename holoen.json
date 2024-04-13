@@ -60,18 +60,6 @@
     "premiere": false
   },
   {
-    "id": "mm4JXAdvcyc",
-    "vidUrl": "https://youtu.be/mm4JXAdvcyc",
-    "vidTitle": "\u3010MUMEI DRAWS\u3011Drawing Your Profile Pictures PART # 4",
-    "channelId": "@nanashimumei",
-    "channelName": "Nanashi Mumei Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/owZmjfnG_SGVmfkl3eS7Lv47pGvIr2SrS36imh6O8i0H3Wy41fYKD26U7wnyRB627fXoq0aQ0Q=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Mumei",
-    "scheduledStartTime": "2024-04-13T03:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "ua1ZK1GMCIk",
     "vidUrl": "https://youtu.be/ua1ZK1GMCIk",
     "vidTitle": "\u3010SPECIAL GUEST STREAM\u3011Drawing SS Characters then Hanging Out with Anna Nagase (voicing Harley Quinn)",
@@ -80,7 +68,19 @@
     "channelThumb": "https://yt3.ggpht.com/8B_T08sx8R7XVi5Mwx_l9sjQm5FGWGspeujSvVDvd80Zyr-3VvVTRGVLOnBrqNRxZp6ZeXAV=s88-c-k-c0x00ffffff-no-nd-rj",
     "shortName": "Mori",
     "scheduledStartTime": "2024-04-13T03:00:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-13T03:00:02Z",
+    "premiere": false
+  },
+  {
+    "id": "mm4JXAdvcyc",
+    "vidUrl": "https://youtu.be/mm4JXAdvcyc",
+    "vidTitle": "\u3010MUMEI DRAWS\u3011Drawing Your Profile Pictures PART # 4",
+    "channelId": "@nanashimumei",
+    "channelName": "Nanashi Mumei Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/owZmjfnG_SGVmfkl3eS7Lv47pGvIr2SrS36imh6O8i0H3Wy41fYKD26U7wnyRB627fXoq0aQ0Q=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Mumei",
+    "scheduledStartTime": "2024-04-13T03:00:00Z",
+    "actualStartTime": "2024-04-13T03:03:53Z",
     "premiere": false
   },
   {
