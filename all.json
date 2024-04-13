@@ -96,18 +96,6 @@
     "premiere": false
   },
   {
-    "id": "NeLwyRUBtGI",
-    "vidUrl": "https://youtu.be/NeLwyRUBtGI",
-    "vidTitle": "\u3010HANDCAM\u3011Let's try Chemical Reactions! \u3010Dr.NOVA(e) | V4Mirai | ENVtuber\u3011",
-    "channelId": "@drnovae",
-    "channelName": "Dr.NOVA(e) Ch.\u3010V4Mirai\u3011",
-    "channelThumb": "https://yt3.ggpht.com/Q5uPSXLX-UaT7iQ1VRWbehhySRrtvEcWEA-ey6HfpVmHlZSz5zUrlC9g5UQuNfsgO5UOjJfI_Q=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Novae",
-    "scheduledStartTime": "2024-04-12T22:00:00Z",
-    "actualStartTime": "2024-04-12T22:00:11Z",
-    "premiere": false
-  },
-  {
     "id": "XxQztoDb9rk",
     "vidUrl": "https://youtu.be/XxQztoDb9rk",
     "vidTitle": "\u3010THE WITCHER 3\u3011 The adventure begins",
@@ -476,7 +464,7 @@
     "channelThumb": "https://yt3.ggpht.com/kaNjFSu8SjR9kJjHuxcfwKsA12ZeruRk8iJNOxeK0z1_5-zEuaMg_F-BHlXUztmPSVbuKgcxag=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Mio",
     "scheduledStartTime": "2024-04-13T00:15:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-13T00:25:23Z",
     "premiere": false
   },
   {
@@ -487,8 +475,8 @@
     "channelName": "Coni Confetti Ch. idol-EN",
     "channelThumb": "https://yt3.ggpht.com/DHI9aYg-eO1nO1PKAyVyDIP7BhuK88nkWcztyfKc-dp0zrdErFkKsbkgC13KqMucq46qreLKpz8=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Coni",
-    "scheduledStartTime": "2024-04-13T00:30:00Z",
-    "actualStartTime": "",
+    "scheduledStartTime": "2024-04-13T00:24:15Z",
+    "actualStartTime": "2024-04-13T00:24:25Z",
     "premiere": false
   },
   {
@@ -2470,19 +2458,6 @@
     "premiere": false
   },
   {
-    "id": "zUrC5Ai0e_E",
-    "vidUrl": "https://youtu.be/zUrC5Ai0e_E",
-    "vidTitle": "minecwaft...",
-    "channelId": "@ayucouldeat",
-    "channelName": "ayu",
-    "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_lsWCiI3Ql224DtcPwGp6l3xJ-gt-C5PpfEVnH7GxeZXhU=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Ayu",
-    "scheduledStartTime": "2024-04-12T21:00:00Z",
-    "actualStartTime": "2024-04-12T20:58:32Z",
-    "premiere": false
-  },
-  {
     "id": "2wHhDQB991A",
     "vidUrl": "https://youtu.be/2wHhDQB991A",
     "vidTitle": "\u3010Shinkansen 0 | \u65b0\u5e79\u7dda 0\u53f7\u3011NOT EVEN A FLINCH \ud83d\udd0d Challenge Me Friday",
@@ -2506,6 +2481,19 @@
     "shortName": "Uta",
     "scheduledStartTime": "2024-04-12T22:00:00Z",
     "actualStartTime": "2024-04-12T21:57:15Z",
+    "premiere": false
+  },
+  {
+    "id": "NeLwyRUBtGI",
+    "vidUrl": "https://youtu.be/NeLwyRUBtGI",
+    "vidTitle": "\u3010HANDCAM\u3011Let's try Chemical Reactions! \u3010Dr.NOVA(e) | V4Mirai | ENVtuber\u3011",
+    "channelId": "@drnovae",
+    "channelName": "Dr.NOVA(e) Ch.\u3010V4Mirai\u3011",
+    "channelThumb": "https://yt3.ggpht.com/Q5uPSXLX-UaT7iQ1VRWbehhySRrtvEcWEA-ey6HfpVmHlZSz5zUrlC9g5UQuNfsgO5UOjJfI_Q=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Novae",
+    "scheduledStartTime": "2024-04-12T22:00:00Z",
+    "actualStartTime": "2024-04-12T22:00:11Z",
     "premiere": false
   },
   {
