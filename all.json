@@ -108,18 +108,6 @@
     "premiere": false
   },
   {
-    "id": "uCfeSrXcbFc",
-    "vidUrl": "https://youtu.be/uCfeSrXcbFc",
-    "vidTitle": "Let's Chat! Sleepy Saturday Zatsudan\ud83c\udf38\ud83e\udd0d #shorts #shortslive #shortsfeed",
-    "channelId": "@spectravnu",
-    "channelName": "Spectra Libitina Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/vJEi9jvzwANF4rzrVugBrJ2CumIsI3pGN68Bap-eEXSqZbp-hNpLAdqSwSIqmgqhHUbbdUzrR-w=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Spectra",
-    "scheduledStartTime": "2024-04-13T18:00:00Z",
-    "actualStartTime": "2024-04-13T18:02:13Z",
-    "premiere": false
-  },
-  {
     "id": "x5rrGU6XQDQ",
     "vidUrl": "https://youtu.be/x5rrGU6XQDQ",
     "vidTitle": "\u3010Detroit: Become Human\u3011My name is Connor, I'm the android sent by CyberLife!",
@@ -188,7 +176,7 @@
     "channelThumb": "https://yt3.ggpht.com/aFRvJ_IOkDdIvUEZYAwAR1tp-uRyO9WYycjXA13_NiRawAMJTIDgOa3Ih0ypNuW9yrEwa8gRYA4=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Hyouma",
     "scheduledStartTime": "2024-04-13T19:30:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-13T19:30:46Z",
     "premiere": false
   },
   {
@@ -1842,6 +1830,19 @@
     "shortName": "Obake PAM",
     "scheduledStartTime": "2024-04-13T17:00:00Z",
     "actualStartTime": "2024-04-13T17:11:40Z",
+    "premiere": false
+  },
+  {
+    "id": "uCfeSrXcbFc",
+    "vidUrl": "https://youtu.be/uCfeSrXcbFc",
+    "vidTitle": "Let's Chat! Sleepy Saturday Zatsudan\ud83c\udf38\ud83e\udd0d #shorts #shortslive #shortsfeed",
+    "channelId": "@spectravnu",
+    "channelName": "Spectra Libitina Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/vJEi9jvzwANF4rzrVugBrJ2CumIsI3pGN68Bap-eEXSqZbp-hNpLAdqSwSIqmgqhHUbbdUzrR-w=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Spectra",
+    "scheduledStartTime": "2024-04-13T18:00:00Z",
+    "actualStartTime": "2024-04-13T18:02:13Z",
     "premiere": false
   },
   {
