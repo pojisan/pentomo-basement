@@ -1,17 +1,5 @@
 [
   {
-    "id": "IysGwyoo4eI",
-    "vidUrl": "https://youtu.be/IysGwyoo4eI",
-    "vidTitle": "\u3010Let's Chat!\u3011 AR Live is.....tomorrow!!!!! \u3010NIJISANJI EN | Elira Pendora\u3011",
-    "channelId": "@elirapendora",
-    "channelName": "Elira Pendora \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/FqSL5KhR59LugywQ6QJo_fH98JS7m8WWDAfvziM3R_kyW79EmY-iEWsF_dlOcqCRdkXeQz4D=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Elira",
-    "scheduledStartTime": "2024-04-12T23:00:00Z",
-    "actualStartTime": "2024-04-12T23:00:59Z",
-    "premiere": false
-  },
-  {
     "id": "c0zL9UwgAvM",
     "vidUrl": "https://youtu.be/c0zL9UwgAvM",
     "vidTitle": "\u3010Genshin Impact\u3011 Pushing through Sumeru Story before 4.6 ARLECCHINO\u3010NIJISANJI EN | Ver Vermillion\u3011",
@@ -154,6 +142,19 @@
     "shortName": "Doppio",
     "scheduledStartTime": "2024-04-12T22:05:00Z",
     "actualStartTime": "2024-04-12T22:14:43Z",
+    "premiere": false
+  },
+  {
+    "id": "IysGwyoo4eI",
+    "vidUrl": "https://youtu.be/IysGwyoo4eI",
+    "vidTitle": "\u3010Let's Chat!\u3011 AR Live is.....tomorrow!!!!! \u3010NIJISANJI EN | Elira Pendora\u3011",
+    "channelId": "@elirapendora",
+    "channelName": "Elira Pendora \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/FqSL5KhR59LugywQ6QJo_fH98JS7m8WWDAfvziM3R_kyW79EmY-iEWsF_dlOcqCRdkXeQz4D=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Elira",
+    "scheduledStartTime": "2024-04-12T23:00:00Z",
+    "actualStartTime": "2024-04-12T23:00:59Z",
     "premiere": false
   }
 ]
