@@ -464,7 +464,31 @@
     "channelThumb": "https://yt3.ggpht.com/0RMVwqYrh_4HAhaUmUL3pP6S0DWfSZ-NZuTe1jfjjlEWVzpnMlI0WAja4rVw1w8EzaVQLjED=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Elayna",
     "scheduledStartTime": "2024-04-13T00:45:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-13T00:47:03Z",
+    "premiere": false
+  },
+  {
+    "id": "OCPCJW7oRLM",
+    "vidUrl": "https://youtu.be/OCPCJW7oRLM",
+    "vidTitle": "\u3010MOVED TO JAPAN\u3011new digs, same dogs \ud83d\udc3e\ud83d\udc93",
+    "channelId": "@fuwamococh",
+    "channelName": "FUWAMOCO Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/zt63obGOD6fnCX0elnzt8xkylqOTnAENmSCKmwg_PSiC857DDgB28kEjQ-FJlWGtNYZ9lqzEag=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "FWMC",
+    "scheduledStartTime": "2024-04-13T01:00:00Z",
+    "actualStartTime": "2024-04-13T00:55:06Z",
+    "premiere": false
+  },
+  {
+    "id": "ikChKVZVUOk",
+    "vidUrl": "https://youtu.be/ikChKVZVUOk",
+    "vidTitle": "\u3010LISA\u3011 cute and fun and wholesome\u3010V&U | GEN 5\u3011",
+    "channelId": "@tomomivnu",
+    "channelName": "Tomomi Toraya Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/VVorqIxpJu58JyAADFOQB604PDjYiMgpvkJD_NfvJ3uXGe-J8mLJTjYB3CzmlWokVy_nBmDVKQ=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Tomomi",
+    "scheduledStartTime": "2024-04-13T01:00:00Z",
+    "actualStartTime": "2024-04-13T00:55:10Z",
     "premiere": false
   },
   {
@@ -492,18 +516,6 @@
     "premiere": false
   },
   {
-    "id": "OCPCJW7oRLM",
-    "vidUrl": "https://youtu.be/OCPCJW7oRLM",
-    "vidTitle": "\u3010MOVED TO JAPAN\u3011new digs, same dogs \ud83d\udc3e\ud83d\udc93",
-    "channelId": "@fuwamococh",
-    "channelName": "FUWAMOCO Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/zt63obGOD6fnCX0elnzt8xkylqOTnAENmSCKmwg_PSiC857DDgB28kEjQ-FJlWGtNYZ9lqzEag=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "FWMC",
-    "scheduledStartTime": "2024-04-13T01:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "R350tbrRFAc",
     "vidUrl": "https://youtu.be/R350tbrRFAc",
     "vidTitle": "\u3010CONTENT WARNING\u3011Clout Chasing Vloggers Head For Danger",
@@ -523,18 +535,6 @@
     "channelName": "Navina Nova Ch. \u30ca\u30d3\u30ca\u30fb\u30ce\u30d0\u3010kawaii\u3011",
     "channelThumb": "https://yt3.ggpht.com/sCQGR1Y8wiQjjms1_B6cyWhgkxRccJRKEUH3ayCYmS-BIYzogqpeyUDP2j-_mC3gvm_8_6bp4g=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Nano",
-    "scheduledStartTime": "2024-04-13T01:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "ikChKVZVUOk",
-    "vidUrl": "https://youtu.be/ikChKVZVUOk",
-    "vidTitle": "\u3010LISA\u3011 cute and fun and wholesome\u3010V&U | GEN 5\u3011",
-    "channelId": "@tomomivnu",
-    "channelName": "Tomomi Toraya Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/VVorqIxpJu58JyAADFOQB604PDjYiMgpvkJD_NfvJ3uXGe-J8mLJTjYB3CzmlWokVy_nBmDVKQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Tomomi",
     "scheduledStartTime": "2024-04-13T01:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2301,19 +2301,6 @@
     "shortName": "Tomomi",
     "scheduledStartTime": "2026-04-30T17:30:00Z",
     "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "cZgCFKqcVH4",
-    "vidUrl": "https://youtu.be/cZgCFKqcVH4",
-    "vidTitle": "\u3010CHAT/\u96d1\u8ac7\u3011Morning Chat after Doctor's visit\u3010Pippa Pebblesworth | globie\u3011#shorts #shortsfeed",
-    "channelId": "@pippapebblesworth",
-    "channelName": "Pippa Pebblesworth ch. \u3010globie\u3011",
-    "channelThumb": "https://yt3.ggpht.com/FV-T274wCeRSrHKm54acTNEJLJTDlE5BdPrKoJQY0kxaTdO4uerFlxG8HJmAvS2HbSQIMzfa7A=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Pippa",
-    "scheduledStartTime": "2024-04-12T10:30:00Z",
-    "actualStartTime": "2024-04-12T10:34:03Z",
     "premiere": false
   },
   {
