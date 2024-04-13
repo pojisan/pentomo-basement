@@ -36,18 +36,6 @@
     "premiere": false
   },
   {
-    "id": "CBiGIRV-ujE",
-    "vidUrl": "https://youtu.be/CBiGIRV-ujE",
-    "vidTitle": "WILL THEY HOLD HANDS???",
-    "channelId": "@junaunagi",
-    "channelName": "Juna Unagi Ch. idol-EN",
-    "channelThumb": "https://yt3.ggpht.com/2Z4a4Pzt3NDAzzTL_Iz9gc6HZ5uPReVnqYjz8ZDtVfcRaE026n_DgpamMVBQ4gWMBeIzfeUxUgw=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Juna",
-    "scheduledStartTime": "2024-04-13T20:00:00Z",
-    "actualStartTime": "2024-04-13T20:00:40Z",
-    "premiere": false
-  },
-  {
     "id": "s9Vc_R8IzrM",
     "vidUrl": "https://youtu.be/s9Vc_R8IzrM",
     "vidTitle": "\u3010VALORANT\u3011 hopcon until ARLIVE",
@@ -57,18 +45,6 @@
     "shortName": "Finana",
     "scheduledStartTime": "2024-04-13T20:30:00Z",
     "actualStartTime": "2024-04-13T20:31:20Z",
-    "premiere": false
-  },
-  {
-    "id": "5dGA-3uVGhY",
-    "vidUrl": "https://youtu.be/5dGA-3uVGhY",
-    "vidTitle": "\u3010HANDCAM BAKING\u3011Cookies: Without A Recipe!\u3010V4Mirai | Serina Maiko | ENVtuber\u3011",
-    "channelId": "@serinamaiko",
-    "channelName": "Serina Maiko Ch.\u3010V4Mirai\u3011",
-    "channelThumb": "https://yt3.ggpht.com/e1ZnaffpDDEYZ3e7gmoBxrsB5Ssh18bPpkjVpG3mn4GakmEXEenv1ArFAoj1DSB5fsNLG4cs=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Serina",
-    "scheduledStartTime": "2024-04-13T21:00:00Z",
-    "actualStartTime": "2024-04-13T20:57:15Z",
     "premiere": false
   },
   {
@@ -236,7 +212,7 @@
     "channelThumb": "https://yt3.ggpht.com/FlbqAWrn9OdE4QcjGweQkH_2WUf2kCAQPbiC4dVvt6ItUWE4pLnUrs9MJ3-KtyeULY0hGe-VPio=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Obake PAM",
     "scheduledStartTime": "2024-04-13T23:00:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-13T23:09:39Z",
     "premiere": false
   },
   {
@@ -1831,6 +1807,32 @@
     "shortName": "Spectra",
     "scheduledStartTime": "2024-04-13T18:00:00Z",
     "actualStartTime": "2024-04-13T18:02:13Z",
+    "premiere": false
+  },
+  {
+    "id": "CBiGIRV-ujE",
+    "vidUrl": "https://youtu.be/CBiGIRV-ujE",
+    "vidTitle": "WILL THEY HOLD HANDS???",
+    "channelId": "@junaunagi",
+    "channelName": "Juna Unagi Ch. idol-EN",
+    "channelThumb": "https://yt3.ggpht.com/2Z4a4Pzt3NDAzzTL_Iz9gc6HZ5uPReVnqYjz8ZDtVfcRaE026n_DgpamMVBQ4gWMBeIzfeUxUgw=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Juna",
+    "scheduledStartTime": "2024-04-13T20:00:00Z",
+    "actualStartTime": "2024-04-13T20:00:40Z",
+    "premiere": false
+  },
+  {
+    "id": "5dGA-3uVGhY",
+    "vidUrl": "https://youtu.be/5dGA-3uVGhY",
+    "vidTitle": "\u3010HANDCAM BAKING\u3011Cookies: Without A Recipe!\u3010V4Mirai | Serina Maiko | ENVtuber\u3011",
+    "channelId": "@serinamaiko",
+    "channelName": "Serina Maiko Ch.\u3010V4Mirai\u3011",
+    "channelThumb": "https://yt3.ggpht.com/e1ZnaffpDDEYZ3e7gmoBxrsB5Ssh18bPpkjVpG3mn4GakmEXEenv1ArFAoj1DSB5fsNLG4cs=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Serina",
+    "scheduledStartTime": "2024-04-13T21:00:00Z",
+    "actualStartTime": "2024-04-13T20:57:15Z",
     "premiere": false
   },
   {
