@@ -60,18 +60,6 @@
     "premiere": false
   },
   {
-    "id": "ZVgyLO284Cg",
-    "vidUrl": "https://youtu.be/ZVgyLO284Cg",
-    "vidTitle": "\u3010SHINKANSEN 0\u3011I AM HERE FOR THE EKIBEN\ud83c\udf71\u3010NIJISANJI EN | Vezalius Bandage\u3011",
-    "channelId": "@vezaliusbandage",
-    "channelName": "Vezalius Bandage \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/rnqrntYI1y38pqQeqYAmX3_gG1vZ-iYeMGHY0nCC-lxqKdoBspKriRXzMPv7PByMydEYm9YvvzU=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Zali",
-    "scheduledStartTime": "2024-04-13T13:00:00Z",
-    "actualStartTime": "2024-04-13T13:02:43Z",
-    "premiere": false
-  },
-  {
     "id": "ZFO129O_6Hk",
     "vidUrl": "https://youtu.be/ZFO129O_6Hk",
     "vidTitle": "Today We're Going VIRAL!\u3010CONTENT WARNING\u3011",
@@ -212,7 +200,7 @@
     "channelThumb": "https://yt3.ggpht.com/e-csUdgwEj5h-rQ2vwXX-EVOeXk3BZRlaqnHS7-Mnd1ZC9icqo02aHhGvl_f50l_UX1bPsJgwFs=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Nyanheras",
     "scheduledStartTime": "2024-04-13T16:00:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-13T16:14:53Z",
     "premiere": false
   },
   {
@@ -1873,6 +1861,19 @@
     "shortName": "Skye",
     "scheduledStartTime": "2024-04-13T13:00:00Z",
     "actualStartTime": "2024-04-13T13:00:32Z",
+    "premiere": false
+  },
+  {
+    "id": "ZVgyLO284Cg",
+    "vidUrl": "https://youtu.be/ZVgyLO284Cg",
+    "vidTitle": "\u3010SHINKANSEN 0\u3011I AM HERE FOR THE EKIBEN\ud83c\udf71\u3010NIJISANJI EN | Vezalius Bandage\u3011",
+    "channelId": "@vezaliusbandage",
+    "channelName": "Vezalius Bandage \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/rnqrntYI1y38pqQeqYAmX3_gG1vZ-iYeMGHY0nCC-lxqKdoBspKriRXzMPv7PByMydEYm9YvvzU=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Zali",
+    "scheduledStartTime": "2024-04-13T13:00:00Z",
+    "actualStartTime": "2024-04-13T13:02:43Z",
     "premiere": false
   },
   {
