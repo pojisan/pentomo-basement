@@ -1,17 +1,5 @@
 [
   {
-    "id": "7ZHZ9i-Cg9s",
-    "vidUrl": "https://youtu.be/7ZHZ9i-Cg9s",
-    "vidTitle": "The thumbnail says it all",
-    "channelId": "@nikkirei",
-    "channelName": "Nikki Rei Ch. idol-EN",
-    "channelThumb": "https://yt3.ggpht.com/7yN9yQvJhx4cVCL5rLOgsBYiRtRMYEurmtjT0DosKX6qpuoSm9zeo4ELHwy7RW-knfVPzNEqAg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Nikki",
-    "scheduledStartTime": "2024-04-13T12:00:00Z",
-    "actualStartTime": "2024-04-13T12:00:43Z",
-    "premiere": false
-  },
-  {
     "id": "XHfnhCF52-A",
     "vidUrl": "https://youtu.be/XHfnhCF52-A",
     "vidTitle": "Meg's Monster",
@@ -164,7 +152,7 @@
     "channelThumb": "https://yt3.ggpht.com/2Z4a4Pzt3NDAzzTL_Iz9gc6HZ5uPReVnqYjz8ZDtVfcRaE026n_DgpamMVBQ4gWMBeIzfeUxUgw=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Juna",
     "scheduledStartTime": "2024-04-13T20:00:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-13T20:00:40Z",
     "premiere": false
   },
   {
@@ -1819,19 +1807,6 @@
     "premiere": false
   },
   {
-    "id": "xGrCFESfSQc",
-    "vidUrl": "https://youtu.be/xGrCFESfSQc",
-    "vidTitle": "\ud83d\udca5\u3010SMASH\u3011PEACH BOMBER TO YOUR FACE\u3010Yume+ | Raein Clowd\u3011",
-    "channelId": "@raeinclowd",
-    "channelName": "Raein Clowd \u3010Yume+\u3011",
-    "channelThumb": "https://yt3.ggpht.com/TJhoA7sWUEEW6PIYSsiV--qB2se4lgHL24gTVby9CNmfn7eKkQ5zAXJow9N5TEUX82iBKv1YoA=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Raein",
-    "scheduledStartTime": "2024-04-12T22:00:00Z",
-    "actualStartTime": "2024-04-12T21:35:07Z",
-    "premiere": false
-  },
-  {
     "id": "Lx29tyGyv68",
     "vidUrl": "https://youtu.be/Lx29tyGyv68",
     "vidTitle": "\u3010Overwatch 2\u3011mommy moira? sorry- mommy moira? sorry- m\u3010Yume+ | Mimosa Shirosaki\u3011",
@@ -1842,6 +1817,19 @@
     "shortName": "Mimosa",
     "scheduledStartTime": "2024-04-13T02:00:00Z",
     "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "7ZHZ9i-Cg9s",
+    "vidUrl": "https://youtu.be/7ZHZ9i-Cg9s",
+    "vidTitle": "The thumbnail says it all",
+    "channelId": "@nikkirei",
+    "channelName": "Nikki Rei Ch. idol-EN",
+    "channelThumb": "https://yt3.ggpht.com/7yN9yQvJhx4cVCL5rLOgsBYiRtRMYEurmtjT0DosKX6qpuoSm9zeo4ELHwy7RW-knfVPzNEqAg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Nikki",
+    "scheduledStartTime": "2024-04-13T12:00:00Z",
+    "actualStartTime": "2024-04-13T12:00:43Z",
     "premiere": false
   },
   {
