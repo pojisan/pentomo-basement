@@ -140,7 +140,7 @@
     "channelThumb": "https://yt3.ggpht.com/kaNjFSu8SjR9kJjHuxcfwKsA12ZeruRk8iJNOxeK0z1_5-zEuaMg_F-BHlXUztmPSVbuKgcxag=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Mio",
     "scheduledStartTime": "2024-04-13T23:30:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-13T23:32:13Z",
     "premiere": false
   },
   {
@@ -211,6 +211,18 @@
     "channelName": "Kou Mariya Ch.\u3010V4Mirai\u3011",
     "channelThumb": "https://yt3.ggpht.com/b6s7s0_W759AaVDUhJlnTvAwMW5iltLHlFyoLweiPvJCmYElo79SdBVOqzIELuSTAUMzHffg=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Mariya",
+    "scheduledStartTime": "2024-04-14T00:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "f_CWacItNi0",
+    "vidUrl": "https://youtu.be/f_CWacItNi0",
+    "vidTitle": "\u3010Members Game Night\u3011Falling for You! (but I hate it here)(also maybe play league after)",
+    "channelId": "@majokkomeimi",
+    "channelName": "Meimi Majokko Ch. \u9b54\u5973\u3063\u5b50\u3081\u3044\u307f\u3010kawaii\u3011",
+    "channelThumb": "https://yt3.ggpht.com/yKOTdfPIaUJm7wH2snXzhSgGPqJL4STR1n08lCrGFZa-7oxEZuSgy080xUQt7Y3iPp2m47FLYA=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Meimi",
     "scheduledStartTime": "2024-04-14T00:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -1850,19 +1862,6 @@
     "shortName": "Pippa",
     "scheduledStartTime": "2024-04-13T16:30:00Z",
     "actualStartTime": "2024-04-13T16:30:49Z",
-    "premiere": false
-  },
-  {
-    "id": "jf5OOYgGBEk",
-    "vidUrl": "https://youtu.be/jf5OOYgGBEk",
-    "vidTitle": "[MONETIZATION] MONSTER HUNTER AND BURGER FUND! - Ciccino Katterina Triple A Club V&U",
-    "channelId": "@ciccinovnu",
-    "channelName": "Ciccino Katterina Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/1a_CZ4DAxk-IBbjBaAdu5yAL6PzmqauC0IurAK8sWODiLNqdIu7zg6fexuKmuwfUEFoaVXeLKw4=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Ciccino",
-    "scheduledStartTime": "2024-04-13T17:00:00Z",
-    "actualStartTime": "2024-04-13T17:01:53Z",
     "premiere": false
   },
   {
