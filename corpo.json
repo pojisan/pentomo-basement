@@ -72,18 +72,6 @@
     "premiere": false
   },
   {
-    "id": "P18MzvTo1Dg",
-    "vidUrl": "https://youtu.be/P18MzvTo1Dg",
-    "vidTitle": "[GHIBLI MUSIC] Live flute & violin collab with @HiiragiEmuri",
-    "channelId": "@obakepam",
-    "channelName": "Obake PAM Ch.",
-    "channelThumb": "https://yt3.ggpht.com/FlbqAWrn9OdE4QcjGweQkH_2WUf2kCAQPbiC4dVvt6ItUWE4pLnUrs9MJ3-KtyeULY0hGe-VPio=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Obake PAM",
-    "scheduledStartTime": "2024-04-13T17:00:00Z",
-    "actualStartTime": "2024-04-13T17:11:40Z",
-    "premiere": false
-  },
-  {
     "id": "Y9uVYeWQVh4",
     "vidUrl": "https://youtu.be/Y9uVYeWQVh4",
     "vidTitle": "GLOBIE DEBUT WATCH ALONG!!! - @HyoumaKohaku @VanceVanCreed",
@@ -93,18 +81,6 @@
     "shortName": "Jun",
     "scheduledStartTime": "2024-04-13T18:00:00Z",
     "actualStartTime": "2024-04-13T17:51:38Z",
-    "premiere": false
-  },
-  {
-    "id": "JMvnZf6fvAU",
-    "vidUrl": "https://youtu.be/JMvnZf6fvAU",
-    "vidTitle": "\u3010DEBUT STREAM\u3011THE VANDAL IS HERE\u3010globie 2nd Gen - Equinnox\u3011",
-    "channelId": "@vancevancreed",
-    "channelName": "Vance Van Creed ch.",
-    "channelThumb": "https://yt3.ggpht.com/fMH-jV4av9c83joWiiU7MKY5MB_hH-1-o1Mnm1UZE6MHeG7Byea8PRBU9x0ONYgn_VTx9qfAtFI=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Vance",
-    "scheduledStartTime": "2024-04-13T18:00:00Z",
-    "actualStartTime": "2024-04-13T17:55:18Z",
     "premiere": false
   },
   {
@@ -156,18 +132,6 @@
     "premiere": false
   },
   {
-    "id": "W1D-WHSEzck",
-    "vidUrl": "https://youtu.be/W1D-WHSEzck",
-    "vidTitle": "\u3010VGM Listenalong\u3011Send Me Your Best!",
-    "channelId": "@amiyaaranha",
-    "channelName": "Amiya Ch. \u30a2\u30df\u30e4\u30fb\u30a2\u30e9\u30cb\u30e3",
-    "channelThumb": "https://yt3.ggpht.com/91Fqx3Xut4jaSefCeiDLVGQDSdkWAvt5jA8ejzT18EztYTppy29JNzpa7G-KThC8TzuAmlKBQcs=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Amiya",
-    "scheduledStartTime": "2024-04-13T19:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "bQiY0tpf9-s",
     "vidUrl": "https://youtu.be/bQiY0tpf9-s",
     "vidTitle": "[ZATSU] IT'S HOMESTUCK DAY!!! [V&U | GEN 5]",
@@ -176,7 +140,19 @@
     "channelThumb": "https://yt3.ggpht.com/dnyzDEaJzR5qZiWFp73wK_f91hlDHxiORtJ6jwu9nzWcLr_vvkHf9IQc2PGhpiBwKWMF5ns2xg=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Cerenity",
     "scheduledStartTime": "2024-04-13T19:00:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-13T18:57:36Z",
+    "premiere": false
+  },
+  {
+    "id": "W1D-WHSEzck",
+    "vidUrl": "https://youtu.be/W1D-WHSEzck",
+    "vidTitle": "\u3010VGM Listenalong\u3011Send Me Your Best!",
+    "channelId": "@amiyaaranha",
+    "channelName": "Amiya Ch. \u30a2\u30df\u30e4\u30fb\u30a2\u30e9\u30cb\u30e3",
+    "channelThumb": "https://yt3.ggpht.com/91Fqx3Xut4jaSefCeiDLVGQDSdkWAvt5jA8ejzT18EztYTppy29JNzpa7G-KThC8TzuAmlKBQcs=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Amiya",
+    "scheduledStartTime": "2024-04-13T19:00:00Z",
+    "actualStartTime": "2024-04-13T19:00:53Z",
     "premiere": false
   },
   {
@@ -2007,6 +1983,32 @@
     "shortName": "Pippa",
     "scheduledStartTime": "2024-04-13T16:30:00Z",
     "actualStartTime": "2024-04-13T16:30:49Z",
+    "premiere": false
+  },
+  {
+    "id": "P18MzvTo1Dg",
+    "vidUrl": "https://youtu.be/P18MzvTo1Dg",
+    "vidTitle": "[GHIBLI MUSIC] Live flute & violin collab with @HiiragiEmuri",
+    "channelId": "@obakepam",
+    "channelName": "Obake PAM Ch.",
+    "channelThumb": "https://yt3.ggpht.com/FlbqAWrn9OdE4QcjGweQkH_2WUf2kCAQPbiC4dVvt6ItUWE4pLnUrs9MJ3-KtyeULY0hGe-VPio=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Obake PAM",
+    "scheduledStartTime": "2024-04-13T17:00:00Z",
+    "actualStartTime": "2024-04-13T17:11:40Z",
+    "premiere": false
+  },
+  {
+    "id": "JMvnZf6fvAU",
+    "vidUrl": "https://youtu.be/JMvnZf6fvAU",
+    "vidTitle": "\u3010DEBUT STREAM\u3011THE VANDAL IS HERE\u3010globie 2nd Gen - Equinnox\u3011",
+    "channelId": "@vancevancreed",
+    "channelName": "Vance Van Creed ch.",
+    "channelThumb": "https://yt3.ggpht.com/fMH-jV4av9c83joWiiU7MKY5MB_hH-1-o1Mnm1UZE6MHeG7Byea8PRBU9x0ONYgn_VTx9qfAtFI=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Vance",
+    "scheduledStartTime": "2024-04-13T18:00:00Z",
+    "actualStartTime": "2024-04-13T17:55:18Z",
     "premiere": false
   }
 ]
