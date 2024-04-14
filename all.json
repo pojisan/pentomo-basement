@@ -230,7 +230,7 @@
   {
     "id": "LntuqqKx8zs",
     "vidUrl": "https://youtu.be/LntuqqKx8zs",
-    "vidTitle": "\u3010KARAOKE\u3011Jamming To Anime Classics!\u3010V4Mirai | Serina Maiko | ENVtuber\u3011",
+    "vidTitle": "\u3010UNARCHIVED KARAOKE\u3011Jamming To Anime Classics!\u3010V4Mirai | Serina Maiko | ENVtuber\u3011",
     "channelId": "@serinamaiko",
     "channelName": "Serina Maiko Ch.\u3010V4Mirai\u3011",
     "channelThumb": "https://yt3.ggpht.com/e1ZnaffpDDEYZ3e7gmoBxrsB5Ssh18bPpkjVpG3mn4GakmEXEenv1ArFAoj1DSB5fsNLG4cs=s88-c-k-c0x00ffffff-no-rj",
@@ -238,6 +238,18 @@
     "scheduledStartTime": "2024-04-14T23:30:00Z",
     "actualStartTime": "",
     "premiere": false
+  },
+  {
+    "id": "QjUGFCAzhMc",
+    "vidUrl": "https://youtu.be/QjUGFCAzhMc",
+    "vidTitle": "\u3010\u6b4c\u3063\u3066\u307f\u305f\u3011BaNG!!! / BAE \u3010\u82b1\u7f8e\u6708~Hanamizuki~\u3011",
+    "channelId": "@yunohanaki",
+    "channelName": "Yuno Hanaki Ch. \u83ef\u9b3c\u7d50\u671b \u3010kawaii\u3011",
+    "channelThumb": "https://yt3.ggpht.com/3pIMiD4FJEzYSAXPR4CchM-vKiT7gfMtJagky2oGpvyMy0UqATsnAPLJ8DFE1eTJQH2MYkxPHQ=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Yuno",
+    "scheduledStartTime": "2024-04-14T23:30:00Z",
+    "actualStartTime": "",
+    "premiere": true
   },
   {
     "id": "-W0ULt4N4bg",
@@ -1255,6 +1267,18 @@
     "channelName": "Kai Saikota Ch. idol-EN",
     "channelThumb": "https://yt3.ggpht.com/0rVHZdUlMh90grMz90Dv_PPWyAvBb2BbkSN2QSDU6JWGdavGje-34q4D6E1OYgBkx74vfrxzyw=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Kai",
+    "scheduledStartTime": "2024-04-17T22:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "xyy4S3Js9gk",
+    "vidUrl": "https://youtu.be/xyy4S3Js9gk",
+    "vidTitle": "\u3010Far Cry 5\u3011WE'RE ALMOST LIBERATED ft. @lanariaria",
+    "channelId": "@niasuzune",
+    "channelName": "Nia Suzune / \u9234\u97f3\u306b\u3042\u3010Requiem\u3011",
+    "channelThumb": "https://yt3.ggpht.com/EZIsXrouGx2aOmLFm39j_fLbX-5XSqIZZN20OHosxCvZbrjXFAk9z_GBWk1B4jaafizyAjTDBPY=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Nia",
     "scheduledStartTime": "2024-04-17T22:00:00Z",
     "actualStartTime": "",
     "premiere": false
