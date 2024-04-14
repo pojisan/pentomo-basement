@@ -36,18 +36,6 @@
     "premiere": false
   },
   {
-    "id": "JD1A1uzGM3s",
-    "vidUrl": "https://youtu.be/JD1A1uzGM3s",
-    "vidTitle": "[UNARCHIVED KARAOKE] I WANNA SING TODAY!![V&U | GEN 5]",
-    "channelId": "@cerenityvnu",
-    "channelName": "Cerenity Cosmica Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/dnyzDEaJzR5qZiWFp73wK_f91hlDHxiORtJ6jwu9nzWcLr_vvkHf9IQc2PGhpiBwKWMF5ns2xg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Cerenity",
-    "scheduledStartTime": "2024-04-14T19:00:00Z",
-    "actualStartTime": "2024-04-14T19:01:15Z",
-    "premiere": false
-  },
-  {
     "id": "9aGmMveIFcw",
     "vidUrl": "https://youtu.be/9aGmMveIFcw",
     "vidTitle": "4 ANIME GIRLS MAKE A VIRAL VIDEO\u3010Content Warning\u3011",
@@ -105,18 +93,6 @@
     "shortName": "Furi",
     "scheduledStartTime": "2024-04-14T19:00:00Z",
     "actualStartTime": "2024-04-14T19:09:25Z",
-    "premiere": false
-  },
-  {
-    "id": "qMe4IuUWREI",
-    "vidUrl": "https://youtu.be/qMe4IuUWREI",
-    "vidTitle": "\u3010UNARCHIVED KARAOKE/ \u6b4c\u67a0\u3011I'll sing a bit, just for you \ud83c\udfb6",
-    "channelId": "@rourinroca",
-    "channelName": "Roca Rourin Ch. idol-EN",
-    "channelThumb": "https://yt3.ggpht.com/eBm5-Is9XQiT7Ct2XPL-eAPzgNXgHqbHjgIb_z76sHswS5dVISwa8Ty-R9zVkHeBCxiVnL7-UQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Roca",
-    "scheduledStartTime": "2024-04-14T20:00:00Z",
-    "actualStartTime": "2024-04-14T19:55:53Z",
     "premiere": false
   },
   {
@@ -312,13 +288,13 @@
     "premiere": false
   },
   {
-    "id": "pBGvJGBDChs",
-    "vidUrl": "https://youtu.be/pBGvJGBDChs",
-    "vidTitle": "\u3010OCARINA OF TIME\u3011 FOR REAL THIS TIME\u3010EIEN Project\u3011",
-    "channelId": "@zumidokumi",
-    "channelName": "Zumi Dokumi Ch. \u3010EIEN Project\u3011",
-    "channelThumb": "https://yt3.ggpht.com/Rfw0lIyzSK0w6oeZ0tcfzM_VdJNo4PFEBZ4vrhVvZBtylWWoKxKpu6HHSAd1_jcy7-LlZVEBC1g=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Zumi",
+    "id": "vWtJwjt965A",
+    "vidUrl": "https://youtu.be/vWtJwjt965A",
+    "vidTitle": "Let's Chill Together UWU",
+    "channelId": "@niasuzune",
+    "channelName": "Nia Suzune / \u9234\u97f3\u306b\u3042\u3010Requiem\u3011",
+    "channelThumb": "https://yt3.ggpht.com/EZIsXrouGx2aOmLFm39j_fLbX-5XSqIZZN20OHosxCvZbrjXFAk9z_GBWk1B4jaafizyAjTDBPY=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Nia",
     "scheduledStartTime": "2024-04-14T22:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2210,6 +2186,19 @@
     "shortName": "DK",
     "scheduledStartTime": "2024-04-14T19:00:00Z",
     "actualStartTime": "2024-04-14T19:05:30Z",
+    "premiere": false
+  },
+  {
+    "id": "qMe4IuUWREI",
+    "vidUrl": "https://youtu.be/qMe4IuUWREI",
+    "vidTitle": "\u3010UNARCHIVED KARAOKE/ \u6b4c\u67a0\u3011I'll sing a bit, just for you \ud83c\udfb6",
+    "channelId": "@rourinroca",
+    "channelName": "Roca Rourin Ch. idol-EN",
+    "channelThumb": "https://yt3.ggpht.com/eBm5-Is9XQiT7Ct2XPL-eAPzgNXgHqbHjgIb_z76sHswS5dVISwa8Ty-R9zVkHeBCxiVnL7-UQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Roca",
+    "scheduledStartTime": "2024-04-14T20:00:00Z",
+    "actualStartTime": "2024-04-14T19:55:53Z",
     "premiere": false
   },
   {
