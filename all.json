@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "2j9q4y1K3vs",
-    "vidUrl": "https://youtu.be/2j9q4y1K3vs",
-    "vidTitle": "\u3010Singing Stream\u30fb\u6b4c\u67a0\u3011ALL Shounen Anime \u30fb\u5c11\u5e74\u30a2\u30cb\u30e1\u540d\u66f2",
-    "channelId": "@lumintsukiboshi",
-    "channelName": "Lumin Tsukiboshi\u30fb\u308b\u307f\u3093\ud83d\udcab\ud83d\udc51 ",
-    "channelThumb": "https://yt3.ggpht.com/GFwKlBk3CTxJtS0qwzh9PjXMdR7Zz1SvhtDnUWWHzaLbbTs60oipOhpOBSzfVjzCZh5Iv68qW3s=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Lumin",
-    "scheduledStartTime": "2024-04-14T03:00:00Z",
-    "actualStartTime": "2024-04-14T02:53:53Z",
-    "premiere": false
-  },
-  {
     "id": "gqyv6v2xorA",
     "vidUrl": "https://youtu.be/gqyv6v2xorA",
     "vidTitle": "\u3010CAPE REVEAL\u3011WHAT COULD THIS POSSIBLY BE?! \u2764 #CapeRyS",
@@ -320,6 +308,18 @@
     "channelThumb": "https://yt3.ggpht.com/IU2v8OvK9p2KPE6Udi-AxcHpDdRmZ8ixovTLb3dDzCahVLSuIc4iKBKNd5LE6lFvlgUfTIHi=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Arial",
     "scheduledStartTime": "2024-04-14T16:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "QzGJlF7KeYU",
+    "vidUrl": "https://youtu.be/QzGJlF7KeYU",
+    "vidTitle": "Pikmin Tier Lists W/ @rinpenrose",
+    "channelId": "@akanejun",
+    "channelName": "Jun Akane / \u8d64\u91d1\u30b8\u30e5\u30f3",
+    "channelThumb": "https://yt3.ggpht.com/Xav9rWL58VySYhTAZnC5aKZQ_WRRKSJhGW6SMN_u-O26vHkSl0OMnwiVJGUt7aPujvAqSbKMH3c=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Jun",
+    "scheduledStartTime": "2024-04-14T17:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -1592,16 +1592,16 @@
     "premiere": false
   },
   {
-    "id": "qtM57aeQXrc",
-    "vidUrl": "https://youtu.be/qtM57aeQXrc",
-    "vidTitle": "\u3010Diablo 4\u3011Mama Ela is better than Mama Lilith",
-    "channelId": "@elaynaduskfell",
-    "channelName": "Elayna Duskfell Ch. Legion",
-    "channelThumb": "https://yt3.ggpht.com/0RMVwqYrh_4HAhaUmUL3pP6S0DWfSZ-NZuTe1jfjjlEWVzpnMlI0WAja4rVw1w8EzaVQLjED=s88-c-k-c0x00ffffff-no-rj",
+    "id": "2j9q4y1K3vs",
+    "vidUrl": "https://youtu.be/2j9q4y1K3vs",
+    "vidTitle": "\u3010Singing Stream\u30fb\u6b4c\u67a0\u3011ALL Shounen Anime \u30fb\u5c11\u5e74\u30a2\u30cb\u30e1\u540d\u66f2",
+    "channelId": "@lumintsukiboshi",
+    "channelName": "Lumin Tsukiboshi\u30fb\u308b\u307f\u3093\ud83d\udcab\ud83d\udc51 ",
+    "channelThumb": "https://yt3.ggpht.com/GFwKlBk3CTxJtS0qwzh9PjXMdR7Zz1SvhtDnUWWHzaLbbTs60oipOhpOBSzfVjzCZh5Iv68qW3s=s88-c-k-c0x00ffffff-no-rj",
     "graveyard": true,
-    "shortName": "Elayna",
-    "scheduledStartTime": "2024-04-14T02:15:00Z",
-    "actualStartTime": "2024-04-14T02:20:11Z",
+    "shortName": "Lumin",
+    "scheduledStartTime": "2024-04-14T03:00:00Z",
+    "actualStartTime": "2024-04-14T02:53:53Z",
     "premiere": false
   },
   {
