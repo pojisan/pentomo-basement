@@ -168,18 +168,6 @@
     "premiere": false
   },
   {
-    "id": "BS9d7pGJyp0",
-    "vidUrl": "https://youtu.be/BS9d7pGJyp0",
-    "vidTitle": "\u3010Kokone's Boutique ep.9\u3011Dressing up @EchoVNU in Academia!",
-    "channelId": "@yurikagokokone",
-    "channelName": "Kokone Yurikago Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/xwSS6tbTBzvBuI0LLjA-0MQ77ZacslZB2TKN7lXcknwNBswpyMTjp9K4vLTR5B2jH4upTIAT5MI=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Kokone",
-    "scheduledStartTime": "2024-04-14T23:30:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "LntuqqKx8zs",
     "vidUrl": "https://youtu.be/LntuqqKx8zs",
     "vidTitle": "\u3010UNARCHIVED KARAOKE\u3011Jamming To Anime Classics!\u3010V4Mirai | Serina Maiko | ENVtuber\u3011",
@@ -188,7 +176,19 @@
     "channelThumb": "https://yt3.ggpht.com/e1ZnaffpDDEYZ3e7gmoBxrsB5Ssh18bPpkjVpG3mn4GakmEXEenv1ArFAoj1DSB5fsNLG4cs=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Serina",
     "scheduledStartTime": "2024-04-14T23:30:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-14T23:27:18Z",
+    "premiere": false
+  },
+  {
+    "id": "BS9d7pGJyp0",
+    "vidUrl": "https://youtu.be/BS9d7pGJyp0",
+    "vidTitle": "\u3010Kokone's Boutique ep.9\u3011Dressing up @EchoVNU in Academia!",
+    "channelId": "@yurikagokokone",
+    "channelName": "Kokone Yurikago Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/xwSS6tbTBzvBuI0LLjA-0MQ77ZacslZB2TKN7lXcknwNBswpyMTjp9K4vLTR5B2jH4upTIAT5MI=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Kokone",
+    "scheduledStartTime": "2024-04-14T23:30:00Z",
+    "actualStartTime": "2024-04-14T23:29:44Z",
     "premiere": false
   },
   {
@@ -200,8 +200,8 @@
     "channelThumb": "https://yt3.ggpht.com/3pIMiD4FJEzYSAXPR4CchM-vKiT7gfMtJagky2oGpvyMy0UqATsnAPLJ8DFE1eTJQH2MYkxPHQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Yuno",
     "scheduledStartTime": "2024-04-14T23:30:00Z",
-    "actualStartTime": "",
-    "premiere": true
+    "actualStartTime": "2024-04-14T23:30:06Z",
+    "premiere": false
   },
   {
     "id": "-W0ULt4N4bg",
@@ -1082,7 +1082,7 @@
   {
     "id": "ShjagMc5KnM",
     "vidUrl": "https://youtu.be/ShjagMc5KnM",
-    "vidTitle": "REDEEMING 300 POKEMON CODE CARDS",
+    "vidTitle": "TEACHING A NOOB TO PLAY MINECRAFT",
     "channelId": "@furiferntail",
     "channelName": "Furi Ferntail Ch. [VReverie]",
     "channelThumb": "https://yt3.ggpht.com/FU6LvWJCONpqZAK_zMBXjRAr9d9vTEd22ZV_MwwMfxaWyNGPgt3a9UkGK3Atguk7uL0DHVVNFYI=s88-c-k-c0x00ffffff-no-rj",
@@ -1476,6 +1476,30 @@
     "premiere": false
   },
   {
+    "id": "BodRP1jdI1Y",
+    "vidUrl": "https://youtu.be/BodRP1jdI1Y",
+    "vidTitle": "GOTTA CATCH 'EM ALL - POKEMON SCARLET",
+    "channelId": "@furiferntail",
+    "channelName": "Furi Ferntail Ch. [VReverie]",
+    "channelThumb": "https://yt3.ggpht.com/FU6LvWJCONpqZAK_zMBXjRAr9d9vTEd22ZV_MwwMfxaWyNGPgt3a9UkGK3Atguk7uL0DHVVNFYI=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Furi",
+    "scheduledStartTime": "2024-04-19T19:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "S9_pTrd7gwk",
+    "vidUrl": "https://youtu.be/S9_pTrd7gwk",
+    "vidTitle": "Metal Mayhem for Mini Gamers | [Metal Hellsinger] !charity @gamesforloveorg",
+    "channelId": "@ginimercury",
+    "channelName": "Roza Coatl Ch.",
+    "channelThumb": "https://yt3.ggpht.com/J_RmocTP4ficzRZ6AFtUiEXoekNfliyRQcber2EXH-nBkNjhci71GaeNHsp4gzLMZs14HZ1U6WQ=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Roza",
+    "scheduledStartTime": "2024-04-19T19:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "KU8y4xJ2rMw",
     "vidUrl": "https://youtu.be/KU8y4xJ2rMw",
     "vidTitle": "\u3010DEBUT!\u3011All Aboard! Bonnie is emBARKing on an adventure! \ud83d\udc36\u3010Bonnie Barkswell / globie\u3011",
@@ -1608,6 +1632,18 @@
     "premiere": false
   },
   {
+    "id": "2CWOSBH4GTg",
+    "vidUrl": "https://youtu.be/2CWOSBH4GTg",
+    "vidTitle": "\u3010Vreverie Collab\u3011We will survive!!!!!",
+    "channelId": "@arialyuriko",
+    "channelName": "Arial Yuriko Ch. [VReverie]",
+    "channelThumb": "https://yt3.ggpht.com/IU2v8OvK9p2KPE6Udi-AxcHpDdRmZ8ixovTLb3dDzCahVLSuIc4iKBKNd5LE6lFvlgUfTIHi=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Arial",
+    "scheduledStartTime": "2024-04-20T16:30:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "a7JMqOrzXDw",
     "vidUrl": "https://youtu.be/a7JMqOrzXDw",
     "vidTitle": "\u3010Surgeon Simulator\u3011Removing All Your Bad Parts.\u3010Yume+ | Mimosa Shirosaki\u3011",
@@ -1712,6 +1748,18 @@
     "channelThumb": "https://yt3.ggpht.com/jPWRHtDGZ3b-HXw__M_4Le5LhYAwxpcy7_Inwji6RhxGC7NK34Nihv_LwLgjtCfdTMuDE92y=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Lida",
     "scheduledStartTime": "2024-04-21T13:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "r535OPYIRbk",
+    "vidUrl": "https://youtu.be/r535OPYIRbk",
+    "vidTitle": "\u3010Poppy Playtime 3\u3011Today we finally ESCAPE!",
+    "channelId": "@arialyuriko",
+    "channelName": "Arial Yuriko Ch. [VReverie]",
+    "channelThumb": "https://yt3.ggpht.com/IU2v8OvK9p2KPE6Udi-AxcHpDdRmZ8ixovTLb3dDzCahVLSuIc4iKBKNd5LE6lFvlgUfTIHi=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Arial",
+    "scheduledStartTime": "2024-04-21T16:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
