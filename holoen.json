@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "ubY0ReV3O6k",
-    "vidUrl": "https://youtu.be/ubY0ReV3O6k",
-    "vidTitle": "\u3010Red Dead Redemption 2\u3011end times (part 8)",
-    "channelId": "@moricalliope",
-    "channelName": "Mori Calliope Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/8B_T08sx8R7XVi5Mwx_l9sjQm5FGWGspeujSvVDvd80Zyr-3VvVTRGVLOnBrqNRxZp6ZeXAV=s88-c-k-c0x00ffffff-no-nd-rj",
-    "shortName": "Mori",
-    "scheduledStartTime": "2024-04-13T23:29:34Z",
-    "actualStartTime": "2024-04-13T23:30:43Z",
-    "premiere": false
-  },
-  {
     "id": "VZpnfemwGDc",
     "vidUrl": "https://youtu.be/VZpnfemwGDc",
     "vidTitle": "\u3010CONTENT WARNING\u3011 DON'T DEAD OPEN INSIDE",
@@ -129,6 +117,19 @@
     "shortName": "Mori",
     "scheduledStartTime": "2025-04-04T10:30:00Z",
     "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "ubY0ReV3O6k",
+    "vidUrl": "https://youtu.be/ubY0ReV3O6k",
+    "vidTitle": "\u3010Red Dead Redemption 2\u3011end times (part 8)",
+    "channelId": "@moricalliope",
+    "channelName": "Mori Calliope Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/8B_T08sx8R7XVi5Mwx_l9sjQm5FGWGspeujSvVDvd80Zyr-3VvVTRGVLOnBrqNRxZp6ZeXAV=s88-c-k-c0x00ffffff-no-nd-rj",
+    "graveyard": true,
+    "shortName": "Mori",
+    "scheduledStartTime": "2024-04-13T23:29:34Z",
+    "actualStartTime": "2024-04-13T23:30:43Z",
     "premiere": false
   }
 ]
