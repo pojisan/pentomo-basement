@@ -60,18 +60,6 @@
     "premiere": false
   },
   {
-    "id": "4aYnQRbZXjU",
-    "vidUrl": "https://youtu.be/4aYnQRbZXjU",
-    "vidTitle": "\u3010Membership OPEN\u3011it's time to join the mafia",
-    "channelId": "@kattarina_qutie",
-    "channelName": "Kattarina Qutie Ch. idol-EN",
-    "channelThumb": "https://yt3.ggpht.com/gHLRZOEihJIIcqQJmj8hsp4CsuRIbKIYKzRxQp9Q9du6DfBDFlnMv3xYCXMnKqSe3N8a1ki6Yw=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Katta",
-    "scheduledStartTime": "2024-04-14T17:00:00Z",
-    "actualStartTime": "2024-04-14T17:08:42Z",
-    "premiere": false
-  },
-  {
     "id": "QzGJlF7KeYU",
     "vidUrl": "https://youtu.be/QzGJlF7KeYU",
     "vidTitle": "Pikmin Tier Lists W/ @rinpenrose",
@@ -199,6 +187,18 @@
     "channelName": "Kattarina Qutie Ch. idol-EN",
     "channelThumb": "https://yt3.ggpht.com/gHLRZOEihJIIcqQJmj8hsp4CsuRIbKIYKzRxQp9Q9du6DfBDFlnMv3xYCXMnKqSe3N8a1ki6Yw=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Katta",
+    "scheduledStartTime": "2024-04-14T19:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "i8xTH5RtZeg",
+    "vidUrl": "https://youtu.be/i8xTH5RtZeg",
+    "vidTitle": "WARNING! SUPER COOL CONTENT!\u3010content warning w/  @KohakuYumekui  @TomoeCarmine  @HiyoriMokami  \u3011",
+    "channelId": "@navinanova",
+    "channelName": "Navina Nova Ch. \u30ca\u30d3\u30ca\u30fb\u30ce\u30d0\u3010kawaii\u3011",
+    "channelThumb": "https://yt3.ggpht.com/sCQGR1Y8wiQjjms1_B6cyWhgkxRccJRKEUH3ayCYmS-BIYzogqpeyUDP2j-_mC3gvm_8_6bp4g=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Nano",
     "scheduledStartTime": "2024-04-14T19:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -836,6 +836,18 @@
     "channelThumb": "https://yt3.ggpht.com/-MORJjUXDCIxCYeCuEktQiDRvqDLv33ZG5fqCbxX6Y_U8dxMEIL9seZmRBtDbnTHQuCrs82YLQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Mozzu",
     "scheduledStartTime": "2024-04-15T17:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "Yh3VRlueHQo",
+    "vidUrl": "https://youtu.be/Yh3VRlueHQo",
+    "vidTitle": "\u3010YAKUZA: LIKE A DRAGON\u3011DUNGEON IKZZZ\u3010PRISM Project Gen 3\u3011",
+    "channelId": "@shikimiyoshino",
+    "channelName": "Shiki Miyoshino / \u7f8e\u5409\u91ce\u3057\u304d\u3010Requiem\u3011",
+    "channelThumb": "https://yt3.ggpht.com/Id9BL2cZTLJmv9ZoQEGIk_eFPBrQ7REmfIB6tsb34vcls6pWmKCsifuJ4Ii40vRYZvX9uGd9=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Shiki",
+    "scheduledStartTime": "2024-04-15T18:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -2228,6 +2240,19 @@
     "shortName": "Mimosa",
     "scheduledStartTime": "2024-04-14T17:00:00Z",
     "actualStartTime": "2024-04-14T16:58:46Z",
+    "premiere": false
+  },
+  {
+    "id": "4aYnQRbZXjU",
+    "vidUrl": "https://youtu.be/4aYnQRbZXjU",
+    "vidTitle": "\u3010Membership OPEN\u3011it's time to join the mafia",
+    "channelId": "@kattarina_qutie",
+    "channelName": "Kattarina Qutie Ch. idol-EN",
+    "channelThumb": "https://yt3.ggpht.com/gHLRZOEihJIIcqQJmj8hsp4CsuRIbKIYKzRxQp9Q9du6DfBDFlnMv3xYCXMnKqSe3N8a1ki6Yw=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Katta",
+    "scheduledStartTime": "2024-04-14T17:00:00Z",
+    "actualStartTime": "2024-04-14T17:08:42Z",
     "premiere": false
   }
 ]
