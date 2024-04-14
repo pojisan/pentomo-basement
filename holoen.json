@@ -1,17 +1,5 @@
 [
   {
-    "id": "9cs5Xihyl2Q",
-    "vidUrl": "https://youtu.be/9cs5Xihyl2Q",
-    "vidTitle": "\u3010 VCR RUST \u3011\u30e9\u30a4\u30d5\u3000\u30a4\u30ba\u3000\u30ae\u30e3\u30f3\u30d6\u30eb\u3000#2",
-    "channelId": "@moricalliope",
-    "channelName": "Mori Calliope Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/8B_T08sx8R7XVi5Mwx_l9sjQm5FGWGspeujSvVDvd80Zyr-3VvVTRGVLOnBrqNRxZp6ZeXAV=s88-c-k-c0x00ffffff-no-nd-rj",
-    "shortName": "Mori",
-    "scheduledStartTime": "2024-04-14T11:28:25Z",
-    "actualStartTime": "2024-04-14T11:30:16Z",
-    "premiere": false
-  },
-  {
     "id": "cIraNb4XKQc",
     "vidUrl": "https://youtu.be/cIraNb4XKQc",
     "vidTitle": "\u226a VCR RUST \u226b Graduating from Noob...hopefully #2",
@@ -81,6 +69,19 @@
     "shortName": "Mori",
     "scheduledStartTime": "2025-04-04T10:30:00Z",
     "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "9cs5Xihyl2Q",
+    "vidUrl": "https://youtu.be/9cs5Xihyl2Q",
+    "vidTitle": "\u3010 VCR RUST \u3011\u30e9\u30a4\u30d5\u3000\u30a4\u30ba\u3000\u30ce\u30c3\u30c8\u3000\u30ae\u30e3\u30f3\u30d6\u30eb\u3000#2",
+    "channelId": "@moricalliope",
+    "channelName": "Mori Calliope Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/8B_T08sx8R7XVi5Mwx_l9sjQm5FGWGspeujSvVDvd80Zyr-3VvVTRGVLOnBrqNRxZp6ZeXAV=s88-c-k-c0x00ffffff-no-nd-rj",
+    "graveyard": true,
+    "shortName": "Mori",
+    "scheduledStartTime": "2024-04-14T11:28:25Z",
+    "actualStartTime": "2024-04-14T11:30:16Z",
     "premiere": false
   }
 ]
