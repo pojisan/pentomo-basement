@@ -272,7 +272,7 @@
     "channelThumb": "https://yt3.ggpht.com/AtDufy17lH2ziQPDJh2-jQhOQ_3g5HNWeqx-d-CW2ItZcyB8sgVNCznypv_MdbNpiyU_pGEokks=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Mirri",
     "scheduledStartTime": "2024-04-14T20:00:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-14T20:06:37Z",
     "premiere": false
   },
   {
@@ -296,18 +296,6 @@
     "channelThumb": "https://yt3.ggpht.com/7yN9yQvJhx4cVCL5rLOgsBYiRtRMYEurmtjT0DosKX6qpuoSm9zeo4ELHwy7RW-knfVPzNEqAg=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Nikki",
     "scheduledStartTime": "2024-04-14T20:45:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "8uksctYOSQk",
-    "vidUrl": "https://youtu.be/8uksctYOSQk",
-    "vidTitle": "\u3010Just Chatting\u3011I know your location",
-    "channelId": "@mivivnu",
-    "channelName": "Mivi Aivori Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/b0A2emwbDeLrLg3NZ5zlJf0AjwnxRx8dKsbah9w_DAOW5W-nhvK_JmA87yYFwYN6KeB4dOzH=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Mivi",
-    "scheduledStartTime": "2024-04-14T21:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -1208,6 +1196,18 @@
     "channelThumb": "https://yt3.ggpht.com/aFRvJ_IOkDdIvUEZYAwAR1tp-uRyO9WYycjXA13_NiRawAMJTIDgOa3Ih0ypNuW9yrEwa8gRYA4=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Hyouma",
     "scheduledStartTime": "2024-04-17T16:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "8uksctYOSQk",
+    "vidUrl": "https://youtu.be/8uksctYOSQk",
+    "vidTitle": "\u3010Just Chatting\u3011I know your location",
+    "channelId": "@mivivnu",
+    "channelName": "Mivi Aivori Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/b0A2emwbDeLrLg3NZ5zlJf0AjwnxRx8dKsbah9w_DAOW5W-nhvK_JmA87yYFwYN6KeB4dOzH=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Mivi",
+    "scheduledStartTime": "2024-04-17T22:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -2360,19 +2360,6 @@
     "shortName": "Mimosa",
     "scheduledStartTime": "2024-04-14T17:00:00Z",
     "actualStartTime": "2024-04-14T16:58:46Z",
-    "premiere": false
-  },
-  {
-    "id": "-5reGMQG3bQ",
-    "vidUrl": "https://youtu.be/-5reGMQG3bQ",
-    "vidTitle": "[MONETIZATION PART 2] SURELY WE WIN THIS TIME - Ciccino Katterina Triple A Club V&U",
-    "channelId": "@ciccinovnu",
-    "channelName": "Ciccino Katterina Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/1a_CZ4DAxk-IBbjBaAdu5yAL6PzmqauC0IurAK8sWODiLNqdIu7zg6fexuKmuwfUEFoaVXeLKw4=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Ciccino",
-    "scheduledStartTime": "2024-04-14T17:00:00Z",
-    "actualStartTime": "2024-04-14T16:58:55Z",
     "premiere": false
   }
 ]
