@@ -1,17 +1,5 @@
 [
   {
-    "id": "VZzHJQ3mkIo",
-    "vidUrl": "https://youtu.be/VZzHJQ3mkIo",
-    "vidTitle": "\u3010Q&A\u3011Scientist(?) Answers all your questions! \u3010Dr.NOVA(e) | V4Mirai | ENVtuber\u3011",
-    "channelId": "@drnovae",
-    "channelName": "Dr.NOVA(e) Ch.\u3010V4Mirai\u3011",
-    "channelThumb": "https://yt3.ggpht.com/Q5uPSXLX-UaT7iQ1VRWbehhySRrtvEcWEA-ey6HfpVmHlZSz5zUrlC9g5UQuNfsgO5UOjJfI_Q=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Novae",
-    "scheduledStartTime": "2024-04-14T20:00:00Z",
-    "actualStartTime": "2024-04-14T20:00:20Z",
-    "premiere": false
-  },
-  {
     "id": "Ojvo5tNX4yc",
     "vidUrl": "https://youtu.be/Ojvo5tNX4yc",
     "vidTitle": "\u3010H-TAG TIERLIST\u3011Am I really exposing myself already...\u3010V&U | GEN4\u3011",
@@ -57,18 +45,6 @@
     "shortName": "Maeve",
     "scheduledStartTime": "2024-04-14T22:00:00Z",
     "actualStartTime": "2024-04-14T22:00:12Z",
-    "premiere": false
-  },
-  {
-    "id": "AuGpTg3Ue1Y",
-    "vidUrl": "https://youtu.be/AuGpTg3Ue1Y",
-    "vidTitle": "I don't want to climb.... (w/ punishments)",
-    "channelId": "@inamiyokich",
-    "channelName": "Inami Yoki Ch.",
-    "channelThumb": "https://yt3.ggpht.com/vCtnJzYIQZi4DtDvSMyEpWdolmNJoIzlO4YD0036Tm2-sRRYRjPNL0xikMCq2Q8p4hqcAKaY9V4=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Yoki",
-    "scheduledStartTime": "2024-04-14T22:00:00Z",
-    "actualStartTime": "2024-04-14T22:00:28Z",
     "premiere": false
   },
   {
@@ -866,7 +842,7 @@
   {
     "id": "vd24hGysp5s",
     "vidUrl": "https://youtu.be/vd24hGysp5s",
-    "vidTitle": "ELDEN RING GAMING WITH YOU!",
+    "vidTitle": "ELDEN RING CO-OP MOD",
     "channelId": "@confetticoni",
     "channelName": "Coni Confetti Ch. idol-EN",
     "channelThumb": "https://yt3.ggpht.com/DHI9aYg-eO1nO1PKAyVyDIP7BhuK88nkWcztyfKc-dp0zrdErFkKsbkgC13KqMucq46qreLKpz8=s88-c-k-c0x00ffffff-no-rj",
@@ -2322,6 +2298,19 @@
     "premiere": false
   },
   {
+    "id": "VZzHJQ3mkIo",
+    "vidUrl": "https://youtu.be/VZzHJQ3mkIo",
+    "vidTitle": "\u3010Q&A\u3011Scientist(?) Answers all your questions! \u3010Dr.NOVA(e) | V4Mirai | ENVtuber\u3011",
+    "channelId": "@drnovae",
+    "channelName": "Dr.NOVA(e) Ch.\u3010V4Mirai\u3011",
+    "channelThumb": "https://yt3.ggpht.com/Q5uPSXLX-UaT7iQ1VRWbehhySRrtvEcWEA-ey6HfpVmHlZSz5zUrlC9g5UQuNfsgO5UOjJfI_Q=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Novae",
+    "scheduledStartTime": "2024-04-14T20:00:00Z",
+    "actualStartTime": "2024-04-14T20:00:20Z",
+    "premiere": false
+  },
+  {
     "id": "6B8-uVXvuGs",
     "vidUrl": "https://youtu.be/6B8-uVXvuGs",
     "vidTitle": "Redbull virgin (me) tries every flavor?!",
@@ -2345,6 +2334,19 @@
     "shortName": "Ran",
     "scheduledStartTime": "2024-04-14T21:30:00Z",
     "actualStartTime": "2024-04-14T21:30:27Z",
+    "premiere": false
+  },
+  {
+    "id": "AuGpTg3Ue1Y",
+    "vidUrl": "https://youtu.be/AuGpTg3Ue1Y",
+    "vidTitle": "I don't want to climb.... (w/ punishments)",
+    "channelId": "@inamiyokich",
+    "channelName": "Inami Yoki Ch.",
+    "channelThumb": "https://yt3.ggpht.com/vCtnJzYIQZi4DtDvSMyEpWdolmNJoIzlO4YD0036Tm2-sRRYRjPNL0xikMCq2Q8p4hqcAKaY9V4=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Yoki",
+    "scheduledStartTime": "2024-04-14T22:00:00Z",
+    "actualStartTime": "2024-04-14T22:00:28Z",
     "premiere": false
   },
   {
