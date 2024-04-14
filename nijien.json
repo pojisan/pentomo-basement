@@ -1,29 +1,5 @@
 [
   {
-    "id": "nqJK8QRw4Dw",
-    "vidUrl": "https://youtu.be/nqJK8QRw4Dw",
-    "vidTitle": "\u3010Infinite Craft\u3011 VER VERMILLION + DOPPIO DROPSCYTHE = ???",
-    "channelId": "@ververmillion",
-    "channelName": "Ver Vermillion\u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/QwgUIFhcWKt-yHJ19FqCYelMr9M4fL1JCYuL14ZwdeggK08tKrvqEx9ZU99Tv7HVOaGFA0oPng=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Ver",
-    "scheduledStartTime": "2024-04-14T12:00:00Z",
-    "actualStartTime": "2024-04-14T12:05:37Z",
-    "premiere": false
-  },
-  {
-    "id": "iDMVYVf1NFY",
-    "vidUrl": "https://youtu.be/iDMVYVf1NFY",
-    "vidTitle": "INFINITY FIGHT VS. INFINITY VER IN [infinite-craft]\u3010NIJISANJI EN | Doppio Dropscythe\u3011",
-    "channelId": "@doppiodropscythe",
-    "channelName": "Doppio Dropscythe\u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/X1LtitsaIYwwrNyC5vmTCzUJUC1LHRlrkBcVHQIUkGb--Sj8ZrX_FFB7HwbG5oum7oNf80mZ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Doppio",
-    "scheduledStartTime": "2024-04-14T12:00:00Z",
-    "actualStartTime": "2024-04-14T12:06:43Z",
-    "premiere": false
-  },
-  {
     "id": "icaemg8LbWc",
     "vidUrl": "https://youtu.be/icaemg8LbWc",
     "vidTitle": "\u3010Q REMASTERED\u3011I DRAW SMART\u3010NIJISANJI EN | Vezalius Bandage\u3011",
@@ -237,6 +213,32 @@
     "shortName": "Reimu",
     "scheduledStartTime": "2024-05-05T01:00:00Z",
     "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "nqJK8QRw4Dw",
+    "vidUrl": "https://youtu.be/nqJK8QRw4Dw",
+    "vidTitle": "\u3010Infinite Craft\u3011 VER VERMILLION + DOPPIO DROPSCYTHE = ???",
+    "channelId": "@ververmillion",
+    "channelName": "Ver Vermillion\u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/QwgUIFhcWKt-yHJ19FqCYelMr9M4fL1JCYuL14ZwdeggK08tKrvqEx9ZU99Tv7HVOaGFA0oPng=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Ver",
+    "scheduledStartTime": "2024-04-14T12:00:00Z",
+    "actualStartTime": "2024-04-14T12:05:37Z",
+    "premiere": false
+  },
+  {
+    "id": "iDMVYVf1NFY",
+    "vidUrl": "https://youtu.be/iDMVYVf1NFY",
+    "vidTitle": "INFINITY FIGHT VS. INFINITY VER IN [infinite-craft]\u3010NIJISANJI EN | Doppio Dropscythe\u3011",
+    "channelId": "@doppiodropscythe",
+    "channelName": "Doppio Dropscythe\u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/X1LtitsaIYwwrNyC5vmTCzUJUC1LHRlrkBcVHQIUkGb--Sj8ZrX_FFB7HwbG5oum7oNf80mZ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Doppio",
+    "scheduledStartTime": "2024-04-14T12:00:00Z",
+    "actualStartTime": "2024-04-14T12:06:43Z",
     "premiere": false
   }
 ]
