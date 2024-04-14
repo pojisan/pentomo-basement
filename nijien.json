@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "AZBxayVpaVg",
-    "vidUrl": "https://youtu.be/AZBxayVpaVg",
-    "vidTitle": "Let's talk about NIJISANJI EN's AR LIVE !! \ud83c\udf08\u2728\u3010NIJISANJI EN | Enna Alouette\u3011",
-    "channelId": "@ennaalouette",
-    "channelName": "Enna Alouette\u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/MKS8EHgSx1cC75IPUIf0zQefXweMfVpyUQxEQ_emFsTh-LTwODz6jXotb1q-QTrNpvPpf_sSuoM=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Enna",
-    "scheduledStartTime": "2024-04-14T16:00:00Z",
-    "actualStartTime": "2024-04-14T16:01:44Z",
-    "premiere": false
-  },
-  {
     "id": "SzbKP03PXbo",
     "vidUrl": "https://youtu.be/SzbKP03PXbo",
     "vidTitle": "\u3010MINECRAFT\u3011 A new cute build on the EN server! \u3010NIJISANJI EN | Aia Amare \u3011",
@@ -225,6 +213,19 @@
     "shortName": "Reimu",
     "scheduledStartTime": "2024-05-05T01:00:00Z",
     "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "AZBxayVpaVg",
+    "vidUrl": "https://youtu.be/AZBxayVpaVg",
+    "vidTitle": "Let's talk about NIJISANJI EN's AR LIVE !! \ud83c\udf08\u2728\u3010NIJISANJI EN | Enna Alouette\u3011",
+    "channelId": "@ennaalouette",
+    "channelName": "Enna Alouette\u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/MKS8EHgSx1cC75IPUIf0zQefXweMfVpyUQxEQ_emFsTh-LTwODz6jXotb1q-QTrNpvPpf_sSuoM=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Enna",
+    "scheduledStartTime": "2024-04-14T16:00:00Z",
+    "actualStartTime": "2024-04-14T16:01:44Z",
     "premiere": false
   }
 ]
