@@ -204,18 +204,6 @@
     "premiere": false
   },
   {
-    "id": "Xa5zIn2lSnU",
-    "vidUrl": "https://youtu.be/Xa5zIn2lSnU",
-    "vidTitle": "\u3010ASMR\u3011Who said you're allowed to leave? \u3010Yume+ | Rhea Nevermore\u3011",
-    "channelId": "@rheanevermore",
-    "channelName": "Rhea Nevermore \u3010Yume+\u3011",
-    "channelThumb": "https://yt3.ggpht.com/POsoK-HHPySyD4C6ell2PZeeqjOfPFYW1SOYN0ZwETReBmkJ7ScxoTkyB3BliqEg3Qh6ulsjwQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Rhea",
-    "scheduledStartTime": "2024-04-14T01:00:00Z",
-    "actualStartTime": "2024-04-14T01:01:17Z",
-    "premiere": false
-  },
-  {
     "id": "_HvUvxk3KuM",
     "vidUrl": "https://youtu.be/_HvUvxk3KuM",
     "vidTitle": "\u3010Watchalong\u3011Sera Kesera's Debut!!!\u3010bondliveEN |Cyanne Aria\u3011#shorts #vtuber",
@@ -224,7 +212,7 @@
     "channelThumb": "https://yt3.ggpht.com/94_7bvQFgx_VwRYGfPY_C6QOyLrrhLuem9k0szU_sH5ND07OfNMmbXdhhepVJfgJekq-P2FORw=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Cy",
     "scheduledStartTime": "2024-04-14T02:00:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-14T01:57:56Z",
     "premiere": false
   },
   {
@@ -236,7 +224,19 @@
     "channelThumb": "https://yt3.ggpht.com/RYRGGRwlHY1oVaarYXI1qTmsPVPpndVup-lM4VI7xowL9qvRNyl6593ldAeeWhVH8F50K9_yKHg=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Miuna",
     "scheduledStartTime": "2024-04-14T02:00:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-14T02:00:59Z",
+    "premiere": false
+  },
+  {
+    "id": "uHQKcfFx2M8",
+    "vidUrl": "https://youtu.be/uHQKcfFx2M8",
+    "vidTitle": "a vtuber runs a vtuber company",
+    "channelId": "@charlottesuzu",
+    "channelName": "Charlotte Suzu / \u30b7\u30e3\u30fc\u30ed\u30c3\u30c8\u30fb\u30b9\u30ba \u3010kawaii\u3011",
+    "channelThumb": "https://yt3.ggpht.com/GsB4xQkkRT82EzVSuT8nU34Dj0MoofYZRwsTw2WWy4DHpvrGkmN2_59njomL2MuZCuR0I7i3-XM=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Charzu",
+    "scheduledStartTime": "2024-04-14T02:00:17Z",
+    "actualStartTime": "2024-04-14T02:00:29Z",
     "premiere": false
   },
   {
@@ -259,18 +259,6 @@
     "channelName": "Amase Io CH. \u5929\u702c \u30a4\u30aa\u3010Project Memoire\u3011",
     "channelThumb": "https://yt3.ggpht.com/X1sgPuBT-qyqDLp-Z42L1Xx6FqUOvvgaTeOz8DhHobGpDBiCOsmAcvzXRRUXihT9mv0QrEPPfQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Io",
-    "scheduledStartTime": "2024-04-14T02:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "uHQKcfFx2M8",
-    "vidUrl": "https://youtu.be/uHQKcfFx2M8",
-    "vidTitle": "a vtuber runs a vtuber company",
-    "channelId": "@charlottesuzu",
-    "channelName": "Charlotte Suzu / \u30b7\u30e3\u30fc\u30ed\u30c3\u30c8\u30fb\u30b9\u30ba \u3010kawaii\u3011",
-    "channelThumb": "https://yt3.ggpht.com/GsB4xQkkRT82EzVSuT8nU34Dj0MoofYZRwsTw2WWy4DHpvrGkmN2_59njomL2MuZCuR0I7i3-XM=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Charzu",
     "scheduledStartTime": "2024-04-14T02:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -1985,6 +1973,19 @@
     "shortName": "Mako",
     "scheduledStartTime": "2024-04-13T23:00:00Z",
     "actualStartTime": "2024-04-13T23:00:47Z",
+    "premiere": false
+  },
+  {
+    "id": "Xa5zIn2lSnU",
+    "vidUrl": "https://youtu.be/Xa5zIn2lSnU",
+    "vidTitle": "\u3010ASMR\u3011Who said you're allowed to leave? \u3010Yume+ | Rhea Nevermore\u3011",
+    "channelId": "@rheanevermore",
+    "channelName": "Rhea Nevermore \u3010Yume+\u3011",
+    "channelThumb": "https://yt3.ggpht.com/POsoK-HHPySyD4C6ell2PZeeqjOfPFYW1SOYN0ZwETReBmkJ7ScxoTkyB3BliqEg3Qh6ulsjwQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Rhea",
+    "scheduledStartTime": "2024-04-14T01:00:00Z",
+    "actualStartTime": "2024-04-14T01:01:17Z",
     "premiere": false
   }
 ]
