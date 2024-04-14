@@ -200,7 +200,7 @@
     "channelThumb": "https://yt3.ggpht.com/O64mRHiN_f8Xzpwucwlf_pegYaW8OWoHcNhfVAwXcSvy3NNUbDoTjQGq0cdyrR0EdGXV4gv6XA=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Mana",
     "scheduledStartTime": "2024-04-14T14:30:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-14T14:36:09Z",
     "premiere": false
   },
   {
@@ -295,6 +295,18 @@
     "channelName": "Alias Anono Ch. \u3010V4Mirai\u3011",
     "channelThumb": "https://yt3.ggpht.com/2cjQaeikgrJlNLffvtgcuH9FNsGIOdBdC34ShNNmqpW4MH-n2GPJGT3gv2oz8awap2nOeKneoQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Alias",
+    "scheduledStartTime": "2024-04-14T18:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "EdqAFHTeq0c",
+    "vidUrl": "https://youtu.be/EdqAFHTeq0c",
+    "vidTitle": "\u3010A difficult game about climbing\u3011welp lets see how this goessss",
+    "channelId": "@amoralumina",
+    "channelName": "Amora Lumina Ch. \u3010EIEN Project\u3011",
+    "channelThumb": "https://yt3.ggpht.com/0IlubsFJreJnGc7-mB5nm7oNLqyyIv6KO2eIrsQYbc8wnfGpjOH-SUn5mMh7QzHMnVRLmMQRDA=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Amora",
     "scheduledStartTime": "2024-04-14T18:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -960,18 +972,6 @@
     "premiere": false
   },
   {
-    "id": "3vjDKAjuN90",
-    "vidUrl": "https://youtu.be/3vjDKAjuN90",
-    "vidTitle": "\u3010FUWAMOCO MORNING\u3011episode 85 \ud83d\udc3e #FWMCMORNING",
-    "channelId": "@fuwamococh",
-    "channelName": "FUWAMOCO Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/zt63obGOD6fnCX0elnzt8xkylqOTnAENmSCKmwg_PSiC857DDgB28kEjQ-FJlWGtNYZ9lqzEag=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "FWMC",
-    "scheduledStartTime": "2024-04-15T15:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "Uqp08h49uZk",
     "vidUrl": "https://youtu.be/Uqp08h49uZk",
     "vidTitle": "\u3010Fall Guys\u3011Crown Grabber POV\u3010globie 2nd Gen - Equinnox\u3011",
@@ -1064,18 +1064,6 @@
     "channelThumb": "https://yt3.ggpht.com/Yv97lNyNygKWhFW-foy823UoJZv-Uf4tg0t_fzZlyTzrYLdiEvt-gjs9dDoDDGEoH2sVXy6E=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Sara",
     "scheduledStartTime": "2024-04-16T00:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "1NSBhCGWTOI",
-    "vidUrl": "https://youtu.be/1NSBhCGWTOI",
-    "vidTitle": "\u3010SUPERCHAT READING\u3011sakura colored puppies \ud83d\udc3e\u2728",
-    "channelId": "@fuwamococh",
-    "channelName": "FUWAMOCO Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/zt63obGOD6fnCX0elnzt8xkylqOTnAENmSCKmwg_PSiC857DDgB28kEjQ-FJlWGtNYZ9lqzEag=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "FWMC",
-    "scheduledStartTime": "2024-04-16T01:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
