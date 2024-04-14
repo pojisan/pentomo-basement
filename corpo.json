@@ -36,18 +36,6 @@
     "premiere": false
   },
   {
-    "id": "yv5O1Mj8tjI",
-    "vidUrl": "https://youtu.be/yv5O1Mj8tjI",
-    "vidTitle": "\u3010KARAOKE\u3011Head hurtie! Let's sing our hearts out instead! \ud83c\udf03  #vtuber #shorts #\u6b4c\u67a0",
-    "channelId": "@lila_daybreak",
-    "channelName": "Lila Maria Ch.\u3010DAYBREAK\u3011",
-    "channelThumb": "https://yt3.ggpht.com/d_xPe3A4nrO3B3qfhtdnJjS7d12YfuYt-b6Cg_A_17KFMJaZk1tbC1RXPHWqB09ItKE8UPkOpA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Lila",
-    "scheduledStartTime": "2024-04-14T13:30:00Z",
-    "actualStartTime": "2024-04-14T13:30:24Z",
-    "premiere": false
-  },
-  {
     "id": "8CearAL01Bs",
     "vidUrl": "https://youtu.be/8CearAL01Bs",
     "vidTitle": "THE YAPPENING (spontaneous stream)",
@@ -151,6 +139,18 @@
     "channelName": "Jun Akane / \u8d64\u91d1\u30b8\u30e5\u30f3",
     "channelThumb": "https://yt3.ggpht.com/Xav9rWL58VySYhTAZnC5aKZQ_WRRKSJhGW6SMN_u-O26vHkSl0OMnwiVJGUt7aPujvAqSbKMH3c=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Jun",
+    "scheduledStartTime": "2024-04-14T17:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "WpkRldVkVkQ",
+    "vidUrl": "https://youtu.be/WpkRldVkVkQ",
+    "vidTitle": "\u3010KARAOKE\u3011Sing (2024 edition)\u3010Yume+ | Mimosa Shirosaki\u3011",
+    "channelId": "@mimosashirosaki",
+    "channelName": "Mimosa Shirosaki \u3010Yume+\u3011",
+    "channelThumb": "https://yt3.ggpht.com/N2epFpbQoGAzXd6q2EhpasgOviB2OuG9AvbQnDVY3HbugpsY5WDZ_p5Um93pEeNBKsJaGFXz=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Mimosa",
     "scheduledStartTime": "2024-04-14T17:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -535,6 +535,18 @@
     "channelName": "Reina Ronronea ch. \u3010globie\u3011",
     "channelThumb": "https://yt3.ggpht.com/MOmaBB08GVq5lIY13WTEtrmqB8l2Nwald3Y_XLd28nmqQTOdbgHgQFkiItRLn79KWLevOiurgg=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Reina",
+    "scheduledStartTime": "2024-04-15T00:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "alK8aJtac7o",
+    "vidUrl": "https://youtu.be/alK8aJtac7o",
+    "vidTitle": "comfy morning asmr \ud83e\udde1",
+    "channelId": "@miunausako",
+    "channelName": "Miuna Usako Ch.\u3010PixelLink\u3011",
+    "channelThumb": "https://yt3.ggpht.com/RYRGGRwlHY1oVaarYXI1qTmsPVPpndVup-lM4VI7xowL9qvRNyl6593ldAeeWhVH8F50K9_yKHg=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Miuna",
     "scheduledStartTime": "2024-04-15T00:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -980,6 +992,18 @@
     "channelThumb": "https://yt3.ggpht.com/swraGRJ-7ukDEjf58l8YghX2KRDuxS2AEW417T7BWmc-NehlFSgYeMftFJ9VuDE43C07xHQLKBA=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Umi",
     "scheduledStartTime": "2024-04-16T21:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "Lx29tyGyv68",
+    "vidUrl": "https://youtu.be/Lx29tyGyv68",
+    "vidTitle": "\u3010Overwatch 2\u3011mommy moira? sorry- mommy moira? sorry- m\u3010Yume+ | Mimosa Shirosaki\u3011",
+    "channelId": "@mimosashirosaki",
+    "channelName": "Mimosa Shirosaki \u3010Yume+\u3011",
+    "channelThumb": "https://yt3.ggpht.com/N2epFpbQoGAzXd6q2EhpasgOviB2OuG9AvbQnDVY3HbugpsY5WDZ_p5Um93pEeNBKsJaGFXz=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Mimosa",
+    "scheduledStartTime": "2024-04-17T00:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -1934,19 +1958,6 @@
     "graveyard": true,
     "shortName": "Karrot",
     "scheduledStartTime": "2024-04-12T14:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "Lx29tyGyv68",
-    "vidUrl": "https://youtu.be/Lx29tyGyv68",
-    "vidTitle": "\u3010Overwatch 2\u3011mommy moira? sorry- mommy moira? sorry- m\u3010Yume+ | Mimosa Shirosaki\u3011",
-    "channelId": "@mimosashirosaki",
-    "channelName": "Mimosa Shirosaki \u3010Yume+\u3011",
-    "channelThumb": "https://yt3.ggpht.com/N2epFpbQoGAzXd6q2EhpasgOviB2OuG9AvbQnDVY3HbugpsY5WDZ_p5Um93pEeNBKsJaGFXz=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Mimosa",
-    "scheduledStartTime": "2024-04-13T02:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
