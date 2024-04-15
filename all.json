@@ -60,18 +60,6 @@
     "premiere": false
   },
   {
-    "id": "zbLEQfqPqn8",
-    "vidUrl": "https://youtu.be/zbLEQfqPqn8",
-    "vidTitle": "BLIND POWER POINT PRESENTATIONS!\u3010NIJISANJI EN | Vantacrow Bringer\u3011",
-    "channelId": "@vantacrowbringer",
-    "channelName": "Vantacrow Bringer \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/GLPkvp_8o7OvZ3q57IpqDSHIyv6OqZFK6tO1egzLoMjE19EBlo3tISEMIOLEvkC5jnl2Uus93A=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Vanta",
-    "scheduledStartTime": "2024-04-15T01:00:00Z",
-    "actualStartTime": "2024-04-15T01:05:47Z",
-    "premiere": false
-  },
-  {
     "id": "7vx_dp8CDZM",
     "vidUrl": "https://youtu.be/7vx_dp8CDZM",
     "vidTitle": "Who's the best bird? w/ BakeDeath!",
@@ -2429,45 +2417,6 @@
     "premiere": false
   },
   {
-    "id": "n51UNH48kts",
-    "vidUrl": "https://youtu.be/n51UNH48kts",
-    "vidTitle": "Mario Party Superstars | Celebrating 6 Months with Cieste!",
-    "channelId": "@buoyafuru",
-    "channelName": "Buoy Afuru | CIESTE",
-    "channelThumb": "https://yt3.ggpht.com/H_892LDXqcHxCpLlCzwFJ2ZvFUNxe0budpC4ZJAquXYKViznzWrgDf28fFWKZYKjYMi-3t_9aio=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Buoy",
-    "scheduledStartTime": "2024-04-14T22:00:00Z",
-    "actualStartTime": "2024-04-14T22:01:04Z",
-    "premiere": false
-  },
-  {
-    "id": "SzbKP03PXbo",
-    "vidUrl": "https://youtu.be/SzbKP03PXbo",
-    "vidTitle": "\u3010MINECRAFT\u3011 A new cute build on the EN server! \u3010NIJISANJI EN | Aia Amare \u3011",
-    "channelId": "@aiaamare",
-    "channelName": "Aia Amare \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/ZtRcLNqOjG8w9CMolweuy-jnNGin0W0KjxVxUpzni3uvqKY6rJgnAphvHOEmxcqSV7yXwqkKcg=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Aia",
-    "scheduledStartTime": "2024-04-14T22:00:00Z",
-    "actualStartTime": "2024-04-14T22:13:11Z",
-    "premiere": false
-  },
-  {
-    "id": "2K_4TY62EIw",
-    "vidUrl": "https://youtu.be/2K_4TY62EIw",
-    "vidTitle": "\u3010SNUFKIN: MELODY OF MOOMINVALLEY\u3011we're going to save moomintroll!!\u3010NIJISANJI EN | Uki Violeta\u3011",
-    "channelId": "@ukivioleta",
-    "channelName": "Uki Violeta \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/WIy30MlmcCTxrEuKULkAdh8itCfT4Up5myJbpVHTkKbfKcgriF_qL6d3iJMD_mQfwb0B1JDT=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Uki",
-    "scheduledStartTime": "2024-04-15T00:00:00Z",
-    "actualStartTime": "2024-04-15T00:01:44Z",
-    "premiere": false
-  },
-  {
     "id": "alK8aJtac7o",
     "vidUrl": "https://youtu.be/alK8aJtac7o",
     "vidTitle": "comfy morning asmr \ud83e\udde1",
@@ -2517,6 +2466,19 @@
     "shortName": "Mion",
     "scheduledStartTime": "2024-04-15T00:45:00Z",
     "actualStartTime": "2024-04-15T00:48:45Z",
+    "premiere": false
+  },
+  {
+    "id": "zbLEQfqPqn8",
+    "vidUrl": "https://youtu.be/zbLEQfqPqn8",
+    "vidTitle": "BLIND POWER POINT PRESENTATIONS!\u3010NIJISANJI EN | Vantacrow Bringer\u3011",
+    "channelId": "@vantacrowbringer",
+    "channelName": "Vantacrow Bringer \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/GLPkvp_8o7OvZ3q57IpqDSHIyv6OqZFK6tO1egzLoMjE19EBlo3tISEMIOLEvkC5jnl2Uus93A=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Vanta",
+    "scheduledStartTime": "2024-04-15T01:00:00Z",
+    "actualStartTime": "2024-04-15T01:05:47Z",
     "premiere": false
   },
   {
