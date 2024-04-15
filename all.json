@@ -1,17 +1,5 @@
 [
   {
-    "id": "BS9d7pGJyp0",
-    "vidUrl": "https://youtu.be/BS9d7pGJyp0",
-    "vidTitle": "\u3010Kokone's Boutique ep.9\u3011Dressing up @EchoVNU in Academia!",
-    "channelId": "@yurikagokokone",
-    "channelName": "Kokone Yurikago Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/xwSS6tbTBzvBuI0LLjA-0MQ77ZacslZB2TKN7lXcknwNBswpyMTjp9K4vLTR5B2jH4upTIAT5MI=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Kokone",
-    "scheduledStartTime": "2024-04-14T23:30:00Z",
-    "actualStartTime": "2024-04-14T23:29:44Z",
-    "premiere": false
-  },
-  {
     "id": "-W0ULt4N4bg",
     "vidUrl": "https://youtu.be/-W0ULt4N4bg",
     "vidTitle": "Is This the Most VIOLENT FPS Game!? | RETRO FPS TIME!\u3010 ULTRAKILL \u3011",
@@ -283,7 +271,7 @@
     "channelName": "Scarle Yonaguni \u3010NIJISANJI EN\u3011",
     "channelThumb": "https://yt3.ggpht.com/oYEH8ckOxzEJ0GXlZGp4aSxvZrMWAeodRUg_MRgHqJEr7bEyjXdoC5VyYZ143XtcIKUozhQq6Q=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Scarle",
-    "scheduledStartTime": "2024-04-15T05:00:00Z",
+    "scheduledStartTime": "2024-04-15T05:30:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -848,6 +836,18 @@
     "channelThumb": "https://yt3.ggpht.com/Ds02-91FQsIFHxhISPbW0dvCSyrXDEmKyRHIn04c1vRKMXMNobf9Ny4UszPfbWXyNPze7gVqTQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Clara",
     "scheduledStartTime": "2024-04-16T04:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "CEg5IM82ZyU",
+    "vidUrl": "https://youtu.be/CEg5IM82ZyU",
+    "vidTitle": "\u3010ASMR/3dio\u3011Quiet whispers for deep sleep\u2661 (scripts/heartbeat)",
+    "channelId": "@luaasuka",
+    "channelName": "Lua Asuka Ch. \u98db\u9ce5\u7460\u85cd\u3010kawaii\u3011",
+    "channelThumb": "https://yt3.ggpht.com/d1sfvqWiJPB51QNzYWdhfomd-El9OgOGZp-PtJkZhsN0kGeVUyYuJEASnMFyVlAdm2pGRGI19A=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Lua",
+    "scheduledStartTime": "2024-04-16T13:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -2464,6 +2464,19 @@
     "premiere": false
   },
   {
+    "id": "BS9d7pGJyp0",
+    "vidUrl": "https://youtu.be/BS9d7pGJyp0",
+    "vidTitle": "\u3010Kokone's Boutique ep.9\u3011Dressing up @EchoVNU in Academia!",
+    "channelId": "@yurikagokokone",
+    "channelName": "Kokone Yurikago Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/xwSS6tbTBzvBuI0LLjA-0MQ77ZacslZB2TKN7lXcknwNBswpyMTjp9K4vLTR5B2jH4upTIAT5MI=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Kokone",
+    "scheduledStartTime": "2024-04-14T23:30:00Z",
+    "actualStartTime": "2024-04-14T23:29:44Z",
+    "premiere": false
+  },
+  {
     "id": "alK8aJtac7o",
     "vidUrl": "https://youtu.be/alK8aJtac7o",
     "vidTitle": "comfy morning asmr \ud83e\udde1",
@@ -2513,19 +2526,6 @@
     "shortName": "Mion",
     "scheduledStartTime": "2024-04-15T00:45:00Z",
     "actualStartTime": "2024-04-15T00:48:45Z",
-    "premiere": false
-  },
-  {
-    "id": "3fm15L3_kNY",
-    "vidUrl": "https://youtu.be/3fm15L3_kNY",
-    "vidTitle": "\u3010GTA V\u3011Is that a grenade in your pocket or are you just happy to see me?\u3014Pt. 8\u3015",
-    "channelId": "@mivivnu",
-    "channelName": "Mivi Aivori Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/b0A2emwbDeLrLg3NZ5zlJf0AjwnxRx8dKsbah9w_DAOW5W-nhvK_JmA87yYFwYN6KeB4dOzH=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Mivi",
-    "scheduledStartTime": "2024-04-15T01:30:00Z",
-    "actualStartTime": "2024-04-15T01:30:16Z",
     "premiere": false
   },
   {
