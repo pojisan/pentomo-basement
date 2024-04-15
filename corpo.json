@@ -84,30 +84,6 @@
     "premiere": false
   },
   {
-    "id": "AIu-BnhbI7Y",
-    "vidUrl": "https://youtu.be/AIu-BnhbI7Y",
-    "vidTitle": "[Solo Lethal Company] WHERE ARE THE NEW MONSTERS!?",
-    "channelId": "@mionakuma",
-    "channelName": "Mion Akuma \u3010AuroraLiveVR\u3011",
-    "channelThumb": "https://yt3.ggpht.com/nDRQClGe1KvbcnQM7n2UBSmCiV22fXLRrRsedlRZNFktAK5tsWp21FA7HQNoAkDvwyzrdF-0og=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Mion",
-    "scheduledStartTime": "2024-04-15T00:45:00Z",
-    "actualStartTime": "2024-04-15T00:48:39Z",
-    "premiere": false
-  },
-  {
-    "id": "4ebKxH9UGKU",
-    "vidUrl": "https://youtu.be/4ebKxH9UGKU",
-    "vidTitle": "LETHAL COMPANY #shortslive #shorts",
-    "channelId": "@mionakuma",
-    "channelName": "Mion Akuma \u3010AuroraLiveVR\u3011",
-    "channelThumb": "https://yt3.ggpht.com/nDRQClGe1KvbcnQM7n2UBSmCiV22fXLRrRsedlRZNFktAK5tsWp21FA7HQNoAkDvwyzrdF-0og=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Mion",
-    "scheduledStartTime": "2024-04-15T00:45:00Z",
-    "actualStartTime": "2024-04-15T00:48:45Z",
-    "premiere": false
-  },
-  {
     "id": "jFz5Ttw6PH4",
     "vidUrl": "https://youtu.be/jFz5Ttw6PH4",
     "vidTitle": "\u3010THANK YOU\u3011I thank donations by stepping on you :3",
@@ -2603,6 +2579,32 @@
     "shortName": "Miuna",
     "scheduledStartTime": "2024-04-15T00:00:00Z",
     "actualStartTime": "2024-04-15T00:01:50Z",
+    "premiere": false
+  },
+  {
+    "id": "AIu-BnhbI7Y",
+    "vidUrl": "https://youtu.be/AIu-BnhbI7Y",
+    "vidTitle": "[Solo Lethal Company] WHERE ARE THE NEW MONSTERS!?",
+    "channelId": "@mionakuma",
+    "channelName": "Mion Akuma \u3010AuroraLiveVR\u3011",
+    "channelThumb": "https://yt3.ggpht.com/nDRQClGe1KvbcnQM7n2UBSmCiV22fXLRrRsedlRZNFktAK5tsWp21FA7HQNoAkDvwyzrdF-0og=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Mion",
+    "scheduledStartTime": "2024-04-15T00:45:00Z",
+    "actualStartTime": "2024-04-15T00:48:39Z",
+    "premiere": false
+  },
+  {
+    "id": "4ebKxH9UGKU",
+    "vidUrl": "https://youtu.be/4ebKxH9UGKU",
+    "vidTitle": "LETHAL COMPANY #shortslive #shorts",
+    "channelId": "@mionakuma",
+    "channelName": "Mion Akuma \u3010AuroraLiveVR\u3011",
+    "channelThumb": "https://yt3.ggpht.com/nDRQClGe1KvbcnQM7n2UBSmCiV22fXLRrRsedlRZNFktAK5tsWp21FA7HQNoAkDvwyzrdF-0og=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Mion",
+    "scheduledStartTime": "2024-04-15T00:45:00Z",
+    "actualStartTime": "2024-04-15T00:48:45Z",
     "premiere": false
   }
 ]
