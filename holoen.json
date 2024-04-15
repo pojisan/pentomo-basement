@@ -1,14 +1,14 @@
 [
   {
-    "id": "AqCoI6h_dkI",
-    "vidUrl": "https://youtu.be/AqCoI6h_dkI",
-    "vidTitle": "\u3010BIBOO'S BIRTHDAY 2024\u3011Sleepover Party!! Game Night\u3010PART 3\u3011#tanjouBIBOO",
+    "id": "-fqheEt3qtY",
+    "vidUrl": "https://youtu.be/-fqheEt3qtY",
+    "vidTitle": "\u3010BIBOO'S BIRTHDAY 2024\u3011Sleepover Party!! PEBBLE PARTY\u3010PART 4\u3011#tanjouBIBOO",
     "channelId": "@kosekibijou",
     "channelName": "Koseki Bijou Ch. hololive-EN",
     "channelThumb": "https://yt3.ggpht.com/75xH5tujXTVPHlQXask8_qTbOeyq0BY4hKxNfvgTrsuqhK_oActrFV197roYikUNZhzayfiLmg=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Biboo",
-    "scheduledStartTime": "2024-04-15T03:00:00Z",
-    "actualStartTime": "2024-04-15T02:49:40Z",
+    "scheduledStartTime": "2024-04-15T05:00:00Z",
+    "actualStartTime": "",
     "premiere": false
   },
   {
@@ -45,6 +45,19 @@
     "shortName": "FWMC",
     "scheduledStartTime": "2024-04-16T01:00:00Z",
     "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "AqCoI6h_dkI",
+    "vidUrl": "https://youtu.be/AqCoI6h_dkI",
+    "vidTitle": "\u3010BIBOO'S BIRTHDAY 2024\u3011Sleepover Party!! Game Night\u3010PART 3\u3011#tanjouBIBOO",
+    "channelId": "@kosekibijou",
+    "channelName": "Koseki Bijou Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/75xH5tujXTVPHlQXask8_qTbOeyq0BY4hKxNfvgTrsuqhK_oActrFV197roYikUNZhzayfiLmg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Biboo",
+    "scheduledStartTime": "2024-04-15T03:00:00Z",
+    "actualStartTime": "2024-04-15T02:49:40Z",
     "premiere": false
   }
 ]
