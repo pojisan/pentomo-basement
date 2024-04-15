@@ -1,17 +1,5 @@
 [
   {
-    "id": "jFz5Ttw6PH4",
-    "vidUrl": "https://youtu.be/jFz5Ttw6PH4",
-    "vidTitle": "\u3010THANK YOU\u3011I thank donations by stepping on you :3",
-    "channelId": "@lutoaraka",
-    "channelName": "Luto Araka / \u65b0\u706b\u308b\u3068",
-    "channelThumb": "https://yt3.ggpht.com/UZmWl3fIe_v7qhM55yXH8edIqTpU79srADtXWiZUDlSBV-HW5JvlB7af06sfg2FC2tR6YF8pEw=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Luto",
-    "scheduledStartTime": "2024-04-15T01:00:00Z",
-    "actualStartTime": "2024-04-15T01:01:08Z",
-    "premiere": false
-  },
-  {
     "id": "5DZH3TTaJnY",
     "vidUrl": "https://youtu.be/5DZH3TTaJnY",
     "vidTitle": "\u3010Kirispica's Birthday Party! \u3011 Happy April 15th! It's CLOUD day! \ud83d\udcad \u3010Kirispica | V-Dere\u3011 #SpicaDay",
@@ -848,6 +836,18 @@
     "channelThumb": "https://yt3.ggpht.com/gQXL64aSlteGuabzrOCxa7Qs-OdOJ0EAMeTP1hpSpI_5_IAkpjy3X0Y4aTVe9BxxXvXOCE5VdLc=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Nene",
     "scheduledStartTime": "2024-04-16T15:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "MnyzPKZVvSM",
+    "vidUrl": "https://youtu.be/MnyzPKZVvSM",
+    "vidTitle": "\u3010HELLDIVERS II w/ Zeus, Shen, and Theo!!!\u3011SPILL OIL BROTHER\u3010Sarugaku Leon Jr. | Globie\u3011",
+    "channelId": "@sarugakuleonjr",
+    "channelName": "Sarugaku Leon Jr. ch.\u3010globie\u3011",
+    "channelThumb": "https://yt3.ggpht.com/e13waaN0PPXE8TcWvHVMp8fRRU8JsEeplaZBMPTsNUW_iknS32QkIgFkiKtwweKBCFUZMPnj=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Leon",
+    "scheduledStartTime": "2024-04-16T16:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -2354,7 +2354,7 @@
   {
     "id": "hakdowdvqpE",
     "vidUrl": "https://youtu.be/hakdowdvqpE",
-    "vidTitle": "\u3010Elden Ring\u3011WHAT'S THE BEST BUILD? | SPEEDRUN COMPETITION",
+    "vidTitle": "\u3010Elden Ring\u3011WHAT'S THE BEST BUILD? | SPEEDRUN CHALLENGES PT.1",
     "channelId": "@kohakuyumekui",
     "channelName": "Kohaku Yumekui Ch. \u5922\u55b0\u5df1\u767d\u3010kawaii\u3011",
     "channelThumb": "https://yt3.ggpht.com/Tz6Hm43Exb8k5sGZ7DRbucOkivDD4w7FU78_bPV69vWM47zCAODykYVo76pwXqry2b1DI1HI=s88-c-k-c0x00ffffff-no-rj",
@@ -2776,6 +2776,19 @@
     "shortName": "Mion",
     "scheduledStartTime": "2024-04-15T00:45:00Z",
     "actualStartTime": "2024-04-15T00:48:45Z",
+    "premiere": false
+  },
+  {
+    "id": "jFz5Ttw6PH4",
+    "vidUrl": "https://youtu.be/jFz5Ttw6PH4",
+    "vidTitle": "\u3010THANK YOU\u3011I thank donations by stepping on you :3",
+    "channelId": "@lutoaraka",
+    "channelName": "Luto Araka / \u65b0\u706b\u308b\u3068",
+    "channelThumb": "https://yt3.ggpht.com/UZmWl3fIe_v7qhM55yXH8edIqTpU79srADtXWiZUDlSBV-HW5JvlB7af06sfg2FC2tR6YF8pEw=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Luto",
+    "scheduledStartTime": "2024-04-15T01:00:00Z",
+    "actualStartTime": "2024-04-15T01:01:08Z",
     "premiere": false
   },
   {
