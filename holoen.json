@@ -7,8 +7,8 @@
     "channelName": "Mori Calliope Ch. hololive-EN",
     "channelThumb": "https://yt3.ggpht.com/8B_T08sx8R7XVi5Mwx_l9sjQm5FGWGspeujSvVDvd80Zyr-3VvVTRGVLOnBrqNRxZp6ZeXAV=s88-c-k-c0x00ffffff-no-nd-rj",
     "shortName": "Mori",
-    "scheduledStartTime": "2024-04-15T10:00:00Z",
-    "actualStartTime": "",
+    "scheduledStartTime": "2024-04-15T09:59:28Z",
+    "actualStartTime": "2024-04-15T10:00:58Z",
     "premiere": false
   },
   {
@@ -20,6 +20,18 @@
     "channelThumb": "https://yt3.ggpht.com/zt63obGOD6fnCX0elnzt8xkylqOTnAENmSCKmwg_PSiC857DDgB28kEjQ-FJlWGtNYZ9lqzEag=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "FWMC",
     "scheduledStartTime": "2024-04-15T15:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "FjGXIeR43A4",
+    "vidUrl": "https://youtu.be/FjGXIeR43A4",
+    "vidTitle": "\u3010WOWOWOW KORONE BOX\u3011why is she angry? #kfp #\u30ad\u30a2\u30e9\u30a4\u30d6",
+    "channelId": "@takanashikiara",
+    "channelName": "Takanashi Kiara Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/w7TKJYU7zmamFmf-WxfahCo_K7Bg2__Pk-CCBNnbewMG-77OZLqJO9MLvDAmH9nEkZH8OkWgSQ=s88-c-k-c0x00ffffff-no-nd-rj",
+    "shortName": "Kiara",
+    "scheduledStartTime": "2024-04-15T18:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -56,6 +68,18 @@
     "channelThumb": "https://yt3.ggpht.com/zt63obGOD6fnCX0elnzt8xkylqOTnAENmSCKmwg_PSiC857DDgB28kEjQ-FJlWGtNYZ9lqzEag=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "FWMC",
     "scheduledStartTime": "2024-04-16T01:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "6a7CaFVu4H8",
+    "vidUrl": "https://youtu.be/6a7CaFVu4H8",
+    "vidTitle": "\u3010Monster Hunter World\u3011collab!! with @NinomaeInanis @KosekiBijou",
+    "channelId": "@moricalliope",
+    "channelName": "Mori Calliope Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/8B_T08sx8R7XVi5Mwx_l9sjQm5FGWGspeujSvVDvd80Zyr-3VvVTRGVLOnBrqNRxZp6ZeXAV=s88-c-k-c0x00ffffff-no-nd-rj",
+    "shortName": "Mori",
+    "scheduledStartTime": "2024-04-16T02:00:00Z",
     "actualStartTime": "",
     "premiere": false
   }
