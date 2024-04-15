@@ -1178,7 +1178,7 @@
   {
     "id": "MkoxGyxhseA",
     "vidUrl": "https://youtu.be/MkoxGyxhseA",
-    "vidTitle": "You Got Games On Your Phone? TALL GAMING ZATSU\u3010\u7e26\u578b\u914d\u4fe1\u3011",
+    "vidTitle": "THOSE GAMES ON THE ADS | TALL GAMING ZATSU\u3010\u7e26\u578b\u914d\u4fe1\u3011",
     "channelId": "@kohakuyumekui",
     "channelName": "Kohaku Yumekui Ch. \u5922\u55b0\u5df1\u767d\u3010kawaii\u3011",
     "channelThumb": "https://yt3.ggpht.com/Tz6Hm43Exb8k5sGZ7DRbucOkivDD4w7FU78_bPV69vWM47zCAODykYVo76pwXqry2b1DI1HI=s88-c-k-c0x00ffffff-no-rj",
@@ -1327,6 +1327,18 @@
     "channelName": "Shabel Tonya Ch",
     "channelThumb": "https://yt3.ggpht.com/ljnQBMPIiErFtOnv6LDIzoufhOH4RhAd0_NIYUZxk_uXWAiW7bz8CGwYqi61PIjfd6coOwkjOpQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Tonya",
+    "scheduledStartTime": "2024-04-18T02:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "EeGGT7Unweg",
+    "vidUrl": "https://youtu.be/EeGGT7Unweg",
+    "vidTitle": "Two Vtubers Try to Communicate with Each Other After Losing Their Voice ft. @AmoriaVNU",
+    "channelId": "@echovnu",
+    "channelName": "Echo Lyne Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/GXeZ1UMgOyI-peaWarT6IrEjhqilp90c7VnxBbAvFx2oy-wKlJMJnBR1m3oi2pwqryx8OwSk5A=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Echo Lyne",
     "scheduledStartTime": "2024-04-18T02:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -1712,6 +1724,18 @@
     "channelThumb": "https://yt3.ggpht.com/d1sfvqWiJPB51QNzYWdhfomd-El9OgOGZp-PtJkZhsN0kGeVUyYuJEASnMFyVlAdm2pGRGI19A=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Lua",
     "scheduledStartTime": "2024-04-19T14:10:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "KTvw9VKOTGE",
+    "vidUrl": "https://youtu.be/KTvw9VKOTGE",
+    "vidTitle": "\u3010\u6df1\u591c\u96d1\u8ac7\u3011\u6d77\u5916VTUBER\u3068\u304a\u3084\u3059\u307f\u524d\u306b\u304a\u306f\u306a\u3057\u3057\u3088? Morning Japanese Practice Zatsu\u3010\u7e26\u578b\u914d\u4fe1\u3011",
+    "channelId": "@kohakuyumekui",
+    "channelName": "Kohaku Yumekui Ch. \u5922\u55b0\u5df1\u767d\u3010kawaii\u3011",
+    "channelThumb": "https://yt3.ggpht.com/Tz6Hm43Exb8k5sGZ7DRbucOkivDD4w7FU78_bPV69vWM47zCAODykYVo76pwXqry2b1DI1HI=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Kohaku",
+    "scheduledStartTime": "2024-04-19T15:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -2692,19 +2716,6 @@
     "shortName": "Mion",
     "scheduledStartTime": "2024-04-15T00:45:00Z",
     "actualStartTime": "2024-04-15T00:48:45Z",
-    "premiere": false
-  },
-  {
-    "id": "IpUtHCOiRpQ",
-    "vidUrl": "https://youtu.be/IpUtHCOiRpQ",
-    "vidTitle": "girls watch my stream top tier husbando vegeta is here #dragonballzkakarot",
-    "channelId": "@charlottesuzu",
-    "channelName": "Charlotte Suzu / \u30b7\u30e3\u30fc\u30ed\u30c3\u30c8\u30fb\u30b9\u30ba \u3010kawaii\u3011",
-    "channelThumb": "https://yt3.ggpht.com/GsB4xQkkRT82EzVSuT8nU34Dj0MoofYZRwsTw2WWy4DHpvrGkmN2_59njomL2MuZCuR0I7i3-XM=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Charzu",
-    "scheduledStartTime": "2024-04-15T02:00:39Z",
-    "actualStartTime": "2024-04-15T02:00:51Z",
     "premiere": false
   },
   {
