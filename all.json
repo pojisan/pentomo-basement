@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "PNb2-sTqcTk",
-    "vidUrl": "https://youtu.be/PNb2-sTqcTk",
-    "vidTitle": "\u3010A Little To The Left\u3011Why can't it be right?",
-    "channelId": "@lidaoriana",
-    "channelName": "Lida Oriana Ch.",
-    "channelThumb": "https://yt3.ggpht.com/jPWRHtDGZ3b-HXw__M_4Le5LhYAwxpcy7_Inwji6RhxGC7NK34Nihv_LwLgjtCfdTMuDE92y=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Lida",
-    "scheduledStartTime": "2024-04-15T13:00:00Z",
-    "actualStartTime": "2024-04-15T12:59:51Z",
-    "premiere": false
-  },
-  {
     "id": "oto1IRZXcyg",
     "vidUrl": "https://youtu.be/oto1IRZXcyg",
     "vidTitle": "\ud83d\udd34\u3010REDDIT HORROR STORIES\u3011 Spooky Vertical Stream! \ud83d\udc7b #Shorts #ShortsFeed #ShortsLive",
@@ -1315,6 +1303,18 @@
     "channelName": "Kilia Kurayami Ch. \u3010EIEN Project\u3011",
     "channelThumb": "https://yt3.ggpht.com/lfSudxn7RE0Izwj8K2GriTxOebvU7pOlFL6lRkZQfYUex3cksfnEasQtUcPcfXkEJaXYVwxAfQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Kilia",
+    "scheduledStartTime": "2024-04-17T18:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "spk01ROUQSA",
+    "vidUrl": "https://youtu.be/spk01ROUQSA",
+    "vidTitle": "\u3010Stardew Valley\u3011BRITISH STARDEWING WITH THE GIRLS!!!",
+    "channelId": "@amoralumina",
+    "channelName": "Amora Lumina Ch. \u3010EIEN Project\u3011",
+    "channelThumb": "https://yt3.ggpht.com/0IlubsFJreJnGc7-mB5nm7oNLqyyIv6KO2eIrsQYbc8wnfGpjOH-SUn5mMh7QzHMnVRLmMQRDA=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Amora",
     "scheduledStartTime": "2024-04-17T18:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2892,6 +2892,18 @@
     "premiere": false
   },
   {
+    "id": "gK31rX-EsIw",
+    "vidUrl": "https://youtu.be/gK31rX-EsIw",
+    "vidTitle": "\u301004/14 - 04/20\u3011Weekly Schedule~!! \u3010Yume+ | Mero Umiko\u3011",
+    "channelId": "@meroumiko",
+    "channelName": "Mero Umiko \u3010Yume+\u3011",
+    "channelThumb": "https://yt3.ggpht.com/ao0Uyr-lSSR-cD9QJVrID38symffMEms-OUHRGu-i1DBBybDZglU9ELIgv6YtjBDBY6o0das7g=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Mero",
+    "scheduledStartTime": "2025-04-15T16:40:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "VMkhpmBSESk",
     "vidUrl": "https://youtu.be/VMkhpmBSESk",
     "vidTitle": "ALWAYS POLISH YOUR KEY",
@@ -3025,19 +3037,6 @@
     "premiere": false
   },
   {
-    "id": "4ebKxH9UGKU",
-    "vidUrl": "https://youtu.be/4ebKxH9UGKU",
-    "vidTitle": "LETHAL COMPANY #shortslive #shorts",
-    "channelId": "@mionakuma",
-    "channelName": "Mion Akuma \u3010AuroraLiveVR\u3011",
-    "channelThumb": "https://yt3.ggpht.com/nDRQClGe1KvbcnQM7n2UBSmCiV22fXLRrRsedlRZNFktAK5tsWp21FA7HQNoAkDvwyzrdF-0og=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Mion",
-    "scheduledStartTime": "2024-04-15T00:45:00Z",
-    "actualStartTime": "2024-04-15T00:48:45Z",
-    "premiere": false
-  },
-  {
     "id": "5G-tx0mMR00",
     "vidUrl": "https://youtu.be/5G-tx0mMR00",
     "vidTitle": "\u3010ASMR | 3DIO\u3011giving you a lobotomy rp",
@@ -3087,6 +3086,19 @@
     "shortName": "Yuuki",
     "scheduledStartTime": "2024-04-15T12:00:00Z",
     "actualStartTime": "2024-04-15T11:59:28Z",
+    "premiere": false
+  },
+  {
+    "id": "PNb2-sTqcTk",
+    "vidUrl": "https://youtu.be/PNb2-sTqcTk",
+    "vidTitle": "\u3010A Little To The Left\u3011Why can't it be right?",
+    "channelId": "@lidaoriana",
+    "channelName": "Lida Oriana Ch.",
+    "channelThumb": "https://yt3.ggpht.com/jPWRHtDGZ3b-HXw__M_4Le5LhYAwxpcy7_Inwji6RhxGC7NK34Nihv_LwLgjtCfdTMuDE92y=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Lida",
+    "scheduledStartTime": "2024-04-15T13:00:00Z",
+    "actualStartTime": "2024-04-15T12:59:51Z",
     "premiere": false
   },
   {
