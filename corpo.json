@@ -12,30 +12,6 @@
     "premiere": false
   },
   {
-    "id": "LwCqX4-1SK4",
-    "vidUrl": "https://youtu.be/LwCqX4-1SK4",
-    "vidTitle": "\u3010HONKAI STAR RAIL\u3011PENACONY TIME",
-    "channelId": "@kamikorinona",
-    "channelName": "Kamiko Rinona Ch. [VReverie]",
-    "channelThumb": "https://yt3.ggpht.com/SbFlMLB7oQ7qohWKS-R2cuTWfnqMPJ0lile-yU90Lukt9CfBb67_phh3RxPjqYOnHdwljNTa0A=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Rinona",
-    "scheduledStartTime": "2024-04-15T14:00:00Z",
-    "actualStartTime": "2024-04-15T14:00:01Z",
-    "premiere": false
-  },
-  {
-    "id": "mErAO1B1wZo",
-    "vidUrl": "https://youtu.be/mErAO1B1wZo",
-    "vidTitle": "Karaoke But The Lyrics Are Written By ChatGPT & You",
-    "channelId": "@nakikamizuki",
-    "channelName": "Naki Kamizuki / \u4e0a\u6708\u306a\u304d\u3010EverAfter\u3011",
-    "channelThumb": "https://yt3.ggpht.com/t3KM-C9LCI4Wxs7nnt_ND2joYBvc-tNS2bCswz6V4LDsPlba4fV67WehglvHnaxDYrubPXue=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Naki",
-    "scheduledStartTime": "2024-04-15T14:30:00Z",
-    "actualStartTime": "2024-04-15T14:31:51Z",
-    "premiere": false
-  },
-  {
     "id": "Vz54hkSBUAQ",
     "vidUrl": "https://youtu.be/Vz54hkSBUAQ",
     "vidTitle": "AAAAA HELP! SUPER MARIO WORLD FINALE AND DARK SOULS",
@@ -140,31 +116,7 @@
     "channelThumb": "https://yt3.ggpht.com/Id9BL2cZTLJmv9ZoQEGIk_eFPBrQ7REmfIB6tsb34vcls6pWmKCsifuJ4Ii40vRYZvX9uGd9=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Shiki",
     "scheduledStartTime": "2024-04-15T17:54:58Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "-9gRaeVs2T8",
-    "vidUrl": "https://youtu.be/-9gRaeVs2T8",
-    "vidTitle": "\u3010Ring Fit Adventure\u3011collecting sweet sweat",
-    "channelId": "@kattarina_qutie",
-    "channelName": "Kattarina Qutie Ch. idol-EN",
-    "channelThumb": "https://yt3.ggpht.com/gHLRZOEihJIIcqQJmj8hsp4CsuRIbKIYKzRxQp9Q9du6DfBDFlnMv3xYCXMnKqSe3N8a1ki6Yw=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Katta",
-    "scheduledStartTime": "2024-04-15T18:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "5CduQU1KMpA",
-    "vidUrl": "https://youtu.be/5CduQU1KMpA",
-    "vidTitle": "\u3010Hollow Knight\u3011 Finding and Beating Every Boss in the Game \u3010Part 3\u3011",
-    "channelId": "@amoralumina",
-    "channelName": "Amora Lumina Ch. \u3010EIEN Project\u3011",
-    "channelThumb": "https://yt3.ggpht.com/0IlubsFJreJnGc7-mB5nm7oNLqyyIv6KO2eIrsQYbc8wnfGpjOH-SUn5mMh7QzHMnVRLmMQRDA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Amora",
-    "scheduledStartTime": "2024-04-15T18:00:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-15T17:57:26Z",
     "premiere": false
   },
   {
@@ -176,7 +128,31 @@
     "channelThumb": "https://yt3.ggpht.com/eZL22MkBQh4myHNfCyj9pFql_IgFh84HMUYFvw-cp_9jx_RIftFJc_fFNi6YxJ5LhyArJH11PQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Tomoe",
     "scheduledStartTime": "2024-04-15T18:00:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-15T17:58:05Z",
+    "premiere": false
+  },
+  {
+    "id": "5CduQU1KMpA",
+    "vidUrl": "https://youtu.be/5CduQU1KMpA",
+    "vidTitle": "\u3010Hollow Knight\u3011 Finding and Beating Every Boss in the Game \u3010Part 3\u3011",
+    "channelId": "@amoralumina",
+    "channelName": "Amora Lumina Ch. \u3010EIEN Project\u3011",
+    "channelThumb": "https://yt3.ggpht.com/0IlubsFJreJnGc7-mB5nm7oNLqyyIv6KO2eIrsQYbc8wnfGpjOH-SUn5mMh7QzHMnVRLmMQRDA=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Amora",
+    "scheduledStartTime": "2024-04-15T18:00:00Z",
+    "actualStartTime": "2024-04-15T17:59:19Z",
+    "premiere": false
+  },
+  {
+    "id": "-9gRaeVs2T8",
+    "vidUrl": "https://youtu.be/-9gRaeVs2T8",
+    "vidTitle": "\u3010Ring Fit Adventure\u3011collecting sweet sweat",
+    "channelId": "@kattarina_qutie",
+    "channelName": "Kattarina Qutie Ch. idol-EN",
+    "channelThumb": "https://yt3.ggpht.com/gHLRZOEihJIIcqQJmj8hsp4CsuRIbKIYKzRxQp9Q9du6DfBDFlnMv3xYCXMnKqSe3N8a1ki6Yw=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Katta",
+    "scheduledStartTime": "2024-04-15T18:00:00Z",
+    "actualStartTime": "2024-04-15T18:04:18Z",
     "premiere": false
   },
   {
@@ -410,11 +386,23 @@
   {
     "id": "FsAoRw_jcgs",
     "vidUrl": "https://youtu.be/FsAoRw_jcgs",
-    "vidTitle": "\u3010MINECRAFT\u3011 chilling in OUR server \ud83e\udee1",
+    "vidTitle": "\u3010MINECRAFT\u3011 gimme your booty! i need more loot!!!",
     "channelId": "@stfuboomi_",
     "channelName": "Boomi Mamana Ch. \u9b54\u611b\u3076\u307f\u3010lucid\u2601\ufe0f\u3011",
     "channelThumb": "https://yt3.ggpht.com/Ir7xaFhyOLm30TDU6WsFUT24WE8_o7SGK3eUmpbCsOOWFjh22e4XJsPhUYCvUtdgSUM2sUzOtg=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Boomi",
+    "scheduledStartTime": "2024-04-16T00:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "LsdJSdhKIbY",
+    "vidUrl": "https://youtu.be/LsdJSdhKIbY",
+    "vidTitle": "Can I catch you?~  | Vertical Stream",
+    "channelId": "@hiranokokoro",
+    "channelName": "Hirano Kokoro \u300c\u308d\u308d\u300d",
+    "channelThumb": "https://yt3.ggpht.com/Pc-k4wd6VsvLoZPUmql6OForU2LDiXTu3TeGZASvNqkD4OW-zEUxuNatHZQLRMUrt4IhcE0rtg=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Roro",
     "scheduledStartTime": "2024-04-16T00:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -427,6 +415,18 @@
     "channelName": "Reina Ronronea ch. \u3010globie\u3011",
     "channelThumb": "https://yt3.ggpht.com/MOmaBB08GVq5lIY13WTEtrmqB8l2Nwald3Y_XLd28nmqQTOdbgHgQFkiItRLn79KWLevOiurgg=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Reina",
+    "scheduledStartTime": "2024-04-16T00:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "_wi0Z0-fY1s",
+    "vidUrl": "https://youtu.be/_wi0Z0-fY1s",
+    "vidTitle": "\u3010DAVE THE DIVER\u3011 catching the biggest fish of all",
+    "channelId": "@hiranokokoro",
+    "channelName": "Hirano Kokoro \u300c\u308d\u308d\u300d",
+    "channelThumb": "https://yt3.ggpht.com/Pc-k4wd6VsvLoZPUmql6OForU2LDiXTu3TeGZASvNqkD4OW-zEUxuNatHZQLRMUrt4IhcE0rtg=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Roro",
     "scheduledStartTime": "2024-04-16T00:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -1052,6 +1052,18 @@
     "channelThumb": "https://yt3.ggpht.com/jPWRHtDGZ3b-HXw__M_4Le5LhYAwxpcy7_Inwji6RhxGC7NK34Nihv_LwLgjtCfdTMuDE92y=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Lida",
     "scheduledStartTime": "2024-04-17T13:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "Cd9uBQvU9xU",
+    "vidUrl": "https://youtu.be/Cd9uBQvU9xU",
+    "vidTitle": "SPECIAL ANNOUNCEMENT |",
+    "channelId": "@hiranokokoro",
+    "channelName": "Hirano Kokoro \u300c\u308d\u308d\u300d",
+    "channelThumb": "https://yt3.ggpht.com/Pc-k4wd6VsvLoZPUmql6OForU2LDiXTu3TeGZASvNqkD4OW-zEUxuNatHZQLRMUrt4IhcE0rtg=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Roro",
+    "scheduledStartTime": "2024-04-17T14:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -3166,16 +3178,29 @@
     "premiere": false
   },
   {
-    "id": "DEsAVwHxLmM",
-    "vidUrl": "https://youtu.be/DEsAVwHxLmM",
-    "vidTitle": "Let's Blow Up the Nether!! The Netherite Upgrade Grind...\u3010HC Minecraft\u3011",
-    "channelId": "@spectravnu",
-    "channelName": "Spectra Libitina Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/vJEi9jvzwANF4rzrVugBrJ2CumIsI3pGN68Bap-eEXSqZbp-hNpLAdqSwSIqmgqhHUbbdUzrR-w=s88-c-k-c0x00ffffff-no-rj",
+    "id": "LwCqX4-1SK4",
+    "vidUrl": "https://youtu.be/LwCqX4-1SK4",
+    "vidTitle": "\u3010HONKAI STAR RAIL\u3011PENACONY TIME",
+    "channelId": "@kamikorinona",
+    "channelName": "Kamiko Rinona Ch. [VReverie]",
+    "channelThumb": "https://yt3.ggpht.com/SbFlMLB7oQ7qohWKS-R2cuTWfnqMPJ0lile-yU90Lukt9CfBb67_phh3RxPjqYOnHdwljNTa0A=s88-c-k-c0x00ffffff-no-rj",
     "graveyard": true,
-    "shortName": "Spectra",
-    "scheduledStartTime": "2024-04-15T15:00:00Z",
-    "actualStartTime": "2024-04-15T15:03:32Z",
+    "shortName": "Rinona",
+    "scheduledStartTime": "2024-04-15T14:00:00Z",
+    "actualStartTime": "2024-04-15T14:00:01Z",
+    "premiere": false
+  },
+  {
+    "id": "mErAO1B1wZo",
+    "vidUrl": "https://youtu.be/mErAO1B1wZo",
+    "vidTitle": "Karaoke But The Lyrics Are Written By ChatGPT & You",
+    "channelId": "@nakikamizuki",
+    "channelName": "Naki Kamizuki / \u4e0a\u6708\u306a\u304d\u3010EverAfter\u3011",
+    "channelThumb": "https://yt3.ggpht.com/t3KM-C9LCI4Wxs7nnt_ND2joYBvc-tNS2bCswz6V4LDsPlba4fV67WehglvHnaxDYrubPXue=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Naki",
+    "scheduledStartTime": "2024-04-15T14:30:00Z",
+    "actualStartTime": "2024-04-15T14:31:51Z",
     "premiere": false
   }
 ]
