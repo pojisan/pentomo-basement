@@ -1,17 +1,5 @@
 [
   {
-    "id": "SbCfH5v3xDs",
-    "vidUrl": "https://youtu.be/SbCfH5v3xDs",
-    "vidTitle": "\u3010FLIGHT SIMULATOR\u3011I have a flying license remember?\u3010Dokibird\u3011",
-    "channelId": "@dokibird",
-    "channelName": "Dokibird",
-    "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_m53sCnXF6ENdSpHx-q_4fOn-EGaIteMhq8HX17zcGwzeQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Doki",
-    "scheduledStartTime": "2024-04-15T18:30:00Z",
-    "actualStartTime": "2024-04-15T18:32:22Z",
-    "premiere": false
-  },
-  {
     "id": "-8SbFh8T7w8",
     "vidUrl": "https://youtu.be/-8SbFh8T7w8",
     "vidTitle": "No Pain \u30ce\u30fc\u30da\u30a4\u30f3\u3010Sayu ver.\u3011",
@@ -33,6 +21,19 @@
     "shortName": "Mint",
     "scheduledStartTime": "2025-04-06T04:10:00Z",
     "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "SbCfH5v3xDs",
+    "vidUrl": "https://youtu.be/SbCfH5v3xDs",
+    "vidTitle": "\u3010FLIGHT SIMULATOR\u3011I have a flying license remember?\u3010Dokibird\u3011",
+    "channelId": "@dokibird",
+    "channelName": "Dokibird",
+    "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_m53sCnXF6ENdSpHx-q_4fOn-EGaIteMhq8HX17zcGwzeQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Doki",
+    "scheduledStartTime": "2024-04-15T18:30:00Z",
+    "actualStartTime": "2024-04-15T18:32:22Z",
     "premiere": false
   }
 ]
