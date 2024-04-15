@@ -60,18 +60,6 @@
     "premiere": false
   },
   {
-    "id": "rT324xR04uo",
-    "vidUrl": "https://youtu.be/rT324xR04uo",
-    "vidTitle": "\u00b0\u2740\u22c6 Drawing CUTE lil Pokemon \u22c6\ud801\ude5a\u208a\u02da\u22b9\u2661",
-    "channelId": "@k9kuro",
-    "channelName": "K9KURO",
-    "channelThumb": "https://yt3.ggpht.com/zuG2TLEc_A-yWjHFTFYWe4ITzqRG7R5sMbYpa9kSFwtXM_pF-coqDuq7MZxz0hK8oB234TWX=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Kuro",
-    "scheduledStartTime": "2024-04-15T13:00:00Z",
-    "actualStartTime": "2024-04-15T13:04:56Z",
-    "premiere": false
-  },
-  {
     "id": "LwCqX4-1SK4",
     "vidUrl": "https://youtu.be/LwCqX4-1SK4",
     "vidTitle": "\u3010HONKAI STAR RAIL\u3011PENACONY TIME",
@@ -132,18 +120,6 @@
     "premiere": false
   },
   {
-    "id": "8CmlbwZcMNk",
-    "vidUrl": "https://youtu.be/8CmlbwZcMNk",
-    "vidTitle": "\u3010Collab\u3011Good girl? or Bad girl? w. @ScarlettFlameheart",
-    "channelId": "@arialyuriko",
-    "channelName": "Arial Yuriko Ch. [VReverie]",
-    "channelThumb": "https://yt3.ggpht.com/IU2v8OvK9p2KPE6Udi-AxcHpDdRmZ8ixovTLb3dDzCahVLSuIc4iKBKNd5LE6lFvlgUfTIHi=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Arial",
-    "scheduledStartTime": "2024-04-15T16:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "SVRmb4aLy-E",
     "vidUrl": "https://youtu.be/SVRmb4aLy-E",
     "vidTitle": "\u3010SUPERMARKET SIMULATOR\u3011Going STONKS!\u3010globie 1st Gen\u3011",
@@ -152,7 +128,19 @@
     "channelThumb": "https://yt3.ggpht.com/ZVYdvQBa9q2BLWfDnqUrpJD16c5Tr0vGoXjvBFgydUvA1XKt1cuJPT8aMM6bSE_MtPFQVwaQYA=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Hu",
     "scheduledStartTime": "2024-04-15T16:00:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-15T15:58:48Z",
+    "premiere": false
+  },
+  {
+    "id": "8CmlbwZcMNk",
+    "vidUrl": "https://youtu.be/8CmlbwZcMNk",
+    "vidTitle": "\u3010Collab\u3011Good girl? or Bad girl? w. @ScarlettFlameheart",
+    "channelId": "@arialyuriko",
+    "channelName": "Arial Yuriko Ch. [VReverie]",
+    "channelThumb": "https://yt3.ggpht.com/IU2v8OvK9p2KPE6Udi-AxcHpDdRmZ8ixovTLb3dDzCahVLSuIc4iKBKNd5LE6lFvlgUfTIHi=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Arial",
+    "scheduledStartTime": "2024-04-15T16:00:00Z",
+    "actualStartTime": "2024-04-15T15:59:59Z",
     "premiere": false
   },
   {
@@ -164,7 +152,7 @@
     "channelThumb": "https://yt3.ggpht.com/aFRvJ_IOkDdIvUEZYAwAR1tp-uRyO9WYycjXA13_NiRawAMJTIDgOa3Ih0ypNuW9yrEwa8gRYA4=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Hyouma",
     "scheduledStartTime": "2024-04-15T16:00:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-15T16:00:52Z",
     "premiere": false
   },
   {
@@ -176,7 +164,7 @@
     "channelThumb": "https://yt3.ggpht.com/sQsF3JpF26yNBW9ZNusWQHHFligM4D__RBmINLE0wJtXKHIdtlzhwNfIg_xR7Fx7LrMtG7Pt=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Navi",
     "scheduledStartTime": "2024-04-15T16:00:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-15T16:04:34Z",
     "premiere": false
   },
   {
@@ -3088,6 +3076,19 @@
     "shortName": "Cinnia",
     "scheduledStartTime": "2024-04-15T13:00:00Z",
     "actualStartTime": "2024-04-15T13:00:56Z",
+    "premiere": false
+  },
+  {
+    "id": "rT324xR04uo",
+    "vidUrl": "https://youtu.be/rT324xR04uo",
+    "vidTitle": "\u00b0\u2740\u22c6 Drawing CUTE lil Pokemon \u22c6\ud801\ude5a\u208a\u02da\u22b9\u2661",
+    "channelId": "@k9kuro",
+    "channelName": "K9KURO",
+    "channelThumb": "https://yt3.ggpht.com/zuG2TLEc_A-yWjHFTFYWe4ITzqRG7R5sMbYpa9kSFwtXM_pF-coqDuq7MZxz0hK8oB234TWX=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Kuro",
+    "scheduledStartTime": "2024-04-15T13:00:00Z",
+    "actualStartTime": "2024-04-15T13:04:56Z",
     "premiere": false
   },
   {

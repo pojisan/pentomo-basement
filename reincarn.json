@@ -1,17 +1,5 @@
 [
   {
-    "id": "rT324xR04uo",
-    "vidUrl": "https://youtu.be/rT324xR04uo",
-    "vidTitle": "\u00b0\u2740\u22c6 Drawing CUTE lil Pokemon \u22c6\ud801\ude5a\u208a\u02da\u22b9\u2661",
-    "channelId": "@k9kuro",
-    "channelName": "K9KURO",
-    "channelThumb": "https://yt3.ggpht.com/zuG2TLEc_A-yWjHFTFYWe4ITzqRG7R5sMbYpa9kSFwtXM_pF-coqDuq7MZxz0hK8oB234TWX=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Kuro",
-    "scheduledStartTime": "2024-04-15T13:00:00Z",
-    "actualStartTime": "2024-04-15T13:04:56Z",
-    "premiere": false
-  },
-  {
     "id": "SbCfH5v3xDs",
     "vidUrl": "https://youtu.be/SbCfH5v3xDs",
     "vidTitle": "\u3010FLIGHT SIMULATOR\u3011I have a flying license remember?\u3010Dokibird\u3011",
@@ -45,6 +33,19 @@
     "shortName": "Mint",
     "scheduledStartTime": "2025-04-06T04:10:00Z",
     "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "rT324xR04uo",
+    "vidUrl": "https://youtu.be/rT324xR04uo",
+    "vidTitle": "\u00b0\u2740\u22c6 Drawing CUTE lil Pokemon \u22c6\ud801\ude5a\u208a\u02da\u22b9\u2661",
+    "channelId": "@k9kuro",
+    "channelName": "K9KURO",
+    "channelThumb": "https://yt3.ggpht.com/zuG2TLEc_A-yWjHFTFYWe4ITzqRG7R5sMbYpa9kSFwtXM_pF-coqDuq7MZxz0hK8oB234TWX=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Kuro",
+    "scheduledStartTime": "2024-04-15T13:00:00Z",
+    "actualStartTime": "2024-04-15T13:04:56Z",
     "premiere": false
   }
 ]
