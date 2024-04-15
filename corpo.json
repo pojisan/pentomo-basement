@@ -36,18 +36,6 @@
     "premiere": false
   },
   {
-    "id": "DEsAVwHxLmM",
-    "vidUrl": "https://youtu.be/DEsAVwHxLmM",
-    "vidTitle": "Let's Blow Up the Nether!! The Netherite Upgrade Grind...\u3010HC Minecraft\u3011",
-    "channelId": "@spectravnu",
-    "channelName": "Spectra Libitina Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/vJEi9jvzwANF4rzrVugBrJ2CumIsI3pGN68Bap-eEXSqZbp-hNpLAdqSwSIqmgqhHUbbdUzrR-w=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Spectra",
-    "scheduledStartTime": "2024-04-15T15:00:00Z",
-    "actualStartTime": "2024-04-15T15:03:32Z",
-    "premiere": false
-  },
-  {
     "id": "Vz54hkSBUAQ",
     "vidUrl": "https://youtu.be/Vz54hkSBUAQ",
     "vidTitle": "AAAAA HELP! SUPER MARIO WORLD FINALE AND DARK SOULS",
@@ -144,6 +132,18 @@
     "premiere": false
   },
   {
+    "id": "Yh3VRlueHQo",
+    "vidUrl": "https://youtu.be/Yh3VRlueHQo",
+    "vidTitle": "\u3010YAKUZA: LIKE A DRAGON\u3011DUNGEON IKZZZ\u3010PRISM Project Gen 3\u3011",
+    "channelId": "@shikimiyoshino",
+    "channelName": "Shiki Miyoshino / \u7f8e\u5409\u91ce\u3057\u304d\u3010Requiem\u3011",
+    "channelThumb": "https://yt3.ggpht.com/Id9BL2cZTLJmv9ZoQEGIk_eFPBrQ7REmfIB6tsb34vcls6pWmKCsifuJ4Ii40vRYZvX9uGd9=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Shiki",
+    "scheduledStartTime": "2024-04-15T17:54:58Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "-9gRaeVs2T8",
     "vidUrl": "https://youtu.be/-9gRaeVs2T8",
     "vidTitle": "\u3010Ring Fit Adventure\u3011collecting sweet sweat",
@@ -175,18 +175,6 @@
     "channelName": "Tomoe Carmine Ch. \u30c8\u30e2\u30a8\u30fb\u30ab\u30fc\u30de\u30a4\u30f3\u3010kawaii\u3011",
     "channelThumb": "https://yt3.ggpht.com/eZL22MkBQh4myHNfCyj9pFql_IgFh84HMUYFvw-cp_9jx_RIftFJc_fFNi6YxJ5LhyArJH11PQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Tomoe",
-    "scheduledStartTime": "2024-04-15T18:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "Yh3VRlueHQo",
-    "vidUrl": "https://youtu.be/Yh3VRlueHQo",
-    "vidTitle": "\u3010YAKUZA: LIKE A DRAGON\u3011DUNGEON IKZZZ\u3010PRISM Project Gen 3\u3011",
-    "channelId": "@shikimiyoshino",
-    "channelName": "Shiki Miyoshino / \u7f8e\u5409\u91ce\u3057\u304d\u3010Requiem\u3011",
-    "channelThumb": "https://yt3.ggpht.com/Id9BL2cZTLJmv9ZoQEGIk_eFPBrQ7REmfIB6tsb34vcls6pWmKCsifuJ4Ii40vRYZvX9uGd9=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Shiki",
     "scheduledStartTime": "2024-04-15T18:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -415,6 +403,18 @@
     "channelName": "Nene Amano Ch. \u5929\u91ce\u5be7\u3005\u3010kawaii\u3011",
     "channelThumb": "https://yt3.ggpht.com/gQXL64aSlteGuabzrOCxa7Qs-OdOJ0EAMeTP1hpSpI_5_IAkpjy3X0Y4aTVe9BxxXvXOCE5VdLc=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Nene",
+    "scheduledStartTime": "2024-04-16T00:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "FsAoRw_jcgs",
+    "vidUrl": "https://youtu.be/FsAoRw_jcgs",
+    "vidTitle": "\u3010MINECRAFT\u3011 chilling in OUR server \ud83e\udee1",
+    "channelId": "@stfuboomi_",
+    "channelName": "Boomi Mamana Ch. \u9b54\u611b\u3076\u307f\u3010lucid\u2601\ufe0f\u3011",
+    "channelThumb": "https://yt3.ggpht.com/Ir7xaFhyOLm30TDU6WsFUT24WE8_o7SGK3eUmpbCsOOWFjh22e4XJsPhUYCvUtdgSUM2sUzOtg=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Boomi",
     "scheduledStartTime": "2024-04-16T00:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -3163,6 +3163,19 @@
     "shortName": "Cinnia",
     "scheduledStartTime": "2024-04-15T13:00:00Z",
     "actualStartTime": "2024-04-15T13:00:56Z",
+    "premiere": false
+  },
+  {
+    "id": "DEsAVwHxLmM",
+    "vidUrl": "https://youtu.be/DEsAVwHxLmM",
+    "vidTitle": "Let's Blow Up the Nether!! The Netherite Upgrade Grind...\u3010HC Minecraft\u3011",
+    "channelId": "@spectravnu",
+    "channelName": "Spectra Libitina Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/vJEi9jvzwANF4rzrVugBrJ2CumIsI3pGN68Bap-eEXSqZbp-hNpLAdqSwSIqmgqhHUbbdUzrR-w=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Spectra",
+    "scheduledStartTime": "2024-04-15T15:00:00Z",
+    "actualStartTime": "2024-04-15T15:03:32Z",
     "premiere": false
   }
 ]
