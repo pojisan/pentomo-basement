@@ -1,17 +1,5 @@
 [
   {
-    "id": "FL4tmf3tsKw",
-    "vidUrl": "https://youtu.be/FL4tmf3tsKw",
-    "vidTitle": "\u3010 VCR RUST \u3011\u30ec\u30c4\u3000\u30d5\u30a1\u30a4\u30c8\u3000\u30a2\u3000\u30dc\u30b9\u3000#3",
-    "channelId": "@moricalliope",
-    "channelName": "Mori Calliope Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/8B_T08sx8R7XVi5Mwx_l9sjQm5FGWGspeujSvVDvd80Zyr-3VvVTRGVLOnBrqNRxZp6ZeXAV=s88-c-k-c0x00ffffff-no-nd-rj",
-    "shortName": "Mori",
-    "scheduledStartTime": "2024-04-15T09:59:28Z",
-    "actualStartTime": "2024-04-15T10:00:58Z",
-    "premiere": false
-  },
-  {
     "id": "4tdRQfoQcT4",
     "vidUrl": "https://youtu.be/4tdRQfoQcT4",
     "vidTitle": "\u3010PALWORLD\u3011gonna spend time in dungeon with YOU \ud83e\udd1e\u3010ArashiNebula_HOSHIZORA\u3011",
@@ -168,18 +156,6 @@
     "premiere": false
   },
   {
-    "id": "DEsAVwHxLmM",
-    "vidUrl": "https://youtu.be/DEsAVwHxLmM",
-    "vidTitle": "Let's Blow Up the Nether!!\u3010HC Minecraft\u3011",
-    "channelId": "@spectravnu",
-    "channelName": "Spectra Libitina Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/vJEi9jvzwANF4rzrVugBrJ2CumIsI3pGN68Bap-eEXSqZbp-hNpLAdqSwSIqmgqhHUbbdUzrR-w=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Spectra",
-    "scheduledStartTime": "2024-04-15T15:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "QiruPU4jY7c",
     "vidUrl": "https://youtu.be/QiruPU4jY7c",
     "vidTitle": "\u3010FRUIT MOUNTAIN\u3011lmao not yet\u3010NIJISANJI EN | Reimu Endou\u3011",
@@ -188,7 +164,19 @@
     "channelThumb": "https://yt3.ggpht.com/jwZT783V-LU58DMyjShj-CWJ3GGsM5DaHX20vtIExe7LNGpaS0P5pZJV_EH11AprgaHocu6CKA=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Reimu",
     "scheduledStartTime": "2024-04-15T15:00:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-15T15:01:24Z",
+    "premiere": false
+  },
+  {
+    "id": "DEsAVwHxLmM",
+    "vidUrl": "https://youtu.be/DEsAVwHxLmM",
+    "vidTitle": "Let's Blow Up the Nether!! The Netherite Upgrade Grind...\u3010HC Minecraft\u3011",
+    "channelId": "@spectravnu",
+    "channelName": "Spectra Libitina Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/vJEi9jvzwANF4rzrVugBrJ2CumIsI3pGN68Bap-eEXSqZbp-hNpLAdqSwSIqmgqhHUbbdUzrR-w=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Spectra",
+    "scheduledStartTime": "2024-04-15T15:00:00Z",
+    "actualStartTime": "2024-04-15T15:03:32Z",
     "premiere": false
   },
   {
@@ -199,7 +187,7 @@
     "channelName": "Nene Amano Ch. \u5929\u91ce\u5be7\u3005\u3010kawaii\u3011",
     "channelThumb": "https://yt3.ggpht.com/gQXL64aSlteGuabzrOCxa7Qs-OdOJ0EAMeTP1hpSpI_5_IAkpjy3X0Y4aTVe9BxxXvXOCE5VdLc=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Nene",
-    "scheduledStartTime": "2024-04-15T15:00:00Z",
+    "scheduledStartTime": "2024-04-15T15:15:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -235,6 +223,18 @@
     "channelName": "Kohaku Hyouma ch.\u3010globie\u3011",
     "channelThumb": "https://yt3.ggpht.com/aFRvJ_IOkDdIvUEZYAwAR1tp-uRyO9WYycjXA13_NiRawAMJTIDgOa3Ih0ypNuW9yrEwa8gRYA4=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Hyouma",
+    "scheduledStartTime": "2024-04-15T16:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "_dRChZfS8i4",
+    "vidUrl": "https://youtu.be/_dRChZfS8i4",
+    "vidTitle": "\u3010VALORANT\u3011If I get flamed, I'll eat a shoe \ud83e\udd1e\ud83d\udc5e",
+    "channelId": "@nanimonavi",
+    "channelName": "Nanimo Navi Ch. \u3010EIEN Project\u3011",
+    "channelThumb": "https://yt3.ggpht.com/sQsF3JpF26yNBW9ZNusWQHHFligM4D__RBmINLE0wJtXKHIdtlzhwNfIg_xR7Fx7LrMtG7Pt=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Navi",
     "scheduledStartTime": "2024-04-15T16:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -763,6 +763,18 @@
     "channelName": "Aozora Furia Ch. \u9752\u7a7a\u30d5\u30ea\u30a2",
     "channelThumb": "https://yt3.ggpht.com/OAT3gzcHM9H5SLvG5bPnLouS1udQP4gPaNYFB3dwsF4OyjORvn8i7fqkB_9d4mpgZQAt-btbuw=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Furia",
+    "scheduledStartTime": "2024-04-16T02:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "myYq78VpB9k",
+    "vidUrl": "https://youtu.be/myYq78VpB9k",
+    "vidTitle": "i'm back from touching grass",
+    "channelId": "@renzotto",
+    "channelName": "Ren Zotto \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/9-JRRUNPn8SanGWeg4zEEqqK14niqROhgUKzAkvuBAx1sOCcTSpG18-uQTn87w0EaH1l9emGCw=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Ren",
     "scheduledStartTime": "2024-04-16T02:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -3051,6 +3063,19 @@
     "shortName": "Vance",
     "scheduledStartTime": "2024-04-15T08:56:00Z",
     "actualStartTime": "2024-04-15T08:56:10Z",
+    "premiere": false
+  },
+  {
+    "id": "FL4tmf3tsKw",
+    "vidUrl": "https://youtu.be/FL4tmf3tsKw",
+    "vidTitle": "\u3010 VCR RUST \u3011\u30ec\u30c4\u3000\u30d5\u30a1\u30a4\u30c8\u3000\u30a2\u3000\u30dc\u30b9\u3000#3",
+    "channelId": "@moricalliope",
+    "channelName": "Mori Calliope Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/8B_T08sx8R7XVi5Mwx_l9sjQm5FGWGspeujSvVDvd80Zyr-3VvVTRGVLOnBrqNRxZp6ZeXAV=s88-c-k-c0x00ffffff-no-nd-rj",
+    "graveyard": true,
+    "shortName": "Mori",
+    "scheduledStartTime": "2024-04-15T09:59:28Z",
+    "actualStartTime": "2024-04-15T10:00:58Z",
     "premiere": false
   },
   {
