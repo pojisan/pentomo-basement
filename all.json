@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "rxtO58Y7GPQ",
-    "vidUrl": "https://youtu.be/rxtO58Y7GPQ",
-    "vidTitle": "\u3010SHINKANSEN 0\u3011 LIVE TRAIN REACTION \u3010NIJISANJI EN | Claude Clawmark\u3011",
-    "channelId": "@claudeclawmark",
-    "channelName": "Claude Clawmark \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/e7od55bIqtwAdCdpEdEf1d-PITBdVzntIaqGwTif46sTptNuJQ4WlVPPcfskh3wqb9axkDuOSg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Claude",
-    "scheduledStartTime": "2024-04-15T01:00:00Z",
-    "actualStartTime": "2024-04-15T00:48:13Z",
-    "premiere": false
-  },
-  {
     "id": "jFz5Ttw6PH4",
     "vidUrl": "https://youtu.be/jFz5Ttw6PH4",
     "vidTitle": "\u3010THANK YOU\u3011I thank donations by stepping on you :3",
@@ -560,6 +548,18 @@
     "channelThumb": "https://yt3.ggpht.com/91Fqx3Xut4jaSefCeiDLVGQDSdkWAvt5jA8ejzT18EztYTppy29JNzpa7G-KThC8TzuAmlKBQcs=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Amiya",
     "scheduledStartTime": "2024-04-15T19:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "O-9eTYWtswk",
+    "vidUrl": "https://youtu.be/O-9eTYWtswk",
+    "vidTitle": "The Great Moomoo Birthday! [Model Update + Merch Drop!!!]",
+    "channelId": "@muumuyu",
+    "channelName": "Muyu Ch. \u3080\u3046\u3080\u3086\u3010Phase Connect\u3011",
+    "channelThumb": "https://yt3.ggpht.com/BoAq-UdPFP5MPfUMIWFQwgmeBERbkZx40VxLdrMas6I7c5koPDBUmh4LaJLUJQd9rZbD9KSKog4=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Muyu",
+    "scheduledStartTime": "2024-04-15T21:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -2512,19 +2512,6 @@
     "premiere": false
   },
   {
-    "id": "BS9d7pGJyp0",
-    "vidUrl": "https://youtu.be/BS9d7pGJyp0",
-    "vidTitle": "\u3010Kokone's Boutique ep.9\u3011Dressing up @EchoVNU in Academia!",
-    "channelId": "@yurikagokokone",
-    "channelName": "Kokone Yurikago Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/xwSS6tbTBzvBuI0LLjA-0MQ77ZacslZB2TKN7lXcknwNBswpyMTjp9K4vLTR5B2jH4upTIAT5MI=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Kokone",
-    "scheduledStartTime": "2024-04-14T23:30:00Z",
-    "actualStartTime": "2024-04-14T23:29:44Z",
-    "premiere": false
-  },
-  {
     "id": "alK8aJtac7o",
     "vidUrl": "https://youtu.be/alK8aJtac7o",
     "vidTitle": "comfy morning asmr \ud83e\udde1",
@@ -2574,6 +2561,19 @@
     "shortName": "Mion",
     "scheduledStartTime": "2024-04-15T00:45:00Z",
     "actualStartTime": "2024-04-15T00:48:45Z",
+    "premiere": false
+  },
+  {
+    "id": "rxtO58Y7GPQ",
+    "vidUrl": "https://youtu.be/rxtO58Y7GPQ",
+    "vidTitle": "\u3010SHINKANSEN 0\u3011 LIVE TRAIN REACTION \u3010NIJISANJI EN | Claude Clawmark\u3011",
+    "channelId": "@claudeclawmark",
+    "channelName": "Claude Clawmark \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/e7od55bIqtwAdCdpEdEf1d-PITBdVzntIaqGwTif46sTptNuJQ4WlVPPcfskh3wqb9axkDuOSg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Claude",
+    "scheduledStartTime": "2024-04-15T01:00:00Z",
+    "actualStartTime": "2024-04-15T00:48:13Z",
     "premiere": false
   },
   {
