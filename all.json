@@ -36,18 +36,6 @@
     "premiere": false
   },
   {
-    "id": "oaz7h0fAnTk",
-    "vidUrl": "https://youtu.be/oaz7h0fAnTk",
-    "vidTitle": "\u3010Brave group content\u3011Interview Vee sensei from V4Mirai! \u3010Kumanui Miel | globie\u3011",
-    "channelId": "@kumanuimiel",
-    "channelName": "Kumanui Miel Ch. \u718a\u7e2b\u30df\u30a8\u30eb\u3010globie\u3011",
-    "channelThumb": "https://yt3.ggpht.com/8f_4es6nBZAfGqpbSLfr5b12pv2elBhAnKV4NHf8BUZPY0edK5rfovLJbl22foZdWjvPIlHt=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Miel",
-    "scheduledStartTime": "2024-04-15T19:00:00Z",
-    "actualStartTime": "2024-04-15T19:02:42Z",
-    "premiere": false
-  },
-  {
     "id": "lzqV0w3yw48",
     "vidUrl": "https://youtu.be/lzqV0w3yw48",
     "vidTitle": "\u3010SHINKANSEN 0 | EXIT 8\u3011100% because I have a problem...",
@@ -69,18 +57,6 @@
     "shortName": "Roza",
     "scheduledStartTime": "2024-04-15T19:00:00Z",
     "actualStartTime": "2024-04-15T19:05:45Z",
-    "premiere": false
-  },
-  {
-    "id": "jAshAxN9pG0",
-    "vidUrl": "https://youtu.be/jAshAxN9pG0",
-    "vidTitle": "\u3010PERSONA 3 RELOAD *SPOILER ALERT*\u3011Lets Begin Our Journey\u3010globie 2nd Gen - Equinnox\u3011",
-    "channelId": "@vancevancreed",
-    "channelName": "Vance Van Creed ch.",
-    "channelThumb": "https://yt3.ggpht.com/fMH-jV4av9c83joWiiU7MKY5MB_hH-1-o1Mnm1UZE6MHeG7Byea8PRBU9x0ONYgn_VTx9qfAtFI=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Vance",
-    "scheduledStartTime": "2024-04-15T19:03:51Z",
-    "actualStartTime": "2024-04-15T18:56:13Z",
     "premiere": false
   },
   {
@@ -624,6 +600,18 @@
     "premiere": false
   },
   {
+    "id": "YMVozZz29-E",
+    "vidUrl": "https://youtu.be/YMVozZz29-E",
+    "vidTitle": "\u3010CHIBI DANCE VIDEO\u3011Puppet Cafe - \u3071\u307a\u3063\u3068\u304b\u3075\u3047\u2661 Maria Marionette \u30aa\u30ea\u30b8\u30ca\u30eb\u632f\u4ed8",
+    "channelId": "@mariamarionette",
+    "channelName": "Maria Marionette \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/EZJ0E6UnrsXZKRPGwZQUJHQ4e3y9PkCHInZFzP06lAE6cYN6MXSZL7O5L5jmTRuDPSzbxNty=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Maririn",
+    "scheduledStartTime": "2024-04-16T04:00:00Z",
+    "actualStartTime": "",
+    "premiere": true
+  },
+  {
     "id": "0CoZX2abR0M",
     "vidUrl": "https://youtu.be/0CoZX2abR0M",
     "vidTitle": "VTuber never gets tired of yapping....... #shorts #vtuber",
@@ -991,6 +979,18 @@
     "channelName": "Nia Suzune / \u9234\u97f3\u306b\u3042\u3010Requiem\u3011",
     "channelThumb": "https://yt3.ggpht.com/EZIsXrouGx2aOmLFm39j_fLbX-5XSqIZZN20OHosxCvZbrjXFAk9z_GBWk1B4jaafizyAjTDBPY=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Nia",
+    "scheduledStartTime": "2024-04-16T22:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "iYJxKfzLtgk",
+    "vidUrl": "https://youtu.be/iYJxKfzLtgk",
+    "vidTitle": "[ Return Stream ] Let's chat! I've missed you~!",
+    "channelId": "@lorelailoch",
+    "channelName": "Lorelai Loch",
+    "channelThumb": "https://yt3.ggpht.com/B4ZOCe8vf523qVFp9hcUwHIVdtPW5xkAEIJBBQT43pdQNygRyVfBD9z_fLabNfkAr2lZ7fr1=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Lorelai",
     "scheduledStartTime": "2024-04-16T22:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2700,6 +2700,18 @@
     "premiere": false
   },
   {
+    "id": "ezD21hF6vkA",
+    "vidUrl": "https://youtu.be/ezD21hF6vkA",
+    "vidTitle": "[ Zatsu ] Cozy Chatting Stream! + 1 week back!",
+    "channelId": "@lorelailoch",
+    "channelName": "Lorelai Loch",
+    "channelThumb": "https://yt3.ggpht.com/B4ZOCe8vf523qVFp9hcUwHIVdtPW5xkAEIJBBQT43pdQNygRyVfBD9z_fLabNfkAr2lZ7fr1=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Lorelai",
+    "scheduledStartTime": "2024-04-21T22:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "B4JqVeTIsWM",
     "vidUrl": "https://youtu.be/B4JqVeTIsWM",
     "vidTitle": "Tavern Master: Welcome to Scarlett's Hole",
@@ -3148,6 +3160,32 @@
     "shortName": "Tomoe",
     "scheduledStartTime": "2024-04-15T18:00:00Z",
     "actualStartTime": "2024-04-15T17:58:05Z",
+    "premiere": false
+  },
+  {
+    "id": "oaz7h0fAnTk",
+    "vidUrl": "https://youtu.be/oaz7h0fAnTk",
+    "vidTitle": "\u3010Brave group content\u3011Interview Vee sensei from V4Mirai! \u3010Kumanui Miel | globie\u3011",
+    "channelId": "@kumanuimiel",
+    "channelName": "Kumanui Miel Ch. \u718a\u7e2b\u30df\u30a8\u30eb\u3010globie\u3011",
+    "channelThumb": "https://yt3.ggpht.com/8f_4es6nBZAfGqpbSLfr5b12pv2elBhAnKV4NHf8BUZPY0edK5rfovLJbl22foZdWjvPIlHt=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Miel",
+    "scheduledStartTime": "2024-04-15T19:00:00Z",
+    "actualStartTime": "2024-04-15T19:02:42Z",
+    "premiere": false
+  },
+  {
+    "id": "jAshAxN9pG0",
+    "vidUrl": "https://youtu.be/jAshAxN9pG0",
+    "vidTitle": "\u3010PERSONA 3 RELOAD *SPOILER ALERT*\u3011Lets Begin Our Journey\u3010globie 2nd Gen - Equinnox\u3011",
+    "channelId": "@vancevancreed",
+    "channelName": "Vance Van Creed ch.",
+    "channelThumb": "https://yt3.ggpht.com/fMH-jV4av9c83joWiiU7MKY5MB_hH-1-o1Mnm1UZE6MHeG7Byea8PRBU9x0ONYgn_VTx9qfAtFI=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Vance",
+    "scheduledStartTime": "2024-04-15T19:03:51Z",
+    "actualStartTime": "2024-04-15T18:56:13Z",
     "premiere": false
   },
   {
