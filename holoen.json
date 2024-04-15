@@ -1,17 +1,5 @@
 [
   {
-    "id": "PsJDl32iCdk",
-    "vidUrl": "https://youtu.be/PsJDl32iCdk",
-    "vidTitle": "\u3010BIBOO'S BIRTHDAY 2024\u3011Sleepover Party START!! ??? Karaoke with GUESTS \u3010PART 1\u3011#tanjouBIBOO",
-    "channelId": "@kosekibijou",
-    "channelName": "Koseki Bijou Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/75xH5tujXTVPHlQXask8_qTbOeyq0BY4hKxNfvgTrsuqhK_oActrFV197roYikUNZhzayfiLmg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Biboo",
-    "scheduledStartTime": "2024-04-14T23:00:00Z",
-    "actualStartTime": "2024-04-14T22:58:13Z",
-    "premiere": false
-  },
-  {
     "id": "N9RX35SNOkM",
     "vidUrl": "https://youtu.be/N9RX35SNOkM",
     "vidTitle": "\u3010BIBOO'S BIRTHDAY 2024\u3011Sleepover Party! -ADVENT- Movie Night: Space Jam \u3010PART 2\u3011#tanjouBIBOO",
@@ -20,6 +8,18 @@
     "channelThumb": "https://yt3.ggpht.com/75xH5tujXTVPHlQXask8_qTbOeyq0BY4hKxNfvgTrsuqhK_oActrFV197roYikUNZhzayfiLmg=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Biboo",
     "scheduledStartTime": "2024-04-15T01:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "AqCoI6h_dkI",
+    "vidUrl": "https://youtu.be/AqCoI6h_dkI",
+    "vidTitle": "\u3010BIBOO'S BIRTHDAY 2024\u3011Sleepover Party!! Game Night\u3010PART 3\u3011#tanjouBIBOO",
+    "channelId": "@kosekibijou",
+    "channelName": "Koseki Bijou Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/75xH5tujXTVPHlQXask8_qTbOeyq0BY4hKxNfvgTrsuqhK_oActrFV197roYikUNZhzayfiLmg=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Biboo",
+    "scheduledStartTime": "2024-04-15T03:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -57,6 +57,19 @@
     "shortName": "FWMC",
     "scheduledStartTime": "2024-04-16T01:00:00Z",
     "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "PsJDl32iCdk",
+    "vidUrl": "https://youtu.be/PsJDl32iCdk",
+    "vidTitle": "\u3010BIBOO'S BIRTHDAY 2024\u3011Sleepover Party START!! ??? Karaoke with GUESTS \u3010PART 1\u3011#tanjouBIBOO",
+    "channelId": "@kosekibijou",
+    "channelName": "Koseki Bijou Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/75xH5tujXTVPHlQXask8_qTbOeyq0BY4hKxNfvgTrsuqhK_oActrFV197roYikUNZhzayfiLmg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Biboo",
+    "scheduledStartTime": "2024-04-14T23:00:00Z",
+    "actualStartTime": "2024-04-14T22:58:13Z",
     "premiere": false
   }
 ]
