@@ -24,18 +24,6 @@
     "premiere": false
   },
   {
-    "id": "UvmJvkICcKw",
-    "vidUrl": "https://youtu.be/UvmJvkICcKw",
-    "vidTitle": "\u3010GENSHIN IMPACT\u3011Can we proceed without being distracted?!",
-    "channelId": "@kamikorinona",
-    "channelName": "Kamiko Rinona Ch. [VReverie]",
-    "channelThumb": "https://yt3.ggpht.com/SbFlMLB7oQ7qohWKS-R2cuTWfnqMPJ0lile-yU90Lukt9CfBb67_phh3RxPjqYOnHdwljNTa0A=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Rinona",
-    "scheduledStartTime": "2024-04-16T14:00:00Z",
-    "actualStartTime": "2024-04-16T14:06:30Z",
-    "premiere": false
-  },
-  {
     "id": "5S7GCYcqs8s",
     "vidUrl": "https://youtu.be/5S7GCYcqs8s",
     "vidTitle": "\u3010LEAGUE OF LEGENDS\u3011Istg imma ADC till Hu CAN!\u3010globie 1st Gen\u3011",
@@ -45,18 +33,6 @@
     "shortName": "Hu",
     "scheduledStartTime": "2024-04-16T15:00:00Z",
     "actualStartTime": "2024-04-16T15:00:37Z",
-    "premiere": false
-  },
-  {
-    "id": "LZGVZ3xw6d8",
-    "vidUrl": "https://youtu.be/LZGVZ3xw6d8",
-    "vidTitle": "The Room\u3010Watchalong\u3011w/ @kattarina_qutie",
-    "channelId": "@fuyocloverfield",
-    "channelName": "Fuyo Cloverfield Ch. idol-EN",
-    "channelThumb": "https://yt3.ggpht.com/vqd3NC2ixgsJGUcvuvCIbQ-iDDwb6ESIgj791dJQhJ8gZ6OtG3-C2yzcfVPMPDF3cwU_eVeojHQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Fuyo",
-    "scheduledStartTime": "2024-04-16T15:00:00Z",
-    "actualStartTime": "2024-04-16T15:06:50Z",
     "premiere": false
   },
   {
@@ -201,18 +177,6 @@
     "shortName": "Cy",
     "scheduledStartTime": "2024-04-16T17:00:00Z",
     "actualStartTime": "2024-04-16T17:02:18Z",
-    "premiere": false
-  },
-  {
-    "id": "Xay4Cdw9isk",
-    "vidUrl": "https://youtu.be/Xay4Cdw9isk",
-    "vidTitle": "HELLDIVERS WITH STINKY @ConfettiConi",
-    "channelId": "@mozumipichi",
-    "channelName": "Mozumi Pichi Ch.\u3010V-Dere\u3011",
-    "channelThumb": "https://yt3.ggpht.com/-MORJjUXDCIxCYeCuEktQiDRvqDLv33ZG5fqCbxX6Y_U8dxMEIL9seZmRBtDbnTHQuCrs82YLQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Mozzu",
-    "scheduledStartTime": "2024-04-16T17:00:00Z",
-    "actualStartTime": "",
     "premiere": false
   },
   {
@@ -499,6 +463,18 @@
     "channelName": "Miuna Usako Ch.\u3010PixelLink\u3011",
     "channelThumb": "https://yt3.ggpht.com/RYRGGRwlHY1oVaarYXI1qTmsPVPpndVup-lM4VI7xowL9qvRNyl6593ldAeeWhVH8F50K9_yKHg=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Miuna",
+    "scheduledStartTime": "2024-04-17T00:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "1izFj0tO_ek",
+    "vidUrl": "https://youtu.be/1izFj0tO_ek",
+    "vidTitle": "\u3010ZATSUDAN\u3011 let's see your REPORT!",
+    "channelId": "@stfuboomi_",
+    "channelName": "Boomi Mamana Ch. \u9b54\u611b\u3076\u307f\u3010lucid\u2601\ufe0f\u3011",
+    "channelThumb": "https://yt3.ggpht.com/Ir7xaFhyOLm30TDU6WsFUT24WE8_o7SGK3eUmpbCsOOWFjh22e4XJsPhUYCvUtdgSUM2sUzOtg=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Boomi",
     "scheduledStartTime": "2024-04-17T00:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -3788,6 +3764,32 @@
     "shortName": "Kowa",
     "scheduledStartTime": "2024-04-16T14:00:00Z",
     "actualStartTime": "2024-04-16T14:04:42Z",
+    "premiere": false
+  },
+  {
+    "id": "UvmJvkICcKw",
+    "vidUrl": "https://youtu.be/UvmJvkICcKw",
+    "vidTitle": "\u3010GENSHIN IMPACT\u3011Can we proceed without being distracted?!",
+    "channelId": "@kamikorinona",
+    "channelName": "Kamiko Rinona Ch. [VReverie]",
+    "channelThumb": "https://yt3.ggpht.com/SbFlMLB7oQ7qohWKS-R2cuTWfnqMPJ0lile-yU90Lukt9CfBb67_phh3RxPjqYOnHdwljNTa0A=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Rinona",
+    "scheduledStartTime": "2024-04-16T14:00:00Z",
+    "actualStartTime": "2024-04-16T14:06:30Z",
+    "premiere": false
+  },
+  {
+    "id": "LZGVZ3xw6d8",
+    "vidUrl": "https://youtu.be/LZGVZ3xw6d8",
+    "vidTitle": "The Room\u3010Watchalong\u3011w/ @kattarina_qutie",
+    "channelId": "@fuyocloverfield",
+    "channelName": "Fuyo Cloverfield Ch. idol-EN",
+    "channelThumb": "https://yt3.ggpht.com/vqd3NC2ixgsJGUcvuvCIbQ-iDDwb6ESIgj791dJQhJ8gZ6OtG3-C2yzcfVPMPDF3cwU_eVeojHQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Fuyo",
+    "scheduledStartTime": "2024-04-16T15:00:00Z",
+    "actualStartTime": "2024-04-16T15:06:50Z",
     "premiere": false
   },
   {
