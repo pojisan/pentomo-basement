@@ -60,18 +60,6 @@
     "premiere": false
   },
   {
-    "id": "Fm_gU7w4VVs",
-    "vidUrl": "https://youtu.be/Fm_gU7w4VVs",
-    "vidTitle": "\u3010Dark Souls 3\u3011 Don't devour me, Aldritch",
-    "channelId": "@kaylexskullcastor",
-    "channelName": "Kaylex Skullcastor Ch. Legion",
-    "channelThumb": "https://yt3.ggpht.com/yBYtwbzSuAJeF6wFyn8SsRj0SltRG3AwX05tcUO39OrcF4G9Bt5HPbuM5dKW56XfI8OLFWyQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Kaylex",
-    "scheduledStartTime": "2024-04-16T01:29:04Z",
-    "actualStartTime": "2024-04-16T01:30:56Z",
-    "premiere": false
-  },
-  {
     "id": "6a7CaFVu4H8",
     "vidUrl": "https://youtu.be/6a7CaFVu4H8",
     "vidTitle": "\u3010Monster Hunter World\u3011collab!! with @NinomaeInanis @KosekiBijou @IRyS",
@@ -826,6 +814,18 @@
     "scheduledStartTime": "2024-04-17T00:00:00Z",
     "actualStartTime": "",
     "premiere": false
+  },
+  {
+    "id": "IDBCX2Oa0Kk",
+    "vidUrl": "https://youtu.be/IDBCX2Oa0Kk",
+    "vidTitle": "R O U N D 6 - \"CURE\"  ENGLISH version\u3010Navina\u3011",
+    "channelId": "@navinanova",
+    "channelName": "Navina Nova Ch. \u30ca\u30d3\u30ca\u30fb\u30ce\u30d0\u3010kawaii\u3011",
+    "channelThumb": "https://yt3.ggpht.com/sCQGR1Y8wiQjjms1_B6cyWhgkxRccJRKEUH3ayCYmS-BIYzogqpeyUDP2j-_mC3gvm_8_6bp4g=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Nano",
+    "scheduledStartTime": "2024-04-17T00:00:00Z",
+    "actualStartTime": "",
+    "premiere": true
   },
   {
     "id": "Lx29tyGyv68",
@@ -3367,6 +3367,19 @@
     "shortName": "Roro",
     "scheduledStartTime": "2024-04-16T01:00:00Z",
     "actualStartTime": "2024-04-16T01:12:53Z",
+    "premiere": false
+  },
+  {
+    "id": "Fm_gU7w4VVs",
+    "vidUrl": "https://youtu.be/Fm_gU7w4VVs",
+    "vidTitle": "\u3010Dark Souls 3\u3011 Don't devour me, Aldritch",
+    "channelId": "@kaylexskullcastor",
+    "channelName": "Kaylex Skullcastor Ch. Legion",
+    "channelThumb": "https://yt3.ggpht.com/yBYtwbzSuAJeF6wFyn8SsRj0SltRG3AwX05tcUO39OrcF4G9Bt5HPbuM5dKW56XfI8OLFWyQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Kaylex",
+    "scheduledStartTime": "2024-04-16T01:29:04Z",
+    "actualStartTime": "2024-04-16T01:30:56Z",
     "premiere": false
   },
   {
