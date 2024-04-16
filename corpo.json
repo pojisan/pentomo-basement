@@ -36,18 +36,6 @@
     "premiere": false
   },
   {
-    "id": "Qww6Bx0_VNo",
-    "vidUrl": "https://youtu.be/Qww6Bx0_VNo",
-    "vidTitle": "\u3010THAT'S NOT MY NEIGHBOR\u3011 hi I live here : ) \u3010EIEN Project\u3011",
-    "channelId": "@mirrisaffire",
-    "channelName": "Mirri Saffire Ch. \u3010EIEN Project\u3011",
-    "channelThumb": "https://yt3.ggpht.com/AtDufy17lH2ziQPDJh2-jQhOQ_3g5HNWeqx-d-CW2ItZcyB8sgVNCznypv_MdbNpiyU_pGEokks=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Mirri",
-    "scheduledStartTime": "2024-04-16T21:15:00Z",
-    "actualStartTime": "2024-04-16T21:15:16Z",
-    "premiere": false
-  },
-  {
     "id": "zusMW6xvCbE",
     "vidUrl": "https://youtu.be/zusMW6xvCbE",
     "vidTitle": "\u3010Persona 3 Reload\u3011Still exploring Tartarus...",
@@ -740,6 +728,18 @@
     "channelThumb": "https://yt3.ggpht.com/94_7bvQFgx_VwRYGfPY_C6QOyLrrhLuem9k0szU_sH5ND07OfNMmbXdhhepVJfgJekq-P2FORw=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Cy",
     "scheduledStartTime": "2024-04-17T17:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "IBu3iYYVDTA",
+    "vidUrl": "https://youtu.be/IBu3iYYVDTA",
+    "vidTitle": "Why are all the kids into Simulating Supermarkets?",
+    "channelId": "@rinpenrose",
+    "channelName": "Rin Penrose Ch. idol-EN",
+    "channelThumb": "https://yt3.ggpht.com/A4q2cLOTiWlNsZpT8P2XmIgv-ZJUP4OR-2hpei0ZTM2bnpAZOdY5b1YuwslYnQCcVGJYAaGT=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Rin",
+    "scheduledStartTime": "2024-04-17T18:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -3767,16 +3767,16 @@
     "premiere": false
   },
   {
-    "id": "QHEsVLkwyqQ",
-    "vidUrl": "https://youtu.be/QHEsVLkwyqQ",
-    "vidTitle": "\u3010Hitman 3\u3011THINK FAST CHUCKLENUTS\u3014Pt. 5\u3015",
-    "channelId": "@mivivnu",
-    "channelName": "Mivi Aivori Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/b0A2emwbDeLrLg3NZ5zlJf0AjwnxRx8dKsbah9w_DAOW5W-nhvK_JmA87yYFwYN6KeB4dOzH=s88-c-k-c0x00ffffff-no-rj",
+    "id": "Qww6Bx0_VNo",
+    "vidUrl": "https://youtu.be/Qww6Bx0_VNo",
+    "vidTitle": "\u3010THAT'S NOT MY NEIGHBOR\u3011 hi I live here : ) \u3010EIEN Project\u3011",
+    "channelId": "@mirrisaffire",
+    "channelName": "Mirri Saffire Ch. \u3010EIEN Project\u3011",
+    "channelThumb": "https://yt3.ggpht.com/AtDufy17lH2ziQPDJh2-jQhOQ_3g5HNWeqx-d-CW2ItZcyB8sgVNCznypv_MdbNpiyU_pGEokks=s88-c-k-c0x00ffffff-no-rj",
     "graveyard": true,
-    "shortName": "Mivi",
-    "scheduledStartTime": "2024-04-16T21:00:00Z",
-    "actualStartTime": "2024-04-16T21:02:13Z",
+    "shortName": "Mirri",
+    "scheduledStartTime": "2024-04-16T21:15:00Z",
+    "actualStartTime": "2024-04-16T21:15:16Z",
     "premiere": false
   },
   {
