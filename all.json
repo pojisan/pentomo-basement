@@ -36,18 +36,6 @@
     "premiere": false
   },
   {
-    "id": "8hdaxW3DVlc",
-    "vidUrl": "https://youtu.be/8hdaxW3DVlc",
-    "vidTitle": "\u3010FR Chatting\u3011SALUUUUUUUUUUUUT\u3010Kumanui Miel | globie\u3011",
-    "channelId": "@kumanuimiel",
-    "channelName": "Kumanui Miel Ch. \u718a\u7e2b\u30df\u30a8\u30eb\u3010globie\u3011",
-    "channelThumb": "https://yt3.ggpht.com/8f_4es6nBZAfGqpbSLfr5b12pv2elBhAnKV4NHf8BUZPY0edK5rfovLJbl22foZdWjvPIlHt=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Miel",
-    "scheduledStartTime": "2024-04-16T18:00:00Z",
-    "actualStartTime": "2024-04-16T18:00:10Z",
-    "premiere": false
-  },
-  {
     "id": "d7AQ1fhEods",
     "vidUrl": "https://youtu.be/d7AQ1fhEods",
     "vidTitle": "\u3010Supermarket Simulator\u3011Cute shop assistant makes big bucks\u3010Pippa Pebblesworth | globie\u3011",
@@ -57,18 +45,6 @@
     "shortName": "Pippa",
     "scheduledStartTime": "2024-04-16T18:00:00Z",
     "actualStartTime": "2024-04-16T18:02:02Z",
-    "premiere": false
-  },
-  {
-    "id": "Hks5XZGNQpE",
-    "vidUrl": "https://youtu.be/Hks5XZGNQpE",
-    "vidTitle": "\u3010LET'S GO FOR A WALK\u3011To 10k steps! \ud83c\udfbc",
-    "channelId": "@nerissaravencroft",
-    "channelName": "Nerissa Ravencroft Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/JDCIBWj11TgjY2Uyba_efZ0n5hzjysMB9GxkvHGkIN_sfFQJR5mx3iVPqgJ96IPcYjZpCLsb=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Nerissa",
-    "scheduledStartTime": "2024-04-16T18:30:00Z",
-    "actualStartTime": "2024-04-16T18:24:43Z",
     "premiere": false
   },
   {
@@ -236,6 +212,18 @@
     "channelThumb": "https://yt3.ggpht.com/Tz6Hm43Exb8k5sGZ7DRbucOkivDD4w7FU78_bPV69vWM47zCAODykYVo76pwXqry2b1DI1HI=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Kohaku",
     "scheduledStartTime": "2024-04-16T21:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "Qww6Bx0_VNo",
+    "vidUrl": "https://youtu.be/Qww6Bx0_VNo",
+    "vidTitle": "\u3010THAT'S NOT MY NEIGHBOR\u3011 hi I live here : ) \u3010EIEN Project\u3011",
+    "channelId": "@mirrisaffire",
+    "channelName": "Mirri Saffire Ch. \u3010EIEN Project\u3011",
+    "channelThumb": "https://yt3.ggpht.com/AtDufy17lH2ziQPDJh2-jQhOQ_3g5HNWeqx-d-CW2ItZcyB8sgVNCznypv_MdbNpiyU_pGEokks=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Mirri",
+    "scheduledStartTime": "2024-04-16T21:15:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -1320,6 +1308,18 @@
     "premiere": false
   },
   {
+    "id": "GLnfFKgoVRw",
+    "vidUrl": "https://youtu.be/GLnfFKgoVRw",
+    "vidTitle": "\u3010Birthday Celebration\u3011What Shall We Do Today!\u3010VICTORIA VALERIE | SPECIALITE\u3011",
+    "channelId": "@victoria-valerie",
+    "channelName": "Victoria Valerie\ud83d\udd76\ufe0f | Specialite EN",
+    "channelThumb": "https://yt3.ggpht.com/PpTKshRBevggGdsuLf3bn8AJ5gX_7To1142LIR4VMZxOcnYWZ8dUNMlUf_KDHJnZbc4jV430kUA=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Vicky",
+    "scheduledStartTime": "2024-04-17T22:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "HCKzC2Lp-yc",
     "vidUrl": "https://youtu.be/HCKzC2Lp-yc",
     "vidTitle": "Ranking Your WEIRD & HIDDEN Talents",
@@ -1370,7 +1370,7 @@
   {
     "id": "KjIQe0JLcVk",
     "vidUrl": "https://youtu.be/KjIQe0JLcVk",
-    "vidTitle": "Class of 09",
+    "vidTitle": "Class of 09 Goes Crazy",
     "channelId": "@rakunpoko",
     "channelName": "Poko Rakun Ch. idol-EN",
     "channelThumb": "https://yt3.ggpht.com/ma1Az7kp5ye3ZWtR9IGoFcWEVQ6ReN8VugO_PGP6qokwj430zQKuR9Uo_L5N3gCVTWsH_vQT1w=s88-c-k-c0x00ffffff-no-rj",
@@ -3807,6 +3807,32 @@
     "shortName": "Mero",
     "scheduledStartTime": "2024-04-16T16:30:00Z",
     "actualStartTime": "2024-04-16T16:30:29Z",
+    "premiere": false
+  },
+  {
+    "id": "8hdaxW3DVlc",
+    "vidUrl": "https://youtu.be/8hdaxW3DVlc",
+    "vidTitle": "\u3010FR Chatting\u3011SALUUUUUUUUUUUUT\u3010Kumanui Miel | globie\u3011",
+    "channelId": "@kumanuimiel",
+    "channelName": "Kumanui Miel Ch. \u718a\u7e2b\u30df\u30a8\u30eb\u3010globie\u3011",
+    "channelThumb": "https://yt3.ggpht.com/8f_4es6nBZAfGqpbSLfr5b12pv2elBhAnKV4NHf8BUZPY0edK5rfovLJbl22foZdWjvPIlHt=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Miel",
+    "scheduledStartTime": "2024-04-16T18:00:00Z",
+    "actualStartTime": "2024-04-16T18:00:10Z",
+    "premiere": false
+  },
+  {
+    "id": "Hks5XZGNQpE",
+    "vidUrl": "https://youtu.be/Hks5XZGNQpE",
+    "vidTitle": "\u3010LET'S GO FOR A WALK\u3011To 10k steps! \ud83c\udfbc",
+    "channelId": "@nerissaravencroft",
+    "channelName": "Nerissa Ravencroft Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/JDCIBWj11TgjY2Uyba_efZ0n5hzjysMB9GxkvHGkIN_sfFQJR5mx3iVPqgJ96IPcYjZpCLsb=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Nerissa",
+    "scheduledStartTime": "2024-04-16T18:30:00Z",
+    "actualStartTime": "2024-04-16T18:24:43Z",
     "premiere": false
   },
   {
