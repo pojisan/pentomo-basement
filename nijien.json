@@ -1,17 +1,5 @@
 [
   {
-    "id": "2Ykh9JifacM",
-    "vidUrl": "https://youtu.be/2Ykh9JifacM",
-    "vidTitle": "\u3010DETROIT: BECOME HUMAN P3\u3011WE HAVE A DREAM\u3010NIJISANJI EN | Vantacrow Bringer\u3011",
-    "channelId": "@vantacrowbringer",
-    "channelName": "Vantacrow Bringer \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/GLPkvp_8o7OvZ3q57IpqDSHIyv6OqZFK6tO1egzLoMjE19EBlo3tISEMIOLEvkC5jnl2Uus93A=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Vanta",
-    "scheduledStartTime": "2024-04-16T01:00:00Z",
-    "actualStartTime": "2024-04-16T01:02:46Z",
-    "premiere": false
-  },
-  {
     "id": "myYq78VpB9k",
     "vidUrl": "https://youtu.be/myYq78VpB9k",
     "vidTitle": "i'm back from touching grass",
@@ -44,8 +32,8 @@
     "channelThumb": "https://yt3.ggpht.com/EZJ0E6UnrsXZKRPGwZQUJHQ4e3y9PkCHInZFzP06lAE6cYN6MXSZL7O5L5jmTRuDPSzbxNty=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Maririn",
     "scheduledStartTime": "2024-04-16T04:00:00Z",
-    "actualStartTime": "",
-    "premiere": true
+    "actualStartTime": "2024-04-16T04:00:28Z",
+    "premiere": false
   },
   {
     "id": "Ovyu2-ElFic",
@@ -261,6 +249,19 @@
     "shortName": "Reimu",
     "scheduledStartTime": "2024-05-05T01:00:00Z",
     "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "2Ykh9JifacM",
+    "vidUrl": "https://youtu.be/2Ykh9JifacM",
+    "vidTitle": "\u3010DETROIT: BECOME HUMAN P3\u3011WE HAVE A DREAM\u3010NIJISANJI EN | Vantacrow Bringer\u3011",
+    "channelId": "@vantacrowbringer",
+    "channelName": "Vantacrow Bringer \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/GLPkvp_8o7OvZ3q57IpqDSHIyv6OqZFK6tO1egzLoMjE19EBlo3tISEMIOLEvkC5jnl2Uus93A=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Vanta",
+    "scheduledStartTime": "2024-04-16T01:00:00Z",
+    "actualStartTime": "2024-04-16T01:02:46Z",
     "premiere": false
   }
 ]
