@@ -36,18 +36,6 @@
     "premiere": false
   },
   {
-    "id": "K3Zk3qBRitY",
-    "vidUrl": "https://youtu.be/K3Zk3qBRitY",
-    "vidTitle": "idk",
-    "channelId": "@claudeclawmark",
-    "channelName": "Claude Clawmark \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/e7od55bIqtwAdCdpEdEf1d-PITBdVzntIaqGwTif46sTptNuJQ4WlVPPcfskh3wqb9axkDuOSg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Claude",
-    "scheduledStartTime": "2024-04-15T23:30:00Z",
-    "actualStartTime": "2024-04-15T23:27:00Z",
-    "premiere": false
-  },
-  {
     "id": "cnMnYxjVN2U",
     "vidUrl": "https://youtu.be/cnMnYxjVN2U",
     "vidTitle": "Fallout 4 - Survival mode sword only?!",
@@ -105,30 +93,6 @@
     "shortName": "Vanta",
     "scheduledStartTime": "2024-04-16T01:00:00Z",
     "actualStartTime": "2024-04-16T01:02:46Z",
-    "premiere": false
-  },
-  {
-    "id": "_wi0Z0-fY1s",
-    "vidUrl": "https://youtu.be/_wi0Z0-fY1s",
-    "vidTitle": "\u3010DAVE THE DIVER\u3011 catching the biggest fish of all",
-    "channelId": "@hiranokokoro",
-    "channelName": "Hirano Kokoro \u300c\u308d\u308d\u300d",
-    "channelThumb": "https://yt3.ggpht.com/Pc-k4wd6VsvLoZPUmql6OForU2LDiXTu3TeGZASvNqkD4OW-zEUxuNatHZQLRMUrt4IhcE0rtg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Roro",
-    "scheduledStartTime": "2024-04-16T01:00:00Z",
-    "actualStartTime": "2024-04-16T01:07:45Z",
-    "premiere": false
-  },
-  {
-    "id": "LsdJSdhKIbY",
-    "vidUrl": "https://youtu.be/LsdJSdhKIbY",
-    "vidTitle": "Can I catch you?~  | #shortslive",
-    "channelId": "@hiranokokoro",
-    "channelName": "Hirano Kokoro \u300c\u308d\u308d\u300d",
-    "channelThumb": "https://yt3.ggpht.com/Pc-k4wd6VsvLoZPUmql6OForU2LDiXTu3TeGZASvNqkD4OW-zEUxuNatHZQLRMUrt4IhcE0rtg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Roro",
-    "scheduledStartTime": "2024-04-16T01:00:00Z",
-    "actualStartTime": "2024-04-16T01:12:53Z",
     "premiere": false
   },
   {
@@ -308,7 +272,7 @@
     "channelThumb": "https://yt3.ggpht.com/0RMVwqYrh_4HAhaUmUL3pP6S0DWfSZ-NZuTe1jfjjlEWVzpnMlI0WAja4rVw1w8EzaVQLjED=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Elayna",
     "scheduledStartTime": "2024-04-16T03:30:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-16T03:29:36Z",
     "premiere": false
   },
   {
@@ -1112,18 +1076,6 @@
     "channelThumb": "https://yt3.ggpht.com/jPWRHtDGZ3b-HXw__M_4Le5LhYAwxpcy7_Inwji6RhxGC7NK34Nihv_LwLgjtCfdTMuDE92y=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Lida",
     "scheduledStartTime": "2024-04-17T13:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "Cd9uBQvU9xU",
-    "vidUrl": "https://youtu.be/Cd9uBQvU9xU",
-    "vidTitle": "SPECIAL ANNOUNCEMENT |",
-    "channelId": "@hiranokokoro",
-    "channelName": "Hirano Kokoro \u300c\u308d\u308d\u300d",
-    "channelThumb": "https://yt3.ggpht.com/Pc-k4wd6VsvLoZPUmql6OForU2LDiXTu3TeGZASvNqkD4OW-zEUxuNatHZQLRMUrt4IhcE0rtg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Roro",
-    "scheduledStartTime": "2024-04-17T14:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -3329,6 +3281,19 @@
     "premiere": false
   },
   {
+    "id": "K3Zk3qBRitY",
+    "vidUrl": "https://youtu.be/K3Zk3qBRitY",
+    "vidTitle": "idk",
+    "channelId": "@claudeclawmark",
+    "channelName": "Claude Clawmark \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/e7od55bIqtwAdCdpEdEf1d-PITBdVzntIaqGwTif46sTptNuJQ4WlVPPcfskh3wqb9axkDuOSg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Claude",
+    "scheduledStartTime": "2024-04-15T23:30:00Z",
+    "actualStartTime": "2024-04-15T23:27:00Z",
+    "premiere": false
+  },
+  {
     "id": "O41Xd4mDNhQ",
     "vidUrl": "https://youtu.be/O41Xd4mDNhQ",
     "vidTitle": "\u3010Office ASMR\u3011Gentle whispers, keyboard clacking, paper folding, mouse clicking & stationery sounds",
@@ -3339,19 +3304,6 @@
     "shortName": "Rem",
     "scheduledStartTime": "2024-04-15T23:30:00Z",
     "actualStartTime": "2024-04-15T23:30:06Z",
-    "premiere": false
-  },
-  {
-    "id": "hPCkGRas_gA",
-    "vidUrl": "https://youtu.be/hPCkGRas_gA",
-    "vidTitle": "\u3010GARTEN OF BANBAN\u3011going back to kindergarten....... | GEN4\u3011",
-    "channelId": "@zelivnu",
-    "channelName": "Zeli Zuimu Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/x-Jy2Z-kGAif3VDun_IhsnyYfzF5aWhNbwG6fcms85aKwauMlcr0dwA2onUFirEFs2BD8YFwjWg=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Zeli",
-    "scheduledStartTime": "2024-04-16T00:00:00Z",
-    "actualStartTime": "2024-04-16T00:02:10Z",
     "premiere": false
   },
   {
