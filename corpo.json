@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "sfJGP5vOSsA",
-    "vidUrl": "https://youtu.be/sfJGP5vOSsA",
-    "vidTitle": "\u3010PERSONA 3 RELOAD *SPOILER ALERT*\u3011Lets Keep Going\u3010globie 2nd Gen - Equinnox\u3011",
-    "channelId": "@vancevancreed",
-    "channelName": "Vance Van Creed ch.",
-    "channelThumb": "https://yt3.ggpht.com/fMH-jV4av9c83joWiiU7MKY5MB_hH-1-o1Mnm1UZE6MHeG7Byea8PRBU9x0ONYgn_VTx9qfAtFI=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Vance",
-    "scheduledStartTime": "2024-04-16T16:56:19Z",
-    "actualStartTime": "2024-04-16T16:56:36Z",
-    "premiere": false
-  },
-  {
     "id": "O9wk9qqZJUM",
     "vidUrl": "https://youtu.be/O9wk9qqZJUM",
     "vidTitle": "I WENT TO A CABIN IN THE WOODS AND CAME BACK ALIVE o.O | Mino Mieko Ch.",
@@ -156,18 +144,6 @@
     "premiere": false
   },
   {
-    "id": "9myEGcXaUwQ",
-    "vidUrl": "https://youtu.be/9myEGcXaUwQ",
-    "vidTitle": "\u3010CHAT + TS4\u3011Chill Chat~\u3010bondliveEN | Ivaela Daemoni\u3011",
-    "channelId": "@ivaelad",
-    "channelName": "Ivaela Daemoni || \u30a4\u30f4\u30a7\u30e9\u30fb\u30c7\u30e2\u30cb \u3016bondliveEN\u3017",
-    "channelThumb": "https://yt3.ggpht.com/jrJJ8oX8ZP5WElJi21bGfW0jZYnQ3FSAQtsnHMZXQ8_OZ1MnSOFCdTeAVpJVXf7Dul4Ed49h-Q=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Ivaela",
-    "scheduledStartTime": "2024-04-16T20:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "g2K86nmnals",
     "vidUrl": "https://youtu.be/g2K86nmnals",
     "vidTitle": "\u3010Dragon Dogma II Gameplay\u3011I'm Going to Kill Everything in Sight!\u3010Alias Anono | V4Mirai | ENVtuber\u3011",
@@ -176,7 +152,19 @@
     "channelThumb": "https://yt3.ggpht.com/2cjQaeikgrJlNLffvtgcuH9FNsGIOdBdC34ShNNmqpW4MH-n2GPJGT3gv2oz8awap2nOeKneoQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Alias",
     "scheduledStartTime": "2024-04-16T20:00:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-16T20:00:11Z",
+    "premiere": false
+  },
+  {
+    "id": "9myEGcXaUwQ",
+    "vidUrl": "https://youtu.be/9myEGcXaUwQ",
+    "vidTitle": "\u3010CHAT + TS4\u3011Chill Chat~\u3010bondliveEN | Ivaela Daemoni\u3011",
+    "channelId": "@ivaelad",
+    "channelName": "Ivaela Daemoni || \u30a4\u30f4\u30a7\u30e9\u30fb\u30c7\u30e2\u30cb \u3016bondliveEN\u3017",
+    "channelThumb": "https://yt3.ggpht.com/jrJJ8oX8ZP5WElJi21bGfW0jZYnQ3FSAQtsnHMZXQ8_OZ1MnSOFCdTeAVpJVXf7Dul4Ed49h-Q=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Ivaela",
+    "scheduledStartTime": "2024-04-16T20:00:00Z",
+    "actualStartTime": "2024-04-16T20:01:13Z",
     "premiere": false
   },
   {
@@ -3787,6 +3775,19 @@
     "shortName": "Mero",
     "scheduledStartTime": "2024-04-16T16:30:00Z",
     "actualStartTime": "2024-04-16T16:30:29Z",
+    "premiere": false
+  },
+  {
+    "id": "sfJGP5vOSsA",
+    "vidUrl": "https://youtu.be/sfJGP5vOSsA",
+    "vidTitle": "\u3010PERSONA 3 RELOAD *SPOILER ALERT*\u3011Lets Keep Going\u3010globie 2nd Gen - Equinnox\u3011",
+    "channelId": "@vancevancreed",
+    "channelName": "Vance Van Creed ch.",
+    "channelThumb": "https://yt3.ggpht.com/fMH-jV4av9c83joWiiU7MKY5MB_hH-1-o1Mnm1UZE6MHeG7Byea8PRBU9x0ONYgn_VTx9qfAtFI=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Vance",
+    "scheduledStartTime": "2024-04-16T16:56:19Z",
+    "actualStartTime": "2024-04-16T16:56:36Z",
     "premiere": false
   }
 ]
