@@ -1,17 +1,5 @@
 [
   {
-    "id": "UZ1xMIseQw0",
-    "vidUrl": "https://youtu.be/UZ1xMIseQw0",
-    "vidTitle": "\u3010 VCR RUST \u3011\u30ca\u30ab\u30de\u3000\u30ac\u3000\u30b5\u30a4\u30b3\u30a6\uff01\uff01\u3000#4",
-    "channelId": "@moricalliope",
-    "channelName": "Mori Calliope Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/8B_T08sx8R7XVi5Mwx_l9sjQm5FGWGspeujSvVDvd80Zyr-3VvVTRGVLOnBrqNRxZp6ZeXAV=s88-c-k-c0x00ffffff-no-nd-rj",
-    "shortName": "Mori",
-    "scheduledStartTime": "2024-04-16T05:58:42Z",
-    "actualStartTime": "2024-04-16T05:59:30Z",
-    "premiere": false
-  },
-  {
     "id": "Hks5XZGNQpE",
     "vidUrl": "https://youtu.be/Hks5XZGNQpE",
     "vidTitle": "\u3010LET'S GO FOR A WALK\u3011To 10k steps! \ud83c\udfbc",
@@ -45,6 +33,31 @@
     "shortName": "FWMC",
     "scheduledStartTime": "2024-04-17T01:00:00Z",
     "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "xjwNN_U9SaQ",
+    "vidUrl": "https://youtu.be/xjwNN_U9SaQ",
+    "vidTitle": "\u3010 VCR RUST \u3011\u30b7\u30cb\u30ac\u30df\u3000\u30a4\u30ba\u3000\u30d1\u30ef\u30d5\u30eb\uff01\uff01\u3000#4",
+    "channelId": "@moricalliope",
+    "channelName": "Mori Calliope Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/8B_T08sx8R7XVi5Mwx_l9sjQm5FGWGspeujSvVDvd80Zyr-3VvVTRGVLOnBrqNRxZp6ZeXAV=s88-c-k-c0x00ffffff-no-nd-rj",
+    "shortName": "Mori",
+    "scheduledStartTime": "2024-04-17T11:30:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "UZ1xMIseQw0",
+    "vidUrl": "https://youtu.be/UZ1xMIseQw0",
+    "vidTitle": "\u3010 VCR RUST \u3011\u30ca\u30ab\u30de\u3000\u30ac\u3000\u30b5\u30a4\u30b3\u30a6\uff01\uff01\u3000#4",
+    "channelId": "@moricalliope",
+    "channelName": "Mori Calliope Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/8B_T08sx8R7XVi5Mwx_l9sjQm5FGWGspeujSvVDvd80Zyr-3VvVTRGVLOnBrqNRxZp6ZeXAV=s88-c-k-c0x00ffffff-no-nd-rj",
+    "graveyard": true,
+    "shortName": "Mori",
+    "scheduledStartTime": "2024-04-16T05:58:42Z",
+    "actualStartTime": "2024-04-16T05:59:30Z",
     "premiere": false
   }
 ]
