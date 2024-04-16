@@ -1,17 +1,5 @@
 [
   {
-    "id": "Ly2_0ADJzME",
-    "vidUrl": "https://youtu.be/Ly2_0ADJzME",
-    "vidTitle": "\u3010Ender Magnolia\u3011Aesthetic Suffering | #1",
-    "channelId": "@ourokronii",
-    "channelName": "Ouro Kronii Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/flg7E5XnFWh-NhGZOydJ2QHMpFdkBGbou0OcYUiYjKVisv8UsY-FiPLrTtexXVUqPmIyDvgC=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Kronii",
-    "scheduledStartTime": "2024-04-16T01:15:00Z",
-    "actualStartTime": "2024-04-16T01:15:56Z",
-    "premiere": false
-  },
-  {
     "id": "UZ1xMIseQw0",
     "vidUrl": "https://youtu.be/UZ1xMIseQw0",
     "vidTitle": "\u3010 VCR RUST \u3011\u30ca\u30ab\u30de\u3000\u30ac\u3000\u30b5\u30a4\u30b3\u30a6\uff01\uff01\u3000#4",
@@ -57,6 +45,19 @@
     "shortName": "FWMC",
     "scheduledStartTime": "2024-04-17T01:00:00Z",
     "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "Ly2_0ADJzME",
+    "vidUrl": "https://youtu.be/Ly2_0ADJzME",
+    "vidTitle": "\u3010Ender Magnolia\u3011Aesthetic Suffering | #1",
+    "channelId": "@ourokronii",
+    "channelName": "Ouro Kronii Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/flg7E5XnFWh-NhGZOydJ2QHMpFdkBGbou0OcYUiYjKVisv8UsY-FiPLrTtexXVUqPmIyDvgC=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Kronii",
+    "scheduledStartTime": "2024-04-16T01:15:00Z",
+    "actualStartTime": "2024-04-16T01:15:56Z",
     "premiere": false
   }
 ]
