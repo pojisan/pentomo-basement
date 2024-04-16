@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "NJZgIs6ffVo",
-    "vidUrl": "https://youtu.be/NJZgIs6ffVo",
-    "vidTitle": "MY FIRST AMERICAN STREAM\u3010Just Chatting/Zatsudan\u3011",
-    "channelId": "@eliastellaria",
-    "channelName": "Elia Stellaria\u3010V-Dere\u3011",
-    "channelThumb": "https://yt3.ggpht.com/06-Ihgh44rPrUWXBSXAGR0a10dQKGBTm-AEJxG1ThlclvCzFFugh1FSz5PXqXP606Y_BV98SKA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Elia",
-    "scheduledStartTime": "2024-04-16T07:00:00Z",
-    "actualStartTime": "2024-04-16T07:01:46Z",
-    "premiere": false
-  },
-  {
     "id": "pYz5Fv0VdE4",
     "vidUrl": "https://youtu.be/pYz5Fv0VdE4",
     "vidTitle": "\u3010\u65e5\u672c\u8a9e\u96d1\u8ac7\u3011\u65b0\u8863\u88c5\u3067\u65e5\u672c\u8a9e\u96d1\u3059\u308b\u3088\uff5e\u3000JAPANESE SPEAKING STREAM\u3010NIJISANJI EN | Maria Marionette\u3011",
@@ -660,6 +648,18 @@
     "premiere": false
   },
   {
+    "id": "ylhZMGrufqQ",
+    "vidUrl": "https://youtu.be/ylhZMGrufqQ",
+    "vidTitle": "\u3010\u30a8\u30a2\u30db\u30c3\u30b1\u30fc\u3011ANCIENT GAME FROM A LOST PC: AIR HOCKEY\u3010Yae Yugiri | V4Mirai | VTuber\u3011",
+    "channelId": "@yaeyugiri",
+    "channelName": "Yae Yugiri Ch.\u3010V4Mirai\u3011",
+    "channelThumb": "https://yt3.ggpht.com/4YU-ifBGgSoq-RvD3MYlUq_mhH23Ioe8h_t083RWrYs3c4qDcJQ_nEds5DGrI7C2FQOz0kLb=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Yae",
+    "scheduledStartTime": "2024-04-16T23:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "5SjbY9yohRg",
     "vidUrl": "https://youtu.be/5SjbY9yohRg",
     "vidTitle": "\u3010Supermarket Simulator Pt. 2\u3011Welcome to Pasta Mart, where all your pasta dreams\u3010Ami Amami | \u96e8\u6d77\u3042\u307f\u3011",
@@ -1224,18 +1224,6 @@
     "premiere": false
   },
   {
-    "id": "m26MurAlIY0",
-    "vidUrl": "https://youtu.be/m26MurAlIY0",
-    "vidTitle": "\u3010KARAOKE PRACTICE\u30112000-2010's Vocaloid Edition\u3010Yae Yugiri | V4Mirai | VTuber\u3011",
-    "channelId": "@yaeyugiri",
-    "channelName": "Yae Yugiri Ch.\u3010V4Mirai\u3011",
-    "channelThumb": "https://yt3.ggpht.com/4YU-ifBGgSoq-RvD3MYlUq_mhH23Ioe8h_t083RWrYs3c4qDcJQ_nEds5DGrI7C2FQOz0kLb=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Yae",
-    "scheduledStartTime": "2024-04-17T23:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "_kL6GLe4KSY",
     "vidUrl": "https://youtu.be/_kL6GLe4KSY",
     "vidTitle": "Backpack Battles: Junk in our Trunk!",
@@ -1676,6 +1664,18 @@
     "channelThumb": "https://yt3.ggpht.com/T30qwb0jUMNHh6WY7ZUjsFZKTP9hoPyZO4d4Knvf22uj_1DV5xvkK-ReGlX8zeshgoQeOmWovg=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Ran",
     "scheduledStartTime": "2024-04-18T22:30:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "m26MurAlIY0",
+    "vidUrl": "https://youtu.be/m26MurAlIY0",
+    "vidTitle": "\u3010KARAOKE PRACTICE\u30112000-2010's Vocaloid Edition\u3010Yae Yugiri | V4Mirai | VTuber\u3011",
+    "channelId": "@yaeyugiri",
+    "channelName": "Yae Yugiri Ch.\u3010V4Mirai\u3011",
+    "channelThumb": "https://yt3.ggpht.com/4YU-ifBGgSoq-RvD3MYlUq_mhH23Ioe8h_t083RWrYs3c4qDcJQ_nEds5DGrI7C2FQOz0kLb=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Yae",
+    "scheduledStartTime": "2024-04-18T23:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -3317,6 +3317,19 @@
     "shortName": "Cerenity",
     "scheduledStartTime": "2024-04-16T04:00:00Z",
     "actualStartTime": "2024-04-16T03:59:21Z",
+    "premiere": false
+  },
+  {
+    "id": "NJZgIs6ffVo",
+    "vidUrl": "https://youtu.be/NJZgIs6ffVo",
+    "vidTitle": "MY FIRST AMERICAN STREAM\u3010Just Chatting/Zatsudan\u3011",
+    "channelId": "@eliastellaria",
+    "channelName": "Elia Stellaria\u3010V-Dere\u3011",
+    "channelThumb": "https://yt3.ggpht.com/06-Ihgh44rPrUWXBSXAGR0a10dQKGBTm-AEJxG1ThlclvCzFFugh1FSz5PXqXP606Y_BV98SKA=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Elia",
+    "scheduledStartTime": "2024-04-16T07:00:00Z",
+    "actualStartTime": "2024-04-16T07:01:46Z",
     "premiere": false
   },
   {
