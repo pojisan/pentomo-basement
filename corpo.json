@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "dwcIC6juFNw",
-    "vidUrl": "https://youtu.be/dwcIC6juFNw",
-    "vidTitle": "[WRITING] hehehehe time to write fanfics about triple A club [V&U | GEN 5]",
-    "channelId": "@cerenityvnu",
-    "channelName": "Cerenity Cosmica Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/dnyzDEaJzR5qZiWFp73wK_f91hlDHxiORtJ6jwu9nzWcLr_vvkHf9IQc2PGhpiBwKWMF5ns2xg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Cerenity",
-    "scheduledStartTime": "2024-04-16T19:00:00Z",
-    "actualStartTime": "2024-04-16T18:51:32Z",
-    "premiere": false
-  },
-  {
     "id": "C3-REt0cF5U",
     "vidUrl": "https://youtu.be/C3-REt0cF5U",
     "vidTitle": "Unarchived Osu! Attempting 5~6 Star Maps / USING TTS",
@@ -3775,6 +3763,19 @@
     "shortName": "Mero",
     "scheduledStartTime": "2024-04-16T16:30:00Z",
     "actualStartTime": "2024-04-16T16:30:29Z",
+    "premiere": false
+  },
+  {
+    "id": "dwcIC6juFNw",
+    "vidUrl": "https://youtu.be/dwcIC6juFNw",
+    "vidTitle": "[WRITING] hehehehe time to write fanfics about triple A club [V&U | GEN 5]",
+    "channelId": "@cerenityvnu",
+    "channelName": "Cerenity Cosmica Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/dnyzDEaJzR5qZiWFp73wK_f91hlDHxiORtJ6jwu9nzWcLr_vvkHf9IQc2PGhpiBwKWMF5ns2xg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Cerenity",
+    "scheduledStartTime": "2024-04-16T19:00:00Z",
+    "actualStartTime": "2024-04-16T18:51:32Z",
     "premiere": false
   }
 ]
