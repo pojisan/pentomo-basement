@@ -24,18 +24,6 @@
     "premiere": false
   },
   {
-    "id": "wM1HqVWZWmw",
-    "vidUrl": "https://youtu.be/wM1HqVWZWmw",
-    "vidTitle": "\u3010Supermarket Simulator\u3011I DONT GET PAID ENOUGH FOR THIS",
-    "channelId": "@niasuzune",
-    "channelName": "Nia Suzune / \u9234\u97f3\u306b\u3042\u3010Requiem\u3011",
-    "channelThumb": "https://yt3.ggpht.com/EZIsXrouGx2aOmLFm39j_fLbX-5XSqIZZN20OHosxCvZbrjXFAk9z_GBWk1B4jaafizyAjTDBPY=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Nia",
-    "scheduledStartTime": "2024-04-15T22:00:00Z",
-    "actualStartTime": "2024-04-15T22:03:02Z",
-    "premiere": false
-  },
-  {
     "id": "seIhesMhjrM",
     "vidUrl": "https://youtu.be/seIhesMhjrM",
     "vidTitle": "Let's not Run Anymore!\u3010The Walking Dead\u3011",
@@ -45,18 +33,6 @@
     "shortName": "Chiaki",
     "scheduledStartTime": "2024-04-15T23:00:00Z",
     "actualStartTime": "2024-04-15T22:59:46Z",
-    "premiere": false
-  },
-  {
-    "id": "baAwgEmnEcg",
-    "vidUrl": "https://youtu.be/baAwgEmnEcg",
-    "vidTitle": "dude DIED for this",
-    "channelId": "@rakunpoko",
-    "channelName": "Poko Rakun Ch. idol-EN",
-    "channelThumb": "https://yt3.ggpht.com/ma1Az7kp5ye3ZWtR9IGoFcWEVQ6ReN8VugO_PGP6qokwj430zQKuR9Uo_L5N3gCVTWsH_vQT1w=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Poko",
-    "scheduledStartTime": "2024-04-15T23:00:00Z",
-    "actualStartTime": "2024-04-15T23:00:44Z",
     "premiere": false
   },
   {
@@ -408,18 +384,6 @@
     "premiere": false
   },
   {
-    "id": "J9IzqYd7AeU",
-    "vidUrl": "https://youtu.be/J9IzqYd7AeU",
-    "vidTitle": "im going to pin you to my wall",
-    "channelId": "@scarleyonaguni",
-    "channelName": "Scarle Yonaguni \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/oYEH8ckOxzEJ0GXlZGp4aSxvZrMWAeodRUg_MRgHqJEr7bEyjXdoC5VyYZ143XtcIKUozhQq6Q=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Scarle",
-    "scheduledStartTime": "2024-04-16T02:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "jyFTFdRq6DY",
     "vidUrl": "https://youtu.be/jyFTFdRq6DY",
     "vidTitle": "\u3010MONSTER HUNTER WORLD\u3011collab with  @MoriCalliope   @KosekiBijou   @NinomaeInanis",
@@ -427,6 +391,18 @@
     "channelName": "IRyS Ch. hololive-EN",
     "channelThumb": "https://yt3.ggpht.com/cDSMiVy3Xa49Ci_YyouVNzfCwVXKRYmOeywWQ_UFKzvAp6tvyeMtXMyzWzQ2u8ft4EENsJKt7A=s88-c-k-c0x00ffffff-no-nd-rj",
     "shortName": "Irys",
+    "scheduledStartTime": "2024-04-16T02:00:00Z",
+    "actualStartTime": "2024-04-16T02:14:13Z",
+    "premiere": false
+  },
+  {
+    "id": "J9IzqYd7AeU",
+    "vidUrl": "https://youtu.be/J9IzqYd7AeU",
+    "vidTitle": "im going to pin you to my wall",
+    "channelId": "@scarleyonaguni",
+    "channelName": "Scarle Yonaguni \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/oYEH8ckOxzEJ0GXlZGp4aSxvZrMWAeodRUg_MRgHqJEr7bEyjXdoC5VyYZ143XtcIKUozhQq6Q=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Scarle",
     "scheduledStartTime": "2024-04-16T02:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -992,6 +968,18 @@
     "channelThumb": "https://yt3.ggpht.com/Q5uPSXLX-UaT7iQ1VRWbehhySRrtvEcWEA-ey6HfpVmHlZSz5zUrlC9g5UQuNfsgO5UOjJfI_Q=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Novae",
     "scheduledStartTime": "2024-04-16T22:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "4JKpMkZUhTE",
+    "vidUrl": "https://youtu.be/4JKpMkZUhTE",
+    "vidTitle": "\u3010ENDER LILIES: Quietus of the Knights Ep. 02\u3011The Corruption Continues",
+    "channelId": "@shiorinovella",
+    "channelName": "Shiori Novella Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/ZlovVsPyh8NgS37S4dfONiCBySiboGPbT9cYuirb8JM3JhSnqlpJk-8SQUEA7jPfqXpMvjaa=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Shiori",
+    "scheduledStartTime": "2024-04-16T23:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -3376,6 +3364,19 @@
     "premiere": false
   },
   {
+    "id": "wM1HqVWZWmw",
+    "vidUrl": "https://youtu.be/wM1HqVWZWmw",
+    "vidTitle": "\u3010Supermarket Simulator\u3011I DONT GET PAID ENOUGH FOR THIS",
+    "channelId": "@niasuzune",
+    "channelName": "Nia Suzune / \u9234\u97f3\u306b\u3042\u3010Requiem\u3011",
+    "channelThumb": "https://yt3.ggpht.com/EZIsXrouGx2aOmLFm39j_fLbX-5XSqIZZN20OHosxCvZbrjXFAk9z_GBWk1B4jaafizyAjTDBPY=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Nia",
+    "scheduledStartTime": "2024-04-15T22:00:00Z",
+    "actualStartTime": "2024-04-15T22:03:02Z",
+    "premiere": false
+  },
+  {
     "id": "FIToV0yG69U",
     "vidUrl": "https://youtu.be/FIToV0yG69U",
     "vidTitle": "happy tax day \ud83d\udc69\u200d\ud83d\udcbc \u3010Death and Taxes\u3011",
@@ -3386,6 +3387,19 @@
     "shortName": "Rowa",
     "scheduledStartTime": "2024-04-15T23:00:00Z",
     "actualStartTime": "2024-04-15T22:59:49Z",
+    "premiere": false
+  },
+  {
+    "id": "baAwgEmnEcg",
+    "vidUrl": "https://youtu.be/baAwgEmnEcg",
+    "vidTitle": "dude DIED for this",
+    "channelId": "@rakunpoko",
+    "channelName": "Poko Rakun Ch. idol-EN",
+    "channelThumb": "https://yt3.ggpht.com/ma1Az7kp5ye3ZWtR9IGoFcWEVQ6ReN8VugO_PGP6qokwj430zQKuR9Uo_L5N3gCVTWsH_vQT1w=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Poko",
+    "scheduledStartTime": "2024-04-15T23:00:00Z",
+    "actualStartTime": "2024-04-15T23:00:44Z",
     "premiere": false
   },
   {
@@ -3412,19 +3426,6 @@
     "shortName": "Nerissa",
     "scheduledStartTime": "2024-04-16T00:00:00Z",
     "actualStartTime": "2024-04-15T23:55:08Z",
-    "premiere": false
-  },
-  {
-    "id": "GNzAMIOJPS8",
-    "vidUrl": "https://youtu.be/GNzAMIOJPS8",
-    "vidTitle": "\u3010GOAT SIM\u3011JOAT BECOMES THE GOAT\u3010Yume+ | Rhea Nevermore\u3011",
-    "channelId": "@rheanevermore",
-    "channelName": "Rhea Nevermore \u3010Yume+\u3011",
-    "channelThumb": "https://yt3.ggpht.com/POsoK-HHPySyD4C6ell2PZeeqjOfPFYW1SOYN0ZwETReBmkJ7ScxoTkyB3BliqEg3Qh6ulsjwQ=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Rhea",
-    "scheduledStartTime": "2024-04-16T00:00:00Z",
-    "actualStartTime": "2024-04-15T23:59:53Z",
     "premiere": false
   },
   {
