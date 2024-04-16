@@ -24,18 +24,6 @@
     "premiere": false
   },
   {
-    "id": "P8zq5jW2qFU",
-    "vidUrl": "https://youtu.be/P8zq5jW2qFU",
-    "vidTitle": "\u3010Botany Manor\u3011Mysterious plants?",
-    "channelId": "@lillianthemaid",
-    "channelName": "Lillian\u3010BlueJump EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/ZyQVNSp-gOO1KVonCwFgE0I1lz749HgsVPc0GV4tOYvv3TdSE_nzE7iS9fZEZtlxqWbz2Ta_ww=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Lillian",
-    "scheduledStartTime": "2024-04-16T01:00:00Z",
-    "actualStartTime": "2024-04-16T01:00:19Z",
-    "premiere": false
-  },
-  {
     "id": "MHnnrqjMW1I",
     "vidUrl": "https://youtu.be/MHnnrqjMW1I",
     "vidTitle": "FIRST TIME HEALING",
@@ -45,18 +33,6 @@
     "shortName": "Obake PAM",
     "scheduledStartTime": "2024-04-16T01:00:00Z",
     "actualStartTime": "2024-04-16T01:12:56Z",
-    "premiere": false
-  },
-  {
-    "id": "nQybNZ0OIQI",
-    "vidUrl": "https://youtu.be/nQybNZ0OIQI",
-    "vidTitle": "Vtuber runs 9 VIGOR in ELDEN RING I am in pain",
-    "channelId": "@estellastarfall",
-    "channelName": "Estella Starfall Ch. [VReverie]",
-    "channelThumb": "https://yt3.ggpht.com/XasFIkKrrVkNEvzfLOfXbBWxR51QJucSf9i0RoX6_ZT22uSqrHq-M1RRjblAdWV2p5QLi5Iy4Q=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Estella",
-    "scheduledStartTime": "2024-04-16T02:00:00Z",
-    "actualStartTime": "2024-04-16T01:54:55Z",
     "premiere": false
   },
   {
@@ -775,6 +751,18 @@
     "channelName": "Hirano Kokoro \u300c\u308d\u308d\u300d",
     "channelThumb": "https://yt3.ggpht.com/Pc-k4wd6VsvLoZPUmql6OForU2LDiXTu3TeGZASvNqkD4OW-zEUxuNatHZQLRMUrt4IhcE0rtg=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Roro",
+    "scheduledStartTime": "2024-04-17T14:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "h0LUfJDnB6k",
+    "vidUrl": "https://youtu.be/h0LUfJDnB6k",
+    "vidTitle": "\u3010ASMR/3DIO\u3011Fast and Intense Tapping For Sleep \ud83d\udc8b",
+    "channelId": "@umikyoku",
+    "channelName": "Umi Kyoku \u3010\u3046\u307f\u304d\u3087\u304f\u3011",
+    "channelThumb": "https://yt3.ggpht.com/swraGRJ-7ukDEjf58l8YghX2KRDuxS2AEW417T7BWmc-NehlFSgYeMftFJ9VuDE43C07xHQLKBA=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Umi",
     "scheduledStartTime": "2024-04-17T14:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -3312,6 +3300,19 @@
     "premiere": false
   },
   {
+    "id": "P8zq5jW2qFU",
+    "vidUrl": "https://youtu.be/P8zq5jW2qFU",
+    "vidTitle": "\u3010Botany Manor\u3011Mysterious plants?",
+    "channelId": "@lillianthemaid",
+    "channelName": "Lillian\u3010BlueJump EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/ZyQVNSp-gOO1KVonCwFgE0I1lz749HgsVPc0GV4tOYvv3TdSE_nzE7iS9fZEZtlxqWbz2Ta_ww=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Lillian",
+    "scheduledStartTime": "2024-04-16T01:00:00Z",
+    "actualStartTime": "2024-04-16T01:00:19Z",
+    "premiere": false
+  },
+  {
     "id": "_wi0Z0-fY1s",
     "vidUrl": "https://youtu.be/_wi0Z0-fY1s",
     "vidTitle": "\u3010DAVE THE DIVER\u3011 catching the biggest fish of all",
@@ -3335,6 +3336,19 @@
     "shortName": "Roro",
     "scheduledStartTime": "2024-04-16T01:00:00Z",
     "actualStartTime": "2024-04-16T01:12:53Z",
+    "premiere": false
+  },
+  {
+    "id": "nQybNZ0OIQI",
+    "vidUrl": "https://youtu.be/nQybNZ0OIQI",
+    "vidTitle": "Vtuber runs 9 VIGOR in ELDEN RING I am in pain",
+    "channelId": "@estellastarfall",
+    "channelName": "Estella Starfall Ch. [VReverie]",
+    "channelThumb": "https://yt3.ggpht.com/XasFIkKrrVkNEvzfLOfXbBWxR51QJucSf9i0RoX6_ZT22uSqrHq-M1RRjblAdWV2p5QLi5Iy4Q=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Estella",
+    "scheduledStartTime": "2024-04-16T02:00:00Z",
+    "actualStartTime": "2024-04-16T01:54:55Z",
     "premiere": false
   },
   {
