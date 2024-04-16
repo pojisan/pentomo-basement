@@ -72,18 +72,6 @@
     "premiere": false
   },
   {
-    "id": "9myEGcXaUwQ",
-    "vidUrl": "https://youtu.be/9myEGcXaUwQ",
-    "vidTitle": "\u3010CHAT + TS4\u3011Chill Chat~\u3010bondliveEN | Ivaela Daemoni\u3011",
-    "channelId": "@ivaelad",
-    "channelName": "Ivaela Daemoni || \u30a4\u30f4\u30a7\u30e9\u30fb\u30c7\u30e2\u30cb \u3016bondliveEN\u3017",
-    "channelThumb": "https://yt3.ggpht.com/jrJJ8oX8ZP5WElJi21bGfW0jZYnQ3FSAQtsnHMZXQ8_OZ1MnSOFCdTeAVpJVXf7Dul4Ed49h-Q=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Ivaela",
-    "scheduledStartTime": "2024-04-16T20:00:00Z",
-    "actualStartTime": "2024-04-16T20:01:13Z",
-    "premiere": false
-  },
-  {
     "id": "yvSGe46PW9A",
     "vidUrl": "https://youtu.be/yvSGe46PW9A",
     "vidTitle": "\u3010Study With Me\u3011We Type!\u3010Yume+ | Mero Umiko\u3011",
@@ -164,7 +152,7 @@
     "channelThumb": "https://yt3.ggpht.com/6Q-aQrJUJfxK1kynZANlAA5jvdpjD0qqG3jlQFeSeDk8XHtmVjtYq00R0aDNhZiQkaH9dDhWNxM=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Rita",
     "scheduledStartTime": "2024-04-16T22:00:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-16T21:57:38Z",
     "premiere": false
   },
   {
@@ -223,18 +211,6 @@
     "channelName": "Dr.NOVA(e) Ch.\u3010V4Mirai\u3011",
     "channelThumb": "https://yt3.ggpht.com/Q5uPSXLX-UaT7iQ1VRWbehhySRrtvEcWEA-ey6HfpVmHlZSz5zUrlC9g5UQuNfsgO5UOjJfI_Q=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Novae",
-    "scheduledStartTime": "2024-04-16T23:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "vKqdFUwvV48",
-    "vidUrl": "https://youtu.be/vKqdFUwvV48",
-    "vidTitle": "IVE NEVER PLAYED A FALLOUT GAME BEFORE",
-    "channelId": "@briatcookiebox",
-    "channelName": "BriAtCookiebox",
-    "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_nC7dRnnTDxs3724EZNLjdWAX7n5w7Vpv6hM9ss3dUJ_w=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Bri",
     "scheduledStartTime": "2024-04-16T23:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -355,18 +331,6 @@
     "channelName": "Sara Nagare / \u6d41\u30b5\u30e9 \u3010EverAfter\u3011",
     "channelThumb": "https://yt3.ggpht.com/Yv97lNyNygKWhFW-foy823UoJZv-Uf4tg0t_fzZlyTzrYLdiEvt-gjs9dDoDDGEoH2sVXy6E=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Sara",
-    "scheduledStartTime": "2024-04-17T00:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "vd24hGysp5s",
-    "vidUrl": "https://youtu.be/vd24hGysp5s",
-    "vidTitle": "ELDEN RING CO-OP MOD",
-    "channelId": "@confetticoni",
-    "channelName": "Coni Confetti Ch. idol-EN",
-    "channelThumb": "https://yt3.ggpht.com/DHI9aYg-eO1nO1PKAyVyDIP7BhuK88nkWcztyfKc-dp0zrdErFkKsbkgC13KqMucq46qreLKpz8=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Coni",
     "scheduledStartTime": "2024-04-17T00:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -1135,6 +1099,18 @@
     "channelName": "Nene Amano Ch. \u5929\u91ce\u5be7\u3005\u3010kawaii\u3011",
     "channelThumb": "https://yt3.ggpht.com/gQXL64aSlteGuabzrOCxa7Qs-OdOJ0EAMeTP1hpSpI_5_IAkpjy3X0Y4aTVe9BxxXvXOCE5VdLc=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Nene",
+    "scheduledStartTime": "2024-04-18T00:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "vd24hGysp5s",
+    "vidUrl": "https://youtu.be/vd24hGysp5s",
+    "vidTitle": "ELDEN RING CO-OP MOD",
+    "channelId": "@confetticoni",
+    "channelName": "Coni Confetti Ch. idol-EN",
+    "channelThumb": "https://yt3.ggpht.com/DHI9aYg-eO1nO1PKAyVyDIP7BhuK88nkWcztyfKc-dp0zrdErFkKsbkgC13KqMucq46qreLKpz8=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Coni",
     "scheduledStartTime": "2024-04-18T00:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2239,6 +2215,18 @@
     "channelName": "Shiki Miyoshino / \u7f8e\u5409\u91ce\u3057\u304d\u3010Requiem\u3011",
     "channelThumb": "https://yt3.ggpht.com/Id9BL2cZTLJmv9ZoQEGIk_eFPBrQ7REmfIB6tsb34vcls6pWmKCsifuJ4Ii40vRYZvX9uGd9=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Shiki",
+    "scheduledStartTime": "2024-04-20T00:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "K1O9T2F-hT8",
+    "vidUrl": "https://youtu.be/K1O9T2F-hT8",
+    "vidTitle": "Smoking cigarettes HANDCAM",
+    "channelId": "@confetticoni",
+    "channelName": "Coni Confetti Ch. idol-EN",
+    "channelThumb": "https://yt3.ggpht.com/DHI9aYg-eO1nO1PKAyVyDIP7BhuK88nkWcztyfKc-dp0zrdErFkKsbkgC13KqMucq46qreLKpz8=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Coni",
     "scheduledStartTime": "2024-04-20T00:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -3754,16 +3742,16 @@
     "premiere": false
   },
   {
-    "id": "ZDVheG6sKrQ",
-    "vidUrl": "https://youtu.be/ZDVheG6sKrQ",
-    "vidTitle": "Eber Return Stream",
-    "channelId": "@emberamane",
-    "channelName": "Ember Amane Ch. \u3010Phase Connect\u3011",
-    "channelThumb": "https://yt3.ggpht.com/DEkqZgNRdCOo4QicUE-KZvSRke0scAYn1xVAQ3rZo3ccY0YqACOcV517lIeBjPz5Y7OSLjnlbg=s88-c-k-c0x00ffffff-no-rj",
+    "id": "9myEGcXaUwQ",
+    "vidUrl": "https://youtu.be/9myEGcXaUwQ",
+    "vidTitle": "\u3010CHAT + TS4\u3011Chill Chat~\u3010bondliveEN | Ivaela Daemoni\u3011",
+    "channelId": "@ivaelad",
+    "channelName": "Ivaela Daemoni || \u30a4\u30f4\u30a7\u30e9\u30fb\u30c7\u30e2\u30cb \u3016bondliveEN\u3017",
+    "channelThumb": "https://yt3.ggpht.com/jrJJ8oX8ZP5WElJi21bGfW0jZYnQ3FSAQtsnHMZXQ8_OZ1MnSOFCdTeAVpJVXf7Dul4Ed49h-Q=s88-c-k-c0x00ffffff-no-rj",
     "graveyard": true,
-    "shortName": "Ember",
-    "scheduledStartTime": "2024-04-16T19:00:00Z",
-    "actualStartTime": "2024-04-16T19:00:51Z",
+    "shortName": "Ivaela",
+    "scheduledStartTime": "2024-04-16T20:00:00Z",
+    "actualStartTime": "2024-04-16T20:01:13Z",
     "premiere": false
   }
 ]
