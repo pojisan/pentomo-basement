@@ -108,18 +108,6 @@
     "premiere": false
   },
   {
-    "id": "2m-q7GxeRiA",
-    "vidUrl": "https://youtu.be/2m-q7GxeRiA",
-    "vidTitle": "\u3010PARASOCIAL\u3011VTUBER MEETS BIGGEST FAN GONE WRONG!?!?\u3010NIJISANJI EN | Vantacrow Bringer\u3011",
-    "channelId": "@vantacrowbringer",
-    "channelName": "Vantacrow Bringer \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/GLPkvp_8o7OvZ3q57IpqDSHIyv6OqZFK6tO1egzLoMjE19EBlo3tISEMIOLEvkC5jnl2Uus93A=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Vanta",
-    "scheduledStartTime": "2024-04-17T03:00:00Z",
-    "actualStartTime": "2024-04-17T03:01:56Z",
-    "premiere": false
-  },
-  {
     "id": "S5Cns5_npV4",
     "vidUrl": "https://youtu.be/S5Cns5_npV4",
     "vidTitle": "\u3010MONSTER HUNTER WORLD\u3011The Monsters Call Me",
@@ -188,7 +176,7 @@
     "channelThumb": "https://yt3.ggpht.com/RYRGGRwlHY1oVaarYXI1qTmsPVPpndVup-lM4VI7xowL9qvRNyl6593ldAeeWhVH8F50K9_yKHg=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Miuna",
     "scheduledStartTime": "2024-04-17T06:00:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-17T06:00:52Z",
     "premiere": false
   },
   {
@@ -475,6 +463,18 @@
     "channelName": "FUWAMOCO Ch. hololive-EN",
     "channelThumb": "https://yt3.ggpht.com/zt63obGOD6fnCX0elnzt8xkylqOTnAENmSCKmwg_PSiC857DDgB28kEjQ-FJlWGtNYZ9lqzEag=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "FWMC",
+    "scheduledStartTime": "2024-04-17T15:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "o7_GeUBkTGM",
+    "vidUrl": "https://youtu.be/o7_GeUBkTGM",
+    "vidTitle": "\u3010Content Warning\u3011pissing myself\u3010V&U | GEN4\u3011#contentwarning",
+    "channelId": "@dkvnu",
+    "channelName": "D.K Graves Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/eLNO3hNUzmagTyaDMrJsEEL_MPotkeZh0N4uxccEYYmc2z-J93O5XGOmfTS5MwzNYRTDxgUCOg=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "DK",
     "scheduledStartTime": "2024-04-17T15:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -3632,16 +3632,16 @@
     "premiere": false
   },
   {
-    "id": "AN9nfqsyTBY",
-    "vidUrl": "https://youtu.be/AN9nfqsyTBY",
-    "vidTitle": "Trust No One...\u3010Resident Evil 4 Remake\u3011",
-    "channelId": "@chiakikatsumi",
-    "channelName": "Chiaki Katsumi Ch.\u3010PixelLink\u3011",
-    "channelThumb": "https://yt3.ggpht.com/0fSRWqUeKcBNJeZX33wkdct45WIDQd0CxMX2Faq80kSDKsvsuk2Nma-sBkzGYT2QjqCXCk4S9sU=s88-c-k-c0x00ffffff-no-rj",
+    "id": "2m-q7GxeRiA",
+    "vidUrl": "https://youtu.be/2m-q7GxeRiA",
+    "vidTitle": "\u3010PARASOCIAL\u3011VTUBER MEETS BIGGEST FAN GONE WRONG!?!?\u3010NIJISANJI EN | Vantacrow Bringer\u3011",
+    "channelId": "@vantacrowbringer",
+    "channelName": "Vantacrow Bringer \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/GLPkvp_8o7OvZ3q57IpqDSHIyv6OqZFK6tO1egzLoMjE19EBlo3tISEMIOLEvkC5jnl2Uus93A=s88-c-k-c0x00ffffff-no-rj",
     "graveyard": true,
-    "shortName": "Chiaki",
-    "scheduledStartTime": "2024-04-17T01:00:00Z",
-    "actualStartTime": "2024-04-17T01:00:19Z",
+    "shortName": "Vanta",
+    "scheduledStartTime": "2024-04-17T03:00:00Z",
+    "actualStartTime": "2024-04-17T03:01:56Z",
     "premiere": false
   },
   {
