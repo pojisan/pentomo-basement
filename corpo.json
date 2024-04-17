@@ -84,18 +84,6 @@
     "premiere": false
   },
   {
-    "id": "5DhM-cVlFQY",
-    "vidUrl": "https://youtu.be/5DhM-cVlFQY",
-    "vidTitle": "tako talkin'",
-    "channelId": "@ayucouldeat",
-    "channelName": "ayu",
-    "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_lsWCiI3Ql224DtcPwGp6l3xJ-gt-C5PpfEVnH7GxeZXhU=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Ayu",
-    "scheduledStartTime": "2024-04-17T21:30:00Z",
-    "actualStartTime": "2024-04-17T21:33:23Z",
-    "premiere": false
-  },
-  {
     "id": "AQbZoq-8Y8Y",
     "vidUrl": "https://youtu.be/AQbZoq-8Y8Y",
     "vidTitle": "\u3010Visage\u3011It's been a while since we played a super scary game!!",
@@ -3559,6 +3547,19 @@
     "shortName": "Airi",
     "scheduledStartTime": "2024-04-17T21:00:00Z",
     "actualStartTime": "2024-04-17T21:02:08Z",
+    "premiere": false
+  },
+  {
+    "id": "5DhM-cVlFQY",
+    "vidUrl": "https://youtu.be/5DhM-cVlFQY",
+    "vidTitle": "tako talkin'",
+    "channelId": "@ayucouldeat",
+    "channelName": "ayu",
+    "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_lsWCiI3Ql224DtcPwGp6l3xJ-gt-C5PpfEVnH7GxeZXhU=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Ayu",
+    "scheduledStartTime": "2024-04-17T21:30:00Z",
+    "actualStartTime": "2024-04-17T21:33:23Z",
     "premiere": false
   }
 ]
