@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "HvSQLvLuA4A",
-    "vidUrl": "https://youtu.be/HvSQLvLuA4A",
-    "vidTitle": "Open up about my Health \u2728 Talk \u3010MIKI HITSUGI | SPECIALITE\u3011#mik1tv",
-    "channelId": "@mikihitsugi",
-    "channelName": "Miki Hitsugi | Specialite EN",
-    "channelThumb": "https://yt3.ggpht.com/7YT74XmVpX9ySRWPf2hpfLz_m8fdW-xfK32LMvmGPo0U3gNiCf3G5PaemNK6eKV0Ex5POa3GrlE=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Migi",
-    "scheduledStartTime": "2024-04-17T11:00:00Z",
-    "actualStartTime": "2024-04-17T10:58:08Z",
-    "premiere": false
-  },
-  {
     "id": "mGY9HuW6LKQ",
     "vidUrl": "https://youtu.be/mGY9HuW6LKQ",
     "vidTitle": "\u3010WHAT REMAINS OF EDITH FINCH\u3011 CRY! CRY! CRY! CRY! CRY!",
@@ -91,6 +79,18 @@
     "channelName": "MYTHOS VT OFFICIAL",
     "channelThumb": "https://yt3.ggpht.com/B29jTdW5CzeW8wKyi4pczco-ejeEpBblzjOGL8n7oozCZsZrdLJ-VqHHztEAfOlBI18RfZ86Bw=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "MYTHOS VT",
+    "scheduledStartTime": "2024-04-17T13:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "2vXBsk1gA80",
+    "vidUrl": "https://youtu.be/2vXBsk1gA80",
+    "vidTitle": "\ud83c\udf19 FreeTalk | \u0e08\u0e30\u0e40\u0e1b\u0e47\u0e19\u0e17\u0e33\u0e44\u0e21\u0e04\u0e19\u0e40\u0e2b\u0e07\u0e32 \u0e21\u0e32\u0e40\u0e1b\u0e47\u0e19\u0e04\u0e19\u0e02\u0e2d\u0e07\u0e40\u0e23\u0e32\u0e14\u0e35\u0e01\u0e27\u0e48\u0e32 \u2726  Working [TH/EN]",
+    "channelId": "@goozillaily",
+    "channelName": "Goozilla Ily Ch. [Autumnia]",
+    "channelThumb": "https://yt3.ggpht.com/jds_vfaqo4fnyTfPohyRPUqgIR6zUfltLSkUvuL26fVY2ZVqfPBjUdIWcux0qe8hgt68pWen=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Goozilla",
     "scheduledStartTime": "2024-04-17T13:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -3655,6 +3655,19 @@
     "shortName": "Raein",
     "scheduledStartTime": "2024-04-17T04:15:00Z",
     "actualStartTime": "2024-04-17T04:12:45Z",
+    "premiere": false
+  },
+  {
+    "id": "HvSQLvLuA4A",
+    "vidUrl": "https://youtu.be/HvSQLvLuA4A",
+    "vidTitle": "Open up about my Health \u2728 Talk \u3010MIKI HITSUGI | SPECIALITE\u3011#mik1tv",
+    "channelId": "@mikihitsugi",
+    "channelName": "Miki Hitsugi | Specialite EN",
+    "channelThumb": "https://yt3.ggpht.com/7YT74XmVpX9ySRWPf2hpfLz_m8fdW-xfK32LMvmGPo0U3gNiCf3G5PaemNK6eKV0Ex5POa3GrlE=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Migi",
+    "scheduledStartTime": "2024-04-17T11:00:00Z",
+    "actualStartTime": "2024-04-17T10:58:08Z",
     "premiere": false
   }
 ]
