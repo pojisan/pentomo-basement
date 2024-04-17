@@ -36,18 +36,6 @@
     "premiere": false
   },
   {
-    "id": "ZfICTq_6EU0",
-    "vidUrl": "https://youtu.be/ZfICTq_6EU0",
-    "vidTitle": "\u3010Graveyard Keeper\u3011Yay (Gravedigging Is Illegal FYI) | #1",
-    "channelId": "@ourokronii",
-    "channelName": "Ouro Kronii Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/flg7E5XnFWh-NhGZOydJ2QHMpFdkBGbou0OcYUiYjKVisv8UsY-FiPLrTtexXVUqPmIyDvgC=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Kronii",
-    "scheduledStartTime": "2024-04-17T01:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "d64322YVnLE",
     "vidUrl": "https://youtu.be/d64322YVnLE",
     "vidTitle": "\u3010WOWOWOW KORONE BOX\u3011YUBI YUBI BAU BAU!! \ud83e\udd50\ud83d\udc3e",
@@ -55,6 +43,18 @@
     "channelName": "FUWAMOCO Ch. hololive-EN",
     "channelThumb": "https://yt3.ggpht.com/zt63obGOD6fnCX0elnzt8xkylqOTnAENmSCKmwg_PSiC857DDgB28kEjQ-FJlWGtNYZ9lqzEag=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "FWMC",
+    "scheduledStartTime": "2024-04-17T01:00:00Z",
+    "actualStartTime": "2024-04-17T00:55:06Z",
+    "premiere": false
+  },
+  {
+    "id": "ZfICTq_6EU0",
+    "vidUrl": "https://youtu.be/ZfICTq_6EU0",
+    "vidTitle": "\u3010Graveyard Keeper\u3011Yay (Gravedigging Is Illegal FYI) | #1",
+    "channelId": "@ourokronii",
+    "channelName": "Ouro Kronii Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/flg7E5XnFWh-NhGZOydJ2QHMpFdkBGbou0OcYUiYjKVisv8UsY-FiPLrTtexXVUqPmIyDvgC=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Kronii",
     "scheduledStartTime": "2024-04-17T01:00:00Z",
     "actualStartTime": "",
     "premiere": false
