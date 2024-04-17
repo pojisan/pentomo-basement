@@ -1,17 +1,5 @@
 [
   {
-    "id": "fbnTTuRLBpg",
-    "vidUrl": "https://youtu.be/fbnTTuRLBpg",
-    "vidTitle": "\u3010 Granblue Fantasy VS Rising \u3011Would you forgive this vtuber for being in her training arc forever?",
-    "channelId": "@hiyorimokami",
-    "channelName": "Hiyori Mokami Ch. \u6843\u795e\u65e5\u548c\u3010kawaii\u3011",
-    "channelThumb": "https://yt3.ggpht.com/Vj2QGSwnGea4gY_hmHATQTkM-2noJld4JtpdmiHmXRerJ2umbuiPZwDfLeWVOrXteS4vXqZlCw=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Hiyori",
-    "scheduledStartTime": "2024-04-17T03:00:00Z",
-    "actualStartTime": "2024-04-17T03:01:07Z",
-    "premiere": false
-  },
-  {
     "id": "YLbmsy1t-wY",
     "vidUrl": "https://youtu.be/YLbmsy1t-wY",
     "vidTitle": "a PRISM fan game??!! let's save the fans!!! [VTUBER]",
@@ -21,18 +9,6 @@
     "shortName": "Nana",
     "scheduledStartTime": "2024-04-17T04:00:00Z",
     "actualStartTime": "2024-04-17T04:03:08Z",
-    "premiere": false
-  },
-  {
-    "id": "Tfij8X3Fo0k",
-    "vidUrl": "https://youtu.be/Tfij8X3Fo0k",
-    "vidTitle": "\u3010Montaro RE\u3011Me and @isla_kawaii competing over silly doge game ;3",
-    "channelId": "@nakikamizuki",
-    "channelName": "Naki Kamizuki / \u4e0a\u6708\u306a\u304d\u3010EverAfter\u3011",
-    "channelThumb": "https://yt3.ggpht.com/t3KM-C9LCI4Wxs7nnt_ND2joYBvc-tNS2bCswz6V4LDsPlba4fV67WehglvHnaxDYrubPXue=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Naki",
-    "scheduledStartTime": "2024-04-17T04:15:00Z",
-    "actualStartTime": "2024-04-17T04:21:10Z",
     "premiere": false
   },
   {
@@ -56,7 +32,7 @@
     "channelThumb": "https://yt3.ggpht.com/fMH-jV4av9c83joWiiU7MKY5MB_hH-1-o1Mnm1UZE6MHeG7Byea8PRBU9x0ONYgn_VTx9qfAtFI=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Vance",
     "scheduledStartTime": "2024-04-17T08:00:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-17T07:57:56Z",
     "premiere": false
   },
   {
@@ -188,6 +164,18 @@
     "channelThumb": "https://yt3.ggpht.com/jPWRHtDGZ3b-HXw__M_4Le5LhYAwxpcy7_Inwji6RhxGC7NK34Nihv_LwLgjtCfdTMuDE92y=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Lida",
     "scheduledStartTime": "2024-04-17T13:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "D3dEpAGKa40",
+    "vidUrl": "https://youtu.be/D3dEpAGKa40",
+    "vidTitle": "\u3010KARAOKE\u3011HAROOOOOOOOOOO~ya #\u6b4c\u67a0",
+    "channelId": "@serina_daybreak",
+    "channelName": "Serina Fraize Ch.\u3010DAYBREAK\u3011",
+    "channelThumb": "https://yt3.ggpht.com/D5RqVN3V5gtYwB2RkI8Mw36Mr_paGjI3hhJf76duKo8LIASNQDgHwnVSh0fj0OYopUWjacmo7HA=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Serina",
+    "scheduledStartTime": "2024-04-17T13:30:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -3533,19 +3521,6 @@
     "premiere": false
   },
   {
-    "id": "gMzlcsw1pEU",
-    "vidUrl": "https://youtu.be/gMzlcsw1pEU",
-    "vidTitle": "Lets finish this [Lies of P] (Chat Funded Stream) Part 2",
-    "channelId": "@ginimercury",
-    "channelName": "Roza Coatl Ch.",
-    "channelThumb": "https://yt3.ggpht.com/J_RmocTP4ficzRZ6AFtUiEXoekNfliyRQcber2EXH-nBkNjhci71GaeNHsp4gzLMZs14HZ1U6WQ=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Roza",
-    "scheduledStartTime": "2024-04-16T19:15:00Z",
-    "actualStartTime": "2024-04-16T19:06:09Z",
-    "premiere": false
-  },
-  {
     "id": "9myEGcXaUwQ",
     "vidUrl": "https://youtu.be/9myEGcXaUwQ",
     "vidTitle": "\u3010CHAT + TS4\u3011Chill Chat~\u3010bondliveEN | Ivaela Daemoni\u3011",
@@ -3598,6 +3573,19 @@
     "premiere": false
   },
   {
+    "id": "fbnTTuRLBpg",
+    "vidUrl": "https://youtu.be/fbnTTuRLBpg",
+    "vidTitle": "\u3010 Granblue Fantasy VS Rising \u3011Would you forgive this vtuber for being in her training arc forever?",
+    "channelId": "@hiyorimokami",
+    "channelName": "Hiyori Mokami Ch. \u6843\u795e\u65e5\u548c\u3010kawaii\u3011",
+    "channelThumb": "https://yt3.ggpht.com/Vj2QGSwnGea4gY_hmHATQTkM-2noJld4JtpdmiHmXRerJ2umbuiPZwDfLeWVOrXteS4vXqZlCw=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Hiyori",
+    "scheduledStartTime": "2024-04-17T03:00:00Z",
+    "actualStartTime": "2024-04-17T03:01:07Z",
+    "premiere": false
+  },
+  {
     "id": "iVIsnF5efJM",
     "vidUrl": "https://youtu.be/iVIsnF5efJM",
     "vidTitle": "\u3010KARAOKE\u3011ITS LATINA NIGHT \ud83c\uddf2\ud83c\uddfd #selena #espa\u00f1ol",
@@ -3624,16 +3612,16 @@
     "premiere": false
   },
   {
-    "id": "nKbR2QJS1eY",
-    "vidUrl": "https://youtu.be/nKbR2QJS1eY",
-    "vidTitle": "GAMING and P-PUNISHMENT!? with @NakiKamizuki  ~!\u2728 \u3010Montaro RE\u3011",
-    "channelId": "@isla_kawaii",
-    "channelName": "Isla Coleman Ch. \u30a2\u30a4\u30e9\u30fb\u30b3\u30fc\u30eb\u30de\u30f3\u3010kawaii\u3011",
-    "channelThumb": "https://yt3.ggpht.com/KsvJ_nvtsnENS74uknH4gxrD8fVCA2DJjiSiyrVIl2JKyVW28zny7nclNnl2j9VhZ3CDIE4pTg=s88-c-k-c0x00ffffff-no-rj",
+    "id": "Tfij8X3Fo0k",
+    "vidUrl": "https://youtu.be/Tfij8X3Fo0k",
+    "vidTitle": "\u3010Montaro RE\u3011Me and @isla_kawaii competing over silly doge game ;3",
+    "channelId": "@nakikamizuki",
+    "channelName": "Naki Kamizuki / \u4e0a\u6708\u306a\u304d\u3010EverAfter\u3011",
+    "channelThumb": "https://yt3.ggpht.com/t3KM-C9LCI4Wxs7nnt_ND2joYBvc-tNS2bCswz6V4LDsPlba4fV67WehglvHnaxDYrubPXue=s88-c-k-c0x00ffffff-no-rj",
     "graveyard": true,
-    "shortName": "Isla",
-    "scheduledStartTime": "2024-04-17T04:20:36Z",
-    "actualStartTime": "2024-04-17T04:20:52Z",
+    "shortName": "Naki",
+    "scheduledStartTime": "2024-04-17T04:15:00Z",
+    "actualStartTime": "2024-04-17T04:21:10Z",
     "premiere": false
   }
 ]
