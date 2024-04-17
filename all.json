@@ -108,18 +108,6 @@
     "premiere": false
   },
   {
-    "id": "BKN9S-Mcq2E",
-    "vidUrl": "https://youtu.be/BKN9S-Mcq2E",
-    "vidTitle": "COWORKING so many projects\u30103dio ASMR\u3011",
-    "channelId": "@airiviridis",
-    "channelName": "Airi Viridis Ch. \u3010V-Dere\u3011",
-    "channelThumb": "https://yt3.ggpht.com/hr4djvNbGuwQ5f6fID5xc6hY5sYgWPMw02AbbvKDKxPvMdlhk3FTXFbdexF_I5KHe9RizOg2ZQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Airi",
-    "scheduledStartTime": "2024-04-17T21:00:00Z",
-    "actualStartTime": "2024-04-17T21:02:08Z",
-    "premiere": false
-  },
-  {
     "id": "QSPg62ydNXk",
     "vidUrl": "https://youtu.be/QSPg62ydNXk",
     "vidTitle": "there is no stream (horror)",
@@ -290,7 +278,7 @@
   {
     "id": "KjIQe0JLcVk",
     "vidUrl": "https://youtu.be/KjIQe0JLcVk",
-    "vidTitle": "Class of 09 Goes Crazy",
+    "vidTitle": "This game is NOT for the weak",
     "channelId": "@rakunpoko",
     "channelName": "Poko Rakun Ch. idol-EN",
     "channelThumb": "https://yt3.ggpht.com/ma1Az7kp5ye3ZWtR9IGoFcWEVQ6ReN8VugO_PGP6qokwj430zQKuR9Uo_L5N3gCVTWsH_vQT1w=s88-c-k-c0x00ffffff-no-rj",
@@ -2220,18 +2208,6 @@
     "premiere": false
   },
   {
-    "id": "1TK6VK5Xgw8",
-    "vidUrl": "https://youtu.be/1TK6VK5Xgw8",
-    "vidTitle": "\u3010Indie Debut\u3011Hewwo, I'm Hoshifuri Iku! Nice to meet chu! (return date tentative!)",
-    "channelId": "@ikuhoshifuri",
-    "channelName": "Iku Hoshifuri / \u661f\u964d\u3044\u304f\u3010Cosmia\u3011",
-    "channelThumb": "https://yt3.ggpht.com/iiWwBB0rsPadW6D92ATHoouqLHw7dppOJJPdpYg9fbeqriEFhfpSjpmS7eh1wsC06s93c56B=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Iku",
-    "scheduledStartTime": "2024-04-20T04:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "3Z1RG3B0tEo",
     "vidUrl": "https://youtu.be/3Z1RG3B0tEo",
     "vidTitle": "I MAKE DEEP DISH PIZZA FOR THE 1ST TIME!",
@@ -2252,6 +2228,18 @@
     "channelThumb": "https://yt3.ggpht.com/b6s7s0_W759AaVDUhJlnTvAwMW5iltLHlFyoLweiPvJCmYElo79SdBVOqzIELuSTAUMzHffg=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Mariya",
     "scheduledStartTime": "2024-04-20T04:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "1TK6VK5Xgw8",
+    "vidUrl": "https://youtu.be/1TK6VK5Xgw8",
+    "vidTitle": "\u3010Indie Debut\u3011Hewwo, I'm Hoshifuri Iku! Nice to meet chu!",
+    "channelId": "@ikuhoshifuri",
+    "channelName": "Iku Hoshifuri / \u661f\u964d\u3044\u304f\u3010Cosmia\u3011",
+    "channelThumb": "https://yt3.ggpht.com/iiWwBB0rsPadW6D92ATHoouqLHw7dppOJJPdpYg9fbeqriEFhfpSjpmS7eh1wsC06s93c56B=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Iku",
+    "scheduledStartTime": "2024-04-20T04:30:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -3204,6 +3192,18 @@
     "premiere": false
   },
   {
+    "id": "OhP80JIgukM",
+    "vidUrl": "https://youtu.be/OhP80JIgukM",
+    "vidTitle": "\u3010RP\u6b4c\u67a0\u3011\u826f\u3044\u5b50\u306e\u307f\u3093\u306a\u30fc\uff01\uff01\u3044\u304f\u304a\u306d\u3048\u3055\u3093\u3068@PinaPengin \u304a\u306d\u3048\u3055\u3093\u306e\u6b4c\u67a0\u306e\u6642\u9593\u3060\u3088\uff01\u3010PRISM Project\u3011",
+    "channelId": "@ikuhoshifuri",
+    "channelName": "Iku Hoshifuri / \u661f\u964d\u3044\u304f\u3010Cosmia\u3011",
+    "channelThumb": "https://yt3.ggpht.com/iiWwBB0rsPadW6D92ATHoouqLHw7dppOJJPdpYg9fbeqriEFhfpSjpmS7eh1wsC06s93c56B=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Iku",
+    "scheduledStartTime": "2024-05-05T01:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "CFbsZ6It9rk",
     "vidUrl": "https://youtu.be/CFbsZ6It9rk",
     "vidTitle": "prepare.",
@@ -3509,16 +3509,16 @@
     "premiere": false
   },
   {
-    "id": "In8IMSCvvmk",
-    "vidUrl": "https://youtu.be/In8IMSCvvmk",
-    "vidTitle": "\u3010THE WALKING DEAD\u3011I DON'T TASTE GOOD I SWEAR.\u3010REM Kanashibari | V4Mirai | ENVtuber\u3011",
-    "channelId": "@remkanashibari",
-    "channelName": "REM Kanashibari Ch.\u3010V4Mirai\u3011",
-    "channelThumb": "https://yt3.ggpht.com/wVYBYMI9s6Rq0ONjpaDlrGWx7j-Qf4p-zsxBJgK65NLMvDuYu2A_4VB69LA2PhBlElWgVZbe-OI=s88-c-k-c0x00ffffff-no-rj",
+    "id": "BKN9S-Mcq2E",
+    "vidUrl": "https://youtu.be/BKN9S-Mcq2E",
+    "vidTitle": "COWORKING so many projects\u30103dio ASMR\u3011",
+    "channelId": "@airiviridis",
+    "channelName": "Airi Viridis Ch. \u3010V-Dere\u3011",
+    "channelThumb": "https://yt3.ggpht.com/hr4djvNbGuwQ5f6fID5xc6hY5sYgWPMw02AbbvKDKxPvMdlhk3FTXFbdexF_I5KHe9RizOg2ZQ=s88-c-k-c0x00ffffff-no-rj",
     "graveyard": true,
-    "shortName": "Rem",
-    "scheduledStartTime": "2024-04-17T20:00:00Z",
-    "actualStartTime": "2024-04-17T20:00:05Z",
+    "shortName": "Airi",
+    "scheduledStartTime": "2024-04-17T21:00:00Z",
+    "actualStartTime": "2024-04-17T21:02:08Z",
     "premiere": false
   },
   {
