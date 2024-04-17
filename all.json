@@ -72,18 +72,6 @@
     "premiere": false
   },
   {
-    "id": "oEA2bhOOixk",
-    "vidUrl": "https://youtu.be/oEA2bhOOixk",
-    "vidTitle": "someone paid me to eat a salad so thats what we are doing",
-    "channelId": "@briatcookiebox",
-    "channelName": "BriAtCookiebox",
-    "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_nC7dRnnTDxs3724EZNLjdWAX7n5w7Vpv6hM9ss3dUJ_w=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Bri",
-    "scheduledStartTime": "2024-04-17T21:00:00Z",
-    "actualStartTime": "2024-04-17T20:47:12Z",
-    "premiere": false
-  },
-  {
     "id": "rwL4Yx_Xqu0",
     "vidUrl": "https://youtu.be/rwL4Yx_Xqu0",
     "vidTitle": "INDIE HORROR NIGHT \u3010EIEN Project\u3011",
@@ -252,6 +240,18 @@
     "premiere": false
   },
   {
+    "id": "c1y20cXrqXo",
+    "vidUrl": "https://youtu.be/c1y20cXrqXo",
+    "vidTitle": "\u3010ENDER LILIES: Quietus of the Knights Ep .03\u3011",
+    "channelId": "@shiorinovella",
+    "channelName": "Shiori Novella Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/ZlovVsPyh8NgS37S4dfONiCBySiboGPbT9cYuirb8JM3JhSnqlpJk-8SQUEA7jPfqXpMvjaa=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Shiori",
+    "scheduledStartTime": "2024-04-17T23:00:00Z",
+    "actualStartTime": "2024-04-17T22:54:15Z",
+    "premiere": false
+  },
+  {
     "id": "AXCQ_I-a1Ko",
     "vidUrl": "https://youtu.be/AXCQ_I-a1Ko",
     "vidTitle": "ELDEN RING BINGO WITH  @Twobold",
@@ -295,18 +295,6 @@
     "channelName": "Koseki Bijou Ch. hololive-EN",
     "channelThumb": "https://yt3.ggpht.com/75xH5tujXTVPHlQXask8_qTbOeyq0BY4hKxNfvgTrsuqhK_oActrFV197roYikUNZhzayfiLmg=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Biboo",
-    "scheduledStartTime": "2024-04-17T23:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "c1y20cXrqXo",
-    "vidUrl": "https://youtu.be/c1y20cXrqXo",
-    "vidTitle": "\u3010ENDER LILIES: Quietus of the Knights Ep .03\u3011",
-    "channelId": "@shiorinovella",
-    "channelName": "Shiori Novella Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/ZlovVsPyh8NgS37S4dfONiCBySiboGPbT9cYuirb8JM3JhSnqlpJk-8SQUEA7jPfqXpMvjaa=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Shiori",
     "scheduledStartTime": "2024-04-17T23:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -812,6 +800,18 @@
     "channelThumb": "https://yt3.ggpht.com/tCeBfd6DnX3fAO2dIv6Smje0Wj7iQT9sLFFW2jPI8Bfw6d9VY8jIYApFFrSYxK-ZTWxM1hu1=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Luca",
     "scheduledStartTime": "2024-04-18T05:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "lMtgDf46Sss",
+    "vidUrl": "https://youtu.be/lMtgDf46Sss",
+    "vidTitle": "\u3010M\u2600RNING RADIO\u3011I ANSWER YOUR QUESTIONS!\u3010NIJISANJI EN | Vezalius Bandage\u3011",
+    "channelId": "@vezaliusbandage",
+    "channelName": "Vezalius Bandage \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/rnqrntYI1y38pqQeqYAmX3_gG1vZ-iYeMGHY0nCC-lxqKdoBspKriRXzMPv7PByMydEYm9YvvzU=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Zali",
+    "scheduledStartTime": "2024-04-18T08:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -3506,6 +3506,19 @@
     "shortName": "Mero",
     "scheduledStartTime": "2024-04-17T15:00:00Z",
     "actualStartTime": "2024-04-17T15:01:03Z",
+    "premiere": false
+  },
+  {
+    "id": "oEA2bhOOixk",
+    "vidUrl": "https://youtu.be/oEA2bhOOixk",
+    "vidTitle": "someone paid me to eat a salad so thats what we are doing",
+    "channelId": "@briatcookiebox",
+    "channelName": "BriAtCookiebox",
+    "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_nC7dRnnTDxs3724EZNLjdWAX7n5w7Vpv6hM9ss3dUJ_w=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Bri",
+    "scheduledStartTime": "2024-04-17T21:00:00Z",
+    "actualStartTime": "2024-04-17T20:47:12Z",
     "premiere": false
   },
   {
