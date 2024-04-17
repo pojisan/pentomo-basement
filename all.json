@@ -386,7 +386,7 @@
   {
     "id": "CymhiTSNZJU",
     "vidUrl": "https://youtu.be/CymhiTSNZJU",
-    "vidTitle": "LADS LADS LADS\u3010Stardew Valley Collab!\u3011",
+    "vidTitle": "LADS LADS LADS\u3010British Stardew Valley Collab!\u3011",
     "channelId": "@spectravnu",
     "channelName": "Spectra Libitina Ch. V&U",
     "channelThumb": "https://yt3.ggpht.com/vJEi9jvzwANF4rzrVugBrJ2CumIsI3pGN68Bap-eEXSqZbp-hNpLAdqSwSIqmgqhHUbbdUzrR-w=s88-c-k-c0x00ffffff-no-rj",
@@ -1040,6 +1040,18 @@
     "channelThumb": "https://yt3.ggpht.com/1a_CZ4DAxk-IBbjBaAdu5yAL6PzmqauC0IurAK8sWODiLNqdIu7zg6fexuKmuwfUEFoaVXeLKw4=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Ciccino",
     "scheduledStartTime": "2024-04-18T02:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "oRrI8XATQ0I",
+    "vidUrl": "https://youtu.be/oRrI8XATQ0I",
+    "vidTitle": "\u3010Warhammer 40,000: Darktide\u3011 We will not fail you, Emperor",
+    "channelId": "@kaylexskullcastor",
+    "channelName": "Kaylex Skullcastor Ch. Legion",
+    "channelThumb": "https://yt3.ggpht.com/yBYtwbzSuAJeF6wFyn8SsRj0SltRG3AwX05tcUO39OrcF4G9Bt5HPbuM5dKW56XfI8OLFWyQ=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Kaylex",
+    "scheduledStartTime": "2024-04-18T02:00:17Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -3624,19 +3636,6 @@
     "shortName": "Raein",
     "scheduledStartTime": "2024-04-17T04:15:00Z",
     "actualStartTime": "2024-04-17T04:12:45Z",
-    "premiere": false
-  },
-  {
-    "id": "hWt6fZIB6a0",
-    "vidUrl": "https://youtu.be/hWt6fZIB6a0",
-    "vidTitle": "\u3010PALWORLD\u3011If I find a chicken, I will capture it, name it after YOU, and butcher it on stream \u2661",
-    "channelId": "@lethebonapuchi",
-    "channelName": "Lethe Bonapuchi Ch. \u30ec\u30c3\u30c6\u30dc\u30ca\u30d7\u30c1 \u3010kawaii\u3011",
-    "channelThumb": "https://yt3.ggpht.com/Zzn-lffpprmp6_2y3sOeCN1yw-ARyXBh7a992WGez2D2Mo9RixB5PiBBndwuZA1NpUjjcDnb=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Lethe",
-    "scheduledStartTime": "2024-04-17T10:30:00Z",
-    "actualStartTime": "2024-04-17T10:30:52Z",
     "premiere": false
   },
   {
