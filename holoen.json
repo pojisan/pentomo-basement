@@ -1,17 +1,5 @@
 [
   {
-    "id": "6zsrGJGmRDY",
-    "vidUrl": "https://youtu.be/6zsrGJGmRDY",
-    "vidTitle": "\u3010THE WITCHER 3\u3011 Gerald is a fine upstanding fellow and I will not accept slander against him | #2",
-    "channelId": "@ceresfauna",
-    "channelName": "Ceres Fauna Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/cBtserkb211p6If2OewgWd8oriIKRkfwTcP4_Vdq2YETG5TK9Q02v4cYmnLU03KBAJ0gcDha7oQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Fauna",
-    "scheduledStartTime": "2024-04-16T22:00:00Z",
-    "actualStartTime": "2024-04-16T22:00:12Z",
-    "premiere": false
-  },
-  {
     "id": "TQ13tIVr8DY",
     "vidUrl": "https://youtu.be/TQ13tIVr8DY",
     "vidTitle": "\u3010Monster Hunter World\u3011GETTING GUD with CHARGE BLADE!",
@@ -33,18 +21,6 @@
     "shortName": "Shiori",
     "scheduledStartTime": "2024-04-16T23:00:00Z",
     "actualStartTime": "2024-04-16T23:00:10Z",
-    "premiere": false
-  },
-  {
-    "id": "d64322YVnLE",
-    "vidUrl": "https://youtu.be/d64322YVnLE",
-    "vidTitle": "\u3010WOWOWOW KORONE BOX\u3011YUBI YUBI BAU BAU!! \ud83e\udd50\ud83d\udc3e",
-    "channelId": "@fuwamococh",
-    "channelName": "FUWAMOCO Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/zt63obGOD6fnCX0elnzt8xkylqOTnAENmSCKmwg_PSiC857DDgB28kEjQ-FJlWGtNYZ9lqzEag=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "FWMC",
-    "scheduledStartTime": "2024-04-17T01:00:00Z",
-    "actualStartTime": "2024-04-17T00:55:06Z",
     "premiere": false
   },
   {
@@ -105,6 +81,32 @@
     "shortName": "Nerissa",
     "scheduledStartTime": "2024-04-19T01:00:00Z",
     "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "6zsrGJGmRDY",
+    "vidUrl": "https://youtu.be/6zsrGJGmRDY",
+    "vidTitle": "\u3010THE WITCHER 3\u3011 Gerald is a fine upstanding fellow and I will not accept slander against him | #2",
+    "channelId": "@ceresfauna",
+    "channelName": "Ceres Fauna Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/cBtserkb211p6If2OewgWd8oriIKRkfwTcP4_Vdq2YETG5TK9Q02v4cYmnLU03KBAJ0gcDha7oQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Fauna",
+    "scheduledStartTime": "2024-04-16T22:00:00Z",
+    "actualStartTime": "2024-04-16T22:00:12Z",
+    "premiere": false
+  },
+  {
+    "id": "d64322YVnLE",
+    "vidUrl": "https://youtu.be/d64322YVnLE",
+    "vidTitle": "\u3010WOWOWOW KORONE BOX\u3011YUBI YUBI BAU BAU!! \ud83e\udd50\ud83d\udc3e",
+    "channelId": "@fuwamococh",
+    "channelName": "FUWAMOCO Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/zt63obGOD6fnCX0elnzt8xkylqOTnAENmSCKmwg_PSiC857DDgB28kEjQ-FJlWGtNYZ9lqzEag=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "FWMC",
+    "scheduledStartTime": "2024-04-17T01:00:00Z",
+    "actualStartTime": "2024-04-17T00:55:06Z",
     "premiere": false
   }
 ]
