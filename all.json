@@ -36,18 +36,6 @@
     "premiere": false
   },
   {
-    "id": "zusMW6xvCbE",
-    "vidUrl": "https://youtu.be/zusMW6xvCbE",
-    "vidTitle": "\u3010Persona 3 Reload\u3011Still exploring Tartarus...",
-    "channelId": "@isabellegoodwillow",
-    "channelName": "Isabelle Goodwillow Ch. Legion",
-    "channelThumb": "https://yt3.ggpht.com/rJuMWEjmRiOqnhqo-Njw1VWunxkM7Ho0nZxNxVaa36z_PMile2XKRg-Yx3Ln4snqEAJq62zwNQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Isabelle",
-    "scheduledStartTime": "2024-04-16T21:15:44Z",
-    "actualStartTime": "2024-04-16T21:15:34Z",
-    "premiere": false
-  },
-  {
     "id": "dSD0_mrLYVg",
     "vidUrl": "https://youtu.be/dSD0_mrLYVg",
     "vidTitle": "ITS MY FIRST TIME \ud83d\udca6",
@@ -919,6 +907,18 @@
     "channelName": "Kohaku Hyouma ch.\u3010globie\u3011",
     "channelThumb": "https://yt3.ggpht.com/aFRvJ_IOkDdIvUEZYAwAR1tp-uRyO9WYycjXA13_NiRawAMJTIDgOa3Ih0ypNuW9yrEwa8gRYA4=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Hyouma",
+    "scheduledStartTime": "2024-04-17T16:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "Kq1fK8PJajM",
+    "vidUrl": "https://youtu.be/Kq1fK8PJajM",
+    "vidTitle": "\u3010PERSONA 3 RELOAD\u3011ANOTHER FULL MOON???",
+    "channelId": "@nyanheras",
+    "channelName": "Nyanami Ruru & Rumi Ch.",
+    "channelThumb": "https://yt3.ggpht.com/e-csUdgwEj5h-rQ2vwXX-EVOeXk3BZRlaqnHS7-Mnd1ZC9icqo02aHhGvl_f50l_UX1bPsJgwFs=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Nyanheras",
     "scheduledStartTime": "2024-04-17T16:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2196,6 +2196,18 @@
     "premiere": false
   },
   {
+    "id": "JZDeqKBctlc",
+    "vidUrl": "https://youtu.be/JZDeqKBctlc",
+    "vidTitle": "\u3010GENSHIN IMPACT\u3011SECRETS UNLOCKED.. WE FREE NOW??",
+    "channelId": "@nyanheras",
+    "channelName": "Nyanami Ruru & Rumi Ch.",
+    "channelThumb": "https://yt3.ggpht.com/e-csUdgwEj5h-rQ2vwXX-EVOeXk3BZRlaqnHS7-Mnd1ZC9icqo02aHhGvl_f50l_UX1bPsJgwFs=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Nyanheras",
+    "scheduledStartTime": "2024-04-19T16:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "jXbkrUbrsao",
     "vidUrl": "https://youtu.be/jXbkrUbrsao",
     "vidTitle": "\u3010Chatting Stream\u3011Blah Blah Blah\u3010Cyanne Aria | bondlive_EN\u3011#shorts #vtuber",
@@ -2755,6 +2767,18 @@
     "channelName": "Nikki Rei Ch. idol-EN",
     "channelThumb": "https://yt3.ggpht.com/7yN9yQvJhx4cVCL5rLOgsBYiRtRMYEurmtjT0DosKX6qpuoSm9zeo4ELHwy7RW-knfVPzNEqAg=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Nikki",
+    "scheduledStartTime": "2024-04-20T16:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "waIyfFRoFWs",
+    "vidUrl": "https://youtu.be/waIyfFRoFWs",
+    "vidTitle": "Amusement Park Date!!!!",
+    "channelId": "@nyanheras",
+    "channelName": "Nyanami Ruru & Rumi Ch.",
+    "channelThumb": "https://yt3.ggpht.com/e-csUdgwEj5h-rQ2vwXX-EVOeXk3BZRlaqnHS7-Mnd1ZC9icqo02aHhGvl_f50l_UX1bPsJgwFs=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Nyanheras",
     "scheduledStartTime": "2024-04-20T16:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -3785,6 +3809,19 @@
     "shortName": "Ivaela",
     "scheduledStartTime": "2024-04-16T20:00:00Z",
     "actualStartTime": "2024-04-16T20:01:13Z",
+    "premiere": false
+  },
+  {
+    "id": "zusMW6xvCbE",
+    "vidUrl": "https://youtu.be/zusMW6xvCbE",
+    "vidTitle": "\u3010Persona 3 Reload\u3011Still exploring Tartarus...",
+    "channelId": "@isabellegoodwillow",
+    "channelName": "Isabelle Goodwillow Ch. Legion",
+    "channelThumb": "https://yt3.ggpht.com/rJuMWEjmRiOqnhqo-Njw1VWunxkM7Ho0nZxNxVaa36z_PMile2XKRg-Yx3Ln4snqEAJq62zwNQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Isabelle",
+    "scheduledStartTime": "2024-04-16T21:15:44Z",
+    "actualStartTime": "2024-04-16T21:15:34Z",
     "premiere": false
   },
   {
