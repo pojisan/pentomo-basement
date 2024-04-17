@@ -60,18 +60,6 @@
     "premiere": false
   },
   {
-    "id": "In8IMSCvvmk",
-    "vidUrl": "https://youtu.be/In8IMSCvvmk",
-    "vidTitle": "\u3010THE WALKING DEAD\u3011I DON'T TASTE GOOD I SWEAR.\u3010REM Kanashibari | V4Mirai | ENVtuber\u3011",
-    "channelId": "@remkanashibari",
-    "channelName": "REM Kanashibari Ch.\u3010V4Mirai\u3011",
-    "channelThumb": "https://yt3.ggpht.com/wVYBYMI9s6Rq0ONjpaDlrGWx7j-Qf4p-zsxBJgK65NLMvDuYu2A_4VB69LA2PhBlElWgVZbe-OI=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Rem",
-    "scheduledStartTime": "2024-04-17T20:00:00Z",
-    "actualStartTime": "2024-04-17T20:00:05Z",
-    "premiere": false
-  },
-  {
     "id": "sm_78eBZMXE",
     "vidUrl": "https://youtu.be/sm_78eBZMXE",
     "vidTitle": "\ud83d\udd34Free Talk Zatsudan - Minecraft, Birthday stuff, Life stuff.. catching up!\u3010 KoziiChu \u3011",
@@ -751,6 +739,18 @@
     "channelName": "Skye Shinryu Ch. \u3010EIEN Project\u3011",
     "channelThumb": "https://yt3.ggpht.com/_n-f4Knr9kOn9-luPbvdbJNu8KSjDVcAkME6Lq4Z4O7YX4-hiU0CN_oUeHqkapbOy3mMDVFFCQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Skye",
+    "scheduledStartTime": "2024-04-18T03:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "TFszOwpZpb0",
+    "vidUrl": "https://youtu.be/TFszOwpZpb0",
+    "vidTitle": "\u3010 MINECRAFT: THE ULTIMATE TOUR! \u3011Showing my Kouhai the KAWAII SERVER!! \ud83d\udc97",
+    "channelId": "@sheeichokawaii",
+    "channelName": "Shee Icho Ch. \u9280\u674f\u3057\u3044\u3010kawaii\u3011",
+    "channelThumb": "https://yt3.ggpht.com/9WpvwRlwjSUM4bCLMLpNv3BvRtnQWki4eY-YAsKAkuzUxJaLXhLDJu5XMQoPU_zbzunktQvMpg=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Shee",
     "scheduledStartTime": "2024-04-18T03:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -3509,29 +3509,16 @@
     "premiere": false
   },
   {
-    "id": "EAcf7D7BhpQ",
-    "vidUrl": "https://youtu.be/EAcf7D7BhpQ",
-    "vidTitle": "\u3010STARDEW VALLEY\u3011Farming with British chuubas\u3010Pippa Pebblesworth\u3011",
-    "channelId": "@pippapebblesworth",
-    "channelName": "Pippa Pebblesworth ch. \u3010globie\u3011",
-    "channelThumb": "https://yt3.ggpht.com/FV-T274wCeRSrHKm54acTNEJLJTDlE5BdPrKoJQY0kxaTdO4uerFlxG8HJmAvS2HbSQIMzfa7A=s88-c-k-c0x00ffffff-no-rj",
+    "id": "In8IMSCvvmk",
+    "vidUrl": "https://youtu.be/In8IMSCvvmk",
+    "vidTitle": "\u3010THE WALKING DEAD\u3011I DON'T TASTE GOOD I SWEAR.\u3010REM Kanashibari | V4Mirai | ENVtuber\u3011",
+    "channelId": "@remkanashibari",
+    "channelName": "REM Kanashibari Ch.\u3010V4Mirai\u3011",
+    "channelThumb": "https://yt3.ggpht.com/wVYBYMI9s6Rq0ONjpaDlrGWx7j-Qf4p-zsxBJgK65NLMvDuYu2A_4VB69LA2PhBlElWgVZbe-OI=s88-c-k-c0x00ffffff-no-rj",
     "graveyard": true,
-    "shortName": "Pippa",
-    "scheduledStartTime": "2024-04-17T18:00:00Z",
-    "actualStartTime": "2024-04-17T17:59:03Z",
-    "premiere": false
-  },
-  {
-    "id": "CymhiTSNZJU",
-    "vidUrl": "https://youtu.be/CymhiTSNZJU",
-    "vidTitle": "LADS LADS LADS\u3010British Stardew Valley Collab!\u3011",
-    "channelId": "@spectravnu",
-    "channelName": "Spectra Libitina Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/vJEi9jvzwANF4rzrVugBrJ2CumIsI3pGN68Bap-eEXSqZbp-hNpLAdqSwSIqmgqhHUbbdUzrR-w=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Spectra",
-    "scheduledStartTime": "2024-04-17T18:00:00Z",
-    "actualStartTime": "2024-04-17T18:01:36Z",
+    "shortName": "Rem",
+    "scheduledStartTime": "2024-04-17T20:00:00Z",
+    "actualStartTime": "2024-04-17T20:00:05Z",
     "premiere": false
   },
   {
