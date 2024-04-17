@@ -1,17 +1,5 @@
 [
   {
-    "id": "TQ13tIVr8DY",
-    "vidUrl": "https://youtu.be/TQ13tIVr8DY",
-    "vidTitle": "\u3010Monster Hunter World\u3011GETTING GUD with CHARGE BLADE!",
-    "channelId": "@kosekibijou",
-    "channelName": "Koseki Bijou Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/75xH5tujXTVPHlQXask8_qTbOeyq0BY4hKxNfvgTrsuqhK_oActrFV197roYikUNZhzayfiLmg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Biboo",
-    "scheduledStartTime": "2024-04-16T23:00:00Z",
-    "actualStartTime": "2024-04-16T22:56:04Z",
-    "premiere": false
-  },
-  {
     "id": "jhyaYxaJs5M",
     "vidUrl": "https://youtu.be/jhyaYxaJs5M",
     "vidTitle": "YAKUZA 0 Part 5",
@@ -2544,6 +2532,18 @@
     "premiere": false
   },
   {
+    "id": "M1DgIk-vTD8",
+    "vidUrl": "https://youtu.be/M1DgIk-vTD8",
+    "vidTitle": "NEW VTUBER DEBUT Globie Solstia debut watchalong ft @AlicjaDaLontano",
+    "channelId": "@obakepam",
+    "channelName": "Obake PAM Ch.",
+    "channelThumb": "https://yt3.ggpht.com/FlbqAWrn9OdE4QcjGweQkH_2WUf2kCAQPbiC4dVvt6ItUWE4pLnUrs9MJ3-KtyeULY0hGe-VPio=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Obake PAM",
+    "scheduledStartTime": "2024-04-20T17:30:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "og2Ly0mOqJs",
     "vidUrl": "https://youtu.be/og2Ly0mOqJs",
     "vidTitle": "\u3010GLOBIE DEBUT WATCHALONG\u3011Welcome Cousins!\u3010Yae Yugiri | V4Mirai\u3011",
@@ -3589,6 +3589,19 @@
     "shortName": "Rowa",
     "scheduledStartTime": "2024-04-16T22:00:00Z",
     "actualStartTime": "2024-04-16T22:00:34Z",
+    "premiere": false
+  },
+  {
+    "id": "TQ13tIVr8DY",
+    "vidUrl": "https://youtu.be/TQ13tIVr8DY",
+    "vidTitle": "\u3010Monster Hunter World\u3011GETTING GUD with CHARGE BLADE!",
+    "channelId": "@kosekibijou",
+    "channelName": "Koseki Bijou Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/75xH5tujXTVPHlQXask8_qTbOeyq0BY4hKxNfvgTrsuqhK_oActrFV197roYikUNZhzayfiLmg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Biboo",
+    "scheduledStartTime": "2024-04-16T23:00:00Z",
+    "actualStartTime": "2024-04-16T22:56:04Z",
     "premiere": false
   },
   {
