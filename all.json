@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "CymhiTSNZJU",
-    "vidUrl": "https://youtu.be/CymhiTSNZJU",
-    "vidTitle": "LADS LADS LADS\u3010British Stardew Valley Collab!\u3011",
-    "channelId": "@spectravnu",
-    "channelName": "Spectra Libitina Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/vJEi9jvzwANF4rzrVugBrJ2CumIsI3pGN68Bap-eEXSqZbp-hNpLAdqSwSIqmgqhHUbbdUzrR-w=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Spectra",
-    "scheduledStartTime": "2024-04-17T18:00:00Z",
-    "actualStartTime": "2024-04-17T18:01:36Z",
-    "premiere": false
-  },
-  {
     "id": "zC3dZwS8pWE",
     "vidUrl": "https://youtu.be/zC3dZwS8pWE",
     "vidTitle": "WHY WONT PEOPLE BUY MY COLA??!!\u3010SUPERMARKET SIMULATOR\u3011",
@@ -3508,19 +3496,6 @@
     "premiere": false
   },
   {
-    "id": "5uUrQJbCKdU",
-    "vidUrl": "https://youtu.be/5uUrQJbCKdU",
-    "vidTitle": "\u3010CRYPT OF THE NECRODANCER PART VI\u3011Trying to pass ZONE 4  \u3010NIJISANJI EN | Enna Alouette\u3011",
-    "channelId": "@ennaalouette",
-    "channelName": "Enna Alouette\u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/MKS8EHgSx1cC75IPUIf0zQefXweMfVpyUQxEQ_emFsTh-LTwODz6jXotb1q-QTrNpvPpf_sSuoM=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Enna",
-    "scheduledStartTime": "2024-04-17T14:00:00Z",
-    "actualStartTime": "2024-04-17T14:06:11Z",
-    "premiere": false
-  },
-  {
     "id": "9-lVD_-PUuI",
     "vidUrl": "https://youtu.be/9-lVD_-PUuI",
     "vidTitle": "\u3010Eastward\u3011new adventure! more pixel art!\u3010Yume+ | Mero Umiko\u3011",
@@ -3544,6 +3519,19 @@
     "shortName": "Pippa",
     "scheduledStartTime": "2024-04-17T18:00:00Z",
     "actualStartTime": "2024-04-17T17:59:03Z",
+    "premiere": false
+  },
+  {
+    "id": "CymhiTSNZJU",
+    "vidUrl": "https://youtu.be/CymhiTSNZJU",
+    "vidTitle": "LADS LADS LADS\u3010British Stardew Valley Collab!\u3011",
+    "channelId": "@spectravnu",
+    "channelName": "Spectra Libitina Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/vJEi9jvzwANF4rzrVugBrJ2CumIsI3pGN68Bap-eEXSqZbp-hNpLAdqSwSIqmgqhHUbbdUzrR-w=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Spectra",
+    "scheduledStartTime": "2024-04-17T18:00:00Z",
+    "actualStartTime": "2024-04-17T18:01:36Z",
     "premiere": false
   },
   {
