@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "xjwNN_U9SaQ",
-    "vidUrl": "https://youtu.be/xjwNN_U9SaQ",
-    "vidTitle": "\u3010 VCR RUST \u3011\u30b7\u30cb\u30ac\u30df\u3000\u30a4\u30ba\u3000\u30d1\u30ef\u30d5\u30eb\uff01\uff01\u3000#5",
-    "channelId": "@moricalliope",
-    "channelName": "Mori Calliope Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/8B_T08sx8R7XVi5Mwx_l9sjQm5FGWGspeujSvVDvd80Zyr-3VvVTRGVLOnBrqNRxZp6ZeXAV=s88-c-k-c0x00ffffff-no-nd-rj",
-    "shortName": "Mori",
-    "scheduledStartTime": "2024-04-17T11:59:32Z",
-    "actualStartTime": "2024-04-17T12:00:24Z",
-    "premiere": false
-  },
-  {
     "id": "_bePu9UTSNg",
     "vidUrl": "https://youtu.be/_bePu9UTSNg",
     "vidTitle": "International Research Forum on Monetary Policy, April 17, 2024",
@@ -3660,6 +3648,19 @@
     "shortName": "Migi",
     "scheduledStartTime": "2024-04-17T11:00:00Z",
     "actualStartTime": "2024-04-17T10:58:08Z",
+    "premiere": false
+  },
+  {
+    "id": "xjwNN_U9SaQ",
+    "vidUrl": "https://youtu.be/xjwNN_U9SaQ",
+    "vidTitle": "\u3010 VCR RUST \u3011\u30b7\u30cb\u30ac\u30df\u3000\u30a4\u30ba\u3000\u30d1\u30ef\u30d5\u30eb\uff01\uff01\u3000#5",
+    "channelId": "@moricalliope",
+    "channelName": "Mori Calliope Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/8B_T08sx8R7XVi5Mwx_l9sjQm5FGWGspeujSvVDvd80Zyr-3VvVTRGVLOnBrqNRxZp6ZeXAV=s88-c-k-c0x00ffffff-no-nd-rj",
+    "graveyard": true,
+    "shortName": "Mori",
+    "scheduledStartTime": "2024-04-17T11:59:32Z",
+    "actualStartTime": "2024-04-17T12:00:24Z",
     "premiere": false
   },
   {
