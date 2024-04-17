@@ -360,30 +360,6 @@
     "premiere": false
   },
   {
-    "id": "jhyaYxaJs5M",
-    "vidUrl": "https://youtu.be/jhyaYxaJs5M",
-    "vidTitle": "YAKUZA 0 Part 5",
-    "channelId": "@scarleyonaguni",
-    "channelName": "Scarle Yonaguni \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/oYEH8ckOxzEJ0GXlZGp4aSxvZrMWAeodRUg_MRgHqJEr7bEyjXdoC5VyYZ143XtcIKUozhQq6Q=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Scarle",
-    "scheduledStartTime": "2024-04-17T02:30:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "2m-q7GxeRiA",
-    "vidUrl": "https://youtu.be/2m-q7GxeRiA",
-    "vidTitle": "\u3010PARASOCIAL\u3011MEETING MY BIGGEST FAN\u3010NIJISANJI EN | Vantacrow Bringer\u3011",
-    "channelId": "@vantacrowbringer",
-    "channelName": "Vantacrow Bringer \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/GLPkvp_8o7OvZ3q57IpqDSHIyv6OqZFK6tO1egzLoMjE19EBlo3tISEMIOLEvkC5jnl2Uus93A=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Vanta",
-    "scheduledStartTime": "2024-04-17T03:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "HraJv_2JKrw",
     "vidUrl": "https://youtu.be/HraJv_2JKrw",
     "vidTitle": "\u3010Buckshot Roulette\u3011Can't Lose When I've Got Nothing Left\u3010NIJISANJI EN | Victoria Brightshield\u3011",
@@ -392,19 +368,7 @@
     "channelThumb": "https://yt3.ggpht.com/m5YHCdJM_v2kid17kOVWr59fddjYgfMfd25GEuGGXQaV_57y7l7mD2sV62TmWKIXeD1sVuy4Rek=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Vivi",
     "scheduledStartTime": "2024-04-17T03:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "S5Cns5_npV4",
-    "vidUrl": "https://youtu.be/S5Cns5_npV4",
-    "vidTitle": "\u3010MONSTER HUNTER WORLD\u3011The Monsters Call Me",
-    "channelId": "@irys",
-    "channelName": "IRyS Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/cDSMiVy3Xa49Ci_YyouVNzfCwVXKRYmOeywWQ_UFKzvAp6tvyeMtXMyzWzQ2u8ft4EENsJKt7A=s88-c-k-c0x00ffffff-no-nd-rj",
-    "shortName": "Irys",
-    "scheduledStartTime": "2024-04-17T03:00:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-17T02:57:28Z",
     "premiere": false
   },
   {
@@ -416,7 +380,7 @@
     "channelThumb": "https://yt3.ggpht.com/Vj2QGSwnGea4gY_hmHATQTkM-2noJld4JtpdmiHmXRerJ2umbuiPZwDfLeWVOrXteS4vXqZlCw=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Hiyori",
     "scheduledStartTime": "2024-04-17T03:00:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-17T03:01:07Z",
     "premiere": false
   },
   {
@@ -428,6 +392,42 @@
     "channelThumb": "https://yt3.ggpht.com/GFwKlBk3CTxJtS0qwzh9PjXMdR7Zz1SvhtDnUWWHzaLbbTs60oipOhpOBSzfVjzCZh5Iv68qW3s=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Lumin",
     "scheduledStartTime": "2024-04-17T03:00:00Z",
+    "actualStartTime": "2024-04-17T03:01:45Z",
+    "premiere": false
+  },
+  {
+    "id": "2m-q7GxeRiA",
+    "vidUrl": "https://youtu.be/2m-q7GxeRiA",
+    "vidTitle": "\u3010PARASOCIAL\u3011VTUBER MEETS BIGGEST FAN GONE WRONG!?!?\u3010NIJISANJI EN | Vantacrow Bringer\u3011",
+    "channelId": "@vantacrowbringer",
+    "channelName": "Vantacrow Bringer \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/GLPkvp_8o7OvZ3q57IpqDSHIyv6OqZFK6tO1egzLoMjE19EBlo3tISEMIOLEvkC5jnl2Uus93A=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Vanta",
+    "scheduledStartTime": "2024-04-17T03:00:00Z",
+    "actualStartTime": "2024-04-17T03:01:56Z",
+    "premiere": false
+  },
+  {
+    "id": "S5Cns5_npV4",
+    "vidUrl": "https://youtu.be/S5Cns5_npV4",
+    "vidTitle": "\u3010MONSTER HUNTER WORLD\u3011The Monsters Call Me",
+    "channelId": "@irys",
+    "channelName": "IRyS Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/cDSMiVy3Xa49Ci_YyouVNzfCwVXKRYmOeywWQ_UFKzvAp6tvyeMtXMyzWzQ2u8ft4EENsJKt7A=s88-c-k-c0x00ffffff-no-nd-rj",
+    "shortName": "Irys",
+    "scheduledStartTime": "2024-04-17T03:00:00Z",
+    "actualStartTime": "2024-04-17T03:02:30Z",
+    "premiere": false
+  },
+  {
+    "id": "jhyaYxaJs5M",
+    "vidUrl": "https://youtu.be/jhyaYxaJs5M",
+    "vidTitle": "YAKUZA 0 Part 5",
+    "channelId": "@scarleyonaguni",
+    "channelName": "Scarle Yonaguni \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/oYEH8ckOxzEJ0GXlZGp4aSxvZrMWAeodRUg_MRgHqJEr7bEyjXdoC5VyYZ143XtcIKUozhQq6Q=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Scarle",
+    "scheduledStartTime": "2024-04-17T02:30:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -1152,6 +1152,18 @@
     "premiere": false
   },
   {
+    "id": "G6j-xxd_yjU",
+    "vidUrl": "https://youtu.be/G6j-xxd_yjU",
+    "vidTitle": "\u3010MINECRAFT\u3011praise the almighty tree\u3010NIJISANJI EN | Uki Violeta\u3011",
+    "channelId": "@ukivioleta",
+    "channelName": "Uki Violeta \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/WIy30MlmcCTxrEuKULkAdh8itCfT4Up5myJbpVHTkKbfKcgriF_qL6d3iJMD_mQfwb0B1JDT=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Uki",
+    "scheduledStartTime": "2024-04-18T00:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "_kL6GLe4KSY",
     "vidUrl": "https://youtu.be/_kL6GLe4KSY",
     "vidTitle": "Backpack Battles: Junk in our Trunk!",
@@ -1195,6 +1207,18 @@
     "channelName": "Mino Mieko Ch.",
     "channelThumb": "https://yt3.ggpht.com/ryVy3g8W7qKzcFFCsuZgiGN3lo7_bDXvBM70mR8jhiGDlVFBaMZD28kB8pJIsDeEXZCY0zRX=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Mieko",
+    "scheduledStartTime": "2024-04-18T01:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "fJtRzLHLNis",
+    "vidUrl": "https://youtu.be/fJtRzLHLNis",
+    "vidTitle": "\u3010DONKEY KONG COUNTRY 2\u3011this is just BANANAS \ud83c\udf4c\u3010\u30b9\u30fc\u30d1\u30fc\u30c9\u30f3\u30ad\u30fc\u30b3\u30f3\u30b02\u3011",
+    "channelId": "@fuwamococh",
+    "channelName": "FUWAMOCO Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/zt63obGOD6fnCX0elnzt8xkylqOTnAENmSCKmwg_PSiC857DDgB28kEjQ-FJlWGtNYZ9lqzEag=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "FWMC",
     "scheduledStartTime": "2024-04-18T01:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -3796,19 +3820,6 @@
     "shortName": "Ivaela",
     "scheduledStartTime": "2024-04-16T20:00:00Z",
     "actualStartTime": "2024-04-16T20:01:13Z",
-    "premiere": false
-  },
-  {
-    "id": "du3UJ7RPR6U",
-    "vidUrl": "https://youtu.be/du3UJ7RPR6U",
-    "vidTitle": "\u3010The Witness\u3011THIS IS THE FINAL PART pt.4 \ud83d\udd0d Mysterious Tuesday",
-    "channelId": "@kohakuyumekui",
-    "channelName": "Kohaku Yumekui Ch. \u5922\u55b0\u5df1\u767d\u3010kawaii\u3011",
-    "channelThumb": "https://yt3.ggpht.com/Tz6Hm43Exb8k5sGZ7DRbucOkivDD4w7FU78_bPV69vWM47zCAODykYVo76pwXqry2b1DI1HI=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Kohaku",
-    "scheduledStartTime": "2024-04-16T21:00:00Z",
-    "actualStartTime": "2024-04-16T21:01:13Z",
     "premiere": false
   },
   {
