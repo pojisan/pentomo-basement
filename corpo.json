@@ -24,42 +24,6 @@
     "premiere": false
   },
   {
-    "id": "vpVzEK39Ekw",
-    "vidUrl": "https://youtu.be/vpVzEK39Ekw",
-    "vidTitle": "\u3010Hooked on You\u3011HOT MAN",
-    "channelId": "@lidaoriana",
-    "channelName": "Lida Oriana Ch.",
-    "channelThumb": "https://yt3.ggpht.com/jPWRHtDGZ3b-HXw__M_4Le5LhYAwxpcy7_Inwji6RhxGC7NK34Nihv_LwLgjtCfdTMuDE92y=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Lida",
-    "scheduledStartTime": "2024-04-17T13:00:00Z",
-    "actualStartTime": "2024-04-17T13:00:41Z",
-    "premiere": false
-  },
-  {
-    "id": "1uv772Meq7w",
-    "vidUrl": "https://youtu.be/1uv772Meq7w",
-    "vidTitle": "[ TEKKEN 8 VS VIEWERS ]  THINK YOU CAN BEAT ME ? :P [ MYTH-0S EN / JP | AKIRU NOBU ]",
-    "channelId": "@mythosvt",
-    "channelName": "MYTHOS VT OFFICIAL",
-    "channelThumb": "https://yt3.ggpht.com/B29jTdW5CzeW8wKyi4pczco-ejeEpBblzjOGL8n7oozCZsZrdLJ-VqHHztEAfOlBI18RfZ86Bw=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "MYTHOS VT",
-    "scheduledStartTime": "2024-04-17T13:00:00Z",
-    "actualStartTime": "2024-04-17T13:00:42Z",
-    "premiere": false
-  },
-  {
-    "id": "WU9EqXO6X8Q",
-    "vidUrl": "https://youtu.be/WU9EqXO6X8Q",
-    "vidTitle": "Carmen Jumpscare\u3010LIMBUS COMPANY\u3011",
-    "channelId": "@antimonycinnia",
-    "channelName": "Cinnia Antimony",
-    "channelThumb": "https://yt3.ggpht.com/TS8mW0lOOVBI53VXfKNkbncMKZecacAs5h2LAuKBqT4BHFggyV-LaNA0iDTzYE6pBN2dQX5euCI=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Cinnia",
-    "scheduledStartTime": "2024-04-17T13:00:00Z",
-    "actualStartTime": "2024-04-17T13:01:13Z",
-    "premiere": false
-  },
-  {
     "id": "8boCMdd3Dsg",
     "vidUrl": "https://youtu.be/8boCMdd3Dsg",
     "vidTitle": "\u3010Freetalk | \u96d1\u8ac7 | \u804a\u5929\u3011Nighttime chatting!",
@@ -105,18 +69,6 @@
     "shortName": "Karrot",
     "scheduledStartTime": "2024-04-17T14:00:00Z",
     "actualStartTime": "2024-04-17T14:02:14Z",
-    "premiere": false
-  },
-  {
-    "id": "Cd9uBQvU9xU",
-    "vidUrl": "https://youtu.be/Cd9uBQvU9xU",
-    "vidTitle": "SPECIAL ANNOUNCEMENT | Rorodoll Merch Reveal!",
-    "channelId": "@hiranokokoro",
-    "channelName": "Hirano Kokoro \u300c\u308d\u308d\u300d",
-    "channelThumb": "https://yt3.ggpht.com/Pc-k4wd6VsvLoZPUmql6OForU2LDiXTu3TeGZASvNqkD4OW-zEUxuNatHZQLRMUrt4IhcE0rtg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Roro",
-    "scheduledStartTime": "2024-04-17T14:00:00Z",
-    "actualStartTime": "2024-04-17T14:04:41Z",
     "premiere": false
   },
   {
@@ -3704,6 +3656,45 @@
     "premiere": false
   },
   {
+    "id": "vpVzEK39Ekw",
+    "vidUrl": "https://youtu.be/vpVzEK39Ekw",
+    "vidTitle": "\u3010Hooked on You\u3011HOT MAN",
+    "channelId": "@lidaoriana",
+    "channelName": "Lida Oriana Ch.",
+    "channelThumb": "https://yt3.ggpht.com/jPWRHtDGZ3b-HXw__M_4Le5LhYAwxpcy7_Inwji6RhxGC7NK34Nihv_LwLgjtCfdTMuDE92y=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Lida",
+    "scheduledStartTime": "2024-04-17T13:00:00Z",
+    "actualStartTime": "2024-04-17T13:00:41Z",
+    "premiere": false
+  },
+  {
+    "id": "1uv772Meq7w",
+    "vidUrl": "https://youtu.be/1uv772Meq7w",
+    "vidTitle": "[ TEKKEN 8 VS VIEWERS ]  THINK YOU CAN BEAT ME ? :P [ MYTH-0S EN / JP | AKIRU NOBU ]",
+    "channelId": "@mythosvt",
+    "channelName": "MYTHOS VT OFFICIAL",
+    "channelThumb": "https://yt3.ggpht.com/B29jTdW5CzeW8wKyi4pczco-ejeEpBblzjOGL8n7oozCZsZrdLJ-VqHHztEAfOlBI18RfZ86Bw=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "MYTHOS VT",
+    "scheduledStartTime": "2024-04-17T13:00:00Z",
+    "actualStartTime": "2024-04-17T13:00:42Z",
+    "premiere": false
+  },
+  {
+    "id": "WU9EqXO6X8Q",
+    "vidUrl": "https://youtu.be/WU9EqXO6X8Q",
+    "vidTitle": "Carmen Jumpscare\u3010LIMBUS COMPANY\u3011",
+    "channelId": "@antimonycinnia",
+    "channelName": "Cinnia Antimony",
+    "channelThumb": "https://yt3.ggpht.com/TS8mW0lOOVBI53VXfKNkbncMKZecacAs5h2LAuKBqT4BHFggyV-LaNA0iDTzYE6pBN2dQX5euCI=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Cinnia",
+    "scheduledStartTime": "2024-04-17T13:00:00Z",
+    "actualStartTime": "2024-04-17T13:01:13Z",
+    "premiere": false
+  },
+  {
     "id": "D3dEpAGKa40",
     "vidUrl": "https://youtu.be/D3dEpAGKa40",
     "vidTitle": "\u3010KARAOKE\u3011HAROOOOOOOOOOO~ya #\u6b4c\u67a0",
@@ -3714,6 +3705,19 @@
     "shortName": "Serina",
     "scheduledStartTime": "2024-04-17T13:30:00Z",
     "actualStartTime": "2024-04-17T13:47:52Z",
+    "premiere": false
+  },
+  {
+    "id": "Cd9uBQvU9xU",
+    "vidUrl": "https://youtu.be/Cd9uBQvU9xU",
+    "vidTitle": "SPECIAL ANNOUNCEMENT | Rorodoll Merch Reveal!",
+    "channelId": "@hiranokokoro",
+    "channelName": "Hirano Kokoro \u300c\u308d\u308d\u300d",
+    "channelThumb": "https://yt3.ggpht.com/Pc-k4wd6VsvLoZPUmql6OForU2LDiXTu3TeGZASvNqkD4OW-zEUxuNatHZQLRMUrt4IhcE0rtg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Roro",
+    "scheduledStartTime": "2024-04-17T14:00:00Z",
+    "actualStartTime": "2024-04-17T14:04:41Z",
     "premiere": false
   }
 ]
