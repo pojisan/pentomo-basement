@@ -36,18 +36,6 @@
     "premiere": false
   },
   {
-    "id": "nKbR2QJS1eY",
-    "vidUrl": "https://youtu.be/nKbR2QJS1eY",
-    "vidTitle": "GAMING and P-PUNISHMENT!? with @NakiKamizuki  ~!\u2728 \u3010Montaro RE\u3011",
-    "channelId": "@isla_kawaii",
-    "channelName": "Isla Coleman Ch. \u30a2\u30a4\u30e9\u30fb\u30b3\u30fc\u30eb\u30de\u30f3\u3010kawaii\u3011",
-    "channelThumb": "https://yt3.ggpht.com/KsvJ_nvtsnENS74uknH4gxrD8fVCA2DJjiSiyrVIl2JKyVW28zny7nclNnl2j9VhZ3CDIE4pTg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Isla",
-    "scheduledStartTime": "2024-04-17T04:20:36Z",
-    "actualStartTime": "2024-04-17T04:20:52Z",
-    "premiere": false
-  },
-  {
     "id": "JqqgCJqr5t4",
     "vidUrl": "https://youtu.be/JqqgCJqr5t4",
     "vidTitle": "\u3010VALORANT\u3011today i'll show u why i'm a hardstuck plat\u3010PixelLink\u3011",
@@ -3633,6 +3621,19 @@
     "shortName": "Raein",
     "scheduledStartTime": "2024-04-17T04:15:00Z",
     "actualStartTime": "2024-04-17T04:12:45Z",
+    "premiere": false
+  },
+  {
+    "id": "nKbR2QJS1eY",
+    "vidUrl": "https://youtu.be/nKbR2QJS1eY",
+    "vidTitle": "GAMING and P-PUNISHMENT!? with @NakiKamizuki  ~!\u2728 \u3010Montaro RE\u3011",
+    "channelId": "@isla_kawaii",
+    "channelName": "Isla Coleman Ch. \u30a2\u30a4\u30e9\u30fb\u30b3\u30fc\u30eb\u30de\u30f3\u3010kawaii\u3011",
+    "channelThumb": "https://yt3.ggpht.com/KsvJ_nvtsnENS74uknH4gxrD8fVCA2DJjiSiyrVIl2JKyVW28zny7nclNnl2j9VhZ3CDIE4pTg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Isla",
+    "scheduledStartTime": "2024-04-17T04:20:36Z",
+    "actualStartTime": "2024-04-17T04:20:52Z",
     "premiere": false
   }
 ]
