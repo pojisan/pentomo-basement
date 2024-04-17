@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "HraJv_2JKrw",
-    "vidUrl": "https://youtu.be/HraJv_2JKrw",
-    "vidTitle": "\u3010Buckshot Roulette\u3011Can't Lose When I've Got Nothing Left\u3010NIJISANJI EN | Victoria Brightshield\u3011",
-    "channelId": "@victoriabrightshield",
-    "channelName": "Victoria Brightshield \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/m5YHCdJM_v2kid17kOVWr59fddjYgfMfd25GEuGGXQaV_57y7l7mD2sV62TmWKIXeD1sVuy4Rek=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Vivi",
-    "scheduledStartTime": "2024-04-17T03:00:00Z",
-    "actualStartTime": "2024-04-17T02:57:28Z",
-    "premiere": false
-  },
-  {
     "id": "T7g9Y8U08t0",
     "vidUrl": "https://youtu.be/T7g9Y8U08t0",
     "vidTitle": "\u3010\u3074\u306a\u304f\u3089 | \ud83c\udf08 KR\u30b5\u30fc\u30d0\u30fc \u3011 \u304a\u4e45\u3057\u3076\u308a \u3010\u306b\u3058\u3055\u3093\u3058 | \u30bb\u30d5\u30a3\u30ca\u3011",
@@ -273,6 +261,19 @@
     "shortName": "Reimu",
     "scheduledStartTime": "2024-05-05T01:00:00Z",
     "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "HraJv_2JKrw",
+    "vidUrl": "https://youtu.be/HraJv_2JKrw",
+    "vidTitle": "\u3010Buckshot Roulette\u3011Can't Lose When I've Got Nothing Left\u3010NIJISANJI EN | Victoria Brightshield\u3011",
+    "channelId": "@victoriabrightshield",
+    "channelName": "Victoria Brightshield \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/m5YHCdJM_v2kid17kOVWr59fddjYgfMfd25GEuGGXQaV_57y7l7mD2sV62TmWKIXeD1sVuy4Rek=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Vivi",
+    "scheduledStartTime": "2024-04-17T03:00:00Z",
+    "actualStartTime": "2024-04-17T02:57:28Z",
     "premiere": false
   }
 ]
