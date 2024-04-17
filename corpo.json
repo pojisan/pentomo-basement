@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "CKu4lfY9CPE",
-    "vidUrl": "https://youtu.be/CKu4lfY9CPE",
-    "vidTitle": "\u3010Art\u3011Let's draw together!\u3010Vilhelm Vanderbos | globie Gen 2 | Equinnox\u3011",
-    "channelId": "@vilhelmvanderbos",
-    "channelName": "Vilhelm Vanderbos ch.\u3010globie\u3011",
-    "channelThumb": "https://yt3.ggpht.com/8tLFbfcpxzIKQVAPNCdHhbEPJiqoCOLblewcmBc_7uz-GAT4OB3erjJbIflhu7s394stPCKFcw=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Vilhelm",
-    "scheduledStartTime": "2024-04-17T13:00:00Z",
-    "actualStartTime": "2024-04-17T12:58:58Z",
-    "premiere": false
-  },
-  {
     "id": "8boCMdd3Dsg",
     "vidUrl": "https://youtu.be/8boCMdd3Dsg",
     "vidTitle": "\u3010Freetalk | \u96d1\u8ac7 | \u804a\u5929\u3011Nighttime chatting!",
@@ -57,18 +45,6 @@
     "shortName": "Miya",
     "scheduledStartTime": "2024-04-17T14:00:00Z",
     "actualStartTime": "2024-04-17T13:48:22Z",
-    "premiere": false
-  },
-  {
-    "id": "BQe5U9CxQVw",
-    "vidUrl": "https://youtu.be/BQe5U9CxQVw",
-    "vidTitle": "What is Alien Stage ??? Listening to all the songs !",
-    "channelId": "@karrotkeromi",
-    "channelName": "Karrot Keromi Ch. \u30ab\u30ed\u30c3\u30c8 \u30b1\u30ed\u30df\u3010MyHolo TV\u3011",
-    "channelThumb": "https://yt3.ggpht.com/Wbi94uoqulRJCwB_jHN8m7C-TH8gHSts_WhEW4fbC86gFMZPu01qO59X-SvSvl-gts4r5oz99Rg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Karrot",
-    "scheduledStartTime": "2024-04-17T14:00:00Z",
-    "actualStartTime": "2024-04-17T14:02:14Z",
     "premiere": false
   },
   {
@@ -144,18 +120,6 @@
     "premiere": false
   },
   {
-    "id": "31j9Y7HlaNA",
-    "vidUrl": "https://youtu.be/31j9Y7HlaNA",
-    "vidTitle": "BEAT SABER NEW UPDATE WITH MY FAV MUSIC DUO WAAA",
-    "channelId": "@nikkirei",
-    "channelName": "Nikki Rei Ch. idol-EN",
-    "channelThumb": "https://yt3.ggpht.com/7yN9yQvJhx4cVCL5rLOgsBYiRtRMYEurmtjT0DosKX6qpuoSm9zeo4ELHwy7RW-knfVPzNEqAg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Nikki",
-    "scheduledStartTime": "2024-04-17T16:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "9k46INTvrvk",
     "vidUrl": "https://youtu.be/9k46INTvrvk",
     "vidTitle": "\u3010Handcamera\u3011trying japanese snacks (tokyo treat 2)",
@@ -163,6 +127,18 @@
     "channelName": "Kattarina Qutie Ch. idol-EN",
     "channelThumb": "https://yt3.ggpht.com/gHLRZOEihJIIcqQJmj8hsp4CsuRIbKIYKzRxQp9Q9du6DfBDFlnMv3xYCXMnKqSe3N8a1ki6Yw=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Katta",
+    "scheduledStartTime": "2024-04-17T16:00:00Z",
+    "actualStartTime": "2024-04-17T16:13:25Z",
+    "premiere": false
+  },
+  {
+    "id": "31j9Y7HlaNA",
+    "vidUrl": "https://youtu.be/31j9Y7HlaNA",
+    "vidTitle": "BEAT SABER NEW UPDATE WITH MY FAV MUSIC DUO WAAA",
+    "channelId": "@nikkirei",
+    "channelName": "Nikki Rei Ch. idol-EN",
+    "channelThumb": "https://yt3.ggpht.com/7yN9yQvJhx4cVCL5rLOgsBYiRtRMYEurmtjT0DosKX6qpuoSm9zeo4ELHwy7RW-knfVPzNEqAg=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Nikki",
     "scheduledStartTime": "2024-04-17T16:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -3656,6 +3632,19 @@
     "premiere": false
   },
   {
+    "id": "CKu4lfY9CPE",
+    "vidUrl": "https://youtu.be/CKu4lfY9CPE",
+    "vidTitle": "\u3010Art\u3011Let's draw together!\u3010Vilhelm Vanderbos | globie Gen 2 | Equinnox\u3011",
+    "channelId": "@vilhelmvanderbos",
+    "channelName": "Vilhelm Vanderbos ch.\u3010globie\u3011",
+    "channelThumb": "https://yt3.ggpht.com/8tLFbfcpxzIKQVAPNCdHhbEPJiqoCOLblewcmBc_7uz-GAT4OB3erjJbIflhu7s394stPCKFcw=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Vilhelm",
+    "scheduledStartTime": "2024-04-17T13:00:00Z",
+    "actualStartTime": "2024-04-17T12:58:58Z",
+    "premiere": false
+  },
+  {
     "id": "D3dEpAGKa40",
     "vidUrl": "https://youtu.be/D3dEpAGKa40",
     "vidTitle": "\u3010KARAOKE\u3011HAROOOOOOOOOOO~ya #\u6b4c\u67a0",
@@ -3666,6 +3655,19 @@
     "shortName": "Serina",
     "scheduledStartTime": "2024-04-17T13:30:00Z",
     "actualStartTime": "2024-04-17T13:47:52Z",
+    "premiere": false
+  },
+  {
+    "id": "BQe5U9CxQVw",
+    "vidUrl": "https://youtu.be/BQe5U9CxQVw",
+    "vidTitle": "What is Alien Stage ??? Listening to all the songs !",
+    "channelId": "@karrotkeromi",
+    "channelName": "Karrot Keromi Ch. \u30ab\u30ed\u30c3\u30c8 \u30b1\u30ed\u30df\u3010MyHolo TV\u3011",
+    "channelThumb": "https://yt3.ggpht.com/Wbi94uoqulRJCwB_jHN8m7C-TH8gHSts_WhEW4fbC86gFMZPu01qO59X-SvSvl-gts4r5oz99Rg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Karrot",
+    "scheduledStartTime": "2024-04-17T14:00:00Z",
+    "actualStartTime": "2024-04-17T14:02:14Z",
     "premiere": false
   },
   {
