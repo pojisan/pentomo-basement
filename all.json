@@ -236,7 +236,19 @@
     "channelThumb": "https://yt3.ggpht.com/swraGRJ-7ukDEjf58l8YghX2KRDuxS2AEW417T7BWmc-NehlFSgYeMftFJ9VuDE43C07xHQLKBA=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Umi",
     "scheduledStartTime": "2024-04-17T14:45:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-17T14:53:01Z",
+    "premiere": false
+  },
+  {
+    "id": "ktznm6I4N40",
+    "vidUrl": "https://youtu.be/ktznm6I4N40",
+    "vidTitle": "\u3010FUWAMOCO MORNING\u3011episode 86 \ud83d\udc3e #FWMCMORNING",
+    "channelId": "@fuwamococh",
+    "channelName": "FUWAMOCO Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/zt63obGOD6fnCX0elnzt8xkylqOTnAENmSCKmwg_PSiC857DDgB28kEjQ-FJlWGtNYZ9lqzEag=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "FWMC",
+    "scheduledStartTime": "2024-04-17T15:00:00Z",
+    "actualStartTime": "2024-04-17T14:55:10Z",
     "premiere": false
   },
   {
@@ -259,18 +271,6 @@
     "channelName": "Oumiya Emma / \u5927\u5bae\u30a8\u30de",
     "channelThumb": "https://yt3.ggpht.com/UZ38UIPBURy_Tp5sVb5MmZo2zqO_1ZVtG-i2pIC94AZxqzIvcOYQMOEnU46DHMTLzHKqsL6x3A=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Emma",
-    "scheduledStartTime": "2024-04-17T15:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "ktznm6I4N40",
-    "vidUrl": "https://youtu.be/ktznm6I4N40",
-    "vidTitle": "\u3010FUWAMOCO MORNING\u3011episode 86 \ud83d\udc3e #FWMCMORNING",
-    "channelId": "@fuwamococh",
-    "channelName": "FUWAMOCO Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/zt63obGOD6fnCX0elnzt8xkylqOTnAENmSCKmwg_PSiC857DDgB28kEjQ-FJlWGtNYZ9lqzEag=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "FWMC",
     "scheduledStartTime": "2024-04-17T15:00:00Z",
     "actualStartTime": "",
     "premiere": false
