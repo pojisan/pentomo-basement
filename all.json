@@ -156,18 +156,6 @@
     "premiere": false
   },
   {
-    "id": "HCKzC2Lp-yc",
-    "vidUrl": "https://youtu.be/HCKzC2Lp-yc",
-    "vidTitle": "Ranking Your WEIRD & HIDDEN Talents",
-    "channelId": "@kaisaikota",
-    "channelName": "Kai Saikota Ch. idol-EN",
-    "channelThumb": "https://yt3.ggpht.com/0rVHZdUlMh90grMz90Dv_PPWyAvBb2BbkSN2QSDU6JWGdavGje-34q4D6E1OYgBkx74vfrxzyw=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Kai",
-    "scheduledStartTime": "2024-04-17T22:00:00Z",
-    "actualStartTime": "2024-04-17T22:04:56Z",
-    "premiere": false
-  },
-  {
     "id": "N1oN1y01wFc",
     "vidUrl": "https://youtu.be/N1oN1y01wFc",
     "vidTitle": "\ud83d\udca5ANIME SPEEDRUN PLATFORMER\ud83d\udca5",
@@ -189,18 +177,6 @@
     "shortName": "Maeve",
     "scheduledStartTime": "2024-04-17T22:00:00Z",
     "actualStartTime": "2024-04-17T22:14:20Z",
-    "premiere": false
-  },
-  {
-    "id": "IbS2cCYc-SY",
-    "vidUrl": "https://youtu.be/IbS2cCYc-SY",
-    "vidTitle": "\ud83d\udc0d\ud83e\udeb7\u3010GUEST COLLAB\u3011 ??? WHEEL OF PREGUNTAS ??? \u3010Yume+ | Raein Clowd\u3011",
-    "channelId": "@raeinclowd",
-    "channelName": "Raein Clowd \u3010Yume+\u3011",
-    "channelThumb": "https://yt3.ggpht.com/TJhoA7sWUEEW6PIYSsiV--qB2se4lgHL24gTVby9CNmfn7eKkQ5zAXJow9N5TEUX82iBKv1YoA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Raein",
-    "scheduledStartTime": "2024-04-17T22:05:00Z",
-    "actualStartTime": "2024-04-17T22:09:49Z",
     "premiere": false
   },
   {
@@ -261,18 +237,6 @@
     "shortName": "Kronii",
     "scheduledStartTime": "2024-04-17T23:00:00Z",
     "actualStartTime": "2024-04-17T23:09:59Z",
-    "premiere": false
-  },
-  {
-    "id": "iGT1Clqfvno",
-    "vidUrl": "https://youtu.be/iGT1Clqfvno",
-    "vidTitle": "\u3010PERSONA 3: RELOAD\u3011the onsen episode (part 10) SPOILERS!",
-    "channelId": "@moricalliope",
-    "channelName": "Mori Calliope Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/8B_T08sx8R7XVi5Mwx_l9sjQm5FGWGspeujSvVDvd80Zyr-3VvVTRGVLOnBrqNRxZp6ZeXAV=s88-c-k-c0x00ffffff-no-nd-rj",
-    "shortName": "Mori",
-    "scheduledStartTime": "2024-04-17T23:30:00Z",
-    "actualStartTime": "",
     "premiere": false
   },
   {
@@ -1291,6 +1255,18 @@
     "channelName": "Coni Confetti Ch. idol-EN",
     "channelThumb": "https://yt3.ggpht.com/DHI9aYg-eO1nO1PKAyVyDIP7BhuK88nkWcztyfKc-dp0zrdErFkKsbkgC13KqMucq46qreLKpz8=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Coni",
+    "scheduledStartTime": "2024-04-19T00:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "iGT1Clqfvno",
+    "vidUrl": "https://youtu.be/iGT1Clqfvno",
+    "vidTitle": "\u3010PERSONA 3: RELOAD\u3011the onsen episode (part 10) SPOILERS!",
+    "channelId": "@moricalliope",
+    "channelName": "Mori Calliope Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/8B_T08sx8R7XVi5Mwx_l9sjQm5FGWGspeujSvVDvd80Zyr-3VvVTRGVLOnBrqNRxZp6ZeXAV=s88-c-k-c0x00ffffff-no-nd-rj",
+    "shortName": "Mori",
     "scheduledStartTime": "2024-04-19T00:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -3509,6 +3485,32 @@
     "shortName": "Ayu",
     "scheduledStartTime": "2024-04-17T21:30:00Z",
     "actualStartTime": "2024-04-17T21:33:23Z",
+    "premiere": false
+  },
+  {
+    "id": "HCKzC2Lp-yc",
+    "vidUrl": "https://youtu.be/HCKzC2Lp-yc",
+    "vidTitle": "Ranking Your WEIRD & HIDDEN Talents",
+    "channelId": "@kaisaikota",
+    "channelName": "Kai Saikota Ch. idol-EN",
+    "channelThumb": "https://yt3.ggpht.com/0rVHZdUlMh90grMz90Dv_PPWyAvBb2BbkSN2QSDU6JWGdavGje-34q4D6E1OYgBkx74vfrxzyw=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Kai",
+    "scheduledStartTime": "2024-04-17T22:00:00Z",
+    "actualStartTime": "2024-04-17T22:04:56Z",
+    "premiere": false
+  },
+  {
+    "id": "IbS2cCYc-SY",
+    "vidUrl": "https://youtu.be/IbS2cCYc-SY",
+    "vidTitle": "\ud83d\udc0d\ud83e\udeb7\u3010GUEST COLLAB\u3011 ??? WHEEL OF PREGUNTAS ??? \u3010Yume+ | Raein Clowd\u3011",
+    "channelId": "@raeinclowd",
+    "channelName": "Raein Clowd \u3010Yume+\u3011",
+    "channelThumb": "https://yt3.ggpht.com/TJhoA7sWUEEW6PIYSsiV--qB2se4lgHL24gTVby9CNmfn7eKkQ5zAXJow9N5TEUX82iBKv1YoA=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Raein",
+    "scheduledStartTime": "2024-04-17T22:05:00Z",
+    "actualStartTime": "2024-04-17T22:09:49Z",
     "premiere": false
   },
   {
