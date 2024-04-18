@@ -1,17 +1,5 @@
 [
   {
-    "id": "rSXNDOo2l1w",
-    "vidUrl": "https://youtu.be/rSXNDOo2l1w",
-    "vidTitle": "\u3010Games\u3011Playing Lots of Wonderswan Games!",
-    "channelId": "@amiyaaranha",
-    "channelName": "Amiya Ch. \u30a2\u30df\u30e4\u30fb\u30a2\u30e9\u30cb\u30e3",
-    "channelThumb": "https://yt3.ggpht.com/91Fqx3Xut4jaSefCeiDLVGQDSdkWAvt5jA8ejzT18EztYTppy29JNzpa7G-KThC8TzuAmlKBQcs=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Amiya",
-    "scheduledStartTime": "2024-04-18T19:00:00Z",
-    "actualStartTime": "2024-04-18T19:01:54Z",
-    "premiere": false
-  },
-  {
     "id": "FvaxfJEKHdw",
     "vidUrl": "https://youtu.be/FvaxfJEKHdw",
     "vidTitle": "\ud83d\udd34\u3010 WINDOWKILL\u3011Popup Window Desktop SHOOTER? (Plus VTuber Commands!)",
@@ -1171,6 +1159,18 @@
     "channelName": "Poko Rakun Ch. idol-EN",
     "channelThumb": "https://yt3.ggpht.com/ma1Az7kp5ye3ZWtR9IGoFcWEVQ6ReN8VugO_PGP6qokwj430zQKuR9Uo_L5N3gCVTWsH_vQT1w=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Poko",
+    "scheduledStartTime": "2024-04-19T18:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "bFaGga1G-Tc",
+    "vidUrl": "https://youtu.be/bFaGga1G-Tc",
+    "vidTitle": "New friends on the block?!\u3010Globie Gen 2 Watchalong!\u3011",
+    "channelId": "@spectravnu",
+    "channelName": "Spectra Libitina Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/vJEi9jvzwANF4rzrVugBrJ2CumIsI3pGN68Bap-eEXSqZbp-hNpLAdqSwSIqmgqhHUbbdUzrR-w=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Spectra",
     "scheduledStartTime": "2024-04-19T18:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -3108,19 +3108,6 @@
     "premiere": false
   },
   {
-    "id": "QgoWeSI5y58",
-    "vidUrl": "https://youtu.be/QgoWeSI5y58",
-    "vidTitle": "[ Content Warning] Going Viral with @Lillianthemaid and @MionAkuma  ~!",
-    "channelId": "@lorelailoch",
-    "channelName": "Lorelai Loch",
-    "channelThumb": "https://yt3.ggpht.com/0fin3lAUA63z6MwF3Kri4uJbuK56jnaCtMdAzAfbWATJlqF329l9ZuN1J0wlzRKBVcyOrU3bwo8=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Lorelai",
-    "scheduledStartTime": "2024-04-18T02:00:00Z",
-    "actualStartTime": "2024-04-18T02:01:06Z",
-    "premiere": false
-  },
-  {
     "id": "e3oRdpGJ9rk",
     "vidUrl": "https://youtu.be/e3oRdpGJ9rk",
     "vidTitle": "PEAK CONTENT!\u3010Content Warning\u3011",
@@ -3199,19 +3186,6 @@
     "premiere": false
   },
   {
-    "id": "DWtTsAfx7e8",
-    "vidUrl": "https://youtu.be/DWtTsAfx7e8",
-    "vidTitle": "\u3010TrackMania\u3011making car noises part 2 | Mino Mieko Ch.",
-    "channelId": "@minomieko",
-    "channelName": "Mino Mieko Ch.",
-    "channelThumb": "https://yt3.ggpht.com/ryVy3g8W7qKzcFFCsuZgiGN3lo7_bDXvBM70mR8jhiGDlVFBaMZD28kB8pJIsDeEXZCY0zRX=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Mieko",
-    "scheduledStartTime": "2024-04-18T17:00:00Z",
-    "actualStartTime": "2024-04-18T17:05:46Z",
-    "premiere": false
-  },
-  {
     "id": "mvYtmkBN-CE",
     "vidUrl": "https://youtu.be/mvYtmkBN-CE",
     "vidTitle": "\u30103DIO ASMR\u3011POV: I am drinking BEER / YOU \u3010Kaya Nishikino | Production kawaii\u3011",
@@ -3222,6 +3196,19 @@
     "shortName": "Kaya",
     "scheduledStartTime": "2024-04-18T19:00:00Z",
     "actualStartTime": "2024-04-18T19:01:04Z",
+    "premiere": false
+  },
+  {
+    "id": "rSXNDOo2l1w",
+    "vidUrl": "https://youtu.be/rSXNDOo2l1w",
+    "vidTitle": "\u3010Games\u3011Playing Lots of Wonderswan Games!",
+    "channelId": "@amiyaaranha",
+    "channelName": "Amiya Ch. \u30a2\u30df\u30e4\u30fb\u30a2\u30e9\u30cb\u30e3",
+    "channelThumb": "https://yt3.ggpht.com/91Fqx3Xut4jaSefCeiDLVGQDSdkWAvt5jA8ejzT18EztYTppy29JNzpa7G-KThC8TzuAmlKBQcs=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Amiya",
+    "scheduledStartTime": "2024-04-18T19:00:00Z",
+    "actualStartTime": "2024-04-18T19:01:54Z",
     "premiere": false
   },
   {
@@ -3261,19 +3248,6 @@
     "shortName": "Ragi",
     "scheduledStartTime": "2024-04-18T21:30:00Z",
     "actualStartTime": "2024-04-18T21:29:32Z",
-    "premiere": false
-  },
-  {
-    "id": "EGs40p_Ck-I",
-    "vidUrl": "https://youtu.be/EGs40p_Ck-I",
-    "vidTitle": "who the flip is this??????",
-    "channelId": "@chikafujilisa",
-    "channelName": "Lisa Ch. \u8fd1\u85e4\u30ea\u30b5 ",
-    "channelThumb": "https://yt3.ggpht.com/y7lP--RoPjQ1TCGfkcbXp2HPZSRlq-JPN6iy0hxbyUUzbt6bvwxAs8qRgD8EXUemZVBBV9RoEQ=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Lisa",
-    "scheduledStartTime": "2024-04-18T21:45:00Z",
-    "actualStartTime": "2024-04-18T21:47:33Z",
     "premiere": false
   },
   {
