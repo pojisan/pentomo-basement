@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "fJtRzLHLNis",
-    "vidUrl": "https://youtu.be/fJtRzLHLNis",
-    "vidTitle": "\u3010DONKEY KONG COUNTRY 2\u3011this is just BANANAS \ud83c\udf4c\u3010\u30b9\u30fc\u30d1\u30fc\u30c9\u30f3\u30ad\u30fc\u30b3\u30f3\u30b02\u3011",
-    "channelId": "@fuwamococh",
-    "channelName": "FUWAMOCO Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/zt63obGOD6fnCX0elnzt8xkylqOTnAENmSCKmwg_PSiC857DDgB28kEjQ-FJlWGtNYZ9lqzEag=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "FWMC",
-    "scheduledStartTime": "2024-04-18T01:00:00Z",
-    "actualStartTime": "2024-04-18T00:55:08Z",
-    "premiere": false
-  },
-  {
     "id": "sGiu6IfX7Yc",
     "vidUrl": "https://youtu.be/sGiu6IfX7Yc",
     "vidTitle": "\u226aLies of P\u226b WE IN THE END GAME NOW!  #11\u3010SPOILER WARNING\u3011",
@@ -93,6 +81,19 @@
     "shortName": "Shiori",
     "scheduledStartTime": "2024-04-19T01:00:00Z",
     "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "fJtRzLHLNis",
+    "vidUrl": "https://youtu.be/fJtRzLHLNis",
+    "vidTitle": "\u3010DONKEY KONG COUNTRY 2\u3011this is just BANANAS \ud83c\udf4c\u3010\u30b9\u30fc\u30d1\u30fc\u30c9\u30f3\u30ad\u30fc\u30b3\u30f3\u30b02\u3011",
+    "channelId": "@fuwamococh",
+    "channelName": "FUWAMOCO Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/zt63obGOD6fnCX0elnzt8xkylqOTnAENmSCKmwg_PSiC857DDgB28kEjQ-FJlWGtNYZ9lqzEag=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "FWMC",
+    "scheduledStartTime": "2024-04-18T01:00:00Z",
+    "actualStartTime": "2024-04-18T00:55:08Z",
     "premiere": false
   }
 ]
