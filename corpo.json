@@ -24,18 +24,6 @@
     "premiere": false
   },
   {
-    "id": "e3oRdpGJ9rk",
-    "vidUrl": "https://youtu.be/e3oRdpGJ9rk",
-    "vidTitle": "PEAK CONTENT!\u3010Content Warning\u3011",
-    "channelId": "@airiviridis",
-    "channelName": "Airi Viridis Ch. \u3010V-Dere\u3011",
-    "channelThumb": "https://yt3.ggpht.com/hr4djvNbGuwQ5f6fID5xc6hY5sYgWPMw02AbbvKDKxPvMdlhk3FTXFbdexF_I5KHe9RizOg2ZQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Airi",
-    "scheduledStartTime": "2024-04-18T11:00:00Z",
-    "actualStartTime": "2024-04-18T11:08:23Z",
-    "premiere": false
-  },
-  {
     "id": "xhM-mu0a5Xo",
     "vidUrl": "https://youtu.be/xhM-mu0a5Xo",
     "vidTitle": "\u3010Content Warning\u3011Collab w/ TOTAL CUTIES",
@@ -3310,6 +3298,19 @@
     "shortName": "Lofi",
     "scheduledStartTime": "2024-04-18T05:10:00Z",
     "actualStartTime": "2024-04-18T05:10:26Z",
+    "premiere": false
+  },
+  {
+    "id": "e3oRdpGJ9rk",
+    "vidUrl": "https://youtu.be/e3oRdpGJ9rk",
+    "vidTitle": "PEAK CONTENT!\u3010Content Warning\u3011",
+    "channelId": "@airiviridis",
+    "channelName": "Airi Viridis Ch. \u3010V-Dere\u3011",
+    "channelThumb": "https://yt3.ggpht.com/hr4djvNbGuwQ5f6fID5xc6hY5sYgWPMw02AbbvKDKxPvMdlhk3FTXFbdexF_I5KHe9RizOg2ZQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Airi",
+    "scheduledStartTime": "2024-04-18T11:00:00Z",
+    "actualStartTime": "2024-04-18T11:08:23Z",
     "premiere": false
   }
 ]
