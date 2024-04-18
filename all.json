@@ -336,18 +336,6 @@
     "premiere": false
   },
   {
-    "id": "sIZuLDRz0qM",
-    "vidUrl": "https://youtu.be/sIZuLDRz0qM",
-    "vidTitle": "ITS TIME.....",
-    "channelId": "@hadesmythos",
-    "channelName": "Hades Mythos",
-    "channelThumb": "https://yt3.ggpht.com/11xzeBRdgwzcU1Tzo73r8e5HdwNjjNHlQV6d_DfQ71SdLIbnvRnG1YETQnpuX3qhcu4ZFqoL8A=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Hades",
-    "scheduledStartTime": "2024-04-18T18:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "0Gbz9W7pHqY",
     "vidUrl": "https://youtu.be/0Gbz9W7pHqY",
     "vidTitle": "Ive owed you this stream for a LONG time. | [Karaoke Stream] ...which will be unlisted ofcourse...",
@@ -739,6 +727,18 @@
     "channelName": "Sara Nagare / \u6d41\u30b5\u30e9 \u3010EverAfter\u3011",
     "channelThumb": "https://yt3.ggpht.com/Yv97lNyNygKWhFW-foy823UoJZv-Uf4tg0t_fzZlyTzrYLdiEvt-gjs9dDoDDGEoH2sVXy6E=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Sara",
+    "scheduledStartTime": "2024-04-19T00:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "sIZuLDRz0qM",
+    "vidUrl": "https://youtu.be/sIZuLDRz0qM",
+    "vidTitle": "ITS TIME.....",
+    "channelId": "@hadesmythos",
+    "channelName": "Hades Mythos",
+    "channelThumb": "https://yt3.ggpht.com/11xzeBRdgwzcU1Tzo73r8e5HdwNjjNHlQV6d_DfQ71SdLIbnvRnG1YETQnpuX3qhcu4ZFqoL8A=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Hades",
     "scheduledStartTime": "2024-04-19T00:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -3208,19 +3208,6 @@
     "shortName": "Lofi",
     "scheduledStartTime": "2024-04-18T05:10:00Z",
     "actualStartTime": "2024-04-18T05:10:26Z",
-    "premiere": false
-  },
-  {
-    "id": "XRX-bAMcBf4",
-    "vidUrl": "https://youtu.be/XRX-bAMcBf4",
-    "vidTitle": "Poor Streamer working on her IRL Job - THE LIVE\u3010MIKI HITSUGI | SPECIALITE\u3011#mik1tv",
-    "channelId": "@mikihitsugi",
-    "channelName": "Miki Hitsugi | Specialite EN",
-    "channelThumb": "https://yt3.ggpht.com/7YT74XmVpX9ySRWPf2hpfLz_m8fdW-xfK32LMvmGPo0U3gNiCf3G5PaemNK6eKV0Ex5POa3GrlE=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Migi",
-    "scheduledStartTime": "2024-04-18T11:00:00Z",
-    "actualStartTime": "2024-04-18T10:54:33Z",
     "premiere": false
   },
   {
