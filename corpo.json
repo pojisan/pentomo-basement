@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "gRbVm_5iEHo",
-    "vidUrl": "https://youtu.be/gRbVm_5iEHo",
-    "vidTitle": "We're Rollin n Rollin n Rollin  | Slice & Dice",
-    "channelId": "@emberamane",
-    "channelName": "Ember Amane Ch. \u3010Phase Connect\u3011",
-    "channelThumb": "https://yt3.ggpht.com/DEkqZgNRdCOo4QicUE-KZvSRke0scAYn1xVAQ3rZo3ccY0YqACOcV517lIeBjPz5Y7OSLjnlbg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Ember",
-    "scheduledStartTime": "2024-04-17T19:00:00Z",
-    "actualStartTime": "2024-04-17T19:35:52Z",
-    "premiere": false
-  },
-  {
     "id": "ewRY1FrS4HY",
     "vidUrl": "https://youtu.be/ewRY1FrS4HY",
     "vidTitle": "\u3010MONETIZATION\u3011BAKING A NORMAL CAKE TO CELEBRATE\u3010Dr.NOVA(e) | V4Mirai | ENVtuber\u3011",
@@ -240,18 +228,6 @@
     "premiere": false
   },
   {
-    "id": "C2CAmATxwOQ",
-    "vidUrl": "https://youtu.be/C2CAmATxwOQ",
-    "vidTitle": "I WONT DIE || Hades",
-    "channelId": "@mioricelesta",
-    "channelName": "Miori Celesta",
-    "channelThumb": "https://yt3.ggpht.com/kaNjFSu8SjR9kJjHuxcfwKsA12ZeruRk8iJNOxeK0z1_5-zEuaMg_F-BHlXUztmPSVbuKgcxag=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Mio",
-    "scheduledStartTime": "2024-04-18T00:30:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "-NnI82eVk0Q",
     "vidUrl": "https://youtu.be/-NnI82eVk0Q",
     "vidTitle": "\u3010Hi-Fi Rush\u3011gotta love whacking people to the beat | Mino Mieko Ch.",
@@ -271,6 +247,18 @@
     "channelName": "Nova Aokami Ch. [VReverie]",
     "channelThumb": "https://yt3.ggpht.com/meX1uEFMv6_rki86cHBRXvTGGW7VxvnhWUREh2SUpbA8O77kQKR7xnKGU2Vwmbb69aPmsfji=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Nova",
+    "scheduledStartTime": "2024-04-18T01:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "C2CAmATxwOQ",
+    "vidUrl": "https://youtu.be/C2CAmATxwOQ",
+    "vidTitle": "I WONT DIE || Hades",
+    "channelId": "@mioricelesta",
+    "channelName": "Miori Celesta",
+    "channelThumb": "https://yt3.ggpht.com/kaNjFSu8SjR9kJjHuxcfwKsA12ZeruRk8iJNOxeK0z1_5-zEuaMg_F-BHlXUztmPSVbuKgcxag=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Mio",
     "scheduledStartTime": "2024-04-18T01:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -499,6 +487,18 @@
     "channelName": "Shee Icho Ch. \u9280\u674f\u3057\u3044\u3010kawaii\u3011",
     "channelThumb": "https://yt3.ggpht.com/9WpvwRlwjSUM4bCLMLpNv3BvRtnQWki4eY-YAsKAkuzUxJaLXhLDJu5XMQoPU_zbzunktQvMpg=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Shee",
+    "scheduledStartTime": "2024-04-18T03:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "kNGly-IhfHA",
+    "vidUrl": "https://youtu.be/kNGly-IhfHA",
+    "vidTitle": "\u3010Minecraft\u3011kawaii Server tour with @SheeIchoKawaii and @isla_kawaii",
+    "channelId": "@lethebonapuchi",
+    "channelName": "Lethe Bonapuchi Ch. \u30ec\u30c3\u30c6\u30dc\u30ca\u30d7\u30c1 \u3010kawaii\u3011",
+    "channelThumb": "https://yt3.ggpht.com/Zzn-lffpprmp6_2y3sOeCN1yw-ARyXBh7a992WGez2D2Mo9RixB5PiBBndwuZA1NpUjjcDnb=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Lethe",
     "scheduledStartTime": "2024-04-18T03:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -3501,6 +3501,19 @@
     "premiere": false
   },
   {
+    "id": "gRbVm_5iEHo",
+    "vidUrl": "https://youtu.be/gRbVm_5iEHo",
+    "vidTitle": "We're Rollin n Rollin n Rollin  | Slice & Dice",
+    "channelId": "@emberamane",
+    "channelName": "Ember Amane Ch. \u3010Phase Connect\u3011",
+    "channelThumb": "https://yt3.ggpht.com/DEkqZgNRdCOo4QicUE-KZvSRke0scAYn1xVAQ3rZo3ccY0YqACOcV517lIeBjPz5Y7OSLjnlbg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Ember",
+    "scheduledStartTime": "2024-04-17T19:00:00Z",
+    "actualStartTime": "2024-04-17T19:35:52Z",
+    "premiere": false
+  },
+  {
     "id": "BKN9S-Mcq2E",
     "vidUrl": "https://youtu.be/BKN9S-Mcq2E",
     "vidTitle": "COWORKING so many projects\u30103dio ASMR\u3011",
@@ -3555,7 +3568,7 @@
   {
     "id": "IbS2cCYc-SY",
     "vidUrl": "https://youtu.be/IbS2cCYc-SY",
-    "vidTitle": "\ud83d\udc0d\ud83e\udeb7\u3010GUEST COLLAB\u3011 ??? WHEEL OF PREGUNTAS ??? \u3010Yume+ | Raein Clowd\u3011",
+    "vidTitle": "\ud83d\udc0d\ud83e\udeb7\u3010GUEST COLLAB W/NAYA\u3011WHEEL OF PREGUNTAS \u3010Yume+ | Raein Clowd\u3011",
     "channelId": "@raeinclowd",
     "channelName": "Raein Clowd \u3010Yume+\u3011",
     "channelThumb": "https://yt3.ggpht.com/TJhoA7sWUEEW6PIYSsiV--qB2se4lgHL24gTVby9CNmfn7eKkQ5zAXJow9N5TEUX82iBKv1YoA=s88-c-k-c0x00ffffff-no-rj",
