@@ -72,18 +72,6 @@
     "premiere": false
   },
   {
-    "id": "0Gbz9W7pHqY",
-    "vidUrl": "https://youtu.be/0Gbz9W7pHqY",
-    "vidTitle": "Ive owed you this stream for a LONG time. | [Karaoke Stream] ...which will be unlisted ofcourse...",
-    "channelId": "@ginimercury",
-    "channelName": "Roza Coatl Ch.",
-    "channelThumb": "https://yt3.ggpht.com/J_RmocTP4ficzRZ6AFtUiEXoekNfliyRQcber2EXH-nBkNjhci71GaeNHsp4gzLMZs14HZ1U6WQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Roza",
-    "scheduledStartTime": "2024-04-18T21:45:00Z",
-    "actualStartTime": "2024-04-18T21:40:59Z",
-    "premiere": false
-  },
-  {
     "id": "SNJBQ4u2rTg",
     "vidUrl": "https://youtu.be/SNJBQ4u2rTg",
     "vidTitle": "Welcome to the RKAngel Academy!!\u3010Let's School\u3011",
@@ -285,18 +273,6 @@
     "shortName": "Jun",
     "scheduledStartTime": "2024-04-18T23:00:00Z",
     "actualStartTime": "2024-04-18T23:12:24Z",
-    "premiere": false
-  },
-  {
-    "id": "LobYzshy2Eo",
-    "vidUrl": "https://youtu.be/LobYzshy2Eo",
-    "vidTitle": "DARK SOULS 3 DLC FINALE (probably?)",
-    "channelId": "@briatcookiebox",
-    "channelName": "BriAtCookiebox",
-    "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_nC7dRnnTDxs3724EZNLjdWAX7n5w7Vpv6hM9ss3dUJ_w=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Bri",
-    "scheduledStartTime": "2024-04-18T23:00:00Z",
-    "actualStartTime": "",
     "premiere": false
   },
   {
@@ -1135,6 +1111,18 @@
     "channelName": "REM Kanashibari Ch.\u3010V4Mirai\u3011",
     "channelThumb": "https://yt3.ggpht.com/wVYBYMI9s6Rq0ONjpaDlrGWx7j-Qf4p-zsxBJgK65NLMvDuYu2A_4VB69LA2PhBlElWgVZbe-OI=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Rem",
+    "scheduledStartTime": "2024-04-19T21:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "YbgtlnyJ1Fw",
+    "vidUrl": "https://youtu.be/YbgtlnyJ1Fw",
+    "vidTitle": "\u3010R\u00d6KI\u3011 FRIEND???? \u3010EIEN Project\u3011",
+    "channelId": "@mirrisaffire",
+    "channelName": "Mirri Saffire Ch. \u3010EIEN Project\u3011",
+    "channelThumb": "https://yt3.ggpht.com/AtDufy17lH2ziQPDJh2-jQhOQ_3g5HNWeqx-d-CW2ItZcyB8sgVNCznypv_MdbNpiyU_pGEokks=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Mirri",
     "scheduledStartTime": "2024-04-19T21:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -3217,6 +3205,19 @@
     "shortName": "Ragi",
     "scheduledStartTime": "2024-04-18T21:30:00Z",
     "actualStartTime": "2024-04-18T21:29:32Z",
+    "premiere": false
+  },
+  {
+    "id": "0Gbz9W7pHqY",
+    "vidUrl": "https://youtu.be/0Gbz9W7pHqY",
+    "vidTitle": "Ive owed you this stream for a LONG time. | [Karaoke Stream] ...which will be unlisted ofcourse...",
+    "channelId": "@ginimercury",
+    "channelName": "Roza Coatl Ch.",
+    "channelThumb": "https://yt3.ggpht.com/J_RmocTP4ficzRZ6AFtUiEXoekNfliyRQcber2EXH-nBkNjhci71GaeNHsp4gzLMZs14HZ1U6WQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Roza",
+    "scheduledStartTime": "2024-04-18T21:45:00Z",
+    "actualStartTime": "2024-04-18T21:40:59Z",
     "premiere": false
   }
 ]
