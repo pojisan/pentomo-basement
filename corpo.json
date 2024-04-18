@@ -36,18 +36,6 @@
     "premiere": false
   },
   {
-    "id": "KjIQe0JLcVk",
-    "vidUrl": "https://youtu.be/KjIQe0JLcVk",
-    "vidTitle": "This game is NOT for the weak",
-    "channelId": "@rakunpoko",
-    "channelName": "Poko Rakun Ch. idol-EN",
-    "channelThumb": "https://yt3.ggpht.com/ma1Az7kp5ye3ZWtR9IGoFcWEVQ6ReN8VugO_PGP6qokwj430zQKuR9Uo_L5N3gCVTWsH_vQT1w=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Poko",
-    "scheduledStartTime": "2024-04-17T23:00:00Z",
-    "actualStartTime": "2024-04-17T23:01:16Z",
-    "premiere": false
-  },
-  {
     "id": "_kL6GLe4KSY",
     "vidUrl": "https://youtu.be/_kL6GLe4KSY",
     "vidTitle": "Backpack Battles: Junk in our Trunk!",
@@ -3488,6 +3476,19 @@
     "shortName": "Raein",
     "scheduledStartTime": "2024-04-17T22:05:00Z",
     "actualStartTime": "2024-04-17T22:09:49Z",
+    "premiere": false
+  },
+  {
+    "id": "KjIQe0JLcVk",
+    "vidUrl": "https://youtu.be/KjIQe0JLcVk",
+    "vidTitle": "This game is NOT for the weak",
+    "channelId": "@rakunpoko",
+    "channelName": "Poko Rakun Ch. idol-EN",
+    "channelThumb": "https://yt3.ggpht.com/ma1Az7kp5ye3ZWtR9IGoFcWEVQ6ReN8VugO_PGP6qokwj430zQKuR9Uo_L5N3gCVTWsH_vQT1w=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Poko",
+    "scheduledStartTime": "2024-04-17T23:00:00Z",
+    "actualStartTime": "2024-04-17T23:01:16Z",
     "premiere": false
   },
   {
