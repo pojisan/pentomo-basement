@@ -344,7 +344,7 @@
     "channelThumb": "https://yt3.ggpht.com/Scg_jH2aOtaFnREeE_96R4xFDpw0cxp1A-sM6poZ_dl-6N2igdC-27zQ7UOguRqYARzQ6pTK0w=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Cielo",
     "scheduledStartTime": "2024-04-18T03:30:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-18T03:32:47Z",
     "premiere": false
   },
   {
@@ -799,6 +799,18 @@
     "channelName": "Lorelai Loch",
     "channelThumb": "https://yt3.ggpht.com/0fin3lAUA63z6MwF3Kri4uJbuK56jnaCtMdAzAfbWATJlqF329l9ZuN1J0wlzRKBVcyOrU3bwo8=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Lorelai",
+    "scheduledStartTime": "2024-04-18T22:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "jNXpG0UxMvY",
+    "vidUrl": "https://youtu.be/jNXpG0UxMvY",
+    "vidTitle": "SILLY GAME START!!!\u3010BANJO-KAZOOIE\u3011",
+    "channelId": "@lottieshinju",
+    "channelName": "Lottie Shinju Ch.\u3010PixelLink\u3011",
+    "channelThumb": "https://yt3.ggpht.com/iB7oY1uapYSoA1zpmn8TtVnCrTatyrR92ou_vLr9RmlWU2r7Ad91OBND7N2lr5iOZK4kMRok4g=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Lottie",
     "scheduledStartTime": "2024-04-18T22:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -3405,19 +3417,6 @@
     "shortName": "Coni",
     "scheduledStartTime": "2024-04-17T23:55:06Z",
     "actualStartTime": "2024-04-17T23:55:16Z",
-    "premiere": false
-  },
-  {
-    "id": "_kL6GLe4KSY",
-    "vidUrl": "https://youtu.be/_kL6GLe4KSY",
-    "vidTitle": "Backpack Battles: Junk in our Trunk!",
-    "channelId": "@scarlettflameheart",
-    "channelName": "Scarlett Flameheart Ch. [VReverie]",
-    "channelThumb": "https://yt3.ggpht.com/dar6XCcZJ71OULB4saU0JmnVk7u0WYG4Ok4l5pzu6vB5FTXyPSoEQcjrRD7edSN0mPAdw8pQYQ=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Scarlett",
-    "scheduledStartTime": "2024-04-18T00:00:00Z",
-    "actualStartTime": "2024-04-17T23:56:06Z",
     "premiere": false
   },
   {

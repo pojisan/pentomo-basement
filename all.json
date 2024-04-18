@@ -12,30 +12,6 @@
     "premiere": false
   },
   {
-    "id": "XoFB4m0IIo4",
-    "vidUrl": "https://youtu.be/XoFB4m0IIo4",
-    "vidTitle": "\u3010THE WITCHER 3\u3011 Which witch is witchier? Witcher or witch? | #3",
-    "channelId": "@ceresfauna",
-    "channelName": "Ceres Fauna Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/cBtserkb211p6If2OewgWd8oriIKRkfwTcP4_Vdq2YETG5TK9Q02v4cYmnLU03KBAJ0gcDha7oQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Fauna",
-    "scheduledStartTime": "2024-04-17T22:00:00Z",
-    "actualStartTime": "2024-04-17T22:00:07Z",
-    "premiere": false
-  },
-  {
-    "id": "c1y20cXrqXo",
-    "vidUrl": "https://youtu.be/c1y20cXrqXo",
-    "vidTitle": "\u3010ENDER LILIES: Quietus of the Knights Ep .03\u3011",
-    "channelId": "@shiorinovella",
-    "channelName": "Shiori Novella Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/ZlovVsPyh8NgS37S4dfONiCBySiboGPbT9cYuirb8JM3JhSnqlpJk-8SQUEA7jPfqXpMvjaa=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Shiori",
-    "scheduledStartTime": "2024-04-17T23:00:00Z",
-    "actualStartTime": "2024-04-17T22:54:15Z",
-    "premiere": false
-  },
-  {
     "id": "AXCQ_I-a1Ko",
     "vidUrl": "https://youtu.be/AXCQ_I-a1Ko",
     "vidTitle": "ELDEN RING BINGO WITH  @Twobold",
@@ -428,7 +404,7 @@
     "channelThumb": "https://yt3.ggpht.com/Scg_jH2aOtaFnREeE_96R4xFDpw0cxp1A-sM6poZ_dl-6N2igdC-27zQ7UOguRqYARzQ6pTK0w=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Cielo",
     "scheduledStartTime": "2024-04-18T03:30:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-18T03:32:47Z",
     "premiere": false
   },
   {
@@ -948,6 +924,18 @@
     "premiere": false
   },
   {
+    "id": "jNXpG0UxMvY",
+    "vidUrl": "https://youtu.be/jNXpG0UxMvY",
+    "vidTitle": "SILLY GAME START!!!\u3010BANJO-KAZOOIE\u3011",
+    "channelId": "@lottieshinju",
+    "channelName": "Lottie Shinju Ch.\u3010PixelLink\u3011",
+    "channelThumb": "https://yt3.ggpht.com/iB7oY1uapYSoA1zpmn8TtVnCrTatyrR92ou_vLr9RmlWU2r7Ad91OBND7N2lr5iOZK4kMRok4g=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Lottie",
+    "scheduledStartTime": "2024-04-18T22:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "mo7bdiE3pLQ",
     "vidUrl": "https://youtu.be/mo7bdiE3pLQ",
     "vidTitle": "Why don't you come talk with me....?",
@@ -1195,6 +1183,18 @@
     "channelName": "Nerissa Ravencroft Ch. hololive-EN",
     "channelThumb": "https://yt3.ggpht.com/JDCIBWj11TgjY2Uyba_efZ0n5hzjysMB9GxkvHGkIN_sfFQJR5mx3iVPqgJ96IPcYjZpCLsb=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Nerissa",
+    "scheduledStartTime": "2024-04-19T01:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "jpH_1oofLa0",
+    "vidUrl": "https://youtu.be/jpH_1oofLa0",
+    "vidTitle": "\u3010CONTENT WARNING\u3011Advent Breaking & Entering Into YOUR Home For the LULZ",
+    "channelId": "@shiorinovella",
+    "channelName": "Shiori Novella Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/ZlovVsPyh8NgS37S4dfONiCBySiboGPbT9cYuirb8JM3JhSnqlpJk-8SQUEA7jPfqXpMvjaa=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Shiori",
     "scheduledStartTime": "2024-04-19T01:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -3342,6 +3342,19 @@
     "premiere": false
   },
   {
+    "id": "XoFB4m0IIo4",
+    "vidUrl": "https://youtu.be/XoFB4m0IIo4",
+    "vidTitle": "\u3010THE WITCHER 3\u3011 Which witch is witchier? Witcher or witch? | #3",
+    "channelId": "@ceresfauna",
+    "channelName": "Ceres Fauna Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/cBtserkb211p6If2OewgWd8oriIKRkfwTcP4_Vdq2YETG5TK9Q02v4cYmnLU03KBAJ0gcDha7oQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Fauna",
+    "scheduledStartTime": "2024-04-17T22:00:00Z",
+    "actualStartTime": "2024-04-17T22:00:07Z",
+    "premiere": false
+  },
+  {
     "id": "IbS2cCYc-SY",
     "vidUrl": "https://youtu.be/IbS2cCYc-SY",
     "vidTitle": "\ud83d\udc0d\ud83e\udeb7\u3010GUEST COLLAB W/NAYA\u3011WHEEL OF PREGUNTAS \u3010Yume+ | Raein Clowd\u3011",
@@ -3355,6 +3368,19 @@
     "premiere": false
   },
   {
+    "id": "c1y20cXrqXo",
+    "vidUrl": "https://youtu.be/c1y20cXrqXo",
+    "vidTitle": "\u3010ENDER LILIES: Quietus of the Knights Ep .03\u3011",
+    "channelId": "@shiorinovella",
+    "channelName": "Shiori Novella Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/ZlovVsPyh8NgS37S4dfONiCBySiboGPbT9cYuirb8JM3JhSnqlpJk-8SQUEA7jPfqXpMvjaa=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Shiori",
+    "scheduledStartTime": "2024-04-17T23:00:00Z",
+    "actualStartTime": "2024-04-17T22:54:15Z",
+    "premiere": false
+  },
+  {
     "id": "vd24hGysp5s",
     "vidUrl": "https://youtu.be/vd24hGysp5s",
     "vidTitle": "ELDEN RING CO-OP MOD",
@@ -3365,19 +3391,6 @@
     "shortName": "Coni",
     "scheduledStartTime": "2024-04-17T23:55:06Z",
     "actualStartTime": "2024-04-17T23:55:16Z",
-    "premiere": false
-  },
-  {
-    "id": "_kL6GLe4KSY",
-    "vidUrl": "https://youtu.be/_kL6GLe4KSY",
-    "vidTitle": "Backpack Battles: Junk in our Trunk!",
-    "channelId": "@scarlettflameheart",
-    "channelName": "Scarlett Flameheart Ch. [VReverie]",
-    "channelThumb": "https://yt3.ggpht.com/dar6XCcZJ71OULB4saU0JmnVk7u0WYG4Ok4l5pzu6vB5FTXyPSoEQcjrRD7edSN0mPAdw8pQYQ=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Scarlett",
-    "scheduledStartTime": "2024-04-18T00:00:00Z",
-    "actualStartTime": "2024-04-17T23:56:06Z",
     "premiere": false
   },
   {
