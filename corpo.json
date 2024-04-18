@@ -24,18 +24,6 @@
     "premiere": false
   },
   {
-    "id": "e7r5oYDaM_A",
-    "vidUrl": "https://youtu.be/e7r5oYDaM_A",
-    "vidTitle": "\u3010CONTENT WARNING\u3011TRYING NOT TO SCREAM w/ @JunaUnagi @HimemiyaRie @DKVNU",
-    "channelId": "@tomoecarmine",
-    "channelName": "Tomoe Carmine Ch. \u30c8\u30e2\u30a8\u30fb\u30ab\u30fc\u30de\u30a4\u30f3\u3010kawaii\u3011",
-    "channelThumb": "https://yt3.ggpht.com/eZL22MkBQh4myHNfCyj9pFql_IgFh84HMUYFvw-cp_9jx_RIftFJc_fFNi6YxJ5LhyArJH11PQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Tomoe",
-    "scheduledStartTime": "2024-04-18T15:00:00Z",
-    "actualStartTime": "2024-04-18T15:03:11Z",
-    "premiere": false
-  },
-  {
     "id": "vO6y2u3Bw7g",
     "vidUrl": "https://youtu.be/vO6y2u3Bw7g",
     "vidTitle": "\u3010Assassin's Creed IV Black Flag\u3011Let\u2019s jump on board and cut them to pieces!",
@@ -93,6 +81,18 @@
     "shortName": "Mieko",
     "scheduledStartTime": "2024-04-18T17:00:00Z",
     "actualStartTime": "2024-04-18T17:05:46Z",
+    "premiere": false
+  },
+  {
+    "id": "EbIDcTBY-wo",
+    "vidUrl": "https://youtu.be/EbIDcTBY-wo",
+    "vidTitle": "\u3010VALORANT\u3011VALO valo\u3010VOLs\u3011",
+    "channelId": "@shirousamikumi",
+    "channelName": "ShirousaMikumi - VOLs",
+    "channelThumb": "https://yt3.ggpht.com/6Jy6Uud2Vx08hfesvUg3vb2cSd0tj_30_Eeq-Ypg3jK7srTbiGUJKE94YJhedV96ExRC6-KGDA=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Mikumi",
+    "scheduledStartTime": "2024-04-18T17:45:00Z",
+    "actualStartTime": "2024-04-18T17:39:04Z",
     "premiere": false
   },
   {
@@ -1980,6 +1980,18 @@
     "premiere": false
   },
   {
+    "id": "1bjQwY-dZ9g",
+    "vidUrl": "https://youtu.be/1bjQwY-dZ9g",
+    "vidTitle": "\u3010MONETIZATION\u3011Let's spend 12 whole hours together!\u3010Yumi The Witch | V4Mirai | ENVtuber\u3011",
+    "channelId": "@yumithewitch",
+    "channelName": "Yumi the Witch Ch.\u3010V4Mirai\u3011",
+    "channelThumb": "https://yt3.ggpht.com/k481pwD9PWdvammPbZ6YdWWA8Aw8TuvTmVvep2ICveehwHFlc0oubCggJajlD_2uhwdahA6X1w=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Yumi",
+    "scheduledStartTime": "2024-04-21T02:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "PDqlxh2_auI",
     "vidUrl": "https://youtu.be/PDqlxh2_auI",
     "vidTitle": "\u30103D KARAOKE\u3011 Singing stream hehe (scuffed)",
@@ -3114,19 +3126,6 @@
     "premiere": false
   },
   {
-    "id": "1_OtLkpzLVU",
-    "vidUrl": "https://youtu.be/1_OtLkpzLVU",
-    "vidTitle": "\u3010TTS ZATSU\u3011 reject magical girlism, revert to robot w/ @EchoVNU",
-    "channelId": "@amoriavnu",
-    "channelName": "Amoria Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/xE9UTkowb3ioACbhZJuLwEGgBQEq4akaOHZZBTGmgn807ALVQKp91t_Gr74tgSpWRmN7SaEgnQ=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Amoria",
-    "scheduledStartTime": "2024-04-18T02:00:00Z",
-    "actualStartTime": "2024-04-18T02:05:21Z",
-    "premiere": false
-  },
-  {
     "id": "KochHJYeQjI",
     "vidUrl": "https://youtu.be/KochHJYeQjI",
     "vidTitle": "YOUR PRINCESS IS IN ANOTHER CASTLE W/ @ObakePAM",
@@ -3257,6 +3256,19 @@
     "premiere": false
   },
   {
+    "id": "e7r5oYDaM_A",
+    "vidUrl": "https://youtu.be/e7r5oYDaM_A",
+    "vidTitle": "\u3010CONTENT WARNING\u3011TRYING NOT TO SCREAM w/ @JunaUnagi @HimemiyaRie @DKVNU",
+    "channelId": "@tomoecarmine",
+    "channelName": "Tomoe Carmine Ch. \u30c8\u30e2\u30a8\u30fb\u30ab\u30fc\u30de\u30a4\u30f3\u3010kawaii\u3011",
+    "channelThumb": "https://yt3.ggpht.com/eZL22MkBQh4myHNfCyj9pFql_IgFh84HMUYFvw-cp_9jx_RIftFJc_fFNi6YxJ5LhyArJH11PQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Tomoe",
+    "scheduledStartTime": "2024-04-18T15:00:00Z",
+    "actualStartTime": "2024-04-18T15:03:11Z",
+    "premiere": false
+  },
+  {
     "id": "o7_GeUBkTGM",
     "vidUrl": "https://youtu.be/o7_GeUBkTGM",
     "vidTitle": "\u3010Content Warning w/ @TomoeCarmine @HimemiyaRie @JunaUnagi\u3011pissing myself\u3010V&U | GEN4\u3011#contentwarning",
@@ -3267,19 +3279,6 @@
     "shortName": "DK",
     "scheduledStartTime": "2024-04-18T15:00:00Z",
     "actualStartTime": "2024-04-18T15:03:55Z",
-    "premiere": false
-  },
-  {
-    "id": "EohczHgcf88",
-    "vidUrl": "https://youtu.be/EohczHgcf88",
-    "vidTitle": "\u3010Content Warning\u3011pissing\u3010V&U | GEN4\u3011#contentwarning #shortsfeed #shorts #shortslive #shortsgaming",
-    "channelId": "@dkvnu",
-    "channelName": "D.K Graves Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/eLNO3hNUzmagTyaDMrJsEEL_MPotkeZh0N4uxccEYYmc2z-J93O5XGOmfTS5MwzNYRTDxgUCOg=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "DK",
-    "scheduledStartTime": "2024-04-18T15:00:00Z",
-    "actualStartTime": "2024-04-18T15:04:38Z",
     "premiere": false
   },
   {
