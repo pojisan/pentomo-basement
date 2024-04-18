@@ -96,18 +96,6 @@
     "premiere": false
   },
   {
-    "id": "woC_bPGP5u0",
-    "vidUrl": "https://youtu.be/woC_bPGP5u0",
-    "vidTitle": "\u3010Freetalk | \u96d1\u8ac7 | \u804a\u5929\u3011Good morning!!",
-    "channelId": "@yurarikudou",
-    "channelName": "Yura Rikudou / \u516d\u9053\u30e6\u30e9",
-    "channelThumb": "https://yt3.ggpht.com/yILITMwS2t2HFysY-sKxOFGmrAaQheI4LMzf-ezgCTX9rjPTSJtZQK3E48WTtxtCWinefdwl-g=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Yura",
-    "scheduledStartTime": "2024-04-18T01:00:00Z",
-    "actualStartTime": "2024-04-18T01:04:51Z",
-    "premiere": false
-  },
-  {
     "id": "Ektz3URm5mI",
     "vidUrl": "https://youtu.be/Ektz3URm5mI",
     "vidTitle": "\u3010Coromon\u3011Randomizer gave Io cheat items NYAHAHHAHA",
@@ -3330,19 +3318,6 @@
     "premiere": false
   },
   {
-    "id": "XoFB4m0IIo4",
-    "vidUrl": "https://youtu.be/XoFB4m0IIo4",
-    "vidTitle": "\u3010THE WITCHER 3\u3011 Which witch is witchier? Witcher or witch? | #3",
-    "channelId": "@ceresfauna",
-    "channelName": "Ceres Fauna Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/cBtserkb211p6If2OewgWd8oriIKRkfwTcP4_Vdq2YETG5TK9Q02v4cYmnLU03KBAJ0gcDha7oQ=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Fauna",
-    "scheduledStartTime": "2024-04-17T22:00:00Z",
-    "actualStartTime": "2024-04-17T22:00:07Z",
-    "premiere": false
-  },
-  {
     "id": "IbS2cCYc-SY",
     "vidUrl": "https://youtu.be/IbS2cCYc-SY",
     "vidTitle": "\ud83d\udc0d\ud83e\udeb7\u3010GUEST COLLAB W/NAYA\u3011WHEEL OF PREGUNTAS \u3010Yume+ | Raein Clowd\u3011",
@@ -3405,6 +3380,19 @@
     "shortName": "Ami",
     "scheduledStartTime": "2024-04-18T01:00:00Z",
     "actualStartTime": "2024-04-18T01:01:39Z",
+    "premiere": false
+  },
+  {
+    "id": "woC_bPGP5u0",
+    "vidUrl": "https://youtu.be/woC_bPGP5u0",
+    "vidTitle": "\u3010Freetalk | \u96d1\u8ac7 | \u804a\u5929\u3011Good morning!!",
+    "channelId": "@yurarikudou",
+    "channelName": "Yura Rikudou / \u516d\u9053\u30e6\u30e9",
+    "channelThumb": "https://yt3.ggpht.com/yILITMwS2t2HFysY-sKxOFGmrAaQheI4LMzf-ezgCTX9rjPTSJtZQK3E48WTtxtCWinefdwl-g=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Yura",
+    "scheduledStartTime": "2024-04-18T01:00:00Z",
+    "actualStartTime": "2024-04-18T01:04:51Z",
     "premiere": false
   },
   {
