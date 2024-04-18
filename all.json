@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "ewRY1FrS4HY",
-    "vidUrl": "https://youtu.be/ewRY1FrS4HY",
-    "vidTitle": "\u3010MONETIZATION\u3011BAKING A NORMAL CAKE TO CELEBRATE\u3010Dr.NOVA(e) | V4Mirai | ENVtuber\u3011",
-    "channelId": "@drnovae",
-    "channelName": "Dr.NOVA(e) Ch.\u3010V4Mirai\u3011",
-    "channelThumb": "https://yt3.ggpht.com/Q5uPSXLX-UaT7iQ1VRWbehhySRrtvEcWEA-ey6HfpVmHlZSz5zUrlC9g5UQuNfsgO5UOjJfI_Q=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Novae",
-    "scheduledStartTime": "2024-04-17T19:30:00Z",
-    "actualStartTime": "2024-04-17T19:30:20Z",
-    "premiere": false
-  },
-  {
     "id": "MkoxGyxhseA",
     "vidUrl": "https://youtu.be/MkoxGyxhseA",
     "vidTitle": "THOSE GAMES ON THE ADS | TALL GAMING ZATSU\u3010\u7e26\u578b\u914d\u4fe1\u3011",
@@ -367,6 +355,18 @@
     "channelName": "FUWAMOCO Ch. hololive-EN",
     "channelThumb": "https://yt3.ggpht.com/zt63obGOD6fnCX0elnzt8xkylqOTnAENmSCKmwg_PSiC857DDgB28kEjQ-FJlWGtNYZ9lqzEag=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "FWMC",
+    "scheduledStartTime": "2024-04-18T01:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "ns5ezb7Ihi4",
+    "vidUrl": "https://youtu.be/ns5ezb7Ihi4",
+    "vidTitle": "\u3010IDOL INTERVIEWS\u3011Let's Nin-Nin with Kaya Nishikino!\u3010Ami Amami | \u96e8\u6d77\u3042\u307f\u3011",
+    "channelId": "@amamiami",
+    "channelName": "Ami Amami / \u96e8\u6d77\u3042\u307f",
+    "channelThumb": "https://yt3.ggpht.com/UBuXoRJHyJ4AQeqy3d7_i6Hl-Kj49nfQJNMgUMdJLcE2NObzlJXLSHXHH3YnNoeW9zB4g-gN=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Ami",
     "scheduledStartTime": "2024-04-18T01:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -3372,19 +3372,6 @@
     "premiere": false
   },
   {
-    "id": "HvSQLvLuA4A",
-    "vidUrl": "https://youtu.be/HvSQLvLuA4A",
-    "vidTitle": "Open up about my Health \u2728 Talk \u3010MIKI HITSUGI | SPECIALITE\u3011#mik1tv",
-    "channelId": "@mikihitsugi",
-    "channelName": "Miki Hitsugi | Specialite EN",
-    "channelThumb": "https://yt3.ggpht.com/7YT74XmVpX9ySRWPf2hpfLz_m8fdW-xfK32LMvmGPo0U3gNiCf3G5PaemNK6eKV0Ex5POa3GrlE=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Migi",
-    "scheduledStartTime": "2024-04-17T11:00:00Z",
-    "actualStartTime": "2024-04-17T10:58:08Z",
-    "premiere": false
-  },
-  {
     "id": "2vXBsk1gA80",
     "vidUrl": "https://youtu.be/2vXBsk1gA80",
     "vidTitle": "\ud83c\udf19 FreeTalk | \u0e08\u0e30\u0e40\u0e1b\u0e47\u0e19\u0e17\u0e33\u0e44\u0e21\u0e04\u0e19\u0e40\u0e2b\u0e07\u0e32 \u0e21\u0e32\u0e40\u0e1b\u0e47\u0e19\u0e04\u0e19\u0e02\u0e2d\u0e07\u0e40\u0e23\u0e32\u0e14\u0e35\u0e01\u0e27\u0e48\u0e32 \u2726  Working [TH/EN]",
@@ -3450,6 +3437,19 @@
     "premiere": false
   },
   {
+    "id": "ewRY1FrS4HY",
+    "vidUrl": "https://youtu.be/ewRY1FrS4HY",
+    "vidTitle": "\u3010MONETIZATION\u3011BAKING A NORMAL CAKE TO CELEBRATE\u3010Dr.NOVA(e) | V4Mirai | ENVtuber\u3011",
+    "channelId": "@drnovae",
+    "channelName": "Dr.NOVA(e) Ch.\u3010V4Mirai\u3011",
+    "channelThumb": "https://yt3.ggpht.com/Q5uPSXLX-UaT7iQ1VRWbehhySRrtvEcWEA-ey6HfpVmHlZSz5zUrlC9g5UQuNfsgO5UOjJfI_Q=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Novae",
+    "scheduledStartTime": "2024-04-17T19:30:00Z",
+    "actualStartTime": "2024-04-17T19:30:20Z",
+    "premiere": false
+  },
+  {
     "id": "BKN9S-Mcq2E",
     "vidUrl": "https://youtu.be/BKN9S-Mcq2E",
     "vidTitle": "COWORKING so many projects\u30103dio ASMR\u3011",
@@ -3473,32 +3473,6 @@
     "shortName": "Ayu",
     "scheduledStartTime": "2024-04-17T21:30:00Z",
     "actualStartTime": "2024-04-17T21:33:23Z",
-    "premiere": false
-  },
-  {
-    "id": "AQbZoq-8Y8Y",
-    "vidUrl": "https://youtu.be/AQbZoq-8Y8Y",
-    "vidTitle": "\u3010Visage\u3011It's been a while since we played a super scary game!!",
-    "channelId": "@shikimiyoshino",
-    "channelName": "Shiki Miyoshino / \u7f8e\u5409\u91ce\u3057\u304d\u3010Requiem\u3011",
-    "channelThumb": "https://yt3.ggpht.com/Id9BL2cZTLJmv9ZoQEGIk_eFPBrQ7REmfIB6tsb34vcls6pWmKCsifuJ4Ii40vRYZvX9uGd9=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Shiki",
-    "scheduledStartTime": "2024-04-17T21:54:50Z",
-    "actualStartTime": "2024-04-17T21:57:29Z",
-    "premiere": false
-  },
-  {
-    "id": "HCKzC2Lp-yc",
-    "vidUrl": "https://youtu.be/HCKzC2Lp-yc",
-    "vidTitle": "Ranking Your WEIRD & HIDDEN Talents",
-    "channelId": "@kaisaikota",
-    "channelName": "Kai Saikota Ch. idol-EN",
-    "channelThumb": "https://yt3.ggpht.com/0rVHZdUlMh90grMz90Dv_PPWyAvBb2BbkSN2QSDU6JWGdavGje-34q4D6E1OYgBkx74vfrxzyw=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Kai",
-    "scheduledStartTime": "2024-04-17T22:00:00Z",
-    "actualStartTime": "2024-04-17T22:04:56Z",
     "premiere": false
   },
   {
