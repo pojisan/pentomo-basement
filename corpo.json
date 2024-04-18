@@ -1,17 +1,5 @@
 [
   {
-    "id": "BXVOdsGEgns",
-    "vidUrl": "https://youtu.be/BXVOdsGEgns",
-    "vidTitle": "\u3010 Danganronpa 2: Goodbye Despair \u3011Chapter 3 Class Trial! And the Culprit is- Pt. 5",
-    "channelId": "@ariasynth",
-    "channelName": "Aria Synth - VOLs",
-    "channelThumb": "https://yt3.ggpht.com/GzhW3aRAfRerOI_6Ks3M8ptbOQaYsmkW_0Wq5HdZdAoxYWBMyrePhNooYwH_JhW7HKAVGiaesak=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Aria",
-    "scheduledStartTime": "2024-04-18T10:00:00Z",
-    "actualStartTime": "2024-04-18T10:00:13Z",
-    "premiere": false
-  },
-  {
     "id": "XRX-bAMcBf4",
     "vidUrl": "https://youtu.be/XRX-bAMcBf4",
     "vidTitle": "Poor Streamer working on her IRL Job - THE LIVE\u3010MIKI HITSUGI | SPECIALITE\u3011#mik1tv",
@@ -48,21 +36,9 @@
     "premiere": false
   },
   {
-    "id": "IReywvaS8-k",
-    "vidUrl": "https://youtu.be/IReywvaS8-k",
-    "vidTitle": "\u3010MY FAVORITE CHILDHOOD GAMES\u3011because I'M JUST A BABYYY!!!\ud83c\udf7c\ud83c\udf6a\ud83c\udf80",
-    "channelId": "@serina_daybreak",
-    "channelName": "Serina Fraize Ch.\u3010DAYBREAK\u3011",
-    "channelThumb": "https://yt3.ggpht.com/D5RqVN3V5gtYwB2RkI8Mw36Mr_paGjI3hhJf76duKo8LIASNQDgHwnVSh0fj0OYopUWjacmo7HA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Serina",
-    "scheduledStartTime": "2024-04-18T12:00:00Z",
-    "actualStartTime": "2024-04-18T12:06:06Z",
-    "premiere": false
-  },
-  {
     "id": "Wu4gDib9kVU",
     "vidUrl": "https://youtu.be/Wu4gDib9kVU",
-    "vidTitle": "I would like to game a little more... || Hades",
+    "vidTitle": "I would like to game a little more...",
     "channelId": "@mioricelesta",
     "channelName": "Miori Celesta",
     "channelThumb": "https://yt3.ggpht.com/kaNjFSu8SjR9kJjHuxcfwKsA12ZeruRk8iJNOxeK0z1_5-zEuaMg_F-BHlXUztmPSVbuKgcxag=s88-c-k-c0x00ffffff-no-rj",
@@ -93,18 +69,6 @@
     "shortName": "Lida",
     "scheduledStartTime": "2024-04-18T13:00:00Z",
     "actualStartTime": "2024-04-18T13:00:37Z",
-    "premiere": false
-  },
-  {
-    "id": "CEg5IM82ZyU",
-    "vidUrl": "https://youtu.be/CEg5IM82ZyU",
-    "vidTitle": "\u3010ASMR/3dio\u3011Quiet whispers for deep sleep\u2661 (scripts/heartbeat)",
-    "channelId": "@luaasuka",
-    "channelName": "Lua Asuka Ch. \u98db\u9ce5\u7460\u85cd\u3010kawaii\u3011",
-    "channelThumb": "https://yt3.ggpht.com/d1sfvqWiJPB51QNzYWdhfomd-El9OgOGZp-PtJkZhsN0kGeVUyYuJEASnMFyVlAdm2pGRGI19A=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Lua",
-    "scheduledStartTime": "2024-04-18T13:00:00Z",
-    "actualStartTime": "2024-04-18T13:00:59Z",
     "premiere": false
   },
   {
@@ -3301,6 +3265,19 @@
     "premiere": false
   },
   {
+    "id": "BXVOdsGEgns",
+    "vidUrl": "https://youtu.be/BXVOdsGEgns",
+    "vidTitle": "\u3010 Danganronpa 2: Goodbye Despair \u3011Chapter 3 Class Trial! And the Culprit is- Pt. 5",
+    "channelId": "@ariasynth",
+    "channelName": "Aria Synth - VOLs",
+    "channelThumb": "https://yt3.ggpht.com/GzhW3aRAfRerOI_6Ks3M8ptbOQaYsmkW_0Wq5HdZdAoxYWBMyrePhNooYwH_JhW7HKAVGiaesak=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Aria",
+    "scheduledStartTime": "2024-04-18T10:00:00Z",
+    "actualStartTime": "2024-04-18T10:00:13Z",
+    "premiere": false
+  },
+  {
     "id": "e3oRdpGJ9rk",
     "vidUrl": "https://youtu.be/e3oRdpGJ9rk",
     "vidTitle": "PEAK CONTENT!\u3010Content Warning\u3011",
@@ -3337,6 +3314,19 @@
     "shortName": "Charlotte",
     "scheduledStartTime": "2024-04-18T12:00:00Z",
     "actualStartTime": "2024-04-18T12:02:17Z",
+    "premiere": false
+  },
+  {
+    "id": "CEg5IM82ZyU",
+    "vidUrl": "https://youtu.be/CEg5IM82ZyU",
+    "vidTitle": "\u3010ASMR/3dio\u3011Quiet whispers for deep sleep\u2661 (scripts/heartbeat)",
+    "channelId": "@luaasuka",
+    "channelName": "Lua Asuka Ch. \u98db\u9ce5\u7460\u85cd\u3010kawaii\u3011",
+    "channelThumb": "https://yt3.ggpht.com/d1sfvqWiJPB51QNzYWdhfomd-El9OgOGZp-PtJkZhsN0kGeVUyYuJEASnMFyVlAdm2pGRGI19A=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Lua",
+    "scheduledStartTime": "2024-04-18T13:00:00Z",
+    "actualStartTime": "2024-04-18T13:00:59Z",
     "premiere": false
   }
 ]
