@@ -1,17 +1,5 @@
 [
   {
-    "id": "mQkFSq6-UTg",
-    "vidUrl": "https://youtu.be/mQkFSq6-UTg",
-    "vidTitle": "\u3010GAME STREAM\u30fb\u30b2\u30fc\u30e0\u914d\u4fe1\u3011Can I hit 10,000 again?? \u30fb\u30b9\u30a4\u30ab\u30b2\u30fc\u30e0\u3084\u308a\u307e\u3057\u3087\u3046\uff01",
-    "channelId": "@lumintsukiboshi",
-    "channelName": "Lumin Tsukiboshi\u30fb\u308b\u307f\u3093\ud83d\udcab\ud83d\udc51 ",
-    "channelThumb": "https://yt3.ggpht.com/GFwKlBk3CTxJtS0qwzh9PjXMdR7Zz1SvhtDnUWWHzaLbbTs60oipOhpOBSzfVjzCZh5Iv68qW3s=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Lumin",
-    "scheduledStartTime": "2024-04-18T09:00:00Z",
-    "actualStartTime": "2024-04-18T08:54:05Z",
-    "premiere": false
-  },
-  {
     "id": "BXVOdsGEgns",
     "vidUrl": "https://youtu.be/BXVOdsGEgns",
     "vidTitle": "\u3010 Danganronpa 2: Goodbye Despair \u3011Chapter 3 Class Trial! And the Culprit is- Pt. 5",
@@ -175,6 +163,18 @@
     "channelName": "MYTHOS VT OFFICIAL",
     "channelThumb": "https://yt3.ggpht.com/B29jTdW5CzeW8wKyi4pczco-ejeEpBblzjOGL8n7oozCZsZrdLJ-VqHHztEAfOlBI18RfZ86Bw=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "MYTHOS VT",
+    "scheduledStartTime": "2024-04-18T13:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "yn2fV_NZ-0M",
+    "vidUrl": "https://youtu.be/yn2fV_NZ-0M",
+    "vidTitle": "\ud83d\udfe2TeaTime| Your Vtuber GF Stuck While You Buy WcDonol \ud83c\udf54\ud83c\udf5f",
+    "channelId": "@goozillaily",
+    "channelName": "Goozilla Ily Ch. [Autumnia]",
+    "channelThumb": "https://yt3.ggpht.com/jds_vfaqo4fnyTfPohyRPUqgIR6zUfltLSkUvuL26fVY2ZVqfPBjUdIWcux0qe8hgt68pWen=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Goozilla",
     "scheduledStartTime": "2024-04-18T13:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -3265,6 +3265,19 @@
     "shortName": "Lofi",
     "scheduledStartTime": "2024-04-18T05:10:00Z",
     "actualStartTime": "2024-04-18T05:10:26Z",
+    "premiere": false
+  },
+  {
+    "id": "mQkFSq6-UTg",
+    "vidUrl": "https://youtu.be/mQkFSq6-UTg",
+    "vidTitle": "\u3010GAME STREAM\u30fb\u30b2\u30fc\u30e0\u914d\u4fe1\u3011Can I hit 10,000 again?? \u30fb\u30b9\u30a4\u30ab\u30b2\u30fc\u30e0\u3084\u308a\u307e\u3057\u3087\u3046\uff01",
+    "channelId": "@lumintsukiboshi",
+    "channelName": "Lumin Tsukiboshi\u30fb\u308b\u307f\u3093\ud83d\udcab\ud83d\udc51 ",
+    "channelThumb": "https://yt3.ggpht.com/GFwKlBk3CTxJtS0qwzh9PjXMdR7Zz1SvhtDnUWWHzaLbbTs60oipOhpOBSzfVjzCZh5Iv68qW3s=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Lumin",
+    "scheduledStartTime": "2024-04-18T09:00:00Z",
+    "actualStartTime": "2024-04-18T08:54:05Z",
     "premiere": false
   }
 ]
