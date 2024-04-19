@@ -12,30 +12,6 @@
     "premiere": false
   },
   {
-    "id": "SNJBQ4u2rTg",
-    "vidUrl": "https://youtu.be/SNJBQ4u2rTg",
-    "vidTitle": "Welcome to the RKAngel Academy!!\u3010Let's School\u3011",
-    "channelId": "@ritakamishiro",
-    "channelName": "Rita Kamishiro / \u795e\u4ee3\u308a\u305f",
-    "channelThumb": "https://yt3.ggpht.com/6Q-aQrJUJfxK1kynZANlAA5jvdpjD0qqG3jlQFeSeDk8XHtmVjtYq00R0aDNhZiQkaH9dDhWNxM=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Rita",
-    "scheduledStartTime": "2024-04-18T22:00:00Z",
-    "actualStartTime": "2024-04-18T21:59:26Z",
-    "premiere": false
-  },
-  {
-    "id": "jNXpG0UxMvY",
-    "vidUrl": "https://youtu.be/jNXpG0UxMvY",
-    "vidTitle": "SILLY GAME START!!!\u3010BANJO-KAZOOIE\u3011",
-    "channelId": "@lottieshinju",
-    "channelName": "Lottie Shinju Ch.\u3010PixelLink\u3011",
-    "channelThumb": "https://yt3.ggpht.com/iB7oY1uapYSoA1zpmn8TtVnCrTatyrR92ou_vLr9RmlWU2r7Ad91OBND7N2lr5iOZK4kMRok4g=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Lottie",
-    "scheduledStartTime": "2024-04-18T22:00:00Z",
-    "actualStartTime": "2024-04-18T22:00:39Z",
-    "premiere": false
-  },
-  {
     "id": "b1iC2pbvJr4",
     "vidUrl": "https://youtu.be/b1iC2pbvJr4",
     "vidTitle": "You Need To Chill",
@@ -177,18 +153,6 @@
     "shortName": "Doki",
     "scheduledStartTime": "2024-04-19T00:00:00Z",
     "actualStartTime": "2024-04-19T00:00:17Z",
-    "premiere": false
-  },
-  {
-    "id": "mHqY60pGC_4",
-    "vidUrl": "https://youtu.be/mHqY60pGC_4",
-    "vidTitle": "\u3010VALKYRIA CHRONICLES\u3011Woah, I love Girls Und Panzer!",
-    "channelId": "@saranagare",
-    "channelName": "Sara Nagare / \u6d41\u30b5\u30e9 \u3010EverAfter\u3011",
-    "channelThumb": "https://yt3.ggpht.com/Yv97lNyNygKWhFW-foy823UoJZv-Uf4tg0t_fzZlyTzrYLdiEvt-gjs9dDoDDGEoH2sVXy6E=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Sara",
-    "scheduledStartTime": "2024-04-19T00:00:00Z",
-    "actualStartTime": "2024-04-19T00:00:19Z",
     "premiere": false
   },
   {
@@ -476,7 +440,7 @@
     "channelThumb": "https://yt3.ggpht.com/X1sgPuBT-qyqDLp-Z42L1Xx6FqUOvvgaTeOz8DhHobGpDBiCOsmAcvzXRRUXihT9mv0QrEPPfQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Io",
     "scheduledStartTime": "2024-04-19T01:00:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-19T01:09:10Z",
     "premiere": false
   },
   {
@@ -1010,7 +974,7 @@
   {
     "id": "WkSeCzGJM4M",
     "vidUrl": "https://youtu.be/WkSeCzGJM4M",
-    "vidTitle": "reject modernity",
+    "vidTitle": "\u3010ENDLESS COLLAB\u3011reject modernity",
     "channelId": "@rakunpoko",
     "channelName": "Poko Rakun Ch. idol-EN",
     "channelThumb": "https://yt3.ggpht.com/ma1Az7kp5ye3ZWtR9IGoFcWEVQ6ReN8VugO_PGP6qokwj430zQKuR9Uo_L5N3gCVTWsH_vQT1w=s88-c-k-c0x00ffffff-no-rj",
@@ -3140,6 +3104,19 @@
     "shortName": "Roza",
     "scheduledStartTime": "2024-04-18T21:45:00Z",
     "actualStartTime": "2024-04-18T21:40:59Z",
+    "premiere": false
+  },
+  {
+    "id": "jNXpG0UxMvY",
+    "vidUrl": "https://youtu.be/jNXpG0UxMvY",
+    "vidTitle": "SILLY GAME START!!!\u3010BANJO-KAZOOIE\u3011",
+    "channelId": "@lottieshinju",
+    "channelName": "Lottie Shinju Ch.\u3010PixelLink\u3011",
+    "channelThumb": "https://yt3.ggpht.com/iB7oY1uapYSoA1zpmn8TtVnCrTatyrR92ou_vLr9RmlWU2r7Ad91OBND7N2lr5iOZK4kMRok4g=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Lottie",
+    "scheduledStartTime": "2024-04-18T22:00:00Z",
+    "actualStartTime": "2024-04-18T22:00:39Z",
     "premiere": false
   },
   {
