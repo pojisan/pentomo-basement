@@ -192,18 +192,6 @@
     "premiere": false
   },
   {
-    "id": "HKKk4fBPoR0",
-    "vidUrl": "https://youtu.be/HKKk4fBPoR0",
-    "vidTitle": "\u3010GLOBIE DEBUT WATCHALONG 2/2\u3011AND SO WE CONTINUE w/ D.K\u3010V&U  | GEN4\u3011",
-    "channelId": "@mismavnu",
-    "channelName": "Misma Ryzing Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/G4Ny8VTJw2-E0za2aahMa1JMAMTwmCaJcgeZZQi_oXev3r85AhhGdSaTE7bI7UyEcid6ajTtDg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Misma",
-    "scheduledStartTime": "2024-04-19T18:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "LMVrGdZ6rpw",
     "vidUrl": "https://youtu.be/LMVrGdZ6rpw",
     "vidTitle": "Another New VTuber!\u3010GLOBIE DEBUT WATCH-A-LONG\u3011#sponsored",
@@ -324,9 +312,21 @@
     "premiere": false
   },
   {
+    "id": "1ZDAkLeGfqc",
+    "vidUrl": "https://youtu.be/1ZDAkLeGfqc",
+    "vidTitle": "\u3010Helldivers 2\u3011mm democracy\u3010V&U | GEN4\u3011#helldivers2 #shortsfeed #shortslive #shorts #shortsgaming",
+    "channelId": "@dkvnu",
+    "channelName": "D.K Graves Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/eLNO3hNUzmagTyaDMrJsEEL_MPotkeZh0N4uxccEYYmc2z-J93O5XGOmfTS5MwzNYRTDxgUCOg=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "DK",
+    "scheduledStartTime": "2024-04-19T19:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "6rrHQ_lZjsI",
     "vidUrl": "https://youtu.be/6rrHQ_lZjsI",
-    "vidTitle": "\u3010Chatting\u3011Exploring Game Engines for the Bucko Game Jam!",
+    "vidTitle": "\u3010Chatting\u3011Exploring Game Engines + Bucko Game Jam announcement!",
     "channelId": "@amiyaaranha",
     "channelName": "Amiya Ch. \u30a2\u30df\u30e4\u30fb\u30a2\u30e9\u30cb\u30e3",
     "channelThumb": "https://yt3.ggpht.com/91Fqx3Xut4jaSefCeiDLVGQDSdkWAvt5jA8ejzT18EztYTppy29JNzpa7G-KThC8TzuAmlKBQcs=s88-c-k-c0x00ffffff-no-rj",
@@ -343,6 +343,18 @@
     "channelName": "Furi Ferntail Ch. [VReverie]",
     "channelThumb": "https://yt3.ggpht.com/FU6LvWJCONpqZAK_zMBXjRAr9d9vTEd22ZV_MwwMfxaWyNGPgt3a9UkGK3Atguk7uL0DHVVNFYI=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Furi",
+    "scheduledStartTime": "2024-04-19T19:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "H1FxzBXz8RM",
+    "vidUrl": "https://youtu.be/H1FxzBXz8RM",
+    "vidTitle": "\u3010Helldivers 2\u3011mm yummy democracy\u3010V&U | GEN4\u3011#helldivers2",
+    "channelId": "@dkvnu",
+    "channelName": "D.K Graves Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/eLNO3hNUzmagTyaDMrJsEEL_MPotkeZh0N4uxccEYYmc2z-J93O5XGOmfTS5MwzNYRTDxgUCOg=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "DK",
     "scheduledStartTime": "2024-04-19T19:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -427,6 +439,18 @@
     "channelName": "Chiyo Moberi \u3010CIESTE\u3011",
     "channelThumb": "https://yt3.ggpht.com/rCQWrIhA0g-D2eraOSkn9GkzKGYNjnUmuTi1SBXQzChsbdYoicnz-OA8swsYORrrvrQer2YhTDI=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Chiyo",
+    "scheduledStartTime": "2024-04-19T20:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "tfBa4miuGlE",
+    "vidUrl": "https://youtu.be/tfBa4miuGlE",
+    "vidTitle": "\u3010Parasocial\u3011Hm... \ud83d\udc40\u3010bondliveEN | Ivaela Daemoni\u3011",
+    "channelId": "@ivaelad",
+    "channelName": "Ivaela Daemoni || \u30a4\u30f4\u30a7\u30e9\u30fb\u30c7\u30e2\u30cb \u3016bondliveEN\u3017",
+    "channelThumb": "https://yt3.ggpht.com/jrJJ8oX8ZP5WElJi21bGfW0jZYnQ3FSAQtsnHMZXQ8_OZ1MnSOFCdTeAVpJVXf7Dul4Ed49h-Q=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Ivaela",
     "scheduledStartTime": "2024-04-19T20:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -979,6 +1003,18 @@
     "channelName": "Sera Kesera\u3010bondlive EN\u3011",
     "channelThumb": "https://yt3.ggpht.com/9l1SuUcHbk3uo-zEZGGsE-ND7ePlrIAl4g6QoUMl98RzA7JCwlPAK4pshZ3ZO61tHhkyhj8bag=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Sera",
+    "scheduledStartTime": "2024-04-20T02:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "v_7MLBP6CAY",
+    "vidUrl": "https://youtu.be/v_7MLBP6CAY",
+    "vidTitle": "\u3010 LIVE Nurse RP ASMR \u3011Repairing a Heartbreak\u3010Alias Anono | V4Mirai | ENVtuber\u3011",
+    "channelId": "@aliasanono",
+    "channelName": "Alias Anono Ch. \u3010V4Mirai\u3011",
+    "channelThumb": "https://yt3.ggpht.com/2cjQaeikgrJlNLffvtgcuH9FNsGIOdBdC34ShNNmqpW4MH-n2GPJGT3gv2oz8awap2nOeKneoQ=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Alias",
     "scheduledStartTime": "2024-04-20T02:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2914,19 +2950,6 @@
     "shortName": "Mana",
     "scheduledStartTime": "2024-04-19T13:30:00Z",
     "actualStartTime": "2024-04-19T13:32:12Z",
-    "premiere": false
-  },
-  {
-    "id": "1TJxHJ4S_Ng",
-    "vidUrl": "https://youtu.be/1TJxHJ4S_Ng",
-    "vidTitle": "108IQ for chess is more than enough !!!",
-    "channelId": "@karrotkeromi",
-    "channelName": "Karrot Keromi Ch. \u30ab\u30ed\u30c3\u30c8 \u30b1\u30ed\u30df\u3010MyHolo TV\u3011",
-    "channelThumb": "https://yt3.ggpht.com/Wbi94uoqulRJCwB_jHN8m7C-TH8gHSts_WhEW4fbC86gFMZPu01qO59X-SvSvl-gts4r5oz99Rg=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Karrot",
-    "scheduledStartTime": "2024-04-19T14:00:00Z",
-    "actualStartTime": "2024-04-19T14:01:04Z",
     "premiere": false
   },
   {
