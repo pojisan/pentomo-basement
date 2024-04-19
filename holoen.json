@@ -31,8 +31,8 @@
     "channelName": "Mori Calliope Ch. hololive-EN",
     "channelThumb": "https://yt3.ggpht.com/8B_T08sx8R7XVi5Mwx_l9sjQm5FGWGspeujSvVDvd80Zyr-3VvVTRGVLOnBrqNRxZp6ZeXAV=s88-c-k-c0x00ffffff-no-nd-rj",
     "shortName": "Mori",
-    "scheduledStartTime": "2024-04-19T05:00:00Z",
-    "actualStartTime": "",
+    "scheduledStartTime": "2024-04-19T05:05:15Z",
+    "actualStartTime": "2024-04-19T05:00:01Z",
     "premiere": false
   },
   {
@@ -56,6 +56,18 @@
     "channelThumb": "https://yt3.ggpht.com/w7TKJYU7zmamFmf-WxfahCo_K7Bg2__Pk-CCBNnbewMG-77OZLqJO9MLvDAmH9nEkZH8OkWgSQ=s88-c-k-c0x00ffffff-no-nd-rj",
     "shortName": "Kiara",
     "scheduledStartTime": "2024-04-19T19:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "RYFD9OpLyMg",
+    "vidUrl": "https://youtu.be/RYFD9OpLyMg",
+    "vidTitle": "\u3010Mother Simulator\u3011I'm your mommy now \ud83c\udfbc",
+    "channelId": "@nerissaravencroft",
+    "channelName": "Nerissa Ravencroft Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/JDCIBWj11TgjY2Uyba_efZ0n5hzjysMB9GxkvHGkIN_sfFQJR5mx3iVPqgJ96IPcYjZpCLsb=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Nerissa",
+    "scheduledStartTime": "2024-04-20T00:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
