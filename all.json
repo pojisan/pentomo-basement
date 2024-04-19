@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "mlmt-AAOapk",
-    "vidUrl": "https://youtu.be/mlmt-AAOapk",
-    "vidTitle": "\u3010ASMR/KU100\u3011Moo! Chu! Comfy Sleepy Gaming With Cow Waifu [Stardew Valley, Typing Sounds, Whispers]",
-    "channelId": "@neneamanoch",
-    "channelName": "Nene Amano Ch. \u5929\u91ce\u5be7\u3005\u3010kawaii\u3011",
-    "channelThumb": "https://yt3.ggpht.com/gQXL64aSlteGuabzrOCxa7Qs-OdOJ0EAMeTP1hpSpI_5_IAkpjy3X0Y4aTVe9BxxXvXOCE5VdLc=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Nene",
-    "scheduledStartTime": "2024-04-19T15:00:00Z",
-    "actualStartTime": "2024-04-19T15:02:38Z",
-    "premiere": false
-  },
-  {
     "id": "nsUfnrzFsic",
     "vidUrl": "https://youtu.be/nsUfnrzFsic",
     "vidTitle": "\u3010 VCR RUST \u3011\u65e5\u672c\u8a9e\u3000\u30a4\u30ba\u3000\u3080\u305a\u304b\u3057\u3044\uff01\uff01\u3000#6",
@@ -224,7 +212,7 @@
     "channelThumb": "https://yt3.ggpht.com/IU2v8OvK9p2KPE6Udi-AxcHpDdRmZ8ixovTLb3dDzCahVLSuIc4iKBKNd5LE6lFvlgUfTIHi=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Arial",
     "scheduledStartTime": "2024-04-19T19:00:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-19T18:56:05Z",
     "premiere": false
   },
   {
@@ -319,6 +307,18 @@
     "channelName": "Roza Coatl Ch.",
     "channelThumb": "https://yt3.ggpht.com/J_RmocTP4ficzRZ6AFtUiEXoekNfliyRQcber2EXH-nBkNjhci71GaeNHsp4gzLMZs14HZ1U6WQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Roza",
+    "scheduledStartTime": "2024-04-19T19:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "YTayzuYZJPQ",
+    "vidUrl": "https://youtu.be/YTayzuYZJPQ",
+    "vidTitle": "\u3010GUERILLA\u3011i need help",
+    "channelId": "@nanimonavi",
+    "channelName": "Nanimo Navi Ch. \u3010EIEN Project\u3011",
+    "channelThumb": "https://yt3.ggpht.com/sQsF3JpF26yNBW9ZNusWQHHFligM4D__RBmINLE0wJtXKHIdtlzhwNfIg_xR7Fx7LrMtG7Pt=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Navi",
     "scheduledStartTime": "2024-04-19T19:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -1802,7 +1802,7 @@
   {
     "id": "T8MG7bxzDAo",
     "vidUrl": "https://youtu.be/T8MG7bxzDAo",
-    "vidTitle": "I Wanna Chat With You\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f #shorts \u7e26\u578b\u914d\u4fe1",
+    "vidTitle": "I Wanna Chat With You\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f #shorts #\u7e26\u578b\u914d\u4fe1",
     "channelId": "@neneamanoch",
     "channelName": "Nene Amano Ch. \u5929\u91ce\u5be7\u3005\u3010kawaii\u3011",
     "channelThumb": "https://yt3.ggpht.com/gQXL64aSlteGuabzrOCxa7Qs-OdOJ0EAMeTP1hpSpI_5_IAkpjy3X0Y4aTVe9BxxXvXOCE5VdLc=s88-c-k-c0x00ffffff-no-rj",
@@ -2900,6 +2900,19 @@
     "shortName": "Xin",
     "scheduledStartTime": "2024-04-19T15:00:00Z",
     "actualStartTime": "2024-04-19T15:01:14Z",
+    "premiere": false
+  },
+  {
+    "id": "mlmt-AAOapk",
+    "vidUrl": "https://youtu.be/mlmt-AAOapk",
+    "vidTitle": "\u3010ASMR/KU100\u3011Moo! Chu! Comfy Sleepy Gaming With Cow Waifu [Stardew Valley, Typing Sounds, Whispers]",
+    "channelId": "@neneamanoch",
+    "channelName": "Nene Amano Ch. \u5929\u91ce\u5be7\u3005\u3010kawaii\u3011",
+    "channelThumb": "https://yt3.ggpht.com/gQXL64aSlteGuabzrOCxa7Qs-OdOJ0EAMeTP1hpSpI_5_IAkpjy3X0Y4aTVe9BxxXvXOCE5VdLc=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Nene",
+    "scheduledStartTime": "2024-04-19T15:00:00Z",
+    "actualStartTime": "2024-04-19T15:02:38Z",
     "premiere": false
   },
   {
