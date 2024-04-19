@@ -48,18 +48,6 @@
     "premiere": false
   },
   {
-    "id": "8wKHHONbWW8",
-    "vidUrl": "https://youtu.be/8wKHHONbWW8",
-    "vidTitle": "\u3010MONSTER HUNTER RISE\u3011fish spanking",
-    "channelId": "@gawrgura",
-    "channelName": "Gawr Gura Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/uMUat6yJL2_Sk6Wg2-yn0fSIqUr_D6aKVNVoWbgeZ8N-edT5QJAusk4PI8nmPgT_DxFDTyl8=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Gura",
-    "scheduledStartTime": "2024-04-19T00:00:00Z",
-    "actualStartTime": "2024-04-19T00:02:55Z",
-    "premiere": false
-  },
-  {
     "id": "5_m-zIYO9e8",
     "vidUrl": "https://youtu.be/5_m-zIYO9e8",
     "vidTitle": "\u3010HELLDIVERS 2\u3011 FIRST TIME MANAGING DEMOCRACY... AND NOT THE LAST! \ud83e\udd85 \u3010NIJISANJI EN | Aia Amare \u3011",
@@ -463,6 +451,18 @@
     "channelName": "Cinnia Antimony",
     "channelThumb": "https://yt3.ggpht.com/TS8mW0lOOVBI53VXfKNkbncMKZecacAs5h2LAuKBqT4BHFggyV-LaNA0iDTzYE6pBN2dQX5euCI=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Cinnia",
+    "scheduledStartTime": "2024-04-19T12:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "PGCVarqoweM",
+    "vidUrl": "https://youtu.be/PGCVarqoweM",
+    "vidTitle": "\u3010CRANE GAMES\u3011WINNING PRIZES FOR YOU\u3010NIJISANJI EN | Yu Q. Wilson\u3011",
+    "channelId": "@yuq.wilson",
+    "channelName": "Yu Q. Wilson \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/GR1e8gQ-x7ehgpqAZmrwoJBI7ReZneaTR6PEQvgcW3kIabEvfTenrpiNRWZSH6QpysfZftKKrA=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Wilson",
     "scheduledStartTime": "2024-04-19T12:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2809,19 +2809,6 @@
     "premiere": false
   },
   {
-    "id": "yn2fV_NZ-0M",
-    "vidUrl": "https://youtu.be/yn2fV_NZ-0M",
-    "vidTitle": "\ud83d\udfe2TeaTime| Your Vtuber GF Stuck While You Buy WcDonol \ud83c\udf54\ud83c\udf5f",
-    "channelId": "@goozillaily",
-    "channelName": "Goozilla Ily Ch. [Autumnia]",
-    "channelThumb": "https://yt3.ggpht.com/jds_vfaqo4fnyTfPohyRPUqgIR6zUfltLSkUvuL26fVY2ZVqfPBjUdIWcux0qe8hgt68pWen=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Goozilla",
-    "scheduledStartTime": "2024-04-18T13:01:04Z",
-    "actualStartTime": "2024-04-18T13:01:18Z",
-    "premiere": false
-  },
-  {
     "id": "oPPR2swsozs",
     "vidUrl": "https://youtu.be/oPPR2swsozs",
     "vidTitle": "\u3010Zatsu\u3011Talking About This Seasons Anime\u3010globie 2nd Gen - Equinnox",
@@ -2913,42 +2900,16 @@
     "premiere": false
   },
   {
-    "id": "-IMbyKgtb2o",
-    "vidUrl": "https://youtu.be/-IMbyKgtb2o",
-    "vidTitle": "\u3010SHADOW OF THE COLOSSUS\u3011we beat the game today\u3010Dokibird\u3011",
-    "channelId": "@dokibird",
-    "channelName": "Dokibird",
-    "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_m53sCnXF6ENdSpHx-q_4fOn-EGaIteMhq8HX17zcGwzeQ=s88-c-k-c0x00ffffff-no-rj",
+    "id": "8wKHHONbWW8",
+    "vidUrl": "https://youtu.be/8wKHHONbWW8",
+    "vidTitle": "\u3010MONSTER HUNTER RISE\u3011fish spanking",
+    "channelId": "@gawrgura",
+    "channelName": "Gawr Gura Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/uMUat6yJL2_Sk6Wg2-yn0fSIqUr_D6aKVNVoWbgeZ8N-edT5QJAusk4PI8nmPgT_DxFDTyl8=s88-c-k-c0x00ffffff-no-rj",
     "graveyard": true,
-    "shortName": "Doki",
+    "shortName": "Gura",
     "scheduledStartTime": "2024-04-19T00:00:00Z",
-    "actualStartTime": "2024-04-19T00:00:17Z",
-    "premiere": false
-  },
-  {
-    "id": "Udtiuy4Ss64",
-    "vidUrl": "https://youtu.be/Udtiuy4Ss64",
-    "vidTitle": "Fallout 4: SHOTGUN GRANDPA",
-    "channelId": "@scarlettflameheart",
-    "channelName": "Scarlett Flameheart Ch. [VReverie]",
-    "channelThumb": "https://yt3.ggpht.com/dar6XCcZJ71OULB4saU0JmnVk7u0WYG4Ok4l5pzu6vB5FTXyPSoEQcjrRD7edSN0mPAdw8pQYQ=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Scarlett",
-    "scheduledStartTime": "2024-04-19T00:00:00Z",
-    "actualStartTime": "2024-04-19T00:02:45Z",
-    "premiere": false
-  },
-  {
-    "id": "76UYIvfmqcI",
-    "vidUrl": "https://youtu.be/76UYIvfmqcI",
-    "vidTitle": "Let's Continue Making Origami Star Jar with your name in it! #ThxPenPals",
-    "channelId": "@pinapengin",
-    "channelName": "Pina Pengin / \u8fba\u9280\u30d4\u30ca",
-    "channelThumb": "https://yt3.ggpht.com/BvQ7bojXcyYy7RoS0jE6JtcTtxnub5XujOZkETphcHGyHfEdZ9NA3B17j2a2OMQU2OVwCf79gw=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Pina",
-    "scheduledStartTime": "2024-04-19T01:00:00Z",
-    "actualStartTime": "2024-04-19T00:59:13Z",
+    "actualStartTime": "2024-04-19T00:02:55Z",
     "premiere": false
   },
   {
