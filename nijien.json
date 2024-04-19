@@ -1,29 +1,5 @@
 [
   {
-    "id": "0dwoDfeuu_I",
-    "vidUrl": "https://youtu.be/0dwoDfeuu_I",
-    "vidTitle": "\u3010HELLDIVERS 2\u3011 DEMOCRACY\u3010NIJISANJI EN | Claude Clawmark\u3011",
-    "channelId": "@claudeclawmark",
-    "channelName": "Claude Clawmark \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/e7od55bIqtwAdCdpEdEf1d-PITBdVzntIaqGwTif46sTptNuJQ4WlVPPcfskh3wqb9axkDuOSg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Claude",
-    "scheduledStartTime": "2024-04-19T01:00:00Z",
-    "actualStartTime": "2024-04-19T01:02:13Z",
-    "premiere": false
-  },
-  {
-    "id": "XpcYDumjIrM",
-    "vidUrl": "https://youtu.be/XpcYDumjIrM",
-    "vidTitle": "\u3010HELLDIVERS\u2122 2\u3011im airstriking everyone [Collab] ft. Aia, Claude & Vanta",
-    "channelId": "@finanaryugu",
-    "channelName": "Finana Ryugu \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/ahtDvnkUuPHE3BN5IDwy6imkXXFGhfygaPLHIrfY4LF3aDxK9uzWJkxCFTDIvCpfxZI3BmZn=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Finana",
-    "scheduledStartTime": "2024-04-19T01:00:00Z",
-    "actualStartTime": "2024-04-19T01:02:16Z",
-    "premiere": false
-  },
-  {
     "id": "2skv9Mv0-m0",
     "vidUrl": "https://youtu.be/2skv9Mv0-m0",
     "vidTitle": "\u3010Soma\u3011Hanging out in PATHOS-II PT. 2\u3010NIJISANJI EN | Victoria Brightshield\u3011",
@@ -177,6 +153,32 @@
     "shortName": "Reimu",
     "scheduledStartTime": "2024-05-05T01:00:00Z",
     "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "0dwoDfeuu_I",
+    "vidUrl": "https://youtu.be/0dwoDfeuu_I",
+    "vidTitle": "\u3010HELLDIVERS 2\u3011 DEMOCRACY\u3010NIJISANJI EN | Claude Clawmark\u3011",
+    "channelId": "@claudeclawmark",
+    "channelName": "Claude Clawmark \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/e7od55bIqtwAdCdpEdEf1d-PITBdVzntIaqGwTif46sTptNuJQ4WlVPPcfskh3wqb9axkDuOSg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Claude",
+    "scheduledStartTime": "2024-04-19T01:00:00Z",
+    "actualStartTime": "2024-04-19T01:02:13Z",
+    "premiere": false
+  },
+  {
+    "id": "XpcYDumjIrM",
+    "vidUrl": "https://youtu.be/XpcYDumjIrM",
+    "vidTitle": "\u3010HELLDIVERS\u2122 2\u3011im airstriking everyone [Collab] ft. Aia, Claude & Vanta",
+    "channelId": "@finanaryugu",
+    "channelName": "Finana Ryugu \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/ahtDvnkUuPHE3BN5IDwy6imkXXFGhfygaPLHIrfY4LF3aDxK9uzWJkxCFTDIvCpfxZI3BmZn=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Finana",
+    "scheduledStartTime": "2024-04-19T01:00:00Z",
+    "actualStartTime": "2024-04-19T01:02:16Z",
     "premiere": false
   }
 ]
