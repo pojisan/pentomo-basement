@@ -24,18 +24,6 @@
     "premiere": false
   },
   {
-    "id": "p9Je8VRebmc",
-    "vidUrl": "https://youtu.be/p9Je8VRebmc",
-    "vidTitle": "\u3010Stellar Blade\u3011Peaches \ud83c\udf51",
-    "channelId": "@yurarikudou",
-    "channelName": "Yura Rikudou / \u516d\u9053\u30e6\u30e9",
-    "channelThumb": "https://yt3.ggpht.com/yILITMwS2t2HFysY-sKxOFGmrAaQheI4LMzf-ezgCTX9rjPTSJtZQK3E48WTtxtCWinefdwl-g=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Yura",
-    "scheduledStartTime": "2024-04-19T13:30:00Z",
-    "actualStartTime": "2024-04-19T13:44:07Z",
-    "premiere": false
-  },
-  {
     "id": "HlQemMieDBU",
     "vidUrl": "https://youtu.be/HlQemMieDBU",
     "vidTitle": "\u3010Umineko\u3011I sense a heated discussion...",
@@ -129,18 +117,6 @@
     "shortName": "Kohaku",
     "scheduledStartTime": "2024-04-19T15:00:00Z",
     "actualStartTime": "2024-04-19T15:00:48Z",
-    "premiere": false
-  },
-  {
-    "id": "-d_R3m8jrdo",
-    "vidUrl": "https://youtu.be/-d_R3m8jrdo",
-    "vidTitle": "My First Original Song is OUT SOON!",
-    "channelId": "@xinasuwa",
-    "channelName": "Xin Asuwa Ch.",
-    "channelThumb": "https://yt3.ggpht.com/klkgyjaDV5_SOgiCDCeA_eVlOagwjlCrsAta5GTT6ey-LG7G7U-iSeqwZwsZttrJjV7WrhPF1nU=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Xin",
-    "scheduledStartTime": "2024-04-19T15:00:00Z",
-    "actualStartTime": "2024-04-19T15:01:14Z",
     "premiere": false
   },
   {
@@ -2790,19 +2766,6 @@
     "premiere": false
   },
   {
-    "id": "PGCVarqoweM",
-    "vidUrl": "https://youtu.be/PGCVarqoweM",
-    "vidTitle": "\u3010CRANE GAMES\u3011WINNING PRIZES FOR YOU\u3010NIJISANJI EN | Yu Q. Wilson\u3011",
-    "channelId": "@yuq.wilson",
-    "channelName": "Yu Q. Wilson \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/GR1e8gQ-x7ehgpqAZmrwoJBI7ReZneaTR6PEQvgcW3kIabEvfTenrpiNRWZSH6QpysfZftKKrA=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Wilson",
-    "scheduledStartTime": "2024-04-19T12:00:00Z",
-    "actualStartTime": "2024-04-19T12:02:26Z",
-    "premiere": false
-  },
-  {
     "id": "aOdr-raGtPc",
     "vidUrl": "https://youtu.be/aOdr-raGtPc",
     "vidTitle": "random guerilla strum!",
@@ -2813,6 +2776,19 @@
     "shortName": "Mana",
     "scheduledStartTime": "2024-04-19T13:30:00Z",
     "actualStartTime": "2024-04-19T13:32:12Z",
+    "premiere": false
+  },
+  {
+    "id": "p9Je8VRebmc",
+    "vidUrl": "https://youtu.be/p9Je8VRebmc",
+    "vidTitle": "\u3010Stellar Blade\u3011Peaches \ud83c\udf51",
+    "channelId": "@yurarikudou",
+    "channelName": "Yura Rikudou / \u516d\u9053\u30e6\u30e9",
+    "channelThumb": "https://yt3.ggpht.com/yILITMwS2t2HFysY-sKxOFGmrAaQheI4LMzf-ezgCTX9rjPTSJtZQK3E48WTtxtCWinefdwl-g=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Yura",
+    "scheduledStartTime": "2024-04-19T13:30:00Z",
+    "actualStartTime": "2024-04-19T13:44:07Z",
     "premiere": false
   },
   {
@@ -2839,6 +2815,19 @@
     "shortName": "FWMC",
     "scheduledStartTime": "2024-04-19T15:00:00Z",
     "actualStartTime": "2024-04-19T14:55:09Z",
+    "premiere": false
+  },
+  {
+    "id": "-d_R3m8jrdo",
+    "vidUrl": "https://youtu.be/-d_R3m8jrdo",
+    "vidTitle": "My First Original Song is OUT SOON!",
+    "channelId": "@xinasuwa",
+    "channelName": "Xin Asuwa Ch.",
+    "channelThumb": "https://yt3.ggpht.com/klkgyjaDV5_SOgiCDCeA_eVlOagwjlCrsAta5GTT6ey-LG7G7U-iSeqwZwsZttrJjV7WrhPF1nU=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Xin",
+    "scheduledStartTime": "2024-04-19T15:00:00Z",
+    "actualStartTime": "2024-04-19T15:01:14Z",
     "premiere": false
   },
   {
@@ -3176,19 +3165,6 @@
     "graveyard": true,
     "shortName": "Cielo",
     "scheduledStartTime": "2024-04-02T04:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "yFcOv1uBVAU",
-    "vidUrl": "https://youtu.be/yFcOv1uBVAU",
-    "vidTitle": "Wasteland Internet | Fallout: New Vegas",
-    "channelId": "@emberamane",
-    "channelName": "Ember Amane Ch. \u3010Phase Connect\u3011",
-    "channelThumb": "https://yt3.ggpht.com/DEkqZgNRdCOo4QicUE-KZvSRke0scAYn1xVAQ3rZo3ccY0YqACOcV517lIeBjPz5Y7OSLjnlbg=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Ember",
-    "scheduledStartTime": "2024-04-09T19:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
