@@ -1,17 +1,5 @@
 [
   {
-    "id": "-IMbyKgtb2o",
-    "vidUrl": "https://youtu.be/-IMbyKgtb2o",
-    "vidTitle": "\u3010SHADOW OF THE COLOSSUS\u3011we beat the game today\u3010Dokibird\u3011",
-    "channelId": "@dokibird",
-    "channelName": "Dokibird",
-    "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_m53sCnXF6ENdSpHx-q_4fOn-EGaIteMhq8HX17zcGwzeQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Doki",
-    "scheduledStartTime": "2024-04-19T00:00:00Z",
-    "actualStartTime": "2024-04-19T00:00:17Z",
-    "premiere": false
-  },
-  {
     "id": "-0D19LcGGC8",
     "vidUrl": "https://youtu.be/-0D19LcGGC8",
     "vidTitle": "\u3010LETHAL COMPANY with friends!\u3011First time playing with mods!!!\u3010Maid Mint Fantome\u3011",
@@ -57,6 +45,19 @@
     "shortName": "Mint",
     "scheduledStartTime": "2025-04-06T04:10:00Z",
     "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "-IMbyKgtb2o",
+    "vidUrl": "https://youtu.be/-IMbyKgtb2o",
+    "vidTitle": "\u3010SHADOW OF THE COLOSSUS\u3011we beat the game today\u3010Dokibird\u3011",
+    "channelId": "@dokibird",
+    "channelName": "Dokibird",
+    "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_m53sCnXF6ENdSpHx-q_4fOn-EGaIteMhq8HX17zcGwzeQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Doki",
+    "scheduledStartTime": "2024-04-19T00:00:00Z",
+    "actualStartTime": "2024-04-19T00:00:17Z",
     "premiere": false
   }
 ]
