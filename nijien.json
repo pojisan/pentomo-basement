@@ -1,17 +1,5 @@
 [
   {
-    "id": "lmgGp2GoTvQ",
-    "vidUrl": "https://youtu.be/lmgGp2GoTvQ",
-    "vidTitle": "\u3010VCRRUST\u3011DAY3  \u3297\ufe0f\u5360\u3044\u306e\u9928\u3001\u958b\u5e97\uff01\u7684\u4e2d\u738799.999\uff01\u3010NIJISANJI EN\uff5cMeloco Kyoran\u3011",
-    "channelId": "@melocokyoran",
-    "channelName": "Meloco Kyoran\u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/R4_Tzx3rBLlHOAL8G5DvpzPs4Cwutg_22ISvrp0s5_3I3POjHeZVQgui9z3F3cC9EEV1B-dmc6U=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Meloco",
-    "scheduledStartTime": "2024-04-19T11:00:00Z",
-    "actualStartTime": "2024-04-19T11:09:33Z",
-    "premiere": false
-  },
-  {
     "id": "PGCVarqoweM",
     "vidUrl": "https://youtu.be/PGCVarqoweM",
     "vidTitle": "\u3010CRANE GAMES\u3011WINNING PRIZES FOR YOU\u3010NIJISANJI EN | Yu Q. Wilson\u3011",
@@ -21,18 +9,6 @@
     "shortName": "Wilson",
     "scheduledStartTime": "2024-04-19T12:00:00Z",
     "actualStartTime": "2024-04-19T12:02:26Z",
-    "premiere": false
-  },
-  {
-    "id": "1WzJsDxLOu4",
-    "vidUrl": "https://youtu.be/1WzJsDxLOu4",
-    "vidTitle": "First Years Gaming - Brothers A Tale of Two Sons\u3010NIJISANJI  EN | Maria Marionette\u3011",
-    "channelId": "@mariamarionette",
-    "channelName": "Maria Marionette \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/EZJ0E6UnrsXZKRPGwZQUJHQ4e3y9PkCHInZFzP06lAE6cYN6MXSZL7O5L5jmTRuDPSzbxNty=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Maririn",
-    "scheduledStartTime": "2024-04-19T12:00:00Z",
-    "actualStartTime": "2024-04-19T12:04:37Z",
     "premiere": false
   },
   {
@@ -177,6 +153,32 @@
     "shortName": "Reimu",
     "scheduledStartTime": "2024-05-05T01:00:00Z",
     "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "lmgGp2GoTvQ",
+    "vidUrl": "https://youtu.be/lmgGp2GoTvQ",
+    "vidTitle": "\u3010VCRRUST\u3011DAY3  \u3297\ufe0f\u5360\u3044\u306e\u9928\u3001\u958b\u5e97\uff01\u7684\u4e2d\u738799.999\uff01\u3010NIJISANJI EN\uff5cMeloco Kyoran\u3011",
+    "channelId": "@melocokyoran",
+    "channelName": "Meloco Kyoran\u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/R4_Tzx3rBLlHOAL8G5DvpzPs4Cwutg_22ISvrp0s5_3I3POjHeZVQgui9z3F3cC9EEV1B-dmc6U=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Meloco",
+    "scheduledStartTime": "2024-04-19T11:00:00Z",
+    "actualStartTime": "2024-04-19T11:09:33Z",
+    "premiere": false
+  },
+  {
+    "id": "1WzJsDxLOu4",
+    "vidUrl": "https://youtu.be/1WzJsDxLOu4",
+    "vidTitle": "First Years Gaming - Brothers A Tale of Two Sons\u3010NIJISANJI  EN | Maria Marionette\u3011",
+    "channelId": "@mariamarionette",
+    "channelName": "Maria Marionette \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/EZJ0E6UnrsXZKRPGwZQUJHQ4e3y9PkCHInZFzP06lAE6cYN6MXSZL7O5L5jmTRuDPSzbxNty=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Maririn",
+    "scheduledStartTime": "2024-04-19T12:00:00Z",
+    "actualStartTime": "2024-04-19T12:04:37Z",
     "premiere": false
   }
 ]
