@@ -132,18 +132,6 @@
     "premiere": false
   },
   {
-    "id": "C83QXYPmkmM",
-    "vidUrl": "https://youtu.be/C83QXYPmkmM",
-    "vidTitle": "good sheepy morning!",
-    "channelId": "@chikafujilisa",
-    "channelName": "Lisa Ch. \u8fd1\u85e4\u30ea\u30b5 ",
-    "channelThumb": "https://yt3.ggpht.com/y7lP--RoPjQ1TCGfkcbXp2HPZSRlq-JPN6iy0hxbyUUzbt6bvwxAs8qRgD8EXUemZVBBV9RoEQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Lisa",
-    "scheduledStartTime": "2024-04-19T19:15:00Z",
-    "actualStartTime": "2024-04-19T19:30:57Z",
-    "premiere": false
-  },
-  {
     "id": "K0IrbCVKa58",
     "vidUrl": "https://youtu.be/K0IrbCVKa58",
     "vidTitle": "\u3010VALORANT\u3011 tryna catch me washed n rusty\u3010NIJISANJI EN | Claude Clawmark\u3011",
@@ -320,7 +308,7 @@
     "channelThumb": "https://yt3.ggpht.com/iB7oY1uapYSoA1zpmn8TtVnCrTatyrR92ou_vLr9RmlWU2r7Ad91OBND7N2lr5iOZK4kMRok4g=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Lottie",
     "scheduledStartTime": "2024-04-19T21:15:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-19T21:15:25Z",
     "premiere": false
   },
   {
@@ -332,7 +320,7 @@
     "channelThumb": "https://yt3.ggpht.com/rJuMWEjmRiOqnhqo-Njw1VWunxkM7Ho0nZxNxVaa36z_PMile2XKRg-Yx3Ln4snqEAJq62zwNQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Isabelle",
     "scheduledStartTime": "2024-04-19T21:15:30Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-19T21:15:18Z",
     "premiere": false
   },
   {
@@ -2794,19 +2782,6 @@
     "premiere": false
   },
   {
-    "id": "lafFY1D91mU",
-    "vidUrl": "https://youtu.be/lafFY1D91mU",
-    "vidTitle": "\u3010Assassin's Creed IV Black Flag\u3011SUPWISEEEEE ARRRRRR",
-    "channelId": "@ashadawn",
-    "channelName": "Asha Dawn Ch. Legion",
-    "channelThumb": "https://yt3.ggpht.com/kbvof6XayuNhDx21no3Y819T1r_fPw_8OvizzR8hJ3LkpvUYbw6vkbHlifJoBVPnW0TX_J3sq04=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Asha",
-    "scheduledStartTime": "2024-04-19T17:38:29Z",
-    "actualStartTime": "2024-04-19T17:42:08Z",
-    "premiere": false
-  },
-  {
     "id": "ggxGJ9-2YJw",
     "vidUrl": "https://youtu.be/ggxGJ9-2YJw",
     "vidTitle": "\u3010WATCHALONG\u3011Globie Watchalong - Let's Welcome @KiriKilovolt #sponsored",
@@ -2856,6 +2831,19 @@
     "shortName": "Ember",
     "scheduledStartTime": "2024-04-19T19:00:00Z",
     "actualStartTime": "2024-04-19T19:01:36Z",
+    "premiere": false
+  },
+  {
+    "id": "C83QXYPmkmM",
+    "vidUrl": "https://youtu.be/C83QXYPmkmM",
+    "vidTitle": "good sheepy morning!",
+    "channelId": "@chikafujilisa",
+    "channelName": "Lisa Ch. \u8fd1\u85e4\u30ea\u30b5 ",
+    "channelThumb": "https://yt3.ggpht.com/y7lP--RoPjQ1TCGfkcbXp2HPZSRlq-JPN6iy0hxbyUUzbt6bvwxAs8qRgD8EXUemZVBBV9RoEQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Lisa",
+    "scheduledStartTime": "2024-04-19T19:15:00Z",
+    "actualStartTime": "2024-04-19T19:30:57Z",
     "premiere": false
   },
   {
