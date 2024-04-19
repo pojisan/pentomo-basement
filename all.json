@@ -24,18 +24,6 @@
     "premiere": false
   },
   {
-    "id": "2skv9Mv0-m0",
-    "vidUrl": "https://youtu.be/2skv9Mv0-m0",
-    "vidTitle": "\u3010Soma\u3011Hanging out in PATHOS-II PT. 2\u3010NIJISANJI EN | Victoria Brightshield\u3011",
-    "channelId": "@victoriabrightshield",
-    "channelName": "Victoria Brightshield \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/m5YHCdJM_v2kid17kOVWr59fddjYgfMfd25GEuGGXQaV_57y7l7mD2sV62TmWKIXeD1sVuy4Rek=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Vivi",
-    "scheduledStartTime": "2024-04-19T03:00:00Z",
-    "actualStartTime": "2024-04-19T03:11:04Z",
-    "premiere": false
-  },
-  {
     "id": "xijQd7c4_gc",
     "vidUrl": "https://youtu.be/xijQd7c4_gc",
     "vidTitle": "\u3016Project Zomboid\u3017Once again we thrive (for real) w/@AuriLunami \u3016Cyon \u2765 V&U\u3017",
@@ -2719,6 +2707,19 @@
     "premiere": false
   },
   {
+    "id": "2skv9Mv0-m0",
+    "vidUrl": "https://youtu.be/2skv9Mv0-m0",
+    "vidTitle": "\u3010Soma\u3011Hanging out in PATHOS-II PT. 2\u3010NIJISANJI EN | Victoria Brightshield\u3011",
+    "channelId": "@victoriabrightshield",
+    "channelName": "Victoria Brightshield \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/m5YHCdJM_v2kid17kOVWr59fddjYgfMfd25GEuGGXQaV_57y7l7mD2sV62TmWKIXeD1sVuy4Rek=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Vivi",
+    "scheduledStartTime": "2024-04-19T03:00:00Z",
+    "actualStartTime": "2024-04-19T03:11:04Z",
+    "premiere": false
+  },
+  {
     "id": "-lxAA-hMSWY",
     "vidUrl": "https://youtu.be/-lxAA-hMSWY",
     "vidTitle": "hand-holding art.. oughhhh..",
@@ -2935,6 +2936,19 @@
     "channelThumb": "https://yt3.ggpht.com/gzyLsLIzbobRRYT_QkfMKISqY-RpzLfOowj5T61s2UDXRoHEespSbXR68cikE96P2RKpsWOeM1Q=s88-c-k-c0x00ffffff-no-rj",
     "graveyard": true,
     "shortName": "Alicja",
+    "scheduledStartTime": "",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "vMgioJGLoTw",
+    "vidUrl": "https://youtu.be/vMgioJGLoTw",
+    "vidTitle": "\ud83d\udd34 Vertical Stream (Full in Pinned)",
+    "channelId": "@kou_mariya",
+    "channelName": "Kou Mariya Ch.\u3010V4Mirai\u3011",
+    "channelThumb": "https://yt3.ggpht.com/b6s7s0_W759AaVDUhJlnTvAwMW5iltLHlFyoLweiPvJCmYElo79SdBVOqzIELuSTAUMzHffg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Mariya",
     "scheduledStartTime": "",
     "actualStartTime": "",
     "premiere": false
