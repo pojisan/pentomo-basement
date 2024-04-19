@@ -36,18 +36,6 @@
     "premiere": false
   },
   {
-    "id": "JZDeqKBctlc",
-    "vidUrl": "https://youtu.be/JZDeqKBctlc",
-    "vidTitle": "\u3010GENSHIN IMPACT\u3011SECRETS UNLOCKED.. WE FREE NOW??",
-    "channelId": "@nyanheras",
-    "channelName": "Nyanami Ruru & Rumi Ch.",
-    "channelThumb": "https://yt3.ggpht.com/e-csUdgwEj5h-rQ2vwXX-EVOeXk3BZRlaqnHS7-Mnd1ZC9icqo02aHhGvl_f50l_UX1bPsJgwFs=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Nyanheras",
-    "scheduledStartTime": "2024-04-19T16:00:00Z",
-    "actualStartTime": "2024-04-19T16:13:44Z",
-    "premiere": false
-  },
-  {
     "id": "rVdLzmUCuN4",
     "vidUrl": "https://youtu.be/rVdLzmUCuN4",
     "vidTitle": "Let's design KEVKIN!!! Yes...That's you guys #yewdraw #aylive",
@@ -2926,6 +2914,19 @@
     "shortName": "Vance",
     "scheduledStartTime": "2024-04-19T15:55:36Z",
     "actualStartTime": "2024-04-19T15:55:51Z",
+    "premiere": false
+  },
+  {
+    "id": "JZDeqKBctlc",
+    "vidUrl": "https://youtu.be/JZDeqKBctlc",
+    "vidTitle": "\u3010GENSHIN IMPACT\u3011SECRETS UNLOCKED.. WE FREE NOW??",
+    "channelId": "@nyanheras",
+    "channelName": "Nyanami Ruru & Rumi Ch.",
+    "channelThumb": "https://yt3.ggpht.com/e-csUdgwEj5h-rQ2vwXX-EVOeXk3BZRlaqnHS7-Mnd1ZC9icqo02aHhGvl_f50l_UX1bPsJgwFs=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Nyanheras",
+    "scheduledStartTime": "2024-04-19T16:00:00Z",
+    "actualStartTime": "2024-04-19T16:13:44Z",
     "premiere": false
   },
   {
