@@ -96,30 +96,6 @@
     "premiere": false
   },
   {
-    "id": "-BwqJzc0IE4",
-    "vidUrl": "https://youtu.be/-BwqJzc0IE4",
-    "vidTitle": "\u3010ASMR\u3011Anime nurse is here to treat you today",
-    "channelId": "@arialyuriko",
-    "channelName": "Arial Yuriko Ch. [VReverie]",
-    "channelThumb": "https://yt3.ggpht.com/IU2v8OvK9p2KPE6Udi-AxcHpDdRmZ8ixovTLb3dDzCahVLSuIc4iKBKNd5LE6lFvlgUfTIHi=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Arial",
-    "scheduledStartTime": "2024-04-19T19:00:00Z",
-    "actualStartTime": "2024-04-19T18:56:05Z",
-    "premiere": false
-  },
-  {
-    "id": "MTO12msFWx8",
-    "vidUrl": "https://youtu.be/MTO12msFWx8",
-    "vidTitle": "\u3010VERTICAL KARAOKE | \u6b4c\u67a0\u3011Genre mix-up!",
-    "channelId": "@kiliakurayami",
-    "channelName": "Kilia Kurayami Ch. \u3010EIEN Project\u3011",
-    "channelThumb": "https://yt3.ggpht.com/lfSudxn7RE0Izwj8K2GriTxOebvU7pOlFL6lRkZQfYUex3cksfnEasQtUcPcfXkEJaXYVwxAfQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Kilia",
-    "scheduledStartTime": "2024-04-19T19:00:00Z",
-    "actualStartTime": "2024-04-19T18:59:38Z",
-    "premiere": false
-  },
-  {
     "id": "rtOfIgO7gcY",
     "vidUrl": "https://youtu.be/rtOfIgO7gcY",
     "vidTitle": "\u3010KOKONOE KOKORO\u3011Dating a Bug for...science.\u3010Dr.NOVA(e) | V4Mirai | ENVtuber\u3011",
@@ -1351,6 +1327,18 @@
     "channelName": "Mivi Aivori Ch. V&U",
     "channelThumb": "https://yt3.ggpht.com/b0A2emwbDeLrLg3NZ5zlJf0AjwnxRx8dKsbah9w_DAOW5W-nhvK_JmA87yYFwYN6KeB4dOzH=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Mivi",
+    "scheduledStartTime": "2024-04-20T20:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "zRH19dkEMWU",
+    "vidUrl": "https://youtu.be/zRH19dkEMWU",
+    "vidTitle": "Mario Party Superstars | Celebrating 6 Months with Cieste!",
+    "channelId": "@buoyafuru",
+    "channelName": "Buoy Afuru | CIESTE",
+    "channelThumb": "https://yt3.ggpht.com/H_892LDXqcHxCpLlCzwFJ2ZvFUNxe0budpC4ZJAquXYKViznzWrgDf28fFWKZYKjYMi-3t_9aio=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Buoy",
     "scheduledStartTime": "2024-04-20T20:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -3004,6 +2992,32 @@
     "shortName": "Umi",
     "scheduledStartTime": "2024-04-19T18:00:00Z",
     "actualStartTime": "2024-04-19T17:55:14Z",
+    "premiere": false
+  },
+  {
+    "id": "-BwqJzc0IE4",
+    "vidUrl": "https://youtu.be/-BwqJzc0IE4",
+    "vidTitle": "\u3010ASMR\u3011Anime nurse is here to treat you today",
+    "channelId": "@arialyuriko",
+    "channelName": "Arial Yuriko Ch. [VReverie]",
+    "channelThumb": "https://yt3.ggpht.com/IU2v8OvK9p2KPE6Udi-AxcHpDdRmZ8ixovTLb3dDzCahVLSuIc4iKBKNd5LE6lFvlgUfTIHi=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Arial",
+    "scheduledStartTime": "2024-04-19T19:00:00Z",
+    "actualStartTime": "2024-04-19T18:56:05Z",
+    "premiere": false
+  },
+  {
+    "id": "MTO12msFWx8",
+    "vidUrl": "https://youtu.be/MTO12msFWx8",
+    "vidTitle": "\u3010VERTICAL KARAOKE | \u6b4c\u67a0\u3011Genre mix-up!",
+    "channelId": "@kiliakurayami",
+    "channelName": "Kilia Kurayami Ch. \u3010EIEN Project\u3011",
+    "channelThumb": "https://yt3.ggpht.com/lfSudxn7RE0Izwj8K2GriTxOebvU7pOlFL6lRkZQfYUex3cksfnEasQtUcPcfXkEJaXYVwxAfQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Kilia",
+    "scheduledStartTime": "2024-04-19T19:00:00Z",
+    "actualStartTime": "2024-04-19T18:59:38Z",
     "premiere": false
   }
 ]
