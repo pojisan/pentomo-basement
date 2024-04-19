@@ -72,18 +72,6 @@
     "premiere": false
   },
   {
-    "id": "jPg1aoG0DQg",
-    "vidUrl": "https://youtu.be/jPg1aoG0DQg",
-    "vidTitle": "minecraft",
-    "channelId": "@rakunpoko",
-    "channelName": "Poko Rakun Ch. idol-EN",
-    "channelThumb": "https://yt3.ggpht.com/ma1Az7kp5ye3ZWtR9IGoFcWEVQ6ReN8VugO_PGP6qokwj430zQKuR9Uo_L5N3gCVTWsH_vQT1w=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Poko",
-    "scheduledStartTime": "2024-04-19T02:50:00Z",
-    "actualStartTime": "2024-04-19T02:49:20Z",
-    "premiere": false
-  },
-  {
     "id": "cscwMTKVf90",
     "vidUrl": "https://youtu.be/cscwMTKVf90",
     "vidTitle": "\u3010 Minecraft \u3011THE QUEST CONTINUES! Adventuring for a cherry blossom biome! \ud83c\udf38\u26cf\ufe0f",
@@ -188,6 +176,18 @@
     "channelThumb": "https://yt3.ggpht.com/Pc-k4wd6VsvLoZPUmql6OForU2LDiXTu3TeGZASvNqkD4OW-zEUxuNatHZQLRMUrt4IhcE0rtg=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Roro",
     "scheduledStartTime": "2024-04-19T05:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "IOZSFfZNcwU",
+    "vidUrl": "https://youtu.be/IOZSFfZNcwU",
+    "vidTitle": "eepy zatsu\u3010\u96d1\u8ac7\u3011\u3010\u6b4c\u7f8e\u9cf4\u30af\u30e9\u30e9 / Phase Connect\u3011",
+    "channelId": "@kaminariclara",
+    "channelName": "Clara Ch. \u6b4c\u7f8e\u9cf4\u30af\u30e9\u30e9 \u3010Phase Connect\u3011",
+    "channelThumb": "https://yt3.ggpht.com/Ds02-91FQsIFHxhISPbW0dvCSyrXDEmKyRHIn04c1vRKMXMNobf9Ny4UszPfbWXyNPze7gVqTQ=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Clara",
+    "scheduledStartTime": "2024-04-19T06:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -1668,6 +1668,18 @@
     "premiere": false
   },
   {
+    "id": "jkjGDfb7na4",
+    "vidUrl": "https://youtu.be/jkjGDfb7na4",
+    "vidTitle": "V&U COMPANY COLLAB! GOOSE GOOSE DUCK!",
+    "channelId": "@echovnu",
+    "channelName": "Echo Lyne Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/GXeZ1UMgOyI-peaWarT6IrEjhqilp90c7VnxBbAvFx2oy-wKlJMJnBR1m3oi2pwqryx8OwSk5A=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Echo Lyne",
+    "scheduledStartTime": "2024-04-21T03:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "qMrxzL4u8oQ",
     "vidUrl": "https://youtu.be/qMrxzL4u8oQ",
     "vidTitle": "Last Stream Before My Hiatus (But It's Not Goodbye!)",
@@ -2820,19 +2832,6 @@
     "premiere": false
   },
   {
-    "id": "yXHDUl_P84g",
-    "vidUrl": "https://youtu.be/yXHDUl_P84g",
-    "vidTitle": "\u3010Balatro\u3011Big number go UP\u3010Yurikago Kokone | V&U\u3011",
-    "channelId": "@yurikagokokone",
-    "channelName": "Kokone Yurikago Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/xwSS6tbTBzvBuI0LLjA-0MQ77ZacslZB2TKN7lXcknwNBswpyMTjp9K4vLTR5B2jH4upTIAT5MI=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Kokone",
-    "scheduledStartTime": "2024-04-19T00:00:00Z",
-    "actualStartTime": "2024-04-18T23:58:30Z",
-    "premiere": false
-  },
-  {
     "id": "sIZuLDRz0qM",
     "vidUrl": "https://youtu.be/sIZuLDRz0qM",
     "vidTitle": "ITS TIME.....",
@@ -2885,29 +2884,16 @@
     "premiere": false
   },
   {
-    "id": "h8ACe6A5vKY",
-    "vidUrl": "https://youtu.be/h8ACe6A5vKY",
-    "vidTitle": "Vtuber Gets Construction Degree (?) ! \u3010 BUILDER SIMULATOR \u3011",
-    "channelId": "@skyeshinryu",
-    "channelName": "Skye Shinryu Ch. \u3010EIEN Project\u3011",
-    "channelThumb": "https://yt3.ggpht.com/_n-f4Knr9kOn9-luPbvdbJNu8KSjDVcAkME6Lq4Z4O7YX4-hiU0CN_oUeHqkapbOy3mMDVFFCQ=s88-c-k-c0x00ffffff-no-rj",
+    "id": "jPg1aoG0DQg",
+    "vidUrl": "https://youtu.be/jPg1aoG0DQg",
+    "vidTitle": "minecraft",
+    "channelId": "@rakunpoko",
+    "channelName": "Poko Rakun Ch. idol-EN",
+    "channelThumb": "https://yt3.ggpht.com/ma1Az7kp5ye3ZWtR9IGoFcWEVQ6ReN8VugO_PGP6qokwj430zQKuR9Uo_L5N3gCVTWsH_vQT1w=s88-c-k-c0x00ffffff-no-rj",
     "graveyard": true,
-    "shortName": "Skye",
-    "scheduledStartTime": "2024-04-19T03:00:00Z",
-    "actualStartTime": "2024-04-19T03:00:56Z",
-    "premiere": false
-  },
-  {
-    "id": "IOZSFfZNcwU",
-    "vidUrl": "https://youtu.be/IOZSFfZNcwU",
-    "vidTitle": "\u3053\u306e\u30b2\u30fc\u30e0\u9577\u3044\u3088\u304a\u304a\u304a\u304a\u304a\u304a\uff01\uff01\uff01\uff01\uff01\uff01\u3010\u30c8\u30a5\u30fc\u30e0\u30ec\u30a4\u30c0\u30fc2\u3011\u3010\u6b4c\u7f8e\u9cf4\u30af\u30e9\u30e9 / Phase Connect\u3011",
-    "channelId": "@kaminariclara",
-    "channelName": "Clara Ch. \u6b4c\u7f8e\u9cf4\u30af\u30e9\u30e9 \u3010Phase Connect\u3011",
-    "channelThumb": "https://yt3.ggpht.com/Ds02-91FQsIFHxhISPbW0dvCSyrXDEmKyRHIn04c1vRKMXMNobf9Ny4UszPfbWXyNPze7gVqTQ=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Clara",
-    "scheduledStartTime": "2024-04-19T04:00:00Z",
-    "actualStartTime": "",
+    "shortName": "Poko",
+    "scheduledStartTime": "2024-04-19T02:50:00Z",
+    "actualStartTime": "2024-04-19T02:49:20Z",
     "premiere": false
   },
   {
