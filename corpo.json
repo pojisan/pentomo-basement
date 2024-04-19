@@ -163,8 +163,20 @@
     "channelName": "Vance Van Creed ch.",
     "channelThumb": "https://yt3.ggpht.com/fMH-jV4av9c83joWiiU7MKY5MB_hH-1-o1Mnm1UZE6MHeG7Byea8PRBU9x0ONYgn_VTx9qfAtFI=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Vance",
+    "scheduledStartTime": "2024-04-19T15:55:36Z",
+    "actualStartTime": "2024-04-19T15:55:51Z",
+    "premiere": false
+  },
+  {
+    "id": "sTTYXOuYcrM",
+    "vidUrl": "https://youtu.be/sTTYXOuYcrM",
+    "vidTitle": "\u3010That's Not My Neighbor\u3011#NotMyMilkman\u3010Komiyama Ambros | globie\u3011",
+    "channelId": "@komiyamaambros",
+    "channelName": "Komiyama Ambros ch. \u72d0\u8033\u5c71\u30a2\u30f3\u30d6\u30ed\u30fc\u30ba\u3010globie\u3011",
+    "channelThumb": "https://yt3.ggpht.com/rAO0mwPqTC6evPt5c-RCUPxnZr6IYgeO6RJj9rnY-Bkb7lw4rFmUGr3kFTX7rqO1TqCzQpGvXw=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Ambros",
     "scheduledStartTime": "2024-04-19T16:00:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-19T15:55:49Z",
     "premiere": false
   },
   {
@@ -187,18 +199,6 @@
     "channelName": "Ayla Yew \u3010NexStage Project\u3011",
     "channelThumb": "https://yt3.ggpht.com/j9b3F_6kPAJQns4jhE4FQN1LCO6mbP6BY2ixZTLHk2r2F0KZsqQ9xBjWI11d9RmeeRsFb7KLO04=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Ayla",
-    "scheduledStartTime": "2024-04-19T16:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "sTTYXOuYcrM",
-    "vidUrl": "https://youtu.be/sTTYXOuYcrM",
-    "vidTitle": "\u3010That's Not My Neighbor\u3011#NotMyMilkman\u3010Komiyama Ambros | globie\u3011",
-    "channelId": "@komiyamaambros",
-    "channelName": "Komiyama Ambros ch. \u72d0\u8033\u5c71\u30a2\u30f3\u30d6\u30ed\u30fc\u30ba\u3010globie\u3011",
-    "channelThumb": "https://yt3.ggpht.com/rAO0mwPqTC6evPt5c-RCUPxnZr6IYgeO6RJj9rnY-Bkb7lw4rFmUGr3kFTX7rqO1TqCzQpGvXw=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Ambros",
     "scheduledStartTime": "2024-04-19T16:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -799,6 +799,18 @@
     "channelName": "Zeli Zuimu Ch. V&U",
     "channelThumb": "https://yt3.ggpht.com/x-Jy2Z-kGAif3VDun_IhsnyYfzF5aWhNbwG6fcms85aKwauMlcr0dwA2onUFirEFs2BD8YFwjWg=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Zeli",
+    "scheduledStartTime": "2024-04-20T00:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "ajjZnfdGbX0",
+    "vidUrl": "https://youtu.be/ajjZnfdGbX0",
+    "vidTitle": "The purple, The Doggo, The Neko and The Hag \u3010CONTENT WARNING\u3011",
+    "channelId": "@oumiyaemma",
+    "channelName": "Oumiya Emma / \u5927\u5bae\u30a8\u30de",
+    "channelThumb": "https://yt3.ggpht.com/UZ38UIPBURy_Tp5sVb5MmZo2zqO_1ZVtG-i2pIC94AZxqzIvcOYQMOEnU46DHMTLzHKqsL6x3A=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Emma",
     "scheduledStartTime": "2024-04-20T00:00:00Z",
     "actualStartTime": "",
     "premiere": false
