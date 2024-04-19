@@ -48,18 +48,6 @@
     "premiere": false
   },
   {
-    "id": "UMRMe5ignZE",
-    "vidUrl": "https://youtu.be/UMRMe5ignZE",
-    "vidTitle": "\u3010UNARCHIVED KARAOKE \u6b4c\u67a0\u3011What The Moom Doing #shorts",
-    "channelId": "@nanashimumei",
-    "channelName": "Nanashi Mumei Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/owZmjfnG_SGVmfkl3eS7Lv47pGvIr2SrS36imh6O8i0H3Wy41fYKD26U7wnyRB627fXoq0aQ0Q=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Mumei",
-    "scheduledStartTime": "2024-04-19T06:10:00Z",
-    "actualStartTime": "2024-04-19T06:20:05Z",
-    "premiere": false
-  },
-  {
     "id": "8IeBBSG-GSQ",
     "vidUrl": "https://youtu.be/8IeBBSG-GSQ",
     "vidTitle": "\u3010\u7387\u571f\u4e4b\u6ff1-\u5927\u4e09\u56fd\u5fd7\u3011VTuber\u6700\u5f37S1\u540c\u76df\u5bfe\u6297\u6226\u53c2\u6226\uff01\uff01\u3010VTuber/\u51db\u3005\u54b2\u3011",
@@ -1123,6 +1111,18 @@
     "channelName": "Aster Arcadia \u3010NIJISANJI EN\u3011",
     "channelThumb": "https://yt3.ggpht.com/PfyW7HnjCKF15WfzvFBLo_vx94y_tZw_jpnjku0GyvZnynSODh2E9aJ0Vi1mlc3R8sF_hXNl-g=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Aster",
+    "scheduledStartTime": "2024-04-20T02:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "dlPD8Dtb1TQ",
+    "vidUrl": "https://youtu.be/dlPD8Dtb1TQ",
+    "vidTitle": "\u3010MEMBERS ONLY\u3011Learning New Songs !! ~",
+    "channelId": "@nanashimumei",
+    "channelName": "Nanashi Mumei Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/owZmjfnG_SGVmfkl3eS7Lv47pGvIr2SrS36imh6O8i0H3Wy41fYKD26U7wnyRB627fXoq0aQ0Q=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Mumei",
     "scheduledStartTime": "2024-04-20T02:00:00Z",
     "actualStartTime": "",
     "premiere": false
