@@ -72,18 +72,6 @@
     "premiere": false
   },
   {
-    "id": "DQLKI68kXq4",
-    "vidUrl": "https://youtu.be/DQLKI68kXq4",
-    "vidTitle": "Bob Ross Paintalong",
-    "channelId": "@scarlettflameheart",
-    "channelName": "Scarlett Flameheart Ch. [VReverie]",
-    "channelThumb": "https://yt3.ggpht.com/dar6XCcZJ71OULB4saU0JmnVk7u0WYG4Ok4l5pzu6vB5FTXyPSoEQcjrRD7edSN0mPAdw8pQYQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Scarlett",
-    "scheduledStartTime": "2024-04-19T20:00:00Z",
-    "actualStartTime": "2024-04-19T19:56:13Z",
-    "premiere": false
-  },
-  {
     "id": "jbZ1qIstHlA",
     "vidUrl": "https://youtu.be/jbZ1qIstHlA",
     "vidTitle": "Art Stream\u2502Drawing A Design For My Vtuber!",
@@ -264,30 +252,6 @@
     "premiere": false
   },
   {
-    "id": "-8SbFh8T7w8",
-    "vidUrl": "https://youtu.be/-8SbFh8T7w8",
-    "vidTitle": "No Pain \u30ce\u30fc\u30da\u30a4\u30f3\u3010Sayu ver.\u3011",
-    "channelId": "@sayusincronisity",
-    "channelName": "Sayu Sincronisity Ch. VTuber \u771f\u9ed2",
-    "channelThumb": "https://yt3.ggpht.com/QpaHZ4GIC0ETsSFfr3KHJQna7rW_uJVUICNbfs58IDvZoMzGh_xaKiO9-ih6CuYn2dwsio0GwOw=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Sayu",
-    "scheduledStartTime": "2024-04-19T22:00:00Z",
-    "actualStartTime": "",
-    "premiere": true
-  },
-  {
-    "id": "1QyOIyF7I5A",
-    "vidUrl": "https://youtu.be/1QyOIyF7I5A",
-    "vidTitle": "[ Silent Breath ] Facing the horrors of this forest...",
-    "channelId": "@lorelailoch",
-    "channelName": "Lorelai Loch",
-    "channelThumb": "https://yt3.ggpht.com/0fin3lAUA63z6MwF3Kri4uJbuK56jnaCtMdAzAfbWATJlqF329l9ZuN1J0wlzRKBVcyOrU3bwo8=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Lorelai",
-    "scheduledStartTime": "2024-04-19T22:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "VE8P2ZLflCQ",
     "vidUrl": "https://youtu.be/VE8P2ZLflCQ",
     "vidTitle": "\u3010Meeta Osita | V&U\u3011I'm back from hiatus! E-Eh?! Streamelements?! Doodles?! Plans?!",
@@ -296,7 +260,19 @@
     "channelThumb": "https://yt3.ggpht.com/UziMF0GNdFxpzwVid72GzFtUE-WIlKxCpS3gFvopbgx8Oi7R1ZN2HqoPcKDXD3bYk2zarx0Vg18=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Meeta",
     "scheduledStartTime": "2024-04-19T22:00:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-19T21:58:32Z",
+    "premiere": false
+  },
+  {
+    "id": "-8SbFh8T7w8",
+    "vidUrl": "https://youtu.be/-8SbFh8T7w8",
+    "vidTitle": "No Pain \u30ce\u30fc\u30da\u30a4\u30f3\u3010Sayu ver.\u3011",
+    "channelId": "@sayusincronisity",
+    "channelName": "Sayu Sincronisity Ch. VTuber \u771f\u9ed2",
+    "channelThumb": "https://yt3.ggpht.com/QpaHZ4GIC0ETsSFfr3KHJQna7rW_uJVUICNbfs58IDvZoMzGh_xaKiO9-ih6CuYn2dwsio0GwOw=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Sayu",
+    "scheduledStartTime": "2024-04-19T22:00:00Z",
+    "actualStartTime": "2024-04-19T22:00:07Z",
     "premiere": false
   },
   {
@@ -308,7 +284,19 @@
     "channelThumb": "https://yt3.ggpht.com/WIy30MlmcCTxrEuKULkAdh8itCfT4Up5myJbpVHTkKbfKcgriF_qL6d3iJMD_mQfwb0B1JDT=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Uki",
     "scheduledStartTime": "2024-04-19T22:00:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-19T22:00:41Z",
+    "premiere": false
+  },
+  {
+    "id": "1QyOIyF7I5A",
+    "vidUrl": "https://youtu.be/1QyOIyF7I5A",
+    "vidTitle": "[ Silent Breath ] Facing the horrors of this forest...",
+    "channelId": "@lorelailoch",
+    "channelName": "Lorelai Loch",
+    "channelThumb": "https://yt3.ggpht.com/0fin3lAUA63z6MwF3Kri4uJbuK56jnaCtMdAzAfbWATJlqF329l9ZuN1J0wlzRKBVcyOrU3bwo8=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Lorelai",
+    "scheduledStartTime": "2024-04-19T22:00:00Z",
+    "actualStartTime": "2024-04-19T22:02:22Z",
     "premiere": false
   },
   {
@@ -667,18 +655,6 @@
     "channelName": "Navina Nova Ch. \u30ca\u30d3\u30ca\u30fb\u30ce\u30d0\u3010kawaii\u3011",
     "channelThumb": "https://yt3.ggpht.com/sCQGR1Y8wiQjjms1_B6cyWhgkxRccJRKEUH3ayCYmS-BIYzogqpeyUDP2j-_mC3gvm_8_6bp4g=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Nano",
-    "scheduledStartTime": "2024-04-20T01:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "cFipCg3bm9I",
-    "vidUrl": "https://youtu.be/cFipCg3bm9I",
-    "vidTitle": "TOMOMITIZATION\u3010V&U | GEN 5\u3011",
-    "channelId": "@tomomivnu",
-    "channelName": "Tomomi Toraya Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/VVorqIxpJu58JyAADFOQB604PDjYiMgpvkJD_NfvJ3uXGe-J8mLJTjYB3CzmlWokVy_nBmDVKQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Tomomi",
     "scheduledStartTime": "2024-04-20T01:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2004,18 +1980,6 @@
     "premiere": false
   },
   {
-    "id": "UnOXj2I8iqs",
-    "vidUrl": "https://youtu.be/UnOXj2I8iqs",
-    "vidTitle": "I'M THE ONLY ENFORCER 'ROUND THESE PARTS\u3010HYPNOSPACE OUTLAW\u3011\u3010V&U | GEN 5\u3011",
-    "channelId": "@tomomivnu",
-    "channelName": "Tomomi Toraya Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/VVorqIxpJu58JyAADFOQB604PDjYiMgpvkJD_NfvJ3uXGe-J8mLJTjYB3CzmlWokVy_nBmDVKQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Tomomi",
-    "scheduledStartTime": "2024-04-22T01:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "WUgrMuFm0-Q",
     "vidUrl": "https://youtu.be/WUgrMuFm0-Q",
     "vidTitle": "\u3010\u6b4c\u67a0\u3011Announcement & Karaoke\u3010Kou Mariya | V4Mirai | ENVtuber\u3011#shorts #shortsfeed",
@@ -2023,6 +1987,18 @@
     "channelName": "Kou Mariya Ch.\u3010V4Mirai\u3011",
     "channelThumb": "https://yt3.ggpht.com/b6s7s0_W759AaVDUhJlnTvAwMW5iltLHlFyoLweiPvJCmYElo79SdBVOqzIELuSTAUMzHffg=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Mariya",
+    "scheduledStartTime": "2024-04-22T01:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "cFipCg3bm9I",
+    "vidUrl": "https://youtu.be/cFipCg3bm9I",
+    "vidTitle": "TOMOMITIZATION\u3010V&U | GEN 5\u3011",
+    "channelId": "@tomomivnu",
+    "channelName": "Tomomi Toraya Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/VVorqIxpJu58JyAADFOQB604PDjYiMgpvkJD_NfvJ3uXGe-J8mLJTjYB3CzmlWokVy_nBmDVKQ=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Tomomi",
     "scheduledStartTime": "2024-04-22T01:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2240,6 +2216,18 @@
     "channelThumb": "https://yt3.ggpht.com/dnyzDEaJzR5qZiWFp73wK_f91hlDHxiORtJ6jwu9nzWcLr_vvkHf9IQc2PGhpiBwKWMF5ns2xg=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Cerenity",
     "scheduledStartTime": "2024-04-22T19:20:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "UnOXj2I8iqs",
+    "vidUrl": "https://youtu.be/UnOXj2I8iqs",
+    "vidTitle": "I'M THE ONLY ENFORCER 'ROUND THESE PARTS\u3010HYPNOSPACE OUTLAW\u3011\u3010V&U | GEN 5\u3011",
+    "channelId": "@tomomivnu",
+    "channelName": "Tomomi Toraya Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/VVorqIxpJu58JyAADFOQB604PDjYiMgpvkJD_NfvJ3uXGe-J8mLJTjYB3CzmlWokVy_nBmDVKQ=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Tomomi",
+    "scheduledStartTime": "2024-04-23T01:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -2749,19 +2737,6 @@
     "premiere": false
   },
   {
-    "id": "rtOfIgO7gcY",
-    "vidUrl": "https://youtu.be/rtOfIgO7gcY",
-    "vidTitle": "\u3010KOKONOE KOKORO\u3011Dating a Bug for...science.\u3010Dr.NOVA(e) | V4Mirai | ENVtuber\u3011",
-    "channelId": "@drnovae",
-    "channelName": "Dr.NOVA(e) Ch.\u3010V4Mirai\u3011",
-    "channelThumb": "https://yt3.ggpht.com/Q5uPSXLX-UaT7iQ1VRWbehhySRrtvEcWEA-ey6HfpVmHlZSz5zUrlC9g5UQuNfsgO5UOjJfI_Q=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Novae",
-    "scheduledStartTime": "2024-04-19T19:00:00Z",
-    "actualStartTime": "2024-04-19T19:00:08Z",
-    "premiere": false
-  },
-  {
     "id": "jGhH7wHCgBw",
     "vidUrl": "https://youtu.be/jGhH7wHCgBw",
     "vidTitle": "Help",
@@ -2775,16 +2750,16 @@
     "premiere": false
   },
   {
-    "id": "tmiIr7wstuY",
-    "vidUrl": "https://youtu.be/tmiIr7wstuY",
-    "vidTitle": "fast fingers, slow brain",
-    "channelId": "@sayasairroxs",
-    "channelName": "Saya Ch. \u30b5\u30e4\u30fb\u30b5\u30a4\u30ed\u30af\u30b5\u30b9 \u3010Phase Connect\u3011",
-    "channelThumb": "https://yt3.ggpht.com/Sk0YT3dR5xgecNjohKRwTe9mVZsFXMjnhkbbI6JxrnpPN-p-Aw_CAETRK8V9FzP4sFlMLBNTRw=s88-c-k-c0x00ffffff-no-rj",
+    "id": "DQLKI68kXq4",
+    "vidUrl": "https://youtu.be/DQLKI68kXq4",
+    "vidTitle": "Bob Ross Paintalong",
+    "channelId": "@scarlettflameheart",
+    "channelName": "Scarlett Flameheart Ch. [VReverie]",
+    "channelThumb": "https://yt3.ggpht.com/dar6XCcZJ71OULB4saU0JmnVk7u0WYG4Ok4l5pzu6vB5FTXyPSoEQcjrRD7edSN0mPAdw8pQYQ=s88-c-k-c0x00ffffff-no-rj",
     "graveyard": true,
-    "shortName": "Saya",
+    "shortName": "Scarlett",
     "scheduledStartTime": "2024-04-19T20:00:00Z",
-    "actualStartTime": "2024-04-19T19:57:47Z",
+    "actualStartTime": "2024-04-19T19:56:13Z",
     "premiere": false
   },
   {
