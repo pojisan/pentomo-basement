@@ -240,18 +240,6 @@
     "premiere": false
   },
   {
-    "id": "se45K-99rw8",
-    "vidUrl": "https://youtu.be/se45K-99rw8",
-    "vidTitle": "\u3010ASMR?\u3011We do some farting\ud83d\ude08",
-    "channelId": "@lutoaraka",
-    "channelName": "Luto Araka / \u65b0\u706b\u308b\u3068",
-    "channelThumb": "https://yt3.ggpht.com/UZmWl3fIe_v7qhM55yXH8edIqTpU79srADtXWiZUDlSBV-HW5JvlB7af06sfg2FC2tR6YF8pEw=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Luto",
-    "scheduledStartTime": "2024-04-19T01:00:00Z",
-    "actualStartTime": "2024-04-19T00:59:59Z",
-    "premiere": false
-  },
-  {
     "id": "JWexvj547cw",
     "vidUrl": "https://youtu.be/JWexvj547cw",
     "vidTitle": "\u3010Windows XP Games\u3011Throwback Thursday with some CLASSICS",
@@ -512,6 +500,18 @@
     "channelThumb": "https://yt3.ggpht.com/XWFo-WwtDhyl38I7E6RMNNpfKq28um2HF1UZVx2gvEl3_wlbtX9oRoE_fGIwtWyUetQZwEL8=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Blaise",
     "scheduledStartTime": "2024-04-19T03:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "5RtN-HoS2Q8",
+    "vidUrl": "https://youtu.be/5RtN-HoS2Q8",
+    "vidTitle": "\u3010Tales of Arise\u3011 I will avenge them and you shall be punished, Almeidrea",
+    "channelId": "@kaylexskullcastor",
+    "channelName": "Kaylex Skullcastor Ch. Legion",
+    "channelThumb": "https://yt3.ggpht.com/yBYtwbzSuAJeF6wFyn8SsRj0SltRG3AwX05tcUO39OrcF4G9Bt5HPbuM5dKW56XfI8OLFWyQ=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Kaylex",
+    "scheduledStartTime": "2024-04-19T03:30:32Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -3032,6 +3032,19 @@
     "shortName": "Nia",
     "scheduledStartTime": "2024-04-18T22:00:00Z",
     "actualStartTime": "2024-04-18T22:04:37Z",
+    "premiere": false
+  },
+  {
+    "id": "se45K-99rw8",
+    "vidUrl": "https://youtu.be/se45K-99rw8",
+    "vidTitle": "\u3010ASMR?\u3011We do some farting\ud83d\ude08",
+    "channelId": "@lutoaraka",
+    "channelName": "Luto Araka / \u65b0\u706b\u308b\u3068",
+    "channelThumb": "https://yt3.ggpht.com/UZmWl3fIe_v7qhM55yXH8edIqTpU79srADtXWiZUDlSBV-HW5JvlB7af06sfg2FC2tR6YF8pEw=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Luto",
+    "scheduledStartTime": "2024-04-19T01:00:00Z",
+    "actualStartTime": "2024-04-19T00:59:59Z",
     "premiere": false
   },
   {
