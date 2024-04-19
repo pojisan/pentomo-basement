@@ -60,18 +60,6 @@
     "premiere": false
   },
   {
-    "id": "gETSYzWTOOs",
-    "vidUrl": "https://youtu.be/gETSYzWTOOs",
-    "vidTitle": "Shower time zatsu | BATHTUB STREAM",
-    "channelId": "@hiranokokoro",
-    "channelName": "Hirano Kokoro \u300c\u308d\u308d\u300d",
-    "channelThumb": "https://yt3.ggpht.com/Pc-k4wd6VsvLoZPUmql6OForU2LDiXTu3TeGZASvNqkD4OW-zEUxuNatHZQLRMUrt4IhcE0rtg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Roro",
-    "scheduledStartTime": "2024-04-19T07:15:00Z",
-    "actualStartTime": "2024-04-19T06:21:09Z",
-    "premiere": false
-  },
-  {
     "id": "8IeBBSG-GSQ",
     "vidUrl": "https://youtu.be/8IeBBSG-GSQ",
     "vidTitle": "\u3010\u7387\u571f\u4e4b\u6ff1-\u5927\u4e09\u56fd\u5fd7\u3011VTuber\u6700\u5f37S1\u540c\u76df\u5bfe\u6297\u6226\u53c2\u6226\uff01\uff01\u3010VTuber/\u51db\u3005\u54b2\u3011",
@@ -2717,6 +2705,19 @@
     "shortName": "Clara",
     "scheduledStartTime": "2024-04-19T06:00:00Z",
     "actualStartTime": "2024-04-19T06:01:31Z",
+    "premiere": false
+  },
+  {
+    "id": "gETSYzWTOOs",
+    "vidUrl": "https://youtu.be/gETSYzWTOOs",
+    "vidTitle": "Shower time zatsu | BATHTUB STREAM",
+    "channelId": "@hiranokokoro",
+    "channelName": "Hirano Kokoro \u300c\u308d\u308d\u300d",
+    "channelThumb": "https://yt3.ggpht.com/Pc-k4wd6VsvLoZPUmql6OForU2LDiXTu3TeGZASvNqkD4OW-zEUxuNatHZQLRMUrt4IhcE0rtg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Roro",
+    "scheduledStartTime": "2024-04-19T07:15:00Z",
+    "actualStartTime": "2024-04-19T06:21:09Z",
     "premiere": false
   },
   {
