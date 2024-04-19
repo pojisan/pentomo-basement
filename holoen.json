@@ -1,17 +1,5 @@
 [
   {
-    "id": "KtidwW9eIYw",
-    "vidUrl": "https://youtu.be/KtidwW9eIYw",
-    "vidTitle": "\u226a VCR RUST \u226b ADVENTURES OF A RAT WITH A GUN #3",
-    "channelId": "@hakosbaelz",
-    "channelName": "Hakos Baelz Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/SSZxkgjfV0O05zq1bBLOI0PszOCoxuPrANQ0Ysngsd0t81mnkwzEgIW2ypSIQJLn8swR14zLJQ=s88-c-k-c0x00ffffff-no-nd-rj",
-    "shortName": "Bae",
-    "scheduledStartTime": "2024-04-19T12:30:00Z",
-    "actualStartTime": "2024-04-19T12:31:01Z",
-    "premiere": false
-  },
-  {
     "id": "nsUfnrzFsic",
     "vidUrl": "https://youtu.be/nsUfnrzFsic",
     "vidTitle": "\u3010 VCR RUST \u3011\u65e5\u672c\u8a9e\u3000\u30a4\u30ba\u3000\u3080\u305a\u304b\u3057\u3044\uff01\uff01\u3000#6",
@@ -105,6 +93,19 @@
     "shortName": "FWMC",
     "scheduledStartTime": "2024-04-21T01:00:00Z",
     "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "KtidwW9eIYw",
+    "vidUrl": "https://youtu.be/KtidwW9eIYw",
+    "vidTitle": "\u226a VCR RUST \u226b ADVENTURES OF A RAT WITH A GUN #3",
+    "channelId": "@hakosbaelz",
+    "channelName": "Hakos Baelz Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/SSZxkgjfV0O05zq1bBLOI0PszOCoxuPrANQ0Ysngsd0t81mnkwzEgIW2ypSIQJLn8swR14zLJQ=s88-c-k-c0x00ffffff-no-nd-rj",
+    "graveyard": true,
+    "shortName": "Bae",
+    "scheduledStartTime": "2024-04-19T12:30:00Z",
+    "actualStartTime": "2024-04-19T12:31:01Z",
     "premiere": false
   }
 ]
