@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "C8dueer6F6M",
-    "vidUrl": "https://youtu.be/C8dueer6F6M",
-    "vidTitle": "\u3010Fortnite\u3011JETZT ZOCK ICH FORTNITE\u3010Komiyama Ambros | globie\u3011",
-    "channelId": "@komiyamaambros",
-    "channelName": "Komiyama Ambros ch. \u72d0\u8033\u5c71\u30a2\u30f3\u30d6\u30ed\u30fc\u30ba\u3010globie\u3011",
-    "channelThumb": "https://yt3.ggpht.com/rAO0mwPqTC6evPt5c-RCUPxnZr6IYgeO6RJj9rnY-Bkb7lw4rFmUGr3kFTX7rqO1TqCzQpGvXw=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Ambros",
-    "scheduledStartTime": "2024-04-19T10:00:00Z",
-    "actualStartTime": "2024-04-19T10:03:17Z",
-    "premiere": false
-  },
-  {
     "id": "jyT5zAWhlkE",
     "vidUrl": "https://youtu.be/jyT5zAWhlkE",
     "vidTitle": "I am the SMARTEST Manager EVER ;) - Supermarket Simulator #2\u3010MIKI HITSUGI | SPECIALITE\u3011#mik1tv",
@@ -72,18 +60,6 @@
     "premiere": false
   },
   {
-    "id": "KtidwW9eIYw",
-    "vidUrl": "https://youtu.be/KtidwW9eIYw",
-    "vidTitle": "\u226a VCR RUST \u226b ADVENTURES OF A RAT WITH A GUN #3",
-    "channelId": "@hakosbaelz",
-    "channelName": "Hakos Baelz Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/SSZxkgjfV0O05zq1bBLOI0PszOCoxuPrANQ0Ysngsd0t81mnkwzEgIW2ypSIQJLn8swR14zLJQ=s88-c-k-c0x00ffffff-no-nd-rj",
-    "shortName": "Bae",
-    "scheduledStartTime": "2024-04-19T12:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "KykiTtgTCgw",
     "vidUrl": "https://youtu.be/KykiTtgTCgw",
     "vidTitle": "The Fluffiest Chat of the Century\u3010ZATSUDAN\u3011",
@@ -104,6 +80,18 @@
     "channelThumb": "https://yt3.ggpht.com/GR1e8gQ-x7ehgpqAZmrwoJBI7ReZneaTR6PEQvgcW3kIabEvfTenrpiNRWZSH6QpysfZftKKrA=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Wilson",
     "scheduledStartTime": "2024-04-19T12:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "KtidwW9eIYw",
+    "vidUrl": "https://youtu.be/KtidwW9eIYw",
+    "vidTitle": "\u226a VCR RUST \u226b ADVENTURES OF A RAT WITH A GUN #3",
+    "channelId": "@hakosbaelz",
+    "channelName": "Hakos Baelz Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/SSZxkgjfV0O05zq1bBLOI0PszOCoxuPrANQ0Ysngsd0t81mnkwzEgIW2ypSIQJLn8swR14zLJQ=s88-c-k-c0x00ffffff-no-nd-rj",
+    "shortName": "Bae",
+    "scheduledStartTime": "2024-04-19T12:30:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -883,6 +871,18 @@
     "channelName": "Mivi Aivori Ch. V&U",
     "channelThumb": "https://yt3.ggpht.com/b0A2emwbDeLrLg3NZ5zlJf0AjwnxRx8dKsbah9w_DAOW5W-nhvK_JmA87yYFwYN6KeB4dOzH=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Mivi",
+    "scheduledStartTime": "2024-04-19T23:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "ZQkgm-59tzY",
+    "vidUrl": "https://youtu.be/ZQkgm-59tzY",
+    "vidTitle": "\u3010Monster Hunter World: Iceborne\u3011WE AT ICEBORNE",
+    "channelId": "@kosekibijou",
+    "channelName": "Koseki Bijou Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/75xH5tujXTVPHlQXask8_qTbOeyq0BY4hKxNfvgTrsuqhK_oActrFV197roYikUNZhzayfiLmg=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Biboo",
     "scheduledStartTime": "2024-04-19T23:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2727,6 +2727,19 @@
     "shortName": "Ririsya",
     "scheduledStartTime": "2024-04-19T09:00:00Z",
     "actualStartTime": "2024-04-19T09:01:17Z",
+    "premiere": false
+  },
+  {
+    "id": "C8dueer6F6M",
+    "vidUrl": "https://youtu.be/C8dueer6F6M",
+    "vidTitle": "\u3010Fortnite\u3011JETZT ZOCK ICH FORTNITE\u3010Komiyama Ambros | globie\u3011",
+    "channelId": "@komiyamaambros",
+    "channelName": "Komiyama Ambros ch. \u72d0\u8033\u5c71\u30a2\u30f3\u30d6\u30ed\u30fc\u30ba\u3010globie\u3011",
+    "channelThumb": "https://yt3.ggpht.com/rAO0mwPqTC6evPt5c-RCUPxnZr6IYgeO6RJj9rnY-Bkb7lw4rFmUGr3kFTX7rqO1TqCzQpGvXw=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Ambros",
+    "scheduledStartTime": "2024-04-19T10:00:00Z",
+    "actualStartTime": "2024-04-19T10:03:17Z",
     "premiere": false
   },
   {
