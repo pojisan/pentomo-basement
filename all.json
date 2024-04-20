@@ -120,18 +120,6 @@
     "premiere": false
   },
   {
-    "id": "VE8P2ZLflCQ",
-    "vidUrl": "https://youtu.be/VE8P2ZLflCQ",
-    "vidTitle": "\u3010Meeta Osita | V&U\u3011I'm back from hiatus! E-Eh?! Streamelements?! Doodles?! Plans?!",
-    "channelId": "@meetavnu",
-    "channelName": "Meeta Osita Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/UziMF0GNdFxpzwVid72GzFtUE-WIlKxCpS3gFvopbgx8Oi7R1ZN2HqoPcKDXD3bYk2zarx0Vg18=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Meeta",
-    "scheduledStartTime": "2024-04-19T22:00:00Z",
-    "actualStartTime": "2024-04-19T21:58:32Z",
-    "premiere": false
-  },
-  {
     "id": "naW6zCt_Xp4",
     "vidUrl": "https://youtu.be/naW6zCt_Xp4",
     "vidTitle": "\u3010HONKAI: STAR RAIL\u3011pulling for the twink, and finishing penacony\u3010NIJISANJI EN | Uki Violeta\u3011",
@@ -526,6 +514,18 @@
     "scheduledStartTime": "2024-04-20T01:00:00Z",
     "actualStartTime": "",
     "premiere": false
+  },
+  {
+    "id": "ypA_XpQWSn0",
+    "vidUrl": "https://youtu.be/ypA_XpQWSn0",
+    "vidTitle": "\u3010Cover\u3011(Not) A Devil / \u30c7\u30d3\u30eb\u3058\u3083\u306a\u3044\u3082\u3093 - Ouro Kronii & IRyS",
+    "channelId": "@ourokronii",
+    "channelName": "Ouro Kronii Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/flg7E5XnFWh-NhGZOydJ2QHMpFdkBGbou0OcYUiYjKVisv8UsY-FiPLrTtexXVUqPmIyDvgC=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Kronii",
+    "scheduledStartTime": "2024-04-20T01:30:00Z",
+    "actualStartTime": "",
+    "premiere": true
   },
   {
     "id": "T6K020z_-8Y",
@@ -2677,6 +2677,19 @@
     "premiere": false
   },
   {
+    "id": "VE8P2ZLflCQ",
+    "vidUrl": "https://youtu.be/VE8P2ZLflCQ",
+    "vidTitle": "\u3010Meeta Osita | V&U\u3011I'm back from hiatus! E-Eh?! Streamelements?! Doodles?! Plans?!",
+    "channelId": "@meetavnu",
+    "channelName": "Meeta Osita Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/UziMF0GNdFxpzwVid72GzFtUE-WIlKxCpS3gFvopbgx8Oi7R1ZN2HqoPcKDXD3bYk2zarx0Vg18=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Meeta",
+    "scheduledStartTime": "2024-04-19T22:00:00Z",
+    "actualStartTime": "2024-04-19T21:58:32Z",
+    "premiere": false
+  },
+  {
     "id": "1QyOIyF7I5A",
     "vidUrl": "https://youtu.be/1QyOIyF7I5A",
     "vidTitle": "[ Silent Breath ] Facing the horrors of this forest...",
@@ -2687,19 +2700,6 @@
     "shortName": "Lorelai",
     "scheduledStartTime": "2024-04-19T22:00:00Z",
     "actualStartTime": "2024-04-19T22:02:22Z",
-    "premiere": false
-  },
-  {
-    "id": "ZXbgJXKQRoc",
-    "vidUrl": "https://youtu.be/ZXbgJXKQRoc",
-    "vidTitle": "\u3010ASMR/3DIO\u3011 My Gift To You  \u3010BIRTHDAY CELEBRATION DAY 3\u3011",
-    "channelId": "@victoria-valerie",
-    "channelName": "Victoria Valerie\ud83d\udd76\ufe0f | Specialite EN",
-    "channelThumb": "https://yt3.ggpht.com/PpTKshRBevggGdsuLf3bn8AJ5gX_7To1142LIR4VMZxOcnYWZ8dUNMlUf_KDHJnZbc4jV430kUA=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Vicky",
-    "scheduledStartTime": "2024-04-19T22:10:00Z",
-    "actualStartTime": "2024-04-19T22:10:52Z",
     "premiere": false
   },
   {
