@@ -24,18 +24,6 @@
     "premiere": false
   },
   {
-    "id": "8FSR08ak35k",
-    "vidUrl": "https://youtu.be/8FSR08ak35k",
-    "vidTitle": "\u3010SIMS 4\u3011THE CRAZIEST THING IN THE MAKING\u3010NIJISANJI EN | Yu Q. Wilson\u3011",
-    "channelId": "@yuq.wilson",
-    "channelName": "Yu Q. Wilson \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/GR1e8gQ-x7ehgpqAZmrwoJBI7ReZneaTR6PEQvgcW3kIabEvfTenrpiNRWZSH6QpysfZftKKrA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Wilson",
-    "scheduledStartTime": "2024-04-20T12:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "tIvjykcFHzQ",
     "vidUrl": "https://youtu.be/tIvjykcFHzQ",
     "vidTitle": "HORROR DOLLS GONNA GET ME!? - Mannequin House \u30de\u30cd\u30ad\u30f3\u5c4b\u6577 -\u3010poco pio\u3011",
@@ -44,6 +32,18 @@
     "channelThumb": "https://yt3.ggpht.com/X1LtitsaIYwwrNyC5vmTCzUJUC1LHRlrkBcVHQIUkGb--Sj8ZrX_FFB7HwbG5oum7oNf80mZ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Doppio",
     "scheduledStartTime": "2024-04-20T12:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "GmwmbXOx7CI",
+    "vidUrl": "https://youtu.be/GmwmbXOx7CI",
+    "vidTitle": "\u3010VCRRUST\u3011DAY4  \u30a4\u30f3\u30c1\u30ad\u5360\u3044\u5e2b\u3001\u3042\u30682\u65e5\u3010NIJISANJI EN\uff5cMeloco Kyoran\u3011",
+    "channelId": "@melocokyoran",
+    "channelName": "Meloco Kyoran\u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/R4_Tzx3rBLlHOAL8G5DvpzPs4Cwutg_22ISvrp0s5_3I3POjHeZVQgui9z3F3cC9EEV1B-dmc6U=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Meloco",
+    "scheduledStartTime": "2024-04-20T12:30:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -128,6 +128,18 @@
     "channelThumb": "https://yt3.ggpht.com/oYEH8ckOxzEJ0GXlZGp4aSxvZrMWAeodRUg_MRgHqJEr7bEyjXdoC5VyYZ143XtcIKUozhQq6Q=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Scarle",
     "scheduledStartTime": "2024-04-21T03:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "8FSR08ak35k",
+    "vidUrl": "https://youtu.be/8FSR08ak35k",
+    "vidTitle": "\u3010SIMS 4\u3011THE CRAZIEST THING IN THE MAKING\u3010NIJISANJI EN | Yu Q. Wilson\u3011",
+    "channelId": "@yuq.wilson",
+    "channelName": "Yu Q. Wilson \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/GR1e8gQ-x7ehgpqAZmrwoJBI7ReZneaTR6PEQvgcW3kIabEvfTenrpiNRWZSH6QpysfZftKKrA=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Wilson",
+    "scheduledStartTime": "2024-04-21T12:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
