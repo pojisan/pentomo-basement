@@ -72,18 +72,6 @@
     "premiere": false
   },
   {
-    "id": "rzXiO9szxPc",
-    "vidUrl": "https://youtu.be/rzXiO9szxPc",
-    "vidTitle": "\u3010Livestream 2: Escape from Togaezuka Happy Place\u3011MORE PANTSU I MEAN HORROR LETSGO \ud83d\udd78\ufe0f \u3010VOLs\u3011",
-    "channelId": "@mayunocharlotte-vols",
-    "channelName": "Mayuno A. Charlotte - VOLs",
-    "channelThumb": "https://yt3.ggpht.com/I8IJ1Mc_mhQXeqAzhvpXj6kFF_LOMS1MeIpEBgBt1tt2DuqupCXmAgTjy9LLGLNtdjQbGE5jIg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Charlotte",
-    "scheduledStartTime": "2024-04-20T12:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "GmwmbXOx7CI",
     "vidUrl": "https://youtu.be/GmwmbXOx7CI",
     "vidTitle": "\u3010VCRRUST\u3011DAY4  \u30a4\u30f3\u30c1\u30ad\u5360\u3044\u5e2b\u3001\u3042\u30682\u65e5\u3010NIJISANJI EN\uff5cMeloco Kyoran\u3011",
@@ -92,6 +80,18 @@
     "channelThumb": "https://yt3.ggpht.com/R4_Tzx3rBLlHOAL8G5DvpzPs4Cwutg_22ISvrp0s5_3I3POjHeZVQgui9z3F3cC9EEV1B-dmc6U=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Meloco",
     "scheduledStartTime": "2024-04-20T12:30:00Z",
+    "actualStartTime": "2024-04-20T12:41:00Z",
+    "premiere": false
+  },
+  {
+    "id": "rzXiO9szxPc",
+    "vidUrl": "https://youtu.be/rzXiO9szxPc",
+    "vidTitle": "\u3010Livestream 2: Escape from Togaezuka Happy Place\u3011MORE PANTSU I MEAN HORROR LETSGO \ud83d\udd78\ufe0f \u3010VOLs\u3011",
+    "channelId": "@mayunocharlotte-vols",
+    "channelName": "Mayuno A. Charlotte - VOLs",
+    "channelThumb": "https://yt3.ggpht.com/I8IJ1Mc_mhQXeqAzhvpXj6kFF_LOMS1MeIpEBgBt1tt2DuqupCXmAgTjy9LLGLNtdjQbGE5jIg=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Charlotte",
+    "scheduledStartTime": "2024-04-20T12:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -1404,6 +1404,18 @@
     "premiere": false
   },
   {
+    "id": "7AwGGP4oNOw",
+    "vidUrl": "https://youtu.be/7AwGGP4oNOw",
+    "vidTitle": "\u3010BATTLE PLAN UPDATE\u3011emergency meeting (don't worry!) \ud83d\udc3e\u3010MEMBERS ONLY\u3011",
+    "channelId": "@fuwamococh",
+    "channelName": "FUWAMOCO Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/zt63obGOD6fnCX0elnzt8xkylqOTnAENmSCKmwg_PSiC857DDgB28kEjQ-FJlWGtNYZ9lqzEag=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "FWMC",
+    "scheduledStartTime": "2024-04-22T01:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "WUgrMuFm0-Q",
     "vidUrl": "https://youtu.be/WUgrMuFm0-Q",
     "vidTitle": "\u3010\u6b4c\u67a0\u3011Announcement & Karaoke\u3010Kou Mariya | V4Mirai | ENVtuber\u3011#shorts #shortsfeed",
@@ -2073,19 +2085,6 @@
     "shortName": "Tomomi",
     "scheduledStartTime": "2026-04-30T17:30:00Z",
     "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "_Wh0f-dQcU8",
-    "vidUrl": "https://youtu.be/_Wh0f-dQcU8",
-    "vidTitle": "I AM HERE\u3010MINECRAFT\u3011",
-    "channelId": "@airiviridis",
-    "channelName": "Airi Viridis Ch. \u3010V-Dere\u3011",
-    "channelThumb": "https://yt3.ggpht.com/hr4djvNbGuwQ5f6fID5xc6hY5sYgWPMw02AbbvKDKxPvMdlhk3FTXFbdexF_I5KHe9RizOg2ZQ=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Airi",
-    "scheduledStartTime": "2024-04-19T23:00:00Z",
-    "actualStartTime": "2024-04-19T23:00:55Z",
     "premiere": false
   },
   {
