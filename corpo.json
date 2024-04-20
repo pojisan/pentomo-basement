@@ -266,7 +266,7 @@
   {
     "id": "Oal8FYJt5sE",
     "vidUrl": "https://youtu.be/Oal8FYJt5sE",
-    "vidTitle": "GLOBIE DEBUT WATCH ALONG!!! - AlicjaDaLontano",
+    "vidTitle": "GLOBIE DEBUT WATCH ALONG!!! - @AlicjaDaLontano",
     "channelId": "@akanejun",
     "channelName": "Jun Akane / \u8d64\u91d1\u30b8\u30e5\u30f3",
     "channelThumb": "https://yt3.ggpht.com/Xav9rWL58VySYhTAZnC5aKZQ_WRRKSJhGW6SMN_u-O26vHkSl0OMnwiVJGUt7aPujvAqSbKMH3c=s88-c-k-c0x00ffffff-no-rj",
@@ -586,6 +586,18 @@
     "scheduledStartTime": "2024-04-20T23:00:00Z",
     "actualStartTime": "",
     "premiere": true
+  },
+  {
+    "id": "eAkrUwnPTkU",
+    "vidUrl": "https://youtu.be/eAkrUwnPTkU",
+    "vidTitle": "TERRORIZING @KaiSaikota @BriAtCookiebox @Dokibird",
+    "channelId": "@junaunagi",
+    "channelName": "Juna Unagi Ch. idol-EN",
+    "channelThumb": "https://yt3.ggpht.com/2Z4a4Pzt3NDAzzTL_Iz9gc6HZ5uPReVnqYjz8ZDtVfcRaE026n_DgpamMVBQ4gWMBeIzfeUxUgw=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Juna",
+    "scheduledStartTime": "2024-04-20T23:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
   },
   {
     "id": "uRnkK6rRk_0",
@@ -2214,19 +2226,6 @@
     "premiere": false
   },
   {
-    "id": "zxRlfeNS-pA",
-    "vidUrl": "https://youtu.be/zxRlfeNS-pA",
-    "vidTitle": "\u3010Karaoke\u3011(Vertical) Let's see what song should we sing ~ #shorts \u3010Yuuki Ame\u30fbbondlive EN\u3011",
-    "channelId": "@yuukiame_",
-    "channelName": "Yuuki Ame / \u52c7\u6c17\u3042\u3081\u3010bondlive EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/rybr-bFchWkS9x4YS03WaFH5JtYXkl3lEMjxqFsf6IvbCC5OxCMPKQwOGpl2jx6y28p_vHMXi1w=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Yuuki",
-    "scheduledStartTime": "2024-04-20T02:00:00Z",
-    "actualStartTime": "2024-04-20T02:02:03Z",
-    "premiere": false
-  },
-  {
     "id": "koc9qpugjXQ",
     "vidUrl": "https://youtu.be/koc9qpugjXQ",
     "vidTitle": "\u3010IT TAKES TWO\u3011Its JOEVER...... FT. @Ruipandaa",
@@ -2315,19 +2314,6 @@
     "shortName": "Roro",
     "scheduledStartTime": "2024-04-20T13:00:00Z",
     "actualStartTime": "2024-04-20T13:19:54Z",
-    "premiere": false
-  },
-  {
-    "id": "BHhWcFn8FGI",
-    "vidUrl": "https://youtu.be/BHhWcFn8FGI",
-    "vidTitle": "comfy stream! | A Little to The Left",
-    "channelId": "@minazukimana",
-    "channelName": "MinazukiMana - VOLs",
-    "channelThumb": "https://yt3.ggpht.com/O64mRHiN_f8Xzpwucwlf_pegYaW8OWoHcNhfVAwXcSvy3NNUbDoTjQGq0cdyrR0EdGXV4gv6XA=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Mana",
-    "scheduledStartTime": "2024-04-20T14:30:00Z",
-    "actualStartTime": "2024-04-20T14:34:26Z",
     "premiere": false
   }
 ]
