@@ -180,18 +180,6 @@
     "premiere": false
   },
   {
-    "id": "3yGCESXZMyM",
-    "vidUrl": "https://youtu.be/3yGCESXZMyM",
-    "vidTitle": "CLICK HERE TO CHAT NOW!",
-    "channelId": "@reinasunch",
-    "channelName": "Reina Sun Ch. \u30ec\u30a4\u30ca\u30fb\u30b5\u30f3\u300eproduction kawaii\u300f",
-    "channelThumb": "https://yt3.ggpht.com/4RX4F31z_vt136oTmk9X1aHxUrOt7TCeeUggiNx8avUBu1j5B8Blo1lktZplgYt8yVhjxKXgUi0=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Reina",
-    "scheduledStartTime": "2024-04-20T20:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "O0TZD4auXdc",
     "vidUrl": "https://youtu.be/O0TZD4auXdc",
     "vidTitle": "\u3010Monster Hunter: Rise\u3011Playing You the Song of my People (HH) Pt. 2 (Playing with Members)",
@@ -199,6 +187,18 @@
     "channelName": "Meimi Majokko Ch. \u9b54\u5973\u3063\u5b50\u3081\u3044\u307f\u3010kawaii\u3011",
     "channelThumb": "https://yt3.ggpht.com/yKOTdfPIaUJm7wH2snXzhSgGPqJL4STR1n08lCrGFZa-7oxEZuSgy080xUQt7Y3iPp2m47FLYA=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Meimi",
+    "scheduledStartTime": "2024-04-20T20:00:00Z",
+    "actualStartTime": "2024-04-20T20:02:16Z",
+    "premiere": false
+  },
+  {
+    "id": "3yGCESXZMyM",
+    "vidUrl": "https://youtu.be/3yGCESXZMyM",
+    "vidTitle": "CLICK HERE TO CHAT NOW!",
+    "channelId": "@reinasunch",
+    "channelName": "Reina Sun Ch. \u30ec\u30a4\u30ca\u30fb\u30b5\u30f3\u300eproduction kawaii\u300f",
+    "channelThumb": "https://yt3.ggpht.com/4RX4F31z_vt136oTmk9X1aHxUrOt7TCeeUggiNx8avUBu1j5B8Blo1lktZplgYt8yVhjxKXgUi0=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Reina",
     "scheduledStartTime": "2024-04-20T20:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -1208,6 +1208,18 @@
     "channelThumb": "https://yt3.ggpht.com/ryVy3g8W7qKzcFFCsuZgiGN3lo7_bDXvBM70mR8jhiGDlVFBaMZD28kB8pJIsDeEXZCY0zRX=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Mieko",
     "scheduledStartTime": "2024-04-22T17:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "rsVzHxRqrqo",
+    "vidUrl": "https://youtu.be/rsVzHxRqrqo",
+    "vidTitle": "\u3010DEBUT 2.0\u3011MARSHMALLOW Q&A - Answering your Questions!\u3010globie | Kiri Kilovolt\u3011",
+    "channelId": "@kirikilovolt",
+    "channelName": "Kiri Kilovolt ch.",
+    "channelThumb": "https://yt3.ggpht.com/3051xmWYegQ0FaTgkb_KBuGTU9HKARThukYKBIaR9_lgSxl0Y3HXQxI9eNgntoYbNqY-6zj9xw=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Kiri",
+    "scheduledStartTime": "2024-04-22T18:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -2224,19 +2236,6 @@
     "shortName": "Bri",
     "scheduledStartTime": "2024-04-20T18:00:00Z",
     "actualStartTime": "2024-04-20T17:32:39Z",
-    "premiere": false
-  },
-  {
-    "id": "IRlMmVV6-5w",
-    "vidUrl": "https://youtu.be/IRlMmVV6-5w",
-    "vidTitle": "\u3010DEBUT! \u3011The start of a Muu-gical journey!\u3010Alicja Da Lontano | Globie Gen 2 Solstia\u3011",
-    "channelId": "@alicjadalontano",
-    "channelName": "Alicja Da Lontano ch. \u3010globie\u3011",
-    "channelThumb": "https://yt3.ggpht.com/gzyLsLIzbobRRYT_QkfMKISqY-RpzLfOowj5T61s2UDXRoHEespSbXR68cikE96P2RKpsWOeM1Q=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Alicja",
-    "scheduledStartTime": "2024-04-20T18:00:00Z",
-    "actualStartTime": "2024-04-20T17:56:45Z",
     "premiere": false
   },
   {
