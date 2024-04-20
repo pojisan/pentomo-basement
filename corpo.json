@@ -96,18 +96,6 @@
     "premiere": false
   },
   {
-    "id": "_ndLNhXsULY",
-    "vidUrl": "https://youtu.be/_ndLNhXsULY",
-    "vidTitle": "EVERYBODY Plays Codeword Werewolf!",
-    "channelId": "@v4mirai",
-    "channelName": "V4Mirai",
-    "channelThumb": "https://yt3.ggpht.com/hpLDRI-pBkBK-ZQmaUOOZh5flAvLhhTZgNupPmK73jD5rm2TBy1pdc8nb6AX-i_21_FaqM2nOIQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "V4M Official",
-    "scheduledStartTime": "2024-04-20T22:00:00Z",
-    "actualStartTime": "2024-04-20T22:02:10Z",
-    "premiere": false
-  },
-  {
     "id": "IydYFe7vqrM",
     "vidUrl": "https://youtu.be/IydYFe7vqrM",
     "vidTitle": "HOW MANY IMPRESSIONS CAN I DO?\u3010IMPRESSION ROULETTE\u3011",
@@ -343,6 +331,18 @@
     "channelName": "Cyon Hart Ch. V&U",
     "channelThumb": "https://yt3.ggpht.com/gsviy0KcEYuRE4MyNsKcEBoS0lIaW9wgkz9raEwVrQ0tIUM473cN8ORz-rdHps1IYSHxZdzI_g=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Cyon",
+    "scheduledStartTime": "2024-04-21T03:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "JmDOQjuqpqo",
+    "vidUrl": "https://youtu.be/JmDOQjuqpqo",
+    "vidTitle": "Among Us...but with birds...?",
+    "channelId": "@mivivnu",
+    "channelName": "Mivi Aivori Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/b0A2emwbDeLrLg3NZ5zlJf0AjwnxRx8dKsbah9w_DAOW5W-nhvK_JmA87yYFwYN6KeB4dOzH=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Mivi",
     "scheduledStartTime": "2024-04-21T03:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2201,6 +2201,19 @@
     "shortName": "Mivi",
     "scheduledStartTime": "2024-04-20T21:00:00Z",
     "actualStartTime": "2024-04-20T21:14:13Z",
+    "premiere": false
+  },
+  {
+    "id": "_ndLNhXsULY",
+    "vidUrl": "https://youtu.be/_ndLNhXsULY",
+    "vidTitle": "EVERYBODY Plays Codeword Werewolf!",
+    "channelId": "@v4mirai",
+    "channelName": "V4Mirai",
+    "channelThumb": "https://yt3.ggpht.com/hpLDRI-pBkBK-ZQmaUOOZh5flAvLhhTZgNupPmK73jD5rm2TBy1pdc8nb6AX-i_21_FaqM2nOIQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "V4M Official",
+    "scheduledStartTime": "2024-04-20T22:00:00Z",
+    "actualStartTime": "2024-04-20T22:02:10Z",
     "premiere": false
   },
   {
