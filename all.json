@@ -31,7 +31,19 @@
     "channelName": "Mori Calliope Ch. hololive-EN",
     "channelThumb": "https://yt3.ggpht.com/8B_T08sx8R7XVi5Mwx_l9sjQm5FGWGspeujSvVDvd80Zyr-3VvVTRGVLOnBrqNRxZp6ZeXAV=s88-c-k-c0x00ffffff-no-nd-rj",
     "shortName": "Mori",
-    "scheduledStartTime": "2024-04-20T11:00:00Z",
+    "scheduledStartTime": "2024-04-20T10:59:16Z",
+    "actualStartTime": "2024-04-20T10:59:54Z",
+    "premiere": false
+  },
+  {
+    "id": "lVASdb7_Fu8",
+    "vidUrl": "https://youtu.be/lVASdb7_Fu8",
+    "vidTitle": "live piano and singing! thank you for 1 MIL channel views! #VTuber #shorts #\u6b4c\u67a0",
+    "channelId": "@kirispica",
+    "channelName": "kirispica \u3010V-Dere\u3011",
+    "channelThumb": "https://yt3.ggpht.com/g-0m2dXUzHK-nxWmbCKFPv5JNDhOohDJinKkpHRC1QlnGonVeGYkHBbzuoLpx_HINkqXeCNHFg=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Spica",
+    "scheduledStartTime": "2024-04-20T11:15:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -55,18 +67,6 @@
     "channelName": "Yu Q. Wilson \u3010NIJISANJI EN\u3011",
     "channelThumb": "https://yt3.ggpht.com/GR1e8gQ-x7ehgpqAZmrwoJBI7ReZneaTR6PEQvgcW3kIabEvfTenrpiNRWZSH6QpysfZftKKrA=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Wilson",
-    "scheduledStartTime": "2024-04-20T12:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "lVASdb7_Fu8",
-    "vidUrl": "https://youtu.be/lVASdb7_Fu8",
-    "vidTitle": "live piano and singing! thank you for 1 MIL channel views! #VTuber #shorts #\u6b4c\u67a0",
-    "channelId": "@kirispica",
-    "channelName": "kirispica \u3010V-Dere\u3011",
-    "channelThumb": "https://yt3.ggpht.com/g-0m2dXUzHK-nxWmbCKFPv5JNDhOohDJinKkpHRC1QlnGonVeGYkHBbzuoLpx_HINkqXeCNHFg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Spica",
     "scheduledStartTime": "2024-04-20T12:00:00Z",
     "actualStartTime": "",
     "premiere": false
