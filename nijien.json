@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "tIvjykcFHzQ",
-    "vidUrl": "https://youtu.be/tIvjykcFHzQ",
-    "vidTitle": "HORROR DOLLS GONNA GET ME!? - Mannequin House \u30de\u30cd\u30ad\u30f3\u5c4b\u6577 -\u3010poco pio\u3011",
-    "channelId": "@doppiodropscythe",
-    "channelName": "Doppio Dropscythe\u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/X1LtitsaIYwwrNyC5vmTCzUJUC1LHRlrkBcVHQIUkGb--Sj8ZrX_FFB7HwbG5oum7oNf80mZ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Doppio",
-    "scheduledStartTime": "2024-04-20T12:00:00Z",
-    "actualStartTime": "2024-04-20T12:02:56Z",
-    "premiere": false
-  },
-  {
     "id": "GmwmbXOx7CI",
     "vidUrl": "https://youtu.be/GmwmbXOx7CI",
     "vidTitle": "\u3010VCRRUST\u3011DAY4  \u30a4\u30f3\u30c1\u30ad\u5360\u3044\u5e2b\u3001\u3042\u30682\u65e5\u3010NIJISANJI EN\uff5cMeloco Kyoran\u3011",
@@ -44,8 +32,8 @@
     "channelThumb": "https://yt3.ggpht.com/jwZT783V-LU58DMyjShj-CWJ3GGsM5DaHX20vtIExe7LNGpaS0P5pZJV_EH11AprgaHocu6CKA=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Reimu",
     "scheduledStartTime": "2024-04-20T14:00:00Z",
-    "actualStartTime": "",
-    "premiere": true
+    "actualStartTime": "2024-04-20T14:00:06Z",
+    "premiere": false
   },
   {
     "id": "TkyWuylRH0A",
@@ -189,6 +177,19 @@
     "shortName": "Reimu",
     "scheduledStartTime": "2024-05-05T01:00:00Z",
     "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "tIvjykcFHzQ",
+    "vidUrl": "https://youtu.be/tIvjykcFHzQ",
+    "vidTitle": "HORROR DOLLS GONNA GET ME!? - Mannequin House \u30de\u30cd\u30ad\u30f3\u5c4b\u6577 -\u3010poco pio\u3011",
+    "channelId": "@doppiodropscythe",
+    "channelName": "Doppio Dropscythe\u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/X1LtitsaIYwwrNyC5vmTCzUJUC1LHRlrkBcVHQIUkGb--Sj8ZrX_FFB7HwbG5oum7oNf80mZ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Doppio",
+    "scheduledStartTime": "2024-04-20T12:00:00Z",
+    "actualStartTime": "2024-04-20T12:02:56Z",
     "premiere": false
   }
 ]
