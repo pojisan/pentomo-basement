@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "huG0ulu9V3A",
-    "vidUrl": "https://youtu.be/huG0ulu9V3A",
-    "vidTitle": "Kaminawi Cwawa DEBUT\u3010\u6b4c\u7f8e\u9cf4\u30af\u30e9\u30e9 / Phase Connect\u3011",
-    "channelId": "@kaminariclara",
-    "channelName": "Clara Ch. \u6b4c\u7f8e\u9cf4\u30af\u30e9\u30e9 \u3010Phase Connect\u3011",
-    "channelThumb": "https://yt3.ggpht.com/Ds02-91FQsIFHxhISPbW0dvCSyrXDEmKyRHIn04c1vRKMXMNobf9Ny4UszPfbWXyNPze7gVqTQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Clara",
-    "scheduledStartTime": "2024-04-20T06:00:00Z",
-    "actualStartTime": "2024-04-20T06:01:21Z",
-    "premiere": false
-  },
-  {
     "id": "lVASdb7_Fu8",
     "vidUrl": "https://youtu.be/lVASdb7_Fu8",
     "vidTitle": "live piano and singing! thank you for 1 MIL channel views! #VTuber #shorts #\u6b4c\u67a0",
@@ -2059,19 +2047,6 @@
     "premiere": false
   },
   {
-    "id": "ggxGJ9-2YJw",
-    "vidUrl": "https://youtu.be/ggxGJ9-2YJw",
-    "vidTitle": "\u3010WATCHALONG\u3011Globie Watchalong - Let's Welcome @KiriKilovolt #sponsored",
-    "channelId": "@miyamareena",
-    "channelName": "Miya Mareena Ch.",
-    "channelThumb": "https://yt3.ggpht.com/_gEDbY7u2OIZKKyvRYtvd4BsEWGEgvJTnQT25v8O5LbN-3XROnJgY7Ku5NNOnnDZpWJiG0cLoA=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Miya",
-    "scheduledStartTime": "2024-04-19T17:45:00Z",
-    "actualStartTime": "2024-04-19T17:46:11Z",
-    "premiere": false
-  },
-  {
     "id": "LMVrGdZ6rpw",
     "vidUrl": "https://youtu.be/LMVrGdZ6rpw",
     "vidTitle": "Another New VTuber!\u3010GLOBIE DEBUT WATCH-A-LONG\u3011#sponsored",
@@ -2355,6 +2330,19 @@
     "shortName": "Mivi",
     "scheduledStartTime": "2024-04-20T03:00:00Z",
     "actualStartTime": "2024-04-20T03:00:48Z",
+    "premiere": false
+  },
+  {
+    "id": "huG0ulu9V3A",
+    "vidUrl": "https://youtu.be/huG0ulu9V3A",
+    "vidTitle": "Kaminawi Cwawa DEBUT\u3010\u6b4c\u7f8e\u9cf4\u30af\u30e9\u30e9 / Phase Connect\u3011",
+    "channelId": "@kaminariclara",
+    "channelName": "Clara Ch. \u6b4c\u7f8e\u9cf4\u30af\u30e9\u30e9 \u3010Phase Connect\u3011",
+    "channelThumb": "https://yt3.ggpht.com/Ds02-91FQsIFHxhISPbW0dvCSyrXDEmKyRHIn04c1vRKMXMNobf9Ny4UszPfbWXyNPze7gVqTQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Clara",
+    "scheduledStartTime": "2024-04-20T06:00:00Z",
+    "actualStartTime": "2024-04-20T06:01:21Z",
     "premiere": false
   }
 ]
