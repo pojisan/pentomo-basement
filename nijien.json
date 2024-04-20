@@ -36,18 +36,6 @@
     "premiere": false
   },
   {
-    "id": "3Z1RG3B0tEo",
-    "vidUrl": "https://youtu.be/3Z1RG3B0tEo",
-    "vidTitle": "I MAKE DEEP DISH PIZZA FOR THE 1ST TIME!",
-    "channelId": "@scarleyonaguni",
-    "channelName": "Scarle Yonaguni \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/oYEH8ckOxzEJ0GXlZGp4aSxvZrMWAeodRUg_MRgHqJEr7bEyjXdoC5VyYZ143XtcIKUozhQq6Q=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Scarle",
-    "scheduledStartTime": "2024-04-20T04:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "Ux87-ZnMKDQ",
     "vidUrl": "https://youtu.be/Ux87-ZnMKDQ",
     "vidTitle": "\u3010Devil May Cry 3\u3011This Party's Getting Crazy! Let's Rock! Pt. 2\u3010NIJISANJI EN | Victoria Brightshield\u3011",
@@ -56,6 +44,18 @@
     "channelThumb": "https://yt3.ggpht.com/m5YHCdJM_v2kid17kOVWr59fddjYgfMfd25GEuGGXQaV_57y7l7mD2sV62TmWKIXeD1sVuy4Rek=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Vivi",
     "scheduledStartTime": "2024-04-20T04:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "3Z1RG3B0tEo",
+    "vidUrl": "https://youtu.be/3Z1RG3B0tEo",
+    "vidTitle": "I MAKE DEEP DISH PIZZA FOR THE 1ST TIME!",
+    "channelId": "@scarleyonaguni",
+    "channelName": "Scarle Yonaguni \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/oYEH8ckOxzEJ0GXlZGp4aSxvZrMWAeodRUg_MRgHqJEr7bEyjXdoC5VyYZ143XtcIKUozhQq6Q=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Scarle",
+    "scheduledStartTime": "2024-04-20T04:15:00Z",
     "actualStartTime": "",
     "premiere": false
   },
