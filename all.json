@@ -120,18 +120,6 @@
     "premiere": false
   },
   {
-    "id": "jUf-c9mnw-c",
-    "vidUrl": "https://youtu.be/jUf-c9mnw-c",
-    "vidTitle": "\u3010Golden Sun\u3011This is the real ending!",
-    "channelId": "@yurarikudou",
-    "channelName": "Yura Rikudou / \u516d\u9053\u30e6\u30e9",
-    "channelThumb": "https://yt3.ggpht.com/yILITMwS2t2HFysY-sKxOFGmrAaQheI4LMzf-ezgCTX9rjPTSJtZQK3E48WTtxtCWinefdwl-g=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Yura",
-    "scheduledStartTime": "2024-04-20T13:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "nORZcwLsiL8",
     "vidUrl": "https://youtu.be/nORZcwLsiL8",
     "vidTitle": "[Gaming] Let's Chat with Yagami Noah\uff5cVTuber /GTA5 in Street Junkies\u3010GTA5\u3011\u65e5\u672c\u8a9e/PC",
@@ -164,6 +152,18 @@
     "channelThumb": "https://yt3.ggpht.com/Pc-k4wd6VsvLoZPUmql6OForU2LDiXTu3TeGZASvNqkD4OW-zEUxuNatHZQLRMUrt4IhcE0rtg=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Roro",
     "scheduledStartTime": "2024-04-20T13:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "jUf-c9mnw-c",
+    "vidUrl": "https://youtu.be/jUf-c9mnw-c",
+    "vidTitle": "\u3010Golden Sun\u3011This is the real ending!",
+    "channelId": "@yurarikudou",
+    "channelName": "Yura Rikudou / \u516d\u9053\u30e6\u30e9",
+    "channelThumb": "https://yt3.ggpht.com/yILITMwS2t2HFysY-sKxOFGmrAaQheI4LMzf-ezgCTX9rjPTSJtZQK3E48WTtxtCWinefdwl-g=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Yura",
+    "scheduledStartTime": "2024-04-20T13:25:00Z",
     "actualStartTime": "",
     "premiere": false
   },
