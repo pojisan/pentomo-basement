@@ -1,17 +1,5 @@
 [
   {
-    "id": "ukVB5ny3wqc",
-    "vidUrl": "https://youtu.be/ukVB5ny3wqc",
-    "vidTitle": "NO SMOKING ZONE",
-    "channelId": "@nikkirei",
-    "channelName": "Nikki Rei Ch. idol-EN",
-    "channelThumb": "https://yt3.ggpht.com/7yN9yQvJhx4cVCL5rLOgsBYiRtRMYEurmtjT0DosKX6qpuoSm9zeo4ELHwy7RW-knfVPzNEqAg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Nikki",
-    "scheduledStartTime": "2024-04-20T17:00:00Z",
-    "actualStartTime": "2024-04-20T17:01:42Z",
-    "premiere": false
-  },
-  {
     "id": "q38ptCbwCjs",
     "vidUrl": "https://youtu.be/q38ptCbwCjs",
     "vidTitle": "Icey but do I see?\u3010Icey\u3011",
@@ -223,18 +211,6 @@
     "channelName": "Ran Tsukiha Ch. \u6708\u8776\u862d\u3010kawaii\u3011",
     "channelThumb": "https://yt3.ggpht.com/T30qwb0jUMNHh6WY7ZUjsFZKTP9hoPyZO4d4Knvf22uj_1DV5xvkK-ReGlX8zeshgoQeOmWovg=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Ran",
-    "scheduledStartTime": "2024-04-20T22:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "P4K_FpkEPd0",
-    "vidUrl": "https://youtu.be/P4K_FpkEPd0",
-    "vidTitle": "\u3010CHIBI-ROBO!\u3011Plug into Adventure!\u3010EIEN Project\u3011",
-    "channelId": "@zumidokumi",
-    "channelName": "Zumi Dokumi Ch. \u3010EIEN Project\u3011",
-    "channelThumb": "https://yt3.ggpht.com/Rfw0lIyzSK0w6oeZ0tcfzM_VdJNo4PFEBZ4vrhVvZBtylWWoKxKpu6HHSAd1_jcy7-LlZVEBC1g=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Zumi",
     "scheduledStartTime": "2024-04-20T22:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -874,6 +850,18 @@
     "scheduledStartTime": "2024-04-21T21:55:00Z",
     "actualStartTime": "",
     "premiere": true
+  },
+  {
+    "id": "P4K_FpkEPd0",
+    "vidUrl": "https://youtu.be/P4K_FpkEPd0",
+    "vidTitle": "\u3010CHIBI-ROBO!\u3011Plug into Adventure!\u3010EIEN Project\u3011",
+    "channelId": "@zumidokumi",
+    "channelName": "Zumi Dokumi Ch. \u3010EIEN Project\u3011",
+    "channelThumb": "https://yt3.ggpht.com/Rfw0lIyzSK0w6oeZ0tcfzM_VdJNo4PFEBZ4vrhVvZBtylWWoKxKpu6HHSAd1_jcy7-LlZVEBC1g=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Zumi",
+    "scheduledStartTime": "2024-04-21T22:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
   },
   {
     "id": "ezD21hF6vkA",
@@ -2148,6 +2136,19 @@
     "shortName": "Rinona",
     "scheduledStartTime": "2024-04-20T16:30:00Z",
     "actualStartTime": "2024-04-20T16:31:12Z",
+    "premiere": false
+  },
+  {
+    "id": "ukVB5ny3wqc",
+    "vidUrl": "https://youtu.be/ukVB5ny3wqc",
+    "vidTitle": "NO SMOKING ZONE",
+    "channelId": "@nikkirei",
+    "channelName": "Nikki Rei Ch. idol-EN",
+    "channelThumb": "https://yt3.ggpht.com/7yN9yQvJhx4cVCL5rLOgsBYiRtRMYEurmtjT0DosKX6qpuoSm9zeo4ELHwy7RW-knfVPzNEqAg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Nikki",
+    "scheduledStartTime": "2024-04-20T17:00:00Z",
+    "actualStartTime": "2024-04-20T17:01:42Z",
     "premiere": false
   },
   {
