@@ -180,18 +180,6 @@
     "premiere": false
   },
   {
-    "id": "IRlMmVV6-5w",
-    "vidUrl": "https://youtu.be/IRlMmVV6-5w",
-    "vidTitle": "\u3010DEBUT! \u3011The start of a Muu-gical journey!\u3010Alicja Da Lontano | Globie Gen 2 Solstia\u3011",
-    "channelId": "@alicjadalontano",
-    "channelName": "Alicja Da Lontano ch. \u3010globie\u3011",
-    "channelThumb": "https://yt3.ggpht.com/gzyLsLIzbobRRYT_QkfMKISqY-RpzLfOowj5T61s2UDXRoHEespSbXR68cikE96P2RKpsWOeM1Q=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Alicja",
-    "scheduledStartTime": "2024-04-20T18:00:00Z",
-    "actualStartTime": "2024-04-20T17:56:45Z",
-    "premiere": false
-  },
-  {
     "id": "HKKk4fBPoR0",
     "vidUrl": "https://youtu.be/HKKk4fBPoR0",
     "vidTitle": "\u3010GLOBIE DEBUT WATCHALONG 2/2\u3011AND SO WE CONTINUE w/ D.K\u3010V&U  | GEN4\u3011",
@@ -332,7 +320,7 @@
     "channelThumb": "https://yt3.ggpht.com/J_RmocTP4ficzRZ6AFtUiEXoekNfliyRQcber2EXH-nBkNjhci71GaeNHsp4gzLMZs14HZ1U6WQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Roza",
     "scheduledStartTime": "2024-04-20T19:15:00Z",
-    "actualStartTime": "2024-04-20T19:16:15Z",
+    "actualStartTime": "2024-04-20T19:16:45Z",
     "premiere": false
   },
   {
@@ -2078,19 +2066,6 @@
     "premiere": false
   },
   {
-    "id": "TkyWuylRH0A",
-    "vidUrl": "https://youtu.be/TkyWuylRH0A",
-    "vidTitle": "\u3010TURING LOVE AFTERPARTY w/ Astel Leda\u3011WE DID THIS LEDAAAAAAAA\ud83d\udc7d\ud83d\ude2d\u270c\ufe0f\u3010NIJISANJI EN | Reimu Endou\u3011",
-    "channelId": "@reimuendou",
-    "channelName": "Reimu Endou\u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/jwZT783V-LU58DMyjShj-CWJ3GGsM5DaHX20vtIExe7LNGpaS0P5pZJV_EH11AprgaHocu6CKA=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Reimu",
-    "scheduledStartTime": "2024-04-20T14:15:00Z",
-    "actualStartTime": "2024-04-20T14:16:01Z",
-    "premiere": false
-  },
-  {
     "id": "ptgFpjf51Pc",
     "vidUrl": "https://youtu.be/ptgFpjf51Pc",
     "vidTitle": "\u3010BALDUR'S GATE 3\u3011We will kill the unkillable #EZ\u3010globie 1st Gen\u3011",
@@ -2179,6 +2154,19 @@
     "shortName": "Rinona",
     "scheduledStartTime": "2024-04-20T16:30:00Z",
     "actualStartTime": "2024-04-20T16:31:12Z",
+    "premiere": false
+  },
+  {
+    "id": "IRlMmVV6-5w",
+    "vidUrl": "https://youtu.be/IRlMmVV6-5w",
+    "vidTitle": "\u3010DEBUT! \u3011The start of a Muu-gical journey!\u3010Alicja Da Lontano | Globie Gen 2 Solstia\u3011",
+    "channelId": "@alicjadalontano",
+    "channelName": "Alicja Da Lontano ch. \u3010globie\u3011",
+    "channelThumb": "https://yt3.ggpht.com/gzyLsLIzbobRRYT_QkfMKISqY-RpzLfOowj5T61s2UDXRoHEespSbXR68cikE96P2RKpsWOeM1Q=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Alicja",
+    "scheduledStartTime": "2024-04-20T18:00:00Z",
+    "actualStartTime": "2024-04-20T17:56:45Z",
     "premiere": false
   },
   {
