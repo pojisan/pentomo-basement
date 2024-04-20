@@ -1,17 +1,5 @@
 [
   {
-    "id": "53CE8z1LdtI",
-    "vidUrl": "https://youtu.be/53CE8z1LdtI",
-    "vidTitle": "\u226a VCR RUST \u226b GAMBLE....IKU?!?! #4",
-    "channelId": "@hakosbaelz",
-    "channelName": "Hakos Baelz Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/SSZxkgjfV0O05zq1bBLOI0PszOCoxuPrANQ0Ysngsd0t81mnkwzEgIW2ypSIQJLn8swR14zLJQ=s88-c-k-c0x00ffffff-no-nd-rj",
-    "shortName": "Bae",
-    "scheduledStartTime": "2024-04-20T12:00:00Z",
-    "actualStartTime": "2024-04-20T12:01:10Z",
-    "premiere": false
-  },
-  {
     "id": "jC6fspDfjQI",
     "vidUrl": "https://youtu.be/jC6fspDfjQI",
     "vidTitle": "\u3010Like a Dragon: Infinite Wealth\u3011cant think of a title yet oh nyo #kfp (spoiler warning)",
@@ -93,6 +81,19 @@
     "shortName": "FWMC",
     "scheduledStartTime": "2024-04-22T01:00:00Z",
     "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "53CE8z1LdtI",
+    "vidUrl": "https://youtu.be/53CE8z1LdtI",
+    "vidTitle": "\u226a VCR RUST \u226b GAMBLE....IKU?!?! #4",
+    "channelId": "@hakosbaelz",
+    "channelName": "Hakos Baelz Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/SSZxkgjfV0O05zq1bBLOI0PszOCoxuPrANQ0Ysngsd0t81mnkwzEgIW2ypSIQJLn8swR14zLJQ=s88-c-k-c0x00ffffff-no-nd-rj",
+    "graveyard": true,
+    "shortName": "Bae",
+    "scheduledStartTime": "2024-04-20T12:00:00Z",
+    "actualStartTime": "2024-04-20T12:01:10Z",
     "premiere": false
   }
 ]
