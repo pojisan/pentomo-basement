@@ -60,18 +60,6 @@
     "premiere": false
   },
   {
-    "id": "yFRVzcdSr2Q",
-    "vidUrl": "https://youtu.be/yFRVzcdSr2Q",
-    "vidTitle": "\u3010GOOSE GOOSE DUCK\u3011Amphibian bois get sus\u3010NIJISANJI EN | Ike Eveland\u3011",
-    "channelId": "@ikeeveland",
-    "channelName": "Ike Eveland\u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/Qk21faZcDJ7SZHtuPO9hUMMPEDcNy7FliS-nEuwTRrk9_wCjrR7ffANmJFUVz4-gQNsdUp3ffQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Ike",
-    "scheduledStartTime": "2024-04-20T18:00:00Z",
-    "actualStartTime": "2024-04-20T18:03:03Z",
-    "premiere": false
-  },
-  {
     "id": "q38ptCbwCjs",
     "vidUrl": "https://youtu.be/q38ptCbwCjs",
     "vidTitle": "Icey but do I see?\u3010Icey\u3011",
@@ -2112,19 +2100,6 @@
     "premiere": false
   },
   {
-    "id": "gE1YqfcAew0",
-    "vidUrl": "https://youtu.be/gE1YqfcAew0",
-    "vidTitle": "[GLOBIE DEBUT WATCHALONG] pretty girl :D #sponsored",
-    "channelId": "@briatcookiebox",
-    "channelName": "BriAtCookiebox",
-    "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_nC7dRnnTDxs3724EZNLjdWAX7n5w7Vpv6hM9ss3dUJ_w=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Bri",
-    "scheduledStartTime": "2024-04-20T18:00:00Z",
-    "actualStartTime": "2024-04-20T17:32:39Z",
-    "premiere": false
-  },
-  {
     "id": "HKKk4fBPoR0",
     "vidUrl": "https://youtu.be/HKKk4fBPoR0",
     "vidTitle": "\u3010GLOBIE DEBUT WATCHALONG 2/2\u3011AND SO WE CONTINUE w/ D.K\u3010V&U  | GEN4\u3011",
@@ -2135,6 +2110,19 @@
     "shortName": "Misma",
     "scheduledStartTime": "2024-04-20T18:00:00Z",
     "actualStartTime": "2024-04-20T17:58:19Z",
+    "premiere": false
+  },
+  {
+    "id": "yFRVzcdSr2Q",
+    "vidUrl": "https://youtu.be/yFRVzcdSr2Q",
+    "vidTitle": "\u3010GOOSE GOOSE DUCK\u3011Amphibian bois get sus\u3010NIJISANJI EN | Ike Eveland\u3011",
+    "channelId": "@ikeeveland",
+    "channelName": "Ike Eveland\u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/Qk21faZcDJ7SZHtuPO9hUMMPEDcNy7FliS-nEuwTRrk9_wCjrR7ffANmJFUVz4-gQNsdUp3ffQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Ike",
+    "scheduledStartTime": "2024-04-20T18:00:00Z",
+    "actualStartTime": "2024-04-20T18:03:03Z",
     "premiere": false
   },
   {
