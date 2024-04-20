@@ -60,6 +60,18 @@
     "premiere": false
   },
   {
+    "id": "7l5ePfQN7Gw",
+    "vidUrl": "https://youtu.be/7l5ePfQN7Gw",
+    "vidTitle": "\u3010Stardew Valley\u30111.6 Update - finishing the Community Center! \ud83c\udfbc",
+    "channelId": "@nerissaravencroft",
+    "channelName": "Nerissa Ravencroft Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/JDCIBWj11TgjY2Uyba_efZ0n5hzjysMB9GxkvHGkIN_sfFQJR5mx3iVPqgJ96IPcYjZpCLsb=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Nerissa",
+    "scheduledStartTime": "2024-04-20T18:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "9tZYJPaV29U",
     "vidUrl": "https://youtu.be/9tZYJPaV29U",
     "vidTitle": "\u3010FUWAMOCO ROCK N' RAWR PARTY\u3011loud lovely & LIVE \u266a #FWMCbeats",
@@ -69,19 +81,6 @@
     "shortName": "FWMC",
     "scheduledStartTime": "2024-04-21T01:00:00Z",
     "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "RYFD9OpLyMg",
-    "vidUrl": "https://youtu.be/RYFD9OpLyMg",
-    "vidTitle": "\u3010Mother Simulator\u3011I'm your mommy now \ud83c\udfbc",
-    "channelId": "@nerissaravencroft",
-    "channelName": "Nerissa Ravencroft Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/JDCIBWj11TgjY2Uyba_efZ0n5hzjysMB9GxkvHGkIN_sfFQJR5mx3iVPqgJ96IPcYjZpCLsb=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Nerissa",
-    "scheduledStartTime": "2024-04-20T00:00:00Z",
-    "actualStartTime": "2024-04-19T23:54:50Z",
     "premiere": false
   }
 ]
