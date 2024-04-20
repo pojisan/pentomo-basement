@@ -108,18 +108,6 @@
     "premiere": false
   },
   {
-    "id": "PY1ylEecBqM",
-    "vidUrl": "https://youtu.be/PY1ylEecBqM",
-    "vidTitle": "\u3010UNARCHIVED KARAOKE/ \u6b4c\u67a0\u3011Singing with all my heart \ud83c\udfb6",
-    "channelId": "@rourinroca",
-    "channelName": "Roca Rourin Ch. idol-EN",
-    "channelThumb": "https://yt3.ggpht.com/eBm5-Is9XQiT7Ct2XPL-eAPzgNXgHqbHjgIb_z76sHswS5dVISwa8Ty-R9zVkHeBCxiVnL7-UQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Roca",
-    "scheduledStartTime": "2024-04-20T20:00:00Z",
-    "actualStartTime": "2024-04-20T19:56:07Z",
-    "premiere": false
-  },
-  {
     "id": "O0TZD4auXdc",
     "vidUrl": "https://youtu.be/O0TZD4auXdc",
     "vidTitle": "\u3010Monster Hunter: Rise\u3011Playing You the Song of my People (HH) Pt. 2 (Playing with Members)",
@@ -247,6 +235,18 @@
     "channelName": "Rhea Nevermore \u3010Yume+\u3011",
     "channelThumb": "https://yt3.ggpht.com/POsoK-HHPySyD4C6ell2PZeeqjOfPFYW1SOYN0ZwETReBmkJ7ScxoTkyB3BliqEg3Qh6ulsjwQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Rhea",
+    "scheduledStartTime": "2024-04-20T22:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "yyUz6LCspag",
+    "vidUrl": "https://youtu.be/yyUz6LCspag",
+    "vidTitle": "\u3010Apex Legends\u3011yippee!! crybaby edition\u3010Yume+ | Mero Umiko\u3011",
+    "channelId": "@meroumiko",
+    "channelName": "Mero Umiko \u3010Yume+\u3011",
+    "channelThumb": "https://yt3.ggpht.com/ao0Uyr-lSSR-cD9QJVrID38symffMEms-OUHRGu-i1DBBybDZglU9ELIgv6YtjBDBY6o0das7g=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Mero",
     "scheduledStartTime": "2024-04-20T22:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2188,6 +2188,19 @@
     "shortName": "Misma",
     "scheduledStartTime": "2024-04-20T18:00:00Z",
     "actualStartTime": "2024-04-20T17:58:19Z",
+    "premiere": false
+  },
+  {
+    "id": "PY1ylEecBqM",
+    "vidUrl": "https://youtu.be/PY1ylEecBqM",
+    "vidTitle": "\u3010UNARCHIVED KARAOKE/ \u6b4c\u67a0\u3011Singing with all my heart \ud83c\udfb6",
+    "channelId": "@rourinroca",
+    "channelName": "Roca Rourin Ch. idol-EN",
+    "channelThumb": "https://yt3.ggpht.com/eBm5-Is9XQiT7Ct2XPL-eAPzgNXgHqbHjgIb_z76sHswS5dVISwa8Ty-R9zVkHeBCxiVnL7-UQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Roca",
+    "scheduledStartTime": "2024-04-20T20:00:00Z",
+    "actualStartTime": "2024-04-20T19:56:07Z",
     "premiere": false
   }
 ]

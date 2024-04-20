@@ -1,17 +1,5 @@
 [
   {
-    "id": "jC6fspDfjQI",
-    "vidUrl": "https://youtu.be/jC6fspDfjQI",
-    "vidTitle": "\u3010Like a Dragon: Infinite Wealth\u3011cant think of a title yet oh nyo #kfp (spoiler warning)",
-    "channelId": "@takanashikiara",
-    "channelName": "Takanashi Kiara Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/w7TKJYU7zmamFmf-WxfahCo_K7Bg2__Pk-CCBNnbewMG-77OZLqJO9MLvDAmH9nEkZH8OkWgSQ=s88-c-k-c0x00ffffff-no-nd-rj",
-    "shortName": "Kiara",
-    "scheduledStartTime": "2024-04-20T14:00:00Z",
-    "actualStartTime": "2024-04-20T14:04:06Z",
-    "premiere": false
-  },
-  {
     "id": "7l5ePfQN7Gw",
     "vidUrl": "https://youtu.be/7l5ePfQN7Gw",
     "vidTitle": "\u3010Stardew Valley\u30111.6 Update - finishing the Community Center! \ud83c\udfbc",
@@ -129,6 +117,19 @@
     "shortName": "FWMC",
     "scheduledStartTime": "2024-04-22T01:00:00Z",
     "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "jC6fspDfjQI",
+    "vidUrl": "https://youtu.be/jC6fspDfjQI",
+    "vidTitle": "\u3010Like a Dragon: Infinite Wealth\u3011cant think of a title yet oh nyo #kfp (spoiler warning)",
+    "channelId": "@takanashikiara",
+    "channelName": "Takanashi Kiara Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/w7TKJYU7zmamFmf-WxfahCo_K7Bg2__Pk-CCBNnbewMG-77OZLqJO9MLvDAmH9nEkZH8OkWgSQ=s88-c-k-c0x00ffffff-no-nd-rj",
+    "graveyard": true,
+    "shortName": "Kiara",
+    "scheduledStartTime": "2024-04-20T14:00:00Z",
+    "actualStartTime": "2024-04-20T14:04:06Z",
     "premiere": false
   }
 ]

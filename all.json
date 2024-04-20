@@ -1,17 +1,5 @@
 [
   {
-    "id": "jC6fspDfjQI",
-    "vidUrl": "https://youtu.be/jC6fspDfjQI",
-    "vidTitle": "\u3010Like a Dragon: Infinite Wealth\u3011cant think of a title yet oh nyo #kfp (spoiler warning)",
-    "channelId": "@takanashikiara",
-    "channelName": "Takanashi Kiara Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/w7TKJYU7zmamFmf-WxfahCo_K7Bg2__Pk-CCBNnbewMG-77OZLqJO9MLvDAmH9nEkZH8OkWgSQ=s88-c-k-c0x00ffffff-no-nd-rj",
-    "shortName": "Kiara",
-    "scheduledStartTime": "2024-04-20T14:00:00Z",
-    "actualStartTime": "2024-04-20T14:04:06Z",
-    "premiere": false
-  },
-  {
     "id": "7l5ePfQN7Gw",
     "vidUrl": "https://youtu.be/7l5ePfQN7Gw",
     "vidTitle": "\u3010Stardew Valley\u30111.6 Update - finishing the Community Center! \ud83c\udfbc",
@@ -129,18 +117,6 @@
     "shortName": "Ami",
     "scheduledStartTime": "2024-04-20T19:30:00Z",
     "actualStartTime": "2024-04-20T19:28:25Z",
-    "premiere": false
-  },
-  {
-    "id": "PY1ylEecBqM",
-    "vidUrl": "https://youtu.be/PY1ylEecBqM",
-    "vidTitle": "\u3010UNARCHIVED KARAOKE/ \u6b4c\u67a0\u3011Singing with all my heart \ud83c\udfb6",
-    "channelId": "@rourinroca",
-    "channelName": "Roca Rourin Ch. idol-EN",
-    "channelThumb": "https://yt3.ggpht.com/eBm5-Is9XQiT7Ct2XPL-eAPzgNXgHqbHjgIb_z76sHswS5dVISwa8Ty-R9zVkHeBCxiVnL7-UQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Roca",
-    "scheduledStartTime": "2024-04-20T20:00:00Z",
-    "actualStartTime": "2024-04-20T19:56:07Z",
     "premiere": false
   },
   {
@@ -295,6 +271,18 @@
     "channelName": "Rhea Nevermore \u3010Yume+\u3011",
     "channelThumb": "https://yt3.ggpht.com/POsoK-HHPySyD4C6ell2PZeeqjOfPFYW1SOYN0ZwETReBmkJ7ScxoTkyB3BliqEg3Qh6ulsjwQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Rhea",
+    "scheduledStartTime": "2024-04-20T22:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "yyUz6LCspag",
+    "vidUrl": "https://youtu.be/yyUz6LCspag",
+    "vidTitle": "\u3010Apex Legends\u3011yippee!! crybaby edition\u3010Yume+ | Mero Umiko\u3011",
+    "channelId": "@meroumiko",
+    "channelName": "Mero Umiko \u3010Yume+\u3011",
+    "channelThumb": "https://yt3.ggpht.com/ao0Uyr-lSSR-cD9QJVrID38symffMEms-OUHRGu-i1DBBybDZglU9ELIgv6YtjBDBY6o0das7g=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Mero",
     "scheduledStartTime": "2024-04-20T22:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -1982,6 +1970,19 @@
     "premiere": false
   },
   {
+    "id": "jC6fspDfjQI",
+    "vidUrl": "https://youtu.be/jC6fspDfjQI",
+    "vidTitle": "\u3010Like a Dragon: Infinite Wealth\u3011cant think of a title yet oh nyo #kfp (spoiler warning)",
+    "channelId": "@takanashikiara",
+    "channelName": "Takanashi Kiara Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/w7TKJYU7zmamFmf-WxfahCo_K7Bg2__Pk-CCBNnbewMG-77OZLqJO9MLvDAmH9nEkZH8OkWgSQ=s88-c-k-c0x00ffffff-no-nd-rj",
+    "graveyard": true,
+    "shortName": "Kiara",
+    "scheduledStartTime": "2024-04-20T14:00:00Z",
+    "actualStartTime": "2024-04-20T14:04:06Z",
+    "premiere": false
+  },
+  {
     "id": "ptgFpjf51Pc",
     "vidUrl": "https://youtu.be/ptgFpjf51Pc",
     "vidTitle": "\u3010BALDUR'S GATE 3\u3011We will kill the unkillable #EZ\u3010globie 1st Gen\u3011",
@@ -2122,6 +2123,19 @@
     "shortName": "Misma",
     "scheduledStartTime": "2024-04-20T18:00:00Z",
     "actualStartTime": "2024-04-20T17:58:19Z",
+    "premiere": false
+  },
+  {
+    "id": "PY1ylEecBqM",
+    "vidUrl": "https://youtu.be/PY1ylEecBqM",
+    "vidTitle": "\u3010UNARCHIVED KARAOKE/ \u6b4c\u67a0\u3011Singing with all my heart \ud83c\udfb6",
+    "channelId": "@rourinroca",
+    "channelName": "Roca Rourin Ch. idol-EN",
+    "channelThumb": "https://yt3.ggpht.com/eBm5-Is9XQiT7Ct2XPL-eAPzgNXgHqbHjgIb_z76sHswS5dVISwa8Ty-R9zVkHeBCxiVnL7-UQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Roca",
+    "scheduledStartTime": "2024-04-20T20:00:00Z",
+    "actualStartTime": "2024-04-20T19:56:07Z",
     "premiere": false
   },
   {
