@@ -12,15 +12,15 @@
     "premiere": false
   },
   {
-    "id": "WJlqwPAYb6o",
-    "vidUrl": "https://youtu.be/WJlqwPAYb6o",
-    "vidTitle": "\u3010Fruit Mountain\u3011 \u30b9\u30a4\u30ab\u3092\u4f5c\u308a\u307e\u3059\u304b\ud83c\udf49 \u3010\u306b\u3058\u3055\u3093\u3058 | \u30bb\u30d5\u30a3\u30ca\u3011",
-    "channelId": "@seffyna",
-    "channelName": "\u30bb\u30d5\u30a3\u30ca / Seffyna\u3010\u306b\u3058\u3055\u3093\u3058\u3011",
-    "channelThumb": "https://yt3.ggpht.com/0QDtmroClBOCB8eZSOVWlGObtXc7wf8tk-USsyvw5nY-i_IE8xsxebzGBzD5OfHGlNBICUmgDg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Seffyna",
-    "scheduledStartTime": "2024-04-20T06:00:00Z",
-    "actualStartTime": "2024-04-20T06:00:07Z",
+    "id": "LWBExncebs4",
+    "vidUrl": "https://youtu.be/LWBExncebs4",
+    "vidTitle": "[Gaming] Let's Chat with Yagami Noah\uff5cVTuber /GTA5 in TGS\u3010GTA5\u3011\u65e5\u672c\u8a9e/PC",
+    "channelId": "@yagaminoah",
+    "channelName": "Yagami Noah / \u516b\u795e\u30ce\u30a2\u3010bondlive EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/zv3gY8PI3ZXN4KgiMrdVaBT-8XTB09763VvuJFtZ7yx0nLVUiMbUoa5RlyU_BEUmvaztteqGD5A=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Noah",
+    "scheduledStartTime": "2024-04-20T09:40:00Z",
+    "actualStartTime": "2024-04-20T09:39:42Z",
     "premiere": false
   },
   {
@@ -2212,6 +2212,19 @@
     "shortName": "Mivi",
     "scheduledStartTime": "2024-04-20T03:00:00Z",
     "actualStartTime": "2024-04-20T03:00:48Z",
+    "premiere": false
+  },
+  {
+    "id": "WJlqwPAYb6o",
+    "vidUrl": "https://youtu.be/WJlqwPAYb6o",
+    "vidTitle": "\u3010Fruit Mountain\u3011 \u30b9\u30a4\u30ab\u3092\u4f5c\u308a\u307e\u3059\u304b\ud83c\udf49 \u3010\u306b\u3058\u3055\u3093\u3058 | \u30bb\u30d5\u30a3\u30ca\u3011",
+    "channelId": "@seffyna",
+    "channelName": "\u30bb\u30d5\u30a3\u30ca / Seffyna\u3010\u306b\u3058\u3055\u3093\u3058\u3011",
+    "channelThumb": "https://yt3.ggpht.com/0QDtmroClBOCB8eZSOVWlGObtXc7wf8tk-USsyvw5nY-i_IE8xsxebzGBzD5OfHGlNBICUmgDg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Seffyna",
+    "scheduledStartTime": "2024-04-20T06:00:00Z",
+    "actualStartTime": "2024-04-20T06:00:07Z",
     "premiere": false
   },
   {
