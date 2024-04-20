@@ -204,18 +204,6 @@
     "premiere": false
   },
   {
-    "id": "YeXtYaMFxeI",
-    "vidUrl": "https://youtu.be/YeXtYaMFxeI",
-    "vidTitle": "VTuber Attempts to Build FIRST Gunpla",
-    "channelId": "@maevevnu",
-    "channelName": "Maeve Kagekiri Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/chqWD1VyGO8YdOq75KWxKvH0RcBMayDUlmtDeO9Btb__V9Zr-ow3CSoiOfhE3SrynzSC9J8=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Maeve",
-    "scheduledStartTime": "2024-04-20T22:00:00Z",
-    "actualStartTime": "2024-04-20T22:00:06Z",
-    "premiere": false
-  },
-  {
     "id": "2eSO_xW84xg",
     "vidUrl": "https://youtu.be/2eSO_xW84xg",
     "vidTitle": "A-A-Are you trying to bribe me into doing ASMR?!",
@@ -274,6 +262,18 @@
     "scheduledStartTime": "2024-04-20T23:00:00Z",
     "actualStartTime": "",
     "premiere": true
+  },
+  {
+    "id": "W_sL2nwDXx0",
+    "vidUrl": "https://youtu.be/W_sL2nwDXx0",
+    "vidTitle": "I CAN'T PLAY THIS (heart rate monitor included)",
+    "channelId": "@rakunpoko",
+    "channelName": "Poko Rakun Ch. idol-EN",
+    "channelThumb": "https://yt3.ggpht.com/ma1Az7kp5ye3ZWtR9IGoFcWEVQ6ReN8VugO_PGP6qokwj430zQKuR9Uo_L5N3gCVTWsH_vQT1w=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Poko",
+    "scheduledStartTime": "2024-04-20T23:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
   },
   {
     "id": "eAkrUwnPTkU",
@@ -2176,32 +2176,6 @@
     "shortName": "Misma",
     "scheduledStartTime": "2024-04-20T18:00:00Z",
     "actualStartTime": "2024-04-20T17:58:19Z",
-    "premiere": false
-  },
-  {
-    "id": "InofcnH5BK4",
-    "vidUrl": "https://youtu.be/InofcnH5BK4",
-    "vidTitle": "\ud83d\udd34\u3010Cookie Clicker\u3011...in 2024? CLICKIN' COOKIES AND GETTIN' RICH!",
-    "channelId": "@koziichu",
-    "channelName": "KoziiChu",
-    "channelThumb": "https://yt3.ggpht.com/pt7bh9RYZ3pOOWcrG50EYG7lzCsC8s8hq67f0mX9l5F9P9Igly4mbCxB4RW4h4Mp2xcfMOaA=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Koziichu",
-    "scheduledStartTime": "2024-04-20T19:00:00Z",
-    "actualStartTime": "2024-04-20T18:59:34Z",
-    "premiere": false
-  },
-  {
-    "id": "a7JMqOrzXDw",
-    "vidUrl": "https://youtu.be/a7JMqOrzXDw",
-    "vidTitle": "\u3010Surgeon Simulator\u3011Removing All Your Bad Parts.\u3010Yume+ | Mimosa Shirosaki\u3011",
-    "channelId": "@mimosashirosaki",
-    "channelName": "Mimosa Shirosaki \u3010Yume+\u3011",
-    "channelThumb": "https://yt3.ggpht.com/N2epFpbQoGAzXd6q2EhpasgOviB2OuG9AvbQnDVY3HbugpsY5WDZ_p5Um93pEeNBKsJaGFXz=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Mimosa",
-    "scheduledStartTime": "2024-04-20T19:00:00Z",
-    "actualStartTime": "2024-04-20T19:01:16Z",
     "premiere": false
   },
   {

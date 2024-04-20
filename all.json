@@ -180,18 +180,6 @@
     "premiere": false
   },
   {
-    "id": "YeXtYaMFxeI",
-    "vidUrl": "https://youtu.be/YeXtYaMFxeI",
-    "vidTitle": "VTuber Attempts to Build FIRST Gunpla",
-    "channelId": "@maevevnu",
-    "channelName": "Maeve Kagekiri Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/chqWD1VyGO8YdOq75KWxKvH0RcBMayDUlmtDeO9Btb__V9Zr-ow3CSoiOfhE3SrynzSC9J8=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Maeve",
-    "scheduledStartTime": "2024-04-20T22:00:00Z",
-    "actualStartTime": "2024-04-20T22:00:06Z",
-    "premiere": false
-  },
-  {
     "id": "MppOJkTx2zc",
     "vidUrl": "https://youtu.be/MppOJkTx2zc",
     "vidTitle": "\u3010DAY1\u3011BIRTHDAY PARTY TIME!! #HappyRANday2024\u3010Ran Tsukiha | Production kawaii\u3011",
@@ -240,18 +228,6 @@
     "premiere": false
   },
   {
-    "id": "2eSO_xW84xg",
-    "vidUrl": "https://youtu.be/2eSO_xW84xg",
-    "vidTitle": "A-A-Are you trying to bribe me into doing ASMR?!",
-    "channelId": "@inamiyokich",
-    "channelName": "Inami Yoki Ch.",
-    "channelThumb": "https://yt3.ggpht.com/vCtnJzYIQZi4DtDvSMyEpWdolmNJoIzlO4YD0036Tm2-sRRYRjPNL0xikMCq2Q8p4hqcAKaY9V4=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Yoki",
-    "scheduledStartTime": "2024-04-20T22:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "VE-KrRNwBtg",
     "vidUrl": "https://youtu.be/VE-KrRNwBtg",
     "vidTitle": "\u3010BALDUR'S GATE 3\u3011 LET'S GO TO THE CIRCUS! (pt 19) \u3010NIJISANJI EN | Aia Amare \u3011",
@@ -259,6 +235,18 @@
     "channelName": "Aia Amare \u3010NIJISANJI EN\u3011",
     "channelThumb": "https://yt3.ggpht.com/ZtRcLNqOjG8w9CMolweuy-jnNGin0W0KjxVxUpzni3uvqKY6rJgnAphvHOEmxcqSV7yXwqkKcg=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Aia",
+    "scheduledStartTime": "2024-04-20T22:00:00Z",
+    "actualStartTime": "2024-04-20T22:10:52Z",
+    "premiere": false
+  },
+  {
+    "id": "2eSO_xW84xg",
+    "vidUrl": "https://youtu.be/2eSO_xW84xg",
+    "vidTitle": "A-A-Are you trying to bribe me into doing ASMR?!",
+    "channelId": "@inamiyokich",
+    "channelName": "Inami Yoki Ch.",
+    "channelThumb": "https://yt3.ggpht.com/vCtnJzYIQZi4DtDvSMyEpWdolmNJoIzlO4YD0036Tm2-sRRYRjPNL0xikMCq2Q8p4hqcAKaY9V4=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Yoki",
     "scheduledStartTime": "2024-04-20T22:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -322,6 +310,18 @@
     "scheduledStartTime": "2024-04-20T23:00:00Z",
     "actualStartTime": "",
     "premiere": true
+  },
+  {
+    "id": "W_sL2nwDXx0",
+    "vidUrl": "https://youtu.be/W_sL2nwDXx0",
+    "vidTitle": "I CAN'T PLAY THIS (heart rate monitor included)",
+    "channelId": "@rakunpoko",
+    "channelName": "Poko Rakun Ch. idol-EN",
+    "channelThumb": "https://yt3.ggpht.com/ma1Az7kp5ye3ZWtR9IGoFcWEVQ6ReN8VugO_PGP6qokwj430zQKuR9Uo_L5N3gCVTWsH_vQT1w=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Poko",
+    "scheduledStartTime": "2024-04-20T23:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
   },
   {
     "id": "cLy3_9Aftlg",
@@ -836,6 +836,18 @@
     "channelThumb": "https://yt3.ggpht.com/GR1e8gQ-x7ehgpqAZmrwoJBI7ReZneaTR6PEQvgcW3kIabEvfTenrpiNRWZSH6QpysfZftKKrA=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Wilson",
     "scheduledStartTime": "2024-04-21T12:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "3Rhf2FLphv4",
+    "vidUrl": "https://youtu.be/3Rhf2FLphv4",
+    "vidTitle": "\u3010HONKAI: STAR RAIL\u3011ACCOUNT INTRODUCTION HEHE\u3010NIJISANJI EN | Vezalius Bandage\u3011",
+    "channelId": "@vezaliusbandage",
+    "channelName": "Vezalius Bandage \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/rnqrntYI1y38pqQeqYAmX3_gG1vZ-iYeMGHY0nCC-lxqKdoBspKriRXzMPv7PByMydEYm9YvvzU=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Zali",
+    "scheduledStartTime": "2024-04-21T13:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -1958,19 +1970,6 @@
     "premiere": false
   },
   {
-    "id": "jC6fspDfjQI",
-    "vidUrl": "https://youtu.be/jC6fspDfjQI",
-    "vidTitle": "\u3010Like a Dragon: Infinite Wealth\u3011the filler episode #kfp (spoiler warning)",
-    "channelId": "@takanashikiara",
-    "channelName": "Takanashi Kiara Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/w7TKJYU7zmamFmf-WxfahCo_K7Bg2__Pk-CCBNnbewMG-77OZLqJO9MLvDAmH9nEkZH8OkWgSQ=s88-c-k-c0x00ffffff-no-nd-rj",
-    "graveyard": true,
-    "shortName": "Kiara",
-    "scheduledStartTime": "2024-04-20T14:00:00Z",
-    "actualStartTime": "2024-04-20T14:04:06Z",
-    "premiere": false
-  },
-  {
     "id": "ptgFpjf51Pc",
     "vidUrl": "https://youtu.be/ptgFpjf51Pc",
     "vidTitle": "\u3010BALDUR'S GATE 3\u3011We will kill the unkillable #EZ\u3010globie 1st Gen\u3011",
@@ -2111,32 +2110,6 @@
     "shortName": "Misma",
     "scheduledStartTime": "2024-04-20T18:00:00Z",
     "actualStartTime": "2024-04-20T17:58:19Z",
-    "premiere": false
-  },
-  {
-    "id": "InofcnH5BK4",
-    "vidUrl": "https://youtu.be/InofcnH5BK4",
-    "vidTitle": "\ud83d\udd34\u3010Cookie Clicker\u3011...in 2024? CLICKIN' COOKIES AND GETTIN' RICH!",
-    "channelId": "@koziichu",
-    "channelName": "KoziiChu",
-    "channelThumb": "https://yt3.ggpht.com/pt7bh9RYZ3pOOWcrG50EYG7lzCsC8s8hq67f0mX9l5F9P9Igly4mbCxB4RW4h4Mp2xcfMOaA=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Koziichu",
-    "scheduledStartTime": "2024-04-20T19:00:00Z",
-    "actualStartTime": "2024-04-20T18:59:34Z",
-    "premiere": false
-  },
-  {
-    "id": "a7JMqOrzXDw",
-    "vidUrl": "https://youtu.be/a7JMqOrzXDw",
-    "vidTitle": "\u3010Surgeon Simulator\u3011Removing All Your Bad Parts.\u3010Yume+ | Mimosa Shirosaki\u3011",
-    "channelId": "@mimosashirosaki",
-    "channelName": "Mimosa Shirosaki \u3010Yume+\u3011",
-    "channelThumb": "https://yt3.ggpht.com/N2epFpbQoGAzXd6q2EhpasgOviB2OuG9AvbQnDVY3HbugpsY5WDZ_p5Um93pEeNBKsJaGFXz=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Mimosa",
-    "scheduledStartTime": "2024-04-20T19:00:00Z",
-    "actualStartTime": "2024-04-20T19:01:16Z",
     "premiere": false
   },
   {
