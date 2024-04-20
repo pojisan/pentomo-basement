@@ -1,17 +1,5 @@
 [
   {
-    "id": "Mis8gjL68rY",
-    "vidUrl": "https://youtu.be/Mis8gjL68rY",
-    "vidTitle": "\u3010 VCR RUST \u3011\u30a2\u30a4\u30e0\u3000\u30bd\u30fc\u3000\u30cf\u30c3\u30d4\u30fc\uff01\uff01\u3000#7",
-    "channelId": "@moricalliope",
-    "channelName": "Mori Calliope Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/8B_T08sx8R7XVi5Mwx_l9sjQm5FGWGspeujSvVDvd80Zyr-3VvVTRGVLOnBrqNRxZp6ZeXAV=s88-c-k-c0x00ffffff-no-nd-rj",
-    "shortName": "Mori",
-    "scheduledStartTime": "2024-04-20T10:59:16Z",
-    "actualStartTime": "2024-04-20T10:59:54Z",
-    "premiere": false
-  },
-  {
     "id": "53CE8z1LdtI",
     "vidUrl": "https://youtu.be/53CE8z1LdtI",
     "vidTitle": "\u226a VCR RUST \u226b GAMBLE....IKU?!?! #4",
@@ -45,18 +33,6 @@
     "shortName": "Meloco",
     "scheduledStartTime": "2024-04-20T12:30:00Z",
     "actualStartTime": "2024-04-20T12:41:00Z",
-    "premiere": false
-  },
-  {
-    "id": "EA7aem26UCM",
-    "vidUrl": "https://youtu.be/EA7aem26UCM",
-    "vidTitle": "\u3010CONTENT WARNING\u3011gonna go viral with lil kitten@SaraNyan in content warning\u3010ArashiNebula_HOSHIZORA\u3011",
-    "channelId": "@arashinebula2112",
-    "channelName": "Arashi Nebula",
-    "channelThumb": "https://yt3.ggpht.com/-jw5oxt97JESkHso-kFi1Cr5C1sFn0Lkc00j66E8l_FiOJ_VJIolE8r0jG0V8KPXe6W5dG8q=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Nebula",
-    "scheduledStartTime": "2024-04-20T13:00:00Z",
-    "actualStartTime": "2024-04-20T13:00:13Z",
     "premiere": false
   },
   {
@@ -2190,6 +2166,32 @@
     "shortName": "Noah",
     "scheduledStartTime": "2024-04-20T09:40:00Z",
     "actualStartTime": "2024-04-20T09:39:42Z",
+    "premiere": false
+  },
+  {
+    "id": "Mis8gjL68rY",
+    "vidUrl": "https://youtu.be/Mis8gjL68rY",
+    "vidTitle": "\u3010 VCR RUST \u3011\u30a2\u30a4\u30e0\u3000\u30bd\u30fc\u3000\u30cf\u30c3\u30d4\u30fc\uff01\uff01\u3000#7",
+    "channelId": "@moricalliope",
+    "channelName": "Mori Calliope Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/8B_T08sx8R7XVi5Mwx_l9sjQm5FGWGspeujSvVDvd80Zyr-3VvVTRGVLOnBrqNRxZp6ZeXAV=s88-c-k-c0x00ffffff-no-nd-rj",
+    "graveyard": true,
+    "shortName": "Mori",
+    "scheduledStartTime": "2024-04-20T10:59:16Z",
+    "actualStartTime": "2024-04-20T10:59:54Z",
+    "premiere": false
+  },
+  {
+    "id": "EA7aem26UCM",
+    "vidUrl": "https://youtu.be/EA7aem26UCM",
+    "vidTitle": "\u3010CONTENT WARNING\u3011gonna go viral with lil kitten@SaraNyan in content warning\u3010ArashiNebula_HOSHIZORA\u3011",
+    "channelId": "@arashinebula2112",
+    "channelName": "Arashi Nebula",
+    "channelThumb": "https://yt3.ggpht.com/-jw5oxt97JESkHso-kFi1Cr5C1sFn0Lkc00j66E8l_FiOJ_VJIolE8r0jG0V8KPXe6W5dG8q=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Nebula",
+    "scheduledStartTime": "2024-04-20T13:00:00Z",
+    "actualStartTime": "2024-04-20T13:00:13Z",
     "premiere": false
   },
   {
