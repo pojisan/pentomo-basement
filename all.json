@@ -84,18 +84,6 @@
     "premiere": false
   },
   {
-    "id": "x4Kbu2dUwH0",
-    "vidUrl": "https://youtu.be/x4Kbu2dUwH0",
-    "vidTitle": "\u3010 COLLAB \u3011Spin the Wheel Word Game! Failure = Batsu Wheel! First time collab with @ReinaSunCh! \ud83d\ude08\ud83c\udf3e",
-    "channelId": "@hiyorimokami",
-    "channelName": "Hiyori Mokami Ch. \u6843\u795e\u65e5\u548c\u3010kawaii\u3011",
-    "channelThumb": "https://yt3.ggpht.com/Vj2QGSwnGea4gY_hmHATQTkM-2noJld4JtpdmiHmXRerJ2umbuiPZwDfLeWVOrXteS4vXqZlCw=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Hiyori",
-    "scheduledStartTime": "2024-04-20T00:00:00Z",
-    "actualStartTime": "2024-04-20T00:11:53Z",
-    "premiere": false
-  },
-  {
     "id": "018G23AxKs8",
     "vidUrl": "https://youtu.be/018G23AxKs8",
     "vidTitle": "let's chat about my life and (very bright!!!) future and u ig lol\u3010zatsudan\u3011",
@@ -120,18 +108,6 @@
     "premiere": false
   },
   {
-    "id": "9k38Wn9gPP4",
-    "vidUrl": "https://youtu.be/9k38Wn9gPP4",
-    "vidTitle": "\u3010HELLO KITTY ISLAND ADVENTURE\u3011game of the year\u3010Dokibird\u3011",
-    "channelId": "@dokibird",
-    "channelName": "Dokibird",
-    "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_m53sCnXF6ENdSpHx-q_4fOn-EGaIteMhq8HX17zcGwzeQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Doki",
-    "scheduledStartTime": "2024-04-20T00:30:00Z",
-    "actualStartTime": "2024-04-20T01:09:32Z",
-    "premiere": false
-  },
-  {
     "id": "OzH088kXnO0",
     "vidUrl": "https://youtu.be/OzH088kXnO0",
     "vidTitle": "\u3010Dark Souls 3\u3011When will I meet the next boss?",
@@ -141,18 +117,6 @@
     "shortName": "Elayna",
     "scheduledStartTime": "2024-04-20T00:45:00Z",
     "actualStartTime": "2024-04-20T00:47:38Z",
-    "premiere": false
-  },
-  {
-    "id": "lOIT-57g3eE",
-    "vidUrl": "https://youtu.be/lOIT-57g3eE",
-    "vidTitle": "\u3010COLLAB\u3011WILL OUR FRIENDSHIP SURVIVE?!\u3010Yumi The Witch | @SerinaMaiko  |V4Mirai | ENVtuber\u3011",
-    "channelId": "@yumithewitch",
-    "channelName": "Yumi the Witch Ch.\u3010V4Mirai\u3011",
-    "channelThumb": "https://yt3.ggpht.com/k481pwD9PWdvammPbZ6YdWWA8Aw8TuvTmVvep2ICveehwHFlc0oubCggJajlD_2uhwdahA6X1w=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Yumi",
-    "scheduledStartTime": "2024-04-20T01:00:00Z",
-    "actualStartTime": "2024-04-20T01:01:14Z",
     "premiere": false
   },
   {
@@ -2518,6 +2482,19 @@
     "premiere": false
   },
   {
+    "id": "9k38Wn9gPP4",
+    "vidUrl": "https://youtu.be/9k38Wn9gPP4",
+    "vidTitle": "\u3010HELLO KITTY ISLAND ADVENTURE\u3011game of the year\u3010Dokibird\u3011",
+    "channelId": "@dokibird",
+    "channelName": "Dokibird",
+    "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_m53sCnXF6ENdSpHx-q_4fOn-EGaIteMhq8HX17zcGwzeQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Doki",
+    "scheduledStartTime": "2024-04-20T00:30:00Z",
+    "actualStartTime": "2024-04-20T01:09:32Z",
+    "premiere": false
+  },
+  {
     "id": "cBPyFJeJiK0",
     "vidUrl": "https://youtu.be/cBPyFJeJiK0",
     "vidTitle": "\u3010BINAURAL XLR ASMR\u3011Let's Visit a Zoo!",
@@ -2528,6 +2505,19 @@
     "shortName": "Nano",
     "scheduledStartTime": "2024-04-20T01:00:00Z",
     "actualStartTime": "2024-04-20T00:59:25Z",
+    "premiere": false
+  },
+  {
+    "id": "lOIT-57g3eE",
+    "vidUrl": "https://youtu.be/lOIT-57g3eE",
+    "vidTitle": "\u3010COLLAB\u3011WILL OUR FRIENDSHIP SURVIVE?!\u3010Yumi The Witch | @SerinaMaiko  |V4Mirai | ENVtuber\u3011",
+    "channelId": "@yumithewitch",
+    "channelName": "Yumi the Witch Ch.\u3010V4Mirai\u3011",
+    "channelThumb": "https://yt3.ggpht.com/k481pwD9PWdvammPbZ6YdWWA8Aw8TuvTmVvep2ICveehwHFlc0oubCggJajlD_2uhwdahA6X1w=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Yumi",
+    "scheduledStartTime": "2024-04-20T01:00:00Z",
+    "actualStartTime": "2024-04-20T01:01:14Z",
     "premiere": false
   },
   {
