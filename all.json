@@ -1,17 +1,5 @@
 [
   {
-    "id": "cLy3_9Aftlg",
-    "vidUrl": "https://youtu.be/cLy3_9Aftlg",
-    "vidTitle": "\u3010Monster Hunter World: Iceborne\u3011LET THE STORM RAGE ON",
-    "channelId": "@kosekibijou",
-    "channelName": "Koseki Bijou Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/75xH5tujXTVPHlQXask8_qTbOeyq0BY4hKxNfvgTrsuqhK_oActrFV197roYikUNZhzayfiLmg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Biboo",
-    "scheduledStartTime": "2024-04-20T23:00:00Z",
-    "actualStartTime": "2024-04-20T22:56:02Z",
-    "premiere": false
-  },
-  {
     "id": "1cjudE_wFLo",
     "vidUrl": "https://youtu.be/1cjudE_wFLo",
     "vidTitle": "mio ft. whiskey",
@@ -33,18 +21,6 @@
     "shortName": "Obake PAM",
     "scheduledStartTime": "2024-04-21T01:00:00Z",
     "actualStartTime": "2024-04-21T01:16:01Z",
-    "premiere": false
-  },
-  {
-    "id": "58yM5bir3Rk",
-    "vidUrl": "https://youtu.be/58yM5bir3Rk",
-    "vidTitle": "\u3010Cry of Fear\u3011 More Bosses Ahead?",
-    "channelId": "@elaynaduskfell",
-    "channelName": "Elayna Duskfell Ch. Legion",
-    "channelThumb": "https://yt3.ggpht.com/0RMVwqYrh_4HAhaUmUL3pP6S0DWfSZ-NZuTe1jfjjlEWVzpnMlI0WAja4rVw1w8EzaVQLjED=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Elayna",
-    "scheduledStartTime": "2024-04-21T01:40:00Z",
-    "actualStartTime": "2024-04-21T01:37:19Z",
     "premiere": false
   },
   {
@@ -81,18 +57,6 @@
     "shortName": "Isabelle",
     "scheduledStartTime": "2024-04-21T02:30:20Z",
     "actualStartTime": "2024-04-21T02:30:55Z",
-    "premiere": false
-  },
-  {
-    "id": "_qV3CvGZdDg",
-    "vidUrl": "https://youtu.be/_qV3CvGZdDg",
-    "vidTitle": "\u3010Goose Goose Duck\u3011ALL V&U COLLAB!!\u3010Yurikago Kokone | V&U\u3011",
-    "channelId": "@yurikagokokone",
-    "channelName": "Kokone Yurikago Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/xwSS6tbTBzvBuI0LLjA-0MQ77ZacslZB2TKN7lXcknwNBswpyMTjp9K4vLTR5B2jH4upTIAT5MI=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Kokone",
-    "scheduledStartTime": "2024-04-21T03:00:00Z",
-    "actualStartTime": "2024-04-21T03:01:04Z",
     "premiere": false
   },
   {
@@ -276,18 +240,6 @@
     "premiere": false
   },
   {
-    "id": "2gyLq2fTAiw",
-    "vidUrl": "https://youtu.be/2gyLq2fTAiw",
-    "vidTitle": "\u3010Livestream 2: Escape from Togaezuka Happy Place\u3011PART TWO! \ud83d\udd78\ufe0f \u3010VOLs\u3011",
-    "channelId": "@mayunocharlotte-vols",
-    "channelName": "Mayuno A. Charlotte - VOLs",
-    "channelThumb": "https://yt3.ggpht.com/I8IJ1Mc_mhQXeqAzhvpXj6kFF_LOMS1MeIpEBgBt1tt2DuqupCXmAgTjy9LLGLNtdjQbGE5jIg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Charlotte",
-    "scheduledStartTime": "2024-04-21T12:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "8FSR08ak35k",
     "vidUrl": "https://youtu.be/8FSR08ak35k",
     "vidTitle": "\u3010SIMS 4\u3011THE CRAZIEST THING IN THE MAKING\u3010NIJISANJI EN | Yu Q. Wilson\u3011",
@@ -308,6 +260,18 @@
     "channelThumb": "https://yt3.ggpht.com/X1LtitsaIYwwrNyC5vmTCzUJUC1LHRlrkBcVHQIUkGb--Sj8ZrX_FFB7HwbG5oum7oNf80mZ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Doppio",
     "scheduledStartTime": "2024-04-21T12:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "rzXiO9szxPc",
+    "vidUrl": "https://youtu.be/rzXiO9szxPc",
+    "vidTitle": "\u3010Livestream 2: Escape from Togaezuka Happy Place\u3011MORE PANTSU I MEAN HORROR LETSGO \ud83d\udd78\ufe0f \u3010VOLs\u3011",
+    "channelId": "@mayunocharlotte-vols",
+    "channelName": "Mayuno A. Charlotte - VOLs",
+    "channelThumb": "https://yt3.ggpht.com/I8IJ1Mc_mhQXeqAzhvpXj6kFF_LOMS1MeIpEBgBt1tt2DuqupCXmAgTjy9LLGLNtdjQbGE5jIg=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Charlotte",
+    "scheduledStartTime": "2024-04-21T12:30:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -584,6 +548,18 @@
     "channelThumb": "https://yt3.ggpht.com/7yN9yQvJhx4cVCL5rLOgsBYiRtRMYEurmtjT0DosKX6qpuoSm9zeo4ELHwy7RW-knfVPzNEqAg=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Nikki",
     "scheduledStartTime": "2024-04-21T20:45:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "7YmtIwipwFQ",
+    "vidUrl": "https://youtu.be/7YmtIwipwFQ",
+    "vidTitle": "Saving the Galaxy!!!\u3010Helldivers 2\u3011w/ @rakunpoko @KaiSaikota",
+    "channelId": "@fuyocloverfield",
+    "channelName": "Fuyo Cloverfield Ch. idol-EN",
+    "channelThumb": "https://yt3.ggpht.com/vqd3NC2ixgsJGUcvuvCIbQ-iDDwb6ESIgj791dJQhJ8gZ6OtG3-C2yzcfVPMPDF3cwU_eVeojHQ=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Fuyo",
+    "scheduledStartTime": "2024-04-21T21:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -1787,6 +1763,19 @@
     "premiere": false
   },
   {
+    "id": "cLy3_9Aftlg",
+    "vidUrl": "https://youtu.be/cLy3_9Aftlg",
+    "vidTitle": "\u3010Monster Hunter World: Iceborne\u3011LET THE STORM RAGE ON",
+    "channelId": "@kosekibijou",
+    "channelName": "Koseki Bijou Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/75xH5tujXTVPHlQXask8_qTbOeyq0BY4hKxNfvgTrsuqhK_oActrFV197roYikUNZhzayfiLmg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Biboo",
+    "scheduledStartTime": "2024-04-20T23:00:00Z",
+    "actualStartTime": "2024-04-20T22:56:02Z",
+    "premiere": false
+  },
+  {
     "id": "2NnUISq6fGY",
     "vidUrl": "https://youtu.be/2NnUISq6fGY",
     "vidTitle": "Unarchive Karaoke #shortslive #shorts",
@@ -1800,29 +1789,16 @@
     "premiere": false
   },
   {
-    "id": "wh4sifKFbwA",
-    "vidUrl": "https://youtu.be/wh4sifKFbwA",
-    "vidTitle": "semiannual imouto evaluation (april 2024)",
-    "channelId": "@charlottesuzu",
-    "channelName": "Charlotte Suzu / \u30b7\u30e3\u30fc\u30ed\u30c3\u30c8\u30fb\u30b9\u30ba \u3010kawaii\u3011",
-    "channelThumb": "https://yt3.ggpht.com/GsB4xQkkRT82EzVSuT8nU34Dj0MoofYZRwsTw2WWy4DHpvrGkmN2_59njomL2MuZCuR0I7i3-XM=s88-c-k-c0x00ffffff-no-rj",
+    "id": "58yM5bir3Rk",
+    "vidUrl": "https://youtu.be/58yM5bir3Rk",
+    "vidTitle": "\u3010Cry of Fear\u3011 More Bosses Ahead?",
+    "channelId": "@elaynaduskfell",
+    "channelName": "Elayna Duskfell Ch. Legion",
+    "channelThumb": "https://yt3.ggpht.com/0RMVwqYrh_4HAhaUmUL3pP6S0DWfSZ-NZuTe1jfjjlEWVzpnMlI0WAja4rVw1w8EzaVQLjED=s88-c-k-c0x00ffffff-no-rj",
     "graveyard": true,
-    "shortName": "Charzu",
-    "scheduledStartTime": "2024-04-21T01:59:22Z",
-    "actualStartTime": "2024-04-21T01:59:35Z",
-    "premiere": false
-  },
-  {
-    "id": "0Yfu1q3g-GM",
-    "vidUrl": "https://youtu.be/0Yfu1q3g-GM",
-    "vidTitle": "\u3010GOOSE GOOSE DUCK\u3011 my no screaming/raging/yelling/screeching/shrieking challenge (BIG V&U COLLAB)",
-    "channelId": "@amoriavnu",
-    "channelName": "Amoria Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/xE9UTkowb3ioACbhZJuLwEGgBQEq4akaOHZZBTGmgn807ALVQKp91t_Gr74tgSpWRmN7SaEgnQ=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Amoria",
-    "scheduledStartTime": "2024-04-21T03:00:00Z",
-    "actualStartTime": "2024-04-21T03:02:01Z",
+    "shortName": "Elayna",
+    "scheduledStartTime": "2024-04-21T01:40:00Z",
+    "actualStartTime": "2024-04-21T01:37:19Z",
     "premiere": false
   },
   {
@@ -1839,19 +1815,6 @@
     "premiere": false
   },
   {
-    "id": "F0joM4k0Y0I",
-    "vidUrl": "https://youtu.be/F0joM4k0Y0I",
-    "vidTitle": "\u3016Goose Goose Duck\u3017Gen 5 is free, so its time for a 'V&U unalives each other' collab!\u3016Cyon \u2765 V&U\u3017",
-    "channelId": "@cyonvnu",
-    "channelName": "Cyon Hart Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/gsviy0KcEYuRE4MyNsKcEBoS0lIaW9wgkz9raEwVrQ0tIUM473cN8ORz-rdHps1IYSHxZdzI_g=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Cyon",
-    "scheduledStartTime": "2024-04-21T03:00:00Z",
-    "actualStartTime": "2024-04-21T03:03:31Z",
-    "premiere": false
-  },
-  {
     "id": "JmDOQjuqpqo",
     "vidUrl": "https://youtu.be/JmDOQjuqpqo",
     "vidTitle": "Among Us...but with birds...?",
@@ -1862,32 +1825,6 @@
     "shortName": "Mivi",
     "scheduledStartTime": "2024-04-21T03:00:00Z",
     "actualStartTime": "2024-04-21T03:04:39Z",
-    "premiere": false
-  },
-  {
-    "id": "feF314LAJ6I",
-    "vidUrl": "https://youtu.be/feF314LAJ6I",
-    "vidTitle": "\u3010GOOSE GOOSE DUCK\u3011little kouhai's.................\u3010V&U | GEN4\u3011",
-    "channelId": "@zelivnu",
-    "channelName": "Zeli Zuimu Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/x-Jy2Z-kGAif3VDun_IhsnyYfzF5aWhNbwG6fcms85aKwauMlcr0dwA2onUFirEFs2BD8YFwjWg=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Zeli",
-    "scheduledStartTime": "2024-04-21T03:00:00Z",
-    "actualStartTime": "2024-04-21T03:06:47Z",
-    "premiere": false
-  },
-  {
-    "id": "P6RG2GrzAoQ",
-    "vidUrl": "https://youtu.be/P6RG2GrzAoQ",
-    "vidTitle": "GOOSE GOOSE DUCK #shorts #shortslive #shortsgaming",
-    "channelId": "@zelivnu",
-    "channelName": "Zeli Zuimu Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/x-Jy2Z-kGAif3VDun_IhsnyYfzF5aWhNbwG6fcms85aKwauMlcr0dwA2onUFirEFs2BD8YFwjWg=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Zeli",
-    "scheduledStartTime": "2024-04-21T03:00:00Z",
-    "actualStartTime": "2024-04-21T03:07:42Z",
     "premiere": false
   },
   {
@@ -2277,19 +2214,6 @@
     "graveyard": true,
     "shortName": "Hades",
     "scheduledStartTime": "2024-04-19T00:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "rzXiO9szxPc",
-    "vidUrl": "https://youtu.be/rzXiO9szxPc",
-    "vidTitle": "\u3010Livestream 2: Escape from Togaezuka Happy Place\u3011MORE PANTSU I MEAN HORROR LETSGO \ud83d\udd78\ufe0f \u3010VOLs\u3011",
-    "channelId": "@mayunocharlotte-vols",
-    "channelName": "Mayuno A. Charlotte - VOLs",
-    "channelThumb": "https://yt3.ggpht.com/I8IJ1Mc_mhQXeqAzhvpXj6kFF_LOMS1MeIpEBgBt1tt2DuqupCXmAgTjy9LLGLNtdjQbGE5jIg=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Charlotte",
-    "scheduledStartTime": "2024-04-20T12:00:00Z",
     "actualStartTime": "",
     "premiere": false
   }
