@@ -36,18 +36,6 @@
     "premiere": false
   },
   {
-    "id": "Gc7HN0Vnt0U",
-    "vidUrl": "https://youtu.be/Gc7HN0Vnt0U",
-    "vidTitle": "STREAM ZODIAC NOW! #shorts #vrchat",
-    "channelId": "@hakosbaelz",
-    "channelName": "Hakos Baelz Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/SSZxkgjfV0O05zq1bBLOI0PszOCoxuPrANQ0Ysngsd0t81mnkwzEgIW2ypSIQJLn8swR14zLJQ=s88-c-k-c0x00ffffff-no-nd-rj",
-    "shortName": "Bae",
-    "scheduledStartTime": "2024-04-21T03:30:00Z",
-    "actualStartTime": "2024-04-21T03:32:13Z",
-    "premiere": false
-  },
-  {
     "id": "xGgKKwc-jWg",
     "vidUrl": "https://youtu.be/xGgKKwc-jWg",
     "vidTitle": "\u3010ORIGINAL MV\u3011E I E N  || Hakos Baelz",
@@ -56,8 +44,8 @@
     "channelThumb": "https://yt3.ggpht.com/SSZxkgjfV0O05zq1bBLOI0PszOCoxuPrANQ0Ysngsd0t81mnkwzEgIW2ypSIQJLn8swR14zLJQ=s88-c-k-c0x00ffffff-no-nd-rj",
     "shortName": "Bae",
     "scheduledStartTime": "2024-04-21T05:00:00Z",
-    "actualStartTime": "",
-    "premiere": true
+    "actualStartTime": "2024-04-21T05:00:08Z",
+    "premiere": false
   },
   {
     "id": "4EMXdKuZnjk",
@@ -117,6 +105,19 @@
     "shortName": "FWMC",
     "scheduledStartTime": "2024-04-28T01:00:00Z",
     "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "Gc7HN0Vnt0U",
+    "vidUrl": "https://youtu.be/Gc7HN0Vnt0U",
+    "vidTitle": "STREAM ZODIAC NOW! #shorts #vrchat",
+    "channelId": "@hakosbaelz",
+    "channelName": "Hakos Baelz Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/SSZxkgjfV0O05zq1bBLOI0PszOCoxuPrANQ0Ysngsd0t81mnkwzEgIW2ypSIQJLn8swR14zLJQ=s88-c-k-c0x00ffffff-no-nd-rj",
+    "graveyard": true,
+    "shortName": "Bae",
+    "scheduledStartTime": "2024-04-21T03:30:00Z",
+    "actualStartTime": "2024-04-21T03:32:13Z",
     "premiere": false
   }
 ]
