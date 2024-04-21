@@ -1,17 +1,5 @@
 [
   {
-    "id": "3Rhf2FLphv4",
-    "vidUrl": "https://youtu.be/3Rhf2FLphv4",
-    "vidTitle": "\u3010HONKAI: STAR RAIL\u3011ACCOUNT INTRODUCTION HEHE & AVENTURINE PULL\u3010NIJISANJI EN | Vezalius Bandage\u3011",
-    "channelId": "@vezaliusbandage",
-    "channelName": "Vezalius Bandage \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/rnqrntYI1y38pqQeqYAmX3_gG1vZ-iYeMGHY0nCC-lxqKdoBspKriRXzMPv7PByMydEYm9YvvzU=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Zali",
-    "scheduledStartTime": "2024-04-21T13:00:00Z",
-    "actualStartTime": "2024-04-21T13:01:52Z",
-    "premiere": false
-  },
-  {
     "id": "ZcQpjTONQnI",
     "vidUrl": "https://youtu.be/ZcQpjTONQnI",
     "vidTitle": "\u3010BUG FABLES\u3011 a Delightful sunDay \u3010NIJISANJI EN | Enna Alouette\u3011",
@@ -81,18 +69,6 @@
     "shortName": "Arial",
     "scheduledStartTime": "2024-04-21T16:00:00Z",
     "actualStartTime": "2024-04-21T15:56:37Z",
-    "premiere": false
-  },
-  {
-    "id": "FZDYhD5Zzak",
-    "vidUrl": "https://youtu.be/FZDYhD5Zzak",
-    "vidTitle": "\u3010KARAOKE\u3011EMO SONGS\u3010Yume+ | Mimosa Shirosaki\u3011",
-    "channelId": "@mimosashirosaki",
-    "channelName": "Mimosa Shirosaki \u3010Yume+\u3011",
-    "channelThumb": "https://yt3.ggpht.com/N2epFpbQoGAzXd6q2EhpasgOviB2OuG9AvbQnDVY3HbugpsY5WDZ_p5Um93pEeNBKsJaGFXz=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Mimosa",
-    "scheduledStartTime": "2024-04-21T16:00:00Z",
-    "actualStartTime": "2024-04-21T15:59:36Z",
     "premiere": false
   },
   {
@@ -204,18 +180,6 @@
     "premiere": false
   },
   {
-    "id": "Hh_ywgfc5Xo",
-    "vidUrl": "https://youtu.be/Hh_ywgfc5Xo",
-    "vidTitle": "PLEASE DON'T CURSE ME... (First Dark Souls playthrough)",
-    "channelId": "@rourinroca",
-    "channelName": "Roca Rourin Ch. idol-EN",
-    "channelThumb": "https://yt3.ggpht.com/eBm5-Is9XQiT7Ct2XPL-eAPzgNXgHqbHjgIb_z76sHswS5dVISwa8Ty-R9zVkHeBCxiVnL7-UQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Roca",
-    "scheduledStartTime": "2024-04-21T19:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "JRAgsCyWbRA",
     "vidUrl": "https://youtu.be/JRAgsCyWbRA",
     "vidTitle": "[LUNCH TIME ZATSU]  YUM TOWN TIME TO EAT!! [V&U | GEN 5]",
@@ -283,6 +247,18 @@
     "channelName": "Dr.NOVA(e) Ch.\u3010V4Mirai\u3011",
     "channelThumb": "https://yt3.ggpht.com/Q5uPSXLX-UaT7iQ1VRWbehhySRrtvEcWEA-ey6HfpVmHlZSz5zUrlC9g5UQuNfsgO5UOjJfI_Q=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Novae",
+    "scheduledStartTime": "2024-04-21T20:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "Hh_ywgfc5Xo",
+    "vidUrl": "https://youtu.be/Hh_ywgfc5Xo",
+    "vidTitle": "PLEASE DON'T CURSE ME... (First Dark Souls playthrough)",
+    "channelId": "@rourinroca",
+    "channelName": "Roca Rourin Ch. idol-EN",
+    "channelThumb": "https://yt3.ggpht.com/eBm5-Is9XQiT7Ct2XPL-eAPzgNXgHqbHjgIb_z76sHswS5dVISwa8Ty-R9zVkHeBCxiVnL7-UQ=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Roca",
     "scheduledStartTime": "2024-04-21T20:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2502,6 +2478,19 @@
     "premiere": false
   },
   {
+    "id": "3Rhf2FLphv4",
+    "vidUrl": "https://youtu.be/3Rhf2FLphv4",
+    "vidTitle": "\u3010HONKAI: STAR RAIL\u3011ACCOUNT INTRODUCTION HEHE & AVENTURINE PULL\u3010NIJISANJI EN | Vezalius Bandage\u3011",
+    "channelId": "@vezaliusbandage",
+    "channelName": "Vezalius Bandage \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/rnqrntYI1y38pqQeqYAmX3_gG1vZ-iYeMGHY0nCC-lxqKdoBspKriRXzMPv7PByMydEYm9YvvzU=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Zali",
+    "scheduledStartTime": "2024-04-21T13:00:00Z",
+    "actualStartTime": "2024-04-21T13:01:52Z",
+    "premiere": false
+  },
+  {
     "id": "RSxwMng3vfo",
     "vidUrl": "https://youtu.be/RSxwMng3vfo",
     "vidTitle": "[MTG ARENA] GALE is in MY DECK?! (horrible)",
@@ -2512,6 +2501,19 @@
     "shortName": "Reina",
     "scheduledStartTime": "2024-04-21T14:00:00Z",
     "actualStartTime": "2024-04-21T14:01:17Z",
+    "premiere": false
+  },
+  {
+    "id": "FZDYhD5Zzak",
+    "vidUrl": "https://youtu.be/FZDYhD5Zzak",
+    "vidTitle": "\u3010KARAOKE\u3011EMO SONGS\u3010Yume+ | Mimosa Shirosaki\u3011",
+    "channelId": "@mimosashirosaki",
+    "channelName": "Mimosa Shirosaki \u3010Yume+\u3011",
+    "channelThumb": "https://yt3.ggpht.com/N2epFpbQoGAzXd6q2EhpasgOviB2OuG9AvbQnDVY3HbugpsY5WDZ_p5Um93pEeNBKsJaGFXz=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Mimosa",
+    "scheduledStartTime": "2024-04-21T16:00:00Z",
+    "actualStartTime": "2024-04-21T15:59:36Z",
     "premiere": false
   },
   {
