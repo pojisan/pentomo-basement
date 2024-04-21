@@ -24,18 +24,6 @@
     "premiere": false
   },
   {
-    "id": "NlFv4-ibOEw",
-    "vidUrl": "https://youtu.be/NlFv4-ibOEw",
-    "vidTitle": "\u3010KARAOKE\u3011BANANA RABBIT IDOL\u3010VOLs\u3011",
-    "channelId": "@shirousamikumi",
-    "channelName": "ShirousaMikumi - VOLs",
-    "channelThumb": "https://yt3.ggpht.com/6Jy6Uud2Vx08hfesvUg3vb2cSd0tj_30_Eeq-Ypg3jK7srTbiGUJKE94YJhedV96ExRC6-KGDA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Mikumi",
-    "scheduledStartTime": "2024-04-21T10:30:00Z",
-    "actualStartTime": "2024-04-21T10:37:37Z",
-    "premiere": false
-  },
-  {
     "id": "BxImEBaoK8Y",
     "vidUrl": "https://youtu.be/BxImEBaoK8Y",
     "vidTitle": "\u3010JUST CHATTING\u3011HAVE YOU SEEN THE MAJOR ANNOUNCEMENT YET??? MAGH0HUBAD NA KAMI! \ud83e\udd29 #vtuber #shorts #\u6b4c\u67a0",
@@ -1680,6 +1668,18 @@
     "premiere": false
   },
   {
+    "id": "Lvf9fu2RzaY",
+    "vidUrl": "https://youtu.be/Lvf9fu2RzaY",
+    "vidTitle": "I MAKE OKONOMIYAKI FOR THE 1ST TIME!",
+    "channelId": "@scarleyonaguni",
+    "channelName": "Scarle Yonaguni \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/oYEH8ckOxzEJ0GXlZGp4aSxvZrMWAeodRUg_MRgHqJEr7bEyjXdoC5VyYZ143XtcIKUozhQq6Q=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Scarle",
+    "scheduledStartTime": "2024-04-28T04:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "-2JOWLXboBI",
     "vidUrl": "https://youtu.be/-2JOWLXboBI",
     "vidTitle": "DRAWING THESE DUMB REACTION IMAGES",
@@ -2079,6 +2079,19 @@
     "shortName": "Lofi",
     "scheduledStartTime": "2024-04-21T09:00:00Z",
     "actualStartTime": "2024-04-21T08:53:23Z",
+    "premiere": false
+  },
+  {
+    "id": "NlFv4-ibOEw",
+    "vidUrl": "https://youtu.be/NlFv4-ibOEw",
+    "vidTitle": "\u3010KARAOKE\u3011BANANA RABBIT IDOL\u3010VOLs\u3011",
+    "channelId": "@shirousamikumi",
+    "channelName": "ShirousaMikumi - VOLs",
+    "channelThumb": "https://yt3.ggpht.com/6Jy6Uud2Vx08hfesvUg3vb2cSd0tj_30_Eeq-Ypg3jK7srTbiGUJKE94YJhedV96ExRC6-KGDA=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Mikumi",
+    "scheduledStartTime": "2024-04-21T10:30:00Z",
+    "actualStartTime": "2024-04-21T10:37:37Z",
     "premiere": false
   },
   {
