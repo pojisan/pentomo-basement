@@ -96,18 +96,6 @@
     "premiere": false
   },
   {
-    "id": "aIrrjZnrovo",
-    "vidUrl": "https://youtu.be/aIrrjZnrovo",
-    "vidTitle": "This game is fun. I am on the brink of death [Splatfest]",
-    "channelId": "@rinpenrose",
-    "channelName": "Rin Penrose Ch. idol-EN",
-    "channelThumb": "https://yt3.ggpht.com/A4q2cLOTiWlNsZpT8P2XmIgv-ZJUP4OR-2hpei0ZTM2bnpAZOdY5b1YuwslYnQCcVGJYAaGT=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Rin",
-    "scheduledStartTime": "2024-04-21T18:00:00Z",
-    "actualStartTime": "2024-04-21T18:01:51Z",
-    "premiere": false
-  },
-  {
     "id": "JRAgsCyWbRA",
     "vidUrl": "https://youtu.be/JRAgsCyWbRA",
     "vidTitle": "[LUNCH TIME ZATSU]  YUM TOWN TIME TO EAT!! [V&U | GEN 5]",
@@ -752,6 +740,18 @@
     "channelThumb": "https://yt3.ggpht.com/lfSudxn7RE0Izwj8K2GriTxOebvU7pOlFL6lRkZQfYUex3cksfnEasQtUcPcfXkEJaXYVwxAfQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Kilia",
     "scheduledStartTime": "2024-04-22T11:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "yVe4YYF_o50",
+    "vidUrl": "https://youtu.be/yVe4YYF_o50",
+    "vidTitle": "KARAOKE BEAM",
+    "channelId": "@mozumipichi",
+    "channelName": "Mozumi Pichi Ch.\u3010V-Dere\u3011",
+    "channelThumb": "https://yt3.ggpht.com/-MORJjUXDCIxCYeCuEktQiDRvqDLv33ZG5fqCbxX6Y_U8dxMEIL9seZmRBtDbnTHQuCrs82YLQ=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Mozzu",
+    "scheduledStartTime": "2024-04-22T12:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -2600,6 +2600,19 @@
     "shortName": "Xin",
     "scheduledStartTime": "2024-04-21T17:00:00Z",
     "actualStartTime": "2024-04-21T17:02:14Z",
+    "premiere": false
+  },
+  {
+    "id": "aIrrjZnrovo",
+    "vidUrl": "https://youtu.be/aIrrjZnrovo",
+    "vidTitle": "This game is fun. I am on the brink of death [Splatfest]",
+    "channelId": "@rinpenrose",
+    "channelName": "Rin Penrose Ch. idol-EN",
+    "channelThumb": "https://yt3.ggpht.com/A4q2cLOTiWlNsZpT8P2XmIgv-ZJUP4OR-2hpei0ZTM2bnpAZOdY5b1YuwslYnQCcVGJYAaGT=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Rin",
+    "scheduledStartTime": "2024-04-21T18:00:00Z",
+    "actualStartTime": "2024-04-21T18:01:51Z",
     "premiere": false
   }
 ]
