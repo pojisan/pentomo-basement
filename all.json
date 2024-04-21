@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "Xj_KS7M9cGY",
-    "vidUrl": "https://youtu.be/Xj_KS7M9cGY",
-    "vidTitle": "\u3010Like a Dragon: Infinite Wealth\u3011SEMIFINALE OK I HOPE YOU ARE SATISFIED  #kfp (spoiler warning)",
-    "channelId": "@takanashikiara",
-    "channelName": "Takanashi Kiara Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/w7TKJYU7zmamFmf-WxfahCo_K7Bg2__Pk-CCBNnbewMG-77OZLqJO9MLvDAmH9nEkZH8OkWgSQ=s88-c-k-c0x00ffffff-no-nd-rj",
-    "shortName": "Kiara",
-    "scheduledStartTime": "2024-04-21T14:00:00Z",
-    "actualStartTime": "2024-04-21T14:01:10Z",
-    "premiere": false
-  },
-  {
     "id": "7vpRStBNXUA",
     "vidUrl": "https://youtu.be/7vpRStBNXUA",
     "vidTitle": "\u2600\ufe0f\u3010GOLDEN SUN\u3011#7 THE FINALE \u3010Yume+ | Raein Clowd\u3011",
@@ -540,18 +528,6 @@
     "premiere": false
   },
   {
-    "id": "cFipCg3bm9I",
-    "vidUrl": "https://youtu.be/cFipCg3bm9I",
-    "vidTitle": "TOMOMITIZATION\u3010V&U | GEN 5\u3011",
-    "channelId": "@tomomivnu",
-    "channelName": "Tomomi Toraya Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/VVorqIxpJu58JyAADFOQB604PDjYiMgpvkJD_NfvJ3uXGe-J8mLJTjYB3CzmlWokVy_nBmDVKQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Tomomi",
-    "scheduledStartTime": "2024-04-22T01:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "ncGhCuVUfTE",
     "vidUrl": "https://youtu.be/ncGhCuVUfTE",
     "vidTitle": "\u3010Luto church\u3011Are you ready to face your sins??\ud83d\ude08",
@@ -984,6 +960,18 @@
     "premiere": false
   },
   {
+    "id": "cFipCg3bm9I",
+    "vidUrl": "https://youtu.be/cFipCg3bm9I",
+    "vidTitle": "TOMOMITIZATION\u3010V&U | GEN 5\u3011",
+    "channelId": "@tomomivnu",
+    "channelName": "Tomomi Toraya Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/VVorqIxpJu58JyAADFOQB604PDjYiMgpvkJD_NfvJ3uXGe-J8mLJTjYB3CzmlWokVy_nBmDVKQ=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Tomomi",
+    "scheduledStartTime": "2024-04-22T18:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "rsVzHxRqrqo",
     "vidUrl": "https://youtu.be/rsVzHxRqrqo",
     "vidTitle": "\u3010DEBUT 2.0\u3011MARSHMALLOW Q&A - Answering your Questions!\u3010globie | Kiri Kilovolt\u3011",
@@ -1174,18 +1162,6 @@
     "scheduledStartTime": "2024-04-23T00:30:00Z",
     "actualStartTime": "",
     "premiere": true
-  },
-  {
-    "id": "UnOXj2I8iqs",
-    "vidUrl": "https://youtu.be/UnOXj2I8iqs",
-    "vidTitle": "I'M THE ONLY ENFORCER 'ROUND THESE PARTS\u3010HYPNOSPACE OUTLAW\u3011\u3010V&U | GEN 5\u3011",
-    "channelId": "@tomomivnu",
-    "channelName": "Tomomi Toraya Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/VVorqIxpJu58JyAADFOQB604PDjYiMgpvkJD_NfvJ3uXGe-J8mLJTjYB3CzmlWokVy_nBmDVKQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Tomomi",
-    "scheduledStartTime": "2024-04-23T01:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
   },
   {
     "id": "lfg-twE97xA",
@@ -1412,6 +1388,18 @@
     "channelThumb": "https://yt3.ggpht.com/3pIMiD4FJEzYSAXPR4CchM-vKiT7gfMtJagky2oGpvyMy0UqATsnAPLJ8DFE1eTJQH2MYkxPHQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Yuno",
     "scheduledStartTime": "2024-04-24T00:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "UnOXj2I8iqs",
+    "vidUrl": "https://youtu.be/UnOXj2I8iqs",
+    "vidTitle": "I'M THE ONLY ENFORCER 'ROUND THESE PARTS\u3010HYPNOSPACE OUTLAW\u3011\u3010V&U | GEN 5\u3011",
+    "channelId": "@tomomivnu",
+    "channelName": "Tomomi Toraya Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/VVorqIxpJu58JyAADFOQB604PDjYiMgpvkJD_NfvJ3uXGe-J8mLJTjYB3CzmlWokVy_nBmDVKQ=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Tomomi",
+    "scheduledStartTime": "2024-04-24T01:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -2509,6 +2497,19 @@
     "shortName": "Goozilla",
     "scheduledStartTime": "2024-04-21T12:55:50Z",
     "actualStartTime": "2024-04-21T12:56:06Z",
+    "premiere": false
+  },
+  {
+    "id": "Xj_KS7M9cGY",
+    "vidUrl": "https://youtu.be/Xj_KS7M9cGY",
+    "vidTitle": "\u3010Like a Dragon: Infinite Wealth\u3011SEMIFINALE OK I HOPE YOU ARE SATISFIED  #kfp (spoiler warning)",
+    "channelId": "@takanashikiara",
+    "channelName": "Takanashi Kiara Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/w7TKJYU7zmamFmf-WxfahCo_K7Bg2__Pk-CCBNnbewMG-77OZLqJO9MLvDAmH9nEkZH8OkWgSQ=s88-c-k-c0x00ffffff-no-nd-rj",
+    "graveyard": true,
+    "shortName": "Kiara",
+    "scheduledStartTime": "2024-04-21T14:00:00Z",
+    "actualStartTime": "2024-04-21T14:01:10Z",
     "premiere": false
   },
   {
