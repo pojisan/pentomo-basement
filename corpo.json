@@ -1,17 +1,5 @@
 [
   {
-    "id": "1bjQwY-dZ9g",
-    "vidUrl": "https://youtu.be/1bjQwY-dZ9g",
-    "vidTitle": "\u3010MONETIZATION\u3011A Good Ol' Fashioned Roast\u3010Yumi The Witch | V4Mirai | ENVtuber\u3011",
-    "channelId": "@yumithewitch",
-    "channelName": "Yumi the Witch Ch.\u3010V4Mirai\u3011",
-    "channelThumb": "https://yt3.ggpht.com/k481pwD9PWdvammPbZ6YdWWA8Aw8TuvTmVvep2ICveehwHFlc0oubCggJajlD_2uhwdahA6X1w=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Yumi",
-    "scheduledStartTime": "2024-04-21T02:00:00Z",
-    "actualStartTime": "2024-04-21T02:00:55Z",
-    "premiere": false
-  },
-  {
     "id": "qMrxzL4u8oQ",
     "vidUrl": "https://youtu.be/qMrxzL4u8oQ",
     "vidTitle": "Last Stream Before My Hiatus (But It's Not Goodbye!)",
@@ -1274,7 +1262,7 @@
   {
     "id": "gK31rX-EsIw",
     "vidUrl": "https://youtu.be/gK31rX-EsIw",
-    "vidTitle": "\u301004/14 - 04/20\u3011Weekly Schedule~!! \u3010Yume+ | Mero Umiko\u3011",
+    "vidTitle": "\u301004/21 - 04/27\u3011Weekly Schedule~!! \u3010Yume+ | Mero Umiko\u3011",
     "channelId": "@meroumiko",
     "channelName": "Mero Umiko \u3010Yume+\u3011",
     "channelThumb": "https://yt3.ggpht.com/ao0Uyr-lSSR-cD9QJVrID38symffMEms-OUHRGu-i1DBBybDZglU9ELIgv6YtjBDBY6o0das7g=s88-c-k-c0x00ffffff-no-rj",
@@ -1932,6 +1920,19 @@
     "shortName": "Io",
     "scheduledStartTime": "2024-04-21T01:15:00Z",
     "actualStartTime": "2024-04-21T01:19:52Z",
+    "premiere": false
+  },
+  {
+    "id": "1bjQwY-dZ9g",
+    "vidUrl": "https://youtu.be/1bjQwY-dZ9g",
+    "vidTitle": "\u3010MONETIZATION\u3011A Good Ol' Fashioned Roast\u3010Yumi The Witch | V4Mirai | ENVtuber\u3011",
+    "channelId": "@yumithewitch",
+    "channelName": "Yumi the Witch Ch.\u3010V4Mirai\u3011",
+    "channelThumb": "https://yt3.ggpht.com/k481pwD9PWdvammPbZ6YdWWA8Aw8TuvTmVvep2ICveehwHFlc0oubCggJajlD_2uhwdahA6X1w=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Yumi",
+    "scheduledStartTime": "2024-04-21T02:00:00Z",
+    "actualStartTime": "2024-04-21T02:00:55Z",
     "premiere": false
   },
   {
