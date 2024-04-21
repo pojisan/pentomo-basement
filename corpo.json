@@ -108,18 +108,6 @@
     "premiere": false
   },
   {
-    "id": "qRUjcKOSOVE",
-    "vidUrl": "https://youtu.be/qRUjcKOSOVE",
-    "vidTitle": "\u3010ASMR | 3DIO | ROLEPLAY\u3011Don't be afraid.",
-    "channelId": "@kiliakurayami",
-    "channelName": "Kilia Kurayami Ch. \u3010EIEN Project\u3011",
-    "channelThumb": "https://yt3.ggpht.com/lfSudxn7RE0Izwj8K2GriTxOebvU7pOlFL6lRkZQfYUex3cksfnEasQtUcPcfXkEJaXYVwxAfQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Kilia",
-    "scheduledStartTime": "2024-04-21T19:00:00Z",
-    "actualStartTime": "2024-04-21T19:00:44Z",
-    "premiere": false
-  },
-  {
     "id": "9XkZLGnGkRE",
     "vidUrl": "https://youtu.be/9XkZLGnGkRE",
     "vidTitle": "\u3010IT TAKES TWO\u3011These VTubers need therapy.... (w/ @HiyoriMokami)",
@@ -156,6 +144,18 @@
     "premiere": false
   },
   {
+    "id": "qRUjcKOSOVE",
+    "vidUrl": "https://youtu.be/qRUjcKOSOVE",
+    "vidTitle": "\u3010ASMR | 3DIO | ROLEPLAY\u3011Don't be afraid.",
+    "channelId": "@kiliakurayami",
+    "channelName": "Kilia Kurayami Ch. \u3010EIEN Project\u3011",
+    "channelThumb": "https://yt3.ggpht.com/lfSudxn7RE0Izwj8K2GriTxOebvU7pOlFL6lRkZQfYUex3cksfnEasQtUcPcfXkEJaXYVwxAfQ=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Kilia",
+    "scheduledStartTime": "2024-04-21T19:00:00Z",
+    "actualStartTime": "2024-04-21T19:00:44Z",
+    "premiere": false
+  },
+  {
     "id": "Yv5LlYyRazw",
     "vidUrl": "https://youtu.be/Yv5LlYyRazw",
     "vidTitle": "\u3010IT TAKES TWO\u3011These VTubers need therapy... streamed on @TomoeCarmine's channel!~",
@@ -187,18 +187,6 @@
     "channelName": "Dr.NOVA(e) Ch.\u3010V4Mirai\u3011",
     "channelThumb": "https://yt3.ggpht.com/Q5uPSXLX-UaT7iQ1VRWbehhySRrtvEcWEA-ey6HfpVmHlZSz5zUrlC9g5UQuNfsgO5UOjJfI_Q=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Novae",
-    "scheduledStartTime": "2024-04-21T20:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "Hh_ywgfc5Xo",
-    "vidUrl": "https://youtu.be/Hh_ywgfc5Xo",
-    "vidTitle": "PLEASE DON'T CURSE ME... (First Dark Souls playthrough)",
-    "channelId": "@rourinroca",
-    "channelName": "Roca Rourin Ch. idol-EN",
-    "channelThumb": "https://yt3.ggpht.com/eBm5-Is9XQiT7Ct2XPL-eAPzgNXgHqbHjgIb_z76sHswS5dVISwa8Ty-R9zVkHeBCxiVnL7-UQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Roca",
     "scheduledStartTime": "2024-04-21T20:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -1604,6 +1592,18 @@
     "channelThumb": "https://yt3.ggpht.com/CQlx9qfsiJyZkM9tJA3jOirOeVOryepvFRVIyfHxrxuK-RWtPm41BjO0nGUP9cfv8_rKiJh2=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Bonnie",
     "scheduledStartTime": "2024-04-26T18:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "Hh_ywgfc5Xo",
+    "vidUrl": "https://youtu.be/Hh_ywgfc5Xo",
+    "vidTitle": "PLEASE DON'T CURSE ME... (First Dark Souls playthrough)",
+    "channelId": "@rourinroca",
+    "channelName": "Roca Rourin Ch. idol-EN",
+    "channelThumb": "https://yt3.ggpht.com/eBm5-Is9XQiT7Ct2XPL-eAPzgNXgHqbHjgIb_z76sHswS5dVISwa8Ty-R9zVkHeBCxiVnL7-UQ=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Roca",
+    "scheduledStartTime": "2024-04-26T19:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
