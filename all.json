@@ -288,18 +288,6 @@
     "premiere": false
   },
   {
-    "id": "xGgKKwc-jWg",
-    "vidUrl": "https://youtu.be/xGgKKwc-jWg",
-    "vidTitle": "\u3010ORIGINAL MV\u3011E I E N  || Hakos Baelz",
-    "channelId": "@hakosbaelz",
-    "channelName": "Hakos Baelz Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/SSZxkgjfV0O05zq1bBLOI0PszOCoxuPrANQ0Ysngsd0t81mnkwzEgIW2ypSIQJLn8swR14zLJQ=s88-c-k-c0x00ffffff-no-nd-rj",
-    "shortName": "Bae",
-    "scheduledStartTime": "2024-04-21T05:00:00Z",
-    "actualStartTime": "2024-04-21T05:00:08Z",
-    "premiere": false
-  },
-  {
     "id": "wbRMWVje4jo",
     "vidUrl": "https://youtu.be/wbRMWVje4jo",
     "vidTitle": "\u3010\u8d64\u3061\u3083\u3093\u6b4c\u67a0\u3011H E L P\u3010\u6b4c\u7f8e\u9cf4\u30af\u30e9\u30e9 / Phase Connect\u3011",
@@ -1020,18 +1008,6 @@
     "premiere": false
   },
   {
-    "id": "d46Q30txWWs",
-    "vidUrl": "https://youtu.be/d46Q30txWWs",
-    "vidTitle": "Kyu-kurarin Cover \u304d\u3085\u3046\u304f\u3089\u308a\u3093\u3010\u6b4c\u3063\u3066\u307f\u305f\u3011",
-    "channelId": "@neneamanoch",
-    "channelName": "Nene Amano Ch. \u5929\u91ce\u5be7\u3005\u3010kawaii\u3011",
-    "channelThumb": "https://yt3.ggpht.com/gQXL64aSlteGuabzrOCxa7Qs-OdOJ0EAMeTP1hpSpI_5_IAkpjy3X0Y4aTVe9BxxXvXOCE5VdLc=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Nene",
-    "scheduledStartTime": "2024-04-22T12:30:00Z",
-    "actualStartTime": "",
-    "premiere": true
-  },
-  {
     "id": "G_-vewKNWF4",
     "vidUrl": "https://youtu.be/G_-vewKNWF4",
     "vidTitle": "\u3010NEW OUTFIT REVEAL\u3011It's Been a Strange Few Months #VoxxyVuitton",
@@ -1174,6 +1150,18 @@
     "scheduledStartTime": "2024-04-23T00:00:00Z",
     "actualStartTime": "",
     "premiere": false
+  },
+  {
+    "id": "d46Q30txWWs",
+    "vidUrl": "https://youtu.be/d46Q30txWWs",
+    "vidTitle": "Kyu-kurarin Cover \u304d\u3085\u3046\u304f\u3089\u308a\u3093\u3010\u6b4c\u3063\u3066\u307f\u305f\u3011",
+    "channelId": "@neneamanoch",
+    "channelName": "Nene Amano Ch. \u5929\u91ce\u5be7\u3005\u3010kawaii\u3011",
+    "channelThumb": "https://yt3.ggpht.com/gQXL64aSlteGuabzrOCxa7Qs-OdOJ0EAMeTP1hpSpI_5_IAkpjy3X0Y4aTVe9BxxXvXOCE5VdLc=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Nene",
+    "scheduledStartTime": "2024-04-23T00:30:00Z",
+    "actualStartTime": "",
+    "premiere": true
   },
   {
     "id": "UnOXj2I8iqs",
