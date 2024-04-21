@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "nCbuPAYa-4s",
-    "vidUrl": "https://youtu.be/nCbuPAYa-4s",
-    "vidTitle": "\u3010Helldivers 2\u3011stratagems my beloved \ud83d\udca3  | Mino Mieko Ch.",
-    "channelId": "@minomieko",
-    "channelName": "Mino Mieko Ch.",
-    "channelThumb": "https://yt3.ggpht.com/ryVy3g8W7qKzcFFCsuZgiGN3lo7_bDXvBM70mR8jhiGDlVFBaMZD28kB8pJIsDeEXZCY0zRX=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Mieko",
-    "scheduledStartTime": "2024-04-21T17:00:00Z",
-    "actualStartTime": "2024-04-21T17:03:03Z",
-    "premiere": false
-  },
-  {
     "id": "jQPN_b6VUG4",
     "vidUrl": "https://youtu.be/jQPN_b6VUG4",
     "vidTitle": "Endurance Stream | Mila Streamed FOR HOW LONG?!",
@@ -201,6 +189,18 @@
     "shortName": "Zumi",
     "scheduledStartTime": "2024-04-21T22:00:00Z",
     "actualStartTime": "2024-04-21T22:08:24Z",
+    "premiere": false
+  },
+  {
+    "id": "4p19Zgyk5O4",
+    "vidUrl": "https://youtu.be/4p19Zgyk5O4",
+    "vidTitle": "\u3010 GUERILLA ELDEN RING - #2 \u3011The hunt for a katana continues---!",
+    "channelId": "@hiyorimokami",
+    "channelName": "Hiyori Mokami Ch. \u6843\u795e\u65e5\u548c\u3010kawaii\u3011",
+    "channelThumb": "https://yt3.ggpht.com/Vj2QGSwnGea4gY_hmHATQTkM-2noJld4JtpdmiHmXRerJ2umbuiPZwDfLeWVOrXteS4vXqZlCw=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Hiyori",
+    "scheduledStartTime": "2024-04-21T22:30:00Z",
+    "actualStartTime": "",
     "premiere": false
   },
   {
@@ -2766,6 +2766,19 @@
     "shortName": "Xin",
     "scheduledStartTime": "2024-04-21T17:00:00Z",
     "actualStartTime": "2024-04-21T17:02:14Z",
+    "premiere": false
+  },
+  {
+    "id": "nCbuPAYa-4s",
+    "vidUrl": "https://youtu.be/nCbuPAYa-4s",
+    "vidTitle": "\u3010Helldivers 2\u3011stratagems my beloved \ud83d\udca3  | Mino Mieko Ch.",
+    "channelId": "@minomieko",
+    "channelName": "Mino Mieko Ch.",
+    "channelThumb": "https://yt3.ggpht.com/ryVy3g8W7qKzcFFCsuZgiGN3lo7_bDXvBM70mR8jhiGDlVFBaMZD28kB8pJIsDeEXZCY0zRX=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Mieko",
+    "scheduledStartTime": "2024-04-21T17:00:00Z",
+    "actualStartTime": "2024-04-21T17:03:03Z",
     "premiere": false
   },
   {
