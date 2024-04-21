@@ -84,6 +84,18 @@
     "premiere": false
   },
   {
+    "id": "Xj_KS7M9cGY",
+    "vidUrl": "https://youtu.be/Xj_KS7M9cGY",
+    "vidTitle": "\u3010Like a Dragon: Infinite Wealth\u3011FINALE or almost finale  #kfp (spoiler warning)",
+    "channelId": "@takanashikiara",
+    "channelName": "Takanashi Kiara Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/w7TKJYU7zmamFmf-WxfahCo_K7Bg2__Pk-CCBNnbewMG-77OZLqJO9MLvDAmH9nEkZH8OkWgSQ=s88-c-k-c0x00ffffff-no-nd-rj",
+    "shortName": "Kiara",
+    "scheduledStartTime": "2024-04-21T14:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "7AwGGP4oNOw",
     "vidUrl": "https://youtu.be/7AwGGP4oNOw",
     "vidTitle": "\u3010BATTLE PLAN UPDATE\u3011emergency meeting (don't worry!) \ud83d\udc3e\u3010MEMBERS ONLY\u3011",
@@ -105,19 +117,6 @@
     "shortName": "FWMC",
     "scheduledStartTime": "2024-04-28T01:00:00Z",
     "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "7l5ePfQN7Gw",
-    "vidUrl": "https://youtu.be/7l5ePfQN7Gw",
-    "vidTitle": "\u3010Stardew Valley\u30111.6 Update - finishing the Community Center! \ud83c\udfbc",
-    "channelId": "@nerissaravencroft",
-    "channelName": "Nerissa Ravencroft Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/JDCIBWj11TgjY2Uyba_efZ0n5hzjysMB9GxkvHGkIN_sfFQJR5mx3iVPqgJ96IPcYjZpCLsb=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Nerissa",
-    "scheduledStartTime": "2024-04-20T18:00:00Z",
-    "actualStartTime": "2024-04-20T17:55:07Z",
     "premiere": false
   }
 ]

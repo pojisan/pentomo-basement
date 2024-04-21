@@ -96,18 +96,6 @@
     "premiere": false
   },
   {
-    "id": "2eSO_xW84xg",
-    "vidUrl": "https://youtu.be/2eSO_xW84xg",
-    "vidTitle": "A-A-Are you trying to bribe me into doing ASMR?!",
-    "channelId": "@inamiyokich",
-    "channelName": "Inami Yoki Ch.",
-    "channelThumb": "https://yt3.ggpht.com/vCtnJzYIQZi4DtDvSMyEpWdolmNJoIzlO4YD0036Tm2-sRRYRjPNL0xikMCq2Q8p4hqcAKaY9V4=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Yoki",
-    "scheduledStartTime": "2024-04-21T00:00:00Z",
-    "actualStartTime": "2024-04-21T00:02:04Z",
-    "premiere": false
-  },
-  {
     "id": "YtrORxJJQkY",
     "vidUrl": "https://youtu.be/YtrORxJJQkY",
     "vidTitle": "\u3010Powerwash Simulator\u3011Diving deeper into the mysteries...\u3010Harima Tem | bondlive EN\u3011 #shorts",
@@ -619,6 +607,18 @@
     "channelName": "Raein Clowd \u3010Yume+\u3011",
     "channelThumb": "https://yt3.ggpht.com/TJhoA7sWUEEW6PIYSsiV--qB2se4lgHL24gTVby9CNmfn7eKkQ5zAXJow9N5TEUX82iBKv1YoA=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Raein",
+    "scheduledStartTime": "2024-04-21T14:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "Xj_KS7M9cGY",
+    "vidUrl": "https://youtu.be/Xj_KS7M9cGY",
+    "vidTitle": "\u3010Like a Dragon: Infinite Wealth\u3011FINALE or almost finale  #kfp (spoiler warning)",
+    "channelId": "@takanashikiara",
+    "channelName": "Takanashi Kiara Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/w7TKJYU7zmamFmf-WxfahCo_K7Bg2__Pk-CCBNnbewMG-77OZLqJO9MLvDAmH9nEkZH8OkWgSQ=s88-c-k-c0x00ffffff-no-nd-rj",
+    "shortName": "Kiara",
     "scheduledStartTime": "2024-04-21T14:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -1943,19 +1943,6 @@
     "premiere": false
   },
   {
-    "id": "7l5ePfQN7Gw",
-    "vidUrl": "https://youtu.be/7l5ePfQN7Gw",
-    "vidTitle": "\u3010Stardew Valley\u30111.6 Update - finishing the Community Center! \ud83c\udfbc",
-    "channelId": "@nerissaravencroft",
-    "channelName": "Nerissa Ravencroft Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/JDCIBWj11TgjY2Uyba_efZ0n5hzjysMB9GxkvHGkIN_sfFQJR5mx3iVPqgJ96IPcYjZpCLsb=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Nerissa",
-    "scheduledStartTime": "2024-04-20T18:00:00Z",
-    "actualStartTime": "2024-04-20T17:55:07Z",
-    "premiere": false
-  },
-  {
     "id": "HKKk4fBPoR0",
     "vidUrl": "https://youtu.be/HKKk4fBPoR0",
     "vidTitle": "\u3010GLOBIE DEBUT WATCHALONG 2/2\u3011AND SO WE CONTINUE w/ D.K\u3010V&U  | GEN4\u3011",
@@ -2008,16 +1995,16 @@
     "premiere": false
   },
   {
-    "id": "uRnkK6rRk_0",
-    "vidUrl": "https://youtu.be/uRnkK6rRk_0",
-    "vidTitle": "SCARY GAME WITH @JunaUnagi @Dokibird @BriAtCookiebox",
-    "channelId": "@kaisaikota",
-    "channelName": "Kai Saikota Ch. idol-EN",
-    "channelThumb": "https://yt3.ggpht.com/0rVHZdUlMh90grMz90Dv_PPWyAvBb2BbkSN2QSDU6JWGdavGje-34q4D6E1OYgBkx74vfrxzyw=s88-c-k-c0x00ffffff-no-rj",
+    "id": "2eSO_xW84xg",
+    "vidUrl": "https://youtu.be/2eSO_xW84xg",
+    "vidTitle": "A-A-Are you trying to bribe me into doing ASMR?!",
+    "channelId": "@inamiyokich",
+    "channelName": "Inami Yoki Ch.",
+    "channelThumb": "https://yt3.ggpht.com/vCtnJzYIQZi4DtDvSMyEpWdolmNJoIzlO4YD0036Tm2-sRRYRjPNL0xikMCq2Q8p4hqcAKaY9V4=s88-c-k-c0x00ffffff-no-rj",
     "graveyard": true,
-    "shortName": "Kai",
-    "scheduledStartTime": "2024-04-20T23:00:00Z",
-    "actualStartTime": "2024-04-20T23:02:44Z",
+    "shortName": "Yoki",
+    "scheduledStartTime": "2024-04-21T00:00:00Z",
+    "actualStartTime": "2024-04-21T00:02:04Z",
     "premiere": false
   },
   {
