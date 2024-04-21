@@ -24,18 +24,6 @@
     "premiere": false
   },
   {
-    "id": "IwwMEyTLnco",
-    "vidUrl": "https://youtu.be/IwwMEyTLnco",
-    "vidTitle": "\u3010Assassin's Creed IV Black Flag\u3011Late night Grind!",
-    "channelId": "@ashadawn",
-    "channelName": "Asha Dawn Ch. Legion",
-    "channelThumb": "https://yt3.ggpht.com/kbvof6XayuNhDx21no3Y819T1r_fPw_8OvizzR8hJ3LkpvUYbw6vkbHlifJoBVPnW0TX_J3sq04=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Asha",
-    "scheduledStartTime": "2024-04-21T08:44:16Z",
-    "actualStartTime": "2024-04-21T08:47:10Z",
-    "premiere": false
-  },
-  {
     "id": "NlFv4-ibOEw",
     "vidUrl": "https://youtu.be/NlFv4-ibOEw",
     "vidTitle": "\u3010KARAOKE\u3011BANANA RABBIT IDOL\u3010VOLs\u3011",
@@ -44,7 +32,7 @@
     "channelThumb": "https://yt3.ggpht.com/6Jy6Uud2Vx08hfesvUg3vb2cSd0tj_30_Eeq-Ypg3jK7srTbiGUJKE94YJhedV96ExRC6-KGDA=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Mikumi",
     "scheduledStartTime": "2024-04-21T10:30:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-21T10:37:37Z",
     "premiere": false
   },
   {
@@ -1200,6 +1188,18 @@
     "premiere": false
   },
   {
+    "id": "e2FJ5JgBIjw",
+    "vidUrl": "https://youtu.be/e2FJ5JgBIjw",
+    "vidTitle": "\u3010Lethal Company\u30118P globie Collab\u3010Vilhelm Vanderbos | globie Gen 2 | Equinnox\u3011",
+    "channelId": "@vilhelmvanderbos",
+    "channelName": "Vilhelm Vanderbos ch.\u3010globie\u3011",
+    "channelThumb": "https://yt3.ggpht.com/8tLFbfcpxzIKQVAPNCdHhbEPJiqoCOLblewcmBc_7uz-GAT4OB3erjJbIflhu7s394stPCKFcw=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Vilhelm",
+    "scheduledStartTime": "2024-04-27T12:30:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "6te3KKJ5Wv4",
     "vidUrl": "https://youtu.be/6te3KKJ5Wv4",
     "vidTitle": "\u3010CONTENT WARNING\u3011LET'S RECORD! @BonnieBarkswell @VezaliusBandage @komairui \u3010globie | Kiri Kilovolt\u3011",
@@ -1939,6 +1939,19 @@
     "shortName": "Goozilla",
     "scheduledStartTime": "2024-04-21T06:00:02Z",
     "actualStartTime": "2024-04-21T06:00:17Z",
+    "premiere": false
+  },
+  {
+    "id": "IwwMEyTLnco",
+    "vidUrl": "https://youtu.be/IwwMEyTLnco",
+    "vidTitle": "\u3010Assassin's Creed IV Black Flag\u3011Late night Grind!",
+    "channelId": "@ashadawn",
+    "channelName": "Asha Dawn Ch. Legion",
+    "channelThumb": "https://yt3.ggpht.com/kbvof6XayuNhDx21no3Y819T1r_fPw_8OvizzR8hJ3LkpvUYbw6vkbHlifJoBVPnW0TX_J3sq04=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Asha",
+    "scheduledStartTime": "2024-04-21T08:44:16Z",
+    "actualStartTime": "2024-04-21T08:47:10Z",
     "premiere": false
   },
   {
