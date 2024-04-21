@@ -1,29 +1,5 @@
 [
   {
-    "id": "qMrxzL4u8oQ",
-    "vidUrl": "https://youtu.be/qMrxzL4u8oQ",
-    "vidTitle": "Last Stream Before My Hiatus (But It's Not Goodbye!)",
-    "channelId": "@nakikamizuki",
-    "channelName": "Naki Kamizuki / \u4e0a\u6708\u306a\u304d\u3010EverAfter\u3011",
-    "channelThumb": "https://yt3.ggpht.com/t3KM-C9LCI4Wxs7nnt_ND2joYBvc-tNS2bCswz6V4LDsPlba4fV67WehglvHnaxDYrubPXue=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Naki",
-    "scheduledStartTime": "2024-04-21T03:00:00Z",
-    "actualStartTime": "2024-04-21T03:01:29Z",
-    "premiere": false
-  },
-  {
-    "id": "R2MYt95yQhA",
-    "vidUrl": "https://youtu.be/R2MYt95yQhA",
-    "vidTitle": "\u3016Guerilla\u3017I've decided we're playing Minecraft\u3016Cyon \u2765 V&U\u3017",
-    "channelId": "@cyonvnu",
-    "channelName": "Cyon Hart Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/gsviy0KcEYuRE4MyNsKcEBoS0lIaW9wgkz9raEwVrQ0tIUM473cN8ORz-rdHps1IYSHxZdzI_g=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Cyon",
-    "scheduledStartTime": "2024-04-21T08:00:00Z",
-    "actualStartTime": "2024-04-21T08:01:08Z",
-    "premiere": false
-  },
-  {
     "id": "aVsh4cfYdOY",
     "vidUrl": "https://youtu.be/aVsh4cfYdOY",
     "vidTitle": "HELLDIVERS 2 BUT IM SCARED OF BUGS",
@@ -859,7 +835,7 @@
     "channelName": "Nana Asteria Ch. \u30a2\u30b9\u30c6\u30ea\u30a2\u306a\u306a",
     "channelThumb": "https://yt3.ggpht.com/pAlP_Z372U181eTZj9dSzjrMG-4cdVAp1gul2TEHe2wbgpwdwrg6s2DoXwxGnYBKFYPvds0WHao=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Nana",
-    "scheduledStartTime": "2024-04-22T04:00:00Z",
+    "scheduledStartTime": "2024-04-22T03:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -1801,6 +1777,19 @@
     "premiere": false
   },
   {
+    "id": "qMrxzL4u8oQ",
+    "vidUrl": "https://youtu.be/qMrxzL4u8oQ",
+    "vidTitle": "Last Stream Before My Hiatus (But It's Not Goodbye!)",
+    "channelId": "@nakikamizuki",
+    "channelName": "Naki Kamizuki / \u4e0a\u6708\u306a\u304d\u3010EverAfter\u3011",
+    "channelThumb": "https://yt3.ggpht.com/t3KM-C9LCI4Wxs7nnt_ND2joYBvc-tNS2bCswz6V4LDsPlba4fV67WehglvHnaxDYrubPXue=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Naki",
+    "scheduledStartTime": "2024-04-21T03:00:00Z",
+    "actualStartTime": "2024-04-21T03:01:29Z",
+    "premiere": false
+  },
+  {
     "id": "eJg_sxFYrRU",
     "vidUrl": "https://youtu.be/eJg_sxFYrRU",
     "vidTitle": "\ud83e\udebf\ud83e\udebf\ud83e\udd86\u2049\ufe0f (rowa POV \ud83d\udc3b) \u3010Goose Goose Duck w/ V&U\u3011",
@@ -1837,6 +1826,19 @@
     "shortName": "Goozilla",
     "scheduledStartTime": "2024-04-21T06:00:02Z",
     "actualStartTime": "2024-04-21T06:00:17Z",
+    "premiere": false
+  },
+  {
+    "id": "R2MYt95yQhA",
+    "vidUrl": "https://youtu.be/R2MYt95yQhA",
+    "vidTitle": "\u3016Guerilla\u3017I've decided we're playing Minecraft\u3016Cyon \u2765 V&U\u3017",
+    "channelId": "@cyonvnu",
+    "channelName": "Cyon Hart Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/gsviy0KcEYuRE4MyNsKcEBoS0lIaW9wgkz9raEwVrQ0tIUM473cN8ORz-rdHps1IYSHxZdzI_g=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Cyon",
+    "scheduledStartTime": "2024-04-21T08:00:00Z",
+    "actualStartTime": "2024-04-21T08:01:08Z",
     "premiere": false
   },
   {
