@@ -24,18 +24,6 @@
     "premiere": false
   },
   {
-    "id": "1IlktnEnFFA",
-    "vidUrl": "https://youtu.be/1IlktnEnFFA",
-    "vidTitle": "\u3010Monetization Celebration \ud83c\udf8a\u3011 drawing pokemon from memory \ud83d\udcad\u270f\ufe0f\u2049\ufe0f",
-    "channelId": "@rowavnu",
-    "channelName": "Rowa Arctos Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/Y3fKMGNnV6tQDQFjhGpH8Xdat8S1z76xZHdCg08gb5SUN_reNurU1yATDviGnoxKwgmfoBf5ZA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Rowa",
-    "scheduledStartTime": "2024-04-20T23:00:00Z",
-    "actualStartTime": "2024-04-20T23:05:35Z",
-    "premiere": false
-  },
-  {
     "id": "RwuYBlzt5JE",
     "vidUrl": "https://youtu.be/RwuYBlzt5JE",
     "vidTitle": "Skyrim on Skooma!",
@@ -173,10 +161,10 @@
     "vidTitle": "\u3010Persona 3 Reload\u3011Surprise attack!!!!",
     "channelId": "@isabellegoodwillow",
     "channelName": "Isabelle Goodwillow Ch. Legion",
-    "channelThumb": "https://yt3.ggpht.com/rJuMWEjmRiOqnhqo-Njw1VWunxkM7Ho0nZxNxVaa36z_PMile2XKRg-Yx3Ln4snqEAJq62zwNQ=s88-c-k-c0x00ffffff-no-rj",
+    "channelThumb": "https://yt3.ggpht.com/fpMi8U5dCS85PVYvVUcUEElBczJHeTCoxkrea8AxZ-aow_5JXFjoAtYUnkNdTgsaqQISGmii3g=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Isabelle",
     "scheduledStartTime": "2024-04-21T02:30:20Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-21T02:30:55Z",
     "premiere": false
   },
   {
@@ -247,18 +235,6 @@
     "channelName": "Rowa Arctos Ch. V&U",
     "channelThumb": "https://yt3.ggpht.com/Y3fKMGNnV6tQDQFjhGpH8Xdat8S1z76xZHdCg08gb5SUN_reNurU1yATDviGnoxKwgmfoBf5ZA=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Rowa",
-    "scheduledStartTime": "2024-04-21T03:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "fBJR0cf-Bn0",
-    "vidUrl": "https://youtu.be/fBJR0cf-Bn0",
-    "vidTitle": "[GOOSE GOOSE DUCK] CERENITY POV! Baby's first big collab!! [V&U | GEN 5]",
-    "channelId": "@cerenityvnu",
-    "channelName": "Cerenity Cosmica Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/dnyzDEaJzR5qZiWFp73wK_f91hlDHxiORtJ6jwu9nzWcLr_vvkHf9IQc2PGhpiBwKWMF5ns2xg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Cerenity",
     "scheduledStartTime": "2024-04-21T03:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2019,6 +1995,19 @@
     "shortName": "Misma",
     "scheduledStartTime": "2024-04-20T18:00:00Z",
     "actualStartTime": "2024-04-20T17:58:19Z",
+    "premiere": false
+  },
+  {
+    "id": "1IlktnEnFFA",
+    "vidUrl": "https://youtu.be/1IlktnEnFFA",
+    "vidTitle": "\u3010Monetization Celebration \ud83c\udf8a\u3011 drawing pokemon from memory \ud83d\udcad\u270f\ufe0f\u2049\ufe0f",
+    "channelId": "@rowavnu",
+    "channelName": "Rowa Arctos Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/Y3fKMGNnV6tQDQFjhGpH8Xdat8S1z76xZHdCg08gb5SUN_reNurU1yATDviGnoxKwgmfoBf5ZA=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Rowa",
+    "scheduledStartTime": "2024-04-20T23:00:00Z",
+    "actualStartTime": "2024-04-20T23:05:35Z",
     "premiere": false
   }
 ]
