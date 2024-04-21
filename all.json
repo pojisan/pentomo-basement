@@ -36,30 +36,6 @@
     "premiere": false
   },
   {
-    "id": "r535OPYIRbk",
-    "vidUrl": "https://youtu.be/r535OPYIRbk",
-    "vidTitle": "\u3010Poppy Playtime 3\u3011Today we finally ESCAPE!",
-    "channelId": "@arialyuriko",
-    "channelName": "Arial Yuriko Ch. [VReverie]",
-    "channelThumb": "https://yt3.ggpht.com/IU2v8OvK9p2KPE6Udi-AxcHpDdRmZ8ixovTLb3dDzCahVLSuIc4iKBKNd5LE6lFvlgUfTIHi=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Arial",
-    "scheduledStartTime": "2024-04-21T16:00:00Z",
-    "actualStartTime": "2024-04-21T15:56:37Z",
-    "premiere": false
-  },
-  {
-    "id": "8nPs6zN08Wg",
-    "vidUrl": "https://youtu.be/8nPs6zN08Wg",
-    "vidTitle": "\u3010CHATTING\u3011Let's chat and talk about anime!!",
-    "channelId": "@shikimiyoshino",
-    "channelName": "Shiki Miyoshino / \u7f8e\u5409\u91ce\u3057\u304d\u3010Requiem\u3011",
-    "channelThumb": "https://yt3.ggpht.com/Id9BL2cZTLJmv9ZoQEGIk_eFPBrQ7REmfIB6tsb34vcls6pWmKCsifuJ4Ii40vRYZvX9uGd9=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Shiki",
-    "scheduledStartTime": "2024-04-21T16:55:17Z",
-    "actualStartTime": "2024-04-21T16:57:17Z",
-    "premiere": false
-  },
-  {
     "id": "nCbuPAYa-4s",
     "vidUrl": "https://youtu.be/nCbuPAYa-4s",
     "vidTitle": "\u3010Helldivers 2\u3011stratagems my beloved \ud83d\udca3  | Mino Mieko Ch.",
@@ -302,7 +278,7 @@
   {
     "id": "yc_3CSpVqag",
     "vidUrl": "https://youtu.be/yc_3CSpVqag",
-    "vidTitle": "\u3010UNARCHIVED KARAOKE\u3011Singing Sexy Songs In The ONSEN!\u3010V4Mirai | Serina Maiko | ENVtuber\u3011",
+    "vidTitle": "\u3010UNARCHIVED(?) KARAOKE\u3011Singing Sexy Songs In The ONSEN!\u3010V4Mirai | Serina Maiko | ENVtuber\u3011",
     "channelId": "@serinamaiko",
     "channelName": "Serina Maiko Ch.\u3010V4Mirai\u3011",
     "channelThumb": "https://yt3.ggpht.com/e1ZnaffpDDEYZ3e7gmoBxrsB5Ssh18bPpkjVpG3mn4GakmEXEenv1ArFAoj1DSB5fsNLG4cs=s88-c-k-c0x00ffffff-no-rj",
@@ -2487,6 +2463,32 @@
     "shortName": "Reina",
     "scheduledStartTime": "2024-04-21T14:00:00Z",
     "actualStartTime": "2024-04-21T14:01:17Z",
+    "premiere": false
+  },
+  {
+    "id": "r535OPYIRbk",
+    "vidUrl": "https://youtu.be/r535OPYIRbk",
+    "vidTitle": "\u3010Poppy Playtime 3\u3011Today we finally ESCAPE!",
+    "channelId": "@arialyuriko",
+    "channelName": "Arial Yuriko Ch. [VReverie]",
+    "channelThumb": "https://yt3.ggpht.com/IU2v8OvK9p2KPE6Udi-AxcHpDdRmZ8ixovTLb3dDzCahVLSuIc4iKBKNd5LE6lFvlgUfTIHi=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Arial",
+    "scheduledStartTime": "2024-04-21T16:00:00Z",
+    "actualStartTime": "2024-04-21T15:56:37Z",
+    "premiere": false
+  },
+  {
+    "id": "8nPs6zN08Wg",
+    "vidUrl": "https://youtu.be/8nPs6zN08Wg",
+    "vidTitle": "\u3010CHATTING\u3011Let's chat and talk about anime!!",
+    "channelId": "@shikimiyoshino",
+    "channelName": "Shiki Miyoshino / \u7f8e\u5409\u91ce\u3057\u304d\u3010Requiem\u3011",
+    "channelThumb": "https://yt3.ggpht.com/Id9BL2cZTLJmv9ZoQEGIk_eFPBrQ7REmfIB6tsb34vcls6pWmKCsifuJ4Ii40vRYZvX9uGd9=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Shiki",
+    "scheduledStartTime": "2024-04-21T16:55:17Z",
+    "actualStartTime": "2024-04-21T16:57:17Z",
     "premiere": false
   },
   {
