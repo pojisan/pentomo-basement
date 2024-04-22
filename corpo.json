@@ -216,18 +216,6 @@
     "premiere": false
   },
   {
-    "id": "fAXr-3WEI6s",
-    "vidUrl": "https://youtu.be/fAXr-3WEI6s",
-    "vidTitle": "[UNARCHIVED KARAOKE] WUH OH. How'd I get here? - Ciccino Katterina Triple A Club V&U",
-    "channelId": "@ciccinovnu",
-    "channelName": "Ciccino Katterina Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/1a_CZ4DAxk-IBbjBaAdu5yAL6PzmqauC0IurAK8sWODiLNqdIu7zg6fexuKmuwfUEFoaVXeLKw4=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Ciccino",
-    "scheduledStartTime": "2024-04-22T01:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "XnZxnkm4gPM",
     "vidUrl": "https://youtu.be/XnZxnkm4gPM",
     "vidTitle": "\u3010GTA V\u3011CAN SOMEONE CALL MY MOM\u3014Pt. 10\u3015",
@@ -236,6 +224,18 @@
     "channelThumb": "https://yt3.ggpht.com/b0A2emwbDeLrLg3NZ5zlJf0AjwnxRx8dKsbah9w_DAOW5W-nhvK_JmA87yYFwYN6KeB4dOzH=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Mivi",
     "scheduledStartTime": "2024-04-22T01:15:00Z",
+    "actualStartTime": "2024-04-22T01:19:05Z",
+    "premiere": false
+  },
+  {
+    "id": "fAXr-3WEI6s",
+    "vidUrl": "https://youtu.be/fAXr-3WEI6s",
+    "vidTitle": "[UNARCHIVED KARAOKE] WUH OH. How'd I get here? - Ciccino Katterina Triple A Club V&U",
+    "channelId": "@ciccinovnu",
+    "channelName": "Ciccino Katterina Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/1a_CZ4DAxk-IBbjBaAdu5yAL6PzmqauC0IurAK8sWODiLNqdIu7zg6fexuKmuwfUEFoaVXeLKw4=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Ciccino",
+    "scheduledStartTime": "2024-04-22T01:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -2933,19 +2933,6 @@
     "shortName": "Hiyori",
     "scheduledStartTime": "2024-04-21T19:00:00Z",
     "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "fnHHHBM2rHk",
-    "vidUrl": "https://youtu.be/fnHHHBM2rHk",
-    "vidTitle": "\u3010DAY2\u3011THE FUN ISN'T OVER YET!! #HappyRANday2024\u3010Ran Tsukiha | Production kawaii\u3011",
-    "channelId": "@rantsukiha",
-    "channelName": "Ran Tsukiha Ch. \u6708\u8776\u862d\u3010kawaii\u3011",
-    "channelThumb": "https://yt3.ggpht.com/T30qwb0jUMNHh6WY7ZUjsFZKTP9hoPyZO4d4Knvf22uj_1DV5xvkK-ReGlX8zeshgoQeOmWovg=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Ran",
-    "scheduledStartTime": "2024-04-21T22:00:00Z",
-    "actualStartTime": "2024-04-21T21:58:17Z",
     "premiere": false
   },
   {
