@@ -1,17 +1,5 @@
 [
   {
-    "id": "U0h_iRum8P0",
-    "vidUrl": "https://youtu.be/U0h_iRum8P0",
-    "vidTitle": "\u3010LETHAL COMPANY\u3011I want to live \u751f\u304d\u6b8b\u308a\u305f\u3044\u3088\u3049  #\u3075\u308c\u3042\u3044\u3093\u306a\u306b\u3083",
-    "channelId": "@irys",
-    "channelName": "IRyS Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/cDSMiVy3Xa49Ci_YyouVNzfCwVXKRYmOeywWQ_UFKzvAp6tvyeMtXMyzWzQ2u8ft4EENsJKt7A=s88-c-k-c0x00ffffff-no-nd-rj",
-    "shortName": "Irys",
-    "scheduledStartTime": "2024-04-22T12:00:00Z",
-    "actualStartTime": "2024-04-22T12:04:49Z",
-    "premiere": false
-  },
-  {
     "id": "3qIXHB332hM",
     "vidUrl": "https://youtu.be/3qIXHB332hM",
     "vidTitle": "[Gaming] Let's Chat with Yagami Noah\uff5cVTuber /GTA5 in Street Junkies\u3010GTA5\u3011\u65e5\u672c\u8a9e/PC",
@@ -1790,7 +1778,7 @@
   {
     "id": "mf3C8-aB7L0",
     "vidUrl": "https://youtu.be/mf3C8-aB7L0",
-    "vidTitle": "Teaching how to play FPS @KamikoRinona \u3010Overwatch2 Collab\u3011",
+    "vidTitle": "Teaching an FPS Beginner @KamikoRinona \u3010Overwatch2 Collab\u3011",
     "channelId": "@arialyuriko",
     "channelName": "Arial Yuriko Ch. [VReverie]",
     "channelThumb": "https://yt3.ggpht.com/IU2v8OvK9p2KPE6Udi-AxcHpDdRmZ8ixovTLb3dDzCahVLSuIc4iKBKNd5LE6lFvlgUfTIHi=s88-c-k-c0x00ffffff-no-rj",
@@ -2606,7 +2594,7 @@
   {
     "id": "Q8Ow2VrsktI",
     "vidUrl": "https://youtu.be/Q8Ow2VrsktI",
-    "vidTitle": "\u30101k celebration\u3011Let's party and open your Marshmallows!",
+    "vidTitle": "\u30101K Celebration\u3011Let's party and open your Marshmallows!",
     "channelId": "@arialyuriko",
     "channelName": "Arial Yuriko Ch. [VReverie]",
     "channelThumb": "https://yt3.ggpht.com/IU2v8OvK9p2KPE6Udi-AxcHpDdRmZ8ixovTLb3dDzCahVLSuIc4iKBKNd5LE6lFvlgUfTIHi=s88-c-k-c0x00ffffff-no-rj",
@@ -3299,6 +3287,19 @@
     "shortName": "Lillian",
     "scheduledStartTime": "2024-04-22T10:00:00Z",
     "actualStartTime": "2024-04-22T10:01:40Z",
+    "premiere": false
+  },
+  {
+    "id": "U0h_iRum8P0",
+    "vidUrl": "https://youtu.be/U0h_iRum8P0",
+    "vidTitle": "\u3010LETHAL COMPANY\u3011I want to live \u751f\u304d\u6b8b\u308a\u305f\u3044\u3088\u3049  #\u3075\u308c\u3042\u3044\u3093\u306a\u306b\u3083",
+    "channelId": "@irys",
+    "channelName": "IRyS Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/cDSMiVy3Xa49Ci_YyouVNzfCwVXKRYmOeywWQ_UFKzvAp6tvyeMtXMyzWzQ2u8ft4EENsJKt7A=s88-c-k-c0x00ffffff-no-nd-rj",
+    "graveyard": true,
+    "shortName": "Irys",
+    "scheduledStartTime": "2024-04-22T12:00:00Z",
+    "actualStartTime": "2024-04-22T12:04:49Z",
     "premiere": false
   },
   {
