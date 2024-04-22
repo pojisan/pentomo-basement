@@ -1,17 +1,5 @@
 [
   {
-    "id": "ET7ck1rr-1w",
-    "vidUrl": "https://youtu.be/ET7ck1rr-1w",
-    "vidTitle": "\u3010Persona 3 Reload\u3011#2 Adventure ~ (Contains Spoilers)\u3010Yuuki Ame\u30fbbondlive EN\u3011",
-    "channelId": "@yuukiame_",
-    "channelName": "Yuuki Ame / \u52c7\u6c17\u3042\u3081\u3010bondlive EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/rybr-bFchWkS9x4YS03WaFH5JtYXkl3lEMjxqFsf6IvbCC5OxCMPKQwOGpl2jx6y28p_vHMXi1w=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Yuuki",
-    "scheduledStartTime": "2024-04-22T11:00:00Z",
-    "actualStartTime": "2024-04-22T10:58:22Z",
-    "premiere": false
-  },
-  {
     "id": "rgcFJuPnJ8s",
     "vidUrl": "https://youtu.be/rgcFJuPnJ8s",
     "vidTitle": "\u3010 Danganronpa 2: Goodbye Despair \u3011And Then There Were Eight PT. 6",
@@ -45,18 +33,6 @@
     "shortName": "Lethe",
     "scheduledStartTime": "2024-04-22T12:00:00Z",
     "actualStartTime": "2024-04-22T12:00:13Z",
-    "premiere": false
-  },
-  {
-    "id": "yVe4YYF_o50",
-    "vidUrl": "https://youtu.be/yVe4YYF_o50",
-    "vidTitle": "KARAOKE BEAM",
-    "channelId": "@mozumipichi",
-    "channelName": "Mozumi Pichi Ch.\u3010V-Dere\u3011",
-    "channelThumb": "https://yt3.ggpht.com/-MORJjUXDCIxCYeCuEktQiDRvqDLv33ZG5fqCbxX6Y_U8dxMEIL9seZmRBtDbnTHQuCrs82YLQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Mozzu",
-    "scheduledStartTime": "2024-04-22T12:00:00Z",
-    "actualStartTime": "2024-04-22T12:02:00Z",
     "premiere": false
   },
   {
@@ -146,7 +122,7 @@
   {
     "id": "npIVVhKbW8k",
     "vidUrl": "https://youtu.be/npIVVhKbW8k",
-    "vidTitle": "??? | Duet Cover by Mozumi Pichi & Kirispica",
+    "vidTitle": "SHINKIRO / Houshou Marine, Gawr Gura | Cover by Mozumi Pichi & Kirispica",
     "channelId": "@kirispica",
     "channelName": "kirispica \u3010V-Dere\u3011",
     "channelThumb": "https://yt3.ggpht.com/g-0m2dXUzHK-nxWmbCKFPv5JNDhOohDJinKkpHRC1QlnGonVeGYkHBbzuoLpx_HINkqXeCNHFg=s88-c-k-c0x00ffffff-no-rj",
@@ -3339,6 +3315,32 @@
     "shortName": "Lillian",
     "scheduledStartTime": "2024-04-22T10:00:00Z",
     "actualStartTime": "2024-04-22T10:01:40Z",
+    "premiere": false
+  },
+  {
+    "id": "ET7ck1rr-1w",
+    "vidUrl": "https://youtu.be/ET7ck1rr-1w",
+    "vidTitle": "\u3010Persona 3 Reload\u3011#2 Adventure ~ (Contains Spoilers)\u3010Yuuki Ame\u30fbbondlive EN\u3011",
+    "channelId": "@yuukiame_",
+    "channelName": "Yuuki Ame / \u52c7\u6c17\u3042\u3081\u3010bondlive EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/rybr-bFchWkS9x4YS03WaFH5JtYXkl3lEMjxqFsf6IvbCC5OxCMPKQwOGpl2jx6y28p_vHMXi1w=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Yuuki",
+    "scheduledStartTime": "2024-04-22T11:00:00Z",
+    "actualStartTime": "2024-04-22T10:58:22Z",
+    "premiere": false
+  },
+  {
+    "id": "yVe4YYF_o50",
+    "vidUrl": "https://youtu.be/yVe4YYF_o50",
+    "vidTitle": "KARAOKE BEAM",
+    "channelId": "@mozumipichi",
+    "channelName": "Mozumi Pichi Ch.\u3010V-Dere\u3011",
+    "channelThumb": "https://yt3.ggpht.com/-MORJjUXDCIxCYeCuEktQiDRvqDLv33ZG5fqCbxX6Y_U8dxMEIL9seZmRBtDbnTHQuCrs82YLQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Mozzu",
+    "scheduledStartTime": "2024-04-22T12:00:00Z",
+    "actualStartTime": "2024-04-22T12:02:00Z",
     "premiere": false
   }
 ]
