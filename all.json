@@ -48,18 +48,6 @@
     "premiere": false
   },
   {
-    "id": "peGLYRX3E8s",
-    "vidUrl": "https://youtu.be/peGLYRX3E8s",
-    "vidTitle": "\u3010DAYS WITH OLLIE\u3011A Cute Zombie Idol crosses your path?!\u3010Dr.NOVA(e) | V4Mirai | ENVtuber\u3011",
-    "channelId": "@drnovae",
-    "channelName": "Dr.NOVA(e) Ch.\u3010V4Mirai\u3011",
-    "channelThumb": "https://yt3.ggpht.com/Q5uPSXLX-UaT7iQ1VRWbehhySRrtvEcWEA-ey6HfpVmHlZSz5zUrlC9g5UQuNfsgO5UOjJfI_Q=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Novae",
-    "scheduledStartTime": "2024-04-22T17:00:00Z",
-    "actualStartTime": "2024-04-22T17:00:11Z",
-    "premiere": false
-  },
-  {
     "id": "U3T1U8E82FQ",
     "vidUrl": "https://youtu.be/U3T1U8E82FQ",
     "vidTitle": "I'm back!",
@@ -216,6 +204,18 @@
     "premiere": false
   },
   {
+    "id": "eHIdOXZPEPo",
+    "vidUrl": "https://youtu.be/eHIdOXZPEPo",
+    "vidTitle": "\u3010Kings Field\u3011I Sold The Pirate Treasure Key...",
+    "channelId": "@amiyaaranha",
+    "channelName": "Amiya Ch. \u30a2\u30df\u30e4\u30fb\u30a2\u30e9\u30cb\u30e3",
+    "channelThumb": "https://yt3.ggpht.com/91Fqx3Xut4jaSefCeiDLVGQDSdkWAvt5jA8ejzT18EztYTppy29JNzpa7G-KThC8TzuAmlKBQcs=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Amiya",
+    "scheduledStartTime": "2024-04-22T19:00:00Z",
+    "actualStartTime": "2024-04-22T19:19:19Z",
+    "premiere": false
+  },
+  {
     "id": "YIPcFvvBVNs",
     "vidUrl": "https://youtu.be/YIPcFvvBVNs",
     "vidTitle": "Slice & Dice ACTUALLY",
@@ -249,18 +249,6 @@
     "shortName": "Lila",
     "scheduledStartTime": "2025-12-31T15:59:00Z",
     "actualStartTime": "2024-04-21T08:24:58Z",
-    "premiere": false
-  },
-  {
-    "id": "eHIdOXZPEPo",
-    "vidUrl": "https://youtu.be/eHIdOXZPEPo",
-    "vidTitle": "\u3010Kings Field\u3011I Sold The Pirate Treasure Key...",
-    "channelId": "@amiyaaranha",
-    "channelName": "Amiya Ch. \u30a2\u30df\u30e4\u30fb\u30a2\u30e9\u30cb\u30e3",
-    "channelThumb": "https://yt3.ggpht.com/91Fqx3Xut4jaSefCeiDLVGQDSdkWAvt5jA8ejzT18EztYTppy29JNzpa7G-KThC8TzuAmlKBQcs=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Amiya",
-    "scheduledStartTime": "2024-04-22T19:00:00Z",
-    "actualStartTime": "",
     "premiere": false
   },
   {
@@ -3431,6 +3419,19 @@
     "shortName": "Hu",
     "scheduledStartTime": "2024-04-22T16:00:00Z",
     "actualStartTime": "2024-04-22T15:57:18Z",
+    "premiere": false
+  },
+  {
+    "id": "peGLYRX3E8s",
+    "vidUrl": "https://youtu.be/peGLYRX3E8s",
+    "vidTitle": "\u3010DAYS WITH OLLIE\u3011A Cute Zombie Idol crosses your path?!\u3010Dr.NOVA(e) | V4Mirai | ENVtuber\u3011",
+    "channelId": "@drnovae",
+    "channelName": "Dr.NOVA(e) Ch.\u3010V4Mirai\u3011",
+    "channelThumb": "https://yt3.ggpht.com/Q5uPSXLX-UaT7iQ1VRWbehhySRrtvEcWEA-ey6HfpVmHlZSz5zUrlC9g5UQuNfsgO5UOjJfI_Q=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Novae",
+    "scheduledStartTime": "2024-04-22T17:00:00Z",
+    "actualStartTime": "2024-04-22T17:00:11Z",
     "premiere": false
   },
   {
