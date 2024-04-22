@@ -84,18 +84,6 @@
     "premiere": false
   },
   {
-    "id": "YhKhB5yUW7A",
-    "vidUrl": "https://youtu.be/YhKhB5yUW7A",
-    "vidTitle": "\u3010ZATSUDAN\u3011Let's go fishing!",
-    "channelId": "@kiliakurayami",
-    "channelName": "Kilia Kurayami Ch. \u3010EIEN Project\u3011",
-    "channelThumb": "https://yt3.ggpht.com/lfSudxn7RE0Izwj8K2GriTxOebvU7pOlFL6lRkZQfYUex3cksfnEasQtUcPcfXkEJaXYVwxAfQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Kilia",
-    "scheduledStartTime": "2024-04-22T19:00:00Z",
-    "actualStartTime": "2024-04-22T19:12:20Z",
-    "premiere": false
-  },
-  {
     "id": "eHIdOXZPEPo",
     "vidUrl": "https://youtu.be/eHIdOXZPEPo",
     "vidTitle": "\u3010Kings Field\u3011I Sold The Pirate Treasure Key...",
@@ -264,18 +252,6 @@
     "premiere": false
   },
   {
-    "id": "XHeZ6AuGYAY",
-    "vidUrl": "https://youtu.be/XHeZ6AuGYAY",
-    "vidTitle": "\u3010NEW FREE CHAT\u3011Check here for my sched or if I have a twitter space!\u3010Lila Maria / DAY/BREAK\u3011",
-    "channelId": "@lila_daybreak",
-    "channelName": "Lila Maria Ch.\u3010DAYBREAK\u3011",
-    "channelThumb": "https://yt3.ggpht.com/d_xPe3A4nrO3B3qfhtdnJjS7d12YfuYt-b6Cg_A_17KFMJaZk1tbC1RXPHWqB09ItKE8UPkOpA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Lila",
-    "scheduledStartTime": "2025-12-31T15:59:00Z",
-    "actualStartTime": "2024-04-21T08:24:58Z",
-    "premiere": false
-  },
-  {
     "id": "hzGPkpZ3Y5o",
     "vidUrl": "https://youtu.be/hzGPkpZ3Y5o",
     "vidTitle": "\u3010Tales of Arise\u3011 Continuing where we left off last time!",
@@ -284,7 +260,7 @@
     "channelThumb": "https://yt3.ggpht.com/fpMi8U5dCS85PVYvVUcUEElBczJHeTCoxkrea8AxZ-aow_5JXFjoAtYUnkNdTgsaqQISGmii3g=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Isabelle",
     "scheduledStartTime": "2024-04-22T21:15:29Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-22T21:17:19Z",
     "premiere": false
   },
   {
@@ -296,7 +272,19 @@
     "channelThumb": "https://yt3.ggpht.com/7YT74XmVpX9ySRWPf2hpfLz_m8fdW-xfK32LMvmGPo0U3gNiCf3G5PaemNK6eKV0Ex5POa3GrlE=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Migi",
     "scheduledStartTime": "2024-04-22T21:30:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-22T21:27:14Z",
+    "premiere": false
+  },
+  {
+    "id": "XHeZ6AuGYAY",
+    "vidUrl": "https://youtu.be/XHeZ6AuGYAY",
+    "vidTitle": "\u3010NEW FREE CHAT\u3011Check here for my sched or if I have a twitter space!\u3010Lila Maria / DAY/BREAK\u3011",
+    "channelId": "@lila_daybreak",
+    "channelName": "Lila Maria Ch.\u3010DAYBREAK\u3011",
+    "channelThumb": "https://yt3.ggpht.com/d_xPe3A4nrO3B3qfhtdnJjS7d12YfuYt-b6Cg_A_17KFMJaZk1tbC1RXPHWqB09ItKE8UPkOpA=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Lila",
+    "scheduledStartTime": "2025-12-31T15:59:00Z",
+    "actualStartTime": "2024-04-21T08:24:58Z",
     "premiere": false
   },
   {
@@ -564,6 +552,18 @@
     "premiere": false
   },
   {
+    "id": "T64G57LnQuY",
+    "vidUrl": "https://youtu.be/T64G57LnQuY",
+    "vidTitle": "\u3010Free Talk\u3011Let's Brainstorm Our World Domination Plans!\u3010NIJISANJI EN | Victoria Brightshield\u3011",
+    "channelId": "@victoriabrightshield",
+    "channelName": "Victoria Brightshield \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/m5YHCdJM_v2kid17kOVWr59fddjYgfMfd25GEuGGXQaV_57y7l7mD2sV62TmWKIXeD1sVuy4Rek=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Vivi",
+    "scheduledStartTime": "2024-04-23T01:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "Y9BI_Pg1qq8",
     "vidUrl": "https://youtu.be/Y9BI_Pg1qq8",
     "vidTitle": "\u3010Writing Stream\u3011REMedy Fanfic with Tarot RNG!\u3010Yume+ | Mero Umiko\u3011",
@@ -691,6 +691,18 @@
     "channelName": "Nanashi Mumei Ch. hololive-EN",
     "channelThumb": "https://yt3.ggpht.com/owZmjfnG_SGVmfkl3eS7Lv47pGvIr2SrS36imh6O8i0H3Wy41fYKD26U7wnyRB627fXoq0aQ0Q=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Mumei",
+    "scheduledStartTime": "2024-04-23T02:30:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "lSn2uHuDvrY",
+    "vidUrl": "https://youtu.be/lSn2uHuDvrY",
+    "vidTitle": "TIME TO SCREAM AND CRY OVER A NEW ROMANCE \ud83d\udc97\u3010 A Sign of Affection Watchalong ep 1-6? | Members Only \u3011",
+    "channelId": "@sheeichokawaii",
+    "channelName": "Shee Icho Ch. \u9280\u674f\u3057\u3044\u3010kawaii\u3011",
+    "channelThumb": "https://yt3.ggpht.com/9WpvwRlwjSUM4bCLMLpNv3BvRtnQWki4eY-YAsKAkuzUxJaLXhLDJu5XMQoPU_zbzunktQvMpg=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Shee",
     "scheduledStartTime": "2024-04-23T02:30:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2748,6 +2760,18 @@
     "premiere": false
   },
   {
+    "id": "cKby4GYClHQ",
+    "vidUrl": "https://youtu.be/cKby4GYClHQ",
+    "vidTitle": "MONETIZATION PARTY\u3010KARAOKE ROULETTE\u3011",
+    "channelId": "@umikyoku",
+    "channelName": "Umi Kyoku \u3010\u3046\u307f\u304d\u3087\u304f\u3011",
+    "channelThumb": "https://yt3.ggpht.com/swraGRJ-7ukDEjf58l8YghX2KRDuxS2AEW417T7BWmc-NehlFSgYeMftFJ9VuDE43C07xHQLKBA=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Umi",
+    "scheduledStartTime": "2024-04-27T21:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "lrwT16zWn0Y",
     "vidUrl": "https://youtu.be/lrwT16zWn0Y",
     "vidTitle": "\u3010HANDCAM\u3011Rilakkuma Sewing Kits!!! + Kiiroitori, Korilakkuma\u3010Ran Tsukiha | Production kawaii\u3011",
@@ -3398,29 +3422,16 @@
     "premiere": false
   },
   {
-    "id": "73R-Qobcel8",
-    "vidUrl": "https://youtu.be/73R-Qobcel8",
-    "vidTitle": "teehee =w=  | Mino Mieko Ch.",
-    "channelId": "@minomieko",
-    "channelName": "Mino Mieko Ch.",
-    "channelThumb": "https://yt3.ggpht.com/ryVy3g8W7qKzcFFCsuZgiGN3lo7_bDXvBM70mR8jhiGDlVFBaMZD28kB8pJIsDeEXZCY0zRX=s88-c-k-c0x00ffffff-no-rj",
+    "id": "YhKhB5yUW7A",
+    "vidUrl": "https://youtu.be/YhKhB5yUW7A",
+    "vidTitle": "\u3010ZATSUDAN\u3011Let's go fishing!",
+    "channelId": "@kiliakurayami",
+    "channelName": "Kilia Kurayami Ch. \u3010EIEN Project\u3011",
+    "channelThumb": "https://yt3.ggpht.com/lfSudxn7RE0Izwj8K2GriTxOebvU7pOlFL6lRkZQfYUex3cksfnEasQtUcPcfXkEJaXYVwxAfQ=s88-c-k-c0x00ffffff-no-rj",
     "graveyard": true,
-    "shortName": "Mieko",
-    "scheduledStartTime": "2024-04-22T17:00:00Z",
-    "actualStartTime": "2024-04-22T17:00:04Z",
-    "premiere": false
-  },
-  {
-    "id": "U3T1U8E82FQ",
-    "vidUrl": "https://youtu.be/U3T1U8E82FQ",
-    "vidTitle": "I'm back!",
-    "channelId": "@namijifreesia",
-    "channelName": "Namiji Freesia Ch. \u30ca\u30df\u30b8\u30fb\u30d5\u30ea\u30fc\u30b8\u30a2\u3010kawaii\u3011",
-    "channelThumb": "https://yt3.ggpht.com/1O_xpQJtJuijAdrkpsEU0jXfLoJXDo5mjUiH2Bbwp0d2Exrbz8ljQdo2Ml5H1VkTQ5BFi33pCg=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Nami",
-    "scheduledStartTime": "2024-04-22T17:00:00Z",
-    "actualStartTime": "2024-04-22T17:00:12Z",
+    "shortName": "Kilia",
+    "scheduledStartTime": "2024-04-22T19:00:00Z",
+    "actualStartTime": "2024-04-22T19:12:20Z",
     "premiere": false
   },
   {
@@ -3471,19 +3482,6 @@
     "channelThumb": "https://yt3.ggpht.com/ZDjic-7GIfMpgDDSMNtpdFo0QcdW86XCyfdGAfS9FZU-Toy2qPG_1T0zt4gKrc7zMZNdsJUbrA=s88-c-k-c0x00ffffff-no-rj",
     "graveyard": true,
     "shortName": "Senniursa",
-    "scheduledStartTime": "",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "TNsQKw83M2M",
-    "vidUrl": "https://youtu.be/TNsQKw83M2M",
-    "vidTitle": "Unarchived Comfy Gaming\ufe31Nolie\u3010\u4e43\u8389\u3011",
-    "channelId": "@nolienoa",
-    "channelName": "Nolie\u3010\u4e43\u8389\u3011NOA Talent",
-    "channelThumb": "https://yt3.ggpht.com/Qu_wOQptNHV7-kpNzRx0C_GfxmrlpoFqlogFXsMRttwSMALtjKj_KMw2Vf02K_tniLHlA6cqvA=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Nolie",
     "scheduledStartTime": "",
     "actualStartTime": "",
     "premiere": false
