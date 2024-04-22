@@ -24,18 +24,6 @@
     "premiere": false
   },
   {
-    "id": "G_-vewKNWF4",
-    "vidUrl": "https://youtu.be/G_-vewKNWF4",
-    "vidTitle": "\u3010NEW OUTFIT REVEAL\u3011It's Been a Strange Few Months #VoxxyVuitton",
-    "channelId": "@voxakuma",
-    "channelName": "Vox Akuma\u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/Ggu-BApFGVIyHyfC8ITEwq44CrVcRvp46PDioK7Z_K3949gUOnexLrke2BRyBxajJl8fiZXshA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Vox",
-    "scheduledStartTime": "2024-04-22T13:30:57Z",
-    "actualStartTime": "2024-04-22T13:31:08Z",
-    "premiere": false
-  },
-  {
     "id": "Zzr-zbXiVT8",
     "vidUrl": "https://youtu.be/Zzr-zbXiVT8",
     "vidTitle": "\u3010HONKAI IMPACT 3RD PT. 2\u3011 CH. 1 MORE HOT WOMEN",
@@ -189,6 +177,19 @@
     "shortName": "Reimu",
     "scheduledStartTime": "2024-05-05T01:00:00Z",
     "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "G_-vewKNWF4",
+    "vidUrl": "https://youtu.be/G_-vewKNWF4",
+    "vidTitle": "\u3010NEW OUTFIT REVEAL\u3011It's Been a Strange Few Months #VoxxyVuitton",
+    "channelId": "@voxakuma",
+    "channelName": "Vox Akuma\u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/Ggu-BApFGVIyHyfC8ITEwq44CrVcRvp46PDioK7Z_K3949gUOnexLrke2BRyBxajJl8fiZXshA=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Vox",
+    "scheduledStartTime": "2024-04-22T13:30:57Z",
+    "actualStartTime": "2024-04-22T13:31:08Z",
     "premiere": false
   }
 ]
