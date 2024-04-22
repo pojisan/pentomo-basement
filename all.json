@@ -1008,6 +1008,18 @@
     "premiere": false
   },
   {
+    "id": "pJVkljwuDcE",
+    "vidUrl": "https://youtu.be/pJVkljwuDcE",
+    "vidTitle": "Princesses Yearn for the Mines\u3010British Stardew Valley Collab!\u3011",
+    "channelId": "@spectravnu",
+    "channelName": "Spectra Libitina Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/vJEi9jvzwANF4rzrVugBrJ2CumIsI3pGN68Bap-eEXSqZbp-hNpLAdqSwSIqmgqhHUbbdUzrR-w=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Spectra",
+    "scheduledStartTime": "2024-04-23T18:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "wJRDcO0jXtA",
     "vidUrl": "https://youtu.be/wJRDcO0jXtA",
     "vidTitle": "\u3010STARDEW VALLEY\u3011Farming with the lads again!\u3010Pippa Pebblesworth\u3011",
@@ -1888,7 +1900,7 @@
     "vidUrl": "https://youtu.be/2fdQEp770cU",
     "vidTitle": "Fiction - Xin Asuwa (Official Lyric Video)",
     "channelId": "@xinasuwa",
-    "channelName": "Xin Asuwa Ch.",
+    "channelName": "Xin Asuwa",
     "channelThumb": "https://yt3.ggpht.com/klkgyjaDV5_SOgiCDCeA_eVlOagwjlCrsAta5GTT6ey-LG7G7U-iSeqwZwsZttrJjV7WrhPF1nU=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Xin",
     "scheduledStartTime": "2024-04-25T18:00:00Z",
@@ -3422,19 +3434,6 @@
     "premiere": false
   },
   {
-    "id": "YhKhB5yUW7A",
-    "vidUrl": "https://youtu.be/YhKhB5yUW7A",
-    "vidTitle": "\u3010ZATSUDAN\u3011Let's go fishing!",
-    "channelId": "@kiliakurayami",
-    "channelName": "Kilia Kurayami Ch. \u3010EIEN Project\u3011",
-    "channelThumb": "https://yt3.ggpht.com/lfSudxn7RE0Izwj8K2GriTxOebvU7pOlFL6lRkZQfYUex3cksfnEasQtUcPcfXkEJaXYVwxAfQ=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Kilia",
-    "scheduledStartTime": "2024-04-22T19:00:00Z",
-    "actualStartTime": "2024-04-22T19:12:20Z",
-    "premiere": false
-  },
-  {
     "id": "ecoSsn_Kr6w",
     "vidUrl": "https://youtu.be/ecoSsn_Kr6w",
     "vidTitle": "GUESS THAT WIKIHOW\u3010bondliveEN | Ivaela Daemoni\u3011",
@@ -3482,6 +3481,19 @@
     "channelThumb": "https://yt3.ggpht.com/ZDjic-7GIfMpgDDSMNtpdFo0QcdW86XCyfdGAfS9FZU-Toy2qPG_1T0zt4gKrc7zMZNdsJUbrA=s88-c-k-c0x00ffffff-no-rj",
     "graveyard": true,
     "shortName": "Senniursa",
+    "scheduledStartTime": "",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "TNsQKw83M2M",
+    "vidUrl": "https://youtu.be/TNsQKw83M2M",
+    "vidTitle": "Unarchived Comfy Gaming\ufe31Nolie\u3010\u4e43\u8389\u3011",
+    "channelId": "@nolienoa",
+    "channelName": "Nolie\u3010\u4e43\u8389\u3011NOA Talent",
+    "channelThumb": "https://yt3.ggpht.com/Qu_wOQptNHV7-kpNzRx0C_GfxmrlpoFqlogFXsMRttwSMALtjKj_KMw2Vf02K_tniLHlA6cqvA=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Nolie",
     "scheduledStartTime": "",
     "actualStartTime": "",
     "premiere": false
