@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "ggpgn_r06NE",
-    "vidUrl": "https://youtu.be/ggpgn_r06NE",
-    "vidTitle": "POW POW POW\u3010ALPHA SAPPHIRE #3\u3011",
-    "channelId": "@ayucouldeat",
-    "channelName": "ayu",
-    "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_lsWCiI3Ql224DtcPwGp6l3xJ-gt-C5PpfEVnH7GxeZXhU=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Ayu",
-    "scheduledStartTime": "2024-04-22T04:05:00Z",
-    "actualStartTime": "2024-04-22T04:13:39Z",
-    "premiere": false
-  },
-  {
     "id": "JNvAHw5qMgE",
     "vidUrl": "https://youtu.be/JNvAHw5qMgE",
     "vidTitle": "\u3010Content Warning\u3011Smile for the camera ft. @Laphipi @ArialYuriko @DKVNU",
@@ -3123,6 +3111,19 @@
     "shortName": "Boomi",
     "scheduledStartTime": "2024-04-22T00:00:00Z",
     "actualStartTime": "2024-04-22T00:03:56Z",
+    "premiere": false
+  },
+  {
+    "id": "ggpgn_r06NE",
+    "vidUrl": "https://youtu.be/ggpgn_r06NE",
+    "vidTitle": "POW POW POW\u3010ALPHA SAPPHIRE #3\u3011",
+    "channelId": "@ayucouldeat",
+    "channelName": "ayu",
+    "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_lsWCiI3Ql224DtcPwGp6l3xJ-gt-C5PpfEVnH7GxeZXhU=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Ayu",
+    "scheduledStartTime": "2024-04-22T04:05:00Z",
+    "actualStartTime": "2024-04-22T04:13:39Z",
     "premiere": false
   },
   {
