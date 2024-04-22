@@ -348,18 +348,6 @@
     "premiere": true
   },
   {
-    "id": "1VUmJdRslUo",
-    "vidUrl": "https://youtu.be/1VUmJdRslUo",
-    "vidTitle": "\u3010SPORE\u3011making babies...!\u3010V&U | GEN 5\u3011",
-    "channelId": "@tomomivnu",
-    "channelName": "Tomomi Toraya Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/VVorqIxpJu58JyAADFOQB604PDjYiMgpvkJD_NfvJ3uXGe-J8mLJTjYB3CzmlWokVy_nBmDVKQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Tomomi",
-    "scheduledStartTime": "2024-04-23T01:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "BUxkrdrAXDQ",
     "vidUrl": "https://youtu.be/BUxkrdrAXDQ",
     "vidTitle": "ANNOUNCEMENT! Your Anime Idol Sings For You! Karaoke Requests Open! [Fullbody 3D]",
@@ -992,6 +980,18 @@
     "channelThumb": "https://yt3.ggpht.com/3pIMiD4FJEzYSAXPR4CchM-vKiT7gfMtJagky2oGpvyMy0UqATsnAPLJ8DFE1eTJQH2MYkxPHQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Yuno",
     "scheduledStartTime": "2024-04-24T00:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "1VUmJdRslUo",
+    "vidUrl": "https://youtu.be/1VUmJdRslUo",
+    "vidTitle": "\u3010SPORE\u3011making babies...!\u3010V&U | GEN 5\u3011",
+    "channelId": "@tomomivnu",
+    "channelName": "Tomomi Toraya Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/VVorqIxpJu58JyAADFOQB604PDjYiMgpvkJD_NfvJ3uXGe-J8mLJTjYB3CzmlWokVy_nBmDVKQ=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Tomomi",
+    "scheduledStartTime": "2024-04-24T01:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
