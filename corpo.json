@@ -72,18 +72,6 @@
     "premiere": false
   },
   {
-    "id": "GycgC6yTNQ8",
-    "vidUrl": "https://youtu.be/GycgC6yTNQ8",
-    "vidTitle": "Dragon Alert is DEAD. Let's hold a funeral for it",
-    "channelId": "@kaisaikota",
-    "channelName": "Kai Saikota Ch. idol-EN",
-    "channelThumb": "https://yt3.ggpht.com/0rVHZdUlMh90grMz90Dv_PPWyAvBb2BbkSN2QSDU6JWGdavGje-34q4D6E1OYgBkx74vfrxzyw=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Kai",
-    "scheduledStartTime": "2024-04-22T16:00:00Z",
-    "actualStartTime": "2024-04-22T16:00:48Z",
-    "premiere": false
-  },
-  {
     "id": "NXeQjWOZXkw",
     "vidUrl": "https://youtu.be/NXeQjWOZXkw",
     "vidTitle": "\u3010HELLDIVERS II w/ Hasun, Theo, and Wheezy!!!\u3011SPILL OIL BROTHER\u3010Sarugaku Leon Jr. | Globie\u3011",
@@ -129,6 +117,18 @@
     "shortName": "Nikki",
     "scheduledStartTime": "2024-04-22T16:30:00Z",
     "actualStartTime": "2024-04-22T16:31:04Z",
+    "premiere": false
+  },
+  {
+    "id": "GycgC6yTNQ8",
+    "vidUrl": "https://youtu.be/GycgC6yTNQ8",
+    "vidTitle": "Dragon Alert is DEAD. Let's hold a funeral for it",
+    "channelId": "@kaisaikota",
+    "channelName": "Kai Saikota Ch. idol-EN",
+    "channelThumb": "https://yt3.ggpht.com/0rVHZdUlMh90grMz90Dv_PPWyAvBb2BbkSN2QSDU6JWGdavGje-34q4D6E1OYgBkx74vfrxzyw=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Kai",
+    "scheduledStartTime": "2024-04-22T16:00:00Z",
+    "actualStartTime": "2024-04-22T16:00:48Z",
     "premiere": false
   },
   {
@@ -3386,19 +3386,6 @@
     "shortName": "Lillian",
     "scheduledStartTime": "2024-04-22T10:00:00Z",
     "actualStartTime": "2024-04-22T10:01:40Z",
-    "premiere": false
-  },
-  {
-    "id": "Ka87FSoRhig",
-    "vidUrl": "https://youtu.be/Ka87FSoRhig",
-    "vidTitle": "\u3010Lil' Guardsman\u3011More vibe checking! \u3010Vilhelm Vanderbos | globie Gen 2 | Equinnox\u3011",
-    "channelId": "@vilhelmvanderbos",
-    "channelName": "Vilhelm Vanderbos ch.\u3010globie\u3011",
-    "channelThumb": "https://yt3.ggpht.com/8tLFbfcpxzIKQVAPNCdHhbEPJiqoCOLblewcmBc_7uz-GAT4OB3erjJbIflhu7s394stPCKFcw=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Vilhelm",
-    "scheduledStartTime": "2024-04-22T13:00:00Z",
-    "actualStartTime": "2024-04-22T13:12:14Z",
     "premiere": false
   }
 ]
