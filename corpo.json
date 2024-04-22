@@ -144,18 +144,6 @@
     "premiere": false
   },
   {
-    "id": "mfzUYNdnEiI",
-    "vidUrl": "https://youtu.be/mfzUYNdnEiI",
-    "vidTitle": "\u3010ASMR/KU100\u3011Relax Your Entire Body For HEAVEN LEVEL Sleep [$11,503 Audio,\u65e5\u672c\u8a9e, Whispering, Heartbeat]",
-    "channelId": "@neneamanoch",
-    "channelName": "Nene Amano Ch. \u5929\u91ce\u5be7\u3005\u3010kawaii\u3011",
-    "channelThumb": "https://yt3.ggpht.com/gQXL64aSlteGuabzrOCxa7Qs-OdOJ0EAMeTP1hpSpI_5_IAkpjy3X0Y4aTVe9BxxXvXOCE5VdLc=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Nene",
-    "scheduledStartTime": "2024-04-22T02:30:00Z",
-    "actualStartTime": "2024-04-22T02:31:23Z",
-    "premiere": false
-  },
-  {
     "id": "NR2b5wKX1Ps",
     "vidUrl": "https://youtu.be/NR2b5wKX1Ps",
     "vidTitle": "\u3010Singing Stream\u30fb\u6b4c\u67a0\u3011Request Karaoke Vol.7\uff01\u30ea\u30af\u30a8\u30b9\u30c8OK",
@@ -212,7 +200,7 @@
     "channelThumb": "https://yt3.ggpht.com/iiWwBB0rsPadW6D92ATHoouqLHw7dppOJJPdpYg9fbeqriEFhfpSjpmS7eh1wsC06s93c56B=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Iku",
     "scheduledStartTime": "2024-04-22T04:00:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-22T03:59:44Z",
     "premiere": false
   },
   {
@@ -224,6 +212,18 @@
     "channelThumb": "https://yt3.ggpht.com/H0RUX3QxKuAJyYYt-hjfuZpMZXSyrmwH-ovu8KW9Kvyd-D3wToBb_5QDZQ2a3q__w6yo65EQ5xc=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Miu",
     "scheduledStartTime": "2024-04-22T04:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "ggpgn_r06NE",
+    "vidUrl": "https://youtu.be/ggpgn_r06NE",
+    "vidTitle": "POW POW POW\u3010ALPHA SAPPHIRE #3\u3011",
+    "channelId": "@ayucouldeat",
+    "channelName": "ayu",
+    "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_lsWCiI3Ql224DtcPwGp6l3xJ-gt-C5PpfEVnH7GxeZXhU=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Ayu",
+    "scheduledStartTime": "2024-04-22T04:05:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -3043,6 +3043,19 @@
     "shortName": "Boomi",
     "scheduledStartTime": "2024-04-22T00:00:00Z",
     "actualStartTime": "2024-04-22T00:03:56Z",
+    "premiere": false
+  },
+  {
+    "id": "mfzUYNdnEiI",
+    "vidUrl": "https://youtu.be/mfzUYNdnEiI",
+    "vidTitle": "\u3010ASMR/KU100\u3011Relax Your Entire Body For HEAVEN LEVEL Sleep [$11,503 Audio,\u65e5\u672c\u8a9e, Whispering, Heartbeat]",
+    "channelId": "@neneamanoch",
+    "channelName": "Nene Amano Ch. \u5929\u91ce\u5be7\u3005\u3010kawaii\u3011",
+    "channelThumb": "https://yt3.ggpht.com/gQXL64aSlteGuabzrOCxa7Qs-OdOJ0EAMeTP1hpSpI_5_IAkpjy3X0Y4aTVe9BxxXvXOCE5VdLc=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Nene",
+    "scheduledStartTime": "2024-04-22T02:30:00Z",
+    "actualStartTime": "2024-04-22T02:31:23Z",
     "premiere": false
   }
 ]
