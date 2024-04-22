@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "ax2zyv7I9Q0",
-    "vidUrl": "https://youtu.be/ax2zyv7I9Q0",
-    "vidTitle": "\u3010CONTENT WARNING\u3011I STOLE ELIRA'S THUMBNAIL GONE WRONG!?!?!\u3010NIJISANJI EN | Vantacrow Bringer\u3011",
-    "channelId": "@vantacrowbringer",
-    "channelName": "Vantacrow Bringer \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/GLPkvp_8o7OvZ3q57IpqDSHIyv6OqZFK6tO1egzLoMjE19EBlo3tISEMIOLEvkC5jnl2Uus93A=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Vanta",
-    "scheduledStartTime": "2024-04-21T22:00:00Z",
-    "actualStartTime": "2024-04-21T22:01:41Z",
-    "premiere": false
-  },
-  {
     "id": "eBr_iItduyE",
     "vidUrl": "https://youtu.be/eBr_iItduyE",
     "vidTitle": "\u3010CONTENT WARNING\u3011 SMASH that like button for more CONTENT!!!!!!! \u3010NIJISANJI EN | Elira Pendora\u3011",
@@ -249,6 +237,19 @@
     "shortName": "Reimu",
     "scheduledStartTime": "2024-05-05T01:00:00Z",
     "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "ax2zyv7I9Q0",
+    "vidUrl": "https://youtu.be/ax2zyv7I9Q0",
+    "vidTitle": "\u3010CONTENT WARNING\u3011I STOLE ELIRA'S THUMBNAIL GONE WRONG!?!?!\u3010NIJISANJI EN | Vantacrow Bringer\u3011",
+    "channelId": "@vantacrowbringer",
+    "channelName": "Vantacrow Bringer \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/GLPkvp_8o7OvZ3q57IpqDSHIyv6OqZFK6tO1egzLoMjE19EBlo3tISEMIOLEvkC5jnl2Uus93A=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Vanta",
+    "scheduledStartTime": "2024-04-21T22:00:00Z",
+    "actualStartTime": "2024-04-21T22:01:41Z",
     "premiere": false
   }
 ]
