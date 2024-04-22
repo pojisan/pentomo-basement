@@ -48,18 +48,6 @@
     "premiere": false
   },
   {
-    "id": "iMos6TJbUQ0",
-    "vidUrl": "https://youtu.be/iMos6TJbUQ0",
-    "vidTitle": "LEAGUE OF LEGENDS S14 MASTERS GRIND PART 20 (Reclaiming Masters)",
-    "channelId": "@asterarcadia",
-    "channelName": "Aster Arcadia \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/PfyW7HnjCKF15WfzvFBLo_vx94y_tZw_jpnjku0GyvZnynSODh2E9aJ0Vi1mlc3R8sF_hXNl-g=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Aster",
-    "scheduledStartTime": "2024-04-22T02:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "v8ol6_9wgEs",
     "vidUrl": "https://youtu.be/v8ol6_9wgEs",
     "vidTitle": "\u3010ANIMAL CROSSING\u3011I WANNA MAKE AN RPG VILLAGE!\u3010NIJISANJI EN | Vantacrow Bringer\u3011",
@@ -68,7 +56,19 @@
     "channelThumb": "https://yt3.ggpht.com/GLPkvp_8o7OvZ3q57IpqDSHIyv6OqZFK6tO1egzLoMjE19EBlo3tISEMIOLEvkC5jnl2Uus93A=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Vanta",
     "scheduledStartTime": "2024-04-22T02:00:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-22T02:02:58Z",
+    "premiere": false
+  },
+  {
+    "id": "iMos6TJbUQ0",
+    "vidUrl": "https://youtu.be/iMos6TJbUQ0",
+    "vidTitle": "LEAGUE OF LEGENDS S14 MASTERS GRIND PART 20 (Reclaiming Masters)",
+    "channelId": "@asterarcadia",
+    "channelName": "Aster Arcadia \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/PfyW7HnjCKF15WfzvFBLo_vx94y_tZw_jpnjku0GyvZnynSODh2E9aJ0Vi1mlc3R8sF_hXNl-g=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Aster",
+    "scheduledStartTime": "2024-04-22T02:00:00Z",
+    "actualStartTime": "2024-04-22T02:05:37Z",
     "premiere": false
   },
   {
@@ -237,19 +237,6 @@
     "shortName": "Reimu",
     "scheduledStartTime": "2024-05-05T01:00:00Z",
     "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "ax2zyv7I9Q0",
-    "vidUrl": "https://youtu.be/ax2zyv7I9Q0",
-    "vidTitle": "\u3010CONTENT WARNING\u3011I STOLE ELIRA'S THUMBNAIL GONE WRONG!?!?!\u3010NIJISANJI EN | Vantacrow Bringer\u3011",
-    "channelId": "@vantacrowbringer",
-    "channelName": "Vantacrow Bringer \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/GLPkvp_8o7OvZ3q57IpqDSHIyv6OqZFK6tO1egzLoMjE19EBlo3tISEMIOLEvkC5jnl2Uus93A=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Vanta",
-    "scheduledStartTime": "2024-04-21T22:00:00Z",
-    "actualStartTime": "2024-04-21T22:01:41Z",
     "premiere": false
   }
 ]
