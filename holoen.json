@@ -24,6 +24,18 @@
     "premiere": false
   },
   {
+    "id": "QpRJZulTZDA",
+    "vidUrl": "https://youtu.be/QpRJZulTZDA",
+    "vidTitle": "\u226aCONTENT WARNING\u226b welcome to our vlog~",
+    "channelId": "@hakosbaelz",
+    "channelName": "Hakos Baelz Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/SSZxkgjfV0O05zq1bBLOI0PszOCoxuPrANQ0Ysngsd0t81mnkwzEgIW2ypSIQJLn8swR14zLJQ=s88-c-k-c0x00ffffff-no-nd-rj",
+    "shortName": "Bae",
+    "scheduledStartTime": "2024-04-23T01:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "tnVNYhRDMXA",
     "vidUrl": "https://youtu.be/tnVNYhRDMXA",
     "vidTitle": "\u3010READING MY OLD DIARIES?!\u3011why am I doing this. #hololiveenglish",
@@ -70,19 +82,6 @@
     "shortName": "FWMC",
     "scheduledStartTime": "2024-04-22T15:00:00Z",
     "actualStartTime": "2024-04-22T14:55:08Z",
-    "premiere": false
-  },
-  {
-    "id": "3k7-pdrZ6nQ",
-    "vidUrl": "https://youtu.be/3k7-pdrZ6nQ",
-    "vidTitle": "\u226aMidnight Monday Radio\u226b Episode 5 #shorts",
-    "channelId": "@hakosbaelz",
-    "channelName": "Hakos Baelz Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/SSZxkgjfV0O05zq1bBLOI0PszOCoxuPrANQ0Ysngsd0t81mnkwzEgIW2ypSIQJLn8swR14zLJQ=s88-c-k-c0x00ffffff-no-nd-rj",
-    "graveyard": true,
-    "shortName": "Bae",
-    "scheduledStartTime": "2024-04-22T15:00:00Z",
-    "actualStartTime": "2024-04-22T15:00:17Z",
     "premiere": false
   }
 ]
