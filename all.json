@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "DGiE7xDe4pc",
-    "vidUrl": "https://youtu.be/DGiE7xDe4pc",
-    "vidTitle": "\u3016Sekiro\u3017we do teh winning (probably)\u3016Cyon \u2765 V&U\u3017",
-    "channelId": "@cyonvnu",
-    "channelName": "Cyon Hart Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/gsviy0KcEYuRE4MyNsKcEBoS0lIaW9wgkz9raEwVrQ0tIUM473cN8ORz-rdHps1IYSHxZdzI_g=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Cyon",
-    "scheduledStartTime": "2024-04-23T08:00:00Z",
-    "actualStartTime": "2024-04-23T08:00:50Z",
-    "premiere": false
-  },
-  {
     "id": "iPHBpIk87SU",
     "vidUrl": "https://youtu.be/iPHBpIk87SU",
     "vidTitle": "\u3010\u65e5\u672c\u8a9e\u96d1\u8ac7\u3011\u306a\u306b\u8a71\u305d\u3046\ud83d\udc40\u3010Kumanui Miel | globie\u3011",
@@ -427,6 +415,18 @@
     "channelName": "Nene Amano Ch. \u5929\u91ce\u5be7\u3005\u3010kawaii\u3011",
     "channelThumb": "https://yt3.ggpht.com/gQXL64aSlteGuabzrOCxa7Qs-OdOJ0EAMeTP1hpSpI_5_IAkpjy3X0Y4aTVe9BxxXvXOCE5VdLc=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Nene",
+    "scheduledStartTime": "2024-04-23T17:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "gaYXenbSH2M",
+    "vidUrl": "https://youtu.be/gaYXenbSH2M",
+    "vidTitle": "\u3010THIEF SIMULATOR 2\u3011Back to Fiefing!!! Making the Neighborhood UNSAFE #kfp #\u30ad\u30a2\u30e9\u30a4\u30d6",
+    "channelId": "@takanashikiara",
+    "channelName": "Takanashi Kiara Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/w7TKJYU7zmamFmf-WxfahCo_K7Bg2__Pk-CCBNnbewMG-77OZLqJO9MLvDAmH9nEkZH8OkWgSQ=s88-c-k-c0x00ffffff-no-nd-rj",
+    "shortName": "Kiara",
     "scheduledStartTime": "2024-04-23T17:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -3711,6 +3711,19 @@
     "shortName": "Blaise",
     "scheduledStartTime": "2024-04-23T03:00:00Z",
     "actualStartTime": "2024-04-23T03:01:00Z",
+    "premiere": false
+  },
+  {
+    "id": "DGiE7xDe4pc",
+    "vidUrl": "https://youtu.be/DGiE7xDe4pc",
+    "vidTitle": "\u3016Sekiro\u3017we do teh winning (probably)\u3016Cyon \u2765 V&U\u3017",
+    "channelId": "@cyonvnu",
+    "channelName": "Cyon Hart Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/gsviy0KcEYuRE4MyNsKcEBoS0lIaW9wgkz9raEwVrQ0tIUM473cN8ORz-rdHps1IYSHxZdzI_g=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Cyon",
+    "scheduledStartTime": "2024-04-23T08:00:00Z",
+    "actualStartTime": "2024-04-23T08:00:50Z",
     "premiere": false
   },
   {
