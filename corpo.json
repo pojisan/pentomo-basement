@@ -24,18 +24,6 @@
     "premiere": false
   },
   {
-    "id": "fhCFEkPwYCc",
-    "vidUrl": "https://youtu.be/fhCFEkPwYCc",
-    "vidTitle": "Let's learn how to smoke with Omen\u3010Valorant\u3011",
-    "channelId": "@arialyuriko",
-    "channelName": "Arial Yuriko Ch. [VReverie]",
-    "channelThumb": "https://yt3.ggpht.com/IU2v8OvK9p2KPE6Udi-AxcHpDdRmZ8ixovTLb3dDzCahVLSuIc4iKBKNd5LE6lFvlgUfTIHi=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Arial",
-    "scheduledStartTime": "2024-04-23T15:30:00Z",
-    "actualStartTime": "2024-04-23T15:26:43Z",
-    "premiere": false
-  },
-  {
     "id": "otsmL2aZIhg",
     "vidUrl": "https://youtu.be/otsmL2aZIhg",
     "vidTitle": "\u3010Supermarket Simulator\u3011Guild Shop is now OPEN\u3010globie 2nd Gen - Equinnox\u3011",
@@ -264,18 +252,6 @@
     "premiere": false
   },
   {
-    "id": "h5pXUDd5oiE",
-    "vidUrl": "https://youtu.be/h5pXUDd5oiE",
-    "vidTitle": "\u3010VR CHAT\u3011Cozy vrchat zatsu\u3010Yume+ | Rhea Nevermore\u3011",
-    "channelId": "@rheanevermore",
-    "channelName": "Rhea Nevermore \u3010Yume+\u3011",
-    "channelThumb": "https://yt3.ggpht.com/POsoK-HHPySyD4C6ell2PZeeqjOfPFYW1SOYN0ZwETReBmkJ7ScxoTkyB3BliqEg3Qh6ulsjwQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Rhea",
-    "scheduledStartTime": "2024-04-23T20:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "rnJXFhp09f8",
     "vidUrl": "https://youtu.be/rnJXFhp09f8",
     "vidTitle": "\u3010DEAD BY DAYLIGHT\u3011TWINS QOL UPDATES AND NEW TOME!!!",
@@ -283,6 +259,18 @@
     "channelName": "Starry Yozzy / \u30b9\u30bf\u30fc\u30ea\u30fc\u30e8\u30b8\u30fc",
     "channelThumb": "https://yt3.ggpht.com/tCYYc5ryRY8qRWycxZUT9_KTPN8FXQN8di_U1CJb8dN6b7xKo-Pg3JDr3-ZKQvXut2omIzYoys8=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Yozzy",
+    "scheduledStartTime": "2024-04-23T20:00:00Z",
+    "actualStartTime": "2024-04-23T19:26:00Z",
+    "premiere": false
+  },
+  {
+    "id": "h5pXUDd5oiE",
+    "vidUrl": "https://youtu.be/h5pXUDd5oiE",
+    "vidTitle": "\u3010VR CHAT\u3011Cozy vrchat zatsu\u3010Yume+ | Rhea Nevermore\u3011",
+    "channelId": "@rheanevermore",
+    "channelName": "Rhea Nevermore \u3010Yume+\u3011",
+    "channelThumb": "https://yt3.ggpht.com/POsoK-HHPySyD4C6ell2PZeeqjOfPFYW1SOYN0ZwETReBmkJ7ScxoTkyB3BliqEg3Qh6ulsjwQ=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Rhea",
     "scheduledStartTime": "2024-04-23T20:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -3706,6 +3694,19 @@
     "shortName": "Kowa",
     "scheduledStartTime": "2024-04-23T14:00:00Z",
     "actualStartTime": "2024-04-23T14:00:51Z",
+    "premiere": false
+  },
+  {
+    "id": "fhCFEkPwYCc",
+    "vidUrl": "https://youtu.be/fhCFEkPwYCc",
+    "vidTitle": "Let's learn how to smoke with Omen\u3010Valorant\u3011",
+    "channelId": "@arialyuriko",
+    "channelName": "Arial Yuriko Ch. [VReverie]",
+    "channelThumb": "https://yt3.ggpht.com/IU2v8OvK9p2KPE6Udi-AxcHpDdRmZ8ixovTLb3dDzCahVLSuIc4iKBKNd5LE6lFvlgUfTIHi=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Arial",
+    "scheduledStartTime": "2024-04-23T15:30:00Z",
+    "actualStartTime": "2024-04-23T15:26:43Z",
     "premiere": false
   },
   {
