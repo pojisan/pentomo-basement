@@ -48,18 +48,6 @@
     "premiere": false
   },
   {
-    "id": "4Q7mgffXE2Q",
-    "vidUrl": "https://youtu.be/4Q7mgffXE2Q",
-    "vidTitle": "\u3010CHAT/\u96d1\u8ac7\u3011Good morning, nerds!\u3010Pippa Pebblesworth | globie\u3011#shorts #shortsfeed",
-    "channelId": "@pippapebblesworth",
-    "channelName": "Pippa Pebblesworth ch. \u3010globie\u3011",
-    "channelThumb": "https://yt3.ggpht.com/FV-T274wCeRSrHKm54acTNEJLJTDlE5BdPrKoJQY0kxaTdO4uerFlxG8HJmAvS2HbSQIMzfa7A=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Pippa",
-    "scheduledStartTime": "2024-04-23T08:30:00Z",
-    "actualStartTime": "2024-04-23T08:31:48Z",
-    "premiere": false
-  },
-  {
     "id": "iPHBpIk87SU",
     "vidUrl": "https://youtu.be/iPHBpIk87SU",
     "vidTitle": "\u3010\u65e5\u672c\u8a9e\u96d1\u8ac7\u3011\u306a\u306b\u8a71\u305d\u3046\ud83d\udc40\u3010Kumanui Miel | globie\u3011",
@@ -3700,19 +3688,6 @@
     "premiere": false
   },
   {
-    "id": "Uq9GLS8jAy8",
-    "vidUrl": "https://youtu.be/Uq9GLS8jAy8",
-    "vidTitle": "LATE NIGHT BOBA DRIVE STREAM!",
-    "channelId": "@scarleyonaguni",
-    "channelName": "Scarle Yonaguni \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/oYEH8ckOxzEJ0GXlZGp4aSxvZrMWAeodRUg_MRgHqJEr7bEyjXdoC5VyYZ143XtcIKUozhQq6Q=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Scarle",
-    "scheduledStartTime": "2024-04-23T02:30:00Z",
-    "actualStartTime": "2024-04-23T02:49:48Z",
-    "premiere": false
-  },
-  {
     "id": "zEfdSWsNBPI",
     "vidUrl": "https://youtu.be/zEfdSWsNBPI",
     "vidTitle": "comfy sleepy digital art doodles \u2661\u2027\u208a\u02da",
@@ -3723,6 +3698,19 @@
     "shortName": "Blaise",
     "scheduledStartTime": "2024-04-23T03:00:00Z",
     "actualStartTime": "2024-04-23T03:01:00Z",
+    "premiere": false
+  },
+  {
+    "id": "4Q7mgffXE2Q",
+    "vidUrl": "https://youtu.be/4Q7mgffXE2Q",
+    "vidTitle": "\u3010CHAT/\u96d1\u8ac7\u3011Good morning, nerds!\u3010Pippa Pebblesworth | globie\u3011#shorts #shortsfeed",
+    "channelId": "@pippapebblesworth",
+    "channelName": "Pippa Pebblesworth ch. \u3010globie\u3011",
+    "channelThumb": "https://yt3.ggpht.com/FV-T274wCeRSrHKm54acTNEJLJTDlE5BdPrKoJQY0kxaTdO4uerFlxG8HJmAvS2HbSQIMzfa7A=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Pippa",
+    "scheduledStartTime": "2024-04-23T08:30:00Z",
+    "actualStartTime": "2024-04-23T08:31:48Z",
     "premiere": false
   },
   {
