@@ -24,18 +24,6 @@
     "premiere": false
   },
   {
-    "id": "a0cHjx_zfiI",
-    "vidUrl": "https://youtu.be/a0cHjx_zfiI",
-    "vidTitle": "I LOVE HAWT BUNNY LADIES",
-    "channelId": "@oumiyaemma",
-    "channelName": "Oumiya Emma / \u5927\u5bae\u30a8\u30de",
-    "channelThumb": "https://yt3.ggpht.com/UZ38UIPBURy_Tp5sVb5MmZo2zqO_1ZVtG-i2pIC94AZxqzIvcOYQMOEnU46DHMTLzHKqsL6x3A=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Emma",
-    "scheduledStartTime": "2024-04-23T15:00:00Z",
-    "actualStartTime": "2024-04-23T15:06:44Z",
-    "premiere": false
-  },
-  {
     "id": "abC0_87Biu0",
     "vidUrl": "https://youtu.be/abC0_87Biu0",
     "vidTitle": "\u3010TOTK\u3011 asldjkfsljd p1  \u3010NIJISANJI EN | Kunai Nakasato\u3011",
@@ -105,18 +93,6 @@
     "shortName": "Nene",
     "scheduledStartTime": "2024-04-23T17:00:00Z",
     "actualStartTime": "2024-04-23T17:15:05Z",
-    "premiere": false
-  },
-  {
-    "id": "w0c_4mXyLCw",
-    "vidUrl": "https://youtu.be/w0c_4mXyLCw",
-    "vidTitle": "The Demon Hungers After Party... 6 Months Later\u3010NIJISANJI EN | Vox Akuma\u3011",
-    "channelId": "@voxakuma",
-    "channelName": "Vox Akuma\u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/wmFEylEWSzThPd3-AIufbxVP-_JOTI8ru_Pf1JI8RQ2Af4EoPDUXpT7n22PXl6m_vAq8p28lxw=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Vox",
-    "scheduledStartTime": "2024-04-23T17:19:18Z",
-    "actualStartTime": "2024-04-23T17:19:28Z",
     "premiere": false
   },
   {
@@ -3805,6 +3781,19 @@
     "premiere": false
   },
   {
+    "id": "a0cHjx_zfiI",
+    "vidUrl": "https://youtu.be/a0cHjx_zfiI",
+    "vidTitle": "I LOVE HAWT BUNNY LADIES",
+    "channelId": "@oumiyaemma",
+    "channelName": "Oumiya Emma / \u5927\u5bae\u30a8\u30de",
+    "channelThumb": "https://yt3.ggpht.com/UZ38UIPBURy_Tp5sVb5MmZo2zqO_1ZVtG-i2pIC94AZxqzIvcOYQMOEnU46DHMTLzHKqsL6x3A=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Emma",
+    "scheduledStartTime": "2024-04-23T15:00:00Z",
+    "actualStartTime": "2024-04-23T15:06:44Z",
+    "premiere": false
+  },
+  {
     "id": "fhCFEkPwYCc",
     "vidUrl": "https://youtu.be/fhCFEkPwYCc",
     "vidTitle": "Let's learn how to smoke with Omen\u3010Valorant\u3011",
@@ -3841,6 +3830,19 @@
     "shortName": "Hu",
     "scheduledStartTime": "2024-04-23T16:00:00Z",
     "actualStartTime": "2024-04-23T15:56:13Z",
+    "premiere": false
+  },
+  {
+    "id": "w0c_4mXyLCw",
+    "vidUrl": "https://youtu.be/w0c_4mXyLCw",
+    "vidTitle": "The Demon Hungers After Party... 6 Months Later\u3010NIJISANJI EN | Vox Akuma\u3011",
+    "channelId": "@voxakuma",
+    "channelName": "Vox Akuma\u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/wmFEylEWSzThPd3-AIufbxVP-_JOTI8ru_Pf1JI8RQ2Af4EoPDUXpT7n22PXl6m_vAq8p28lxw=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Vox",
+    "scheduledStartTime": "2024-04-23T17:19:18Z",
+    "actualStartTime": "2024-04-23T17:19:28Z",
     "premiere": false
   },
   {

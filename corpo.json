@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "a0cHjx_zfiI",
-    "vidUrl": "https://youtu.be/a0cHjx_zfiI",
-    "vidTitle": "I LOVE HAWT BUNNY LADIES",
-    "channelId": "@oumiyaemma",
-    "channelName": "Oumiya Emma / \u5927\u5bae\u30a8\u30de",
-    "channelThumb": "https://yt3.ggpht.com/UZ38UIPBURy_Tp5sVb5MmZo2zqO_1ZVtG-i2pIC94AZxqzIvcOYQMOEnU46DHMTLzHKqsL6x3A=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Emma",
-    "scheduledStartTime": "2024-04-23T15:00:00Z",
-    "actualStartTime": "2024-04-23T15:06:44Z",
-    "premiere": false
-  },
-  {
     "id": "otsmL2aZIhg",
     "vidUrl": "https://youtu.be/otsmL2aZIhg",
     "vidTitle": "\u3010Supermarket Simulator\u3011Guild Shop is now OPEN\u3010globie 2nd Gen - Equinnox\u3011",
@@ -3694,6 +3682,19 @@
     "shortName": "Kowa",
     "scheduledStartTime": "2024-04-23T14:00:00Z",
     "actualStartTime": "2024-04-23T14:00:51Z",
+    "premiere": false
+  },
+  {
+    "id": "a0cHjx_zfiI",
+    "vidUrl": "https://youtu.be/a0cHjx_zfiI",
+    "vidTitle": "I LOVE HAWT BUNNY LADIES",
+    "channelId": "@oumiyaemma",
+    "channelName": "Oumiya Emma / \u5927\u5bae\u30a8\u30de",
+    "channelThumb": "https://yt3.ggpht.com/UZ38UIPBURy_Tp5sVb5MmZo2zqO_1ZVtG-i2pIC94AZxqzIvcOYQMOEnU46DHMTLzHKqsL6x3A=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Emma",
+    "scheduledStartTime": "2024-04-23T15:00:00Z",
+    "actualStartTime": "2024-04-23T15:06:44Z",
     "premiere": false
   },
   {
