@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "wJRDcO0jXtA",
-    "vidUrl": "https://youtu.be/wJRDcO0jXtA",
-    "vidTitle": "\u3010STARDEW VALLEY\u3011Farming with the lads again!\u3010Pippa Pebblesworth\u3011",
-    "channelId": "@pippapebblesworth",
-    "channelName": "Pippa Pebblesworth ch. \u3010globie\u3011",
-    "channelThumb": "https://yt3.ggpht.com/FV-T274wCeRSrHKm54acTNEJLJTDlE5BdPrKoJQY0kxaTdO4uerFlxG8HJmAvS2HbSQIMzfa7A=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Pippa",
-    "scheduledStartTime": "2024-04-23T18:00:00Z",
-    "actualStartTime": "2024-04-23T18:06:01Z",
-    "premiere": false
-  },
-  {
     "id": "wNtYTAfgx0A",
     "vidUrl": "https://youtu.be/wNtYTAfgx0A",
     "vidTitle": "[CYBERPUNK 2077]  YOUR DAYS ARE NUMBERED ADAM SMASHER!!! [V&U | GEN 5]",
@@ -153,18 +141,6 @@
     "shortName": "Mero",
     "scheduledStartTime": "2024-04-23T22:00:00Z",
     "actualStartTime": "2024-04-23T22:00:52Z",
-    "premiere": false
-  },
-  {
-    "id": "3J6D6KSuZMM",
-    "vidUrl": "https://youtu.be/3J6D6KSuZMM",
-    "vidTitle": "RAH Hi I missed you!!!\u3010zatsu\u3011",
-    "channelId": "@rakikazuki",
-    "channelName": "Raki Kazuki Ch.\u3010PixelLink\u3011",
-    "channelThumb": "https://yt3.ggpht.com/Ge4x2_hwt_sqQzuqoRpAsV_0SsEJ89TPznVPu-eG3ETMopiMM0iX0uW6jjIGsR-MFVWCsw1WiA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Ragi",
-    "scheduledStartTime": "2024-04-23T22:00:00Z",
-    "actualStartTime": "2024-04-23T22:01:13Z",
     "premiere": false
   },
   {
@@ -3566,6 +3542,19 @@
     "premiere": false
   },
   {
+    "id": "wJRDcO0jXtA",
+    "vidUrl": "https://youtu.be/wJRDcO0jXtA",
+    "vidTitle": "\u3010STARDEW VALLEY\u3011Farming with the lads again!\u3010Pippa Pebblesworth\u3011",
+    "channelId": "@pippapebblesworth",
+    "channelName": "Pippa Pebblesworth ch. \u3010globie\u3011",
+    "channelThumb": "https://yt3.ggpht.com/FV-T274wCeRSrHKm54acTNEJLJTDlE5BdPrKoJQY0kxaTdO4uerFlxG8HJmAvS2HbSQIMzfa7A=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Pippa",
+    "scheduledStartTime": "2024-04-23T18:00:00Z",
+    "actualStartTime": "2024-04-23T18:06:01Z",
+    "premiere": false
+  },
+  {
     "id": "KanvHaSlTOI",
     "vidUrl": "https://youtu.be/KanvHaSlTOI",
     "vidTitle": "\u3010NandemoYaya #1\u3011Get Pampered~! \u2606\u301c\uff08\u309d\u3002\u2202\uff09\u3010Kaya Nishikino | Production kawaii\u3011",
@@ -3615,6 +3604,19 @@
     "shortName": "Airi",
     "scheduledStartTime": "2024-04-23T21:00:00Z",
     "actualStartTime": "2024-04-23T21:00:10Z",
+    "premiere": false
+  },
+  {
+    "id": "3J6D6KSuZMM",
+    "vidUrl": "https://youtu.be/3J6D6KSuZMM",
+    "vidTitle": "RAH Hi I missed you!!!\u3010zatsu\u3011",
+    "channelId": "@rakikazuki",
+    "channelName": "Raki Kazuki Ch.\u3010PixelLink\u3011",
+    "channelThumb": "https://yt3.ggpht.com/Ge4x2_hwt_sqQzuqoRpAsV_0SsEJ89TPznVPu-eG3ETMopiMM0iX0uW6jjIGsR-MFVWCsw1WiA=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Ragi",
+    "scheduledStartTime": "2024-04-23T22:00:00Z",
+    "actualStartTime": "2024-04-23T22:01:13Z",
     "premiere": false
   }
 ]
