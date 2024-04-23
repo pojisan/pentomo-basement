@@ -132,18 +132,6 @@
     "premiere": false
   },
   {
-    "id": "J_2vv1uxFE0",
-    "vidUrl": "https://youtu.be/J_2vv1uxFE0",
-    "vidTitle": "\u3010The Abduction\u3011kidnapping @KaiSaikota",
-    "channelId": "@kattarina_qutie",
-    "channelName": "Kattarina Qutie Ch. idol-EN",
-    "channelThumb": "https://yt3.ggpht.com/gHLRZOEihJIIcqQJmj8hsp4CsuRIbKIYKzRxQp9Q9du6DfBDFlnMv3xYCXMnKqSe3N8a1ki6Yw=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Katta",
-    "scheduledStartTime": "2024-04-23T19:00:00Z",
-    "actualStartTime": "2024-04-23T19:07:42Z",
-    "premiere": false
-  },
-  {
     "id": "rnJXFhp09f8",
     "vidUrl": "https://youtu.be/rnJXFhp09f8",
     "vidTitle": "\u3010DEAD BY DAYLIGHT\u3011TWINS QOL UPDATES AND NEW TOME!!!",
@@ -240,18 +228,6 @@
     "premiere": false
   },
   {
-    "id": "V3oH4SfSOoI",
-    "vidUrl": "https://youtu.be/V3oH4SfSOoI",
-    "vidTitle": "I WILL TAKE YOU\ud83d\udca6",
-    "channelId": "@umikyoku",
-    "channelName": "Umi Kyoku \u3010\u3046\u307f\u304d\u3087\u304f\u3011",
-    "channelThumb": "https://yt3.ggpht.com/swraGRJ-7ukDEjf58l8YghX2KRDuxS2AEW417T7BWmc-NehlFSgYeMftFJ9VuDE43C07xHQLKBA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Umi",
-    "scheduledStartTime": "2024-04-23T21:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "gq4Eyeh3jBk",
     "vidUrl": "https://youtu.be/gq4Eyeh3jBk",
     "vidTitle": "Im gonna git gud at this, i swear. [Rise of the Ronin] Part 3",
@@ -259,6 +235,18 @@
     "channelName": "Roza Coatl Ch.",
     "channelThumb": "https://yt3.ggpht.com/J_RmocTP4ficzRZ6AFtUiEXoekNfliyRQcber2EXH-nBkNjhci71GaeNHsp4gzLMZs14HZ1U6WQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Roza",
+    "scheduledStartTime": "2024-04-23T21:00:00Z",
+    "actualStartTime": "2024-04-23T21:13:45Z",
+    "premiere": false
+  },
+  {
+    "id": "V3oH4SfSOoI",
+    "vidUrl": "https://youtu.be/V3oH4SfSOoI",
+    "vidTitle": "I WILL TAKE YOU\ud83d\udca6",
+    "channelId": "@umikyoku",
+    "channelName": "Umi Kyoku \u3010\u3046\u307f\u304d\u3087\u304f\u3011",
+    "channelThumb": "https://yt3.ggpht.com/swraGRJ-7ukDEjf58l8YghX2KRDuxS2AEW417T7BWmc-NehlFSgYeMftFJ9VuDE43C07xHQLKBA=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Umi",
     "scheduledStartTime": "2024-04-23T21:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -350,7 +338,7 @@
   {
     "id": "VnNKJHBeyf0",
     "vidUrl": "https://youtu.be/VnNKJHBeyf0",
-    "vidTitle": "\u3010ASMR\u3011reading bedtime stories to help you sleep \u2022 soft-spoken reading & whisper chatting \u2665",
+    "vidTitle": "\u3010ASMR\u3011bedtime story reading to help you fall sleep \u2022 soft-spoken reading & whisper chatting \u2665",
     "channelId": "@remkanashibari",
     "channelName": "REM Kanashibari Ch.\u3010V4Mirai\u3011",
     "channelThumb": "https://yt3.ggpht.com/wVYBYMI9s6Rq0ONjpaDlrGWx7j-Qf4p-zsxBJgK65NLMvDuYu2A_4VB69LA2PhBlElWgVZbe-OI=s88-c-k-c0x00ffffff-no-rj",
@@ -3697,6 +3685,19 @@
     "shortName": "Kaya",
     "scheduledStartTime": "2024-04-23T19:00:00Z",
     "actualStartTime": "2024-04-23T19:01:49Z",
+    "premiere": false
+  },
+  {
+    "id": "J_2vv1uxFE0",
+    "vidUrl": "https://youtu.be/J_2vv1uxFE0",
+    "vidTitle": "\u3010The Abduction\u3011kidnapping @KaiSaikota",
+    "channelId": "@kattarina_qutie",
+    "channelName": "Kattarina Qutie Ch. idol-EN",
+    "channelThumb": "https://yt3.ggpht.com/gHLRZOEihJIIcqQJmj8hsp4CsuRIbKIYKzRxQp9Q9du6DfBDFlnMv3xYCXMnKqSe3N8a1ki6Yw=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Katta",
+    "scheduledStartTime": "2024-04-23T19:00:00Z",
+    "actualStartTime": "2024-04-23T19:07:42Z",
     "premiere": false
   }
 ]
