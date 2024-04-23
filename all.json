@@ -1,17 +1,5 @@
 [
   {
-    "id": "UuPjBSwDCdc",
-    "vidUrl": "https://youtu.be/UuPjBSwDCdc",
-    "vidTitle": "Session 52: The Masquerade | Into The Mists [DND] w/ Vtubers",
-    "channelId": "@ginimercury",
-    "channelName": "Roza Coatl Ch.",
-    "channelThumb": "https://yt3.ggpht.com/J_RmocTP4ficzRZ6AFtUiEXoekNfliyRQcber2EXH-nBkNjhci71GaeNHsp4gzLMZs14HZ1U6WQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Roza",
-    "scheduledStartTime": "2024-04-22T19:15:00Z",
-    "actualStartTime": "2024-04-22T19:03:05Z",
-    "premiere": false
-  },
-  {
     "id": "a04PH2L5exg",
     "vidUrl": "https://youtu.be/a04PH2L5exg",
     "vidTitle": "\u3010Fortune Telling\u3011Love Readings: Can I predict a cute GF in YOUR future?",
@@ -105,18 +93,6 @@
     "shortName": "Clara",
     "scheduledStartTime": "2024-04-23T04:00:00Z",
     "actualStartTime": "2024-04-23T04:01:45Z",
-    "premiere": false
-  },
-  {
-    "id": "-Mokg-lFm8s",
-    "vidUrl": "https://youtu.be/-Mokg-lFm8s",
-    "vidTitle": "\u3010UNARCHIVED KARAOKE\u3011EEPY COMFY TIME \u208a\u2027\u00b0\ud801\udc2a\u2661\ud801\udc42\u00b0\u2027\u208a",
-    "channelId": "@blaiseshinryu",
-    "channelName": "Blaise Shinryu Ch. \u3010EIEN Project\u3011",
-    "channelThumb": "https://yt3.ggpht.com/XWFo-WwtDhyl38I7E6RMNNpfKq28um2HF1UZVx2gvEl3_wlbtX9oRoE_fGIwtWyUetQZwEL8=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Blaise",
-    "scheduledStartTime": "2024-04-23T04:10:00Z",
-    "actualStartTime": "2024-04-23T04:17:31Z",
     "premiere": false
   },
   {
@@ -224,6 +200,18 @@
     "channelThumb": "https://yt3.ggpht.com/QmtGoU3n-jCQAj1gfC6hKg-PiFlyGTW-sz1HZJZlV8Av1Kdial8AJphIpJD7ywQWtUuVgyjo=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Angy",
     "scheduledStartTime": "2024-04-23T12:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "2gyLq2fTAiw",
+    "vidUrl": "https://youtu.be/2gyLq2fTAiw",
+    "vidTitle": "\u3010Livestream 2: Escape from Togaezuka Happy Place\u3011PART TWO! \ud83d\udd78\ufe0f \u3010VOLs\u3011",
+    "channelId": "@mayunocharlotte-vols",
+    "channelName": "Mayuno A. Charlotte - VOLs",
+    "channelThumb": "https://yt3.ggpht.com/I8IJ1Mc_mhQXeqAzhvpXj6kFF_LOMS1MeIpEBgBt1tt2DuqupCXmAgTjy9LLGLNtdjQbGE5jIg=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Charlotte",
+    "scheduledStartTime": "2024-04-23T12:30:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -3585,6 +3573,19 @@
     "shortName": "Tomomi",
     "scheduledStartTime": "2026-04-30T17:30:00Z",
     "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "UuPjBSwDCdc",
+    "vidUrl": "https://youtu.be/UuPjBSwDCdc",
+    "vidTitle": "Session 52: The Masquerade | Into The Mists [DND] w/ Vtubers",
+    "channelId": "@ginimercury",
+    "channelName": "Roza Coatl Ch.",
+    "channelThumb": "https://yt3.ggpht.com/J_RmocTP4ficzRZ6AFtUiEXoekNfliyRQcber2EXH-nBkNjhci71GaeNHsp4gzLMZs14HZ1U6WQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Roza",
+    "scheduledStartTime": "2024-04-22T19:15:00Z",
+    "actualStartTime": "2024-04-22T19:03:05Z",
     "premiere": false
   },
   {
