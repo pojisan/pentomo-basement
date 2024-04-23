@@ -1,17 +1,5 @@
 [
   {
-    "id": "VRdQbUMdnAY",
-    "vidUrl": "https://youtu.be/VRdQbUMdnAY",
-    "vidTitle": "3D Printing Chibi Figurines: I AM SORRY",
-    "channelId": "@nikkirei",
-    "channelName": "Nikki Rei Ch. idol-EN",
-    "channelThumb": "https://yt3.ggpht.com/7yN9yQvJhx4cVCL5rLOgsBYiRtRMYEurmtjT0DosKX6qpuoSm9zeo4ELHwy7RW-knfVPzNEqAg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Nikki",
-    "scheduledStartTime": "2024-04-22T16:30:00Z",
-    "actualStartTime": "2024-04-22T16:31:04Z",
-    "premiere": false
-  },
-  {
     "id": "_G5R5Nk6vgw",
     "vidUrl": "https://youtu.be/_G5R5Nk6vgw",
     "vidTitle": "\u3010Assassin's Creed IV Black Flag\u3011Well...... Captain's bored so let's continue our ARRRRRventure!",
@@ -69,18 +57,6 @@
     "shortName": "Cy",
     "scheduledStartTime": "2024-04-22T21:05:00Z",
     "actualStartTime": "2024-04-22T21:04:02Z",
-    "premiere": false
-  },
-  {
-    "id": "hzGPkpZ3Y5o",
-    "vidUrl": "https://youtu.be/hzGPkpZ3Y5o",
-    "vidTitle": "\u3010Tales of Arise\u3011 Continuing where we left off last time!",
-    "channelId": "@isabellegoodwillow",
-    "channelName": "Isabelle Goodwillow Ch. Legion",
-    "channelThumb": "https://yt3.ggpht.com/fpMi8U5dCS85PVYvVUcUEElBczJHeTCoxkrea8AxZ-aow_5JXFjoAtYUnkNdTgsaqQISGmii3g=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Isabelle",
-    "scheduledStartTime": "2024-04-22T21:15:29Z",
-    "actualStartTime": "2024-04-22T21:17:19Z",
     "premiere": false
   },
   {
@@ -3483,6 +3459,19 @@
     "premiere": false
   },
   {
+    "id": "VRdQbUMdnAY",
+    "vidUrl": "https://youtu.be/VRdQbUMdnAY",
+    "vidTitle": "3D Printing Chibi Figurines: I AM SORRY",
+    "channelId": "@nikkirei",
+    "channelName": "Nikki Rei Ch. idol-EN",
+    "channelThumb": "https://yt3.ggpht.com/7yN9yQvJhx4cVCL5rLOgsBYiRtRMYEurmtjT0DosKX6qpuoSm9zeo4ELHwy7RW-knfVPzNEqAg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Nikki",
+    "scheduledStartTime": "2024-04-22T16:30:00Z",
+    "actualStartTime": "2024-04-22T16:31:04Z",
+    "premiere": false
+  },
+  {
     "id": "ecoSsn_Kr6w",
     "vidUrl": "https://youtu.be/ecoSsn_Kr6w",
     "vidTitle": "GUESS THAT WIKIHOW\u3010bondliveEN | Ivaela Daemoni\u3011",
@@ -3493,6 +3482,19 @@
     "shortName": "Ivaela",
     "scheduledStartTime": "2024-04-22T20:00:00Z",
     "actualStartTime": "2024-04-22T20:01:15Z",
+    "premiere": false
+  },
+  {
+    "id": "hzGPkpZ3Y5o",
+    "vidUrl": "https://youtu.be/hzGPkpZ3Y5o",
+    "vidTitle": "\u3010Tales of Arise\u3011 Continuing where we left off last time!",
+    "channelId": "@isabellegoodwillow",
+    "channelName": "Isabelle Goodwillow Ch. Legion",
+    "channelThumb": "https://yt3.ggpht.com/fpMi8U5dCS85PVYvVUcUEElBczJHeTCoxkrea8AxZ-aow_5JXFjoAtYUnkNdTgsaqQISGmii3g=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Isabelle",
+    "scheduledStartTime": "2024-04-22T21:15:29Z",
+    "actualStartTime": "2024-04-22T21:17:19Z",
     "premiere": false
   }
 ]
