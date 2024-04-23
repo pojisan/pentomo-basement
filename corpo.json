@@ -1,17 +1,5 @@
 [
   {
-    "id": "0IVYJziREUQ",
-    "vidUrl": "https://youtu.be/0IVYJziREUQ",
-    "vidTitle": "Is this the end?\u300e Ender Lillies \u300f",
-    "channelId": "@fuyocloverfield",
-    "channelName": "Fuyo Cloverfield Ch. idol-EN",
-    "channelThumb": "https://yt3.ggpht.com/vqd3NC2ixgsJGUcvuvCIbQ-iDDwb6ESIgj791dJQhJ8gZ6OtG3-C2yzcfVPMPDF3cwU_eVeojHQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Fuyo",
-    "scheduledStartTime": "2024-04-23T15:00:00Z",
-    "actualStartTime": "2024-04-23T15:05:34Z",
-    "premiere": false
-  },
-  {
     "id": "hx01TSZBeuI",
     "vidUrl": "https://youtu.be/hx01TSZBeuI",
     "vidTitle": "Milk",
@@ -343,6 +331,18 @@
     "channelName": "Zumi Dokumi Ch. \u3010EIEN Project\u3011",
     "channelThumb": "https://yt3.ggpht.com/Rfw0lIyzSK0w6oeZ0tcfzM_VdJNo4PFEBZ4vrhVvZBtylWWoKxKpu6HHSAd1_jcy7-LlZVEBC1g=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Zumi",
+    "scheduledStartTime": "2024-04-23T22:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "_htYnPBJMWw",
+    "vidUrl": "https://youtu.be/_htYnPBJMWw",
+    "vidTitle": "Princess Peach Showtime \u2502 Time For The Grand Finaly!",
+    "channelId": "@chiyomoberi",
+    "channelName": "Chiyo Moberi \u3010CIESTE\u3011",
+    "channelThumb": "https://yt3.ggpht.com/rCQWrIhA0g-D2eraOSkn9GkzKGYNjnUmuTi1SBXQzChsbdYoicnz-OA8swsYORrrvrQer2YhTDI=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Chiyo",
     "scheduledStartTime": "2024-04-23T22:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -3658,6 +3658,19 @@
     "shortName": "Kowa",
     "scheduledStartTime": "2024-04-23T14:00:00Z",
     "actualStartTime": "2024-04-23T14:00:51Z",
+    "premiere": false
+  },
+  {
+    "id": "0IVYJziREUQ",
+    "vidUrl": "https://youtu.be/0IVYJziREUQ",
+    "vidTitle": "Is this the end?\u300e Ender Lillies \u300f",
+    "channelId": "@fuyocloverfield",
+    "channelName": "Fuyo Cloverfield Ch. idol-EN",
+    "channelThumb": "https://yt3.ggpht.com/vqd3NC2ixgsJGUcvuvCIbQ-iDDwb6ESIgj791dJQhJ8gZ6OtG3-C2yzcfVPMPDF3cwU_eVeojHQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Fuyo",
+    "scheduledStartTime": "2024-04-23T15:00:00Z",
+    "actualStartTime": "2024-04-23T15:05:34Z",
     "premiere": false
   },
   {
