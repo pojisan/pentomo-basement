@@ -272,7 +272,7 @@
     "channelThumb": "https://yt3.ggpht.com/Vj2QGSwnGea4gY_hmHATQTkM-2noJld4JtpdmiHmXRerJ2umbuiPZwDfLeWVOrXteS4vXqZlCw=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Hiyori",
     "scheduledStartTime": "2024-04-23T03:30:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-23T03:36:28Z",
     "premiere": false
   },
   {
@@ -295,18 +295,6 @@
     "channelName": "Clara Ch. \u6b4c\u7f8e\u9cf4\u30af\u30e9\u30e9 \u3010Phase Connect\u3011",
     "channelThumb": "https://yt3.ggpht.com/Ds02-91FQsIFHxhISPbW0dvCSyrXDEmKyRHIn04c1vRKMXMNobf9Ny4UszPfbWXyNPze7gVqTQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Clara",
-    "scheduledStartTime": "2024-04-23T04:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "tt3mHwLgt9o",
-    "vidUrl": "https://youtu.be/tt3mHwLgt9o",
-    "vidTitle": "\u3010GODDESS OF VICTORY: NIKKE\u3011 Ganbare! Ganbare!",
-    "channelId": "@shabeltonya",
-    "channelName": "Shabel Tonya Ch",
-    "channelThumb": "https://yt3.ggpht.com/ljnQBMPIiErFtOnv6LDIzoufhOH4RhAd0_NIYUZxk_uXWAiW7bz8CGwYqi61PIjfd6coOwkjOpQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Tonya",
     "scheduledStartTime": "2024-04-23T04:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -1903,6 +1891,18 @@
     "channelName": "Cerenity Cosmica Ch. V&U",
     "channelThumb": "https://yt3.ggpht.com/dnyzDEaJzR5qZiWFp73wK_f91hlDHxiORtJ6jwu9nzWcLr_vvkHf9IQc2PGhpiBwKWMF5ns2xg=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Cerenity",
+    "scheduledStartTime": "2024-04-26T04:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "tt3mHwLgt9o",
+    "vidUrl": "https://youtu.be/tt3mHwLgt9o",
+    "vidTitle": "\u3010GODDESS OF VICTORY: NIKKE\u3011 Ganbare! Ganbare!",
+    "channelId": "@shabeltonya",
+    "channelName": "Shabel Tonya Ch",
+    "channelThumb": "https://yt3.ggpht.com/ljnQBMPIiErFtOnv6LDIzoufhOH4RhAd0_NIYUZxk_uXWAiW7bz8CGwYqi61PIjfd6coOwkjOpQ=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Tonya",
     "scheduledStartTime": "2024-04-26T04:00:00Z",
     "actualStartTime": "",
     "premiere": false
