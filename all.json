@@ -192,18 +192,6 @@
     "premiere": false
   },
   {
-    "id": "vfHRZH-R1X8",
-    "vidUrl": "https://youtu.be/vfHRZH-R1X8",
-    "vidTitle": "touching grass (horror)",
-    "channelId": "@reinasunch",
-    "channelName": "Reina Sun Ch. \u30ec\u30a4\u30ca\u30fb\u30b5\u30f3\u300eproduction kawaii\u300f",
-    "channelThumb": "https://yt3.ggpht.com/4RX4F31z_vt136oTmk9X1aHxUrOt7TCeeUggiNx8avUBu1j5B8Blo1lktZplgYt8yVhjxKXgUi0=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Reina",
-    "scheduledStartTime": "2024-04-23T20:00:00Z",
-    "actualStartTime": "2024-04-23T20:02:38Z",
-    "premiere": false
-  },
-  {
     "id": "m8puNbadcHE",
     "vidUrl": "https://youtu.be/m8puNbadcHE",
     "vidTitle": "\u3010VtubeStudio 101 \u3011Making the best out of your vtuber model\u3010Alicja Da Lontano | Globie Gen 2 Solstia\u3011",
@@ -307,7 +295,7 @@
     "channelName": "Umi Kyoku \u3010\u3046\u307f\u304d\u3087\u304f\u3011",
     "channelThumb": "https://yt3.ggpht.com/swraGRJ-7ukDEjf58l8YghX2KRDuxS2AEW417T7BWmc-NehlFSgYeMftFJ9VuDE43C07xHQLKBA=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Umi",
-    "scheduledStartTime": "2024-04-23T21:00:00Z",
+    "scheduledStartTime": "2024-04-23T21:45:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -859,6 +847,18 @@
     "channelName": "Nerissa Ravencroft Ch. hololive-EN",
     "channelThumb": "https://yt3.ggpht.com/JDCIBWj11TgjY2Uyba_efZ0n5hzjysMB9GxkvHGkIN_sfFQJR5mx3iVPqgJ96IPcYjZpCLsb=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Nerissa",
+    "scheduledStartTime": "2024-04-24T03:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "RAKi2wfyJhY",
+    "vidUrl": "https://youtu.be/RAKi2wfyJhY",
+    "vidTitle": "Pulling for Arlecchino 0 MINUTES after her release \u3010Genshin Impact\u3011\u3010NIJISANJI EN | Ver Vermillion\u3011",
+    "channelId": "@ververmillion",
+    "channelName": "Ver Vermillion\u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/QwgUIFhcWKt-yHJ19FqCYelMr9M4fL1JCYuL14ZwdeggK08tKrvqEx9ZU99Tv7HVOaGFA0oPng=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Ver",
     "scheduledStartTime": "2024-04-24T03:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -3757,19 +3757,6 @@
     "premiere": false
   },
   {
-    "id": "xo-Klmer8xM",
-    "vidUrl": "https://youtu.be/xo-Klmer8xM",
-    "vidTitle": "\u3010VALORANT\u3011 rank frfr ?\u3010NIJISANJI EN | Claude Clawmark\u3011",
-    "channelId": "@claudeclawmark",
-    "channelName": "Claude Clawmark \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/e7od55bIqtwAdCdpEdEf1d-PITBdVzntIaqGwTif46sTptNuJQ4WlVPPcfskh3wqb9axkDuOSg=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Claude",
-    "scheduledStartTime": "2024-04-23T14:00:00Z",
-    "actualStartTime": "2024-04-23T14:12:58Z",
-    "premiere": false
-  },
-  {
     "id": "YmfRU_BMzsI",
     "vidUrl": "https://youtu.be/YmfRU_BMzsI",
     "vidTitle": "[Gaming] Let's Chat with Yagami Noah\uff5cVTuber /GTA5 in Street Junkies\u3010GTA5\u3011\u65e5\u672c\u8a9e/PC",
@@ -3819,6 +3806,19 @@
     "shortName": "Katta",
     "scheduledStartTime": "2024-04-23T19:00:00Z",
     "actualStartTime": "2024-04-23T19:07:42Z",
+    "premiere": false
+  },
+  {
+    "id": "vfHRZH-R1X8",
+    "vidUrl": "https://youtu.be/vfHRZH-R1X8",
+    "vidTitle": "touching grass (horror)",
+    "channelId": "@reinasunch",
+    "channelName": "Reina Sun Ch. \u30ec\u30a4\u30ca\u30fb\u30b5\u30f3\u300eproduction kawaii\u300f",
+    "channelThumb": "https://yt3.ggpht.com/4RX4F31z_vt136oTmk9X1aHxUrOt7TCeeUggiNx8avUBu1j5B8Blo1lktZplgYt8yVhjxKXgUi0=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Reina",
+    "scheduledStartTime": "2024-04-23T20:00:00Z",
+    "actualStartTime": "2024-04-23T20:02:38Z",
     "premiere": false
   },
   {
