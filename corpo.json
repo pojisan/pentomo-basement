@@ -24,18 +24,6 @@
     "premiere": false
   },
   {
-    "id": "AWnvrgqDWOY",
-    "vidUrl": "https://youtu.be/AWnvrgqDWOY",
-    "vidTitle": "\u3010Watchalong\u3011Watching my favorite 90's Moomin anime episodes with you!",
-    "channelId": "@ikuhoshifuri",
-    "channelName": "Iku Hoshifuri / \u661f\u964d\u3044\u304f\u3010Cosmia\u3011",
-    "channelThumb": "https://yt3.ggpht.com/iiWwBB0rsPadW6D92ATHoouqLHw7dppOJJPdpYg9fbeqriEFhfpSjpmS7eh1wsC06s93c56B=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Iku",
-    "scheduledStartTime": "2024-04-23T04:00:00Z",
-    "actualStartTime": "2024-04-23T03:58:59Z",
-    "premiere": false
-  },
-  {
     "id": "mYrwh7ct5q8",
     "vidUrl": "https://youtu.be/mYrwh7ct5q8",
     "vidTitle": "what you've been waiting for\u3010\u6b4c\u7f8e\u9cf4\u30af\u30e9\u30e9 / Phase Connect\u3011",
@@ -1519,6 +1507,18 @@
     "channelName": "Roza Coatl Ch.",
     "channelThumb": "https://yt3.ggpht.com/J_RmocTP4ficzRZ6AFtUiEXoekNfliyRQcber2EXH-nBkNjhci71GaeNHsp4gzLMZs14HZ1U6WQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Roza",
+    "scheduledStartTime": "2024-04-25T19:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "XmahX-lcbc4",
+    "vidUrl": "https://youtu.be/XmahX-lcbc4",
+    "vidTitle": "THE CAKE IS REAL Full game release \u3010Stellar Blade\u3011",
+    "channelId": "@obakepam",
+    "channelName": "Obake PAM Ch.",
+    "channelThumb": "https://yt3.ggpht.com/FlbqAWrn9OdE4QcjGweQkH_2WUf2kCAQPbiC4dVvt6ItUWE4pLnUrs9MJ3-KtyeULY0hGe-VPio=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Obake PAM",
     "scheduledStartTime": "2024-04-25T19:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -3571,19 +3571,6 @@
     "premiere": false
   },
   {
-    "id": "2qx_2r_eEiw",
-    "vidUrl": "https://youtu.be/2qx_2r_eEiw",
-    "vidTitle": "\u300aSTUDY STREAM\u300bSTATISTICS EXAM TOMORROW\u3010Sera Kesera | bondliveEN\u3011#shorts #vtuber",
-    "channelId": "@sera_bondlive",
-    "channelName": "Sera Kesera\u3010bondlive EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/9l1SuUcHbk3uo-zEZGGsE-ND7ePlrIAl4g6QoUMl98RzA7JCwlPAK4pshZ3ZO61tHhkyhj8bag=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Sera",
-    "scheduledStartTime": "2024-04-23T02:00:00Z",
-    "actualStartTime": "2024-04-23T02:01:04Z",
-    "premiere": false
-  },
-  {
     "id": "zEfdSWsNBPI",
     "vidUrl": "https://youtu.be/zEfdSWsNBPI",
     "vidTitle": "comfy sleepy digital art doodles \u2661\u2027\u208a\u02da",
@@ -3594,6 +3581,19 @@
     "shortName": "Blaise",
     "scheduledStartTime": "2024-04-23T03:00:00Z",
     "actualStartTime": "2024-04-23T03:01:00Z",
+    "premiere": false
+  },
+  {
+    "id": "AWnvrgqDWOY",
+    "vidUrl": "https://youtu.be/AWnvrgqDWOY",
+    "vidTitle": "\u3010Watchalong\u3011Watching my favorite 90's Moomin anime episodes with you!",
+    "channelId": "@ikuhoshifuri",
+    "channelName": "Iku Hoshifuri / \u661f\u964d\u3044\u304f\u3010Cosmia\u3011",
+    "channelThumb": "https://yt3.ggpht.com/iiWwBB0rsPadW6D92ATHoouqLHw7dppOJJPdpYg9fbeqriEFhfpSjpmS7eh1wsC06s93c56B=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Iku",
+    "scheduledStartTime": "2024-04-23T04:00:00Z",
+    "actualStartTime": "2024-04-23T03:58:59Z",
     "premiere": false
   }
 ]
