@@ -24,18 +24,6 @@
     "premiere": false
   },
   {
-    "id": "oTGAO_E5ivw",
-    "vidUrl": "https://youtu.be/oTGAO_E5ivw",
-    "vidTitle": "\u3010STARDEW VALLEY COLLAB\u3011CATS! HATS! CATS! HATS!",
-    "channelId": "@kiliakurayami",
-    "channelName": "Kilia Kurayami Ch. \u3010EIEN Project\u3011",
-    "channelThumb": "https://yt3.ggpht.com/lfSudxn7RE0Izwj8K2GriTxOebvU7pOlFL6lRkZQfYUex3cksfnEasQtUcPcfXkEJaXYVwxAfQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Kilia",
-    "scheduledStartTime": "2024-04-23T18:00:00Z",
-    "actualStartTime": "2024-04-23T18:05:37Z",
-    "premiere": false
-  },
-  {
     "id": "wJRDcO0jXtA",
     "vidUrl": "https://youtu.be/wJRDcO0jXtA",
     "vidTitle": "\u3010STARDEW VALLEY\u3011Farming with the lads again!\u3010Pippa Pebblesworth\u3011",
@@ -776,6 +764,18 @@
     "channelThumb": "https://yt3.ggpht.com/owZmjfnG_SGVmfkl3eS7Lv47pGvIr2SrS36imh6O8i0H3Wy41fYKD26U7wnyRB627fXoq0aQ0Q=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Mumei",
     "scheduledStartTime": "2024-04-24T02:30:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "BfVvc9WTLAk",
+    "vidUrl": "https://youtu.be/BfVvc9WTLAk",
+    "vidTitle": "\u3010A LITTLE TO THE LEFT\u3011FINALLY, AN ACTUALLY COMFY GAME! Right?\u3010NIJISANJI EN | Vantacrow Bringer\u3011",
+    "channelId": "@vantacrowbringer",
+    "channelName": "Vantacrow Bringer \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/GLPkvp_8o7OvZ3q57IpqDSHIyv6OqZFK6tO1egzLoMjE19EBlo3tISEMIOLEvkC5jnl2Uus93A=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Vanta",
+    "scheduledStartTime": "2024-04-24T03:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -3720,6 +3720,19 @@
     "shortName": "Hu",
     "scheduledStartTime": "2024-04-23T16:00:00Z",
     "actualStartTime": "2024-04-23T15:56:13Z",
+    "premiere": false
+  },
+  {
+    "id": "oTGAO_E5ivw",
+    "vidUrl": "https://youtu.be/oTGAO_E5ivw",
+    "vidTitle": "\u3010STARDEW VALLEY COLLAB\u3011CATS! HATS! CATS! HATS!",
+    "channelId": "@kiliakurayami",
+    "channelName": "Kilia Kurayami Ch. \u3010EIEN Project\u3011",
+    "channelThumb": "https://yt3.ggpht.com/lfSudxn7RE0Izwj8K2GriTxOebvU7pOlFL6lRkZQfYUex3cksfnEasQtUcPcfXkEJaXYVwxAfQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Kilia",
+    "scheduledStartTime": "2024-04-23T18:00:00Z",
+    "actualStartTime": "2024-04-23T18:05:37Z",
     "premiere": false
   },
   {
