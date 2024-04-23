@@ -1,17 +1,5 @@
 [
   {
-    "id": "ZmelTasymbw",
-    "vidUrl": "https://youtu.be/ZmelTasymbw",
-    "vidTitle": "\u3010A PLAGUE TALE: REQUIEM\u3011FINAL PART: All aboard the feels train.. ooh loot!\u3010VOLs\u3011",
-    "channelId": "@angycatto_vols",
-    "channelName": "Angy Catto - VOLs",
-    "channelThumb": "https://yt3.ggpht.com/QmtGoU3n-jCQAj1gfC6hKg-PiFlyGTW-sz1HZJZlV8Av1Kdial8AJphIpJD7ywQWtUuVgyjo=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Angy",
-    "scheduledStartTime": "2024-04-23T12:00:00Z",
-    "actualStartTime": "2024-04-23T12:07:41Z",
-    "premiere": false
-  },
-  {
     "id": "G9u2kSqX7Mk",
     "vidUrl": "https://youtu.be/G9u2kSqX7Mk",
     "vidTitle": "\u3010DANGANRONPA\u3011PLS LET THESE KIDS GO! LEMME GOOOO\u3010Hoshizora\u3011",
@@ -156,6 +144,18 @@
     "premiere": false
   },
   {
+    "id": "luKKZZmVQgA",
+    "vidUrl": "https://youtu.be/luKKZZmVQgA",
+    "vidTitle": "\u3010DRAGON'S DOGMA 2\u3011Dragon game time! | Part 4\u3010VOLs\u3011",
+    "channelId": "@angycatto_vols",
+    "channelName": "Angy Catto - VOLs",
+    "channelThumb": "https://yt3.ggpht.com/QmtGoU3n-jCQAj1gfC6hKg-PiFlyGTW-sz1HZJZlV8Av1Kdial8AJphIpJD7ywQWtUuVgyjo=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Angy",
+    "scheduledStartTime": "2024-04-23T14:25:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "Ej8VSw5sPlo",
     "vidUrl": "https://youtu.be/Ej8VSw5sPlo",
     "vidTitle": "\u3010TEKKEN 8\u3011Tekken Tuesday Session Time Awoo!\u3010#Coyote / #KemoV\u3011#tekken #\u9244\u62f38",
@@ -199,18 +199,6 @@
     "channelName": "Komiyama Ambros ch. \u72d0\u8033\u5c71\u30a2\u30f3\u30d6\u30ed\u30fc\u30ba\u3010globie\u3011",
     "channelThumb": "https://yt3.ggpht.com/rAO0mwPqTC6evPt5c-RCUPxnZr6IYgeO6RJj9rnY-Bkb7lw4rFmUGr3kFTX7rqO1TqCzQpGvXw=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Ambros",
-    "scheduledStartTime": "2024-04-23T16:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "W_A2Y5elBi4",
-    "vidUrl": "https://youtu.be/W_A2Y5elBi4",
-    "vidTitle": "\u3010Persona 4 Golden\u3011grinding it out!!!!!!!",
-    "channelId": "@shikimiyoshino",
-    "channelName": "Shiki Miyoshino / \u7f8e\u5409\u91ce\u3057\u304d\u3010Requiem\u3011",
-    "channelThumb": "https://yt3.ggpht.com/Id9BL2cZTLJmv9ZoQEGIk_eFPBrQ7REmfIB6tsb34vcls6pWmKCsifuJ4Ii40vRYZvX9uGd9=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Shiki",
     "scheduledStartTime": "2024-04-23T16:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -463,6 +451,18 @@
     "channelName": "Rhea Nevermore \u3010Yume+\u3011",
     "channelThumb": "https://yt3.ggpht.com/POsoK-HHPySyD4C6ell2PZeeqjOfPFYW1SOYN0ZwETReBmkJ7ScxoTkyB3BliqEg3Qh6ulsjwQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Rhea",
+    "scheduledStartTime": "2024-04-23T20:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "rnJXFhp09f8",
+    "vidUrl": "https://youtu.be/rnJXFhp09f8",
+    "vidTitle": "\u3010DEAD BY DAYLIGHT\u3011TWINS QOL UPDATES AND NEW TOME!!!",
+    "channelId": "@starryyozzy",
+    "channelName": "Starry Yozzy / \u30b9\u30bf\u30fc\u30ea\u30fc\u30e8\u30b8\u30fc",
+    "channelThumb": "https://yt3.ggpht.com/tCYYc5ryRY8qRWycxZUT9_KTPN8FXQN8di_U1CJb8dN6b7xKo-Pg3JDr3-ZKQvXut2omIzYoys8=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Yozzy",
     "scheduledStartTime": "2024-04-23T20:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -3697,6 +3697,19 @@
     "shortName": "Blaise",
     "scheduledStartTime": "2024-04-23T03:00:00Z",
     "actualStartTime": "2024-04-23T03:01:00Z",
+    "premiere": false
+  },
+  {
+    "id": "ZmelTasymbw",
+    "vidUrl": "https://youtu.be/ZmelTasymbw",
+    "vidTitle": "\u3010A PLAGUE TALE: REQUIEM\u3011FINAL PART: All aboard the feels train.. ooh loot!\u3010VOLs\u3011",
+    "channelId": "@angycatto_vols",
+    "channelName": "Angy Catto - VOLs",
+    "channelThumb": "https://yt3.ggpht.com/QmtGoU3n-jCQAj1gfC6hKg-PiFlyGTW-sz1HZJZlV8Av1Kdial8AJphIpJD7ywQWtUuVgyjo=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Angy",
+    "scheduledStartTime": "2024-04-23T12:00:00Z",
+    "actualStartTime": "2024-04-23T12:07:41Z",
     "premiere": false
   }
 ]
