@@ -170,7 +170,7 @@
   {
     "id": "V3oH4SfSOoI",
     "vidUrl": "https://youtu.be/V3oH4SfSOoI",
-    "vidTitle": "I WILL TAKE YOU\ud83d\udca6",
+    "vidTitle": "FIRST TIME HUNIEPOP PLAYER TAKES YOU \ud83d\udca6",
     "channelId": "@umikyoku",
     "channelName": "Umi Kyoku \u3010\u3046\u307f\u304d\u3087\u304f\u3011",
     "channelThumb": "https://yt3.ggpht.com/swraGRJ-7ukDEjf58l8YghX2KRDuxS2AEW417T7BWmc-NehlFSgYeMftFJ9VuDE43C07xHQLKBA=s88-c-k-c0x00ffffff-no-rj",
@@ -360,6 +360,18 @@
     "premiere": false
   },
   {
+    "id": "obCFupV86VU",
+    "vidUrl": "https://youtu.be/obCFupV86VU",
+    "vidTitle": "\u3010SCP CONTAINMENT\u3011SHE LET THEM OUT!\u3010Yumi The Witch | @DrNovae  | V4Mirai | ENVtuber\u3011",
+    "channelId": "@yumithewitch",
+    "channelName": "Yumi the Witch Ch.\u3010V4Mirai\u3011",
+    "channelThumb": "https://yt3.ggpht.com/k481pwD9PWdvammPbZ6YdWWA8Aw8TuvTmVvep2ICveehwHFlc0oubCggJajlD_2uhwdahA6X1w=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Yumi",
+    "scheduledStartTime": "2024-04-23T23:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "K2J5qRv2vkM",
     "vidUrl": "https://youtu.be/K2J5qRv2vkM",
     "vidTitle": "\u3010LIES OF P #5\u3011KILLING BLACK RABBIT FOR REAL THIS TIME AAAA GR GRRR GRRRRR\u3010PixelLink\u3011",
@@ -403,18 +415,6 @@
     "channelName": "Nova Aokami Ch. [VReverie]",
     "channelThumb": "https://yt3.ggpht.com/5Doo9Ki6KPh9XFq09Ctrrp7U2Aagn6VB3PIWlGICOovu5Wc7GwBiRrASpFy45QNwOvVeFdAr=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Nova",
-    "scheduledStartTime": "2024-04-24T00:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "obCFupV86VU",
-    "vidUrl": "https://youtu.be/obCFupV86VU",
-    "vidTitle": "\u3010SCP CONTAINMENT\u3011SHE LET THEM OUT!\u3010Yumi The Witch | @DrNovae  | V4Mirai | ENVtuber\u3011",
-    "channelId": "@yumithewitch",
-    "channelName": "Yumi the Witch Ch.\u3010V4Mirai\u3011",
-    "channelThumb": "https://yt3.ggpht.com/k481pwD9PWdvammPbZ6YdWWA8Aw8TuvTmVvep2ICveehwHFlc0oubCggJajlD_2uhwdahA6X1w=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Yumi",
     "scheduledStartTime": "2024-04-24T00:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2520,18 +2520,6 @@
     "premiere": false
   },
   {
-    "id": "-OY5NtBO6_A",
-    "vidUrl": "https://youtu.be/-OY5NtBO6_A",
-    "vidTitle": "WOW! CUTE GIRLS NICE \ud83c\udf51",
-    "channelId": "@neneamanoch",
-    "channelName": "Nene Amano Ch. \u5929\u91ce\u5be7\u3005\u3010kawaii\u3011",
-    "channelThumb": "https://yt3.ggpht.com/gQXL64aSlteGuabzrOCxa7Qs-OdOJ0EAMeTP1hpSpI_5_IAkpjy3X0Y4aTVe9BxxXvXOCE5VdLc=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Nene",
-    "scheduledStartTime": "2024-04-27T15:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "Q8Ow2VrsktI",
     "vidUrl": "https://youtu.be/Q8Ow2VrsktI",
     "vidTitle": "\u30101K Celebration\u3011Let's party and open your Marshmallows!",
@@ -3070,6 +3058,18 @@
     "scheduledStartTime": "2024-05-05T04:00:00Z",
     "actualStartTime": "",
     "premiere": true
+  },
+  {
+    "id": "-OY5NtBO6_A",
+    "vidUrl": "https://youtu.be/-OY5NtBO6_A",
+    "vidTitle": "WOW! CUTE GIRLS NICE \ud83c\udf51",
+    "channelId": "@neneamanoch",
+    "channelName": "Nene Amano Ch. \u5929\u91ce\u5be7\u3005\u3010kawaii\u3011",
+    "channelThumb": "https://yt3.ggpht.com/gQXL64aSlteGuabzrOCxa7Qs-OdOJ0EAMeTP1hpSpI_5_IAkpjy3X0Y4aTVe9BxxXvXOCE5VdLc=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Nene",
+    "scheduledStartTime": "2024-05-06T15:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
   },
   {
     "id": "8vrLrc6iLfM",
@@ -3612,19 +3612,6 @@
     "shortName": "Hu",
     "scheduledStartTime": "2024-04-23T16:00:00Z",
     "actualStartTime": "2024-04-23T15:56:13Z",
-    "premiere": false
-  },
-  {
-    "id": "p3daaCFFC3s",
-    "vidUrl": "https://youtu.be/p3daaCFFC3s",
-    "vidTitle": "Goth GF vs Buff GF | Death Must Die",
-    "channelId": "@emberamane",
-    "channelName": "Ember Amane Ch. \u3010Phase Connect\u3011",
-    "channelThumb": "https://yt3.ggpht.com/DEkqZgNRdCOo4QicUE-KZvSRke0scAYn1xVAQ3rZo3ccY0YqACOcV517lIeBjPz5Y7OSLjnlbg=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Ember",
-    "scheduledStartTime": "2024-04-23T19:00:00Z",
-    "actualStartTime": "2024-04-23T19:00:38Z",
     "premiere": false
   },
   {
