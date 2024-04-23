@@ -44,7 +44,7 @@
     "channelThumb": "https://yt3.ggpht.com/oYEH8ckOxzEJ0GXlZGp4aSxvZrMWAeodRUg_MRgHqJEr7bEyjXdoC5VyYZ143XtcIKUozhQq6Q=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Scarle",
     "scheduledStartTime": "2024-04-23T02:30:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-23T02:49:48Z",
     "premiere": false
   },
   {
@@ -104,6 +104,18 @@
     "channelThumb": "https://yt3.ggpht.com/Ggu-BApFGVIyHyfC8ITEwq44CrVcRvp46PDioK7Z_K3949gUOnexLrke2BRyBxajJl8fiZXshA=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Vox",
     "scheduledStartTime": "2024-04-23T17:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "WRe9LOO0IHY",
+    "vidUrl": "https://youtu.be/WRe9LOO0IHY",
+    "vidTitle": "\u3010DRAGON'S DOGMA 2\u3011WE TRAVELING TO A NEW CITY",
+    "channelId": "@finanaryugu",
+    "channelName": "Finana Ryugu \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/ahtDvnkUuPHE3BN5IDwy6imkXXFGhfygaPLHIrfY4LF3aDxK9uzWJkxCFTDIvCpfxZI3BmZn=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Finana",
+    "scheduledStartTime": "2024-04-23T20:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -225,19 +237,6 @@
     "shortName": "Reimu",
     "scheduledStartTime": "2024-05-05T01:00:00Z",
     "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "_kk7_MRo3F4",
-    "vidUrl": "https://youtu.be/_kk7_MRo3F4",
-    "vidTitle": "Chatting before my break! \u3010NIJISANJI EN | Aia Amare \u3011",
-    "channelId": "@aiaamare",
-    "channelName": "Aia Amare \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/ZtRcLNqOjG8w9CMolweuy-jnNGin0W0KjxVxUpzni3uvqKY6rJgnAphvHOEmxcqSV7yXwqkKcg=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Aia",
-    "scheduledStartTime": "2024-04-22T23:00:00Z",
-    "actualStartTime": "2024-04-22T23:08:23Z",
     "premiere": false
   }
 ]
