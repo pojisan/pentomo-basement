@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "qnJ8A0kdmj8",
-    "vidUrl": "https://youtu.be/qnJ8A0kdmj8",
-    "vidTitle": "\u3010BUNNY GARDEN\u3011youtube please don't demonetize me\u3010Dokibird\u3011",
-    "channelId": "@dokibird",
-    "channelName": "Dokibird",
-    "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_m53sCnXF6ENdSpHx-q_4fOn-EGaIteMhq8HX17zcGwzeQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Doki",
-    "scheduledStartTime": "2024-04-24T00:00:00Z",
-    "actualStartTime": "2024-04-24T00:00:24Z",
-    "premiere": false
-  },
-  {
     "id": "xvcWCjnuSXo",
     "vidUrl": "https://youtu.be/xvcWCjnuSXo",
     "vidTitle": "\u3010BACK FROM VACATION!\u3011Also Stardew PART 5 with Renniesaurus!",
@@ -45,6 +33,19 @@
     "shortName": "Mint",
     "scheduledStartTime": "2025-04-06T04:10:00Z",
     "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "qnJ8A0kdmj8",
+    "vidUrl": "https://youtu.be/qnJ8A0kdmj8",
+    "vidTitle": "\u3010BUNNY GARDEN\u3011youtube please don't demonetize me\u3010Dokibird\u3011",
+    "channelId": "@dokibird",
+    "channelName": "Dokibird",
+    "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_m53sCnXF6ENdSpHx-q_4fOn-EGaIteMhq8HX17zcGwzeQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Doki",
+    "scheduledStartTime": "2024-04-24T00:00:00Z",
+    "actualStartTime": "2024-04-24T00:00:24Z",
     "premiere": false
   }
 ]
