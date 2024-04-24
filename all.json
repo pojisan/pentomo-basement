@@ -1,17 +1,5 @@
 [
   {
-    "id": "STzOzyG87oo",
-    "vidUrl": "https://youtu.be/STzOzyG87oo",
-    "vidTitle": "\u3010HONKAI: STAR RAIL\u3011 I need him so bad you don't understand \u3010NIJISANJI EN | Elira Pendora\u3011",
-    "channelId": "@elirapendora",
-    "channelName": "Elira Pendora \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/FqSL5KhR59LugywQ6QJo_fH98JS7m8WWDAfvziM3R_kyW79EmY-iEWsF_dlOcqCRdkXeQz4D=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Elira",
-    "scheduledStartTime": "2024-04-23T23:30:00Z",
-    "actualStartTime": "2024-04-23T23:30:26Z",
-    "premiere": false
-  },
-  {
     "id": "65qIhvkE92g",
     "vidUrl": "https://youtu.be/65qIhvkE92g",
     "vidTitle": "\u226aBUNNY GARDEN\u226b Purple Bae is back. \u3010SPOILER WARNING\u3011",
@@ -3404,6 +3392,19 @@
     "premiere": false
   },
   {
+    "id": "STzOzyG87oo",
+    "vidUrl": "https://youtu.be/STzOzyG87oo",
+    "vidTitle": "\u3010HONKAI: STAR RAIL\u3011 I need him so bad you don't understand \u3010NIJISANJI EN | Elira Pendora\u3011",
+    "channelId": "@elirapendora",
+    "channelName": "Elira Pendora \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/FqSL5KhR59LugywQ6QJo_fH98JS7m8WWDAfvziM3R_kyW79EmY-iEWsF_dlOcqCRdkXeQz4D=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Elira",
+    "scheduledStartTime": "2024-04-23T23:30:00Z",
+    "actualStartTime": "2024-04-23T23:30:26Z",
+    "premiere": false
+  },
+  {
     "id": "pP5zuVpoYMU",
     "vidUrl": "https://youtu.be/pP5zuVpoYMU",
     "vidTitle": "Tuesday? No. TEKKEN TUESDAY!!!! W/VIEWERS!",
@@ -3479,58 +3480,6 @@
     "shortName": "Aster",
     "scheduledStartTime": "2024-04-24T02:00:00Z",
     "actualStartTime": "2024-04-24T02:06:26Z",
-    "premiere": false
-  },
-  {
-    "id": "yql-k-o9N38",
-    "vidUrl": "https://youtu.be/yql-k-o9N38",
-    "vidTitle": "\u3010Grounded\u3011Bonking some Insects with da Gals!",
-    "channelId": "@ashadawn",
-    "channelName": "Asha Dawn Ch. Legion",
-    "channelThumb": "https://yt3.ggpht.com/kbvof6XayuNhDx21no3Y819T1r_fPw_8OvizzR8hJ3LkpvUYbw6vkbHlifJoBVPnW0TX_J3sq04=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Asha",
-    "scheduledStartTime": "2024-04-24T02:49:30Z",
-    "actualStartTime": "2024-04-24T03:16:39Z",
-    "premiere": false
-  },
-  {
-    "id": "uFIsxjTVWOM",
-    "vidUrl": "https://youtu.be/uFIsxjTVWOM",
-    "vidTitle": "\u3010Grounded\u3011 A whole new woooooorld~",
-    "channelId": "@kaylexskullcastor",
-    "channelName": "Kaylex Skullcastor Ch. Legion",
-    "channelThumb": "https://yt3.ggpht.com/yBYtwbzSuAJeF6wFyn8SsRj0SltRG3AwX05tcUO39OrcF4G9Bt5HPbuM5dKW56XfI8OLFWyQ=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Kaylex",
-    "scheduledStartTime": "2024-04-24T03:00:59Z",
-    "actualStartTime": "2024-04-24T03:16:09Z",
-    "premiere": false
-  },
-  {
-    "id": "mVJubOIdgn0",
-    "vidUrl": "https://youtu.be/mVJubOIdgn0",
-    "vidTitle": "\u3010Grounded\u3011 We. Are. Grounded.",
-    "channelId": "@elaynaduskfell",
-    "channelName": "Elayna Duskfell Ch. Legion",
-    "channelThumb": "https://yt3.ggpht.com/0RMVwqYrh_4HAhaUmUL3pP6S0DWfSZ-NZuTe1jfjjlEWVzpnMlI0WAja4rVw1w8EzaVQLjED=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Elayna",
-    "scheduledStartTime": "2024-04-24T03:10:17Z",
-    "actualStartTime": "2024-04-24T03:15:45Z",
-    "premiere": false
-  },
-  {
-    "id": "j45_TGZMEKg",
-    "vidUrl": "https://youtu.be/j45_TGZMEKg",
-    "vidTitle": "\u3010MUMEI DRAWS\u3011Drawing Your Profile Pictures PART # 5",
-    "channelId": "@nanashimumei",
-    "channelName": "Nanashi Mumei Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/owZmjfnG_SGVmfkl3eS7Lv47pGvIr2SrS36imh6O8i0H3Wy41fYKD26U7wnyRB627fXoq0aQ0Q=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Mumei",
-    "scheduledStartTime": "2024-04-24T03:30:00Z",
-    "actualStartTime": "2024-04-24T03:31:55Z",
     "premiere": false
   },
   {
