@@ -92,7 +92,7 @@
     "channelThumb": "https://yt3.ggpht.com/0QDtmroClBOCB8eZSOVWlGObtXc7wf8tk-USsyvw5nY-i_IE8xsxebzGBzD5OfHGlNBICUmgDg=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Seffyna",
     "scheduledStartTime": "2024-04-24T04:00:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-24T03:59:37Z",
     "premiere": false
   },
   {
@@ -152,6 +152,18 @@
     "channelThumb": "https://yt3.ggpht.com/jwZT783V-LU58DMyjShj-CWJ3GGsM5DaHX20vtIExe7LNGpaS0P5pZJV_EH11AprgaHocu6CKA=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Reimu",
     "scheduledStartTime": "2024-04-24T15:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "uY2-oUO1eM4",
+    "vidUrl": "https://youtu.be/uY2-oUO1eM4",
+    "vidTitle": "\u3010MINECRAFT\u3011 DATE WITH MY FAVORITE ANGEL \u2764\ufe0f",
+    "channelId": "@finanaryugu",
+    "channelName": "Finana Ryugu \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/ahtDvnkUuPHE3BN5IDwy6imkXXFGhfygaPLHIrfY4LF3aDxK9uzWJkxCFTDIvCpfxZI3BmZn=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Finana",
+    "scheduledStartTime": "2024-04-24T22:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -240,6 +252,18 @@
     "premiere": false
   },
   {
+    "id": "k4aGssT2c3Y",
+    "vidUrl": "https://youtu.be/k4aGssT2c3Y",
+    "vidTitle": "\u3010MINECRAFT\u3011 BACK FROM MY BREAK! Back to the NIJI EN server! \u3010NIJISANJI EN | Aia Amare \u3011",
+    "channelId": "@aiaamare",
+    "channelName": "Aia Amare \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/ZtRcLNqOjG8w9CMolweuy-jnNGin0W0KjxVxUpzni3uvqKY6rJgnAphvHOEmxcqSV7yXwqkKcg=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Aia",
+    "scheduledStartTime": "2024-04-29T01:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "Cr6SS8Eh8cc",
     "vidUrl": "https://youtu.be/Cr6SS8Eh8cc",
     "vidTitle": "\u3010GUNPLA BUILDING\u3011OG RX-78-02",
@@ -273,19 +297,6 @@
     "shortName": "Seffyna",
     "scheduledStartTime": "2024-05-02T11:00:00Z",
     "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "IOTVMgDAlI0",
-    "vidUrl": "https://youtu.be/IOTVMgDAlI0",
-    "vidTitle": "a man and his singular BALL \u3010 THE GAME OF SISYPHUS \u3011 \u3010NIJISANJI EN | Alban Knox\u3011",
-    "channelId": "@albanknox",
-    "channelName": "Alban Knox \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/rbTGK5bXuub0l3feyx8c780FtoRAtT1KDgqOGQq2wSisQJo17wk9PusEc_ZjUMK_uwZ47LIZiSI=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Alban",
-    "scheduledStartTime": "2024-04-24T01:00:00Z",
-    "actualStartTime": "2024-04-24T01:04:41Z",
     "premiere": false
   }
 ]
