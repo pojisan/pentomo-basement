@@ -96,18 +96,6 @@
     "premiere": false
   },
   {
-    "id": "ZRlM7c70uQE",
-    "vidUrl": "https://youtu.be/ZRlM7c70uQE",
-    "vidTitle": "Can this Vtuber name all OG Pokemon...?\u3010Ran Tsukiha | Production kawaii\u3011",
-    "channelId": "@rantsukiha",
-    "channelName": "Ran Tsukiha Ch. \u6708\u8776\u862d\u3010kawaii\u3011",
-    "channelThumb": "https://yt3.ggpht.com/T30qwb0jUMNHh6WY7ZUjsFZKTP9hoPyZO4d4Knvf22uj_1DV5xvkK-ReGlX8zeshgoQeOmWovg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Ran",
-    "scheduledStartTime": "2024-04-23T22:30:00Z",
-    "actualStartTime": "2024-04-23T22:30:20Z",
-    "premiere": false
-  },
-  {
     "id": "m26MurAlIY0",
     "vidUrl": "https://youtu.be/m26MurAlIY0",
     "vidTitle": "\u3010KARAOKE PRACTICE\u301120K CELEBRATION! 2000-2010's Vocaloid Edition\u3010Yae Yugiri | V4Mirai | VTuber\u3011",
@@ -512,6 +500,18 @@
     "channelThumb": "https://yt3.ggpht.com/d1sfvqWiJPB51QNzYWdhfomd-El9OgOGZp-PtJkZhsN0kGeVUyYuJEASnMFyVlAdm2pGRGI19A=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Lua",
     "scheduledStartTime": "2024-04-24T10:30:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "-vaS45SI_hg",
+    "vidUrl": "https://youtu.be/-vaS45SI_hg",
+    "vidTitle": "This Knife Cuts Through Bosses\u3010LIMBUS COMPANY\u3011",
+    "channelId": "@antimonycinnia",
+    "channelName": "Cinnia Antimony",
+    "channelThumb": "https://yt3.ggpht.com/TS8mW0lOOVBI53VXfKNkbncMKZecacAs5h2LAuKBqT4BHFggyV-LaNA0iDTzYE6pBN2dQX5euCI=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Cinnia",
+    "scheduledStartTime": "2024-04-24T13:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -3522,19 +3522,6 @@
     "premiere": false
   },
   {
-    "id": "uyxZhF1zA6k",
-    "vidUrl": "https://youtu.be/uyxZhF1zA6k",
-    "vidTitle": "LET ME DRAW YOU!! \uff90\u2605\u3010LOTTIE DRAWS\u3011",
-    "channelId": "@lottieshinju",
-    "channelName": "Lottie Shinju Ch.\u3010PixelLink\u3011",
-    "channelThumb": "https://yt3.ggpht.com/mMLivUEcjMRXNMLb0Pl5wAq071w5ZB2QBF7DvBzfeS81f2cWrhJbN1zlUfoFx-LHaBEJA_qM=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Lottie",
-    "scheduledStartTime": "2024-04-23T21:00:00Z",
-    "actualStartTime": "2024-04-23T21:00:53Z",
-    "premiere": false
-  },
-  {
     "id": "3J6D6KSuZMM",
     "vidUrl": "https://youtu.be/3J6D6KSuZMM",
     "vidTitle": "RAH Hi I missed you!!!\u3010zatsu\u3011",
@@ -3545,6 +3532,19 @@
     "shortName": "Ragi",
     "scheduledStartTime": "2024-04-23T22:00:00Z",
     "actualStartTime": "2024-04-23T22:01:13Z",
+    "premiere": false
+  },
+  {
+    "id": "ZRlM7c70uQE",
+    "vidUrl": "https://youtu.be/ZRlM7c70uQE",
+    "vidTitle": "Can this Vtuber name all OG Pokemon...?\u3010Ran Tsukiha | Production kawaii\u3011",
+    "channelId": "@rantsukiha",
+    "channelName": "Ran Tsukiha Ch. \u6708\u8776\u862d\u3010kawaii\u3011",
+    "channelThumb": "https://yt3.ggpht.com/T30qwb0jUMNHh6WY7ZUjsFZKTP9hoPyZO4d4Knvf22uj_1DV5xvkK-ReGlX8zeshgoQeOmWovg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Ran",
+    "scheduledStartTime": "2024-04-23T22:30:00Z",
+    "actualStartTime": "2024-04-23T22:30:20Z",
     "premiere": false
   }
 ]
