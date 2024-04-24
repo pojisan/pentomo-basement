@@ -1,17 +1,5 @@
 [
   {
-    "id": "b-jPZ9v-QoY",
-    "vidUrl": "https://youtu.be/b-jPZ9v-QoY",
-    "vidTitle": "Is This the BEST Fallout Game!? \ud83d\udc97 | FPS TIME!\u3010 FALLOUT NEW VEGAS \u3011",
-    "channelId": "@sheeichokawaii",
-    "channelName": "Shee Icho Ch. \u9280\u674f\u3057\u3044\u3010kawaii\u3011",
-    "channelThumb": "https://yt3.ggpht.com/9WpvwRlwjSUM4bCLMLpNv3BvRtnQWki4eY-YAsKAkuzUxJaLXhLDJu5XMQoPU_zbzunktQvMpg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Shee",
-    "scheduledStartTime": "2024-04-24T02:30:00Z",
-    "actualStartTime": "2024-04-24T02:32:20Z",
-    "premiere": false
-  },
-  {
     "id": "BoCr37p1Lyg",
     "vidUrl": "https://youtu.be/BoCr37p1Lyg",
     "vidTitle": "YAKUZA 0 Part 6 WE ARE HALF WAY DONE!",
@@ -62,7 +50,7 @@
   {
     "id": "-rQNj_aj1aA",
     "vidUrl": "https://youtu.be/-rQNj_aj1aA",
-    "vidTitle": "\u3010VALORANT\u3011 I can only play Reyna",
+    "vidTitle": "\u3010TEAMFIGHT TACTICS\u3011 Tada, It was TFT",
     "channelId": "@lofiwiseman",
     "channelName": "Penelope Wiseman Ch. V&U",
     "channelThumb": "https://yt3.ggpht.com/sSiW3gXfR26AqLTuwp07E5T-nDaY_peav7WWP5m_XbDo7b2f1rDZfwqlnqASiC6E8m9kgMmY=s88-c-k-c0x00ffffff-no-rj",
@@ -3476,6 +3464,19 @@
     "shortName": "Blaise",
     "scheduledStartTime": "2024-04-24T01:00:00Z",
     "actualStartTime": "2024-04-24T01:01:02Z",
+    "premiere": false
+  },
+  {
+    "id": "b-jPZ9v-QoY",
+    "vidUrl": "https://youtu.be/b-jPZ9v-QoY",
+    "vidTitle": "Is This the BEST Fallout Game!? \ud83d\udc97 | FPS TIME!\u3010 FALLOUT NEW VEGAS \u3011",
+    "channelId": "@sheeichokawaii",
+    "channelName": "Shee Icho Ch. \u9280\u674f\u3057\u3044\u3010kawaii\u3011",
+    "channelThumb": "https://yt3.ggpht.com/9WpvwRlwjSUM4bCLMLpNv3BvRtnQWki4eY-YAsKAkuzUxJaLXhLDJu5XMQoPU_zbzunktQvMpg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Shee",
+    "scheduledStartTime": "2024-04-24T02:30:00Z",
+    "actualStartTime": "2024-04-24T02:32:20Z",
     "premiere": false
   },
   {
