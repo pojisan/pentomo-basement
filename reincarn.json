@@ -1,17 +1,5 @@
 [
   {
-    "id": "aGF6R5mJfUA",
-    "vidUrl": "https://youtu.be/aGF6R5mJfUA",
-    "vidTitle": "\u3010FALLOUT 76\u3011please donate bottle caps\u3010Dokibird\u3011",
-    "channelId": "@dokibird",
-    "channelName": "Dokibird",
-    "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_m53sCnXF6ENdSpHx-q_4fOn-EGaIteMhq8HX17zcGwzeQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Doki",
-    "scheduledStartTime": "2024-04-24T19:30:00Z",
-    "actualStartTime": "2024-04-24T19:40:35Z",
-    "premiere": false
-  },
-  {
     "id": "2DS5kOOhvM0",
     "vidUrl": "https://youtu.be/2DS5kOOhvM0",
     "vidTitle": "\u3010BUNNY GARDEN w/ EYE TRACKER\u3011do you prefer bunny girls or maids?\u3010Maid Mint Fantome\u3011",
@@ -33,6 +21,19 @@
     "shortName": "Mint",
     "scheduledStartTime": "2025-04-06T04:10:00Z",
     "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "aGF6R5mJfUA",
+    "vidUrl": "https://youtu.be/aGF6R5mJfUA",
+    "vidTitle": "\u3010FALLOUT 76\u3011please donate bottle caps\u3010Dokibird\u3011",
+    "channelId": "@dokibird",
+    "channelName": "Dokibird",
+    "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_m53sCnXF6ENdSpHx-q_4fOn-EGaIteMhq8HX17zcGwzeQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Doki",
+    "scheduledStartTime": "2024-04-24T19:30:00Z",
+    "actualStartTime": "2024-04-24T19:40:35Z",
     "premiere": false
   }
 ]
