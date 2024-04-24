@@ -24,18 +24,6 @@
     "premiere": false
   },
   {
-    "id": "IMQoNQfiZBA",
-    "vidUrl": "https://youtu.be/IMQoNQfiZBA",
-    "vidTitle": "\u3010Handcam\u3011Trying NEW Snacks I've NEVER tried before!!",
-    "channelId": "@amoralumina",
-    "channelName": "Amora Lumina Ch. \u3010EIEN Project\u3011",
-    "channelThumb": "https://yt3.ggpht.com/0IlubsFJreJnGc7-mB5nm7oNLqyyIv6KO2eIrsQYbc8wnfGpjOH-SUn5mMh7QzHMnVRLmMQRDA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Amora",
-    "scheduledStartTime": "2024-04-24T18:00:00Z",
-    "actualStartTime": "2024-04-24T17:59:36Z",
-    "premiere": false
-  },
-  {
     "id": "8ZC2UwSqRso",
     "vidUrl": "https://youtu.be/8ZC2UwSqRso",
     "vidTitle": "\ud83d\udca5\u3010GUERILLA SMASH\u3011CONSUMING WINS FOR BREAKFAST\u3010Yume+ | Raein Clowd\u3011",
@@ -319,6 +307,18 @@
     "channelName": "Mivi Aivori Ch. V&U",
     "channelThumb": "https://yt3.ggpht.com/b0A2emwbDeLrLg3NZ5zlJf0AjwnxRx8dKsbah9w_DAOW5W-nhvK_JmA87yYFwYN6KeB4dOzH=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Mivi",
+    "scheduledStartTime": "2024-04-24T22:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "OqKPFWsQ1bc",
+    "vidUrl": "https://youtu.be/OqKPFWsQ1bc",
+    "vidTitle": "\ud83d\udc80DARK SOULS 2 FOR THE FIRST TIME\ud83d\udc80",
+    "channelId": "@maevevnu",
+    "channelName": "Maeve Kagekiri Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/chqWD1VyGO8YdOq75KWxKvH0RcBMayDUlmtDeO9Btb__V9Zr-ow3CSoiOfhE3SrynzSC9J8=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Maeve",
     "scheduledStartTime": "2024-04-24T22:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -3408,16 +3408,16 @@
     "premiere": false
   },
   {
-    "id": "7AaD1PhJfu8",
-    "vidUrl": "https://youtu.be/7AaD1PhJfu8",
-    "vidTitle": "\u3010Carcass + April 24th\u3011NEW INDIE HORROR \u3010Dr.NOVA(e) | V4Mirai | ENVtuber\u3011",
-    "channelId": "@drnovae",
-    "channelName": "Dr.NOVA(e) Ch.\u3010V4Mirai\u3011",
-    "channelThumb": "https://yt3.ggpht.com/Q5uPSXLX-UaT7iQ1VRWbehhySRrtvEcWEA-ey6HfpVmHlZSz5zUrlC9g5UQuNfsgO5UOjJfI_Q=s88-c-k-c0x00ffffff-no-rj",
+    "id": "IMQoNQfiZBA",
+    "vidUrl": "https://youtu.be/IMQoNQfiZBA",
+    "vidTitle": "\u3010Handcam\u3011Trying NEW Snacks I've NEVER tried before!!",
+    "channelId": "@amoralumina",
+    "channelName": "Amora Lumina Ch. \u3010EIEN Project\u3011",
+    "channelThumb": "https://yt3.ggpht.com/0IlubsFJreJnGc7-mB5nm7oNLqyyIv6KO2eIrsQYbc8wnfGpjOH-SUn5mMh7QzHMnVRLmMQRDA=s88-c-k-c0x00ffffff-no-rj",
     "graveyard": true,
-    "shortName": "Novae",
+    "shortName": "Amora",
     "scheduledStartTime": "2024-04-24T18:00:00Z",
-    "actualStartTime": "2024-04-24T18:00:10Z",
+    "actualStartTime": "2024-04-24T17:59:36Z",
     "premiere": false
   },
   {
