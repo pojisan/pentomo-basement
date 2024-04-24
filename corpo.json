@@ -48,42 +48,6 @@
     "premiere": false
   },
   {
-    "id": "1JFukgIrgiU",
-    "vidUrl": "https://youtu.be/1JFukgIrgiU",
-    "vidTitle": "\u3010Art\u3011Making A Custom SGB Frame!",
-    "channelId": "@amiyaaranha",
-    "channelName": "Amiya Ch. \u30a2\u30df\u30e4\u30fb\u30a2\u30e9\u30cb\u30e3",
-    "channelThumb": "https://yt3.ggpht.com/91Fqx3Xut4jaSefCeiDLVGQDSdkWAvt5jA8ejzT18EztYTppy29JNzpa7G-KThC8TzuAmlKBQcs=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Amiya",
-    "scheduledStartTime": "2024-04-24T19:00:00Z",
-    "actualStartTime": "2024-04-24T19:01:06Z",
-    "premiere": false
-  },
-  {
-    "id": "KTJkVAGxgSM",
-    "vidUrl": "https://youtu.be/KTJkVAGxgSM",
-    "vidTitle": "\u3010DEAD BY DAYLIGHT\u3011DBD GAMING!!!",
-    "channelId": "@starryyozzy",
-    "channelName": "Starry Yozzy / \u30b9\u30bf\u30fc\u30ea\u30fc\u30e8\u30b8\u30fc",
-    "channelThumb": "https://yt3.ggpht.com/tCYYc5ryRY8qRWycxZUT9_KTPN8FXQN8di_U1CJb8dN6b7xKo-Pg3JDr3-ZKQvXut2omIzYoys8=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Yozzy",
-    "scheduledStartTime": "2024-04-24T20:00:00Z",
-    "actualStartTime": "2024-04-24T19:40:23Z",
-    "premiere": false
-  },
-  {
-    "id": "kW-sSgrbSJw",
-    "vidUrl": "https://youtu.be/kW-sSgrbSJw",
-    "vidTitle": "\u3010Live 2D\u3011Dr. NOVA(e) baked so we gonna cook\u3010Alicja Da Lontano | Globie Gen 2 Solstia\u3011",
-    "channelId": "@alicjadalontano",
-    "channelName": "Alicja Da Lontano ch. \u3010globie\u3011",
-    "channelThumb": "https://yt3.ggpht.com/gzyLsLIzbobRRYT_QkfMKISqY-RpzLfOowj5T61s2UDXRoHEespSbXR68cikE96P2RKpsWOeM1Q=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Alicja",
-    "scheduledStartTime": "2024-04-24T20:00:00Z",
-    "actualStartTime": "2024-04-24T19:59:00Z",
-    "premiere": false
-  },
-  {
     "id": "ySElnnn0Djs",
     "vidUrl": "https://youtu.be/ySElnnn0Djs",
     "vidTitle": "\u3010THAT'S NOT MY NEIGHBOR\u3011 Achievement Hunting! \u3010EIEN Project\u3011",
@@ -3441,6 +3405,45 @@
     "shortName": "Hu",
     "scheduledStartTime": "2024-04-24T16:00:00Z",
     "actualStartTime": "2024-04-24T16:01:13Z",
+    "premiere": false
+  },
+  {
+    "id": "1JFukgIrgiU",
+    "vidUrl": "https://youtu.be/1JFukgIrgiU",
+    "vidTitle": "\u3010Art\u3011Making A Custom SGB Frame!",
+    "channelId": "@amiyaaranha",
+    "channelName": "Amiya Ch. \u30a2\u30df\u30e4\u30fb\u30a2\u30e9\u30cb\u30e3",
+    "channelThumb": "https://yt3.ggpht.com/91Fqx3Xut4jaSefCeiDLVGQDSdkWAvt5jA8ejzT18EztYTppy29JNzpa7G-KThC8TzuAmlKBQcs=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Amiya",
+    "scheduledStartTime": "2024-04-24T19:00:00Z",
+    "actualStartTime": "2024-04-24T19:01:06Z",
+    "premiere": false
+  },
+  {
+    "id": "KTJkVAGxgSM",
+    "vidUrl": "https://youtu.be/KTJkVAGxgSM",
+    "vidTitle": "\u3010DEAD BY DAYLIGHT\u3011DBD GAMING!!!",
+    "channelId": "@starryyozzy",
+    "channelName": "Starry Yozzy / \u30b9\u30bf\u30fc\u30ea\u30fc\u30e8\u30b8\u30fc",
+    "channelThumb": "https://yt3.ggpht.com/tCYYc5ryRY8qRWycxZUT9_KTPN8FXQN8di_U1CJb8dN6b7xKo-Pg3JDr3-ZKQvXut2omIzYoys8=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Yozzy",
+    "scheduledStartTime": "2024-04-24T20:00:00Z",
+    "actualStartTime": "2024-04-24T19:40:23Z",
+    "premiere": false
+  },
+  {
+    "id": "kW-sSgrbSJw",
+    "vidUrl": "https://youtu.be/kW-sSgrbSJw",
+    "vidTitle": "\u3010Live 2D\u3011Dr. NOVA(e) baked so we gonna cook\u3010Alicja Da Lontano | Globie Gen 2 Solstia\u3011",
+    "channelId": "@alicjadalontano",
+    "channelName": "Alicja Da Lontano ch. \u3010globie\u3011",
+    "channelThumb": "https://yt3.ggpht.com/gzyLsLIzbobRRYT_QkfMKISqY-RpzLfOowj5T61s2UDXRoHEespSbXR68cikE96P2RKpsWOeM1Q=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Alicja",
+    "scheduledStartTime": "2024-04-24T20:00:00Z",
+    "actualStartTime": "2024-04-24T19:59:00Z",
     "premiere": false
   },
   {
