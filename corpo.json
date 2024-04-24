@@ -84,18 +84,6 @@
     "premiere": false
   },
   {
-    "id": "4KxidnKx5B0",
-    "vidUrl": "https://youtu.be/4KxidnKx5B0",
-    "vidTitle": "\u3010Persona 3 Reload\u3011Exploring Tziah block of Tartarus",
-    "channelId": "@isabellegoodwillow",
-    "channelName": "Isabelle Goodwillow Ch. Legion",
-    "channelThumb": "https://yt3.ggpht.com/fpMi8U5dCS85PVYvVUcUEElBczJHeTCoxkrea8AxZ-aow_5JXFjoAtYUnkNdTgsaqQISGmii3g=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Isabelle",
-    "scheduledStartTime": "2024-04-23T22:00:32Z",
-    "actualStartTime": "2024-04-23T22:00:44Z",
-    "premiere": false
-  },
-  {
     "id": "m26MurAlIY0",
     "vidUrl": "https://youtu.be/m26MurAlIY0",
     "vidTitle": "\u3010KARAOKE PRACTICE\u301120K CELEBRATION! 2000-2010's Vocaloid Edition\u3010Yae Yugiri | V4Mirai | VTuber\u3011",
@@ -290,7 +278,7 @@
   {
     "id": "bjSZcmvNf9k",
     "vidUrl": "https://youtu.be/bjSZcmvNf9k",
-    "vidTitle": "Trying brushes and stamps made by @viyaura! | Mino Mieko Ch.",
+    "vidTitle": "DOODLING STREAM! Trying brushes and stamps made by @viyaura! | Mino Mieko Ch.",
     "channelId": "@minomieko",
     "channelName": "Mino Mieko Ch.",
     "channelThumb": "https://yt3.ggpht.com/ryVy3g8W7qKzcFFCsuZgiGN3lo7_bDXvBM70mR8jhiGDlVFBaMZD28kB8pJIsDeEXZCY0zRX=s88-c-k-c0x00ffffff-no-rj",
@@ -3544,6 +3532,19 @@
     "shortName": "Ragi",
     "scheduledStartTime": "2024-04-23T22:00:00Z",
     "actualStartTime": "2024-04-23T22:01:13Z",
+    "premiere": false
+  },
+  {
+    "id": "4KxidnKx5B0",
+    "vidUrl": "https://youtu.be/4KxidnKx5B0",
+    "vidTitle": "\u3010Persona 3 Reload\u3011Exploring Tziah block of Tartarus",
+    "channelId": "@isabellegoodwillow",
+    "channelName": "Isabelle Goodwillow Ch. Legion",
+    "channelThumb": "https://yt3.ggpht.com/fpMi8U5dCS85PVYvVUcUEElBczJHeTCoxkrea8AxZ-aow_5JXFjoAtYUnkNdTgsaqQISGmii3g=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Isabelle",
+    "scheduledStartTime": "2024-04-23T22:00:32Z",
+    "actualStartTime": "2024-04-23T22:00:44Z",
     "premiere": false
   }
 ]
