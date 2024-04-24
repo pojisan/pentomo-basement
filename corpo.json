@@ -108,18 +108,6 @@
     "premiere": false
   },
   {
-    "id": "JNwPcjCkA3M",
-    "vidUrl": "https://youtu.be/JNwPcjCkA3M",
-    "vidTitle": "\u3010\u6b4c\u67a0/Singing Stream\u3011\u30ea\u30af\u30a8\u30b9\u30c8\u3067\u6b4c\u3046\uff01/I will sing the request song!!\u3010VTuber/Ririsya\u3011",
-    "channelId": "@ririsyamusic",
-    "channelName": "\u51db\u3005\u54b2 / Ririsya",
-    "channelThumb": "https://yt3.ggpht.com/oYBTybAbyRi5xDlm4984w-s8PWjZzljiQDZ8KUh5fnqvLGh2OISvsoTZzOlQ6IRASupqJbq6g3Y=s88-c-k-c0x00ffffff-no-nd-rj",
-    "shortName": "Ririsya",
-    "scheduledStartTime": "2024-04-24T04:00:00Z",
-    "actualStartTime": "2024-04-24T04:03:16Z",
-    "premiere": false
-  },
-  {
     "id": "QnIo9_gmYgQ",
     "vidUrl": "https://youtu.be/QnIo9_gmYgQ",
     "vidTitle": "OTAKU'S ADVENTURE OR... DATING SIM.....?!?! \ud83d\udc96",
@@ -1328,6 +1316,18 @@
     "channelThumb": "https://yt3.ggpht.com/Yv97lNyNygKWhFW-foy823UoJZv-Uf4tg0t_fzZlyTzrYLdiEvt-gjs9dDoDDGEoH2sVXy6E=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Sara",
     "scheduledStartTime": "2024-04-26T00:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "u9JZV55brKA",
+    "vidUrl": "https://youtu.be/u9JZV55brKA",
+    "vidTitle": "I literally missed every attack in the tutorial, thanks",
+    "channelId": "@amayawhisperch",
+    "channelName": "Amaya Whisper CH.",
+    "channelThumb": "https://yt3.ggpht.com/5lhdsiucGcn74m0qnaMxZmHgh9leJO4_NcFYvE7rn1DRGpVweyNguUhF25nJk5CPEAB5T3rMxg=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Amaya",
+    "scheduledStartTime": "2024-04-26T00:30:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -3393,6 +3393,19 @@
     "shortName": "Blaise",
     "scheduledStartTime": "2024-04-24T01:00:00Z",
     "actualStartTime": "2024-04-24T01:01:02Z",
+    "premiere": false
+  },
+  {
+    "id": "JNwPcjCkA3M",
+    "vidUrl": "https://youtu.be/JNwPcjCkA3M",
+    "vidTitle": "\u3010\u6b4c\u67a0/Singing Stream\u3011\u30ea\u30af\u30a8\u30b9\u30c8\u3067\u6b4c\u3046\uff01/I will sing the request song!!\u3010VTuber/Ririsya\u3011",
+    "channelId": "@ririsyamusic",
+    "channelName": "\u51db\u3005\u54b2 / Ririsya",
+    "channelThumb": "https://yt3.ggpht.com/oYBTybAbyRi5xDlm4984w-s8PWjZzljiQDZ8KUh5fnqvLGh2OISvsoTZzOlQ6IRASupqJbq6g3Y=s88-c-k-c0x00ffffff-no-nd-rj",
+    "graveyard": true,
+    "shortName": "Ririsya",
+    "scheduledStartTime": "2024-04-24T04:00:00Z",
+    "actualStartTime": "2024-04-24T04:03:16Z",
     "premiere": false
   }
 ]
