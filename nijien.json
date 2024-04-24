@@ -1,17 +1,5 @@
 [
   {
-    "id": "8i9bWAoETDA",
-    "vidUrl": "https://youtu.be/8i9bWAoETDA",
-    "vidTitle": "\u3010I EXPECT YOU TO DIE 2\u3011BACK TO SAVE THE WORLD\u3010NIJISANJI EN | Vezalius Bandage\u3011",
-    "channelId": "@vezaliusbandage",
-    "channelName": "Vezalius Bandage \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/rnqrntYI1y38pqQeqYAmX3_gG1vZ-iYeMGHY0nCC-lxqKdoBspKriRXzMPv7PByMydEYm9YvvzU=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Zali",
-    "scheduledStartTime": "2024-04-24T13:00:00Z",
-    "actualStartTime": "2024-04-24T13:00:43Z",
-    "premiere": false
-  },
-  {
     "id": "B8hzz_0N1e8",
     "vidUrl": "https://youtu.be/B8hzz_0N1e8",
     "vidTitle": "\u3010HITMAN 3 FINALE\u3011 Good bye Diana, my oshi \u3010NIJISANJI EN | Enna Alouette\u3011",
@@ -261,6 +249,19 @@
     "shortName": "Seffyna",
     "scheduledStartTime": "2024-05-02T11:00:00Z",
     "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "8i9bWAoETDA",
+    "vidUrl": "https://youtu.be/8i9bWAoETDA",
+    "vidTitle": "\u3010I EXPECT YOU TO DIE 2\u3011BACK TO SAVE THE WORLD\u3010NIJISANJI EN | Vezalius Bandage\u3011",
+    "channelId": "@vezaliusbandage",
+    "channelName": "Vezalius Bandage \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/rnqrntYI1y38pqQeqYAmX3_gG1vZ-iYeMGHY0nCC-lxqKdoBspKriRXzMPv7PByMydEYm9YvvzU=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Zali",
+    "scheduledStartTime": "2024-04-24T13:00:00Z",
+    "actualStartTime": "2024-04-24T13:00:43Z",
     "premiere": false
   }
 ]
