@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "xvcWCjnuSXo",
-    "vidUrl": "https://youtu.be/xvcWCjnuSXo",
-    "vidTitle": "\u3010BACK FROM VACATION!\u3011Also Stardew PART 5 with Renniesaurus!",
-    "channelId": "@sayusincronisity",
-    "channelName": "Sayu Sincronisity Ch. VTuber \u771f\u9ed2",
-    "channelThumb": "https://yt3.ggpht.com/QpaHZ4GIC0ETsSFfr3KHJQna7rW_uJVUICNbfs58IDvZoMzGh_xaKiO9-ih6CuYn2dwsio0GwOw=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Sayu",
-    "scheduledStartTime": "2024-04-24T03:00:00Z",
-    "actualStartTime": "2024-04-24T02:58:45Z",
-    "premiere": false
-  },
-  {
     "id": "K3gpggrf1vw",
     "vidUrl": "https://youtu.be/K3gpggrf1vw",
     "vidTitle": "\u3016Minecraft\u3017We build, We explore, I show you why I didn't sleep :3\u3016Cyon \u2765 V&U\u3017",
@@ -170,7 +158,7 @@
   {
     "id": "K6UmHzRQ6XA",
     "vidUrl": "https://youtu.be/K6UmHzRQ6XA",
-    "vidTitle": "\u3010CONTENT WARNING\u3011REAL No Scuff Professional Content Creators | VOLs Collab\u3010VOLs\u3011",
+    "vidTitle": "\u3010CONTENT WARNING\u3011REAL No Scuff Professional VTubers risks for the Spooky Content!\u3010VOLs Collab\u3011",
     "channelId": "@angycatto_vols",
     "channelName": "Angy Catto - VOLs",
     "channelThumb": "https://yt3.ggpht.com/QmtGoU3n-jCQAj1gfC6hKg-PiFlyGTW-sz1HZJZlV8Av1Kdial8AJphIpJD7ywQWtUuVgyjo=s88-c-k-c0x00ffffff-no-rj",
@@ -3473,6 +3461,19 @@
     "shortName": "Blaise",
     "scheduledStartTime": "2024-04-24T01:00:00Z",
     "actualStartTime": "2024-04-24T01:01:02Z",
+    "premiere": false
+  },
+  {
+    "id": "xvcWCjnuSXo",
+    "vidUrl": "https://youtu.be/xvcWCjnuSXo",
+    "vidTitle": "\u3010BACK FROM VACATION!\u3011Also Stardew PART 5 with Renniesaurus!",
+    "channelId": "@sayusincronisity",
+    "channelName": "Sayu Sincronisity Ch. VTuber \u771f\u9ed2",
+    "channelThumb": "https://yt3.ggpht.com/QpaHZ4GIC0ETsSFfr3KHJQna7rW_uJVUICNbfs58IDvZoMzGh_xaKiO9-ih6CuYn2dwsio0GwOw=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Sayu",
+    "scheduledStartTime": "2024-04-24T03:00:00Z",
+    "actualStartTime": "2024-04-24T02:58:45Z",
     "premiere": false
   },
   {
