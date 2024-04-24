@@ -108,18 +108,6 @@
     "premiere": false
   },
   {
-    "id": "KgPON1d1t_U",
-    "vidUrl": "https://youtu.be/KgPON1d1t_U",
-    "vidTitle": "the stream before the storm \u3010ask charlotte suzu!! 60\u3011",
-    "channelId": "@charlottesuzu",
-    "channelName": "Charlotte Suzu / \u30b7\u30e3\u30fc\u30ed\u30c3\u30c8\u30fb\u30b9\u30ba \u3010kawaii\u3011",
-    "channelThumb": "https://yt3.ggpht.com/GsB4xQkkRT82EzVSuT8nU34Dj0MoofYZRwsTw2WWy4DHpvrGkmN2_59njomL2MuZCuR0I7i3-XM=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Charzu",
-    "scheduledStartTime": "2024-04-24T01:59:50Z",
-    "actualStartTime": "2024-04-24T02:00:05Z",
-    "premiere": false
-  },
-  {
     "id": "Rlmx3b45QpM",
     "vidUrl": "https://youtu.be/Rlmx3b45QpM",
     "vidTitle": "Dodging bullets like a bunny in APEX",
@@ -967,6 +955,30 @@
     "channelName": "Vance Van Creed ch.",
     "channelThumb": "https://yt3.ggpht.com/fMH-jV4av9c83joWiiU7MKY5MB_hH-1-o1Mnm1UZE6MHeG7Byea8PRBU9x0ONYgn_VTx9qfAtFI=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Vance",
+    "scheduledStartTime": "2024-04-24T23:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "I2xyXcd43ws",
+    "vidUrl": "https://youtu.be/I2xyXcd43ws",
+    "vidTitle": "ROBLOX #shorts #shortslive #shortsgaming",
+    "channelId": "@zelivnu",
+    "channelName": "Zeli Zuimu Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/x-Jy2Z-kGAif3VDun_IhsnyYfzF5aWhNbwG6fcms85aKwauMlcr0dwA2onUFirEFs2BD8YFwjWg=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Zeli",
+    "scheduledStartTime": "2024-04-24T23:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "VyQv-YwrxJc",
+    "vidUrl": "https://youtu.be/VyQv-YwrxJc",
+    "vidTitle": "\u3010ROBLOX: Horror Games\u3011the CUTEST and SCARIEST collab\u3010V&U | GEN4\u3011",
+    "channelId": "@zelivnu",
+    "channelName": "Zeli Zuimu Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/x-Jy2Z-kGAif3VDun_IhsnyYfzF5aWhNbwG6fcms85aKwauMlcr0dwA2onUFirEFs2BD8YFwjWg=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Zeli",
     "scheduledStartTime": "2024-04-24T23:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -3372,19 +3384,6 @@
     "premiere": false
   },
   {
-    "id": "FrdkBMPhi8s",
-    "vidUrl": "https://youtu.be/FrdkBMPhi8s",
-    "vidTitle": "\u3010SHINKANSEN 0\u3011WRONG TRAIN!!\u3010Projek Hikayat\u3011",
-    "channelId": "@kurisukowach.",
-    "channelName": "Kurisu Kowa Ch. ",
-    "channelThumb": "https://yt3.ggpht.com/evUgeuKpRB2sj9Hb7Mq6Q3HR7L3_0Hi1ucJPtCvGBrnJ88SxxxSqFroVKz_Ov9lsHVaAjEyuuio=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Kowa",
-    "scheduledStartTime": "2024-04-23T14:00:00Z",
-    "actualStartTime": "2024-04-23T14:00:51Z",
-    "premiere": false
-  },
-  {
     "id": "YmfRU_BMzsI",
     "vidUrl": "https://youtu.be/YmfRU_BMzsI",
     "vidTitle": "[Gaming] Let's Chat with Yagami Noah\uff5cVTuber /GTA5 in Street Junkies\u3010GTA5\u3011\u65e5\u672c\u8a9e/PC",
@@ -3564,6 +3563,19 @@
     "shortName": "Blaise",
     "scheduledStartTime": "2024-04-24T01:00:00Z",
     "actualStartTime": "2024-04-24T01:01:02Z",
+    "premiere": false
+  },
+  {
+    "id": "KgPON1d1t_U",
+    "vidUrl": "https://youtu.be/KgPON1d1t_U",
+    "vidTitle": "the stream before the storm \u3010ask charlotte suzu!! 60\u3011",
+    "channelId": "@charlottesuzu",
+    "channelName": "Charlotte Suzu / \u30b7\u30e3\u30fc\u30ed\u30c3\u30c8\u30fb\u30b9\u30ba \u3010kawaii\u3011",
+    "channelThumb": "https://yt3.ggpht.com/GsB4xQkkRT82EzVSuT8nU34Dj0MoofYZRwsTw2WWy4DHpvrGkmN2_59njomL2MuZCuR0I7i3-XM=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Charzu",
+    "scheduledStartTime": "2024-04-24T01:59:50Z",
+    "actualStartTime": "2024-04-24T02:00:05Z",
     "premiere": false
   },
   {
