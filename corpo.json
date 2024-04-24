@@ -60,18 +60,6 @@
     "premiere": false
   },
   {
-    "id": "hRlMM0nM7AA",
-    "vidUrl": "https://youtu.be/hRlMM0nM7AA",
-    "vidTitle": "NOT ENDING STREAM UNTIL WE BEAT THE GAME\u3010Turnip Boy Robs a Bank pt.3\u3011",
-    "channelId": "@navinanova",
-    "channelName": "Navina Nova Ch. \u30ca\u30d3\u30ca\u30fb\u30ce\u30d0\u3010kawaii\u3011",
-    "channelThumb": "https://yt3.ggpht.com/sCQGR1Y8wiQjjms1_B6cyWhgkxRccJRKEUH3ayCYmS-BIYzogqpeyUDP2j-_mC3gvm_8_6bp4g=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Nano",
-    "scheduledStartTime": "2024-04-24T01:00:00Z",
-    "actualStartTime": "2024-04-24T01:02:19Z",
-    "premiere": false
-  },
-  {
     "id": "b-jPZ9v-QoY",
     "vidUrl": "https://youtu.be/b-jPZ9v-QoY",
     "vidTitle": "Is This the BEST Fallout Game!? \ud83d\udc97 | FPS TIME!\u3010 FALLOUT NEW VEGAS \u3011",
@@ -3380,6 +3368,19 @@
     "shortName": "Blaise",
     "scheduledStartTime": "2024-04-24T01:00:00Z",
     "actualStartTime": "2024-04-24T01:01:02Z",
+    "premiere": false
+  },
+  {
+    "id": "hRlMM0nM7AA",
+    "vidUrl": "https://youtu.be/hRlMM0nM7AA",
+    "vidTitle": "NOT ENDING STREAM UNTIL WE BEAT THE GAME\u3010Turnip Boy Robs a Bank pt.3\u3011",
+    "channelId": "@navinanova",
+    "channelName": "Navina Nova Ch. \u30ca\u30d3\u30ca\u30fb\u30ce\u30d0\u3010kawaii\u3011",
+    "channelThumb": "https://yt3.ggpht.com/sCQGR1Y8wiQjjms1_B6cyWhgkxRccJRKEUH3ayCYmS-BIYzogqpeyUDP2j-_mC3gvm_8_6bp4g=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Nano",
+    "scheduledStartTime": "2024-04-24T01:00:00Z",
+    "actualStartTime": "2024-04-24T01:02:19Z",
     "premiere": false
   },
   {
