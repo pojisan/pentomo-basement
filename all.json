@@ -1,17 +1,5 @@
 [
   {
-    "id": "65qIhvkE92g",
-    "vidUrl": "https://youtu.be/65qIhvkE92g",
-    "vidTitle": "\u226aBUNNY GARDEN\u226b Purple Bae is back. \u3010SPOILER WARNING\u3011",
-    "channelId": "@hakosbaelz",
-    "channelName": "Hakos Baelz Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/SSZxkgjfV0O05zq1bBLOI0PszOCoxuPrANQ0Ysngsd0t81mnkwzEgIW2ypSIQJLn8swR14zLJQ=s88-c-k-c0x00ffffff-no-nd-rj",
-    "shortName": "Bae",
-    "scheduledStartTime": "2024-04-24T01:00:00Z",
-    "actualStartTime": "2024-04-24T01:01:30Z",
-    "premiere": false
-  },
-  {
     "id": "b-jPZ9v-QoY",
     "vidUrl": "https://youtu.be/b-jPZ9v-QoY",
     "vidTitle": "Is This the BEST Fallout Game!? \ud83d\udc97 | FPS TIME!\u3010 FALLOUT NEW VEGAS \u3011",
@@ -895,7 +883,7 @@
     "channelName": "Alban Knox \u3010NIJISANJI EN\u3011",
     "channelThumb": "https://yt3.ggpht.com/rbTGK5bXuub0l3feyx8c780FtoRAtT1KDgqOGQq2wSisQJo17wk9PusEc_ZjUMK_uwZ47LIZiSI=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Alban",
-    "scheduledStartTime": "2024-04-25T01:00:00Z",
+    "scheduledStartTime": "2024-04-25T01:15:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -3476,6 +3464,19 @@
     "shortName": "Blaise",
     "scheduledStartTime": "2024-04-24T01:00:00Z",
     "actualStartTime": "2024-04-24T01:01:02Z",
+    "premiere": false
+  },
+  {
+    "id": "65qIhvkE92g",
+    "vidUrl": "https://youtu.be/65qIhvkE92g",
+    "vidTitle": "\u226aBUNNY GARDEN\u226b Purple Bae is back. \u3010SPOILER WARNING\u3011",
+    "channelId": "@hakosbaelz",
+    "channelName": "Hakos Baelz Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/SSZxkgjfV0O05zq1bBLOI0PszOCoxuPrANQ0Ysngsd0t81mnkwzEgIW2ypSIQJLn8swR14zLJQ=s88-c-k-c0x00ffffff-no-nd-rj",
+    "graveyard": true,
+    "shortName": "Bae",
+    "scheduledStartTime": "2024-04-24T01:00:00Z",
+    "actualStartTime": "2024-04-24T01:01:30Z",
     "premiere": false
   },
   {
