@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "-E1J8AoY5RM",
-    "vidUrl": "https://youtu.be/-E1J8AoY5RM",
-    "vidTitle": "\u3010Shashingo\u3011Studying our Japanese! \u65e5\u672c\u8a9e\u3092\u52c9\u5f37\u3057\u307e\u3057\u3087\u3046 !\u3010globie 2nd Gen - Equinnox\u3011",
-    "channelId": "@hyoumakohaku",
-    "channelName": "Kohaku Hyouma ch.\u3010globie\u3011",
-    "channelThumb": "https://yt3.ggpht.com/aFRvJ_IOkDdIvUEZYAwAR1tp-uRyO9WYycjXA13_NiRawAMJTIDgOa3Ih0ypNuW9yrEwa8gRYA4=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Hyouma",
-    "scheduledStartTime": "2024-04-25T16:00:00Z",
-    "actualStartTime": "2024-04-25T15:59:30Z",
-    "premiere": false
-  },
-  {
     "id": "cwQCFdZyr9Q",
     "vidUrl": "https://youtu.be/cwQCFdZyr9Q",
     "vidTitle": "SOLO DIVING \ud83d\udca3 MY LIFE FOR SUPER EARTH \ud83c\udf10",
@@ -144,18 +132,6 @@
     "premiere": false
   },
   {
-    "id": "WWf9PgwkeQU",
-    "vidUrl": "https://youtu.be/WWf9PgwkeQU",
-    "vidTitle": "\u3010LEAGUE OF LEGENDS\u30111V1 The great Android!",
-    "channelId": "@kiliakurayami",
-    "channelName": "Kilia Kurayami Ch. \u3010EIEN Project\u3011",
-    "channelThumb": "https://yt3.ggpht.com/lfSudxn7RE0Izwj8K2GriTxOebvU7pOlFL6lRkZQfYUex3cksfnEasQtUcPcfXkEJaXYVwxAfQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Kilia",
-    "scheduledStartTime": "2024-04-25T19:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "j96S8SMnCV8",
     "vidUrl": "https://youtu.be/j96S8SMnCV8",
     "vidTitle": "\u3010ASMR/3Dio\u3011stressed? i will give you an oil massage / triggers + taking requests",
@@ -164,7 +140,19 @@
     "channelThumb": "https://yt3.ggpht.com/gHLRZOEihJIIcqQJmj8hsp4CsuRIbKIYKzRxQp9Q9du6DfBDFlnMv3xYCXMnKqSe3N8a1ki6Yw=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Katta",
     "scheduledStartTime": "2024-04-25T19:00:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-25T19:06:21Z",
+    "premiere": false
+  },
+  {
+    "id": "WWf9PgwkeQU",
+    "vidUrl": "https://youtu.be/WWf9PgwkeQU",
+    "vidTitle": "\u3010LEAGUE OF LEGENDS\u30111V1 The great Android!",
+    "channelId": "@kiliakurayami",
+    "channelName": "Kilia Kurayami Ch. \u3010EIEN Project\u3011",
+    "channelThumb": "https://yt3.ggpht.com/lfSudxn7RE0Izwj8K2GriTxOebvU7pOlFL6lRkZQfYUex3cksfnEasQtUcPcfXkEJaXYVwxAfQ=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Kilia",
+    "scheduledStartTime": "2024-04-25T19:00:00Z",
+    "actualStartTime": "2024-04-25T19:06:53Z",
     "premiere": false
   },
   {
@@ -176,7 +164,7 @@
     "channelThumb": "https://yt3.ggpht.com/sQsF3JpF26yNBW9ZNusWQHHFligM4D__RBmINLE0wJtXKHIdtlzhwNfIg_xR7Fx7LrMtG7Pt=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Navi",
     "scheduledStartTime": "2024-04-25T19:00:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-25T19:07:31Z",
     "premiere": false
   },
   {
@@ -3147,6 +3135,19 @@
     "shortName": "MYTHOS VT",
     "scheduledStartTime": "2024-04-25T14:00:00Z",
     "actualStartTime": "2024-04-25T14:09:33Z",
+    "premiere": false
+  },
+  {
+    "id": "-E1J8AoY5RM",
+    "vidUrl": "https://youtu.be/-E1J8AoY5RM",
+    "vidTitle": "\u3010Shashingo\u3011Studying our Japanese! \u65e5\u672c\u8a9e\u3092\u52c9\u5f37\u3057\u307e\u3057\u3087\u3046 !\u3010globie 2nd Gen - Equinnox\u3011",
+    "channelId": "@hyoumakohaku",
+    "channelName": "Kohaku Hyouma ch.\u3010globie\u3011",
+    "channelThumb": "https://yt3.ggpht.com/aFRvJ_IOkDdIvUEZYAwAR1tp-uRyO9WYycjXA13_NiRawAMJTIDgOa3Ih0ypNuW9yrEwa8gRYA4=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Hyouma",
+    "scheduledStartTime": "2024-04-25T16:00:00Z",
+    "actualStartTime": "2024-04-25T15:59:30Z",
     "premiere": false
   },
   {
