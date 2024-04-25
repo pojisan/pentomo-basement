@@ -96,18 +96,6 @@
     "premiere": false
   },
   {
-    "id": "Pkvjpdd1N1E",
-    "vidUrl": "https://youtu.be/Pkvjpdd1N1E",
-    "vidTitle": "\u3010Shashingo\u3011let's learn together~!!\u3010Yume+ | Mero Umiko\u3011",
-    "channelId": "@meroumiko",
-    "channelName": "Mero Umiko \u3010Yume+\u3011",
-    "channelThumb": "https://yt3.ggpht.com/ao0Uyr-lSSR-cD9QJVrID38symffMEms-OUHRGu-i1DBBybDZglU9ELIgv6YtjBDBY6o0das7g=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Mero",
-    "scheduledStartTime": "2024-04-24T23:30:00Z",
-    "actualStartTime": "2024-04-24T23:30:21Z",
-    "premiere": false
-  },
-  {
     "id": "5oqpGGyhVCo",
     "vidUrl": "https://youtu.be/5oqpGGyhVCo",
     "vidTitle": "[MHW] SLAM DUNKING ON THESE MONSTERS - Ciccino Katterina Triple A Club V&U",
@@ -272,6 +260,18 @@
     "channelThumb": "https://yt3.ggpht.com/gQXL64aSlteGuabzrOCxa7Qs-OdOJ0EAMeTP1hpSpI_5_IAkpjy3X0Y4aTVe9BxxXvXOCE5VdLc=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Nene",
     "scheduledStartTime": "2024-04-25T01:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "QkRiC6iY6aY",
+    "vidUrl": "https://youtu.be/QkRiC6iY6aY",
+    "vidTitle": "\u3010Remnant 2\u3011Back for more action!!!",
+    "channelId": "@elaynaduskfell",
+    "channelName": "Elayna Duskfell Ch. Legion",
+    "channelThumb": "https://yt3.ggpht.com/0RMVwqYrh_4HAhaUmUL3pP6S0DWfSZ-NZuTe1jfjjlEWVzpnMlI0WAja4rVw1w8EzaVQLjED=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Elayna",
+    "scheduledStartTime": "2024-04-25T01:41:05Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -1039,6 +1039,18 @@
     "channelName": "Sara Nagare / \u6d41\u30b5\u30e9 \u3010EverAfter\u3011",
     "channelThumb": "https://yt3.ggpht.com/Yv97lNyNygKWhFW-foy823UoJZv-Uf4tg0t_fzZlyTzrYLdiEvt-gjs9dDoDDGEoH2sVXy6E=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Sara",
+    "scheduledStartTime": "2024-04-26T00:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "xByz8k2UXPM",
+    "vidUrl": "https://youtu.be/xByz8k2UXPM",
+    "vidTitle": "\u3010PENGUIN VTUBERS TAKEOVER\u3011We gaming on World Penguin Day!\u3010Pippa Pebblesworth\u3011",
+    "channelId": "@pippapebblesworth",
+    "channelName": "Pippa Pebblesworth ch. \u3010globie\u3011",
+    "channelThumb": "https://yt3.ggpht.com/FV-T274wCeRSrHKm54acTNEJLJTDlE5BdPrKoJQY0kxaTdO4uerFlxG8HJmAvS2HbSQIMzfa7A=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Pippa",
     "scheduledStartTime": "2024-04-26T00:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -3367,16 +3379,16 @@
     "premiere": false
   },
   {
-    "id": "6bpAjZkwHcE",
-    "vidUrl": "https://youtu.be/6bpAjZkwHcE",
-    "vidTitle": "\u3010 Fall Out 4 Gameplay\u3011IT'S TIME TO SURVIVE IN THE WASTELAND\u3010Alias Anono | V4Mirai | ENVtuber\u3011",
-    "channelId": "@aliasanono",
-    "channelName": "Alias Anono Ch. \u3010V4Mirai\u3011",
-    "channelThumb": "https://yt3.ggpht.com/2cjQaeikgrJlNLffvtgcuH9FNsGIOdBdC34ShNNmqpW4MH-n2GPJGT3gv2oz8awap2nOeKneoQ=s88-c-k-c0x00ffffff-no-rj",
+    "id": "Pkvjpdd1N1E",
+    "vidUrl": "https://youtu.be/Pkvjpdd1N1E",
+    "vidTitle": "\u3010Shashingo\u3011let's learn together~!!\u3010Yume+ | Mero Umiko\u3011",
+    "channelId": "@meroumiko",
+    "channelName": "Mero Umiko \u3010Yume+\u3011",
+    "channelThumb": "https://yt3.ggpht.com/ao0Uyr-lSSR-cD9QJVrID38symffMEms-OUHRGu-i1DBBybDZglU9ELIgv6YtjBDBY6o0das7g=s88-c-k-c0x00ffffff-no-rj",
     "graveyard": true,
-    "shortName": "Alias",
-    "scheduledStartTime": "2024-04-24T23:00:00Z",
-    "actualStartTime": "2024-04-24T23:07:24Z",
+    "shortName": "Mero",
+    "scheduledStartTime": "2024-04-24T23:30:00Z",
+    "actualStartTime": "2024-04-24T23:30:21Z",
     "premiere": false
   },
   {
