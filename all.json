@@ -36,18 +36,6 @@
     "premiere": false
   },
   {
-    "id": "RM-fableC-8",
-    "vidUrl": "https://youtu.be/RM-fableC-8",
-    "vidTitle": "THIS GAME LOOKS REALLY SCARY... \u3010 YUKI ONNA \u3011 \u3010NIJISANJI EN | Alban Knox\u3011",
-    "channelId": "@albanknox",
-    "channelName": "Alban Knox \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/rbTGK5bXuub0l3feyx8c780FtoRAtT1KDgqOGQq2wSisQJo17wk9PusEc_ZjUMK_uwZ47LIZiSI=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Alban",
-    "scheduledStartTime": "2024-04-25T12:00:00Z",
-    "actualStartTime": "2024-04-25T12:05:26Z",
-    "premiere": false
-  },
-  {
     "id": "yPQ3nalwruU",
     "vidUrl": "https://youtu.be/yPQ3nalwruU",
     "vidTitle": "\u3010BUNNY GARDEN\uff5c\u30d0\u30cb\u30fc\u30ac\u30fc\u30c7\u30f3\u3011GALGAAAAME  \u30ab\u30ef\u30a4\u30a4\u5973\u306e\u5b50\u3068\u3046\u3075\u3075\u3075\u3075\u3075\u3075\u3075\u3042\u306f\u306f\u306f\u3063\u306f\uff4e\u3010NIJISANJI EN\uff5cMeloco Kyoran\u3011",
@@ -204,18 +192,6 @@
     "premiere": false
   },
   {
-    "id": "7fDbSRkcwMY",
-    "vidUrl": "https://youtu.be/7fDbSRkcwMY",
-    "vidTitle": "CUTE GIRLS NICE \ud83c\udf51 #NIKKE_VTuber\u9802\u4e0a\u6c7a\u5b9a\u6226 #PR #AD",
-    "channelId": "@neneamanoch",
-    "channelName": "Nene Amano Ch. \u5929\u91ce\u5be7\u3005\u3010kawaii\u3011",
-    "channelThumb": "https://yt3.ggpht.com/gQXL64aSlteGuabzrOCxa7Qs-OdOJ0EAMeTP1hpSpI_5_IAkpjy3X0Y4aTVe9BxxXvXOCE5VdLc=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Nene",
-    "scheduledStartTime": "2024-04-25T15:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "GbaETl8uD0w",
     "vidUrl": "https://youtu.be/GbaETl8uD0w",
     "vidTitle": "Nether Explosions and World Exploration!\u3010HC Minecraft\u3011",
@@ -284,6 +260,18 @@
     "channelThumb": "https://yt3.ggpht.com/e13waaN0PPXE8TcWvHVMp8fRRU8JsEeplaZBMPTsNUW_iknS32QkIgFkiKtwweKBCFUZMPnj=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Leon",
     "scheduledStartTime": "2024-04-25T16:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "7fDbSRkcwMY",
+    "vidUrl": "https://youtu.be/7fDbSRkcwMY",
+    "vidTitle": "CUTE GIRLS NICE \ud83c\udf51 #NIKKE_VTuber\u9802\u4e0a\u6c7a\u5b9a\u6226 #PR #AD",
+    "channelId": "@neneamanoch",
+    "channelName": "Nene Amano Ch. \u5929\u91ce\u5be7\u3005\u3010kawaii\u3011",
+    "channelThumb": "https://yt3.ggpht.com/gQXL64aSlteGuabzrOCxa7Qs-OdOJ0EAMeTP1hpSpI_5_IAkpjy3X0Y4aTVe9BxxXvXOCE5VdLc=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Nene",
+    "scheduledStartTime": "2024-04-25T16:30:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -3200,6 +3188,19 @@
     "shortName": "Io",
     "scheduledStartTime": "2024-04-25T11:30:00Z",
     "actualStartTime": "2024-04-25T11:29:12Z",
+    "premiere": false
+  },
+  {
+    "id": "RM-fableC-8",
+    "vidUrl": "https://youtu.be/RM-fableC-8",
+    "vidTitle": "THIS GAME LOOKS REALLY SCARY... \u3010 YUKI ONNA \u3011 \u3010NIJISANJI EN | Alban Knox\u3011",
+    "channelId": "@albanknox",
+    "channelName": "Alban Knox \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/rbTGK5bXuub0l3feyx8c780FtoRAtT1KDgqOGQq2wSisQJo17wk9PusEc_ZjUMK_uwZ47LIZiSI=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Alban",
+    "scheduledStartTime": "2024-04-25T12:00:00Z",
+    "actualStartTime": "2024-04-25T12:05:26Z",
     "premiere": false
   },
   {
