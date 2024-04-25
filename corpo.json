@@ -1,17 +1,5 @@
 [
   {
-    "id": "7ycr-afii1M",
-    "vidUrl": "https://youtu.be/7ycr-afii1M",
-    "vidTitle": "\u3010Metal Gear Ghost Babel\u3011Let's Get This Snake Out Onto A Tray... Nice Hiss \ud83d\udc0d +MRE Tasting",
-    "channelId": "@amiyaaranha",
-    "channelName": "Amiya Ch. \u30a2\u30df\u30e4\u30fb\u30a2\u30e9\u30cb\u30e3",
-    "channelThumb": "https://yt3.ggpht.com/91Fqx3Xut4jaSefCeiDLVGQDSdkWAvt5jA8ejzT18EztYTppy29JNzpa7G-KThC8TzuAmlKBQcs=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Amiya",
-    "scheduledStartTime": "2024-04-25T19:00:00Z",
-    "actualStartTime": "2024-04-25T19:00:33Z",
-    "premiere": false
-  },
-  {
     "id": "VTM6krkzW7k",
     "vidUrl": "https://youtu.be/VTM6krkzW7k",
     "vidTitle": "\u3010Going Under\u3011I did not sign up for this kind of internship\u3010Alicja Da Lontano | Globie Gen 2 Solstia\u3011",
@@ -283,6 +271,18 @@
     "channelName": "Coni Confetti Ch. idol-EN",
     "channelThumb": "https://yt3.ggpht.com/DHI9aYg-eO1nO1PKAyVyDIP7BhuK88nkWcztyfKc-dp0zrdErFkKsbkgC13KqMucq46qreLKpz8=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Coni",
+    "scheduledStartTime": "2024-04-26T00:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "IVyD5icR9-U",
+    "vidUrl": "https://youtu.be/IVyD5icR9-U",
+    "vidTitle": "\ud83d\udd34\u3010 WORK WITH ME \u3011Quiet VTuber Study/Work Hangout (30/10 Pomodoro, Spirit City LoFi)",
+    "channelId": "@koziichu",
+    "channelName": "KoziiChu",
+    "channelThumb": "https://yt3.ggpht.com/pt7bh9RYZ3pOOWcrG50EYG7lzCsC8s8hq67f0mX9l5F9P9Igly4mbCxB4RW4h4Mp2xcfMOaA=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Koziichu",
     "scheduledStartTime": "2024-04-26T00:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -1994,7 +1994,7 @@
   {
     "id": "ZGYIcL5htn4",
     "vidUrl": "https://youtu.be/ZGYIcL5htn4",
-    "vidTitle": "I Got Abandoned in China\u3010V4Mirai | Goozalo Kadabura\u3011",
+    "vidTitle": "I Got Abandoned in China\u3010V4Mirai | Abi Kadabura\u3011",
     "channelId": "@abikadabura",
     "channelName": "Abi Kadabura Ch.\u3010V4Mirai\u3011",
     "channelThumb": "https://yt3.ggpht.com/B_9QpINpsFh56b7Ji0WR1H0D5HO69g-93EuXiqaldjR5WXOSXB1aPfw0AJS4cPRikq_axPzh=s88-c-k-c0x00ffffff-no-rj",
@@ -3110,6 +3110,19 @@
     "shortName": "Xin",
     "scheduledStartTime": "2024-04-25T17:00:00Z",
     "actualStartTime": "2024-04-25T17:00:14Z",
+    "premiere": false
+  },
+  {
+    "id": "7ycr-afii1M",
+    "vidUrl": "https://youtu.be/7ycr-afii1M",
+    "vidTitle": "\u3010Metal Gear Ghost Babel\u3011Let's Get This Snake Out Onto A Tray... Nice Hiss \ud83d\udc0d +MRE Tasting",
+    "channelId": "@amiyaaranha",
+    "channelName": "Amiya Ch. \u30a2\u30df\u30e4\u30fb\u30a2\u30e9\u30cb\u30e3",
+    "channelThumb": "https://yt3.ggpht.com/91Fqx3Xut4jaSefCeiDLVGQDSdkWAvt5jA8ejzT18EztYTppy29JNzpa7G-KThC8TzuAmlKBQcs=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Amiya",
+    "scheduledStartTime": "2024-04-25T19:00:00Z",
+    "actualStartTime": "2024-04-25T19:00:33Z",
     "premiere": false
   }
 ]
