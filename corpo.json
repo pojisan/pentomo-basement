@@ -188,7 +188,7 @@
     "channelThumb": "https://yt3.ggpht.com/FlbqAWrn9OdE4QcjGweQkH_2WUf2kCAQPbiC4dVvt6ItUWE4pLnUrs9MJ3-KtyeULY0hGe-VPio=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Obake PAM",
     "scheduledStartTime": "2024-04-25T20:00:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-25T20:12:38Z",
     "premiere": false
   },
   {
@@ -396,18 +396,6 @@
     "premiere": false
   },
   {
-    "id": "TzjmPZzyJL0",
-    "vidUrl": "https://youtu.be/TzjmPZzyJL0",
-    "vidTitle": "\u3010ASMR\u3011Little sis asmr w/ @MimosaShirosaki  \u3010Yume+ | Rhea Nevermore\u3011",
-    "channelId": "@rheanevermore",
-    "channelName": "Rhea Nevermore \u3010Yume+\u3011",
-    "channelThumb": "https://yt3.ggpht.com/POsoK-HHPySyD4C6ell2PZeeqjOfPFYW1SOYN0ZwETReBmkJ7ScxoTkyB3BliqEg3Qh6ulsjwQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Rhea",
-    "scheduledStartTime": "2024-04-25T23:30:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "hj3EpkEkVnU",
     "vidUrl": "https://youtu.be/hj3EpkEkVnU",
     "vidTitle": "\u3010Elden Ring #2\u3011BOSSES BOSSES BOSSES! DOKO? | SPEEDRUN CHALLENGES",
@@ -475,6 +463,18 @@
     "channelName": "Meimi Majokko Ch. \u9b54\u5973\u3063\u5b50\u3081\u3044\u307f\u3010kawaii\u3011",
     "channelThumb": "https://yt3.ggpht.com/yKOTdfPIaUJm7wH2snXzhSgGPqJL4STR1n08lCrGFZa-7oxEZuSgy080xUQt7Y3iPp2m47FLYA=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Meimi",
+    "scheduledStartTime": "2024-04-26T00:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "TzjmPZzyJL0",
+    "vidUrl": "https://youtu.be/TzjmPZzyJL0",
+    "vidTitle": "\u3010ASMR\u3011Little sis asmr w/ @MimosaShirosaki  \u3010Yume+ | Rhea Nevermore\u3011",
+    "channelId": "@rheanevermore",
+    "channelName": "Rhea Nevermore \u3010Yume+\u3011",
+    "channelThumb": "https://yt3.ggpht.com/POsoK-HHPySyD4C6ell2PZeeqjOfPFYW1SOYN0ZwETReBmkJ7ScxoTkyB3BliqEg3Qh6ulsjwQ=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Rhea",
     "scheduledStartTime": "2024-04-26T00:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -3136,19 +3136,6 @@
     "shortName": "Xin",
     "scheduledStartTime": "2024-04-25T17:00:00Z",
     "actualStartTime": "2024-04-25T17:00:14Z",
-    "premiere": false
-  },
-  {
-    "id": "-S5xOr7G_aE",
-    "vidUrl": "https://youtu.be/-S5xOr7G_aE",
-    "vidTitle": "\u3010PERSONA 3 RELOAD *SPOILER ALERT*\u3011School days haven't been the same\u3010globie 2nd Gen - Equinnox\u3011",
-    "channelId": "@vancevancreed",
-    "channelName": "Vance Van Creed ch.",
-    "channelThumb": "https://yt3.ggpht.com/fMH-jV4av9c83joWiiU7MKY5MB_hH-1-o1Mnm1UZE6MHeG7Byea8PRBU9x0ONYgn_VTx9qfAtFI=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Vance",
-    "scheduledStartTime": "2024-04-25T17:56:16Z",
-    "actualStartTime": "2024-04-25T17:56:26Z",
     "premiere": false
   }
 ]
