@@ -24,18 +24,6 @@
     "premiere": false
   },
   {
-    "id": "XMB_ezk6N_Q",
-    "vidUrl": "https://youtu.be/XMB_ezk6N_Q",
-    "vidTitle": "\u3010Remnant II\u3011Not triplets, but thrice as awesome!",
-    "channelId": "@ashadawn",
-    "channelName": "Asha Dawn Ch. Legion",
-    "channelThumb": "https://yt3.ggpht.com/kbvof6XayuNhDx21no3Y819T1r_fPw_8OvizzR8hJ3LkpvUYbw6vkbHlifJoBVPnW0TX_J3sq04=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Asha",
-    "scheduledStartTime": "2024-04-25T02:30:00Z",
-    "actualStartTime": "2024-04-25T02:21:58Z",
-    "premiere": false
-  },
-  {
     "id": "uOq0N_qMSYU",
     "vidUrl": "https://youtu.be/uOq0N_qMSYU",
     "vidTitle": "\u3010Bunny Garden\u3011PyonRyS drinking with bunnies! Who will be my Maiden? \u3010Spoiler Warning\u3011",
@@ -588,6 +576,18 @@
     "premiere": false
   },
   {
+    "id": "CQP7u-53Ypc",
+    "vidUrl": "https://youtu.be/CQP7u-53Ypc",
+    "vidTitle": "\u3010PERSONA 3 RELOAD\u3011 BABY BABY BABY BABY BABYYYYYYYYY \u203bspoiler warning \u3010NIJISANJI EN | Elira Pendora\u3011",
+    "channelId": "@elirapendora",
+    "channelName": "Elira Pendora \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/FqSL5KhR59LugywQ6QJo_fH98JS7m8WWDAfvziM3R_kyW79EmY-iEWsF_dlOcqCRdkXeQz4D=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Elira",
+    "scheduledStartTime": "2024-04-25T22:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "JUlqsC7phYk",
     "vidUrl": "https://youtu.be/JUlqsC7phYk",
     "vidTitle": "The First RKAngel Graduation \ud83d\ude2d\u3010Let's School\u3011",
@@ -912,6 +912,18 @@
     "premiere": false
   },
   {
+    "id": "k8H8Y_e_8Mg",
+    "vidUrl": "https://youtu.be/k8H8Y_e_8Mg",
+    "vidTitle": "\u3010DARK SOULS: REMASTERED\u3011Here I come, Chaos Witch Queelag!",
+    "channelId": "@ashadawn",
+    "channelName": "Asha Dawn Ch. Legion",
+    "channelThumb": "https://yt3.ggpht.com/kbvof6XayuNhDx21no3Y819T1r_fPw_8OvizzR8hJ3LkpvUYbw6vkbHlifJoBVPnW0TX_J3sq04=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Asha",
+    "scheduledStartTime": "2024-04-26T02:00:32Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "JebSygojkM4",
     "vidUrl": "https://youtu.be/JebSygojkM4",
     "vidTitle": "DESIRE (Official Music Video) | NIJISANJI EN",
@@ -922,6 +934,18 @@
     "scheduledStartTime": "2024-04-26T03:00:00Z",
     "actualStartTime": "",
     "premiere": true
+  },
+  {
+    "id": "44_pSrfoPW4",
+    "vidUrl": "https://youtu.be/44_pSrfoPW4",
+    "vidTitle": "\u3010Cult of the Lamb\u3011 My loyal subjects need my constant guidance",
+    "channelId": "@kaylexskullcastor",
+    "channelName": "Kaylex Skullcastor Ch. Legion",
+    "channelThumb": "https://yt3.ggpht.com/yBYtwbzSuAJeF6wFyn8SsRj0SltRG3AwX05tcUO39OrcF4G9Bt5HPbuM5dKW56XfI8OLFWyQ=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Kaylex",
+    "scheduledStartTime": "2024-04-26T03:00:18Z",
+    "actualStartTime": "",
+    "premiere": false
   },
   {
     "id": "UsbYbIZMxBk",
@@ -3112,29 +3136,16 @@
     "premiere": false
   },
   {
-    "id": "QkRiC6iY6aY",
-    "vidUrl": "https://youtu.be/QkRiC6iY6aY",
-    "vidTitle": "\u3010Remnant 2\u3011I am not afraid of dying",
-    "channelId": "@elaynaduskfell",
-    "channelName": "Elayna Duskfell Ch. Legion",
-    "channelThumb": "https://yt3.ggpht.com/0RMVwqYrh_4HAhaUmUL3pP6S0DWfSZ-NZuTe1jfjjlEWVzpnMlI0WAja4rVw1w8EzaVQLjED=s88-c-k-c0x00ffffff-no-rj",
+    "id": "XMB_ezk6N_Q",
+    "vidUrl": "https://youtu.be/XMB_ezk6N_Q",
+    "vidTitle": "\u3010Remnant II\u3011Not triplets, but thrice as awesome!",
+    "channelId": "@ashadawn",
+    "channelName": "Asha Dawn Ch. Legion",
+    "channelThumb": "https://yt3.ggpht.com/kbvof6XayuNhDx21no3Y819T1r_fPw_8OvizzR8hJ3LkpvUYbw6vkbHlifJoBVPnW0TX_J3sq04=s88-c-k-c0x00ffffff-no-rj",
     "graveyard": true,
-    "shortName": "Elayna",
+    "shortName": "Asha",
     "scheduledStartTime": "2024-04-25T02:30:00Z",
-    "actualStartTime": "2024-04-25T02:21:44Z",
-    "premiere": false
-  },
-  {
-    "id": "EtsrIySlazo",
-    "vidUrl": "https://youtu.be/EtsrIySlazo",
-    "vidTitle": "Content Warning with @vtsymphonia ,@EliaStellaria and @UmiKyoku",
-    "channelId": "@amayawhisperch",
-    "channelName": "Amaya Whisper CH.",
-    "channelThumb": "https://yt3.ggpht.com/5lhdsiucGcn74m0qnaMxZmHgh9leJO4_NcFYvE7rn1DRGpVweyNguUhF25nJk5CPEAB5T3rMxg=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Amaya",
-    "scheduledStartTime": "2024-04-25T03:00:00Z",
-    "actualStartTime": "2024-04-25T03:03:17Z",
+    "actualStartTime": "2024-04-25T02:21:58Z",
     "premiere": false
   },
   {
