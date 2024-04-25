@@ -7,8 +7,8 @@
     "channelName": "Vox Akuma\u3010NIJISANJI EN\u3011",
     "channelThumb": "https://yt3.ggpht.com/wmFEylEWSzThPd3-AIufbxVP-_JOTI8ru_Pf1JI8RQ2Af4EoPDUXpT7n22PXl6m_vAq8p28lxw=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Vox",
-    "scheduledStartTime": "2024-04-25T09:00:00Z",
-    "actualStartTime": "",
+    "scheduledStartTime": "2024-04-25T09:10:23Z",
+    "actualStartTime": "2024-04-25T09:10:35Z",
     "premiere": false
   },
   {
@@ -20,6 +20,18 @@
     "channelThumb": "https://yt3.ggpht.com/tCeBfd6DnX3fAO2dIv6Smje0Wj7iQT9sLFFW2jPI8Bfw6d9VY8jIYApFFrSYxK-ZTWxM1hu1=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Luca",
     "scheduledStartTime": "2024-04-25T11:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "I8GRoM03fmY",
+    "vidUrl": "https://youtu.be/I8GRoM03fmY",
+    "vidTitle": "\u3010BUNNY GARGDEN\u3011GALGAAAAAME  \u30c7\u30e5\u30d5\u30d5\u30d5\u30d5\u30d5\u30d5\u266a \u3010NIJISANJI EN\uff5cMeloco Kyoran\u3011",
+    "channelId": "@melocokyoran",
+    "channelName": "Meloco Kyoran\u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/R4_Tzx3rBLlHOAL8G5DvpzPs4Cwutg_22ISvrp0s5_3I3POjHeZVQgui9z3F3cC9EEV1B-dmc6U=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Meloco",
+    "scheduledStartTime": "2024-04-25T12:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
