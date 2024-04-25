@@ -48,18 +48,6 @@
     "premiere": false
   },
   {
-    "id": "aqmPoFpVHAw",
-    "vidUrl": "https://youtu.be/aqmPoFpVHAw",
-    "vidTitle": "\u3010THE EXIT 8\u3011bro where tf am I\u3010Komiyama Ambros | globie\u3011",
-    "channelId": "@komiyamaambros",
-    "channelName": "Komiyama Ambros ch. \u72d0\u8033\u5c71\u30a2\u30f3\u30d6\u30ed\u30fc\u30ba\u3010globie\u3011",
-    "channelThumb": "https://yt3.ggpht.com/FZSR4SAFJ2tf54N3prke622CgO6eEXev6him-VPc6WpKIjCFp7LhhHRQXG_yM3xuTRcUYqPgcg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Ambros",
-    "scheduledStartTime": "2024-04-25T13:00:00Z",
-    "actualStartTime": "2024-04-25T12:56:06Z",
-    "premiere": false
-  },
-  {
     "id": "O9zkXvc1rtY",
     "vidUrl": "https://youtu.be/O9zkXvc1rtY",
     "vidTitle": "\u3010KeyWe\u3011globie Birb Collab! feat. Pippa Pebblesworth\u3010Vilhelm Vanderbos | globie Gen 2 | Equinnox\u3011",
@@ -720,6 +708,18 @@
     "premiere": false
   },
   {
+    "id": "O_w5DbPHLrM",
+    "vidUrl": "https://youtu.be/O_w5DbPHLrM",
+    "vidTitle": "Learning Rikka Sunavalon From A Pro W/ @SunseedJess \u3010YUGIOH MASTER DUEL\u3011",
+    "channelId": "@novaaokami",
+    "channelName": "Nova Aokami Ch. [VReverie]",
+    "channelThumb": "https://yt3.ggpht.com/5Doo9Ki6KPh9XFq09Ctrrp7U2Aagn6VB3PIWlGICOovu5Wc7GwBiRrASpFy45QNwOvVeFdAr=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Nova",
+    "scheduledStartTime": "2024-04-26T00:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "PlbCy0mmsg4",
     "vidUrl": "https://youtu.be/PlbCy0mmsg4",
     "vidTitle": "\u3010Hades\u3011Just a little god defying\u3010Yurikago Kokone | V&U\u3011",
@@ -895,6 +895,18 @@
     "channelName": "Sera Kesera\u3010bondlive EN\u3011",
     "channelThumb": "https://yt3.ggpht.com/9l1SuUcHbk3uo-zEZGGsE-ND7ePlrIAl4g6QoUMl98RzA7JCwlPAK4pshZ3ZO61tHhkyhj8bag=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Sera",
+    "scheduledStartTime": "2024-04-26T02:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "EK1JmR1Gedw",
+    "vidUrl": "https://youtu.be/EK1JmR1Gedw",
+    "vidTitle": "Ren gets rizzed \u3010NIJI EN DATING SHOW REN POV\u3011\u3010NIJISANJI EN | Ren Zotto\u3011",
+    "channelId": "@renzotto",
+    "channelName": "Ren Zotto \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/9-JRRUNPn8SanGWeg4zEEqqK14niqROhgUKzAkvuBAx1sOCcTSpG18-uQTn87w0EaH1l9emGCw=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Ren",
     "scheduledStartTime": "2024-04-26T02:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -3200,6 +3212,19 @@
     "shortName": "Goozilla",
     "scheduledStartTime": "2024-04-25T12:59:49Z",
     "actualStartTime": "2024-04-25T13:00:01Z",
+    "premiere": false
+  },
+  {
+    "id": "aqmPoFpVHAw",
+    "vidUrl": "https://youtu.be/aqmPoFpVHAw",
+    "vidTitle": "\u3010THE EXIT 8\u3011bro where tf am I\u3010Komiyama Ambros | globie\u3011",
+    "channelId": "@komiyamaambros",
+    "channelName": "Komiyama Ambros ch. \u72d0\u8033\u5c71\u30a2\u30f3\u30d6\u30ed\u30fc\u30ba\u3010globie\u3011",
+    "channelThumb": "https://yt3.ggpht.com/FZSR4SAFJ2tf54N3prke622CgO6eEXev6him-VPc6WpKIjCFp7LhhHRQXG_yM3xuTRcUYqPgcg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Ambros",
+    "scheduledStartTime": "2024-04-25T13:00:00Z",
+    "actualStartTime": "2024-04-25T12:56:06Z",
     "premiere": false
   },
   {
