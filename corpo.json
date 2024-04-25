@@ -144,18 +144,6 @@
     "premiere": false
   },
   {
-    "id": "dghUlRQmNtk",
-    "vidUrl": "https://youtu.be/dghUlRQmNtk",
-    "vidTitle": "Sweet Tunes\u3010 Unarchived Karaoke \u3011",
-    "channelId": "@rakunpoko",
-    "channelName": "Poko Rakun Ch. idol-EN",
-    "channelThumb": "https://yt3.ggpht.com/ma1Az7kp5ye3ZWtR9IGoFcWEVQ6ReN8VugO_PGP6qokwj430zQKuR9Uo_L5N3gCVTWsH_vQT1w=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Poko",
-    "scheduledStartTime": "2024-04-24T23:00:00Z",
-    "actualStartTime": "2024-04-24T23:00:54Z",
-    "premiere": false
-  },
-  {
     "id": "VyQv-YwrxJc",
     "vidUrl": "https://youtu.be/VyQv-YwrxJc",
     "vidTitle": "\u3010ROBLOX: Horror Games\u3011the CUTEST and SCARIEST collab\u3010V&U | GEN4\u3011",
@@ -288,18 +276,6 @@
     "premiere": false
   },
   {
-    "id": "1xTFqf-LWEM",
-    "vidUrl": "https://youtu.be/1xTFqf-LWEM",
-    "vidTitle": "\u3010Minecraft\u3011Petalight Collab - newb minecraft\u3010Yae Yugiri | V4Mirai | VTuber\u3011",
-    "channelId": "@yaeyugiri",
-    "channelName": "Yae Yugiri Ch.\u3010V4Mirai\u3011",
-    "channelThumb": "https://yt3.ggpht.com/4YU-ifBGgSoq-RvD3MYlUq_mhH23Ioe8h_t083RWrYs3c4qDcJQ_nEds5DGrI7C2FQOz0kLb=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Yae",
-    "scheduledStartTime": "2024-04-25T01:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "6Yu5sZo_h5I",
     "vidUrl": "https://youtu.be/6Yu5sZo_h5I",
     "vidTitle": "\u3010FALLOUT: NEW VEGAS\u3011Dog Crosses The Wasteland!\u3010UTAHIME MOCHIZUKI | SPECIALITE\u3011",
@@ -404,6 +380,18 @@
     "channelThumb": "https://yt3.ggpht.com/X1sgPuBT-qyqDLp-Z42L1Xx6FqUOvvgaTeOz8DhHobGpDBiCOsmAcvzXRRUXihT9mv0QrEPPfQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Io",
     "scheduledStartTime": "2024-04-25T01:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "1xTFqf-LWEM",
+    "vidUrl": "https://youtu.be/1xTFqf-LWEM",
+    "vidTitle": "\u3010Minecraft\u3011Petalight Collab - newb minecraft\u3010Yae Yugiri | V4Mirai | VTuber\u3011",
+    "channelId": "@yaeyugiri",
+    "channelName": "Yae Yugiri Ch.\u3010V4Mirai\u3011",
+    "channelThumb": "https://yt3.ggpht.com/4YU-ifBGgSoq-RvD3MYlUq_mhH23Ioe8h_t083RWrYs3c4qDcJQ_nEds5DGrI7C2FQOz0kLb=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Yae",
+    "scheduledStartTime": "2024-04-25T01:30:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -3436,19 +3424,6 @@
     "premiere": false
   },
   {
-    "id": "Jb3q9Dex4wM",
-    "vidUrl": "https://youtu.be/Jb3q9Dex4wM",
-    "vidTitle": "\u3010GTA V\u3011THE EASIEST HEIST EVER!\u3014Pt. 11\u3015",
-    "channelId": "@mivivnu",
-    "channelName": "Mivi Aivori Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/b0A2emwbDeLrLg3NZ5zlJf0AjwnxRx8dKsbah9w_DAOW5W-nhvK_JmA87yYFwYN6KeB4dOzH=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Mivi",
-    "scheduledStartTime": "2024-04-24T22:00:00Z",
-    "actualStartTime": "2024-04-24T22:00:18Z",
-    "premiere": false
-  },
-  {
     "id": "d3A1-WB0SX0",
     "vidUrl": "https://youtu.be/d3A1-WB0SX0",
     "vidTitle": "\ud83c\udf26\ufe0f\u3010TALK SHOW: CLEAR SKIES & KISSES\u3011#1 CHATTING W/NAYA  ES Kind of..\u3010Yume+ | Raein Clowd\u3011",
@@ -3459,6 +3434,19 @@
     "shortName": "Raein",
     "scheduledStartTime": "2024-04-24T22:00:00Z",
     "actualStartTime": "2024-04-24T22:01:45Z",
+    "premiere": false
+  },
+  {
+    "id": "dghUlRQmNtk",
+    "vidUrl": "https://youtu.be/dghUlRQmNtk",
+    "vidTitle": "Sweet Tunes\u3010 Unarchived Karaoke \u3011",
+    "channelId": "@rakunpoko",
+    "channelName": "Poko Rakun Ch. idol-EN",
+    "channelThumb": "https://yt3.ggpht.com/ma1Az7kp5ye3ZWtR9IGoFcWEVQ6ReN8VugO_PGP6qokwj430zQKuR9Uo_L5N3gCVTWsH_vQT1w=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Poko",
+    "scheduledStartTime": "2024-04-24T23:00:00Z",
+    "actualStartTime": "2024-04-24T23:00:54Z",
     "premiere": false
   }
 ]
