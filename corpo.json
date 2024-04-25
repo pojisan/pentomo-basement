@@ -24,18 +24,6 @@
     "premiere": false
   },
   {
-    "id": "XG0v5NU8FD8",
-    "vidUrl": "https://youtu.be/XG0v5NU8FD8",
-    "vidTitle": "\u300aSTARDEW VALLEY\u300bI MINE AND I FISH. EVERY DAY\u3010Sera Kesera | bondliveEN\u3011#shorts #vtuber",
-    "channelId": "@sera_bondlive",
-    "channelName": "Sera Kesera\u3010bondlive EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/9l1SuUcHbk3uo-zEZGGsE-ND7ePlrIAl4g6QoUMl98RzA7JCwlPAK4pshZ3ZO61tHhkyhj8bag=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Sera",
-    "scheduledStartTime": "2024-04-25T02:00:00Z",
-    "actualStartTime": "2024-04-25T02:00:23Z",
-    "premiere": false
-  },
-  {
     "id": "PGGl33kRemg",
     "vidUrl": "https://youtu.be/PGGl33kRemg",
     "vidTitle": "\u3010Remnant 2\u3011 Open your eyes, look up to the skies and see",
@@ -727,6 +715,18 @@
     "channelName": "Kokone Yurikago Ch. V&U",
     "channelThumb": "https://yt3.ggpht.com/xwSS6tbTBzvBuI0LLjA-0MQ77ZacslZB2TKN7lXcknwNBswpyMTjp9K4vLTR5B2jH4upTIAT5MI=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Kokone",
+    "scheduledStartTime": "2024-04-26T00:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "QzY8S-szQEw",
+    "vidUrl": "https://youtu.be/QzY8S-szQEw",
+    "vidTitle": "\u3010Anime Voice Acting!\u30111 New Sub = 1 Voice Line, Free Requests! Let's reach 4k!",
+    "channelId": "@majokkomeimi",
+    "channelName": "Meimi Majokko Ch. \u9b54\u5973\u3063\u5b50\u3081\u3044\u307f\u3010kawaii\u3011",
+    "channelThumb": "https://yt3.ggpht.com/yKOTdfPIaUJm7wH2snXzhSgGPqJL4STR1n08lCrGFZa-7oxEZuSgy080xUQt7Y3iPp2m47FLYA=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Meimi",
     "scheduledStartTime": "2024-04-26T00:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -3100,19 +3100,6 @@
     "premiere": false
   },
   {
-    "id": "jK4ZQCOodRY",
-    "vidUrl": "https://youtu.be/jK4ZQCOodRY",
-    "vidTitle": "\ud83d\udc80DARK SOULS 2 FOR THE FIRST TIME\ud83d\udc80 #shorts #shortslive #shortsfeed #shortsgaming",
-    "channelId": "@maevevnu",
-    "channelName": "Maeve Kagekiri Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/chqWD1VyGO8YdOq75KWxKvH0RcBMayDUlmtDeO9Btb__V9Zr-ow3CSoiOfhE3SrynzSC9J8=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Maeve",
-    "scheduledStartTime": "2024-04-24T22:00:00Z",
-    "actualStartTime": "2024-04-24T22:12:12Z",
-    "premiere": false
-  },
-  {
     "id": "8fP_61EFSG4",
     "vidUrl": "https://youtu.be/8fP_61EFSG4",
     "vidTitle": "\u3010Apex Legends\u3011Running Duo's w/ @AkaneJun\u3010globie 2nd Gen - Equinnox\u3011",
@@ -3201,6 +3188,19 @@
     "shortName": "Io",
     "scheduledStartTime": "2024-04-25T01:00:00Z",
     "actualStartTime": "2024-04-25T01:12:47Z",
+    "premiere": false
+  },
+  {
+    "id": "XG0v5NU8FD8",
+    "vidUrl": "https://youtu.be/XG0v5NU8FD8",
+    "vidTitle": "\u300aSTARDEW VALLEY\u300bI MINE AND I FISH. EVERY DAY\u3010Sera Kesera | bondliveEN\u3011#shorts #vtuber",
+    "channelId": "@sera_bondlive",
+    "channelName": "Sera Kesera\u3010bondlive EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/9l1SuUcHbk3uo-zEZGGsE-ND7ePlrIAl4g6QoUMl98RzA7JCwlPAK4pshZ3ZO61tHhkyhj8bag=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Sera",
+    "scheduledStartTime": "2024-04-25T02:00:00Z",
+    "actualStartTime": "2024-04-25T02:00:23Z",
     "premiere": false
   },
   {
