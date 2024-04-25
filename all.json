@@ -24,18 +24,6 @@
     "premiere": false
   },
   {
-    "id": "fqRwmObNA1Y",
-    "vidUrl": "https://youtu.be/fqRwmObNA1Y",
-    "vidTitle": "another guerilla stream!",
-    "channelId": "@minazukimana",
-    "channelName": "MinazukiMana - VOLs",
-    "channelThumb": "https://yt3.ggpht.com/O64mRHiN_f8Xzpwucwlf_pegYaW8OWoHcNhfVAwXcSvy3NNUbDoTjQGq0cdyrR0EdGXV4gv6XA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Mana",
-    "scheduledStartTime": "2024-04-25T11:15:00Z",
-    "actualStartTime": "2024-04-25T11:18:53Z",
-    "premiere": false
-  },
-  {
     "id": "oms6P5AK4sk",
     "vidUrl": "https://youtu.be/oms6P5AK4sk",
     "vidTitle": "\u3010BUNNY GARDEN\u3011WHERE AM I HELP HEEEEELPPPPPPP (PLAYING w/ EYE TRACKER)\u3010NIJISANJI EN | Luca Kaneshiro\u3011",
@@ -3202,6 +3190,19 @@
     "shortName": "Aria",
     "scheduledStartTime": "2024-04-25T10:10:00Z",
     "actualStartTime": "2024-04-25T10:11:08Z",
+    "premiere": false
+  },
+  {
+    "id": "fqRwmObNA1Y",
+    "vidUrl": "https://youtu.be/fqRwmObNA1Y",
+    "vidTitle": "another guerilla stream!",
+    "channelId": "@minazukimana",
+    "channelName": "MinazukiMana - VOLs",
+    "channelThumb": "https://yt3.ggpht.com/O64mRHiN_f8Xzpwucwlf_pegYaW8OWoHcNhfVAwXcSvy3NNUbDoTjQGq0cdyrR0EdGXV4gv6XA=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Mana",
+    "scheduledStartTime": "2024-04-25T11:15:00Z",
+    "actualStartTime": "2024-04-25T11:18:53Z",
     "premiere": false
   },
   {
