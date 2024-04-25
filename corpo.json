@@ -24,30 +24,6 @@
     "premiere": false
   },
   {
-    "id": "2_ZeikSkIBc",
-    "vidUrl": "https://youtu.be/2_ZeikSkIBc",
-    "vidTitle": "\u3010Slay the Spire\u3011+99 Poison Challenge: HELP ME win in 3 HRS!!",
-    "channelId": "@majokkomeimi",
-    "channelName": "Meimi Majokko Ch. \u9b54\u5973\u3063\u5b50\u3081\u3044\u307f\u3010kawaii\u3011",
-    "channelThumb": "https://yt3.ggpht.com/yKOTdfPIaUJm7wH2snXzhSgGPqJL4STR1n08lCrGFZa-7oxEZuSgy080xUQt7Y3iPp2m47FLYA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Meimi",
-    "scheduledStartTime": "2024-04-24T23:00:00Z",
-    "actualStartTime": "2024-04-24T23:05:55Z",
-    "premiere": false
-  },
-  {
-    "id": "o9XPRQ-wMsc",
-    "vidUrl": "https://youtu.be/o9XPRQ-wMsc",
-    "vidTitle": "um... are the kids ok? \u3010BOOMER SUMMIT: Crash Course on TikTok Brainrot\u3011",
-    "channelId": "@stfuboomi_",
-    "channelName": "Boomi Mamana Ch. \u9b54\u611b\u3076\u307f\u3010lucid\u2601\ufe0f\u3011",
-    "channelThumb": "https://yt3.ggpht.com/Ir7xaFhyOLm30TDU6WsFUT24WE8_o7SGK3eUmpbCsOOWFjh22e4XJsPhUYCvUtdgSUM2sUzOtg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Boomi",
-    "scheduledStartTime": "2024-04-25T00:00:00Z",
-    "actualStartTime": "2024-04-25T00:05:54Z",
-    "premiere": false
-  },
-  {
     "id": "He2dsz49Dl8",
     "vidUrl": "https://youtu.be/He2dsz49Dl8",
     "vidTitle": "\u3010Refind Self: The Personality Test Game\u3011Exposing myself...?\u3010Harima Tem | bondlive EN\u3011",
@@ -237,18 +213,6 @@
     "shortName": "Asha",
     "scheduledStartTime": "2024-04-25T02:30:00Z",
     "actualStartTime": "2024-04-25T02:21:58Z",
-    "premiere": false
-  },
-  {
-    "id": "4Bm256WHPkc",
-    "vidUrl": "https://youtu.be/4Bm256WHPkc",
-    "vidTitle": "\u3010PERSONA 3 RELOAD\u3011 mimimimimimiiiiiiiiiii",
-    "channelId": "@amoriavnu",
-    "channelName": "Amoria Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/xE9UTkowb3ioACbhZJuLwEGgBQEq4akaOHZZBTGmgn807ALVQKp91t_Gr74tgSpWRmN7SaEgnQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Amoria",
-    "scheduledStartTime": "2024-04-25T02:00:00Z",
-    "actualStartTime": "2024-04-25T02:05:32Z",
     "premiere": false
   },
   {
@@ -3283,6 +3247,19 @@
     "premiere": false
   },
   {
+    "id": "2_ZeikSkIBc",
+    "vidUrl": "https://youtu.be/2_ZeikSkIBc",
+    "vidTitle": "\u3010Slay the Spire\u3011+99 Poison Challenge: HELP ME win in 3 HRS!!",
+    "channelId": "@majokkomeimi",
+    "channelName": "Meimi Majokko Ch. \u9b54\u5973\u3063\u5b50\u3081\u3044\u307f\u3010kawaii\u3011",
+    "channelThumb": "https://yt3.ggpht.com/yKOTdfPIaUJm7wH2snXzhSgGPqJL4STR1n08lCrGFZa-7oxEZuSgy080xUQt7Y3iPp2m47FLYA=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Meimi",
+    "scheduledStartTime": "2024-04-24T23:00:00Z",
+    "actualStartTime": "2024-04-24T23:05:55Z",
+    "premiere": false
+  },
+  {
     "id": "9ybjKhI_3To",
     "vidUrl": "https://youtu.be/9ybjKhI_3To",
     "vidTitle": "\u3010WATCHALONG\u3011im forcing you to watch my favorite show",
@@ -3306,6 +3283,19 @@
     "shortName": "Ciccino",
     "scheduledStartTime": "2024-04-25T00:00:00Z",
     "actualStartTime": "2024-04-25T00:00:32Z",
+    "premiere": false
+  },
+  {
+    "id": "o9XPRQ-wMsc",
+    "vidUrl": "https://youtu.be/o9XPRQ-wMsc",
+    "vidTitle": "um... are the kids ok? \u3010BOOMER SUMMIT: Crash Course on TikTok Brainrot\u3011",
+    "channelId": "@stfuboomi_",
+    "channelName": "Boomi Mamana Ch. \u9b54\u611b\u3076\u307f\u3010lucid\u2601\ufe0f\u3011",
+    "channelThumb": "https://yt3.ggpht.com/Ir7xaFhyOLm30TDU6WsFUT24WE8_o7SGK3eUmpbCsOOWFjh22e4XJsPhUYCvUtdgSUM2sUzOtg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Boomi",
+    "scheduledStartTime": "2024-04-25T00:00:00Z",
+    "actualStartTime": "2024-04-25T00:05:54Z",
     "premiere": false
   },
   {
