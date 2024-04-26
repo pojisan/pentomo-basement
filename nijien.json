@@ -24,18 +24,6 @@
     "premiere": false
   },
   {
-    "id": "QgZ0a9Ju82U",
-    "vidUrl": "https://youtu.be/QgZ0a9Ju82U",
-    "vidTitle": "Ren plays MARIO GALAXY \u3010NIJISANJI EN | Ren Zotto\u3011",
-    "channelId": "@renzotto",
-    "channelName": "Ren Zotto \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/9-JRRUNPn8SanGWeg4zEEqqK14niqROhgUKzAkvuBAx1sOCcTSpG18-uQTn87w0EaH1l9emGCw=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Ren",
-    "scheduledStartTime": "2024-04-26T13:00:00Z",
-    "actualStartTime": "2024-04-26T12:57:55Z",
-    "premiere": false
-  },
-  {
     "id": "Oei1Va2haN8",
     "vidUrl": "https://youtu.be/Oei1Va2haN8",
     "vidTitle": "\u3010\u65e5\u672c\u8a9e\u52c9\u5f37\u3011\u9811\u5f35\u308a\u307e\u3059\uff01\u3010NIJISANJI EN | Vezalius Bandage\u3011",
@@ -56,7 +44,7 @@
     "channelThumb": "https://yt3.ggpht.com/krG1d8TvRL7GUoOsXXTUpuFQkgpRQkpx8402WzitwxFZOVz8z6UqsPsoUOERJkuJ8FLqQi0Gpg=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Hex",
     "scheduledStartTime": "2024-04-26T15:30:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-26T15:34:58Z",
     "premiere": false
   },
   {
@@ -213,6 +201,19 @@
     "shortName": "Seffyna",
     "scheduledStartTime": "2024-05-02T11:00:00Z",
     "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "QgZ0a9Ju82U",
+    "vidUrl": "https://youtu.be/QgZ0a9Ju82U",
+    "vidTitle": "Ren plays MARIO GALAXY \u3010NIJISANJI EN | Ren Zotto\u3011",
+    "channelId": "@renzotto",
+    "channelName": "Ren Zotto \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/9-JRRUNPn8SanGWeg4zEEqqK14niqROhgUKzAkvuBAx1sOCcTSpG18-uQTn87w0EaH1l9emGCw=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Ren",
+    "scheduledStartTime": "2024-04-26T13:00:00Z",
+    "actualStartTime": "2024-04-26T12:57:55Z",
     "premiere": false
   }
 ]
