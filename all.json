@@ -24,18 +24,6 @@
     "premiere": false
   },
   {
-    "id": "nAkqhWbAc4c",
-    "vidUrl": "https://youtu.be/nAkqhWbAc4c",
-    "vidTitle": "I just NEED to PUSH a ROCK? EASY!!! [The Game of Sisyphus]\u3010NIJISANJI EN | Doppio Dropscythe\u3011",
-    "channelId": "@doppiodropscythe",
-    "channelName": "Doppio Dropscythe\u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/X1LtitsaIYwwrNyC5vmTCzUJUC1LHRlrkBcVHQIUkGb--Sj8ZrX_FFB7HwbG5oum7oNf80mZ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Doppio",
-    "scheduledStartTime": "2024-04-26T12:00:00Z",
-    "actualStartTime": "2024-04-26T12:01:51Z",
-    "premiere": false
-  },
-  {
     "id": "IKSr_YkiSLk",
     "vidUrl": "https://youtu.be/IKSr_YkiSLk",
     "vidTitle": "\u3010BUNNY GARDEN\uff5c\u30d0\u30cb\u30fc\u30ac\u30fc\u30c7\u30f3\u3011RIN CHAAAAAAAAN  \u51db\uff81\uff6c\uff9d\ud83d\udc95\u4eca\u65e5\u3082\u4e16\u754c\u4e00\u304b\u308f\u3044\u3044\uff88\ud83d\ude04\u2728\u3010NIJISANJI EN\uff5cMeloco Kyoran\u3011",
@@ -200,7 +188,7 @@
     "channelThumb": "https://yt3.ggpht.com/gzyLsLIzbobRRYT_QkfMKISqY-RpzLfOowj5T61s2UDXRoHEespSbXR68cikE96P2RKpsWOeM1Q=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Alicja",
     "scheduledStartTime": "2024-04-26T15:00:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-26T14:59:05Z",
     "premiere": false
   },
   {
@@ -212,7 +200,7 @@
     "channelThumb": "https://yt3.ggpht.com/Tz6Hm43Exb8k5sGZ7DRbucOkivDD4w7FU78_bPV69vWM47zCAODykYVo76pwXqry2b1DI1HI=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Kohaku",
     "scheduledStartTime": "2024-04-26T15:00:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-26T15:02:02Z",
     "premiere": false
   },
   {
@@ -271,6 +259,18 @@
     "channelName": "Sarugaku Leon Jr. ch.\u3010globie\u3011",
     "channelThumb": "https://yt3.ggpht.com/e13waaN0PPXE8TcWvHVMp8fRRU8JsEeplaZBMPTsNUW_iknS32QkIgFkiKtwweKBCFUZMPnj=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Leon",
+    "scheduledStartTime": "2024-04-26T16:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "k-woTAVWBeM",
+    "vidUrl": "https://youtu.be/k-woTAVWBeM",
+    "vidTitle": "GUERRILLA! \uff61\uff65\uff9f\uff9f\uff65 Short Zatsu + TTS! \uff65\uff9f\uff9f\uff65\uff61",
+    "channelId": "@echovnu",
+    "channelName": "Echo Lyne Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/GXeZ1UMgOyI-peaWarT6IrEjhqilp90c7VnxBbAvFx2oy-wKlJMJnBR1m3oi2pwqryx8OwSk5A=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Echo Lyne",
     "scheduledStartTime": "2024-04-26T16:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2860,6 +2860,19 @@
     "shortName": "Mimosa",
     "scheduledStartTime": "2024-04-26T07:00:00Z",
     "actualStartTime": "2024-04-26T07:04:19Z",
+    "premiere": false
+  },
+  {
+    "id": "nAkqhWbAc4c",
+    "vidUrl": "https://youtu.be/nAkqhWbAc4c",
+    "vidTitle": "I just NEED to PUSH a ROCK? EASY!!! [The Game of Sisyphus]\u3010NIJISANJI EN | Doppio Dropscythe\u3011",
+    "channelId": "@doppiodropscythe",
+    "channelName": "Doppio Dropscythe\u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/X1LtitsaIYwwrNyC5vmTCzUJUC1LHRlrkBcVHQIUkGb--Sj8ZrX_FFB7HwbG5oum7oNf80mZ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Doppio",
+    "scheduledStartTime": "2024-04-26T12:00:00Z",
+    "actualStartTime": "2024-04-26T12:01:51Z",
     "premiere": false
   },
   {
