@@ -1,17 +1,5 @@
 [
   {
-    "id": "UgdRmrqZTLg",
-    "vidUrl": "https://youtu.be/UgdRmrqZTLg",
-    "vidTitle": "DAYS WITH OLLIE \ud83d\udc8b",
-    "channelId": "@umikyoku",
-    "channelName": "Umi Kyoku \u3010\u3046\u307f\u304d\u3087\u304f\u3011",
-    "channelThumb": "https://yt3.ggpht.com/swraGRJ-7ukDEjf58l8YghX2KRDuxS2AEW417T7BWmc-NehlFSgYeMftFJ9VuDE43C07xHQLKBA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Umi",
-    "scheduledStartTime": "2024-04-26T14:00:00Z",
-    "actualStartTime": "2024-04-26T14:19:23Z",
-    "premiere": false
-  },
-  {
     "id": "ea8HZTqxWnQ",
     "vidUrl": "https://youtu.be/ea8HZTqxWnQ",
     "vidTitle": "\u3010Unachieved Karaoke\u3011Lalala time with Ala\u3010Alicja Da Lontano | Globie Gen 2 Solstia\u3011",
@@ -105,18 +93,6 @@
     "shortName": "Mozzu",
     "scheduledStartTime": "2024-04-26T17:00:00Z",
     "actualStartTime": "2024-04-26T17:08:13Z",
-    "premiere": false
-  },
-  {
-    "id": "GqmkXrUut3A",
-    "vidUrl": "https://youtu.be/GqmkXrUut3A",
-    "vidTitle": "DO IT FOR THE CONTENT ! ! !",
-    "channelId": "@fuyocloverfield",
-    "channelName": "Fuyo Cloverfield Ch. idol-EN",
-    "channelThumb": "https://yt3.ggpht.com/vqd3NC2ixgsJGUcvuvCIbQ-iDDwb6ESIgj791dJQhJ8gZ6OtG3-C2yzcfVPMPDF3cwU_eVeojHQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Fuyo",
-    "scheduledStartTime": "2024-04-26T17:00:00Z",
-    "actualStartTime": "2024-04-26T17:24:13Z",
     "premiere": false
   },
   {
@@ -2761,19 +2737,6 @@
     "premiere": false
   },
   {
-    "id": "wqUCxeTM4No",
-    "vidUrl": "https://youtu.be/wqUCxeTM4No",
-    "vidTitle": "\u3010Stellar Blade\u3011I can't parry!",
-    "channelId": "@yurarikudou",
-    "channelName": "Yura Rikudou / \u516d\u9053\u30e6\u30e9",
-    "channelThumb": "https://yt3.ggpht.com/yILITMwS2t2HFysY-sKxOFGmrAaQheI4LMzf-ezgCTX9rjPTSJtZQK3E48WTtxtCWinefdwl-g=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Yura",
-    "scheduledStartTime": "2024-04-26T13:00:00Z",
-    "actualStartTime": "2024-04-26T12:57:38Z",
-    "premiere": false
-  },
-  {
     "id": "U1CnjhJS0Jg",
     "vidUrl": "https://youtu.be/U1CnjhJS0Jg",
     "vidTitle": "\u3010Handcam\u3011Crocheting w/ @LidaOriana #zhunisession",
@@ -2784,6 +2747,19 @@
     "shortName": "Zhuni",
     "scheduledStartTime": "2024-04-26T14:00:00Z",
     "actualStartTime": "2024-04-26T14:05:28Z",
+    "premiere": false
+  },
+  {
+    "id": "UgdRmrqZTLg",
+    "vidUrl": "https://youtu.be/UgdRmrqZTLg",
+    "vidTitle": "DAYS WITH OLLIE \ud83d\udc8b",
+    "channelId": "@umikyoku",
+    "channelName": "Umi Kyoku \u3010\u3046\u307f\u304d\u3087\u304f\u3011",
+    "channelThumb": "https://yt3.ggpht.com/swraGRJ-7ukDEjf58l8YghX2KRDuxS2AEW417T7BWmc-NehlFSgYeMftFJ9VuDE43C07xHQLKBA=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Umi",
+    "scheduledStartTime": "2024-04-26T14:00:00Z",
+    "actualStartTime": "2024-04-26T14:19:23Z",
     "premiere": false
   },
   {
@@ -2810,6 +2786,19 @@
     "shortName": "Poko",
     "scheduledStartTime": "2024-04-26T17:00:00Z",
     "actualStartTime": "2024-04-26T17:20:47Z",
+    "premiere": false
+  },
+  {
+    "id": "GqmkXrUut3A",
+    "vidUrl": "https://youtu.be/GqmkXrUut3A",
+    "vidTitle": "DO IT FOR THE CONTENT ! ! !",
+    "channelId": "@fuyocloverfield",
+    "channelName": "Fuyo Cloverfield Ch. idol-EN",
+    "channelThumb": "https://yt3.ggpht.com/vqd3NC2ixgsJGUcvuvCIbQ-iDDwb6ESIgj791dJQhJ8gZ6OtG3-C2yzcfVPMPDF3cwU_eVeojHQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Fuyo",
+    "scheduledStartTime": "2024-04-26T17:00:00Z",
+    "actualStartTime": "2024-04-26T17:24:13Z",
     "premiere": false
   },
   {
