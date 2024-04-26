@@ -367,7 +367,7 @@
     "channelName": "Maid Mint Ch. \u30df\u30f3\u30c8\u30fb\u30d5\u30a1\u30f3\u30c8\u30fc\u30e0",
     "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_mxbJ__S3iWA9yHCK-ABLglmhGfKYmpCZWxxP4D-w4ymQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Mint",
-    "scheduledStartTime": "2024-04-26T23:00:00Z",
+    "scheduledStartTime": "2024-04-26T23:30:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -391,6 +391,18 @@
     "channelName": "Tomoe Carmine Ch. \u30c8\u30e2\u30a8\u30fb\u30ab\u30fc\u30de\u30a4\u30f3\u3010kawaii\u3011",
     "channelThumb": "https://yt3.ggpht.com/eZL22MkBQh4myHNfCyj9pFql_IgFh84HMUYFvw-cp_9jx_RIftFJc_fFNi6YxJ5LhyArJH11PQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Tomoe",
+    "scheduledStartTime": "2024-04-27T00:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "0s6ll0qDssE",
+    "vidUrl": "https://youtu.be/0s6ll0qDssE",
+    "vidTitle": "I am definitely SUS\u3010AMONG US\u3011",
+    "channelId": "@aylayew_ns",
+    "channelName": "Ayla Yew \u3010NexStage Project\u3011",
+    "channelThumb": "https://yt3.ggpht.com/j9b3F_6kPAJQns4jhE4FQN1LCO6mbP6BY2ixZTLHk2r2F0KZsqQ9xBjWI11d9RmeeRsFb7KLO04=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Ayla",
     "scheduledStartTime": "2024-04-27T00:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2592,32 +2604,6 @@
     "shortName": "Reimu",
     "scheduledStartTime": "2024-04-26T16:00:00Z",
     "actualStartTime": "2024-04-26T16:06:59Z",
-    "premiere": false
-  },
-  {
-    "id": "wYqikQKEYpI",
-    "vidUrl": "https://youtu.be/wYqikQKEYpI",
-    "vidTitle": "Shooting my anxiety away (w/ friends) \u3010Valorant\u3011",
-    "channelId": "@ververmillion",
-    "channelName": "Ver Vermillion\u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/QwgUIFhcWKt-yHJ19FqCYelMr9M4fL1JCYuL14ZwdeggK08tKrvqEx9ZU99Tv7HVOaGFA0oPng=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Ver",
-    "scheduledStartTime": "2024-04-26T19:00:00Z",
-    "actualStartTime": "2024-04-26T19:02:36Z",
-    "premiere": false
-  },
-  {
-    "id": "9notbAxTgqI",
-    "vidUrl": "https://youtu.be/9notbAxTgqI",
-    "vidTitle": "[GLOBIE DEBUT WATCHALONG] ITS A BUNNY GIRL #sponsored",
-    "channelId": "@briatcookiebox",
-    "channelName": "BriAtCookiebox",
-    "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_nC7dRnnTDxs3724EZNLjdWAX7n5w7Vpv6hM9ss3dUJ_w=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Bri",
-    "scheduledStartTime": "2024-04-26T19:45:00Z",
-    "actualStartTime": "2024-04-26T19:46:50Z",
     "premiere": false
   },
   {
