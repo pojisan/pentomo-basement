@@ -60,18 +60,6 @@
     "premiere": false
   },
   {
-    "id": "_QJHX0tR1K0",
-    "vidUrl": "https://youtu.be/_QJHX0tR1K0",
-    "vidTitle": "Can I guess a Vtuber's lore base on their design ??",
-    "channelId": "@karrotkeromi",
-    "channelName": "Karrot Keromi Ch. \u30ab\u30ed\u30c3\u30c8 \u30b1\u30ed\u30df\u3010MyHolo TV\u3011",
-    "channelThumb": "https://yt3.ggpht.com/Wbi94uoqulRJCwB_jHN8m7C-TH8gHSts_WhEW4fbC86gFMZPu01qO59X-SvSvl-gts4r5oz99Rg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Karrot",
-    "scheduledStartTime": "2024-04-26T14:00:00Z",
-    "actualStartTime": "2024-04-26T14:01:28Z",
-    "premiere": false
-  },
-  {
     "id": "dnEI6rYstEk",
     "vidUrl": "https://youtu.be/dnEI6rYstEk",
     "vidTitle": "\u3010Let's Crochet\u3011With @ZhuniExcel_NS",
@@ -331,6 +319,18 @@
     "channelName": "Vance Van Creed ch.\u3010globie\u3011",
     "channelThumb": "https://yt3.ggpht.com/fMH-jV4av9c83joWiiU7MKY5MB_hH-1-o1Mnm1UZE6MHeG7Byea8PRBU9x0ONYgn_VTx9qfAtFI=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Vance",
+    "scheduledStartTime": "2024-04-26T18:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "lJW6vswduwc",
+    "vidUrl": "https://youtu.be/lJW6vswduwc",
+    "vidTitle": "[shadows of doubt] she silly on my billy until i",
+    "channelId": "@sayasairroxs",
+    "channelName": "Saya Ch. \u30b5\u30e4\u30fb\u30b5\u30a4\u30ed\u30af\u30b5\u30b9 \u3010Phase Connect\u3011",
+    "channelThumb": "https://yt3.ggpht.com/Sk0YT3dR5xgecNjohKRwTe9mVZsFXMjnhkbbI6JxrnpPN-p-Aw_CAETRK8V9FzP4sFlMLBNTRw=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Saya",
     "scheduledStartTime": "2024-04-26T18:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2881,19 +2881,6 @@
     "shortName": "Mimosa",
     "scheduledStartTime": "2024-04-26T07:00:00Z",
     "actualStartTime": "2024-04-26T07:04:19Z",
-    "premiere": false
-  },
-  {
-    "id": "PksdoSWgvQ4",
-    "vidUrl": "https://youtu.be/PksdoSWgvQ4",
-    "vidTitle": "\u3010MINECRAFT\u3011Help I'm being held hostage by Arashi Nebula! \u3010Hoshizora\u3011",
-    "channelId": "@sorachiskye3861",
-    "channelName": "Sorachi Skye",
-    "channelThumb": "https://yt3.ggpht.com/swY1aHMqySgqyIAiPMuq9zEPhsGHLdtho7jkKMYlPYyxh97Ck75sSmDKolTQPezEoFVGKDXshQ=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Skye",
-    "scheduledStartTime": "2024-04-26T13:00:00Z",
-    "actualStartTime": "2024-04-26T12:59:49Z",
     "premiere": false
   },
   {
