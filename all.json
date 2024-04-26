@@ -48,30 +48,6 @@
     "premiere": false
   },
   {
-    "id": "JUlqsC7phYk",
-    "vidUrl": "https://youtu.be/JUlqsC7phYk",
-    "vidTitle": "The First RKAngel Graduation \ud83d\ude2d\u3010Let's School\u3011",
-    "channelId": "@ritakamishiro",
-    "channelName": "Rita Kamishiro / \u795e\u4ee3\u308a\u305f",
-    "channelThumb": "https://yt3.ggpht.com/6Q-aQrJUJfxK1kynZANlAA5jvdpjD0qqG3jlQFeSeDk8XHtmVjtYq00R0aDNhZiQkaH9dDhWNxM=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Rita",
-    "scheduledStartTime": "2024-04-25T22:00:00Z",
-    "actualStartTime": "2024-04-25T21:57:01Z",
-    "premiere": false
-  },
-  {
-    "id": "kDJbCeZm7Rk",
-    "vidUrl": "https://youtu.be/kDJbCeZm7Rk",
-    "vidTitle": "\u3010THE WITCHER 3\u3011 Fauna is here and she is playing the witcher again | #4",
-    "channelId": "@ceresfauna",
-    "channelName": "Ceres Fauna Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/cBtserkb211p6If2OewgWd8oriIKRkfwTcP4_Vdq2YETG5TK9Q02v4cYmnLU03KBAJ0gcDha7oQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Fauna",
-    "scheduledStartTime": "2024-04-25T22:00:00Z",
-    "actualStartTime": "2024-04-25T22:00:32Z",
-    "premiere": false
-  },
-  {
     "id": "CQP7u-53Ypc",
     "vidUrl": "https://youtu.be/CQP7u-53Ypc",
     "vidTitle": "\u3010PERSONA 3 RELOAD\u3011 BABY BABY BABY BABY BABYYYYYYYYY \u203bspoiler warning \u3010NIJISANJI EN | Elira Pendora\u3011",
@@ -552,18 +528,6 @@
     "premiere": false
   },
   {
-    "id": "mRENOFmJ-dI",
-    "vidUrl": "https://youtu.be/mRENOFmJ-dI",
-    "vidTitle": "\u3010Soma\u3011On Our Way to Omicron PT. 3\u3010NIJISANJI EN | Victoria Brightshield\u3011",
-    "channelId": "@victoriabrightshield",
-    "channelName": "Victoria Brightshield \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/m5YHCdJM_v2kid17kOVWr59fddjYgfMfd25GEuGGXQaV_57y7l7mD2sV62TmWKIXeD1sVuy4Rek=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Vivi",
-    "scheduledStartTime": "2024-04-26T03:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "44_pSrfoPW4",
     "vidUrl": "https://youtu.be/44_pSrfoPW4",
     "vidTitle": "\u3010Cult of the Lamb\u3011 My loyal subjects need my constant guidance",
@@ -572,6 +536,18 @@
     "channelThumb": "https://yt3.ggpht.com/yBYtwbzSuAJeF6wFyn8SsRj0SltRG3AwX05tcUO39OrcF4G9Bt5HPbuM5dKW56XfI8OLFWyQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Kaylex",
     "scheduledStartTime": "2024-04-26T03:00:18Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "mRENOFmJ-dI",
+    "vidUrl": "https://youtu.be/mRENOFmJ-dI",
+    "vidTitle": "\u3010Soma\u3011On Our Way to Omicron PT. 3\u3010NIJISANJI EN | Victoria Brightshield\u3011",
+    "channelId": "@victoriabrightshield",
+    "channelName": "Victoria Brightshield \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/m5YHCdJM_v2kid17kOVWr59fddjYgfMfd25GEuGGXQaV_57y7l7mD2sV62TmWKIXeD1sVuy4Rek=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Vivi",
+    "scheduledStartTime": "2024-04-26T03:15:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -3051,6 +3027,32 @@
     "shortName": "Airi",
     "scheduledStartTime": "2024-04-25T21:00:00Z",
     "actualStartTime": "2024-04-25T21:01:47Z",
+    "premiere": false
+  },
+  {
+    "id": "JUlqsC7phYk",
+    "vidUrl": "https://youtu.be/JUlqsC7phYk",
+    "vidTitle": "The First RKAngel Graduation \ud83d\ude2d\u3010Let's School\u3011",
+    "channelId": "@ritakamishiro",
+    "channelName": "Rita Kamishiro / \u795e\u4ee3\u308a\u305f",
+    "channelThumb": "https://yt3.ggpht.com/6Q-aQrJUJfxK1kynZANlAA5jvdpjD0qqG3jlQFeSeDk8XHtmVjtYq00R0aDNhZiQkaH9dDhWNxM=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Rita",
+    "scheduledStartTime": "2024-04-25T22:00:00Z",
+    "actualStartTime": "2024-04-25T21:57:01Z",
+    "premiere": false
+  },
+  {
+    "id": "kDJbCeZm7Rk",
+    "vidUrl": "https://youtu.be/kDJbCeZm7Rk",
+    "vidTitle": "\u3010THE WITCHER 3\u3011 Fauna is here and she is playing the witcher again | #4",
+    "channelId": "@ceresfauna",
+    "channelName": "Ceres Fauna Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/cBtserkb211p6If2OewgWd8oriIKRkfwTcP4_Vdq2YETG5TK9Q02v4cYmnLU03KBAJ0gcDha7oQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Fauna",
+    "scheduledStartTime": "2024-04-25T22:00:00Z",
+    "actualStartTime": "2024-04-25T22:00:32Z",
     "premiere": false
   },
   {
