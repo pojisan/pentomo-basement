@@ -31,8 +31,8 @@
     "channelName": "Vox Akuma\u3010NIJISANJI EN\u3011",
     "channelThumb": "https://yt3.ggpht.com/wmFEylEWSzThPd3-AIufbxVP-_JOTI8ru_Pf1JI8RQ2Af4EoPDUXpT7n22PXl6m_vAq8p28lxw=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Vox",
-    "scheduledStartTime": "2024-04-26T11:00:00Z",
-    "actualStartTime": "",
+    "scheduledStartTime": "2024-04-26T11:21:38Z",
+    "actualStartTime": "2024-04-26T11:21:46Z",
     "premiere": false
   },
   {
@@ -1063,6 +1063,18 @@
     "channelName": "Zumi Dokumi Ch. \u3010EIEN Project\u3011",
     "channelThumb": "https://yt3.ggpht.com/Rfw0lIyzSK0w6oeZ0tcfzM_VdJNo4PFEBZ4vrhVvZBtylWWoKxKpu6HHSAd1_jcy7-LlZVEBC1g=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Zumi",
+    "scheduledStartTime": "2024-04-27T01:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "CBZvui5R2mU",
+    "vidUrl": "https://youtu.be/CBZvui5R2mU",
+    "vidTitle": "LILY IS SO DAMN CUTE [Stellar Blade] Part 2",
+    "channelId": "@ginimercury",
+    "channelName": "Roza Coatl Ch.",
+    "channelThumb": "https://yt3.ggpht.com/J_RmocTP4ficzRZ6AFtUiEXoekNfliyRQcber2EXH-nBkNjhci71GaeNHsp4gzLMZs14HZ1U6WQ=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Roza",
     "scheduledStartTime": "2024-04-27T01:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2328,6 +2340,30 @@
     "premiere": false
   },
   {
+    "id": "NaBZM2YK9u0",
+    "vidUrl": "https://youtu.be/NaBZM2YK9u0",
+    "vidTitle": "\u3010COVER\u3011A Little Pain - Nana by Olivia Lufkin \u3010Taring Hu | globie\u3011",
+    "channelId": "@taringhu",
+    "channelName": "Taring Hu ch. \u30bf\u30ea\u30f3\u30d5\u30fc\u3010globie\u3011",
+    "channelThumb": "https://yt3.ggpht.com/ZVYdvQBa9q2BLWfDnqUrpJD16c5Tr0vGoXjvBFgydUvA1XKt1cuJPT8aMM6bSE_MtPFQVwaQYA=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Hu",
+    "scheduledStartTime": "2024-04-29T14:00:00Z",
+    "actualStartTime": "",
+    "premiere": true
+  },
+  {
+    "id": "2RuIPlW8DXU",
+    "vidUrl": "https://youtu.be/2RuIPlW8DXU",
+    "vidTitle": "\u3010COVER\u3011Kuroi Namida - Nana by Anna Tsuchiya\u3010 Reina Ronronea | globie\u3011",
+    "channelId": "@reinaronronea",
+    "channelName": "Reina Ronronea ch. \u3010globie\u3011",
+    "channelThumb": "https://yt3.ggpht.com/MOmaBB08GVq5lIY13WTEtrmqB8l2Nwald3Y_XLd28nmqQTOdbgHgQFkiItRLn79KWLevOiurgg=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Reina",
+    "scheduledStartTime": "2024-04-29T14:05:00Z",
+    "actualStartTime": "",
+    "premiere": true
+  },
+  {
     "id": "I5YJigu0gpo",
     "vidUrl": "https://youtu.be/I5YJigu0gpo",
     "vidTitle": "\u3010STELLAR BLADE\u3011LET'S FREAKING GOOOO [P1]",
@@ -2737,19 +2773,6 @@
     "premiere": false
   },
   {
-    "id": "tTctMsJI4pM",
-    "vidUrl": "https://youtu.be/tTctMsJI4pM",
-    "vidTitle": "Schedules are for LOSERS\u3010UNDERTALE\u3011",
-    "channelId": "@airiviridis",
-    "channelName": "Airi Viridis Ch. \u3010V-Dere\u3011",
-    "channelThumb": "https://yt3.ggpht.com/hr4djvNbGuwQ5f6fID5xc6hY5sYgWPMw02AbbvKDKxPvMdlhk3FTXFbdexF_I5KHe9RizOg2ZQ=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Airi",
-    "scheduledStartTime": "2024-04-25T21:00:00Z",
-    "actualStartTime": "2024-04-25T21:01:47Z",
-    "premiere": false
-  },
-  {
     "id": "hHd98I4T4Bw",
     "vidUrl": "https://youtu.be/hHd98I4T4Bw",
     "vidTitle": "\u3010The Stanley Parable\u3011Finding the escape...?",
@@ -2786,19 +2809,6 @@
     "shortName": "Mimosa",
     "scheduledStartTime": "2024-04-26T00:00:00Z",
     "actualStartTime": "2024-04-26T00:04:45Z",
-    "premiere": false
-  },
-  {
-    "id": "foPZGSsNHBM",
-    "vidUrl": "https://youtu.be/foPZGSsNHBM",
-    "vidTitle": "5 WINS AWAY FROM MASTERS!? WE WILL RECLAIM IT!!!! PART 21",
-    "channelId": "@asterarcadia",
-    "channelName": "Aster Arcadia \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/PfyW7HnjCKF15WfzvFBLo_vx94y_tZw_jpnjku0GyvZnynSODh2E9aJ0Vi1mlc3R8sF_hXNl-g=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Aster",
-    "scheduledStartTime": "2024-04-26T02:00:00Z",
-    "actualStartTime": "2024-04-26T02:03:26Z",
     "premiere": false
   },
   {
@@ -2851,19 +2861,6 @@
     "shortName": "Roza",
     "scheduledStartTime": "2024-04-26T03:45:00Z",
     "actualStartTime": "2024-04-26T03:50:01Z",
-    "premiere": false
-  },
-  {
-    "id": "sPiPMkp6MqE",
-    "vidUrl": "https://youtu.be/sPiPMkp6MqE",
-    "vidTitle": "\u3010Stardew valley\u3011  #4 \u5996\u7cbe\u306e\u8fb2\u5712\u30e9\u30a4\u30d5\ud83c\udf31 \u3010\u306b\u3058\u3055\u3093\u3058 | \u30bb\u30d5\u30a3\u30ca\u3011",
-    "channelId": "@seffyna",
-    "channelName": "\u30bb\u30d5\u30a3\u30ca / Seffyna\u3010\u306b\u3058\u3055\u3093\u3058\u3011",
-    "channelThumb": "https://yt3.ggpht.com/0QDtmroClBOCB8eZSOVWlGObtXc7wf8tk-USsyvw5nY-i_IE8xsxebzGBzD5OfHGlNBICUmgDg=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Seffyna",
-    "scheduledStartTime": "2024-04-26T04:00:00Z",
-    "actualStartTime": "2024-04-26T03:59:26Z",
     "premiere": false
   },
   {
