@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "6L3d-9gUTGA",
-    "vidUrl": "https://youtu.be/6L3d-9gUTGA",
-    "vidTitle": "\u270f\ufe0f\u3010ART STREAM\u3011LET'S CREATE!!\u3010Yume+ | Raein Clowd\u3011",
-    "channelId": "@raeinclowd",
-    "channelName": "Raein Clowd \u3010Yume+\u3011",
-    "channelThumb": "https://yt3.ggpht.com/TJhoA7sWUEEW6PIYSsiV--qB2se4lgHL24gTVby9CNmfn7eKkQ5zAXJow9N5TEUX82iBKv1YoA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Raein",
-    "scheduledStartTime": "2024-04-25T22:00:00Z",
-    "actualStartTime": "2024-04-25T21:55:36Z",
-    "premiere": false
-  },
-  {
     "id": "ucoBwE7p3cg",
     "vidUrl": "https://youtu.be/ucoBwE7p3cg",
     "vidTitle": "First Time Soulslike \u2502 Another Crab's Treasure",
@@ -212,7 +200,7 @@
     "channelThumb": "https://yt3.ggpht.com/h1zo_a1jH1dSzn3tZkWFSb-VWzkzcGDaXNNuhXsg1ZXfqZv85UUSwYQAOvPwTHxtW56WhbbyQg=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Tomo",
     "scheduledStartTime": "2024-04-26T04:30:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-26T04:30:26Z",
     "premiere": false
   },
   {
@@ -2749,6 +2737,19 @@
     "premiere": false
   },
   {
+    "id": "6L3d-9gUTGA",
+    "vidUrl": "https://youtu.be/6L3d-9gUTGA",
+    "vidTitle": "\u270f\ufe0f\u3010ART STREAM\u3011LET'S CREATE!!\u3010Yume+ | Raein Clowd\u3011",
+    "channelId": "@raeinclowd",
+    "channelName": "Raein Clowd \u3010Yume+\u3011",
+    "channelThumb": "https://yt3.ggpht.com/TJhoA7sWUEEW6PIYSsiV--qB2se4lgHL24gTVby9CNmfn7eKkQ5zAXJow9N5TEUX82iBKv1YoA=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Raein",
+    "scheduledStartTime": "2024-04-25T22:00:00Z",
+    "actualStartTime": "2024-04-25T21:55:36Z",
+    "premiere": false
+  },
+  {
     "id": "xByz8k2UXPM",
     "vidUrl": "https://youtu.be/xByz8k2UXPM",
     "vidTitle": "\u3010PENGUIN VTUBERS TAKEOVER\u3011We gaming on World Penguin Day!\u3010Pippa Pebblesworth\u3011",
@@ -2798,19 +2799,6 @@
     "shortName": "Mimosa",
     "scheduledStartTime": "2024-04-26T00:00:00Z",
     "actualStartTime": "2024-04-26T00:04:45Z",
-    "premiere": false
-  },
-  {
-    "id": "fkZ2KO0tEHI",
-    "vidUrl": "https://youtu.be/fkZ2KO0tEHI",
-    "vidTitle": "Teach Me How To WHM! (never played non dps...) \u3010FFXIV: A REALM REBORN Pt1\u3011",
-    "channelId": "@navinanova",
-    "channelName": "Navina Nova Ch. \u30ca\u30d3\u30ca\u30fb\u30ce\u30d0\u3010kawaii\u3011",
-    "channelThumb": "https://yt3.ggpht.com/sCQGR1Y8wiQjjms1_B6cyWhgkxRccJRKEUH3ayCYmS-BIYzogqpeyUDP2j-_mC3gvm_8_6bp4g=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Nano",
-    "scheduledStartTime": "2024-04-26T01:00:00Z",
-    "actualStartTime": "2024-04-26T01:11:28Z",
     "premiere": false
   },
   {
