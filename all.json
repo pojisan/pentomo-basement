@@ -132,18 +132,6 @@
     "premiere": false
   },
   {
-    "id": "gCYXKgYcFmk",
-    "vidUrl": "https://youtu.be/gCYXKgYcFmk",
-    "vidTitle": "\u3010FUWAMOCO MORNING\u3011episode 90: special guest KOYORI ver! \ud83d\udc3e #FWMCMORNING #FUWAMOKOYO",
-    "channelId": "@fuwamococh",
-    "channelName": "FUWAMOCO Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/zt63obGOD6fnCX0elnzt8xkylqOTnAENmSCKmwg_PSiC857DDgB28kEjQ-FJlWGtNYZ9lqzEag=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "FWMC",
-    "scheduledStartTime": "2024-04-26T15:00:00Z",
-    "actualStartTime": "2024-04-26T14:55:13Z",
-    "premiere": false
-  },
-  {
     "id": "ea8HZTqxWnQ",
     "vidUrl": "https://youtu.be/ea8HZTqxWnQ",
     "vidTitle": "\u3010Unachieved Karaoke\u3011Lalala time with Ala\u3010Alicja Da Lontano | Globie Gen 2 Solstia\u3011",
@@ -189,6 +177,18 @@
     "shortName": "Hex",
     "scheduledStartTime": "2024-04-26T15:30:00Z",
     "actualStartTime": "2024-04-26T15:34:58Z",
+    "premiere": false
+  },
+  {
+    "id": "GO1jemJVO78",
+    "vidUrl": "https://youtu.be/GO1jemJVO78",
+    "vidTitle": "\u3010BALDUR'S GATE 3 P.4\u3011 she Baldur on my Gate until I p4",
+    "channelId": "@kunainakasato",
+    "channelName": "Kunai Nakasato \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/cpOrgCDSmgMO9mNbftd8UKAtsZwIGRCV5t5EmjoQ2FcP-W3N7s6S4UUc_Daz24qjDnBxrTEBrtQ=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Kunai",
+    "scheduledStartTime": "2024-04-26T16:00:00Z",
+    "actualStartTime": "",
     "premiere": false
   },
   {
@@ -1063,6 +1063,18 @@
     "channelName": "FUWAMOCO Ch. hololive-EN",
     "channelThumb": "https://yt3.ggpht.com/zt63obGOD6fnCX0elnzt8xkylqOTnAENmSCKmwg_PSiC857DDgB28kEjQ-FJlWGtNYZ9lqzEag=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "FWMC",
+    "scheduledStartTime": "2024-04-27T01:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "ie5YJBjUpy4",
+    "vidUrl": "https://youtu.be/ie5YJBjUpy4",
+    "vidTitle": "A difficult game about climbing but I'm fighting for my life here",
+    "channelId": "@lutoaraka",
+    "channelName": "Luto Araka / \u65b0\u706b\u308b\u3068",
+    "channelThumb": "https://yt3.ggpht.com/UZmWl3fIe_v7qhM55yXH8edIqTpU79srADtXWiZUDlSBV-HW5JvlB7af06sfg2FC2tR6YF8pEw=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Luto",
     "scheduledStartTime": "2024-04-27T01:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2834,32 +2846,6 @@
     "shortName": "Mimosa",
     "scheduledStartTime": "2024-04-26T07:00:00Z",
     "actualStartTime": "2024-04-26T07:04:19Z",
-    "premiere": false
-  },
-  {
-    "id": "1QFFYTmzntw",
-    "vidUrl": "https://youtu.be/1QFFYTmzntw",
-    "vidTitle": "\u3010HELLDIVERS 2\u3011When in doubt, don't think just dive! | COLLAB\u3010VOLs\u3011",
-    "channelId": "@angycatto_vols",
-    "channelName": "Angy Catto - VOLs",
-    "channelThumb": "https://yt3.ggpht.com/QmtGoU3n-jCQAj1gfC6hKg-PiFlyGTW-sz1HZJZlV8Av1Kdial8AJphIpJD7ywQWtUuVgyjo=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Angy",
-    "scheduledStartTime": "2024-04-26T12:00:00Z",
-    "actualStartTime": "2024-04-26T12:01:34Z",
-    "premiere": false
-  },
-  {
-    "id": "QgZ0a9Ju82U",
-    "vidUrl": "https://youtu.be/QgZ0a9Ju82U",
-    "vidTitle": "Ren plays MARIO GALAXY \u3010NIJISANJI EN | Ren Zotto\u3011",
-    "channelId": "@renzotto",
-    "channelName": "Ren Zotto \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/9-JRRUNPn8SanGWeg4zEEqqK14niqROhgUKzAkvuBAx1sOCcTSpG18-uQTn87w0EaH1l9emGCw=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Ren",
-    "scheduledStartTime": "2024-04-26T13:00:00Z",
-    "actualStartTime": "2024-04-26T12:57:55Z",
     "premiere": false
   },
   {
