@@ -48,18 +48,6 @@
     "premiere": false
   },
   {
-    "id": "J3MOOuVJCqA",
-    "vidUrl": "https://youtu.be/J3MOOuVJCqA",
-    "vidTitle": "\u3010ANIMAL CROSSING\u3011LANDSCAPING AND DECORATING TIME FINALLY\u3010NIJISANJI EN | Vantacrow Bringer\u3011",
-    "channelId": "@vantacrowbringer",
-    "channelName": "Vantacrow Bringer \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/GLPkvp_8o7OvZ3q57IpqDSHIyv6OqZFK6tO1egzLoMjE19EBlo3tISEMIOLEvkC5jnl2Uus93A=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Vanta",
-    "scheduledStartTime": "2024-04-26T04:45:00Z",
-    "actualStartTime": "2024-04-26T04:45:39Z",
-    "premiere": false
-  },
-  {
     "id": "uGImyPXFZTU",
     "vidUrl": "https://youtu.be/uGImyPXFZTU",
     "vidTitle": "\u3010TEKKEN 8 RANKED\u3011im not gonna sugarcoat it\u3010NIJISANJI EN | Vox Akuma\u3011",
@@ -249,6 +237,19 @@
     "shortName": "Seffyna",
     "scheduledStartTime": "2024-05-02T11:00:00Z",
     "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "J3MOOuVJCqA",
+    "vidUrl": "https://youtu.be/J3MOOuVJCqA",
+    "vidTitle": "\u3010ANIMAL CROSSING\u3011LANDSCAPING AND DECORATING TIME FINALLY\u3010NIJISANJI EN | Vantacrow Bringer\u3011",
+    "channelId": "@vantacrowbringer",
+    "channelName": "Vantacrow Bringer \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/GLPkvp_8o7OvZ3q57IpqDSHIyv6OqZFK6tO1egzLoMjE19EBlo3tISEMIOLEvkC5jnl2Uus93A=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Vanta",
+    "scheduledStartTime": "2024-04-26T04:45:00Z",
+    "actualStartTime": "2024-04-26T04:45:39Z",
     "premiere": false
   }
 ]
