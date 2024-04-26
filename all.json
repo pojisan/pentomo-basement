@@ -84,18 +84,6 @@
     "premiere": false
   },
   {
-    "id": "zqh4rwaIP_s",
-    "vidUrl": "https://youtu.be/zqh4rwaIP_s",
-    "vidTitle": "\u3010STARDEW COLLAB\u3011*Animal Farm Reference* w/ @isaboatvtuber \u3010EIEN Project\u3011",
-    "channelId": "@zumidokumi",
-    "channelName": "Zumi Dokumi Ch. \u3010EIEN Project\u3011",
-    "channelThumb": "https://yt3.ggpht.com/Rfw0lIyzSK0w6oeZ0tcfzM_VdJNo4PFEBZ4vrhVvZBtylWWoKxKpu6HHSAd1_jcy7-LlZVEBC1g=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Zumi",
-    "scheduledStartTime": "2024-04-25T22:00:00Z",
-    "actualStartTime": "2024-04-25T22:05:17Z",
-    "premiere": false
-  },
-  {
     "id": "l8UbE68UGKU",
     "vidUrl": "https://youtu.be/l8UbE68UGKU",
     "vidTitle": "\u3010SAND LAND\u3011Launch day!!\u3010Dokibird\u3011",
@@ -312,15 +300,27 @@
     "premiere": false
   },
   {
-    "id": "1wTXoZBqT30",
-    "vidUrl": "https://youtu.be/1wTXoZBqT30",
-    "vidTitle": "\u3010SCHOOL LABYRINTH COLLAB\u3011big test of courage \u6016\u304c\u308a\u756a\u72ac\u306e\u809d\u8a66\u3057 \ud83d\udc3e #holoAdvent\u3010\u8ff7\u5bae\u6821\u820e\u3011",
-    "channelId": "@fuwamococh",
-    "channelName": "FUWAMOCO Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/zt63obGOD6fnCX0elnzt8xkylqOTnAENmSCKmwg_PSiC857DDgB28kEjQ-FJlWGtNYZ9lqzEag=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "FWMC",
+    "id": "k2tk8mkYn_8",
+    "vidUrl": "https://youtu.be/k2tk8mkYn_8",
+    "vidTitle": "First Time Hacking the Theater w/ @ChiakiKatsumi \u3010MIKI HITSUGI | SPECIALITE\u3011#mik1tv",
+    "channelId": "@mikihitsugi",
+    "channelName": "Miki Hitsugi | Specialite EN",
+    "channelThumb": "https://yt3.ggpht.com/7YT74XmVpX9ySRWPf2hpfLz_m8fdW-xfK32LMvmGPo0U3gNiCf3G5PaemNK6eKV0Ex5POa3GrlE=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Migi",
     "scheduledStartTime": "2024-04-26T01:00:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-26T00:51:05Z",
+    "premiere": false
+  },
+  {
+    "id": "JlE957dE_2M",
+    "vidUrl": "https://youtu.be/JlE957dE_2M",
+    "vidTitle": "Let the Show Begin!\u3010BattleBlock Theater\u3011",
+    "channelId": "@chiakikatsumi",
+    "channelName": "Chiaki Katsumi Ch.\u3010PixelLink\u3011",
+    "channelThumb": "https://yt3.ggpht.com/0fSRWqUeKcBNJeZX33wkdct45WIDQd0CxMX2Faq80kSDKsvsuk2Nma-sBkzGYT2QjqCXCk4S9sU=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Chiaki",
+    "scheduledStartTime": "2024-04-26T01:00:00Z",
+    "actualStartTime": "2024-04-26T00:51:07Z",
     "premiere": false
   },
   {
@@ -332,7 +332,43 @@
     "channelThumb": "https://yt3.ggpht.com/JDCIBWj11TgjY2Uyba_efZ0n5hzjysMB9GxkvHGkIN_sfFQJR5mx3iVPqgJ96IPcYjZpCLsb=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Nerissa",
     "scheduledStartTime": "2024-04-26T01:00:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-26T00:55:08Z",
+    "premiere": false
+  },
+  {
+    "id": "my87gsZMW5s",
+    "vidUrl": "https://youtu.be/my87gsZMW5s",
+    "vidTitle": "\u3010School Labyrinth/\u8ff7\u5bae\u6821\u820e\u3011WAKEY WAKEY, TIME FOR SCHOOL (#holoadvent)",
+    "channelId": "@kosekibijou",
+    "channelName": "Koseki Bijou Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/75xH5tujXTVPHlQXask8_qTbOeyq0BY4hKxNfvgTrsuqhK_oActrFV197roYikUNZhzayfiLmg=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Biboo",
+    "scheduledStartTime": "2024-04-26T01:00:00Z",
+    "actualStartTime": "2024-04-26T00:55:18Z",
+    "premiere": false
+  },
+  {
+    "id": "1wTXoZBqT30",
+    "vidUrl": "https://youtu.be/1wTXoZBqT30",
+    "vidTitle": "\u3010SCHOOL LABYRINTH COLLAB\u3011big test of courage \u6016\u304c\u308a\u756a\u72ac\u306e\u809d\u8a66\u3057 \ud83d\udc3e #holoAdvent\u3010\u8ff7\u5bae\u6821\u820e\u3011",
+    "channelId": "@fuwamococh",
+    "channelName": "FUWAMOCO Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/zt63obGOD6fnCX0elnzt8xkylqOTnAENmSCKmwg_PSiC857DDgB28kEjQ-FJlWGtNYZ9lqzEag=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "FWMC",
+    "scheduledStartTime": "2024-04-26T01:00:00Z",
+    "actualStartTime": "2024-04-26T00:55:36Z",
+    "premiere": false
+  },
+  {
+    "id": "hrDSYSEOLd0",
+    "vidUrl": "https://youtu.be/hrDSYSEOLd0",
+    "vidTitle": "Japanese Horror Where Anatomical Dolls Want Your Organs\u3010School Labyrinth\u3011#holoadvent",
+    "channelId": "@shiorinovella",
+    "channelName": "Shiori Novella Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/ZlovVsPyh8NgS37S4dfONiCBySiboGPbT9cYuirb8JM3JhSnqlpJk-8SQUEA7jPfqXpMvjaa=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Shiori",
+    "scheduledStartTime": "2024-04-26T01:00:00Z",
+    "actualStartTime": "2024-04-26T00:55:52Z",
     "premiere": false
   },
   {
@@ -343,18 +379,6 @@
     "channelName": "Nia Suzune / \u9234\u97f3\u306b\u3042\u3010Requiem\u3011",
     "channelThumb": "https://yt3.ggpht.com/EZIsXrouGx2aOmLFm39j_fLbX-5XSqIZZN20OHosxCvZbrjXFAk9z_GBWk1B4jaafizyAjTDBPY=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Nia",
-    "scheduledStartTime": "2024-04-26T01:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "JlE957dE_2M",
-    "vidUrl": "https://youtu.be/JlE957dE_2M",
-    "vidTitle": "Let the Show Begin!\u3010BattleBlock Theater\u3011",
-    "channelId": "@chiakikatsumi",
-    "channelName": "Chiaki Katsumi Ch.\u3010PixelLink\u3011",
-    "channelThumb": "https://yt3.ggpht.com/0fSRWqUeKcBNJeZX33wkdct45WIDQd0CxMX2Faq80kSDKsvsuk2Nma-sBkzGYT2QjqCXCk4S9sU=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Chiaki",
     "scheduledStartTime": "2024-04-26T01:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -408,26 +432,14 @@
     "premiere": false
   },
   {
-    "id": "k2tk8mkYn_8",
-    "vidUrl": "https://youtu.be/k2tk8mkYn_8",
-    "vidTitle": "First Time Hacking the Theater w/ @ChiakiKatsumi \u3010MIKI HITSUGI | SPECIALITE\u3011#mik1tv",
-    "channelId": "@mikihitsugi",
-    "channelName": "Miki Hitsugi | Specialite EN",
-    "channelThumb": "https://yt3.ggpht.com/7YT74XmVpX9ySRWPf2hpfLz_m8fdW-xfK32LMvmGPo0U3gNiCf3G5PaemNK6eKV0Ex5POa3GrlE=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Migi",
-    "scheduledStartTime": "2024-04-26T01:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "my87gsZMW5s",
-    "vidUrl": "https://youtu.be/my87gsZMW5s",
-    "vidTitle": "\u3010School Labyrinth/\u8ff7\u5bae\u6821\u820e\u3011WAKEY WAKEY, TIME FOR SCHOOL (#holoadvent)",
-    "channelId": "@kosekibijou",
-    "channelName": "Koseki Bijou Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/75xH5tujXTVPHlQXask8_qTbOeyq0BY4hKxNfvgTrsuqhK_oActrFV197roYikUNZhzayfiLmg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Biboo",
-    "scheduledStartTime": "2024-04-26T01:00:00Z",
+    "id": "KqIcy9bn_zQ",
+    "vidUrl": "https://youtu.be/KqIcy9bn_zQ",
+    "vidTitle": "(more) jump map training... (\u2565\ufe4f\u2565)",
+    "channelId": "@surivnu",
+    "channelName": "Suri Solari Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/VaElIFntfdnsdEWcuX4b3ZB6JpT8YmhAr7Tf-2h80TO_ygsd8OxSf1TgZjtSpwt6K26DwgloNg=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Suri",
+    "scheduledStartTime": "2024-04-26T01:30:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -1164,6 +1176,18 @@
     "premiere": false
   },
   {
+    "id": "-mh-1_jtZ2w",
+    "vidUrl": "https://youtu.be/-mh-1_jtZ2w",
+    "vidTitle": "40k Celebration Karaoke!!!",
+    "channelId": "@inamiyokich",
+    "channelName": "Inami Yoki Ch.",
+    "channelThumb": "https://yt3.ggpht.com/vCtnJzYIQZi4DtDvSMyEpWdolmNJoIzlO4YD0036Tm2-sRRYRjPNL0xikMCq2Q8p4hqcAKaY9V4=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Yoki",
+    "scheduledStartTime": "2024-04-26T22:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "UdNW5PKffbs",
     "vidUrl": "https://youtu.be/UdNW5PKffbs",
     "vidTitle": "\u3010CUPHEAD\u3011But if I mald I end the stream",
@@ -1195,18 +1219,6 @@
     "channelName": "Chiyo Moberi \u3010CIESTE\u3011",
     "channelThumb": "https://yt3.ggpht.com/rCQWrIhA0g-D2eraOSkn9GkzKGYNjnUmuTi1SBXQzChsbdYoicnz-OA8swsYORrrvrQer2YhTDI=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Chiyo",
-    "scheduledStartTime": "2024-04-26T22:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "xGL2yf_XPzM",
-    "vidUrl": "https://youtu.be/xGL2yf_XPzM",
-    "vidTitle": "Come send me your Maros! (w/ H.R Monitor)",
-    "channelId": "@inamiyokich",
-    "channelName": "Inami Yoki Ch.",
-    "channelThumb": "https://yt3.ggpht.com/vCtnJzYIQZi4DtDvSMyEpWdolmNJoIzlO4YD0036Tm2-sRRYRjPNL0xikMCq2Q8p4hqcAKaY9V4=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Yoki",
     "scheduledStartTime": "2024-04-26T22:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2004,18 +2016,6 @@
     "premiere": false
   },
   {
-    "id": "URYhIaAP0Hs",
-    "vidUrl": "https://youtu.be/URYhIaAP0Hs",
-    "vidTitle": "Join me in the Sunflower Field~",
-    "channelId": "@inamiyokich",
-    "channelName": "Inami Yoki Ch.",
-    "channelThumb": "https://yt3.ggpht.com/vCtnJzYIQZi4DtDvSMyEpWdolmNJoIzlO4YD0036Tm2-sRRYRjPNL0xikMCq2Q8p4hqcAKaY9V4=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Yoki",
-    "scheduledStartTime": "2024-04-27T22:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "lrwT16zWn0Y",
     "vidUrl": "https://youtu.be/lrwT16zWn0Y",
     "vidTitle": "\u3010HANDCAM\u3011Rilakkuma Sewing Kits!!! + Kiiroitori, Korilakkuma\u3010Ran Tsukiha | Production kawaii\u3011",
@@ -2035,6 +2035,18 @@
     "channelName": "Zumi Dokumi Ch. \u3010EIEN Project\u3011",
     "channelThumb": "https://yt3.ggpht.com/Rfw0lIyzSK0w6oeZ0tcfzM_VdJNo4PFEBZ4vrhVvZBtylWWoKxKpu6HHSAd1_jcy7-LlZVEBC1g=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Zumi",
+    "scheduledStartTime": "2024-04-27T22:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "xGL2yf_XPzM",
+    "vidUrl": "https://youtu.be/xGL2yf_XPzM",
+    "vidTitle": "Come send me your Maros! (w/ H.R Monitor)",
+    "channelId": "@inamiyokich",
+    "channelName": "Inami Yoki Ch.",
+    "channelThumb": "https://yt3.ggpht.com/vCtnJzYIQZi4DtDvSMyEpWdolmNJoIzlO4YD0036Tm2-sRRYRjPNL0xikMCq2Q8p4hqcAKaY9V4=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Yoki",
     "scheduledStartTime": "2024-04-27T22:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2470,6 +2482,18 @@
     "scheduledStartTime": "2024-04-28T22:00:00Z",
     "actualStartTime": "",
     "premiere": true
+  },
+  {
+    "id": "URYhIaAP0Hs",
+    "vidUrl": "https://youtu.be/URYhIaAP0Hs",
+    "vidTitle": "Join me in the Sunflower Field~",
+    "channelId": "@inamiyokich",
+    "channelName": "Inami Yoki Ch.",
+    "channelThumb": "https://yt3.ggpht.com/vCtnJzYIQZi4DtDvSMyEpWdolmNJoIzlO4YD0036Tm2-sRRYRjPNL0xikMCq2Q8p4hqcAKaY9V4=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Yoki",
+    "scheduledStartTime": "2024-04-28T22:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
   },
   {
     "id": "oIGV0Yotyq0",
@@ -3067,16 +3091,16 @@
     "premiere": false
   },
   {
-    "id": "vx89AWHwlnU",
-    "vidUrl": "https://youtu.be/vx89AWHwlnU",
-    "vidTitle": "Sister Group? Senbatsu?\u3010OtaBi\u3011\u3010Ran Tsukiha | Production kawaii\u3011",
-    "channelId": "@rantsukiha",
-    "channelName": "Ran Tsukiha Ch. \u6708\u8776\u862d\u3010kawaii\u3011",
-    "channelThumb": "https://yt3.ggpht.com/T30qwb0jUMNHh6WY7ZUjsFZKTP9hoPyZO4d4Knvf22uj_1DV5xvkK-ReGlX8zeshgoQeOmWovg=s88-c-k-c0x00ffffff-no-rj",
+    "id": "zqh4rwaIP_s",
+    "vidUrl": "https://youtu.be/zqh4rwaIP_s",
+    "vidTitle": "\u3010STARDEW COLLAB\u3011*Animal Farm Reference* w/ @isaboatvtuber \u3010EIEN Project\u3011",
+    "channelId": "@zumidokumi",
+    "channelName": "Zumi Dokumi Ch. \u3010EIEN Project\u3011",
+    "channelThumb": "https://yt3.ggpht.com/Rfw0lIyzSK0w6oeZ0tcfzM_VdJNo4PFEBZ4vrhVvZBtylWWoKxKpu6HHSAd1_jcy7-LlZVEBC1g=s88-c-k-c0x00ffffff-no-rj",
     "graveyard": true,
-    "shortName": "Ran",
-    "scheduledStartTime": "2024-04-25T22:30:00Z",
-    "actualStartTime": "2024-04-25T22:30:31Z",
+    "shortName": "Zumi",
+    "scheduledStartTime": "2024-04-25T22:00:00Z",
+    "actualStartTime": "2024-04-25T22:05:17Z",
     "premiere": false
   },
   {
@@ -3349,19 +3373,6 @@
     "graveyard": true,
     "shortName": "Hades",
     "scheduledStartTime": "2024-04-19T00:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "-mh-1_jtZ2w",
-    "vidUrl": "https://youtu.be/-mh-1_jtZ2w",
-    "vidTitle": "40k Celebration Karaoke!!!",
-    "channelId": "@inamiyokich",
-    "channelName": "Inami Yoki Ch.",
-    "channelThumb": "https://yt3.ggpht.com/vCtnJzYIQZi4DtDvSMyEpWdolmNJoIzlO4YD0036Tm2-sRRYRjPNL0xikMCq2Q8p4hqcAKaY9V4=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Yoki",
-    "scheduledStartTime": "2024-04-25T22:00:00Z",
     "actualStartTime": "",
     "premiere": false
   }
