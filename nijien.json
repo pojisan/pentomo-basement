@@ -36,18 +36,6 @@
     "premiere": false
   },
   {
-    "id": "44HvXqwuJao",
-    "vidUrl": "https://youtu.be/44HvXqwuJao",
-    "vidTitle": "HONKAI STAR RAIL Part 3",
-    "channelId": "@scarleyonaguni",
-    "channelName": "Scarle Yonaguni \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/oYEH8ckOxzEJ0GXlZGp4aSxvZrMWAeodRUg_MRgHqJEr7bEyjXdoC5VyYZ143XtcIKUozhQq6Q=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Scarle",
-    "scheduledStartTime": "2024-04-26T02:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "foPZGSsNHBM",
     "vidUrl": "https://youtu.be/foPZGSsNHBM",
     "vidTitle": "5 WINS AWAY FROM MASTERS!? WE WILL RECLAIM IT!!!! PART 21",
@@ -55,6 +43,18 @@
     "channelName": "Aster Arcadia \u3010NIJISANJI EN\u3011",
     "channelThumb": "https://yt3.ggpht.com/PfyW7HnjCKF15WfzvFBLo_vx94y_tZw_jpnjku0GyvZnynSODh2E9aJ0Vi1mlc3R8sF_hXNl-g=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Aster",
+    "scheduledStartTime": "2024-04-26T02:00:00Z",
+    "actualStartTime": "2024-04-26T02:03:26Z",
+    "premiere": false
+  },
+  {
+    "id": "44HvXqwuJao",
+    "vidUrl": "https://youtu.be/44HvXqwuJao",
+    "vidTitle": "HONKAI STAR RAIL Part 3",
+    "channelId": "@scarleyonaguni",
+    "channelName": "Scarle Yonaguni \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/oYEH8ckOxzEJ0GXlZGp4aSxvZrMWAeodRUg_MRgHqJEr7bEyjXdoC5VyYZ143XtcIKUozhQq6Q=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Scarle",
     "scheduledStartTime": "2024-04-26T02:00:00Z",
     "actualStartTime": "",
     "premiere": false
