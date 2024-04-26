@@ -84,42 +84,6 @@
     "premiere": false
   },
   {
-    "id": "pptNsXan-sg",
-    "vidUrl": "https://youtu.be/pptNsXan-sg",
-    "vidTitle": "\u3010REVERSE:1999\u3011BRI'ISH *COUGH* PEOPLE \u3010globie | Kiri Kilovolt\u3011",
-    "channelId": "@kirikilovolt",
-    "channelName": "Kiri Kilovolt ch.\u3010globie\u3011",
-    "channelThumb": "https://yt3.ggpht.com/3051xmWYegQ0FaTgkb_KBuGTU9HKARThukYKBIaR9_lgSxl0Y3HXQxI9eNgntoYbNqY-6zj9xw=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Kiri",
-    "scheduledStartTime": "2024-04-26T18:00:00Z",
-    "actualStartTime": "2024-04-26T17:56:02Z",
-    "premiere": false
-  },
-  {
-    "id": "q9uQysA7aBg",
-    "vidUrl": "https://youtu.be/q9uQysA7aBg",
-    "vidTitle": "THE FACTORY MUST GROW! \u2699 Playing FACTORIO for the FIRST TIME!!\u3010Bonnie Barkswell / globie\u3011",
-    "channelId": "@bonniebarkswell",
-    "channelName": "Bonnie Barkswell ch.\u3010globie\u3011",
-    "channelThumb": "https://yt3.ggpht.com/1Yr43WjJSo9wCJBUQKdroLYbA3y_0M3P-kKHksJRfu7Z5vas2CRGR6OL1b9e_hQUEy9qXpFdRQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Bonnie",
-    "scheduledStartTime": "2024-04-26T18:00:00Z",
-    "actualStartTime": "2024-04-26T17:56:55Z",
-    "premiere": false
-  },
-  {
-    "id": "H-cXJ-xy7x8",
-    "vidUrl": "https://youtu.be/H-cXJ-xy7x8",
-    "vidTitle": "\u3010Fatal frame| P.1\u3011IKZ!\u3010V&U | GEN4\u3011#fatalframe #shortsfeed #shorts #shortsgaming #shortslive",
-    "channelId": "@dkvnu",
-    "channelName": "D.K Graves Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/eLNO3hNUzmagTyaDMrJsEEL_MPotkeZh0N4uxccEYYmc2z-J93O5XGOmfTS5MwzNYRTDxgUCOg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "DK",
-    "scheduledStartTime": "2024-04-26T18:00:00Z",
-    "actualStartTime": "2024-04-26T18:03:59Z",
-    "premiere": false
-  },
-  {
     "id": "Hh_ywgfc5Xo",
     "vidUrl": "https://youtu.be/Hh_ywgfc5Xo",
     "vidTitle": "PLEASE DON'T CURSE ME... (First Dark Souls playthrough)",
@@ -236,7 +200,7 @@
     "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_nC7dRnnTDxs3724EZNLjdWAX7n5w7Vpv6hM9ss3dUJ_w=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Bri",
     "scheduledStartTime": "2024-04-26T19:45:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-26T19:46:50Z",
     "premiere": false
   },
   {
@@ -415,6 +379,18 @@
     "channelName": "Chiyo Moberi \u3010CIESTE\u3011",
     "channelThumb": "https://yt3.ggpht.com/rCQWrIhA0g-D2eraOSkn9GkzKGYNjnUmuTi1SBXQzChsbdYoicnz-OA8swsYORrrvrQer2YhTDI=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Chiyo",
+    "scheduledStartTime": "2024-04-26T22:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "qsVV8p9Emac",
+    "vidUrl": "https://youtu.be/qsVV8p9Emac",
+    "vidTitle": "\ud83e\udd28Is The BRAND NEW FANSERVICE SOULSLIKE Actually GOOD?\ud83e\udd28",
+    "channelId": "@maevevnu",
+    "channelName": "Maeve Kagekiri Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/chqWD1VyGO8YdOq75KWxKvH0RcBMayDUlmtDeO9Btb__V9Zr-ow3CSoiOfhE3SrynzSC9J8=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Maeve",
     "scheduledStartTime": "2024-04-26T22:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2688,6 +2664,45 @@
     "shortName": "Echo Lyne",
     "scheduledStartTime": "2024-04-26T16:00:00Z",
     "actualStartTime": "2024-04-26T16:00:10Z",
+    "premiere": false
+  },
+  {
+    "id": "pptNsXan-sg",
+    "vidUrl": "https://youtu.be/pptNsXan-sg",
+    "vidTitle": "\u3010REVERSE:1999\u3011BRI'ISH *COUGH* PEOPLE \u3010globie | Kiri Kilovolt\u3011",
+    "channelId": "@kirikilovolt",
+    "channelName": "Kiri Kilovolt ch.\u3010globie\u3011",
+    "channelThumb": "https://yt3.ggpht.com/3051xmWYegQ0FaTgkb_KBuGTU9HKARThukYKBIaR9_lgSxl0Y3HXQxI9eNgntoYbNqY-6zj9xw=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Kiri",
+    "scheduledStartTime": "2024-04-26T18:00:00Z",
+    "actualStartTime": "2024-04-26T17:56:02Z",
+    "premiere": false
+  },
+  {
+    "id": "q9uQysA7aBg",
+    "vidUrl": "https://youtu.be/q9uQysA7aBg",
+    "vidTitle": "THE FACTORY MUST GROW! \u2699 Playing FACTORIO for the FIRST TIME!!\u3010Bonnie Barkswell / globie\u3011",
+    "channelId": "@bonniebarkswell",
+    "channelName": "Bonnie Barkswell ch.\u3010globie\u3011",
+    "channelThumb": "https://yt3.ggpht.com/1Yr43WjJSo9wCJBUQKdroLYbA3y_0M3P-kKHksJRfu7Z5vas2CRGR6OL1b9e_hQUEy9qXpFdRQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Bonnie",
+    "scheduledStartTime": "2024-04-26T18:00:00Z",
+    "actualStartTime": "2024-04-26T17:56:55Z",
+    "premiere": false
+  },
+  {
+    "id": "H-cXJ-xy7x8",
+    "vidUrl": "https://youtu.be/H-cXJ-xy7x8",
+    "vidTitle": "\u3010Fatal frame| P.1\u3011IKZ!\u3010V&U | GEN4\u3011#fatalframe #shortsfeed #shorts #shortsgaming #shortslive",
+    "channelId": "@dkvnu",
+    "channelName": "D.K Graves Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/eLNO3hNUzmagTyaDMrJsEEL_MPotkeZh0N4uxccEYYmc2z-J93O5XGOmfTS5MwzNYRTDxgUCOg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "DK",
+    "scheduledStartTime": "2024-04-26T18:00:00Z",
+    "actualStartTime": "2024-04-26T18:03:59Z",
     "premiere": false
   },
   {
