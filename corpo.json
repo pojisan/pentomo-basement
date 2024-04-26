@@ -1,17 +1,5 @@
 [
   {
-    "id": "wqUCxeTM4No",
-    "vidUrl": "https://youtu.be/wqUCxeTM4No",
-    "vidTitle": "\u3010Stellar Blade\u3011I can't parry!",
-    "channelId": "@yurarikudou",
-    "channelName": "Yura Rikudou / \u516d\u9053\u30e6\u30e9",
-    "channelThumb": "https://yt3.ggpht.com/yILITMwS2t2HFysY-sKxOFGmrAaQheI4LMzf-ezgCTX9rjPTSJtZQK3E48WTtxtCWinefdwl-g=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Yura",
-    "scheduledStartTime": "2024-04-26T13:00:00Z",
-    "actualStartTime": "2024-04-26T12:57:38Z",
-    "premiere": false
-  },
-  {
     "id": "UgdRmrqZTLg",
     "vidUrl": "https://youtu.be/UgdRmrqZTLg",
     "vidTitle": "DAYS WITH OLLIE \ud83d\udc8b",
@@ -93,18 +81,6 @@
     "shortName": "Mozzu",
     "scheduledStartTime": "2024-04-26T17:00:00Z",
     "actualStartTime": "2024-04-26T17:08:13Z",
-    "premiere": false
-  },
-  {
-    "id": "oRPyxzZDdgM",
-    "vidUrl": "https://youtu.be/oRPyxzZDdgM",
-    "vidTitle": "We're Going Viral",
-    "channelId": "@rakunpoko",
-    "channelName": "Poko Rakun Ch. idol-EN",
-    "channelThumb": "https://yt3.ggpht.com/ma1Az7kp5ye3ZWtR9IGoFcWEVQ6ReN8VugO_PGP6qokwj430zQKuR9Uo_L5N3gCVTWsH_vQT1w=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Poko",
-    "scheduledStartTime": "2024-04-26T17:00:00Z",
-    "actualStartTime": "2024-04-26T17:20:47Z",
     "premiere": false
   },
   {
@@ -2784,6 +2760,19 @@
     "premiere": false
   },
   {
+    "id": "wqUCxeTM4No",
+    "vidUrl": "https://youtu.be/wqUCxeTM4No",
+    "vidTitle": "\u3010Stellar Blade\u3011I can't parry!",
+    "channelId": "@yurarikudou",
+    "channelName": "Yura Rikudou / \u516d\u9053\u30e6\u30e9",
+    "channelThumb": "https://yt3.ggpht.com/yILITMwS2t2HFysY-sKxOFGmrAaQheI4LMzf-ezgCTX9rjPTSJtZQK3E48WTtxtCWinefdwl-g=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Yura",
+    "scheduledStartTime": "2024-04-26T13:00:00Z",
+    "actualStartTime": "2024-04-26T12:57:38Z",
+    "premiere": false
+  },
+  {
     "id": "U1CnjhJS0Jg",
     "vidUrl": "https://youtu.be/U1CnjhJS0Jg",
     "vidTitle": "\u3010Handcam\u3011Crocheting w/ @LidaOriana #zhunisession",
@@ -2807,6 +2796,19 @@
     "shortName": "Echo Lyne",
     "scheduledStartTime": "2024-04-26T16:00:00Z",
     "actualStartTime": "2024-04-26T16:00:10Z",
+    "premiere": false
+  },
+  {
+    "id": "oRPyxzZDdgM",
+    "vidUrl": "https://youtu.be/oRPyxzZDdgM",
+    "vidTitle": "We're Going Viral",
+    "channelId": "@rakunpoko",
+    "channelName": "Poko Rakun Ch. idol-EN",
+    "channelThumb": "https://yt3.ggpht.com/ma1Az7kp5ye3ZWtR9IGoFcWEVQ6ReN8VugO_PGP6qokwj430zQKuR9Uo_L5N3gCVTWsH_vQT1w=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Poko",
+    "scheduledStartTime": "2024-04-26T17:00:00Z",
+    "actualStartTime": "2024-04-26T17:20:47Z",
     "premiere": false
   }
 ]
