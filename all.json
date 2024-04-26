@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "Oei1Va2haN8",
-    "vidUrl": "https://youtu.be/Oei1Va2haN8",
-    "vidTitle": "\u3010\u65e5\u672c\u8a9e\u52c9\u5f37\u3011\u9811\u5f35\u308a\u307e\u3059\uff01\u3010NIJISANJI EN | Vezalius Bandage\u3011",
-    "channelId": "@vezaliusbandage",
-    "channelName": "Vezalius Bandage \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/rnqrntYI1y38pqQeqYAmX3_gG1vZ-iYeMGHY0nCC-lxqKdoBspKriRXzMPv7PByMydEYm9YvvzU=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Zali",
-    "scheduledStartTime": "2024-04-26T13:00:00Z",
-    "actualStartTime": "2024-04-26T13:01:39Z",
-    "premiere": false
-  },
-  {
     "id": "UgdRmrqZTLg",
     "vidUrl": "https://youtu.be/UgdRmrqZTLg",
     "vidTitle": "DAYS WITH OLLIE \ud83d\udc8b",
@@ -48,18 +36,6 @@
     "premiere": false
   },
   {
-    "id": "giWQJo1Bx5I",
-    "vidUrl": "https://youtu.be/giWQJo1Bx5I",
-    "vidTitle": "\u3010\u6df1\u591c\u96d1\u8ac7\u3011\u5bdd\u308b\u524d\u306b\u6d77\u5916VTUBER\u3068\u96d1\u8ac7\u3057\u307e\u305b\u3093\u304b`\u239a\u2a4a\u239a\u00b4 -\u2727 KOHALLO JAPAN! Morning Japanese Practice Zatsu\u3010\u7e26\u578b\u914d\u4fe1\u3011",
-    "channelId": "@kohakuyumekui",
-    "channelName": "Kohaku Yumekui Ch. \u5922\u55b0\u5df1\u767d\u3010kawaii\u3011",
-    "channelThumb": "https://yt3.ggpht.com/Tz6Hm43Exb8k5sGZ7DRbucOkivDD4w7FU78_bPV69vWM47zCAODykYVo76pwXqry2b1DI1HI=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Kohaku",
-    "scheduledStartTime": "2024-04-26T15:00:00Z",
-    "actualStartTime": "2024-04-26T15:02:02Z",
-    "premiere": false
-  },
-  {
     "id": "Nv9fthYzZ5A",
     "vidUrl": "https://youtu.be/Nv9fthYzZ5A",
     "vidTitle": "[Gaming] Let's Chat with Yagami Noah\uff5cVTuber /GTA5 in Street Junkies\u3010GTA5\u3011\u65e5\u672c\u8a9e/PC",
@@ -69,18 +45,6 @@
     "shortName": "Noah",
     "scheduledStartTime": "2024-04-26T15:10:00Z",
     "actualStartTime": "2024-04-26T15:11:26Z",
-    "premiere": false
-  },
-  {
-    "id": "2B0pWTHnxbM",
-    "vidUrl": "https://youtu.be/2B0pWTHnxbM",
-    "vidTitle": "daddy's home ft. usher",
-    "channelId": "@hexhaywire",
-    "channelName": "Hex Haywire\u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/krG1d8TvRL7GUoOsXXTUpuFQkgpRQkpx8402WzitwxFZOVz8z6UqsPsoUOERJkuJ8FLqQi0Gpg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Hex",
-    "scheduledStartTime": "2024-04-26T15:30:00Z",
-    "actualStartTime": "2024-04-26T15:34:58Z",
     "premiere": false
   },
   {
@@ -2847,6 +2811,19 @@
     "premiere": false
   },
   {
+    "id": "Oei1Va2haN8",
+    "vidUrl": "https://youtu.be/Oei1Va2haN8",
+    "vidTitle": "\u3010\u65e5\u672c\u8a9e\u52c9\u5f37\u3011\u9811\u5f35\u308a\u307e\u3059\uff01\u3010NIJISANJI EN | Vezalius Bandage\u3011",
+    "channelId": "@vezaliusbandage",
+    "channelName": "Vezalius Bandage \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/rnqrntYI1y38pqQeqYAmX3_gG1vZ-iYeMGHY0nCC-lxqKdoBspKriRXzMPv7PByMydEYm9YvvzU=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Zali",
+    "scheduledStartTime": "2024-04-26T13:00:00Z",
+    "actualStartTime": "2024-04-26T13:01:39Z",
+    "premiere": false
+  },
+  {
     "id": "U1CnjhJS0Jg",
     "vidUrl": "https://youtu.be/U1CnjhJS0Jg",
     "vidTitle": "\u3010Handcam\u3011Crocheting w/ @LidaOriana #zhunisession",
@@ -2857,6 +2834,32 @@
     "shortName": "Zhuni",
     "scheduledStartTime": "2024-04-26T14:00:00Z",
     "actualStartTime": "2024-04-26T14:05:28Z",
+    "premiere": false
+  },
+  {
+    "id": "giWQJo1Bx5I",
+    "vidUrl": "https://youtu.be/giWQJo1Bx5I",
+    "vidTitle": "\u3010\u6df1\u591c\u96d1\u8ac7\u3011\u5bdd\u308b\u524d\u306b\u6d77\u5916VTUBER\u3068\u96d1\u8ac7\u3057\u307e\u305b\u3093\u304b`\u239a\u2a4a\u239a\u00b4 -\u2727 KOHALLO JAPAN! Morning Japanese Practice Zatsu\u3010\u7e26\u578b\u914d\u4fe1\u3011",
+    "channelId": "@kohakuyumekui",
+    "channelName": "Kohaku Yumekui Ch. \u5922\u55b0\u5df1\u767d\u3010kawaii\u3011",
+    "channelThumb": "https://yt3.ggpht.com/Tz6Hm43Exb8k5sGZ7DRbucOkivDD4w7FU78_bPV69vWM47zCAODykYVo76pwXqry2b1DI1HI=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Kohaku",
+    "scheduledStartTime": "2024-04-26T15:00:00Z",
+    "actualStartTime": "2024-04-26T15:02:02Z",
+    "premiere": false
+  },
+  {
+    "id": "2B0pWTHnxbM",
+    "vidUrl": "https://youtu.be/2B0pWTHnxbM",
+    "vidTitle": "daddy's home ft. usher",
+    "channelId": "@hexhaywire",
+    "channelName": "Hex Haywire\u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/krG1d8TvRL7GUoOsXXTUpuFQkgpRQkpx8402WzitwxFZOVz8z6UqsPsoUOERJkuJ8FLqQi0Gpg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Hex",
+    "scheduledStartTime": "2024-04-26T15:30:00Z",
+    "actualStartTime": "2024-04-26T15:34:58Z",
     "premiere": false
   },
   {
