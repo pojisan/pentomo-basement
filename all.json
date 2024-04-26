@@ -1,29 +1,5 @@
 [
   {
-    "id": "ea8HZTqxWnQ",
-    "vidUrl": "https://youtu.be/ea8HZTqxWnQ",
-    "vidTitle": "\u3010Unachieved Karaoke\u3011Lalala time with Ala\u3010Alicja Da Lontano | Globie Gen 2 Solstia\u3011",
-    "channelId": "@alicjadalontano",
-    "channelName": "Alicja Da Lontano ch. \u3010globie\u3011",
-    "channelThumb": "https://yt3.ggpht.com/gzyLsLIzbobRRYT_QkfMKISqY-RpzLfOowj5T61s2UDXRoHEespSbXR68cikE96P2RKpsWOeM1Q=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Alicja",
-    "scheduledStartTime": "2024-04-26T15:00:00Z",
-    "actualStartTime": "2024-04-26T14:59:05Z",
-    "premiere": false
-  },
-  {
-    "id": "ZPa6SaqIEvQ",
-    "vidUrl": "https://youtu.be/ZPa6SaqIEvQ",
-    "vidTitle": "\u3010Honkai Star Rail | AVENTURINEEE\u3011AVENTURINEESS HEEERREE!!!\u3010Sarugaku Leon Jr. | Globie\u3011",
-    "channelId": "@sarugakuleonjr",
-    "channelName": "Sarugaku Leon Jr. ch.\u3010globie\u3011",
-    "channelThumb": "https://yt3.ggpht.com/e13waaN0PPXE8TcWvHVMp8fRRU8JsEeplaZBMPTsNUW_iknS32QkIgFkiKtwweKBCFUZMPnj=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Leon",
-    "scheduledStartTime": "2024-04-26T16:00:00Z",
-    "actualStartTime": "2024-04-26T16:00:29Z",
-    "premiere": false
-  },
-  {
     "id": "XDK9z-cMRMY",
     "vidUrl": "https://youtu.be/XDK9z-cMRMY",
     "vidTitle": "\u3010ANOTHER CRAB'S TREASURE\u3011New Soulslike: Crab mode activate!",
@@ -57,30 +33,6 @@
     "shortName": "Katta",
     "scheduledStartTime": "2024-04-26T16:00:00Z",
     "actualStartTime": "2024-04-26T16:08:47Z",
-    "premiere": false
-  },
-  {
-    "id": "RFs9GODpRZ8",
-    "vidUrl": "https://youtu.be/RFs9GODpRZ8",
-    "vidTitle": "\u3010Zatsu\u3011Whats Hot this Season\u3010globie 2nd Gen - Equinnox\u3011",
-    "channelId": "@vancevancreed",
-    "channelName": "Vance Van Creed ch.\u3010globie\u3011",
-    "channelThumb": "https://yt3.ggpht.com/fMH-jV4av9c83joWiiU7MKY5MB_hH-1-o1Mnm1UZE6MHeG7Byea8PRBU9x0ONYgn_VTx9qfAtFI=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Vance",
-    "scheduledStartTime": "2024-04-26T17:57:29Z",
-    "actualStartTime": "2024-04-26T17:57:39Z",
-    "premiere": false
-  },
-  {
-    "id": "w4HTH63hvRg",
-    "vidUrl": "https://youtu.be/w4HTH63hvRg",
-    "vidTitle": "\u3010Fatal frame| P.1\u3011IKZ!\u3010V&U | GEN4\u3011#fatalframe #fatalframe5",
-    "channelId": "@dkvnu",
-    "channelName": "D.K Graves Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/eLNO3hNUzmagTyaDMrJsEEL_MPotkeZh0N4uxccEYYmc2z-J93O5XGOmfTS5MwzNYRTDxgUCOg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "DK",
-    "scheduledStartTime": "2024-04-26T18:00:00Z",
-    "actualStartTime": "2024-04-26T17:51:30Z",
     "premiere": false
   },
   {
@@ -204,6 +156,18 @@
     "premiere": false
   },
   {
+    "id": "ocn_uyM_MX8",
+    "vidUrl": "https://youtu.be/ocn_uyM_MX8",
+    "vidTitle": "\u3010HANDCAM\u3011Non Newtonian Soup.\u3010Dr.NOVA(e) | V4Mirai | ENVtuber\u3011",
+    "channelId": "@drnovae",
+    "channelName": "Dr.NOVA(e) Ch.\u3010V4Mirai\u3011",
+    "channelThumb": "https://yt3.ggpht.com/Q5uPSXLX-UaT7iQ1VRWbehhySRrtvEcWEA-ey6HfpVmHlZSz5zUrlC9g5UQuNfsgO5UOjJfI_Q=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Novae",
+    "scheduledStartTime": "2024-04-26T20:00:00Z",
+    "actualStartTime": "2024-04-26T20:00:12Z",
+    "premiere": false
+  },
+  {
     "id": "dE66rzNy_lY",
     "vidUrl": "https://youtu.be/dE66rzNy_lY",
     "vidTitle": "\ud83d\udca5\u3010SMASH\u3011COLLAB W/CHRIS TALUS\u3010Yume+ | Raein Clowd\u3011",
@@ -212,7 +176,7 @@
     "channelThumb": "https://yt3.ggpht.com/TJhoA7sWUEEW6PIYSsiV--qB2se4lgHL24gTVby9CNmfn7eKkQ5zAXJow9N5TEUX82iBKv1YoA=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Raein",
     "scheduledStartTime": "2024-04-26T20:00:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-26T20:03:30Z",
     "premiere": false
   },
   {
@@ -223,20 +187,8 @@
     "channelName": "Rhubarb N. Kustard ch.\u3010globie\u3011",
     "channelThumb": "https://yt3.ggpht.com/tW_Dt1Vla7zmaEr0m3JFlqIJohGHaahQUC7Bhg4SQhk9gLbfbXdJPrH4WnwRDMYbHmXJMLDrxg=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Rhubarb",
-    "scheduledStartTime": "2024-04-26T20:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "ocn_uyM_MX8",
-    "vidUrl": "https://youtu.be/ocn_uyM_MX8",
-    "vidTitle": "\u3010HANDCAM\u3011Non Newtonian Soup.\u3010Dr.NOVA(e) | V4Mirai | ENVtuber\u3011",
-    "channelId": "@drnovae",
-    "channelName": "Dr.NOVA(e) Ch.\u3010V4Mirai\u3011",
-    "channelThumb": "https://yt3.ggpht.com/Q5uPSXLX-UaT7iQ1VRWbehhySRrtvEcWEA-ey6HfpVmHlZSz5zUrlC9g5UQuNfsgO5UOjJfI_Q=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Novae",
-    "scheduledStartTime": "2024-04-26T20:00:00Z",
-    "actualStartTime": "",
+    "scheduledStartTime": "2024-04-26T20:01:07Z",
+    "actualStartTime": "2024-04-26T20:01:44Z",
     "premiere": false
   },
   {
@@ -2664,6 +2616,32 @@
     "shortName": "Echo Lyne",
     "scheduledStartTime": "2024-04-26T16:00:00Z",
     "actualStartTime": "2024-04-26T16:00:10Z",
+    "premiere": false
+  },
+  {
+    "id": "ZPa6SaqIEvQ",
+    "vidUrl": "https://youtu.be/ZPa6SaqIEvQ",
+    "vidTitle": "\u3010Honkai Star Rail | AVENTURINEEE\u3011AVENTURINEESS HEEERREE!!!\u3010Sarugaku Leon Jr. | Globie\u3011",
+    "channelId": "@sarugakuleonjr",
+    "channelName": "Sarugaku Leon Jr. ch.\u3010globie\u3011",
+    "channelThumb": "https://yt3.ggpht.com/e13waaN0PPXE8TcWvHVMp8fRRU8JsEeplaZBMPTsNUW_iknS32QkIgFkiKtwweKBCFUZMPnj=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Leon",
+    "scheduledStartTime": "2024-04-26T16:00:00Z",
+    "actualStartTime": "2024-04-26T16:00:29Z",
+    "premiere": false
+  },
+  {
+    "id": "RFs9GODpRZ8",
+    "vidUrl": "https://youtu.be/RFs9GODpRZ8",
+    "vidTitle": "\u3010Zatsu\u3011Whats Hot this Season\u3010globie 2nd Gen - Equinnox\u3011",
+    "channelId": "@vancevancreed",
+    "channelName": "Vance Van Creed ch.\u3010globie\u3011",
+    "channelThumb": "https://yt3.ggpht.com/fMH-jV4av9c83joWiiU7MKY5MB_hH-1-o1Mnm1UZE6MHeG7Byea8PRBU9x0ONYgn_VTx9qfAtFI=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Vance",
+    "scheduledStartTime": "2024-04-26T17:57:29Z",
+    "actualStartTime": "2024-04-26T17:57:39Z",
     "premiere": false
   },
   {
