@@ -24,18 +24,6 @@
     "premiere": false
   },
   {
-    "id": "mRENOFmJ-dI",
-    "vidUrl": "https://youtu.be/mRENOFmJ-dI",
-    "vidTitle": "\u3010Soma\u3011On Our Way to Omicron PT. 3\u3010NIJISANJI EN | Victoria Brightshield\u3011",
-    "channelId": "@victoriabrightshield",
-    "channelName": "Victoria Brightshield \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/m5YHCdJM_v2kid17kOVWr59fddjYgfMfd25GEuGGXQaV_57y7l7mD2sV62TmWKIXeD1sVuy4Rek=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Vivi",
-    "scheduledStartTime": "2024-04-26T03:15:00Z",
-    "actualStartTime": "2024-04-26T03:17:03Z",
-    "premiere": false
-  },
-  {
     "id": "YmeB-8UeQ9g",
     "vidUrl": "https://youtu.be/YmeB-8UeQ9g",
     "vidTitle": "I LOVE Shift Up (almost as much as i love Women) [Stellar Blade] Part 1",
@@ -2776,6 +2764,19 @@
     "shortName": "Lorelai",
     "scheduledStartTime": "2024-04-26T03:00:00Z",
     "actualStartTime": "2024-04-26T03:00:23Z",
+    "premiere": false
+  },
+  {
+    "id": "mRENOFmJ-dI",
+    "vidUrl": "https://youtu.be/mRENOFmJ-dI",
+    "vidTitle": "\u3010Soma\u3011On Our Way to Omicron PT. 3\u3010NIJISANJI EN | Victoria Brightshield\u3011",
+    "channelId": "@victoriabrightshield",
+    "channelName": "Victoria Brightshield \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/m5YHCdJM_v2kid17kOVWr59fddjYgfMfd25GEuGGXQaV_57y7l7mD2sV62TmWKIXeD1sVuy4Rek=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Vivi",
+    "scheduledStartTime": "2024-04-26T03:15:00Z",
+    "actualStartTime": "2024-04-26T03:17:03Z",
     "premiere": false
   },
   {
