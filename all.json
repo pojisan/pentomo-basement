@@ -60,18 +60,6 @@
     "premiere": false
   },
   {
-    "id": "U1CnjhJS0Jg",
-    "vidUrl": "https://youtu.be/U1CnjhJS0Jg",
-    "vidTitle": "\u3010Handcam\u3011Crocheting w/ @LidaOriana #zhunisession",
-    "channelId": "@zhuniexcel_ns",
-    "channelName": "Zhuni Excel\u3010NexStage Project\u3011",
-    "channelThumb": "https://yt3.ggpht.com/ASECFzLfCvbb1ZpfSXbamj37Nx2LMdVl_mQWiUkqFydEjBSjuv2iqFJOmGLEzSzV1BdjRikA5Mo=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Zhuni",
-    "scheduledStartTime": "2024-04-26T14:00:00Z",
-    "actualStartTime": "2024-04-26T14:05:28Z",
-    "premiere": false
-  },
-  {
     "id": "UgdRmrqZTLg",
     "vidUrl": "https://youtu.be/UgdRmrqZTLg",
     "vidTitle": "DAYS WITH OLLIE \ud83d\udc8b",
@@ -153,18 +141,6 @@
     "shortName": "Kunai",
     "scheduledStartTime": "2024-04-26T16:00:00Z",
     "actualStartTime": "2024-04-26T15:59:17Z",
-    "premiere": false
-  },
-  {
-    "id": "k-woTAVWBeM",
-    "vidUrl": "https://youtu.be/k-woTAVWBeM",
-    "vidTitle": "GUERRILLA! \uff61\uff65\uff9f\uff9f\uff65 Short Zatsu + TTS! \uff65\uff9f\uff9f\uff65\uff61",
-    "channelId": "@echovnu",
-    "channelName": "Echo Lyne Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/GXeZ1UMgOyI-peaWarT6IrEjhqilp90c7VnxBbAvFx2oy-wKlJMJnBR1m3oi2pwqryx8OwSk5A=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Echo Lyne",
-    "scheduledStartTime": "2024-04-26T16:00:00Z",
-    "actualStartTime": "2024-04-26T16:00:10Z",
     "premiere": false
   },
   {
@@ -1620,6 +1596,18 @@
     "premiere": false
   },
   {
+    "id": "mXoboiaQ0c8",
+    "vidUrl": "https://youtu.be/mXoboiaQ0c8",
+    "vidTitle": "The Ghost and the Tanuki! Interviewing My Senpai @CyonVNU !\u3010TiaTime for Two\u3011",
+    "channelId": "@spectravnu",
+    "channelName": "Spectra Libitina Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/vJEi9jvzwANF4rzrVugBrJ2CumIsI3pGN68Bap-eEXSqZbp-hNpLAdqSwSIqmgqhHUbbdUzrR-w=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Spectra",
+    "scheduledStartTime": "2024-04-27T18:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "-uBmM7tcd3o",
     "vidUrl": "https://youtu.be/-uBmM7tcd3o",
     "vidTitle": "MEMBERS OPEN! I'll draw YOU!",
@@ -2928,6 +2916,32 @@
     "shortName": "Mimosa",
     "scheduledStartTime": "2024-04-26T07:00:00Z",
     "actualStartTime": "2024-04-26T07:04:19Z",
+    "premiere": false
+  },
+  {
+    "id": "U1CnjhJS0Jg",
+    "vidUrl": "https://youtu.be/U1CnjhJS0Jg",
+    "vidTitle": "\u3010Handcam\u3011Crocheting w/ @LidaOriana #zhunisession",
+    "channelId": "@zhuniexcel_ns",
+    "channelName": "Zhuni Excel\u3010NexStage Project\u3011",
+    "channelThumb": "https://yt3.ggpht.com/ASECFzLfCvbb1ZpfSXbamj37Nx2LMdVl_mQWiUkqFydEjBSjuv2iqFJOmGLEzSzV1BdjRikA5Mo=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Zhuni",
+    "scheduledStartTime": "2024-04-26T14:00:00Z",
+    "actualStartTime": "2024-04-26T14:05:28Z",
+    "premiere": false
+  },
+  {
+    "id": "k-woTAVWBeM",
+    "vidUrl": "https://youtu.be/k-woTAVWBeM",
+    "vidTitle": "GUERRILLA! \uff61\uff65\uff9f\uff9f\uff65 Short Zatsu + TTS! \uff65\uff9f\uff9f\uff65\uff61",
+    "channelId": "@echovnu",
+    "channelName": "Echo Lyne Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/GXeZ1UMgOyI-peaWarT6IrEjhqilp90c7VnxBbAvFx2oy-wKlJMJnBR1m3oi2pwqryx8OwSk5A=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Echo Lyne",
+    "scheduledStartTime": "2024-04-26T16:00:00Z",
+    "actualStartTime": "2024-04-26T16:00:10Z",
     "premiere": false
   },
   {
