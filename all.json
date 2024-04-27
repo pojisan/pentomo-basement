@@ -36,18 +36,6 @@
     "premiere": false
   },
   {
-    "id": "TsOqByQczFU",
-    "vidUrl": "https://youtu.be/TsOqByQczFU",
-    "vidTitle": "\u3010OW2\u3011First collab w/ (babu-)Senpai!\u3010globie 2nd Gen - Equinnox\u3011",
-    "channelId": "@hyoumakohaku",
-    "channelName": "Kohaku Hyouma ch.\u3010globie\u3011",
-    "channelThumb": "https://yt3.ggpht.com/aFRvJ_IOkDdIvUEZYAwAR1tp-uRyO9WYycjXA13_NiRawAMJTIDgOa3Ih0ypNuW9yrEwa8gRYA4=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Hyouma",
-    "scheduledStartTime": "2024-04-27T00:00:00Z",
-    "actualStartTime": "2024-04-27T00:01:25Z",
-    "premiere": false
-  },
-  {
     "id": "3xc6RTbLWIc",
     "vidUrl": "https://youtu.be/3xc6RTbLWIc",
     "vidTitle": "\u3010ALIEN: ISOLATION\u3011Is This a Dating Sim?\u3010Yumi The Witch | V4Mirai | ENVtuber\u3011",
@@ -2016,6 +2004,19 @@
     "shortName": "Boomi",
     "scheduledStartTime": "2024-04-26T22:00:00Z",
     "actualStartTime": "2024-04-26T22:23:03Z",
+    "premiere": false
+  },
+  {
+    "id": "TsOqByQczFU",
+    "vidUrl": "https://youtu.be/TsOqByQczFU",
+    "vidTitle": "\u3010OW2\u3011First collab w/ (babu-)Senpai!\u3010globie 2nd Gen - Equinnox\u3011",
+    "channelId": "@hyoumakohaku",
+    "channelName": "Kohaku Hyouma ch.\u3010globie\u3011",
+    "channelThumb": "https://yt3.ggpht.com/aFRvJ_IOkDdIvUEZYAwAR1tp-uRyO9WYycjXA13_NiRawAMJTIDgOa3Ih0ypNuW9yrEwa8gRYA4=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Hyouma",
+    "scheduledStartTime": "2024-04-27T00:00:00Z",
+    "actualStartTime": "2024-04-27T00:01:25Z",
     "premiere": false
   },
   {
