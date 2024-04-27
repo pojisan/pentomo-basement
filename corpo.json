@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "Q8Ow2VrsktI",
-    "vidUrl": "https://youtu.be/Q8Ow2VrsktI",
-    "vidTitle": "\u30101K Celebration\u3011Let's party and open your Marshmallows!",
-    "channelId": "@arialyuriko",
-    "channelName": "Arial Yuriko Ch. [VReverie]",
-    "channelThumb": "https://yt3.ggpht.com/IU2v8OvK9p2KPE6Udi-AxcHpDdRmZ8ixovTLb3dDzCahVLSuIc4iKBKNd5LE6lFvlgUfTIHi=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Arial",
-    "scheduledStartTime": "2024-04-27T17:00:00Z",
-    "actualStartTime": "2024-04-27T16:56:11Z",
-    "premiere": false
-  },
-  {
     "id": "JHTbcfEfHQM",
     "vidUrl": "https://youtu.be/JHTbcfEfHQM",
     "vidTitle": "Freaking it across Hyrule [Tears of the Kingdom]",
@@ -468,18 +456,6 @@
     "premiere": false
   },
   {
-    "id": "R92Hgc-u6Bs",
-    "vidUrl": "https://youtu.be/R92Hgc-u6Bs",
-    "vidTitle": "SECRET DANGEROUS HANDCAM",
-    "channelId": "@confetticoni",
-    "channelName": "Coni Confetti Ch. idol-EN",
-    "channelThumb": "https://yt3.ggpht.com/DHI9aYg-eO1nO1PKAyVyDIP7BhuK88nkWcztyfKc-dp0zrdErFkKsbkgC13KqMucq46qreLKpz8=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Coni",
-    "scheduledStartTime": "2024-04-28T00:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "ZGYIcL5htn4",
     "vidUrl": "https://youtu.be/ZGYIcL5htn4",
     "vidTitle": "I Got Abandoned in China\u3010V4Mirai | Abi Kadabura\u3011",
@@ -571,6 +547,18 @@
     "channelName": "Tomomi Toraya Ch. V&U",
     "channelThumb": "https://yt3.ggpht.com/VVorqIxpJu58JyAADFOQB604PDjYiMgpvkJD_NfvJ3uXGe-J8mLJTjYB3CzmlWokVy_nBmDVKQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Tomomi",
+    "scheduledStartTime": "2024-04-28T01:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "R92Hgc-u6Bs",
+    "vidUrl": "https://youtu.be/R92Hgc-u6Bs",
+    "vidTitle": "SECRET DANGEROUS HANDCAM",
+    "channelId": "@confetticoni",
+    "channelName": "Coni Confetti Ch. idol-EN",
+    "channelThumb": "https://yt3.ggpht.com/DHI9aYg-eO1nO1PKAyVyDIP7BhuK88nkWcztyfKc-dp0zrdErFkKsbkgC13KqMucq46qreLKpz8=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Coni",
     "scheduledStartTime": "2024-04-28T01:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -1764,6 +1752,18 @@
     "premiere": false
   },
   {
+    "id": "DhALt9vEOaE",
+    "vidUrl": "https://youtu.be/DhALt9vEOaE",
+    "vidTitle": "\ud83c\udf1fNotice About ASMR\ud83c\udf1f",
+    "channelId": "@mozumipichi",
+    "channelName": "Mozumi Pichi Ch.\u3010V-Dere\u3011",
+    "channelThumb": "https://yt3.ggpht.com/-MORJjUXDCIxCYeCuEktQiDRvqDLv33ZG5fqCbxX6Y_U8dxMEIL9seZmRBtDbnTHQuCrs82YLQ=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Mozzu",
+    "scheduledStartTime": "2026-04-30T17:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "5Luh7LGGudI",
     "vidUrl": "https://youtu.be/5Luh7LGGudI",
     "vidTitle": "\u3010FREECHAT\u3011 schedule!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\u3010V&U | GEN 5\u3011",
@@ -2098,6 +2098,19 @@
     "shortName": "Roza",
     "scheduledStartTime": "2024-04-27T16:00:00Z",
     "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "Q8Ow2VrsktI",
+    "vidUrl": "https://youtu.be/Q8Ow2VrsktI",
+    "vidTitle": "\u30101K Celebration\u3011Let's party and open your Marshmallows!",
+    "channelId": "@arialyuriko",
+    "channelName": "Arial Yuriko Ch. [VReverie]",
+    "channelThumb": "https://yt3.ggpht.com/IU2v8OvK9p2KPE6Udi-AxcHpDdRmZ8ixovTLb3dDzCahVLSuIc4iKBKNd5LE6lFvlgUfTIHi=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Arial",
+    "scheduledStartTime": "2024-04-27T17:00:00Z",
+    "actualStartTime": "2024-04-27T16:56:11Z",
     "premiere": false
   }
 ]
