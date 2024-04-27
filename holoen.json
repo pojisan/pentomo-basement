@@ -1,17 +1,5 @@
 [
   {
-    "id": "DENGDG_jNk0",
-    "vidUrl": "https://youtu.be/DENGDG_jNk0",
-    "vidTitle": "\u3010PUSH TO 669K\u3011Endurance + BIG ANNOUNCEMENT!",
-    "channelId": "@nerissaravencroft",
-    "channelName": "Nerissa Ravencroft Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/JDCIBWj11TgjY2Uyba_efZ0n5hzjysMB9GxkvHGkIN_sfFQJR5mx3iVPqgJ96IPcYjZpCLsb=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Nerissa",
-    "scheduledStartTime": "2024-04-26T23:00:00Z",
-    "actualStartTime": "2024-04-26T22:54:52Z",
-    "premiere": false
-  },
-  {
     "id": "bsKeD3AzvX8",
     "vidUrl": "https://youtu.be/bsKeD3AzvX8",
     "vidTitle": "\u3010UNDERTALE\u3011First Time Playthrough in the Year 2024",
@@ -44,7 +32,20 @@
     "channelThumb": "https://yt3.ggpht.com/JDCIBWj11TgjY2Uyba_efZ0n5hzjysMB9GxkvHGkIN_sfFQJR5mx3iVPqgJ96IPcYjZpCLsb=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Nerissa",
     "scheduledStartTime": "2024-04-27T05:00:00Z",
-    "actualStartTime": "",
-    "premiere": true
+    "actualStartTime": "2024-04-27T05:00:07Z",
+    "premiere": false
+  },
+  {
+    "id": "DENGDG_jNk0",
+    "vidUrl": "https://youtu.be/DENGDG_jNk0",
+    "vidTitle": "\u3010PUSH TO 669K\u3011Endurance + BIG ANNOUNCEMENT!",
+    "channelId": "@nerissaravencroft",
+    "channelName": "Nerissa Ravencroft Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/JDCIBWj11TgjY2Uyba_efZ0n5hzjysMB9GxkvHGkIN_sfFQJR5mx3iVPqgJ96IPcYjZpCLsb=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Nerissa",
+    "scheduledStartTime": "2024-04-26T23:00:00Z",
+    "actualStartTime": "2024-04-26T22:54:52Z",
+    "premiere": false
   }
 ]
