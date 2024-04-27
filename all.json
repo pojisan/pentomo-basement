@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "zjxrYRIstRQ",
-    "vidUrl": "https://youtu.be/zjxrYRIstRQ",
-    "vidTitle": "\u3010THE QUARRY\u3011I WILL SAVE EVERYONE\u3010NIJISANJI EN | Vantacrow Bringer\u3011",
-    "channelId": "@vantacrowbringer",
-    "channelName": "Vantacrow Bringer \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/GLPkvp_8o7OvZ3q57IpqDSHIyv6OqZFK6tO1egzLoMjE19EBlo3tISEMIOLEvkC5jnl2Uus93A=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Vanta",
-    "scheduledStartTime": "2024-04-27T01:00:00Z",
-    "actualStartTime": "2024-04-27T01:00:44Z",
-    "premiere": false
-  },
-  {
     "id": "1hg4Dq6Pj8w",
     "vidUrl": "https://youtu.be/1hg4Dq6Pj8w",
     "vidTitle": "\u3010Bunny Garden\u3011PyonRyS can't wait to see Kana-chan again \u3010Spoiler Warning\u3011",
@@ -69,18 +57,6 @@
     "shortName": "Chiaki",
     "scheduledStartTime": "2024-04-27T03:30:00Z",
     "actualStartTime": "2024-04-27T03:31:12Z",
-    "premiere": false
-  },
-  {
-    "id": "fhBdfbvoecY",
-    "vidUrl": "https://youtu.be/fhBdfbvoecY",
-    "vidTitle": "KARAOKE UNTIL I REACH 48K OR MORE!!! #shorts #vtuber",
-    "channelId": "@isla_kawaii",
-    "channelName": "Isla Coleman Ch. \u30a2\u30a4\u30e9\u30fb\u30b3\u30fc\u30eb\u30de\u30f3\u3010kawaii\u3011",
-    "channelThumb": "https://yt3.ggpht.com/KsvJ_nvtsnENS74uknH4gxrD8fVCA2DJjiSiyrVIl2JKyVW28zny7nclNnl2j9VhZ3CDIE4pTg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Isla",
-    "scheduledStartTime": "2024-04-27T04:17:58Z",
-    "actualStartTime": "2024-04-27T04:18:17Z",
     "premiere": false
   },
   {
@@ -427,6 +403,18 @@
     "channelName": "Cerenity Cosmica Ch. V&U",
     "channelThumb": "https://yt3.ggpht.com/dnyzDEaJzR5qZiWFp73wK_f91hlDHxiORtJ6jwu9nzWcLr_vvkHf9IQc2PGhpiBwKWMF5ns2xg=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Cerenity",
+    "scheduledStartTime": "2024-04-27T18:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "KYCd43Xe97k",
+    "vidUrl": "https://youtu.be/KYCd43Xe97k",
+    "vidTitle": "rating Eve's outfits \u3010Stellar Blade\u3011",
+    "channelId": "@obakepam",
+    "channelName": "Obake PAM Ch.",
+    "channelThumb": "https://yt3.ggpht.com/FlbqAWrn9OdE4QcjGweQkH_2WUf2kCAQPbiC4dVvt6ItUWE4pLnUrs9MJ3-KtyeULY0hGe-VPio=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Obake PAM",
     "scheduledStartTime": "2024-04-27T18:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -1924,6 +1912,19 @@
     "premiere": false
   },
   {
+    "id": "zjxrYRIstRQ",
+    "vidUrl": "https://youtu.be/zjxrYRIstRQ",
+    "vidTitle": "\u3010THE QUARRY\u3011I WILL SAVE EVERYONE\u3010NIJISANJI EN | Vantacrow Bringer\u3011",
+    "channelId": "@vantacrowbringer",
+    "channelName": "Vantacrow Bringer \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/GLPkvp_8o7OvZ3q57IpqDSHIyv6OqZFK6tO1egzLoMjE19EBlo3tISEMIOLEvkC5jnl2Uus93A=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Vanta",
+    "scheduledStartTime": "2024-04-27T01:00:00Z",
+    "actualStartTime": "2024-04-27T01:00:44Z",
+    "premiere": false
+  },
+  {
     "id": "ie5YJBjUpy4",
     "vidUrl": "https://youtu.be/ie5YJBjUpy4",
     "vidTitle": "A difficult game about climbing but I'm fighting for my life here",
@@ -1934,6 +1935,19 @@
     "shortName": "Luto",
     "scheduledStartTime": "2024-04-27T01:00:00Z",
     "actualStartTime": "2024-04-27T01:01:15Z",
+    "premiere": false
+  },
+  {
+    "id": "fhBdfbvoecY",
+    "vidUrl": "https://youtu.be/fhBdfbvoecY",
+    "vidTitle": "KARAOKE UNTIL I REACH 48K OR MORE!!! #shorts #vtuber",
+    "channelId": "@isla_kawaii",
+    "channelName": "Isla Coleman Ch. \u30a2\u30a4\u30e9\u30fb\u30b3\u30fc\u30eb\u30de\u30f3\u3010kawaii\u3011",
+    "channelThumb": "https://yt3.ggpht.com/KsvJ_nvtsnENS74uknH4gxrD8fVCA2DJjiSiyrVIl2JKyVW28zny7nclNnl2j9VhZ3CDIE4pTg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Isla",
+    "scheduledStartTime": "2024-04-27T04:17:58Z",
+    "actualStartTime": "2024-04-27T04:18:17Z",
     "premiere": false
   },
   {
