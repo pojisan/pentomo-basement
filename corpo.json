@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "mKGfrhVG6aU",
-    "vidUrl": "https://youtu.be/mKGfrhVG6aU",
-    "vidTitle": "LIVE DJ * let loose for the weekend!! #shorts #shortsfeed #shortslive\u3010Mono Monet \ud83d\udcad\ud83c\udfa8 V4Mirai\u3011",
-    "channelId": "@monomonet",
-    "channelName": "Mono Monet Ch.\u3010V4Mirai\u3011",
-    "channelThumb": "https://yt3.ggpht.com/yGSaLcq2s8iEaYr0CT1LopK3DcZ3n1se4amUvosvhbxxPCtv_8T5k2kgR-d3HsXVrpS5uzf2UQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Mono",
-    "scheduledStartTime": "2024-04-27T04:30:00Z",
-    "actualStartTime": "2024-04-27T04:41:59Z",
-    "premiere": false
-  },
-  {
     "id": "pJBowbIYzLc",
     "vidUrl": "https://youtu.be/pJBowbIYzLc",
     "vidTitle": "Io's Art Time!",
@@ -151,6 +139,18 @@
     "channelName": "Alicja Da Lontano ch. \u3010globie\u3011",
     "channelThumb": "https://yt3.ggpht.com/gzyLsLIzbobRRYT_QkfMKISqY-RpzLfOowj5T61s2UDXRoHEespSbXR68cikE96P2RKpsWOeM1Q=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Alicja",
+    "scheduledStartTime": "2024-04-27T12:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "yam2MyTfeWQ",
+    "vidUrl": "https://youtu.be/yam2MyTfeWQ",
+    "vidTitle": "Is globie a LETHAL COMPANY!? \ud83d\udd25\u3010Bonnie Barkswell / globie\u3011",
+    "channelId": "@bonniebarkswell",
+    "channelName": "Bonnie Barkswell ch.\u3010globie\u3011",
+    "channelThumb": "https://yt3.ggpht.com/1Yr43WjJSo9wCJBUQKdroLYbA3y_0M3P-kKHksJRfu7Z5vas2CRGR6OL1b9e_hQUEy9qXpFdRQ=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Bonnie",
     "scheduledStartTime": "2024-04-27T12:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -384,9 +384,33 @@
     "premiere": false
   },
   {
+    "id": "lG-MqoKJOiw",
+    "vidUrl": "https://youtu.be/lG-MqoKJOiw",
+    "vidTitle": "How to become a VIRAL VTuber! \ud83d\udcc8 Content Warning with Rui, Kiri & Zali!\u3010Bonnie Barkswell / globie\u3011",
+    "channelId": "@bonniebarkswell",
+    "channelName": "Bonnie Barkswell ch.\u3010globie\u3011",
+    "channelThumb": "https://yt3.ggpht.com/1Yr43WjJSo9wCJBUQKdroLYbA3y_0M3P-kKHksJRfu7Z5vas2CRGR6OL1b9e_hQUEy9qXpFdRQ=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Bonnie",
+    "scheduledStartTime": "2024-04-27T19:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "-D7Vu711eig",
     "vidUrl": "https://youtu.be/-D7Vu711eig",
     "vidTitle": "\ud83d\udd34[ POV ] You Went Out with an Anime Girl, and she's not hungry (But you are)\u3010 KoziiChu \u3011",
+    "channelId": "@koziichu",
+    "channelName": "KoziiChu",
+    "channelThumb": "https://yt3.ggpht.com/pt7bh9RYZ3pOOWcrG50EYG7lzCsC8s8hq67f0mX9l5F9P9Igly4mbCxB4RW4h4Mp2xcfMOaA=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Koziichu",
+    "scheduledStartTime": "2024-04-27T19:30:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "J6C0-0j1xLw",
+    "vidUrl": "https://youtu.be/J6C0-0j1xLw",
+    "vidTitle": "\ud83d\udd34VERTICAL ZATSUDAN - You Went Out with an Anime Girl, and she's not hungry (But you are)\u3010 KoziiChu \u3011",
     "channelId": "@koziichu",
     "channelName": "KoziiChu",
     "channelThumb": "https://yt3.ggpht.com/pt7bh9RYZ3pOOWcrG50EYG7lzCsC8s8hq67f0mX9l5F9P9Igly4mbCxB4RW4h4Mp2xcfMOaA=s88-c-k-c0x00ffffff-no-rj",
@@ -1969,6 +1993,19 @@
     "shortName": "Luto",
     "scheduledStartTime": "2024-04-27T01:00:00Z",
     "actualStartTime": "2024-04-27T01:01:15Z",
+    "premiere": false
+  },
+  {
+    "id": "mKGfrhVG6aU",
+    "vidUrl": "https://youtu.be/mKGfrhVG6aU",
+    "vidTitle": "LIVE DJ * let loose for the weekend!! #shorts #shortsfeed #shortslive\u3010Mono Monet \ud83d\udcad\ud83c\udfa8 V4Mirai\u3011",
+    "channelId": "@monomonet",
+    "channelName": "Mono Monet Ch.\u3010V4Mirai\u3011",
+    "channelThumb": "https://yt3.ggpht.com/yGSaLcq2s8iEaYr0CT1LopK3DcZ3n1se4amUvosvhbxxPCtv_8T5k2kgR-d3HsXVrpS5uzf2UQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Mono",
+    "scheduledStartTime": "2024-04-27T04:30:00Z",
+    "actualStartTime": "2024-04-27T04:41:59Z",
     "premiere": false
   },
   {
