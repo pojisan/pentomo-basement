@@ -264,18 +264,6 @@
     "premiere": false
   },
   {
-    "id": "Ie1_ntwJro8",
-    "vidUrl": "https://youtu.be/Ie1_ntwJro8",
-    "vidTitle": "daddy hildi? sorry \u3010FFXIV Heavensward Hildibrand Quests\u3011",
-    "channelId": "@obakepam",
-    "channelName": "Obake PAM Ch.",
-    "channelThumb": "https://yt3.ggpht.com/FlbqAWrn9OdE4QcjGweQkH_2WUf2kCAQPbiC4dVvt6ItUWE4pLnUrs9MJ3-KtyeULY0hGe-VPio=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Obake PAM",
-    "scheduledStartTime": "2024-04-28T00:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "QvEfg2n0pNM",
     "vidUrl": "https://youtu.be/QvEfg2n0pNM",
     "vidTitle": "\u3010Kokone's Boutique ep.10\u3011Dressing up @NopiTulpe in cute date outfit!",
@@ -356,6 +344,18 @@
     "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_nC7dRnnTDxs3724EZNLjdWAX7n5w7Vpv6hM9ss3dUJ_w=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Bri",
     "scheduledStartTime": "2024-04-28T00:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "Ie1_ntwJro8",
+    "vidUrl": "https://youtu.be/Ie1_ntwJro8",
+    "vidTitle": "daddy hildi? sorry \u3010FFXIV Heavensward Hildibrand Quests\u3011",
+    "channelId": "@obakepam",
+    "channelName": "Obake PAM Ch.",
+    "channelThumb": "https://yt3.ggpht.com/FlbqAWrn9OdE4QcjGweQkH_2WUf2kCAQPbiC4dVvt6ItUWE4pLnUrs9MJ3-KtyeULY0hGe-VPio=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Obake PAM",
+    "scheduledStartTime": "2024-04-28T00:30:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -1979,19 +1979,6 @@
     "shortName": "Mivi",
     "scheduledStartTime": "2024-04-27T20:00:00Z",
     "actualStartTime": "2024-04-27T20:02:59Z",
-    "premiere": false
-  },
-  {
-    "id": "JYW--nyghCY",
-    "vidUrl": "https://youtu.be/JYW--nyghCY",
-    "vidTitle": "\u3010MONSTER HUNTER WORLD\u3011 C-c-c-c-c-cold",
-    "channelId": "@ninomaeinanis",
-    "channelName": "Ninomae Ina'nis Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/f4uYWHJxiGwyXm8NUlm818N1MRnywtgL6wM8JdWqWsKBzI7v1eg8dxDWG7igkWuukUSiufydqPg=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Ina",
-    "scheduledStartTime": "2024-04-27T21:00:00Z",
-    "actualStartTime": "2024-04-27T21:02:16Z",
     "premiere": false
   },
   {
