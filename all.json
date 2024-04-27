@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "xFcCPMIGqaY",
-    "vidUrl": "https://youtu.be/xFcCPMIGqaY",
-    "vidTitle": "\u3010THE GAME OF SISYPHUS\u3011We are all mentally healthy here\u3010NIJISANJI EN | Reimu Endou\u3011",
-    "channelId": "@reimuendou",
-    "channelName": "Reimu Endou\u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/jwZT783V-LU58DMyjShj-CWJ3GGsM5DaHX20vtIExe7LNGpaS0P5pZJV_EH11AprgaHocu6CKA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Reimu",
-    "scheduledStartTime": "2024-04-27T16:00:00Z",
-    "actualStartTime": "2024-04-27T16:15:28Z",
-    "premiere": false
-  },
-  {
     "id": "JHTbcfEfHQM",
     "vidUrl": "https://youtu.be/JHTbcfEfHQM",
     "vidTitle": "Freaking it across Hyrule [Tears of the Kingdom]",
@@ -81,18 +69,6 @@
     "shortName": "Chiaki",
     "scheduledStartTime": "2024-04-27T18:00:00Z",
     "actualStartTime": "2024-04-27T17:59:54Z",
-    "premiere": false
-  },
-  {
-    "id": "mXoboiaQ0c8",
-    "vidUrl": "https://youtu.be/mXoboiaQ0c8",
-    "vidTitle": "The Ghost and the Tanuki! Interviewing My Senpai @CyonVNU !\u3010TiaTime for Two\u3011",
-    "channelId": "@spectravnu",
-    "channelName": "Spectra Libitina Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/vJEi9jvzwANF4rzrVugBrJ2CumIsI3pGN68Bap-eEXSqZbp-hNpLAdqSwSIqmgqhHUbbdUzrR-w=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Spectra",
-    "scheduledStartTime": "2024-04-27T18:00:00Z",
-    "actualStartTime": "2024-04-27T18:01:33Z",
     "premiere": false
   },
   {
@@ -308,7 +284,7 @@
     "channelThumb": "https://yt3.ggpht.com/eBm5-Is9XQiT7Ct2XPL-eAPzgNXgHqbHjgIb_z76sHswS5dVISwa8Ty-R9zVkHeBCxiVnL7-UQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Roca",
     "scheduledStartTime": "2024-04-27T20:30:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-27T20:29:02Z",
     "premiere": false
   },
   {
@@ -490,6 +466,18 @@
     "scheduledStartTime": "2024-04-27T23:00:00Z",
     "actualStartTime": "",
     "premiere": false
+  },
+  {
+    "id": "SrjgoNdimT8",
+    "vidUrl": "https://youtu.be/SrjgoNdimT8",
+    "vidTitle": "Red -  @MoriCalliope \u3010Cover by Blaise Shinryu\u3011#vtuber #eienproject",
+    "channelId": "@blaiseshinryu",
+    "channelName": "Blaise Shinryu Ch. \u3010EIEN Project\u3011",
+    "channelThumb": "https://yt3.ggpht.com/XWFo-WwtDhyl38I7E6RMNNpfKq28um2HF1UZVx2gvEl3_wlbtX9oRoE_fGIwtWyUetQZwEL8=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Blaise",
+    "scheduledStartTime": "2024-04-27T23:00:00Z",
+    "actualStartTime": "",
+    "premiere": true
   },
   {
     "id": "inUVv8bVknQ",
@@ -2088,16 +2076,29 @@
     "premiere": false
   },
   {
-    "id": "Q8Ow2VrsktI",
-    "vidUrl": "https://youtu.be/Q8Ow2VrsktI",
-    "vidTitle": "\u30101K Celebration\u3011Let's party and open your Marshmallows!",
-    "channelId": "@arialyuriko",
-    "channelName": "Arial Yuriko Ch. [VReverie]",
-    "channelThumb": "https://yt3.ggpht.com/IU2v8OvK9p2KPE6Udi-AxcHpDdRmZ8ixovTLb3dDzCahVLSuIc4iKBKNd5LE6lFvlgUfTIHi=s88-c-k-c0x00ffffff-no-rj",
+    "id": "xFcCPMIGqaY",
+    "vidUrl": "https://youtu.be/xFcCPMIGqaY",
+    "vidTitle": "\u3010THE GAME OF SISYPHUS\u3011We are all mentally healthy here\u3010NIJISANJI EN | Reimu Endou\u3011",
+    "channelId": "@reimuendou",
+    "channelName": "Reimu Endou\u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/jwZT783V-LU58DMyjShj-CWJ3GGsM5DaHX20vtIExe7LNGpaS0P5pZJV_EH11AprgaHocu6CKA=s88-c-k-c0x00ffffff-no-rj",
     "graveyard": true,
-    "shortName": "Arial",
-    "scheduledStartTime": "2024-04-27T17:00:00Z",
-    "actualStartTime": "2024-04-27T16:56:11Z",
+    "shortName": "Reimu",
+    "scheduledStartTime": "2024-04-27T16:00:00Z",
+    "actualStartTime": "2024-04-27T16:15:28Z",
+    "premiere": false
+  },
+  {
+    "id": "mXoboiaQ0c8",
+    "vidUrl": "https://youtu.be/mXoboiaQ0c8",
+    "vidTitle": "The Ghost and the Tanuki! Interviewing My Senpai @CyonVNU !\u3010TiaTime for Two\u3011",
+    "channelId": "@spectravnu",
+    "channelName": "Spectra Libitina Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/vJEi9jvzwANF4rzrVugBrJ2CumIsI3pGN68Bap-eEXSqZbp-hNpLAdqSwSIqmgqhHUbbdUzrR-w=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Spectra",
+    "scheduledStartTime": "2024-04-27T18:00:00Z",
+    "actualStartTime": "2024-04-27T18:01:33Z",
     "premiere": false
   },
   {
