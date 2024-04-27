@@ -132,18 +132,6 @@
     "premiere": false
   },
   {
-    "id": "CBZvui5R2mU",
-    "vidUrl": "https://youtu.be/CBZvui5R2mU",
-    "vidTitle": "LILY IS SO DAMN CUTE [Stellar Blade] Part 2",
-    "channelId": "@ginimercury",
-    "channelName": "Roza Coatl Ch.",
-    "channelThumb": "https://yt3.ggpht.com/J_RmocTP4ficzRZ6AFtUiEXoekNfliyRQcber2EXH-nBkNjhci71GaeNHsp4gzLMZs14HZ1U6WQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Roza",
-    "scheduledStartTime": "2024-04-27T16:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "xFcCPMIGqaY",
     "vidUrl": "https://youtu.be/xFcCPMIGqaY",
     "vidTitle": "\u3010THE GAME OF SISYPHUS\u3011We are all mentally healthy here\u3010NIJISANJI EN | Reimu Endou\u3011",
@@ -151,6 +139,18 @@
     "channelName": "Reimu Endou\u3010NIJISANJI EN\u3011",
     "channelThumb": "https://yt3.ggpht.com/jwZT783V-LU58DMyjShj-CWJ3GGsM5DaHX20vtIExe7LNGpaS0P5pZJV_EH11AprgaHocu6CKA=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Reimu",
+    "scheduledStartTime": "2024-04-27T16:00:00Z",
+    "actualStartTime": "2024-04-27T16:15:28Z",
+    "premiere": false
+  },
+  {
+    "id": "CBZvui5R2mU",
+    "vidUrl": "https://youtu.be/CBZvui5R2mU",
+    "vidTitle": "LILY IS SO DAMN CUTE [Stellar Blade] Part 2",
+    "channelId": "@ginimercury",
+    "channelName": "Roza Coatl Ch.",
+    "channelThumb": "https://yt3.ggpht.com/J_RmocTP4ficzRZ6AFtUiEXoekNfliyRQcber2EXH-nBkNjhci71GaeNHsp4gzLMZs14HZ1U6WQ=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Roza",
     "scheduledStartTime": "2024-04-27T16:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -1966,19 +1966,6 @@
     "shortName": "Tonya",
     "scheduledStartTime": "2024-04-27T05:00:00Z",
     "actualStartTime": "2024-04-27T05:04:28Z",
-    "premiere": false
-  },
-  {
-    "id": "9Xm7Zc4wdpI",
-    "vidUrl": "https://youtu.be/9Xm7Zc4wdpI",
-    "vidTitle": "\u3010GUITAR PACTICE\u3011I'M NOT READY AT ALL SORRY FJKDSF\u3010NIJISANJI EN | Vezalius Bandage\u3011",
-    "channelId": "@vezaliusbandage",
-    "channelName": "Vezalius Bandage \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/rnqrntYI1y38pqQeqYAmX3_gG1vZ-iYeMGHY0nCC-lxqKdoBspKriRXzMPv7PByMydEYm9YvvzU=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Zali",
-    "scheduledStartTime": "2024-04-27T13:00:00Z",
-    "actualStartTime": "2024-04-27T13:00:08Z",
     "premiere": false
   },
   {
