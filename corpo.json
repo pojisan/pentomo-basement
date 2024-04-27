@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "2kmeBFxeft8",
-    "vidUrl": "https://youtu.be/2kmeBFxeft8",
-    "vidTitle": "A Cozy Adventure!\u3010A Short Hike\u3011",
-    "channelId": "@chiakikatsumi",
-    "channelName": "Chiaki Katsumi Ch.\u3010PixelLink\u3011",
-    "channelThumb": "https://yt3.ggpht.com/0fSRWqUeKcBNJeZX33wkdct45WIDQd0CxMX2Faq80kSDKsvsuk2Nma-sBkzGYT2QjqCXCk4S9sU=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Chiaki",
-    "scheduledStartTime": "2024-04-27T18:00:00Z",
-    "actualStartTime": "2024-04-27T17:59:54Z",
-    "premiere": false
-  },
-  {
     "id": "aiuL67MyGVU",
     "vidUrl": "https://youtu.be/aiuL67MyGVU",
     "vidTitle": "\u3010Handcam\u3011Handmaking Gifts for Meiges! Make my Birthday Auction Item with me",
@@ -33,18 +21,6 @@
     "shortName": "Meimi",
     "scheduledStartTime": "2024-04-27T19:30:00Z",
     "actualStartTime": "2024-04-27T19:33:28Z",
-    "premiere": false
-  },
-  {
-    "id": "Q-jNhIGUmBU",
-    "vidUrl": "https://youtu.be/Q-jNhIGUmBU",
-    "vidTitle": "\u3010Cuphead\u3011The beginning of the end",
-    "channelId": "@mivivnu",
-    "channelName": "Mivi Aivori Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/b0A2emwbDeLrLg3NZ5zlJf0AjwnxRx8dKsbah9w_DAOW5W-nhvK_JmA87yYFwYN6KeB4dOzH=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Mivi",
-    "scheduledStartTime": "2024-04-27T20:00:00Z",
-    "actualStartTime": "2024-04-27T20:02:59Z",
     "premiere": false
   },
   {
@@ -1980,6 +1956,19 @@
     "premiere": false
   },
   {
+    "id": "2kmeBFxeft8",
+    "vidUrl": "https://youtu.be/2kmeBFxeft8",
+    "vidTitle": "A Cozy Adventure!\u3010A Short Hike\u3011",
+    "channelId": "@chiakikatsumi",
+    "channelName": "Chiaki Katsumi Ch.\u3010PixelLink\u3011",
+    "channelThumb": "https://yt3.ggpht.com/0fSRWqUeKcBNJeZX33wkdct45WIDQd0CxMX2Faq80kSDKsvsuk2Nma-sBkzGYT2QjqCXCk4S9sU=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Chiaki",
+    "scheduledStartTime": "2024-04-27T18:00:00Z",
+    "actualStartTime": "2024-04-27T17:59:54Z",
+    "premiere": false
+  },
+  {
     "id": "-D7Vu711eig",
     "vidUrl": "https://youtu.be/-D7Vu711eig",
     "vidTitle": "\ud83d\udd34[ POV ] You Went Out with an Anime Girl, and she's not hungry (But you are)\u3010 KoziiChu \u3011",
@@ -1990,6 +1979,19 @@
     "shortName": "Koziichu",
     "scheduledStartTime": "2024-04-27T19:30:00Z",
     "actualStartTime": "2024-04-27T19:32:06Z",
+    "premiere": false
+  },
+  {
+    "id": "Q-jNhIGUmBU",
+    "vidUrl": "https://youtu.be/Q-jNhIGUmBU",
+    "vidTitle": "\u3010Cuphead\u3011The beginning of the end",
+    "channelId": "@mivivnu",
+    "channelName": "Mivi Aivori Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/b0A2emwbDeLrLg3NZ5zlJf0AjwnxRx8dKsbah9w_DAOW5W-nhvK_JmA87yYFwYN6KeB4dOzH=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Mivi",
+    "scheduledStartTime": "2024-04-27T20:00:00Z",
+    "actualStartTime": "2024-04-27T20:02:59Z",
     "premiere": false
   },
   {
