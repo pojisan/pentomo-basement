@@ -120,18 +120,6 @@
     "premiere": false
   },
   {
-    "id": "lkau_hZ7rqQ",
-    "vidUrl": "https://youtu.be/lkau_hZ7rqQ",
-    "vidTitle": "SPENDING THE DAY WITH A ZOMBIDOL!",
-    "channelId": "@stfuboomi_",
-    "channelName": "Boomi Mamana Ch. \u9b54\u611b\u3076\u307f\u3010lucid\u2601\ufe0f\u3011",
-    "channelThumb": "https://yt3.ggpht.com/Ir7xaFhyOLm30TDU6WsFUT24WE8_o7SGK3eUmpbCsOOWFjh22e4XJsPhUYCvUtdgSUM2sUzOtg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Boomi",
-    "scheduledStartTime": "2024-04-26T22:00:00Z",
-    "actualStartTime": "2024-04-26T22:23:03Z",
-    "premiere": false
-  },
-  {
     "id": "qsVV8p9Emac",
     "vidUrl": "https://youtu.be/qsVV8p9Emac",
     "vidTitle": "\ud83e\udd28Is The BRAND NEW FANSERVICE SOULSLIKE Actually GOOD?\ud83e\udd28",
@@ -213,18 +201,6 @@
     "shortName": "Isabelle",
     "scheduledStartTime": "2024-04-26T23:45:42Z",
     "actualStartTime": "2024-04-26T23:46:14Z",
-    "premiere": false
-  },
-  {
-    "id": "linDvo3OrRs",
-    "vidUrl": "https://youtu.be/linDvo3OrRs",
-    "vidTitle": "\u3010AMONG US\u3011AMONG US ?? AMONG US ??? AMO\u3010V&U | GEN 5\u3011",
-    "channelId": "@tomomivnu",
-    "channelName": "Tomomi Toraya Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/VVorqIxpJu58JyAADFOQB604PDjYiMgpvkJD_NfvJ3uXGe-J8mLJTjYB3CzmlWokVy_nBmDVKQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Tomomi",
-    "scheduledStartTime": "2024-04-27T00:00:00Z",
-    "actualStartTime": "2024-04-26T23:58:49Z",
     "premiere": false
   },
   {
@@ -453,18 +429,6 @@
     "shortName": "Cielo",
     "scheduledStartTime": "2024-04-26T23:45:00Z",
     "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "jttfUTQIFwI",
-    "vidUrl": "https://youtu.be/jttfUTQIFwI",
-    "vidTitle": "Butterfly Dance\u3010 Serina Maiko | V4Mirai Original Song \u3011",
-    "channelId": "@serinamaiko",
-    "channelName": "Serina Maiko Ch.\u3010V4Mirai\u3011",
-    "channelThumb": "https://yt3.ggpht.com/e1ZnaffpDDEYZ3e7gmoBxrsB5Ssh18bPpkjVpG3mn4GakmEXEenv1ArFAoj1DSB5fsNLG4cs=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Serina",
-    "scheduledStartTime": "2024-04-27T00:00:00Z",
-    "actualStartTime": "2024-04-27T00:00:06Z",
     "premiere": false
   },
   {
@@ -2589,6 +2553,19 @@
     "shortName": "Echo Lyne",
     "scheduledStartTime": "2024-04-26T16:00:00Z",
     "actualStartTime": "2024-04-26T16:00:10Z",
+    "premiere": false
+  },
+  {
+    "id": "lkau_hZ7rqQ",
+    "vidUrl": "https://youtu.be/lkau_hZ7rqQ",
+    "vidTitle": "SPENDING THE DAY WITH A ZOMBIDOL!",
+    "channelId": "@stfuboomi_",
+    "channelName": "Boomi Mamana Ch. \u9b54\u611b\u3076\u307f\u3010lucid\u2601\ufe0f\u3011",
+    "channelThumb": "https://yt3.ggpht.com/Ir7xaFhyOLm30TDU6WsFUT24WE8_o7SGK3eUmpbCsOOWFjh22e4XJsPhUYCvUtdgSUM2sUzOtg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Boomi",
+    "scheduledStartTime": "2024-04-26T22:00:00Z",
+    "actualStartTime": "2024-04-26T22:23:03Z",
     "premiere": false
   }
 ]
