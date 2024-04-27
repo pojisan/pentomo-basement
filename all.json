@@ -319,7 +319,7 @@
     "channelName": "Roca Rourin Ch. idol-EN",
     "channelThumb": "https://yt3.ggpht.com/eBm5-Is9XQiT7Ct2XPL-eAPzgNXgHqbHjgIb_z76sHswS5dVISwa8Ty-R9zVkHeBCxiVnL7-UQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Roca",
-    "scheduledStartTime": "2024-04-27T20:00:00Z",
+    "scheduledStartTime": "2024-04-27T20:30:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -427,6 +427,18 @@
     "channelName": "Ran Tsukiha Ch. \u6708\u8776\u862d\u3010kawaii\u3011",
     "channelThumb": "https://yt3.ggpht.com/T30qwb0jUMNHh6WY7ZUjsFZKTP9hoPyZO4d4Knvf22uj_1DV5xvkK-ReGlX8zeshgoQeOmWovg=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Ran",
+    "scheduledStartTime": "2024-04-27T22:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "wYaFNOTldV0",
+    "vidUrl": "https://youtu.be/wYaFNOTldV0",
+    "vidTitle": "WE RAISED $10k FOR CHARITY (& a big announcement!)",
+    "channelId": "@maevevnu",
+    "channelName": "Maeve Kagekiri Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/chqWD1VyGO8YdOq75KWxKvH0RcBMayDUlmtDeO9Btb__V9Zr-ow3CSoiOfhE3SrynzSC9J8=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Maeve",
     "scheduledStartTime": "2024-04-27T22:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -776,6 +788,18 @@
     "channelThumb": "https://yt3.ggpht.com/gQXL64aSlteGuabzrOCxa7Qs-OdOJ0EAMeTP1hpSpI_5_IAkpjy3X0Y4aTVe9BxxXvXOCE5VdLc=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Nene",
     "scheduledStartTime": "2024-04-28T02:30:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "7tLbTN3eMgc",
+    "vidUrl": "https://youtu.be/7tLbTN3eMgc",
+    "vidTitle": "\u3010PERSONA 3: RELOAD\u3011FIRST TIME PERSONA EVER! *SPOILERS\u3010NIJISANJI EN | Vantacrow Bringer\u3011",
+    "channelId": "@vantacrowbringer",
+    "channelName": "Vantacrow Bringer \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/GLPkvp_8o7OvZ3q57IpqDSHIyv6OqZFK6tO1egzLoMjE19EBlo3tISEMIOLEvkC5jnl2Uus93A=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Vanta",
+    "scheduledStartTime": "2024-04-28T03:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -2061,19 +2085,6 @@
     "shortName": "Tomomi",
     "scheduledStartTime": "2026-04-30T17:30:00Z",
     "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "ESu0jzTwzS0",
-    "vidUrl": "https://youtu.be/ESu0jzTwzS0",
-    "vidTitle": "\u3010BIRTHDAY\u301112 Hour Stream !",
-    "channelId": "@miyamareena",
-    "channelName": "Miya Mareena Ch.",
-    "channelThumb": "https://yt3.ggpht.com/_gEDbY7u2OIZKKyvRYtvd4BsEWGEgvJTnQT25v8O5LbN-3XROnJgY7Ku5NNOnnDZpWJiG0cLoA=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Miya",
-    "scheduledStartTime": "2024-04-27T07:00:00Z",
-    "actualStartTime": "2024-04-27T07:00:41Z",
     "premiere": false
   },
   {
