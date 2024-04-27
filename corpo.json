@@ -60,18 +60,6 @@
     "premiere": false
   },
   {
-    "id": "2w_Btc6VSb4",
-    "vidUrl": "https://youtu.be/2w_Btc6VSb4",
-    "vidTitle": "[SHASHINGO: Learn Japanese with Photography]  finally learning Japanese   [V&U | GEN 5]",
-    "channelId": "@cerenityvnu",
-    "channelName": "Cerenity Cosmica Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/dnyzDEaJzR5qZiWFp73wK_f91hlDHxiORtJ6jwu9nzWcLr_vvkHf9IQc2PGhpiBwKWMF5ns2xg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Cerenity",
-    "scheduledStartTime": "2024-04-27T18:00:00Z",
-    "actualStartTime": "2024-04-27T18:25:09Z",
-    "premiere": false
-  },
-  {
     "id": "KYCd43Xe97k",
     "vidUrl": "https://youtu.be/KYCd43Xe97k",
     "vidTitle": "rating Eve's outfits \u3010Stellar Blade\u3011",
@@ -559,6 +547,18 @@
     "channelName": "Coni Confetti Ch. idol-EN",
     "channelThumb": "https://yt3.ggpht.com/DHI9aYg-eO1nO1PKAyVyDIP7BhuK88nkWcztyfKc-dp0zrdErFkKsbkgC13KqMucq46qreLKpz8=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Coni",
+    "scheduledStartTime": "2024-04-28T01:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "V_bHGROdl_o",
+    "vidUrl": "https://youtu.be/V_bHGROdl_o",
+    "vidTitle": "[GIRAFFE TOWN] Where Am I? Who Am I? - Ciccino Katterina Triple A Club V&U",
+    "channelId": "@ciccinovnu",
+    "channelName": "Ciccino Katterina Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/1a_CZ4DAxk-IBbjBaAdu5yAL6PzmqauC0IurAK8sWODiLNqdIu7zg6fexuKmuwfUEFoaVXeLKw4=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Ciccino",
     "scheduledStartTime": "2024-04-28T01:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -1267,6 +1267,18 @@
     "channelName": "Yura Rikudou / \u516d\u9053\u30e6\u30e9",
     "channelThumb": "https://yt3.ggpht.com/yILITMwS2t2HFysY-sKxOFGmrAaQheI4LMzf-ezgCTX9rjPTSJtZQK3E48WTtxtCWinefdwl-g=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Yura",
+    "scheduledStartTime": "2024-04-30T02:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "WwvoGPLAmKM",
+    "vidUrl": "https://youtu.be/WwvoGPLAmKM",
+    "vidTitle": "[MHW] ANOTHER ONE - Ciccino Katterina Triple A Club V&U",
+    "channelId": "@ciccinovnu",
+    "channelName": "Ciccino Katterina Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/1a_CZ4DAxk-IBbjBaAdu5yAL6PzmqauC0IurAK8sWODiLNqdIu7zg6fexuKmuwfUEFoaVXeLKw4=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Ciccino",
     "scheduledStartTime": "2024-04-30T02:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2086,6 +2098,19 @@
     "shortName": "Roza",
     "scheduledStartTime": "2024-04-27T16:00:00Z",
     "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "2w_Btc6VSb4",
+    "vidUrl": "https://youtu.be/2w_Btc6VSb4",
+    "vidTitle": "[SHASHINGO: Learn Japanese with Photography]  finally learning Japanese   [V&U | GEN 5]",
+    "channelId": "@cerenityvnu",
+    "channelName": "Cerenity Cosmica Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/dnyzDEaJzR5qZiWFp73wK_f91hlDHxiORtJ6jwu9nzWcLr_vvkHf9IQc2PGhpiBwKWMF5ns2xg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Cerenity",
+    "scheduledStartTime": "2024-04-27T18:00:00Z",
+    "actualStartTime": "2024-04-27T18:25:09Z",
     "premiere": false
   }
 ]
