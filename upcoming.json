@@ -1647,6 +1647,7 @@
       "channelTitle": "Xin Asuwa"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-04-28T17:01:18Z",
       "scheduledStartTime": "2024-04-28T17:00:00Z",
       "activeLiveChatId": "Cg0KC0FzQjlQb0hZWUVRKicKGFVDS2FqbUtVWjdhZ2U4emxUcC1Hdk8yURILQXNCOVBvSFlZRVE"
     }
@@ -4314,20 +4315,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-04-21T01:00:00Z",
       "activeLiveChatId": "Cg0KC1Q4TUc3Ynh6REFvKicKGFVDdTFJTnplZnczUjdNOS0zUUVIWW1NURILVDhNRzdieHpEQW8"
-    }
-  },
-  "TCGnGbuNR5Y": {
-    "id": "TCGnGbuNR5Y",
-    "snippet": {
-      "publishedAt": "2024-04-22T15:40:54Z",
-      "channelId": "UCm6JMVKxg8PvJjl3F7J0tdQ",
-      "title": "hoooonk mimi... good morning! let's chat \u2600\ufe0f",
-      "channelTitle": "Rowa Arctos Ch. V&U"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-04-28T14:58:58Z",
-      "scheduledStartTime": "2024-04-28T15:00:00Z",
-      "activeLiveChatId": "Cg0KC1RDR25HYnVOUjVZKicKGFVDbTZKTVZLeGc4UHZKamwzRjdKMHRkURILVENHbkdidU5SNVk"
     }
   },
   "T_RWDoT6n08": {
@@ -8566,6 +8553,19 @@
       "activeLiveChatId": "Cg0KC3ZwbWlrQ3V1a1hZKicKGFVDb1duNnFrZHhDU0h2SkVsbWd2enIxZxILdnBtaWtDdXVrWFk"
     }
   },
+  "vsHPMgDXG5w": {
+    "id": "vsHPMgDXG5w",
+    "snippet": {
+      "publishedAt": "2024-04-28T16:55:57Z",
+      "channelId": "UC9xR7uN0x5a6CH3Uopq7czA",
+      "title": "I'M SEISO I PROMISE... (First Dark Souls playthrough)",
+      "channelTitle": "Roca Rourin Ch. idol-EN"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-04-28T19:00:00Z",
+      "activeLiveChatId": "Cg0KC3ZzSFBNZ0RYRzV3KicKGFVDOXhSN3VOMHg1YTZDSDNVb3BxN2N6QRILdnNIUE1nRFhHNXc"
+    }
+  },
   "vyyI0P1DlUg": {
     "id": "vyyI0P1DlUg",
     "snippet": {
@@ -8971,6 +8971,7 @@
       "channelTitle": "Mimosa Shirosaki \u3010Yume+\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-04-28T16:59:39Z",
       "scheduledStartTime": "2024-04-28T17:00:00Z",
       "activeLiveChatId": "Cg0KC3p4eUpxVDk5ZmswKicKGFVDcW1TWWtYTHdzTDB6RWFyNUdvb1lrZxILenh5SnFUOTlmazA"
     }
