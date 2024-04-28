@@ -92,7 +92,7 @@
     "channelThumb": "https://yt3.ggpht.com/gHLRZOEihJIIcqQJmj8hsp4CsuRIbKIYKzRxQp9Q9du6DfBDFlnMv3xYCXMnKqSe3N8a1ki6Yw=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Katta",
     "scheduledStartTime": "2024-04-28T07:00:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-28T07:03:59Z",
     "premiere": false
   },
   {
@@ -151,6 +151,18 @@
     "channelName": "FUWAMOCO Ch. hololive-EN",
     "channelThumb": "https://yt3.ggpht.com/zt63obGOD6fnCX0elnzt8xkylqOTnAENmSCKmwg_PSiC857DDgB28kEjQ-FJlWGtNYZ9lqzEag=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "FWMC",
+    "scheduledStartTime": "2024-04-28T11:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "iJYAGno7D_Q",
+    "vidUrl": "https://youtu.be/iJYAGno7D_Q",
+    "vidTitle": "\u3010 #\u30db\u30ed\u30c9\u30ed\u30b1\u30a42024 \u3011FREEDOM is all I want!!!",
+    "channelId": "@irys",
+    "channelName": "IRyS Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/cDSMiVy3Xa49Ci_YyouVNzfCwVXKRYmOeywWQ_UFKzvAp6tvyeMtXMyzWzQ2u8ft4EENsJKt7A=s88-c-k-c0x00ffffff-no-nd-rj",
+    "shortName": "Irys",
     "scheduledStartTime": "2024-04-28T11:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -1476,6 +1488,18 @@
     "premiere": false
   },
   {
+    "id": "_mQgG4sFC0Q",
+    "vidUrl": "https://youtu.be/_mQgG4sFC0Q",
+    "vidTitle": "\u3010KARAOKE RELAY\u3011Pros-in-Cons VTuber Karaoke Relay\u3010Yumi The Witch | V4Mirai | ENVtuber\u3011",
+    "channelId": "@yumithewitch",
+    "channelName": "Yumi the Witch Ch.\u3010V4Mirai\u3011",
+    "channelThumb": "https://yt3.ggpht.com/k481pwD9PWdvammPbZ6YdWWA8Aw8TuvTmVvep2ICveehwHFlc0oubCggJajlD_2uhwdahA6X1w=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Yumi",
+    "scheduledStartTime": "2024-05-05T01:20:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "AYijF_oY8-Y",
     "vidUrl": "https://youtu.be/AYijF_oY8-Y",
     "vidTitle": "Pros-in-Cons Karaoke Relay! \ud83c\udfa4 \u266c\u3010Kirispica | V-Dere\u3011#VTuber #\u6b4c\u67a0",
@@ -1803,19 +1827,6 @@
     "shortName": "Lida",
     "scheduledStartTime": "2024-04-28T03:00:00Z",
     "actualStartTime": "2024-04-28T03:01:10Z",
-    "premiere": false
-  },
-  {
-    "id": "jddwwE9fN9A",
-    "vidUrl": "https://youtu.be/jddwwE9fN9A",
-    "vidTitle": "BUNNY GARDEN but I stare respectfully with EYE TRACKER",
-    "channelId": "@asterarcadia",
-    "channelName": "Aster Arcadia \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/PfyW7HnjCKF15WfzvFBLo_vx94y_tZw_jpnjku0GyvZnynSODh2E9aJ0Vi1mlc3R8sF_hXNl-g=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Aster",
-    "scheduledStartTime": "2024-04-28T03:00:00Z",
-    "actualStartTime": "2024-04-28T03:08:33Z",
     "premiere": false
   },
   {
