@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "b-XV1h6FYy4",
-    "vidUrl": "https://youtu.be/b-XV1h6FYy4",
-    "vidTitle": "\u3010ELDEN RING\u3011\u6307\u304c\u30c7\u30ab\u3044\u3002\u6307\u304c\u6016\u3044\u3002\u6307\u3092\u6bba\u3057\u307e\u3059\u3002\u3010\u6b4c\u7f8e\u9cf4\u30af\u30e9\u30e9 / Phase Connect\u3011",
-    "channelId": "@kaminariclara",
-    "channelName": "Clara Ch. \u6b4c\u7f8e\u9cf4\u30af\u30e9\u30e9 \u3010Phase Connect\u3011",
-    "channelThumb": "https://yt3.ggpht.com/Ds02-91FQsIFHxhISPbW0dvCSyrXDEmKyRHIn04c1vRKMXMNobf9Ny4UszPfbWXyNPze7gVqTQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Clara",
-    "scheduledStartTime": "2024-04-28T06:00:00Z",
-    "actualStartTime": "2024-04-28T06:00:21Z",
-    "premiere": false
-  },
-  {
     "id": "VcmE2CaiD2s",
     "vidUrl": "https://youtu.be/VcmE2CaiD2s",
     "vidTitle": "\u3010Far Cry Primal\u3011beasy seggs in caves",
@@ -56,7 +44,7 @@
     "channelThumb": "https://yt3.ggpht.com/6Jy6Uud2Vx08hfesvUg3vb2cSd0tj_30_Eeq-Ypg3jK7srTbiGUJKE94YJhedV96ExRC6-KGDA=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Mikumi",
     "scheduledStartTime": "2024-04-28T09:15:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-28T09:13:45Z",
     "premiere": false
   },
   {
@@ -847,6 +835,18 @@
     "channelName": "Mimosa Shirosaki \u3010Yume+\u3011",
     "channelThumb": "https://yt3.ggpht.com/N2epFpbQoGAzXd6q2EhpasgOviB2OuG9AvbQnDVY3HbugpsY5WDZ_p5Um93pEeNBKsJaGFXz=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Mimosa",
+    "scheduledStartTime": "2024-04-30T23:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "BCF0magiHE4",
+    "vidUrl": "https://youtu.be/BCF0magiHE4",
+    "vidTitle": "\u30103D LIVE\u3011 Spring Concert \u301026 GUESTS\u3011",
+    "channelId": "@obakepam",
+    "channelName": "Obake PAM Ch.",
+    "channelThumb": "https://yt3.ggpht.com/FlbqAWrn9OdE4QcjGweQkH_2WUf2kCAQPbiC4dVvt6ItUWE4pLnUrs9MJ3-KtyeULY0hGe-VPio=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Obake PAM",
     "scheduledStartTime": "2024-04-30T23:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -1877,6 +1877,19 @@
     "shortName": "Echo Lyne",
     "scheduledStartTime": "2024-04-28T05:45:00Z",
     "actualStartTime": "2024-04-28T05:43:59Z",
+    "premiere": false
+  },
+  {
+    "id": "b-XV1h6FYy4",
+    "vidUrl": "https://youtu.be/b-XV1h6FYy4",
+    "vidTitle": "\u3010ELDEN RING\u3011\u6307\u304c\u30c7\u30ab\u3044\u3002\u6307\u304c\u6016\u3044\u3002\u6307\u3092\u6bba\u3057\u307e\u3059\u3002\u3010\u6b4c\u7f8e\u9cf4\u30af\u30e9\u30e9 / Phase Connect\u3011",
+    "channelId": "@kaminariclara",
+    "channelName": "Clara Ch. \u6b4c\u7f8e\u9cf4\u30af\u30e9\u30e9 \u3010Phase Connect\u3011",
+    "channelThumb": "https://yt3.ggpht.com/Ds02-91FQsIFHxhISPbW0dvCSyrXDEmKyRHIn04c1vRKMXMNobf9Ny4UszPfbWXyNPze7gVqTQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Clara",
+    "scheduledStartTime": "2024-04-28T06:00:00Z",
+    "actualStartTime": "2024-04-28T06:00:21Z",
     "premiere": false
   }
 ]
