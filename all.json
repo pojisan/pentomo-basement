@@ -60,18 +60,6 @@
     "premiere": false
   },
   {
-    "id": "Efqg0fT260s",
-    "vidUrl": "https://youtu.be/Efqg0fT260s",
-    "vidTitle": "\ud83e\udd8d Just Chatting + TTS \ud83e\udd8d #shorts #shortslive #shortsfeed",
-    "channelId": "@echovnu",
-    "channelName": "Echo Lyne Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/GXeZ1UMgOyI-peaWarT6IrEjhqilp90c7VnxBbAvFx2oy-wKlJMJnBR1m3oi2pwqryx8OwSk5A=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Echo Lyne",
-    "scheduledStartTime": "2024-04-28T05:45:00Z",
-    "actualStartTime": "2024-04-28T05:43:59Z",
-    "premiere": false
-  },
-  {
     "id": "b-XV1h6FYy4",
     "vidUrl": "https://youtu.be/b-XV1h6FYy4",
     "vidTitle": "\u3010ELDEN RING\u3011\u6307\u304c\u30c7\u30ab\u3044\u3002\u6307\u304c\u6016\u3044\u3002\u6307\u3092\u6bba\u3057\u307e\u3059\u3002\u3010\u6b4c\u7f8e\u9cf4\u30af\u30e9\u30e9 / Phase Connect\u3011",
@@ -1827,6 +1815,19 @@
     "shortName": "Lida",
     "scheduledStartTime": "2024-04-28T03:00:00Z",
     "actualStartTime": "2024-04-28T03:01:10Z",
+    "premiere": false
+  },
+  {
+    "id": "Efqg0fT260s",
+    "vidUrl": "https://youtu.be/Efqg0fT260s",
+    "vidTitle": "\ud83e\udd8d Just Chatting + TTS \ud83e\udd8d #shorts #shortslive #shortsfeed",
+    "channelId": "@echovnu",
+    "channelName": "Echo Lyne Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/GXeZ1UMgOyI-peaWarT6IrEjhqilp90c7VnxBbAvFx2oy-wKlJMJnBR1m3oi2pwqryx8OwSk5A=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Echo Lyne",
+    "scheduledStartTime": "2024-04-28T05:45:00Z",
+    "actualStartTime": "2024-04-28T05:43:59Z",
     "premiere": false
   },
   {
