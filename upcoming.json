@@ -972,6 +972,7 @@
       "defaultLanguage": "en"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-04-28T22:22:03Z",
       "scheduledStartTime": "2024-04-28T22:00:00Z",
       "activeLiveChatId": "Cg0KC0JqRnNoVS15eTZnKicKGFVDYi04RmtnLW1TVTJSbWxQOEZkcHlNdxILQmpGc2hVLXl5Nmc"
     }
@@ -1754,6 +1755,7 @@
       "defaultLanguage": "en"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-04-28T22:27:31Z",
       "scheduledStartTime": "2024-04-28T22:00:00Z",
       "activeLiveChatId": "Cg0KC0l5US1LMUlSV1c4KicKGFVDMmdQYk9qb19OTTJRZXJvQXJXOFllZxILSXlRLUsxSVJXVzg"
     }
@@ -2572,6 +2574,7 @@
       "channelTitle": "REM Kanashibari Ch.\u3010V4Mirai\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-04-28T22:29:17Z",
       "scheduledStartTime": "2024-04-28T22:30:00Z",
       "activeLiveChatId": "Cg0KC1NDeFpDTGN2cjhzKicKGFVDYlpabHFBU1U2Njgtd3lXMUsya1lCdxILU0N4WkNMY3ZyOHM"
     }
@@ -3007,6 +3010,7 @@
       "defaultLanguage": "en"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-04-28T22:25:03Z",
       "scheduledStartTime": "2024-04-28T22:00:00Z",
       "activeLiveChatId": "Cg0KC1d6eVhYUVhmU3pvKicKGFVDUEszUzlpajBEWElObVRqUTRLaFFWQRILV3p5WFhRWGZTem8"
     }
@@ -4198,6 +4202,18 @@
       "activeLiveChatId": "Cg0KC21XNDZ1ZHJxQl9ZKicKGFVDQUZieUVqOXBlc0N4bzY5b3pFaGk5URILbVc0NnVkcnFCX1k"
     }
   },
+  "matarakan": {
+    "id": "matarakan",
+    "snippet": {
+      "channelId": "matarakan",
+      "title": "WE TALK AND THEN Collab w @projektmelody and @bricky  7pm EST~!Podcast !Mint !Merch !Goon",
+      "channelTitle": "MataraKan"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-04-28T22:34:43Z",
+      "twitch": true
+    }
+  },
   "mfoHpYA39oc": {
     "id": "mfoHpYA39oc",
     "snippet": {
@@ -4299,6 +4315,7 @@
       "channelTitle": "Zumi Dokumi Ch. \u3010EIEN Project\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-04-28T22:32:44Z",
       "scheduledStartTime": "2024-04-28T22:30:00Z",
       "activeLiveChatId": "Cg0KC25mOW03aGo3dVpZKicKGFVDYnZSNDZTUXBPUFJLTXJWVDhOb0pUQRILbmY5bTdoajd1Wlk"
     }
@@ -4710,6 +4727,7 @@
       "channelTitle": "Kohaku Yumekui Ch. \u5922\u55b0\u5df1\u767d\u3010kawaii\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-04-28T22:21:38Z",
       "scheduledStartTime": "2024-04-28T22:00:00Z",
       "activeLiveChatId": "Cg0KC3NaMkVvaE5RaDM0KicKGFVDSHhVdkFJWEhmRHpwVFcwMnY3UWFyZxILc1oyRW9oTlFoMzQ"
     }
