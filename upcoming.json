@@ -1219,6 +1219,19 @@
       "activeLiveChatId": "Cg0KCzdQQ2lqUDNBa2MwKicKGFVDNmtsYVItRVQ2MjdLamZJT28xbDJnURILN1BDaWpQM0FrYzA"
     }
   },
+  "7X0AJurHU0U": {
+    "id": "7X0AJurHU0U",
+    "snippet": {
+      "publishedAt": "2024-04-28T18:25:19Z",
+      "channelId": "UCJwnGUjoniJA3It-P2snc-A",
+      "title": "[#\u6b4c\u67a0| karaoke] JUST A GIRL AND HER GUITAR [VTUBER]",
+      "channelTitle": "Nana Asteria Ch. \u30a2\u30b9\u30c6\u30ea\u30a2\u306a\u306a"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-03T03:00:00Z",
+      "activeLiveChatId": "Cg0KCzdYMEFKdXJIVTBVKicKGFVDSnduR1Vqb25pSkEzSXQtUDJzbmMtQRILN1gwQUp1ckhVMFU"
+    }
+  },
   "7aIubrAzB2E": {
     "id": "7aIubrAzB2E",
     "snippet": {
@@ -2232,6 +2245,19 @@
       "activeLiveChatId": "Cg0KC0U5dXNCTUV3VTdVKicKGFVDNGFtTVdxdEFmb1RZVUdxenkxX1o1URILRTl1c0JNRXdVN1U"
     }
   },
+  "EETFwUSJ6Ws": {
+    "id": "EETFwUSJ6Ws",
+    "snippet": {
+      "publishedAt": "2024-04-28T18:24:08Z",
+      "channelId": "UCYadZR9mRignx4RKvPow44g",
+      "title": "Can the SEQUEL be as Good as the ORIGINAL!? \ud83d\udc97 | BIG DADDY IS BACK!\u3010 BIOSHOCK 2 \u3011",
+      "channelTitle": "Shee Icho Ch. \u9280\u674f\u3057\u3044\u3010kawaii\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-04-29T02:30:00Z",
+      "activeLiveChatId": "Cg0KC0VFVEZ3VVNKNldzKicKGFVDWWFkWlI5bVJpZ254NFJLdlBvdzQ0ZxILRUVURndVU0o2V3M"
+    }
+  },
   "EOcPPL7mOkA": {
     "id": "EOcPPL7mOkA",
     "snippet": {
@@ -2243,6 +2269,20 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-04-18T22:00:00Z",
       "activeLiveChatId": "Cg0KC0VPY1BQTDdtT2tBKicKGFVDYnZSNDZTUXBPUFJLTXJWVDhOb0pUQRILRU9jUFBMN21Pa0E"
+    }
+  },
+  "EdI9OC7XlNI": {
+    "id": "EdI9OC7XlNI",
+    "snippet": {
+      "publishedAt": "2024-04-28T18:27:35Z",
+      "channelId": "UCQ3s_kQYf3PuqOKu90HrIqw",
+      "title": "\u3010Yakuza 8\u3011pt.1 Infinite Wealth?! Sign me up!! *spoiler alert*\u3010globie 2nd Gen - Equinnox\u3011",
+      "channelTitle": "Kohaku Hyouma ch.\u3010globie\u3011",
+      "defaultLanguage": "en"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-02T16:00:00Z",
+      "activeLiveChatId": "Cg0KC0VkSTlPQzdYbE5JKicKGFVDUTNzX2tRWWYzUHVxT0t1OTBIcklxdxILRWRJOU9DN1hsTkk"
     }
   },
   "EeGGT7Unweg": {
@@ -2386,19 +2426,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-12-05T04:10:00Z",
       "activeLiveChatId": "Cg0KC0ZNTG0tSXJrNmt3KicKGFVDUU1XTWIwWWVyTUJLZk5KWGlCNmtadxILRk1MbS1Jcms2a3c"
-    }
-  },
-  "FOgGqs0rzAA": {
-    "id": "FOgGqs0rzAA",
-    "snippet": {
-      "publishedAt": "2024-04-24T07:25:25Z",
-      "channelId": "UC-LAnFLXU9BusFv7n8lFj8g",
-      "title": "Odoriko \u2013 Vaundy \u3010Cover by Sarugaku Leon Jr.\u3011",
-      "channelTitle": "Sarugaku Leon Jr. ch.\u3010globie\u3011"
-    },
-    "liveStreamingDetails": {
-      "scheduledStartTime": "2024-04-28T18:30:00Z",
-      "activeLiveChatId": "Cg0KC0ZPZ0dxczByekFBKicKGFVDLUxBbkZMWFU5QnVzRnY3bjhsRmo4ZxILRk9nR3FzMHJ6QUE"
     }
   },
   "FSXMqEgjk3A": {
@@ -3956,7 +3983,7 @@
       "publishedAt": "2024-01-01T18:57:01Z",
       "channelId": "UCK6oCMib62eYAIPrlrYRVrw",
       "title": "\u3010SCHEDULE\u3011 APR 22nd - 28th + offline chat ~",
-      "channelTitle": "Miya Mareena Ch."
+      "channelTitle": "Miya"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-01-01T18:55:00Z",
@@ -6683,6 +6710,7 @@
       "channelTitle": "Rin Penrose Ch. idol-EN"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-04-28T18:21:43Z",
       "scheduledStartTime": "2024-04-28T18:20:00Z",
       "activeLiveChatId": "Cg0KC2hnWDVPbWVsU1JFKicKGFVDcFpJYnpvRUNfM3JaZ2xFcnBRa2JEZxILaGdYNU9tZWxTUkU"
     }
@@ -7834,18 +7862,6 @@
       "activeLiveChatId": "Cg0KC3B0Z0ZwamY1MVBjKicKGFVDX2tWSmhCUUM2VERGeXNOOVR1UFNZZxILcHRnRnBqZjUxUGM"
     }
   },
-  "pupmino": {
-    "id": "pupmino",
-    "snippet": {
-      "channelId": "pupmino",
-      "title": "mmmmfgh... fish men....\u3010!commands\u3011",
-      "channelTitle": "pupmino"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-04-28T10:43:20Z",
-      "twitch": true
-    }
-  },
   "q23wU940ppQ": {
     "id": "q23wU940ppQ",
     "snippet": {
@@ -7935,6 +7951,20 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-04-26T18:00:00Z",
       "activeLiveChatId": "Cg0KC3E5dVF5c0E3YUJnKicKGFVDcXczcGRQRUtLVk9JN1NGWG9teUtMQRILcTl1UXlzQTdhQmc"
+    }
+  },
+  "qCjjYoTHsvw": {
+    "id": "qCjjYoTHsvw",
+    "snippet": {
+      "publishedAt": "2024-04-28T18:37:01Z",
+      "channelId": "UCQ3s_kQYf3PuqOKu90HrIqw",
+      "title": "\u3010Super Animal Royal\u30111on1 Senpai Collab w/ Pippa-senpai!\u3010globie 2nd Gen - Equinnox\u3011",
+      "channelTitle": "Kohaku Hyouma ch.\u3010globie\u3011",
+      "defaultLanguage": "en"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-03T18:00:00Z",
+      "activeLiveChatId": "Cg0KC3FDampZb1RIc3Z3KicKGFVDUTNzX2tRWWYzUHVxT0t1OTBIcklxdxILcUNqallvVEhzdnc"
     }
   },
   "qKKuskNdgDI": {
