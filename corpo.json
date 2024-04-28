@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "uuA8QSzPIMQ",
-    "vidUrl": "https://youtu.be/uuA8QSzPIMQ",
-    "vidTitle": "\u3010Meeta Osita | V&U\u3011I'm doodling tonight~",
-    "channelId": "@meetavnu",
-    "channelName": "Meeta Osita Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/UziMF0GNdFxpzwVid72GzFtUE-WIlKxCpS3gFvopbgx8Oi7R1ZN2HqoPcKDXD3bYk2zarx0Vg18=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Meeta",
-    "scheduledStartTime": "2024-04-28T02:00:00Z",
-    "actualStartTime": "2024-04-28T01:59:33Z",
-    "premiere": false
-  },
-  {
     "id": "9bXQZICoO0M",
     "vidUrl": "https://youtu.be/9bXQZICoO0M",
     "vidTitle": "Happy 11 Month Anniversary Stream",
@@ -624,18 +612,6 @@
     "premiere": false
   },
   {
-    "id": "FzeHocIHkYY",
-    "vidUrl": "https://youtu.be/FzeHocIHkYY",
-    "vidTitle": "\u3010PERSONA 3 RELOAD\u3011 i hope this evoker is real",
-    "channelId": "@amoriavnu",
-    "channelName": "Amoria Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/xE9UTkowb3ioACbhZJuLwEGgBQEq4akaOHZZBTGmgn807ALVQKp91t_Gr74tgSpWRmN7SaEgnQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Amoria",
-    "scheduledStartTime": "2024-04-29T02:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "drVBQHgRXpg",
     "vidUrl": "https://youtu.be/drVBQHgRXpg",
     "vidTitle": "Trying to MARRY TIFA in Final Fantasy 7",
@@ -667,6 +643,18 @@
     "channelName": "Cyon Hart Ch. V&U",
     "channelThumb": "https://yt3.ggpht.com/gsviy0KcEYuRE4MyNsKcEBoS0lIaW9wgkz9raEwVrQ0tIUM473cN8ORz-rdHps1IYSHxZdzI_g=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Cyon",
+    "scheduledStartTime": "2024-04-29T03:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "FzeHocIHkYY",
+    "vidUrl": "https://youtu.be/FzeHocIHkYY",
+    "vidTitle": "\u3010PERSONA 3 RELOAD\u3011 i hope this evoker is real",
+    "channelId": "@amoriavnu",
+    "channelName": "Amoria Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/xE9UTkowb3ioACbhZJuLwEGgBQEq4akaOHZZBTGmgn807ALVQKp91t_Gr74tgSpWRmN7SaEgnQ=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Amoria",
     "scheduledStartTime": "2024-04-29T03:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -1764,19 +1752,6 @@
     "premiere": false
   },
   {
-    "id": "VgF5jx_CUZ0",
-    "vidUrl": "https://youtu.be/VgF5jx_CUZ0",
-    "vidTitle": "\u3010PC FUND 12 HOUR DONOTHON\u3011 REST IN PIECES PC GRANDPA",
-    "channelId": "@amoralumina",
-    "channelName": "Amora Lumina Ch. \u3010EIEN Project\u3011",
-    "channelThumb": "https://yt3.ggpht.com/0IlubsFJreJnGc7-mB5nm7oNLqyyIv6KO2eIrsQYbc8wnfGpjOH-SUn5mMh7QzHMnVRLmMQRDA=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Amora",
-    "scheduledStartTime": "2024-04-27T18:00:00Z",
-    "actualStartTime": "2024-04-27T17:59:07Z",
-    "premiere": false
-  },
-  {
     "id": "-D7Vu711eig",
     "vidUrl": "https://youtu.be/-D7Vu711eig",
     "vidTitle": "\ud83d\udd34[ POV ] You Went Out with an Anime Girl, and she's not hungry (But you are)\u3010 KoziiChu \u3011",
@@ -1839,6 +1814,19 @@
     "shortName": "Mivi",
     "scheduledStartTime": "2024-04-28T01:15:00Z",
     "actualStartTime": "2024-04-28T01:12:02Z",
+    "premiere": false
+  },
+  {
+    "id": "uuA8QSzPIMQ",
+    "vidUrl": "https://youtu.be/uuA8QSzPIMQ",
+    "vidTitle": "\u3010Meeta Osita | V&U\u3011I'm doodling tonight~",
+    "channelId": "@meetavnu",
+    "channelName": "Meeta Osita Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/UziMF0GNdFxpzwVid72GzFtUE-WIlKxCpS3gFvopbgx8Oi7R1ZN2HqoPcKDXD3bYk2zarx0Vg18=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Meeta",
+    "scheduledStartTime": "2024-04-28T02:00:00Z",
+    "actualStartTime": "2024-04-28T01:59:33Z",
     "premiere": false
   },
   {
