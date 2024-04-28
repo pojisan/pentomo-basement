@@ -24,18 +24,6 @@
     "premiere": false
   },
   {
-    "id": "T_RWDoT6n08",
-    "vidUrl": "https://youtu.be/T_RWDoT6n08",
-    "vidTitle": "\u3010The Shape of Things\u3011 what even are shapes \u3010Yuno Hanaki\u3011",
-    "channelId": "@yunohanaki",
-    "channelName": "Yuno Hanaki Ch. \u83ef\u9b3c\u7d50\u671b \u3010kawaii\u3011",
-    "channelThumb": "https://yt3.ggpht.com/3pIMiD4FJEzYSAXPR4CchM-vKiT7gfMtJagky2oGpvyMy0UqATsnAPLJ8DFE1eTJQH2MYkxPHQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Yuno",
-    "scheduledStartTime": "2024-04-28T20:00:00Z",
-    "actualStartTime": "2024-04-28T20:00:27Z",
-    "premiere": false
-  },
-  {
     "id": "P9bnm1tfz7Y",
     "vidUrl": "https://youtu.be/P9bnm1tfz7Y",
     "vidTitle": "Masters APEX player takes on TABG",
@@ -45,18 +33,6 @@
     "shortName": "Aster",
     "scheduledStartTime": "2024-04-28T20:00:00Z",
     "actualStartTime": "2024-04-28T20:00:52Z",
-    "premiere": false
-  },
-  {
-    "id": "hvwf_IQ54Hs",
-    "vidUrl": "https://youtu.be/hvwf_IQ54Hs",
-    "vidTitle": "\u3010RELEASE PARTY\u3011Butterfly Dance Release Party!\u3010V4Mirai | Serina Maiko | ENVtuber\u3011",
-    "channelId": "@serinamaiko",
-    "channelName": "Serina Maiko Ch.\u3010V4Mirai\u3011",
-    "channelThumb": "https://yt3.ggpht.com/e1ZnaffpDDEYZ3e7gmoBxrsB5Ssh18bPpkjVpG3mn4GakmEXEenv1ArFAoj1DSB5fsNLG4cs=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Serina",
-    "scheduledStartTime": "2024-04-28T21:00:00Z",
-    "actualStartTime": "2024-04-28T20:57:08Z",
     "premiere": false
   },
   {
@@ -93,18 +69,6 @@
     "shortName": "Fauna",
     "scheduledStartTime": "2024-04-28T22:00:00Z",
     "actualStartTime": "2024-04-28T22:00:09Z",
-    "premiere": false
-  },
-  {
-    "id": "hSAw6RxyIfY",
-    "vidUrl": "https://youtu.be/hSAw6RxyIfY",
-    "vidTitle": "\u3010Bum Simulator\u3011gotta pee on em all !!!\u3010Yume+ | Mero Umiko\u3011",
-    "channelId": "@meroumiko",
-    "channelName": "Mero Umiko \u3010Yume+\u3011",
-    "channelThumb": "https://yt3.ggpht.com/ao0Uyr-lSSR-cD9QJVrID38symffMEms-OUHRGu-i1DBBybDZglU9ELIgv6YtjBDBY6o0das7g=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Mero",
-    "scheduledStartTime": "2024-04-28T22:00:00Z",
-    "actualStartTime": "2024-04-28T22:00:16Z",
     "premiere": false
   },
   {
@@ -2273,6 +2237,32 @@
     "premiere": false
   },
   {
+    "id": "T_RWDoT6n08",
+    "vidUrl": "https://youtu.be/T_RWDoT6n08",
+    "vidTitle": "\u3010The Shape of Things\u3011 what even are shapes \u3010Yuno Hanaki\u3011",
+    "channelId": "@yunohanaki",
+    "channelName": "Yuno Hanaki Ch. \u83ef\u9b3c\u7d50\u671b \u3010kawaii\u3011",
+    "channelThumb": "https://yt3.ggpht.com/3pIMiD4FJEzYSAXPR4CchM-vKiT7gfMtJagky2oGpvyMy0UqATsnAPLJ8DFE1eTJQH2MYkxPHQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Yuno",
+    "scheduledStartTime": "2024-04-28T20:00:00Z",
+    "actualStartTime": "2024-04-28T20:00:27Z",
+    "premiere": false
+  },
+  {
+    "id": "hvwf_IQ54Hs",
+    "vidUrl": "https://youtu.be/hvwf_IQ54Hs",
+    "vidTitle": "\u3010RELEASE PARTY\u3011Butterfly Dance Release Party!\u3010V4Mirai | Serina Maiko | ENVtuber\u3011",
+    "channelId": "@serinamaiko",
+    "channelName": "Serina Maiko Ch.\u3010V4Mirai\u3011",
+    "channelThumb": "https://yt3.ggpht.com/e1ZnaffpDDEYZ3e7gmoBxrsB5Ssh18bPpkjVpG3mn4GakmEXEenv1ArFAoj1DSB5fsNLG4cs=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Serina",
+    "scheduledStartTime": "2024-04-28T21:00:00Z",
+    "actualStartTime": "2024-04-28T20:57:08Z",
+    "premiere": false
+  },
+  {
     "id": "aJBOk32rz9c",
     "vidUrl": "https://youtu.be/aJBOk32rz9c",
     "vidTitle": "\u3010 Placid Plastic Duck Simulator \u3011Quack\u3010Alicja Da Lontano | Globie Gen 2 Solstia\u3011",
@@ -2296,6 +2286,19 @@
     "shortName": "Mivi",
     "scheduledStartTime": "2024-04-28T21:00:00Z",
     "actualStartTime": "2024-04-28T21:03:38Z",
+    "premiere": false
+  },
+  {
+    "id": "hSAw6RxyIfY",
+    "vidUrl": "https://youtu.be/hSAw6RxyIfY",
+    "vidTitle": "\u3010Bum Simulator\u3011gotta pee on em all !!!\u3010Yume+ | Mero Umiko\u3011",
+    "channelId": "@meroumiko",
+    "channelName": "Mero Umiko \u3010Yume+\u3011",
+    "channelThumb": "https://yt3.ggpht.com/ao0Uyr-lSSR-cD9QJVrID38symffMEms-OUHRGu-i1DBBybDZglU9ELIgv6YtjBDBY6o0das7g=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Mero",
+    "scheduledStartTime": "2024-04-28T22:00:00Z",
+    "actualStartTime": "2024-04-28T22:00:16Z",
     "premiere": false
   },
   {
