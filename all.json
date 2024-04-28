@@ -24,18 +24,6 @@
     "premiere": false
   },
   {
-    "id": "RP6CkBTQm_Q",
-    "vidUrl": "https://youtu.be/RP6CkBTQm_Q",
-    "vidTitle": "A Way out Part 2 (technically part 3)",
-    "channelId": "@shuyamino",
-    "channelName": "Shu Yamino\u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/SGnMAuOdDcpIQ_ZU6UmfEB6Qi-FYoDc5yxRYJefVx6tIuCX65SH1TAWxKtKOcitXvwD5BLNztbA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Shu",
-    "scheduledStartTime": "2024-04-28T14:25:00Z",
-    "actualStartTime": "2024-04-28T14:25:36Z",
-    "premiere": false
-  },
-  {
     "id": "1UBu31_FjSQ",
     "vidUrl": "https://youtu.be/1UBu31_FjSQ",
     "vidTitle": "This VTuber is OLD! 3RD YEAR ANNIVERSARY! Uncapped Subathon +ANNOUNCEMENT!!",
@@ -132,18 +120,6 @@
     "premiere": false
   },
   {
-    "id": "AsB9PoHYYEQ",
-    "vidUrl": "https://youtu.be/AsB9PoHYYEQ",
-    "vidTitle": "This Stream is VERY Random \ud83d\ude35",
-    "channelId": "@xinasuwa",
-    "channelName": "Xin Asuwa",
-    "channelThumb": "https://yt3.ggpht.com/klkgyjaDV5_SOgiCDCeA_eVlOagwjlCrsAta5GTT6ey-LG7G7U-iSeqwZwsZttrJjV7WrhPF1nU=s88-c-k-c0x00ffffff-no-nd-rj",
-    "shortName": "Xin",
-    "scheduledStartTime": "2024-04-28T17:00:00Z",
-    "actualStartTime": "2024-04-28T17:01:18Z",
-    "premiere": false
-  },
-  {
     "id": "Yoa6745R0fE",
     "vidUrl": "https://youtu.be/Yoa6745R0fE",
     "vidTitle": "The ULTIMATE Chinese Snack Tier List!\u3010V4Mirai | Goozalo Kadabura\u3011",
@@ -182,7 +158,7 @@
   {
     "id": "hgX5OmelSRE",
     "vidUrl": "https://youtu.be/hgX5OmelSRE",
-    "vidTitle": "just a normal playthrough of UNDERTALE.",
+    "vidTitle": "just a normal playthrough of UNDERTALE.*",
     "channelId": "@rinpenrose",
     "channelName": "Rin Penrose Ch. idol-EN",
     "channelThumb": "https://yt3.ggpht.com/A4q2cLOTiWlNsZpT8P2XmIgv-ZJUP4OR-2hpei0ZTM2bnpAZOdY5b1YuwslYnQCcVGJYAaGT=s88-c-k-c0x00ffffff-no-rj",
@@ -812,6 +788,18 @@
     "channelThumb": "https://yt3.ggpht.com/2cjQaeikgrJlNLffvtgcuH9FNsGIOdBdC34ShNNmqpW4MH-n2GPJGT3gv2oz8awap2nOeKneoQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Alias",
     "scheduledStartTime": "2024-04-29T06:50:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "sq4O7EhJPXM",
+    "vidUrl": "https://youtu.be/sq4O7EhJPXM",
+    "vidTitle": "TIME TO SAVE THE MONKES - Bloons TD 6\u3010NIJISANJI  EN | Maria Marionette\u3011",
+    "channelId": "@mariamarionette",
+    "channelName": "Maria Marionette \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/EZJ0E6UnrsXZKRPGwZQUJHQ4e3y9PkCHInZFzP06lAE6cYN6MXSZL7O5L5jmTRuDPSzbxNty=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Maririn",
+    "scheduledStartTime": "2024-04-29T09:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -2176,6 +2164,19 @@
     "premiere": false
   },
   {
+    "id": "RP6CkBTQm_Q",
+    "vidUrl": "https://youtu.be/RP6CkBTQm_Q",
+    "vidTitle": "A Way out Part 2 (technically part 3)",
+    "channelId": "@shuyamino",
+    "channelName": "Shu Yamino\u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/SGnMAuOdDcpIQ_ZU6UmfEB6Qi-FYoDc5yxRYJefVx6tIuCX65SH1TAWxKtKOcitXvwD5BLNztbA=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Shu",
+    "scheduledStartTime": "2024-04-28T14:25:00Z",
+    "actualStartTime": "2024-04-28T14:25:36Z",
+    "premiere": false
+  },
+  {
     "id": "TCGnGbuNR5Y",
     "vidUrl": "https://youtu.be/TCGnGbuNR5Y",
     "vidTitle": "hoooonk mimi... good morning! let's chat \u2600\ufe0f",
@@ -2186,6 +2187,19 @@
     "shortName": "Rowa",
     "scheduledStartTime": "2024-04-28T15:00:00Z",
     "actualStartTime": "2024-04-28T14:58:58Z",
+    "premiere": false
+  },
+  {
+    "id": "AsB9PoHYYEQ",
+    "vidUrl": "https://youtu.be/AsB9PoHYYEQ",
+    "vidTitle": "This Stream is VERY Random \ud83d\ude35",
+    "channelId": "@xinasuwa",
+    "channelName": "Xin Asuwa",
+    "channelThumb": "https://yt3.ggpht.com/klkgyjaDV5_SOgiCDCeA_eVlOagwjlCrsAta5GTT6ey-LG7G7U-iSeqwZwsZttrJjV7WrhPF1nU=s88-c-k-c0x00ffffff-no-nd-rj",
+    "graveyard": true,
+    "shortName": "Xin",
+    "scheduledStartTime": "2024-04-28T17:00:00Z",
+    "actualStartTime": "2024-04-28T17:01:18Z",
     "premiere": false
   },
   {

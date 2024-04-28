@@ -84,18 +84,6 @@
     "premiere": false
   },
   {
-    "id": "AsB9PoHYYEQ",
-    "vidUrl": "https://youtu.be/AsB9PoHYYEQ",
-    "vidTitle": "This Stream is VERY Random \ud83d\ude35",
-    "channelId": "@xinasuwa",
-    "channelName": "Xin Asuwa",
-    "channelThumb": "https://yt3.ggpht.com/klkgyjaDV5_SOgiCDCeA_eVlOagwjlCrsAta5GTT6ey-LG7G7U-iSeqwZwsZttrJjV7WrhPF1nU=s88-c-k-c0x00ffffff-no-nd-rj",
-    "shortName": "Xin",
-    "scheduledStartTime": "2024-04-28T17:00:00Z",
-    "actualStartTime": "2024-04-28T17:01:18Z",
-    "premiere": false
-  },
-  {
     "id": "Yoa6745R0fE",
     "vidUrl": "https://youtu.be/Yoa6745R0fE",
     "vidTitle": "The ULTIMATE Chinese Snack Tier List!\u3010V4Mirai | Goozalo Kadabura\u3011",
@@ -122,7 +110,7 @@
   {
     "id": "hgX5OmelSRE",
     "vidUrl": "https://youtu.be/hgX5OmelSRE",
-    "vidTitle": "just a normal playthrough of UNDERTALE.",
+    "vidTitle": "just a normal playthrough of UNDERTALE.*",
     "channelId": "@rinpenrose",
     "channelName": "Rin Penrose Ch. idol-EN",
     "channelThumb": "https://yt3.ggpht.com/A4q2cLOTiWlNsZpT8P2XmIgv-ZJUP4OR-2hpei0ZTM2bnpAZOdY5b1YuwslYnQCcVGJYAaGT=s88-c-k-c0x00ffffff-no-rj",
@@ -2234,6 +2222,19 @@
     "shortName": "Rowa",
     "scheduledStartTime": "2024-04-28T15:00:00Z",
     "actualStartTime": "2024-04-28T14:58:58Z",
+    "premiere": false
+  },
+  {
+    "id": "AsB9PoHYYEQ",
+    "vidUrl": "https://youtu.be/AsB9PoHYYEQ",
+    "vidTitle": "This Stream is VERY Random \ud83d\ude35",
+    "channelId": "@xinasuwa",
+    "channelName": "Xin Asuwa",
+    "channelThumb": "https://yt3.ggpht.com/klkgyjaDV5_SOgiCDCeA_eVlOagwjlCrsAta5GTT6ey-LG7G7U-iSeqwZwsZttrJjV7WrhPF1nU=s88-c-k-c0x00ffffff-no-nd-rj",
+    "graveyard": true,
+    "shortName": "Xin",
+    "scheduledStartTime": "2024-04-28T17:00:00Z",
+    "actualStartTime": "2024-04-28T17:01:18Z",
     "premiere": false
   }
 ]
