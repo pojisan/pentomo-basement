@@ -110,7 +110,7 @@
   {
     "id": "r3dV8LUCkgk",
     "vidUrl": "https://youtu.be/r3dV8LUCkgk",
-    "vidTitle": "\u3010\u6700\u6050 - AOONI-\u3011HE IS BACK  \u3042\u3044\u3064\u304c\u5e30\u3063\u3066\u304d\u305f\u3010NIJISANJI EN Meloco Kyoran\u3011",
+    "vidTitle": "\u3010\u6700\u6050 - AOONI-\u3011HE IS BACK  \u9752\u9b3c\u304c\uff013D\u306b\u306a\u3063\u3066\u5e30\u3063\u3066\u304d\u305f\uff01\u3010NIJISANJI EN Meloco Kyoran\u3011",
     "channelId": "@melocokyoran",
     "channelName": "Meloco Kyoran\u3010NIJISANJI EN\u3011",
     "channelThumb": "https://yt3.ggpht.com/R4_Tzx3rBLlHOAL8G5DvpzPs4Cwutg_22ISvrp0s5_3I3POjHeZVQgui9z3F3cC9EEV1B-dmc6U=s88-c-k-c0x00ffffff-no-rj",
@@ -128,6 +128,18 @@
     "channelThumb": "https://yt3.ggpht.com/I8IJ1Mc_mhQXeqAzhvpXj6kFF_LOMS1MeIpEBgBt1tt2DuqupCXmAgTjy9LLGLNtdjQbGE5jIg=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Charlotte",
     "scheduledStartTime": "2024-04-28T12:30:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "2NhBU1sqxjs",
+    "vidUrl": "https://youtu.be/2NhBU1sqxjs",
+    "vidTitle": "\u3010Stardew Valley\u3011 yay!",
+    "channelId": "@kirispica",
+    "channelName": "kirispica \u3010V-Dere\u3011",
+    "channelThumb": "https://yt3.ggpht.com/g-0m2dXUzHK-nxWmbCKFPv5JNDhOohDJinKkpHRC1QlnGonVeGYkHBbzuoLpx_HINkqXeCNHFg=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Spica",
+    "scheduledStartTime": "2024-04-28T13:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
