@@ -2543,5 +2543,19 @@
       "actualEndTime": "2024-04-19T23:32:02Z",
       "scheduledStartTime": "2024-04-19T20:30:00Z"
     }
+  },
+  "T_RWDoT6n08": {
+    "id": "T_RWDoT6n08",
+    "snippet": {
+      "publishedAt": "2024-04-28T14:13:34Z",
+      "channelId": "UCZl92wMipjYFc1Ulm9Yy65g",
+      "title": "\u3010The Shape of Things\u3011 what even are shapes \u3010Yuno Hanaki\u3011",
+      "channelTitle": "Yuno Hanaki Ch. \u83ef\u9b3c\u7d50\u671b \u3010kawaii\u3011",
+      "defaultLanguage": "en"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-04-28T20:00:00Z",
+      "activeLiveChatId": "Cg0KC1RfUldEb1Q2bjA4KicKGFVDWmw5MndNaXBqWUZjMVVsbTlZeTY1ZxILVF9SV0RvVDZuMDg"
+    }
   }
 }
