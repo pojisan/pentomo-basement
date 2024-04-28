@@ -36,42 +36,6 @@
     "premiere": false
   },
   {
-    "id": "-DaarCVrnmk",
-    "vidUrl": "https://youtu.be/-DaarCVrnmk",
-    "vidTitle": "\u3010#\u30db\u30ed\u30c9\u30ed\u30b1\u30a42024\u3011fluffy puppy thieves rob you and leave you with NOTHING \ud83d\udc3e\u3010FUWAWA POV\u3011",
-    "channelId": "@fuwamococh",
-    "channelName": "FUWAMOCO Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/zt63obGOD6fnCX0elnzt8xkylqOTnAENmSCKmwg_PSiC857DDgB28kEjQ-FJlWGtNYZ9lqzEag=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "FWMC",
-    "scheduledStartTime": "2024-04-28T11:00:00Z",
-    "actualStartTime": "2024-04-28T10:55:08Z",
-    "premiere": false
-  },
-  {
-    "id": "NNG2CYlfhi4",
-    "vidUrl": "https://youtu.be/NNG2CYlfhi4",
-    "vidTitle": "\u3010 #\u30db\u30ed\u30c9\u30ed\u30b1\u30a42024 \u3011They Won't Know I'm Ina",
-    "channelId": "@ninomaeinanis",
-    "channelName": "Ninomae Ina'nis Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/f4uYWHJxiGwyXm8NUlm818N1MRnywtgL6wM8JdWqWsKBzI7v1eg8dxDWG7igkWuukUSiufydqPg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Ina",
-    "scheduledStartTime": "2024-04-28T11:00:00Z",
-    "actualStartTime": "2024-04-28T10:57:11Z",
-    "premiere": false
-  },
-  {
-    "id": "iJYAGno7D_Q",
-    "vidUrl": "https://youtu.be/iJYAGno7D_Q",
-    "vidTitle": "\u3010 #\u30db\u30ed\u30c9\u30ed\u30b1\u30a42024 \u3011FREEDOM is all I want!!!",
-    "channelId": "@irys",
-    "channelName": "IRyS Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/cDSMiVy3Xa49Ci_YyouVNzfCwVXKRYmOeywWQ_UFKzvAp6tvyeMtXMyzWzQ2u8ft4EENsJKt7A=s88-c-k-c0x00ffffff-no-nd-rj",
-    "shortName": "Irys",
-    "scheduledStartTime": "2024-04-28T11:00:00Z",
-    "actualStartTime": "2024-04-28T11:00:37Z",
-    "premiere": false
-  },
-  {
     "id": "Z4EsU6c9PFo",
     "vidUrl": "https://youtu.be/Z4EsU6c9PFo",
     "vidTitle": "I have NO idea what I'm getting myself into! [Sally Face] Ep. 1+2\u3010NIJISANJI EN | Doppio Dropscythe\u3011",
@@ -188,7 +152,7 @@
     "channelThumb": "https://yt3.ggpht.com/Zzn-lffpprmp6_2y3sOeCN1yw-ARyXBh7a992WGez2D2Mo9RixB5PiBBndwuZA1NpUjjcDnb=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Lethe",
     "scheduledStartTime": "2024-04-28T13:30:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-28T13:30:59Z",
     "premiere": false
   },
   {
@@ -2092,6 +2056,45 @@
     "shortName": "Ambros",
     "scheduledStartTime": "2024-04-28T08:00:00Z",
     "actualStartTime": "2024-04-28T07:57:14Z",
+    "premiere": false
+  },
+  {
+    "id": "-DaarCVrnmk",
+    "vidUrl": "https://youtu.be/-DaarCVrnmk",
+    "vidTitle": "\u3010#\u30db\u30ed\u30c9\u30ed\u30b1\u30a42024\u3011fluffy puppy thieves rob you and leave you with NOTHING \ud83d\udc3e\u3010FUWAWA POV\u3011",
+    "channelId": "@fuwamococh",
+    "channelName": "FUWAMOCO Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/zt63obGOD6fnCX0elnzt8xkylqOTnAENmSCKmwg_PSiC857DDgB28kEjQ-FJlWGtNYZ9lqzEag=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "FWMC",
+    "scheduledStartTime": "2024-04-28T11:00:00Z",
+    "actualStartTime": "2024-04-28T10:55:08Z",
+    "premiere": false
+  },
+  {
+    "id": "NNG2CYlfhi4",
+    "vidUrl": "https://youtu.be/NNG2CYlfhi4",
+    "vidTitle": "\u3010 #\u30db\u30ed\u30c9\u30ed\u30b1\u30a42024 \u3011They Won't Know I'm Ina",
+    "channelId": "@ninomaeinanis",
+    "channelName": "Ninomae Ina'nis Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/f4uYWHJxiGwyXm8NUlm818N1MRnywtgL6wM8JdWqWsKBzI7v1eg8dxDWG7igkWuukUSiufydqPg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Ina",
+    "scheduledStartTime": "2024-04-28T11:00:00Z",
+    "actualStartTime": "2024-04-28T10:57:11Z",
+    "premiere": false
+  },
+  {
+    "id": "iJYAGno7D_Q",
+    "vidUrl": "https://youtu.be/iJYAGno7D_Q",
+    "vidTitle": "\u3010 #\u30db\u30ed\u30c9\u30ed\u30b1\u30a42024 \u3011FREEDOM is all I want!!!",
+    "channelId": "@irys",
+    "channelName": "IRyS Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/cDSMiVy3Xa49Ci_YyouVNzfCwVXKRYmOeywWQ_UFKzvAp6tvyeMtXMyzWzQ2u8ft4EENsJKt7A=s88-c-k-c0x00ffffff-no-nd-rj",
+    "graveyard": true,
+    "shortName": "Irys",
+    "scheduledStartTime": "2024-04-28T11:00:00Z",
+    "actualStartTime": "2024-04-28T11:00:37Z",
     "premiere": false
   },
   {
