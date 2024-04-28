@@ -204,18 +204,6 @@
     "premiere": false
   },
   {
-    "id": "oIGV0Yotyq0",
-    "vidUrl": "https://youtu.be/oIGV0Yotyq0",
-    "vidTitle": "[ Zatsu ] Weekly Free Talk!",
-    "channelId": "@lorelailoch",
-    "channelName": "Lorelai Loch",
-    "channelThumb": "https://yt3.ggpht.com/0fin3lAUA63z6MwF3Kri4uJbuK56jnaCtMdAzAfbWATJlqF329l9ZuN1J0wlzRKBVcyOrU3bwo8=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Lorelai",
-    "scheduledStartTime": "2024-04-28T22:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "6h_BA4PkBTo",
     "vidUrl": "https://youtu.be/6h_BA4PkBTo",
     "vidTitle": "stupid game. \ud83d\udca2",
@@ -2259,19 +2247,6 @@
     "premiere": false
   },
   {
-    "id": "axInZIEzAzU",
-    "vidUrl": "https://youtu.be/axInZIEzAzU",
-    "vidTitle": "WORK STREAM! LETS BE PRODUCTIVE!",
-    "channelId": "@briatcookiebox",
-    "channelName": "BriAtCookiebox",
-    "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_nC7dRnnTDxs3724EZNLjdWAX7n5w7Vpv6hM9ss3dUJ_w=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Bri",
-    "scheduledStartTime": "2024-04-28T18:00:00Z",
-    "actualStartTime": "2024-04-28T17:46:35Z",
-    "premiere": false
-  },
-  {
     "id": "8s4nE_CEbgE",
     "vidUrl": "https://youtu.be/8s4nE_CEbgE",
     "vidTitle": "\u3010VALORANT\u3011WE LEARNING!!!",
@@ -2308,6 +2283,19 @@
     "shortName": "Mivi",
     "scheduledStartTime": "2024-04-28T21:00:00Z",
     "actualStartTime": "2024-04-28T21:03:38Z",
+    "premiere": false
+  },
+  {
+    "id": "oIGV0Yotyq0",
+    "vidUrl": "https://youtu.be/oIGV0Yotyq0",
+    "vidTitle": "[ Zatsu ] Weekly Free Talk!",
+    "channelId": "@lorelailoch",
+    "channelName": "Lorelai Loch",
+    "channelThumb": "https://yt3.ggpht.com/0fin3lAUA63z6MwF3Kri4uJbuK56jnaCtMdAzAfbWATJlqF329l9ZuN1J0wlzRKBVcyOrU3bwo8=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Lorelai",
+    "scheduledStartTime": "2024-04-28T22:00:00Z",
+    "actualStartTime": "",
     "premiere": false
   }
 ]
