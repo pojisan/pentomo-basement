@@ -300,30 +300,6 @@
     "premiere": false
   },
   {
-    "id": "CBvtCrsqyeE",
-    "vidUrl": "https://youtu.be/CBvtCrsqyeE",
-    "vidTitle": "silent tomo. giraffe time.\u3010V&U | GEN 5\u3011",
-    "channelId": "@tomomivnu",
-    "channelName": "Tomomi Toraya Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/VVorqIxpJu58JyAADFOQB604PDjYiMgpvkJD_NfvJ3uXGe-J8mLJTjYB3CzmlWokVy_nBmDVKQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Tomomi",
-    "scheduledStartTime": "2024-04-28T01:00:00Z",
-    "actualStartTime": "2024-04-28T01:11:34Z",
-    "premiere": false
-  },
-  {
-    "id": "9bXQZICoO0M",
-    "vidUrl": "https://youtu.be/9bXQZICoO0M",
-    "vidTitle": "Happy 11 Month Anniversary Stream",
-    "channelId": "@amase_io",
-    "channelName": "Amase Io CH. \u5929\u702c \u30a4\u30aa\u3010Project Memoire\u3011",
-    "channelThumb": "https://yt3.ggpht.com/X1sgPuBT-qyqDLp-Z42L1Xx6FqUOvvgaTeOz8DhHobGpDBiCOsmAcvzXRRUXihT9mv0QrEPPfQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Io",
-    "scheduledStartTime": "2024-04-28T01:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "UiMFTXJv-Rw",
     "vidUrl": "https://youtu.be/UiMFTXJv-Rw",
     "vidTitle": "\u300aREFIND SELF\u300bANOTHER ROUND AT LIFE!!!! LET'S NOT MESS IT UP\u3010Sera Kesera | bondliveEN\u3011#shorts #vtuber",
@@ -332,7 +308,7 @@
     "channelThumb": "https://yt3.ggpht.com/9l1SuUcHbk3uo-zEZGGsE-ND7ePlrIAl4g6QoUMl98RzA7JCwlPAK4pshZ3ZO61tHhkyhj8bag=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Sera",
     "scheduledStartTime": "2024-04-28T02:00:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-28T01:58:52Z",
     "premiere": false
   },
   {
@@ -344,7 +320,7 @@
     "channelThumb": "https://yt3.ggpht.com/UziMF0GNdFxpzwVid72GzFtUE-WIlKxCpS3gFvopbgx8Oi7R1ZN2HqoPcKDXD3bYk2zarx0Vg18=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Meeta",
     "scheduledStartTime": "2024-04-28T02:00:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-28T01:59:33Z",
     "premiere": false
   },
   {
@@ -1980,6 +1956,32 @@
     "shortName": "Mimosa",
     "scheduledStartTime": "2024-04-27T23:00:00Z",
     "actualStartTime": "2024-04-27T22:59:42Z",
+    "premiere": false
+  },
+  {
+    "id": "CBvtCrsqyeE",
+    "vidUrl": "https://youtu.be/CBvtCrsqyeE",
+    "vidTitle": "silent tomo. giraffe time.\u3010V&U | GEN 5\u3011",
+    "channelId": "@tomomivnu",
+    "channelName": "Tomomi Toraya Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/VVorqIxpJu58JyAADFOQB604PDjYiMgpvkJD_NfvJ3uXGe-J8mLJTjYB3CzmlWokVy_nBmDVKQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Tomomi",
+    "scheduledStartTime": "2024-04-28T01:00:00Z",
+    "actualStartTime": "2024-04-28T01:11:34Z",
+    "premiere": false
+  },
+  {
+    "id": "9bXQZICoO0M",
+    "vidUrl": "https://youtu.be/9bXQZICoO0M",
+    "vidTitle": "Happy 11 Month Anniversary Stream",
+    "channelId": "@amase_io",
+    "channelName": "Amase Io CH. \u5929\u702c \u30a4\u30aa\u3010Project Memoire\u3011",
+    "channelThumb": "https://yt3.ggpht.com/X1sgPuBT-qyqDLp-Z42L1Xx6FqUOvvgaTeOz8DhHobGpDBiCOsmAcvzXRRUXihT9mv0QrEPPfQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Io",
+    "scheduledStartTime": "2024-04-28T01:00:00Z",
+    "actualStartTime": "",
     "premiere": false
   }
 ]
