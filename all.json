@@ -24,18 +24,6 @@
     "premiere": false
   },
   {
-    "id": "zxyJqT99fk0",
-    "vidUrl": "https://youtu.be/zxyJqT99fk0",
-    "vidTitle": "\u30103DIO ASMR\u3011REVERSE ASMR (turn down volume please)\u3010Yume+ | Mimosa Shirosaki\u3011",
-    "channelId": "@mimosashirosaki",
-    "channelName": "Mimosa Shirosaki \u3010Yume+\u3011",
-    "channelThumb": "https://yt3.ggpht.com/N2epFpbQoGAzXd6q2EhpasgOviB2OuG9AvbQnDVY3HbugpsY5WDZ_p5Um93pEeNBKsJaGFXz=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Mimosa",
-    "scheduledStartTime": "2024-04-28T17:00:00Z",
-    "actualStartTime": "2024-04-28T16:59:39Z",
-    "premiere": false
-  },
-  {
     "id": "axInZIEzAzU",
     "vidUrl": "https://youtu.be/axInZIEzAzU",
     "vidTitle": "WORK STREAM! LETS BE PRODUCTIVE!",
@@ -250,6 +238,18 @@
     "scheduledStartTime": "2024-04-28T22:00:00Z",
     "actualStartTime": "",
     "premiere": true
+  },
+  {
+    "id": "Gs0ST0Nc1bc",
+    "vidUrl": "https://youtu.be/Gs0ST0Nc1bc",
+    "vidTitle": "\u3010THE WITCHER 3\u3011 Fauna tries to do the right thing and ends up causing untold suffering part 5",
+    "channelId": "@ceresfauna",
+    "channelName": "Ceres Fauna Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/cBtserkb211p6If2OewgWd8oriIKRkfwTcP4_Vdq2YETG5TK9Q02v4cYmnLU03KBAJ0gcDha7oQ=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Fauna",
+    "scheduledStartTime": "2024-04-28T22:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
   },
   {
     "id": "IyQ-K1IRWW8",
@@ -2221,6 +2221,19 @@
     "shortName": "Rowa",
     "scheduledStartTime": "2024-04-28T15:00:00Z",
     "actualStartTime": "2024-04-28T14:58:58Z",
+    "premiere": false
+  },
+  {
+    "id": "zxyJqT99fk0",
+    "vidUrl": "https://youtu.be/zxyJqT99fk0",
+    "vidTitle": "\u30103DIO ASMR\u3011REVERSE ASMR (turn down volume please)\u3010Yume+ | Mimosa Shirosaki\u3011",
+    "channelId": "@mimosashirosaki",
+    "channelName": "Mimosa Shirosaki \u3010Yume+\u3011",
+    "channelThumb": "https://yt3.ggpht.com/N2epFpbQoGAzXd6q2EhpasgOviB2OuG9AvbQnDVY3HbugpsY5WDZ_p5Um93pEeNBKsJaGFXz=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Mimosa",
+    "scheduledStartTime": "2024-04-28T17:00:00Z",
+    "actualStartTime": "2024-04-28T16:59:39Z",
     "premiere": false
   },
   {
