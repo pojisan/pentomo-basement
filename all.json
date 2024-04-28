@@ -24,18 +24,6 @@
     "premiere": false
   },
   {
-    "id": "P9bnm1tfz7Y",
-    "vidUrl": "https://youtu.be/P9bnm1tfz7Y",
-    "vidTitle": "Masters APEX player takes on TABG",
-    "channelId": "@asterarcadia",
-    "channelName": "Aster Arcadia \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/PfyW7HnjCKF15WfzvFBLo_vx94y_tZw_jpnjku0GyvZnynSODh2E9aJ0Vi1mlc3R8sF_hXNl-g=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Aster",
-    "scheduledStartTime": "2024-04-28T20:00:00Z",
-    "actualStartTime": "2024-04-28T20:00:52Z",
-    "premiere": false
-  },
-  {
     "id": "gHOwnFzBtMo",
     "vidUrl": "https://youtu.be/gHOwnFzBtMo",
     "vidTitle": "\u3010 Placid Plastic Duck Simulator \u3011Quack 4 New Hope\u3010Alicja Da Lontano | Globie Gen 2 Solstia\u3011",
@@ -177,18 +165,6 @@
     "shortName": "Nami",
     "scheduledStartTime": "2024-04-28T22:00:00Z",
     "actualStartTime": "2024-04-28T22:27:31Z",
-    "premiere": false
-  },
-  {
-    "id": "oQS-H5RtxLc",
-    "vidUrl": "https://youtu.be/oQS-H5RtxLc",
-    "vidTitle": "\u3010DEBUT 2.0\u3011RHUBARB 2: THE RHUBARBENING \ud83d\udc30\u3010Rhubarb N. Kustard / globie\u3011",
-    "channelId": "@rhubarbnkustard",
-    "channelName": "Rhubarb N. Kustard ch.\u3010globie\u3011",
-    "channelThumb": "https://yt3.ggpht.com/tW_Dt1Vla7zmaEr0m3JFlqIJohGHaahQUC7Bhg4SQhk9gLbfbXdJPrH4WnwRDMYbHmXJMLDrxg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Rhubarb",
-    "scheduledStartTime": "2024-04-28T22:01:02Z",
-    "actualStartTime": "2024-04-28T22:02:04Z",
     "premiere": false
   },
   {
@@ -475,6 +451,18 @@
     "channelName": "Shee Icho Ch. \u9280\u674f\u3057\u3044\u3010kawaii\u3011",
     "channelThumb": "https://yt3.ggpht.com/9WpvwRlwjSUM4bCLMLpNv3BvRtnQWki4eY-YAsKAkuzUxJaLXhLDJu5XMQoPU_zbzunktQvMpg=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Shee",
+    "scheduledStartTime": "2024-04-29T02:30:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "TS0sEdtJV94",
+    "vidUrl": "https://youtu.be/TS0sEdtJV94",
+    "vidTitle": "\u3010ASMR RP\ud83c\udf3a\u3053\u3051\u3057\u3011Gyaru Girl Encourages You~!\ud83c\udf3a",
+    "channelId": "@confetticoni",
+    "channelName": "Coni Confetti Ch. idol-EN",
+    "channelThumb": "https://yt3.ggpht.com/DHI9aYg-eO1nO1PKAyVyDIP7BhuK88nkWcztyfKc-dp0zrdErFkKsbkgC13KqMucq46qreLKpz8=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Coni",
     "scheduledStartTime": "2024-04-29T02:30:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -859,6 +847,18 @@
     "channelName": "Roza Coatl Ch.",
     "channelThumb": "https://yt3.ggpht.com/J_RmocTP4ficzRZ6AFtUiEXoekNfliyRQcber2EXH-nBkNjhci71GaeNHsp4gzLMZs14HZ1U6WQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Roza",
+    "scheduledStartTime": "2024-04-30T00:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "am7Drknqj_M",
+    "vidUrl": "https://youtu.be/am7Drknqj_M",
+    "vidTitle": "\u3010FALLOUT 4\u3011forced to go outside simulator\u3010Dokibird\u3011",
+    "channelId": "@dokibird",
+    "channelName": "Dokibird",
+    "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_m53sCnXF6ENdSpHx-q_4fOn-EGaIteMhq8HX17zcGwzeQ=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Doki",
     "scheduledStartTime": "2024-04-30T00:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2237,29 +2237,16 @@
     "premiere": false
   },
   {
-    "id": "T_RWDoT6n08",
-    "vidUrl": "https://youtu.be/T_RWDoT6n08",
-    "vidTitle": "\u3010The Shape of Things\u3011 what even are shapes \u3010Yuno Hanaki\u3011",
-    "channelId": "@yunohanaki",
-    "channelName": "Yuno Hanaki Ch. \u83ef\u9b3c\u7d50\u671b \u3010kawaii\u3011",
-    "channelThumb": "https://yt3.ggpht.com/3pIMiD4FJEzYSAXPR4CchM-vKiT7gfMtJagky2oGpvyMy0UqATsnAPLJ8DFE1eTJQH2MYkxPHQ=s88-c-k-c0x00ffffff-no-rj",
+    "id": "P9bnm1tfz7Y",
+    "vidUrl": "https://youtu.be/P9bnm1tfz7Y",
+    "vidTitle": "Masters APEX player takes on TABG",
+    "channelId": "@asterarcadia",
+    "channelName": "Aster Arcadia \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/PfyW7HnjCKF15WfzvFBLo_vx94y_tZw_jpnjku0GyvZnynSODh2E9aJ0Vi1mlc3R8sF_hXNl-g=s88-c-k-c0x00ffffff-no-rj",
     "graveyard": true,
-    "shortName": "Yuno",
+    "shortName": "Aster",
     "scheduledStartTime": "2024-04-28T20:00:00Z",
-    "actualStartTime": "2024-04-28T20:00:27Z",
-    "premiere": false
-  },
-  {
-    "id": "hvwf_IQ54Hs",
-    "vidUrl": "https://youtu.be/hvwf_IQ54Hs",
-    "vidTitle": "\u3010RELEASE PARTY\u3011Butterfly Dance Release Party!\u3010V4Mirai | Serina Maiko | ENVtuber\u3011",
-    "channelId": "@serinamaiko",
-    "channelName": "Serina Maiko Ch.\u3010V4Mirai\u3011",
-    "channelThumb": "https://yt3.ggpht.com/e1ZnaffpDDEYZ3e7gmoBxrsB5Ssh18bPpkjVpG3mn4GakmEXEenv1ArFAoj1DSB5fsNLG4cs=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Serina",
-    "scheduledStartTime": "2024-04-28T21:00:00Z",
-    "actualStartTime": "2024-04-28T20:57:08Z",
+    "actualStartTime": "2024-04-28T20:00:52Z",
     "premiere": false
   },
   {
@@ -2299,6 +2286,19 @@
     "shortName": "Mero",
     "scheduledStartTime": "2024-04-28T22:00:00Z",
     "actualStartTime": "2024-04-28T22:00:16Z",
+    "premiere": false
+  },
+  {
+    "id": "oQS-H5RtxLc",
+    "vidUrl": "https://youtu.be/oQS-H5RtxLc",
+    "vidTitle": "\u3010DEBUT 2.0\u3011RHUBARB 2: THE RHUBARBENING \ud83d\udc30\u3010Rhubarb N. Kustard / globie\u3011",
+    "channelId": "@rhubarbnkustard",
+    "channelName": "Rhubarb N. Kustard ch.\u3010globie\u3011",
+    "channelThumb": "https://yt3.ggpht.com/tW_Dt1Vla7zmaEr0m3JFlqIJohGHaahQUC7Bhg4SQhk9gLbfbXdJPrH4WnwRDMYbHmXJMLDrxg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Rhubarb",
+    "scheduledStartTime": "2024-04-28T22:01:02Z",
+    "actualStartTime": "2024-04-28T22:02:04Z",
     "premiere": false
   },
   {
