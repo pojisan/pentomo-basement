@@ -1590,6 +1590,20 @@
       "activeLiveChatId": "Cg0KC0I0SnFWZVRJc1dNKicKGFVDZS1fcDZvdW40cDAtZ2RCNEFrZlQxURILQjRKcVZlVElzV00"
     }
   },
+  "BCF0magiHE4": {
+    "id": "BCF0magiHE4",
+    "snippet": {
+      "publishedAt": "2024-04-28T09:14:11Z",
+      "channelId": "UCZIFph1bYyGxmFkkNNLAKdA",
+      "title": "\u30103D LIVE\u3011 Spring Concert \u301026 GUESTS\u3011",
+      "channelTitle": "Obake PAM Ch.",
+      "defaultLanguage": "en"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-04-30T23:00:00Z",
+      "activeLiveChatId": "Cg0KC0JDRjBtYWdpSEU0KicKGFVDWklGcGgxYll5R3htRmtrTk5MQUtkQRILQkNGMG1hZ2lIRTQ"
+    }
+  },
   "BQe5U9CxQVw": {
     "id": "BQe5U9CxQVw",
     "snippet": {
@@ -4420,6 +4434,19 @@
       "activeLiveChatId": "Cg0KC1ZSZFFiVU1kbkFZKicKGFVDQm5tZmpwbWhHeGFvNnY1NGZJSU1VQRILVlJkUWJVTWRuQVk"
     }
   },
+  "VTdjt_OJny0": {
+    "id": "VTdjt_OJny0",
+    "snippet": {
+      "publishedAt": "2024-04-28T09:14:57Z",
+      "channelId": "UCpzxZW5kghGnO5TmAFJQAVw",
+      "title": "5 WINS AWAY again TO RECLAIMING MASTERS PART 23",
+      "channelTitle": "Aster Arcadia \u3010NIJISANJI EN\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-04-29T02:00:00Z",
+      "activeLiveChatId": "Cg0KC1ZUZGp0X09KbnkwKicKGFVDcHp4Wlc1a2doR25PNVRtQUZKUUFWdxILVlRkanRfT0pueTA"
+    }
+  },
   "VZMA8E1Y2-Y": {
     "id": "VZMA8E1Y2-Y",
     "snippet": {
@@ -6881,6 +6908,7 @@
       "defaultLanguage": "en"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-04-28T09:13:45Z",
       "scheduledStartTime": "2024-04-28T09:15:00Z",
       "activeLiveChatId": "Cg0KC21jUldQS1lZWGFNKicKGFVDc1EwTnFTTmEwR0xkRVBlaTJjY2ZNdxILbWNSV1BLWVlYYU0"
     }

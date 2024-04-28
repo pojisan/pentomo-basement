@@ -16880,5 +16880,19 @@
       "actualEndTime": "2024-04-27T21:36:36Z",
       "scheduledStartTime": "2024-04-27T18:30:00Z"
     }
+  },
+  "BCF0magiHE4": {
+    "id": "BCF0magiHE4",
+    "snippet": {
+      "publishedAt": "2024-04-28T09:14:11Z",
+      "channelId": "UCZIFph1bYyGxmFkkNNLAKdA",
+      "title": "\u30103D LIVE\u3011 Spring Concert \u301026 GUESTS\u3011",
+      "channelTitle": "Obake PAM Ch.",
+      "defaultLanguage": "en"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-04-30T23:00:00Z",
+      "activeLiveChatId": "Cg0KC0JDRjBtYWdpSEU0KicKGFVDWklGcGgxYll5R3htRmtrTk5MQUtkQRILQkNGMG1hZ2lIRTQ"
+    }
   }
 }
