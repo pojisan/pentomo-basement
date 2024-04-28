@@ -48,18 +48,6 @@
     "premiere": false
   },
   {
-    "id": "P6hBd2D3fxQ",
-    "vidUrl": "https://youtu.be/P6hBd2D3fxQ",
-    "vidTitle": "\u3010Reddit Readthrough\u3011 Shower Thoughts Are Fun",
-    "channelId": "@lidaoriana",
-    "channelName": "Lida Oriana Ch.",
-    "channelThumb": "https://yt3.ggpht.com/jPWRHtDGZ3b-HXw__M_4Le5LhYAwxpcy7_Inwji6RhxGC7NK34Nihv_LwLgjtCfdTMuDE92y=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Lida",
-    "scheduledStartTime": "2024-04-28T13:00:00Z",
-    "actualStartTime": "2024-04-28T13:01:09Z",
-    "premiere": false
-  },
-  {
     "id": "QaQy5BZF3hY",
     "vidUrl": "https://youtu.be/QaQy5BZF3hY",
     "vidTitle": "\u3010AFTERPARTY\u3011Behind the Moonlight Destiny\u3010Maria Marionette | NIJISANJI EN\u3011",
@@ -2176,6 +2164,19 @@
     "shortName": "Ambros",
     "scheduledStartTime": "2024-04-28T08:00:00Z",
     "actualStartTime": "2024-04-28T07:57:14Z",
+    "premiere": false
+  },
+  {
+    "id": "P6hBd2D3fxQ",
+    "vidUrl": "https://youtu.be/P6hBd2D3fxQ",
+    "vidTitle": "\u3010Reddit Readthrough\u3011 Shower Thoughts Are Fun",
+    "channelId": "@lidaoriana",
+    "channelName": "Lida Oriana Ch.",
+    "channelThumb": "https://yt3.ggpht.com/jPWRHtDGZ3b-HXw__M_4Le5LhYAwxpcy7_Inwji6RhxGC7NK34Nihv_LwLgjtCfdTMuDE92y=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Lida",
+    "scheduledStartTime": "2024-04-28T13:00:00Z",
+    "actualStartTime": "2024-04-28T13:01:09Z",
     "premiere": false
   },
   {
