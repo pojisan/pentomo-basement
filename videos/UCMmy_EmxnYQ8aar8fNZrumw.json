@@ -619,8 +619,20 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-04-28T07:03:59Z",
       "actualEndTime": "2024-04-28T13:58:56Z",
-      "scheduledStartTime": "2024-04-28T07:00:00Z",
-      "activeLiveChatId": "Cg0KC1ZjbUUyQ2FpRDJzKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILVmNtRTJDYWlEMnM"
+      "scheduledStartTime": "2024-04-28T07:00:00Z"
+    }
+  },
+  "1QwG7dgLzM8": {
+    "id": "1QwG7dgLzM8",
+    "snippet": {
+      "publishedAt": "2024-04-28T14:08:01Z",
+      "channelId": "UCMmy_EmxnYQ8aar8fNZrumw",
+      "title": "\u3010Handcamera\u3011learning how to break locks",
+      "channelTitle": "Kattarina Qutie Ch. idol-EN"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-04-29T17:00:00Z",
+      "activeLiveChatId": "Cg0KCzFRd0c3ZGdMek04KicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILMVF3RzdkZ0x6TTg"
     }
   }
 }
