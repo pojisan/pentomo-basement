@@ -21,7 +21,8 @@
       "channelId": "UC9qMBWQdfgvIKqPpDUmvNUA",
       "title": "[ Zatsu ] Cozy Chatting Stream! + 1 week back!",
       "channelTitle": "Lorelai Loch",
-      "defaultLanguage": "en-US"
+      "defaultLanguage": "en-US",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-04-21T22:00:00Z",
@@ -215,7 +216,8 @@
       "channelId": "UC9qMBWQdfgvIKqPpDUmvNUA",
       "title": "[ WEEKLY SCHEDULE APRIL 15 - 21 ] \ud83c\udf3f\ud83d\udc34",
       "channelTitle": "Lorelai Loch",
-      "defaultLanguage": "en-US"
+      "defaultLanguage": "en-US",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-01-01T19:00:00Z",

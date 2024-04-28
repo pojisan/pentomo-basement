@@ -21,7 +21,8 @@
       "channelId": "UCxbNEW7xykTC7hE5FYgwrOw",
       "title": "\u3010Karaoke\u3011 Karaoke time! \u3010bondliveEN | Ivaela Daemoni\u3011",
       "channelTitle": "Ivaela Daemoni || \u30a4\u30f4\u30a7\u30e9\u30fb\u30c7\u30e2\u30cb \u3016bondliveEN\u3017",
-      "defaultLanguage": "en"
+      "defaultLanguage": "en",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-04-17T20:00:00Z",

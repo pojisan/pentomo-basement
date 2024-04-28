@@ -520,7 +520,8 @@
       "channelId": "UCESQsSc7Uh8EbiXVtmPbD_A",
       "title": "4/1-4/8 Schedule!\u3010V4Mirai | Abi Kadabura\u3011",
       "channelTitle": "Abi Kadabura Ch.\u3010V4Mirai\u3011",
-      "defaultLanguage": "en"
+      "defaultLanguage": "en",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-03T17:00:00Z",

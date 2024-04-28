@@ -799,7 +799,8 @@
       "channelId": "UCv1ThyE4KVYnnVY8GLftnoA",
       "title": "\u3010SCHEDULE\u3011\ud83d\uddd3\ufe0f\u3010V4Mirai | Serina Maiko\u3011",
       "channelTitle": "Serina Maiko Ch.\u3010V4Mirai\u3011",
-      "defaultLanguage": "en"
+      "defaultLanguage": "en",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-01-01T05:00:00Z",

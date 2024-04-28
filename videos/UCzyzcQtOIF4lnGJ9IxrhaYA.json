@@ -583,7 +583,8 @@
       "channelId": "UCzyzcQtOIF4lnGJ9IxrhaYA",
       "title": "SHOUNEN ANIME ONLY KARAOKE, DATTEBAYO!! PIRATE KING!! \u3010ARCHIVED KARAOKE\u3011",
       "channelTitle": "Navina Nova Ch. \u30ca\u30d3\u30ca\u30fb\u30ce\u30d0\u3010kawaii\u3011",
-      "defaultLanguage": "en"
+      "defaultLanguage": "en",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-04-28T01:00:00Z",
