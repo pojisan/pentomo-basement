@@ -84,18 +84,6 @@
     "premiere": false
   },
   {
-    "id": "UiMFTXJv-Rw",
-    "vidUrl": "https://youtu.be/UiMFTXJv-Rw",
-    "vidTitle": "\u300aREFIND SELF\u300bANOTHER ROUND AT LIFE!!!! LET'S NOT MESS IT UP\u3010Sera Kesera | bondliveEN\u3011#shorts #vtuber",
-    "channelId": "@sera_bondlive",
-    "channelName": "Sera Kesera\u3010bondlive EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/9l1SuUcHbk3uo-zEZGGsE-ND7ePlrIAl4g6QoUMl98RzA7JCwlPAK4pshZ3ZO61tHhkyhj8bag=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Sera",
-    "scheduledStartTime": "2024-04-28T02:00:00Z",
-    "actualStartTime": "2024-04-28T01:58:52Z",
-    "premiere": false
-  },
-  {
     "id": "uuA8QSzPIMQ",
     "vidUrl": "https://youtu.be/uuA8QSzPIMQ",
     "vidTitle": "\u3010Meeta Osita | V&U\u3011I'm doodling tonight~",
@@ -514,6 +502,18 @@
     "scheduledStartTime": "2024-04-28T22:00:00Z",
     "actualStartTime": "",
     "premiere": true
+  },
+  {
+    "id": "hSAw6RxyIfY",
+    "vidUrl": "https://youtu.be/hSAw6RxyIfY",
+    "vidTitle": "\u3010Bum Simulator\u3011gotta pee on em all !!!\u3010Yume+ | Mero Umiko\u3011",
+    "channelId": "@meroumiko",
+    "channelName": "Mero Umiko \u3010Yume+\u3011",
+    "channelThumb": "https://yt3.ggpht.com/ao0Uyr-lSSR-cD9QJVrID38symffMEms-OUHRGu-i1DBBybDZglU9ELIgv6YtjBDBY6o0das7g=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Mero",
+    "scheduledStartTime": "2024-04-28T22:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
   },
   {
     "id": "nf9m7hj7uZY",
@@ -1766,6 +1766,19 @@
     "shortName": "Mivi",
     "scheduledStartTime": "2024-04-28T01:15:00Z",
     "actualStartTime": "2024-04-28T01:12:02Z",
+    "premiere": false
+  },
+  {
+    "id": "UiMFTXJv-Rw",
+    "vidUrl": "https://youtu.be/UiMFTXJv-Rw",
+    "vidTitle": "\u300aREFIND SELF\u300bANOTHER ROUND AT LIFE!!!! LET'S NOT MESS IT UP\u3010Sera Kesera | bondliveEN\u3011#shorts #vtuber",
+    "channelId": "@sera_bondlive",
+    "channelName": "Sera Kesera\u3010bondlive EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/9l1SuUcHbk3uo-zEZGGsE-ND7ePlrIAl4g6QoUMl98RzA7JCwlPAK4pshZ3ZO61tHhkyhj8bag=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Sera",
+    "scheduledStartTime": "2024-04-28T02:00:00Z",
+    "actualStartTime": "2024-04-28T01:58:52Z",
     "premiere": false
   },
   {

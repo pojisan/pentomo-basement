@@ -96,18 +96,6 @@
     "premiere": false
   },
   {
-    "id": "UiMFTXJv-Rw",
-    "vidUrl": "https://youtu.be/UiMFTXJv-Rw",
-    "vidTitle": "\u300aREFIND SELF\u300bANOTHER ROUND AT LIFE!!!! LET'S NOT MESS IT UP\u3010Sera Kesera | bondliveEN\u3011#shorts #vtuber",
-    "channelId": "@sera_bondlive",
-    "channelName": "Sera Kesera\u3010bondlive EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/9l1SuUcHbk3uo-zEZGGsE-ND7ePlrIAl4g6QoUMl98RzA7JCwlPAK4pshZ3ZO61tHhkyhj8bag=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Sera",
-    "scheduledStartTime": "2024-04-28T02:00:00Z",
-    "actualStartTime": "2024-04-28T01:58:52Z",
-    "premiere": false
-  },
-  {
     "id": "uuA8QSzPIMQ",
     "vidUrl": "https://youtu.be/uuA8QSzPIMQ",
     "vidTitle": "\u3010Meeta Osita | V&U\u3011I'm doodling tonight~",
@@ -117,18 +105,6 @@
     "shortName": "Meeta",
     "scheduledStartTime": "2024-04-28T02:00:00Z",
     "actualStartTime": "2024-04-28T01:59:33Z",
-    "premiere": false
-  },
-  {
-    "id": "VNgQTHy1PO8",
-    "vidUrl": "https://youtu.be/VNgQTHy1PO8",
-    "vidTitle": "Exposing my VIEWERS RED/GREEN FLAGS \u3010NIJISANJI EN | Ver Vermillion\u3011",
-    "channelId": "@ververmillion",
-    "channelName": "Ver Vermillion\u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/QwgUIFhcWKt-yHJ19FqCYelMr9M4fL1JCYuL14ZwdeggK08tKrvqEx9ZU99Tv7HVOaGFA0oPng=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Ver",
-    "scheduledStartTime": "2024-04-28T02:30:00Z",
-    "actualStartTime": "2024-04-28T02:32:03Z",
     "premiere": false
   },
   {
@@ -468,6 +444,18 @@
     "premiere": false
   },
   {
+    "id": "852uUMqwqIw",
+    "vidUrl": "https://youtu.be/852uUMqwqIw",
+    "vidTitle": "\u3010YU-GI-OH! Master Duel\u3011LABRYNTH! CUTE GIRLS! \ud83d\ude33",
+    "channelId": "@rosemi_lovelock",
+    "channelName": "Rosemi Lovelock\u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/dIXH0sOv8hWRp2KlAz4jb7D5JHLaRgLSi2QTWv8mKqbuLQV-tSpvR9tmBNy50zEVSLaNGVpQgA=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Wosemi",
+    "scheduledStartTime": "2024-04-28T16:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "JfWcpwQwq8A",
     "vidUrl": "https://youtu.be/JfWcpwQwq8A",
     "vidTitle": "\u3010MONETIZATION STREAM!!! YIPPEEE\u3011GIVE ME YOUR MONEY\ud83d\udc12\u3010Sarugaku Leon Jr. | Globie\u3011",
@@ -694,6 +682,18 @@
     "scheduledStartTime": "2024-04-28T22:00:00Z",
     "actualStartTime": "",
     "premiere": true
+  },
+  {
+    "id": "hSAw6RxyIfY",
+    "vidUrl": "https://youtu.be/hSAw6RxyIfY",
+    "vidTitle": "\u3010Bum Simulator\u3011gotta pee on em all !!!\u3010Yume+ | Mero Umiko\u3011",
+    "channelId": "@meroumiko",
+    "channelName": "Mero Umiko \u3010Yume+\u3011",
+    "channelThumb": "https://yt3.ggpht.com/ao0Uyr-lSSR-cD9QJVrID38symffMEms-OUHRGu-i1DBBybDZglU9ELIgv6YtjBDBY6o0das7g=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Mero",
+    "scheduledStartTime": "2024-04-28T22:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
   },
   {
     "id": "nf9m7hj7uZY",
@@ -1757,6 +1757,19 @@
     "premiere": false
   },
   {
+    "id": "UiMFTXJv-Rw",
+    "vidUrl": "https://youtu.be/UiMFTXJv-Rw",
+    "vidTitle": "\u300aREFIND SELF\u300bANOTHER ROUND AT LIFE!!!! LET'S NOT MESS IT UP\u3010Sera Kesera | bondliveEN\u3011#shorts #vtuber",
+    "channelId": "@sera_bondlive",
+    "channelName": "Sera Kesera\u3010bondlive EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/9l1SuUcHbk3uo-zEZGGsE-ND7ePlrIAl4g6QoUMl98RzA7JCwlPAK4pshZ3ZO61tHhkyhj8bag=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Sera",
+    "scheduledStartTime": "2024-04-28T02:00:00Z",
+    "actualStartTime": "2024-04-28T01:58:52Z",
+    "premiere": false
+  },
+  {
     "id": "XZ9y75NE0eY",
     "vidUrl": "https://youtu.be/XZ9y75NE0eY",
     "vidTitle": "3D DEBUT AFTER PARTY \u3010NIJISANJI EN | Enna Alouette\u3011",
@@ -1767,6 +1780,19 @@
     "shortName": "Enna",
     "scheduledStartTime": "2024-04-28T02:15:00Z",
     "actualStartTime": "2024-04-28T02:15:48Z",
+    "premiere": false
+  },
+  {
+    "id": "VNgQTHy1PO8",
+    "vidUrl": "https://youtu.be/VNgQTHy1PO8",
+    "vidTitle": "Exposing my VIEWERS RED/GREEN FLAGS \u3010NIJISANJI EN | Ver Vermillion\u3011",
+    "channelId": "@ververmillion",
+    "channelName": "Ver Vermillion\u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/QwgUIFhcWKt-yHJ19FqCYelMr9M4fL1JCYuL14ZwdeggK08tKrvqEx9ZU99Tv7HVOaGFA0oPng=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Ver",
+    "scheduledStartTime": "2024-04-28T02:30:00Z",
+    "actualStartTime": "2024-04-28T02:32:03Z",
     "premiere": false
   },
   {

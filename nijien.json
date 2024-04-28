@@ -1,17 +1,5 @@
 [
   {
-    "id": "VNgQTHy1PO8",
-    "vidUrl": "https://youtu.be/VNgQTHy1PO8",
-    "vidTitle": "Exposing my VIEWERS RED/GREEN FLAGS \u3010NIJISANJI EN | Ver Vermillion\u3011",
-    "channelId": "@ververmillion",
-    "channelName": "Ver Vermillion\u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/QwgUIFhcWKt-yHJ19FqCYelMr9M4fL1JCYuL14ZwdeggK08tKrvqEx9ZU99Tv7HVOaGFA0oPng=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Ver",
-    "scheduledStartTime": "2024-04-28T02:30:00Z",
-    "actualStartTime": "2024-04-28T02:32:03Z",
-    "premiere": false
-  },
-  {
     "id": "x9IhJDnqeUE",
     "vidUrl": "https://youtu.be/x9IhJDnqeUE",
     "vidTitle": "\u3010Stardew valley\u3011  #5 \u5996\u7cbe\u306e\u8fb2\u5712\u30e9\u30a4\u30d5\ud83c\udf31 \u3010\u306b\u3058\u3055\u3093\u3058 | \u30bb\u30d5\u30a3\u30ca\u3011",
@@ -80,6 +68,18 @@
     "channelThumb": "https://yt3.ggpht.com/wmFEylEWSzThPd3-AIufbxVP-_JOTI8ru_Pf1JI8RQ2Af4EoPDUXpT7n22PXl6m_vAq8p28lxw=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Vox",
     "scheduledStartTime": "2024-04-28T14:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "852uUMqwqIw",
+    "vidUrl": "https://youtu.be/852uUMqwqIw",
+    "vidTitle": "\u3010YU-GI-OH! Master Duel\u3011LABRYNTH! CUTE GIRLS! \ud83d\ude33",
+    "channelId": "@rosemi_lovelock",
+    "channelName": "Rosemi Lovelock\u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/dIXH0sOv8hWRp2KlAz4jb7D5JHLaRgLSi2QTWv8mKqbuLQV-tSpvR9tmBNy50zEVSLaNGVpQgA=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Wosemi",
+    "scheduledStartTime": "2024-04-28T16:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -190,6 +190,19 @@
     "shortName": "Enna",
     "scheduledStartTime": "2024-04-28T02:15:00Z",
     "actualStartTime": "2024-04-28T02:15:48Z",
+    "premiere": false
+  },
+  {
+    "id": "VNgQTHy1PO8",
+    "vidUrl": "https://youtu.be/VNgQTHy1PO8",
+    "vidTitle": "Exposing my VIEWERS RED/GREEN FLAGS \u3010NIJISANJI EN | Ver Vermillion\u3011",
+    "channelId": "@ververmillion",
+    "channelName": "Ver Vermillion\u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/QwgUIFhcWKt-yHJ19FqCYelMr9M4fL1JCYuL14ZwdeggK08tKrvqEx9ZU99Tv7HVOaGFA0oPng=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Ver",
+    "scheduledStartTime": "2024-04-28T02:30:00Z",
+    "actualStartTime": "2024-04-28T02:32:03Z",
     "premiere": false
   }
 ]
