@@ -1581,5 +1581,18 @@
       "actualEndTime": "2024-04-19T03:31:37Z",
       "scheduledStartTime": "2024-04-18T23:00:00Z"
     }
+  },
+  "e4u1dGWifbw": {
+    "id": "e4u1dGWifbw",
+    "snippet": {
+      "publishedAt": "2024-04-22T22:03:52Z",
+      "channelId": "UCbDHIS0NpXROhYjsaXQX4pA",
+      "title": "[ KARAOKE RELAY ]Pros-in-Cons VTuber Karaoke Relay [ Yae Yugiri | V4Mirai ]",
+      "channelTitle": "Yae Yugiri Ch.\u3010V4Mirai\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-04T23:40:00Z",
+      "activeLiveChatId": "Cg0KC2U0dTFkR1dpZmJ3KicKGFVDYkRISVMwTnBYUk9oWWpzYVhRWDRwQRILZTR1MWRHV2lmYnc"
+    }
   }
 }
