@@ -2912,15 +2912,16 @@
   "jttfUTQIFwI": {
     "id": "jttfUTQIFwI",
     "snippet": {
-      "publishedAt": "2024-04-25T22:09:24Z",
+      "publishedAt": "2024-04-27T00:00:06Z",
       "channelId": "UCv1ThyE4KVYnnVY8GLftnoA",
       "title": "Butterfly Dance\u3010 Serina Maiko | V4Mirai Original Song \u3011",
       "channelTitle": "Serina Maiko Ch.\u3010V4Mirai\u3011",
       "defaultLanguage": "en"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-04-27T00:00:00Z",
-      "activeLiveChatId": "Cg0KC2p0dGZVVFFJRndJKicKGFVDdjFUaHlFNEtWWW5uVlk4R0xmdG5vQRILanR0ZlVUUUlGd0k"
+      "actualStartTime": "2024-04-27T00:00:06Z",
+      "actualEndTime": "2024-04-27T00:05:28Z",
+      "scheduledStartTime": "2024-04-27T00:00:00Z"
     }
   },
   "hvwf_IQ54Hs": {
@@ -2933,7 +2934,7 @@
       "defaultLanguage": "en"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-04-27T00:00:00Z",
+      "scheduledStartTime": "2024-04-28T21:00:00Z",
       "activeLiveChatId": "Cg0KC2h2d2ZfSVE1NEhzKicKGFVDdjFUaHlFNEtWWW5uVlk4R0xmdG5vQRILaHZ3Zl9JUTU0SHM"
     }
   },

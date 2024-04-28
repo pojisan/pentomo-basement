@@ -2,7 +2,7 @@
   "5-GzF75ZLvs": {
     "id": "5-GzF75ZLvs",
     "snippet": {
-      "publishedAt": "2024-04-17T00:13:12Z",
+      "publishedAt": "2024-04-17T04:02:29Z",
       "channelId": "UCZl92wMipjYFc1Ulm9Yy65g",
       "title": "\u3010Princess Peach: Showtime!\u3011 Thieving My Way to the FINAL FLOOR!\u3010Yuno Hanaki\u3011",
       "channelTitle": "Yuno Hanaki Ch. \u83ef\u9b3c\u7d50\u671b \u3010kawaii\u3011",
@@ -10,9 +10,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-04-17T01:09:51Z",
-      "scheduledStartTime": "2024-04-17T01:00:00Z",
-      "concurrentViewers": "43",
-      "activeLiveChatId": "Cg0KCzUtR3pGNzVaTHZzKicKGFVDWmw5MndNaXBqWUZjMVVsbTlZeTY1ZxILNS1HekY3NVpMdnM"
+      "actualEndTime": "2024-04-17T03:54:07Z",
+      "scheduledStartTime": "2024-04-17T01:00:00Z"
     }
   },
   "Ky-Q5glRyRY": {
@@ -2495,8 +2494,9 @@
       "defaultLanguage": "en"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-04-28T00:00:00Z",
-      "activeLiveChatId": "Cg0KC2VLUTBBWlM4LWJvKicKGFVDWmw5MndNaXBqWUZjMVVsbTlZeTY1ZxILZUtRMEFaUzgtYm8"
+      "actualStartTime": "2024-04-28T00:07:42Z",
+      "actualEndTime": "2024-04-28T02:50:44Z",
+      "scheduledStartTime": "2024-04-28T00:00:00Z"
     }
   },
   "eVnTnurMDLc": {
@@ -2517,15 +2517,16 @@
   "3S82soEDksc": {
     "id": "3S82soEDksc",
     "snippet": {
-      "publishedAt": "2024-04-21T14:07:56Z",
+      "publishedAt": "2024-04-26T23:23:09Z",
       "channelId": "UCZl92wMipjYFc1Ulm9Yy65g",
       "title": "\u3010Yunotebook #02.5\u3011Analyzing YOUR FAV CHARACTERS by color! \u3010Yuno Hanaki\u3011",
       "channelTitle": "Yuno Hanaki Ch. \u83ef\u9b3c\u7d50\u671b \u3010kawaii\u3011",
       "defaultLanguage": "en"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-04-26T20:30:00Z",
-      "activeLiveChatId": "Cg0KCzNTODJzb0VEa3NjKicKGFVDWmw5MndNaXBqWUZjMVVsbTlZeTY1ZxILM1M4MnNvRURrc2M"
+      "actualStartTime": "2024-04-26T20:33:06Z",
+      "actualEndTime": "2024-04-26T23:14:12Z",
+      "scheduledStartTime": "2024-04-26T20:30:00Z"
     }
   },
   "BvMMDkdGlK4": {

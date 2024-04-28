@@ -44,27 +44,29 @@
   "XDJ9XlI7_qg": {
     "id": "XDJ9XlI7_qg",
     "snippet": {
-      "publishedAt": "2024-04-14T07:47:06Z",
+      "publishedAt": "2024-04-19T17:39:07Z",
       "channelId": "UCMmy_EmxnYQ8aar8fNZrumw",
-      "title": "\u3010The Abduction\u3011kidnapping @FuyoCloverfield@rakunpoko",
+      "title": "\u3010The Abduction\u3011kidnapping @rakunpoko",
       "channelTitle": "Kattarina Qutie Ch. idol-EN"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-04-18T16:00:00Z",
-      "activeLiveChatId": "Cg0KC1hESjlYbEk3X3FnKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILWERKOVhsSTdfcWc"
+      "actualStartTime": "2024-04-19T14:05:41Z",
+      "actualEndTime": "2024-04-19T17:29:54Z",
+      "scheduledStartTime": "2024-04-19T14:00:00Z"
     }
   },
   "9k46INTvrvk": {
     "id": "9k46INTvrvk",
     "snippet": {
-      "publishedAt": "2024-04-14T07:42:17Z",
+      "publishedAt": "2024-04-17T19:00:51Z",
       "channelId": "UCMmy_EmxnYQ8aar8fNZrumw",
       "title": "\u3010Handcamera\u3011trying japanese snacks (tokyo treat 2)",
       "channelTitle": "Kattarina Qutie Ch. idol-EN"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-04-17T16:00:00Z",
-      "activeLiveChatId": "Cg0KCzlrNDZJTlR2cnZrKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILOWs0NklOVHZydms"
+      "actualStartTime": "2024-04-17T16:13:25Z",
+      "actualEndTime": "2024-04-17T18:49:13Z",
+      "scheduledStartTime": "2024-04-17T16:00:00Z"
     }
   },
   "X39PClbLo64": {
@@ -581,14 +583,15 @@
   "tAgsDns0QK4": {
     "id": "tAgsDns0QK4",
     "snippet": {
-      "publishedAt": "2024-04-23T15:54:08Z",
+      "publishedAt": "2024-04-26T21:19:55Z",
       "channelId": "UCMmy_EmxnYQ8aar8fNZrumw",
       "title": "\u3010This Bed We Made\u3011we have a mystery to solve",
       "channelTitle": "Kattarina Qutie Ch. idol-EN"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-04-26T16:00:00Z",
-      "activeLiveChatId": "Cg0KC3RBZ3NEbnMwUUs0KicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILdEFnc0RuczBRSzQ"
+      "actualStartTime": "2024-04-26T16:08:47Z",
+      "actualEndTime": "2024-04-26T20:57:48Z",
+      "scheduledStartTime": "2024-04-26T16:00:00Z"
     }
   },
   "cjrH1qH1UbU": {
@@ -614,7 +617,9 @@
       "channelTitle": "Kattarina Qutie Ch. idol-EN"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-04-28T07:03:59Z",
       "scheduledStartTime": "2024-04-28T07:00:00Z",
+      "concurrentViewers": "36",
       "activeLiveChatId": "Cg0KC1ZjbUUyQ2FpRDJzKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILVmNtRTJDYWlEMnM"
     }
   }
