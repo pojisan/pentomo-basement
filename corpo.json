@@ -24,18 +24,6 @@
     "premiere": false
   },
   {
-    "id": "1ahVNUfA594",
-    "vidUrl": "https://youtu.be/1ahVNUfA594",
-    "vidTitle": "[Sky: Children of the Light]  LETS REACH FOR THE SKY\u3010MyHolo TV\u3011",
-    "channelId": "@lilianavampaiachannel",
-    "channelName": "Liliana Vampaia Ch. \u5438\u8840\u9b3c \u30ea\u30ea\u30a2\u30ca\u3010MyHolo TV\u3011",
-    "channelThumb": "https://yt3.ggpht.com/jDg_xNpond8sKtcjH4vCRxgXZssfluUwbekA-wZsYWJeOmlZqjyy1XEd2FUK9hZcwRH_LGErSAY=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Lili",
-    "scheduledStartTime": "2024-04-28T14:00:00Z",
-    "actualStartTime": "2024-04-28T14:00:50Z",
-    "premiere": false
-  },
-  {
     "id": "DpwdrgpzpCA",
     "vidUrl": "https://youtu.be/DpwdrgpzpCA",
     "vidTitle": "SUMMERSHINE AFTERPARTY! Post-concert chismisan!\ud83e\udd29 #vtuber #shorts",
@@ -45,18 +33,6 @@
     "shortName": "Lila",
     "scheduledStartTime": "2024-04-28T14:00:00Z",
     "actualStartTime": "2024-04-28T14:08:11Z",
-    "premiere": false
-  },
-  {
-    "id": "ljkJrIO-WWY",
-    "vidUrl": "https://youtu.be/ljkJrIO-WWY",
-    "vidTitle": "Unarchive Karaoke 11 Months Celebration #shortslive #shorts",
-    "channelId": "@amase_io",
-    "channelName": "Amase Io CH. \u5929\u702c \u30a4\u30aa\u3010Project Memoire\u3011",
-    "channelThumb": "https://yt3.ggpht.com/X1sgPuBT-qyqDLp-Z42L1Xx6FqUOvvgaTeOz8DhHobGpDBiCOsmAcvzXRRUXihT9mv0QrEPPfQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Io",
-    "scheduledStartTime": "2024-04-28T14:00:00Z",
-    "actualStartTime": "2024-04-28T14:11:32Z",
     "premiere": false
   },
   {
@@ -2173,6 +2149,32 @@
     "shortName": "Ambros",
     "scheduledStartTime": "2024-04-28T08:00:00Z",
     "actualStartTime": "2024-04-28T07:57:14Z",
+    "premiere": false
+  },
+  {
+    "id": "1ahVNUfA594",
+    "vidUrl": "https://youtu.be/1ahVNUfA594",
+    "vidTitle": "[Sky: Children of the Light]  LETS REACH FOR THE SKY\u3010MyHolo TV\u3011",
+    "channelId": "@lilianavampaiachannel",
+    "channelName": "Liliana Vampaia Ch. \u5438\u8840\u9b3c \u30ea\u30ea\u30a2\u30ca\u3010MyHolo TV\u3011",
+    "channelThumb": "https://yt3.ggpht.com/jDg_xNpond8sKtcjH4vCRxgXZssfluUwbekA-wZsYWJeOmlZqjyy1XEd2FUK9hZcwRH_LGErSAY=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Lili",
+    "scheduledStartTime": "2024-04-28T14:00:00Z",
+    "actualStartTime": "2024-04-28T14:00:50Z",
+    "premiere": false
+  },
+  {
+    "id": "ljkJrIO-WWY",
+    "vidUrl": "https://youtu.be/ljkJrIO-WWY",
+    "vidTitle": "Unarchive Karaoke 11 Months Celebration #shortslive #shorts",
+    "channelId": "@amase_io",
+    "channelName": "Amase Io CH. \u5929\u702c \u30a4\u30aa\u3010Project Memoire\u3011",
+    "channelThumb": "https://yt3.ggpht.com/X1sgPuBT-qyqDLp-Z42L1Xx6FqUOvvgaTeOz8DhHobGpDBiCOsmAcvzXRRUXihT9mv0QrEPPfQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Io",
+    "scheduledStartTime": "2024-04-28T14:00:00Z",
+    "actualStartTime": "2024-04-28T14:11:32Z",
     "premiere": false
   },
   {
