@@ -1,17 +1,5 @@
 [
   {
-    "id": "r3dV8LUCkgk",
-    "vidUrl": "https://youtu.be/r3dV8LUCkgk",
-    "vidTitle": "\u3010\u6700\u6050 - AOONI-\u3011HE IS BACK  \u9752\u9b3c\u304c\uff013D\u306b\u306a\u3063\u3066\u5e30\u3063\u3066\u304d\u305f\uff01\u3010NIJISANJI EN Meloco Kyoran\u3011",
-    "channelId": "@melocokyoran",
-    "channelName": "Meloco Kyoran\u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/R4_Tzx3rBLlHOAL8G5DvpzPs4Cwutg_22ISvrp0s5_3I3POjHeZVQgui9z3F3cC9EEV1B-dmc6U=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Meloco",
-    "scheduledStartTime": "2024-04-28T12:15:00Z",
-    "actualStartTime": "2024-04-28T12:16:43Z",
-    "premiere": false
-  },
-  {
     "id": "HwcQznx3Kjo",
     "vidUrl": "https://youtu.be/HwcQznx3Kjo",
     "vidTitle": "\u3010League of Legends\u3011PLAYING WITH CHARLINGS ALL NIGHT? \ud83d\udd78\ufe0f \u3010VOLs\u3011",
@@ -33,18 +21,6 @@
     "shortName": "Aruri",
     "scheduledStartTime": "2024-04-28T13:00:00Z",
     "actualStartTime": "2024-04-28T13:04:45Z",
-    "premiere": false
-  },
-  {
-    "id": "DpwdrgpzpCA",
-    "vidUrl": "https://youtu.be/DpwdrgpzpCA",
-    "vidTitle": "SUMMERSHINE AFTERPARTY! Post-concert chismisan!\ud83e\udd29 #vtuber #shorts",
-    "channelId": "@lila_daybreak",
-    "channelName": "Lila Maria Ch.\u3010DAYBREAK\u3011",
-    "channelThumb": "https://yt3.ggpht.com/d_xPe3A4nrO3B3qfhtdnJjS7d12YfuYt-b6Cg_A_17KFMJaZk1tbC1RXPHWqB09ItKE8UPkOpA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Lila",
-    "scheduledStartTime": "2024-04-28T14:00:00Z",
-    "actualStartTime": "2024-04-28T14:08:11Z",
     "premiere": false
   },
   {
@@ -2100,6 +2076,19 @@
     "shortName": "Ambros",
     "scheduledStartTime": "2024-04-28T08:00:00Z",
     "actualStartTime": "2024-04-28T07:57:14Z",
+    "premiere": false
+  },
+  {
+    "id": "r3dV8LUCkgk",
+    "vidUrl": "https://youtu.be/r3dV8LUCkgk",
+    "vidTitle": "\u3010\u6700\u6050 - AOONI-\u3011HE IS BACK  \u9752\u9b3c\u304c\uff013D\u306b\u306a\u3063\u3066\u5e30\u3063\u3066\u304d\u305f\uff01\u3010NIJISANJI EN Meloco Kyoran\u3011",
+    "channelId": "@melocokyoran",
+    "channelName": "Meloco Kyoran\u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/R4_Tzx3rBLlHOAL8G5DvpzPs4Cwutg_22ISvrp0s5_3I3POjHeZVQgui9z3F3cC9EEV1B-dmc6U=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Meloco",
+    "scheduledStartTime": "2024-04-28T12:15:00Z",
+    "actualStartTime": "2024-04-28T12:16:43Z",
     "premiere": false
   },
   {
