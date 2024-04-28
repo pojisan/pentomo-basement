@@ -120,18 +120,6 @@
     "premiere": false
   },
   {
-    "id": "zyqJqp7mYZE",
-    "vidUrl": "https://youtu.be/zyqJqp7mYZE",
-    "vidTitle": "I've Decided It Is Now Summer, Lets Go To The Beach :D",
-    "channelId": "@briatcookiebox",
-    "channelName": "BriAtCookiebox",
-    "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_nC7dRnnTDxs3724EZNLjdWAX7n5w7Vpv6hM9ss3dUJ_w=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Bri",
-    "scheduledStartTime": "2024-04-28T00:00:00Z",
-    "actualStartTime": "2024-04-27T23:59:10Z",
-    "premiere": false
-  },
-  {
     "id": "QvEfg2n0pNM",
     "vidUrl": "https://youtu.be/QvEfg2n0pNM",
     "vidTitle": "\u3010Kokone's Boutique ep.10\u3011Dressing up @NopiTulpe in cute date outfit!",
@@ -391,6 +379,18 @@
     "channelName": "Lida Oriana Ch.",
     "channelThumb": "https://yt3.ggpht.com/jPWRHtDGZ3b-HXw__M_4Le5LhYAwxpcy7_Inwji6RhxGC7NK34Nihv_LwLgjtCfdTMuDE92y=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Lida",
+    "scheduledStartTime": "2024-04-28T03:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "x9IhJDnqeUE",
+    "vidUrl": "https://youtu.be/x9IhJDnqeUE",
+    "vidTitle": "\u3010Stardew valley\u3011  #5 \u5996\u7cbe\u306e\u8fb2\u5712\u30e9\u30a4\u30d5\ud83c\udf31 \u3010\u306b\u3058\u3055\u3093\u3058 | \u30bb\u30d5\u30a3\u30ca\u3011",
+    "channelId": "@seffyna",
+    "channelName": "\u30bb\u30d5\u30a3\u30ca / Seffyna\u3010\u306b\u3058\u3055\u3093\u3058\u3011",
+    "channelThumb": "https://yt3.ggpht.com/0QDtmroClBOCB8eZSOVWlGObtXc7wf8tk-USsyvw5nY-i_IE8xsxebzGBzD5OfHGlNBICUmgDg=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Seffyna",
     "scheduledStartTime": "2024-04-28T03:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -1899,16 +1899,16 @@
     "premiere": false
   },
   {
-    "id": "_Z2kQBAIhfw",
-    "vidUrl": "https://youtu.be/_Z2kQBAIhfw",
-    "vidTitle": "\u3010ASMR\u3011HyperX Keyboard and microphone review!",
-    "channelId": "@nerissaravencroft",
-    "channelName": "Nerissa Ravencroft Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/JDCIBWj11TgjY2Uyba_efZ0n5hzjysMB9GxkvHGkIN_sfFQJR5mx3iVPqgJ96IPcYjZpCLsb=s88-c-k-c0x00ffffff-no-rj",
+    "id": "zyqJqp7mYZE",
+    "vidUrl": "https://youtu.be/zyqJqp7mYZE",
+    "vidTitle": "I've Decided It Is Now Summer, Lets Go To The Beach :D",
+    "channelId": "@briatcookiebox",
+    "channelName": "BriAtCookiebox",
+    "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_nC7dRnnTDxs3724EZNLjdWAX7n5w7Vpv6hM9ss3dUJ_w=s88-c-k-c0x00ffffff-no-rj",
     "graveyard": true,
-    "shortName": "Nerissa",
+    "shortName": "Bri",
     "scheduledStartTime": "2024-04-28T00:00:00Z",
-    "actualStartTime": "2024-04-27T23:55:03Z",
+    "actualStartTime": "2024-04-27T23:59:10Z",
     "premiere": false
   },
   {

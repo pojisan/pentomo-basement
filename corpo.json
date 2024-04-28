@@ -108,18 +108,6 @@
     "premiere": false
   },
   {
-    "id": "zyqJqp7mYZE",
-    "vidUrl": "https://youtu.be/zyqJqp7mYZE",
-    "vidTitle": "I've Decided It Is Now Summer, Lets Go To The Beach :D",
-    "channelId": "@briatcookiebox",
-    "channelName": "BriAtCookiebox",
-    "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_nC7dRnnTDxs3724EZNLjdWAX7n5w7Vpv6hM9ss3dUJ_w=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Bri",
-    "scheduledStartTime": "2024-04-28T00:00:00Z",
-    "actualStartTime": "2024-04-27T23:59:10Z",
-    "premiere": false
-  },
-  {
     "id": "QvEfg2n0pNM",
     "vidUrl": "https://youtu.be/QvEfg2n0pNM",
     "vidTitle": "\u3010Kokone's Boutique ep.10\u3011Dressing up @NopiTulpe in cute date outfit!",
@@ -1944,6 +1932,19 @@
     "shortName": "Mimosa",
     "scheduledStartTime": "2024-04-27T23:00:00Z",
     "actualStartTime": "2024-04-27T22:59:42Z",
+    "premiere": false
+  },
+  {
+    "id": "zyqJqp7mYZE",
+    "vidUrl": "https://youtu.be/zyqJqp7mYZE",
+    "vidTitle": "I've Decided It Is Now Summer, Lets Go To The Beach :D",
+    "channelId": "@briatcookiebox",
+    "channelName": "BriAtCookiebox",
+    "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_nC7dRnnTDxs3724EZNLjdWAX7n5w7Vpv6hM9ss3dUJ_w=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Bri",
+    "scheduledStartTime": "2024-04-28T00:00:00Z",
+    "actualStartTime": "2024-04-27T23:59:10Z",
     "premiere": false
   },
   {
