@@ -7794,27 +7794,29 @@
   "V0m7bsAqWzQ": {
     "id": "V0m7bsAqWzQ",
     "snippet": {
-      "publishedAt": "2024-04-28T05:29:16Z",
+      "publishedAt": "2024-04-28T12:00:06Z",
       "channelId": "UCwaS8_S7kMiKA3izlTWHbQg",
       "title": "\u3010Moonlight Destiny - \u308a\u3059\u3053 from STAR\u2606ANIS \u3011Cover by Maria Marionette & Elira Pendora \u2661 NIJISANJI E\uff2e",
       "channelTitle": "Maria Marionette \u3010NIJISANJI EN\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-04-28T12:00:00Z",
-      "activeLiveChatId": "Cg0KC1YwbTdic0FxV3pRKicKGFVDd2FTOF9TN2tNaUtBM2l6bFRXSGJRZxILVjBtN2JzQXFXelE"
+      "actualStartTime": "2024-04-28T12:00:06Z",
+      "actualEndTime": "2024-04-28T12:07:33Z",
+      "scheduledStartTime": "2024-04-28T12:00:00Z"
     }
   },
   "QaQy5BZF3hY": {
     "id": "QaQy5BZF3hY",
     "snippet": {
-      "publishedAt": "2024-04-28T06:14:49Z",
+      "publishedAt": "2024-04-28T15:39:27Z",
       "channelId": "UCwaS8_S7kMiKA3izlTWHbQg",
       "title": "\u3010AFTERPARTY\u3011Behind the Moonlight Destiny\u3010Maria Marionette | NIJISANJI EN\u3011",
       "channelTitle": "Maria Marionette \u3010NIJISANJI EN\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-04-28T13:00:00Z",
-      "activeLiveChatId": "Cg0KC1FhUXk1QlpGM2hZKicKGFVDd2FTOF9TN2tNaUtBM2l6bFRXSGJRZxILUWFReTVCWkYzaFk"
+      "actualStartTime": "2024-04-28T13:01:35Z",
+      "actualEndTime": "2024-04-28T15:28:23Z",
+      "scheduledStartTime": "2024-04-28T13:00:00Z"
     }
   }
 }
