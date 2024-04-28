@@ -120,8 +120,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-04-28T20:57:53Z",
       "actualEndTime": "2024-04-28T21:17:45Z",
-      "scheduledStartTime": "2024-04-28T21:00:00Z",
-      "activeLiveChatId": "Cg0KC2FKQk9rMzJyejljKicKGFVDcWxndGs5SF8xR29XdHZXOFZpaTM4dxILYUpCT2szMnJ6OWM"
+      "scheduledStartTime": "2024-04-28T21:00:00Z"
     }
   },
   "orZemLcLCss": {
@@ -217,8 +216,37 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-04-28T21:20:07Z",
+      "actualEndTime": "2024-04-28T21:23:13Z",
+      "scheduledStartTime": "2024-04-28T21:20:00Z"
+    }
+  },
+  "rWSGVdxyokw": {
+    "id": "rWSGVdxyokw",
+    "snippet": {
+      "publishedAt": "2024-04-28T21:21:57Z",
+      "channelId": "UCqlgtk9H_1GoWtvW8Vii38w",
+      "title": "\u3010 Placid Plastic Duck Simulator \u3011Quack 3 the real one\u3010Alicja Da Lontano | Globie Gen 2 Solstia\u3011",
+      "channelTitle": "Alicja Da Lontano ch. \u3010globie\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-04-28T21:23:57Z",
+      "actualEndTime": "2024-04-28T21:31:08Z",
       "scheduledStartTime": "2024-04-28T21:20:00Z",
-      "activeLiveChatId": "Cg0KCzc2Y0RQS0JNT1lzKicKGFVDcWxndGs5SF8xR29XdHZXOFZpaTM4dxILNzZjRFBLQk1PWXM"
+      "activeLiveChatId": "Cg0KC3JXU0dWZHh5b2t3KicKGFVDcWxndGs5SF8xR29XdHZXOFZpaTM4dxILcldTR1ZkeHlva3c"
+    }
+  },
+  "gHOwnFzBtMo": {
+    "id": "gHOwnFzBtMo",
+    "snippet": {
+      "publishedAt": "2024-04-28T21:29:58Z",
+      "channelId": "UCqlgtk9H_1GoWtvW8Vii38w",
+      "title": "\u3010 Placid Plastic Duck Simulator \u3011Quack 4 New Hope\u3010Alicja Da Lontano | Globie Gen 2 Solstia\u3011",
+      "channelTitle": "Alicja Da Lontano ch. \u3010globie\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-04-28T21:31:27Z",
+      "scheduledStartTime": "2024-04-28T21:30:00Z",
+      "activeLiveChatId": "Cg0KC2dIT3duRnpCdE1vKicKGFVDcWxndGs5SF8xR29XdHZXOFZpaTM4dxILZ0hPd25GekJ0TW8"
     }
   }
 }
