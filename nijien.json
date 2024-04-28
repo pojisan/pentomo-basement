@@ -1,17 +1,5 @@
 [
   {
-    "id": "XBG8uxMaYDQ",
-    "vidUrl": "https://youtu.be/XBG8uxMaYDQ",
-    "vidTitle": "smile :)",
-    "channelId": "@hexhaywire",
-    "channelName": "Hex Haywire\u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/krG1d8TvRL7GUoOsXXTUpuFQkgpRQkpx8402WzitwxFZOVz8z6UqsPsoUOERJkuJ8FLqQi0Gpg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Hex",
-    "scheduledStartTime": "2024-04-28T15:45:00Z",
-    "actualStartTime": "2024-04-28T16:04:47Z",
-    "premiere": false
-  },
-  {
     "id": "852uUMqwqIw",
     "vidUrl": "https://youtu.be/852uUMqwqIw",
     "vidTitle": "\u3010YU-GI-OH! Master Duel\u3011LABRYNTH! CUTE GIRLS! \ud83d\ude33",
@@ -80,6 +68,18 @@
     "channelThumb": "https://yt3.ggpht.com/FqSL5KhR59LugywQ6QJo_fH98JS7m8WWDAfvziM3R_kyW79EmY-iEWsF_dlOcqCRdkXeQz4D=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Elira",
     "scheduledStartTime": "2024-04-28T22:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "e7TNjXjlR_w",
+    "vidUrl": "https://youtu.be/e7TNjXjlR_w",
+    "vidTitle": "\u3010ANIMAL CROSSING\u3011DECORATION CONTINUES!\u3010NIJISANJI EN | Vantacrow Bringer\u3011",
+    "channelId": "@vantacrowbringer",
+    "channelName": "Vantacrow Bringer \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/GLPkvp_8o7OvZ3q57IpqDSHIyv6OqZFK6tO1egzLoMjE19EBlo3tISEMIOLEvkC5jnl2Uus93A=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Vanta",
+    "scheduledStartTime": "2024-04-29T01:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -177,6 +177,19 @@
     "shortName": "Seffyna",
     "scheduledStartTime": "2024-05-02T11:00:00Z",
     "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "XBG8uxMaYDQ",
+    "vidUrl": "https://youtu.be/XBG8uxMaYDQ",
+    "vidTitle": "smile :)",
+    "channelId": "@hexhaywire",
+    "channelName": "Hex Haywire\u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/krG1d8TvRL7GUoOsXXTUpuFQkgpRQkpx8402WzitwxFZOVz8z6UqsPsoUOERJkuJ8FLqQi0Gpg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Hex",
+    "scheduledStartTime": "2024-04-28T15:45:00Z",
+    "actualStartTime": "2024-04-28T16:04:47Z",
     "premiere": false
   }
 ]

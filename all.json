@@ -1,17 +1,5 @@
 [
   {
-    "id": "HwcQznx3Kjo",
-    "vidUrl": "https://youtu.be/HwcQznx3Kjo",
-    "vidTitle": "\u3010League of Legends\u3011PLAYING WITH CHARLINGS ALL NIGHT? \ud83d\udd78\ufe0f \u3010VOLs\u3011",
-    "channelId": "@mayunocharlotte-vols",
-    "channelName": "Mayuno A. Charlotte - VOLs",
-    "channelThumb": "https://yt3.ggpht.com/I8IJ1Mc_mhQXeqAzhvpXj6kFF_LOMS1MeIpEBgBt1tt2DuqupCXmAgTjy9LLGLNtdjQbGE5jIg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Charlotte",
-    "scheduledStartTime": "2024-04-28T12:45:00Z",
-    "actualStartTime": "2024-04-28T12:49:30Z",
-    "premiere": false
-  },
-  {
     "id": "DUy48wbIK0Y",
     "vidUrl": "https://youtu.be/DUy48wbIK0Y",
     "vidTitle": "\ud83d\udd34\u3010STARDEW VALLEY\u3011 I AM BACK!! - Let's Catch Up While I Farm \ud83c\udf33\u2728",
@@ -45,18 +33,6 @@
     "shortName": "Raein",
     "scheduledStartTime": "2024-04-28T15:15:00Z",
     "actualStartTime": "2024-04-28T15:01:18Z",
-    "premiere": false
-  },
-  {
-    "id": "XBG8uxMaYDQ",
-    "vidUrl": "https://youtu.be/XBG8uxMaYDQ",
-    "vidTitle": "smile :)",
-    "channelId": "@hexhaywire",
-    "channelName": "Hex Haywire\u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/krG1d8TvRL7GUoOsXXTUpuFQkgpRQkpx8402WzitwxFZOVz8z6UqsPsoUOERJkuJ8FLqQi0Gpg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Hex",
-    "scheduledStartTime": "2024-04-28T15:45:00Z",
-    "actualStartTime": "2024-04-28T16:04:47Z",
     "premiere": false
   },
   {
@@ -188,7 +164,7 @@
     "channelThumb": "https://yt3.ggpht.com/FU6LvWJCONpqZAK_zMBXjRAr9d9vTEd22ZV_MwwMfxaWyNGPgt3a9UkGK3Atguk7uL0DHVVNFYI=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Furi",
     "scheduledStartTime": "2024-04-28T19:00:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-28T19:10:47Z",
     "premiere": false
   },
   {
@@ -564,6 +540,18 @@
     "premiere": false
   },
   {
+    "id": "CJx2pO3U2y4",
+    "vidUrl": "https://youtu.be/CJx2pO3U2y4",
+    "vidTitle": "WTF IS A CARNIVORE DIET AND WHY IS IT SO ****** UP???!",
+    "channelId": "@lutoaraka",
+    "channelName": "Luto Araka / \u65b0\u706b\u308b\u3068",
+    "channelThumb": "https://yt3.ggpht.com/UZmWl3fIe_v7qhM55yXH8edIqTpU79srADtXWiZUDlSBV-HW5JvlB7af06sfg2FC2tR6YF8pEw=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Luto",
+    "scheduledStartTime": "2024-04-29T01:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "R92Hgc-u6Bs",
     "vidUrl": "https://youtu.be/R92Hgc-u6Bs",
     "vidTitle": "SECRET DANGEROUS HANDCAM",
@@ -571,6 +559,18 @@
     "channelName": "Coni Confetti Ch. idol-EN",
     "channelThumb": "https://yt3.ggpht.com/DHI9aYg-eO1nO1PKAyVyDIP7BhuK88nkWcztyfKc-dp0zrdErFkKsbkgC13KqMucq46qreLKpz8=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Coni",
+    "scheduledStartTime": "2024-04-29T01:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "e7TNjXjlR_w",
+    "vidUrl": "https://youtu.be/e7TNjXjlR_w",
+    "vidTitle": "\u3010ANIMAL CROSSING\u3011DECORATION CONTINUES!\u3010NIJISANJI EN | Vantacrow Bringer\u3011",
+    "channelId": "@vantacrowbringer",
+    "channelName": "Vantacrow Bringer \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/GLPkvp_8o7OvZ3q57IpqDSHIyv6OqZFK6tO1egzLoMjE19EBlo3tISEMIOLEvkC5jnl2Uus93A=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Vanta",
     "scheduledStartTime": "2024-04-29T01:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2175,6 +2175,19 @@
     "premiere": false
   },
   {
+    "id": "HwcQznx3Kjo",
+    "vidUrl": "https://youtu.be/HwcQznx3Kjo",
+    "vidTitle": "\u3010League of Legends\u3011PLAYING WITH CHARLINGS ALL NIGHT? \ud83d\udd78\ufe0f \u3010VOLs\u3011",
+    "channelId": "@mayunocharlotte-vols",
+    "channelName": "Mayuno A. Charlotte - VOLs",
+    "channelThumb": "https://yt3.ggpht.com/I8IJ1Mc_mhQXeqAzhvpXj6kFF_LOMS1MeIpEBgBt1tt2DuqupCXmAgTjy9LLGLNtdjQbGE5jIg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Charlotte",
+    "scheduledStartTime": "2024-04-28T12:45:00Z",
+    "actualStartTime": "2024-04-28T12:49:30Z",
+    "premiere": false
+  },
+  {
     "id": "ljkJrIO-WWY",
     "vidUrl": "https://youtu.be/ljkJrIO-WWY",
     "vidTitle": "Unarchive Karaoke 11 Months Celebration #shortslive #shorts",
@@ -2198,6 +2211,19 @@
     "shortName": "Rowa",
     "scheduledStartTime": "2024-04-28T15:00:00Z",
     "actualStartTime": "2024-04-28T14:58:58Z",
+    "premiere": false
+  },
+  {
+    "id": "XBG8uxMaYDQ",
+    "vidUrl": "https://youtu.be/XBG8uxMaYDQ",
+    "vidTitle": "smile :)",
+    "channelId": "@hexhaywire",
+    "channelName": "Hex Haywire\u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/krG1d8TvRL7GUoOsXXTUpuFQkgpRQkpx8402WzitwxFZOVz8z6UqsPsoUOERJkuJ8FLqQi0Gpg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Hex",
+    "scheduledStartTime": "2024-04-28T15:45:00Z",
+    "actualStartTime": "2024-04-28T16:04:47Z",
     "premiere": false
   },
   {
