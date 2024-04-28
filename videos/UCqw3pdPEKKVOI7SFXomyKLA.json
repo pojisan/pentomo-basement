@@ -60,6 +60,7 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-04-28T20:00:37Z",
+      "actualEndTime": "2024-04-28T22:05:02Z",
       "scheduledStartTime": "2024-04-28T20:00:00Z",
       "activeLiveChatId": "Cg0KC1FzVTRfUGFkdFc0KicKGFVDcXczcGRQRUtLVk9JN1NGWG9teUtMQRILUXNVNF9QYWR0VzQ"
     }
@@ -221,6 +222,62 @@
       "channelId": "UCqw3pdPEKKVOI7SFXomyKLA",
       "title": "I was FORCED to reveal VTuber secrets! \ud83e\udd2b\u3010Bonnie Barkswell / globie\u3011",
       "channelTitle": "Bonnie Barkswell ch.\u3010globie\u3011"
+    }
+  },
+  "X558OftY5dU": {
+    "id": "X558OftY5dU",
+    "snippet": {
+      "publishedAt": "2024-04-28T22:08:33Z",
+      "channelId": "UCqw3pdPEKKVOI7SFXomyKLA",
+      "title": "\u3010ASMR 3DIO\u3011Softly chatting with you! \ud83d\udc97\u3010Bonnie Barkswell / globie\u3011",
+      "channelTitle": "Bonnie Barkswell ch.\u3010globie\u3011",
+      "defaultLanguage": "en-US"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-03T20:00:00Z",
+      "activeLiveChatId": "Cg0KC1g1NThPZnRZNWRVKicKGFVDcXczcGRQRUtLVk9JN1NGWG9teUtMQRILWDU1OE9mdFk1ZFU"
+    }
+  },
+  "MSDblBQWubY": {
+    "id": "MSDblBQWubY",
+    "snippet": {
+      "publishedAt": "2024-04-28T14:01:30Z",
+      "channelId": "UCqw3pdPEKKVOI7SFXomyKLA",
+      "title": "Learning to AUTOMATE! \ud83d\udd27Steampunk dog girl plays FACTORIO!\u3010Bonnie Barkswell / globie\u3011",
+      "channelTitle": "Bonnie Barkswell ch.\u3010globie\u3011",
+      "defaultLanguage": "en-US"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-02T20:00:00Z",
+      "activeLiveChatId": "Cg0KC01TRGJsQlFXdWJZKicKGFVDcXczcGRQRUtLVk9JN1NGWG9teUtMQRILTVNEYmxCUVd1Ylk"
+    }
+  },
+  "2gdDboFrU8A": {
+    "id": "2gdDboFrU8A",
+    "snippet": {
+      "publishedAt": "2024-04-28T13:59:54Z",
+      "channelId": "UCqw3pdPEKKVOI7SFXomyKLA",
+      "title": "The FIRST #solstia girls collab! \u2728Ultimate Chicken Horse!\u3010Bonnie Barkswell / globie\u3011",
+      "channelTitle": "Bonnie Barkswell ch.\u3010globie\u3011",
+      "defaultLanguage": "en-US"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-04-30T18:00:00Z",
+      "activeLiveChatId": "Cg0KCzJnZERib0ZyVThBKicKGFVDcXczcGRQRUtLVk9JN1NGWG9teUtMQRILMmdkRGJvRnJVOEE"
+    }
+  },
+  "6lxgSMXIt2Y": {
+    "id": "6lxgSMXIt2Y",
+    "snippet": {
+      "publishedAt": "2024-04-28T13:51:17Z",
+      "channelId": "UCqw3pdPEKKVOI7SFXomyKLA",
+      "title": "Drawing YOU! \ud83c\udfa8Let's design the BARKANEERS!\ud83d\udc3e\u3010Bonnie Barkswell / globie\u3011",
+      "channelTitle": "Bonnie Barkswell ch.\u3010globie\u3011",
+      "defaultLanguage": "en-US"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-04-29T20:00:00Z",
+      "activeLiveChatId": "Cg0KCzZseGdTTVhJdDJZKicKGFVDcXczcGRQRUtLVk9JN1NGWG9teUtMQRILNmx4Z1NNWEl0Mlk"
     }
   }
 }
