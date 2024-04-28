@@ -72,18 +72,6 @@
     "premiere": false
   },
   {
-    "id": "80WRP9CYKL8",
-    "vidUrl": "https://youtu.be/80WRP9CYKL8",
-    "vidTitle": "\u3010JUST CHATTING\u3011I'M BACK",
-    "channelId": "@walkyrialiora",
-    "channelName": "Liora Walkyria Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/zt8XzYjIRVzc0Wf5UrCEUkmdPiKeSpBvavHDwnsMcVKIQRt9E4argsQQPA3swaIS-BFRB0bS8g=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Liora",
-    "scheduledStartTime": "2024-04-27T22:00:00Z",
-    "actualStartTime": "2024-04-27T21:58:20Z",
-    "premiere": false
-  },
-  {
     "id": "lrwT16zWn0Y",
     "vidUrl": "https://youtu.be/lrwT16zWn0Y",
     "vidTitle": "\u3010HANDCAM\u3011Rilakkuma Sewing Kits!!! + Kiiroitori, Korilakkuma\u3010Ran Tsukiha | Production kawaii\u3011",
@@ -117,18 +105,6 @@
     "shortName": "Yoki",
     "scheduledStartTime": "2024-04-27T22:00:00Z",
     "actualStartTime": "2024-04-27T22:07:10Z",
-    "premiere": false
-  },
-  {
-    "id": "wYaFNOTldV0",
-    "vidUrl": "https://youtu.be/wYaFNOTldV0",
-    "vidTitle": "WE RAISED $10k FOR CHARITY (& a big announcement!)",
-    "channelId": "@maevevnu",
-    "channelName": "Maeve Kagekiri Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/chqWD1VyGO8YdOq75KWxKvH0RcBMayDUlmtDeO9Btb__V9Zr-ow3CSoiOfhE3SrynzSC9J8=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Maeve",
-    "scheduledStartTime": "2024-04-27T22:00:00Z",
-    "actualStartTime": "2024-04-27T22:11:08Z",
     "premiere": false
   },
   {
@@ -1958,16 +1934,29 @@
     "premiere": false
   },
   {
-    "id": "48kifByI804",
-    "vidUrl": "https://youtu.be/48kifByI804",
-    "vidTitle": "\u3010TTT\u3011HOT TAKES FOR HALF-ANNIVERSARY\u3010NIJISANJI EN | Victoria Brightshield\u3011",
-    "channelId": "@victoriabrightshield",
-    "channelName": "Victoria Brightshield \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/m5YHCdJM_v2kid17kOVWr59fddjYgfMfd25GEuGGXQaV_57y7l7mD2sV62TmWKIXeD1sVuy4Rek=s88-c-k-c0x00ffffff-no-rj",
+    "id": "80WRP9CYKL8",
+    "vidUrl": "https://youtu.be/80WRP9CYKL8",
+    "vidTitle": "\u3010JUST CHATTING\u3011I'M BACK",
+    "channelId": "@walkyrialiora",
+    "channelName": "Liora Walkyria Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/zt8XzYjIRVzc0Wf5UrCEUkmdPiKeSpBvavHDwnsMcVKIQRt9E4argsQQPA3swaIS-BFRB0bS8g=s88-c-k-c0x00ffffff-no-rj",
     "graveyard": true,
-    "shortName": "Vivi",
-    "scheduledStartTime": "2024-04-27T21:00:00Z",
-    "actualStartTime": "2024-04-27T20:59:59Z",
+    "shortName": "Liora",
+    "scheduledStartTime": "2024-04-27T22:00:00Z",
+    "actualStartTime": "2024-04-27T21:58:20Z",
+    "premiere": false
+  },
+  {
+    "id": "wYaFNOTldV0",
+    "vidUrl": "https://youtu.be/wYaFNOTldV0",
+    "vidTitle": "WE RAISED $10k FOR CHARITY (& a big announcement!)",
+    "channelId": "@maevevnu",
+    "channelName": "Maeve Kagekiri Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/chqWD1VyGO8YdOq75KWxKvH0RcBMayDUlmtDeO9Btb__V9Zr-ow3CSoiOfhE3SrynzSC9J8=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Maeve",
+    "scheduledStartTime": "2024-04-27T22:00:00Z",
+    "actualStartTime": "2024-04-27T22:11:08Z",
     "premiere": false
   },
   {
