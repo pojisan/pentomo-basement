@@ -1210,7 +1210,6 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-04-28T03:02:29Z",
       "scheduledStartTime": "2024-04-28T03:00:00Z",
-      "concurrentViewers": "765",
       "activeLiveChatId": "Cg0KCzd0TGJUTjNlTWdjKicKGFVDcFlmNkM5UXNQX0JSZjk3dkx1WGxJQRILN3RMYlROM2VNZ2M"
     }
   },
@@ -1462,7 +1461,6 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-04-28T04:42:13Z",
       "scheduledStartTime": "2024-04-28T04:45:00Z",
-      "concurrentViewers": "24",
       "activeLiveChatId": "Cg0KCzliWFFaSUNvTzBNKicKGFVDSDhtRE16YVI1TUdGZENGNFdkc0dEQRILOWJYUVpJQ29PME0"
     }
   },
@@ -3425,6 +3423,19 @@
       "activeLiveChatId": "Cg0KC014QmJQMzNtaUt3KicKGFVDeF9BNmZuczlxS2p5YnUtNmswdXIxZxILTXhCYlAzM21pS3c"
     }
   },
+  "NNG2CYlfhi4": {
+    "id": "NNG2CYlfhi4",
+    "snippet": {
+      "publishedAt": "2024-04-28T07:38:34Z",
+      "channelId": "UCMwGHR0BTZuLsmjY_NT5Pwg",
+      "title": "\u3010 #\u30db\u30ed\u30c9\u30ed\u30b1\u30a42024 \u3011They Won't Know I'm Ina",
+      "channelTitle": "Ninomae Ina'nis Ch. hololive-EN"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-04-28T11:00:00Z",
+      "activeLiveChatId": "Cg0KC05ORzJDWWxmaGk0KicKGFVDTXdHSFIwQlRadUxzbWpZX05UNVB3ZxILTk5HMkNZbGZoaTQ"
+    }
+  },
   "NWZt11LYBlI": {
     "id": "NWZt11LYBlI",
     "snippet": {
@@ -4648,7 +4659,6 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-04-28T07:03:59Z",
       "scheduledStartTime": "2024-04-28T07:00:00Z",
-      "concurrentViewers": "81",
       "activeLiveChatId": "Cg0KC1ZjbUUyQ2FpRDJzKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILVmNtRTJDYWlEMnM"
     }
   },
@@ -4986,7 +4996,6 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-04-28T01:32:24Z",
       "scheduledStartTime": "2024-04-28T01:30:00Z",
-      "concurrentViewers": "23",
       "activeLiveChatId": "Cg0KC1hSdk5ZZmZoNmc0KicKGFVDUnR1Z0tRSVBQZlptVlo2dkxpT3NkURILWFJ2TllmZmg2ZzQ"
     }
   },
@@ -5541,7 +5550,6 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-04-28T06:00:21Z",
       "scheduledStartTime": "2024-04-28T06:00:00Z",
-      "concurrentViewers": "906",
       "activeLiveChatId": "Cg0KC2ItWFYxaDZGWXk0KicKGFVDUmxaYXN6azg0WVhqUnRkUEN4cWp2dxILYi1YVjFoNkZZeTQ"
     }
   },
@@ -8609,7 +8617,6 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-04-28T03:47:49Z",
       "scheduledStartTime": "2024-04-28T03:45:00Z",
-      "concurrentViewers": "582",
       "activeLiveChatId": "Cg0KC3g0VWFNM2lYaEN3KicKGFVDWVhfaUdyaEJuRnQwZHlYd1NpN1U0URILeDRVYU0zaVhoQ3c"
     }
   },
@@ -8637,7 +8644,6 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-04-28T02:59:41Z",
       "scheduledStartTime": "2024-04-28T03:00:00Z",
-      "concurrentViewers": "210",
       "activeLiveChatId": "Cg0KC3g5SWhKRG5xZVVFKicKGFVDZUdlbmRMOENPNVJrZmZCNklGd0hvdxILeDlJaEpEbnFlVUU"
     }
   },
