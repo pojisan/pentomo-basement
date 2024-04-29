@@ -152,7 +152,7 @@
     "channelThumb": "https://yt3.ggpht.com/gQXL64aSlteGuabzrOCxa7Qs-OdOJ0EAMeTP1hpSpI_5_IAkpjy3X0Y4aTVe9BxxXvXOCE5VdLc=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Nene",
     "scheduledStartTime": "2024-04-29T15:00:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-29T15:06:53Z",
     "premiere": false
   },
   {
@@ -164,7 +164,7 @@
     "channelThumb": "https://yt3.ggpht.com/vJEi9jvzwANF4rzrVugBrJ2CumIsI3pGN68Bap-eEXSqZbp-hNpLAdqSwSIqmgqhHUbbdUzrR-w=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Spectra",
     "scheduledStartTime": "2024-04-29T15:10:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-29T15:08:03Z",
     "premiere": false
   },
   {
@@ -175,6 +175,18 @@
     "channelName": "Kohaku Hyouma ch.\u3010globie\u3011",
     "channelThumb": "https://yt3.ggpht.com/aFRvJ_IOkDdIvUEZYAwAR1tp-uRyO9WYycjXA13_NiRawAMJTIDgOa3Ih0ypNuW9yrEwa8gRYA4=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Hyouma",
+    "scheduledStartTime": "2024-04-29T16:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "RKPUlLUKeDI",
+    "vidUrl": "https://youtu.be/RKPUlLUKeDI",
+    "vidTitle": "\u3010TOTK  p3\u3011 links waist \u3010NIJISANJI EN | Kunai Nakasato\u3011",
+    "channelId": "@kunainakasato",
+    "channelName": "Kunai Nakasato \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/cpOrgCDSmgMO9mNbftd8UKAtsZwIGRCV5t5EmjoQ2FcP-W3N7s6S4UUc_Daz24qjDnBxrTEBrtQ=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Kunai",
     "scheduledStartTime": "2024-04-29T16:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -560,6 +572,18 @@
     "channelThumb": "https://yt3.ggpht.com/WIy30MlmcCTxrEuKULkAdh8itCfT4Up5myJbpVHTkKbfKcgriF_qL6d3iJMD_mQfwb0B1JDT=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Uki",
     "scheduledStartTime": "2024-04-30T00:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "CqaSGACGjtE",
+    "vidUrl": "https://youtu.be/CqaSGACGjtE",
+    "vidTitle": "I'm a mighty warrior !!! || Hollow Knight",
+    "channelId": "@mioricelesta",
+    "channelName": "Miori Celesta",
+    "channelThumb": "https://yt3.ggpht.com/kaNjFSu8SjR9kJjHuxcfwKsA12ZeruRk8iJNOxeK0z1_5-zEuaMg_F-BHlXUztmPSVbuKgcxag=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Mio",
+    "scheduledStartTime": "2024-04-30T00:30:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -2809,19 +2833,6 @@
     "shortName": "Miel",
     "scheduledStartTime": "2024-04-29T05:00:00Z",
     "actualStartTime": "2024-04-29T05:00:32Z",
-    "premiere": false
-  },
-  {
-    "id": "gpNGYHkblqY",
-    "vidUrl": "https://youtu.be/gpNGYHkblqY",
-    "vidTitle": "I was Reborn into Hololive World ~ YABE \ud83d\udd25 Days with Ollie\u3010MIKI HITSUGI | SPECIALITE\u3011#mik1tv",
-    "channelId": "@mikihitsugi",
-    "channelName": "Miki Hitsugi | Specialite EN",
-    "channelThumb": "https://yt3.ggpht.com/7YT74XmVpX9ySRWPf2hpfLz_m8fdW-xfK32LMvmGPo0U3gNiCf3G5PaemNK6eKV0Ex5POa3GrlE=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Migi",
-    "scheduledStartTime": "2024-04-29T11:15:00Z",
-    "actualStartTime": "2024-04-29T11:14:28Z",
     "premiere": false
   },
   {
