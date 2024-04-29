@@ -108,18 +108,6 @@
     "premiere": false
   },
   {
-    "id": "D72_ZSRjQiA",
-    "vidUrl": "https://youtu.be/D72_ZSRjQiA",
-    "vidTitle": "\u3010 LIVE \ud83d\udd34 Binaural GF RP ASMR \u3011Worked Up GF Plays With Your Ears\u3010Alias Anono | V4Mirai | ENVtuber\u3011",
-    "channelId": "@aliasanono",
-    "channelName": "Alias Anono Ch. \u3010V4Mirai\u3011",
-    "channelThumb": "https://yt3.ggpht.com/2cjQaeikgrJlNLffvtgcuH9FNsGIOdBdC34ShNNmqpW4MH-n2GPJGT3gv2oz8awap2nOeKneoQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Alias",
-    "scheduledStartTime": "2024-04-29T02:00:00Z",
-    "actualStartTime": "2024-04-29T02:01:19Z",
-    "premiere": false
-  },
-  {
     "id": "owNwRr_EZM0",
     "vidUrl": "https://youtu.be/owNwRr_EZM0",
     "vidTitle": "\u3010UNDERTALE\u3011The Undertale Continues # 2",
@@ -260,6 +248,18 @@
     "channelThumb": "https://yt3.ggpht.com/KsvJ_nvtsnENS74uknH4gxrD8fVCA2DJjiSiyrVIl2JKyVW28zny7nclNnl2j9VhZ3CDIE4pTg=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Isla",
     "scheduledStartTime": "2024-04-29T04:15:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "LpFNvR42SWY",
+    "vidUrl": "https://youtu.be/LpFNvR42SWY",
+    "vidTitle": "\u3010globie news\u3011debuts, collabs, schedules\u3010Kumanui Miel | globie\u3011",
+    "channelId": "@kumanuimiel",
+    "channelName": "Kumanui Miel Ch. \u718a\u7e2b\u30df\u30a8\u30eb\u3010globie\u3011",
+    "channelThumb": "https://yt3.ggpht.com/8f_4es6nBZAfGqpbSLfr5b12pv2elBhAnKV4NHf8BUZPY0edK5rfovLJbl22foZdWjvPIlHt=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Miel",
+    "scheduledStartTime": "2024-04-29T05:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -2418,6 +2418,19 @@
     "shortName": "Miuna",
     "scheduledStartTime": "2024-04-29T00:05:00Z",
     "actualStartTime": "2024-04-29T00:12:17Z",
+    "premiere": false
+  },
+  {
+    "id": "D72_ZSRjQiA",
+    "vidUrl": "https://youtu.be/D72_ZSRjQiA",
+    "vidTitle": "\u3010 LIVE \ud83d\udd34 Binaural GF RP ASMR \u3011Worked Up GF Plays With Your Ears\u3010Alias Anono | V4Mirai | ENVtuber\u3011",
+    "channelId": "@aliasanono",
+    "channelName": "Alias Anono Ch. \u3010V4Mirai\u3011",
+    "channelThumb": "https://yt3.ggpht.com/2cjQaeikgrJlNLffvtgcuH9FNsGIOdBdC34ShNNmqpW4MH-n2GPJGT3gv2oz8awap2nOeKneoQ=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Alias",
+    "scheduledStartTime": "2024-04-29T02:00:00Z",
+    "actualStartTime": "2024-04-29T02:01:19Z",
     "premiere": false
   },
   {
