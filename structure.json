@@ -54,11 +54,20 @@
         }
       },
       "Gen 1 (bond)": {
+        "Baji": {
+          "tv": "bajiru_en"
+        },
         "Miyu": {
-          "yt": "UCUr8O6Z8JyAg83KJbc_u_bQ"
+          "yt": "UCUr8O6Z8JyAg83KJbc_u_bQ",
+          "tv": "miyuyus"
+        },
+        "Duroppu": {
+          "yt": "UCgEYxHLR1iTY-1HY1aV-pzg",
+          "tv": "duroppucharming"
         },
         "Yozzy": {
-          "yt": "UCB7qynJ9qp0cNWRFeBawB4A"
+          "yt": "UCB7qynJ9qp0cNWRFeBawB4A",
+          "tv": "starryyozzy"
         }
       },
       "LunaCattus": {
@@ -110,7 +119,17 @@
         "yt": "UC4WsLE_xdrnd05D05Go9oXw"
       }
     },
-    "Digital DropOuts": null,
+    "Digital DropOuts": {
+      "Yancha": {
+        "tv": "yanchagogo"
+      },
+      "Paichi": {
+        "tv": "paichipop"
+      },
+      "Megu": {
+        "tv": "megu"
+      }
+    },
     "EIEN Project": {
       "Eri": {
         "yt": "UCyIPKoD7bMVZDJJ7dqIHu5g"
@@ -198,8 +217,14 @@
       }
     },
     "HEAVENREND": {
-      "Woomy": {
-        "yt": "UCgCGaRPWQBB7JLvbcksEERQ"
+      "Generation Zero": {
+        "Haruna": {
+          "tv": "haruna"
+        },
+        "Woomy": {
+          "tv": "rurumi",
+          "yt": "UCgCGaRPWQBB7JLvbcksEERQ"
+        }
       }
     },
     "HighTideSha": {
@@ -214,7 +239,8 @@
     },
     "Hoshizora": {
       "Skye": {
-        "yt": "UCr8579Zclbd6F9Rs_cqx_IQ"
+        "yt": "UCr8579Zclbd6F9Rs_cqx_IQ",
+        "tv": "sorachiskye"
       },
       "Nebula": {
         "yt": "UCn7IbVBtkoUaZELqtrb9qNQ"
@@ -262,21 +288,35 @@
         "Momo": {
           "yt": "UCe0JiGnjPfEwEIbWASbOimw"
         }
+      },
+      "ExternalS": {
+        "Meica": {
+          "yt": "UCp4G83RMBDN0EgZFSUDK7zw",
+          "tv": "meica05"
+        },
+        "Taiga": null,
+        "Ruby": null,
+        "Akugaki": null,
+        "Lalabell": null
       }
     },
     "Kawa Entertainment": {
       "Kascade": {
         "Hunikin": {
-          "yt": "UCfcVgQ0mKaEwzVqmGYTMayA"
+          "yt": "UCfcVgQ0mKaEwzVqmGYTMayA",
+          "tv": "hunikinn"
         },
         "Piapi": {
-          "yt": "UCRtugKQIPPfZmVZ6vLiOsdQ"
+          "yt": "UCRtugKQIPPfZmVZ6vLiOsdQ",
+          "tv": "piapiufo"
         },
         "Senniursa": {
-          "yt": "UCiWjxU_0jEE7G__rmWHlGWA"
+          "yt": "UCiWjxU_0jEE7G__rmWHlGWA",
+          "tv": "senniursa"
         },
         "Koziichu": {
-          "yt": "UCk4-LUmzFMETLt4Sn1J82Cw"
+          "yt": "UCk4-LUmzFMETLt4Sn1J82Cw",
+          "tv": "koziichu"
         }
       },
       "Abyss": {
@@ -316,6 +356,9 @@
       "Origins": {
         "Juno": {
           "yt": "UC_l_7Da8HB2cLTx7U88RrsA"
+        },
+        "Lina": {
+          "tv": "angelinakumalo"
         }
       },
       "Vnus": {
@@ -331,7 +374,21 @@
           "yt": "UCI4PLfuiL9jFOpsEIA20Kjg"
         }
       },
-      "Legends": null
+      "NOCTURNES": {
+        "XANDER": {
+          "yt": "UCoOEer2c2pn2LqPX6skNWtA"
+        }
+      },
+      "Legends": {
+        "Star2d2": {
+          "yt": "UCQgmx8cgHymw6UESR3TbTIA",
+          "tv": "star2d2"
+        },
+        "Tea": {
+          "tv": "tea_the_khajiit",
+          "yt": "UCt2nX6vEUT0Ik6d2peVOjDw"
+        }
+      }
     },
     "MyHolo TV": {
       "Kensou!!": {
@@ -344,7 +401,8 @@
       },
       "Re:CorD": {
         "Karrot": {
-          "yt": "UCr8NZ9jOrrVcIRnaHZCjJUg"
+          "yt": "UCr8NZ9jOrrVcIRnaHZCjJUg",
+          "tv": "karrotkeromi"
         },
         "Liola": {
           "yt": "UCKKH64iHZH2O9NdlsOQD2Qg"
@@ -353,15 +411,19 @@
     },
     "Mythos": {
       "Hades": {
+        "tv": "hadesmythos",
         "yt": "UCHpii1sLA2xLbnsYDUmfhYQ"
       },
       "Poseidon": {
+        "tv": "poseidonmythos",
         "yt": "UC9ggpIbRTrCQWQFFLJ6JMLw"
       },
       "Zeus": {
+        "tv": "zeusmythosvt",
         "yt": "UCbLFuSrAQKkusrjTvCO5gXQ"
       },
       "Apollo": {
+        "tv": "apollomythos",
         "yt": "UCJtZ8bpQlM-tMNhDeQE4ogg"
       }
     },
@@ -370,20 +432,63 @@
         "yt": "UCml-r5aTs4JGeEeXUFnZ7eQ"
       },
       "Lulu": {
-        "yt": "UC5XIu3FhgIHwqcCGj-tmONQ"
+        "yt": "UC5XIu3FhgIHwqcCGj-tmONQ",
+        "tv": "lululasso"
       },
-      "PikoHalo": {
-        "yt": "UCp12JzLo8fnjc5WQjSaNe_w"
+      "Odette": {
+        "yt": "UCn4YCA0CsmwbiQsjX8JKzpw"
       },
-      "Rixxy": {
-        "yt": "UCmFrCToKeGiZYX4I5VUwLBw"
+      "Leobel": {
+        "tv": "leobelpurson"
+      },
+      "Enaria": null,
+      "Esila": {
+        "yt": "UC7sqbQ4_5_ELz-Ov-bVBi8A"
+      },
+      "Poette": {
+        "yt": "UCMpk7qksKuTYVycWWngFBAg"
+      },
+      "Noir": {
+        "tv": "bakurahnoir"
+      },
+      "Pyon": {
+        "yt": "UCvEIpliS-4-1ypqPBMTBQ6g"
       },
       "Kyohei": {
         "yt": "UCXHWGGR-Jrg3bMz3A2Qe7gA"
       },
-      "Poette": {
-        "yt": "UCMpk7qksKuTYVycWWngFBAg"
-      }
+      "Sweet": null,
+      "Nox": null,
+      "Faelie": null,
+      "PikoHalo": {
+        "yt": "UCp12JzLo8fnjc5WQjSaNe_w"
+      },
+      "Melody": {
+        "yt": "UCOUX7Hvbe-tIXayyKmO5ikw"
+      },
+      "Soma": null,
+      "Nell": null,
+      "Endra": null,
+      "Rixxy": {
+        "yt": "UCmFrCToKeGiZYX4I5VUwLBw"
+      },
+      "Reverie": {
+        "yt": "UCyRs1bYZqpqd5S9ow2tDpqQ"
+      },
+      "Kenzo": {
+        "yt": "UCYO60EIwTrjSFO13en7iyxQ"
+      },
+      "Nano": null,
+      "Alvyn": null,
+      "Kiko": null,
+      "Lumiora": {
+        "yt": "UC5iZ67a6jnuZPffjAwLlw1Q",
+        "tv": "lumioralumen"
+      },
+      "Nyantsume": {
+        "tv": "nyantsumevt"
+      },
+      "Noah": null
     },
     "NexStage": {
       "CodeX": {
@@ -403,8 +508,22 @@
         "yt": "UC80chVdzyz6TxhByjrJDJ4Q"
       },
       "Kerby": {
-        "yt": "UCPk6IqZQ0JChV3BKvBr1Bgg"
+        "yt": "UCPk6IqZQ0JChV3BKvBr1Bgg",
+        "tv": "cerberuskerby"
       }
+    },
+    "OshiLink": {
+      "Comets": {
+        "WildSpice": {
+          "yt": "UCH7txi6feolO5jAmAM5RICA",
+          "tv": "wildspice"
+        },
+        "Hiroki": {
+          "yt": "UCf4U3iVUDkkhIv3jnr41u-Q",
+          "tv": "tatsuhikohiroki"
+        }
+      },
+      "Gen1": null
     },
     "PixelLink": {
       "PixelStart": {
@@ -450,7 +569,8 @@
           "yt": "UCswvd6_YWmd6riRk-8oT-sA"
         },
         "Nia": {
-          "yt": "UCw1KNjVqfrJSfcFd6zlcSzA"
+          "yt": "UCw1KNjVqfrJSfcFd6zlcSzA",
+          "tv": "niasuzune"
         },
         "Pina": {
           "yt": "UCpeRj9-GaLGNUoKdI5I7vZA"
@@ -474,8 +594,11 @@
         "Ami": {
           "yt": "UCkjP_w607B-n4kWJrZAsHMQ"
         },
-        "Lou": {
+        "Kou": {
           "yt": "UCC2VYZ_sgiCII711gd6gHnA"
+        },
+        "Lana": {
+          "yt": "UCbwtBGLYpea4eIk-gocqJuw"
         }
       },
       "Polaris": {
@@ -485,13 +608,16 @@
       },
       "Cerulea": {
         "Mako": {
-          "yt": "UCqVwRGYcVavZ49rGmPB1DKA"
+          "yt": "UCqVwRGYcVavZ49rGmPB1DKA",
+          "tv": "sharksprite"
         },
         "Nana": {
-          "yt": "UCJwnGUjoniJA3It-P2snc-A"
+          "yt": "UCJwnGUjoniJA3It-P2snc-A",
+          "tv": "nanaasteria"
         },
         "Emma": {
-          "yt": "UCDdmoA79bfI8DHDnE_Yy2dg"
+          "yt": "UCDdmoA79bfI8DHDnE_Yy2dg",
+          "tv": "oumiyaemma"
         }
       }
     },
@@ -567,10 +693,12 @@
       },
       "Stygian": {
         "Miya": {
-          "yt": "UCK6oCMib62eYAIPrlrYRVrw"
+          "yt": "UCK6oCMib62eYAIPrlrYRVrw",
+          "tv": "miya_mareena"
         },
         "Aishii": {
-          "yt": "UCAFbyEj9pesCxo69ozEhi9Q"
+          "yt": "UCAFbyEj9pesCxo69ozEhi9Q",
+          "tv": "aishiiai"
         },
         "Lorelai": {
           "yt": "UC9qMBWQdfgvIKqPpDUmvNUA"
@@ -804,7 +932,19 @@
       "Mino": {
         "tv": "pupmino",
         "twt": "pupminoch"
-      }
+      },
+      "Cora": {
+        "tv": "coravelorum"
+      },
+      "Sora": {
+        "tv": "vthoshisorano",
+        "yt": "UCEMGYP7qDEy807gJESz4TzA"
+      },
+      "Eri": {
+        "tv": "chieriadoette"
+      },
+      "Poyo": null,
+      "Mami": null
     },
     "VOLs": {
       "Mikumi": {
@@ -836,6 +976,9 @@
         }
       },
       "Odyssey": {
+        "Cheri": {
+          "yt": "UC70SZ3_zmeAgkj4JF-2kxYw"
+        },
         "Bri": {
           "yt": "UC1uzMZ7x_Hgun5t8J9uFanw"
         },
@@ -1115,6 +1258,25 @@
     "PixelLink": {
       "Ayu": {
         "yt": "UC1ogmLVdMrU4HuLBUYtzjVQ"
+      }
+    },
+    "Tsunderia": {
+      "Shimada": {
+        "tv": "shimadatiger"
+      },
+      "Yomi": {
+        "tv": "yomicham",
+        "yt": "UCy655eCseRVT9ln262dgI1Q"
+      },
+      "Haewon": {
+        "tv": "haewontheheartstring"
+      },
+      "Maria": {
+        "tv": "mariaparadisia",
+        "yt": "UCCrgfIGHE015putgxWrYWkw"
+      },
+      "Shima": {
+        "yt": "UCB3iwvkYq96ksvA7PiMP-1w"
       }
     },
     "VSinger": {
