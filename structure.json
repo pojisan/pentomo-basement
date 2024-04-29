@@ -1045,7 +1045,8 @@
       },
       "OBSYDIA": {
         "Wosemi": {
-          "yt": "UC4WvIIAo89_AzGUh1AZ6Dkg"
+          "yt": "UC4WvIIAo89_AzGUh1AZ6Dkg",
+          "tv": "rosemilovelock"
         },
         "Petra": {
           "yt": "UCgA2jKRkqpY_8eysPUs8sjw"
@@ -1164,14 +1165,6 @@
           "yt": "UCwqtK-m6954_aHEvOYtZpyQ"
         }
       }
-    },
-    "NijiJP": {
-      "Seffyna": {
-        "yt": "UCeGendL8CO5RkffB6IFwHow"
-      },
-      "Sophia": {
-        "yt": "UCivwPlOp0ojnMPZj5pNOPPA"
-      }
     }
   },
   "holoen": {
@@ -1269,6 +1262,76 @@
     }
   },
   "nijien+": {
+    "NijiJP": {
+      "KR": {
+        "Man of Peace": {
+          "yt": "UCUtKkGKef8BYMs3h-3zQm9A"
+        },
+        "Nari": {
+          "yt": "UCCHH0nWYXFZmtDS_4tvMxHQ"
+        },
+        "Hari": {
+          "yt": "UClS6k3w1sPwlVFqK3-yID5A"
+        },
+        "Seffyna": {
+          "yt": "UCeGendL8CO5RkffB6IFwHow"
+        },
+        "Hada": {
+          "yt": "UCLjx3lqIkYkPCBJop8czJ2A"
+        }
+      },
+      "Edengumi": {
+        "Lauren": {
+          "yt": "UCgmFrRcyH7d1zR9sIVQhFow"
+        },
+        "Leos": {
+          "yt": "UC-6rZgmxZSIbq786j3RD5ow"
+        },
+        "Oliver": {
+          "yt": "UCqjTqdVlvIipZXIKeCkHKUA"
+        },
+        "Pata-nee": {
+          "yt": "UCRm6lqtdxs_Qo6HeL-SRQ-w"
+        }
+      },
+      "Ranunculus": {
+        "Yotsuha": {
+          "yt": "UCtHY-tP0dyykhTRMmnfPs_g"
+        },
+        "Muyu": {
+          "yt": "UCAQDFeCTVdx90GtwohwjHzQ"
+        },
+        "Ponto": {
+          "yt": "UCe22Bcwd_GCpTjLxn83zl7A"
+        }
+      },
+      "Ojou": {
+        "yt": "UCgIfLpQvelloDi8I0Ycbwpg"
+      },
+      "Idios": {
+        "Rika": {
+          "yt": "UCu-rV2gPtJ-CsGxe71z_BrQ"
+        },
+        "Toru": {
+          "yt": "UCUP8TmlO7NNra88AMqGU_vQ"
+        },
+        "Nozomi": {
+          "yt": "UCtLfA_qUqCJtjXJM2ZR_keg"
+        },
+        "Sophia": {
+          "yt": "UCivwPlOp0ojnMPZj5pNOPPA"
+        },
+        "Meruto": {
+          "yt": "UCiA-trSZfB0i92V_-dyDqBw"
+        },
+        "Roco": {
+          "yt": "UClrQ7xhRBxS_v_-WuudGKmA"
+        },
+        "Akari": {
+          "yt": "UCWRPqA0ehhWV4Hnp27PJCkQ"
+        }
+      }
+    },
     "NijiENx": {
       "LazuLight": {
         "Mint": {
@@ -1306,6 +1369,32 @@
     }
   },
   "dev": {
+    "VSinger": {
+      "HACHI": {
+        "yt": "UC7XCjKxBEct0uAukpQXNFPw"
+      },
+      "Chima": {
+        "yt": "UCo7TRj3cS-f_1D9ZDmuTsjw"
+      },
+      "isekaijoucho": {
+        "yt": "UCah4_WVjmr8XA7i5aigwV-Q"
+      },
+      "HaNaTan": {
+        "yt": "UC8aUF9ipzQb2jTHlFoFZ1Vg"
+      },
+      "Noa": {
+        "yt": "UCIu1rRiQLeUU8e1saN6I0eg"
+      },
+      "Kima": {
+        "yt": "UC6EgjUZSYSAQe9CDFxH715w"
+      },
+      "Nina": {
+        "tv": "ninaninin"
+      },
+      "Leona": {
+        "yt": "UCB1s_IdO-r0nUkY2mXeti-A"
+      }
+    },
     "non-vtuber": {
       "FOMC": {
         "yt": "UCAzhpt9DmG6PnHXjmJTvRGQ"
