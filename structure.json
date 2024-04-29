@@ -26,6 +26,7 @@
           "twt": "MionAkuma"
         },
         "Pii": {
+          "tv": "chirofish",
           "yt": "UCn2Lsosu82yE9PUmVLFBZBQ",
           "twt": "piisutachio"
         }
@@ -75,9 +76,6 @@
         },
         "Cy": {
           "yt": "UCnpc7HpcifVpi6RBzNge51w"
-        },
-        "Sera": {
-          "yt": "UCasZvskFC_SHs6LXx2_26cQ"
         }
       }
     },
@@ -837,6 +835,9 @@
         "Bri": {
           "yt": "UC1uzMZ7x_Hgun5t8J9uFanw"
         },
+        "Mom(?)": {
+          "yt": "UCcPc-5OrLbjVBgQ-ziEWPSQ"
+        },
         "Rana": {
           "yt": "UC-Y3evMx7MXbVeSbRKQ3gNw"
         },
@@ -1104,7 +1105,7 @@
       }
     }
   },
-  "corpo+": {
+  "indie": {
     "VReverie": {
       "Mom(?)": {
         "yt": "UCcPc-5OrLbjVBgQ-ziEWPSQ"
@@ -1122,9 +1123,7 @@
       "Ririsya": {
         "yt": "UC1ucgoC_sGww_Euu5iMqpQw"
       }
-    }
-  },
-  "nijien+": {
+    },
     "NijiENx": {
       "LazuLight": {
         "Mint": {
@@ -1159,9 +1158,7 @@
           "tv": "sayu"
         }
       }
-    }
-  },
-  "dev": {
+    },
     "non-vtuber": {
       "FOMC": {
         "yt": "UCAzhpt9DmG6PnHXjmJTvRGQ"
