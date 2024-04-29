@@ -1890,5 +1890,19 @@
       "actualEndTime": "2024-04-27T04:50:17Z",
       "scheduledStartTime": "2024-04-27T01:00:00Z"
     }
+  },
+  "VenHRX4JgP8": {
+    "id": "VenHRX4JgP8",
+    "snippet": {
+      "publishedAt": "2024-04-29T02:34:36Z",
+      "channelId": "UCAFbyEj9pesCxo69ozEhi9Q",
+      "title": "\u3010Zatsu/Just Chatting\u3011Catching up... AND A BIG ANNOUNCEMENT!?",
+      "channelTitle": "Aishii Ai Ch. ",
+      "defaultLanguage": "en-US"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-05T01:00:00Z",
+      "activeLiveChatId": "Cg0KC1ZlbkhSWDRKZ1A4KicKGFVDQUZieUVqOXBlc0N4bzY5b3pFaGk5URILVmVuSFJYNEpnUDg"
+    }
   }
 }
