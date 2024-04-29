@@ -783,7 +783,7 @@
     "snippet": {
       "publishedAt": "2024-01-23T08:48:00Z",
       "channelId": "UCGwLSyPLaHpq0nuT_JVSMtQ",
-      "title": "\u3010FREE CHAT\u3011no schedule\u3010Kumanui Miel | globie\u3011",
+      "title": "\u3010FREE CHAT\u3011schedule from April 29th to May 05th\u3010Kumanui Miel | globie\u3011",
       "channelTitle": "Kumanui Miel Ch. \u718a\u7e2b\u30df\u30a8\u30eb\u3010globie\u3011"
     },
     "liveStreamingDetails": {
@@ -1376,6 +1376,20 @@
       "actualStartTime": "2024-04-27T00:01:23Z",
       "actualEndTime": "2024-04-27T03:52:23Z",
       "scheduledStartTime": "2024-04-27T00:00:00Z"
+    }
+  },
+  "LpFNvR42SWY": {
+    "id": "LpFNvR42SWY",
+    "snippet": {
+      "publishedAt": "2024-04-29T04:27:59Z",
+      "channelId": "UCGwLSyPLaHpq0nuT_JVSMtQ",
+      "title": "\u3010globie news\u3011debuts, collabs, schedules\u3010Kumanui Miel | globie\u3011",
+      "channelTitle": "Kumanui Miel Ch. \u718a\u7e2b\u30df\u30a8\u30eb\u3010globie\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-04-29T05:00:32Z",
+      "scheduledStartTime": "2024-04-29T05:00:00Z",
+      "activeLiveChatId": "Cg0KC0xwRk52UjQyU1dZKicKGFVDR3dMU3lQTGFIcHEwbnVUX0pWU010URILTHBGTnZSNDJTV1k"
     }
   }
 }
