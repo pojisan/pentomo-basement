@@ -1335,7 +1335,8 @@
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-04-29T14:05:00Z",
-      "activeLiveChatId": "Cg0KCzJSdUlQbFc4RFhVKicKGFVDVm1oZzR3Y1RWcGp5Q29LRFk1OW1ZdxILMlJ1SVBsVzhEWFU"
+      "activeLiveChatId": "Cg0KCzJSdUlQbFc4RFhVKicKGFVDVm1oZzR3Y1RWcGp5Q29LRFk1OW1ZdxILMlJ1SVBsVzhEWFU",
+      "premiere": true
     }
   }
 }

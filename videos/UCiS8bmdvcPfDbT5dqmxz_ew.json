@@ -781,7 +781,8 @@
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-01T20:00:00Z",
-      "activeLiveChatId": "Cg0KC3FqaGNFMjZVdkxrKicKGFVDaVM4Ym1kdmNQZkRiVDVkcW14el9ldxILcWpoY0UyNlV2TGs"
+      "activeLiveChatId": "Cg0KC3FqaGNFMjZVdkxrKicKGFVDaVM4Ym1kdmNQZkRiVDVkcW14el9ldxILcWpoY0UyNlV2TGs",
+      "premiere": true
     }
   }
 }

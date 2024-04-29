@@ -172,7 +172,8 @@
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-04T04:00:00Z",
-      "activeLiveChatId": "Cg0KC0NGYnNaNkl0OXJrKicKGFVDUmxaYXN6azg0WVhqUnRkUEN4cWp2dxILQ0Zic1o2SXQ5cms"
+      "activeLiveChatId": "Cg0KC0NGYnNaNkl0OXJrKicKGFVDUmxaYXN6azg0WVhqUnRkUEN4cWp2dxILQ0Zic1o2SXQ5cms",
+      "premiere": true
     }
   },
   "AfilT4OYT_s": {
@@ -1168,7 +1169,8 @@
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-03T04:00:00Z",
-      "activeLiveChatId": "Cg0KC1Z0YmdJMkhubnc4KicKGFVDUmxaYXN6azg0WVhqUnRkUEN4cWp2dxILVnRiZ0kySG5udzg"
+      "activeLiveChatId": "Cg0KC1Z0YmdJMkhubnc4KicKGFVDUmxaYXN6azg0WVhqUnRkUEN4cWp2dxILVnRiZ0kySG5udzg",
+      "premiere": true
     }
   },
   "mYrwh7ct5q8": {
@@ -1209,7 +1211,8 @@
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-02T04:00:00Z",
-      "activeLiveChatId": "Cg0KCzJfSFVJa3NvZnQ4KicKGFVDUmxaYXN6azg0WVhqUnRkUEN4cWp2dxILMl9IVUlrc29mdDg"
+      "activeLiveChatId": "Cg0KCzJfSFVJa3NvZnQ4KicKGFVDUmxaYXN6azg0WVhqUnRkUEN4cWp2dxILMl9IVUlrc29mdDg",
+      "premiere": true
     }
   }
 }

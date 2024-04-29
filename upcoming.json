@@ -350,7 +350,8 @@
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-04-29T14:05:00Z",
-      "activeLiveChatId": "Cg0KCzJSdUlQbFc4RFhVKicKGFVDVm1oZzR3Y1RWcGp5Q29LRFk1OW1ZdxILMlJ1SVBsVzhEWFU"
+      "activeLiveChatId": "Cg0KCzJSdUlQbFc4RFhVKicKGFVDVm1oZzR3Y1RWcGp5Q29LRFk1OW1ZdxILMlJ1SVBsVzhEWFU",
+      "premiere": true
     }
   },
   "2W9uhZ-beTM": {
@@ -376,7 +377,8 @@
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-02T04:00:00Z",
-      "activeLiveChatId": "Cg0KCzJfSFVJa3NvZnQ4KicKGFVDUmxaYXN6azg0WVhqUnRkUEN4cWp2dxILMl9IVUlrc29mdDg"
+      "activeLiveChatId": "Cg0KCzJfSFVJa3NvZnQ4KicKGFVDUmxaYXN6azg0WVhqUnRkUEN4cWp2dxILMl9IVUlrc29mdDg",
+      "premiere": true
     }
   },
   "2gdDboFrU8A": {
@@ -403,7 +405,8 @@
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-01T13:00:00Z",
-      "activeLiveChatId": "Cg0KCzJrMHJfNUJBVy04KicKGFVDbjdJYlZCdGtvVWFaRUxxdHJiOXFOURILMmswcl81QkFXLTg"
+      "activeLiveChatId": "Cg0KCzJrMHJfNUJBVy04KicKGFVDbjdJYlZCdGtvVWFaRUxxdHJiOXFOURILMmswcl81QkFXLTg",
+      "premiere": true
     }
   },
   "2sYA8Rvw7xU": {
@@ -990,21 +993,6 @@
       "activeLiveChatId": "Cg0KC0JDRjBtYWdpSEU0KicKGFVDWklGcGgxYll5R3htRmtrTk5MQUtkQRILQkNGMG1hZ2lIRTQ"
     }
   },
-  "BjFshU-yy6g": {
-    "id": "BjFshU-yy6g",
-    "snippet": {
-      "publishedAt": "2024-04-28T14:39:16Z",
-      "channelId": "UCb-8Fkg-mSU2RmlP8FdpyMw",
-      "title": "\u3010COLLAB\u30115-STACK OVERWATCH 2 IS REAL\u3010Ran Tsukiha | Production kawaii\u3011",
-      "channelTitle": "Ran Tsukiha Ch. \u6708\u8776\u862d\u3010kawaii\u3011",
-      "defaultLanguage": "en"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-04-28T22:22:03Z",
-      "scheduledStartTime": "2024-04-28T22:00:00Z",
-      "activeLiveChatId": "Cg0KC0JqRnNoVS15eTZnKicKGFVDYi04RmtnLW1TVTJSbWxQOEZkcHlNdxILQmpGc2hVLXl5Nmc"
-    }
-  },
   "C41RnmaR8fM": {
     "id": "C41RnmaR8fM",
     "snippet": {
@@ -1054,7 +1042,8 @@
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-04T04:00:00Z",
-      "activeLiveChatId": "Cg0KC0NGYnNaNkl0OXJrKicKGFVDUmxaYXN6azg0WVhqUnRkUEN4cWp2dxILQ0Zic1o2SXQ5cms"
+      "activeLiveChatId": "Cg0KC0NGYnNaNkl0OXJrKicKGFVDUmxaYXN6azg0WVhqUnRkUEN4cWp2dxILQ0Zic1o2SXQ5cms",
+      "premiere": true
     }
   },
   "CJ-VpxSClRE": {
@@ -1106,7 +1095,7 @@
       "channelTitle": "Scarle Yonaguni \u3010NIJISANJI EN\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-04-29T02:00:00Z",
+      "scheduledStartTime": "2024-04-29T02:15:00Z",
       "activeLiveChatId": "Cg0KC0NyNlNTOEVoOGNjKicKGFVDRmdYV1pPVVpBMm9ZSE5yNnFEbXNUURILQ3I2U1M4RWg4Y2M"
     }
   },
@@ -1591,20 +1580,6 @@
       "activeLiveChatId": "Cg0KC0dwZk5Ba0gzNkg4KicKGFVDZWpiaWNvUm5RakNPZEFQQXY1SlB3ZxILR3BmTkFrSDM2SDg"
     }
   },
-  "Gs0ST0Nc1bc": {
-    "id": "Gs0ST0Nc1bc",
-    "snippet": {
-      "publishedAt": "2024-04-28T20:54:47Z",
-      "channelId": "UCO_aKKYxn4tvrqPjcTzZ6EQ",
-      "title": "\u3010THE WITCHER 3\u3011 Fauna tries to do the right thing and ends up causing untold suffering part 5",
-      "channelTitle": "Ceres Fauna Ch. hololive-EN"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-04-28T22:00:09Z",
-      "scheduledStartTime": "2024-04-28T22:00:00Z",
-      "activeLiveChatId": "Cg0KC0dzMFNUME5jMWJjKicKGFVDT19hS0tZeG40dHZycVBqY1R6WjZFURILR3MwU1QwTmMxYmM"
-    }
-  },
   "Gzq2YN6SN90": {
     "id": "Gzq2YN6SN90",
     "snippet": {
@@ -1666,7 +1641,8 @@
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-04-30T10:30:00Z",
-      "activeLiveChatId": "Cg0KC0hVRTRNeWZ5QVhZKicKGFVDZUdlbmRMOENPNVJrZmZCNklGd0hvdxILSFVFNE15ZnlBWFk"
+      "activeLiveChatId": "Cg0KC0hVRTRNeWZ5QVhZKicKGFVDZUdlbmRMOENPNVJrZmZCNklGd0hvdxILSFVFNE15ZnlBWFk",
+      "premiere": true
     }
   },
   "HXYNBzRc5y4": {
@@ -2154,20 +2130,6 @@
       "activeLiveChatId": "Cg0KC01jeTJITzc2Z3J3KicKGFVDRVNRc1NjN1VoOEViaVhWdG1QYkRfQRILTWN5MkhPNzZncnc"
     }
   },
-  "MlD09GazJhA": {
-    "id": "MlD09GazJhA",
-    "snippet": {
-      "publishedAt": "2024-04-28T21:53:20Z",
-      "channelId": "UCpYf6C9QsP_BRf97vLuXlIA",
-      "title": "\u3010LETHAL COMPANY\u3011NEW UPDATE??? WE BALL\u3010NIJISANJI EN | Vantacrow Bringer\u3011",
-      "channelTitle": "Vantacrow Bringer \u3010NIJISANJI EN\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-04-28T22:01:46Z",
-      "scheduledStartTime": "2024-04-28T22:00:00Z",
-      "activeLiveChatId": "Cg0KC01sRDA5R2F6SmhBKicKGFVDcFlmNkM5UXNQX0JSZjk3dkx1WGxJQRILTWxEMDlHYXpKaEE"
-    }
-  },
   "MxBbP33miKw": {
     "id": "MxBbP33miKw",
     "snippet": {
@@ -2217,7 +2179,8 @@
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-04-29T14:00:00Z",
-      "activeLiveChatId": "Cg0KC05hQlpNMllLOXUwKicKGFVDX2tWSmhCUUM2VERGeXNOOVR1UFNZZxILTmFCWk0yWUs5dTA"
+      "activeLiveChatId": "Cg0KC05hQlpNMllLOXUwKicKGFVDX2tWSmhCUUM2VERGeXNOOVR1UFNZZxILTmFCWk0yWUs5dTA",
+      "premiere": true
     }
   },
   "NohbbaHw5yg": {
@@ -2635,6 +2598,19 @@
       "activeLiveChatId": "Cg0KC1N3UjJaTDdvU1A0KicKGFVDYXhpRGVfVHVNTFhrd1JNVkxtNVZ3URILU3dSMlpMN29TUDQ"
     }
   },
+  "Szq2JnwAHhc": {
+    "id": "Szq2JnwAHhc",
+    "snippet": {
+      "publishedAt": "2024-04-29T01:29:18Z",
+      "channelId": "UCquyWr7sdEFHCsqEgn1UA1g",
+      "title": "Minecraft | Hunting for New Wolf Variations!",
+      "channelTitle": "Buoy Afuru | CIESTE"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-02T20:00:00Z",
+      "activeLiveChatId": "Cg0KC1N6cTJKbndBSGhjKicKGFVDcXV5V3I3c2RFRkhDc3FFZ24xVUExZxILU3pxMkpud0FIaGM"
+    }
+  },
   "T6qHukWROG8": {
     "id": "T6qHukWROG8",
     "snippet": {
@@ -2820,6 +2796,7 @@
       "channelTitle": "Miori Celesta"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-04-29T01:36:31Z",
       "scheduledStartTime": "2024-04-29T01:30:00Z",
       "activeLiveChatId": "Cg0KC1V4a1d2bXRxOXBVKicKGFVDeUtzZy01N1hDOXB5SGJQN3Yza0NQURILVXhrV3ZtdHE5cFU"
     }
@@ -2923,7 +2900,8 @@
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-03T04:00:00Z",
-      "activeLiveChatId": "Cg0KC1Z0YmdJMkhubnc4KicKGFVDUmxaYXN6azg0WVhqUnRkUEN4cWp2dxILVnRiZ0kySG5udzg"
+      "activeLiveChatId": "Cg0KC1Z0YmdJMkhubnc4KicKGFVDUmxaYXN6azg0WVhqUnRkUEN4cWp2dxILVnRiZ0kySG5udzg",
+      "premiere": true
     }
   },
   "W-PFsFz-bjU": {
@@ -3593,7 +3571,8 @@
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-04-30T18:50:00Z",
-      "activeLiveChatId": "Cg0KC2RRcHpxRzNxLXZzKicKGFVDNWFBTHV3d2NSYTdXeldISzkzQVllZxILZFFwenFHM3EtdnM"
+      "activeLiveChatId": "Cg0KC2RRcHpxRzNxLXZzKicKGFVDNWFBTHV3d2NSYTdXeldISzkzQVllZxILZFFwenFHM3EtdnM",
+      "premiere": true
     }
   },
   "de9_bMumrog": {
@@ -3682,7 +3661,7 @@
       "channelTitle": "Vantacrow Bringer \u3010NIJISANJI EN\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-04-29T01:30:00Z",
+      "scheduledStartTime": "2024-04-29T01:45:00Z",
       "activeLiveChatId": "Cg0KC2U3VE5qWGpsUl93KicKGFVDcFlmNkM5UXNQX0JSZjk3dkx1WGxJQRILZTdUTmpYamxSX3c"
     }
   },
@@ -3787,21 +3766,6 @@
       "activeLiveChatId": "Cg0KC2ZyekNXV09VVjlNKicKGFVDdjFUaHlFNEtWWW5uVlk4R0xmdG5vQRILZnJ6Q1dXT1VWOU0"
     }
   },
-  "gHOwnFzBtMo": {
-    "id": "gHOwnFzBtMo",
-    "snippet": {
-      "publishedAt": "2024-04-28T21:29:58Z",
-      "channelId": "UCqlgtk9H_1GoWtvW8Vii38w",
-      "title": "\u3010 Placid Plastic Duck Simulator \u3011Quack 4 New Hope\u3010Alicja Da Lontano | Globie Gen 2 Solstia\u3011",
-      "channelTitle": "Alicja Da Lontano ch. \u3010globie\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-04-28T21:31:27Z",
-      "actualEndTime": "2024-04-29T01:26:08Z",
-      "scheduledStartTime": "2024-04-28T21:30:00Z",
-      "activeLiveChatId": "Cg0KC2dIT3duRnpCdE1vKicKGFVDcWxndGs5SF8xR29XdHZXOFZpaTM4dxILZ0hPd25GekJ0TW8"
-    }
-  },
   "gK31rX-EsIw": {
     "id": "gK31rX-EsIw",
     "snippet": {
@@ -3890,6 +3854,7 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-04-28T18:21:43Z",
+      "actualEndTime": "2024-04-29T01:35:27Z",
       "scheduledStartTime": "2024-04-28T18:20:00Z",
       "activeLiveChatId": "Cg0KC2hnWDVPbWVsU1JFKicKGFVDcFpJYnpvRUNfM3JaZ2xFcnBRa2JEZxILaGdYNU9tZWxTUkU"
     }
@@ -4683,7 +4648,8 @@
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-01T20:00:00Z",
-      "activeLiveChatId": "Cg0KC3FqaGNFMjZVdkxrKicKGFVDaVM4Ym1kdmNQZkRiVDVkcW14el9ldxILcWpoY0UyNlV2TGs"
+      "activeLiveChatId": "Cg0KC3FqaGNFMjZVdkxrKicKGFVDaVM4Ym1kdmNQZkRiVDVkcW14el9ldxILcWpoY0UyNlV2TGs",
+      "premiere": true
     }
   },
   "qkGLsGnc1gM": {
@@ -4811,20 +4777,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-04-27T06:00:00Z",
       "activeLiveChatId": "Cg0KC3NWY29UVFNvZ2dvKicKGFVDcW1TWWtYTHdzTDB6RWFyNUdvb1lrZxILc1Zjb1RUU29nZ28"
-    }
-  },
-  "sZ2EohNQh34": {
-    "id": "sZ2EohNQh34",
-    "snippet": {
-      "publishedAt": "2024-04-26T07:36:11Z",
-      "channelId": "UCHxUvAIXHfDzpTW02v7Qarg",
-      "title": "\u3010Overwatch 2\u3011Do I just PEW PEW them? (beginner POV)\u3010PRODUCTION KAWAII 5 STACK COLLAB\u3011",
-      "channelTitle": "Kohaku Yumekui Ch. \u5922\u55b0\u5df1\u767d\u3010kawaii\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-04-28T22:21:38Z",
-      "scheduledStartTime": "2024-04-28T22:00:00Z",
-      "activeLiveChatId": "Cg0KC3NaMkVvaE5RaDM0KicKGFVDSHhVdkFJWEhmRHpwVFcwMnY3UWFyZxILc1oyRW9oTlFoMzQ"
     }
   },
   "skTCKgM7biI": {
@@ -5206,7 +5158,8 @@
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-05T03:00:00Z",
-      "activeLiveChatId": "Cg0KC3lvd1VBR0E2ZzR3KicKGFVDcXlMMG9CMmpsLTVHcFNnLUdXWl9ndxILeW93VUFHQTZnNHc"
+      "activeLiveChatId": "Cg0KC3lvd1VBR0E2ZzR3KicKGFVDcXlMMG9CMmpsLTVHcFNnLUdXWl9ndxILeW93VUFHQTZnNHc",
+      "premiere": true
     }
   },
   "z3jZNDDVV2U": {
