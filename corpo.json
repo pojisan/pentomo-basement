@@ -60,18 +60,6 @@
     "premiere": false
   },
   {
-    "id": "20SsDRfFR6g",
-    "vidUrl": "https://youtu.be/20SsDRfFR6g",
-    "vidTitle": "\u3010NFS UNBOUND\u3011WHO STOLE OUR CARS?! \u3010globie | Kiri Kilovolt\u3011",
-    "channelId": "@kirikilovolt",
-    "channelName": "Kiri Kilovolt ch.\u3010globie\u3011",
-    "channelThumb": "https://yt3.ggpht.com/3051xmWYegQ0FaTgkb_KBuGTU9HKARThukYKBIaR9_lgSxl0Y3HXQxI9eNgntoYbNqY-6zj9xw=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Kiri",
-    "scheduledStartTime": "2024-04-29T18:00:00Z",
-    "actualStartTime": "2024-04-29T17:58:02Z",
-    "premiere": false
-  },
-  {
     "id": "O1DdTZn_2_c",
     "vidUrl": "https://youtu.be/O1DdTZn_2_c",
     "vidTitle": "\u3010Dead Space\u3011I AM CRYING (but the reason is unexpected) \ud83d\udc7d",
@@ -180,18 +168,6 @@
     "premiere": false
   },
   {
-    "id": "2t8aOZDPggw",
-    "vidUrl": "https://youtu.be/2t8aOZDPggw",
-    "vidTitle": "\u3010OniMon #24\u3011 I'm a Half Oni, Ask Me Anything! (Q+A)\u3010Yuno Hanaki\u3011",
-    "channelId": "@yunohanaki",
-    "channelName": "Yuno Hanaki Ch. \u83ef\u9b3c\u7d50\u671b \u3010kawaii\u3011",
-    "channelThumb": "https://yt3.ggpht.com/3pIMiD4FJEzYSAXPR4CchM-vKiT7gfMtJagky2oGpvyMy0UqATsnAPLJ8DFE1eTJQH2MYkxPHQ=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Yuno",
-    "scheduledStartTime": "2024-04-29T20:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "6lxgSMXIt2Y",
     "vidUrl": "https://youtu.be/6lxgSMXIt2Y",
     "vidTitle": "Drawing YOU! \ud83c\udfa8Let's design the BARKANEERS!\ud83d\udc3e\u3010Bonnie Barkswell / globie\u3011",
@@ -200,7 +176,7 @@
     "channelThumb": "https://yt3.ggpht.com/1Yr43WjJSo9wCJBUQKdroLYbA3y_0M3P-kKHksJRfu7Z5vas2CRGR6OL1b9e_hQUEy9qXpFdRQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Bonnie",
     "scheduledStartTime": "2024-04-29T20:00:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-29T19:57:04Z",
     "premiere": false
   },
   {
@@ -212,7 +188,19 @@
     "channelThumb": "https://yt3.ggpht.com/H_892LDXqcHxCpLlCzwFJ2ZvFUNxe0budpC4ZJAquXYKViznzWrgDf28fFWKZYKjYMi-3t_9aio=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Buoy",
     "scheduledStartTime": "2024-04-29T20:00:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-29T19:59:38Z",
+    "premiere": false
+  },
+  {
+    "id": "2t8aOZDPggw",
+    "vidUrl": "https://youtu.be/2t8aOZDPggw",
+    "vidTitle": "\u3010OniMon #24\u3011 I'm a Half Oni, Ask Me Anything! (Q+A)\u3010Yuno Hanaki\u3011",
+    "channelId": "@yunohanaki",
+    "channelName": "Yuno Hanaki Ch. \u83ef\u9b3c\u7d50\u671b \u3010kawaii\u3011",
+    "channelThumb": "https://yt3.ggpht.com/3pIMiD4FJEzYSAXPR4CchM-vKiT7gfMtJagky2oGpvyMy0UqATsnAPLJ8DFE1eTJQH2MYkxPHQ=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Yuno",
+    "scheduledStartTime": "2024-04-29T20:00:00Z",
+    "actualStartTime": "2024-04-29T20:00:53Z",
     "premiere": false
   },
   {
@@ -920,6 +908,18 @@
     "channelThumb": "https://yt3.ggpht.com/kaNjFSu8SjR9kJjHuxcfwKsA12ZeruRk8iJNOxeK0z1_5-zEuaMg_F-BHlXUztmPSVbuKgcxag=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Mio",
     "scheduledStartTime": "2024-05-01T00:30:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "8Gka1qvd4BI",
+    "vidUrl": "https://youtu.be/8Gka1qvd4BI",
+    "vidTitle": "Teaching Vtubers Yugioh Master Duel W/ @KamikoRinona",
+    "channelId": "@novaaokami",
+    "channelName": "Nova Aokami Ch. [VReverie]",
+    "channelThumb": "https://yt3.ggpht.com/5Doo9Ki6KPh9XFq09Ctrrp7U2Aagn6VB3PIWlGICOovu5Wc7GwBiRrASpFy45QNwOvVeFdAr=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Nova",
+    "scheduledStartTime": "2024-05-01T01:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -2855,6 +2855,19 @@
     "shortName": "Reina",
     "scheduledStartTime": "2024-04-29T14:10:00Z",
     "actualStartTime": "2024-04-29T14:13:53Z",
+    "premiere": false
+  },
+  {
+    "id": "20SsDRfFR6g",
+    "vidUrl": "https://youtu.be/20SsDRfFR6g",
+    "vidTitle": "\u3010NFS UNBOUND\u3011WHO STOLE OUR CARS?! \u3010globie | Kiri Kilovolt\u3011",
+    "channelId": "@kirikilovolt",
+    "channelName": "Kiri Kilovolt ch.\u3010globie\u3011",
+    "channelThumb": "https://yt3.ggpht.com/3051xmWYegQ0FaTgkb_KBuGTU9HKARThukYKBIaR9_lgSxl0Y3HXQxI9eNgntoYbNqY-6zj9xw=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Kiri",
+    "scheduledStartTime": "2024-04-29T18:00:00Z",
+    "actualStartTime": "2024-04-29T17:58:02Z",
     "premiere": false
   },
   {
