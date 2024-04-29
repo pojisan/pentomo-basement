@@ -375,21 +375,6 @@
       "activeLiveChatId": "Cg0KCzF1UmhGUEV1U3pFKicKGFVDTGp4M2xxSWtZa1BDQkpvcDhjekoyQRILMXVSaEZQRXVTekU"
     }
   },
-  "20SsDRfFR6g": {
-    "id": "20SsDRfFR6g",
-    "snippet": {
-      "publishedAt": "2024-04-28T11:53:48Z",
-      "channelId": "UC1sm9H2orvynDajcE4jrYug",
-      "title": "\u3010NFS UNBOUND\u3011WHO STOLE OUR CARS?! \u3010globie | Kiri Kilovolt\u3011",
-      "channelTitle": "Kiri Kilovolt ch.\u3010globie\u3011",
-      "defaultLanguage": "en"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-04-29T17:58:02Z",
-      "scheduledStartTime": "2024-04-29T18:00:00Z",
-      "activeLiveChatId": "Cg0KCzIwU3NEUmZGUjZnKicKGFVDMXNtOUgyb3J2eW5EYWpjRTRqcll1ZxILMjBTc0RSZkZSNmc"
-    }
-  },
   "25zIXtC4TWA": {
     "id": "25zIXtC4TWA",
     "snippet": {
@@ -480,6 +465,7 @@
       "defaultLanguage": "en"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-04-29T20:00:53Z",
       "scheduledStartTime": "2024-04-29T20:00:00Z",
       "activeLiveChatId": "Cg0KCzJ0OGFPWkRQZ2d3KicKGFVDWmw5MndNaXBqWUZjMVVsbTlZeTY1ZxILMnQ4YU9aRFBnZ3c"
     }
@@ -829,6 +815,7 @@
       "defaultLanguage": "en-US"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-04-29T19:57:04Z",
       "scheduledStartTime": "2024-04-29T20:00:00Z",
       "activeLiveChatId": "Cg0KCzZseGdTTVhJdDJZKicKGFVDcXczcGRQRUtLVk9JN1NGWG9teUtMQRILNmx4Z1NNWEl0Mlk"
     }
@@ -946,6 +933,19 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-02T22:30:00Z",
       "activeLiveChatId": "Cg0KCzhBVURnQUtGTWZvKicKGFVDYlpabHFBU1U2Njgtd3lXMUsya1lCdxILOEFVRGdBS0ZNZm8"
+    }
+  },
+  "8Gka1qvd4BI": {
+    "id": "8Gka1qvd4BI",
+    "snippet": {
+      "publishedAt": "2024-04-29T19:56:53Z",
+      "channelId": "UCA4bOB1Jnw5-lbuoSCfxc-w",
+      "title": "Teaching Vtubers Yugioh Master Duel W/ @KamikoRinona",
+      "channelTitle": "Nova Aokami Ch. [VReverie]"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-01T01:00:00Z",
+      "activeLiveChatId": "Cg0KCzhHa2ExcXZkNEJJKicKGFVDQTRiT0IxSm53NS1sYnVvU0NmeGMtdxILOEdrYTFxdmQ0Qkk"
     }
   },
   "8JtGVPlZr6U": {
@@ -2162,6 +2162,7 @@
       "channelTitle": "Finana Ryugu \u3010NIJISANJI EN\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-04-29T20:00:14Z",
       "scheduledStartTime": "2024-04-29T20:00:00Z",
       "activeLiveChatId": "Cg0KC0k1WUppZ3UwZ3BvKicKGFVDdS1KOHVJWHVMWmgxNmdHLWNUMW5hdxILSTVZSmlndTBncG8"
     }
@@ -4490,6 +4491,7 @@
       "channelTitle": "Buoy Afuru | CIESTE"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-04-29T19:59:38Z",
       "scheduledStartTime": "2024-04-29T20:00:00Z",
       "activeLiveChatId": "Cg0KC2UxOUVlMVlVUDhjKicKGFVDcXV5V3I3c2RFRkhDc3FFZ24xVUExZxILZTE5RWUxWVVQOGM"
     }
@@ -5393,6 +5395,18 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-01T19:00:00Z",
       "activeLiveChatId": "Cg0KC25nTnY0dzQ2RHFnKicKGFVDMEdEeVdORWpzeGdLWF81elJzLWg1dxILbmdOdjR3NDZEcWc"
+    }
+  },
+  "ninete_en": {
+    "id": "ninete_en",
+    "snippet": {
+      "channelId": "ninete_en",
+      "title": "\u671d\u3060\u304b\u3089\u6fc0\u3061\u308b\u306d",
+      "channelTitle": "\u30ca\u30a4\u30f3\u30c6\u30a3\u30fc\u30f3"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-04-29T19:57:03Z",
+      "twitch": true
     }
   },
   "nnAY-x9AtNk": {
