@@ -805,7 +805,7 @@
   "WzyXXQXfSzo": {
     "id": "WzyXXQXfSzo",
     "snippet": {
-      "publishedAt": "2024-04-28T05:33:09Z",
+      "publishedAt": "2024-04-29T02:14:04Z",
       "channelId": "UCPK3S9ij0DXINmTjQ4KhQVA",
       "title": "\u3010Overwatch 2\u3011Production kawaii 5 stack!! I WILL PROTECT EVERYONE! Tank POV!",
       "channelTitle": "Hiyori Mokami Ch. \u6843\u795e\u65e5\u548c\u3010kawaii\u3011",
@@ -814,8 +814,37 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-04-28T22:25:03Z",
       "actualEndTime": "2024-04-29T01:58:22Z",
-      "scheduledStartTime": "2024-04-28T22:00:00Z",
-      "activeLiveChatId": "Cg0KC1d6eVhYUVhmU3pvKicKGFVDUEszUzlpajBEWElObVRqUTRLaFFWQRILV3p5WFhRWGZTem8"
+      "scheduledStartTime": "2024-04-28T22:00:00Z"
+    }
+  },
+  "gl_b8ckfFgY": {
+    "id": "gl_b8ckfFgY",
+    "snippet": {
+      "publishedAt": "2024-04-29T02:09:10Z",
+      "channelId": "UCPK3S9ij0DXINmTjQ4KhQVA",
+      "title": "\u3010 League of Legends\u3011 Guerilla hopcon LoL for big W'S!!! w/@MajokkoMeimi & @KohakuYumekui (REAL ROOM)",
+      "channelTitle": "Hiyori Mokami Ch. \u6843\u795e\u65e5\u548c\u3010kawaii\u3011",
+      "defaultLanguage": "en"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-04-29T02:12:27Z",
+      "scheduledStartTime": "2024-04-29T02:30:00Z",
+      "activeLiveChatId": "Cg0KC2dsX2I4Y2tmRmdZKicKGFVDUEszUzlpajBEWElObVRqUTRLaFFWQRILZ2xfYjhja2ZGZ1k"
+    }
+  },
+  "JHO7xcOGnVs": {
+    "id": "JHO7xcOGnVs",
+    "snippet": {
+      "publishedAt": "2024-04-29T02:07:15Z",
+      "channelId": "UCPK3S9ij0DXINmTjQ4KhQVA",
+      "title": "\u3010 League of Legends\u3011 Guerilla hopcon LoL for big W'S!!! w/@MajokkoMeimi & @KohakuYumekui!",
+      "channelTitle": "Hiyori Mokami Ch. \u6843\u795e\u65e5\u548c\u3010kawaii\u3011",
+      "defaultLanguage": "en"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-04-29T02:04:29Z",
+      "actualEndTime": "2024-04-29T02:10:31Z",
+      "scheduledStartTime": "2024-04-29T02:15:00Z"
     }
   }
 }

@@ -3209,8 +3209,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-04-29T00:55:38Z",
-      "scheduledStartTime": "2024-04-29T00:55:26Z",
-      "activeLiveChatId": "Cg0KC1I5MkhnYy11NkJzKicKGFVDVWZnS2dDeHRGczFaUGx5aU0zSmNUdxILUjkySGdjLXU2QnM"
+      "actualEndTime": "2024-04-29T02:18:52Z",
+      "scheduledStartTime": "2024-04-29T00:55:26Z"
     }
   },
   "0rtWGSLJ3Qg": {
@@ -3236,7 +3236,7 @@
       "channelTitle": "Coni Confetti Ch. idol-EN"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-04-29T02:30:00Z",
+      "scheduledStartTime": "2024-04-29T03:00:00Z",
       "activeLiveChatId": "Cg0KC1RTMHNFZHRKVjk0KicKGFVDVWZnS2dDeHRGczFaUGx5aU0zSmNUdxILVFMwc0VkdEpWOTQ"
     }
   }
