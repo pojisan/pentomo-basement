@@ -1051,6 +1051,7 @@
       "channelTitle": "Sarugaku Leon Jr. ch.\u3010globie\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-04-29T14:00:06Z",
       "scheduledStartTime": "2024-04-29T14:00:00Z",
       "activeLiveChatId": "Cg0KC0M2clhMdHhSM180KicKGFVDLUxBbkZMWFU5QnVzRnY3bjhsRmo4ZxILQzZyWEx0eFIzXzQ"
     }
@@ -2186,6 +2187,7 @@
       "channelTitle": "Millie Parfait\u3010NIJISANJI EN\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-04-29T14:00:17Z",
       "scheduledStartTime": "2024-04-29T14:00:00Z",
       "activeLiveChatId": "Cg0KC05OVTY0Rkd1T3hzKicKGFVDNDdyTm1rRGNOZ2JPY00tMkJ3ekpUURILTk5VNjRGR3VPeHM"
     }
@@ -2214,20 +2216,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-04-01T10:00:00Z",
       "activeLiveChatId": "Cg0KC05fYnZQZUFDR3FBKicKGFVDeUtzZy01N1hDOXB5SGJQN3Yza0NQURILTl9idlBlQUNHcUE"
-    }
-  },
-  "NaBZM2YK9u0": {
-    "id": "NaBZM2YK9u0",
-    "snippet": {
-      "publishedAt": "2024-04-26T11:04:59Z",
-      "channelId": "UC_kVJhBQC6TDFysN9TuPSYg",
-      "title": "\u3010COVER\u3011A Little Pain - Nana by Olivia Lufkin \u3010Taring Hu | globie\u3011",
-      "channelTitle": "Taring Hu ch. \u30bf\u30ea\u30f3\u30d5\u30fc\u3010globie\u3011"
-    },
-    "liveStreamingDetails": {
-      "scheduledStartTime": "2024-04-29T14:00:00Z",
-      "activeLiveChatId": "Cg0KC05hQlpNMllLOXUwKicKGFVDX2tWSmhCUUM2VERGeXNOOVR1UFNZZxILTmFCWk0yWUs5dTA",
-      "premiere": true
     }
   },
   "NohbbaHw5yg": {
@@ -2693,7 +2681,7 @@
       "channelTitle": "Enna Alouette\u3010NIJISANJI EN\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-04-29T14:00:00Z",
+      "scheduledStartTime": "2024-04-29T15:00:00Z",
       "activeLiveChatId": "Cg0KC1NNOGhHX1lETld3KicKGFVDUjZxaHNMcG42MldWeENCSzFka0xvdxILU004aEdfWUROV3c"
     }
   },
