@@ -55,7 +55,11 @@
       },
       "Gen 1 (bond)": {
         "Baji": {
+<<<<<<< HEAD
           "tv": "bajiru_EN"
+=======
+          "tv": "bajiru_en"
+>>>>>>> 5c4301078bd57f99c76e49f3d51b62bb72e0b3f0
         },
         "Miyu": {
           "yt": "UCUr8O6Z8JyAg83KJbc_u_bQ",
@@ -121,10 +125,17 @@
     },
     "Digital DropOuts": {
       "Yancha": {
+<<<<<<< HEAD
         "tv": "YanchaGogo"
       },
       "Paichi": {
         "tv": "PAICHIpop"
+=======
+        "tv": "yanchagogo"
+      },
+      "Paichi": {
+        "tv": "paichipop"
+>>>>>>> 5c4301078bd57f99c76e49f3d51b62bb72e0b3f0
       },
       "Megu": {
         "tv": "megu"
@@ -402,7 +413,11 @@
       "Re:CorD": {
         "Karrot": {
           "yt": "UCr8NZ9jOrrVcIRnaHZCjJUg",
+<<<<<<< HEAD
           "tv": "KarrotKeromi"
+=======
+          "tv": "karrotkeromi"
+>>>>>>> 5c4301078bd57f99c76e49f3d51b62bb72e0b3f0
         },
         "Liola": {
           "yt": "UCKKH64iHZH2O9NdlsOQD2Qg"
