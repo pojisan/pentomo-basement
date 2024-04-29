@@ -1289,6 +1289,7 @@
       "channelTitle": "Scarlett Flameheart Ch. [VReverie]"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-04-29T21:58:41Z",
       "scheduledStartTime": "2024-04-29T22:00:00Z",
       "activeLiveChatId": "Cg0KC0M0cFZ3X0d3QXF3KicKGFVDZS1fcDZvdW40cDAtZ2RCNEFrZlQxURILQzRwVndfR3dBcXc"
     }
@@ -1354,6 +1355,7 @@
       "channelTitle": "Nia Suzune / \u9234\u97f3\u306b\u3042\u3010Requiem\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-04-29T22:01:40Z",
       "scheduledStartTime": "2024-04-29T22:00:00Z",
       "activeLiveChatId": "Cg0KC0NaTElDV0w3ancwKicKGFVDdzFLTmpWcWZySlNmY0ZkNnpsY1N6QRILQ1pMSUNXTDdqdzA"
     }
@@ -4658,6 +4660,7 @@
       "channelTitle": "Ami Amami / \u96e8\u6d77\u3042\u307f"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-04-29T22:01:24Z",
       "scheduledStartTime": "2024-04-29T22:00:00Z",
       "activeLiveChatId": "Cg0KC2VzTmdTV2N6ZHc4KicKGFVDa2pQX3c2MDdCLW40a1dKclpBc0hNURILZXNOZ1NXY3pkdzg"
     }
@@ -5404,6 +5407,7 @@
       "channelTitle": "Mimosa Shirosaki \u3010Yume+\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-04-29T21:58:31Z",
       "scheduledStartTime": "2024-04-29T22:00:00Z",
       "activeLiveChatId": "Cg0KC210TEladm11aGZJKicKGFVDcW1TWWtYTHdzTDB6RWFyNUdvb1lrZxILbXRMSVp2bXVoZkk"
     }
@@ -5497,6 +5501,18 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-01T19:00:00Z",
       "activeLiveChatId": "Cg0KC25nTnY0dzQ2RHFnKicKGFVDMEdEeVdORWpzeGdLWF81elJzLWg1dxILbmdOdjR3NDZEcWc"
+    }
+  },
+  "niasuzune": {
+    "id": "niasuzune",
+    "snippet": {
+      "channelId": "niasuzune",
+      "title": "Continuing Our Journey and Possibly Making New Friends??? | !patreon !discord !merch",
+      "channelTitle": "NiaSuzune"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-04-29T22:01:34Z",
+      "twitch": true
     }
   },
   "ninete_en": {
@@ -5775,6 +5791,7 @@
       "channelTitle": "Ceres Fauna Ch. hololive-EN"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-04-29T22:00:23Z",
       "scheduledStartTime": "2024-04-29T22:00:00Z",
       "activeLiveChatId": "Cg0KC3FJLVpPUElSZ1AwKicKGFVDT19hS0tZeG40dHZycVBqY1R6WjZFURILcUktWk9QSVJnUDA"
     }
@@ -6226,6 +6243,7 @@
       "channelTitle": "Echo Lyne Ch. V&U"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-04-29T22:00:02Z",
       "scheduledStartTime": "2024-04-29T22:00:00Z",
       "activeLiveChatId": "Cg0KC3V4RkZCTW9YaXV3KicKGFVDWElLQkxnNGZBVnRlN2pEYWZXUlJnURILdXhGRkJNb1hpdXc"
     }
