@@ -24,18 +24,6 @@
     "premiere": false
   },
   {
-    "id": "OYUeQu_YYAo",
-    "vidUrl": "https://youtu.be/OYUeQu_YYAo",
-    "vidTitle": "\u3010Genshin\u3011First time starting. Everyone said \"you'll love it\", I just wanna play tetris #zhunisession",
-    "channelId": "@zhuniexcel_ns",
-    "channelName": "Zhuni Excel\u3010NexStage Project\u3011",
-    "channelThumb": "https://yt3.ggpht.com/ASECFzLfCvbb1ZpfSXbamj37Nx2LMdVl_mQWiUkqFydEjBSjuv2iqFJOmGLEzSzV1BdjRikA5Mo=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Zhuni",
-    "scheduledStartTime": "2024-04-29T19:00:00Z",
-    "actualStartTime": "2024-04-29T19:01:27Z",
-    "premiere": false
-  },
-  {
     "id": "I5YJigu0gpo",
     "vidUrl": "https://youtu.be/I5YJigu0gpo",
     "vidTitle": "\u3010STELLAR BLADE\u3011LET'S FREAKING GOOOO [P1]",
@@ -45,18 +33,6 @@
     "shortName": "Finana",
     "scheduledStartTime": "2024-04-29T20:00:00Z",
     "actualStartTime": "2024-04-29T20:00:14Z",
-    "premiere": false
-  },
-  {
-    "id": "kwt1QFVGwtU",
-    "vidUrl": "https://youtu.be/kwt1QFVGwtU",
-    "vidTitle": "\u3010BEE SIMULATOR\u3011 I'm just bumblin' around \u3010EIEN Project\u3011",
-    "channelId": "@mirrisaffire",
-    "channelName": "Mirri Saffire Ch. \u3010EIEN Project\u3011",
-    "channelThumb": "https://yt3.ggpht.com/AtDufy17lH2ziQPDJh2-jQhOQ_3g5HNWeqx-d-CW2ItZcyB8sgVNCznypv_MdbNpiyU_pGEokks=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Mirri",
-    "scheduledStartTime": "2024-04-29T21:00:00Z",
-    "actualStartTime": "2024-04-29T21:00:07Z",
     "premiere": false
   },
   {
@@ -362,7 +338,7 @@
   {
     "id": "qZFwvjQxzWM",
     "vidUrl": "https://youtu.be/qZFwvjQxzWM",
-    "vidTitle": "GAMBA \ud83c\udccf\ud83c\udfb2 REMOVED steam game \ud83d\udca2",
+    "vidTitle": "GAMBA! \ud83c\udccf\ud83c\udfb2 REMOVED steam game \ud83d\udca2",
     "channelId": "@surivnu",
     "channelName": "Suri Solari Ch. V&U",
     "channelThumb": "https://yt3.ggpht.com/VaElIFntfdnsdEWcuX4b3ZB6JpT8YmhAr7Tf-2h80TO_ygsd8OxSf1TgZjtSpwt6K26DwgloNg=s88-c-k-c0x00ffffff-no-rj",
@@ -674,7 +650,7 @@
   {
     "id": "1iimoPiUnnA",
     "vidUrl": "https://youtu.be/1iimoPiUnnA",
-    "vidTitle": "\ud83d\udd34\u3010HANDCAM\u3011 Turning SCIENCE Into FOOD + Eating Them On Stream!! \ud83c\udf6c | Kracie Popin' Cookin' Kits",
+    "vidTitle": "\ud83d\udd34\u3010HANDCAM\u3011 TURNING SCIENCE INTO FOOD + Eating Them On Stream!! \ud83c\udf6c | Kracie Popin' Cookin' Kits",
     "channelId": "@auregaliaaruri",
     "channelName": "Aruri Ch. \u30a2\u30eb\u30ea \ud83d\udddd\ufe0f\ud83c\udf80",
     "channelThumb": "https://yt3.ggpht.com/Ppd9mggKtHGNEzkDfQvJOb2_jpnaKOrBUdILMkNcAig21_83A1J5XhjFoshKNQO11Fzw7FN-=s88-c-k-c0x00ffffff-no-rj",
@@ -3047,6 +3023,32 @@
     "shortName": "Reina",
     "scheduledStartTime": "2024-04-29T14:10:00Z",
     "actualStartTime": "2024-04-29T14:13:53Z",
+    "premiere": false
+  },
+  {
+    "id": "OYUeQu_YYAo",
+    "vidUrl": "https://youtu.be/OYUeQu_YYAo",
+    "vidTitle": "\u3010Genshin\u3011First time starting. Everyone said \"you'll love it\", I just wanna play tetris #zhunisession",
+    "channelId": "@zhuniexcel_ns",
+    "channelName": "Zhuni Excel\u3010NexStage Project\u3011",
+    "channelThumb": "https://yt3.ggpht.com/ASECFzLfCvbb1ZpfSXbamj37Nx2LMdVl_mQWiUkqFydEjBSjuv2iqFJOmGLEzSzV1BdjRikA5Mo=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Zhuni",
+    "scheduledStartTime": "2024-04-29T19:00:00Z",
+    "actualStartTime": "2024-04-29T19:01:27Z",
+    "premiere": false
+  },
+  {
+    "id": "kwt1QFVGwtU",
+    "vidUrl": "https://youtu.be/kwt1QFVGwtU",
+    "vidTitle": "\u3010BEE SIMULATOR\u3011 I'm just bumblin' around \u3010EIEN Project\u3011",
+    "channelId": "@mirrisaffire",
+    "channelName": "Mirri Saffire Ch. \u3010EIEN Project\u3011",
+    "channelThumb": "https://yt3.ggpht.com/AtDufy17lH2ziQPDJh2-jQhOQ_3g5HNWeqx-d-CW2ItZcyB8sgVNCznypv_MdbNpiyU_pGEokks=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Mirri",
+    "scheduledStartTime": "2024-04-29T21:00:00Z",
+    "actualStartTime": "2024-04-29T21:00:07Z",
     "premiere": false
   },
   {
