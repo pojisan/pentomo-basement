@@ -2551,14 +2551,15 @@
   "JKFHERYlvGI": {
     "id": "JKFHERYlvGI",
     "snippet": {
-      "publishedAt": "2024-04-24T23:17:00Z",
+      "publishedAt": "2024-04-29T00:00:07Z",
       "channelId": "UC64DMAYXo4nwTFfvNQzkSwQ",
       "title": "\u30e9\u30d3\u30c3\u30c8\u30db\u30fc\u30eb (Rabbit Hole) - DECO*27\u3010cover by Miuna Usako\u3011",
       "channelTitle": "Miuna Usako Ch.\u3010PixelLink\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-04-29T00:00:00Z",
-      "activeLiveChatId": "Cg0KC0pLRkhFUllsdkdJKicKGFVDNjRETUFZWG80bndURmZ2TlF6a1N3URILSktGSEVSWWx2R0k"
+      "actualStartTime": "2024-04-29T00:00:07Z",
+      "actualEndTime": "2024-04-29T00:04:48Z",
+      "scheduledStartTime": "2024-04-29T00:00:00Z"
     }
   },
   "K2J5qRv2vkM": {
@@ -2630,6 +2631,7 @@
       "channelTitle": "Miuna Usako Ch.\u3010PixelLink\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-04-29T00:12:17Z",
       "scheduledStartTime": "2024-04-29T00:05:00Z",
       "activeLiveChatId": "Cg0KC090TVdwY2FidlZzKicKGFVDNjRETUFZWG80bndURmZ2TlF6a1N3URILT3RNV3BjYWJ2VnM"
     }
