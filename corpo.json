@@ -48,18 +48,6 @@
     "premiere": false
   },
   {
-    "id": "a9MjEZXakqU",
-    "vidUrl": "https://youtu.be/a9MjEZXakqU",
-    "vidTitle": "\u3010 AFTER PARTY\u3011COVER RELEASES and LET'S TALK SCHEDULE!\u3010 Reina Ronronea | globie\u3011",
-    "channelId": "@reinaronronea",
-    "channelName": "Reina Ronronea ch. \u3010globie\u3011",
-    "channelThumb": "https://yt3.ggpht.com/MOmaBB08GVq5lIY13WTEtrmqB8l2Nwald3Y_XLd28nmqQTOdbgHgQFkiItRLn79KWLevOiurgg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Reina",
-    "scheduledStartTime": "2024-04-29T14:10:00Z",
-    "actualStartTime": "2024-04-29T14:13:53Z",
-    "premiere": false
-  },
-  {
     "id": "1bVW-QCGd-o",
     "vidUrl": "https://youtu.be/1bVW-QCGd-o",
     "vidTitle": "THE END OF AUTUMN?! Winter and Existential Crises\u3010Stardew Valley\u3011",
@@ -427,6 +415,18 @@
     "channelName": "Roza Coatl Ch.",
     "channelThumb": "https://yt3.ggpht.com/J_RmocTP4ficzRZ6AFtUiEXoekNfliyRQcber2EXH-nBkNjhci71GaeNHsp4gzLMZs14HZ1U6WQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Roza",
+    "scheduledStartTime": "2024-04-30T00:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "REH03cXnzk0",
+    "vidUrl": "https://youtu.be/REH03cXnzk0",
+    "vidTitle": "IT CAN HEAR ME...",
+    "channelId": "@confetticoni",
+    "channelName": "Coni Confetti Ch. idol-EN",
+    "channelThumb": "https://yt3.ggpht.com/DHI9aYg-eO1nO1PKAyVyDIP7BhuK88nkWcztyfKc-dp0zrdErFkKsbkgC13KqMucq46qreLKpz8=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Coni",
     "scheduledStartTime": "2024-04-30T00:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -872,18 +872,6 @@
     "channelThumb": "https://yt3.ggpht.com/Yv97lNyNygKWhFW-foy823UoJZv-Uf4tg0t_fzZlyTzrYLdiEvt-gjs9dDoDDGEoH2sVXy6E=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Sara",
     "scheduledStartTime": "2024-05-01T00:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "3F_uiAdGkwo",
-    "vidUrl": "https://youtu.be/3F_uiAdGkwo",
-    "vidTitle": "Can I romance myself ?? | Bunny Garden",
-    "channelId": "@mioricelesta",
-    "channelName": "Miori Celesta",
-    "channelThumb": "https://yt3.ggpht.com/kaNjFSu8SjR9kJjHuxcfwKsA12ZeruRk8iJNOxeK0z1_5-zEuaMg_F-BHlXUztmPSVbuKgcxag=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Mio",
-    "scheduledStartTime": "2024-05-01T00:30:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -1460,6 +1448,18 @@
     "channelThumb": "https://yt3.ggpht.com/suWyZeS-EYVFQpzGL2VvJVh7ag9fbOZjzhtySBXQ72KZibmvy2gz1RimoxYuWQaUUwmKKgTGjw=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Mom(?)",
     "scheduledStartTime": "2024-05-03T00:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "3F_uiAdGkwo",
+    "vidUrl": "https://youtu.be/3F_uiAdGkwo",
+    "vidTitle": "Can I romance myself ?? | Bunny Garden",
+    "channelId": "@mioricelesta",
+    "channelName": "Miori Celesta",
+    "channelThumb": "https://yt3.ggpht.com/kaNjFSu8SjR9kJjHuxcfwKsA12ZeruRk8iJNOxeK0z1_5-zEuaMg_F-BHlXUztmPSVbuKgcxag=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Mio",
+    "scheduledStartTime": "2024-05-03T00:30:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -2813,16 +2813,16 @@
     "premiere": false
   },
   {
-    "id": "-NZhdV_sAmA",
-    "vidUrl": "https://youtu.be/-NZhdV_sAmA",
-    "vidTitle": "The Peak of Content\u3010CATS ORGANIZED NEATLY\u3011",
-    "channelId": "@antimonycinnia",
-    "channelName": "Cinnia Antimony",
-    "channelThumb": "https://yt3.ggpht.com/TS8mW0lOOVBI53VXfKNkbncMKZecacAs5h2LAuKBqT4BHFggyV-LaNA0iDTzYE6pBN2dQX5euCI=s88-c-k-c0x00ffffff-no-rj",
+    "id": "a9MjEZXakqU",
+    "vidUrl": "https://youtu.be/a9MjEZXakqU",
+    "vidTitle": "\u3010 AFTER PARTY\u3011COVER RELEASES and LET'S TALK SCHEDULE!\u3010 Reina Ronronea | globie\u3011",
+    "channelId": "@reinaronronea",
+    "channelName": "Reina Ronronea ch. \u3010globie\u3011",
+    "channelThumb": "https://yt3.ggpht.com/MOmaBB08GVq5lIY13WTEtrmqB8l2Nwald3Y_XLd28nmqQTOdbgHgQFkiItRLn79KWLevOiurgg=s88-c-k-c0x00ffffff-no-rj",
     "graveyard": true,
-    "shortName": "Cinnia",
-    "scheduledStartTime": "2024-04-29T13:00:00Z",
-    "actualStartTime": "2024-04-29T13:00:36Z",
+    "shortName": "Reina",
+    "scheduledStartTime": "2024-04-29T14:10:00Z",
+    "actualStartTime": "2024-04-29T14:13:53Z",
     "premiere": false
   }
 ]
