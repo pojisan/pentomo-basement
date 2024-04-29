@@ -1,17 +1,5 @@
 [
   {
-    "id": "MF0IBYErcNI",
-    "vidUrl": "https://youtu.be/MF0IBYErcNI",
-    "vidTitle": "\u30101 YEAR ANNIVERSARY!\u3011 #HoppyAnniversary2024 \ud83c\udf26\ufe0f\ud83d\udc38 Here's to many more! \u3010Ami Amami | \u96e8\u6d77\u3042\u307f\u3011",
-    "channelId": "@amamiami",
-    "channelName": "Ami Amami / \u96e8\u6d77\u3042\u307f",
-    "channelThumb": "https://yt3.ggpht.com/UBuXoRJHyJ4AQeqy3d7_i6Hl-Kj49nfQJNMgUMdJLcE2NObzlJXLSHXHH3YnNoeW9zB4g-gN=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Ami",
-    "scheduledStartTime": "2024-04-28T22:15:00Z",
-    "actualStartTime": "2024-04-28T22:15:22Z",
-    "premiere": false
-  },
-  {
     "id": "UxkWvmtq9pU",
     "vidUrl": "https://youtu.be/UxkWvmtq9pU",
     "vidTitle": "Handcam stream \ud83d\udc49\ud83d\udc48 GUNPLA !!",
@@ -93,18 +81,6 @@
     "shortName": "Amoria",
     "scheduledStartTime": "2024-04-29T03:00:00Z",
     "actualStartTime": "2024-04-29T03:01:03Z",
-    "premiere": false
-  },
-  {
-    "id": "7tMIki9ZOQ0",
-    "vidUrl": "https://youtu.be/7tMIki9ZOQ0",
-    "vidTitle": "\u3016soft read | ASMR\u3017Wiki-reading returns :3\u3016Cyon \u2765 V&U\u3017",
-    "channelId": "@cyonvnu",
-    "channelName": "Cyon Hart Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/gsviy0KcEYuRE4MyNsKcEBoS0lIaW9wgkz9raEwVrQ0tIUM473cN8ORz-rdHps1IYSHxZdzI_g=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Cyon",
-    "scheduledStartTime": "2024-04-29T03:00:00Z",
-    "actualStartTime": "2024-04-29T03:02:54Z",
     "premiere": false
   },
   {
@@ -403,6 +379,18 @@
     "channelName": "Rhubarb N. Kustard ch.\u3010globie\u3011",
     "channelThumb": "https://yt3.ggpht.com/tW_Dt1Vla7zmaEr0m3JFlqIJohGHaahQUC7Bhg4SQhk9gLbfbXdJPrH4WnwRDMYbHmXJMLDrxg=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Rhubarb",
+    "scheduledStartTime": "2024-04-29T21:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "zBOp-sM8pts",
+    "vidUrl": "https://youtu.be/zBOp-sM8pts",
+    "vidTitle": "\u3010Just Chatting\u30111k Celebration!!\u3010Cyanne Aria | bondlive_EN\u3011#shorts #vtuber",
+    "channelId": "@cyannearia",
+    "channelName": "Cyanne Aria / \u30b7\u30a2\u30f3 \u3042\u308a\u3042\u3010bondlive_EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/94_7bvQFgx_VwRYGfPY_C6QOyLrrhLuem9k0szU_sH5ND07OfNMmbXdhhepVJfgJekq-P2FORw=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Cy",
     "scheduledStartTime": "2024-04-29T21:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -2359,6 +2347,19 @@
     "premiere": false
   },
   {
+    "id": "MF0IBYErcNI",
+    "vidUrl": "https://youtu.be/MF0IBYErcNI",
+    "vidTitle": "\u30101 YEAR ANNIVERSARY!\u3011 #HoppyAnniversary2024 \ud83c\udf26\ufe0f\ud83d\udc38 Here's to many more! \u3010Ami Amami | \u96e8\u6d77\u3042\u307f\u3011",
+    "channelId": "@amamiami",
+    "channelName": "Ami Amami / \u96e8\u6d77\u3042\u307f",
+    "channelThumb": "https://yt3.ggpht.com/UBuXoRJHyJ4AQeqy3d7_i6Hl-Kj49nfQJNMgUMdJLcE2NObzlJXLSHXHH3YnNoeW9zB4g-gN=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Ami",
+    "scheduledStartTime": "2024-04-28T22:15:00Z",
+    "actualStartTime": "2024-04-28T22:15:22Z",
+    "premiere": false
+  },
+  {
     "id": "nf9m7hj7uZY",
     "vidUrl": "https://youtu.be/nf9m7hj7uZY",
     "vidTitle": "\u3010GO! GO! HYPERGRIND\u3011I AM NOT A FURRY!\u3010EIEN Project\u3011",
@@ -2395,6 +2396,19 @@
     "shortName": "Elayna",
     "scheduledStartTime": "2024-04-29T02:05:00Z",
     "actualStartTime": "2024-04-29T02:06:29Z",
+    "premiere": false
+  },
+  {
+    "id": "7tMIki9ZOQ0",
+    "vidUrl": "https://youtu.be/7tMIki9ZOQ0",
+    "vidTitle": "\u3016soft read | ASMR\u3017Wiki-reading returns :3\u3016Cyon \u2765 V&U\u3017",
+    "channelId": "@cyonvnu",
+    "channelName": "Cyon Hart Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/gsviy0KcEYuRE4MyNsKcEBoS0lIaW9wgkz9raEwVrQ0tIUM473cN8ORz-rdHps1IYSHxZdzI_g=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Cyon",
+    "scheduledStartTime": "2024-04-29T03:00:00Z",
+    "actualStartTime": "2024-04-29T03:02:54Z",
     "premiere": false
   }
 ]
