@@ -15,9 +15,7 @@
           "yt": "UCG_UQg-S5Fofys7M10HpyCw",
           "twt": "owlthy"
         }
-      },
-      "AkioWater": null,
-      "In:serenity": null
+      }
     },
     "AuroraLiveVR": {
       "Inf:Rhapsody": {
@@ -55,7 +53,7 @@
       },
       "Gen 1 (bond)": {
         "Baji": {
-          "tv": "bajiru_EN"
+          "tv": "bajiru_en"
         },
         "Miyu": {
           "yt": "UCUr8O6Z8JyAg83KJbc_u_bQ",
@@ -121,10 +119,10 @@
     },
     "Digital DropOuts": {
       "Yancha": {
-        "tv": "YanchaGogo"
+        "tv": "yanchagogo"
       },
       "Paichi": {
-        "tv": "PAICHIpop"
+        "tv": "paichipop"
       },
       "Megu": {
         "tv": "megu"
@@ -293,11 +291,7 @@
         "Meica": {
           "yt": "UCp4G83RMBDN0EgZFSUDK7zw",
           "tv": "meica05"
-        },
-        "Taiga": null,
-        "Ruby": null,
-        "Akugaki": null,
-        "Lalabell": null
+        }
       }
     },
     "Kawa Entertainment": {
@@ -402,7 +396,7 @@
       "Re:CorD": {
         "Karrot": {
           "yt": "UCr8NZ9jOrrVcIRnaHZCjJUg",
-          "tv": "KarrotKeromi"
+          "tv": "karrotkeromi"
         },
         "Liola": {
           "yt": "UCKKH64iHZH2O9NdlsOQD2Qg"
@@ -441,7 +435,6 @@
       "Leobel": {
         "tv": "leobelpurson"
       },
-      "Enaria": null,
       "Esila": {
         "yt": "UC7sqbQ4_5_ELz-Ov-bVBi8A"
       },
@@ -457,18 +450,12 @@
       "Kyohei": {
         "yt": "UCXHWGGR-Jrg3bMz3A2Qe7gA"
       },
-      "Sweet": null,
-      "Nox": null,
-      "Faelie": null,
       "PikoHalo": {
         "yt": "UCp12JzLo8fnjc5WQjSaNe_w"
       },
       "Melody": {
         "yt": "UCOUX7Hvbe-tIXayyKmO5ikw"
       },
-      "Soma": null,
-      "Nell": null,
-      "Endra": null,
       "Rixxy": {
         "yt": "UCmFrCToKeGiZYX4I5VUwLBw"
       },
@@ -478,17 +465,13 @@
       "Kenzo": {
         "yt": "UCYO60EIwTrjSFO13en7iyxQ"
       },
-      "Nano": null,
-      "Alvyn": null,
-      "Kiko": null,
       "Lumiora": {
         "yt": "UC5iZ67a6jnuZPffjAwLlw1Q",
         "tv": "lumioralumen"
       },
       "Nyantsume": {
         "tv": "nyantsumevt"
-      },
-      "Noah": null
+      }
     },
     "NexStage": {
       "CodeX": {
@@ -522,8 +505,7 @@
           "yt": "UCf4U3iVUDkkhIv3jnr41u-Q",
           "tv": "tatsuhikohiroki"
         }
-      },
-      "Gen1": null
+      }
     },
     "PixelLink": {
       "PixelStart": {
@@ -751,7 +733,6 @@
         }
       }
     },
-    "StellarVersePro": null,
     "Tsunderia": {
       "Gen 0": {
         "Saya": {
@@ -942,9 +923,7 @@
       },
       "Eri": {
         "tv": "chieriadoette"
-      },
-      "Poyo": null,
-      "Mami": null
+      }
     },
     "VOLs": {
       "Mikumi": {
@@ -1043,7 +1022,8 @@
         "yt": "UCWRgyZ7sllnMwli-9IeouTQ"
       },
       "Aura": {
-        "yt": "UCiS8bmdvcPfDbT5dqmxz_ew"
+        "yt": "UCiS8bmdvcPfDbT5dqmxz_ew",
+        "tv": "gx_aura"
       }
     }
   },
