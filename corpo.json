@@ -108,30 +108,6 @@
     "premiere": false
   },
   {
-    "id": "pscLkq6WTlQ",
-    "vidUrl": "https://youtu.be/pscLkq6WTlQ",
-    "vidTitle": "\u3010DAVE THE DIVER\u3011 i'm back to cook hehe",
-    "channelId": "@hiranokokoro",
-    "channelName": "Hirano Kokoro \u300c\u308d\u308d\u300d",
-    "channelThumb": "https://yt3.ggpht.com/Pc-k4wd6VsvLoZPUmql6OForU2LDiXTu3TeGZASvNqkD4OW-zEUxuNatHZQLRMUrt4IhcE0rtg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Roro",
-    "scheduledStartTime": "2024-04-29T14:00:00Z",
-    "actualStartTime": "2024-04-29T14:08:40Z",
-    "premiere": false
-  },
-  {
-    "id": "2RuIPlW8DXU",
-    "vidUrl": "https://youtu.be/2RuIPlW8DXU",
-    "vidTitle": "\u3010COVER\u3011Kuroi Namida - Nana by Anna Tsuchiya\u3010 Reina Ronronea | globie\u3011",
-    "channelId": "@reinaronronea",
-    "channelName": "Reina Ronronea ch. \u3010globie\u3011",
-    "channelThumb": "https://yt3.ggpht.com/MOmaBB08GVq5lIY13WTEtrmqB8l2Nwald3Y_XLd28nmqQTOdbgHgQFkiItRLn79KWLevOiurgg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Reina",
-    "scheduledStartTime": "2024-04-29T14:05:00Z",
-    "actualStartTime": "2024-04-29T14:05:07Z",
-    "premiere": false
-  },
-  {
     "id": "1bVW-QCGd-o",
     "vidUrl": "https://youtu.be/1bVW-QCGd-o",
     "vidTitle": "THE END OF AUTUMN?! Winter and Existential Crises\u3010Stardew Valley\u3011",
@@ -427,6 +403,18 @@
     "channelName": "Mom AtCookieBox",
     "channelThumb": "https://yt3.ggpht.com/suWyZeS-EYVFQpzGL2VvJVh7ag9fbOZjzhtySBXQ72KZibmvy2gz1RimoxYuWQaUUwmKKgTGjw=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Mom(?)",
+    "scheduledStartTime": "2024-04-30T00:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "ARr7tpIlggI",
+    "vidUrl": "https://youtu.be/ARr7tpIlggI",
+    "vidTitle": "So Every Deck Is Running Skill Drain Now.....\u3010YUGIOH MASTER DUEL\u3011",
+    "channelId": "@novaaokami",
+    "channelName": "Nova Aokami Ch. [VReverie]",
+    "channelThumb": "https://yt3.ggpht.com/5Doo9Ki6KPh9XFq09Ctrrp7U2Aagn6VB3PIWlGICOovu5Wc7GwBiRrASpFy45QNwOvVeFdAr=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Nova",
     "scheduledStartTime": "2024-04-30T00:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -1628,6 +1616,18 @@
     "channelThumb": "https://yt3.ggpht.com/ytc/AIdro_nC7dRnnTDxs3724EZNLjdWAX7n5w7Vpv6hM9ss3dUJ_w=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Bri",
     "scheduledStartTime": "2024-05-03T23:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "FkVUBQEw6s8",
+    "vidUrl": "https://youtu.be/FkVUBQEw6s8",
+    "vidTitle": "state of the suzu union address (may 2024)",
+    "channelId": "@charlottesuzu",
+    "channelName": "Charlotte Suzu / \u30b7\u30e3\u30fc\u30ed\u30c3\u30c8\u30fb\u30b9\u30ba \u3010kawaii\u3011",
+    "channelThumb": "https://yt3.ggpht.com/GsB4xQkkRT82EzVSuT8nU34Dj0MoofYZRwsTw2WWy4DHpvrGkmN2_59njomL2MuZCuR0I7i3-XM=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Charzu",
+    "scheduledStartTime": "2024-05-04T02:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
