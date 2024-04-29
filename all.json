@@ -60,18 +60,6 @@
     "premiere": false
   },
   {
-    "id": "xlARRtCMwSY",
-    "vidUrl": "https://youtu.be/xlARRtCMwSY",
-    "vidTitle": "\u3010FUWAMOCO MORNING\u3011episode 91 \ud83d\udc3e #FWMCMORNING",
-    "channelId": "@fuwamococh",
-    "channelName": "FUWAMOCO Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/zt63obGOD6fnCX0elnzt8xkylqOTnAENmSCKmwg_PSiC857DDgB28kEjQ-FJlWGtNYZ9lqzEag=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "FWMC",
-    "scheduledStartTime": "2024-04-29T15:00:00Z",
-    "actualStartTime": "2024-04-29T14:55:19Z",
-    "premiere": false
-  },
-  {
     "id": "1bVW-QCGd-o",
     "vidUrl": "https://youtu.be/1bVW-QCGd-o",
     "vidTitle": "THE END OF AUTUMN?! Winter and Existential Crises\u3010Stardew Valley\u3011",
@@ -128,7 +116,7 @@
     "channelThumb": "https://yt3.ggpht.com/aFRvJ_IOkDdIvUEZYAwAR1tp-uRyO9WYycjXA13_NiRawAMJTIDgOa3Ih0ypNuW9yrEwa8gRYA4=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Hyouma",
     "scheduledStartTime": "2024-04-29T16:00:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-29T15:59:19Z",
     "premiere": false
   },
   {
@@ -140,7 +128,7 @@
     "channelThumb": "https://yt3.ggpht.com/cpOrgCDSmgMO9mNbftd8UKAtsZwIGRCV5t5EmjoQ2FcP-W3N7s6S4UUc_Daz24qjDnBxrTEBrtQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Kunai",
     "scheduledStartTime": "2024-04-29T16:00:00Z",
-    "actualStartTime": "",
+    "actualStartTime": "2024-04-29T16:00:04Z",
     "premiere": false
   },
   {
@@ -2848,19 +2836,6 @@
     "premiere": false
   },
   {
-    "id": "nNqvk8XVS4w",
-    "vidUrl": "https://youtu.be/nNqvk8XVS4w",
-    "vidTitle": "\u3010Stardew Valley\u3011Owl Vanderbos Had a Farm\u3010Vilhelm Vanderbos | globie Gen 2 | Equinnox\u3011",
-    "channelId": "@vilhelmvanderbos",
-    "channelName": "Vilhelm Vanderbos ch.\u3010globie\u3011",
-    "channelThumb": "https://yt3.ggpht.com/-CD53qvzMIfS3qdZAVNFkdYvIwHQUhEo04oGNmYAlxvBFR1jl7PMof3nQqsgBoHxenLJnGo8cA=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Vilhelm",
-    "scheduledStartTime": "2024-04-29T13:00:00Z",
-    "actualStartTime": "2024-04-29T12:57:37Z",
-    "premiere": false
-  },
-  {
     "id": "a9MjEZXakqU",
     "vidUrl": "https://youtu.be/a9MjEZXakqU",
     "vidTitle": "\u3010 AFTER PARTY\u3011COVER RELEASES and LET'S TALK SCHEDULE!\u3010 Reina Ronronea | globie\u3011",
@@ -2871,6 +2846,19 @@
     "shortName": "Reina",
     "scheduledStartTime": "2024-04-29T14:10:00Z",
     "actualStartTime": "2024-04-29T14:13:53Z",
+    "premiere": false
+  },
+  {
+    "id": "xlARRtCMwSY",
+    "vidUrl": "https://youtu.be/xlARRtCMwSY",
+    "vidTitle": "\u3010FUWAMOCO MORNING\u3011episode 91 \ud83d\udc3e #FWMCMORNING",
+    "channelId": "@fuwamococh",
+    "channelName": "FUWAMOCO Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/zt63obGOD6fnCX0elnzt8xkylqOTnAENmSCKmwg_PSiC857DDgB28kEjQ-FJlWGtNYZ9lqzEag=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "FWMC",
+    "scheduledStartTime": "2024-04-29T15:00:00Z",
+    "actualStartTime": "2024-04-29T14:55:19Z",
     "premiere": false
   },
   {
