@@ -156,18 +156,6 @@
     "premiere": false
   },
   {
-    "id": "GhQp-f1q9nE",
-    "vidUrl": "https://youtu.be/GhQp-f1q9nE",
-    "vidTitle": "\u3010ROLLERCOASTER TYCOON 2\u3011michael eisner roleplay stream\ud83d\udc30\u3010Rhubarb N. Kustard / globie\u3011",
-    "channelId": "@rhubarbnkustard",
-    "channelName": "Rhubarb N. Kustard ch.\u3010globie\u3011",
-    "channelThumb": "https://yt3.ggpht.com/tW_Dt1Vla7zmaEr0m3JFlqIJohGHaahQUC7Bhg4SQhk9gLbfbXdJPrH4WnwRDMYbHmXJMLDrxg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Rhubarb",
-    "scheduledStartTime": "2024-04-29T21:02:09Z",
-    "actualStartTime": "2024-04-29T21:02:43Z",
-    "premiere": false
-  },
-  {
     "id": "f5DY8tMFt98",
     "vidUrl": "https://youtu.be/f5DY8tMFt98",
     "vidTitle": "\u3010Detroit: Become Human\u3011My instructions stipulate that I have to accompany you!",
@@ -403,6 +391,18 @@
     "channelName": "Coni Confetti Ch. idol-EN",
     "channelThumb": "https://yt3.ggpht.com/DHI9aYg-eO1nO1PKAyVyDIP7BhuK88nkWcztyfKc-dp0zrdErFkKsbkgC13KqMucq46qreLKpz8=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Coni",
+    "scheduledStartTime": "2024-04-30T00:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "VFwwzKIWw34",
+    "vidUrl": "https://youtu.be/VFwwzKIWw34",
+    "vidTitle": "\u3010Hades pt.2\u3011I want to meet more hot gods\u3010Yurikago Kokone | V&U\u3011",
+    "channelId": "@yurikagokokone",
+    "channelName": "Kokone Yurikago Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/xwSS6tbTBzvBuI0LLjA-0MQ77ZacslZB2TKN7lXcknwNBswpyMTjp9K4vLTR5B2jH4upTIAT5MI=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Kokone",
     "scheduledStartTime": "2024-04-30T00:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -732,6 +732,18 @@
     "premiere": false
   },
   {
+    "id": "1iimoPiUnnA",
+    "vidUrl": "https://youtu.be/1iimoPiUnnA",
+    "vidTitle": "\ud83d\udd34\u3010HANDCAM\u3011 Turning Science Into Food + Eating Them On Stream!! \ud83c\udf6c",
+    "channelId": "@auregaliaaruri",
+    "channelName": "Aruri Ch. \u30a2\u30eb\u30ea \ud83d\udddd\ufe0f\ud83c\udf80",
+    "channelThumb": "https://yt3.ggpht.com/Ppd9mggKtHGNEzkDfQvJOb2_jpnaKOrBUdILMkNcAig21_83A1J5XhjFoshKNQO11Fzw7FN-=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Aruri",
+    "scheduledStartTime": "2024-04-30T13:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "di3ydf42304",
     "vidUrl": "https://youtu.be/di3ydf42304",
     "vidTitle": "\u3010DARK SOULS 2\u3011CONQUERING ALL THE SOLES\u3010LONG SWORD ONLY\u3011 | #vtuber",
@@ -1022,7 +1034,7 @@
   {
     "id": "AavuZ9eYBvk",
     "vidUrl": "https://youtu.be/AavuZ9eYBvk",
-    "vidTitle": "This is what finishing a nuzlocke does to a man.",
+    "vidTitle": "This is what finishing a pokemon nuzlocke does to a man.",
     "channelId": "@kaisaikota",
     "channelName": "Kai Saikota Ch. idol-EN",
     "channelThumb": "https://yt3.ggpht.com/0rVHZdUlMh90grMz90Dv_PPWyAvBb2BbkSN2QSDU6JWGdavGje-34q4D6E1OYgBkx74vfrxzyw=s88-c-k-c0x00ffffff-no-rj",
@@ -3071,6 +3083,19 @@
     "shortName": "Reina",
     "scheduledStartTime": "2024-04-29T14:10:00Z",
     "actualStartTime": "2024-04-29T14:13:53Z",
+    "premiere": false
+  },
+  {
+    "id": "GhQp-f1q9nE",
+    "vidUrl": "https://youtu.be/GhQp-f1q9nE",
+    "vidTitle": "\u3010ROLLERCOASTER TYCOON 2\u3011michael eisner roleplay stream\ud83d\udc30\u3010Rhubarb N. Kustard / globie\u3011",
+    "channelId": "@rhubarbnkustard",
+    "channelName": "Rhubarb N. Kustard ch.\u3010globie\u3011",
+    "channelThumb": "https://yt3.ggpht.com/tW_Dt1Vla7zmaEr0m3JFlqIJohGHaahQUC7Bhg4SQhk9gLbfbXdJPrH4WnwRDMYbHmXJMLDrxg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Rhubarb",
+    "scheduledStartTime": "2024-04-29T21:02:09Z",
+    "actualStartTime": "2024-04-29T21:02:43Z",
     "premiere": false
   },
   {
