@@ -1319,5 +1319,44 @@
       "actualEndTime": "2024-04-19T22:32:42Z",
       "scheduledStartTime": "2024-04-19T20:00:00Z"
     }
+  },
+  "abWAPuud-80": {
+    "id": "abWAPuud-80",
+    "snippet": {
+      "publishedAt": "2024-04-29T17:37:37Z",
+      "channelId": "UCt2Z49e6nxKBAKysfF6ZcrA",
+      "title": "Super Mario Sunshine\u2502Continuing The Island Cleaning Duties!",
+      "channelTitle": "Chiyo Moberi \u3010CIESTE\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-03T22:00:00Z",
+      "activeLiveChatId": "Cg0KC2FiV0FQdXVkLTgwKicKGFVDdDJaNDllNm54S0JBS3lzZkY2WmNyQRILYWJXQVB1dWQtODA"
+    }
+  },
+  "WIHLQUxDKFc": {
+    "id": "WIHLQUxDKFc",
+    "snippet": {
+      "publishedAt": "2024-04-29T17:24:18Z",
+      "channelId": "UCt2Z49e6nxKBAKysfF6ZcrA",
+      "title": "Art Stream\u2502Drawing Fan Art Of My Vtube Model!",
+      "channelTitle": "Chiyo Moberi \u3010CIESTE\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-01T18:00:00Z",
+      "activeLiveChatId": "Cg0KC1dJSExRVXhES0ZjKicKGFVDdDJaNDllNm54S0JBS3lzZkY2WmNyQRILV0lITFFVeERLRmM"
+    }
+  },
+  "MBt4n44ZH8s": {
+    "id": "MBt4n44ZH8s",
+    "snippet": {
+      "publishedAt": "2024-04-29T17:18:33Z",
+      "channelId": "UCt2Z49e6nxKBAKysfF6ZcrA",
+      "title": "Monster Hunter World\u2502Are The Monster Getting To Difficult To Beat?",
+      "channelTitle": "Chiyo Moberi \u3010CIESTE\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-04-30T22:00:00Z",
+      "activeLiveChatId": "Cg0KC01CdDRuNDRaSDhzKicKGFVDdDJaNDllNm54S0JBS3lzZkY2WmNyQRILTUJ0NG40NFpIOHM"
+    }
   }
 }
