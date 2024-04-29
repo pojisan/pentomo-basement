@@ -192,18 +192,6 @@
     "premiere": false
   },
   {
-    "id": "tOke16Cdfj0",
-    "vidUrl": "https://youtu.be/tOke16Cdfj0",
-    "vidTitle": "\u3010ALONE IN THE DARK\u3011Let's finish this antonio!! PEDRO?? JUAN???\u3010NIJISANJI EN | Reimu Endou\u3011",
-    "channelId": "@reimuendou",
-    "channelName": "Reimu Endou\u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/jwZT783V-LU58DMyjShj-CWJ3GGsM5DaHX20vtIExe7LNGpaS0P5pZJV_EH11AprgaHocu6CKA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Reimu",
-    "scheduledStartTime": "2024-04-29T13:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "NNU64FGuOxs",
     "vidUrl": "https://youtu.be/NNU64FGuOxs",
     "vidTitle": "\u3010Snufkin Melody of Moominvalley\u3011New adventure awaits! \u2606\u2b52NIJISANJI EN \u2727 Millie Parfait \u2606\u2b52",
@@ -247,6 +235,18 @@
     "channelName": "Kamiko Rinona Ch. [VReverie]",
     "channelThumb": "https://yt3.ggpht.com/SbFlMLB7oQ7qohWKS-R2cuTWfnqMPJ0lile-yU90Lukt9CfBb67_phh3RxPjqYOnHdwljNTa0A=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Rinona",
+    "scheduledStartTime": "2024-04-29T14:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "tOke16Cdfj0",
+    "vidUrl": "https://youtu.be/tOke16Cdfj0",
+    "vidTitle": "\u3010ALONE IN THE DARK\u3011Let's finish this antonio!! PEDRO?? JUAN???\u3010NIJISANJI EN | Reimu Endou\u3011",
+    "channelId": "@reimuendou",
+    "channelName": "Reimu Endou\u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/jwZT783V-LU58DMyjShj-CWJ3GGsM5DaHX20vtIExe7LNGpaS0P5pZJV_EH11AprgaHocu6CKA=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Reimu",
     "scheduledStartTime": "2024-04-29T14:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -1820,6 +1820,18 @@
     "channelThumb": "https://yt3.ggpht.com/-MORJjUXDCIxCYeCuEktQiDRvqDLv33ZG5fqCbxX6Y_U8dxMEIL9seZmRBtDbnTHQuCrs82YLQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Mozzu",
     "scheduledStartTime": "2024-05-04T19:40:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "DpGciU8lwmM",
+    "vidUrl": "https://youtu.be/DpGciU8lwmM",
+    "vidTitle": "\u3010Karaoke\u3011Pros-in-Cons / Karaoke Relay!",
+    "channelId": "@kattarina_qutie",
+    "channelName": "Kattarina Qutie Ch. idol-EN",
+    "channelThumb": "https://yt3.ggpht.com/gHLRZOEihJIIcqQJmj8hsp4CsuRIbKIYKzRxQp9Q9du6DfBDFlnMv3xYCXMnKqSe3N8a1ki6Yw=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Katta",
+    "scheduledStartTime": "2024-05-04T20:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
