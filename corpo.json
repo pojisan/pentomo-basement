@@ -72,18 +72,6 @@
     "premiere": false
   },
   {
-    "id": "R92Hgc-u6Bs",
-    "vidUrl": "https://youtu.be/R92Hgc-u6Bs",
-    "vidTitle": "SECRET DANGEROUS HANDCAM",
-    "channelId": "@confetticoni",
-    "channelName": "Coni Confetti Ch. idol-EN",
-    "channelThumb": "https://yt3.ggpht.com/DHI9aYg-eO1nO1PKAyVyDIP7BhuK88nkWcztyfKc-dp0zrdErFkKsbkgC13KqMucq46qreLKpz8=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Coni",
-    "scheduledStartTime": "2024-04-29T00:55:26Z",
-    "actualStartTime": "2024-04-29T00:55:38Z",
-    "premiere": false
-  },
-  {
     "id": "qQr8FnVmIjM",
     "vidUrl": "https://youtu.be/qQr8FnVmIjM",
     "vidTitle": "\u3010Outlast: Whistleblower\u3011SPEEDRUNNING!\u3010V&U | GEN4\u3011",
@@ -216,18 +204,6 @@
     "premiere": false
   },
   {
-    "id": "TS0sEdtJV94",
-    "vidUrl": "https://youtu.be/TS0sEdtJV94",
-    "vidTitle": "\u3010ASMR RP\ud83c\udf3a\u304a\u3068\u30d5\u30a7\u30c1\u3011Gyaru Girl Encourages You~!\ud83c\udf3a",
-    "channelId": "@confetticoni",
-    "channelName": "Coni Confetti Ch. idol-EN",
-    "channelThumb": "https://yt3.ggpht.com/DHI9aYg-eO1nO1PKAyVyDIP7BhuK88nkWcztyfKc-dp0zrdErFkKsbkgC13KqMucq46qreLKpz8=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Coni",
-    "scheduledStartTime": "2024-04-29T02:30:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "YblAo-lWaKs",
     "vidUrl": "https://youtu.be/YblAo-lWaKs",
     "vidTitle": "\u3010MenoGame\u3011Hogwarts Legacy\u3010Ibuki Meno\u3011",
@@ -272,6 +248,30 @@
     "channelThumb": "https://yt3.ggpht.com/xE9UTkowb3ioACbhZJuLwEGgBQEq4akaOHZZBTGmgn807ALVQKp91t_Gr74tgSpWRmN7SaEgnQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Amoria",
     "scheduledStartTime": "2024-04-29T03:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "TS0sEdtJV94",
+    "vidUrl": "https://youtu.be/TS0sEdtJV94",
+    "vidTitle": "\u3010ASMR RP\ud83c\udf3a\u304a\u3068\u30d5\u30a7\u30c1\u3011Gyaru Girl Encourages You~!\ud83c\udf3a",
+    "channelId": "@confetticoni",
+    "channelName": "Coni Confetti Ch. idol-EN",
+    "channelThumb": "https://yt3.ggpht.com/DHI9aYg-eO1nO1PKAyVyDIP7BhuK88nkWcztyfKc-dp0zrdErFkKsbkgC13KqMucq46qreLKpz8=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Coni",
+    "scheduledStartTime": "2024-04-29T03:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "V1lEzP8h8oQ",
+    "vidUrl": "https://youtu.be/V1lEzP8h8oQ",
+    "vidTitle": "\u3010Eiyuden Chronicle: Hundred Heroes\u3011 Isekai me to the chibi world!",
+    "channelId": "@kaylexskullcastor",
+    "channelName": "Kaylex Skullcastor Ch. Legion",
+    "channelThumb": "https://yt3.ggpht.com/yBYtwbzSuAJeF6wFyn8SsRj0SltRG3AwX05tcUO39OrcF4G9Bt5HPbuM5dKW56XfI8OLFWyQ=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Kaylex",
+    "scheduledStartTime": "2024-04-29T03:30:08Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -2263,6 +2263,19 @@
     "shortName": "Miuna",
     "scheduledStartTime": "2024-04-29T00:05:00Z",
     "actualStartTime": "2024-04-29T00:12:17Z",
+    "premiere": false
+  },
+  {
+    "id": "R92Hgc-u6Bs",
+    "vidUrl": "https://youtu.be/R92Hgc-u6Bs",
+    "vidTitle": "SECRET DANGEROUS HANDCAM",
+    "channelId": "@confetticoni",
+    "channelName": "Coni Confetti Ch. idol-EN",
+    "channelThumb": "https://yt3.ggpht.com/DHI9aYg-eO1nO1PKAyVyDIP7BhuK88nkWcztyfKc-dp0zrdErFkKsbkgC13KqMucq46qreLKpz8=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Coni",
+    "scheduledStartTime": "2024-04-29T00:55:26Z",
+    "actualStartTime": "2024-04-29T00:55:38Z",
     "premiere": false
   }
 ]
