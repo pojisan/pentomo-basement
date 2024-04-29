@@ -380,20 +380,6 @@
       "activeLiveChatId": "Cg0KCzJFUllPcHpVV3Z3KicKGFVDQ0E0akpZNVByVGZJRkpJY2JJX05oURILMkVSWU9welVXdnc"
     }
   },
-  "2RuIPlW8DXU": {
-    "id": "2RuIPlW8DXU",
-    "snippet": {
-      "publishedAt": "2024-04-26T11:04:58Z",
-      "channelId": "UCVmhg4wcTVpjyCoKDY59mYw",
-      "title": "\u3010COVER\u3011Kuroi Namida - Nana by Anna Tsuchiya\u3010 Reina Ronronea | globie\u3011",
-      "channelTitle": "Reina Ronronea ch. \u3010globie\u3011"
-    },
-    "liveStreamingDetails": {
-      "scheduledStartTime": "2024-04-29T14:05:00Z",
-      "activeLiveChatId": "Cg0KCzJSdUlQbFc4RFhVKicKGFVDVm1oZzR3Y1RWcGp5Q29LRFk1OW1ZdxILMlJ1SVBsVzhEWFU",
-      "premiere": true
-    }
-  },
   "2W9uhZ-beTM": {
     "id": "2W9uhZ-beTM",
     "snippet": {
@@ -1040,20 +1026,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-10-13T19:00:00Z",
       "activeLiveChatId": "Cg0KC0M0MVJubWFSOGZNKicKGFVDSW8zM2IwaGYyX21kcXRBWnZLbGF5URILQzQxUm5tYVI4Zk0"
-    }
-  },
-  "C6rXLtxR3_4": {
-    "id": "C6rXLtxR3_4",
-    "snippet": {
-      "publishedAt": "2024-04-29T11:53:43Z",
-      "channelId": "UC-LAnFLXU9BusFv7n8lFj8g",
-      "title": "\u3010Karaoke Stream NO DONATIONS\u3011First Karaoke Stream!\u3010Sarugaku Leon Jr. | Globie\u3011",
-      "channelTitle": "Sarugaku Leon Jr. ch.\u3010globie\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-04-29T14:00:06Z",
-      "scheduledStartTime": "2024-04-29T14:00:00Z",
-      "activeLiveChatId": "Cg0KC0M2clhMdHhSM180KicKGFVDLUxBbkZMWFU5QnVzRnY3bjhsRmo4ZxILQzZyWEx0eFIzXzQ"
     }
   },
   "C8TVfAzrCcs": {
@@ -3632,6 +3604,7 @@
       "channelTitle": "Kamiko Rinona Ch. [VReverie]"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-04-29T14:02:11Z",
       "scheduledStartTime": "2024-04-29T14:00:00Z",
       "activeLiveChatId": "Cg0KC2Jia0g4WVdZSFFzKicKGFVDX3pwa3FGdDdZQnlXYVBpOUJ4dDdFURILYmJrSDhZV1lIUXM"
     }
@@ -5444,7 +5417,8 @@
       "channelTitle": "FUWAMOCO Ch. hololive-EN"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-04-29T15:00:00Z"
+      "scheduledStartTime": "2024-04-29T15:00:00Z",
+      "activeLiveChatId": "Cg0KC3hsQVJSdENNd1NZKicKGFVDdDlIX1JwUXpoeHpseUJ4RnFyZEhxQRILeGxBUlJ0Q013U1k"
     }
   },
   "yVQrFk1t38Q": {
@@ -5508,6 +5482,20 @@
       "scheduledStartTime": "2024-05-05T03:00:00Z",
       "activeLiveChatId": "Cg0KC3lvd1VBR0E2ZzR3KicKGFVDcXlMMG9CMmpsLTVHcFNnLUdXWl9ndxILeW93VUFHQTZnNHc",
       "premiere": true
+    }
+  },
+  "z3t8mR_Q-8s": {
+    "id": "z3t8mR_Q-8s",
+    "snippet": {
+      "publishedAt": "2024-04-29T14:05:06Z",
+      "channelId": "UC-LAnFLXU9BusFv7n8lFj8g",
+      "title": "\u3010Karaoke Stream NO DONATIONS\u3011First Karaoke Stream!\u3010Sarugaku Leon Jr. | Globie\u3011",
+      "channelTitle": "Sarugaku Leon Jr. ch.\u3010globie\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-04-29T14:06:57Z",
+      "scheduledStartTime": "2024-04-29T14:05:00Z",
+      "activeLiveChatId": "Cg0KC3ozdDhtUl9RLThzKicKGFVDLUxBbkZMWFU5QnVzRnY3bjhsRmo4ZxILejN0OG1SX1EtOHM"
     }
   },
   "z5ezo6fZE9o": {
