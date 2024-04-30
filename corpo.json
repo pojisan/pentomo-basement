@@ -48,18 +48,6 @@
     "premiere": false
   },
   {
-    "id": "1iimoPiUnnA",
-    "vidUrl": "https://youtu.be/1iimoPiUnnA",
-    "vidTitle": "\ud83d\udd34\u3010HANDCAM\u3011 TURNING SCIENCE INTO FOOD + Eating Them On Stream!! \ud83c\udf6c | Kracie Popin' Cookin' Mukbang",
-    "channelId": "@auregaliaaruri",
-    "channelName": "Aruri Ch. \u30a2\u30eb\u30ea \ud83d\udddd\ufe0f\ud83c\udf80",
-    "channelThumb": "https://yt3.ggpht.com/Ppd9mggKtHGNEzkDfQvJOb2_jpnaKOrBUdILMkNcAig21_83A1J5XhjFoshKNQO11Fzw7FN-=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Aruri",
-    "scheduledStartTime": "2024-04-30T13:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "52WUpIiYD6M",
     "vidUrl": "https://youtu.be/52WUpIiYD6M",
     "vidTitle": "[ METAL GEAR RISING #2 ]   SLICE AND DICE [ MYTH-0S EN / JP | AKIRU NOBU ]",
@@ -128,6 +116,18 @@
     "channelThumb": "https://yt3.ggpht.com/6Jy6Uud2Vx08hfesvUg3vb2cSd0tj_30_Eeq-Ypg3jK7srTbiGUJKE94YJhedV96ExRC6-KGDA=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Mikumi",
     "scheduledStartTime": "2024-04-30T13:15:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "1iimoPiUnnA",
+    "vidUrl": "https://youtu.be/1iimoPiUnnA",
+    "vidTitle": "\ud83d\udd34\u3010HANDCAM\u3011 TURNING SCIENCE INTO FOOD + Eating Them On Stream!! \ud83c\udf6c | Kracie Popin' Cookin' Mukbang",
+    "channelId": "@auregaliaaruri",
+    "channelName": "Aruri Ch. \u30a2\u30eb\u30ea \ud83d\udddd\ufe0f\ud83c\udf80",
+    "channelThumb": "https://yt3.ggpht.com/Ppd9mggKtHGNEzkDfQvJOb2_jpnaKOrBUdILMkNcAig21_83A1J5XhjFoshKNQO11Fzw7FN-=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Aruri",
+    "scheduledStartTime": "2024-04-30T13:30:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -3468,19 +3468,6 @@
     "shortName": "Ciccino",
     "scheduledStartTime": "2024-04-30T02:00:00Z",
     "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "8N6SdMU5jBs",
-    "vidUrl": "https://youtu.be/8N6SdMU5jBs",
-    "vidTitle": "\u3016Sekiro\u3017we off the butterfly or we cry :D (we probably cry)\u3016Cyon \u2765 V&U\u3017",
-    "channelId": "@cyonvnu",
-    "channelName": "Cyon Hart Ch. V&U",
-    "channelThumb": "https://yt3.ggpht.com/gsviy0KcEYuRE4MyNsKcEBoS0lIaW9wgkz9raEwVrQ0tIUM473cN8ORz-rdHps1IYSHxZdzI_g=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Cyon",
-    "scheduledStartTime": "2024-04-30T08:00:00Z",
-    "actualStartTime": "2024-04-30T08:04:14Z",
     "premiere": false
   }
 ]
