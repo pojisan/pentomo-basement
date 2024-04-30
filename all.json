@@ -1,17 +1,5 @@
 [
   {
-    "id": "x7gRHgQ0yI0",
-    "vidUrl": "https://youtu.be/x7gRHgQ0yI0",
-    "vidTitle": "\u3010TOUHOU OFF-COLLAB with MARINE \u30de\u30ea\u30f3\u8239\u9577\u3011can't go home until we clear it?! \ud83d\udc3e\u3010\u6771\u65b9\u98a8\u795e\u9332 \u301c Mountain of Faith\u3011",
-    "channelId": "@fuwamococh",
-    "channelName": "FUWAMOCO Ch. hololive-EN",
-    "channelThumb": "https://yt3.ggpht.com/zt63obGOD6fnCX0elnzt8xkylqOTnAENmSCKmwg_PSiC857DDgB28kEjQ-FJlWGtNYZ9lqzEag=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "FWMC",
-    "scheduledStartTime": "2024-04-30T11:00:00Z",
-    "actualStartTime": "2024-04-30T10:56:47Z",
-    "premiere": false
-  },
-  {
     "id": "KW8TuQWprWk",
     "vidUrl": "https://youtu.be/KW8TuQWprWk",
     "vidTitle": "\u30103\u5468\u5e74\u8a18\u5ff5\u914d\u4fe1\u3011 \u3042\u308a\u304c\u3068\u3046\u3054\u3056\u3044\u307e\u3059\ud83d\udc97 \u3010\u306b\u3058\u3055\u3093\u3058 | \u30bb\u30d5\u30a3\u30ca\u3011",
@@ -33,18 +21,6 @@
     "shortName": "Wilson",
     "scheduledStartTime": "2024-04-30T12:00:00Z",
     "actualStartTime": "2024-04-30T11:59:43Z",
-    "premiere": false
-  },
-  {
-    "id": "MrBbtTX_XTE",
-    "vidUrl": "https://youtu.be/MrBbtTX_XTE",
-    "vidTitle": "\u3010\u6b4c\u67a0/Singing Stream\u3011\u30aa\u30fc\u30eb\u30b8\u30e3\u30f3\u30eb\u6b4c\u67a0\uff01/All genre singing stream!!\u3010VTuber/Ririsya\u3011",
-    "channelId": "@ririsyamusic",
-    "channelName": "\u51db\u3005\u54b2 / Ririsya",
-    "channelThumb": "https://yt3.ggpht.com/oYBTybAbyRi5xDlm4984w-s8PWjZzljiQDZ8KUh5fnqvLGh2OISvsoTZzOlQ6IRASupqJbq6g3Y=s88-c-k-c0x00ffffff-no-nd-rj",
-    "shortName": "Ririsya",
-    "scheduledStartTime": "2024-04-30T12:00:00Z",
-    "actualStartTime": "2024-04-30T12:01:51Z",
     "premiere": false
   },
   {
@@ -3612,19 +3588,6 @@
     "premiere": false
   },
   {
-    "id": "5n-LDvX5lQI",
-    "vidUrl": "https://youtu.be/5n-LDvX5lQI",
-    "vidTitle": "Two reckless ducklings and a MamaCookie. What more do you need for Momday Monday?",
-    "channelId": "@momatcookiebox",
-    "channelName": "Mom AtCookieBox",
-    "channelThumb": "https://yt3.ggpht.com/suWyZeS-EYVFQpzGL2VvJVh7ag9fbOZjzhtySBXQ72KZibmvy2gz1RimoxYuWQaUUwmKKgTGjw=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Mom(?)",
-    "scheduledStartTime": "2024-04-30T00:00:00Z",
-    "actualStartTime": "2024-04-29T23:55:13Z",
-    "premiere": false
-  },
-  {
     "id": "iR-4GcxYM_0",
     "vidUrl": "https://youtu.be/iR-4GcxYM_0",
     "vidTitle": "Learning How to Play Sky! (with a special tourguide! @Rirumato) \u3010Sky: Children of The Light\u3011",
@@ -3635,6 +3598,19 @@
     "shortName": "Nano",
     "scheduledStartTime": "2024-04-30T01:00:00Z",
     "actualStartTime": "2024-04-30T01:01:32Z",
+    "premiere": false
+  },
+  {
+    "id": "x7gRHgQ0yI0",
+    "vidUrl": "https://youtu.be/x7gRHgQ0yI0",
+    "vidTitle": "\u3010TOUHOU OFF-COLLAB with MARINE \u30de\u30ea\u30f3\u8239\u9577\u3011can't go home until we clear it?! \ud83d\udc3e\u3010\u6771\u65b9\u98a8\u795e\u9332 \u301c Mountain of Faith\u3011",
+    "channelId": "@fuwamococh",
+    "channelName": "FUWAMOCO Ch. hololive-EN",
+    "channelThumb": "https://yt3.ggpht.com/zt63obGOD6fnCX0elnzt8xkylqOTnAENmSCKmwg_PSiC857DDgB28kEjQ-FJlWGtNYZ9lqzEag=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "FWMC",
+    "scheduledStartTime": "2024-04-30T11:00:00Z",
+    "actualStartTime": "2024-04-30T10:56:47Z",
     "premiere": false
   },
   {
