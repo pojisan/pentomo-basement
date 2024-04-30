@@ -144,18 +144,6 @@
     "premiere": false
   },
   {
-    "id": "GRJ1LWyN1l8",
-    "vidUrl": "https://youtu.be/GRJ1LWyN1l8",
-    "vidTitle": "Manor Lords | You shall address me as Lord Afuru!",
-    "channelId": "@buoyafuru",
-    "channelName": "Buoy Afuru | CIESTE",
-    "channelThumb": "https://yt3.ggpht.com/H_892LDXqcHxCpLlCzwFJ2ZvFUNxe0budpC4ZJAquXYKViznzWrgDf28fFWKZYKjYMi-3t_9aio=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Buoy",
-    "scheduledStartTime": "2024-04-30T20:00:00Z",
-    "actualStartTime": "2024-04-30T20:00:58Z",
-    "premiere": false
-  },
-  {
     "id": "lJt_8jFOwL4",
     "vidUrl": "https://youtu.be/lJt_8jFOwL4",
     "vidTitle": "HELP ME I'M POOR \ud83d\ude2d\ud83d\udc97\u3010 Animal Crossing New Horizons \u3011",
@@ -391,6 +379,18 @@
     "channelName": "Inami Yoki Ch.",
     "channelThumb": "https://yt3.ggpht.com/vCtnJzYIQZi4DtDvSMyEpWdolmNJoIzlO4YD0036Tm2-sRRYRjPNL0xikMCq2Q8p4hqcAKaY9V4=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Yoki",
+    "scheduledStartTime": "2024-04-30T22:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "zu6wPXMpVqk",
+    "vidUrl": "https://youtu.be/zu6wPXMpVqk",
+    "vidTitle": "\u3010Meeta Osita | V&U\u3011I play one of my childhood games! (Alien Hominid HD)",
+    "channelId": "@meetavnu",
+    "channelName": "Meeta Osita Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/UziMF0GNdFxpzwVid72GzFtUE-WIlKxCpS3gFvopbgx8Oi7R1ZN2HqoPcKDXD3bYk2zarx0Vg18=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Meeta",
     "scheduledStartTime": "2024-04-30T22:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -3709,6 +3709,19 @@
     "shortName": "DK",
     "scheduledStartTime": "2024-04-30T19:00:00Z",
     "actualStartTime": "2024-04-30T19:02:57Z",
+    "premiere": false
+  },
+  {
+    "id": "GRJ1LWyN1l8",
+    "vidUrl": "https://youtu.be/GRJ1LWyN1l8",
+    "vidTitle": "Manor Lords | You shall address me as Lord Afuru!",
+    "channelId": "@buoyafuru",
+    "channelName": "Buoy Afuru | CIESTE",
+    "channelThumb": "https://yt3.ggpht.com/H_892LDXqcHxCpLlCzwFJ2ZvFUNxe0budpC4ZJAquXYKViznzWrgDf28fFWKZYKjYMi-3t_9aio=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Buoy",
+    "scheduledStartTime": "2024-04-30T20:00:00Z",
+    "actualStartTime": "2024-04-30T20:00:58Z",
     "premiere": false
   },
   {
