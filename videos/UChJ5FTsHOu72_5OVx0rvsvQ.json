@@ -6926,8 +6926,21 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-04-30T00:00:11Z",
-      "scheduledStartTime": "2024-04-30T00:00:00Z",
-      "activeLiveChatId": "Cg0KC3JLazRTWkh4NFpRKicKGFVDaEo1RlRzSE91NzJfNU9WeDBydnN2URILcktrNFNaSHg0WlE"
+      "actualEndTime": "2024-04-30T04:53:53Z",
+      "scheduledStartTime": "2024-04-30T00:00:00Z"
+    }
+  },
+  "fXyS6nlxX7k": {
+    "id": "fXyS6nlxX7k",
+    "snippet": {
+      "publishedAt": "2024-04-30T04:56:45Z",
+      "channelId": "UChJ5FTsHOu72_5OVx0rvsvQ",
+      "title": "\u3010CONTENT WARNING\u3011first collab with tocci \ud83d\ude33 (albie and nox are also here)\u3010NIJISANJI EN | Uki Violeta\u3011",
+      "channelTitle": "Uki Violeta \u3010NIJISANJI EN\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-04-30T13:00:00Z",
+      "activeLiveChatId": "Cg0KC2ZYeVM2bmx4WDdrKicKGFVDaEo1RlRzSE91NzJfNU9WeDBydnN2URILZlh5UzZubHhYN2s"
     }
   }
 }
