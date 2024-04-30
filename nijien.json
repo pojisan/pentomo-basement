@@ -84,18 +84,6 @@
     "premiere": false
   },
   {
-    "id": "A0VcKNijhI0",
-    "vidUrl": "https://youtu.be/A0VcKNijhI0",
-    "vidTitle": "Just chatting \u3010NIJISANJI EN | Ren Zotto\u3011",
-    "channelId": "@renzotto",
-    "channelName": "Ren Zotto \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/9-JRRUNPn8SanGWeg4zEEqqK14niqROhgUKzAkvuBAx1sOCcTSpG18-uQTn87w0EaH1l9emGCw=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Ren",
-    "scheduledStartTime": "2024-05-01T03:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "tAX5DkveYjI",
     "vidUrl": "https://youtu.be/tAX5DkveYjI",
     "vidTitle": "New House? EP 9 - My Time at Portia\u3010NIJISANJI  EN | Maria Marionette\u3011",
@@ -104,6 +92,18 @@
     "channelThumb": "https://yt3.ggpht.com/EZJ0E6UnrsXZKRPGwZQUJHQ4e3y9PkCHInZFzP06lAE6cYN6MXSZL7O5L5jmTRuDPSzbxNty=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Maririn",
     "scheduledStartTime": "2024-05-01T08:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "NgUbokXNd-8",
+    "vidUrl": "https://youtu.be/NgUbokXNd-8",
+    "vidTitle": "\u3010CRISIS CORE \u2013FINAL FANTASY VII\u2013 REUNION\u3011\ud83e\udd79. . .\u3010NIJISANJI EN | Reimu Endou\u3011",
+    "channelId": "@reimuendou",
+    "channelName": "Reimu Endou\u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/jwZT783V-LU58DMyjShj-CWJ3GGsM5DaHX20vtIExe7LNGpaS0P5pZJV_EH11AprgaHocu6CKA=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Reimu",
+    "scheduledStartTime": "2024-05-01T14:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
