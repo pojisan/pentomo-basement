@@ -2270,6 +2270,7 @@
       "title": "Monster Hunter World\u2502Are The Monster Getting To Difficult To Beat?"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-04-30T22:00:16Z",
       "scheduledStartTime": "2024-04-30T22:00:00Z",
       "activeLiveChatId": "Cg0KC01CdDRuNDRaSDhzKicKGFVDdDJaNDllNm54S0JBS3lzZkY2WmNyQRILTUJ0NG40NFpIOHM"
     }
@@ -4419,7 +4420,7 @@
       "title": "WEIRD! [ATTA - Spot the Oddities in the Strange Hotel \u4e16\u306b\u3082\u5947\u5999\u306a\u9593\u9055\u3044\u63a2\u3057]\u3010NIJISANJI EN | Doppio Dropscythe\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-04-30T22:00:00Z",
+      "scheduledStartTime": "2024-04-30T22:05:00Z",
       "activeLiveChatId": "Cg0KC2hwM1lfMnE5MGx3KicKGFVDeTkxeEJsWV9CcmgzYm5IeEt0anJyZxILaHAzWV8ycTkwbHc"
     }
   },
@@ -4925,6 +4926,7 @@
       "title": "My FIRST Upgrade: Genshin Impact & Honkai Star Rail on NEW Graphics Card!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-04-30T22:00:01Z",
       "scheduledStartTime": "2024-04-30T22:00:00Z",
       "activeLiveChatId": "Cg0KC21XVkJlbEJrZ2drKicKGFVDQkpGc2FDdmdCYTFhOUJuRWF4dTk3URILbVdWQmVsQmtnZ2s"
     }
@@ -5860,6 +5862,17 @@
       "activeLiveChatId": "Cg0KC3h2azA0d2dNTGFBKicKGFVDTGp4M2xxSWtZa1BDQkpvcDhjekoyQRILeHZrMDR3Z01MYUE"
     }
   },
+  "yDZ3CY1OZT0": {
+    "snippet": {
+      "publishedAt": "2024-04-30T21:56:21Z",
+      "channelId": "UCpu_YSDy-0bfsypkaOeC-sA",
+      "title": "\u3010Meeta Osita | V&U\u3011Childhood game time! (Alien Hominid HD) #shortsfeed #shortslive #alien"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-04-30T22:00:00Z",
+      "activeLiveChatId": "Cg0KC3lEWjNDWTFPWlQwKicKGFVDcHVfWVNEeS0wYmZzeXBrYU9lQy1zQRILeURaM0NZMU9aVDA"
+    }
+  },
   "ySyp4IRpUig": {
     "snippet": {
       "publishedAt": "2024-04-29T18:09:46Z",
@@ -5999,6 +6012,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-03T00:00:00Z",
       "activeLiveChatId": "Cg0KC3ptT21fMzZlbXd3KicKGFVDeGF6aWR0N3FRTU5WVzczd2twc3dPQRILem1PbV8zNmVtd3c"
+    }
+  },
+  "zu6wPXMpVqk": {
+    "snippet": {
+      "publishedAt": "2024-04-30T21:54:50Z",
+      "channelId": "UCpu_YSDy-0bfsypkaOeC-sA",
+      "title": "\u3010Meeta Osita | V&U\u3011I play one of my childhood games! (Alien Hominid HD)"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-04-30T22:00:00Z",
+      "activeLiveChatId": "Cg0KC3p1NndQWE1wVnFrKicKGFVDcHVfWVNEeS0wYmZzeXBrYU9lQy1zQRILenU2d1BYTXBWcWs"
     }
   }
 }
