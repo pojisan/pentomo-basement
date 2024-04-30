@@ -48,18 +48,6 @@
     "premiere": false
   },
   {
-    "id": "wob8qLvHNZc",
-    "vidUrl": "https://youtu.be/wob8qLvHNZc",
-    "vidTitle": "\u3010KARAOKE PRACTICE + ZATSU\u3011Choosing songs for the Relay & Practicing\u3010Yae Yugiri | V4Mirai | VTuber\u3011",
-    "channelId": "@yaeyugiri",
-    "channelName": "Yae Yugiri Ch.\u3010V4Mirai\u3011",
-    "channelThumb": "https://yt3.ggpht.com/4YU-ifBGgSoq-RvD3MYlUq_mhH23Ioe8h_t083RWrYs3c4qDcJQ_nEds5DGrI7C2FQOz0kLb=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Yae",
-    "scheduledStartTime": "2024-04-29T23:00:00Z",
-    "actualStartTime": "2024-04-29T23:05:07Z",
-    "premiere": false
-  },
-  {
     "id": "384uc50LKcI",
     "vidUrl": "https://youtu.be/384uc50LKcI",
     "vidTitle": "\u30101000 SUB CELEBRATION\u3011Build-a-Commander Farsight",
@@ -631,6 +619,18 @@
     "channelName": "Reimu Endou\u3010NIJISANJI EN\u3011",
     "channelThumb": "https://yt3.ggpht.com/jwZT783V-LU58DMyjShj-CWJ3GGsM5DaHX20vtIExe7LNGpaS0P5pZJV_EH11AprgaHocu6CKA=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Reimu",
+    "scheduledStartTime": "2024-04-30T15:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "trTGG5f76Kw",
+    "vidUrl": "https://youtu.be/trTGG5f76Kw",
+    "vidTitle": "3RD YEAR VTuber ANNIVERSARY! Uncapped Subathon DAY 3 WITH PUNSHIMENTS",
+    "channelId": "@neneamanoch",
+    "channelName": "Nene Amano Ch. \u5929\u91ce\u5be7\u3005\u3010kawaii\u3011",
+    "channelThumb": "https://yt3.ggpht.com/gQXL64aSlteGuabzrOCxa7Qs-OdOJ0EAMeTP1hpSpI_5_IAkpjy3X0Y4aTVe9BxxXvXOCE5VdLc=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Nene",
     "scheduledStartTime": "2024-04-30T15:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -3036,6 +3036,19 @@
     "shortName": "Alicja",
     "scheduledStartTime": "2024-04-29T22:30:00Z",
     "actualStartTime": "2024-04-29T22:28:48Z",
+    "premiere": false
+  },
+  {
+    "id": "wob8qLvHNZc",
+    "vidUrl": "https://youtu.be/wob8qLvHNZc",
+    "vidTitle": "\u3010KARAOKE PRACTICE + ZATSU\u3011Choosing songs for the Relay & Practicing\u3010Yae Yugiri | V4Mirai | VTuber\u3011",
+    "channelId": "@yaeyugiri",
+    "channelName": "Yae Yugiri Ch.\u3010V4Mirai\u3011",
+    "channelThumb": "https://yt3.ggpht.com/4YU-ifBGgSoq-RvD3MYlUq_mhH23Ioe8h_t083RWrYs3c4qDcJQ_nEds5DGrI7C2FQOz0kLb=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Yae",
+    "scheduledStartTime": "2024-04-29T23:00:00Z",
+    "actualStartTime": "2024-04-29T23:05:07Z",
     "premiere": false
   },
   {
