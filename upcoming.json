@@ -2381,6 +2381,7 @@
       "channelTitle": "\u30bb\u30d5\u30a3\u30ca / Seffyna\u3010\u306b\u3058\u3055\u3093\u3058\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-04-30T11:00:51Z",
       "scheduledStartTime": "2024-04-30T11:00:00Z",
       "activeLiveChatId": "Cg0KC0tXOFR1UVdwcldrKicKGFVDZUdlbmRMOENPNVJrZmZCNklGd0hvdxILS1c4VHVRV3ByV2s"
     }
@@ -3645,20 +3646,6 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC1ZxVnBGQVpoTFNFKicKGFVDQVRUdzA1UFUzUll4MEtxQzFnQWxoQRILVnFWcEZBWmhMU0U"
-    }
-  },
-  "VrTxU0pcq54": {
-    "id": "VrTxU0pcq54",
-    "snippet": {
-      "publishedAt": "2024-04-30T00:34:09Z",
-      "channelId": "UCmbs8T6MWqUHP1tIQvSgKrg",
-      "title": "\u3010Raft\u3011Finishing Up With @KaelaKovalskia",
-      "channelTitle": "Ouro Kronii Ch. hololive-EN"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-04-30T03:01:07Z",
-      "scheduledStartTime": "2024-04-30T03:00:00Z",
-      "activeLiveChatId": "Cg0KC1ZyVHhVMHBjcTU0KicKGFVDbWJzOFQ2TVdxVUhQMXRJUXZTZ0tyZxILVnJUeFUwcGNxNTQ"
     }
   },
   "VtbgI2Hnnw8": {
@@ -5364,6 +5351,19 @@
       "activeLiveChatId": "Cg0KC2xxNjMtV2YzMG5vKicKGFVDUmtkRkdYd0J0eHZtOVNzZm1ObU1aQRILbHE2My1XZjMwbm8"
     }
   },
+  "lsbivU0bFkM": {
+    "id": "lsbivU0bFkM",
+    "snippet": {
+      "publishedAt": "2024-04-30T10:57:13Z",
+      "channelId": "UC1JnagrqjTzERqfpNtRfx1A",
+      "title": "\u3010BACKROOMS BREAK!\u3011Can I survive the SCP?\u3010Yumi The Witch | V4Mirai | ENVtuber\u3011",
+      "channelTitle": "Yumi the Witch Ch.\u3010V4Mirai\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-01T08:00:00Z",
+      "activeLiveChatId": "Cg0KC2xzYml2VTBiRmtNKicKGFVDMUpuYWdycWpUekVScWZwTnRSZngxQRILbHNiaXZVMGJGa00"
+    }
+  },
   "m14GxKNy_Mc": {
     "id": "m14GxKNy_Mc",
     "snippet": {
@@ -6018,6 +6018,19 @@
       "activeLiveChatId": "Cg0KC3J2V3dhdWxKNlJBKicKGFVDdS1yVjJnUHRKLUNzR3hlNzF6X0JyURILcnZXd2F1bEo2UkE"
     }
   },
+  "s81d5oZYqpw": {
+    "id": "s81d5oZYqpw",
+    "snippet": {
+      "publishedAt": "2024-04-30T10:55:08Z",
+      "channelId": "UCHt4F3--Hq0sNXP6DEdlSmg",
+      "title": "\u3010MEMBERS\u3011Chatting & Working ASMR \ud83d\udd25 Catching up with my Pyromates \u3010MIKI HITSUGI | SPECIALITE\u3011#mik1tv",
+      "channelTitle": "Miki Hitsugi | Specialite EN"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-04-30T11:30:00Z",
+      "activeLiveChatId": "Cg0KC3M4MWQ1b1pZcXB3KicKGFVDSHQ0RjMtLUhxMHNOWFA2REVkbFNtZxILczgxZDVvWllxcHc"
+    }
+  },
   "s8Q8BJKCBIQ": {
     "id": "s8Q8BJKCBIQ",
     "snippet": {
@@ -6466,6 +6479,7 @@
       "channelTitle": "FUWAMOCO Ch. hololive-EN"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-04-30T10:56:47Z",
       "scheduledStartTime": "2024-04-30T11:00:00Z",
       "activeLiveChatId": "Cg0KC3g3Z1JIZ1EweUkwKicKGFVDdDlIX1JwUXpoeHpseUJ4RnFyZEhxQRILeDdnUkhnUTB5STA"
     }
