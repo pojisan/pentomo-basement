@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "NSow2ckq-V8",
-    "vidUrl": "https://youtu.be/NSow2ckq-V8",
-    "vidTitle": "\u3010Resident Evil 8 Village\u3011ANSWER ME CHRIS! WHYYY-\ud83d\udcd8 - Nious Heiramond \u3010Part 2\u3011",
-    "channelId": "@heiramondnious",
-    "channelName": "Nious Heiramond",
-    "channelThumb": "https://yt3.ggpht.com/b-K26QC5jj-gDEifdqwVnFlh9mBb_Q7pteGB1Re34mWu2nthcmYyC6zJVH4Pz0EfEX7NnfEa=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Nious",
-    "scheduledStartTime": "2024-04-30T13:00:00Z",
-    "actualStartTime": "2024-04-30T13:00:14Z",
-    "premiere": false
-  },
-  {
     "id": "1iimoPiUnnA",
     "vidUrl": "https://youtu.be/1iimoPiUnnA",
     "vidTitle": "\ud83d\udd34\u3010HANDCAM\u3011 TURNING SCIENCE INTO FOOD + Eating Them On Stream!! \ud83c\udf6c | Kracie Popin' Cookin' Mukbang",
@@ -3609,6 +3597,19 @@
     "shortName": "Tomomi",
     "scheduledStartTime": "2026-04-30T17:30:00Z",
     "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "NSow2ckq-V8",
+    "vidUrl": "https://youtu.be/NSow2ckq-V8",
+    "vidTitle": "\u3010Resident Evil 8 Village\u3011ANSWER ME CHRIS! WHYYY-\ud83d\udcd8 - Nious Heiramond \u3010Part 2\u3011",
+    "channelId": "@heiramondnious",
+    "channelName": "Nious Heiramond",
+    "channelThumb": "https://yt3.ggpht.com/b-K26QC5jj-gDEifdqwVnFlh9mBb_Q7pteGB1Re34mWu2nthcmYyC6zJVH4Pz0EfEX7NnfEa=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Nious",
+    "scheduledStartTime": "2024-04-30T13:00:00Z",
+    "actualStartTime": "2024-04-30T13:00:14Z",
     "premiere": false
   },
   {
