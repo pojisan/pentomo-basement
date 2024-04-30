@@ -826,6 +826,7 @@
       "channelTitle": "Mom AtCookieBox"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-04-29T23:55:13Z",
       "scheduledStartTime": "2024-04-30T00:00:00Z",
       "activeLiveChatId": "Cg0KCzVuLUxEdlg1bFFJKicKGFVDY1BjLTVPckxialZCZ1EtemlFV1BTURILNW4tTER2WDVsUUk"
     }
@@ -1307,6 +1308,19 @@
       "activeLiveChatId": "Cg0KC0M0MVJubWFSOGZNKicKGFVDSW8zM2IwaGYyX21kcXRBWnZLbGF5URILQzQxUm5tYVI4Zk0"
     }
   },
+  "C5LAgc40wOE": {
+    "id": "C5LAgc40wOE",
+    "snippet": {
+      "publishedAt": "2024-04-29T23:52:34Z",
+      "channelId": "UCz_8ztQ9rcu_UpUp0hv7bYw",
+      "title": "\u3010TATTLETAIL\u3011 Evil Furby??? \u3010EIEN Project\u3011",
+      "channelTitle": "Mirri Saffire Ch. \u3010EIEN Project\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-04-30T21:00:00Z",
+      "activeLiveChatId": "Cg0KC0M1TEFnYzQwd09FKicKGFVDel84enRROXJjdV9VcFVwMGh2N2JZdxILQzVMQWdjNDB3T0U"
+    }
+  },
   "C8TVfAzrCcs": {
     "id": "C8TVfAzrCcs",
     "snippet": {
@@ -1395,6 +1409,7 @@
       "channelTitle": "Nerissa Ravencroft Ch. hololive-EN"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-04-29T23:55:14Z",
       "scheduledStartTime": "2024-04-30T00:00:00Z",
       "activeLiveChatId": "Cg0KC0NmNWJ2WUppMWlFKicKGFVDX3NGTk0wejBNV205QTZXbEtQdU1NZxILQ2Y1YnZZSmkxaUU"
     }
@@ -2324,6 +2339,20 @@
       "activeLiveChatId": "Cg0KC0l5MXRxaUg2ZWVJKicKGFVDcjhOWjlqT3JyVmNJUm5hSFpDakpVZxILSXkxdHFpSDZlZUk"
     }
   },
+  "Iz8LyOsUz9g": {
+    "id": "Iz8LyOsUz9g",
+    "snippet": {
+      "publishedAt": "2024-04-29T23:53:28Z",
+      "channelId": "UC1ogmLVdMrU4HuLBUYtzjVQ",
+      "title": "let's catch up!  (and sing)",
+      "channelTitle": "ayu"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-04-29T23:56:40Z",
+      "scheduledStartTime": "2024-04-30T00:00:00Z",
+      "activeLiveChatId": "Cg0KC0l6OEx5T3NVejlnKicKGFVDMW9nbUxWZE1yVTRIdUxCVVl0empWURILSXo4THlPc1V6OWc"
+    }
+  },
   "J09Y3gDiIk8": {
     "id": "J09Y3gDiIk8",
     "snippet": {
@@ -3204,7 +3233,8 @@
       "channelTitle": "Coni Confetti Ch. idol-EN"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-04-30T00:00:00Z",
+      "actualStartTime": "2024-04-29T23:56:30Z",
+      "scheduledStartTime": "2024-04-29T23:56:13Z",
       "activeLiveChatId": "Cg0KC1JFSDAzY1huemswKicKGFVDVWZnS2dDeHRGczFaUGx5aU0zSmNUdxILUkVIMDNjWG56azA"
     }
   },
@@ -3560,6 +3590,7 @@
       "defaultLanguage": "en"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-04-29T23:58:10Z",
       "scheduledStartTime": "2024-04-30T00:00:00Z",
       "activeLiveChatId": "Cg0KC1ZGd3d6S0lXdzM0KicKGFVDQi04bk50aHR1VklabmlxWE55cmhLURILVkZ3d3pLSVd3MzQ"
     }
@@ -4412,7 +4443,8 @@
       "channelTitle": "FUWAMOCO Ch. hololive-EN"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-04-30T01:00:00Z"
+      "scheduledStartTime": "2024-04-30T01:00:00Z",
+      "activeLiveChatId": "Cg0KC2NyZUxoMW94R1FNKicKGFVDdDlIX1JwUXpoeHpseUJ4RnFyZEhxQRILY3JlTGgxb3hHUU0"
     }
   },
   "d-U2t6BuMNU": {
@@ -5879,6 +5911,7 @@
       "channelTitle": "Uki Violeta \u3010NIJISANJI EN\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-04-30T00:00:11Z",
       "scheduledStartTime": "2024-04-30T00:00:00Z",
       "activeLiveChatId": "Cg0KC3JLazRTWkh4NFpRKicKGFVDaEo1RlRzSE91NzJfNU9WeDBydnN2URILcktrNFNaSHg0WlE"
     }
