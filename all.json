@@ -331,7 +331,7 @@
     "channelName": "Nanimo Navi Ch. \u3010EIEN Project\u3011",
     "channelThumb": "https://yt3.ggpht.com/sQsF3JpF26yNBW9ZNusWQHHFligM4D__RBmINLE0wJtXKHIdtlzhwNfIg_xR7Fx7LrMtG7Pt=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Navi",
-    "scheduledStartTime": "2024-04-30T04:15:00Z",
+    "scheduledStartTime": "2024-04-30T04:30:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -740,6 +740,18 @@
     "channelThumb": "https://yt3.ggpht.com/FU6LvWJCONpqZAK_zMBXjRAr9d9vTEd22ZV_MwwMfxaWyNGPgt3a9UkGK3Atguk7uL0DHVVNFYI=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Furi",
     "scheduledStartTime": "2024-04-30T19:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "FsoxAzaQ2Ow",
+    "vidUrl": "https://youtu.be/FsoxAzaQ2Ow",
+    "vidTitle": "\u3010STELLAR BLADE\u3011I CAN FIX YOU ROBOT LADY [P2]",
+    "channelId": "@finanaryugu",
+    "channelName": "Finana Ryugu \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/ahtDvnkUuPHE3BN5IDwy6imkXXFGhfygaPLHIrfY4LF3aDxK9uzWJkxCFTDIvCpfxZI3BmZn=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Finana",
+    "scheduledStartTime": "2024-04-30T20:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -1604,6 +1616,18 @@
     "channelThumb": "https://yt3.ggpht.com/AItTH3F0F7PbQDVtW9UPUEAr4YcJhdP_5FYySlSsSn2yjWzP3ah7W121h1PjZMDWjnirLQ492Q=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Kaya",
     "scheduledStartTime": "2024-05-02T19:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "Li5O-l1M9rw",
+    "vidUrl": "https://youtu.be/Li5O-l1M9rw",
+    "vidTitle": "\u3010Tales of Symphonia\u3011 the fruit stage...my beloathed...\u3010Yuno Hanaki\u3011",
+    "channelId": "@yunohanaki",
+    "channelName": "Yuno Hanaki Ch. \u83ef\u9b3c\u7d50\u671b \u3010kawaii\u3011",
+    "channelThumb": "https://yt3.ggpht.com/3pIMiD4FJEzYSAXPR4CchM-vKiT7gfMtJagky2oGpvyMy0UqATsnAPLJ8DFE1eTJQH2MYkxPHQ=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Yuno",
+    "scheduledStartTime": "2024-05-02T20:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -3001,19 +3025,6 @@
     "premiere": false
   },
   {
-    "id": "QqkvUSUBSWU",
-    "vidUrl": "https://youtu.be/QqkvUSUBSWU",
-    "vidTitle": "\u3010SPRING CONCERT\u3011Interviewing & introducing the guests!",
-    "channelId": "@obakepam",
-    "channelName": "Obake PAM Ch.",
-    "channelThumb": "https://yt3.ggpht.com/FlbqAWrn9OdE4QcjGweQkH_2WUf2kCAQPbiC4dVvt6ItUWE4pLnUrs9MJ3-KtyeULY0hGe-VPio=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Obake PAM",
-    "scheduledStartTime": "2024-04-29T17:00:00Z",
-    "actualStartTime": "2024-04-29T17:09:10Z",
-    "premiere": false
-  },
-  {
     "id": "C4pVw_GwAqw",
     "vidUrl": "https://youtu.be/C4pVw_GwAqw",
     "vidTitle": "ZATSU! Talking about my trip!",
@@ -3050,19 +3061,6 @@
     "shortName": "Mom(?)",
     "scheduledStartTime": "2024-04-30T00:00:00Z",
     "actualStartTime": "2024-04-29T23:55:13Z",
-    "premiere": false
-  },
-  {
-    "id": "c8btvkYDrb4",
-    "vidUrl": "https://youtu.be/c8btvkYDrb4",
-    "vidTitle": "\u3010 Bunny Garden Gameplay\u3011The Adventures of Alias in Bunnyland\u3010Alias Anono | V4Mirai | ENVtuber\u3011",
-    "channelId": "@aliasanono",
-    "channelName": "Alias Anono Ch. \u3010V4Mirai\u3011",
-    "channelThumb": "https://yt3.ggpht.com/2cjQaeikgrJlNLffvtgcuH9FNsGIOdBdC34ShNNmqpW4MH-n2GPJGT3gv2oz8awap2nOeKneoQ=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Alias",
-    "scheduledStartTime": "2024-04-30T00:00:00Z",
-    "actualStartTime": "2024-04-30T00:07:44Z",
     "premiere": false
   },
   {
