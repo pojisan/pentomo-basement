@@ -1,17 +1,5 @@
 [
   {
-    "id": "KW8TuQWprWk",
-    "vidUrl": "https://youtu.be/KW8TuQWprWk",
-    "vidTitle": "\u30103\u5468\u5e74\u8a18\u5ff5\u914d\u4fe1\u3011 \u3042\u308a\u304c\u3068\u3046\u3054\u3056\u3044\u307e\u3059\ud83d\udc97 \u3010\u306b\u3058\u3055\u3093\u3058 | \u30bb\u30d5\u30a3\u30ca\u3011",
-    "channelId": "@seffyna",
-    "channelName": "\u30bb\u30d5\u30a3\u30ca / Seffyna\u3010\u306b\u3058\u3055\u3093\u3058\u3011",
-    "channelThumb": "https://yt3.ggpht.com/0QDtmroClBOCB8eZSOVWlGObtXc7wf8tk-USsyvw5nY-i_IE8xsxebzGBzD5OfHGlNBICUmgDg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Seffyna",
-    "scheduledStartTime": "2024-04-30T11:00:00Z",
-    "actualStartTime": "2024-04-30T11:00:51Z",
-    "premiere": false
-  },
-  {
     "id": "VxAcLf9FenA",
     "vidUrl": "https://youtu.be/VxAcLf9FenA",
     "vidTitle": "\u3010MINECRAFT\u3011COMFY MINECRAFT MORNING\u3010NIJISANJI EN | Yu Q. Wilson\u3011",
@@ -228,6 +216,18 @@
     "premiere": false
   },
   {
+    "id": "wEVrggun5DU",
+    "vidUrl": "https://youtu.be/wEVrggun5DU",
+    "vidTitle": "\u3010TEKKEN 8\u3011EVO Japan Chat & Tekken Tuesday Session with Tourney!\u3010#Coyote / #KemoV\u3011#tekken #\u9244\u62f38",
+    "channelId": "@coyote_kemov",
+    "channelName": "\u30b3\u30e8\u30fc\u30c6 / Coyote",
+    "channelThumb": "https://yt3.ggpht.com/VwLc2w11lh_JlrsDB9P4OvBJpqaoAZdS08gqQx7vtJ5-4DjsEiP5Un6xmT0q8VE6zr8uXYEnTqg=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Coyo",
+    "scheduledStartTime": "2024-04-30T14:45:00Z",
+    "actualStartTime": "2024-04-30T14:46:08Z",
+    "premiere": false
+  },
+  {
     "id": "lOJLvqWkJiU",
     "vidUrl": "https://youtu.be/lOJLvqWkJiU",
     "vidTitle": "\u3010DAYS WITH OLLIE\u3011Spending My Day with a Cute Zombie?!?!?! (O//\u2207//O)\u3010Projek Hikayat\u3011",
@@ -237,18 +237,6 @@
     "shortName": "Kowa",
     "scheduledStartTime": "2024-04-30T21:00:00Z",
     "actualStartTime": "2024-04-30T14:01:02Z",
-    "premiere": false
-  },
-  {
-    "id": "wEVrggun5DU",
-    "vidUrl": "https://youtu.be/wEVrggun5DU",
-    "vidTitle": "\u3010TEKKEN 8\u3011EVO Japan Chat & Tekken Tuesday Session with Tourney!\u3010#Coyote / #KemoV\u3011#tekken #\u9244\u62f38",
-    "channelId": "@coyote_kemov",
-    "channelName": "\u30b3\u30e8\u30fc\u30c6 / Coyote",
-    "channelThumb": "https://yt3.ggpht.com/VwLc2w11lh_JlrsDB9P4OvBJpqaoAZdS08gqQx7vtJ5-4DjsEiP5Un6xmT0q8VE6zr8uXYEnTqg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Coyo",
-    "scheduledStartTime": "2024-04-30T14:45:00Z",
-    "actualStartTime": "",
     "premiere": false
   },
   {
@@ -3610,6 +3598,19 @@
     "shortName": "Nano",
     "scheduledStartTime": "2024-04-30T01:00:00Z",
     "actualStartTime": "2024-04-30T01:01:32Z",
+    "premiere": false
+  },
+  {
+    "id": "KW8TuQWprWk",
+    "vidUrl": "https://youtu.be/KW8TuQWprWk",
+    "vidTitle": "\u30103\u5468\u5e74\u8a18\u5ff5\u914d\u4fe1\u3011 \u3042\u308a\u304c\u3068\u3046\u3054\u3056\u3044\u307e\u3059\ud83d\udc97 \u3010\u306b\u3058\u3055\u3093\u3058 | \u30bb\u30d5\u30a3\u30ca\u3011",
+    "channelId": "@seffyna",
+    "channelName": "\u30bb\u30d5\u30a3\u30ca / Seffyna\u3010\u306b\u3058\u3055\u3093\u3058\u3011",
+    "channelThumb": "https://yt3.ggpht.com/0QDtmroClBOCB8eZSOVWlGObtXc7wf8tk-USsyvw5nY-i_IE8xsxebzGBzD5OfHGlNBICUmgDg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Seffyna",
+    "scheduledStartTime": "2024-04-30T11:00:00Z",
+    "actualStartTime": "2024-04-30T11:00:51Z",
     "premiere": false
   },
   {
