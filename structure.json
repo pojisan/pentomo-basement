@@ -1224,32 +1224,38 @@
   },
   "corpo+": {
     "VReverie": {
-      "Mom(?)": {
-        "yt": "UCcPc-5OrLbjVBgQ-ziEWPSQ"
+      "Friends": {
+        "Mom(?)": {
+          "yt": "UCcPc-5OrLbjVBgQ-ziEWPSQ"
+        }
       }
     },
     "PixelLink": {
-      "Ayu": {
-        "yt": "UC1ogmLVdMrU4HuLBUYtzjVQ"
+      "Friends": {
+        "Ayu": {
+          "yt": "UC1ogmLVdMrU4HuLBUYtzjVQ"
+        }
       }
     },
     "Tsunderia": {
-      "Shimada": {
-        "tv": "shimadatiger"
-      },
-      "Yomi": {
-        "tv": "yomicham",
-        "yt": "UCy655eCseRVT9ln262dgI1Q"
-      },
-      "Haewon": {
-        "tv": "haewontheheartstring"
-      },
-      "Maria": {
-        "tv": "mariaparadisia",
-        "yt": "UCCrgfIGHE015putgxWrYWkw"
-      },
-      "Shima": {
-        "yt": "UCB3iwvkYq96ksvA7PiMP-1w"
+      "Friends": {
+        "Shimada": {
+          "tv": "shimadatiger"
+        },
+        "Yomi": {
+          "tv": "yomicham",
+          "yt": "UCy655eCseRVT9ln262dgI1Q"
+        },
+        "Haewon": {
+          "tv": "haewontheheartstring"
+        },
+        "Maria": {
+          "tv": "mariaparadisia",
+          "yt": "UCCrgfIGHE015putgxWrYWkw"
+        },
+        "Shima": {
+          "yt": "UCB3iwvkYq96ksvA7PiMP-1w"
+        }
       }
     },
     "VSinger": {
@@ -1334,7 +1340,7 @@
         }
       }
     },
-    "NijiENx": {
+    "NijiEN": {
       "LazuLight": {
         "Mint": {
           "yt": "UCcHHkJ98eSfa5aj0mdTwwLQ"
