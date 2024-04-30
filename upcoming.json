@@ -2789,7 +2789,8 @@
       "title": "If I Scream, I Get Punished \ud83d\ude2d\ud83d\ude16 \u3010 Horror Game - Father's Day \u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-04-30T19:00:00Z",
+      "actualStartTime": "2024-04-30T19:30:38Z",
+      "scheduledStartTime": "2024-04-30T19:30:00Z",
       "activeLiveChatId": "Cg0KC1FiNzA2S0FHalpnKicKGFVDS2FqbUtVWjdhZ2U4emxUcC1Hdk8yURILUWI3MDZLQUdqWmc"
     }
   },
@@ -2824,6 +2825,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-04T23:00:00Z",
       "activeLiveChatId": "Cg0KC1JHSHlldllmUzY0KicKGFVDazJrMXktZDI0bkZ5VkN2eXhuQWFZQRILUkdIeWV2WWZTNjQ"
+    }
+  },
+  "RINnpvPnE68": {
+    "snippet": {
+      "publishedAt": "2024-04-30T19:25:28Z",
+      "channelId": "UC9xR7uN0x5a6CH3Uopq7czA",
+      "title": "\u3010Vtuber Karaoke Relay\u3011\ud83c\udfb6PROS-IN-CONS\ud83c\udfb6\u3010Roca Rourin | idolEN\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-04T23:20:00Z",
+      "activeLiveChatId": "Cg0KC1JJTm5wdlBuRTY4KicKGFVDOXhSN3VOMHg1YTZDSDNVb3BxN2N6QRILUklObnB2UG5FNjg"
     }
   },
   "RQmcfcWvVZM": {
@@ -5912,6 +5924,7 @@
       "title": "\u3010SAND LAND\u3011Become one with the Mother Tank\u3010Dokibird\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-04-30T19:30:39Z",
       "scheduledStartTime": "2024-04-30T19:30:00Z",
       "activeLiveChatId": "Cg0KC3ltRC1JRXhwM0R3KicKGFVDb21JblcxME1rSEpzLV92aTRySFFDURILeW1ELUlFeHAzRHc"
     }
