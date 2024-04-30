@@ -1,17 +1,5 @@
 [
   {
-    "id": "VxAcLf9FenA",
-    "vidUrl": "https://youtu.be/VxAcLf9FenA",
-    "vidTitle": "\u3010MINECRAFT\u3011COMFY MINECRAFT MORNING\u3010NIJISANJI EN | Yu Q. Wilson\u3011",
-    "channelId": "@yuq.wilson",
-    "channelName": "Yu Q. Wilson \u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/GR1e8gQ-x7ehgpqAZmrwoJBI7ReZneaTR6PEQvgcW3kIabEvfTenrpiNRWZSH6QpysfZftKKrA=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Wilson",
-    "scheduledStartTime": "2024-04-30T12:00:00Z",
-    "actualStartTime": "2024-04-30T11:59:43Z",
-    "premiere": false
-  },
-  {
     "id": "fexaVL6APnU",
     "vidUrl": "https://youtu.be/fexaVL6APnU",
     "vidTitle": "\u3010DAVE THE DIVER\u3011in the ocen\u3010NIJISANJI EN | Ike Eveland\u3011",
@@ -117,18 +105,6 @@
     "shortName": "Aruri",
     "scheduledStartTime": "2024-04-30T13:30:00Z",
     "actualStartTime": "2024-04-30T13:33:06Z",
-    "premiere": false
-  },
-  {
-    "id": "SrNBpbZwi2A",
-    "vidUrl": "https://youtu.be/SrNBpbZwi2A",
-    "vidTitle": "\u3010ASMR / KU100\u301110 Triggers to help you relax\uffe410\u7a2e\u985e\u306e\u97f3\u3067\u7652\u3057\u306eASMR\u3010NIJISANJI EN\uff5cMeloco Kyoran\u3011",
-    "channelId": "@melocokyoran",
-    "channelName": "Meloco Kyoran\u3010NIJISANJI EN\u3011",
-    "channelThumb": "https://yt3.ggpht.com/R4_Tzx3rBLlHOAL8G5DvpzPs4Cwutg_22ISvrp0s5_3I3POjHeZVQgui9z3F3cC9EEV1B-dmc6U=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Meloco",
-    "scheduledStartTime": "2024-04-30T14:00:00Z",
-    "actualStartTime": "2024-04-30T14:04:33Z",
     "premiere": false
   },
   {
@@ -1484,6 +1460,18 @@
     "channelThumb": "https://yt3.ggpht.com/94_7bvQFgx_VwRYGfPY_C6QOyLrrhLuem9k0szU_sH5ND07OfNMmbXdhhepVJfgJekq-P2FORw=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Cy",
     "scheduledStartTime": "2024-05-01T21:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "CFHSqnM2Nmw",
+    "vidUrl": "https://youtu.be/CFHSqnM2Nmw",
+    "vidTitle": "Which #vtuber Does It Better? Testing Our Tracking w/ @ShabelTonya",
+    "channelId": "@reinasunch",
+    "channelName": "Reina Sun Ch. \u30ec\u30a4\u30ca\u30fb\u30b5\u30f3\u300eproduction kawaii\u300f",
+    "channelThumb": "https://yt3.ggpht.com/4RX4F31z_vt136oTmk9X1aHxUrOt7TCeeUggiNx8avUBu1j5B8Blo1lktZplgYt8yVhjxKXgUi0=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Reina",
+    "scheduledStartTime": "2024-05-01T23:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -3576,16 +3564,16 @@
     "premiere": false
   },
   {
-    "id": "52WUpIiYD6M",
-    "vidUrl": "https://youtu.be/52WUpIiYD6M",
-    "vidTitle": "[ METAL GEAR RISING #2 ]   SLICE AND DICE [ MYTH-0S EN / JP | AKIRU NOBU ]",
-    "channelId": "@mythosvt",
-    "channelName": "MYTHOS VT OFFICIAL",
-    "channelThumb": "https://yt3.ggpht.com/B29jTdW5CzeW8wKyi4pczco-ejeEpBblzjOGL8n7oozCZsZrdLJ-VqHHztEAfOlBI18RfZ86Bw=s88-c-k-c0x00ffffff-no-rj",
+    "id": "VxAcLf9FenA",
+    "vidUrl": "https://youtu.be/VxAcLf9FenA",
+    "vidTitle": "\u3010MINECRAFT\u3011COMFY MINECRAFT MORNING\u3010NIJISANJI EN | Yu Q. Wilson\u3011",
+    "channelId": "@yuq.wilson",
+    "channelName": "Yu Q. Wilson \u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/GR1e8gQ-x7ehgpqAZmrwoJBI7ReZneaTR6PEQvgcW3kIabEvfTenrpiNRWZSH6QpysfZftKKrA=s88-c-k-c0x00ffffff-no-rj",
     "graveyard": true,
-    "shortName": "MYTHOS VT",
-    "scheduledStartTime": "2024-04-30T13:00:00Z",
-    "actualStartTime": "2024-04-30T12:58:27Z",
+    "shortName": "Wilson",
+    "scheduledStartTime": "2024-04-30T12:00:00Z",
+    "actualStartTime": "2024-04-30T11:59:43Z",
     "premiere": false
   },
   {
@@ -3599,6 +3587,19 @@
     "shortName": "Lua",
     "scheduledStartTime": "2024-04-30T13:30:00Z",
     "actualStartTime": "2024-04-30T13:31:32Z",
+    "premiere": false
+  },
+  {
+    "id": "SrNBpbZwi2A",
+    "vidUrl": "https://youtu.be/SrNBpbZwi2A",
+    "vidTitle": "\u3010ASMR / KU100\u301110 Triggers to help you relax\uffe410\u7a2e\u985e\u306e\u97f3\u3067\u7652\u3057\u306eASMR\u3010NIJISANJI EN\uff5cMeloco Kyoran\u3011",
+    "channelId": "@melocokyoran",
+    "channelName": "Meloco Kyoran\u3010NIJISANJI EN\u3011",
+    "channelThumb": "https://yt3.ggpht.com/R4_Tzx3rBLlHOAL8G5DvpzPs4Cwutg_22ISvrp0s5_3I3POjHeZVQgui9z3F3cC9EEV1B-dmc6U=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Meloco",
+    "scheduledStartTime": "2024-04-30T14:00:00Z",
+    "actualStartTime": "2024-04-30T14:04:33Z",
     "premiere": false
   },
   {
