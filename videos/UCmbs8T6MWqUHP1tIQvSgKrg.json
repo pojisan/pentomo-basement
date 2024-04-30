@@ -5149,5 +5149,17 @@
       "actualEndTime": "2024-04-30T10:54:45Z",
       "scheduledStartTime": "2024-04-30T03:00:00Z"
     }
+  },
+  "DPTrMW-nDTs": {
+    "id": "DPTrMW-nDTs",
+    "snippet": {
+      "publishedAt": "2024-04-30T11:07:36Z",
+      "channelId": "UCmbs8T6MWqUHP1tIQvSgKrg",
+      "title": "\u3010Pacific Drive\u3011Beep Beep",
+      "channelTitle": "Ouro Kronii Ch. hololive-EN"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-01T01:00:00Z"
+    }
   }
 }
