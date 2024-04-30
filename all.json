@@ -24,18 +24,6 @@
     "premiere": false
   },
   {
-    "id": "GcVlYAOgV7c",
-    "vidUrl": "https://youtu.be/GcVlYAOgV7c",
-    "vidTitle": "\u3010STARDEW VALLEY\u3011Penguin is sent to the mines?!\u3010Pippa Pebblesworth\u3011",
-    "channelId": "@pippapebblesworth",
-    "channelName": "Pippa Pebblesworth ch. \u3010globie\u3011",
-    "channelThumb": "https://yt3.ggpht.com/FV-T274wCeRSrHKm54acTNEJLJTDlE5BdPrKoJQY0kxaTdO4uerFlxG8HJmAvS2HbSQIMzfa7A=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Pippa",
-    "scheduledStartTime": "2024-04-30T18:00:00Z",
-    "actualStartTime": "2024-04-30T18:06:35Z",
-    "premiere": false
-  },
-  {
     "id": "CBZvui5R2mU",
     "vidUrl": "https://youtu.be/CBZvui5R2mU",
     "vidTitle": "LILY IS SO DAMN CUTE [Stellar Blade] Part 2",
@@ -464,6 +452,18 @@
     "channelThumb": "https://yt3.ggpht.com/Ir7xaFhyOLm30TDU6WsFUT24WE8_o7SGK3eUmpbCsOOWFjh22e4XJsPhUYCvUtdgSUM2sUzOtg=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Boomi",
     "scheduledStartTime": "2024-05-01T00:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "sw8ADs7jdOA",
+    "vidUrl": "https://youtu.be/sw8ADs7jdOA",
+    "vidTitle": "PONG! \ud83c\udc04\ud83d\udca2 first-time mahjong soul!",
+    "channelId": "@surivnu",
+    "channelName": "Suri Solari Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/VaElIFntfdnsdEWcuX4b3ZB6JpT8YmhAr7Tf-2h80TO_ygsd8OxSf1TgZjtSpwt6K26DwgloNg=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Suri",
+    "scheduledStartTime": "2024-05-01T00:15:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -3733,6 +3733,19 @@
     "premiere": false
   },
   {
+    "id": "GcVlYAOgV7c",
+    "vidUrl": "https://youtu.be/GcVlYAOgV7c",
+    "vidTitle": "\u3010STARDEW VALLEY\u3011Penguin is sent to the mines?!\u3010Pippa Pebblesworth\u3011",
+    "channelId": "@pippapebblesworth",
+    "channelName": "Pippa Pebblesworth ch. \u3010globie\u3011",
+    "channelThumb": "https://yt3.ggpht.com/FV-T274wCeRSrHKm54acTNEJLJTDlE5BdPrKoJQY0kxaTdO4uerFlxG8HJmAvS2HbSQIMzfa7A=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Pippa",
+    "scheduledStartTime": "2024-04-30T18:00:00Z",
+    "actualStartTime": "2024-04-30T18:06:35Z",
+    "premiere": false
+  },
+  {
     "id": "gegPRKpekmI",
     "vidUrl": "https://youtu.be/gegPRKpekmI",
     "vidTitle": "\u3010KAYA MATSURI\u3011Cute Edition Ft. @NeneAmanoCh \u3010Kaya Nishikino | Production kawaii\u3011",
@@ -3769,19 +3782,6 @@
     "shortName": "DK",
     "scheduledStartTime": "2024-04-30T19:00:00Z",
     "actualStartTime": "2024-04-30T19:02:57Z",
-    "premiere": false
-  },
-  {
-    "id": "qkGTIoPaa1c",
-    "vidUrl": "https://youtu.be/qkGTIoPaa1c",
-    "vidTitle": "\u3010Star Wars Edutainment\u3011Getting Educated About The Galaxy!",
-    "channelId": "@amiyaaranha",
-    "channelName": "Amiya Ch. \u30a2\u30df\u30e4\u30fb\u30a2\u30e9\u30cb\u30e3",
-    "channelThumb": "https://yt3.ggpht.com/91Fqx3Xut4jaSefCeiDLVGQDSdkWAvt5jA8ejzT18EztYTppy29JNzpa7G-KThC8TzuAmlKBQcs=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Amiya",
-    "scheduledStartTime": "2024-04-30T19:00:00Z",
-    "actualStartTime": "2024-04-30T19:03:42Z",
     "premiere": false
   },
   {
