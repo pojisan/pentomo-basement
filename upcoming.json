@@ -657,6 +657,7 @@
       "channelTitle": "Kamiko Rinona Ch. [VReverie]"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-04-30T14:05:28Z",
       "scheduledStartTime": "2024-04-30T14:00:00Z",
       "activeLiveChatId": "Cg0KCzUzV0RacmczOE5BKicKGFVDX3pwa3FGdDdZQnlXYVBpOUJ4dDdFURILNTNXRFpyZzM4TkE"
     }
@@ -2735,20 +2736,6 @@
       "activeLiveChatId": "Cg0KC01udHFCdGlPc0RZKicKGFVDb09FZXIyYzJwbjJMcVBYNnNrTld0QRILTW50cUJ0aU9zRFk"
     }
   },
-  "MrBbtTX_XTE": {
-    "id": "MrBbtTX_XTE",
-    "snippet": {
-      "publishedAt": "2024-04-29T17:30:06Z",
-      "channelId": "UC1ucgoC_sGww_Euu5iMqpQw",
-      "title": "\u3010\u6b4c\u67a0/Singing Stream\u3011\u30aa\u30fc\u30eb\u30b8\u30e3\u30f3\u30eb\u6b4c\u67a0\uff01/All genre singing stream!!\u3010VTuber/Ririsya\u3011",
-      "channelTitle": "\u51db\u3005\u54b2 / Ririsya"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-04-30T12:01:51Z",
-      "scheduledStartTime": "2024-04-30T12:00:00Z",
-      "activeLiveChatId": "Cg0KC01yQmJ0VFhfWFRFKicKGFVDMXVjZ29DX3NHd3dfRXV1NWlNcXBRdxILTXJCYnRUWF9YVEU"
-    }
-  },
   "MxBbP33miKw": {
     "id": "MxBbP33miKw",
     "snippet": {
@@ -3421,6 +3408,7 @@
       "channelTitle": "Meloco Kyoran\u3010NIJISANJI EN\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-04-30T14:04:33Z",
       "scheduledStartTime": "2024-04-30T14:00:00Z",
       "activeLiveChatId": "Cg0KC1NyTkJwYlp3aTJBKicKGFVDaEtYZDdvcUQxOHFpSVlCb1JJSFRsdxILU3JOQnBiWndpMkE"
     }
@@ -4673,6 +4661,7 @@
       "channelTitle": "Raian Valerius Ch.\u3010DAYBREAK\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-04-30T14:04:42Z",
       "scheduledStartTime": "2024-04-30T14:00:00Z",
       "activeLiveChatId": "Cg0KC2RpM3lkZjQyMzA0KicKGFVDNFdzTEVfeGRybmQwNUQwNUdvOW9YdxILZGkzeWRmNDIzMDQ"
     }
@@ -5458,7 +5447,7 @@
       "channelTitle": "Kurisu Kowa Ch. "
     },
     "liveStreamingDetails": {
-      "actualStartTime": "2024-04-30T14:00:32Z",
+      "actualStartTime": "2024-04-30T14:01:02Z",
       "scheduledStartTime": "2024-04-30T21:00:00Z",
       "activeLiveChatId": "Cg0KC2xPSkx2cVdrSmlVKicKGFVDdXRjdVl0MDV0NmZ6OTNsMUlGZlkwdxILbE9KTHZxV2tKaVU"
     }
@@ -5537,6 +5526,19 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-02T22:30:00Z",
       "activeLiveChatId": "Cg0KC2xkSGc2cVNEYXBvKicKGFVDYi04RmtnLW1TVTJSbWxQOEZkcHlNdxILbGRIZzZxU0RhcG8"
+    }
+  },
+  "liJOC_DmjvY": {
+    "id": "liJOC_DmjvY",
+    "snippet": {
+      "publishedAt": "2024-04-30T14:03:32Z",
+      "channelId": "UCbsP4BIsPYaRLv9f_yXDoDA",
+      "title": "\u3010GENSHIN IMPACT\u3011Husbando Simulator Time\u3010Komiyama Ambros | globie\u3011",
+      "channelTitle": "Komiyama Ambros ch. \u72d0\u8033\u5c71\u30a2\u30f3\u30d6\u30ed\u30fc\u30ba\u3010globie\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-01T14:00:00Z",
+      "activeLiveChatId": "Cg0KC2xpSk9DX0RtanZZKicKGFVDYnNQNEJJc1BZYVJMdjlmX3lYRG9EQRILbGlKT0NfRG1qdlk"
     }
   },
   "lq63-Wf30no": {
