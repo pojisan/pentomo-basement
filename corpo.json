@@ -48,18 +48,6 @@
     "premiere": false
   },
   {
-    "id": "KaHyq-wodEQ",
-    "vidUrl": "https://youtu.be/KaHyq-wodEQ",
-    "vidTitle": "\u3010Ultimate Chicken Horse\u3011Solstia x Chaos\u3010Alicja Da Lontano | Globie Gen 2 Solstia Collab\u3011",
-    "channelId": "@alicjadalontano",
-    "channelName": "Alicja Da Lontano ch. \u3010globie\u3011",
-    "channelThumb": "https://yt3.ggpht.com/gzyLsLIzbobRRYT_QkfMKISqY-RpzLfOowj5T61s2UDXRoHEespSbXR68cikE96P2RKpsWOeM1Q=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Alicja",
-    "scheduledStartTime": "2024-04-30T18:00:00Z",
-    "actualStartTime": "2024-04-30T17:57:51Z",
-    "premiere": false
-  },
-  {
     "id": "5yQIglxt7EA",
     "vidUrl": "https://youtu.be/5yQIglxt7EA",
     "vidTitle": "\u3010BUNNY GARDEN\u3011100% RIZZLESS GIRL tries to talk to Women",
@@ -314,7 +302,7 @@
   {
     "id": "C5LAgc40wOE",
     "vidUrl": "https://youtu.be/C5LAgc40wOE",
-    "vidTitle": "\u3010TATTLETAIL\u3011 Evil Furby??? \u3010EIEN Project\u3011",
+    "vidTitle": "\u3010BATSU\u3011 1 SCREAM = 1 SHOT\u3010EIEN Project\u3011",
     "channelId": "@mirrisaffire",
     "channelName": "Mirri Saffire Ch. \u3010EIEN Project\u3011",
     "channelThumb": "https://yt3.ggpht.com/AtDufy17lH2ziQPDJh2-jQhOQ_3g5HNWeqx-d-CW2ItZcyB8sgVNCznypv_MdbNpiyU_pGEokks=s88-c-k-c0x00ffffff-no-rj",
@@ -823,6 +811,18 @@
     "channelName": "Iku Hoshifuri / \u661f\u964d\u3044\u304f\u3010Cosmia\u3011",
     "channelThumb": "https://yt3.ggpht.com/iiWwBB0rsPadW6D92ATHoouqLHw7dppOJJPdpYg9fbeqriEFhfpSjpmS7eh1wsC06s93c56B=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Iku",
+    "scheduledStartTime": "2024-05-01T04:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "kyRKILIIwe4",
+    "vidUrl": "https://youtu.be/kyRKILIIwe4",
+    "vidTitle": "\u3010GUILTY GEAR -STRIVE-\u3011teach me testament pls",
+    "channelId": "@nanimonavi",
+    "channelName": "Nanimo Navi Ch. \u3010EIEN Project\u3011",
+    "channelThumb": "https://yt3.ggpht.com/sQsF3JpF26yNBW9ZNusWQHHFligM4D__RBmINLE0wJtXKHIdtlzhwNfIg_xR7Fx7LrMtG7Pt=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Navi",
     "scheduledStartTime": "2024-05-01T04:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -1464,18 +1464,6 @@
     "premiere": false
   },
   {
-    "id": "9TczyFij9KQ",
-    "vidUrl": "https://youtu.be/9TczyFij9KQ",
-    "vidTitle": "\u3010Subnautica: Below Zero\u3011I have no idea what I will do today",
-    "channelId": "@lidaoriana",
-    "channelName": "Lida Oriana Ch.",
-    "channelThumb": "https://yt3.ggpht.com/jPWRHtDGZ3b-HXw__M_4Le5LhYAwxpcy7_Inwji6RhxGC7NK34Nihv_LwLgjtCfdTMuDE92y=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Lida",
-    "scheduledStartTime": "2024-05-02T13:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "XljBzacsPF0",
     "vidUrl": "https://youtu.be/XljBzacsPF0",
     "vidTitle": "\u3010Supermarket Simulator\u3011Welcome to OwlMart!\u3010Vilhelm Vanderbos | globie Gen 2 | Equinnox\u3011",
@@ -1848,6 +1836,18 @@
     "premiere": false
   },
   {
+    "id": "zmOm_36emww",
+    "vidUrl": "https://youtu.be/zmOm_36emww",
+    "vidTitle": "Rewatching My Debut! TRY NOT TO CRINGE CHALLENGE: IMPOSSIBLE",
+    "channelId": "@nanimonavi",
+    "channelName": "Nanimo Navi Ch. \u3010EIEN Project\u3011",
+    "channelThumb": "https://yt3.ggpht.com/sQsF3JpF26yNBW9ZNusWQHHFligM4D__RBmINLE0wJtXKHIdtlzhwNfIg_xR7Fx7LrMtG7Pt=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Navi",
+    "scheduledStartTime": "2024-05-03T00:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
     "id": "3F_uiAdGkwo",
     "vidUrl": "https://youtu.be/3F_uiAdGkwo",
     "vidTitle": "Can I romance myself ?? | Bunny Garden",
@@ -2024,18 +2024,6 @@
     "channelThumb": "https://yt3.ggpht.com/IU2v8OvK9p2KPE6Udi-AxcHpDdRmZ8ixovTLb3dDzCahVLSuIc4iKBKNd5LE6lFvlgUfTIHi=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Arial",
     "scheduledStartTime": "2024-05-03T12:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "WBFuF-EUWhg",
-    "vidUrl": "https://youtu.be/WBFuF-EUWhg",
-    "vidTitle": "\u3010Reddit Readthrough\u3011 Deep Discussion Around Shower Thought",
-    "channelId": "@lidaoriana",
-    "channelName": "Lida Oriana Ch.",
-    "channelThumb": "https://yt3.ggpht.com/jPWRHtDGZ3b-HXw__M_4Le5LhYAwxpcy7_Inwji6RhxGC7NK34Nihv_LwLgjtCfdTMuDE92y=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Lida",
-    "scheduledStartTime": "2024-05-03T13:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -2940,18 +2928,6 @@
     "premiere": false
   },
   {
-    "id": "SJqvL_CzoxY",
-    "vidUrl": "https://youtu.be/SJqvL_CzoxY",
-    "vidTitle": "\u3010Unbox\u3011160 Rolls of Yarns Only Costs $32?!",
-    "channelId": "@lidaoriana",
-    "channelName": "Lida Oriana Ch.",
-    "channelThumb": "https://yt3.ggpht.com/jPWRHtDGZ3b-HXw__M_4Le5LhYAwxpcy7_Inwji6RhxGC7NK34Nihv_LwLgjtCfdTMuDE92y=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Lida",
-    "scheduledStartTime": "2024-05-05T13:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
     "id": "NBBG6Wx8xsU",
     "vidUrl": "https://youtu.be/NBBG6Wx8xsU",
     "vidTitle": "\u3010Free Talk\u3011 MIAW \ud83d\udd78\ufe0f \u3010VOLs\u3011",
@@ -3674,16 +3650,16 @@
     "premiere": false
   },
   {
-    "id": "1iimoPiUnnA",
-    "vidUrl": "https://youtu.be/1iimoPiUnnA",
-    "vidTitle": "\ud83d\udd34\u3010HANDCAM\u3011 TURNING SCIENCE INTO FOOD + Eating Them On Stream!! \ud83c\udf6c | Kracie Popin' Cookin' Mukbang",
-    "channelId": "@auregaliaaruri",
-    "channelName": "Aruri Ch. \u30a2\u30eb\u30ea \ud83d\udddd\ufe0f\ud83c\udf80",
-    "channelThumb": "https://yt3.ggpht.com/Ppd9mggKtHGNEzkDfQvJOb2_jpnaKOrBUdILMkNcAig21_83A1J5XhjFoshKNQO11Fzw7FN-=s88-c-k-c0x00ffffff-no-rj",
+    "id": "KaHyq-wodEQ",
+    "vidUrl": "https://youtu.be/KaHyq-wodEQ",
+    "vidTitle": "\u3010Ultimate Chicken Horse\u3011Solstia x Chaos\u3010Alicja Da Lontano | Globie Gen 2 Solstia Collab\u3011",
+    "channelId": "@alicjadalontano",
+    "channelName": "Alicja Da Lontano ch. \u3010globie\u3011",
+    "channelThumb": "https://yt3.ggpht.com/gzyLsLIzbobRRYT_QkfMKISqY-RpzLfOowj5T61s2UDXRoHEespSbXR68cikE96P2RKpsWOeM1Q=s88-c-k-c0x00ffffff-no-rj",
     "graveyard": true,
-    "shortName": "Aruri",
-    "scheduledStartTime": "2024-04-30T13:30:00Z",
-    "actualStartTime": "2024-04-30T13:33:06Z",
+    "shortName": "Alicja",
+    "scheduledStartTime": "2024-04-30T18:00:00Z",
+    "actualStartTime": "2024-04-30T17:57:51Z",
     "premiere": false
   },
   {
