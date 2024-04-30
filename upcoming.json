@@ -193,6 +193,7 @@
       "channelTitle": "Mino Mieko Ch."
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-04-30T01:02:20Z",
       "scheduledStartTime": "2024-04-30T01:00:00Z",
       "activeLiveChatId": "Cg0KCzBUdnR1WDhGQ2tBKicKGFVDTV9NYi1aQzNqTWczcDMyak42djRjQRILMFR2dHVYOEZDa0E"
     }
@@ -2314,20 +2315,6 @@
       "activeLiveChatId": "Cg0KC0l5MXRxaUg2ZWVJKicKGFVDcjhOWjlqT3JyVmNJUm5hSFpDakpVZxILSXkxdHFpSDZlZUk"
     }
   },
-  "Iz8LyOsUz9g": {
-    "id": "Iz8LyOsUz9g",
-    "snippet": {
-      "publishedAt": "2024-04-29T23:53:28Z",
-      "channelId": "UC1ogmLVdMrU4HuLBUYtzjVQ",
-      "title": "let's catch up!  (and sing)",
-      "channelTitle": "ayu"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-04-29T23:56:40Z",
-      "scheduledStartTime": "2024-04-30T00:00:00Z",
-      "activeLiveChatId": "Cg0KC0l6OEx5T3NVejlnKicKGFVDMW9nbUxWZE1yVTRIdUxCVVl0empWURILSXo4THlPc1V6OWc"
-    }
-  },
   "J09Y3gDiIk8": {
     "id": "J09Y3gDiIk8",
     "snippet": {
@@ -3788,6 +3775,20 @@
       "activeLiveChatId": "Cg0KC1dlYlNHakRaQjdZKicKGFVDLUFnQ3JNYUkzTFlFbEhOLUFiRWlHdxILV2ViU0dqRFpCN1k"
     }
   },
+  "Wfrc7HWa7BY": {
+    "id": "Wfrc7HWa7BY",
+    "snippet": {
+      "publishedAt": "2024-04-30T01:05:29Z",
+      "channelId": "UCv1ThyE4KVYnnVY8GLftnoA",
+      "title": "\u3010Let's Make Ringtones!\u3011Trying Out FL Studio! ...again\u3010V4Mirai | Serina Maiko | ENVtuber\u3011",
+      "channelTitle": "Serina Maiko Ch.\u3010V4Mirai\u3011",
+      "defaultLanguage": "en"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-04-30T21:00:00Z",
+      "activeLiveChatId": "Cg0KC1dmcmM3SFdhN0JZKicKGFVDdjFUaHlFNEtWWW5uVlk4R0xmdG5vQRILV2ZyYzdIV2E3Qlk"
+    }
+  },
   "Wn5SXR4T9EE": {
     "id": "Wn5SXR4T9EE",
     "snippet": {
@@ -3900,20 +3901,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2026-03-01T05:10:00Z",
       "activeLiveChatId": "Cg0KC1hTM1B0QzByWHMwKicKGFVDQzRoakpwX010dHdmWmN1V2MwT3BWURILWFMzUHRDMHJYczA"
-    }
-  },
-  "XZaRxBPBMyA": {
-    "id": "XZaRxBPBMyA",
-    "snippet": {
-      "publishedAt": "2024-04-29T02:37:40Z",
-      "channelId": "UCm6JMVKxg8PvJjl3F7J0tdQ",
-      "title": "finishing monetization doodles \ud83e\uddd1\u200d\ud83c\udfa8\u3010Drawing (?)\u3011",
-      "channelTitle": "Rowa Arctos Ch. V&U"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-04-29T23:02:44Z",
-      "scheduledStartTime": "2024-04-29T23:00:00Z",
-      "activeLiveChatId": "Cg0KC1haYVJ4QlBCTXlBKicKGFVDbTZKTVZLeGc4UHZKamwzRjdKMHRkURILWFphUnhCUEJNeUE"
     }
   },
   "Xkdxc6BZxpc": {
@@ -5033,6 +5020,7 @@
       "defaultLanguage": "en"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-04-30T01:01:32Z",
       "scheduledStartTime": "2024-04-30T01:00:00Z",
       "activeLiveChatId": "Cg0KC2lSLTRHY3hZTV8wKicKGFVDenl6Y1F0T0lGNGxuR0o5SXhyaGFZQRILaVItNEdjeFlNXzA"
     }
@@ -5420,6 +5408,18 @@
       "activeLiveChatId": "Cg0KC21mb0hwWUEzOW9jKicKGFVDYXhpRGVfVHVNTFhrd1JNVkxtNVZ3URILbWZvSHBZQTM5b2M"
     }
   },
+  "miyuyus": {
+    "id": "miyuyus",
+    "snippet": {
+      "channelId": "miyuyus",
+      "title": "LETS TRY COBBLEMON! !cover | !discord !tip !throne",
+      "channelTitle": "miyuyus"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-04-30T01:05:34Z",
+      "twitch": true
+    }
+  },
   "mtLIZvmuhfI": {
     "id": "mtLIZvmuhfI",
     "snippet": {
@@ -5521,7 +5521,7 @@
       "channelTitle": "Millie Parfait\u3010NIJISANJI EN\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-04-30T01:00:00Z",
+      "scheduledStartTime": "2024-04-30T02:00:00Z",
       "activeLiveChatId": "Cg0KC25mczkwUWV3N2JNKicKGFVDNDdyTm1rRGNOZ2JPY00tMkJ3ekpUURILbmZzOTBRZXc3Yk0"
     }
   },
@@ -6247,20 +6247,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-03T12:00:00Z",
       "activeLiveChatId": "Cg0KC3VwenBPclRZMUljKicKGFVDUmtkRkdYd0J0eHZtOVNzZm1ObU1aQRILdXB6cE9yVFkxSWM"
-    }
-  },
-  "uxFFBMoXiuw": {
-    "id": "uxFFBMoXiuw",
-    "snippet": {
-      "publishedAt": "2024-04-29T20:42:30Z",
-      "channelId": "UCXIKBLg4fAVte7jDafWRRgQ",
-      "title": "Playing S Ranked Competitive Lobbies + TTS",
-      "channelTitle": "Echo Lyne Ch. V&U"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-04-29T22:00:02Z",
-      "scheduledStartTime": "2024-04-29T22:00:00Z",
-      "activeLiveChatId": "Cg0KC3V4RkZCTW9YaXV3KicKGFVDWElLQkxnNGZBVnRlN2pEYWZXUlJnURILdXhGRkJNb1hpdXc"
     }
   },
   "v0AOLPQfx1o": {
