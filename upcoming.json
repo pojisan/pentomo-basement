@@ -5835,20 +5835,6 @@
       "activeLiveChatId": "Cg0KC253VzVMSXhGbEhvKicKGFVDMk5lNmREY0Z4bk0yaENCTGlpM0lVZxILbndXNUxJeEZsSG8"
     }
   },
-  "o-BlWqni6WI": {
-    "id": "o-BlWqni6WI",
-    "snippet": {
-      "publishedAt": "2024-04-30T04:45:58Z",
-      "channelId": "UCbrbFKFhyHD4bMJbEcXZz1g",
-      "title": "Boxing while chatting!!  #shorts #vtuber",
-      "channelTitle": "kirispica \u3010V-Dere\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-04-30T12:05:48Z",
-      "scheduledStartTime": "2024-04-30T12:00:00Z",
-      "activeLiveChatId": "Cg0KC28tQmxXcW5pNldJKicKGFVDYnJiRktGaHlIRDRiTUpiRWNYWnoxZxILby1CbFdxbmk2V0k"
-    }
-  },
   "o5_FvoYFwcw": {
     "id": "o5_FvoYFwcw",
     "snippet": {
@@ -5962,6 +5948,18 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC29zejNiaDVfdTRFKicKGFVDbHJRN3hoUkJ4U192Xy1XdXVkR0ttQRILb3N6M2JoNV91NEU"
+    }
+  },
+  "oumiyaemma": {
+    "id": "oumiyaemma",
+    "snippet": {
+      "channelId": "oumiyaemma",
+      "title": "hihi guerilla",
+      "channelTitle": "OumiyaEmma"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-04-30T14:45:11Z",
+      "twitch": true
     }
   },
   "p67AeNM6o10": {
@@ -6687,6 +6685,7 @@
       "channelTitle": "\u30b3\u30e8\u30fc\u30c6 / Coyote"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-04-30T14:46:08Z",
       "scheduledStartTime": "2024-04-30T14:45:00Z",
       "activeLiveChatId": "Cg0KC3dFVnJnZ3VuNURVKicKGFVDYWJNakc4cDZHNXhMa1BKZ0VvVG5EZxILd0VWcmdndW41RFU"
     }
