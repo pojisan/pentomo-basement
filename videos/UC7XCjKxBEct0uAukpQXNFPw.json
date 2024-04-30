@@ -3284,5 +3284,19 @@
       "actualEndTime": "2020-03-13T12:05:34Z",
       "scheduledStartTime": "2020-03-13T12:00:00Z"
     }
+  },
+  "IeG8SmCJmQo": {
+    "id": "IeG8SmCJmQo",
+    "snippet": {
+      "publishedAt": "2024-04-30T12:58:37Z",
+      "channelId": "UC7XCjKxBEct0uAukpQXNFPw",
+      "title": "\u3010\u6b4c\u67a0\u3011\u3086\u3063\u305f\u308a\u6b4c\u67a0\uff01\uff01-Midnight station -61 \u3010HACHI\u3011",
+      "channelTitle": "HACHI"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-04-30T15:01:14Z",
+      "scheduledStartTime": "2024-04-30T15:00:00Z",
+      "activeLiveChatId": "Cg0KC0llRzhTbUNKbVFvKicKGFVDN1hDakt4QkVjdDB1QXVrcFFYTkZQdxILSWVHOFNtQ0ptUW8"
+    }
   }
 }
