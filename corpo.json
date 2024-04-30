@@ -12,18 +12,6 @@
     "premiere": false
   },
   {
-    "id": "wEVrggun5DU",
-    "vidUrl": "https://youtu.be/wEVrggun5DU",
-    "vidTitle": "\u3010TEKKEN 8\u3011EVO Japan Chat & Tekken Tuesday Session with Tourney!\u3010#Coyote / #KemoV\u3011#tekken #\u9244\u62f38",
-    "channelId": "@coyote_kemov",
-    "channelName": "\u30b3\u30e8\u30fc\u30c6 / Coyote",
-    "channelThumb": "https://yt3.ggpht.com/VwLc2w11lh_JlrsDB9P4OvBJpqaoAZdS08gqQx7vtJ5-4DjsEiP5Un6xmT0q8VE6zr8uXYEnTqg=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Coyo",
-    "scheduledStartTime": "2024-04-30T14:45:00Z",
-    "actualStartTime": "2024-04-30T14:46:08Z",
-    "premiere": false
-  },
-  {
     "id": "trTGG5f76Kw",
     "vidUrl": "https://youtu.be/trTGG5f76Kw",
     "vidTitle": "3RD YEAR VTuber ANNIVERSARY! Uncapped Subathon DAY 3 WITH PUNSHIMENTS",
@@ -3625,6 +3613,19 @@
     "shortName": "Aruri",
     "scheduledStartTime": "2024-04-30T13:31:53Z",
     "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "wEVrggun5DU",
+    "vidUrl": "https://youtu.be/wEVrggun5DU",
+    "vidTitle": "\u3010TEKKEN 8\u3011EVO Japan Chat & Tekken Tuesday Session with Tourney!\u3010#Coyote / #KemoV\u3011#tekken #\u9244\u62f38",
+    "channelId": "@coyote_kemov",
+    "channelName": "\u30b3\u30e8\u30fc\u30c6 / Coyote",
+    "channelThumb": "https://yt3.ggpht.com/VwLc2w11lh_JlrsDB9P4OvBJpqaoAZdS08gqQx7vtJ5-4DjsEiP5Un6xmT0q8VE6zr8uXYEnTqg=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Coyo",
+    "scheduledStartTime": "2024-04-30T14:45:00Z",
+    "actualStartTime": "2024-04-30T14:46:08Z",
     "premiere": false
   }
 ]
