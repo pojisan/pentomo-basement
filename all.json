@@ -48,18 +48,6 @@
     "premiere": false
   },
   {
-    "id": "qkGTIoPaa1c",
-    "vidUrl": "https://youtu.be/qkGTIoPaa1c",
-    "vidTitle": "\u3010Star Wars Edutainment\u3011Getting Educated About The Galaxy!",
-    "channelId": "@amiyaaranha",
-    "channelName": "Amiya Ch. \u30a2\u30df\u30e4\u30fb\u30a2\u30e9\u30cb\u30e3",
-    "channelThumb": "https://yt3.ggpht.com/91Fqx3Xut4jaSefCeiDLVGQDSdkWAvt5jA8ejzT18EztYTppy29JNzpa7G-KThC8TzuAmlKBQcs=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Amiya",
-    "scheduledStartTime": "2024-04-30T19:00:00Z",
-    "actualStartTime": "2024-04-30T19:03:42Z",
-    "premiere": false
-  },
-  {
     "id": "ymD-IExp3Dw",
     "vidUrl": "https://youtu.be/ymD-IExp3Dw",
     "vidTitle": "\u3010SAND LAND\u3011Become one with the Mother Tank\u3010Dokibird\u3011",
@@ -120,18 +108,6 @@
     "premiere": false
   },
   {
-    "id": "LYtBc_JjAIU",
-    "vidUrl": "https://youtu.be/LYtBc_JjAIU",
-    "vidTitle": "DRAWING MORE LADS \uff90\u2605\u3010LOTTIE DRAWS\u3011",
-    "channelId": "@lottieshinju",
-    "channelName": "Lottie Shinju Ch.\u3010PixelLink\u3011",
-    "channelThumb": "https://yt3.ggpht.com/mMLivUEcjMRXNMLb0Pl5wAq071w5ZB2QBF7DvBzfeS81f2cWrhJbN1zlUfoFx-LHaBEJA_qM=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Lottie",
-    "scheduledStartTime": "2024-04-30T21:00:00Z",
-    "actualStartTime": "2024-04-30T21:00:15Z",
-    "premiere": false
-  },
-  {
     "id": "jkraEjqpulQ",
     "vidUrl": "https://youtu.be/jkraEjqpulQ",
     "vidTitle": "\u3010GTA V\u3011FLYING (IN)CORRECTLY!\u3014Pt. 12\u3015",
@@ -165,18 +141,6 @@
     "shortName": "Kohaku",
     "scheduledStartTime": "2024-04-30T21:00:00Z",
     "actualStartTime": "2024-04-30T21:00:51Z",
-    "premiere": false
-  },
-  {
-    "id": "A70EgGL8r5g",
-    "vidUrl": "https://youtu.be/A70EgGL8r5g",
-    "vidTitle": "Let's play Project Zomboid together!!!",
-    "channelId": "@muumuyu",
-    "channelName": "Muyu Ch. \u3080\u3046\u3080\u3086\u3010Phase Connect\u3011",
-    "channelThumb": "https://yt3.ggpht.com/BoAq-UdPFP5MPfUMIWFQwgmeBERbkZx40VxLdrMas6I7c5koPDBUmh4LaJLUJQd9rZbD9KSKog4=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Muyu",
-    "scheduledStartTime": "2024-04-30T21:00:00Z",
-    "actualStartTime": "2024-04-30T21:01:05Z",
     "premiere": false
   },
   {
@@ -404,6 +368,18 @@
     "channelThumb": "https://yt3.ggpht.com/FlbqAWrn9OdE4QcjGweQkH_2WUf2kCAQPbiC4dVvt6ItUWE4pLnUrs9MJ3-KtyeULY0hGe-VPio=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Obake PAM",
     "scheduledStartTime": "2024-04-30T23:15:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "kCo0Wuga2Vw",
+    "vidUrl": "https://youtu.be/kCo0Wuga2Vw",
+    "vidTitle": "\u3010Persona 3 Reload\u3011SEES Time!",
+    "channelId": "@isabellegoodwillow",
+    "channelName": "Isabelle Goodwillow Ch. Legion",
+    "channelThumb": "https://yt3.ggpht.com/fpMi8U5dCS85PVYvVUcUEElBczJHeTCoxkrea8AxZ-aow_5JXFjoAtYUnkNdTgsaqQISGmii3g=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Isabelle",
+    "scheduledStartTime": "2024-04-30T23:15:27Z",
     "actualStartTime": "",
     "premiere": false
   },
@@ -3784,6 +3760,19 @@
     "premiere": false
   },
   {
+    "id": "qkGTIoPaa1c",
+    "vidUrl": "https://youtu.be/qkGTIoPaa1c",
+    "vidTitle": "\u3010Star Wars Edutainment\u3011Getting Educated About The Galaxy!",
+    "channelId": "@amiyaaranha",
+    "channelName": "Amiya Ch. \u30a2\u30df\u30e4\u30fb\u30a2\u30e9\u30cb\u30e3",
+    "channelThumb": "https://yt3.ggpht.com/91Fqx3Xut4jaSefCeiDLVGQDSdkWAvt5jA8ejzT18EztYTppy29JNzpa7G-KThC8TzuAmlKBQcs=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Amiya",
+    "scheduledStartTime": "2024-04-30T19:00:00Z",
+    "actualStartTime": "2024-04-30T19:03:42Z",
+    "premiere": false
+  },
+  {
     "id": "GRJ1LWyN1l8",
     "vidUrl": "https://youtu.be/GRJ1LWyN1l8",
     "vidTitle": "Manor Lords | You shall address me as Lord Afuru!",
@@ -4092,19 +4081,6 @@
     "graveyard": true,
     "shortName": "Karrot",
     "scheduledStartTime": "2024-04-12T14:00:00Z",
-    "actualStartTime": "",
-    "premiere": false
-  },
-  {
-    "id": "sIZuLDRz0qM",
-    "vidUrl": "https://youtu.be/sIZuLDRz0qM",
-    "vidTitle": "ITS TIME.....",
-    "channelId": "@hadesmythos",
-    "channelName": "Hades Mythos",
-    "channelThumb": "https://yt3.ggpht.com/11xzeBRdgwzcU1Tzo73r8e5HdwNjjNHlQV6d_DfQ71SdLIbnvRnG1YETQnpuX3qhcu4ZFqoL8A=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Hades",
-    "scheduledStartTime": "2024-04-19T00:00:00Z",
     "actualStartTime": "",
     "premiere": false
   },
