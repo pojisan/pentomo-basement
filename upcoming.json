@@ -2881,6 +2881,7 @@
       "defaultLanguage": "en-US"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-04-30T04:02:51Z",
       "scheduledStartTime": "2024-04-30T04:00:00Z",
       "activeLiveChatId": "Cg0KC09xSTVCRTZVYTdZKicKGFVDWVhfaUdyaEJuRnQwZHlYd1NpN1U0URILT3FJNUJFNlVhN1k"
     }
@@ -2931,6 +2932,7 @@
       "channelTitle": "Clara Ch. \u6b4c\u7f8e\u9cf4\u30af\u30e9\u30e9 \u3010Phase Connect\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-04-30T04:01:55Z",
       "scheduledStartTime": "2024-04-30T04:00:00Z",
       "activeLiveChatId": "Cg0KC1BRUExHTTR2TmRvKicKGFVDUmxaYXN6azg0WVhqUnRkUEN4cWp2dxILUFFQTEdNNHZOZG8"
     }
@@ -3734,6 +3736,19 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2026-01-31T06:40:00Z",
       "activeLiveChatId": "Cg0KC1dOcmFzUmo5U1lnKicKGFVDMXRScVFUSTNCY2hzOFh2VW5qOHl2URILV05yYXNSajlTWWc"
+    }
+  },
+  "WSlWXNM30ik": {
+    "id": "WSlWXNM30ik",
+    "snippet": {
+      "publishedAt": "2024-04-30T04:02:55Z",
+      "channelId": "UCN68LoM3khS4gdBMiWJO8WA",
+      "title": "Reviewing YOUR Dice Collections! \u3010NIJISANJI EN | Aia Amare \u3011",
+      "channelTitle": "Aia Amare \u3010NIJISANJI EN\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-04-30T23:00:00Z",
+      "activeLiveChatId": "Cg0KC1dTbFdYTk0zMGlrKicKGFVDTjY4TG9NM2toUzRnZEJNaVdKTzhXQRILV1NsV1hOTTMwaWs"
     }
   },
   "WTKq5PG_zfc": {
@@ -6017,6 +6032,18 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-04-27T06:00:00Z",
       "activeLiveChatId": "Cg0KC3NWY29UVFNvZ2dvKicKGFVDcW1TWWtYTHdzTDB6RWFyNUdvb1lrZxILc1Zjb1RUU29nZ28"
+    }
+  },
+  "sayu": {
+    "id": "sayu",
+    "snippet": {
+      "channelId": "sayu",
+      "title": "NEW SOULS-LIKE: LIVING LIKE SHIINA\u2503!website !merch !contest",
+      "channelTitle": "Sayu"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-04-30T04:02:48Z",
+      "twitch": true
     }
   },
   "shimadatiger": {
