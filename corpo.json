@@ -60,18 +60,6 @@
     "premiere": false
   },
   {
-    "id": "oUYLcNPuyNE",
-    "vidUrl": "https://youtu.be/oUYLcNPuyNE",
-    "vidTitle": "join my pool party tonight",
-    "channelId": "@kattarina_qutie",
-    "channelName": "Kattarina Qutie Ch. idol-EN",
-    "channelThumb": "https://yt3.ggpht.com/CqqmhZguF89cw7Aj7HT3d6-sFrD31JLS-VF1pviSCzyvtE3jd7VzL2j4MP4CdS82ExaHNp1Ukiw=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Katta",
-    "scheduledStartTime": "2024-04-30T17:00:00Z",
-    "actualStartTime": "2024-04-30T17:01:06Z",
-    "premiere": false
-  },
-  {
     "id": "l-3jgwZqdBI",
     "vidUrl": "https://youtu.be/l-3jgwZqdBI",
     "vidTitle": "\u3010PERSONA 3 RELOAD *SPOILER ALERT*\u3011The Grind Never Stops\u3010globie 2nd Gen - Equinnox\u3011",
@@ -247,6 +235,18 @@
     "channelName": "Roza Coatl Ch.",
     "channelThumb": "https://yt3.ggpht.com/J_RmocTP4ficzRZ6AFtUiEXoekNfliyRQcber2EXH-nBkNjhci71GaeNHsp4gzLMZs14HZ1U6WQ=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Roza",
+    "scheduledStartTime": "2024-04-30T19:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "N4oCEVsbs0c",
+    "vidUrl": "https://youtu.be/N4oCEVsbs0c",
+    "vidTitle": "\u3010KTANE\u3011BOMB!\u3010V&U | GEN4\u3011#keeptalkingandnobodyexplodes #shortsfeed #shortslive #shortsgaming #shorts",
+    "channelId": "@dkvnu",
+    "channelName": "D.K Graves Ch. V&U",
+    "channelThumb": "https://yt3.ggpht.com/eLNO3hNUzmagTyaDMrJsEEL_MPotkeZh0N4uxccEYYmc2z-J93O5XGOmfTS5MwzNYRTDxgUCOg=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "DK",
     "scheduledStartTime": "2024-04-30T19:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -535,6 +535,18 @@
     "channelName": "Rita Kamishiro / \u795e\u4ee3\u308a\u305f",
     "channelThumb": "https://yt3.ggpht.com/6Q-aQrJUJfxK1kynZANlAA5jvdpjD0qqG3jlQFeSeDk8XHtmVjtYq00R0aDNhZiQkaH9dDhWNxM=s88-c-k-c0x00ffffff-no-rj",
     "shortName": "Rita",
+    "scheduledStartTime": "2024-04-30T22:00:00Z",
+    "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "pB4P54J9jX8",
+    "vidUrl": "https://youtu.be/pB4P54J9jX8",
+    "vidTitle": "This CONTENT has a WARNING... w/ @AishiiAiVT @Nyanheras",
+    "channelId": "@inamiyokich",
+    "channelName": "Inami Yoki Ch.",
+    "channelThumb": "https://yt3.ggpht.com/vCtnJzYIQZi4DtDvSMyEpWdolmNJoIzlO4YD0036Tm2-sRRYRjPNL0xikMCq2Q8p4hqcAKaY9V4=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Yoki",
     "scheduledStartTime": "2024-04-30T22:00:00Z",
     "actualStartTime": "",
     "premiere": false
@@ -3624,6 +3636,19 @@
     "shortName": "Aruri",
     "scheduledStartTime": "2024-04-30T13:31:53Z",
     "actualStartTime": "",
+    "premiere": false
+  },
+  {
+    "id": "oUYLcNPuyNE",
+    "vidUrl": "https://youtu.be/oUYLcNPuyNE",
+    "vidTitle": "join my pool party tonight",
+    "channelId": "@kattarina_qutie",
+    "channelName": "Kattarina Qutie Ch. idol-EN",
+    "channelThumb": "https://yt3.ggpht.com/CqqmhZguF89cw7Aj7HT3d6-sFrD31JLS-VF1pviSCzyvtE3jd7VzL2j4MP4CdS82ExaHNp1Ukiw=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Katta",
+    "scheduledStartTime": "2024-04-30T17:00:00Z",
+    "actualStartTime": "2024-04-30T17:01:06Z",
     "premiere": false
   }
 ]
