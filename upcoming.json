@@ -542,6 +542,17 @@
       "activeLiveChatId": "Cg0KCzNteS1OYTNmUU5vKicKGFVDdWFEaWRHazRITkxPblFFOXd6TU1lURILM215LU5hM2ZRTm8"
     }
   },
+  "3nsNAg0eQZE": {
+    "snippet": {
+      "publishedAt": "2024-05-01T14:15:00Z",
+      "channelId": "UC8rcEBzJSleTkf_-agPM20g",
+      "title": "\u3010KARAOKE / \u6b4c\u67a0\u3011Unarchived KaraokeRyS #shorts"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-02T04:00:00Z",
+      "activeLiveChatId": "Cg0KCzNuc05BZzBlUVpFKicKGFVDOHJjRUJ6SlNsZVRrZl8tYWdQTTIwZxILM25zTkFnMGVRWkU"
+    }
+  },
   "4Asl5kOXbWA": {
     "snippet": {
       "publishedAt": "2023-10-07T01:20:23Z",
@@ -888,18 +899,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-02T22:30:00Z",
       "activeLiveChatId": "Cg0KCzhBVURnQUtGTWZvKicKGFVDYlpabHFBU1U2Njgtd3lXMUsya1lCdxILOEFVRGdBS0ZNZm8"
-    }
-  },
-  "8LCaPfA-DE4": {
-    "snippet": {
-      "publishedAt": "2024-04-30T13:04:29Z",
-      "channelId": "UCyKsg-57XC9pyHbP7v3kCPQ",
-      "title": "\ubbf8\uc624\ub9ac\uc758 ASMR \uc5f0\uc2b5 | KR ASMR practice"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-01T12:58:04Z",
-      "scheduledStartTime": "2024-05-01T13:00:00Z",
-      "activeLiveChatId": "Cg0KCzhMQ2FQZkEtREU0KicKGFVDeUtzZy01N1hDOXB5SGJQN3Yza0NQURILOExDYVBmQS1ERTQ"
     }
   },
   "8NLpMoPObaM": {
@@ -2506,6 +2505,7 @@
       "title": "\u3010BUNNY GARDEN\u3011 F-F-Females!? \u3010NIJISANJI EN | Enna Alouette\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-01T14:11:08Z",
       "scheduledStartTime": "2024-05-01T14:15:00Z",
       "activeLiveChatId": "Cg0KC05hejlLeGduMENVKicKGFVDUjZxaHNMcG42MldWeENCSzFka0xvdxILTmF6OUt4Z24wQ1U"
     }
@@ -4767,6 +4767,7 @@
       "title": "\u3010The Karaoke\u3011Where are we going?\u3010VOLs\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-01T14:13:15Z",
       "scheduledStartTime": "2024-05-01T14:15:00Z",
       "activeLiveChatId": "Cg0KC2puQWpxWll1MmZrKicKGFVDc1EwTnFTTmEwR0xkRVBlaTJjY2ZNdxILam5BanFaWXUyZms"
     }
@@ -4817,7 +4818,7 @@
   "k9kuro": {
     "snippet": {
       "channelId": "k9kuro",
-      "title": "\u2764\ufe0f\u200d\ud83e\ude79 #K9SMP MY VERY OWN COMMUNITY MINECRAFT WORLD | VSHOJO !discord !secret",
+      "title": "\u2764\ufe0f\u200d\ud83e\ude79 NO MINECRAFT CAUSE IT SUCKS SADLY | VSHOJO !discord !secret",
       "channelTitle": "K9KURO"
     },
     "liveStreamingDetails": {
