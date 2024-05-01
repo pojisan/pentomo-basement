@@ -344,7 +344,8 @@
       "title": "\u3010FUWAMOCO MORNING\u3011episode 92 \ud83d\udc3e #FWMCMORNING"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-01T15:00:00Z"
+      "scheduledStartTime": "2024-05-01T15:00:00Z",
+      "activeLiveChatId": "Cg0KCzFwTmFzalZPMG1rKicKGFVDdDlIX1JwUXpoeHpseUJ4RnFyZEhxQRILMXBOYXNqVk8wbWs"
     }
   },
   "2-MNPQRqhPg": {
@@ -1962,6 +1963,7 @@
       "title": "Announcement"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-01T14:00:39Z",
       "scheduledStartTime": "2024-05-01T14:00:00Z",
       "activeLiveChatId": "Cg0KC0kySGtHczBtcW0wKicKGFVDcjhOWjlqT3JyVmNJUm5hSFpDakpVZxILSTJIa0dzMG1xbTA"
     }
@@ -3866,6 +3868,18 @@
       "activeLiveChatId": "Cg0KC19MVHlidWlZRk1nKicKGFVDOHlYUkJfaktEZWFwd1FhazJpMzBFQRILX0xUeWJ1aVlGTWc"
     }
   },
+  "_ZA1MFVoHaY": {
+    "snippet": {
+      "publishedAt": "2024-05-01T13:57:13Z",
+      "channelId": "UCvqf426_XECXgi2s6tIjgOw",
+      "title": "Ghost VTuber Teatime!! Let's chat and hang out!\ud83c\udf3b\ud83e\udd0d #shorts #shortslive #shortsfeed"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-01T13:59:16Z",
+      "scheduledStartTime": "2024-05-01T14:00:00Z",
+      "activeLiveChatId": "Cg0KC19aQTFNRlZvSGFZKicKGFVDdnFmNDI2X1hFQ1hnaTJzNnRJamdPdxILX1pBMU1GVm9IYVk"
+    }
+  },
   "_fZr1FFhSJU": {
     "snippet": {
       "publishedAt": "2024-04-28T06:13:28Z",
@@ -4365,6 +4379,7 @@
       "title": "\u3010Stellar Blade\u3011I can stay in Xion forever... so many quests!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-01T13:59:20Z",
       "scheduledStartTime": "2024-05-01T14:00:00Z",
       "activeLiveChatId": "Cg0KC2Y5RjFiOHZXOEhzKicKGFVDMFpUVnhDSGtaYW5UNWRuUDJGWkQ0URILZjlGMWI4dlc4SHM"
     }
@@ -4968,6 +4983,7 @@
       "title": "\u3010GENSHIN IMPACT\u3011Husbando Simulator Time\u3010Komiyama Ambros | globie\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-01T13:56:08Z",
       "scheduledStartTime": "2024-05-01T14:00:00Z",
       "activeLiveChatId": "Cg0KC2xpSk9DX0RtanZZKicKGFVDYnNQNEJJc1BZYVJMdjlmX3lYRG9EQRILbGlKT0NfRG1qdlk"
     }
@@ -5066,6 +5082,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-03T16:00:00Z",
       "activeLiveChatId": "Cg0KC21mc09IRDdQRTlBKicKGFVDbGNNVDlWOWl1N3hwaGtIVkhnbEhUZxILbWZzT0hEN1BFOUE"
+    }
+  },
+  "miya_mareena": {
+    "snippet": {
+      "channelId": "miya_mareena",
+      "title": "!merch LAUNCH - Shark Girl Hours - CHAOS ~ [ !gg, !song ]",
+      "channelTitle": "miya_mareena"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-01T14:00:23Z",
+      "twitch": true
     }
   },
   "n5D5GvXzXmY": {
