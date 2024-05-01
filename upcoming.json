@@ -337,18 +337,6 @@
       "activeLiveChatId": "Cg0KCzFpOTNiTEJyTFMwKicKGFVDa0o2NFcwSjdSMHpDU0FzWmZSSWhWURILMWk5M2JMQnJMUzA"
     }
   },
-  "1j2ajdhuGSg": {
-    "snippet": {
-      "publishedAt": "2024-04-30T16:56:14Z",
-      "channelId": "UC5aALuwwcRa7WzWHK93AYeg",
-      "title": "THIS GAME MAKES ME H*RNY\u3010BUNNY GARDEN\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-01T01:00:14Z",
-      "scheduledStartTime": "2024-05-01T01:00:00Z",
-      "activeLiveChatId": "Cg0KCzFqMmFqZGh1R1NnKicKGFVDNWFBTHV3d2NSYTdXeldISzkzQVllZxILMWoyYWpkaHVHU2c"
-    }
-  },
   "1pNasjVO0mk": {
     "snippet": {
       "publishedAt": "2024-04-30T03:29:01Z",
@@ -879,6 +867,7 @@
       "title": "\u3010THE GAME OF SISYPHUS\u3011You must imagine Reimu happy.....\u3010NIJISANJI EN | Reimu Endou\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-01T03:04:17Z",
       "scheduledStartTime": "2024-05-01T03:00:00Z",
       "activeLiveChatId": "Cg0KCzd4cGRNV1d6TmhBKicKGFVDQlVSTThTNExIN2NSWjBDbGVhOVJEQRILN3hwZE1XV3pOaEE"
     }
@@ -1901,7 +1890,7 @@
     "snippet": {
       "publishedAt": "2024-04-30T22:40:03Z",
       "channelId": "UCCA4jJY5PrTfIFJIcbI_NhQ",
-      "title": "[BUNNY GARDEN] So what's your pantsu color today...? pt2"
+      "title": "[BUNNY GARDEN] So what's your pantsu color today...? (Drinking stream)pt2"
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-01T02:00:37Z",
@@ -5699,6 +5688,17 @@
       "activeLiveChatId": "Cg0KC3RWbUhTckVnZHpFKicKGFVDYnZSNDZTUXBPUFJLTXJWVDhOb0pUQRILdFZtSFNyRWdkekU"
     }
   },
+  "tatsuhikohiroki": {
+    "snippet": {
+      "channelId": "tatsuhikohiroki",
+      "title": "[Handcammy] back to HSR??? Mobile edition | #OshiLink #Vtuber",
+      "channelTitle": "tatsuhikohiroki"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-01T03:02:08Z",
+      "twitch": true
+    }
+  },
   "thKmAPsyAPE": {
     "snippet": {
       "publishedAt": "2023-12-04T08:00:13Z",
@@ -5719,18 +5719,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2026-03-31T16:45:00Z",
       "activeLiveChatId": "Cg0KC3RwUHVpTkRGdHBvKicKGFVDOHlYUkJfaktEZWFwd1FhazJpMzBFQRILdHBQdWlOREZ0cG8"
-    }
-  },
-  "trTGG5f76Kw": {
-    "snippet": {
-      "publishedAt": "2024-04-30T02:44:23Z",
-      "channelId": "UCu1INzefw3R7M9-3QEHYmMQ",
-      "title": "3RD YEAR VTuber ANNIVERSARY! Uncapped Subathon DAY 3 WITH PUNSHIMENTS"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-04-30T15:06:41Z",
-      "scheduledStartTime": "2024-04-30T15:00:00Z",
-      "activeLiveChatId": "Cg0KC3RyVEdHNWY3Nkt3KicKGFVDdTFJTnplZnczUjdNOS0zUUVIWW1NURILdHJUR0c1Zjc2S3c"
     }
   },
   "uMj6rWGN29w": {
@@ -5861,6 +5849,18 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-03T18:00:00Z",
       "activeLiveChatId": "Cg0KC3Z3TzVkYjI2TFNZKicKGFVDM0ZXU2RoX0t0RUxhZWU4dDQwMEpiQRILdndPNWRiMjZMU1k"
+    }
+  },
+  "w5t_gBdiOBM": {
+    "snippet": {
+      "publishedAt": "2024-05-01T03:01:52Z",
+      "channelId": "UCf4U3iVUDkkhIv3jnr41u-Q",
+      "title": "[Handcammy] back to HSR??? Mobile edition | #OshiLink #Vtuber"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-01T03:02:21Z",
+      "scheduledStartTime": "2024-05-01T03:01:52Z",
+      "activeLiveChatId": "Cg0KC3c1dF9nQmRpT0JNKicKGFVDZjRVM2lWVURra2hJdjNqbnI0MXUtURILdzV0X2dCZGlPQk0"
     }
   },
   "w9Mt8SIr0Rc": {
