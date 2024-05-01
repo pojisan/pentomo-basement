@@ -1631,17 +1631,6 @@
       "activeLiveChatId": "Cg0KC0ZNTG0tSXJrNmt3KicKGFVDUU1XTWIwWWVyTUJLZk5KWGlCNmtadxILRk1MbS1Jcms2a3c"
     }
   },
-  "FSXMqEgjk3A": {
-    "snippet": {
-      "publishedAt": "2024-04-28T16:43:06Z",
-      "channelId": "UCFHdEAHPbFUjgJ1RaO_Aw6w",
-      "title": "\u3010Zatsu\u3011Anime Zatsu - Time To Drop Some Shows\u3010globie 2nd Gen - Equinnox\u3011"
-    },
-    "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-01T18:00:00Z",
-      "activeLiveChatId": "Cg0KC0ZTWE1xRWdqazNBKicKGFVDRkhkRUFIUGJGVWpnSjFSYU9fQXc2dxILRlNYTXFFZ2prM0E"
-    }
-  },
   "FTE1XiFsuQ4": {
     "snippet": {
       "publishedAt": "2024-05-01T06:07:43Z",
@@ -1684,18 +1673,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-04T02:00:00Z",
       "activeLiveChatId": "Cg0KC0ZrVlVCUUV3NnM4KicKGFVDb0F3M1NNTF8wOWRGLTd5aFFVOHdGURILRmtWVUJRRXc2czg"
-    }
-  },
-  "FkbBMZjZ6zI": {
-    "snippet": {
-      "publishedAt": "2024-05-01T09:59:25Z",
-      "channelId": "UC4WsLE_xdrnd05D05Go9oXw",
-      "title": "\u3010FULLBODY 3D STREAM\u3011SUMMER SPECIAL | #vtuber"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-01T13:09:19Z",
-      "scheduledStartTime": "2024-05-01T13:00:00Z",
-      "activeLiveChatId": "Cg0KC0ZrYkJNWmpaNnpJKicKGFVDNFdzTEVfeGRybmQwNUQwNUdvOW9YdxILRmtiQk1aalo2ekk"
     }
   },
   "FwV8ApdJLhQ": {
@@ -2073,6 +2050,7 @@
       "title": "\u3010OW2\u3011Surely we actually get rank points today\u3010globie 2nd Gen - Equinnox\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-01T15:59:43Z",
       "scheduledStartTime": "2024-05-01T16:00:00Z",
       "activeLiveChatId": "Cg0KC0pMZEI1a1JLM0ZFKicKGFVDUTNzX2tRWWYzUHVxT0t1OTBIcklxdxILSkxkQjVrUkszRkU"
     }
@@ -2930,7 +2908,7 @@
       "title": "\u3010Stardew Valley\u30111 pet for the chicken a day keeps the butcher away #kfp #\u30ad\u30a2\u30e9\u30a4\u30d6"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-01T16:00:00Z",
+      "scheduledStartTime": "2024-05-01T16:05:00Z",
       "activeLiveChatId": "Cg0KC1M3Y01wZ1JvYXRnKicKGFVDSHN4NEhxYS0xT1JqUVRoOVRZRGh3dxILUzdjTXBnUm9hdGc"
     }
   },
@@ -4037,8 +4015,20 @@
       "title": "\ud83d\udc8d\u3010ELDEN RING\u3011#2 FAERIE CHESS\u3010Yume+ | Raein Clowd\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-01T15:51:20Z",
       "scheduledStartTime": "2024-05-01T16:00:00Z",
       "activeLiveChatId": "Cg0KC2NCRTlGaktscjhVKicKGFVDVlBCR21sc0M4Uy1UTmFfSUVWY3oxQRILY0JFOUZqS2xyOFU"
+    }
+  },
+  "cerberuskerby": {
+    "snippet": {
+      "channelId": "cerberuskerby",
+      "title": "BORK BORK?",
+      "channelTitle": "CerberusKerby"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-01T16:00:40Z",
+      "twitch": true
     }
   },
   "cg0cszbSJ54": {
@@ -5260,6 +5250,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-02T00:00:00Z",
       "activeLiveChatId": "Cg0KC3BobkN5YTkxeDlFKicKGFVDa2pQX3c2MDdCLW40a1dKclpBc0hNURILcGhuQ3lhOTF4OUU"
+    }
+  },
+  "pupmino": {
+    "snippet": {
+      "channelId": "pupmino",
+      "title": "MINEEEEE DIAMONSSSS\u3010!commands\u3011",
+      "channelTitle": "pupmino"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-01T15:53:17Z",
+      "twitch": true
     }
   },
   "q2Gb5JMp0k8": {
