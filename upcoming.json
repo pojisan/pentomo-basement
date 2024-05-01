@@ -571,6 +571,7 @@
       "title": "\u3010KARAOKE PRACTICE + ZATSU\u3011SHE DOESN'T KNOW WHAT SHE'S DOING\u3010Yae Yugiri | V4Mirai | VTuber\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-01T22:58:52Z",
       "scheduledStartTime": "2024-05-01T23:00:00Z",
       "activeLiveChatId": "Cg0KCzRmdWxsMWtOeWhnKicKGFVDYkRISVMwTnBYUk9oWWpzYVhRWDRwQRILNGZ1bGwxa055aGc"
     }
@@ -4138,6 +4139,17 @@
       "activeLiveChatId": "Cg0KC2RyRlVWYUVqVTBVKicKGFVDS0tINjRpSFpIMk85TmRsc09RRDJRZxILZHJGVVZhRWpVMFU"
     }
   },
+  "drnovae": {
+    "snippet": {
+      "channelId": "drnovae",
+      "title": "\ud83d\udd29Yapping and reviewing your discord memes\ud83e\uddea",
+      "channelTitle": "DrNOVAe"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-01T22:30:16Z",
+      "twitch": true
+    }
+  },
   "dvE3lnNv1S4": {
     "snippet": {
       "publishedAt": "2024-04-29T16:09:43Z",
@@ -5827,6 +5839,7 @@
       "title": "its been 5 hours but i finally left the first town | FALLOUT NEW VEGAS"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-01T22:57:41Z",
       "scheduledStartTime": "2024-05-01T23:00:00Z",
       "activeLiveChatId": "Cg0KC3dwSHBsMFc3dGhZKicKGFVDMXV6TVo3eF9IZ3VuNXQ4Sjl1RmFudxILd3BIcGwwVzd0aFk"
     }
