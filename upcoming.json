@@ -759,18 +759,6 @@
       "activeLiveChatId": "Cg0KCzVySlNjSzB3S0ZNKicKGFVDNFdzTEVfeGRybmQwNUQwNUdvOW9YdxILNXJKU2NLMHdLRk0"
     }
   },
-  "61VFUzDEn2s": {
-    "snippet": {
-      "publishedAt": "2024-05-01T03:45:47Z",
-      "channelId": "UCeGendL8CO5RkffB6IFwHow",
-      "title": "\u3010\u3074\u306a\u304f\u3089 | \ud83c\udf08 KR\u30b5\u30fc\u30d0\u30fc \u3011 \u306e\u3093\u3073\u308a\u30de\u30a4\u30af\u30e9 \u3010\u306b\u3058\u3055\u3093\u3058 | \u30bb\u30d5\u30a3\u30ca\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-01T05:03:50Z",
-      "scheduledStartTime": "2024-05-01T05:00:00Z",
-      "activeLiveChatId": "Cg0KCzYxVkZVekRFbjJzKicKGFVDZUdlbmRMOENPNVJrZmZCNklGd0hvdxILNjFWRlV6REVuMnM"
-    }
-  },
   "75-pZe_IqzE": {
     "snippet": {
       "publishedAt": "2024-02-28T20:28:36Z",
@@ -5387,6 +5375,17 @@
       "activeLiveChatId": "Cg0KC3NrVENLZ003YmlJKicKGFVDazB2dXd3c21fVVFISElPZ0d2eFUtQRILc2tUQ0tnTTdiaUk"
     }
   },
+  "sorachiskye": {
+    "snippet": {
+      "channelId": "sorachiskye",
+      "title": "#14 I WILL KILL THE REAPER TODAY IF ITS THE LAST THING I DO! [Project CA3LUM \ud83c\udf26\ufe0f Hoshizora]",
+      "channelTitle": "SorachiSkye"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-01T08:03:27Z",
+      "twitch": true
+    }
+  },
   "su2wbOAvLjI": {
     "snippet": {
       "publishedAt": "2023-11-20T14:49:46Z",
@@ -5416,6 +5415,7 @@
       "title": "New House? EP 9 - My Time at Portia\u3010NIJISANJI  EN | Maria Marionette\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-01T08:01:08Z",
       "scheduledStartTime": "2024-05-01T08:00:00Z",
       "activeLiveChatId": "Cg0KC3RBWDVEa3ZlWWpJKicKGFVDd2FTOF9TN2tNaUtBM2l6bFRXSGJRZxILdEFYNURrdmVZakk"
     }
