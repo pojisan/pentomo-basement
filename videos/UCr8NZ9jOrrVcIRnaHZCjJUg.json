@@ -3609,5 +3609,16 @@
       "actualEndTime": "2024-04-19T17:03:46Z",
       "scheduledStartTime": "2024-04-19T14:00:00Z"
     }
+  },
+  "I2HkGs0mqm0": {
+    "snippet": {
+      "publishedAt": "2024-05-01T08:12:52Z",
+      "channelId": "UCr8NZ9jOrrVcIRnaHZCjJUg",
+      "title": "Announcement"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-01T14:00:00Z",
+      "activeLiveChatId": "Cg0KC0kySGtHczBtcW0wKicKGFVDcjhOWjlqT3JyVmNJUm5hSFpDakpVZxILSTJIa0dzMG1xbTA"
+    }
   }
 }
