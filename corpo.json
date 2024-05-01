@@ -132,18 +132,6 @@
     "premiere": false
   },
   {
-    "id": "pB4P54J9jX8",
-    "vidUrl": "https://youtu.be/pB4P54J9jX8",
-    "vidTitle": "This CONTENT has a WARNING... w/ @AishiiAiVT @Nyanheras",
-    "channelId": "@inamiyokich",
-    "channelName": "Inami Yoki Ch.",
-    "channelThumb": "https://yt3.ggpht.com/vCtnJzYIQZi4DtDvSMyEpWdolmNJoIzlO4YD0036Tm2-sRRYRjPNL0xikMCq2Q8p4hqcAKaY9V4=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Yoki",
-    "scheduledStartTime": "2024-04-30T22:00:00Z",
-    "actualStartTime": "2024-04-30T22:15:47Z",
-    "premiere": false
-  },
-  {
     "id": "Vb4P9P3qM4M",
     "vidUrl": "https://youtu.be/Vb4P9P3qM4M",
     "vidTitle": "\u3010CONTENT WARNING\u3011HERE WE GO AGAIN... w/ @AishiiAiVT & @InamiYokiCh",
@@ -165,18 +153,6 @@
     "shortName": "Mono",
     "scheduledStartTime": "2024-04-30T22:00:00Z",
     "actualStartTime": "2024-04-30T23:02:47Z",
-    "premiere": false
-  },
-  {
-    "id": "Q5wZlEw6Tfk",
-    "vidUrl": "https://youtu.be/Q5wZlEw6Tfk",
-    "vidTitle": "ASMR after a long day  \u2022 soft singing + head scratches with fluffy mic \u3010REM Kanashibari | ENVtuber\u3011",
-    "channelId": "@remkanashibari",
-    "channelName": "REM Kanashibari Ch.\u3010V4Mirai\u3011",
-    "channelThumb": "https://yt3.ggpht.com/wVYBYMI9s6Rq0ONjpaDlrGWx7j-Qf4p-zsxBJgK65NLMvDuYu2A_4VB69LA2PhBlElWgVZbe-OI=s88-c-k-c0x00ffffff-no-rj",
-    "shortName": "Rem",
-    "scheduledStartTime": "2024-04-30T22:30:00Z",
-    "actualStartTime": "2024-04-30T22:30:26Z",
     "premiere": false
   },
   {
@@ -2820,6 +2796,18 @@
     "premiere": false
   },
   {
+    "id": "evi_kMy8pkA",
+    "vidUrl": "https://youtu.be/evi_kMy8pkA",
+    "vidTitle": "\u3010Shiki Miyoshino\u3011Romantic Summer - Sun & Lunar\u3010Cover\u3011",
+    "channelId": "@shikimiyoshino",
+    "channelName": "Shiki Miyoshino / \u7f8e\u5409\u91ce\u3057\u304d\u3010Requiem\u3011",
+    "channelThumb": "https://yt3.ggpht.com/Id9BL2cZTLJmv9ZoQEGIk_eFPBrQ7REmfIB6tsb34vcls6pWmKCsifuJ4Ii40vRYZvX9uGd9=s88-c-k-c0x00ffffff-no-rj",
+    "shortName": "Shiki",
+    "scheduledStartTime": "2024-05-05T00:00:00Z",
+    "actualStartTime": "",
+    "premiere": true
+  },
+  {
     "id": "sMY96wuLdOU",
     "vidUrl": "https://youtu.be/sMY96wuLdOU",
     "vidTitle": "\u3010Members Only\u3011 FINALLY FINISHING FRIEREN!!!!\u3010Yuno Hanaki\u3011",
@@ -3823,19 +3811,6 @@
     "premiere": false
   },
   {
-    "id": "C5LAgc40wOE",
-    "vidUrl": "https://youtu.be/C5LAgc40wOE",
-    "vidTitle": "\u3010BATSU\u3011 1 SCREAM = 1 SHOT\u3010EIEN Project\u3011",
-    "channelId": "@mirrisaffire",
-    "channelName": "Mirri Saffire Ch. \u3010EIEN Project\u3011",
-    "channelThumb": "https://yt3.ggpht.com/AtDufy17lH2ziQPDJh2-jQhOQ_3g5HNWeqx-d-CW2ItZcyB8sgVNCznypv_MdbNpiyU_pGEokks=s88-c-k-c0x00ffffff-no-rj",
-    "graveyard": true,
-    "shortName": "Mirri",
-    "scheduledStartTime": "2024-04-30T21:00:00Z",
-    "actualStartTime": "2024-04-30T21:00:19Z",
-    "premiere": false
-  },
-  {
     "id": "EKj9ASEAwUU",
     "vidUrl": "https://youtu.be/EKj9ASEAwUU",
     "vidTitle": "GUERILLA Doing a little bit of MOIDER :3\u3010UNDERTALE\u3011",
@@ -3846,6 +3821,32 @@
     "shortName": "Airi",
     "scheduledStartTime": "2024-04-30T21:00:00Z",
     "actualStartTime": "2024-04-30T21:04:13Z",
+    "premiere": false
+  },
+  {
+    "id": "pB4P54J9jX8",
+    "vidUrl": "https://youtu.be/pB4P54J9jX8",
+    "vidTitle": "This CONTENT has a WARNING... w/ @AishiiAiVT @Nyanheras",
+    "channelId": "@inamiyokich",
+    "channelName": "Inami Yoki Ch.",
+    "channelThumb": "https://yt3.ggpht.com/vCtnJzYIQZi4DtDvSMyEpWdolmNJoIzlO4YD0036Tm2-sRRYRjPNL0xikMCq2Q8p4hqcAKaY9V4=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Yoki",
+    "scheduledStartTime": "2024-04-30T22:00:00Z",
+    "actualStartTime": "2024-04-30T22:15:47Z",
+    "premiere": false
+  },
+  {
+    "id": "Q5wZlEw6Tfk",
+    "vidUrl": "https://youtu.be/Q5wZlEw6Tfk",
+    "vidTitle": "ASMR after a long day  \u2022 soft singing + head scratches with fluffy mic \u3010REM Kanashibari | ENVtuber\u3011",
+    "channelId": "@remkanashibari",
+    "channelName": "REM Kanashibari Ch.\u3010V4Mirai\u3011",
+    "channelThumb": "https://yt3.ggpht.com/wVYBYMI9s6Rq0ONjpaDlrGWx7j-Qf4p-zsxBJgK65NLMvDuYu2A_4VB69LA2PhBlElWgVZbe-OI=s88-c-k-c0x00ffffff-no-rj",
+    "graveyard": true,
+    "shortName": "Rem",
+    "scheduledStartTime": "2024-04-30T22:30:00Z",
+    "actualStartTime": "2024-04-30T22:30:26Z",
     "premiere": false
   },
   {
