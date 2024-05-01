@@ -2204,20 +2204,20 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-04-30T20:12:52Z",
-      "scheduledStartTime": "2024-04-30T20:00:00Z",
-      "activeLiveChatId": "Cg0KC0dudnJTVXlRVlFRKicKGFVDazQtTFVtekZNRVRMdDRTbjFKODJDdxILR252clNVeVFWUVE"
+      "actualEndTime": "2024-05-01T02:20:17Z",
+      "scheduledStartTime": "2024-04-30T20:00:00Z"
     }
   },
   "LfhSJRbV9Y8": {
     "snippet": {
-      "publishedAt": "2024-04-30T18:17:11Z",
+      "publishedAt": "2024-05-01T02:42:31Z",
       "channelId": "UCk4-LUmzFMETLt4Sn1J82Cw",
       "title": "\ud83d\udd34\u3010Stardew Valley 1.6\u3011SUMMERTIME In the Meadowlands Farm! Pt.3"
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-04-30T20:09:15Z",
-      "scheduledStartTime": "2024-04-30T20:00:00Z",
-      "activeLiveChatId": "Cg0KC0xmaFNKUmJWOVk4KicKGFVDazQtTFVtekZNRVRMdDRTbjFKODJDdxILTGZoU0pSYlY5WTg"
+      "actualEndTime": "2024-05-01T02:20:34Z",
+      "scheduledStartTime": "2024-04-30T20:00:00Z"
     }
   }
 }
