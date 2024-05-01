@@ -2824,8 +2824,20 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-04-30T22:37:03Z",
-      "scheduledStartTime": "2024-04-30T22:37:02Z",
-      "activeLiveChatId": "Cg0KC2l1NHlOVzI4c1NZKicKGFVDVXI4TzZaOEp5QWc4M0tKYmNfdV9iURILaXU0eU5XMjhzU1k"
+      "actualEndTime": "2024-05-01T01:55:08Z",
+      "scheduledStartTime": "2024-04-30T22:37:02Z"
+    }
+  },
+  "7_wxkx7R8oU": {
+    "snippet": {
+      "publishedAt": "2024-05-01T01:55:55Z",
+      "channelId": "UCUr8O6Z8JyAg83KJbc_u_bQ",
+      "title": "TRYING OUT DISTANT HORIZONS | CHECK OUT MY NEW COVER !cover | !discord !tip !throne"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-01T01:56:03Z",
+      "scheduledStartTime": "2024-05-01T01:56:05Z",
+      "activeLiveChatId": "Cg0KCzdfd3hreDdSOG9VKicKGFVDVXI4TzZaOEp5QWc4M0tKYmNfdV9iURILN193eGt4N1I4b1U"
     }
   }
 }
