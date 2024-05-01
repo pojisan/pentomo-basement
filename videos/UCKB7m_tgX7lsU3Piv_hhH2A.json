@@ -963,5 +963,16 @@
       "actualEndTime": "2024-05-01T07:13:34Z",
       "scheduledStartTime": "2024-05-01T04:00:00Z"
     }
+  },
+  "m1aqSVCljSE": {
+    "snippet": {
+      "publishedAt": "2024-05-01T20:52:31Z",
+      "channelId": "UCKB7m_tgX7lsU3Piv_hhH2A",
+      "title": "Health Update & Announcement"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-03T04:00:00Z",
+      "activeLiveChatId": "Cg0KC20xYXFTVkNsalNFKicKGFVDS0I3bV90Z1g3bHNVM1Bpdl9oaEgyQRILbTFhcVNWQ2xqU0U"
+    }
   }
 }
