@@ -1885,6 +1885,7 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-01T15:00:16Z",
+      "actualEndTime": "2024-05-01T17:46:11Z",
       "scheduledStartTime": "2024-05-01T15:00:00Z",
       "activeLiveChatId": "Cg0KC1NkNkZ6alFyeGhJKicKGFVDdnFmNDI2X1hFQ1hnaTJzNnRJamdPdxILU2Q2RnpqUXJ4aEk"
     }
@@ -1906,7 +1907,8 @@
     "snippet": {
       "publishedAt": "2024-05-01T15:11:12Z",
       "channelId": "UCvqf426_XECXgi2s6tIjgOw",
-      "title": "Cosy Retro JRPG Hours!! Let's vibe and hang out!\ud83c\udf3b\ud83e\udd0d #shorts #shortslive #shortsfeed #shortsgaming"
+      "title": "Cosy Retro JRPG Hours!! Let's vibe and hang out!\ud83c\udf3b\ud83e\udd0d #shorts #shortslive #shortsfeed #shortsgaming",
+      "private": true
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-01T15:13:29Z",
