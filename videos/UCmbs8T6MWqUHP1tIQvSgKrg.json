@@ -4428,8 +4428,18 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-02T01:04:14Z",
-      "scheduledStartTime": "2024-05-02T01:00:00Z",
-      "activeLiveChatId": "Cg0KCzdXbGs3Qkx6Ym5BKicKGFVDbWJzOFQ2TVdxVUhQMXRJUXZTZ0tyZxILN1dsazdCTHpibkE"
+      "actualEndTime": "2024-05-02T08:42:48Z",
+      "scheduledStartTime": "2024-05-02T01:00:00Z"
+    }
+  },
+  "FRwOfVjPwhI": {
+    "snippet": {
+      "publishedAt": "2024-05-02T08:51:53Z",
+      "channelId": "UCmbs8T6MWqUHP1tIQvSgKrg",
+      "title": "\u3010Graveyard Keeper\u3011Rise Again Bro | #2"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-03T03:00:00Z"
     }
   }
 }
