@@ -8129,7 +8129,7 @@
   },
   "Vq97BXFpCRc": {
     "snippet": {
-      "publishedAt": "2024-04-28T17:46:26Z",
+      "publishedAt": "2024-05-01T04:14:06Z",
       "channelId": "UCZfQRuwSLty74QAj55BaKlA",
       "title": "\u3010Watchalong\u3011Let's watch anime together!\u3010Ibuki Meno\u3011"
     },
@@ -8137,6 +8137,17 @@
       "actualStartTime": "2024-05-01T01:11:34Z",
       "actualEndTime": "2024-05-01T04:03:10Z",
       "scheduledStartTime": "2024-05-01T01:00:00Z"
+    }
+  },
+  "sbTS84sR7VE": {
+    "snippet": {
+      "publishedAt": "2024-05-01T04:02:09Z",
+      "channelId": "UCZfQRuwSLty74QAj55BaKlA",
+      "title": "\u3010MenoChat\u3011Time to chat with Meno!\u3010Ibuki Meno\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-03T04:00:00Z",
+      "activeLiveChatId": "Cg0KC3NiVFM4NHNSN1ZFKicKGFVDWmZRUnV3U0x0eTc0UUFqNTVCYUtsQRILc2JUUzg0c1I3VkU"
     }
   }
 }

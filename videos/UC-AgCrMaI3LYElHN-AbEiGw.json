@@ -2902,7 +2902,8 @@
     "snippet": {
       "publishedAt": "2023-05-02T12:05:29Z",
       "channelId": "UC-AgCrMaI3LYElHN-AbEiGw",
-      "title": "Schedule and Free Chat!"
+      "title": "Schedule and Free Chat!",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-02T12:05:00Z",

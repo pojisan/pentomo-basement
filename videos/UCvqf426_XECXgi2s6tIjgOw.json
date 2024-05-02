@@ -1924,6 +1924,7 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-02T15:00:53Z",
+      "actualEndTime": "2024-05-02T17:06:45Z",
       "scheduledStartTime": "2024-05-02T15:00:00Z",
       "activeLiveChatId": "Cg0KC2RwY3g0WF9CR0JJKicKGFVDdnFmNDI2X1hFQ1hnaTJzNnRJamdPdxILZHBjeDRYX0JHQkk"
     }
@@ -1932,12 +1933,20 @@
     "snippet": {
       "publishedAt": "2024-05-02T15:01:34Z",
       "channelId": "UCvqf426_XECXgi2s6tIjgOw",
-      "title": "Minecraft Permadeath Mode! Let's hang out! \u26cf\ufe0f\ud83e\udd0d #shorts #shortslive #shortsfeed #shortsgaming"
+      "title": "Minecraft Permadeath Mode! Let's hang out! \u26cf\ufe0f\ud83e\udd0d #shorts #shortslive #shortsfeed #shortsgaming",
+      "private": true
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-02T15:07:22Z",
       "scheduledStartTime": "2024-05-02T15:10:00Z",
       "activeLiveChatId": "Cg0KC1I1eUJDNVNkTjdjKicKGFVDdnFmNDI2X1hFQ1hnaTJzNnRJamdPdxILUjV5QkM1U2RON2M"
+    }
+  },
+  "6pkWDkFBtts": {
+    "snippet": {
+      "publishedAt": "2024-05-02T15:30:01Z",
+      "channelId": "UCvqf426_XECXgi2s6tIjgOw",
+      "title": "The WORST Kind of Content #shorts"
     }
   }
 }

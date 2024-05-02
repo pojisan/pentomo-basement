@@ -241,15 +241,14 @@
   },
   "JrDg1JPtHv4": {
     "snippet": {
-      "publishedAt": "2024-04-28T12:24:20Z",
+      "publishedAt": "2024-05-01T23:08:05Z",
       "channelId": "UCb8dLvDvmZ-d92KEy_9oWog",
       "title": "I HATE THE NETHER."
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-01T19:11:43Z",
       "actualEndTime": "2024-05-01T22:46:30Z",
-      "scheduledStartTime": "2024-05-01T19:00:00Z",
-      "activeLiveChatId": "Cg0KC0pyRGcxSlB0SHY0KicKGFVDYjhkTHZEdm1aLWQ5MktFeV85b1dvZxILSnJEZzFKUHRIdjQ"
+      "scheduledStartTime": "2024-05-01T19:00:00Z"
     }
   },
   "C8TVfAzrCcs": {
@@ -272,6 +271,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-03T16:30:00Z",
       "activeLiveChatId": "Cg0KCy1Rb3JpNDhHZUVJKicKGFVDYjhkTHZEdm1aLWQ5MktFeV85b1dvZxILLVFvcmk0OEdlRUk"
+    }
+  },
+  "dSjsIjbjKso": {
+    "snippet": {
+      "publishedAt": "2024-04-28T13:17:55Z",
+      "channelId": "UCb8dLvDvmZ-d92KEy_9oWog",
+      "title": "PLAYING MINECRAFT WITH MEMBERS"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-02T19:00:00Z",
+      "activeLiveChatId": "Cg0KC2RTanNJamJqS3NvKicKGFVDYjhkTHZEdm1aLWQ5MktFeV85b1dvZxILZFNqc0lqYmpLc28"
     }
   }
 }

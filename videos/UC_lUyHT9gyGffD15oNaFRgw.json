@@ -413,5 +413,17 @@
       "actualEndTime": "2024-04-19T07:44:18Z",
       "scheduledStartTime": "2024-04-19T07:15:00Z"
     }
+  },
+  "Bwr8RSk4JIA": {
+    "snippet": {
+      "publishedAt": "2024-05-02T13:04:47Z",
+      "channelId": "UC_lUyHT9gyGffD15oNaFRgw",
+      "title": "\u3010ZATSU\u3011 test stream from the UK!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-02T13:08:49Z",
+      "actualEndTime": "2024-05-02T14:46:25Z",
+      "scheduledStartTime": "2024-05-02T13:05:00Z"
+    }
   }
 }
