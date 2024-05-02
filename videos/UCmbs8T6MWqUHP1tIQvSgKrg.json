@@ -4427,7 +4427,9 @@
       "title": "\u3010Blasphemous\u3011Penitente | #2"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-02T01:00:00Z"
+      "actualStartTime": "2024-05-02T01:04:14Z",
+      "scheduledStartTime": "2024-05-02T01:00:00Z",
+      "activeLiveChatId": "Cg0KCzdXbGs3Qkx6Ym5BKicKGFVDbWJzOFQ2TVdxVUhQMXRJUXZTZ0tyZxILN1dsazdCTHpibkE"
     }
   }
 }
