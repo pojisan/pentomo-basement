@@ -436,18 +436,6 @@
       "activeLiveChatId": "Cg0KCzJXOXVoWi1iZVRNKicKGFVDeGJORVc3eHlrVEM3aEU1Rllnd3JPdxILMlc5dWhaLWJlVE0"
     }
   },
-  "2_HUIksoft8": {
-    "snippet": {
-      "publishedAt": "2024-04-26T15:41:18Z",
-      "channelId": "UCRlZaszk84YXjRtdPCxqjvw",
-      "title": "prepare."
-    },
-    "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-02T04:00:00Z",
-      "activeLiveChatId": "Cg0KCzJfSFVJa3NvZnQ4KicKGFVDUmxaYXN6azg0WVhqUnRkUEN4cWp2dxILMl9IVUlrc29mdDg",
-      "premiere": true
-    }
-  },
   "2sYA8Rvw7xU": {
     "snippet": {
       "publishedAt": "2024-04-25T11:57:45Z",
@@ -3528,7 +3516,7 @@
       "title": "Tarot readings from a VTuber!!  #shorts #vtuber"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-03T12:00:00Z",
+      "scheduledStartTime": "2024-05-04T12:00:00Z",
       "activeLiveChatId": "Cg0KC1lpNDNWNFNOc3FJKicKGFVDYnJiRktGaHlIRDRiTUpiRWNYWnoxZxILWWk0M1Y0U05zcUk"
     }
   },
@@ -5759,7 +5747,8 @@
       "title": "IF I FALL I SQUAT"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-02T04:00:00Z",
+      "actualStartTime": "2024-05-02T04:00:26Z",
+      "scheduledStartTime": "2024-05-02T04:00:12Z",
       "activeLiveChatId": "Cg0KC3hxWDl1ZUR0ODBBKicKGFVDY2hHWVA1dDVWejQ4VVZ4Tk9pZmstURILeHFYOXVlRHQ4MEE"
     }
   },
