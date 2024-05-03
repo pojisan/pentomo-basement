@@ -273,18 +273,6 @@
       "activeLiveChatId": "Cg0KCzFDcXRKd0VvTmc0KicKGFVDdjFUaHlFNEtWWW5uVlk4R0xmdG5vQRILMUNxdEp3RW9OZzQ"
     }
   },
-  "1MVKwayEd44": {
-    "snippet": {
-      "publishedAt": "2024-05-03T10:27:07Z",
-      "channelId": "UC7XCjKxBEct0uAukpQXNFPw",
-      "title": "\u3010\u6b4c\u67a0\u3011\u306e\u3093\u3073\u308a\u6b4c\u67a0\uff01\uff01 - \u30cf\u30cb\u30ab\u30e0\u30b9\u30c6\u30fc\u30b7\u30e7\u30f3\uff01-143\u3010HACHI \u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-03T13:01:05Z",
-      "scheduledStartTime": "2024-05-03T13:00:00Z",
-      "activeLiveChatId": "Cg0KCzFNVkt3YXlFZDQ0KicKGFVDN1hDakt4QkVjdDB1QXVrcFFYTkZQdxILMU1WS3dheUVkNDQ"
-    }
-  },
   "1PnHQ0YMtOs": {
     "snippet": {
       "publishedAt": "2024-01-28T15:50:18Z",
@@ -2587,6 +2575,18 @@
       "activeLiveChatId": "Cg0KC1FsY1FhSlZWUnE0KicKGFVDa3dCUjllNXJDSTJnbW1sUXktYnpmURILUWxjUWFKVlZScTQ"
     }
   },
+  "R7NdJ7Qshyk": {
+    "snippet": {
+      "publishedAt": "2024-05-03T14:31:48Z",
+      "channelId": "UCUr8O6Z8JyAg83KJbc_u_bQ",
+      "title": "MIYU MODPACK 1.0 RELEASED! NEW MINECRAFT SERVER! | CHECK OUT MY NEW COVER !cover | !discord !tip \u2026"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-03T14:31:57Z",
+      "scheduledStartTime": "2024-05-03T14:31:58Z",
+      "activeLiveChatId": "Cg0KC1I3TmRKN1FzaHlrKicKGFVDVXI4TzZaOEp5QWc4M0tKYmNfdV9iURILUjdOZEo3UXNoeWs"
+    }
+  },
   "RBco84RfqnM": {
     "snippet": {
       "publishedAt": "2024-04-29T16:28:07Z",
@@ -4586,6 +4586,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-03T16:00:00Z",
       "activeLiveChatId": "Cg0KC21mc09IRDdQRTlBKicKGFVDbGNNVDlWOWl1N3hwaGtIVkhnbEhUZxILbWZzT0hEN1BFOUE"
+    }
+  },
+  "miyuyus": {
+    "snippet": {
+      "channelId": "miyuyus",
+      "title": "MIYU MODPACK 1.0 RELEASED! NEW MINECRAFT SERVER! | CHECK OUT MY NEW COVER !cover | !discord !tip !throne",
+      "channelTitle": "miyuyus"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-03T14:31:50Z",
+      "twitch": true
     }
   },
   "n5D5GvXzXmY": {
