@@ -858,7 +858,7 @@
       "title": "\u3010Umineko\u3011the sea cats are getting louder!!!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-03T17:30:00Z",
+      "scheduledStartTime": "2024-05-03T18:00:00Z",
       "activeLiveChatId": "Cg0KCzhqNDJ3M1hvd0lVKicKGFVDc3d2ZDZfWVdtZDZyaVJrLThvVC1zQRILOGo0MnczWG93SVU"
     }
   },
@@ -5158,17 +5158,6 @@
       "activeLiveChatId": "Cg0KC3NiVFM4NHNSN1ZFKicKGFVDWmZRUnV3U0x0eTc0UUFqNTVCYUtsQRILc2JUUzg0c1I3VkU"
     }
   },
-  "senniursa": {
-    "snippet": {
-      "channelId": "senniursa",
-      "title": "SPREADING DEMEOWCRACY ONCE AGAIN w @basetradetv @eviltoaster + co! | !angelbear !pppush[EN/\u4e2d/\u65e5]",
-      "channelTitle": "Senniursa"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-02T23:32:24Z",
-      "twitch": true
-    }
-  },
   "skTCKgM7biI": {
     "snippet": {
       "publishedAt": "2024-02-26T04:33:52Z",
@@ -5232,6 +5221,7 @@
       "title": "Productivity Stream! - Recording a cover"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-03T03:32:15Z",
       "scheduledStartTime": "2024-05-03T04:00:00Z",
       "activeLiveChatId": "Cg0KC3RLMHVQd0xKUGhZKicKGFVDdVROSFlfYjdFdnFoUk83Q09ib3hzURILdEswdVB3TEpQaFk"
     }
