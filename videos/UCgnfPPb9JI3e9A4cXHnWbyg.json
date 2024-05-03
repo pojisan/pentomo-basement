@@ -2707,8 +2707,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-03T03:13:12Z",
-      "scheduledStartTime": "2024-05-03T03:10:00Z",
-      "activeLiveChatId": "Cg0KC0djMGhPRE8yaXlVKicKGFVDZ25mUFBiOUpJM2U5QTRjWEhuV2J5ZxILR2MwaE9ETzJpeVU"
+      "actualEndTime": "2024-05-03T04:14:49Z",
+      "scheduledStartTime": "2024-05-03T03:10:00Z"
     }
   },
   "zKWksk3wBqM": {
@@ -2718,9 +2718,10 @@
       "title": "\u300cCover\u300d- Kyoufuu All Back (\u5f37\u98a8\u30aa\u30fc\u30eb\u30d0\u30c3\u30af) by Yukopi #\u6b4c\u3063\u3066\u307f\u305f #vocaloid  #cover"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-03T04:15:09Z",
+      "actualEndTime": "2024-05-03T04:18:20Z",
       "scheduledStartTime": "2024-05-03T04:15:00Z",
-      "activeLiveChatId": "Cg0KC3pLV2tzazN3QnFNKicKGFVDZ25mUFBiOUpJM2U5QTRjWEhuV2J5ZxILektXa3NrM3dCcU0",
-      "premiere": true
+      "activeLiveChatId": "Cg0KC3pLV2tzazN3QnFNKicKGFVDZ25mUFBiOUpJM2U5QTRjWEhuV2J5ZxILektXa3NrM3dCcU0"
     }
   },
   "965DQyMdWE8": {
