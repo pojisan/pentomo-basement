@@ -390,5 +390,17 @@
       "actualEndTime": "2023-03-01T23:35:57Z",
       "scheduledStartTime": "2023-03-01T22:30:00Z"
     }
+  },
+  "CFP7B9CBt7s": {
+    "snippet": {
+      "publishedAt": "2024-05-03T10:17:01Z",
+      "channelId": "UCp4G83RMBDN0EgZFSUDK7zw",
+      "title": "- -- -- - --"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-04T03:20:00Z",
+      "activeLiveChatId": "Cg0KC0NGUDdCOUNCdDdzKicKGFVDcDRHODNSTUJETjBFZ1pGU1VESzd6dxILQ0ZQN0I5Q0J0N3M",
+      "premiere": true
+    }
   }
 }
