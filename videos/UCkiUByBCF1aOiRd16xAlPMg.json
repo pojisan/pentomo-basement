@@ -3252,6 +3252,7 @@
       "title": "Big V-Dere Announcement!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-03T14:00:26Z",
       "scheduledStartTime": "2024-05-03T14:00:00Z",
       "activeLiveChatId": "Cg0KCzVWX3VpUTdJZDNRKicKGFVDa2lVQnlCQ0YxYU9pUmQxNnhBbFBNZxILNVZfdWlRN0lkM1E",
       "premiere": true
@@ -3279,6 +3280,7 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-03T12:16:01Z",
+      "actualEndTime": "2024-05-03T13:58:48Z",
       "scheduledStartTime": "2024-05-03T12:00:00Z",
       "activeLiveChatId": "Cg0KC2RSTlotWDJYc09BKicKGFVDa2lVQnlCQ0YxYU9pUmQxNnhBbFBNZxILZFJOWi1YMlhzT0E"
     }

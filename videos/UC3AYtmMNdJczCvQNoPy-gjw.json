@@ -3623,6 +3623,7 @@
       "title": "\u3010 V-DERE \u3011BIG ANNOUNCEMENT \ud83d\udc93"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-03T14:00:06Z",
       "scheduledStartTime": "2024-05-03T14:00:00Z",
       "activeLiveChatId": "Cg0KCzE0MDAwQktjd3lBKicKGFVDM0FZdG1NTmRKY3pDdlFOb1B5LWdqdxILMTQwMDBCS2N3eUE",
       "premiere": true
@@ -3636,6 +3637,7 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-03T12:07:12Z",
+      "actualEndTime": "2024-05-03T13:58:22Z",
       "scheduledStartTime": "2024-05-03T12:00:00Z",
       "activeLiveChatId": "Cg0KC2ljS3Z4d0xXOFk4KicKGFVDM0FZdG1NTmRKY3pDdlFOb1B5LWdqdxILaWNLdnh3TFc4WTg"
     }
