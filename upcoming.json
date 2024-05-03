@@ -261,6 +261,18 @@
       "activeLiveChatId": "Cg0KCzEydzBZOV9TZ0dZKicKGFVDel84enRROXJjdV9VcFVwMGh2N2JZdxILMTJ3MFk5X1NnR1k"
     }
   },
+  "14000BKcwyA": {
+    "snippet": {
+      "publishedAt": "2024-05-03T04:01:13Z",
+      "channelId": "UC3AYtmMNdJczCvQNoPy-gjw",
+      "title": "\u3010 V-DERE \u3011BIG ANNOUNCEMENT \ud83d\udc93"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-03T14:00:00Z",
+      "activeLiveChatId": "Cg0KCzE0MDAwQktjd3lBKicKGFVDM0FZdG1NTmRKY3pDdlFOb1B5LWdqdxILMTQwMDBCS2N3eUE",
+      "premiere": true
+    }
+  },
   "197OEpjj8RI": {
     "snippet": {
       "publishedAt": "2022-05-28T05:48:44Z",
@@ -783,18 +795,6 @@
       "activeLiveChatId": "Cg0KCzdncWpSRDV5MnFBKicKGFVDWklGcGgxYll5R3htRmtrTk5MQUtkQRILN2dxalJENXkycUE"
     }
   },
-  "7r2IdbrTG0s": {
-    "snippet": {
-      "publishedAt": "2024-05-02T19:26:02Z",
-      "channelId": "UC9NNMwafy9quvNWafFukNDw",
-      "title": "\ud83d\udd34ATTEMPTING DARK SOULS 2\ud83d\udc80"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-02T22:14:45Z",
-      "scheduledStartTime": "2024-05-02T22:00:00Z",
-      "activeLiveChatId": "Cg0KCzdyMklkYnJURzBzKicKGFVDOU5OTXdhZnk5cXV2TldhZkZ1a05EdxILN3IySWRiclRHMHM"
-    }
-  },
   "7xOFyvXSbLY": {
     "snippet": {
       "publishedAt": "2024-04-30T09:25:08Z",
@@ -1066,6 +1066,7 @@
       "title": "PERSONA 3 RELOAD PART 9 SPOILERS"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-03T04:21:52Z",
       "scheduledStartTime": "2024-05-03T04:00:00Z",
       "activeLiveChatId": "Cg0KC0IxcXhDa3lQX1hvKicKGFVDRmdYV1pPVVpBMm9ZSE5yNnFEbXNUURILQjFxeENreVBfWG8"
     }
@@ -3422,18 +3423,6 @@
       "activeLiveChatId": "Cg0KC19MVHlidWlZRk1nKicKGFVDOHlYUkJfaktEZWFwd1FhazJpMzBFQRILX0xUeWJ1aVlGTWc"
     }
   },
-  "_YdCOd-I6pE": {
-    "snippet": {
-      "publishedAt": "2024-05-03T02:05:39Z",
-      "channelId": "UC2gPbOjo_NM2QeroArW8Yeg",
-      "title": "W-women... \u3010Bunny Garden\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-03T02:15:57Z",
-      "scheduledStartTime": "2024-05-03T02:15:00Z",
-      "activeLiveChatId": "Cg0KC19ZZENPZC1JNnBFKicKGFVDMmdQYk9qb19OTTJRZXJvQXJXOFllZxILX1lkQ09kLUk2cEU"
-    }
-  },
   "_mQgG4sFC0Q": {
     "snippet": {
       "publishedAt": "2024-04-28T07:00:50Z",
@@ -4758,18 +4747,6 @@
       "activeLiveChatId": "Cg0KC3E2WWsxcVVxMEFNKicKGFVDSzZvQ01pYjYyZVlBSVBybHJZUlZydxILcTZZazFxVXEwQU0"
     }
   },
-  "qAH1l8QThBs": {
-    "snippet": {
-      "publishedAt": "2024-05-02T21:57:52Z",
-      "channelId": "UC9NNMwafy9quvNWafFukNDw",
-      "title": "\ud83d\udd34ATTEMPTING DARK SOULS 2\ud83d\udc80 #shorts #shortslive #shortsfeed #shortsgaming"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-02T22:18:57Z",
-      "scheduledStartTime": "2024-05-02T22:00:00Z",
-      "activeLiveChatId": "Cg0KC3FBSDFsOFFUaEJzKicKGFVDOU5OTXdhZnk5cXV2TldhZkZ1a05EdxILcUFIMWw4UVRoQnM"
-    }
-  },
   "qCjjYoTHsvw": {
     "snippet": {
       "publishedAt": "2024-04-28T18:37:01Z",
@@ -5013,6 +4990,7 @@
       "title": "\u3010MenoChat\u3011Time to chat with Meno!\u3010Ibuki Meno\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-03T04:23:36Z",
       "scheduledStartTime": "2024-05-03T04:00:00Z",
       "activeLiveChatId": "Cg0KC3NiVFM4NHNSN1ZFKicKGFVDWmZRUnV3U0x0eTc0UUFqNTVCYUtsQRILc2JUUzg0c1I3VkU"
     }
