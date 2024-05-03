@@ -5429,7 +5429,8 @@
     "snippet": {
       "publishedAt": "2024-05-02T18:44:47Z",
       "channelId": "UCw1KNjVqfrJSfcFd6zlcSzA",
-      "title": "\u3010DONOTHON DAY 1\u3011Trying Weird Soda Flavors (w/ hand cam)!!!"
+      "title": "\u3010DONOTHON DAY 1\u3011Trying Weird Soda Flavors (w/ hand cam)!!!",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-05T22:00:00Z",
@@ -5448,6 +5449,17 @@
       "publishedAt": "2024-05-03T11:32:34Z",
       "channelId": "UCw1KNjVqfrJSfcFd6zlcSzA",
       "title": "Chilling w/ @bazeellevtuber  (Twitch VOD)"
+    }
+  },
+  "RN25YYKsMVQ": {
+    "snippet": {
+      "publishedAt": "2024-05-03T12:55:40Z",
+      "channelId": "UCw1KNjVqfrJSfcFd6zlcSzA",
+      "title": "\u3010DONOTHON DAY 1\u3011Trying Weird Soda Flavors (w/ hand cam) + YouTube Re-Monetization!!!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-05T22:00:00Z",
+      "activeLiveChatId": "Cg0KC1JOMjVZWUtzTVZRKicKGFVDdzFLTmpWcWZySlNmY0ZkNnpsY1N6QRILUk4yNVlZS3NNVlE"
     }
   }
 }
