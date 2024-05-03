@@ -2321,5 +2321,16 @@
       "actualEndTime": "2024-05-02T16:02:52Z",
       "scheduledStartTime": "2024-05-02T13:45:00Z"
     }
+  },
+  "WXefp_sYzKU": {
+    "snippet": {
+      "publishedAt": "2024-05-03T12:24:49Z",
+      "channelId": "UCsQ0NqSNa0GLdEPei2ccfMw",
+      "title": "[LOL] Late night League"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-03T14:45:00Z",
+      "activeLiveChatId": "Cg0KC1dYZWZwX3NZektVKicKGFVDc1EwTnFTTmEwR0xkRVBlaTJjY2ZNdxILV1hlZnBfc1l6S1U"
+    }
   }
 }
