@@ -897,7 +897,7 @@
       "title": "\u3010Singing Stream\u30fb\u6b4c\u67a0\u3011\u30a2\u30cb\u30bd\u30f3\u796d\u308a\u30fbALL ANIME SONGS!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-03T03:00:00Z",
+      "scheduledStartTime": "2024-05-06T03:00:00Z",
       "activeLiveChatId": "Cg0KC2ZDbzV0THB1TkJ3KicKGFVDSFhteVRaM1VGYmh6cGZWZ1ZscmRndxILZkNvNXRMcHVOQnc"
     }
   },
@@ -911,6 +911,17 @@
       "actualStartTime": "2024-05-01T04:51:19Z",
       "actualEndTime": "2024-05-01T08:15:19Z",
       "scheduledStartTime": "2024-05-01T05:00:00Z"
+    }
+  },
+  "FKaae3TNANg": {
+    "snippet": {
+      "publishedAt": "2024-05-03T02:15:52Z",
+      "channelId": "UCHXmyTZ3UFbhzpfVgVlrdgw",
+      "title": "\u3010GAME STREAM\u30fb\u30b2\u30fc\u30e0\u914d\u4fe1\u3011NO GENSHIN NO LIFE\u30fb\u539f\u795e\uff01"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-03T03:00:00Z",
+      "activeLiveChatId": "Cg0KC0ZLYWFlM1ROQU5nKicKGFVDSFhteVRaM1VGYmh6cGZWZ1ZscmRndxILRkthYWUzVE5BTmc"
     }
   }
 }
