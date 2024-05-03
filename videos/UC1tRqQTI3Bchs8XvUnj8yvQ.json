@@ -2985,6 +2985,7 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-03T02:59:55Z",
+      "actualEndTime": "2024-05-03T03:57:00Z",
       "scheduledStartTime": "2024-05-03T03:00:00Z",
       "activeLiveChatId": "Cg0KCzhRNmkxTU54VjNZKicKGFVDMXRScVFUSTNCY2hzOFh2VW5qOHl2URILOFE2aTFNTnhWM1k"
     }
@@ -3013,6 +3014,18 @@
       "publishedAt": "2024-05-02T00:00:19Z",
       "channelId": "UC1tRqQTI3Bchs8XvUnj8yvQ",
       "title": "VTuber Finds VR RAT Scrounging For Pasta #shorts #vtuber #halflifealyx"
+    }
+  },
+  "dsWNjpb2uEA": {
+    "snippet": {
+      "publishedAt": "2024-05-03T03:55:43Z",
+      "channelId": "UC1tRqQTI3Bchs8XvUnj8yvQ",
+      "title": "I have Dark Souls brainrot pls send help\u3010 DARK SOULS REMASTERED || PART 2 \u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-03T03:57:30Z",
+      "scheduledStartTime": "2024-05-03T04:00:00Z",
+      "activeLiveChatId": "Cg0KC2RzV05qcGIydUVBKicKGFVDMXRScVFUSTNCY2hzOFh2VW5qOHl2URILZHNXTmpwYjJ1RUE"
     }
   }
 }
