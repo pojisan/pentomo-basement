@@ -67,9 +67,10 @@
       "title": "???"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-03T23:45:06Z",
+      "actualEndTime": "2024-05-03T23:51:07Z",
       "scheduledStartTime": "2024-05-03T23:45:00Z",
-      "activeLiveChatId": "Cg0KC2pDUjBvWEQ5bkw0KicKGFVDNFI2ZGRoQkpwMmJqUUhWTnhnTlFTQRILakNSMG9YRDluTDQ",
-      "premiere": true
+      "activeLiveChatId": "Cg0KC2pDUjBvWEQ5bkw0KicKGFVDNFI2ZGRoQkpwMmJqUUhWTnhnTlFTQRILakNSMG9YRDluTDQ"
     }
   }
 }
