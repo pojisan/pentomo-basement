@@ -2155,6 +2155,16 @@
       "activeLiveChatId": "Cg0KC01DX1Ridnd0QS1BKicKGFVDSHhVdkFJWEhmRHpwVFcwMnY3UWFyZxILTUNfVGJ2d3RBLUE"
     }
   },
+  "MNg7q9Vk1ZQ": {
+    "snippet": {
+      "publishedAt": "2024-05-03T14:10:11Z",
+      "channelId": "UCmbs8T6MWqUHP1tIQvSgKrg",
+      "title": "\u3010Unarchived Karaoke\u3011Sad Hours #shorts"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-04T01:00:00Z"
+    }
+  },
   "MNmY22MPWd8": {
     "snippet": {
       "publishedAt": "2023-11-09T17:44:45Z",
@@ -3189,18 +3199,6 @@
       "activeLiveChatId": "Cg0KC1g1OEZ2RldmYWUwKicKGFVDdWFEaWRHazRITkxPblFFOXd6TU1lURILWDU4RnZGV2ZhZTA"
     }
   },
-  "X6iqGSQYaUw": {
-    "snippet": {
-      "publishedAt": "2024-04-30T10:06:22Z",
-      "channelId": "UC0JFt5Jjl5a__zOaZLqk7Pg",
-      "title": "\u3010Vertical Zatsu\u3011 Come eat lunch with me!!"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-03T10:59:31Z",
-      "scheduledStartTime": "2024-05-03T11:00:00Z",
-      "activeLiveChatId": "Cg0KC1g2aXFHU1FZYVV3KicKGFVDMEpGdDVKamw1YV9fek9hWkxxazdQZxILWDZpcUdTUVlhVXc"
-    }
-  },
   "X8McpZ-QAkY": {
     "snippet": {
       "publishedAt": "2024-04-30T07:29:16Z",
@@ -3274,6 +3272,7 @@
       "title": "\u3010\u6700\u6050 -\u9752\u9b3c-\u3011\u53eb\u3093\u3060\u3089\u5373\u7d42\u4e86\u203c\u6700\u65b0\u4f5c3D\u9752\u9b3c\u2049\u6700\u6050\u30db\u30e9\u30b2\u30fc\u2026\u2026\u3010\u3067\u3059\u308f\uff5e\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-03T14:03:57Z",
       "scheduledStartTime": "2024-05-03T14:00:00Z",
       "activeLiveChatId": "Cg0KC1hkWTFRVE5LbE1FKicKGFVDZ0lmTHBRdmVsbG9EaThJMFljYndwZxILWGRZMVFUTktsTUU"
     }
@@ -5006,6 +5005,17 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC3JuU2c3MlYzaXQ0KicKGFVDcFlmNkM5UXNQX0JSZjk3dkx1WGxJQRILcm5TZzcyVjNpdDQ"
+    }
+  },
+  "rurumi": {
+    "snippet": {
+      "channelId": "rurumi",
+      "title": "CLEANING UP UR *SMELLY* MURDER SCENE !!!!",
+      "channelTitle": "Rurumi"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-03T14:06:15Z",
+      "twitch": true
     }
   },
   "rvWwaulJ6RA": {
