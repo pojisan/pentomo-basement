@@ -1,6 +1,5 @@
 {
   "corpo": {
-    "Aegis-Link": null,
     "AkioAIR": {
       "REfract": {
         "Nonoah": {
@@ -755,7 +754,6 @@
         }
       }
     },
-    "StellarVersePro": null,
     "Tsunderia": {
       "Gen 0 (Tsun)": {
         "Saya": {
@@ -880,17 +878,19 @@
       "V-Dere Official": {
         "yt": "UCLEXfayxeCKe0FXObRjyQhQ"
       },
-      "Airi": {
-        "yt": "UC3AYtmMNdJczCvQNoPy-gjw"
-      },
-      "Mozzu": {
-        "yt": "UCkiUByBCF1aOiRd16xAlPMg"
-      },
-      "Spica": {
-        "yt": "UCbrbFKFhyHD4bMJbEcXZz1g"
-      },
-      "Elia": {
-        "yt": "UCO4zMaYBEzdYISfeoO6ip_Q"
+      "1st gen (v-dere)": {
+        "Airi": {
+          "yt": "UC3AYtmMNdJczCvQNoPy-gjw"
+        },
+        "Mozzu": {
+          "yt": "UCkiUByBCF1aOiRd16xAlPMg"
+        },
+        "Spica": {
+          "yt": "UCbrbFKFhyHD4bMJbEcXZz1g"
+        },
+        "Elia": {
+          "yt": "UCO4zMaYBEzdYISfeoO6ip_Q"
+        }
       }
     },
     "V4Mirai": {
