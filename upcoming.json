@@ -389,6 +389,7 @@
       "title": "\u3010RE5 Part 2\u3011DO WE BEAT THE GAME TODAY!? w/Thorlar!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-03T06:31:04Z",
       "scheduledStartTime": "2024-05-03T06:30:00Z",
       "activeLiveChatId": "Cg0KCzI1eklYdEM0VFdBKicKGFVDWVhfaUdyaEJuRnQwZHlYd1NpN1U0URILMjV6SVh0QzRUV0E"
     }
@@ -423,6 +424,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-04T20:00:00Z",
       "activeLiveChatId": "Cg0KCzJPM1BWYnFSZlNZKicKGFVDb1duNnFrZHhDU0h2SkVsbWd2enIxZxILMk8zUFZicVJmU1k"
+    }
+  },
+  "2UH9F8oYR3g": {
+    "snippet": {
+      "publishedAt": "2024-05-03T06:26:11Z",
+      "channelId": "UCZfQRuwSLty74QAj55BaKlA",
+      "title": "\u3010Ibuki-Corp\u3011Meno logo design\u3010Ibuki Meno\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-04T04:00:00Z",
+      "activeLiveChatId": "Cg0KCzJVSDlGOG9ZUjNnKicKGFVDWmZRUnV3U0x0eTc0UUFqNTVCYUtsQRILMlVIOUY4b1lSM2c"
     }
   },
   "2W9uhZ-beTM": {
@@ -1444,18 +1456,6 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC0ZIdkI2QkJIYlFjKicKGFVDMk5lNmREY0Z4bk0yaENCTGlpM0lVZxILRkh2QjZCQkhiUWM"
-    }
-  },
-  "FKaae3TNANg": {
-    "snippet": {
-      "publishedAt": "2024-05-03T02:15:52Z",
-      "channelId": "UCHXmyTZ3UFbhzpfVgVlrdgw",
-      "title": "\u3010GAME STREAM\u30fb\u30b2\u30fc\u30e0\u914d\u4fe1\u3011NO GENSHIN NO LIFE\u30fb\u539f\u795e\uff01"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-03T02:54:27Z",
-      "scheduledStartTime": "2024-05-03T03:00:00Z",
-      "activeLiveChatId": "Cg0KC0ZLYWFlM1ROQU5nKicKGFVDSFhteVRaM1VGYmh6cGZWZ1ZscmRndxILRkthYWUzVE5BTmc"
     }
   },
   "FMLm-Irk6kw": {
@@ -4968,16 +4968,15 @@
       "activeLiveChatId": "Cg0KC3NWY29UVFNvZ2dvKicKGFVDcW1TWWtYTHdzTDB6RWFyNUdvb1lrZxILc1Zjb1RUU29nZ28"
     }
   },
-  "sbTS84sR7VE": {
+  "sayu": {
     "snippet": {
-      "publishedAt": "2024-05-01T04:02:09Z",
-      "channelId": "UCZfQRuwSLty74QAj55BaKlA",
-      "title": "\u3010MenoChat\u3011Time to chat with Meno!\u3010Ibuki Meno\u3011"
+      "channelId": "sayu",
+      "title": "RE5 DAY 2 w/Thorlar!\u2503!website !merch !contest",
+      "channelTitle": "Sayu"
     },
     "liveStreamingDetails": {
-      "actualStartTime": "2024-05-03T04:23:36Z",
-      "scheduledStartTime": "2024-05-03T04:00:00Z",
-      "activeLiveChatId": "Cg0KC3NiVFM4NHNSN1ZFKicKGFVDWmZRUnV3U0x0eTc0UUFqNTVCYUtsQRILc2JUUzg0c1I3VkU"
+      "actualStartTime": "2024-05-03T06:30:33Z",
+      "twitch": true
     }
   },
   "skTCKgM7biI": {
@@ -5276,18 +5275,6 @@
       "activeLiveChatId": "Cg0KC3Z3TzVkYjI2TFNZKicKGFVDM0ZXU2RoX0t0RUxhZWU4dDQwMEpiQRILdndPNWRiMjZMU1k"
     }
   },
-  "wCIFykR7ors": {
-    "snippet": {
-      "publishedAt": "2024-05-03T02:42:00Z",
-      "channelId": "UCKabX-FnaBztcxmgex2-fYA",
-      "title": "\u3010The Quarry\u3011 Pop pop, Peanut Butter Pops!~"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-03T03:02:44Z",
-      "scheduledStartTime": "2024-05-03T03:00:31Z",
-      "activeLiveChatId": "Cg0KC3dDSUZ5a1I3b3JzKicKGFVDS2FiWC1GbmFCenRjeG1nZXgyLWZZQRILd0NJRnlrUjdvcnM"
-    }
-  },
   "wcrnlaLkeGM": {
     "snippet": {
       "publishedAt": "2024-04-30T04:27:07Z",
@@ -5341,18 +5328,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-05T04:15:00Z",
       "activeLiveChatId": "Cg0KC3gzWk5uNlF0ZWNrKicKGFVDVi05ZGd0VlhIbXF2elk5cWR2b0dZQRILeDNaTm42UXRlY2s"
-    }
-  },
-  "xLPpx2EXG5Q": {
-    "snippet": {
-      "publishedAt": "2024-05-03T01:47:29Z",
-      "channelId": "UCeGendL8CO5RkffB6IFwHow",
-      "title": "\u3010\u304a\u7d75\u63cf\u304d\u3011 \u65b0\u4f5c\u59cb\u3081\u307e\u3059\u304b\uff01\u4f5c\u696d\u3057\u306a\u304c\u3089\u96d1\u8ac7 \u3010\u306b\u3058\u3055\u3093\u3058 | \u30bb\u30d5\u30a3\u30ca\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-03T03:00:10Z",
-      "scheduledStartTime": "2024-05-03T03:00:00Z",
-      "activeLiveChatId": "Cg0KC3hMUHB4MkVYRzVRKicKGFVDZUdlbmRMOENPNVJrZmZCNklGd0hvdxILeExQcHgyRVhHNVE"
     }
   },
   "x_Bqpmm562c": {

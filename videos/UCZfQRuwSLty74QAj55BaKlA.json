@@ -8147,8 +8147,19 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-03T04:23:36Z",
-      "scheduledStartTime": "2024-05-03T04:00:00Z",
-      "activeLiveChatId": "Cg0KC3NiVFM4NHNSN1ZFKicKGFVDWmZRUnV3U0x0eTc0UUFqNTVCYUtsQRILc2JUUzg0c1I3VkU"
+      "actualEndTime": "2024-05-03T06:22:34Z",
+      "scheduledStartTime": "2024-05-03T04:00:00Z"
+    }
+  },
+  "2UH9F8oYR3g": {
+    "snippet": {
+      "publishedAt": "2024-05-03T06:26:11Z",
+      "channelId": "UCZfQRuwSLty74QAj55BaKlA",
+      "title": "\u3010Ibuki-Corp\u3011Meno logo design\u3010Ibuki Meno\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-04T04:00:00Z",
+      "activeLiveChatId": "Cg0KCzJVSDlGOG9ZUjNnKicKGFVDWmZRUnV3U0x0eTc0UUFqNTVCYUtsQRILMlVIOUY4b1lSM2c"
     }
   }
 }
