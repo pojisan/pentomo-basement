@@ -8504,11 +8504,23 @@
     "snippet": {
       "publishedAt": "2024-05-03T05:31:37Z",
       "channelId": "UCu-J8uIXuLZh16gG-cT1naw",
-      "title": "\u3010iLLANG\u3011 CUTE ANIME AMONGUS [NIJI EN Collab]"
+      "title": "\u3010iLLANG\u3011 CUTE ANIME AMONGUS [NIJI EN Collab]",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-03T23:00:00Z",
       "activeLiveChatId": "Cg0KC0xPdHhKa3Y3bkdrKicKGFVDdS1KOHVJWHVMWmgxNmdHLWNUMW5hdxILTE90eEprdjduR2s"
+    }
+  },
+  "n6odQV6N77s": {
+    "snippet": {
+      "publishedAt": "2024-05-03T22:41:49Z",
+      "channelId": "UCu-J8uIXuLZh16gG-cT1naw",
+      "title": "\u3010GOOSE GOOSE DUCK\u3011 I'M KRILLING EVERYONE"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-03T23:00:00Z",
+      "activeLiveChatId": "Cg0KC242b2RRVjZONzdzKicKGFVDdS1KOHVJWHVMWmgxNmdHLWNUMW5hdxILbjZvZFFWNk43N3M"
     }
   }
 }
