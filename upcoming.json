@@ -1650,7 +1650,9 @@
       "title": "\u3010\u30de\u30ea\u30ab\u676f\u3011\u5927\u4f1a\u7df4\u7fd2\u6b66\u8005\u4fee\u884c\u6700\u7d42\u65e5\uff5e\u52a9\u3051\u3066\uff5e\u3010\u77f3\u795e\u306e\u305e\u307f\uff0f\u306b\u3058\u3055\u3093\u3058\u6240\u5c5e\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-04T07:00:00Z"
+      "actualStartTime": "2024-05-04T06:49:33Z",
+      "scheduledStartTime": "2024-05-04T07:00:00Z",
+      "activeLiveChatId": "Cg0KC0ptanVUNG16UGhNKicKGFVDdExmQV9xVXFDSnRqWEpNMlpSX2tlZxILSm1qdVQ0bXpQaE0"
     }
   },
   "K9FZWRTC--Q": {
@@ -4514,18 +4516,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-05T05:00:00Z",
       "activeLiveChatId": "Cg0KC3ZOMEhCZDc0TXdjKicKGFVDeF9BNmZuczlxS2p5YnUtNmswdXIxZxILdk4wSEJkNzRNd2M"
-    }
-  },
-  "v_Ehu4RVwxU": {
-    "snippet": {
-      "publishedAt": "2024-05-03T12:06:49Z",
-      "channelId": "UCgA2jKRkqpY_8eysPUs8sjw",
-      "title": "\ud83d\udd34 LIVE / penguin observation cam"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-04T03:06:28Z",
-      "scheduledStartTime": "2024-05-04T03:00:00Z",
-      "activeLiveChatId": "Cg0KC3ZfRWh1NFJWd3hVKicKGFVDZ0EyaktSa3FwWV84ZXlzUFVzOHNqdxILdl9FaHU0UlZ3eFU"
     }
   },
   "vbhfY2vFttc": {
