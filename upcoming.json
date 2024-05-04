@@ -574,7 +574,7 @@
     "snippet": {
       "publishedAt": "2024-04-23T03:21:30Z",
       "channelId": "UCcHHkJ98eSfa5aj0mdTwwLQ",
-      "title": "\u3010VTUBER KARAOKE RELAY\u3011Pros-in-Cons karaoke time!!\u3010Maid Mint Fantome\u3011"
+      "title": "\u3010PROS-IN-CONS VTUBER KARAOKE RELAY\u3011metal gear themed singing #PiCKaraokeRelay\u3010Maid Mint Fantome\u3011"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-04T22:00:00Z",
@@ -1343,18 +1343,6 @@
       "activeLiveChatId": "Cg0KC0ZNTG0tSXJrNmt3KicKGFVDUU1XTWIwWWVyTUJLZk5KWGlCNmtadxILRk1MbS1Jcms2a3c"
     }
   },
-  "FVLTtsFiNBE": {
-    "snippet": {
-      "publishedAt": "2024-04-20T18:27:39Z",
-      "channelId": "UCbZZlqASU668-wyW1K2kYBw",
-      "title": "\u3010KARAOKE RELAY\u3011Pros-in-Cons VTuber Karaoke Relay \ud83d\ude08\ud83d\udca4\u3010REM Kanashibari | V4Mirai | ENVtuber\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-04T20:20:11Z",
-      "scheduledStartTime": "2024-05-04T20:20:00Z",
-      "activeLiveChatId": "Cg0KC0ZWTFR0c0ZpTkJFKicKGFVDYlpabHFBU1U2Njgtd3lXMUsya1lCdxILRlZMVHRzRmlOQkU"
-    }
-  },
   "FciAQq47yDI": {
     "snippet": {
       "publishedAt": "2024-05-03T06:46:34Z",
@@ -1413,9 +1401,10 @@
     "snippet": {
       "publishedAt": "2024-04-28T21:34:15Z",
       "channelId": "UCI4PLfuiL9jFOpsEIA20Kjg",
-      "title": "I LOVE THIS GAME SO MUCH MMMM BLOOD!!!  [Vampyr] (Chat Funded Stream) Part 2"
+      "title": "[Silent Stream] I LOVE THIS GAME SO MUCH MMMM BLOOD!!!  [Vampyr] (Chat Funded Stream) Part 2"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-04T20:36:22Z",
       "scheduledStartTime": "2024-05-04T21:00:00Z",
       "activeLiveChatId": "Cg0KC0czS1NYcGV0dmd3KicKGFVDSTRQTGZ1aUw5akZPcHNFSUEyMEtqZxILRzNLU1hwZXR2Z3c"
     }
@@ -4097,6 +4086,7 @@
       "title": "Relaying some Karaoke (gone wrong, ears damaged) [Pros-in-Cons Karaoke Relay]"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-04T20:38:08Z",
       "scheduledStartTime": "2024-05-04T20:40:00Z",
       "activeLiveChatId": "Cg0KC25YLTlPb2hkQ0wwKicKGFVDcFpJYnpvRUNfM3JaZ2xFcnBRa2JEZxILblgtOU9vaGRDTDA"
     }
@@ -4515,6 +4505,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-04-27T06:00:00Z",
       "activeLiveChatId": "Cg0KC3NWY29UVFNvZ2dvKicKGFVDcW1TWWtYTHdzTDB6RWFyNUdvb1lrZxILc1Zjb1RUU29nZ28"
+    }
+  },
+  "senniursa": {
+    "snippet": {
+      "channelId": "senniursa",
+      "title": "caturday apex ranked grinding hehe w @ninjaatlas | !angelbear !pppush[EN/\u4e2d/\u65e5]",
+      "channelTitle": "Senniursa"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-04T20:30:59Z",
+      "twitch": true
     }
   },
   "skTCKgM7biI": {
