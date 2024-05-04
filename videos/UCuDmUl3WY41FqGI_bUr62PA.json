@@ -21,8 +21,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-04T00:57:35Z",
-      "scheduledStartTime": "2024-05-04T01:00:00Z",
-      "activeLiveChatId": "Cg0KC2l0aG1MOHFDb2VjKicKGFVDdURtVWwzV1k0MUZxR0lfYlVyNjJQQRILaXRobUw4cUNvZWM"
+      "actualEndTime": "2024-05-04T01:43:03Z",
+      "scheduledStartTime": "2024-05-04T01:00:00Z"
     }
   },
   "djoSaNzqfDs": {
@@ -39,6 +39,7 @@
       "title": "Sorpresa de Lalabell Lullaby"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-04T01:50:07Z",
       "scheduledStartTime": "2024-05-04T01:50:00Z",
       "activeLiveChatId": "Cg0KC0NoNkhLQjFaRnFJKicKGFVDdURtVWwzV1k0MUZxR0lfYlVyNjJQQRILQ2g2SEtCMVpGcUk",
       "premiere": true
