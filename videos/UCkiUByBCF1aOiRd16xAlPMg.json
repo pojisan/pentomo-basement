@@ -3216,8 +3216,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-04-30T17:57:04Z",
       "actualEndTime": "2024-04-30T22:17:40Z",
-      "scheduledStartTime": "2024-04-30T18:00:00Z",
-      "activeLiveChatId": "Cg0KC1hYQ0ctYzdIcjJJKicKGFVDa2lVQnlCQ0YxYU9pUmQxNnhBbFBNZxILWFhDRy1jN0hyMkk"
+      "scheduledStartTime": "2024-04-30T18:00:00Z"
     }
   },
   "Acc7M3ikkiE": {
@@ -3249,13 +3248,12 @@
     "snippet": {
       "publishedAt": "2024-05-01T22:17:24Z",
       "channelId": "UCkiUByBCF1aOiRd16xAlPMg",
-      "title": "Big V-Dere Announcement!"
+      "title": "V-Dere 2nd Generation Talent Auditions! NOW OPEN"
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-03T14:00:26Z",
-      "scheduledStartTime": "2024-05-03T14:00:00Z",
-      "activeLiveChatId": "Cg0KCzVWX3VpUTdJZDNRKicKGFVDa2lVQnlCQ0YxYU9pUmQxNnhBbFBNZxILNVZfdWlRN0lkM1E",
-      "premiere": true
+      "actualEndTime": "2024-05-03T14:03:32Z",
+      "scheduledStartTime": "2024-05-03T14:00:00Z"
     }
   },
   "c5lofwURPxY": {

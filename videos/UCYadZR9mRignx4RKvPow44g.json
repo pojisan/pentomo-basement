@@ -8683,8 +8683,18 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-04T04:00:43Z",
       "actualEndTime": "2024-05-04T09:27:58Z",
-      "scheduledStartTime": "2024-05-04T04:00:00Z",
-      "activeLiveChatId": "Cg0KC1VXbzloNVk0RU04KicKGFVDWWFkWlI5bVJpZ254NFJLdlBvdzQ0ZxILVVdvOWg1WTRFTTg"
+      "scheduledStartTime": "2024-05-04T04:00:00Z"
+    }
+  },
+  "QcV-SBt2LDA": {
+    "snippet": {
+      "publishedAt": "2024-05-04T09:35:59Z",
+      "channelId": "UCYadZR9mRignx4RKvPow44g",
+      "title": "CURSED GAME!? \ud83d\ude31 \u3010 Senpai vs. Kouhai: WHO WILL SURVIVE!? \u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-04T20:00:00Z",
+      "activeLiveChatId": "Cg0KC1FjVi1TQnQyTERBKicKGFVDWWFkWlI5bVJpZ254NFJLdlBvdzQ0ZxILUWNWLVNCdDJMREE"
     }
   }
 }
