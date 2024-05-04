@@ -299,6 +299,7 @@
       "title": "Time for Mischief!\u3010Doronko Wanko\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-04T17:59:48Z",
       "scheduledStartTime": "2024-05-04T18:00:00Z",
       "activeLiveChatId": "Cg0KCzFmZGZZQ1lEbVJNKicKGFVDLTFfLWpVdS1sQUxkR245LU1kQko0URILMWZkZllDWURtUk0"
     }
@@ -1773,18 +1774,6 @@
       "activeLiveChatId": "Cg0KC0t3bVlQNkoyUVRBKicKGFVDZHVib3RTeTRwUE9zaWFXNE1yWW4zURILS3dtWVA2SjJRVEE"
     }
   },
-  "L9rCKI8f30M": {
-    "snippet": {
-      "publishedAt": "2024-05-04T16:54:39Z",
-      "channelId": "UCBJFsaCvgBa1a9BnEaxu97Q",
-      "title": "The SADDEST song in Xenoblade"
-    },
-    "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-04T18:00:00Z",
-      "activeLiveChatId": "Cg0KC0w5ckNLSThmMzBNKicKGFVDQkpGc2FDdmdCYTFhOUJuRWF4dTk3URILTDlyQ0tJOGYzME0",
-      "premiere": true
-    }
-  },
   "LAnHSxZ8lVA": {
     "snippet": {
       "publishedAt": "2024-05-04T12:30:53Z",
@@ -2297,6 +2286,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-08-16T14:45:00Z",
       "activeLiveChatId": "Cg0KC1JYNTZubWRFY1JFKicKGFVDQjFzX0lkTy1yMG5Va1kybVhldGktQRILUlg1Nm5tZEVjUkU"
+    }
+  },
+  "RpKExjP34Wg": {
+    "snippet": {
+      "publishedAt": "2024-05-04T17:51:39Z",
+      "channelId": "UCchGYP5t5Vz48UVxNOifk-Q",
+      "title": "\u3010MEGA MAN X LEGACY COLLECTION\u3011MY LEMONS ARE READY!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-05T04:00:00Z",
+      "activeLiveChatId": "Cg0KC1JwS0V4alAzNFdnKicKGFVDY2hHWVA1dDVWejQ4VVZ4Tk9pZmstURILUnBLRXhqUDM0V2c"
     }
   },
   "RuzSFmBRg6w": {
@@ -3088,18 +3088,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-04T21:00:00Z",
       "activeLiveChatId": "Cg0KC19iZUQwendWdXBZKicKGFVDTjY4TG9NM2toUzRnZEJNaVdKTzhXQRILX2JlRDB6d1Z1cFk"
-    }
-  },
-  "_cSvnJn9TTo": {
-    "snippet": {
-      "publishedAt": "2024-05-04T14:44:36Z",
-      "channelId": "UCY8JIG0STMvWBky6OKWh9NQ",
-      "title": "COME."
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-04T15:04:29Z",
-      "scheduledStartTime": "2024-05-04T15:00:00Z",
-      "activeLiveChatId": "Cg0KC19jU3ZuSm45VFRvKicKGFVDWThKSUcwU1RNdldCa3k2T0tXaDlOURILX2NTdm5KbjlUVG8"
     }
   },
   "_h9aMyVSrws": {
@@ -4080,6 +4068,7 @@
       "title": "Announcing the Writing Competition Winners!!\ud83d\udd8a\ufe0f\ud83e\udd0d\u3010 Tia's Tearoom\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-04T18:00:39Z",
       "scheduledStartTime": "2024-05-04T18:00:00Z",
       "activeLiveChatId": "Cg0KC25NNDJDQWUtWjhBKicKGFVDdnFmNDI2X1hFQ1hnaTJzNnRJamdPdxILbk00MkNBZS1aOEE"
     }
@@ -4456,17 +4445,6 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC3JuU2c3MlYzaXQ0KicKGFVDcFlmNkM5UXNQX0JSZjk3dkx1WGxJQRILcm5TZzcyVjNpdDQ"
-    }
-  },
-  "rurumi": {
-    "snippet": {
-      "channelId": "rurumi",
-      "title": "Please marry me... \u2661",
-      "channelTitle": "Rurumi"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-04T15:04:36Z",
-      "twitch": true
     }
   },
   "rvWwaulJ6RA": {
