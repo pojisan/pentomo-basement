@@ -972,17 +972,6 @@
       "activeLiveChatId": "Cg0KC0NPVGgzb0dlUzdBKicKGFVDQm5tZmpwbWhHeGFvNnY1NGZJSU1VQRILQ09UaDNvR2VTN0E"
     }
   },
-  "CZrgYleQe8I": {
-    "snippet": {
-      "publishedAt": "2024-04-30T12:20:30Z",
-      "channelId": "UCfW0f2J6o-_r3fmeWs3HF_A",
-      "title": "\u3010HANDCAM\u3011 learning how to make paper stars!"
-    },
-    "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-06T01:00:00Z",
-      "activeLiveChatId": "Cg0KC0NacmdZbGVRZThJKicKGFVDZlcwZjJKNm8tX3IzZm1lV3MzSEZfQRILQ1pyZ1lsZVFlOEk"
-    }
-  },
   "Criw5zhE0bI": {
     "snippet": {
       "publishedAt": "2023-08-13T06:13:14Z",
@@ -1507,7 +1496,8 @@
       "title": "\u3010\u6f22\u5b57\u3067GO\uff01\u3011\u3052\u304d\u306f\u3052\uff08\u6fc0\u52b1\uff09\u5927\u6b53\u8fce\uff01\u3075\u305f\u3081\u304c\u306d\u3058\u3083\u306a\u304f\u3066\u305d\u3046\u304c\u3093\u304d\u3087\u3046\u3001\u306d\uff1f\ud83d\udc3e\u3010FUWAMOCO\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-04T10:00:00Z"
+      "scheduledStartTime": "2024-05-04T10:00:00Z",
+      "activeLiveChatId": "Cg0KC0lDUk53ZHhxd1lFKicKGFVDdDlIX1JwUXpoeHpseUJ4RnFyZEhxQRILSUNSTndkeHF3WUU"
     }
   },
   "IHdYP0EaI0s": {
@@ -2623,6 +2613,7 @@
       "title": "\u3010 #\u30de\u30ea\u30ab\u306b\u3058\u3055\u3093\u3058\u676f \u3011\u524d\u65e5\u2026\uff01\u6700\u5f8c\u306e\u8ffd\u3044\u8fbc\u307f\u7de8\u3010\u4e94\u5341\u5d50\u68a8\u82b1/\u306b\u3058\u3055\u3093\u3058\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-04T09:18:35Z",
       "scheduledStartTime": "2024-05-04T09:15:00Z",
       "activeLiveChatId": "Cg0KC1dZWDdVTUZSUEY0KicKGFVDdS1yVjJnUHRKLUNzR3hlNzF6X0JyURILV1lYN1VNRlJQRjQ"
     }
@@ -4399,7 +4390,7 @@
   "tatsuhikohiroki": {
     "snippet": {
       "channelId": "tatsuhikohiroki",
-      "title": "with @himetokki [24hr stream] Hiroki's 2.0 Model Reveal | #OshiLink #Vtuber",
+      "title": "[24hr stream] Hiroki's 2.0 Model Reveal | #OshiLink #Vtuber",
       "channelTitle": "tatsuhikohiroki"
     },
     "liveStreamingDetails": {
