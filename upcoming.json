@@ -1363,18 +1363,6 @@
       "activeLiveChatId": "Cg0KC0Y5MjNlQmsyQTFJKicKGFVDdzFLTmpWcWZySlNmY0ZkNnpsY1N6QRILRjkyM2VCazJBMUk"
     }
   },
-  "F9KJEOwpe2M": {
-    "snippet": {
-      "publishedAt": "2024-04-28T20:03:21Z",
-      "channelId": "UC1uzMZ7x_Hgun5t8J9uFanw",
-      "title": "starting a new save to get ready for DLC | ELDEN RING"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-03T22:54:25Z",
-      "scheduledStartTime": "2024-05-03T23:00:00Z",
-      "activeLiveChatId": "Cg0KC0Y5S0pFT3dwZTJNKicKGFVDMXV6TVo3eF9IZ3VuNXQ4Sjl1RmFudxILRjlLSkVPd3BlMk0"
-    }
-  },
   "FCEarKcad0A": {
     "snippet": {
       "publishedAt": "2024-04-01T09:13:34Z",
@@ -3284,6 +3272,7 @@
       "title": "\u3010Stardew valley\u3011  #6 \u5996\u7cbe\u306e\u8fb2\u5712\u30e9\u30a4\u30d5\ud83c\udf31 \u3010\u306b\u3058\u3055\u3093\u3058 | \u30bb\u30d5\u30a3\u30ca\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-04T02:59:42Z",
       "scheduledStartTime": "2024-05-04T03:00:00Z",
       "activeLiveChatId": "Cg0KC2JHaGt2OXF6QjNnKicKGFVDZUdlbmRMOENPNVJrZmZCNklGd0hvdxILYkdoa3Y5cXpCM2c"
     }
@@ -3364,6 +3353,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-06T02:00:00Z",
       "activeLiveChatId": "Cg0KC2NnMGNzemJTSjU0KicKGFVDb1duNnFrZHhDU0h2SkVsbWd2enIxZxILY2cwY3N6YlNKNTQ"
+    }
+  },
+  "chieriadoette": {
+    "snippet": {
+      "channelId": "chieriadoette",
+      "title": "\u2661\u208a\u02da karaoke! ballad time???\u30fb\u208a\u2727 ||\u2726 \u207a.",
+      "channelTitle": "ChieriAdoette"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-04T03:00:47Z",
+      "twitch": true
     }
   },
   "ckvaVI8QHpE": {
@@ -4103,6 +4103,17 @@
       "twitch": true
     }
   },
+  "meica05": {
+    "snippet": {
+      "channelId": "meica05",
+      "title": "\ud83d\udfe2  \u3010DEBUT IDOL-ES\u3011Nueva aventura / RE-DEBUT",
+      "channelTitle": "Meica05"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-04T02:54:37Z",
+      "twitch": true
+    }
+  },
   "mfoHpYA39oc": {
     "snippet": {
       "publishedAt": "2024-03-10T12:20:05Z",
@@ -4571,6 +4582,7 @@
       "title": "\ud83d\udfe2 \u3010DEBUT IDOL-ES\u3011Nueva aventura / \u65b0\u305f\u306a\u5192\u967a"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-04T02:59:47Z",
       "scheduledStartTime": "2024-05-04T03:00:00Z",
       "activeLiveChatId": "Cg0KC3NPRUVocjg3UFAwKicKGFVDcDRHODNSTUJETjBFZ1pGU1VESzd6dxILc09FRWhyODdQUDA"
     }
