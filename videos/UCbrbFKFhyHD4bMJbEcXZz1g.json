@@ -3531,8 +3531,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-04T12:06:53Z",
-      "scheduledStartTime": "2024-05-04T12:00:00Z",
-      "activeLiveChatId": "Cg0KC1lpNDNWNFNOc3FJKicKGFVDYnJiRktGaHlIRDRiTUpiRWNYWnoxZxILWWk0M1Y0U05zcUk"
+      "actualEndTime": "2024-05-04T15:34:27Z",
+      "scheduledStartTime": "2024-05-04T12:00:00Z"
     }
   },
   "KQbV-cKDmL4": {
@@ -3622,6 +3622,7 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-04T12:07:37Z",
+      "actualEndTime": "2024-05-04T15:36:26Z",
       "scheduledStartTime": "2024-05-04T12:05:00Z",
       "activeLiveChatId": "Cg0KC1FUU3VxWm5yV2hZKicKGFVDYnJiRktGaHlIRDRiTUpiRWNYWnoxZxILUVRTdXFabnJXaFk"
     }
