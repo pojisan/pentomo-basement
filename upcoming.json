@@ -319,18 +319,6 @@
       "activeLiveChatId": "Cg0KCzFmNnVWSUs3VWtvKicKGFVDTXdHSFIwQlRadUxzbWpZX05UNVB3ZxILMWY2dVZJSzdVa28"
     }
   },
-  "1fQJXQGxTQE": {
-    "snippet": {
-      "publishedAt": "2024-04-30T03:49:21Z",
-      "channelId": "UCZl92wMipjYFc1Ulm9Yy65g",
-      "title": "\u3010\u6b4c\u3063\u3066\u307f\u305f\u3011\u6df1\u3044\u68ee (Wagakki Version)  / Do As Infinity \u3010Yuno Hanaki\u3011"
-    },
-    "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-04T00:00:00Z",
-      "activeLiveChatId": "Cg0KCzFmUUpYUUd4VFFFKicKGFVDWmw5MndNaXBqWUZjMVVsbTlZeTY1ZxILMWZRSlhRR3hUUUU",
-      "premiere": true
-    }
-  },
   "1fdfYCYDmRM": {
     "snippet": {
       "publishedAt": "2024-04-29T06:26:54Z",
@@ -651,6 +639,7 @@
       "title": "How to Become a Big Comedian | Extra Dose Interviews\u3010V4Mirai | Abi Kadabura\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-04T00:00:27Z",
       "scheduledStartTime": "2024-05-04T00:00:00Z",
       "activeLiveChatId": "Cg0KCzVHR2g1YTgza3hjKicKGFVDRVNRc1NjN1VoOEViaVhWdG1QYkRfQRILNUdHaDVhODNreGM"
     }
@@ -684,6 +673,7 @@
       "title": "today... we make HISTORY"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-04T00:00:46Z",
       "scheduledStartTime": "2024-05-04T00:00:00Z",
       "activeLiveChatId": "Cg0KCzVZUFMyb0I3cGZrKicKGFVDTV9NYi1aQzNqTWczcDMyak42djRjQRILNVlQUzJvQjdwZms"
     }
@@ -1187,6 +1177,7 @@
       "title": "\u3010Kokone's Boutique ep.11\u3011Dressing up @uguubear  in adorable streetwear!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-03T23:59:31Z",
       "scheduledStartTime": "2024-05-04T00:00:00Z",
       "activeLiveChatId": "Cg0KC0NndkFSMUxBdmlRKicKGFVDQi04bk50aHR1VklabmlxWE55cmhLURILQ2d2QVIxTEF2aVE"
     }
@@ -1265,6 +1256,7 @@
       "title": "YouTube Partner Anniversary Celebration \ud83e\udd73 WE STILL GOING STRONG BABIEE"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-04T00:00:35Z",
       "scheduledStartTime": "2024-05-04T17:00:00Z",
       "activeLiveChatId": "Cg0KC0RQejRLLTBPQ1lrKicKGFVDTV9NYi1aQzNqTWczcDMyak42djRjQRILRFB6NEstME9DWWs"
     }
@@ -2242,18 +2234,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-05T13:30:00Z",
       "activeLiveChatId": "Cg0KC05CQkc2V3g4eHNVKicKGFVDa3dCUjllNXJDSTJnbW1sUXktYnpmURILTkJCRzZXeDh4c1U"
-    }
-  },
-  "NHli4ClMOuA": {
-    "snippet": {
-      "publishedAt": "2024-05-02T16:47:12Z",
-      "channelId": "UC4R6ddhBJp2bjQHVNxgNQSA",
-      "title": "\u3010 DEBUT STREAM \u3011 QUE COMIENCE EL CAOS\uff01\u3000LET THE CHAOS BEGIN\uff01 \u219d"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-03T23:00:37Z",
-      "scheduledStartTime": "2024-05-03T23:00:00Z",
-      "activeLiveChatId": "Cg0KC05IbGk0Q2xNT3VBKicKGFVDNFI2ZGRoQkpwMmJqUUhWTnhnTlFTQRILTkhsaTRDbE1PdUE"
     }
   },
   "NWZt11LYBlI": {
@@ -3660,6 +3640,7 @@
       "title": "RIZZING My Bunny Wife\ud83d\ude33\ud83d\ude33\ud83d\ude33 [Bunny Garden]"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-04T00:00:19Z",
       "scheduledStartTime": "2024-05-04T00:00:00Z",
       "activeLiveChatId": "Cg0KC2UydnRRNFdLVGlJKicKGFVDdTFJTnplZnczUjdNOS0zUUVIWW1NURILZTJ2dFE0V0tUaUk"
     }
@@ -4153,7 +4134,8 @@
       "title": "\u3010ABSOLUTE FEAR -AOONI- | \u6700\u6050 -\u9752\u9b3c-\u3011is the scariest blue demon in the room? \ud83d\udc3e\u3010FUWAMOCO\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-04T01:00:00Z"
+      "scheduledStartTime": "2024-05-04T01:00:00Z",
+      "activeLiveChatId": "Cg0KC2pzdktHOFVWaXd3KicKGFVDdDlIX1JwUXpoeHpseUJ4RnFyZEhxQRILanN2S0c4VVZpd3c"
     }
   },
   "jtCVMDIJy78": {
@@ -4793,6 +4775,7 @@
       "title": "\u3010LEFT 4 DEAD 2 COLLAB\u3011mmmm borgar\u3010Maid Mint Fantome\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-04T00:00:01Z",
       "scheduledStartTime": "2024-05-04T00:00:00Z",
       "activeLiveChatId": "Cg0KC3NFcVZ6YldXTUFZKicKGFVDY0hIa0o5OGVTZmE1YWowbWRUd3dMURILc0VxVnpiV1dNQVk"
     }
@@ -4868,6 +4851,7 @@
       "title": "\u3010FallOut: 76\u3011Time To Kill Everything In Sight"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-03T23:58:44Z",
       "scheduledStartTime": "2024-05-04T00:00:00Z",
       "activeLiveChatId": "Cg0KC3NSeVFJRldZTFhJKicKGFVDbzl3QnowRmtKd2lMZWFnQjh0V1hDZxILc1J5UUlGV1lMWEk"
     }
@@ -5373,6 +5357,7 @@
       "title": "\u3010DEBUT\u3011 doki doki, te encontre!\u3010idolES | Ruby Runeheart\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-04T00:00:20Z",
       "scheduledStartTime": "2024-05-04T00:00:00Z",
       "activeLiveChatId": "Cg0KC3p4Y3RYd2g0UEw4KicKGFVDLVcteWFWSWpxa1hvaDZkWjZfVGNNQRILenhjdFh3aDRQTDg"
     }
