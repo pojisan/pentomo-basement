@@ -1686,6 +1686,7 @@
       "title": "\u3010 Card Shark\u3011DUEL\u3010 Kumanui Miel | globie\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-04T19:00:37Z",
       "scheduledStartTime": "2024-05-04T19:00:00Z",
       "activeLiveChatId": "Cg0KC0pmUHF1aUVJbzlBKicKGFVDR3dMU3lQTGFIcHEwbnVUX0pWU010URILSmZQcXVpRUlvOUE"
     }
@@ -2242,18 +2243,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-04T20:00:00Z",
       "activeLiveChatId": "Cg0KC1FjVi1TQnQyTERBKicKGFVDWWFkWlI5bVJpZ254NFJLdlBvdzQ0ZxILUWNWLVNCdDJMREE"
-    }
-  },
-  "R1QVOGIxqaA": {
-    "snippet": {
-      "publishedAt": "2024-05-04T17:15:14Z",
-      "channelId": "UCk2k1y-d24nFyVCvyxnAaYA",
-      "title": "VTubers try to make YOU laugh | Jackbox Party ft. Idol & V4Mirai"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-04T17:19:59Z",
-      "scheduledStartTime": "2024-05-04T17:15:00Z",
-      "activeLiveChatId": "Cg0KC1IxUVZPR0l4cWFBKicKGFVDazJrMXktZDI0bkZ5VkN2eXhuQWFZQRILUjFRVk9HSXhxYUE"
     }
   },
   "R6mREI9u6ak": {
@@ -2843,18 +2832,6 @@
       "activeLiveChatId": "Cg0KC1g1OEZ2RldmYWUwKicKGFVDdWFEaWRHazRITkxPblFFOXd6TU1lURILWDU4RnZGV2ZhZTA"
     }
   },
-  "X8McpZ-QAkY": {
-    "snippet": {
-      "publishedAt": "2024-04-30T07:29:16Z",
-      "channelId": "UClcMT9V9iu7xphkHVHglHTg",
-      "title": "NO RECIPE TART COMPETITION GO!!"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-04T16:07:44Z",
-      "scheduledStartTime": "2024-05-04T16:00:00Z",
-      "activeLiveChatId": "Cg0KC1g4TWNwWi1RQWtZKicKGFVDbGNNVDlWOWl1N3hwaGtIVkhnbEhUZxILWDhNY3BaLVFBa1k"
-    }
-  },
   "XFSrg1fnG_I": {
     "snippet": {
       "publishedAt": "2024-05-03T12:21:26Z",
@@ -2864,18 +2841,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-30T21:00:00Z",
       "activeLiveChatId": "Cg0KC1hGU3JnMWZuR19JKicKGFVDZWpiaWNvUm5RakNPZEFQQXY1SlB3ZxILWEZTcmcxZm5HX0k"
-    }
-  },
-  "XK3BfyVY-Z0": {
-    "snippet": {
-      "publishedAt": "2024-05-04T11:26:34Z",
-      "channelId": "UChKXd7oqD18qiIYBoRIHTlw",
-      "title": "\u3010\u30e2\u30f3\u30cf\u30f3\uff5cMHW\u3011FIRST TIME IB WITH NEW PC / IB\u3092\u65b0\u3057\u3044\u30cf\u30a4\u30b9\u307aPC\u541b\u3067\u30d7\u30ec\u30a4\uff01\u3010NIJISANJI EN | Meloco Kyoran\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-04T13:05:41Z",
-      "scheduledStartTime": "2024-05-04T13:00:00Z",
-      "activeLiveChatId": "Cg0KC1hLM0JmeVZZLVowKicKGFVDaEtYZDdvcUQxOHFpSVlCb1JJSFRsdxILWEszQmZ5VlktWjA"
     }
   },
   "XKzjU_zQXBc": {
@@ -3304,6 +3269,7 @@
       "title": "Members Celebration - 12 HOUR PARTY"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-04T19:01:04Z",
       "scheduledStartTime": "2024-05-04T19:00:00Z",
       "activeLiveChatId": "Cg0KC2NrdmFWSThRSHBFKicKGFVDM1Q3Tnd5UUJBeWx5V180WE9hOXdFURILY2t2YVZJOFFIcEU"
     }
@@ -3353,7 +3319,7 @@
   "dee_the_sphinx": {
     "snippet": {
       "channelId": "dee_the_sphinx",
-      "title": "Lunch Break!",
+      "title": "\ud83d\udd06Dee's hunting gods\ud83d\udd06[Vtuber]",
       "channelTitle": "Dee_the_Sphinx"
     },
     "liveStreamingDetails": {
@@ -4026,6 +3992,17 @@
       "activeLiveChatId": "Cg0KC21mb0hwWUEzOW9jKicKGFVDYXhpRGVfVHVNTFhrd1JNVkxtNVZ3URILbWZvSHBZQTM5b2M"
     }
   },
+  "miyuyus": {
+    "snippet": {
+      "channelId": "miyuyus",
+      "title": "NEW MINECRAFT SERVER! GETTING DIAMONDS?! | CHECK OUT MY NEW COVER !cover | !discord !tip !throne",
+      "channelTitle": "miyuyus"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-04T18:53:50Z",
+      "twitch": true
+    }
+  },
   "mkx-oSllD9U": {
     "snippet": {
       "publishedAt": "2024-05-03T19:02:59Z",
@@ -4143,6 +4120,7 @@
       "title": "\u3010Pros-in-Cons\u3011VTUBER KARAOKE RELAY!  \ud83d\udd29\ud83e\uddea\u3010Dr.NOVA(e) | V4Mirai | ENVtuber\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-04T18:58:21Z",
       "scheduledStartTime": "2024-05-04T19:00:00Z",
       "activeLiveChatId": "Cg0KC253VzVMSXhGbEhvKicKGFVDMk5lNmREY0Z4bk0yaENCTGlpM0lVZxILbndXNUxJeEZsSG8"
     }
@@ -4326,6 +4304,18 @@
       "activeLiveChatId": "Cg0KC3E2WWsxcVVxMEFNKicKGFVDSzZvQ01pYjYyZVlBSVBybHJZUlZydxILcTZZazFxVXEwQU0"
     }
   },
+  "qOm22GU6lgc": {
+    "snippet": {
+      "publishedAt": "2024-05-04T18:53:48Z",
+      "channelId": "UCUr8O6Z8JyAg83KJbc_u_bQ",
+      "title": "NEW MINECRAFT SERVER! GETTING DIAMONDS?! | CHECK OUT MY NEW COVER !cover | !discord !tip !throne"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-04T18:53:56Z",
+      "scheduledStartTime": "2024-05-04T18:53:57Z",
+      "activeLiveChatId": "Cg0KC3FPbTIyR1U2bGdjKicKGFVDVXI4TzZaOEp5QWc4M0tKYmNfdV9iURILcU9tMjJHVTZsZ2M"
+    }
+  },
   "qT9eVU87jZk": {
     "snippet": {
       "publishedAt": "2024-04-29T11:49:14Z",
@@ -4398,6 +4388,7 @@
       "title": "\u3010Zatsu + Drawing\u3011So You Want to Run a Campaign - D&D Talk + Drawing\u3010globie 2nd Gen - Equinnox\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-04T18:57:15Z",
       "scheduledStartTime": "2024-05-04T19:00:00Z",
       "activeLiveChatId": "Cg0KC3FtVmJTWjY0WmxRKicKGFVDRkhkRUFIUGJGVWpnSjFSYU9fQXc2dxILcW1WYlNaNjRabFE"
     }
@@ -4950,6 +4941,7 @@
       "title": "[LUNCH TIME ZATSU]  did you bring something yummy?! [V&U | GEN 5]"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-04T18:52:58Z",
       "scheduledStartTime": "2024-05-04T19:00:00Z",
       "activeLiveChatId": "Cg0KC3pUTGN5WTY5S3JnKicKGFVDSDI0YXNpSXFzVlVRbHo4RnZYSmJjdxILelRMY3lZNjlLcmc"
     }
