@@ -3436,7 +3436,8 @@
     "snippet": {
       "publishedAt": "2024-04-30T12:20:30Z",
       "channelId": "UCfW0f2J6o-_r3fmeWs3HF_A",
-      "title": "\u3010HANDCAM\u3011 learning how to make paper stars!"
+      "title": "\u3010HANDCAM\u3011 learning how to make paper stars!",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-06T01:00:00Z",
@@ -3453,6 +3454,17 @@
       "actualStartTime": "2024-05-02T03:02:08Z",
       "actualEndTime": "2024-05-02T06:19:41Z",
       "scheduledStartTime": "2024-05-02T03:00:00Z"
+    }
+  },
+  "RuzSFmBRg6w": {
+    "snippet": {
+      "publishedAt": "2024-05-04T09:24:53Z",
+      "channelId": "UCfW0f2J6o-_r3fmeWs3HF_A",
+      "title": "\u3010PERSONA 3 RELOAD\u3011 persona diff"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-06T01:00:00Z",
+      "activeLiveChatId": "Cg0KC1J1elNGbUJSZzZ3KicKGFVDZlcwZjJKNm8tX3IzZm1lV3MzSEZfQRILUnV6U0ZtQlJnNnc"
     }
   }
 }
