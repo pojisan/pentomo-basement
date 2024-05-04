@@ -3192,5 +3192,18 @@
       "actualEndTime": "2024-05-04T02:34:02Z",
       "scheduledStartTime": "2024-05-03T22:30:00Z"
     }
+  },
+  "sJBdAASNdPI": {
+    "snippet": {
+      "publishedAt": "2024-05-04T22:00:06Z",
+      "channelId": "UC9NNMwafy9quvNWafFukNDw",
+      "title": "I Found a Free Anime Sekiro Game"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-04T22:00:06Z",
+      "scheduledStartTime": "2024-05-04T22:00:00Z",
+      "activeLiveChatId": "Cg0KC3NKQmRBQVNOZFBJKicKGFVDOU5OTXdhZnk5cXV2TldhZkZ1a05EdxILc0pCZEFBU05kUEk",
+      "premiere": true
+    }
   }
 }
