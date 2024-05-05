@@ -316,6 +316,17 @@
       "activeLiveChatId": "Cg0KCzFUVS1HNnVWNUNRKicKGFVDVm1oZzR3Y1RWcGp5Q29LRFk1OW1ZdxILMVRVLUc2dVY1Q1E"
     }
   },
+  "1UVsg6MO_1o": {
+    "snippet": {
+      "publishedAt": "2024-05-05T04:16:56Z",
+      "channelId": "UCe22Bcwd_GCpTjLxn83zl7A",
+      "title": "\u3010#\u30de\u30ea\u30ab\u306b\u3058\u3055\u3093\u3058\u676f\u3011\u4e88\u9078DE\u8caf\u91d1\u3000\u9b54\u306eC\u30b0\u30eb\u30fc\u30d7\u3067\u30ea\u30b9\u30ca\u30fc\u7834\u7523\uff01\uff1f\u3010\u5148\u6597\u5be7/\u306b\u3058\u3055\u3093\u3058\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-05T08:00:00Z",
+      "activeLiveChatId": "Cg0KCzFVVnNnNk1PXzFvKicKGFVDZTIyQmN3ZF9HQ3BUakx4bjgzemw3QRILMVVWc2c2TU9fMW8"
+    }
+  },
   "1Z5OB_uvXlU": {
     "snippet": {
       "publishedAt": "2023-06-02T00:38:22Z",
@@ -665,18 +676,6 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KCzhVRW1FbElpYkV3KicKGFVDMW9nbUxWZE1yVTRIdUxCVVl0empWURILOFVFbUVsSWliRXc"
-    }
-  },
-  "8shv1sDCqWg": {
-    "snippet": {
-      "publishedAt": "2024-05-04T02:44:32Z",
-      "channelId": "UCBURM8S4LH7cRZ0Clea9RDA",
-      "title": "\ud83c\udf893D AFTERPARTY ! ! ! \ud83d\ude2d\ud83e\udd0d\u3010NIJISANJI EN | Reimu Endou\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-05T02:31:50Z",
-      "scheduledStartTime": "2024-05-05T02:30:00Z",
-      "activeLiveChatId": "Cg0KCzhzaHYxc0RDcVdnKicKGFVDQlVSTThTNExIN2NSWjBDbGVhOVJEQRILOHNodjFzRENxV2c"
     }
   },
   "8vrLrc6iLfM": {
@@ -1300,7 +1299,8 @@
       "title": "\u3010HANDCAM\u3011 CELEBRATING MY WAIFU NINO'S BIRTHDAY \ud83d\udc96\ud83c\udf82"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-05T04:15:00Z",
+      "actualStartTime": "2024-05-05T04:18:13Z",
+      "scheduledStartTime": "2024-05-05T04:17:57Z",
       "activeLiveChatId": "Cg0KC0doWGEyUklQei0wKicKGFVDdWFEaWRHazRITkxPblFFOXd6TU1lURILR2hYYTJSSVB6LTA"
     }
   },
@@ -2817,7 +2817,7 @@
     "snippet": {
       "publishedAt": "2024-05-04T18:25:42Z",
       "channelId": "UCpZIbzoEC_3rZglErpQkbDg",
-      "title": "SOMETHING?????!?\u203d?"
+      "title": "Finally. Freedom"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-05T18:00:00Z",
@@ -3671,18 +3671,6 @@
       "activeLiveChatId": "Cg0KC29JR1YwWW90eXEwKicKGFVDOXFNQldRZGZndklLcVBwRFVtdk5VQRILb0lHVjBZb3R5cTA"
     }
   },
-  "oLDOJHB62Sk": {
-    "snippet": {
-      "publishedAt": "2024-04-29T02:48:44Z",
-      "channelId": "UCm6JMVKxg8PvJjl3F7J0tdQ",
-      "title": "\u3010Memberships + Streamelements OPEN \ud83c\udf8a\u3011 truth... or drink?! \ud83e\udd42"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-05T00:02:28Z",
-      "scheduledStartTime": "2024-05-05T00:00:00Z",
-      "activeLiveChatId": "Cg0KC29MRE9KSEI2MlNrKicKGFVDbTZKTVZLeGc4UHZKamwzRjdKMHRkURILb0xET0pIQjYyU2s"
-    }
-  },
   "oZU08lKj0Uw": {
     "snippet": {
       "publishedAt": "2024-05-05T01:15:23Z",
@@ -4275,9 +4263,10 @@
     "snippet": {
       "publishedAt": "2024-05-01T03:35:34Z",
       "channelId": "UCV-9dgtVXHmqvzY9qdvoGYA",
-      "title": "\u3010Vertical Karaoke\u3011TIME TO SINGGGGGGG"
+      "title": "\u3010Vertical Karaoke\u3011TIME TO SINGGGGGGG #shorts"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-05T04:13:37Z",
       "scheduledStartTime": "2024-05-05T04:15:00Z",
       "activeLiveChatId": "Cg0KC3gzWk5uNlF0ZWNrKicKGFVDVi05ZGd0VlhIbXF2elk5cWR2b0dZQRILeDNaTm42UXRlY2s"
     }
