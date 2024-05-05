@@ -63,7 +63,8 @@
     "snippet": {
       "publishedAt": "2024-04-15T19:22:34Z",
       "channelId": "UCH24asiIqsVUQlz8FvXJbcw",
-      "title": "[WEEKLY SCHEDULE + FREE CHAT] 4/29 - 5/5 ! [V&U | GEN 5]"
+      "title": "[WEEKLY SCHEDULE + FREE CHAT] 4/29 - 5/5 ! [V&U | GEN 5]",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-06T19:20:00Z",
@@ -832,6 +833,13 @@
       "actualEndTime": "2024-05-04T21:48:19Z",
       "scheduledStartTime": "2024-05-04T19:00:00Z",
       "activeLiveChatId": "Cg0KC3pUTGN5WTY5S3JnKicKGFVDSDI0YXNpSXFzVlVRbHo4RnZYSmJjdxILelRMY3lZNjlLcmc"
+    }
+  },
+  "wLNVEtTsdVE": {
+    "snippet": {
+      "publishedAt": "2024-05-05T03:01:38Z",
+      "channelId": "UCH24asiIqsVUQlz8FvXJbcw",
+      "title": "Your Average Cerenity Stream \ud83d\ude0a\ud83d\ude0b"
     }
   }
 }
