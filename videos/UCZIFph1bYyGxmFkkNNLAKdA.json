@@ -14316,8 +14316,31 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-05T00:33:01Z",
+      "actualEndTime": "2024-05-05T06:06:44Z",
       "scheduledStartTime": "2024-05-05T00:15:00Z",
       "activeLiveChatId": "Cg0KC011TS1XMVphRk13KicKGFVDWklGcGgxYll5R3htRmtrTk5MQUtkQRILTXVNLVcxWmFGTXc"
+    }
+  },
+  "MqqB7jzSAy4": {
+    "snippet": {
+      "publishedAt": "2024-05-05T08:08:47Z",
+      "channelId": "UCZIFph1bYyGxmFkkNNLAKdA",
+      "title": "I fear for my life \u3010The Antitower FIRST PLAYTHROUGH FFXIV Heavensward 3.2 MSQ\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-07T00:30:00Z",
+      "activeLiveChatId": "Cg0KC01xcUI3anpTQXk0KicKGFVDWklGcGgxYll5R3htRmtrTk5MQUtkQRILTXFxQjdqelNBeTQ"
+    }
+  },
+  "Cz8bhnuk8N4": {
+    "snippet": {
+      "publishedAt": "2024-05-05T08:30:14Z",
+      "channelId": "UCZIFph1bYyGxmFkkNNLAKdA",
+      "title": "The song I've been looping for DAYS - EVENT & PULLS  \u3010Reverse: 1999 The Uluru Games\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-06T19:30:00Z",
+      "activeLiveChatId": "Cg0KC0N6OGJobnVrOE40KicKGFVDWklGcGgxYll5R3htRmtrTk5MQUtkQRILQ3o4YmhudWs4TjQ"
     }
   }
 }

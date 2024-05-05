@@ -6128,8 +6128,20 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-05T03:43:05Z",
-      "scheduledStartTime": "2024-05-05T03:30:00Z",
-      "activeLiveChatId": "Cg0KC3ZaM05nNmxSbWVNKicKGFVDSThHaXFpUWhzX2taYl8yMVlXWHQ1QRILdlozTmc2bFJtZU0"
+      "actualEndTime": "2024-05-05T07:04:14Z",
+      "scheduledStartTime": "2024-05-05T03:30:00Z"
+    }
+  },
+  "xAC4bOw3q3M": {
+    "snippet": {
+      "publishedAt": "2024-05-03T18:35:31Z",
+      "channelId": "UCI8GiqiQhs_kZb_21YWXt5A",
+      "title": "Femme Fatale (cover) - Symphoria"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-07T01:30:00Z",
+      "activeLiveChatId": "Cg0KC3hBQzRiT3czcTNNKicKGFVDSThHaXFpUWhzX2taYl8yMVlXWHQ1QRILeEFDNGJPdzNxM00",
+      "premiere": true
     }
   }
 }

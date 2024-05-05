@@ -8707,8 +8707,20 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-05T04:06:27Z",
+      "actualEndTime": "2024-05-05T08:01:32Z",
       "scheduledStartTime": "2024-05-05T04:00:00Z",
       "activeLiveChatId": "Cg0KC3dsSHRxQVh5ekljKicKGFVDWWFkWlI5bVJpZ254NFJLdlBvdzQ0ZxILd2xIdHFBWHl6SWM"
+    }
+  },
+  "Daj6ho8RBmU": {
+    "snippet": {
+      "publishedAt": "2024-05-05T07:43:05Z",
+      "channelId": "UCYadZR9mRignx4RKvPow44g",
+      "title": "HELP ME I'M POOR \ud83d\ude2d\ud83d\udc97\u3010 Animal Crossing New Horizons \u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-05T19:00:00Z",
+      "activeLiveChatId": "Cg0KC0RhajZobzhSQm1VKicKGFVDWWFkWlI5bVJpZ254NFJLdlBvdzQ0ZxILRGFqNmhvOFJCbVU"
     }
   }
 }

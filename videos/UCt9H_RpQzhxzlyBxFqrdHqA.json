@@ -3982,10 +3982,13 @@
     "snippet": {
       "publishedAt": "2024-05-02T22:56:08Z",
       "channelId": "UCt9H_RpQzhxzlyBxFqrdHqA",
-      "title": "\u3010CLUBHOUSE GAMES \u30a2\u30bd\u30d3\u5927\u5168 WITH WATAME\u3011\u3075\u308f\u3082\u3053FUWAMOCO VS \u3075\u308f\u3075\u308fWATAME \ud83d\udc3e \u3010FUWAMOCO\u3011"
+      "title": "\u3010CLUBHOUSE GAMES \u30a2\u30bd\u30d3\u5927\u5168 WITH WATAME\u3011\u3075\u308f\u3082\u3053FUWAMOCO VS \u3075\u308f\u3075\u308fWATAME \ud83d\udc3e #BAUBAU\u30c9\u30c9\u30c9\u3010FUWAMOCO\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-05T11:00:00Z"
+      "actualStartTime": "2024-05-05T10:55:11Z",
+      "actualEndTime": "2024-05-05T13:10:27Z",
+      "scheduledStartTime": "2024-05-05T11:00:00Z",
+      "activeLiveChatId": "Cg0KC3NRZjE2WG1VMzZnKicKGFVDdDlIX1JwUXpoeHpseUJ4RnFyZEhxQRILc1FmMTZYbVUzNmc"
     }
   },
   "QADz5JuhuaA": {
@@ -3996,6 +3999,16 @@
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-06T01:00:00Z"
+    }
+  },
+  "5uQ0WNOn6Eg": {
+    "snippet": {
+      "publishedAt": "2024-05-05T10:21:34Z",
+      "channelId": "UCt9H_RpQzhxzlyBxFqrdHqA",
+      "title": "\u3010FUWAMOCO MORNING\u3011episode 94 \ud83d\udc3e #FWMCMORNING"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-06T15:00:00Z"
     }
   }
 }

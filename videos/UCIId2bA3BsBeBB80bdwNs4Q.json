@@ -629,7 +629,8 @@
     "snippet": {
       "publishedAt": "2024-04-30T05:40:21Z",
       "channelId": "UCIId2bA3BsBeBB80bdwNs4Q",
-      "title": "\u3010SCHEDULE \u3011APR-MAY  28-4\u3010Yume+ | Rhea Nevermore\u3011"
+      "title": "\u3010SCHEDULE \u3011APR-MAY  28-4\u3010Yume+ | Rhea Nevermore\u3011",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2026-04-30T05:20:00Z",
@@ -677,6 +678,50 @@
       "actualStartTime": "2024-05-03T22:00:17Z",
       "actualEndTime": "2024-05-04T01:26:29Z",
       "scheduledStartTime": "2024-05-03T22:00:00Z"
+    }
+  },
+  "El0ESpR8eLQ": {
+    "snippet": {
+      "publishedAt": "2024-05-05T06:51:45Z",
+      "channelId": "UCIId2bA3BsBeBB80bdwNs4Q",
+      "title": "\u3010SCHEDULE \u3011MAY 5TH-11TH\u3010Yume+ | Rhea Nevermore\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2026-05-05T19:15:00Z",
+      "activeLiveChatId": "Cg0KC0VsMEVTcFI4ZUxRKicKGFVDSUlkMmJBM0JzQmVCQjgwYmR3TnM0URILRWwwRVNwUjhlTFE"
+    }
+  },
+  "1CVD0kzDgn4": {
+    "snippet": {
+      "publishedAt": "2024-05-05T07:07:05Z",
+      "channelId": "UCIId2bA3BsBeBB80bdwNs4Q",
+      "title": "\u3010SIMS 4 \u3011#1 REMedy reality show (Im absolutely causing a scandal) \u3010Yume+ | Rhea Nevermore\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-09T12:00:00Z",
+      "activeLiveChatId": "Cg0KCzFDVkQwa3pEZ240KicKGFVDSUlkMmJBM0JzQmVCQjgwYmR3TnM0URILMUNWRDBrekRnbjQ"
+    }
+  },
+  "tp32PKk_818": {
+    "snippet": {
+      "publishedAt": "2024-05-05T07:04:33Z",
+      "channelId": "UCIId2bA3BsBeBB80bdwNs4Q",
+      "title": "\u3010FALLOUT 4 \u3011making great googly moogly with a deathclaw\u3010Yume+ | Rhea Nevermore\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-08T23:00:00Z",
+      "activeLiveChatId": "Cg0KC3RwMzJQS2tfODE4KicKGFVDSUlkMmJBM0JzQmVCQjgwYmR3TnM0URILdHAzMlBLa184MTg"
+    }
+  },
+  "rUxwgxrUsHc": {
+    "snippet": {
+      "publishedAt": "2024-05-05T07:02:27Z",
+      "channelId": "UCIId2bA3BsBeBB80bdwNs4Q",
+      "title": "\u3010BUNNY GARDEN \u3011 pretty bunny girls!!! WHO WILL JOAT ROMANCE?\u3010Yume+ | Rhea Nevermore\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-07T23:00:00Z",
+      "activeLiveChatId": "Cg0KC3JVeHdneHJVc0hjKicKGFVDSUlkMmJBM0JzQmVCQjgwYmR3TnM0URILclV4d2d4clVzSGM"
     }
   }
 }

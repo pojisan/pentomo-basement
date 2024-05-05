@@ -3546,8 +3546,20 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-05T03:01:11Z",
+      "actualEndTime": "2024-05-05T07:38:49Z",
       "scheduledStartTime": "2024-05-05T03:00:00Z",
       "activeLiveChatId": "Cg0KC29aVTA4bEtqMFV3KicKGFVDcFlmNkM5UXNQX0JSZjk3dkx1WGxJQRILb1pVMDhsS2owVXc"
+    }
+  },
+  "k4dJi6qwfF0": {
+    "snippet": {
+      "publishedAt": "2024-05-05T09:03:11Z",
+      "channelId": "UCpYf6C9QsP_BRf97vLuXlIA",
+      "title": "\u3010PERSONA 3: RELOAD\u3011I'LL SIMP FOR WHOEVER I WANT *SPOILERS\u3010NIJISANJI EN | Vantacrow Bringer\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-06T01:00:00Z",
+      "activeLiveChatId": "Cg0KC2s0ZEppNnF3ZkYwKicKGFVDcFlmNkM5UXNQX0JSZjk3dkx1WGxJQRILazRkSmk2cXdmRjA"
     }
   }
 }

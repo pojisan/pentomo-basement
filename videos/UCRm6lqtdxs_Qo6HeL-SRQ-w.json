@@ -10766,8 +10766,20 @@
       "title": "\u3010 #\u30de\u30ea\u30ab\u306b\u3058\u3055\u3093\u3058\u676f \u3011F\u30ea\u30fc\u30b0\uff5c\u30d1\u30bf\u3061\u8996\u70b9\u3010 \u30ec\u30a4\u30f3\u30fb\u30d1\u30bf\u30fc\u30bd\u30f3/\u306b\u3058\u3055\u3093\u3058 \u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-05T10:30:00Z",
-      "activeLiveChatId": "Cg0KC1I2bVJFSTl1NmFrKicKGFVDUm02bHF0ZHhzX1FvNkhlTC1TUlEtdxILUjZtUkVJOXU2YWs"
+      "actualStartTime": "2024-05-05T10:02:27Z",
+      "actualEndTime": "2024-05-05T10:45:21Z",
+      "scheduledStartTime": "2024-05-05T10:30:00Z"
+    }
+  },
+  "w52E7pDctmU": {
+    "snippet": {
+      "publishedAt": "2024-05-05T11:32:29Z",
+      "channelId": "UCRm6lqtdxs_Qo6HeL-SRQ-w",
+      "title": "\u3010ELDEN RING\u3011\u521d\u306e\u30d5\u30ed\u30e0\u30b2\u30fc\u3078\u6311\u3080\u30dc\u30c7\u30a3\u30ac\u30fc\u30c9\uff5c\uff0307\u3010 \u30ec\u30a4\u30f3\u30fb\u30d1\u30bf\u30fc\u30bd\u30f3/\u306b\u3058\u3055\u3093\u3058 \u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-05T23:00:00Z",
+      "activeLiveChatId": "Cg0KC3c1MkU3cERjdG1VKicKGFVDUm02bHF0ZHhzX1FvNkhlTC1TUlEtdxILdzUyRTdwRGN0bVU"
     }
   }
 }
