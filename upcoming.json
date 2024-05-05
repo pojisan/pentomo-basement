@@ -215,18 +215,6 @@
       "activeLiveChatId": "Cg0KCzB4enNKcHVJd3NvKicKGFVDVXI4TzZaOEp5QWc4M0tKYmNfdV9iURILMHh6c0pwdUl3c28"
     }
   },
-  "0yYoW_Zc89o": {
-    "snippet": {
-      "publishedAt": "2024-04-29T11:34:24Z",
-      "channelId": "UCK6oCMib62eYAIPrlrYRVrw",
-      "title": "NEON SODA DREAM \u2503 Miya Mareena"
-    },
-    "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-05T16:00:00Z",
-      "activeLiveChatId": "Cg0KCzB5WW9XX1pjODlvKicKGFVDSzZvQ01pYjYyZVlBSVBybHJZUlZydxILMHlZb1dfWmM4OW8",
-      "premiere": true
-    }
-  },
   "108DYJ5mxqQ": {
     "snippet": {
       "publishedAt": "2024-01-07T12:21:16Z",
@@ -758,6 +746,7 @@
       "title": "\u3010Inscryption  | P.6 \u3011finishing the game\u3010V&U | GEN4\u3011#inscryption"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-05T16:01:44Z",
       "scheduledStartTime": "2024-05-05T16:00:00Z",
       "activeLiveChatId": "Cg0KC0Ezek01VndKWG5VKicKGFVDUVk1bXBGdFB5V0paSGJqYXhtSG56dxILQTN6TTVWd0pYblU"
     }
@@ -1402,18 +1391,6 @@
       "activeLiveChatId": "Cg0KC0hHci1zdlBrejQwKicKGFVDOXhSN3VOMHg1YTZDSDNVb3BxN2N6QRILSEdyLXN2UGt6NDA"
     }
   },
-  "HLa3QMsKTVc": {
-    "snippet": {
-      "publishedAt": "2024-05-05T11:41:40Z",
-      "channelId": "UC-W-yaVIjqkXoh6dZ6_TcMA",
-      "title": "\u3010OKIRUBY!\u3011 i wanna get to know you\u3010idolES | Ruby Runeheart\u3011#1"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-05T14:17:16Z",
-      "scheduledStartTime": "2024-05-05T14:15:00Z",
-      "activeLiveChatId": "Cg0KC0hMYTNRTXNLVFZjKicKGFVDLVcteWFWSWpxa1hvaDZkWjZfVGNNQRILSExhM1FNc0tUVmM"
-    }
-  },
   "HPTVlsq-e-M": {
     "snippet": {
       "publishedAt": "2024-05-05T07:13:35Z",
@@ -1621,18 +1598,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-05T16:00:00Z",
       "activeLiveChatId": "Cg0KC0pYQ0R0OWUtbktFKicKGFVDSW8zM2IwaGYyX21kcXRBWnZLbGF5URILSlhDRHQ5ZS1uS0U"
-    }
-  },
-  "JcqKTE3955c": {
-    "snippet": {
-      "publishedAt": "2024-05-05T13:15:00Z",
-      "channelId": "UCWRPqA0ehhWV4Hnp27PJCkQ",
-      "title": "\u3010 #\u306b\u3058\u3055\u3093\u3058\u30de\u30ea\u30ab\u676f  \u3011\u306a\u3093\u3068\u4e88\u9078\u7a81\u7834\u2049\u7df4\u7fd2\u3059\u308b\u305e\uff01\u3010\u306b\u3058\u3055\u3093\u3058/\u7345\u5b50\u5802\u3042\u304b\u308a\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-05T13:39:13Z",
-      "scheduledStartTime": "2024-05-05T13:30:00Z",
-      "activeLiveChatId": "Cg0KC0pjcUtURTM5NTVjKicKGFVDV1JQcUEwZWhoV1Y0SG5wMjdQSkNrURILSmNxS1RFMzk1NWM"
     }
   },
   "JlKInYGDvt0": {
@@ -2222,18 +2187,6 @@
       "activeLiveChatId": "Cg0KC1NCVlJIbDRUaTJRKicKGFVDR2hxeGhvdk5mYVBCcHhmQ3J1eTlFQRILU0JWUkhsNFRpMlE"
     }
   },
-  "SJqvL_CzoxY": {
-    "snippet": {
-      "publishedAt": "2024-04-29T12:49:26Z",
-      "channelId": "UCk0vuwwsm_UQHHIOgGvxU-A",
-      "title": "Crochet and chat"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-05T13:00:40Z",
-      "scheduledStartTime": "2024-05-05T13:00:00Z",
-      "activeLiveChatId": "Cg0KC1NKcXZMX0N6b3hZKicKGFVDazB2dXd3c21fVVFISElPZ0d2eFUtQRILU0pxdkxfQ3pveFk"
-    }
-  },
   "SRaR1xeiBJc": {
     "snippet": {
       "publishedAt": "2024-01-04T22:28:24Z",
@@ -2616,7 +2569,8 @@
       "title": "\u3010Persona 4 Golden\u3011grinding it out!!!!!!!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-05T16:00:00Z",
+      "actualStartTime": "2024-05-05T15:58:49Z",
+      "scheduledStartTime": "2024-05-05T15:55:21Z",
       "activeLiveChatId": "Cg0KC1dfQTJZNWVsQmk0KicKGFVDc3d2ZDZfWVdtZDZyaVJrLThvVC1zQRILV19BMlk1ZWxCaTQ"
     }
   },
@@ -3313,18 +3267,6 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC2ZyekNXV09VVjlNKicKGFVDdjFUaHlFNEtWWW5uVlk4R0xmdG5vQRILZnJ6Q1dXT1VWOU0"
-    }
-  },
-  "g7i_4G7MKUk": {
-    "snippet": {
-      "publishedAt": "2024-04-29T11:03:55Z",
-      "channelId": "UCK6oCMib62eYAIPrlrYRVrw",
-      "title": "\u3010SONG RELEASE\u3011New Original Song Countdown !!!"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-05T14:00:40Z",
-      "scheduledStartTime": "2024-05-05T14:00:00Z",
-      "activeLiveChatId": "Cg0KC2c3aV80RzdNS1VrKicKGFVDSzZvQ01pYjYyZVlBSVBybHJZUlZydxILZzdpXzRHN01LVWs"
     }
   },
   "gK31rX-EsIw": {
@@ -4103,6 +4045,7 @@
       "title": "Couple simulation but... my boyfriend seems very dangerous\u3010Little Nightmares 2\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-05T16:01:23Z",
       "scheduledStartTime": "2024-05-05T16:00:00Z",
       "activeLiveChatId": "Cg0KC3FUOWVWVTg3alprKicKGFVDUmtkRkdYd0J0eHZtOVNzZm1ObU1aQRILcVQ5ZVZVODdqWms"
     }
@@ -4517,18 +4460,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-05T23:00:00Z",
       "activeLiveChatId": "Cg0KC3c1MkU3cERjdG1VKicKGFVDUm02bHF0ZHhzX1FvNkhlTC1TUlEtdxILdzUyRTdwRGN0bVU"
-    }
-  },
-  "wXfTlIELD-w": {
-    "snippet": {
-      "publishedAt": "2024-05-05T13:14:13Z",
-      "channelId": "UCiA-trSZfB0i92V_-dyDqBw",
-      "title": "\u3010\u30de\u30ea\u30aa\u30ab\u30fc\u30c88DX\u3011 #\u30de\u30ea\u30ab\u306b\u3058\u3055\u3093\u3058\u676f \u6e96\u3005\u6c7a\u52dd\u9032\u51fa\uff1b\uff1b\u3061\u3087\u3053\u3063\u3068\u3060\u3051\u7279\u8a13!!!!!\u3010\u5009\u6301\u3081\u308b\u3068/\u306b\u3058\u3055\u3093\u3058\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-05T13:38:51Z",
-      "scheduledStartTime": "2024-05-05T13:30:00Z",
-      "activeLiveChatId": "Cg0KC3dYZlRsSUVMRC13KicKGFVDaUEtdHJTWmZCMGk5MlZfLWR5RHFCdxILd1hmVGxJRUxELXc"
     }
   },
   "wjDz5GbSQxo": {
