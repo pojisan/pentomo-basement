@@ -612,6 +612,17 @@
       "activeLiveChatId": "Cg0KCzVMdWg3TEdHdWRJKicKGFVDaTQyN2FXMnJqekdqVWxFMjdTcXRlURILNUx1aDdMR0d1ZEk"
     }
   },
+  "5M9nRTJ90KE": {
+    "snippet": {
+      "publishedAt": "2024-05-05T19:22:59Z",
+      "channelId": "UCyF7SeIyWlUznk_sg_XjC8Q",
+      "title": "\u3010ASMR/3DIO\u3011Yandere Covers You In Kisses \ud83d\udc8b"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-11T21:00:00Z",
+      "activeLiveChatId": "Cg0KCzVNOW5SVEo5MEtFKicKGFVDeUY3U2VJeVdsVXpua19zZ19YakM4URILNU05blJUSjkwS0U"
+    }
+  },
   "5b4Ve_hd57Y": {
     "snippet": {
       "publishedAt": "2022-04-12T16:16:53Z",
@@ -1073,6 +1084,7 @@
       "title": "IS THIS HELL!? \ud83d\ude2d\u3010 Animal Crossing New Horizons \ud83d\udc97 \u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-05T19:22:41Z",
       "scheduledStartTime": "2024-05-05T19:15:00Z",
       "activeLiveChatId": "Cg0KC0RhajZobzhSQm1VKicKGFVDWWFkWlI5bVJpZ254NFJLdlBvdzQ0ZxILRGFqNmhvOFJCbVU"
     }
@@ -2328,18 +2340,6 @@
       "activeLiveChatId": "Cg0KC1RrOUFSUEJqN3p3KicKGFVDX2xfN0RhOEhCMmNMVHg3VTg4UnJzQRILVGs5QVJQQmo3enc"
     }
   },
-  "TsfeUeeJgmk": {
-    "snippet": {
-      "publishedAt": "2024-05-05T12:34:49Z",
-      "channelId": "UCGwLSyPLaHpq0nuT_JVSMtQ",
-      "title": "\u3010Cardfight!! Vanguard Dear Days\u3011IM READY FOR THE DUEL\u3010Kumanui Miel | globie\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-05T14:00:28Z",
-      "scheduledStartTime": "2024-05-05T14:00:00Z",
-      "activeLiveChatId": "Cg0KC1RzZmVVZWVKZ21rKicKGFVDR3dMU3lQTGFIcHEwbnVUX0pWU010URILVHNmZVVlZUpnbWs"
-    }
-  },
   "UKUG_Z15IfE": {
     "snippet": {
       "publishedAt": "2023-11-20T04:20:58Z",
@@ -3568,7 +3568,7 @@
       "title": "\u3010UNARCHIVED KARAOKE\u3011You Like Jazz?\u3010V4Mirai | Serina Maiko | ENVtuber\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-05T21:00:00Z",
+      "scheduledStartTime": "2024-05-05T23:00:00Z",
       "activeLiveChatId": "Cg0KC2lmRVpxY3h4Q0pzKicKGFVDdjFUaHlFNEtWWW5uVlk4R0xmdG5vQRILaWZFWnFjeHhDSnM"
     }
   },
