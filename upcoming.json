@@ -2074,18 +2074,6 @@
       "activeLiveChatId": "Cg0KC1FXNHpNSmdZd19FKicKGFVDY0hIa0o5OGVTZmE1YWowbWRUd3dMURILUVc0ek1KZ1l3X0U"
     }
   },
-  "QcV-SBt2LDA": {
-    "snippet": {
-      "publishedAt": "2024-05-04T09:35:59Z",
-      "channelId": "UCYadZR9mRignx4RKvPow44g",
-      "title": "CURSED GAME!? \ud83d\ude31 \u3010 Senpai vs. Kouhai: WHO WILL SURVIVE!? \u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-04T20:01:37Z",
-      "scheduledStartTime": "2024-05-04T20:00:00Z",
-      "activeLiveChatId": "Cg0KC1FjVi1TQnQyTERBKicKGFVDWWFkWlI5bVJpZ254NFJLdlBvdzQ0ZxILUWNWLVNCdDJMREE"
-    }
-  },
   "R6mREI9u6ak": {
     "snippet": {
       "publishedAt": "2024-05-04T11:35:43Z",
@@ -2421,7 +2409,7 @@
       "title": "[DREDGE PART 3] Just A Bit More Fishin' - Ciccino Katterina Triple A Club V&U"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-05T02:00:00Z",
+      "scheduledStartTime": "2024-05-08T02:00:00Z",
       "activeLiveChatId": "Cg0KC1ZwMmY1R2JvMGU0KicKGFVDX2N4aU9WWWk5VEgzaVB2YW05ZjV5QRILVnAyZjVHYm8wZTQ"
     }
   },
@@ -2828,6 +2816,7 @@
       "title": "\u3010KARAOKE RELAY\u3011Pros-in-Cons VTuber Karaoke Relay\u3010Yumi The Witch | V4Mirai | ENVtuber\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-05T01:17:47Z",
       "scheduledStartTime": "2024-05-05T01:20:00Z",
       "activeLiveChatId": "Cg0KC19tUWdHNHNGQzBRKicKGFVDMUpuYWdycWpUekVScWZwTnRSZngxQRILX21RZ0c0c0ZDMFE"
     }
@@ -2937,6 +2926,17 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC2I0aE5McmdLUjRVKicKGFVDN0diN1Vhd2UyMFF5RmliaExsMWx6QRILYjRoTkxyZ0tSNFU"
+    }
+  },
+  "bajiru_en": {
+    "snippet": {
+      "channelId": "bajiru_en",
+      "title": "\u3010LIVE SINGING\u3011never gonna give you up everybaji...\ud83c\udf31 || !sl !socials !advgg",
+      "channelTitle": "bajiru_EN"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-05T01:17:18Z",
+      "twitch": true
     }
   },
   "bcsOyUtuMxQ": {
@@ -4190,7 +4190,7 @@
   "sharksprite": {
     "snippet": {
       "channelId": "sharksprite",
-      "title": "ITS MY BIRTHDAY PT 2| !throne !merch !adv !noods !uwu",
+      "title": "ITS MY BIRTHDAY PT 2| !newmerch !throne !merch !adv !noods !uwu",
       "channelTitle": "sharksprite"
     },
     "liveStreamingDetails": {
