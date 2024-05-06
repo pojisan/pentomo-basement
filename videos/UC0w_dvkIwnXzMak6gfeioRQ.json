@@ -2254,5 +2254,16 @@
       "actualEndTime": "2024-05-03T22:47:45Z",
       "scheduledStartTime": "2024-05-03T19:10:00Z"
     }
+  },
+  "5BR_2nXGhzU": {
+    "snippet": {
+      "publishedAt": "2024-05-06T17:08:46Z",
+      "channelId": "UC0w_dvkIwnXzMak6gfeioRQ",
+      "title": "I'm just a baby | Binding of Isaac Repentance"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-06T19:00:00Z",
+      "activeLiveChatId": "Cg0KCzVCUl8yblhHaHpVKicKGFVDMHdfZHZrSXduWHpNYWs2Z2ZlaW9SURILNUJSXzJuWEdoelU"
+    }
   }
 }
