@@ -2593,18 +2593,6 @@
       "activeLiveChatId": "Cg0KC1BJRHh5NUNLbXFBKicKGFVDa3dCUjllNXJDSTJnbW1sUXktYnpmURILUElEeHk1Q0ttcUE"
     }
   },
-  "PIO7rAUjjd0": {
-    "snippet": {
-      "publishedAt": "2024-05-05T14:40:44Z",
-      "channelId": "UCZl92wMipjYFc1Ulm9Yy65g",
-      "title": "\u3010OniMon #25\u3011 Am I a MARY SUE?! (Mary Sue Test)\u3010Yuno Hanaki\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-06T20:01:09Z",
-      "scheduledStartTime": "2024-05-06T20:00:00Z",
-      "activeLiveChatId": "Cg0KC1BJTzdyQVVqamQwKicKGFVDWmw5MndNaXBqWUZjMVVsbTlZeTY1ZxILUElPN3JBVWpqZDA"
-    }
-  },
   "PK3wyjnAUQ4": {
     "snippet": {
       "publishedAt": "2024-05-05T19:48:55Z",
@@ -3357,18 +3345,6 @@
       "activeLiveChatId": "Cg0KC1hTM1B0QzByWHMwKicKGFVDQzRoakpwX010dHdmWmN1V2MwT3BWURILWFMzUHRDMHJYczA"
     }
   },
-  "XWvnqdKc56Y": {
-    "snippet": {
-      "publishedAt": "2024-05-06T11:25:12Z",
-      "channelId": "UCBnmfjpmhGxao6v54fIIMUA",
-      "title": "my kouhai @AkugakiKoa requested I play this... good senpai must oblige!"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-06T17:01:32Z",
-      "scheduledStartTime": "2024-05-06T17:00:00Z",
-      "activeLiveChatId": "Cg0KC1hXdm5xZEtjNTZZKicKGFVDQm5tZmpwbWhHeGFvNnY1NGZJSU1VQRILWFd2bnFkS2M1Nlk"
-    }
-  },
   "XYL0ruvuu28": {
     "snippet": {
       "publishedAt": "2024-05-06T09:55:20Z",
@@ -3743,6 +3719,7 @@
       "title": "\u3010DONOTHON DAY 2\u3011Totally Not Pocketing Money At The Register..."
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-06T22:01:37Z",
       "scheduledStartTime": "2024-05-06T22:00:00Z",
       "activeLiveChatId": "Cg0KC2FpT1IwR1BORGRJKicKGFVDdzFLTmpWcWZySlNmY0ZkNnpsY1N6QRILYWlPUjBHUE5EZEk"
     }
@@ -4945,6 +4922,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-10T21:00:00Z",
       "activeLiveChatId": "Cg0KC25mWVhVMGs3S3hrKicKGFVDM0FZdG1NTmRKY3pDdlFOb1B5LWdqdxILbmZZWFUwazdLeGs"
+    }
+  },
+  "niasuzune": {
+    "snippet": {
+      "channelId": "niasuzune",
+      "title": "\u3010DONOTHON DAY 2\u3011Totally Not Pocketing Money At The Register... | !donothon !merch",
+      "channelTitle": "NiaSuzune"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-06T22:01:01Z",
+      "twitch": true
     }
   },
   "ninete_en": {
