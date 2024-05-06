@@ -1376,6 +1376,7 @@
       "title": "\u3010POOLS\u3011the water's great\u3010NIJISANJI EN | Sonny Brisko\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-06T10:04:07Z",
       "scheduledStartTime": "2024-05-06T10:00:00Z",
       "activeLiveChatId": "Cg0KC0VYVVdqLU1WMHEwKicKGFVDdXVBYl83MlF6SzBNMVVTUE1FbDF5dxILRVhVV2otTVYwcTA"
     }
@@ -2416,6 +2417,7 @@
       "title": "\u3010#\u30de\u30ea\u30ab\u306b\u3058\u3055\u3093\u3058\u676f\u3011\u6e96\u6c7a\u52dd\u3001\u6e0b\u8c37\u306b\u5411\u3051\u3066\u3002\u3010\u30ed\u30fc\u30ec\u30f3\u30fb\u30a4\u30ed\u30a2\u30b9/\u306b\u3058\u3055\u3093\u3058\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-06T10:05:15Z",
       "scheduledStartTime": "2024-05-06T09:50:00Z",
       "activeLiveChatId": "Cg0KC1BtaWZ2U3ZYSE1zKicKGFVDZ21GclJjeUg3ZDF6UjlzSVZRaEZvdxILUG1pZnZTdlhITXM"
     }
@@ -3578,6 +3580,17 @@
       "activeLiveChatId": "Cg0KC2NQZ2FTb0R4OENJKicKGFVDNFdzTEVfeGRybmQwNUQwNUdvOW9YdxILY1BnYVNvRHg4Q0k"
     }
   },
+  "cU5zTLSzoHQ": {
+    "snippet": {
+      "publishedAt": "2024-05-06T10:08:18Z",
+      "channelId": "UCbDHIS0NpXROhYjsaXQX4pA",
+      "title": "Moe Moe Mirai Cafe now open! [Maid Cafe Experience] [Yae Yugiri | V4Mirai]"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-06T23:00:00Z",
+      "activeLiveChatId": "Cg0KC2NVNXpUTFN6b0hRKicKGFVDYkRISVMwTnBYUk9oWWpzYVhRWDRwQRILY1U1elRMU3pvSFE"
+    }
+  },
   "cmnTYpvOTgk": {
     "snippet": {
       "publishedAt": "2024-05-06T00:38:06Z",
@@ -4271,6 +4284,7 @@
       "title": "\u3010#\u30de\u30ea\u30ab\u306b\u3058\u3055\u3093\u3058\u676f\u3011\u307e\u3060\u79c1\u306e\u5922\u306f\u7d42\u308f\u3089\u306d\u3047\uff01 \u6e96\u6c7a\u52ddB\u30b0\u30eb\u30fc\u30d7\u3010\u30ec\u30aa\u30b9\u30fb\u30f4\u30a3\u30f3\u30bb\u30f3\u30c8  \u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-06T10:06:33Z",
       "scheduledStartTime": "2024-05-06T10:15:00Z",
       "activeLiveChatId": "Cg0KC2xKdlUwX1VSQi04KicKGFVDLTZyWmdteFpTSWJxNzg2ajNSRDVvdxILbEp2VTBfVVJCLTg"
     }
@@ -4967,6 +4981,7 @@
       "title": "\u3010 #\u30de\u30ea\u30ab\u306b\u3058\u3055\u3093\u3058\u676f \u3011\u6e96\u6c7a\u52dd\u30ea\u30fc\u30b0B\uff01\u3053\u3053\u306f\u3069\u3053\u2026\u79c1\u306f\u8ab0\u2026\u3010\u306b\u3058\u3055\u3093\u3058/\u7345\u5b50\u5802\u3042\u304b\u308a\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-06T10:06:30Z",
       "scheduledStartTime": "2024-05-06T10:00:00Z",
       "activeLiveChatId": "Cg0KC3NWV2NBVnlDTmFNKicKGFVDV1JQcUEwZWhoV1Y0SG5wMjdQSkNrURILc1ZXY0FWeUNOYU0"
     }
@@ -5490,18 +5505,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-12T19:00:00Z",
       "activeLiveChatId": "Cg0KC3p1bDJudFM3d2l3KicKGFVDYjhkTHZEdm1aLWQ5MktFeV85b1dvZxILenVsMm50Uzd3aXc"
-    }
-  },
-  "zxmEfu5mwic": {
-    "snippet": {
-      "publishedAt": "2024-05-06T07:06:03Z",
-      "channelId": "UCYadZR9mRignx4RKvPow44g",
-      "title": "Lil Chit Chat Maybe a Movie IDK I Miss You hehehehe \ud83d\udc97 \u3010 MEMBERS ONLY \u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-06T07:16:28Z",
-      "scheduledStartTime": "2024-05-06T07:15:00Z",
-      "activeLiveChatId": "Cg0KC3p4bUVmdTVtd2ljKicKGFVDWWFkWlI5bVJpZ254NFJLdlBvdzQ0ZxILenhtRWZ1NW13aWM"
     }
   }
 }
