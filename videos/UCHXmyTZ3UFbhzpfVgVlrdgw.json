@@ -925,5 +925,27 @@
       "actualEndTime": "2024-05-03T06:24:17Z",
       "scheduledStartTime": "2024-05-03T03:00:00Z"
     }
+  },
+  "Flf1vjxbL7Y": {
+    "snippet": {
+      "publishedAt": "2024-05-06T12:07:52Z",
+      "channelId": "UCHXmyTZ3UFbhzpfVgVlrdgw",
+      "title": "\u3010GAME STREAM\u30fb\u30b2\u30fc\u30e0\u914d\u4fe1\u3011My Chat Convinced Me to Play NIKKE\u30fb\ud83d\udd30NIKKE\ud83d\udd30\u521d\u5fc3\u8005"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-10T10:00:00Z",
+      "activeLiveChatId": "Cg0KC0ZsZjF2anhiTDdZKicKGFVDSFhteVRaM1VGYmh6cGZWZ1ZscmRndxILRmxmMXZqeGJMN1k"
+    }
+  },
+  "mGVCSsYpjwQ": {
+    "snippet": {
+      "publishedAt": "2024-05-06T12:04:34Z",
+      "channelId": "UCHXmyTZ3UFbhzpfVgVlrdgw",
+      "title": "\u3010GAME STREAM\u30fb\u30b2\u30fc\u30e0\u914d\u4fe1\u3011Trying to Finish Sumeru\u30fb\u539f\u795e\uff01\u5168\u7136\u9032\u3093\u3067\u306a\u3044\u3051\u3069"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-07T10:00:00Z",
+      "activeLiveChatId": "Cg0KC21HVkNTc1lwandRKicKGFVDSFhteVRaM1VGYmh6cGZWZ1ZscmRndxILbUdWQ1NzWXBqd1E"
+    }
   }
 }
