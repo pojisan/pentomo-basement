@@ -51,7 +51,8 @@
     "snippet": {
       "publishedAt": "2024-04-08T17:30:57Z",
       "channelId": "UCi427aW2rjzGjUlE27SqteQ",
-      "title": "\u3010FREECHAT\u3011 schedule!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\u3010V&U | GEN 5\u3011"
+      "title": "\u3010FREECHAT\u3011 schedule!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!\u3010V&U | GEN 5\u3011",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2026-04-30T17:30:00Z",
@@ -355,6 +356,28 @@
       "actualStartTime": "2024-04-26T23:58:49Z",
       "actualEndTime": "2024-04-27T00:08:37Z",
       "scheduledStartTime": "2024-04-27T00:00:00Z"
+    }
+  },
+  "fnqiDj5E0GU": {
+    "snippet": {
+      "publishedAt": "2024-05-06T19:30:03Z",
+      "channelId": "UCi427aW2rjzGjUlE27SqteQ",
+      "title": "\u3010TOUHOU 10\u3011 mountain of tomomi....\u3010V&U | GEN 5\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-08T01:00:00Z",
+      "activeLiveChatId": "Cg0KC2ZucWlEajVFMEdVKicKGFVDaTQyN2FXMnJqekdqVWxFMjdTcXRlURILZm5xaURqNUUwR1U"
+    }
+  },
+  "l7_FdYcO_Iw": {
+    "snippet": {
+      "publishedAt": "2024-05-06T19:30:47Z",
+      "channelId": "UCi427aW2rjzGjUlE27SqteQ",
+      "title": "let's catch up + future plans!!\u3010V&U | GEN 5\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-07T01:30:00Z",
+      "activeLiveChatId": "Cg0KC2w3X0ZkWWNPX0l3KicKGFVDaTQyN2FXMnJqekdqVWxFMjdTcXRlURILbDdfRmRZY09fSXc"
     }
   }
 }
