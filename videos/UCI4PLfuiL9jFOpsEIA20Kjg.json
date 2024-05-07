@@ -7454,8 +7454,20 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-06T19:32:53Z",
-      "scheduledStartTime": "2024-05-06T19:30:00Z",
-      "activeLiveChatId": "Cg0KC3N3cGdxN21WamZvKicKGFVDSTRQTGZ1aUw5akZPcHNFSUEyMEtqZxILc3dwZ3E3bVZqZm8"
+      "actualEndTime": "2024-05-07T07:24:28Z",
+      "scheduledStartTime": "2024-05-06T19:30:00Z"
+    }
+  },
+  "4GfWIQCqplg": {
+    "snippet": {
+      "publishedAt": "2024-05-07T07:24:58Z",
+      "channelId": "UCI4PLfuiL9jFOpsEIA20Kjg",
+      "title": "Session 53.5: The Masquerade Part 2 | Into The Mists [DND] w/ Vtubers"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-07T07:25:34Z",
+      "scheduledStartTime": "2024-05-07T07:25:00Z",
+      "activeLiveChatId": "Cg0KCzRHZldJUUNxcGxnKicKGFVDSTRQTGZ1aUw5akZPcHNFSUEyMEtqZxILNEdmV0lRQ3FwbGc"
     }
   }
 }
