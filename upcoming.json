@@ -829,6 +829,7 @@
       "title": "Capra Demon goes down TODAY OR IM GONNA CRY (again)\u3010 DARK SOULS REMASTERED || PART 3 \u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-07T03:01:52Z",
       "scheduledStartTime": "2024-05-07T03:00:00Z",
       "activeLiveChatId": "Cg0KCzc2UUlKRmVHREFrKicKGFVDMXRScVFUSTNCY2hzOFh2VW5qOHl2URILNzZRSUpGZUdEQWs"
     }
@@ -851,6 +852,7 @@
       "title": "\u3010Members Only Watchalong\u3011CON AIR :D"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-07T03:03:11Z",
       "scheduledStartTime": "2024-05-07T03:00:00Z",
       "activeLiveChatId": "Cg0KCzdEblVIZEc3TC1VKicKGFVDOHJjRUJ6SlNsZVRrZl8tYWdQTTIwZxILN0RuVUhkRzdMLVU"
     }
@@ -2669,6 +2671,18 @@
       "activeLiveChatId": "Cg0KC1BkOExFclYwQ2dFKicKGFVDeF9BNmZuczlxS2p5YnUtNmswdXIxZxILUGQ4TEVyVjBDZ0U"
     }
   },
+  "PrEsfWJCM6Y": {
+    "snippet": {
+      "publishedAt": "2024-05-06T08:00:26Z",
+      "channelId": "UCaxiDe_TuMLXkwRMVLm5VwQ",
+      "title": "Cutlery \u30ab\u30c8\u30e9\u30ea\u30fc\u3010\u6b4c\u3063\u3066\u307f\u305f\u3011\u3010Lethe Bonapuchi | Production kawaii\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-10T07:00:00Z",
+      "activeLiveChatId": "Cg0KC1ByRXNmV0pDTTZZKicKGFVDYXhpRGVfVHVNTFhrd1JNVkxtNVZ3URILUHJFc2ZXSkNNNlk",
+      "premiere": true
+    }
+  },
   "PtwDgMouvoY": {
     "snippet": {
       "publishedAt": "2024-05-06T22:50:01Z",
@@ -3755,6 +3769,7 @@
       "title": "\u3010 Granblue Fantasy VS Rising\u3011 THATS RIGHT-- I didn't forget my fighting game arc! Rank B matches! \ud83d\udcaa"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-07T03:06:45Z",
       "scheduledStartTime": "2024-05-07T03:00:00Z",
       "activeLiveChatId": "Cg0KC2FwaFZTR0FRcXQ0KicKGFVDUEszUzlpajBEWElObVRqUTRLaFFWQRILYXBoVlNHQVFxdDQ"
     }
@@ -5456,17 +5471,6 @@
       "activeLiveChatId": "Cg0KC3NrVENLZ003YmlJKicKGFVDazB2dXd3c21fVVFISElPZ0d2eFUtQRILc2tUQ0tnTTdiaUk"
     }
   },
-  "star2d2": {
-    "snippet": {
-      "channelId": "star2d2",
-      "title": "\u2b50HELLO CHAT\u2b50  CUTE GIRLS QWKJEGQWEKWQG | !youtube !socials !vite !merch",
-      "channelTitle": "star2d2"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-06T20:16:52Z",
-      "twitch": true
-    }
-  },
   "su2wbOAvLjI": {
     "snippet": {
       "publishedAt": "2023-11-20T14:49:46Z",
@@ -5631,18 +5635,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-08T21:00:00Z",
       "activeLiveChatId": "Cg0KC3VfanhOS3N2UHhNKicKGFVDS0pleGFkQ2VObzNsdTBVMjBza21OZxILdV9qeE5Lc3ZQeE0"
-    }
-  },
-  "uekjW-Ukf8U": {
-    "snippet": {
-      "publishedAt": "2024-05-05T14:44:17Z",
-      "channelId": "UCZl92wMipjYFc1Ulm9Yy65g",
-      "title": "\u3010Bunny Garden\u3011 MIUKA-CHAN I'M HERE FOR YOU \u3010Yuno Hanaki\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-07T00:05:28Z",
-      "scheduledStartTime": "2024-05-07T00:00:00Z",
-      "activeLiveChatId": "Cg0KC3Vla2pXLVVrZjhVKicKGFVDWmw5MndNaXBqWUZjMVVsbTlZeTY1ZxILdWVralctVWtmOFU"
     }
   },
   "v0AOLPQfx1o": {
@@ -5923,6 +5915,17 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC3loTXdTVS0zUzdnKicKGFVDS0tINjRpSFpIMk85TmRsc09RRDJRZxILeWhNd1NVLTNTN2c"
+    }
+  },
+  "yuuna": {
+    "snippet": {
+      "channelId": "yuuna",
+      "title": "diaries of an OL episode 1",
+      "channelTitle": "yuuna"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-07T03:01:52Z",
+      "twitch": true
     }
   },
   "zAU6P60RxjI": {
