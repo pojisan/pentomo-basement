@@ -3825,17 +3825,6 @@
       "twitch": true
     }
   },
-  "apollomythos": {
-    "snippet": {
-      "channelId": "apollomythos",
-      "title": "\ud83d\udc97Playing spooky game\ud83d\udc97\u3010!discord\u3011\u3010!mythos\u3011\u3010!raid\u3011\u3010!Donate\u3011",
-      "channelTitle": "ApolloMythos"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-07T20:03:49Z",
-      "twitch": true
-    }
-  },
   "aresmythos": {
     "snippet": {
       "channelId": "aresmythos",
@@ -4008,18 +3997,6 @@
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-10T01:00:00Z"
-    }
-  },
-  "cmfnCcn8rmw": {
-    "snippet": {
-      "publishedAt": "2024-05-07T10:40:52Z",
-      "channelId": "UC0JFt5Jjl5a__zOaZLqk7Pg",
-      "title": "\u3010Hollow Knight\u3011 Finding and Beating Every Boss in the Game \u3010Part 4\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-07T17:58:49Z",
-      "scheduledStartTime": "2024-05-07T18:00:00Z",
-      "activeLiveChatId": "Cg0KC2NtZm5DY244cm13KicKGFVDMEpGdDVKamw1YV9fek9hWkxxazdQZxILY21mbkNjbjhybXc"
     }
   },
   "cmnTYpvOTgk": {
@@ -4452,6 +4429,7 @@
       "title": "\u3010\u671d\u6d3b\u3011\u5947\u8de1\u306e\u30b2\u30ea\u30e9\u671d\u96d1\u8ac7\u30bf\u30a4\u30e0\u3067\u304d\u307f\u305f\u3061\u3092\u304a\u898b\u9001\u308a\uff5c\u7e26\u578b\u914d\u4fe1\u3010\u30ec\u30a4\u30f3\u30fb\u30d1\u30bf\u30fc\u30bd\u30f3/\u306b\u3058\u3055\u3093\u3058\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-07T22:11:37Z",
       "scheduledStartTime": "2024-05-07T22:05:00Z",
       "activeLiveChatId": "Cg0KC2hRV2JIam5PaGJRKicKGFVDUm02bHF0ZHhzX1FvNkhlTC1TUlEtdxILaFFXYkhqbk9oYlE"
     }
@@ -6245,6 +6223,17 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC3loTXdTVS0zUzdnKicKGFVDS0tINjRpSFpIMk85TmRsc09RRDJRZxILeWhNd1NVLTNTN2c"
+    }
+  },
+  "z0xGSpmYtfs": {
+    "snippet": {
+      "publishedAt": "2024-05-07T22:16:22Z",
+      "channelId": "UCGuwYlFddLhCwjJrxUYupxA",
+      "title": "\u3010Zatsu\u3011Zhuni's LA trip recap, I have no idea what happened on Saturday night #zhunisession"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-07T23:00:00Z",
+      "activeLiveChatId": "Cg0KC3oweEdTcG1ZdGZzKicKGFVDR3V3WWxGZGRMaEN3akpyeFVZdXB4QRILejB4R1NwbVl0ZnM"
     }
   },
   "zAU6P60RxjI": {
