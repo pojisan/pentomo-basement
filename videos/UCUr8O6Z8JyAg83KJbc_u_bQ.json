@@ -3039,13 +3039,12 @@
     "snippet": {
       "publishedAt": "2024-05-07T06:05:21Z",
       "channelId": "UCUr8O6Z8JyAg83KJbc_u_bQ",
-      "title": "we restarted everything.",
-      "private": true
+      "title": "we restarted everything."
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-07T06:05:29Z",
-      "scheduledStartTime": "2024-05-07T06:05:31Z",
-      "activeLiveChatId": "Cg0KC1pOMmxHYlg1RVNNKicKGFVDVXI4TzZaOEp5QWc4M0tKYmNfdV9iURILWk4ybEdiWDVFU00"
+      "actualEndTime": "2024-05-07T09:14:22Z",
+      "scheduledStartTime": "2024-05-07T06:05:31Z"
     }
   }
 }
