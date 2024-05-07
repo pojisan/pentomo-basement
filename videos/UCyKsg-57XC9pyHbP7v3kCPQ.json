@@ -8511,8 +8511,20 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-07T00:29:08Z",
-      "scheduledStartTime": "2024-05-07T00:30:00Z",
-      "activeLiveChatId": "Cg0KC2tkczNuMHg0ZlNjKicKGFVDeUtzZy01N1hDOXB5SGJQN3Yza0NQURILa2RzM24weDRmU2M"
+      "actualEndTime": "2024-05-07T03:22:30Z",
+      "scheduledStartTime": "2024-05-07T00:30:00Z"
+    }
+  },
+  "cEOV01_lB4c": {
+    "snippet": {
+      "publishedAt": "2024-05-07T03:21:58Z",
+      "channelId": "UCyKsg-57XC9pyHbP7v3kCPQ",
+      "title": "I HATE YIOU (not really)"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-07T03:27:35Z",
+      "scheduledStartTime": "2024-05-07T03:20:00Z",
+      "activeLiveChatId": "Cg0KC2NFT1YwMV9sQjRjKicKGFVDeUtzZy01N1hDOXB5SGJQN3Yza0NQURILY0VPVjAxX2xCNGM"
     }
   }
 }
