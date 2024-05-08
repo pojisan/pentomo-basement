@@ -2796,7 +2796,7 @@
       "title": "\u3010FREE CHAT & SCHEDULE\u2728\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-09T04:15:00Z",
+      "scheduledStartTime": "2025-05-09T04:15:00Z",
       "activeLiveChatId": "Cg0KCzNteS1OYTNmUU5vKicKGFVDdWFEaWRHazRITkxPblFFOXd6TU1lURILM215LU5hM2ZRTm8"
     }
   },
@@ -7732,8 +7732,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-08T04:19:39Z",
-      "scheduledStartTime": "2024-05-08T04:19:24Z",
-      "activeLiveChatId": "Cg0KC1djTU9yVEg0VlhNKicKGFVDdWFEaWRHazRITkxPblFFOXd6TU1lURILV2NNT3JUSDRWWE0"
+      "actualEndTime": "2024-05-08T08:37:12Z",
+      "scheduledStartTime": "2024-05-08T04:19:24Z"
     }
   }
 }

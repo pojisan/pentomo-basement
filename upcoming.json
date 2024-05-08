@@ -522,7 +522,7 @@
       "title": "\u3010FREE CHAT & SCHEDULE\u2728\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-09T04:15:00Z",
+      "scheduledStartTime": "2025-05-09T04:15:00Z",
       "activeLiveChatId": "Cg0KCzNteS1OYTNmUU5vKicKGFVDdWFEaWRHazRITkxPblFFOXd6TU1lURILM215LU5hM2ZRTm8"
     }
   },
@@ -2169,6 +2169,7 @@
       "title": "\u3010CHAT/\u96d1\u8ac7\u3011Good morning, nerds!\u3010Pippa Pebblesworth | globie\u3011#shorts #shortsfeed"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-08T08:36:55Z",
       "scheduledStartTime": "2024-05-08T08:30:00Z",
       "activeLiveChatId": "Cg0KC0xoOUZ4SFpPSXdnKicKGFVDM0ZXU2RoX0t0RUxhZWU4dDQwMEpiQRILTGg5RnhIWk9Jd2c"
     }
@@ -3137,6 +3138,17 @@
       "activeLiveChatId": "Cg0KC1dSQy1PRUVzaWJ3KicKGFVDZHVib3RTeTRwUE9zaWFXNE1yWW4zURILV1JDLU9FRXNpYnc"
     }
   },
+  "WSIk50tlU9k": {
+    "snippet": {
+      "publishedAt": "2024-05-08T08:37:38Z",
+      "channelId": "UComInW10MkHJs-_vi4rHQCQ",
+      "title": "\u3010I TRY TO SPEAK CHINESE\u3011\u200b\u200bi still cannot read\u3010Dokibird\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-09T05:00:00Z",
+      "activeLiveChatId": "Cg0KC1dTSWs1MHRsVTlrKicKGFVDb21JblcxME1rSEpzLV92aTRySFFDURILV1NJazUwdGxVOWs"
+    }
+  },
   "WStZSRHg0y0": {
     "snippet": {
       "publishedAt": "2024-05-05T14:49:36Z",
@@ -3178,18 +3190,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-08T03:30:00Z",
       "activeLiveChatId": "Cg0KC1dfNEprYjhnLTZNKicKGFVDNDdyTm1rRGNOZ2JPY00tMkJ3ekpUURILV180SmtiOGctNk0"
-    }
-  },
-  "WcMOrTH4VXM": {
-    "snippet": {
-      "publishedAt": "2024-05-07T17:18:31Z",
-      "channelId": "UCuaDidGk4HNLOnQE9wzMMeQ",
-      "title": "ANGELS EXISTS..... AND THEY'RE IN MY MONSTER RANCH"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-08T04:19:39Z",
-      "scheduledStartTime": "2024-05-08T04:19:24Z",
-      "activeLiveChatId": "Cg0KC1djTU9yVEg0VlhNKicKGFVDdWFEaWRHazRITkxPblFFOXd6TU1lURILV2NNT3JUSDRWWE0"
     }
   },
   "WhazzeqhJS4": {
@@ -3286,6 +3286,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-12-31T09:10:00Z",
       "activeLiveChatId": "Cg0KC1hLempVX3pRWEJjKicKGFVDdXRjdVl0MDV0NmZ6OTNsMUlGZlkwdxILWEt6alVfelFYQmM"
+    }
+  },
+  "XL48NhJBvlk": {
+    "snippet": {
+      "publishedAt": "2024-05-08T08:36:06Z",
+      "channelId": "UCdubotSy4pPOsiaW4MrYn3Q",
+      "title": "sneaking into your room before bedtime #shorts #shortsfeed #shortslive\u3010Mono Monet \ud83d\udcad\ud83c\udfa8 V4Mirai\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-08T08:45:00Z",
+      "activeLiveChatId": "Cg0KC1hMNDhOaEpCdmxrKicKGFVDZHVib3RTeTRwUE9zaWFXNE1yWW4zURILWEw0OE5oSkJ2bGs"
     }
   },
   "XQdj0cbPgHg": {
@@ -5428,6 +5439,7 @@
       "title": "\u3010Bunny Garden\u3011TAKE MY MONEY!\u3010Yumi The Witch | V4Mirai | ENVtuber\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-08T08:31:41Z",
       "scheduledStartTime": "2024-05-08T08:30:00Z",
       "activeLiveChatId": "Cg0KC3JZbjFRcVUyNHNzKicKGFVDMUpuYWdycWpUekVScWZwTnRSZngxQRILclluMVFxVTI0c3M"
     }
