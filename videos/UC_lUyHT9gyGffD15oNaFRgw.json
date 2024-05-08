@@ -499,7 +499,8 @@
     "snippet": {
       "publishedAt": "2024-05-08T05:53:33Z",
       "channelId": "UC_lUyHT9gyGffD15oNaFRgw",
-      "title": "\u3010DAVE THE DIVER\u3011 gooooo morning under the sea rooooo"
+      "title": "\u3010DAVE THE DIVER\u3011 gooooo morning under the sea rooooo",
+      "private": true
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-08T06:07:30Z",
@@ -511,12 +512,25 @@
     "snippet": {
       "publishedAt": "2024-05-08T06:10:36Z",
       "channelId": "UC_lUyHT9gyGffD15oNaFRgw",
-      "title": "\u3010DAVE THE DIVER\u3011 gooooo morning under the sea rooooo"
+      "title": "\u3010DAVE THE DIVER\u3011 gooooo morning under the sea rooooo",
+      "private": true
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-08T06:10:50Z",
       "scheduledStartTime": "2024-05-08T06:10:45Z",
       "activeLiveChatId": "Cg0KC2NLX1ItOWtwYm40KicKGFVDX2xVeUhUOWd5R2ZmRDE1b05hRlJndxILY0tfUi05a3BibjQ"
+    }
+  },
+  "KKoF4UDkxLM": {
+    "snippet": {
+      "publishedAt": "2024-05-08T06:11:23Z",
+      "channelId": "UC_lUyHT9gyGffD15oNaFRgw",
+      "title": "\u3010DAVE THE DIVER\u3011 gooooo morning under the sea"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-08T06:12:33Z",
+      "scheduledStartTime": "2024-05-08T06:10:00Z",
+      "activeLiveChatId": "Cg0KC0tLb0Y0VURreExNKicKGFVDX2xVeUhUOWd5R2ZmRDE1b05hRlJndxILS0tvRjRVRGt4TE0"
     }
   }
 }
