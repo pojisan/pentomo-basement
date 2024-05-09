@@ -1481,7 +1481,8 @@
     "snippet": {
       "publishedAt": "2024-05-09T02:29:09Z",
       "channelId": "UCf4U3iVUDkkhIv3jnr41u-Q",
-      "title": "TEST"
+      "title": "TEST",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-09T02:29:08Z",
@@ -1499,6 +1500,13 @@
       "actualEndTime": "2024-05-09T04:29:44Z",
       "scheduledStartTime": "2024-05-09T02:33:34Z",
       "activeLiveChatId": "Cg0KC0lCOFNJbDZsZnBvKicKGFVDZjRVM2lWVURra2hJdjNqbnI0MXUtURILSUI4U0lsNmxmcG8"
+    }
+  },
+  "gpxhsKYV3Z0": {
+    "snippet": {
+      "publishedAt": "2024-05-09T06:45:02Z",
+      "channelId": "UCf4U3iVUDkkhIv3jnr41u-Q",
+      "title": "[Unrailed] with @SakamotoNeko & @ArslanTheJester !  | #OshiLink #vtuber"
     }
   }
 }
