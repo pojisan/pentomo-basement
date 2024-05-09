@@ -2870,7 +2870,7 @@
       "title": "\u3010Content Warning\u3011with Luto, Ami and Nana!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-09T01:30:00Z",
+      "scheduledStartTime": "2024-05-09T02:30:00Z",
       "activeLiveChatId": "Cg0KC1NVbTRaWFpvUC1nKicKGFVDMmhXRmxxTWV3NjFKeTZBOHp1NUh6URILU1VtNFpYWm9QLWc"
     }
   },
@@ -2943,7 +2943,7 @@
     "snippet": {
       "publishedAt": "2024-05-06T08:27:59Z",
       "channelId": "UCiBMH1d7ew_3bi2A_zZGsmw",
-      "title": "\u3010SuperMarket Sim\u3011 Come for the best prices! \u3010idolES | Taiga Toragami\u3011"
+      "title": "\u3010SuperMarket Sim\u3011 Come here for the best prices! \u3010idolES | Taiga Toragami\u3011"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-09T02:00:00Z",
@@ -4843,18 +4843,6 @@
       "activeLiveChatId": "Cg0KC2xXTGt4SU4wanN3KicKGFVDMFpUVnhDSGtaYW5UNWRuUDJGWkQ0URILbFdMa3hJTjBqc3c"
     }
   },
-  "lWgpkC3adCY": {
-    "snippet": {
-      "publishedAt": "2024-05-08T18:12:12Z",
-      "channelId": "UCLdkcTt5vOfGi_myvK-iO0g",
-      "title": "\u30106 HOUR LIVE STREAM\u3011IT'S WEDNESDAY MY DUDES AUUUGHUIJHISDHFNKJ"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-08T19:04:25Z",
-      "scheduledStartTime": "2024-05-08T19:00:00Z",
-      "activeLiveChatId": "Cg0KC2xXZ3BrQzNhZENZKicKGFVDTGRrY1R0NXZPZkdpX215dkstaU8wZxILbFdncGtDM2FkQ1k"
-    }
-  },
   "lXC41WlqC2A": {
     "snippet": {
       "publishedAt": "2024-05-07T03:51:22Z",
@@ -5176,6 +5164,7 @@
       "title": "\u3010DARK SOULS 2\u3011my daily nutrition\u3010LONG SWORD ONLY\u3011 | #vtuber"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-09T01:31:13Z",
       "scheduledStartTime": "2024-05-09T01:00:00Z",
       "activeLiveChatId": "Cg0KC29UbXFrREU1YWJNKicKGFVDNFdzTEVfeGRybmQwNUQwNUdvOW9YdxILb1RtcWtERTVhYk0"
     }
