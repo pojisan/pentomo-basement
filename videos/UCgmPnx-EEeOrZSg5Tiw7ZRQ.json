@@ -8559,5 +8559,28 @@
       "actualEndTime": "2024-05-08T03:12:18Z",
       "scheduledStartTime": "2024-05-08T01:00:00Z"
     }
+  },
+  "oCOGTtxq24k": {
+    "snippet": {
+      "publishedAt": "2024-05-09T04:05:34Z",
+      "channelId": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+      "title": "???"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-12T04:30:00Z",
+      "activeLiveChatId": "Cg0KC29DT0dUdHhxMjRrKicKGFVDZ21QbngtRUVlT3JaU2c1VGl3N1pSURILb0NPR1R0eHEyNGs",
+      "premiere": true
+    }
+  },
+  "i6Cw8m6R_TA": {
+    "snippet": {
+      "publishedAt": "2024-05-09T04:03:09Z",
+      "channelId": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+      "title": "\u226aNEW OUTFIT REVEAL\u226b #WitnessME"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-12T03:00:00Z",
+      "activeLiveChatId": "Cg0KC2k2Q3c4bTZSX1RBKicKGFVDZ21QbngtRUVlT3JaU2c1VGl3N1pSURILaTZDdzhtNlJfVEE"
+    }
   }
 }

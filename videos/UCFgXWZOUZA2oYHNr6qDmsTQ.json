@@ -9141,11 +9141,23 @@
     "snippet": {
       "publishedAt": "2024-05-08T09:49:47Z",
       "channelId": "UCFgXWZOUZA2oYHNr6qDmsTQ",
-      "title": "WARHAMMER 40K: DARKTIDE PART 2"
+      "title": "WARHAMMER 40K: DARKTIDE PART 2",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-09T06:00:00Z",
       "activeLiveChatId": "Cg0KC3dVWGRROHFGbEVvKicKGFVDRmdYV1pPVVpBMm9ZSE5yNnFEbXNUURILd1VYZFE4cUZsRW8"
+    }
+  },
+  "Wswpbigs2Xs": {
+    "snippet": {
+      "publishedAt": "2024-05-09T04:10:38Z",
+      "channelId": "UCFgXWZOUZA2oYHNr6qDmsTQ",
+      "title": "BUNNY GARDEN p.2 AIMING FOR THE HAREM ENDING"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-09T06:00:00Z",
+      "activeLiveChatId": "Cg0KC1dzd3BiaWdzMlhzKicKGFVDRmdYV1pPVVpBMm9ZSE5yNnFEbXNUURILV3N3cGJpZ3MyWHM"
     }
   }
 }
