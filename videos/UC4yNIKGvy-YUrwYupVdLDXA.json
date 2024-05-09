@@ -4756,5 +4756,27 @@
       "actualEndTime": "2024-05-07T15:05:56Z",
       "scheduledStartTime": "2024-05-07T13:00:00Z"
     }
+  },
+  "vCtpg4sMnj0": {
+    "snippet": {
+      "publishedAt": "2024-05-09T23:49:58Z",
+      "channelId": "UC4yNIKGvy-YUrwYupVdLDXA",
+      "title": "HELLDIVERS 2 w/ Luxiem!\u3010NIJISANJI EN | Ike Eveland\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-11T00:00:00Z",
+      "activeLiveChatId": "Cg0KC3ZDdHBnNHNNbmowKicKGFVDNHlOSUtHdnktWVVyd1l1cFZkTERYQRILdkN0cGc0c01uajA"
+    }
+  },
+  "V9ZrVXzvp6A": {
+    "snippet": {
+      "publishedAt": "2024-05-09T23:45:15Z",
+      "channelId": "UC4yNIKGvy-YUrwYupVdLDXA",
+      "title": "\u3010NIER: AUTOMATA\u3011Glory to Mankind\u3010NIJISANJI EN | Ike Eveland\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-10T10:00:00Z",
+      "activeLiveChatId": "Cg0KC1Y5WnJWWHp2cDZBKicKGFVDNHlOSUtHdnktWVVyd1l1cFZkTERYQRILVjlaclZYenZwNkE"
+    }
   }
 }
