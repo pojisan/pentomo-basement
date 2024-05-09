@@ -651,5 +651,28 @@
       "actualEndTime": "2024-05-05T06:12:44Z",
       "scheduledStartTime": "2024-05-05T03:30:00Z"
     }
+  },
+  "Q7W5zWN4DeU": {
+    "snippet": {
+      "publishedAt": "2024-05-06T07:17:29Z",
+      "channelId": "UCn7IbVBtkoUaZELqtrb9qNQ",
+      "title": "\u3010MINECRAFT\u3011so .. My House?\u3010ArashiNebula_HOSHIZORA\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-06T11:59:31Z",
+      "actualEndTime": "2024-05-06T14:32:04Z",
+      "scheduledStartTime": "2024-05-06T12:00:00Z"
+    }
+  },
+  "nLi3rAQsaNY": {
+    "snippet": {
+      "publishedAt": "2024-05-07T06:57:43Z",
+      "channelId": "UCn7IbVBtkoUaZELqtrb9qNQ",
+      "title": "\u3010RAFT\u3011Will this be the last journey?\u3010ArashiNebula_HOSHIZORA\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-07T13:00:00Z",
+      "activeLiveChatId": "Cg0KC25MaTNyQVFzYU5ZKicKGFVDbjdJYlZCdGtvVWFaRUxxdHJiOXFOURILbkxpM3JBUXNhTlk"
+    }
   }
 }

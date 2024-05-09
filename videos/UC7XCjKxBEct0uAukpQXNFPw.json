@@ -2866,8 +2866,27 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-05T23:26:38Z",
-      "scheduledStartTime": "2024-05-05T23:30:00Z",
-      "activeLiveChatId": "Cg0KCzExQnh2Zzd0aGhrKicKGFVDN1hDakt4QkVjdDB1QXVrcFFYTkZQdxILMTFCeHZnN3RoaGs"
+      "actualEndTime": "2024-05-06T00:31:19Z",
+      "scheduledStartTime": "2024-05-05T23:30:00Z"
+    }
+  },
+  "PemzABlxh_Q": {
+    "snippet": {
+      "publishedAt": "2024-05-07T10:00:26Z",
+      "channelId": "UC7XCjKxBEct0uAukpQXNFPw",
+      "title": "Twilight Line / HACHI\u3010HACHI Birthday Acoustic Live 2024\u3011#shorts"
+    }
+  },
+  "kfYP7ZEFOc4": {
+    "snippet": {
+      "publishedAt": "2024-05-07T13:32:51Z",
+      "channelId": "UC7XCjKxBEct0uAukpQXNFPw",
+      "title": "\u3010\u6b4c\u67a0\u3011\u3057\u3063\u3068\u308a\u6b4c\u67a0\uff01\uff01-Midnight station -62 \u3010HACHI\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-07T15:00:32Z",
+      "actualEndTime": "2024-05-07T15:53:46Z",
+      "scheduledStartTime": "2024-05-07T15:00:00Z"
     }
   }
 }

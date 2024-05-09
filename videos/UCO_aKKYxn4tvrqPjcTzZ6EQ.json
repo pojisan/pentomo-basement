@@ -6118,8 +6118,22 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-05T22:00:12Z",
+      "actualEndTime": "2024-05-06T01:36:38Z",
       "scheduledStartTime": "2024-05-05T22:00:00Z",
       "activeLiveChatId": "Cg0KCzlnVEMwR0JsVTBJKicKGFVDT19hS0tZeG40dHZycVBqY1R6WjZFURILOWdUQzBHQmxVMEk"
+    }
+  },
+  "wVhNlpwu2hs": {
+    "snippet": {
+      "publishedAt": "2024-05-06T19:51:56Z",
+      "channelId": "UCO_aKKYxn4tvrqPjcTzZ6EQ",
+      "title": "\u3010MINECRAFT\u3011 My desert. My Minecraft. My dune."
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-06T22:00:13Z",
+      "actualEndTime": "2024-05-07T01:00:42Z",
+      "scheduledStartTime": "2024-05-06T22:00:00Z",
+      "activeLiveChatId": "Cg0KC3dWaE5scHd1MmhzKicKGFVDT19hS0tZeG40dHZycVBqY1R6WjZFURILd1ZoTmxwd3UyaHM"
     }
   }
 }

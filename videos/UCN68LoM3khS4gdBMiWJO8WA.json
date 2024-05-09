@@ -5594,8 +5594,34 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-05T22:08:13Z",
-      "scheduledStartTime": "2024-05-05T22:00:00Z",
-      "activeLiveChatId": "Cg0KC25iaGlweTBOc09FKicKGFVDTjY4TG9NM2toUzRnZEJNaVdKTzhXQRILbmJoaXB5ME5zT0U"
+      "actualEndTime": "2024-05-06T03:05:25Z",
+      "scheduledStartTime": "2024-05-05T22:00:00Z"
+    }
+  },
+  "knbeaV3rB98": {
+    "snippet": {
+      "publishedAt": "2024-05-06T16:58:41Z",
+      "channelId": "UCN68LoM3khS4gdBMiWJO8WA",
+      "title": "\u3010BUNNY GARDEN\u3011 cute bunny girls take my money \u3010NIJISANJI EN | Aia Amare \u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-06T23:16:33Z",
+      "actualEndTime": "2024-05-07T03:37:34Z",
+      "scheduledStartTime": "2024-05-06T23:00:00Z",
+      "activeLiveChatId": "Cg0KC2tuYmVhVjNyQjk4KicKGFVDTjY4TG9NM2toUzRnZEJNaVdKTzhXQRILa25iZWFWM3JCOTg"
+    }
+  },
+  "Vm6vss7x4Z0": {
+    "snippet": {
+      "publishedAt": "2024-05-08T06:32:21Z",
+      "channelId": "UCN68LoM3khS4gdBMiWJO8WA",
+      "title": "\u3010BALDUR'S GATE 3\u3011 SHARESS' CARESS (pt 21) \u3010NIJISANJI EN | Aia Amare \u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-08T22:06:32Z",
+      "actualEndTime": "2024-05-09T02:27:51Z",
+      "scheduledStartTime": "2024-05-08T22:00:00Z",
+      "activeLiveChatId": "Cg0KC1ZtNnZzczd4NFowKicKGFVDTjY4TG9NM2toUzRnZEJNaVdKTzhXQRILVm02dnNzN3g0WjA"
     }
   }
 }

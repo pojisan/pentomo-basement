@@ -34,7 +34,7 @@
     "snippet": {
       "publishedAt": "2024-04-16T12:33:17Z",
       "channelId": "UC1JnagrqjTzERqfpNtRfx1A",
-      "title": "\u3010FREE CHAT\u3011April 29th - May 5th \u3010Yumi The Witch | V4Mirai | ENVtuber\u3011"
+      "title": "\u3010FREE CHAT\u3011May 6th - May 12th\u3010Yumi The Witch | V4Mirai | ENVtuber\u3011"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-01-01T11:35:00Z",
@@ -310,8 +310,44 @@
       "title": "\u3010MEMBERS WATCHALONG\u3011THE MUMMY! Get ready to see me fan girl!\u3010Yumi The Witch | V4Mirai | ENVtuber\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-06T00:00:00Z",
-      "activeLiveChatId": "Cg0KC0tZU0tDYWprcW40KicKGFVDMUpuYWdycWpUekVScWZwTnRSZngxQRILS1lTS0NhamtxbjQ"
+      "actualStartTime": "2024-05-05T23:50:17Z",
+      "actualEndTime": "2024-05-06T02:02:20Z",
+      "scheduledStartTime": "2024-05-06T00:00:00Z"
+    }
+  },
+  "NbJvkwPeX7E": {
+    "snippet": {
+      "publishedAt": "2024-05-07T13:39:53Z",
+      "channelId": "UC1JnagrqjTzERqfpNtRfx1A",
+      "title": "\u3010ALIEN: ISOLATION\u30113rd Base with Xeno!\u3010Yumi The Witch | V4Mirai | ENVtuber\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-10T08:30:00Z",
+      "activeLiveChatId": "Cg0KC05iSnZrd1BlWDdFKicKGFVDMUpuYWdycWpUekVScWZwTnRSZngxQRILTmJKdmt3UGVYN0U"
+    }
+  },
+  "wxQEiDKaQh4": {
+    "snippet": {
+      "publishedAt": "2024-05-07T13:44:51Z",
+      "channelId": "UC1JnagrqjTzERqfpNtRfx1A",
+      "title": "\u3010Kidnapped GAME\u3011IT'S ALWAYS THE CLOWNS!\u3010Yumi The Witch | V4Mirai | ENVtuber\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-09T08:30:00Z",
+      "activeLiveChatId": "Cg0KC3d4UUVpREthUWg0KicKGFVDMUpuYWdycWpUekVScWZwTnRSZngxQRILd3hRRWlES2FRaDQ"
+    }
+  },
+  "rYn1QqU24ss": {
+    "snippet": {
+      "publishedAt": "2024-05-07T13:42:16Z",
+      "channelId": "UC1JnagrqjTzERqfpNtRfx1A",
+      "title": "\u3010Bunny Garden\u3011TAKE MY MONEY!\u3010Yumi The Witch | V4Mirai | ENVtuber\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-08T08:31:41Z",
+      "actualEndTime": "2024-05-08T13:07:01Z",
+      "scheduledStartTime": "2024-05-08T08:30:00Z",
+      "activeLiveChatId": "Cg0KC3JZbjFRcVUyNHNzKicKGFVDMUpuYWdycWpUekVScWZwTnRSZngxQRILclluMVFxVTI0c3M"
     }
   }
 }

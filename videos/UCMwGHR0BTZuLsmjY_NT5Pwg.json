@@ -7701,8 +7701,21 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-05T21:01:24Z",
-      "scheduledStartTime": "2024-05-05T21:00:00Z",
-      "activeLiveChatId": "Cg0KC3BDWjU5S2w5bVAwKicKGFVDTXdHSFIwQlRadUxzbWpZX05UNVB3ZxILcENaNTlLbDltUDA"
+      "actualEndTime": "2024-05-06T00:44:57Z",
+      "scheduledStartTime": "2024-05-05T21:00:00Z"
+    }
+  },
+  "XYL0ruvuu28": {
+    "snippet": {
+      "publishedAt": "2024-05-06T09:55:20Z",
+      "channelId": "UCMwGHR0BTZuLsmjY_NT5Pwg",
+      "title": "\u3010Idol Showdown\u3011 INA INA INAAAAAA"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-06T21:01:09Z",
+      "actualEndTime": "2024-05-06T23:10:54Z",
+      "scheduledStartTime": "2024-05-06T21:00:00Z",
+      "activeLiveChatId": "Cg0KC1hZTDBydXZ1dTI4KicKGFVDTXdHSFIwQlRadUxzbWpZX05UNVB3ZxILWFlMMHJ1dnV1Mjg"
     }
   }
 }

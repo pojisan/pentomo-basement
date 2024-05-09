@@ -8162,5 +8162,35 @@
       "actualEndTime": "2024-05-04T06:16:20Z",
       "scheduledStartTime": "2024-05-04T04:00:00Z"
     }
+  },
+  "FL9VAR7cDIc": {
+    "snippet": {
+      "publishedAt": "2024-05-07T05:03:29Z",
+      "channelId": "UCZfQRuwSLty74QAj55BaKlA",
+      "title": "\u3010Meno Learning\u3011Meno need to catch up!\u3010Ibuki Meno\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-07T05:34:24Z",
+      "actualEndTime": "2024-05-07T07:23:11Z",
+      "scheduledStartTime": "2024-05-07T05:30:00Z"
+    }
+  },
+  "YhV8JI6_XAc": {
+    "snippet": {
+      "publishedAt": "2024-05-07T07:15:47Z",
+      "channelId": "UCZfQRuwSLty74QAj55BaKlA",
+      "title": "\u3010Watchalong\u3011Let's watch anime together!\u3010Ibuki Meno\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-09T05:30:00Z",
+      "activeLiveChatId": "Cg0KC1loVjhKSTZfWEFjKicKGFVDWmZRUnV3U0x0eTc0UUFqNTVCYUtsQRILWWhWOEpJNl9YQWM"
+    }
+  },
+  "9dKs2-zQXuY": {
+    "snippet": {
+      "publishedAt": "2024-05-08T08:49:58Z",
+      "channelId": "UCZfQRuwSLty74QAj55BaKlA",
+      "title": "Meno Borthday 2024! #vtuber #IbukiMeno #birthday"
+    }
   }
 }

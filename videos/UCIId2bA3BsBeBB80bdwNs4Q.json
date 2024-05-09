@@ -709,8 +709,9 @@
       "title": "\u3010FALLOUT 4 \u3011making great googly moogly with a deathclaw\u3010Yume+ | Rhea Nevermore\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-08T23:00:00Z",
-      "activeLiveChatId": "Cg0KC3RwMzJQS2tfODE4KicKGFVDSUlkMmJBM0JzQmVCQjgwYmR3TnM0URILdHAzMlBLa184MTg"
+      "actualStartTime": "2024-05-08T22:59:27Z",
+      "actualEndTime": "2024-05-09T02:06:14Z",
+      "scheduledStartTime": "2024-05-08T23:00:00Z"
     }
   },
   "rUxwgxrUsHc": {
@@ -720,8 +721,28 @@
       "title": "\u3010BUNNY GARDEN \u3011 pretty bunny girls!!! WHO WILL JOAT ROMANCE?\u3010Yume+ | Rhea Nevermore\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-07T23:01:07Z",
+      "actualEndTime": "2024-05-08T02:19:08Z",
       "scheduledStartTime": "2024-05-07T23:00:00Z",
       "activeLiveChatId": "Cg0KC3JVeHdneHJVc0hjKicKGFVDSUlkMmJBM0JzQmVCQjgwYmR3TnM0URILclV4d2d4clVzSGM"
+    }
+  },
+  "jPWmiWzvRZI": {
+    "snippet": {
+      "publishedAt": "2024-05-06T19:21:50Z",
+      "channelId": "UCIId2bA3BsBeBB80bdwNs4Q",
+      "title": "\u3010ZATSU \u3011Afternoon tea party with actual tea and snacks\u3010Yume+ | Rhea Nevermore\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-11T20:00:00Z",
+      "activeLiveChatId": "Cg0KC2pQV21pV3p2UlpJKicKGFVDSUlkMmJBM0JzQmVCQjgwYmR3TnM0URILalBXbWlXenZSWkk"
+    }
+  },
+  "TPAsvQ_4EfA": {
+    "snippet": {
+      "publishedAt": "2024-05-06T21:00:20Z",
+      "channelId": "UCIId2bA3BsBeBB80bdwNs4Q",
+      "title": "vtuber makes out with skyrim dragon  (NOT CLICKBAIT)"
     }
   }
 }

@@ -3530,11 +3530,12 @@
     "snippet": {
       "publishedAt": "2024-05-02T18:25:29Z",
       "channelId": "UCpYf6C9QsP_BRf97vLuXlIA",
-      "title": "DRUNK PORTAL 2 W/ ZALI!\u3010NIJISANJI EN | Vantacrow Bringer\u3011",
-      "private": true
+      "title": "DRUNK PORTAL 2 W/ ZALI!\u3010NIJISANJI EN | Vantacrow Bringer\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-02T23:00:00Z",
+      "actualStartTime": "2024-05-07T23:04:44Z",
+      "actualEndTime": "2024-05-08T01:56:18Z",
+      "scheduledStartTime": "2024-05-07T23:00:00Z",
       "activeLiveChatId": "Cg0KCzU4UzN2RzZMSFd3KicKGFVDcFlmNkM5UXNQX0JSZjk3dkx1WGxJQRILNThTM3ZHNkxIV3c"
     }
   },
@@ -3558,8 +3559,46 @@
       "title": "\u3010PERSONA 3: RELOAD\u3011I'LL SIMP FOR WHOEVER I WANT *SPOILERS\u3010NIJISANJI EN | Vantacrow Bringer\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-06T01:00:00Z",
-      "activeLiveChatId": "Cg0KC2s0ZEppNnF3ZkYwKicKGFVDcFlmNkM5UXNQX0JSZjk3dkx1WGxJQRILazRkSmk2cXdmRjA"
+      "actualStartTime": "2024-05-06T01:54:36Z",
+      "actualEndTime": "2024-05-06T06:22:52Z",
+      "scheduledStartTime": "2024-05-06T02:00:00Z"
+    }
+  },
+  "fchJuXNjTm0": {
+    "snippet": {
+      "publishedAt": "2024-05-06T18:11:03Z",
+      "channelId": "UCpYf6C9QsP_BRf97vLuXlIA",
+      "title": "\u3010ANIMAL CROSSING\u3011PLANNING AND VILLAGER HUNTING!\u3010NIJISANJI EN | Vantacrow Bringer\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-07T01:14:32Z",
+      "actualEndTime": "2024-05-07T03:42:33Z",
+      "scheduledStartTime": "2024-05-07T01:00:00Z"
+    }
+  },
+  "Yoozzozz2hM": {
+    "snippet": {
+      "publishedAt": "2024-05-08T02:57:47Z",
+      "channelId": "UCpYf6C9QsP_BRf97vLuXlIA",
+      "title": "\u3010HONKAI: STAR RAIL\u3011ROBIN AND TOPAZ I NEED\u3010NIJISANJ EN | Vantacrow Bringer\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-08T03:00:49Z",
+      "actualEndTime": "2024-05-08T03:29:54Z",
+      "scheduledStartTime": "2024-05-08T03:00:00Z",
+      "activeLiveChatId": "Cg0KC1lvb3p6b3p6MmhNKicKGFVDcFlmNkM5UXNQX0JSZjk3dkx1WGxJQRILWW9venpvenoyaE0"
+    }
+  },
+  "tfAgJ5IRNC8": {
+    "snippet": {
+      "publishedAt": "2024-05-08T04:06:30Z",
+      "channelId": "UCpYf6C9QsP_BRf97vLuXlIA",
+      "title": "\u3010MHW\u3011HUNTING WITH @CrimzonRuze !\u3010NIJISANJI EN | Vantacrow Bringer\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-09T01:03:17Z",
+      "scheduledStartTime": "2024-05-09T01:00:00Z",
+      "activeLiveChatId": "Cg0KC3RmQWdKNUlSTkM4KicKGFVDcFlmNkM5UXNQX0JSZjk3dkx1WGxJQRILdGZBZ0o1SVJOQzg"
     }
   }
 }

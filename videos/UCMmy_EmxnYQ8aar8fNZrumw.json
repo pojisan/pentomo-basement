@@ -622,8 +622,9 @@
       "title": "\u3010Karaoke\u3011romantic song only!!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-07T19:00:00Z",
-      "activeLiveChatId": "Cg0KCzJtUzBseVUwZnJnKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILMm1TMGx5VTBmcmc"
+      "actualStartTime": "2024-05-06T19:01:16Z",
+      "actualEndTime": "2024-05-06T20:31:44Z",
+      "scheduledStartTime": "2024-05-06T19:00:00Z"
     }
   },
   "HPTVlsq-e-M": {
@@ -633,19 +634,67 @@
       "title": "\u3010Ring Fit Adventure\u3011ikz!!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-06T13:00:00Z",
-      "activeLiveChatId": "Cg0KC0hQVFZsc3EtZS1NKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILSFBUVmxzcS1lLU0"
+      "actualStartTime": "2024-05-06T13:06:19Z",
+      "actualEndTime": "2024-05-06T14:51:21Z",
+      "scheduledStartTime": "2024-05-06T13:00:00Z"
     }
   },
   "gkZ8dmRIzuE": {
     "snippet": {
       "publishedAt": "2024-05-05T07:39:46Z",
       "channelId": "UCMmy_EmxnYQ8aar8fNZrumw",
-      "title": "\u3010ASMR/3Dio\u3011wifu helps you calm down / triggers + taking requests"
+      "title": "\u3010ASMR/3Dio\u3011waifu helps you calm down / triggers + taking requests"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-07T17:00:00Z",
       "activeLiveChatId": "Cg0KC2drWjhkbVJJenVFKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILZ2taOGRtUkl6dUU"
+    }
+  },
+  "FrU69Z8vbG8": {
+    "snippet": {
+      "publishedAt": "2024-05-06T16:57:35Z",
+      "channelId": "UCMmy_EmxnYQ8aar8fNZrumw",
+      "title": "let's enjoy this sunny day"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-07T19:00:00Z",
+      "activeLiveChatId": "Cg0KC0ZyVTY5Wjh2Ykc4KicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILRnJVNjlaOHZiRzg"
+    }
+  },
+  "nmn5yQslHPc": {
+    "snippet": {
+      "publishedAt": "2024-05-08T12:09:35Z",
+      "channelId": "UCMmy_EmxnYQ8aar8fNZrumw",
+      "title": "\u3010Ring Fit Adventure\u3011dont listen on full volium",
+      "private": true
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-08T13:02:33Z",
+      "scheduledStartTime": "2024-05-08T13:00:00Z",
+      "activeLiveChatId": "Cg0KC25tbjV5UXNsSFBjKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILbm1uNXlRc2xIUGM"
+    }
+  },
+  "h3ao1CjKreE": {
+    "snippet": {
+      "publishedAt": "2024-05-08T12:13:56Z",
+      "channelId": "UCMmy_EmxnYQ8aar8fNZrumw",
+      "title": "\u3010Monthly Date\u3011Let's visit the beach together"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-08T14:04:09Z",
+      "actualEndTime": "2024-05-08T15:41:29Z",
+      "scheduledStartTime": "2024-05-08T14:15:00Z"
+    }
+  },
+  "H2J1OM8smJ0": {
+    "snippet": {
+      "publishedAt": "2024-05-08T14:03:05Z",
+      "channelId": "UCMmy_EmxnYQ8aar8fNZrumw",
+      "title": "\u3010Ring Fit Adventure\u3011dont listen on full volium"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-21T17:00:00Z",
+      "activeLiveChatId": "Cg0KC0gySjFPTThzbUowKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILSDJKMU9NOHNtSjA"
     }
   }
 }

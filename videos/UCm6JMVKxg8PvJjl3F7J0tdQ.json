@@ -408,7 +408,7 @@
     "snippet": {
       "publishedAt": "2024-03-15T23:34:42Z",
       "channelId": "UCm6JMVKxg8PvJjl3F7J0tdQ",
-      "title": "Schedule + Free Chat \ud83c\udd97\ud83c\udd92 04.29 - 05.05"
+      "title": "Schedule + Free Chat \ud83c\udd97\ud83c\udd92 05.06 - 05.12"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2026-03-16T19:30:00Z",
@@ -674,8 +674,46 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-05T22:01:48Z",
-      "scheduledStartTime": "2024-05-05T22:00:00Z",
-      "activeLiveChatId": "Cg0KC2ZwWkZlM3hvOURvKicKGFVDbTZKTVZLeGc4UHZKamwzRjdKMHRkURILZnBaRmUzeG85RG8"
+      "actualEndTime": "2024-05-06T00:54:31Z",
+      "scheduledStartTime": "2024-05-05T22:00:00Z"
+    }
+  },
+  "6SDMgaVI6Ys": {
+    "snippet": {
+      "publishedAt": "2024-05-06T21:32:38Z",
+      "channelId": "UCm6JMVKxg8PvJjl3F7J0tdQ",
+      "title": "Chat Made A Sandwich... For ME\u2049\ufe0f"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-06T22:53:15Z",
+      "actualEndTime": "2024-05-07T00:46:25Z",
+      "scheduledStartTime": "2024-05-06T23:00:00Z",
+      "activeLiveChatId": "Cg0KCzZTRE1nYVZJNllzKicKGFVDbTZKTVZLeGc4UHZKamwzRjdKMHRkURILNlNETWdhVkk2WXM"
+    }
+  },
+  "dT9yLsWxetM": {
+    "snippet": {
+      "publishedAt": "2024-05-07T22:33:50Z",
+      "channelId": "UCm6JMVKxg8PvJjl3F7J0tdQ",
+      "title": "weird rubix cube. \u3010Superliminal #2\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-08T00:03:39Z",
+      "actualEndTime": "2024-05-08T02:35:39Z",
+      "scheduledStartTime": "2024-05-08T00:00:00Z"
+    }
+  },
+  "8e3Dpe7Wtu0": {
+    "snippet": {
+      "publishedAt": "2024-05-09T00:18:58Z",
+      "channelId": "UCm6JMVKxg8PvJjl3F7J0tdQ",
+      "title": "in the company of lethal cuteness... \ud83e\udd7a \u3010Lethal Company\u3011 w/ @HiyoriMokami @MiviVNU @navinanova"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-09T02:00:38Z",
+      "actualEndTime": "2024-05-09T04:37:23Z",
+      "scheduledStartTime": "2024-05-09T02:00:00Z",
+      "activeLiveChatId": "Cg0KCzhlM0RwZTdXdHUwKicKGFVDbTZKTVZLeGc4UHZKamwzRjdKMHRkURILOGUzRHBlN1d0dTA"
     }
   }
 }

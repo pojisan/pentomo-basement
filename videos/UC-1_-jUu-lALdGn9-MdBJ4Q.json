@@ -2841,8 +2841,40 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-05T23:08:00Z",
+      "actualEndTime": "2024-05-06T01:19:15Z",
       "scheduledStartTime": "2024-05-05T23:15:00Z",
       "activeLiveChatId": "Cg0KCy05cWpEbzFKUllBKicKGFVDLTFfLWpVdS1sQUxkR245LU1kQko0URILLTlxakRvMUpSWUE"
+    }
+  },
+  "LSnjL0Mmi0A": {
+    "snippet": {
+      "publishedAt": "2024-05-06T17:43:54Z",
+      "channelId": "UC-1_-jUu-lALdGn9-MdBJ4Q",
+      "title": "Meeting Ramon\u3010Resident Evil 4 Remake\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-06T23:59:41Z",
+      "actualEndTime": "2024-05-07T05:31:23Z",
+      "scheduledStartTime": "2024-05-07T00:00:00Z"
+    }
+  },
+  "rhdQ3zqx8jI": {
+    "snippet": {
+      "publishedAt": "2024-05-07T20:08:06Z",
+      "channelId": "UC-1_-jUu-lALdGn9-MdBJ4Q",
+      "title": "There's more than meets the eye..\u3010Little Goody Two Shoes\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-08T00:59:42Z",
+      "actualEndTime": "2024-05-08T05:04:50Z",
+      "scheduledStartTime": "2024-05-08T01:00:00Z"
+    }
+  },
+  "UUwRMxksURA": {
+    "snippet": {
+      "publishedAt": "2024-05-08T23:00:19Z",
+      "channelId": "UC-1_-jUu-lALdGn9-MdBJ4Q",
+      "title": "This Vtuber is short?"
     }
   }
 }

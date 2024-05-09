@@ -1244,5 +1244,40 @@
       "actualEndTime": "2024-05-02T15:07:31Z",
       "scheduledStartTime": "2024-05-02T13:00:00Z"
     }
+  },
+  "sRL6_g04nz0": {
+    "snippet": {
+      "publishedAt": "2024-05-07T06:14:33Z",
+      "channelId": "UCGadY3YPH2Gckihm_uCWeoQ",
+      "title": "[ METAL GEAR RISING #3 ]   STANDING HERE, I REALIZEEEE [ MYTH-0S EN / JP | AKIRU NOBU ]"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-07T12:59:20Z",
+      "actualEndTime": "2024-05-07T16:02:29Z",
+      "scheduledStartTime": "2024-05-07T13:00:00Z"
+    }
+  },
+  "nG3OIc7Hb_I": {
+    "snippet": {
+      "publishedAt": "2024-05-08T08:58:48Z",
+      "channelId": "UCGadY3YPH2Gckihm_uCWeoQ",
+      "title": "\u3010CONTENT WARNING\u3011FIRST TIME PLAYING THE GAME ! [ MYTH-0S EN/JP | AKIRU NOBU ]"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-08T13:02:13Z",
+      "actualEndTime": "2024-05-08T16:15:03Z",
+      "scheduledStartTime": "2024-05-08T13:00:00Z"
+    }
+  },
+  "OzNUysi73TE": {
+    "snippet": {
+      "publishedAt": "2024-05-09T03:57:33Z",
+      "channelId": "UCGadY3YPH2Gckihm_uCWeoQ",
+      "title": "\u3010PICO PARK\u3011Celebrating Rena Fenrir's Birthday! [ MYTH-0S EN | MAE ]"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-09T13:30:00Z",
+      "activeLiveChatId": "Cg0KC096TlV5c2k3M1RFKicKGFVDR2FkWTNZUEgyR2NraWhtX3VDV2VvURILT3pOVXlzaTczVEU"
+    }
   }
 }

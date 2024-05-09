@@ -4262,5 +4262,30 @@
       "actualEndTime": "2024-05-05T15:52:43Z",
       "scheduledStartTime": "2024-05-05T13:30:00Z"
     }
+  },
+  "Dc3glXFBpv4": {
+    "snippet": {
+      "publishedAt": "2024-05-06T06:04:52Z",
+      "channelId": "UCiA-trSZfB0i92V_-dyDqBw",
+      "title": "\u3010\u30de\u30ea\u30aa\u30ab\u30fc\u30c88DX\u3011 #\u30de\u30ea\u30ab\u306b\u3058\u3055\u3093\u3058\u676f \u6e96\u3005\u6c7a\u52dd\u307e\u3067\u304d\u305f\uff01\uff01\u8c6a\u901f\u3067\u30de\u30c3\u30cf\u30d1\u30f3\u30c1\uff01\uff01\u3010\u5009\u6301\u3081\u308b\u3068/\u306b\u3058\u3055\u3093\u3058\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-06T07:37:43Z",
+      "actualEndTime": "2024-05-06T08:13:42Z",
+      "scheduledStartTime": "2024-05-06T07:45:00Z"
+    }
+  },
+  "EQLIeHlx0oY": {
+    "snippet": {
+      "publishedAt": "2024-05-08T13:20:24Z",
+      "channelId": "UCiA-trSZfB0i92V_-dyDqBw",
+      "title": "\u3010\u304a\u3084\u3059\u307f\u96d1\u8ac7\u3011\u4f5c\u696d\u3057\u306a\u304c\u3089\u6fc0\u3086\u308b\u3067\u632f\u308a\u8fd4\u3063\u305f\u308a\u306a\u3069\u3059\u308b\u3010\u5009\u6301\u3081\u308b\u3068/\u306b\u3058\u3055\u3093\u3058\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-08T13:34:07Z",
+      "actualEndTime": "2024-05-08T15:27:04Z",
+      "scheduledStartTime": "2024-05-08T13:30:00Z",
+      "activeLiveChatId": "Cg0KC0VRTEllSGx4MG9ZKicKGFVDaUEtdHJTWmZCMGk5MlZfLWR5RHFCdxILRVFMSWVIbHgwb1k"
+    }
   }
 }

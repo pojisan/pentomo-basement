@@ -358,8 +358,33 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-05T22:06:50Z",
-      "scheduledStartTime": "2024-05-05T22:00:00Z",
-      "activeLiveChatId": "Cg0KC2tRQlFMVWFLTTIwKicKGFVDY0hIa0o5OGVTZmE1YWowbWRUd3dMURILa1FCUUxVYUtNMjA"
+      "actualEndTime": "2024-05-06T01:54:23Z",
+      "scheduledStartTime": "2024-05-05T22:00:00Z"
+    }
+  },
+  "fs_awbA_dIs": {
+    "snippet": {
+      "publishedAt": "2024-05-07T16:34:08Z",
+      "channelId": "UCcHHkJ98eSfa5aj0mdTwwLQ",
+      "title": "\u3010GHOST TRICK: PHANTOM DETECTIVE #02\u3011missile my beloved\u3010Maid Mint Fantome\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-07T22:00:22Z",
+      "actualEndTime": "2024-05-08T03:14:17Z",
+      "scheduledStartTime": "2024-05-07T22:00:00Z"
+    }
+  },
+  "D8ZJ2gkzhqA": {
+    "snippet": {
+      "publishedAt": "2024-05-08T16:49:11Z",
+      "channelId": "UCcHHkJ98eSfa5aj0mdTwwLQ",
+      "title": "\u3010SHASHINGO LEARN JAPANESE\u3011konnichiwa my fellow weebs\u3010Maid Mint Fantome\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-08T23:00:00Z",
+      "actualEndTime": "2024-05-09T01:27:25Z",
+      "scheduledStartTime": "2024-05-08T23:00:00Z",
+      "activeLiveChatId": "Cg0KC0Q4WkoyZ2t6aHFBKicKGFVDY0hIa0o5OGVTZmE1YWowbWRUd3dMURILRDhaSjJna3pocUE"
     }
   }
 }

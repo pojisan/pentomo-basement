@@ -674,7 +674,8 @@
     "snippet": {
       "publishedAt": "2023-12-11T01:32:26Z",
       "channelId": "UCv1ThyE4KVYnnVY8GLftnoA",
-      "title": "\u3010SCHEDULE\u3011\ud83d\uddd3\ufe0f\u3010V4Mirai | Serina Maiko\u3011"
+      "title": "\u3010SCHEDULE\u3011\ud83d\uddd3\ufe0f\u3010V4Mirai | Serina Maiko\u3011",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-01-01T05:00:00Z",
@@ -2566,8 +2567,59 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-05T22:49:36Z",
-      "scheduledStartTime": "2024-05-05T23:00:00Z",
-      "activeLiveChatId": "Cg0KC2lmRVpxY3h4Q0pzKicKGFVDdjFUaHlFNEtWWW5uVlk4R0xmdG5vQRILaWZFWnFjeHhDSnM"
+      "actualEndTime": "2024-05-06T01:22:32Z",
+      "scheduledStartTime": "2024-05-05T23:00:00Z"
+    }
+  },
+  "vhWCuQVvF3Q": {
+    "snippet": {
+      "publishedAt": "2024-05-06T21:48:19Z",
+      "channelId": "UCv1ThyE4KVYnnVY8GLftnoA",
+      "title": "\u3010BE BACK SOON!\u3011Going Out Of State!\u3010V4Mirai | Serina Maiko | ENVtuber\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-31T21:00:00Z",
+      "activeLiveChatId": "Cg0KC3ZoV0N1UVZ2RjNRKicKGFVDdjFUaHlFNEtWWW5uVlk4R0xmdG5vQRILdmhXQ3VRVnZGM1E"
+    }
+  },
+  "Ss6HMmwPAdY": {
+    "snippet": {
+      "publishedAt": "2024-04-24T05:45:52Z",
+      "channelId": "UCv1ThyE4KVYnnVY8GLftnoA",
+      "title": "\u3010MINECRAFT\u3011Cute Girls Doing Bad Things\u3010V4Mirai | Serina Maiko | ENVtuber\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-10T21:00:00Z",
+      "activeLiveChatId": "Cg0KC1NzNkhNbXdQQWRZKicKGFVDdjFUaHlFNEtWWW5uVlk4R0xmdG5vQRILU3M2SE1td1BBZFk"
+    }
+  },
+  "sazND1ZmVjE": {
+    "snippet": {
+      "publishedAt": "2024-05-06T22:36:33Z",
+      "channelId": "UCv1ThyE4KVYnnVY8GLftnoA",
+      "title": "\u3010V4Maid Cafe!\u3011Let's Try Pancake Art!\u3010V4Mirai | Serina Maiko | ENVtuber\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-12T21:00:00Z",
+      "activeLiveChatId": "Cg0KC3Nhek5EMVptVmpFKicKGFVDdjFUaHlFNEtWWW5uVlk4R0xmdG5vQRILc2F6TkQxWm1WakU"
+    }
+  },
+  "vergArWYvv4": {
+    "snippet": {
+      "publishedAt": "2024-05-06T23:12:25Z",
+      "channelId": "UCv1ThyE4KVYnnVY8GLftnoA",
+      "title": "\u3010MAID KARAOKE\u3011Maid Cafe After Hours...\u3010V4Mirai | Serina Maiko | ENVtuber\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-11T21:00:00Z",
+      "activeLiveChatId": "Cg0KC3ZlcmdBcldZdnY0KicKGFVDdjFUaHlFNEtWWW5uVlk4R0xmdG5vQRILdmVyZ0FyV1l2djQ"
+    }
+  },
+  "wUxfAtXNL9Y": {
+    "snippet": {
+      "publishedAt": "2024-05-08T19:15:03Z",
+      "channelId": "UCv1ThyE4KVYnnVY8GLftnoA",
+      "title": "BUTTERFLY DANCE IN THE CLUB? #shortslive #vtuber #originalsong"
     }
   }
 }

@@ -2749,7 +2749,7 @@
     "snippet": {
       "publishedAt": "2023-08-03T04:12:55Z",
       "channelId": "UC9NNMwafy9quvNWafFukNDw",
-      "title": "\u3010STREAM SCHEDULE\u3011APRIL 29th - MAY 5th"
+      "title": "\u3010STREAM SCHEDULE\u3011MAY 6th - 12th"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-09-01T06:45:00Z",
@@ -3216,8 +3216,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-05T22:02:57Z",
-      "scheduledStartTime": "2024-05-05T22:00:00Z",
-      "activeLiveChatId": "Cg0KC0tnSzNselNyRDNnKicKGFVDOU5OTXdhZnk5cXV2TldhZkZ1a05EdxILS2dLM2x6U3JEM2c"
+      "actualEndTime": "2024-05-06T03:24:21Z",
+      "scheduledStartTime": "2024-05-05T22:00:00Z"
     }
   },
   "CF3LceWWF8U": {
@@ -3235,8 +3235,61 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-05T22:07:49Z",
-      "scheduledStartTime": "2024-05-05T22:00:00Z",
-      "activeLiveChatId": "Cg0KC0M4NF9GbGNRd1U0KicKGFVDOU5OTXdhZnk5cXV2TldhZkZ1a05EdxILQzg0X0ZsY1F3VTQ"
+      "actualEndTime": "2024-05-06T03:24:21Z",
+      "scheduledStartTime": "2024-05-05T22:00:00Z"
+    }
+  },
+  "RlsiPyHVJcA": {
+    "snippet": {
+      "publishedAt": "2024-05-06T22:00:15Z",
+      "channelId": "UC9NNMwafy9quvNWafFukNDw",
+      "title": "VTuber Feet Reveal"
+    }
+  },
+  "E9WKGdyNigs": {
+    "snippet": {
+      "publishedAt": "2024-05-07T22:00:15Z",
+      "channelId": "UC9NNMwafy9quvNWafFukNDw",
+      "title": "YouTube is Wiping Views"
+    }
+  },
+  "8IuKVvIctbo": {
+    "snippet": {
+      "publishedAt": "2024-05-08T18:09:58Z",
+      "channelId": "UC9NNMwafy9quvNWafFukNDw",
+      "title": "\ud83d\udd34THIS ANIME FANSERVICE GAME... Is Actually Pretty Good??"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-08T22:24:06Z",
+      "actualEndTime": "2024-05-09T03:17:48Z",
+      "scheduledStartTime": "2024-05-08T22:00:00Z",
+      "activeLiveChatId": "Cg0KCzhJdUtWdkljdGJvKicKGFVDOU5OTXdhZnk5cXV2TldhZkZ1a05EdxILOEl1S1Z2SWN0Ym8"
+    }
+  },
+  "93jHIqlwG-4": {
+    "snippet": {
+      "publishedAt": "2024-05-08T22:00:06Z",
+      "channelId": "UC9NNMwafy9quvNWafFukNDw",
+      "title": "I Tried Bloons TD For The First Time"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-08T22:00:06Z",
+      "scheduledStartTime": "2024-05-08T22:00:00Z",
+      "activeLiveChatId": "Cg0KCzkzakhJcWx3Ry00KicKGFVDOU5OTXdhZnk5cXV2TldhZkZ1a05EdxILOTNqSElxbHdHLTQ",
+      "premiere": true
+    }
+  },
+  "y0mLLQY2IaA": {
+    "snippet": {
+      "publishedAt": "2024-05-08T20:14:45Z",
+      "channelId": "UC9NNMwafy9quvNWafFukNDw",
+      "title": "\ud83d\udd34THIS ANIME FANSERVICE GAME... #shorts #shortslive #shortsfeed #shortsgaming"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-08T22:26:57Z",
+      "actualEndTime": "2024-05-09T03:17:50Z",
+      "scheduledStartTime": "2024-05-08T22:00:00Z",
+      "activeLiveChatId": "Cg0KC3kwbUxMUVkySWFBKicKGFVDOU5OTXdhZnk5cXV2TldhZkZ1a05EdxILeTBtTExRWTJJYUE"
     }
   }
 }

@@ -10582,8 +10582,67 @@
       "title": "\u3010Kings Field\u3011ABFS Always Be Fightin Skellingtons"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-06T19:00:00Z",
-      "activeLiveChatId": "Cg0KCzNUbklpNTRtVEVjKicKGFVDeWtNV2Y4QjhJN2NfakE4RlR5MnRHdxILM1RuSWk1NG1URWM"
+      "actualStartTime": "2024-05-06T19:00:12Z",
+      "actualEndTime": "2024-05-06T22:25:27Z",
+      "scheduledStartTime": "2024-05-06T19:00:00Z"
+    }
+  },
+  "iT7ikXeVdHY": {
+    "snippet": {
+      "publishedAt": "2024-05-06T02:36:53Z",
+      "channelId": "UCykMWf8B8I7c_jA8FTy2tGw",
+      "title": "\u3010Metal Gear Ghost Babel\u3011The Elevators are Haunted"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-14T19:00:00Z",
+      "activeLiveChatId": "Cg0KC2lUN2lrWGVWZEhZKicKGFVDeWtNV2Y4QjhJN2NfakE4RlR5MnRHdxILaVQ3aWtYZVZkSFk"
+    }
+  },
+  "u4wHwxrlS-s": {
+    "snippet": {
+      "publishedAt": "2024-05-07T01:19:56Z",
+      "channelId": "UCykMWf8B8I7c_jA8FTy2tGw",
+      "title": "\u3010Abandonware Dig\u3011We're SPELUNKING Today!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-11T19:00:00Z",
+      "activeLiveChatId": "Cg0KC3U0d0h3eHJsUy1zKicKGFVDeWtNV2Y4QjhJN2NfakE4RlR5MnRHdxILdTR3SHd4cmxTLXM"
+    }
+  },
+  "hSQRiFs1l9g": {
+    "snippet": {
+      "publishedAt": "2024-05-07T01:15:37Z",
+      "channelId": "UCykMWf8B8I7c_jA8FTy2tGw",
+      "title": "\u3010The Misadventures of Tron Bonne\u3011I'm In Debt But I Keep Spending!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-09T19:00:00Z",
+      "activeLiveChatId": "Cg0KC2hTUVJpRnMxbDlnKicKGFVDeWtNV2Y4QjhJN2NfakE4RlR5MnRHdxILaFNRUmlGczFsOWc"
+    }
+  },
+  "oOjLcygZUmc": {
+    "snippet": {
+      "publishedAt": "2024-05-07T01:14:54Z",
+      "channelId": "UCykMWf8B8I7c_jA8FTy2tGw",
+      "title": "\u3010Art\u3011Making Props for Low Poly Ami!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-08T18:59:38Z",
+      "actualEndTime": "2024-05-08T21:53:44Z",
+      "scheduledStartTime": "2024-05-08T19:00:00Z"
+    }
+  },
+  "RGwqqnRTPgY": {
+    "snippet": {
+      "publishedAt": "2024-05-07T17:31:15Z",
+      "channelId": "UCykMWf8B8I7c_jA8FTy2tGw",
+      "title": "\u3010Star Wars Jedi Knight: Dark Forces 2\u3011MORE DORKS, MORE FORCES"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-07T19:01:26Z",
+      "actualEndTime": "2024-05-07T22:36:22Z",
+      "scheduledStartTime": "2024-05-07T19:00:00Z",
+      "activeLiveChatId": "Cg0KC1JHd3FxblJUUGdZKicKGFVDeWtNV2Y4QjhJN2NfakE4RlR5MnRHdxILUkd3cXFuUlRQZ1k"
     }
   }
 }

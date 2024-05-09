@@ -314,6 +314,11 @@
         "Taiga": {
           "yt": "UCiBMH1d7ew_3bi2A_zZGsmw"
         }
+      },
+      "ENCORE": {
+        "Enya": {
+          "yt": "UCBghUKA_L0na0SeQ6snzMMQ"
+        }
       }
     },
     "Kawa Entertainment": {
@@ -441,6 +446,10 @@
       "Apollo": {
         "tv": "apollomythos",
         "yt": "UCJtZ8bpQlM-tMNhDeQE4ogg"
+      },
+      "Ares": {
+        "tv": "aresmythos",
+        "yt": "UCePxTcqnADy8kpE5HWhxGpQ"
       }
     },
     "NEXAS": {
@@ -630,7 +639,8 @@
           "yt": "UCkJ64W0J7R0zCSAsZfRIhVQ"
         },
         "Non": {
-          "yt": "UCx_A6fns9qKjybu-6k0ur1g"
+          "yt": "UCx_A6fns9qKjybu-6k0ur1g",
+          "tv": "notnonanon"
         },
         "Sumi": {
           "yt": "UCKRGwowORbvAnoeZ-G06duQ"
@@ -779,6 +789,13 @@
       },
       "Miya": {
         "yt": "UCYkBLuzGskHcBs8tX-_gbsA"
+      }
+    },
+    "Project: Verses": {
+      "Prelude": {
+        "Fionna": {
+          "yt": "UCovKwgA9eHUutIWCVWS_AGw"
+        }
       }
     },
     "Specialite": {
@@ -959,7 +976,8 @@
           "yt": "UCkiUByBCF1aOiRd16xAlPMg"
         },
         "Spica": {
-          "yt": "UCbrbFKFhyHD4bMJbEcXZz1g"
+          "yt": "UCbrbFKFhyHD4bMJbEcXZz1g",
+          "tv": "kirispica"
         },
         "Elia": {
           "yt": "UCO4zMaYBEzdYISfeoO6ip_Q"
@@ -1064,7 +1082,8 @@
           "yt": "UC70SZ3_zmeAgkj4JF-2kxYw"
         },
         "Bri": {
-          "yt": "UC1uzMZ7x_Hgun5t8J9uFanw"
+          "yt": "UC1uzMZ7x_Hgun5t8J9uFanw",
+          "tv": "briatcookiebox"
         },
         "Rana": {
           "yt": "UC-Y3evMx7MXbVeSbRKQ3gNw"
@@ -1100,6 +1119,17 @@
         }
       }
     },
+    "Vyvid": {
+      "Eva": {
+        "yt": "UCTNpwWyoLgeJ-tsxWq7ucvw"
+      },
+      "Bunana": {
+        "yt": "UCVjpFP1_Ny3PUoE26r4ITaw"
+      },
+      "DaFish": {
+        "yt": "UCodzKa0ybsdu9gEp9lpKg9g"
+      }
+    },
     "Yume+": {
       "Yume+ Official": {
         "yt": "UC6klaR-ET627KjfIOo1l2gQ"
@@ -1131,6 +1161,7 @@
         "tv": "gx_aura"
       },
       "Kura": {
+        "yt": "UCH0I_5QELmVdvbb39XNvmkA",
         "tv": "hyperx"
       }
     }

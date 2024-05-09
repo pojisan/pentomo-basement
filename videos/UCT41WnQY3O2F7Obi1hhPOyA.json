@@ -4857,5 +4857,54 @@
       "actualEndTime": "2024-05-04T06:02:51Z",
       "scheduledStartTime": "2024-05-04T01:05:00Z"
     }
+  },
+  "6t0kzqV8Dy8": {
+    "snippet": {
+      "publishedAt": "2024-05-06T00:53:48Z",
+      "channelId": "UCT41WnQY3O2F7Obi1hhPOyA",
+      "title": "\u3010Another Crab's Treasure\u3011 Another sign that you are addicted to Souls-like."
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-06T01:05:27Z",
+      "actualEndTime": "2024-05-06T04:42:57Z",
+      "scheduledStartTime": "2024-05-06T01:10:00Z"
+    }
+  },
+  "7Q4eVK2Vdc8": {
+    "snippet": {
+      "publishedAt": "2024-05-07T01:24:12Z",
+      "channelId": "UCT41WnQY3O2F7Obi1hhPOyA",
+      "title": "\u3010Dark Souls 3: DLC Boss Fight\u3011 How to defeat DLC Boss after 50 deaths"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-07T01:30:16Z",
+      "actualEndTime": "2024-05-07T06:12:10Z",
+      "scheduledStartTime": "2024-05-07T01:30:00Z"
+    }
+  },
+  "k9fRnCbXhRk": {
+    "snippet": {
+      "publishedAt": "2024-05-08T02:24:48Z",
+      "channelId": "UCT41WnQY3O2F7Obi1hhPOyA",
+      "title": "\u3010The Quarry\u3011 Pop pop peanut peanut butter butter pops"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-08T02:46:51Z",
+      "actualEndTime": "2024-05-08T06:06:41Z",
+      "scheduledStartTime": "2024-05-08T02:30:00Z",
+      "activeLiveChatId": "Cg0KC2s5ZlJuQ2JYaFJrKicKGFVDVDQxV25RWTNPMkY3T2JpMWhoUE95QRILazlmUm5DYlhoUms"
+    }
+  },
+  "jpVTSFLNKbE": {
+    "snippet": {
+      "publishedAt": "2024-05-09T01:50:25Z",
+      "channelId": "UCT41WnQY3O2F7Obi1hhPOyA",
+      "title": "\u3010Remnant 2\u3011Oh wait, what's this place?"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-09T02:31:05Z",
+      "scheduledStartTime": "2024-05-09T02:30:00Z",
+      "activeLiveChatId": "Cg0KC2pwVlRTRkxOS2JFKicKGFVDVDQxV25RWTNPMkY3T2JpMWhoUE95QRILanBWVFNGTE5LYkU"
+    }
   }
 }

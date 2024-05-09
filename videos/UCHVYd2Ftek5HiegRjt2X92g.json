@@ -3112,5 +3112,54 @@
       "actualEndTime": "2024-04-27T01:10:51Z",
       "scheduledStartTime": "2024-04-27T01:00:00Z"
     }
+  },
+  "okymGgc14NM": {
+    "snippet": {
+      "publishedAt": "2024-05-06T13:22:17Z",
+      "channelId": "UCHVYd2Ftek5HiegRjt2X92g",
+      "title": "\u3010Persona 3 Reload\u3011#4 Sliding ~ (Contains Spoilers)\u3010Yuuki Ame\u30fbbondlive EN\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-10T01:00:00Z",
+      "activeLiveChatId": "Cg0KC29reW1HZ2MxNE5NKicKGFVDSFZZZDJGdGVrNUhpZWdSanQyWDkyZxILb2t5bUdnYzE0Tk0"
+    }
+  },
+  "6kP0gT7epSc": {
+    "snippet": {
+      "publishedAt": "2024-05-06T13:20:43Z",
+      "channelId": "UCHVYd2Ftek5HiegRjt2X92g",
+      "title": "\u3010Karaoke\u3011Free style singing and as usual, probably unprepared\u3010Yuuki Ame\u30fbbondlive EN\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-09T02:00:04Z",
+      "actualEndTime": "2024-05-09T03:16:57Z",
+      "scheduledStartTime": "2024-05-09T02:00:00Z",
+      "activeLiveChatId": "Cg0KCzZrUDBnVDdlcFNjKicKGFVDSFZZZDJGdGVrNUhpZWdSanQyWDkyZxILNmtQMGdUN2VwU2M"
+    }
+  },
+  "UAV-A0kNHLs": {
+    "snippet": {
+      "publishedAt": "2024-05-06T12:53:36Z",
+      "channelId": "UCHVYd2Ftek5HiegRjt2X92g",
+      "title": "\u3010\u6b4c\u3063\u3066\u307f\u305f\u3011Shinshoku - niki (ft. \u661f\u754c)\u3010Cover by Yuuki Ame\u30fbbondlive EN\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-08T14:00:07Z",
+      "scheduledStartTime": "2024-05-08T14:00:00Z",
+      "activeLiveChatId": "Cg0KC1VBVi1BMGtOSExzKicKGFVDSFZZZDJGdGVrNUhpZWdSanQyWDkyZxILVUFWLUEwa05ITHM",
+      "premiere": true
+    }
+  },
+  "LNo-brylzWk": {
+    "snippet": {
+      "publishedAt": "2024-03-10T14:54:25Z",
+      "channelId": "UCHVYd2Ftek5HiegRjt2X92g",
+      "title": "\u3010Free Talk\u3011Is that a moon, is that a bird? NO, It's Ame!\u3010Yuuki Ame\u30fbbondlive EN\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-08T00:01:07Z",
+      "actualEndTime": "2024-05-08T02:12:38Z",
+      "scheduledStartTime": "2024-05-08T00:00:00Z"
+    }
   }
 }

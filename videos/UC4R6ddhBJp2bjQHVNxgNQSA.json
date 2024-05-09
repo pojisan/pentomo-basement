@@ -100,6 +100,7 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-05T22:55:43Z",
+      "actualEndTime": "2024-05-06T01:47:14Z",
       "scheduledStartTime": "2024-05-05T23:00:00Z",
       "activeLiveChatId": "Cg0KC09Tc29qdVNZV0g4KicKGFVDNFI2ZGRoQkpwMmJqUUhWTnhnTlFTQRILT1Nzb2p1U1lXSDg"
     }
@@ -111,8 +112,9 @@
       "title": "ESTAMOS EN PRIMAVERA!! \ud83c\udf38 mis m\u00e1s malvadas recomendaciones \u219d"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-07T23:00:00Z",
-      "activeLiveChatId": "Cg0KC1BLM3d5am5BVVE0KicKGFVDNFI2ZGRoQkpwMmJqUUhWTnhnTlFTQRILUEszd3lqbkFVUTQ"
+      "actualStartTime": "2024-05-07T22:55:23Z",
+      "actualEndTime": "2024-05-08T00:14:57Z",
+      "scheduledStartTime": "2024-05-07T23:00:00Z"
     }
   },
   "ph9GEoerQwQ": {
@@ -122,8 +124,53 @@
       "title": "\u3010 RE7 BIOHAZARD \u3011 \u00bfHabr\u00e1 alguien m\u00e1s malvado que yo?  \u219d"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-08T23:00:00Z",
-      "activeLiveChatId": "Cg0KC3BoOUdFb2VyUXdRKicKGFVDNFI2ZGRoQkpwMmJqUUhWTnhnTlFTQRILcGg5R0VvZXJRd1E"
+      "actualStartTime": "2024-05-08T22:56:39Z",
+      "actualEndTime": "2024-05-09T02:11:26Z",
+      "scheduledStartTime": "2024-05-08T23:00:00Z"
+    }
+  },
+  "-JcCsS_CVzk": {
+    "snippet": {
+      "publishedAt": "2024-05-08T01:00:49Z",
+      "channelId": "UC4R6ddhBJp2bjQHVNxgNQSA",
+      "title": "\u3010 WEEKLY SCHEDULE / HORARIO SEMANAL \u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2026-05-31T21:45:00Z",
+      "activeLiveChatId": "Cg0KCy1KY0NzU19DVnprKicKGFVDNFI2ZGRoQkpwMmJqUUhWTnhnTlFTQRILLUpjQ3NTX0NWems"
+    }
+  },
+  "zy2LLsTrBsw": {
+    "snippet": {
+      "publishedAt": "2024-05-08T17:47:55Z",
+      "channelId": "UC4R6ddhBJp2bjQHVNxgNQSA",
+      "title": "\u3010 KARAOKE / \u6b4c\u67a0\u914d\u4fe1 \u3011 Mis canciones favoritas de anime!! \u30a2\u30cb\u30bd\u30f3\u6b4c\u3063\u3066\u307f\u307e\u3059\uff01\uff01\uff01"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-11T17:00:00Z",
+      "activeLiveChatId": "Cg0KC3p5MkxMc1RyQnN3KicKGFVDNFI2ZGRoQkpwMmJqUUhWTnhnTlFTQRILenkyTExzVHJCc3c"
+    }
+  },
+  "jDWvz9ycs7c": {
+    "snippet": {
+      "publishedAt": "2024-05-08T18:59:58Z",
+      "channelId": "UC4R6ddhBJp2bjQHVNxgNQSA",
+      "title": "\u3010 PUMMEL PARTY ETERNALS COLLAB \u3011 Y si presiono todos los botones a la vez? :3 \u3010 AKUGAKI KOA POV \u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-10T23:00:00Z",
+      "activeLiveChatId": "Cg0KC2pEV3Z6OXljczdjKicKGFVDNFI2ZGRoQkpwMmJqUUhWTnhnTlFTQRILakRXdno5eWNzN2M"
+    }
+  },
+  "WhqYrWBVf6M": {
+    "snippet": {
+      "publishedAt": "2024-05-08T17:42:21Z",
+      "channelId": "UC4R6ddhBJp2bjQHVNxgNQSA",
+      "title": "mystery english stream"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-09T23:00:00Z",
+      "activeLiveChatId": "Cg0KC1docVlyV0JWZjZNKicKGFVDNFI2ZGRoQkpwMmJqUUhWTnhnTlFTQRILV2hxWXJXQlZmNk0"
     }
   }
 }

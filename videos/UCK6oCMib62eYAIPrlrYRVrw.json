@@ -1818,8 +1818,9 @@
       "title": "\u3010Handcam\u3011Building Animal Crossing Lego !"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-08T14:00:00Z",
-      "activeLiveChatId": "Cg0KC3UyN2FIM3pNY0VNKicKGFVDSzZvQ01pYjYyZVlBSVBybHJZUlZydxILdTI3YUgzek1jRU0"
+      "actualStartTime": "2024-05-08T13:57:47Z",
+      "actualEndTime": "2024-05-08T16:45:30Z",
+      "scheduledStartTime": "2024-05-08T14:00:00Z"
     }
   },
   "93ZZ-gC3z24": {
@@ -1829,8 +1830,37 @@
       "title": "\u3010Dark Souls Remastered\u3011I'm in Blighttown, is it a nice area ?!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-06T13:40:36Z",
+      "actualEndTime": "2024-05-06T16:50:53Z",
       "scheduledStartTime": "2024-05-06T14:00:00Z",
       "activeLiveChatId": "Cg0KCzkzWlotZ0MzejI0KicKGFVDSzZvQ01pYjYyZVlBSVBybHJZUlZydxILOTNaWi1nQzN6MjQ"
+    }
+  },
+  "IsMOEOkUfeo": {
+    "snippet": {
+      "publishedAt": "2024-05-06T18:00:10Z",
+      "channelId": "UCK6oCMib62eYAIPrlrYRVrw",
+      "title": "finished set up video   viewer setup vtuber"
+    }
+  },
+  "HkwwIrR8mHM": {
+    "snippet": {
+      "publishedAt": "2024-05-06T18:13:03Z",
+      "channelId": "UCK6oCMib62eYAIPrlrYRVrw",
+      "title": "\u3010Hades II\u3011NEW DATING SIM.... I MEAN ROGUE LIKE !!!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-07T13:58:44Z",
+      "actualEndTime": "2024-05-07T16:36:36Z",
+      "scheduledStartTime": "2024-05-07T14:00:00Z",
+      "activeLiveChatId": "Cg0KC0hrd3dJclI4bUhNKicKGFVDSzZvQ01pYjYyZVlBSVBybHJZUlZydxILSGt3d0lyUjhtSE0"
+    }
+  },
+  "Ui7RXOQ-FWI": {
+    "snippet": {
+      "publishedAt": "2024-05-08T19:18:29Z",
+      "channelId": "UCK6oCMib62eYAIPrlrYRVrw",
+      "title": "my keyboard?!  #vtuber #vtubing #streamer"
     }
   }
 }

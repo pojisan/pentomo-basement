@@ -5967,8 +5967,33 @@
       "title": "\u3010HONKAI: STAR RAIL\u3011continuing penacony!!\u3010NIJISANJI EN | Uki Violeta\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-06T00:00:00Z",
-      "activeLiveChatId": "Cg0KC24xYW9NRUVRdU93KicKGFVDaEo1RlRzSE91NzJfNU9WeDBydnN2URILbjFhb01FRVF1T3c"
+      "actualStartTime": "2024-05-06T00:00:59Z",
+      "actualEndTime": "2024-05-06T03:46:15Z",
+      "scheduledStartTime": "2024-05-06T00:00:00Z"
+    }
+  },
+  "C6spcQg8cp8": {
+    "snippet": {
+      "publishedAt": "2024-05-07T18:20:41Z",
+      "channelId": "UChJ5FTsHOu72_5OVx0rvsvQ",
+      "title": "\u3010MINECRAFT / HSR\u3011I just build, and maybe something nice happens\u3010NIJISANJI EN | Uki Violeta\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-08T00:00:02Z",
+      "actualEndTime": "2024-05-08T03:44:29Z",
+      "scheduledStartTime": "2024-05-08T00:00:00Z"
+    }
+  },
+  "nreu89kVVzY": {
+    "snippet": {
+      "publishedAt": "2024-05-08T05:57:47Z",
+      "channelId": "UChJ5FTsHOu72_5OVx0rvsvQ",
+      "title": "\u3010HELLDIVERS 2\u3011dick knocking in hell\u3010NIJISANJI EN | Uki Violeta\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-09T01:05:30Z",
+      "scheduledStartTime": "2024-05-09T01:00:00Z",
+      "activeLiveChatId": "Cg0KC25yZXU4OWtWVnpZKicKGFVDaEo1RlRzSE91NzJfNU9WeDBydnN2URILbnJldTg5a1ZWelk"
     }
   }
 }

@@ -1174,8 +1174,9 @@
       "title": "\u3010IMOMUSHI\u3011Playing this cute RAGE GAME???!! KAWAII JUMP KING\u3010 Reina Ronronea | globie\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-07T21:00:00Z",
-      "activeLiveChatId": "Cg0KCzFQOFppcl8wRWpFKicKGFVDVm1oZzR3Y1RWcGp5Q29LRFk1OW1ZdxILMVA4WmlyXzBFakU"
+      "actualStartTime": "2024-05-07T21:01:30Z",
+      "actualEndTime": "2024-05-07T23:12:17Z",
+      "scheduledStartTime": "2024-05-07T21:00:00Z"
     }
   },
   "fQKGGuBXEDw": {
@@ -1185,6 +1186,8 @@
       "title": "\u3010SHASHINGO\u3011Have I learned anything after 1 MONTH living in JAPAN??\u3010 Reina Ronronea | globie\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-06T21:01:27Z",
+      "actualEndTime": "2024-05-06T23:58:59Z",
       "scheduledStartTime": "2024-05-06T21:00:00Z",
       "activeLiveChatId": "Cg0KC2ZRS0dHdUJYRUR3KicKGFVDVm1oZzR3Y1RWcGp5Q29LRFk1OW1ZdxILZlFLR0d1QlhFRHc"
     }
@@ -1198,6 +1201,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-09T14:00:00Z",
       "activeLiveChatId": "Cg0KC0FxdTUzYlNZZXdrKicKGFVDVm1oZzR3Y1RWcGp5Q29LRFk1OW1ZdxILQXF1NTNiU1lld2s"
+    }
+  },
+  "DoLP_4cTKQk": {
+    "snippet": {
+      "publishedAt": "2024-05-06T09:10:35Z",
+      "channelId": "UCVmhg4wcTVpjyCoKDY59mYw",
+      "title": "\u3010 MAID DAY\u3011Okaerinasaimase! Maid Reina is here to serve you\u3010 Reina Ronronea | globie\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-10T14:00:00Z",
+      "activeLiveChatId": "Cg0KC0RvTFBfNGNUS1FrKicKGFVDVm1oZzR3Y1RWcGp5Q29LRFk1OW1ZdxILRG9MUF80Y1RLUWs"
     }
   }
 }

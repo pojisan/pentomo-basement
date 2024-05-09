@@ -63,7 +63,7 @@
     "snippet": {
       "publishedAt": "2024-04-15T16:24:10Z",
       "channelId": "UC2Ne6dDcFxnM2hCBLii3IUg",
-      "title": "\u3010STREAM SCHEDULE\u3011April 29th - May 5th \u3010Dr.NOVA(e) | V4Mirai | ENVtuber\u3011"
+      "title": "\u3010STREAM SCHEDULE\u3011May 6th - May 12th \u3010Dr.NOVA(e) | V4Mirai | ENVtuber\u3011"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-10-31T03:00:00Z",
@@ -352,6 +352,44 @@
       "actualStartTime": "2024-05-05T20:00:16Z",
       "actualEndTime": "2024-05-05T22:42:41Z",
       "scheduledStartTime": "2024-05-05T20:00:00Z"
+    }
+  },
+  "Eoe9Fbcys9w": {
+    "snippet": {
+      "publishedAt": "2024-05-06T15:10:02Z",
+      "channelId": "UC2Ne6dDcFxnM2hCBLii3IUg",
+      "title": "\u3010MORTUARY ASSISTANT\u3011Is this my dream job??\u3010Dr.NOVA(e) | V4Mirai | ENVtuber\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-07T21:00:32Z",
+      "actualEndTime": "2024-05-07T23:22:19Z",
+      "scheduledStartTime": "2024-05-07T21:00:00Z"
+    }
+  },
+  "NRvie-Ho6-g": {
+    "snippet": {
+      "publishedAt": "2024-05-06T15:06:20Z",
+      "channelId": "UC2Ne6dDcFxnM2hCBLii3IUg",
+      "title": "\u3010THE CROOKED MAN\u3011Nice Neck Bro\u3010Dr.NOVA(e) | V4Mirai | ENVtuber\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-06T19:01:16Z",
+      "actualEndTime": "2024-05-07T00:58:34Z",
+      "scheduledStartTime": "2024-05-06T19:00:00Z",
+      "activeLiveChatId": "Cg0KC05SdmllLUhvNi1nKicKGFVDMk5lNmREY0Z4bk0yaENCTGlpM0lVZxILTlJ2aWUtSG82LWc"
+    }
+  },
+  "iVkOG0Gd58c": {
+    "snippet": {
+      "publishedAt": "2024-05-07T17:54:47Z",
+      "channelId": "UC2Ne6dDcFxnM2hCBLii3IUg",
+      "title": "\u3010CONTENT WARNING\u3011Going Viral with cute PT girls?!\u3010Dr.NOVA(e) | V4Mirai | ENVtuber\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-08T18:31:16Z",
+      "actualEndTime": "2024-05-08T20:29:09Z",
+      "scheduledStartTime": "2024-05-08T18:30:00Z",
+      "activeLiveChatId": "Cg0KC2lWa09HMEdkNThjKicKGFVDMk5lNmREY0Z4bk0yaENCTGlpM0lVZxILaVZrT0cwR2Q1OGM"
     }
   }
 }

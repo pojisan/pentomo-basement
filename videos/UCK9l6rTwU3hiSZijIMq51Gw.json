@@ -2669,7 +2669,7 @@
     "snippet": {
       "publishedAt": "2023-07-12T20:17:38Z",
       "channelId": "UCK9l6rTwU3hiSZijIMq51Gw",
-      "title": "\u3010CHAT ROOM\u301129 APRIL\u3010NIJISANJI EN | Vezalius Bandage\u3011"
+      "title": "\u3010CHAT ROOM\u3011WEEK OF 6 MAY\u3010NIJISANJI EN | Vezalius Bandage\u3011"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-06-24T22:00:00Z",
@@ -2977,11 +2977,12 @@
     "snippet": {
       "publishedAt": "2024-05-02T21:33:26Z",
       "channelId": "UCK9l6rTwU3hiSZijIMq51Gw",
-      "title": "\u3010PORTAL 2\u3011PLAYING BRAIN GAME DRUNK WITH VANTA\ud83c\udf7b\u3010NIJISANJI EN | Vezalius Bandage\u3011",
-      "private": true
+      "title": "\u3010PORTAL 2\u3011PLAYING BRAIN GAME DRUNK WITH VANTA\ud83c\udf7b\u3010NIJISANJI EN | Vezalius Bandage\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2025-05-02T23:00:00Z",
+      "actualStartTime": "2024-05-07T23:03:52Z",
+      "actualEndTime": "2024-05-08T02:07:25Z",
+      "scheduledStartTime": "2024-05-07T23:00:00Z",
       "activeLiveChatId": "Cg0KC0pJV3pQX2FneXFRKicKGFVDSzlsNnJUd1UzaGlTWmlqSU1xNTFHdxILSklXelBfYWd5cVE"
     }
   },
@@ -3008,6 +3009,30 @@
       "actualEndTime": "2024-05-05T17:27:13Z",
       "scheduledStartTime": "2024-05-05T13:00:00Z",
       "activeLiveChatId": "Cg0KC212Rzg0UTJEY1hnKicKGFVDSzlsNnJUd1UzaGlTWmlqSU1xNTFHdxILbXZHODRRMkRjWGc"
+    }
+  },
+  "6vaxKlTSU7o": {
+    "snippet": {
+      "publishedAt": "2024-05-06T20:34:04Z",
+      "channelId": "UCK9l6rTwU3hiSZijIMq51Gw",
+      "title": "\u3010CHESS COM\u3011EVERYTHING IS ACCORDING TO PLAN\u3010NIJISANJI EN | Vezalius Bandage\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-07T12:59:43Z",
+      "actualEndTime": "2024-05-07T18:16:47Z",
+      "scheduledStartTime": "2024-05-07T13:00:00Z",
+      "activeLiveChatId": "Cg0KCzZ2YXhLbFRTVTdvKicKGFVDSzlsNnJUd1UzaGlTWmlqSU1xNTFHdxILNnZheEtsVFNVN28"
+    }
+  },
+  "n0lUv-s5y4g": {
+    "snippet": {
+      "publishedAt": "2024-05-08T16:55:28Z",
+      "channelId": "UCK9l6rTwU3hiSZijIMq51Gw",
+      "title": "\u30103.0 BRUSH UP\u3011I CAN'T CONTAIN MY EMOTIONS ANYMORE!!\u3010NIJISANJI EN | Vezalius Bandage\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-10T13:00:00Z",
+      "activeLiveChatId": "Cg0KC24wbFV2LXM1eTRnKicKGFVDSzlsNnJUd1UzaGlTWmlqSU1xNTFHdxILbjBsVXYtczV5NGc"
     }
   }
 }

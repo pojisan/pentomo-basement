@@ -5460,8 +5460,45 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-05T22:01:59Z",
-      "scheduledStartTime": "2024-05-05T22:00:00Z",
-      "activeLiveChatId": "Cg0KC1JOMjVZWUtzTVZRKicKGFVDdzFLTmpWcWZySlNmY0ZkNnpsY1N6QRILUk4yNVlZS3NNVlE"
+      "actualEndTime": "2024-05-06T00:25:02Z",
+      "scheduledStartTime": "2024-05-05T22:00:00Z"
+    }
+  },
+  "aiOR0GPNDdI": {
+    "snippet": {
+      "publishedAt": "2024-05-06T16:33:00Z",
+      "channelId": "UCw1KNjVqfrJSfcFd6zlcSzA",
+      "title": "\u3010DONOTHON DAY 2\u3011Totally Not Pocketing Money At The Register..."
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-06T22:01:37Z",
+      "actualEndTime": "2024-05-06T23:51:08Z",
+      "scheduledStartTime": "2024-05-06T22:00:00Z"
+    }
+  },
+  "SDhpAN9jGfM": {
+    "snippet": {
+      "publishedAt": "2024-05-07T18:23:01Z",
+      "channelId": "UCw1KNjVqfrJSfcFd6zlcSzA",
+      "title": "\u3010DONOTHON DAY 3\u3011THROWING THE GAME FOR DONOS!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-07T20:55:15Z",
+      "actualEndTime": "2024-05-07T23:52:06Z",
+      "scheduledStartTime": "2024-05-07T22:00:00Z"
+    }
+  },
+  "9nOkg6rRXuw": {
+    "snippet": {
+      "publishedAt": "2024-05-07T20:35:24Z",
+      "channelId": "UCw1KNjVqfrJSfcFd6zlcSzA",
+      "title": "\u3010DONOTHON DAY 4\u3011Chat W/ Me In An Onsen!?"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-08T22:04:18Z",
+      "actualEndTime": "2024-05-09T00:20:46Z",
+      "scheduledStartTime": "2024-05-08T22:00:00Z",
+      "activeLiveChatId": "Cg0KCzluT2tnNnJSWHV3KicKGFVDdzFLTmpWcWZySlNmY0ZkNnpsY1N6QRILOW5Pa2c2clJYdXc"
     }
   }
 }

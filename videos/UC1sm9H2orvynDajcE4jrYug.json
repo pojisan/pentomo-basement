@@ -225,8 +225,9 @@
       "title": "\u3010GTAV\u3011I got kidnapped  @FuriFerntail \u3010globie | Kiri Kilovolt\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-06T19:00:00Z",
-      "activeLiveChatId": "Cg0KCzRuenV0UENoLWZzKicKGFVDMXNtOUgyb3J2eW5EYWpjRTRqcll1ZxILNG56dXRQQ2gtZnM"
+      "actualStartTime": "2024-05-06T19:01:29Z",
+      "actualEndTime": "2024-05-06T21:13:58Z",
+      "scheduledStartTime": "2024-05-06T19:00:00Z"
     }
   },
   "T3kmA7dD2Es": {
@@ -236,8 +237,46 @@
       "title": "\u3010NFS UNBOUND\u3011Invest in Kiri Stonks\u3010globie | Kiri Kilovolt\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-08T17:55:03Z",
+      "actualEndTime": "2024-05-08T19:49:04Z",
       "scheduledStartTime": "2024-05-08T18:00:00Z",
       "activeLiveChatId": "Cg0KC1Qza21BN2REMkVzKicKGFVDMXNtOUgyb3J2eW5EYWpjRTRqcll1ZxILVDNrbUE3ZEQyRXM"
+    }
+  },
+  "5wIcO-f44xk": {
+    "snippet": {
+      "publishedAt": "2024-05-06T11:00:03Z",
+      "channelId": "UC1sm9H2orvynDajcE4jrYug",
+      "title": "VTuber's name is IMPOSSIBLE"
+    }
+  },
+  "GRviwIuBQTo": {
+    "snippet": {
+      "publishedAt": "2024-05-08T11:02:28Z",
+      "channelId": "UC1sm9H2orvynDajcE4jrYug",
+      "title": "Being a British VTuber is SUFFERING"
+    }
+  },
+  "8AOvTT0HflI": {
+    "snippet": {
+      "publishedAt": "2024-05-08T12:29:27Z",
+      "channelId": "UC1sm9H2orvynDajcE4jrYug",
+      "title": "\u3010GOOSE GOOSE DUCK\u3011WHEN THE GIRAFFE IS SUS\u3010globie | Kiri Kilovolt\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-09T20:00:00Z",
+      "activeLiveChatId": "Cg0KCzhBT3ZUVDBIZmxJKicKGFVDMXNtOUgyb3J2eW5EYWpjRTRqcll1ZxILOEFPdlRUMEhmbEk"
+    }
+  },
+  "O6Ag9ikAfdQ": {
+    "snippet": {
+      "publishedAt": "2024-05-08T20:51:18Z",
+      "channelId": "UC1sm9H2orvynDajcE4jrYug",
+      "title": "\u3010MAHJONG SOUL\u3011EZ SWEEP THE COMP\u3010globie | Kiri Kilovolt\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-11T18:00:00Z",
+      "activeLiveChatId": "Cg0KC082QWc5aWtBZmRRKicKGFVDMXNtOUgyb3J2eW5EYWpjRTRqcll1ZxILTzZBZzlpa0FmZFE"
     }
   }
 }

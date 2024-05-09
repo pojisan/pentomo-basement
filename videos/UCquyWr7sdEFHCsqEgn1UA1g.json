@@ -1044,8 +1044,34 @@
       "title": "[\ud83d\udcfd\ufe0fWatchalong ] Frieren: Beyond Journey's End | Episodes 5-10"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-06T20:00:20Z",
+      "actualEndTime": "2024-05-06T22:57:53Z",
       "scheduledStartTime": "2024-05-06T20:00:00Z",
       "activeLiveChatId": "Cg0KC20xQng5alV5UF9zKicKGFVDcXV5V3I3c2RFRkhDc3FFZ24xVUExZxILbTFCeDlqVXlQX3M"
+    }
+  },
+  "Be28A_kJurI": {
+    "snippet": {
+      "publishedAt": "2024-05-06T23:05:05Z",
+      "channelId": "UCquyWr7sdEFHCsqEgn1UA1g",
+      "title": "Minecraft | More Wolf Variations!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-07T14:00:54Z",
+      "actualEndTime": "2024-05-07T16:36:42Z",
+      "scheduledStartTime": "2024-05-07T14:00:00Z",
+      "activeLiveChatId": "Cg0KC0JlMjhBX2tKdXJJKicKGFVDcXV5V3I3c2RFRkhDc3FFZ24xVUExZxILQmUyOEFfa0p1ckk"
+    }
+  },
+  "pmKfsrxV_Ig": {
+    "snippet": {
+      "publishedAt": "2024-05-07T18:02:04Z",
+      "channelId": "UCquyWr7sdEFHCsqEgn1UA1g",
+      "title": "Core Keeper | Cieste and a survival game! What could go wrong?"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-09T22:00:00Z",
+      "activeLiveChatId": "Cg0KC3BtS2ZzcnhWX0lnKicKGFVDcXV5V3I3c2RFRkhDc3FFZ24xVUExZxILcG1LZnNyeFZfSWc"
     }
   }
 }

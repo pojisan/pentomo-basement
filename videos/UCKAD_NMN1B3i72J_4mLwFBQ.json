@@ -6,6 +6,8 @@
       "title": "WE HAVE TO FINISH!!! [CHIYO]"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-06T13:00:25Z",
+      "actualEndTime": "2024-05-06T16:26:53Z",
       "scheduledStartTime": "2024-05-06T13:00:00Z",
       "activeLiveChatId": "Cg0KC1RSazFxYnhZdm93KicKGFVDS0FEX05NTjFCM2k3MkpfNG1Md0ZCURILVFJrMXFieFl2b3c"
     }
@@ -17,8 +19,9 @@
       "title": "ICE DRAGON GRARRR!!! [MONSTER HUNTER: WORLD ICEBORNE]"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-08T13:00:00Z",
-      "activeLiveChatId": "Cg0KC2htMnlhQ29wQkdJKicKGFVDS0FEX05NTjFCM2k3MkpfNG1Md0ZCURILaG0yeWFDb3BCR0k"
+      "actualStartTime": "2024-05-08T13:03:04Z",
+      "actualEndTime": "2024-05-08T14:42:35Z",
+      "scheduledStartTime": "2024-05-08T13:00:00Z"
     }
   },
   "vdOaS97uC8Y": {
@@ -1554,6 +1557,20 @@
       "publishedAt": "2024-05-05T16:00:42Z",
       "channelId": "UCKAD_NMN1B3i72J_4mLwFBQ",
       "title": "I sing a song (CRAB SONG)"
+    }
+  },
+  "F6l0U5mWO3g": {
+    "snippet": {
+      "publishedAt": "2024-05-06T17:00:14Z",
+      "channelId": "UCKAD_NMN1B3i72J_4mLwFBQ",
+      "title": "SNAIL!!!"
+    }
+  },
+  "Un_dAQ6OzTM": {
+    "snippet": {
+      "publishedAt": "2024-05-07T17:00:30Z",
+      "channelId": "UCKAD_NMN1B3i72J_4mLwFBQ",
+      "title": "WHERE IS @CadenceNine ???"
     }
   }
 }

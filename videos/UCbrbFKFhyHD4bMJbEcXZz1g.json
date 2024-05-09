@@ -3610,8 +3610,9 @@
       "title": "\u3010MINECRAFT\u3011 we're building with pink blocks ONLY!!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-06T01:00:00Z",
-      "activeLiveChatId": "Cg0KC0J4QTlDdlk4S1pzKicKGFVDYnJiRktGaHlIRDRiTUpiRWNYWnoxZxILQnhBOUN2WThLWnM"
+      "actualStartTime": "2024-05-06T01:04:13Z",
+      "actualEndTime": "2024-05-06T04:03:25Z",
+      "scheduledStartTime": "2024-05-06T01:00:00Z"
     }
   },
   "QTSuqZnrWhY": {
@@ -3624,6 +3625,29 @@
       "actualStartTime": "2024-05-04T12:07:37Z",
       "actualEndTime": "2024-05-04T15:36:26Z",
       "scheduledStartTime": "2024-05-04T12:05:00Z"
+    }
+  },
+  "SgCWmxqHMbw": {
+    "snippet": {
+      "publishedAt": "2024-05-08T02:35:51Z",
+      "channelId": "UCbrbFKFhyHD4bMJbEcXZz1g",
+      "title": "\u3010Singing & Piano\u3011 Requests Open! #shorts #vtuber #\u6b4c\u67a0"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-08T12:03:42Z",
+      "actualEndTime": "2024-05-08T15:02:14Z",
+      "scheduledStartTime": "2024-05-08T12:00:00Z"
+    }
+  },
+  "hz6hZyoJjS8": {
+    "snippet": {
+      "publishedAt": "2024-05-08T03:31:18Z",
+      "channelId": "UCbrbFKFhyHD4bMJbEcXZz1g",
+      "title": "\u3010 Last Stream \u3011 Let's chat!! I'm going to Japan!! Yippee!! Last-minute japan prep!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-10T12:00:00Z",
+      "activeLiveChatId": "Cg0KC2h6NmhaeW9KalM4KicKGFVDYnJiRktGaHlIRDRiTUpiRWNYWnoxZxILaHo2aFp5b0pqUzg"
     }
   }
 }

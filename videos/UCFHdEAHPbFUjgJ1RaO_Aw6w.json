@@ -381,6 +381,8 @@
       "title": "\u3010SOMA\u3011My First Horror Game in 10 Years\u3010globie 2nd Gen - Equinnox\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-06T17:57:52Z",
+      "actualEndTime": "2024-05-06T19:58:36Z",
       "scheduledStartTime": "2024-05-06T18:00:00Z",
       "activeLiveChatId": "Cg0KC2ZlclF0UmRtOXljKicKGFVDRkhkRUFIUGJGVWpnSjFSYU9fQXc2dxILZmVyUXRSZG05eWM"
     }
@@ -392,6 +394,8 @@
       "title": "\u3010Zatsu\u3011Talking TTRPG's with @ScarlettFlameheart \u3010globie 2nd Gen - Equinnox\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-08T17:26:07Z",
+      "actualEndTime": "2024-05-08T19:48:46Z",
       "scheduledStartTime": "2024-05-08T17:30:00Z",
       "activeLiveChatId": "Cg0KC1ZDcllSLXhOeV9nKicKGFVDRkhkRUFIUGJGVWpnSjFSYU9fQXc2dxILVkNyWVIteE55X2c"
     }
@@ -400,11 +404,54 @@
     "snippet": {
       "publishedAt": "2024-05-05T16:55:35Z",
       "channelId": "UCFHdEAHPbFUjgJ1RaO_Aw6w",
-      "title": "\u3010DRAWING\u3011Designing You! Bringing the Vandiles to Life\u3010globie 2nd Gen - Equinnox\u3011"
+      "title": "\u3010DRAWING\u3011Designing You! Bringing the Vandiles to Life\u3010globie 2nd Gen - Equinnox\u3011",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-07T18:00:00Z",
       "activeLiveChatId": "Cg0KC3BDWjNKQnlQd1owKicKGFVDRkhkRUFIUGJGVWpnSjFSYU9fQXc2dxILcENaM0pCeVB3WjA"
+    }
+  },
+  "RYjf0n2bq10": {
+    "snippet": {
+      "publishedAt": "2024-05-06T18:01:27Z",
+      "channelId": "UCFHdEAHPbFUjgJ1RaO_Aw6w",
+      "title": "\u3010DRAWING\u3011Designing You! Bringing the Vandiles to Life\u3010globie 2nd Gen - Equinnox\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-07T17:56:01Z",
+      "actualEndTime": "2024-05-07T20:07:32Z",
+      "scheduledStartTime": "2024-05-07T18:00:00Z",
+      "activeLiveChatId": "Cg0KC1JZamYwbjJicTEwKicKGFVDRkhkRUFIUGJGVWpnSjFSYU9fQXc2dxILUllqZjBuMmJxMTA"
+    }
+  },
+  "DRtIocyi1vw": {
+    "snippet": {
+      "publishedAt": "2024-05-06T23:52:01Z",
+      "channelId": "UCFHdEAHPbFUjgJ1RaO_Aw6w",
+      "title": "\u3010Zatsu\u3011Yapping with @Evanit0 \u3010globie 2nd Gen - Equinnox\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-09T20:00:00Z",
+      "activeLiveChatId": "Cg0KC0RSdElvY3lpMXZ3KicKGFVDRkhkRUFIUGJGVWpnSjFSYU9fQXc2dxILRFJ0SW9jeWkxdnc"
+    }
+  },
+  "Hq-BW3d8ZXw": {
+    "snippet": {
+      "publishedAt": "2024-05-07T00:28:03Z",
+      "channelId": "UCFHdEAHPbFUjgJ1RaO_Aw6w",
+      "title": "\u3010DRAWING\u3011Drawing Vtubers in Maid Outfits\u3010globie 2nd Gen - Equinnox\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-10T18:00:00Z",
+      "activeLiveChatId": "Cg0KC0hxLUJXM2Q4Wlh3KicKGFVDRkhkRUFIUGJGVWpnSjFSYU9fQXc2dxILSHEtQlczZDhaWHc"
+    }
+  },
+  "B-V9JPtmmOA": {
+    "snippet": {
+      "publishedAt": "2024-05-08T18:00:05Z",
+      "channelId": "UCFHdEAHPbFUjgJ1RaO_Aw6w",
+      "title": "The Reason I Have a Shirtless Toggle #vtuberen #dnd  #dnd5e #dndadvice  #malevtuber"
     }
   }
 }

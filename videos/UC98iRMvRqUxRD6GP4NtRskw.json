@@ -2127,8 +2127,57 @@
       "title": "Would You Rather Be a VTuber or Unemployed?!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-06T00:00:00Z",
-      "activeLiveChatId": "Cg0KC19tQkJHSzhOWWo4KicKGFVDOThpUk12UnFVeFJENkdQNE50UnNrdxILX21CQkdLOE5Zajg"
+      "actualStartTime": "2024-05-06T00:00:08Z",
+      "actualEndTime": "2024-05-06T01:43:27Z",
+      "scheduledStartTime": "2024-05-06T00:00:00Z"
+    }
+  },
+  "N4AfN54HSQo": {
+    "snippet": {
+      "publishedAt": "2024-05-06T21:20:55Z",
+      "channelId": "UC98iRMvRqUxRD6GP4NtRskw",
+      "title": "THIS TIME I'M FINISHING THE GAME FOR SURE | The Fractured but Whole"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-07T20:00:04Z",
+      "actualEndTime": "2024-05-08T00:14:39Z",
+      "scheduledStartTime": "2024-05-07T20:00:00Z"
+    }
+  },
+  "rRn41YCjsA4": {
+    "snippet": {
+      "publishedAt": "2023-06-12T07:23:00Z",
+      "channelId": "UC98iRMvRqUxRD6GP4NtRskw",
+      "title": "REACTING TO CANADA"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-06T23:59:55Z",
+      "actualEndTime": "2024-05-07T01:17:47Z",
+      "scheduledStartTime": "2024-05-07T00:00:00Z",
+      "activeLiveChatId": "Cg0KC3JSbjQxWUNqc0E0KicKGFVDOThpUk12UnFVeFJENkdQNE50UnNrdxILclJuNDFZQ2pzQTQ"
+    }
+  },
+  "hSCwJMwILP0": {
+    "snippet": {
+      "publishedAt": "2024-05-07T17:51:40Z",
+      "channelId": "UC98iRMvRqUxRD6GP4NtRskw",
+      "title": "Hello? Is Anyone There? | World of Horror"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-08T22:33:28Z",
+      "actualEndTime": "2024-05-09T00:55:24Z",
+      "scheduledStartTime": "2024-05-09T00:00:00Z"
+    }
+  },
+  "nCjBX0fq3i0": {
+    "snippet": {
+      "publishedAt": "2024-05-07T19:07:21Z",
+      "channelId": "UC98iRMvRqUxRD6GP4NtRskw",
+      "title": "Sunday Yapping! | Just Chatting"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-13T00:00:00Z",
+      "activeLiveChatId": "Cg0KC25DakJYMGZxM2kwKicKGFVDOThpUk12UnFVeFJENkdQNE50UnNrdxILbkNqQlgwZnEzaTA"
     }
   }
 }

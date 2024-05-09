@@ -879,7 +879,9 @@
       "title": "\u3010ASMR RP\u3011Your Yandere Boss Makes You Stay At The Office\ud83d\udc8b"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-08T14:00:00Z",
+      "actualStartTime": "2024-05-08T15:20:52Z",
+      "actualEndTime": "2024-05-08T16:49:10Z",
+      "scheduledStartTime": "2024-05-08T14:45:00Z",
       "activeLiveChatId": "Cg0KC3RLSG4xcjhRYko4KicKGFVDeUY3U2VJeVdsVXpua19zZ19YakM4URILdEtIbjFyOFFiSjg"
     }
   },
@@ -940,7 +942,9 @@
       "title": "yandere plays huniepop\ud83d\udd2a\ud83d\udca6"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-07T21:00:00Z",
+      "actualStartTime": "2024-05-07T22:03:40Z",
+      "actualEndTime": "2024-05-08T02:59:02Z",
+      "scheduledStartTime": "2024-05-07T22:00:00Z",
       "activeLiveChatId": "Cg0KCzMtQlR6bEhkWW04KicKGFVDeUY3U2VJeVdsVXpua19zZ19YakM4URILMy1CVHpsSGRZbTg"
     }
   },
@@ -962,8 +966,19 @@
       "title": "\u3010ASMR/3DIO\u3011Yandere Covers You In Kisses \ud83d\udc8b"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-11T21:00:00Z",
+      "scheduledStartTime": "2024-05-11T20:00:00Z",
       "activeLiveChatId": "Cg0KCzVNOW5SVEo5MEtFKicKGFVDeUY3U2VJeVdsVXpua19zZ19YakM4URILNU05blJUSjkwS0U"
+    }
+  },
+  "iWqYAlD4vWA": {
+    "snippet": {
+      "publishedAt": "2024-05-06T02:47:52Z",
+      "channelId": "UCyF7SeIyWlUznk_sg_XjC8Q",
+      "title": "THESE VTUBERS DID WHAT?!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-12T00:00:00Z",
+      "activeLiveChatId": "Cg0KC2lXcVlBbEQ0dldBKicKGFVDeUY3U2VJeVdsVXpua19zZ19YakM4URILaVdxWUFsRDR2V0E"
     }
   }
 }

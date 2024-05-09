@@ -264,8 +264,9 @@
       "title": "2 VTubers, 1 Canvas! \ud83c\udfa8Drawing with @MachinaXFlayon !\u3010Bonnie Barkswell / globie\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-08T22:00:00Z",
-      "activeLiveChatId": "Cg0KC2xwelk0b1piTmtnKicKGFVDcXczcGRQRUtLVk9JN1NGWG9teUtMQRILbHB6WTRvWmJOa2c"
+      "actualStartTime": "2024-05-08T22:01:52Z",
+      "actualEndTime": "2024-05-09T01:54:09Z",
+      "scheduledStartTime": "2024-05-08T22:00:00Z"
     }
   },
   "n153htF5FKg": {
@@ -275,8 +276,9 @@
       "title": "Serving fresh SPAGHETTI! \ud83d\udd27Steampunk dog girl tries FACTORIO!\u3010Bonnie Barkswell / globie\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-06T20:00:00Z",
-      "activeLiveChatId": "Cg0KC24xNTNodEY1RktnKicKGFVDcXczcGRQRUtLVk9JN1NGWG9teUtMQRILbjE1M2h0RjVGS2c"
+      "actualStartTime": "2024-05-06T20:00:52Z",
+      "actualEndTime": "2024-05-06T22:12:53Z",
+      "scheduledStartTime": "2024-05-06T20:00:00Z"
     }
   },
   "JHyVMKnty0Y": {
@@ -307,6 +309,17 @@
       "publishedAt": "2024-05-05T22:00:02Z",
       "channelId": "UCqw3pdPEKKVOI7SFXomyKLA",
       "title": "This VTuber loves BALLS?! \ud83d\ude33\u3010Bonnie Barkswell / globie\u3011"
+    }
+  },
+  "IxGTgdfB4PY": {
+    "snippet": {
+      "publishedAt": "2024-05-09T02:15:23Z",
+      "channelId": "UCqw3pdPEKKVOI7SFXomyKLA",
+      "title": "globie Goose Goose Duck!\ud83e\udd86 PLUS HANDCAM! (I have cool thing to show you!)\u2728\u3010Bonnie Barkswell / globie\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-09T18:30:00Z",
+      "activeLiveChatId": "Cg0KC0l4R1RnZGZCNFBZKicKGFVDcXczcGRQRUtLVk9JN1NGWG9teUtMQRILSXhHVGdkZkI0UFk"
     }
   }
 }

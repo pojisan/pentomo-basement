@@ -18,8 +18,9 @@
       "title": "V-Dere Audition QnA!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-07T14:00:00Z",
-      "activeLiveChatId": "Cg0KCzE3aFlZaXg2NlJzKicKGFVDTEVYZmF5eGVDS2UwRlhPYlJqeVFoURILMTdoWVlpeDY2UnM"
+      "actualStartTime": "2024-05-07T14:00:08Z",
+      "actualEndTime": "2024-05-07T15:52:05Z",
+      "scheduledStartTime": "2024-05-07T14:00:00Z"
     }
   },
   "BmgnfQCTVAY": {
@@ -121,6 +122,13 @@
       "publishedAt": "2023-09-05T14:20:00Z",
       "channelId": "UCLEXfayxeCKe0FXObRjyQhQ",
       "title": "[ VTUBER GROUP DEBUT ] We are V-Dere!"
+    }
+  },
+  "d8OS6tB0MnA": {
+    "snippet": {
+      "publishedAt": "2024-05-08T19:00:14Z",
+      "channelId": "UCLEXfayxeCKe0FXObRjyQhQ",
+      "title": "Negative Rizz"
     }
   }
 }

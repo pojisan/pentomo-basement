@@ -2788,6 +2788,7 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-05T23:00:15Z",
+      "actualEndTime": "2024-05-06T02:26:41Z",
       "scheduledStartTime": "2024-05-05T23:00:00Z",
       "activeLiveChatId": "Cg0KC1JHSHlldllmUzY0KicKGFVDazJrMXktZDI0bkZ5VkN2eXhuQWFZQRILUkdIeWV2WWZTNjQ"
     }
@@ -2811,8 +2812,67 @@
       "title": "Is This Allowed? Eyetracker Challenge!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2025-05-06T23:00:00Z",
-      "activeLiveChatId": "Cg0KC3d4SXR2Yi1tMHpBKicKGFVDazJrMXktZDI0bkZ5VkN2eXhuQWFZQRILd3hJdHZiLW0wekE"
+      "actualStartTime": "2024-05-06T23:01:13Z",
+      "actualEndTime": "2024-05-07T01:55:26Z",
+      "scheduledStartTime": "2024-05-06T23:00:00Z"
+    }
+  },
+  "cUQoMNWd8yI": {
+    "snippet": {
+      "publishedAt": "2024-05-06T11:32:09Z",
+      "channelId": "UCk2k1y-d24nFyVCvyxnAaYA",
+      "title": "crab souls (another crab's treasure)"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-09T23:00:00Z",
+      "activeLiveChatId": "Cg0KC2NVUW9NTldkOHlJKicKGFVDazJrMXktZDI0bkZ5VkN2eXhuQWFZQRILY1VRb01OV2Q4eUk"
+    }
+  },
+  "zvf5LThXrlE": {
+    "snippet": {
+      "publishedAt": "2024-05-06T13:27:15Z",
+      "channelId": "UCk2k1y-d24nFyVCvyxnAaYA",
+      "title": "Vtuber Reacts to WORST Cringe Compilations"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-10T23:00:00Z",
+      "activeLiveChatId": "Cg0KC3p2ZjVMVGhYcmxFKicKGFVDazJrMXktZDI0bkZ5VkN2eXhuQWFZQRILenZmNUxUaFhybEU"
+    }
+  },
+  "eYK-Njor8Os": {
+    "snippet": {
+      "publishedAt": "2024-05-07T13:39:30Z",
+      "channelId": "UCk2k1y-d24nFyVCvyxnAaYA",
+      "title": "Content Warning"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-08T19:05:57Z",
+      "actualEndTime": "2024-05-08T20:26:49Z",
+      "scheduledStartTime": "2024-05-08T19:00:00Z"
+    }
+  },
+  "pwExV2z9MIU": {
+    "snippet": {
+      "publishedAt": "2024-05-07T15:24:10Z",
+      "channelId": "UCk2k1y-d24nFyVCvyxnAaYA",
+      "title": "she EATED all of it \ud83d\ude2d\u3010Supermarket Simulator\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-09T00:00:57Z",
+      "actualEndTime": "2024-05-09T02:09:02Z",
+      "scheduledStartTime": "2024-05-09T00:00:00Z",
+      "activeLiveChatId": "Cg0KC3B3RXhWMno5TUlVKicKGFVDazJrMXktZDI0bkZ5VkN2eXhuQWFZQRILcHdFeFYyejlNSVU"
+    }
+  },
+  "8Nlvh7dBMDk": {
+    "snippet": {
+      "publishedAt": "2024-05-08T14:53:59Z",
+      "channelId": "UCk2k1y-d24nFyVCvyxnAaYA",
+      "title": "Don't Get Killed by the GOOSE"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-09T15:00:00Z",
+      "activeLiveChatId": "Cg0KCzhObHZoN2RCTURrKicKGFVDazJrMXktZDI0bkZ5VkN2eXhuQWFZQRILOE5sdmg3ZEJNRGs"
     }
   }
 }
