@@ -98,18 +98,6 @@
       "activeLiveChatId": "Cg0KCy1mcERaeFR1SHhRKicKGFVDUG1faHRSUWp6aGdGaWtjT19MVHZUQRILLWZwRFp4VHVIeFE"
     }
   },
-  "-l2HPwMXq8E": {
-    "snippet": {
-      "publishedAt": "2024-05-08T04:30:57Z",
-      "channelId": "UCbDHIS0NpXROhYjsaXQX4pA",
-      "title": "[Overcooked] Moe Moe Mirai Cafe: in the Kitchen w/@Kou_Mariya  @YumitheWitch  [Yae Yugiri | V4Mirai]"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-09T01:05:59Z",
-      "scheduledStartTime": "2024-05-09T01:00:00Z",
-      "activeLiveChatId": "Cg0KCy1sMkhQd01YcThFKicKGFVDYkRISVMwTnBYUk9oWWpzYVhRWDRwQRILLWwySFB3TVhxOEU"
-    }
-  },
   "-nqsJeZ4Dxk": {
     "snippet": {
       "publishedAt": "2024-04-30T09:27:03Z",
@@ -2376,6 +2364,7 @@
       "title": "\u3010JUST CHATTING\u3011 \u3010NIJISANJI EN | Ren Zotto\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-09T02:59:42Z",
       "scheduledStartTime": "2024-05-09T03:00:00Z",
       "activeLiveChatId": "Cg0KC01aczBaR1A3ak9RKicKGFVDS3U1OWdUWl9yZEVtZXJkeDVyVjRZZxILTVpzMFpHUDdqT1E"
     }
@@ -4993,6 +4982,17 @@
       "activeLiveChatId": "Cg0KC21XNDZ1ZHJxQl9ZKicKGFVDQUZieUVqOXBlc0N4bzY5b3pFaGk5URILbVc0NnVkcnFCX1k"
     }
   },
+  "megu": {
+    "snippet": {
+      "channelId": "megu",
+      "title": "[ Skeleton Stream ] Karaoke & Life Update",
+      "channelTitle": "Megu"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-09T03:00:13Z",
+      "twitch": true
+    }
+  },
   "mfoHpYA39oc": {
     "snippet": {
       "publishedAt": "2024-03-10T12:20:05Z",
@@ -5356,7 +5356,7 @@
   "poseidonmythos": {
     "snippet": {
       "channelId": "poseidonmythos",
-      "title": "\u2500\ud83d\udd31 {18+}  YAPPING TIME?!?! OCEAN GODDESS DELULU HOURS! \u27a1 Content Warning Collab w/ Mythos later!! \u250a !socials !throne !discord",
+      "title": "\u2500\ud83d\udd31 {18+}  CONTENT WARNING WITH MYTHOS!! @zeusmythosvt @aresmythos @apollomythos\u250a !socials !throne !discord",
       "channelTitle": "PoseidonMythos"
     },
     "liveStreamingDetails": {
@@ -5643,6 +5643,17 @@
       "twitch": true
     }
   },
+  "shimadatiger": {
+    "snippet": {
+      "channelId": "shimadatiger",
+      "title": "[LIVE 3DIO ASMR] Comfy tomboy tiger soft and scratchy ASMR to help you sleep!! (!newvideo)",
+      "channelTitle": "ShimadaTiger"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-09T03:00:11Z",
+      "twitch": true
+    }
+  },
   "skTCKgM7biI": {
     "snippet": {
       "publishedAt": "2024-02-26T04:33:52Z",
@@ -5706,7 +5717,7 @@
       "title": "\u3010STUDY WITH ME\u30fb\u4f5c\u696d\u914d\u4fe1\u3011penguin at the pc \ud83d\udcbb keyboard sounds!\u3010NIJISANJI EN | Petra Gurin\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-09T03:00:00Z",
+      "scheduledStartTime": "2024-05-09T03:30:00Z",
       "activeLiveChatId": "Cg0KC3RkcS1fMFZ6V3Q4KicKGFVDZ0EyaktSa3FwWV84ZXlzUFVzOHNqdxILdGRxLV8wVnpXdDg"
     }
   },
@@ -6024,6 +6035,7 @@
       "title": "\u3010GUILTY GEAR -STRIVE-\u3011the testament grind continues"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-09T03:00:38Z",
       "scheduledStartTime": "2024-05-09T03:00:00Z",
       "activeLiveChatId": "Cg0KC3d6WjlDT2JXMGVVKicKGFVDeGF6aWR0N3FRTU5WVzczd2twc3dPQRILd3paOUNPYlcwZVU"
     }
