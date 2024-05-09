@@ -1428,6 +1428,7 @@
       "title": "\u3010CONTENT WARNING\u3011 Collab with Miki, Lida & Airi! \ud83d\udc95"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-09T12:04:01Z",
       "scheduledStartTime": "2024-05-09T12:00:00Z",
       "activeLiveChatId": "Cg0KC0ZjaUFRcTQ3eURJKicKGFVDYnJiRktGaHlIRDRiTUpiRWNYWnoxZxILRmNpQVFxNDd5REk"
     }
@@ -2066,6 +2067,7 @@
       "title": "Filming Cute Vtubers\u3010Content Warning\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-09T12:02:56Z",
       "scheduledStartTime": "2024-05-09T12:00:00Z",
       "activeLiveChatId": "Cg0KC0w4RVZPYlNRYU9BKicKGFVDM0FZdG1NTmRKY3pDdlFOb1B5LWdqdxILTDhFVk9iU1FhT0E"
     }
@@ -3213,6 +3215,7 @@
       "title": "HADES 2 IS HERE!!!!!!! \u3010  HADES 2  \u3011 \u3010NIJISANJI EN | Alban Knox\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-09T12:05:05Z",
       "scheduledStartTime": "2024-05-09T12:00:00Z",
       "activeLiveChatId": "Cg0KC1hXY1BxUWdwdU1jKicKGFVDUTF6R3hIcmZFbW1XNENQcEJ4OS1xdxILWFdjUHFRZ3B1TWM"
     }
@@ -3673,6 +3676,7 @@
       "title": "\u3010Content Warning\u3011Best Content Creators"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-09T12:02:47Z",
       "scheduledStartTime": "2024-05-09T12:00:00Z",
       "activeLiveChatId": "Cg0KC2M5OFhpYkF5czYwKicKGFVDazB2dXd3c21fVVFISElPZ0d2eFUtQRILYzk4WGliQXlzNjA"
     }
@@ -3978,6 +3982,18 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC2ZFY2dfNFlxNDJZKicKGFVDVi05ZGd0VlhIbXF2elk5cWR2b0dZQRILZkVjZ180WXE0Mlk"
+    }
+  },
+  "fFZrcS05Wqo": {
+    "snippet": {
+      "publishedAt": "2024-05-09T12:01:05Z",
+      "channelId": "UCUr8O6Z8JyAg83KJbc_u_bQ",
+      "title": "i make pretty house! !discord to join"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-09T12:01:12Z",
+      "scheduledStartTime": "2024-05-09T12:01:15Z",
+      "activeLiveChatId": "Cg0KC2ZGWnJjUzA1V3FvKicKGFVDVXI4TzZaOEp5QWc4M0tKYmNfdV9iURILZkZacmNTMDVXcW8"
     }
   },
   "fXwQRXnZR5c": {
@@ -4564,6 +4580,17 @@
       "activeLiveChatId": "Cg0KC2tlMTZnRmdhbUdRKicKGFVDSzlsNnJUd1UzaGlTWmlqSU1xNTFHdxILa2UxNmdGZ2FtR1E"
     }
   },
+  "kirispica": {
+    "snippet": {
+      "channelId": "kirispica",
+      "title": "The best content!! Collab with Airi, Lida and Miki!  \u3010Kirispica | V-Dere\u3011",
+      "channelTitle": "kirispica"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-09T12:03:21Z",
+      "twitch": true
+    }
+  },
   "kmr7Kvh5BPM": {
     "snippet": {
       "publishedAt": "2024-05-08T04:39:44Z",
@@ -4802,7 +4829,7 @@
   "miyuyus": {
     "snippet": {
       "channelId": "miyuyus",
-      "title": "House buildo !discord to join",
+      "title": "i make pretty house! !discord to join",
       "channelTitle": "miyuyus"
     },
     "liveStreamingDetails": {
