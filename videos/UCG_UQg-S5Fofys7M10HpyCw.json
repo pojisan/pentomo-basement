@@ -565,5 +565,17 @@
       "actualEndTime": "2024-05-01T03:43:37Z",
       "scheduledStartTime": "2024-05-01T01:00:00Z"
     }
+  },
+  "NJtITyfTJ3Y": {
+    "snippet": {
+      "publishedAt": "2024-05-09T01:48:51Z",
+      "channelId": "UCG_UQg-S5Fofys7M10HpyCw",
+      "title": "unarchived soft guitar stream"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-09T03:05:07Z",
+      "scheduledStartTime": "2024-05-09T03:00:00Z",
+      "activeLiveChatId": "Cg0KC05KdElUeWZUSjNZKicKGFVDR19VUWctUzVGb2Z5czdNMTBIcHlDdxILTkp0SVR5ZlRKM1k"
+    }
   }
 }
