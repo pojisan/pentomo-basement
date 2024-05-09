@@ -1481,11 +1481,24 @@
     "snippet": {
       "publishedAt": "2024-05-09T02:29:09Z",
       "channelId": "UCf4U3iVUDkkhIv3jnr41u-Q",
-      "title": "TEST"
+      "title": "TEST",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-09T02:29:08Z",
       "activeLiveChatId": "Cg0KC2dXSkozZHhvT09nKicKGFVDZjRVM2lWVURra2hJdjNqbnI0MXUtURILZ1dKSjNkeG9PT2c"
+    }
+  },
+  "IB8SIl6lfpo": {
+    "snippet": {
+      "publishedAt": "2024-05-09T02:33:35Z",
+      "channelId": "UCf4U3iVUDkkhIv3jnr41u-Q",
+      "title": "[Kinda Goth Month] Checking out Bunny Garden, Record stuff, Sort out Forms, Cry | #OshiLink #Vtuber"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-09T02:34:14Z",
+      "scheduledStartTime": "2024-05-09T02:33:34Z",
+      "activeLiveChatId": "Cg0KC0lCOFNJbDZsZnBvKicKGFVDZjRVM2lWVURra2hJdjNqbnI0MXUtURILSUI4U0lsNmxmcG8"
     }
   }
 }
