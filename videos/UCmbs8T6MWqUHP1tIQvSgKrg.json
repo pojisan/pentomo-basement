@@ -4488,7 +4488,9 @@
       "title": "\u3010Graveyard Keeper\u3011Progress | #3"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-10T03:00:00Z"
+      "actualStartTime": "2024-05-10T03:01:49Z",
+      "scheduledStartTime": "2024-05-10T03:00:00Z",
+      "activeLiveChatId": "Cg0KC0hLSkJUeTRYSWRVKicKGFVDbWJzOFQ2TVdxVUhQMXRJUXZTZ0tyZxILSEtKQlR5NFhJZFU"
     }
   }
 }
