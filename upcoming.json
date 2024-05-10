@@ -3262,7 +3262,8 @@
       "title": "\u3010FUWAMOCO MORNING\u3011episode 96 \ud83d\udc3e #FWMCMORNING"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-10T15:00:00Z"
+      "scheduledStartTime": "2024-05-10T15:00:00Z",
+      "activeLiveChatId": "Cg0KC2I3ZTlYTlplOWMwKicKGFVDdDlIX1JwUXpoeHpseUJ4RnFyZEhxQRILYjdlOVhOWmU5YzA"
     }
   },
   "bC44LvbjVxE": {
@@ -4298,6 +4299,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-03-09T13:00:00Z",
       "activeLiveChatId": "Cg0KC21mb0hwWUEzOW9jKicKGFVDYXhpRGVfVHVNTFhrd1JNVkxtNVZ3URILbWZvSHBZQTM5b2M"
+    }
+  },
+  "miya_mareena": {
+    "snippet": {
+      "channelId": "miya_mareena",
+      "title": "Shark Girl Hours ~ [ !merch, !gg ]",
+      "channelTitle": "miya_mareena"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-10T13:49:37Z",
+      "twitch": true
     }
   },
   "miyuyus": {
