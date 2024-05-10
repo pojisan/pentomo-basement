@@ -125,6 +125,7 @@
       "title": "i can explain."
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-10T03:46:25Z",
       "scheduledStartTime": "2024-05-10T03:45:00Z",
       "activeLiveChatId": "Cg0KCzBZaXk5Tk5oZFowKicKGFVDZ21QbngtRUVlT3JaU2c1VGl3N1pSURILMFlpeTlOTmhkWjA"
     }
@@ -773,7 +774,7 @@
       "title": "I LOVE CARD GAMES BUT ROGUELIKE! IT'S TOO MUCH FUN!!!\u3010Balatro\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-10T05:00:00Z",
+      "scheduledStartTime": "2024-05-10T08:00:00Z",
       "activeLiveChatId": "Cg0KCzgxREFGb3N1X2FrKicKGFVDeF9BNmZuczlxS2p5YnUtNmswdXIxZxILODFEQUZvc3VfYWs"
     }
   },
@@ -3460,6 +3461,17 @@
       "activeLiveChatId": "Cg0KC2M3SzZSSW5HM0R3KicKGFVDTXdHSFIwQlRadUxzbWpZX05UNVB3ZxILYzdLNlJJbkczRHc"
     }
   },
+  "cOZLNdhcSTc": {
+    "snippet": {
+      "publishedAt": "2024-05-10T03:42:27Z",
+      "channelId": "UCivwPlOp0ojnMPZj5pNOPPA",
+      "title": "\u3010\u4f5c\u696d\u96d1\u8ac7\u3011\u306b\u3093\u3080\u3061\u3085\u3046\u3010\u306b\u3058\u3055\u3093\u3058/\u30bd\u30d5\u30a3\u30a2\u30fb\u30f4\u30a1\u30ec\u30f3\u30bf\u30a4\u30f3\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-10T04:00:00Z",
+      "activeLiveChatId": "Cg0KC2NPWkxOZGhjU1RjKicKGFVDaXZ3UGxPcDBvam5NUFpqNXBOT1BQQRILY09aTE5kaGNTVGM"
+    }
+  },
   "ckrp6_LOr5A": {
     "snippet": {
       "publishedAt": "2024-05-06T17:18:02Z",
@@ -4014,18 +4026,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-12T02:00:00Z",
       "activeLiveChatId": "Cg0KC2lIUWg0OF9Odks0KicKGFVDRVk5Q25TSDBuMFFLbVkyUS1PSDdadxILaUhRaDQ4X052SzQ"
-    }
-  },
-  "iHmQP3m7YFA": {
-    "snippet": {
-      "publishedAt": "2024-05-09T18:25:57Z",
-      "channelId": "UCN68LoM3khS4gdBMiWJO8WA",
-      "title": "Designing Makeup Looks Inspired by NIJI EN! \u3010NIJISANJI EN | Aia Amare \u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-09T22:28:35Z",
-      "scheduledStartTime": "2024-05-09T22:00:00Z",
-      "activeLiveChatId": "Cg0KC2lIbVFQM203WUZBKicKGFVDTjY4TG9NM2toUzRnZEJNaVdKTzhXQRILaUhtUVAzbTdZRkE"
     }
   },
   "iMCvLjy_SiM": {
@@ -5555,7 +5555,7 @@
   "zeusmythosvt": {
     "snippet": {
       "channelId": "zeusmythosvt",
-      "title": "\u300c \ud83c\udf29\ufe0f JUST CHATTING \ud83c\udf29\ufe0f \u300d YAPPANOMICS WITH PROFESSOR ZEUS + HADES II LATER YAHOO \u26a1 !socials !discord !throne !lurk !daki !uwu !gamersupps",
+      "title": "\u300c \ud83c\udf29\ufe0f HADES II \ud83c\udf29\ufe0f \u300d WE'RE KILLING TIME WITH THIS ONE YAHOO \u26a1 !socials !discord !throne !lurk !daki !uwu !gamersupps",
       "channelTitle": "ZeusMythosVT"
     },
     "liveStreamingDetails": {
