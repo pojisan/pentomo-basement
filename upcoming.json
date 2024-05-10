@@ -602,6 +602,7 @@
       "title": "\u3010SPECIAL PROGRAM\u3011Maid Day! How ya doin' Master~?"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-10T21:01:07Z",
       "scheduledStartTime": "2024-05-10T21:00:00Z",
       "activeLiveChatId": "Cg0KCzVETzZ3SHZXRXM0KicKGFVDTGRrY1R0NXZPZkdpX215dkstaU8wZxILNURPNndIdldFczQ"
     }
@@ -2431,6 +2432,7 @@
       "title": "ITS-A ME, LOTTIE!\u3010SUPER MARIO BROS 2\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-10T21:01:12Z",
       "scheduledStartTime": "2024-05-10T21:00:00Z",
       "activeLiveChatId": "Cg0KC1M4RjJKNFl3Z3ZJKicKGFVDaXl6b3JETnc2dEpXR0VWSXRINFNtZxILUzhGMko0WXdndkk"
     }
@@ -2449,9 +2451,10 @@
     "snippet": {
       "publishedAt": "2024-04-24T05:45:52Z",
       "channelId": "UCv1ThyE4KVYnnVY8GLftnoA",
-      "title": "\u3010MINECRAFT\u3011Cute Girls Doing Bad Things\u3010V4Mirai | Serina Maiko | ENVtuber\u3011"
+      "title": "\u3010MINECRAFT\u3011Cute Girls Doing Bad Things!\u3010V4Mirai | Serina Maiko | ENVtuber\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-10T20:57:53Z",
       "scheduledStartTime": "2024-05-10T21:00:00Z",
       "activeLiveChatId": "Cg0KC1NzNkhNbXdQQWRZKicKGFVDdjFUaHlFNEtWWW5uVlk4R0xmdG5vQRILU3M2SE1td1BBZFk"
     }
@@ -2876,6 +2879,7 @@
       "title": "\u3010Pikuniku\u3011 Takos With Legs?!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-10T21:01:00Z",
       "scheduledStartTime": "2024-05-10T21:00:00Z",
       "activeLiveChatId": "Cg0KC1hGc0dSRDJ5a05NKicKGFVDTXdHSFIwQlRadUxzbWpZX05UNVB3ZxILWEZzR1JEMnlrTk0"
     }
@@ -3426,17 +3430,6 @@
       "activeLiveChatId": "Cg0KC2RlOV9iTXVtcm9nKicKGFVDLTFfLWpVdS1sQUxkR245LU1kQko0URILZGU5X2JNdW1yb2c"
     }
   },
-  "dee_the_sphinx": {
-    "snippet": {
-      "channelId": "dee_the_sphinx",
-      "title": "WHEN YA PLAY THIS CAT GAME, RICK ASTLEY MAKES A COMEBACK! \ud83d\udd06!discord [Vtuber]",
-      "channelTitle": "Dee_the_Sphinx"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-10T14:14:24Z",
-      "twitch": true
-    }
-  },
   "dsZscZ9meRY": {
     "snippet": {
       "publishedAt": "2024-05-08T16:48:21Z",
@@ -3794,6 +3787,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-13T02:30:00Z",
       "activeLiveChatId": "Cg0KC2haTXljSlJfVklFKicKGFVDdTFJTnplZnczUjdNOS0zUUVIWW1NURILaFpNeWNKUl9WSUU"
+    }
+  },
+  "haruna": {
+    "snippet": {
+      "channelId": "haruna",
+      "title": "HELP ME!!!!!",
+      "channelTitle": "haruna"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-10T20:59:53Z",
+      "twitch": true
     }
   },
   "hlDFczhR2mo": {
@@ -4324,6 +4328,17 @@
       "activeLiveChatId": "Cg0KC21mb0hwWUEzOW9jKicKGFVDYXhpRGVfVHVNTFhrd1JNVkxtNVZ3URILbWZvSHBZQTM5b2M"
     }
   },
+  "miyuyus": {
+    "snippet": {
+      "channelId": "miyuyus",
+      "title": "Let's make a cute house! \u2665 !discord to join",
+      "channelTitle": "miyuyus"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-10T21:00:44Z",
+      "twitch": true
+    }
+  },
   "mjc8BJ-ZpsE": {
     "snippet": {
       "publishedAt": "2024-05-10T01:03:38Z",
@@ -4432,6 +4447,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-18T23:00:50Z",
       "activeLiveChatId": "Cg0KC25oMnlHbkhhY3dZKicKGFVDTzBEcFZLUjRDSDVFWGdvc2N6OTliQRILbmgyeUduSGFjd1k"
+    }
+  },
+  "niasuzune": {
+    "snippet": {
+      "channelId": "niasuzune",
+      "title": "\u3010DONOTHON DAY 6\u3011THE UNO DREAM IS DEAD, HORROR TIME! | !donothon !merch",
+      "channelTitle": "NiaSuzune"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-10T21:00:30Z",
+      "twitch": true
     }
   },
   "ninaninin": {
@@ -4571,6 +4597,7 @@
       "title": "\u3010DONOTHON DAY 6\u3011LETTING OUT THE WOLF INSIDE OF ME"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-10T21:01:07Z",
       "scheduledStartTime": "2024-05-10T22:00:00Z",
       "activeLiveChatId": "Cg0KC3AzSkZKNUFIb0Q4KicKGFVDdzFLTmpWcWZySlNmY0ZkNnpsY1N6QRILcDNKRko1QUhvRDg"
     }
