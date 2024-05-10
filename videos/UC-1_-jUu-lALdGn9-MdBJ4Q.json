@@ -487,6 +487,7 @@
       "title": "This Week's Schedule\ud83d\udc31\ud83d\udda5  + Free Chat!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-10T01:00:02Z",
       "scheduledStartTime": "2026-03-01T01:00:00Z",
       "activeLiveChatId": "Cg0KC2RlOV9iTXVtcm9nKicKGFVDLTFfLWpVdS1sQUxkR245LU1kQko0URILZGU5X2JNdW1yb2c"
     }
@@ -2884,6 +2885,8 @@
       "title": "Embrace Cat!\u3010Little Kitty, Big City\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-10T01:00:06Z",
+      "actualEndTime": "2024-05-10T01:00:07Z",
       "scheduledStartTime": "2024-05-10T01:00:00Z",
       "activeLiveChatId": "Cg0KCzlfYjVtRHNVS05nKicKGFVDLTFfLWpVdS1sQUxkR245LU1kQko0URILOV9iNW1Ec1VLTmc"
     }
