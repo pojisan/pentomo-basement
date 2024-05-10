@@ -87,7 +87,8 @@
     "snippet": {
       "publishedAt": "2024-04-10T04:07:00Z",
       "channelId": "UCr8NZ9jOrrVcIRnaHZCjJUg",
-      "title": "\u3010KARAOKE | \u6b4c\u67a0\u3011Singing week DAY 4 #shorts"
+      "title": "\u3010KARAOKE | \u6b4c\u67a0\u3011Singing week DAY 4 #shorts",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-04-12T14:00:00Z",
@@ -3657,6 +3658,17 @@
       "actualEndTime": "2024-05-07T17:08:35Z",
       "scheduledStartTime": "2024-05-07T14:00:00Z",
       "activeLiveChatId": "Cg0KC2pCZzdNWExNTVRZKicKGFVDcjhOWjlqT3JyVmNJUm5hSFpDakpVZxILakJnN01YTE1NVFk"
+    }
+  },
+  "1F16uMuQtRA": {
+    "snippet": {
+      "publishedAt": "2024-05-10T00:16:40Z",
+      "channelId": "UCr8NZ9jOrrVcIRnaHZCjJUg",
+      "title": "Wake up gamer, we have a battlepass to grind \u3010League of Legends\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-10T14:00:00Z",
+      "activeLiveChatId": "Cg0KCzFGMTZ1TXVRdFJBKicKGFVDcjhOWjlqT3JyVmNJUm5hSFpDakpVZxILMUYxNnVNdVF0UkE"
     }
   }
 }
