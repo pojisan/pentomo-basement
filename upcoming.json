@@ -333,6 +333,7 @@
       "title": "(Little Kitty, Big City) Scratching Strangers and Stealing Food Nya~"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-10T14:16:01Z",
       "scheduledStartTime": "2024-05-10T14:15:00Z",
       "activeLiveChatId": "Cg0KCzFmbGhVMWNpREcwKicKGFVDS0pleGFkQ2VObzNsdTBVMjBza21OZxILMWZsaFUxY2lERzA"
     }
@@ -1286,18 +1287,6 @@
       "scheduledStartTime": "2024-05-12T01:00:00Z"
     }
   },
-  "Flf1vjxbL7Y": {
-    "snippet": {
-      "publishedAt": "2024-05-06T12:07:52Z",
-      "channelId": "UCHXmyTZ3UFbhzpfVgVlrdgw",
-      "title": "\u3010GAME STREAM\u30fb\u30b2\u30fc\u30e0\u914d\u4fe1\u3011My Chat Convinced Me to Play NIKKE\u30fb\ud83d\udd30NIKKE\ud83d\udd30\u521d\u5fc3\u8005"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-10T09:57:05Z",
-      "scheduledStartTime": "2024-05-10T10:00:00Z",
-      "activeLiveChatId": "Cg0KC0ZsZjF2anhiTDdZKicKGFVDSFhteVRaM1VGYmh6cGZWZ1ZscmRndxILRmxmMXZqeGJMN1k"
-    }
-  },
   "FrU69Z8vbG8": {
     "snippet": {
       "publishedAt": "2024-05-06T16:57:35Z",
@@ -1391,6 +1380,16 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-01-01T11:35:00Z",
       "activeLiveChatId": "Cg0KC0c5S3FCYktlVWhBKicKGFVDMUpuYWdycWpUekVScWZwTnRSZngxQRILRzlLcUJiS2VVaEE"
+    }
+  },
+  "GBq2rSHa25s": {
+    "snippet": {
+      "publishedAt": "2024-05-10T14:13:40Z",
+      "channelId": "UCodzKa0ybsdu9gEp9lpKg9g",
+      "title": "DaFish \u3010VyVid\u3011 Live Stream"
+    },
+    "liveStreamingDetails": {
+      "activeLiveChatId": "Cg0KC0dCcTJyU0hhMjVzKicKGFVDb2R6S2EweWJzZHU5Z0VwOWxwS2c5ZxILR0JxMnJTSGEyNXM"
     }
   },
   "GCH55Bn2OqU": {
@@ -1552,6 +1551,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-10-31T04:00:00Z",
       "activeLiveChatId": "Cg0KC0hkWTVxT1dCUVJvKicKGFVDWmw5MndNaXBqWUZjMVVsbTlZeTY1ZxILSGRZNXFPV0JRUm8"
+    }
+  },
+  "Hf4i3-rlf1M": {
+    "snippet": {
+      "publishedAt": "2024-05-10T14:19:15Z",
+      "channelId": "UCGwLSyPLaHpq0nuT_JVSMtQ",
+      "title": "\u3010FR/EN/JP/VN/CN/ES\u3011MAID DAY CAFE (not real)\u3010Kumanui Miel | globie\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-10T14:30:00Z",
+      "activeLiveChatId": "Cg0KC0hmNGkzLXJsZjFNKicKGFVDR3dMU3lQTGFIcHEwbnVUX0pWU010URILSGY0aTMtcmxmMU0"
     }
   },
   "Hhv4jz9pY8o": {
@@ -3453,6 +3463,17 @@
       "activeLiveChatId": "Cg0KC2RlOV9iTXVtcm9nKicKGFVDLTFfLWpVdS1sQUxkR245LU1kQko0URILZGU5X2JNdW1yb2c"
     }
   },
+  "dee_the_sphinx": {
+    "snippet": {
+      "channelId": "dee_the_sphinx",
+      "title": "\ud83d\udd06Dee Returns to Cat: Furiously knocking over your pots\ud83d\udd06!discord [Vtuber]",
+      "channelTitle": "Dee_the_Sphinx"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-10T14:14:24Z",
+      "twitch": true
+    }
+  },
   "dsZscZ9meRY": {
     "snippet": {
       "publishedAt": "2024-05-08T16:48:21Z",
@@ -3622,6 +3643,7 @@
       "title": "women \ud83d\udc4d like if you agree"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-10T14:19:48Z",
       "scheduledStartTime": "2024-05-10T14:00:00Z",
       "activeLiveChatId": "Cg0KC2ZnUFdINXdIVmw4KicKGFVDeUY3U2VJeVdsVXpua19zZ19YakM4URILZmdQV0g1d0hWbDg"
     }
@@ -5469,6 +5491,7 @@
       "title": "\u3010ALAN WAKE\u3011Okay phantomos NEW ADVENTURE\u3010NIJISANJI EN | Reimu Endou\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-10T14:18:24Z",
       "scheduledStartTime": "2024-05-10T14:00:00Z",
       "activeLiveChatId": "Cg0KC3pvclFrdE9rYW1BKicKGFVDQlVSTThTNExIN2NSWjBDbGVhOVJEQRILem9yUWt0T2thbUE"
     }
