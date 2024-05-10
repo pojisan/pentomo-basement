@@ -1415,9 +1415,10 @@
     "snippet": {
       "publishedAt": "2024-05-10T10:00:05Z",
       "channelId": "UCI4PLfuiL9jFOpsEIA20Kjg",
-      "title": "..."
+      "title": "...."
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-10T10:04:54Z",
       "scheduledStartTime": "2024-05-10T10:00:00Z",
       "activeLiveChatId": "Cg0KC0dIWnhJVkxSN1ZZKicKGFVDSTRQTGZ1aUw5akZPcHNFSUEyMEtqZxILR0haeElWTFI3Vlk"
     }
@@ -2631,6 +2632,7 @@
       "title": "\u3010NIER: AUTOMATA\u3011Glory to Mankind\u3010NIJISANJI EN | Ike Eveland\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-10T10:02:50Z",
       "scheduledStartTime": "2024-05-10T10:00:00Z",
       "activeLiveChatId": "Cg0KC1Y5WnJWWHp2cDZBKicKGFVDNHlOSUtHdnktWVVyd1l1cFZkTERYQRILVjlaclZYenZwNkE"
     }
@@ -3471,6 +3473,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-10T23:00:00Z",
       "activeLiveChatId": "Cg0KC2R0NTdxUlpFMVJBKicKGFVDYkRISVMwTnBYUk9oWWpzYVhRWDRwQRILZHQ1N3FSWkUxUkE"
+    }
+  },
+  "duroppucharming": {
+    "snippet": {
+      "channelId": "duroppucharming",
+      "title": "\ud83d\udc28chuu~!\ud83d\udc9a18+ \ud83d\udc9cdropbears in space  || AUtuber/Envtuber || Alola don't forget me!",
+      "channelTitle": "DuroppuCharming"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-10T10:03:49Z",
+      "twitch": true
     }
   },
   "dwPADgo8YSY": {
@@ -5084,17 +5097,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-08T19:00:00Z",
       "activeLiveChatId": "Cg0KC3ZrYmktZFFGMjdnKicKGFVDYjhkTHZEdm1aLWQ5MktFeV85b1dvZxILdmtiaS1kUUYyN2c"
-    }
-  },
-  "vvI6Q6t8wGM": {
-    "snippet": {
-      "publishedAt": "2024-05-10T09:59:14Z",
-      "channelId": "UCRkdFGXwBtxvm9SsfmNmMZA",
-      "title": "Time to SNIPE pewpew your heart \ud83d\udc7c"
-    },
-    "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-15T16:00:00Z",
-      "activeLiveChatId": "Cg0KC3Z2STZRNnQ4d0dNKicKGFVDUmtkRkdYd0J0eHZtOVNzZm1ObU1aQRILdnZJNlE2dDh3R00"
     }
   },
   "wWqB7v45OFw": {
