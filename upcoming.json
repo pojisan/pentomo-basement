@@ -2904,6 +2904,7 @@
       "title": "\u3010 \u203b\u91cd\u5927\u544a\u77e5 \u3011\u304c\u3057\u305f\u3044\u3002\u30af\u30ea\u30a2\u3059\u308b\u307e\u3067\u544a\u77e5\u3067\u304d\u306a\u3044\u914d\u4fe1\ud83d\ude28\ud83d\ude28\u3010\u5c0f\u6e05\u6c34 \u900f / \u306b\u3058\u3055\u3093\u3058\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-10T08:04:03Z",
       "scheduledStartTime": "2024-05-10T08:00:00Z",
       "activeLiveChatId": "Cg0KC1k5aXBUbWl0RkRBKicKGFVDVVA4VG1sTzdOTnJhODhBTXFHVV92URILWTlpcFRtaXRGREE"
     }
@@ -2982,18 +2983,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-11T23:00:00Z",
       "activeLiveChatId": "Cg0KC1lxRm5zc0laVktFKicKGFVDeF9BNmZuczlxS2p5YnUtNmswdXIxZxILWXFGbnNzSVpWS0U"
-    }
-  },
-  "Z4en96f0XEQ": {
-    "snippet": {
-      "publishedAt": "2024-05-10T05:29:00Z",
-      "channelId": "UCf4U3iVUDkkhIv3jnr41u-Q",
-      "title": "[Arting] drawing stuff | #OshiLink #Vtuber"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-10T05:29:12Z",
-      "scheduledStartTime": "2024-05-10T05:29:00Z",
-      "activeLiveChatId": "Cg0KC1o0ZW45NmYwWEVRKicKGFVDZjRVM2lWVURra2hJdjNqbnI0MXUtURILWjRlbjk2ZjBYRVE"
     }
   },
   "Z8x_eZh0-q4": {
@@ -4880,17 +4869,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-12-31T15:00:00Z",
       "activeLiveChatId": "Cg0KC3N4M0lnQjNKM1hVKicKGFVDUnR1Z0tRSVBQZlptVlo2dkxpT3NkURILc3gzSWdCM0ozWFU"
-    }
-  },
-  "tatsuhikohiroki": {
-    "snippet": {
-      "channelId": "tatsuhikohiroki",
-      "title": "[Arting] drawing stuff | #OshiLink #Vtuber",
-      "channelTitle": "tatsuhikohiroki"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-10T05:29:06Z",
-      "twitch": true
     }
   },
   "tgeaQEa_JHs": {
