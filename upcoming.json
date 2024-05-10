@@ -492,6 +492,7 @@
       "title": "\u3010ASMR/3DIO\u3011Positive Affirmations: Let me comfort you | Kisses, Whispers, Affirmations, etc."
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-10T04:00:15Z",
       "scheduledStartTime": "2024-05-10T04:00:00Z",
       "activeLiveChatId": "Cg0KCzRHVlNwakpGRDJzKicKGFVDS0I3bV90Z1g3bHNVM1Bpdl9oaEgyQRILNEdWU3BqSkZEMnM"
     }
@@ -1692,6 +1693,7 @@
       "title": "\u3010SHINKANSEN0+GARTEN OF BANBAN\u3011HORROR NIGHT AAAAAA"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-10T04:01:13Z",
       "scheduledStartTime": "2024-05-10T04:00:00Z",
       "activeLiveChatId": "Cg0KC0kxZ2czYWtwbXBRKicKGFVDWVhfaUdyaEJuRnQwZHlYd1NpN1U0URILSTFnZzNha3BtcFE"
     }
@@ -3776,6 +3778,7 @@
       "title": "\u3053\u306e\u30b2\u30fc\u30e0\u304b\u3089\u9003\u3052\u3066\u308b\u308f\u3010\u30c8\u30a5\u30fc\u30e0\u30ec\u30a4\u30c0\u30fc2\u3011\u3010\u6b4c\u7f8e\u9cf4\u30af\u30e9\u30e9 / Phase Connect\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-10T04:00:13Z",
       "scheduledStartTime": "2024-05-10T04:00:00Z",
       "activeLiveChatId": "Cg0KC2ZrSlVYXzZ0cjRVKicKGFVDUmxaYXN6azg0WVhqUnRkUEN4cWp2dxILZmtKVVhfNnRyNFU"
     }
@@ -5053,6 +5056,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-04-27T06:00:00Z",
       "activeLiveChatId": "Cg0KC3NWY29UVFNvZ2dvKicKGFVDcW1TWWtYTHdzTDB6RWFyNUdvb1lrZxILc1Zjb1RUU29nZ28"
+    }
+  },
+  "sayu": {
+    "snippet": {
+      "channelId": "sayu",
+      "title": "HORROR NIGHT: 2 Games! SO MANY NEW EMOTES! Shinkansen 0 and Garten of Banban~\u2503!website !merch",
+      "channelTitle": "Sayu"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-10T04:01:10Z",
+      "twitch": true
     }
   },
   "sazND1ZmVjE": {
