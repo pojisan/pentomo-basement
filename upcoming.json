@@ -114,6 +114,7 @@
       "title": "Happy Maid Day! \u2615Let's draw something SPICY! \ud83d\udd25\ud83e\udd75 + ANNOUNCEMENT!\u3010Bonnie Barkswell / globie\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-10T20:01:49Z",
       "scheduledStartTime": "2024-05-10T20:00:00Z",
       "activeLiveChatId": "Cg0KCzBTeHlJVmxaOFR3KicKGFVDcXczcGRQRUtLVk9JN1NGWG9teUtMQRILMFN4eUlWbFo4VHc"
     }
@@ -2347,30 +2348,6 @@
       "activeLiveChatId": "Cg0KC1JiZlZVRmtzWlFzKicKGFVDbjViUF9oTEw1SEI2Ulc4WDMya3cxQRILUmJmVlVGa3NaUXM"
     }
   },
-  "Rgk4J514BI8": {
-    "snippet": {
-      "publishedAt": "2024-05-05T16:28:52Z",
-      "channelId": "UCbvR46SQpOPRKMrVT8NoJTA",
-      "title": "\u3010IT TAKES TWO\u3011LET'S TANGO w/ @GXAuraOfficial  \u3010EIEN Project\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-10T14:52:25Z",
-      "scheduledStartTime": "2024-05-10T15:00:00Z",
-      "activeLiveChatId": "Cg0KC1JnazRKNTE0Qkk4KicKGFVDYnZSNDZTUXBPUFJLTXJWVDhOb0pUQRILUmdrNEo1MTRCSTg"
-    }
-  },
-  "RtoXPt1ZLlc": {
-    "snippet": {
-      "publishedAt": "2024-05-05T05:37:33Z",
-      "channelId": "UC9SWIzHP07PL1y6cU8wkDwA",
-      "title": "\u3010Yuppie Psycho\u3011must find daddy\u3010Yume+ | Mero Umiko\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-10T20:00:30Z",
-      "scheduledStartTime": "2024-05-07T23:00:00Z",
-      "activeLiveChatId": "Cg0KC1J0b1hQdDFaTGxjKicKGFVDOVNXSXpIUDA3UEwxeTZjVTh3a0R3QRILUnRvWFB0MVpMbGM"
-    }
-  },
   "RxHtpP21aPE": {
     "snippet": {
       "publishedAt": "2024-01-01T16:03:53Z",
@@ -3477,6 +3454,7 @@
       "title": "\u3010Zatsu\u3011im sick so we YAP\u3010Yume+ | Mero Umiko\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-10T20:02:11Z",
       "scheduledStartTime": "2024-05-10T20:00:00Z",
       "activeLiveChatId": "Cg0KC2VFWGVVd1k5MDJZKicKGFVDOVNXSXpIUDA3UEwxeTZjVTh3a0R3QRILZUVYZVV3WTkwMlk"
     }
@@ -3846,6 +3824,17 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC2h5X3Bvd3FIdDA4KicKGFVDYkRISVMwTnBYUk9oWWpzYVhRWDRwQRILaHlfcG93cUh0MDg"
+    }
+  },
+  "hyperx": {
+    "snippet": {
+      "channelId": "hyperx",
+      "title": "Little Kura explores the city! | !kura !youtube !code",
+      "channelTitle": "HyperX"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-10T20:01:44Z",
+      "twitch": true
     }
   },
   "i-DzVoVX22s": {
