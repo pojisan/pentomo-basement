@@ -3648,6 +3648,7 @@
       "title": "\u3010 Last Stream \u3011 Let's chat!! I'm going to Japan!! Yippee!! Last-minute japan prep!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-10T12:02:20Z",
       "scheduledStartTime": "2024-05-10T12:00:00Z",
       "activeLiveChatId": "Cg0KC2h6NmhaeW9KalM4KicKGFVDYnJiRktGaHlIRDRiTUpiRWNYWnoxZxILaHo2aFp5b0pqUzg"
     }
@@ -3656,7 +3657,8 @@
     "snippet": {
       "publishedAt": "2024-05-10T12:00:39Z",
       "channelId": "UCbrbFKFhyHD4bMJbEcXZz1g",
-      "title": "\u3010CONTENT WARNING\u3011 Collab with Miki, Lida & Airi! \ud83d\udc95"
+      "title": "\u3010CONTENT WARNING\u3011 Collab with Miki, Lida & Airi! \ud83d\udc95",
+      "private": true
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-10T12:00:53Z",
