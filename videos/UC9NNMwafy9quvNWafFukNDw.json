@@ -3331,8 +3331,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-10T21:59:39Z",
-      "scheduledStartTime": "2024-05-10T22:00:00Z",
-      "activeLiveChatId": "Cg0KC1FuUmFEZ1JmMmFVKicKGFVDOU5OTXdhZnk5cXV2TldhZkZ1a05EdxILUW5SYURnUmYyYVU"
+      "actualEndTime": "2024-05-10T23:02:57Z",
+      "scheduledStartTime": "2024-05-10T22:00:00Z"
     }
   },
   "ccemJzIM9vw": {
@@ -3342,8 +3342,28 @@
       "title": "\ud83d\udd34THE WORST PART OF DARK SOULS 2"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-10T23:03:42Z",
       "scheduledStartTime": "2024-05-10T22:30:00Z",
       "activeLiveChatId": "Cg0KC2NjZW1KeklNOXZ3KicKGFVDOU5OTXdhZnk5cXV2TldhZkZ1a05EdxILY2NlbUp6SU05dnc"
+    }
+  },
+  "DCFTCK2hgRk": {
+    "snippet": {
+      "publishedAt": "2024-05-10T23:03:31Z",
+      "channelId": "UC9NNMwafy9quvNWafFukNDw",
+      "title": "\ud83d\udd34THE WORST PART OF DARK SOULS 2 #shorts #shortslive #shortsfeed #shortsgaming"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-10T23:07:52Z",
+      "scheduledStartTime": "2024-05-10T22:30:00Z",
+      "activeLiveChatId": "Cg0KC0RDRlRDSzJoZ1JrKicKGFVDOU5OTXdhZnk5cXV2TldhZkZ1a05EdxILRENGVENLMmhnUms"
+    }
+  },
+  "n1ZfNW5inMA": {
+    "snippet": {
+      "publishedAt": "2024-05-10T22:00:34Z",
+      "channelId": "UC9NNMwafy9quvNWafFukNDw",
+      "title": "Subnautica Isn't THAT Hard...."
     }
   }
 }
