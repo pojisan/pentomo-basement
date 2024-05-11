@@ -489,7 +489,8 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-10T01:00:02Z",
       "scheduledStartTime": "2026-03-01T01:00:00Z",
-      "activeLiveChatId": "Cg0KC2RlOV9iTXVtcm9nKicKGFVDLTFfLWpVdS1sQUxkR245LU1kQko0URILZGU5X2JNdW1yb2c"
+      "activeLiveChatId": "Cg0KC2RlOV9iTXVtcm9nKicKGFVDLTFfLWpVdS1sQUxkR245LU1kQko0URILZGU5X2JNdW1yb2c",
+      "premiere": true
     }
   },
   "oMct-cpjzx4": {
