@@ -1406,6 +1406,7 @@
       "title": "\u3010To The Moon\u3011Just let them be happy...for one last time.\ud83d\udcd8 - Nious Heiramond"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-11T13:00:37Z",
       "scheduledStartTime": "2024-05-11T13:00:00Z",
       "activeLiveChatId": "Cg0KC0c0QWhKbUR1d25NKicKGFVDTkhjdDFQV2pRTjA1SkROaTNBZjZLZxILRzRBaEptRHV3bk0"
     }
@@ -2628,6 +2629,7 @@
       "title": "\u3010HOLOTALK\u3011With our 30th guest: TSUNOMAKI WATAME #kfp #\u30ad\u30a2\u30e9\u30a4\u30d6"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-11T13:00:42Z",
       "scheduledStartTime": "2024-05-11T13:00:00Z",
       "activeLiveChatId": "Cg0KC1YzWjVZOHRWdXFVKicKGFVDSHN4NEhxYS0xT1JqUVRoOVRZRGh3dxILVjNaNVk4dFZ1cVU"
     }
@@ -3036,6 +3038,7 @@
       "title": "\u3010BUNNY GARDEN\u3011THIS IS THE WAY OF THE FRENCH GENTLEMAN\u3010NIJISANJI EN | Vezalius Bandage\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-11T13:00:22Z",
       "scheduledStartTime": "2024-05-11T13:00:00Z",
       "activeLiveChatId": "Cg0KC1l4V1lHb3VsVklnKicKGFVDSzlsNnJUd1UzaGlTWmlqSU1xNTFHdxILWXhXWUdvdWxWSWc"
     }
@@ -3141,6 +3144,7 @@
       "title": "grandma tries to play fast paced game | Apex Legends #vtuber"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-11T13:00:42Z",
       "scheduledStartTime": "2024-05-11T13:00:00Z",
       "activeLiveChatId": "Cg0KC19mdjVNQmhCYTVZKicKGFVDTkExSndCd1pza180VVUtOHM2Q1ZfQRILX2Z2NU1CaEJhNVk"
     }
@@ -3353,6 +3357,7 @@
       "title": "\u3010Vertical Zatsu\u3011 Midday relaxed Zatsudan"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-11T13:00:38Z",
       "scheduledStartTime": "2024-05-11T13:00:00Z",
       "activeLiveChatId": "Cg0KC2RHNkFoNmM5WUtzKicKGFVDMEpGdDVKamw1YV9fek9hWkxxazdQZxILZEc2QWg2YzlZS3M"
     }
@@ -3951,6 +3956,17 @@
       "activeLiveChatId": "Cg0KC2s2UDhfTjJRcERrKicKGFVDM0ZXU2RoX0t0RUxhZWU4dDQwMEpiQRILazZQOF9OMlFwRGs"
     }
   },
+  "k9kuro": {
+    "snippet": {
+      "channelId": "k9kuro",
+      "title": "HEY I SAW MY FANS IRL | VSHOJO !youtooz !discord",
+      "channelTitle": "K9KURO"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-11T12:51:54Z",
+      "twitch": true
+    }
+  },
   "kRsfUBTnVww": {
     "snippet": {
       "publishedAt": "2024-05-11T12:49:39Z",
@@ -3969,6 +3985,7 @@
       "title": "\u3010Unbox\u3011I spent $77 for 32 pcs of clothes - Handcam"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-11T12:59:44Z",
       "scheduledStartTime": "2024-05-11T13:00:00Z",
       "activeLiveChatId": "Cg0KC2tUZHFEY1JyRm1JKicKGFVDazB2dXd3c21fVVFISElPZ0d2eFUtQRILa1RkcURjUnJGbUk"
     }
@@ -4043,6 +4060,7 @@
       "title": "\u3010\u30bc\u30ce\u30d6\u30ec\u30a4\u30c9DE:03\u3011\u8996\u3048\u308b\u672a\u6765\u306f\u5909\u3048\u3089\u308c\u308b\u3010\u5148\u6597\u5be7/\u306b\u3058\u3055\u3093\u3058\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-11T12:59:51Z",
       "scheduledStartTime": "2024-05-11T13:00:00Z",
       "activeLiveChatId": "Cg0KC2xCNVJpYVlwdzZNKicKGFVDZTIyQmN3ZF9HQ3BUakx4bjgzemw3QRILbEI1UmlhWXB3Nk0"
     }
@@ -4680,7 +4698,7 @@
       "title": "\u3010HADES II\u3011I want to beat Chronos........ part 2  \u2606\u2b52NIJISANJI EN \u2727 Millie Parfait \u2606\u2b52"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-11T01:00:00Z",
+      "scheduledStartTime": "2024-05-11T14:00:00Z",
       "activeLiveChatId": "Cg0KC3JqWENScU9paVpVKicKGFVDNDdyTm1rRGNOZ2JPY00tMkJ3ekpUURILcmpYQ1JxT2lpWlU"
     }
   },
