@@ -2896,11 +2896,23 @@
     "snippet": {
       "publishedAt": "2024-05-09T21:24:00Z",
       "channelId": "UCk2k1y-d24nFyVCvyxnAaYA",
-      "title": "Mixing Vtubers"
+      "title": "Mixing Vtubers",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-11T23:00:00Z",
       "activeLiveChatId": "Cg0KC0hzTG5DbVk5ZkJnKicKGFVDazJrMXktZDI0bkZ5VkN2eXhuQWFZQRILSHNMbkNtWTlmQmc"
+    }
+  },
+  "i0EF6uehp6k": {
+    "snippet": {
+      "publishedAt": "2024-05-11T23:25:54Z",
+      "channelId": "UCk2k1y-d24nFyVCvyxnAaYA",
+      "title": "MIXING VTUBERS"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-12T23:00:00Z",
+      "activeLiveChatId": "Cg0KC2kwRUY2dWVocDZrKicKGFVDazJrMXktZDI0bkZ5VkN2eXhuQWFZQRILaTBFRjZ1ZWhwNms"
     }
   }
 }
