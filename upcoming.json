@@ -944,6 +944,7 @@
       "title": "I do chill singing practice! (prob unarchived)"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-11T03:00:31Z",
       "scheduledStartTime": "2024-05-11T03:00:00Z",
       "activeLiveChatId": "Cg0KC0M2V2FQd2pORmV3KicKGFVDQ0E0akpZNVByVGZJRkpJY2JJX05oURILQzZXYVB3ak5GZXc"
     }
@@ -2404,18 +2405,6 @@
       "activeLiveChatId": "Cg0KC1RMQ2dmalBpbmtzKicKGFVDTzBEcFZLUjRDSDVFWGdvc2N6OTliQRILVExDZ2ZqUGlua3M"
     }
   },
-  "Tb7d45G0Fw4": {
-    "snippet": {
-      "publishedAt": "2024-05-10T23:39:06Z",
-      "channelId": "UCwqtK-m6954_aHEvOYtZpyQ",
-      "title": "\u3010RABBIT AND STEEL\u3011 wabbit game :3 With Vivi, Joel, Juniper !"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-11T00:07:05Z",
-      "scheduledStartTime": "2024-05-11T00:00:00Z",
-      "activeLiveChatId": "Cg0KC1RiN2Q0NUcwRnc0KicKGFVDd3F0Sy1tNjk1NF9hSEV2T1l0WnB5URILVGI3ZDQ1RzBGdzQ"
-    }
-  },
   "TiQj7Lh4USk": {
     "snippet": {
       "publishedAt": "2023-09-21T02:34:13Z",
@@ -3004,18 +2993,6 @@
       "activeLiveChatId": "Cg0KC1podTVTaHQyNDlVKicKGFVDRmdYV1pPVVpBMm9ZSE5yNnFEbXNUURILWmh1NVNodDI0OVU"
     }
   },
-  "ZjeySReWjEc": {
-    "snippet": {
-      "publishedAt": "2024-05-08T19:56:29Z",
-      "channelId": "UC-yGTVx6w9JZZIFPidKCORg",
-      "title": "\u300e DEBUT \u300f GRANDMA, GET THE CAMERA | #OSHICelanis #OshiLinkEN"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-11T02:30:11Z",
-      "scheduledStartTime": "2024-05-11T02:30:00Z",
-      "activeLiveChatId": "Cg0KC1pqZXlTUmVXakVjKicKGFVDLXlHVFZ4Nnc5SlpaSUZQaWRLQ09SZxILWmpleVNSZVdqRWM"
-    }
-  },
   "_-TIgyRvkoE": {
     "snippet": {
       "publishedAt": "2024-05-08T02:36:45Z",
@@ -3214,7 +3191,8 @@
       "title": "\u300e DEBUT \u300fWANNA KAPOW SOME THINGS TOGETHER? | #OSHICelanis #OshiLinkEN"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-11T03:00:00Z",
+      "actualStartTime": "2024-05-11T02:57:44Z",
+      "scheduledStartTime": "2024-05-11T02:45:00Z",
       "activeLiveChatId": "Cg0KC2JxVzJYZzhTRmhjKicKGFVDTndZNlpIMjd2WkRqUmgyQzluc0NqdxILYnFXMlhnOFNGaGM"
     }
   },
@@ -4208,6 +4186,7 @@
       "title": "\u3010GROUP COLLAB\u3011VyVid's First Collab!\u3010VyVid | Eva Ananova \u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-11T02:59:52Z",
       "scheduledStartTime": "2024-05-11T03:00:00Z",
       "activeLiveChatId": "Cg0KC21qYzhCSi1acHNFKicKGFVDVE5wd1d5b0xnZUotdHN4V3E3dWN2dxILbWpjOEJKLVpwc0U"
     }
@@ -4463,7 +4442,7 @@
   "poseidonmythos": {
     "snippet": {
       "channelId": "poseidonmythos",
-      "title": "\u2500\ud83d\udd31 {18+}  STARDEW VALLEY WITH FRIENDS (\uff89\u25d5\u30ee\u25d5)\uff89*:\uff65\uff9f\u2727 \u250a !merch !gsupps !throne !discord !socials",
+      "title": "\u2500\ud83d\udd31 {18+}  STARDEW VALLEY WITH FRIENDS (\uff89\u25d5\u30ee\u25d5)\uff89*:\uff65\uff9f\u2727  @ShenTsukuyomi @dogvtuber \u250a !merch !gsupps !throne !discord !socials",
       "channelTitle": "PoseidonMythos"
     },
     "liveStreamingDetails": {
@@ -4792,6 +4771,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-08-30T04:35:00Z",
       "activeLiveChatId": "Cg0KC3NrVENLZ003YmlJKicKGFVDazB2dXd3c21fVVFISElPZ0d2eFUtQRILc2tUQ0tnTTdiaUk"
+    }
+  },
+  "star2d2": {
+    "snippet": {
+      "channelId": "star2d2",
+      "title": "\u2b50MERCY MAIN\u2b50 Try harding to Diamond (hopefully) *unarchived stream* | !youtube !socials !vite !merch",
+      "channelTitle": "star2d2"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-11T02:53:44Z",
+      "twitch": true
     }
   },
   "su2wbOAvLjI": {
@@ -5280,6 +5270,7 @@
       "title": "FIRST TIME PLAYING GENSOKYO ODYSSEY! \u3010NAWASENA EN/ID\u3011#shorts"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-11T02:54:55Z",
       "scheduledStartTime": "2024-05-11T03:00:00Z",
       "activeLiveChatId": "Cg0KC3pkTWZ2TlFlc2NnKicKGFVDOUswNldqa2pYVW9xX09LQ0pYUzRkURILemRNZnZOUWVzY2c"
     }
