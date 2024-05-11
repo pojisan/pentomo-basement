@@ -1211,7 +1211,8 @@
     "snippet": {
       "publishedAt": "2024-05-05T16:33:09Z",
       "channelId": "UCbvR46SQpOPRKMrVT8NoJTA",
-      "title": "\u3010VERTICAL ZATSU\u3011Internet Mysteries AND snacks!\u3010EIEN Project\u3011"
+      "title": "\u3010VERTICAL ZATSU\u3011Internet Mysteries AND snacks!\u3010EIEN Project\u3011",
+      "private": true
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-11T21:53:01Z",
@@ -1231,6 +1232,17 @@
       "publishedAt": "2024-05-10T01:00:28Z",
       "channelId": "UCbvR46SQpOPRKMrVT8NoJTA",
       "title": "TINIEST Frog On The Internet #shorts #vtuber #streamer #funny"
+    }
+  },
+  "a9DoxyxS0K4": {
+    "snippet": {
+      "publishedAt": "2024-05-11T22:02:25Z",
+      "channelId": "UCbvR46SQpOPRKMrVT8NoJTA",
+      "title": "\u3010VERTICAL ZATSU\u3011Internet Mysteries\u3010EIEN Project\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-11T22:15:00Z",
+      "activeLiveChatId": "Cg0KC2E5RG94eXhTMEs0KicKGFVDYnZSNDZTUXBPUFJLTXJWVDhOb0pUQRILYTlEb3h5eFMwSzQ"
     }
   }
 }
