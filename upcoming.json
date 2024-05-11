@@ -2060,6 +2060,17 @@
       "activeLiveChatId": "Cg0KC052aWl4WllPeWhJKicKGFVDb3FQc1VXXzJJX2JaN041SDNGNFliURILTnZpaXhaWU95aEk"
     }
   },
+  "O88SidA2bTI": {
+    "snippet": {
+      "publishedAt": "2024-05-11T03:21:22Z",
+      "channelId": "UC417QPaWLL4rcYBAESPLfrA",
+      "title": "\ud83d\udd34\u3010HUMAN FALL FLAT\u3011 Get Your Fall Count Ready 'Cus Oh Lawd We Fallin'! \u2935\ufe0f"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-11T13:30:00Z",
+      "activeLiveChatId": "Cg0KC084OFNpZEEyYlRJKicKGFVDNDE3UVBhV0xMNHJjWUJBRVNQTGZyQRILTzg4U2lkQTJiVEk"
+    }
+  },
   "OFXWsA7VMo4": {
     "snippet": {
       "publishedAt": "2021-11-22T14:50:00Z",
@@ -2356,6 +2367,7 @@
       "title": "\u3010POKEMON: SCARLET\u3011BEAT FIRST GYM etc. \u671d\u304b\u3089\u30dd\u30b1\u30e2\u30f3\u3067\u82f1\u8a9e\u3092\u5b66\u307c\u3046\uff01# 2 \u3010NIJISANJI EN | Meloco Kyoran\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-11T03:12:05Z",
       "scheduledStartTime": "2024-05-11T03:00:00Z",
       "activeLiveChatId": "Cg0KC1N1anA4SmFmTnVNKicKGFVDaEtYZDdvcUQxOHFpSVlCb1JJSFRsdxILU3VqcDhKYWZOdU0"
     }
@@ -3585,18 +3597,6 @@
       "activeLiveChatId": "Cg0KC2g0NDI2Ym15YkRBKicKGFVDNWFBTHV3d2NSYTdXeldISzkzQVllZxILaDQ0MjZibXliREE"
     }
   },
-  "h5j2k0uGaI0": {
-    "snippet": {
-      "publishedAt": "2024-05-08T03:03:06Z",
-      "channelId": "UCZO0CirHeWYTUMl-7zPG6Yg",
-      "title": "REIYA SUMIRE DEBUT STREAM \u3010bondlive EN\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-11T01:02:47Z",
-      "scheduledStartTime": "2024-05-11T01:00:00Z",
-      "activeLiveChatId": "Cg0KC2g1ajJrMHVHYUkwKicKGFVDWk8wQ2lySGVXWVRVTWwtN3pQRzZZZxILaDVqMmswdUdhSTA"
-    }
-  },
   "hBS1UMG7Q34": {
     "snippet": {
       "publishedAt": "2024-04-15T16:24:10Z",
@@ -4297,6 +4297,17 @@
       "activeLiveChatId": "Cg0KC25va3NUWDVMUWFFKicKGFVDbWJzOFQ2TVdxVUhQMXRJUXZTZ0tyZxILbm9rc1RYNUxRYUU"
     }
   },
+  "o6iAeHUPSww": {
+    "snippet": {
+      "publishedAt": "2024-05-11T03:12:54Z",
+      "channelId": "UCQ1zGxHrfEmmW4CPpBx9-qw",
+      "title": "THE SHOW MUST GO ON...\u3010  CHLOE'S REQUIEM -encore-  \u3011 \u3010NIJISANJI EN | Alban Knox\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-11T12:00:00Z",
+      "activeLiveChatId": "Cg0KC282aUFlSFVQU3d3KicKGFVDUTF6R3hIcmZFbW1XNENQcEJ4OS1xdxILbzZpQWVIVVBTd3c"
+    }
+  },
   "oCOGTtxq24k": {
     "snippet": {
       "publishedAt": "2024-05-09T04:05:34Z",
@@ -4618,17 +4629,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-04-28T09:00:00Z",
       "activeLiveChatId": "Cg0KC3JnZGk4YnRlUWdjKicKGFVDOHpnS2FTOExpeUwyOG1kaFJDMm5CZxILcmdkaThidGVRZ2M"
-    }
-  },
-  "rinapumpkin": {
-    "snippet": {
-      "channelId": "rinapumpkin",
-      "title": "\u0b68\ud83c\udf83 I DIDN'T GET OVER IT \ud83c\udf83\u0b67 MWUAH! \u208a\u02da\u22b9 \u2661 @Asamikitsuneuwu @StaticTokyo @PriestessInanna",
-      "channelTitle": "RinaPumpkin"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-11T00:02:07Z",
-      "twitch": true
     }
   },
   "rjXCRqOiiZU": {
@@ -5242,7 +5242,7 @@
     "snippet": {
       "publishedAt": "2024-05-06T17:56:48Z",
       "channelId": "UC9K06WjkjXUoq_OKCJXS4dQ",
-      "title": "FIRST TIME PLAYING GENSOKYO ODYSSEY! \u3010NAWASENA EN/ID\u3011#shorts"
+      "title": "FIRST TIME PLAYING GENSOKYO ODYSSEY! \u3010NAWASENA EN/ID\u3011"
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-11T02:54:55Z",
