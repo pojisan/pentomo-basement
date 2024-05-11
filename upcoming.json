@@ -259,18 +259,6 @@
       "activeLiveChatId": "Cg0KCzFQbkhRMFlNdE9zKicKGFVDUmxaYXN6azg0WVhqUnRkUEN4cWp2dxILMVBuSFEwWU10T3M"
     }
   },
-  "1QKesF9_bVY": {
-    "snippet": {
-      "publishedAt": "2024-05-10T06:22:39Z",
-      "channelId": "UChJ5FTsHOu72_5OVx0rvsvQ",
-      "title": "\u3010HONKAI: STAR RAIL\u3011penacony 2.1\u3010NIJISANJI EN | Uki Violeta\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-10T23:59:20Z",
-      "scheduledStartTime": "2024-05-11T00:00:00Z",
-      "activeLiveChatId": "Cg0KCzFRS2VzRjlfYlZZKicKGFVDaEo1RlRzSE91NzJfNU9WeDBydnN2URILMVFLZXNGOV9iVlk"
-    }
-  },
   "1TU-G6uV5CQ": {
     "snippet": {
       "publishedAt": "2024-01-15T16:13:14Z",
@@ -409,6 +397,18 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-12T03:00:00Z",
       "activeLiveChatId": "Cg0KCzM1Z18xUUVTTl9vKicKGFVDOUswNldqa2pYVW9xX09LQ0pYUzRkURILMzVnXzFRRVNOX28"
+    }
+  },
+  "38yQ1ZoK6Rg": {
+    "snippet": {
+      "publishedAt": "2024-05-11T05:27:03Z",
+      "channelId": "UCUr8O6Z8JyAg83KJbc_u_bQ",
+      "title": "LIVE BINAURAL 3DIO ASMR \u2665 ready to give master lots of presents today, nya!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-11T05:27:11Z",
+      "scheduledStartTime": "2024-05-11T05:27:13Z",
+      "activeLiveChatId": "Cg0KCzM4eVExWm9LNlJnKicKGFVDVXI4TzZaOEp5QWc4M0tKYmNfdV9iURILMzh5UTFab0s2Umc"
     }
   },
   "3IsOlZG9aXc": {
@@ -2429,18 +2429,6 @@
       "activeLiveChatId": "Cg0KC1RpUWo3TGg0VVNrKicKGFVDS1pPVkNQMDZCZ1BkSWdXTDA0NjdBQRILVGlRajdMaDRVU2s"
     }
   },
-  "TizLkcJL-tk": {
-    "snippet": {
-      "publishedAt": "2024-05-09T06:20:06Z",
-      "channelId": "UCdubotSy4pPOsiaW4MrYn3Q",
-      "title": "I LOVE MASTER!! * MOE MOE MIRAI maid cafe!!\u3010Mono Monet \ud83d\udcad\ud83c\udfa8 V4Mirai\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-10T23:04:19Z",
-      "scheduledStartTime": "2024-05-10T23:00:00Z",
-      "activeLiveChatId": "Cg0KC1RpekxrY0pMLXRrKicKGFVDZHVib3RTeTRwUE9zaWFXNE1yWW4zURILVGl6TGtjSkwtdGs"
-    }
-  },
   "Tk9ARPBj7zw": {
     "snippet": {
       "publishedAt": "2023-05-31T15:13:15Z",
@@ -3372,18 +3360,6 @@
       "activeLiveChatId": "Cg0KC2ViZWhXakVBd2I0KicKGFVDbjJMc29zdTgyeUU5UFVtVkxGQlpCURILZWJlaFdqRUF3YjQ"
     }
   },
-  "ecfu-R6JQSA": {
-    "snippet": {
-      "publishedAt": "2024-05-05T19:44:22Z",
-      "channelId": "UCoAw3SML_09dF-7yhQU8wFQ",
-      "title": "$1 = 1 kiss #ASMR #shorts #3dio"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-11T02:03:41Z",
-      "scheduledStartTime": "2024-05-11T02:03:22Z",
-      "activeLiveChatId": "Cg0KC2VjZnUtUjZKUVNBKicKGFVDb0F3M1NNTF8wOWRGLTd5aFFVOHdGURILZWNmdS1SNkpRU0E"
-    }
-  },
   "ehAWNeNfVd4": {
     "snippet": {
       "publishedAt": "2023-02-11T21:04:47Z",
@@ -4100,6 +4076,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-03-09T13:00:00Z",
       "activeLiveChatId": "Cg0KC21mb0hwWUEzOW9jKicKGFVDYXhpRGVfVHVNTFhrd1JNVkxtNVZ3URILbWZvSHBZQTM5b2M"
+    }
+  },
+  "miyuyus": {
+    "snippet": {
+      "channelId": "miyuyus",
+      "title": "LIVE BINAURAL 3DIO ASMR \u2665 ready to give master lots of presents today, nya!",
+      "channelTitle": "miyuyus"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-11T05:27:05Z",
+      "twitch": true
     }
   },
   "mtetEJJ2Zbs": {
