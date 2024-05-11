@@ -21,6 +21,17 @@
       "activeLiveChatId": "Cg0KCy00Vzh4SC1BdUFBKicKGFVDOTlpQWNhamhsdFBnLVRVU3RxZzhkdxILLTRXOHhILUF1QUE"
     }
   },
+  "-592RzljmHg": {
+    "snippet": {
+      "publishedAt": "2024-05-11T18:55:58Z",
+      "channelId": "UCk4-LUmzFMETLt4Sn1J82Cw",
+      "title": "\ud83d\udd34Watching the Idol Encore Debuts LIVE!\u3010 KoziiChu \u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-11T21:00:00Z",
+      "activeLiveChatId": "Cg0KCy01OTJSemxqbUhnKicKGFVDazQtTFVtekZNRVRMdDRTbjFKODJDdxILLTU5MlJ6bGptSGc"
+    }
+  },
   "-5WYX9JJCp4": {
     "snippet": {
       "publishedAt": "2024-02-29T14:03:19Z",
@@ -29,6 +40,17 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KCy01V1lYOUpKQ3A0KicKGFVDN1RDQ3R2ckV1OHFfUzVPdFJKaC1hURILLTVXWVg5SkpDcDQ"
+    }
+  },
+  "-ERUhSXHVlA": {
+    "snippet": {
+      "publishedAt": "2024-05-11T19:01:19Z",
+      "channelId": "UC0ZTVxCHkZanT5dnP2FZD4Q",
+      "title": "\u3010Megaman Legends 2\u3011KABOOMM!! THIRD KEY HERE WE COME!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-12T14:00:00Z",
+      "activeLiveChatId": "Cg0KCy1FUlVoU1hIVmxBKicKGFVDMFpUVnhDSGtaYW5UNWRuUDJGWkQ0URILLUVSVWhTWEhWbEE"
     }
   },
   "-JcCsS_CVzk": {
@@ -612,6 +634,7 @@
       "title": "\u3010BUCKSHOT ROULETTE\u3011From the Fort, Fort Knox, this ain't Fortnite\u3010globie 2nd Gen - Equinnox\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-11T18:57:23Z",
       "scheduledStartTime": "2024-05-11T19:00:00Z",
       "activeLiveChatId": "Cg0KCzVmMF9UUlFVX2tzKicKGFVDRkhkRUFIUGJGVWpnSjFSYU9fQXc2dxILNWYwX1RSUVVfa3M"
     }
@@ -804,7 +827,8 @@
       "title": "(Pajama Sam) Am i smarter than a 3 year old? [#LaikaCream]"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-11T19:00:00Z",
+      "actualStartTime": "2024-05-11T18:56:00Z",
+      "scheduledStartTime": "2024-05-11T18:55:49Z",
       "activeLiveChatId": "Cg0KC0FELVpsanhKR3NRKicKGFVDb3FQc1VXXzJJX2JaN041SDNGNFliURILQUQtWmxqeEpHc1E"
     }
   },
@@ -2994,7 +3018,7 @@
     "snippet": {
       "publishedAt": "2024-05-10T21:57:35Z",
       "channelId": "UCz_8ztQ9rcu_UpUp0hv7bYw",
-      "title": "\u3010VERTICAL\u3011 I'm eepy, let's chat \u3010EIEN Project\u3011"
+      "title": "\u3010VERTICAL\u3011 I'm eepy, let's chat \u3010EIEN Project\u3011 #shorts"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-11T21:00:00Z",
@@ -3422,6 +3446,7 @@
       "title": "FREE-WHEELING EDITION... (First Dark Souls playthrough)"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-11T18:55:25Z",
       "scheduledStartTime": "2024-05-11T19:00:00Z",
       "activeLiveChatId": "Cg0KC2ZRXy1qM2FmNDg4KicKGFVDOXhSN3VOMHg1YTZDSDNVb3BxN2N6QRILZlFfLWozYWY0ODg"
     }
@@ -4737,6 +4762,7 @@
       "title": "\u3010Abandonware Dig\u3011We're SPELUNKING Today!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-11T19:00:27Z",
       "scheduledStartTime": "2024-05-11T19:00:00Z",
       "activeLiveChatId": "Cg0KC3U0d0h3eHJsUy1zKicKGFVDeWtNV2Y4QjhJN2NfakE4RlR5MnRHdxILdTR3SHd4cmxTLXM"
     }
