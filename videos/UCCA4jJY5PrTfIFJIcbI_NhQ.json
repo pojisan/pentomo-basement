@@ -7076,6 +7076,7 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-11T22:30:07Z",
+      "actualEndTime": "2024-05-11T23:16:05Z",
       "scheduledStartTime": "2024-05-11T22:30:00Z",
       "activeLiveChatId": "Cg0KC000a3FtQzROVlhBKicKGFVDQ0E0akpZNVByVGZJRkpJY2JJX05oURILTTRrcW1DNE5WWEE"
     }
@@ -7103,6 +7104,19 @@
       "actualStartTime": "2024-05-09T02:10:42Z",
       "actualEndTime": "2024-05-09T03:01:33Z",
       "scheduledStartTime": "2024-05-09T02:00:00Z"
+    }
+  },
+  "FJaJxhmeHeY": {
+    "snippet": {
+      "publishedAt": "2024-05-11T23:20:06Z",
+      "channelId": "UCCA4jJY5PrTfIFJIcbI_NhQ",
+      "title": "Sara Bareilles \u300cKing of Anything\u300d\u2503Cover by Shabel Tonya"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-11T23:20:06Z",
+      "scheduledStartTime": "2024-05-11T23:20:00Z",
+      "activeLiveChatId": "Cg0KC0ZKYUp4aG1lSGVZKicKGFVDQ0E0akpZNVByVGZJRkpJY2JJX05oURILRkphSnhobWVIZVk",
+      "premiere": true
     }
   }
 }
