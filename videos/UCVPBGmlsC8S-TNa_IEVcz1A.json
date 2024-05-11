@@ -800,12 +800,24 @@
     "snippet": {
       "publishedAt": "2024-05-11T07:29:27Z",
       "channelId": "UCVPBGmlsC8S-TNa_IEVcz1A",
-      "title": "\ud83e\udd71\u3010???\u3011CAN'T EEP\u3010Yume+ | Raein Clowd\u3011"
+      "title": "\ud83e\udd71\u3010???\u3011CAN'T EEP\u3010Yume+ | Raein Clowd\u3011",
+      "private": true
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-11T07:36:01Z",
       "scheduledStartTime": "2024-05-11T07:30:00Z",
       "activeLiveChatId": "Cg0KC2ZSSENXYXc5Tmx3KicKGFVDVlBCR21sc0M4Uy1UTmFfSUVWY3oxQRILZlJIQ1dhdzlObHc"
+    }
+  },
+  "kfvf_QkgHqI": {
+    "snippet": {
+      "publishedAt": "2024-05-11T08:07:54Z",
+      "channelId": "UCVPBGmlsC8S-TNa_IEVcz1A",
+      "title": "\ud83e\udd71\u3010???\u3011CAN'T EEP\u3010Yume+ | Raein Clowd\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-11T08:05:00Z",
+      "activeLiveChatId": "Cg0KC2tmdmZfUWtnSHFJKicKGFVDVlBCR21sc0M4Uy1UTmFfSUVWY3oxQRILa2Z2Zl9Ra2dIcUk"
     }
   }
 }
