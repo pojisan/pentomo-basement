@@ -6778,7 +6778,8 @@
       "title": "OshiLink Vtuber Watchalong! New Vtubers are debuting"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-11T01:00:50Z",
+      "actualStartTime": "2024-05-11T01:00:53Z",
+      "scheduledStartTime": "2024-05-11T01:00:32Z",
       "activeLiveChatId": "Cg0KC1RMQ2dmalBpbmtzKicKGFVDTzBEcFZLUjRDSDVFWGdvc2N6OTliQRILVExDZ2ZqUGlua3M"
     }
   },
@@ -6794,6 +6795,18 @@
       "publishedAt": "2024-05-10T23:00:16Z",
       "channelId": "UCO0DpVKR4CH5EXgoscz99bA",
       "title": "Username's Taken"
+    }
+  },
+  "dY-zu55fd00": {
+    "snippet": {
+      "publishedAt": "2024-05-11T00:59:04Z",
+      "channelId": "UCO0DpVKR4CH5EXgoscz99bA",
+      "title": "MOD TAKEOVER"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-11T00:59:27Z",
+      "scheduledStartTime": "2024-05-11T00:59:03Z",
+      "activeLiveChatId": "Cg0KC2RZLXp1NTVmZDAwKicKGFVDTzBEcFZLUjRDSDVFWGdvc2N6OTliQRILZFktenU1NWZkMDA"
     }
   }
 }
