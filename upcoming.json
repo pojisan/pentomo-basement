@@ -1744,6 +1744,17 @@
       "activeLiveChatId": "Cg0KC0pTQjk2bGVDcmRZKicKGFVDTEtVWDY1RFV5blgzYXpYakJGaDJDQRILSlNCOTZsZUNyZFk"
     }
   },
+  "JXtF8SChCIs": {
+    "snippet": {
+      "publishedAt": "2024-05-11T12:24:34Z",
+      "channelId": "UCRm6lqtdxs_Qo6HeL-SRQ-w",
+      "title": "\u3010\u30d1\u30c1\u30b9\u30ed\u3011\ud83c\udf3a\u6c96\u30c9\u30ad\uff01\u521d\u6253\u3061\u3057\u3066\u307f\u308b\ud83c\udf3a\uff5c\u7e26\u578b\u914d\u4fe1\u3010 #\u30d1\u30bf\u3061\u306e\u671d\u30b9\u30ed \u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-11T23:00:00Z",
+      "activeLiveChatId": "Cg0KC0pYdEY4U0NoQ0lzKicKGFVDUm02bHF0ZHhzX1FvNkhlTC1TUlEtdxILSlh0RjhTQ2hDSXM"
+    }
+  },
   "JlKInYGDvt0": {
     "snippet": {
       "publishedAt": "2024-01-23T08:48:00Z",
@@ -2594,18 +2605,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-11T13:00:00Z",
       "activeLiveChatId": "Cg0KC1YzWjVZOHRWdXFVKicKGFVDSHN4NEhxYS0xT1JqUVRoOVRZRGh3dxILVjNaNVk4dFZ1cVU"
-    }
-  },
-  "V6qjKmXFuM8": {
-    "snippet": {
-      "publishedAt": "2024-05-11T07:51:45Z",
-      "channelId": "UClrQ7xhRBxS_v_-WuudGKmA",
-      "title": "\u3010 \u30e2\u30f3\u30cf\u30f3\u30ef\u30fc\u30eb\u30c9\uff1a\u30a2\u30a4\u30b9\u30dc\u30fc\u30f3 \u3011#03 \u4eca\u65e5\u306f\u3082\u3046\u521d\u5fc3\u8005\u7b1b\u30e2\u30f3\u30cf\u30f3\u3092\u898b\u305b\u3064\u3051\u308b\u6c17\u3057\u304b\u306a\u3044\u3010 \u93d1\u6728\u308d\u3053\uffe4\u306b\u3058\u3055\u3093\u3058\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-11T09:00:22Z",
-      "scheduledStartTime": "2024-05-11T09:00:00Z",
-      "activeLiveChatId": "Cg0KC1Y2cWpLbVhGdU04KicKGFVDbHJRN3hoUkJ4U192Xy1XdXVkR0ttQRILVjZxakttWEZ1TTg"
     }
   },
   "VDJZSsFDl6s": {
@@ -3588,7 +3587,8 @@
       "title": "\u3010\ud83c\udf05 Guerilla Stream \u3011 \u0e21\u0e32\u0e19\u0e31\u0e48\u0e07\u0e40\u0e25\u0e48\u0e19\u0e17\u0e33\u0e07\u0e32\u0e19\u0e17\u0e33\u0e07\u0e32\u0e19\u0e01\u0e31\u0e19   \u2726 \u3010 \u0e01\u0e2d\u0e07\u0e42\u0e08\u0e23\u3011 [ TH/EN ]"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-11T12:30:00Z",
+      "actualStartTime": "2024-05-11T12:27:08Z",
+      "scheduledStartTime": "2024-05-11T12:26:50Z",
       "activeLiveChatId": "Cg0KC2dMMTRRaXhGbWRFKicKGFVDS2c5dldXVF8yeUszRkZOTm5uaGhMdxILZ0wxNFFpeEZtZEU"
     }
   },
@@ -3753,6 +3753,17 @@
       "activeLiveChatId": "Cg0KC2h5X3Bvd3FIdDA4KicKGFVDYkRISVMwTnBYUk9oWWpzYVhRWDRwQRILaHlfcG93cUh0MDg"
     }
   },
+  "hyperx": {
+    "snippet": {
+      "channelId": "hyperx",
+      "title": "Act III first cursed playthrough with @orihime @renniesaurus @auteru | !kura !youtube !code",
+      "channelTitle": "HyperX"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-11T12:23:05Z",
+      "twitch": true
+    }
+  },
   "i-DzVoVX22s": {
     "snippet": {
       "publishedAt": "2022-04-06T19:10:32Z",
@@ -3857,6 +3868,7 @@
       "title": "\u3010Art\u3011Portrait of a Penguin\u3010Vilhelm Vanderbos | globie Gen 2 | Equinnox\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-11T12:25:37Z",
       "scheduledStartTime": "2024-05-11T12:30:00Z",
       "activeLiveChatId": "Cg0KC2oxczIteFFJMVRFKicKGFVDNjc4c0pucVR3bHNXd05rMlJXUksyZxILajFzMi14UUkxVEU"
     }
