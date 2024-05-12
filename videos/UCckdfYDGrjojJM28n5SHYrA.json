@@ -5627,7 +5627,8 @@
     "snippet": {
       "publishedAt": "2024-01-04T22:28:24Z",
       "channelId": "UCckdfYDGrjojJM28n5SHYrA",
-      "title": "SHOWCASING YOUR ASSETS (BE NOT AFRAID)"
+      "title": "SHOWCASING YOUR ASSETS (BE NOT AFRAID)",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-05T12:00:00Z",
@@ -5638,11 +5639,24 @@
     "snippet": {
       "publishedAt": "2024-05-02T06:23:45Z",
       "channelId": "UCckdfYDGrjojJM28n5SHYrA",
-      "title": "\u65b0\u5e79\u7dda 0\u53f7"
+      "title": "\u65b0\u5e79\u7dda 0\u53f7",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-02T14:00:00Z",
       "activeLiveChatId": "Cg0KC3o1VnNaVU9EZkNBKicKGFVDY2tkZllER3Jqb2pKTTI4bjVTSFlyQRILejVWc1pVT0RmQ0E"
+    }
+  },
+  "jZ3ZCBeE4GA": {
+    "snippet": {
+      "publishedAt": "2024-05-10T23:32:32Z",
+      "channelId": "UCckdfYDGrjojJM28n5SHYrA",
+      "title": "\u3010VOX POV\u3011HELLDIVERS 2 w/ LUXIEM\u3010NIJISANJ EN | Vox Akuma\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-10T20:14:17Z",
+      "actualEndTime": "2024-05-10T23:23:50Z",
+      "scheduledStartTime": "2024-05-10T20:00:00Z"
     }
   }
 }
