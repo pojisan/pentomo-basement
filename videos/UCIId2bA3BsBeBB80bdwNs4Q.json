@@ -684,7 +684,8 @@
     "snippet": {
       "publishedAt": "2024-05-05T06:51:45Z",
       "channelId": "UCIId2bA3BsBeBB80bdwNs4Q",
-      "title": "\u3010SCHEDULE \u3011MAY 5TH-11TH\u3010Yume+ | Rhea Nevermore\u3011"
+      "title": "\u3010SCHEDULE \u3011MAY 5TH-11TH\u3010Yume+ | Rhea Nevermore\u3011",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2026-05-05T19:15:00Z",
@@ -759,6 +760,17 @@
       "actualEndTime": "2024-05-10T01:48:20Z",
       "scheduledStartTime": "2024-05-09T23:30:00Z",
       "activeLiveChatId": "Cg0KCzE2Q1JYUEJxVEZRKicKGFVDSUlkMmJBM0JzQmVCQjgwYmR3TnM0URILMTZDUlhQQnFURlE"
+    }
+  },
+  "q57OJILwf6Q": {
+    "snippet": {
+      "publishedAt": "2024-05-12T14:03:34Z",
+      "channelId": "UCIId2bA3BsBeBB80bdwNs4Q",
+      "title": "\u3010SCHEDULE \u3011MAY 12TH-18TH\u3010Yume+ | Rhea Nevermore\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2026-05-12T14:05:00Z",
+      "activeLiveChatId": "Cg0KC3E1N09KSUx3ZjZRKicKGFVDSUlkMmJBM0JzQmVCQjgwYmR3TnM0URILcTU3T0pJTHdmNlE"
     }
   }
 }
