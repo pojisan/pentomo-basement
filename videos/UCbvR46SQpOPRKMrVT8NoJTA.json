@@ -1242,8 +1242,15 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-11T22:12:25Z",
-      "scheduledStartTime": "2024-05-11T22:15:00Z",
-      "activeLiveChatId": "Cg0KC2E5RG94eXhTMEs0KicKGFVDYnZSNDZTUXBPUFJLTXJWVDhOb0pUQRILYTlEb3h5eFMwSzQ"
+      "actualEndTime": "2024-05-12T00:46:42Z",
+      "scheduledStartTime": "2024-05-11T22:15:00Z"
+    }
+  },
+  "1anoVbxn134": {
+    "snippet": {
+      "publishedAt": "2024-05-12T01:00:02Z",
+      "channelId": "UCbvR46SQpOPRKMrVT8NoJTA",
+      "title": "VTuber Descends Into MADNESS! #vtuber #shorts #games #streamer"
     }
   }
 }
