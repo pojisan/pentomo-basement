@@ -43,6 +43,17 @@
       "activeLiveChatId": "Cg0KCy1FUlVoU1hIVmxBKicKGFVDMFpUVnhDSGtaYW5UNWRuUDJGWkQ0URILLUVSVWhTWEhWbEE"
     }
   },
+  "-GmNiUYoRtY": {
+    "snippet": {
+      "publishedAt": "2024-05-12T15:51:19Z",
+      "channelId": "UCHVYd2Ftek5HiegRjt2X92g",
+      "title": "\u3010Persona 3 Reload\u3011#7 Roaming ~ (Contains Spoilers)\u3010Yuuki Ame\u30fbbondlive EN\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-17T01:00:00Z",
+      "activeLiveChatId": "Cg0KCy1HbU5pVVlvUnRZKicKGFVDSFZZZDJGdGVrNUhpZWdSanQyWDkyZxILLUdtTmlVWW9SdFk"
+    }
+  },
   "-JcCsS_CVzk": {
     "snippet": {
       "publishedAt": "2024-05-08T01:00:49Z",
@@ -837,6 +848,17 @@
       "activeLiveChatId": "Cg0KC0FJbERNbGFUR0VZKicKGFVDcW1TWWtYTHdzTDB6RWFyNUdvb1lrZxILQUlsRE1sYVRHRVk"
     }
   },
+  "AJKqF5QyY0c": {
+    "snippet": {
+      "publishedAt": "2024-05-12T16:00:54Z",
+      "channelId": "UCRlZaszk84YXjRtdPCxqjvw",
+      "title": "\u3010KING'S QUEST\u3011Is this a text-based game...?\u3010\u6b4c\u7f8e\u9cf4\u30af\u30e9\u30e9 / Phase Connect\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-14T04:00:00Z",
+      "activeLiveChatId": "Cg0KC0FKS3FGNVF5WTBjKicKGFVDUmxaYXN6azg0WVhqUnRkUEN4cWp2dxILQUpLcUY1UXlZMGM"
+    }
+  },
   "AJkyrgX-msg": {
     "snippet": {
       "publishedAt": "2021-11-28T09:22:09Z",
@@ -1082,6 +1104,7 @@
       "title": "\u3010DRAWING KAFKA IN A BUNNY GIRL SUIT?!?!\u3011LESSGOO?!?!\u3010Sarugaku Leon Jr. | Globie\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-12T15:59:35Z",
       "scheduledStartTime": "2024-05-12T16:00:00Z",
       "activeLiveChatId": "Cg0KC0RremhoelI1LVVvKicKGFVDLUxBbkZMWFU5QnVzRnY3bjhsRmo4ZxILRGt6aGh6UjUtVW8"
     }
@@ -2722,6 +2745,7 @@
       "title": "\u3010ZATSU + MARO Q&A\u3011ffffrick...issa sundaey....\u3010Komiyama Ambros | globie\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-12T15:59:00Z",
       "scheduledStartTime": "2024-05-12T16:00:00Z",
       "activeLiveChatId": "Cg0KC1ZlbmZwYThTci1FKicKGFVDYnNQNEJJc1BZYVJMdjlmX3lYRG9EQRILVmVuZnBhOFNyLUU"
     }
@@ -3604,6 +3628,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-07T17:00:00Z",
       "activeLiveChatId": "Cg0KC2drWjhkbVJJenVFKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILZ2taOGRtUkl6dUU"
+    }
+  },
+  "gx_aura": {
+    "snippet": {
+      "channelId": "gx_aura",
+      "title": "LIVE FROM NEW YORK!!!  | !socials !video",
+      "channelTitle": "GX_Aura"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-12T15:57:28Z",
+      "twitch": true
     }
   },
   "h4426bmybDA": {
