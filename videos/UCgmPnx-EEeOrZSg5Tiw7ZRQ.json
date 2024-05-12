@@ -8567,7 +8567,7 @@
       "title": "???"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-12T04:30:00Z",
+      "scheduledStartTime": "2024-05-12T04:03:00Z",
       "activeLiveChatId": "Cg0KC29DT0dUdHhxMjRrKicKGFVDZ21QbngtRUVlT3JaU2c1VGl3N1pSURILb0NPR1R0eHEyNGs",
       "premiere": true
     }
@@ -8580,6 +8580,7 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-12T02:57:13Z",
+      "actualEndTime": "2024-05-12T04:01:10Z",
       "scheduledStartTime": "2024-05-12T03:00:00Z",
       "activeLiveChatId": "Cg0KC2k2Q3c4bTZSX1RBKicKGFVDZ21QbngtRUVlT3JaU2c1VGl3N1pSURILaTZDdzhtNlJfVEE"
     }
