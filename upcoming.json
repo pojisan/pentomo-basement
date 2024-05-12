@@ -1204,6 +1204,7 @@
       "title": "Birthday Party!! - Day One"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-12T01:02:09Z",
       "scheduledStartTime": "2024-05-12T01:01:06Z",
       "activeLiveChatId": "Cg0KC0Z2Z2UzekRFVmwwKicKGFVDamNiN1B2UEhtajNNTlV5c1ZVZUpjZxILRnZnZTN6REVWbDA"
     }
@@ -2522,6 +2523,7 @@
       "title": "\u3010 LATE MAID DAY ZATSU\u3011 Huh? Maid Day was yesterday?! Hiyori Mokami at your service! \u2764\ufe0f"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-12T01:04:56Z",
       "scheduledStartTime": "2024-05-12T01:00:00Z",
       "activeLiveChatId": "Cg0KC1Z4S2J0aElOdVRrKicKGFVDUEszUzlpajBEWElObVRqUTRLaFFWQRILVnhLYnRoSU51VGs"
     }
@@ -2567,6 +2569,7 @@
       "title": "\u3010UNARCHIVED KARAOKE\u3011PIANO EDITION #shorts"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-12T01:01:43Z",
       "scheduledStartTime": "2024-05-12T01:00:00Z",
       "activeLiveChatId": "Cg0KC1dTY2RKaVk1aDhrKicKGFVDTGRrY1R0NXZPZkdpX215dkstaU8wZxILV1NjZEppWTVoOGs"
     }
@@ -2597,7 +2600,7 @@
     "snippet": {
       "publishedAt": "2024-05-11T23:36:50Z",
       "channelId": "UCqyL0oB2jl-5GpSg-GWZ_gw",
-      "title": "Petalight Half Anniversary!! \ud83c\udf38\u3010@Kou_MariyaKou Mariya | V4Mirai | ENVtuber\u3011"
+      "title": "Petalight Half Anniversary!! \ud83c\udf38\u3010Kou Mariya | V4Mirai | ENVtuber\u3011"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-12T01:00:00Z",
@@ -3290,6 +3293,7 @@
       "title": "Meno's birthday celebration 2024!!!\u3010Ibuki Meno\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-12T01:10:06Z",
       "scheduledStartTime": "2024-05-12T01:00:00Z",
       "activeLiveChatId": "Cg0KC2d4Mzg3ZkRHX3ljKicKGFVDWmZRUnV3U0x0eTc0UUFqNTVCYUtsQRILZ3gzODdmREdfeWM"
     }
@@ -3699,6 +3703,17 @@
       "activeLiveChatId": "Cg0KC2xZNExqUEtwTWgwKicKGFVDYkxGdVNyQVFLa3VzcmpUdkNPNWdYURILbFk0TGpQS3BNaDA"
     }
   },
+  "lillianthemaid": {
+    "snippet": {
+      "channelId": "lillianthemaid",
+      "title": "Birthday Party!! - Day One",
+      "channelTitle": "lillianthemaid"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-12T01:01:36Z",
+      "twitch": true
+    }
+  },
   "lrvoEmF_d90": {
     "snippet": {
       "publishedAt": "2023-12-03T02:36:43Z",
@@ -3828,18 +3843,6 @@
       "activeLiveChatId": "Cg0KC25WejdycFFnelZZKicKGFVDZHVyZXV4N0JfVi14aE03dFlJbUFTURILblZ6N3JwUWd6Vlk"
     }
   },
-  "nYyzu2LVYdw": {
-    "snippet": {
-      "publishedAt": "2024-05-11T10:12:39Z",
-      "channelId": "UCbDHIS0NpXROhYjsaXQX4pA",
-      "title": "[PETALIGHT HALF YEAR ANNIVERSARY] Zatsu - We've come so far!  [Yae Yugiri | V4Mirai]"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-12T00:00:24Z",
-      "scheduledStartTime": "2024-05-12T00:00:00Z",
-      "activeLiveChatId": "Cg0KC25ZeXp1MkxWWWR3KicKGFVDYkRISVMwTnBYUk9oWWpzYVhRWDRwQRILbll5enUyTFZZZHc"
-    }
-  },
   "n_dl7H8UDSE": {
     "snippet": {
       "publishedAt": "2024-05-05T13:10:23Z",
@@ -3912,7 +3915,7 @@
       "title": "Reboot - idol ENCORE (Official Music Video)"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-13T01:20:00Z",
+      "scheduledStartTime": "2024-05-12T01:20:00Z",
       "activeLiveChatId": "Cg0KC28zWHVUZWNiRVZjKicKGFVDUk1zMGRSUjRNRW5DZnR5azZsMXR2URILbzNYdVRlY2JFVmM",
       "premiere": true
     }
@@ -4171,7 +4174,7 @@
       "title": "DETROIT BECOME HUMAN: wen ur detroit becomes human"
     },
     "liveStreamingDetails": {
-      "actualStartTime": "2024-05-12T01:01:10Z",
+      "actualStartTime": "2024-05-12T01:01:14Z",
       "scheduledStartTime": "2024-05-12T01:00:00Z",
       "activeLiveChatId": "Cg0KC3JHckNFWlFFY25nKicKGFVDWk8wQ2lySGVXWVRVTWwtN3pQRzZZZxILckdyQ0VaUUVjbmc"
     }
@@ -4194,7 +4197,7 @@
       "title": "\ud83d\udd34\u3010PHASMOPHOBIA\u3011 Play-Along / Open Lobby!"
     },
     "liveStreamingDetails": {
-      "actualStartTime": "2024-05-12T01:01:08Z",
+      "actualStartTime": "2024-05-12T01:01:38Z",
       "scheduledStartTime": "2024-05-12T01:00:00Z",
       "activeLiveChatId": "Cg0KC3JZdFFfRjBFemd3KicKGFVDNDE3UVBhV0xMNHJjWUJBRVNQTGZyQRILcll0UV9GMEV6Z3c"
     }
@@ -4281,6 +4284,7 @@
       "title": "\u3010FACTORIO\u3011will phantomos make me addicted to this....?\u3010NIJISANJI EN | Reimu Endou\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-12T01:07:14Z",
       "scheduledStartTime": "2024-05-12T01:00:00Z",
       "activeLiveChatId": "Cg0KC3MzajZrcm1Hd2JvKicKGFVDQlVSTThTNExIN2NSWjBDbGVhOVJEQRILczNqNmtybUd3Ym8"
     }
@@ -4576,17 +4580,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-31T08:30:00Z",
       "activeLiveChatId": "Cg0KC3d4UUVpREthUWg0KicKGFVDMUpuYWdycWpUekVScWZwTnRSZngxQRILd3hRRWlES2FRaDQ"
-    }
-  },
-  "xH5-W-bAfXs": {
-    "snippet": {
-      "publishedAt": "2024-05-05T20:22:11Z",
-      "channelId": "UCiL8200wgmCEpT83Q9oTxqg",
-      "title": "Content Warning with Umi, Bri and Lida"
-    },
-    "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-12T00:00:00Z",
-      "activeLiveChatId": "Cg0KC3hINS1XLWJBZlhzKicKGFVDaUw4MjAwd2dtQ0VwVDgzUTlvVHhxZxILeEg1LVctYkFmWHM"
     }
   },
   "xcdlTH2FZEo": {
