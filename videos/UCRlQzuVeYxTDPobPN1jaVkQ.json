@@ -3606,8 +3606,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-12T04:54:59Z",
-      "scheduledStartTime": "2024-05-12T04:45:00Z",
-      "activeLiveChatId": "Cg0KC0pPQUlCX2ZYZUNJKicKGFVDUmxRenVWZVl4VERQb2JQTjFqYVZrURILSk9BSUJfZlhlQ0k"
+      "actualEndTime": "2024-05-12T07:05:00Z",
+      "scheduledStartTime": "2024-05-12T04:45:00Z"
     }
   },
   "ftV38sVNuk4": {
@@ -3620,6 +3620,18 @@
       "actualStartTime": "2024-05-12T01:00:47Z",
       "actualEndTime": "2024-05-12T04:54:18Z",
       "scheduledStartTime": "2024-05-12T01:00:00Z"
+    }
+  },
+  "sUWJPFIzqt8": {
+    "snippet": {
+      "publishedAt": "2024-05-11T13:05:23Z",
+      "channelId": "UCRlQzuVeYxTDPobPN1jaVkQ",
+      "title": "\u3016B-DAY CELEBRATHON pt.3?\u3017Late Night Tanuki Birthday Hours!~ Final stretch!\u3016Cyon \u2765 V&U\u3017"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-12T07:05:42Z",
+      "scheduledStartTime": "2024-05-12T07:00:00Z",
+      "activeLiveChatId": "Cg0KC3NVV0pQRkl6cXQ4KicKGFVDUmxRenVWZVl4VERQb2JQTjFqYVZrURILc1VXSlBGSXpxdDg"
     }
   }
 }
