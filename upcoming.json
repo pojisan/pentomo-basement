@@ -1201,7 +1201,8 @@
       "title": "Birthday Party!! - Day One"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-12T01:00:00Z"
+      "scheduledStartTime": "2024-05-12T01:00:00Z",
+      "activeLiveChatId": "Cg0KC0Z2Z2UzekRFVmwwKicKGFVDamNiN1B2UEhtajNNTlV5c1ZVZUpjZxILRnZnZTN6REVWbDA"
     }
   },
   "FwV8ApdJLhQ": {
@@ -1739,6 +1740,7 @@
       "title": "Serenading @oumiyaemma with my ASMR.... and you too I guess."
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-12T00:24:34Z",
       "scheduledStartTime": "2024-05-12T00:30:00Z",
       "activeLiveChatId": "Cg0KC0xOS3JLM0VtbXIwKicKGFVDS250czhTX2hheWpRSU9YdFFLQ1ZJZxILTE5LckszRW1tcjA"
     }
@@ -2642,18 +2644,6 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC1daa050ZUVJWnQ4KicKGFVDS0pleGFkQ2VObzNsdTBVMjBza21OZxILV1prTnRlRUladDg"
-    }
-  },
-  "Wbfj8uqO7H4": {
-    "snippet": {
-      "publishedAt": "2024-05-10T17:57:59Z",
-      "channelId": "UCquyWr7sdEFHCsqEgn1UA1g",
-      "title": "Fantastic Floppy Fish Friends! | Simple Fish Adventure"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-11T21:02:22Z",
-      "scheduledStartTime": "2024-05-11T21:00:00Z",
-      "activeLiveChatId": "Cg0KC1diZmo4dXFPN0g0KicKGFVDcXV5V3I3c2RFRkhDc3FFZ24xVUExZxILV2Jmajh1cU83SDQ"
     }
   },
   "WhazzeqhJS4": {
@@ -3992,6 +3982,18 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-11T22:51:00Z",
       "twitch": true
+    }
+  },
+  "o3XuTecbEVc": {
+    "snippet": {
+      "publishedAt": "2024-05-12T00:08:46Z",
+      "channelId": "UCRMs0dRR4MEnCftyk6l1tvQ",
+      "title": "Reboot - idol ENCORE (Official Music Video)"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-13T02:30:00Z",
+      "activeLiveChatId": "Cg0KC28zWHVUZWNiRVZjKicKGFVDUk1zMGRSUjRNRW5DZnR5azZsMXR2URILbzNYdVRlY2JFVmM",
+      "premiere": true
     }
   },
   "oBcsT_WnqqI": {
