@@ -1379,8 +1379,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-12T18:03:23Z",
-      "scheduledStartTime": "2024-05-12T18:00:00Z",
-      "activeLiveChatId": "Cg0KC092aUNnV2ZXTWxjKicKGFVDM0ZXU2RoX0t0RUxhZWU4dDQwMEpiQRILT3ZpQ2dXZldNbGM"
+      "actualEndTime": "2024-05-12T21:31:37Z",
+      "scheduledStartTime": "2024-05-12T18:00:00Z"
     }
   },
   "B3CZLUA5xW0": {
@@ -1405,9 +1405,10 @@
     "snippet": {
       "publishedAt": "2024-05-11T01:04:14Z",
       "channelId": "UC3FWSdh_KtELaee8t400JbA",
-      "title": "\u3010UNARCHIVED KARAOKE / \u30ab\u30e9\u30aa\u30b1\u3011Lets sing cute maid songs!\u3010Pippa Pebblesworth | globie\u3011"
+      "title": "\u3010UNARCHIVED KARAOKE / \u30ab\u30e9\u30aa\u30b1\u3011Lets sing cute maid songs!\u3010Pippa Pebblesworth | globie\u3011 #shorts"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-12T21:39:12Z",
       "scheduledStartTime": "2024-05-12T21:30:00Z",
       "activeLiveChatId": "Cg0KC1dPQklSbzVFY1cwKicKGFVDM0ZXU2RoX0t0RUxhZWU4dDQwMEpiQRILV09CSVJvNUVjVzA"
     }
