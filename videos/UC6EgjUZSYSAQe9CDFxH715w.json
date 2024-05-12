@@ -18730,7 +18730,7 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-11T20:05:46Z",
-      "activeLiveChatId": "Cg0KC2w4N1Y5M2FwcmgwKicKGFVDNkVnalVaU1lTQVFlOUNERnhINzE1dxILbDg3VjkzYXByaDA"
+      "actualEndTime": "2024-05-12T01:26:13Z"
     }
   },
   "vTEqpYkpNb8": {
@@ -22664,6 +22664,16 @@
       "actualEndTime": "2024-05-10T07:59:14Z",
       "scheduledStartTime": "2024-05-10T02:17:17Z",
       "activeLiveChatId": "Cg0KC24zOFFMTjZ5WEMwKicKGFVDNkVnalVaU1lTQVFlOUNERnhINzE1dxILbjM4UUxONnlYQzA"
+    }
+  },
+  "7YouiwUGh5c": {
+    "snippet": {
+      "publishedAt": "2024-05-12T01:27:03Z",
+      "channelId": "UC6EgjUZSYSAQe9CDFxH715w",
+      "title": "\u6628\u65e5\u306f\u3053\u306e\u30c1\u30e3\u30f3\u30cd\u30eb\u306e\u8a95\u751f\u65e5\u3089\u3057\u3044\u3067\u3059#vtuber #\u7e26\u578b\u914d\u4fe1 #\u6b4c\u67a0"
+    },
+    "liveStreamingDetails": {
+      "activeLiveChatId": "Cg0KCzdZb3Vpd1VHaDVjKicKGFVDNkVnalVaU1lTQVFlOUNERnhINzE1dxILN1lvdWl3VUdoNWM"
     }
   }
 }
