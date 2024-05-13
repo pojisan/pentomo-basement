@@ -1599,8 +1599,20 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-13T03:17:26Z",
-      "scheduledStartTime": "2024-05-13T03:17:07Z",
-      "activeLiveChatId": "Cg0KC1JhNl92RnZTT3pBKicKGFVDZjRVM2lWVURra2hJdjNqbnI0MXUtURILUmE2X3ZGdlNPekE"
+      "actualEndTime": "2024-05-13T06:15:05Z",
+      "scheduledStartTime": "2024-05-13T03:17:07Z"
+    }
+  },
+  "thVYoDpXUR4": {
+    "snippet": {
+      "publishedAt": "2024-05-13T06:18:51Z",
+      "channelId": "UCf4U3iVUDkkhIv3jnr41u-Q",
+      "title": "[Delayed Watchalong!] Oshilink's Gen1 Celanis! | #OshiLink #Vtuber"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-13T06:19:10Z",
+      "scheduledStartTime": "2024-05-13T06:18:50Z",
+      "activeLiveChatId": "Cg0KC3RoVllvRHBYVVI0KicKGFVDZjRVM2lWVURra2hJdjNqbnI0MXUtURILdGhWWW9EcFhVUjQ"
     }
   }
 }
