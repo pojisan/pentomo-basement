@@ -875,7 +875,7 @@
     "snippet": {
       "publishedAt": "2024-04-07T20:50:02Z",
       "channelId": "UCbZZlqASU668-wyW1K2kYBw",
-      "title": "\u3010This Week's Schedule\u3011May 6th - 12th"
+      "title": "\u3010This Week's Schedule\u3011May 13th - 19th"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-07-01T22:00:00Z",
@@ -3960,7 +3960,9 @@
       "title": "\u3010\u30de\u30ea\u30ab8DX\u3011\u3000\u30ed\u3000\u30b9\u3000\u3010\u306b\u3058\u3055\u3093\u3058\u6240\u5c5e\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-13T13:15:00Z"
+      "actualStartTime": "2024-05-13T13:17:20Z",
+      "scheduledStartTime": "2024-05-13T13:15:00Z",
+      "activeLiveChatId": "Cg0KC2NDLWpzMC10dWkwKicKGFVDdExmQV9xVXFDSnRqWEpNMlpSX2tlZxILY0MtanMwLXR1aTA"
     }
   },
   "cLw-_CcGvVY": {
@@ -4649,6 +4651,17 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC2taenl3cGxYSThjKicKGFVDaEtYZDdvcUQxOHFpSVlCb1JJSFRsdxILa1p6eXdwbFhJOGM"
+    }
+  },
+  "ke16gFgamGQ": {
+    "snippet": {
+      "publishedAt": "2023-07-12T20:17:38Z",
+      "channelId": "UCK9l6rTwU3hiSZijIMq51Gw",
+      "title": "\u3010CHAT ROOM\u3011WEEK OF 13 MAY\u3010NIJISANJI EN | Vezalius Bandage\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2025-06-24T22:00:00Z",
+      "activeLiveChatId": "Cg0KC2tlMTZnRmdhbUdRKicKGFVDSzlsNnJUd1UzaGlTWmlqSU1xNTFHdxILa2UxNmdGZ2FtR1E"
     }
   },
   "kyQK8WOFpx4": {
