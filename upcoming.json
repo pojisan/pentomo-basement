@@ -2422,18 +2422,6 @@
       "activeLiveChatId": "Cg0KC0t3bVlQNkoyUVRBKicKGFVDZHVib3RTeTRwUE9zaWFXNE1yWW4zURILS3dtWVA2SjJRVEE"
     }
   },
-  "L5qab_48IWk": {
-    "snippet": {
-      "publishedAt": "2024-05-12T14:32:23Z",
-      "channelId": "UCZl92wMipjYFc1Ulm9Yy65g",
-      "title": "\u3010OniMon #26\u3011 Wanna Judge My Meme Tastes?\u3010Yuno Hanaki\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-13T20:00:16Z",
-      "scheduledStartTime": "2024-05-13T20:00:00Z",
-      "activeLiveChatId": "Cg0KC0w1cWFiXzQ4SVdrKicKGFVDWmw5MndNaXBqWUZjMVVsbTlZeTY1ZxILTDVxYWJfNDhJV2s"
-    }
-  },
   "LByigPaA2nk": {
     "snippet": {
       "publishedAt": "2022-06-05T05:25:03Z",
@@ -4534,7 +4522,8 @@
       "title": "\u3010GEOGUESSR\u3011We're GeoGuessr boys, of course we're going to mix up Australia and North Dakota"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-13T21:30:00Z",
+      "actualStartTime": "2024-05-13T21:32:07Z",
+      "scheduledStartTime": "2024-05-13T21:31:25Z",
       "activeLiveChatId": "Cg0KC2dSSzdyNzJfbFZnKicKGFVDYTdmaFR6LVZTRUlhR3Q4ajZqYWI2QRILZ1JLN3I3Ml9sVmc"
     }
   },
@@ -5127,17 +5116,6 @@
       "activeLiveChatId": "Cg0KC21XNDZ1ZHJxQl9ZKicKGFVDQUZieUVqOXBlc0N4bzY5b3pFaGk5URILbVc0NnVkcnFCX1k"
     }
   },
-  "matarakan": {
-    "snippet": {
-      "channelId": "matarakan",
-      "title": "overwatch 2 happened... !schedule !mint !podcast",
-      "channelTitle": "MataraKan"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-13T17:56:57Z",
-      "twitch": true
-    }
-  },
   "mfoHpYA39oc": {
     "snippet": {
       "publishedAt": "2024-03-10T12:20:05Z",
@@ -5256,18 +5234,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-10T19:00:00Z",
       "activeLiveChatId": "Cg0KC25fZGw3SDhVRFNFKicKGFVDYjhkTHZEdm1aLWQ5MktFeV85b1dvZxILbl9kbDdIOFVEU0U"
-    }
-  },
-  "nfYXU0k7Kxk": {
-    "snippet": {
-      "publishedAt": "2024-05-06T11:25:27Z",
-      "channelId": "UC3AYtmMNdJczCvQNoPy-gjw",
-      "title": "Holy Grail !! 2024 Edition\u3010Watch Along\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-13T21:02:17Z",
-      "scheduledStartTime": "2024-05-13T21:00:00Z",
-      "activeLiveChatId": "Cg0KC25mWVhVMGs3S3hrKicKGFVDM0FZdG1NTmRKY3pDdlFOb1B5LWdqdxILbmZZWFUwazdLeGs"
     }
   },
   "nh2yGnHacwY": {
@@ -6001,6 +5967,7 @@
       "title": "corporate vtuber does work on stream with lofi-beats you can relax to"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-13T21:31:42Z",
       "scheduledStartTime": "2024-05-13T21:30:00Z",
       "activeLiveChatId": "Cg0KC3VVaWEyd2lVV3lBKicKGFVDS0pleGFkQ2VObzNsdTBVMjBza21OZxILdVVpYTJ3aVVXeUE"
     }
