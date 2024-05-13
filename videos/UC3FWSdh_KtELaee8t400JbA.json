@@ -1423,6 +1423,7 @@
       "title": "\u3010MAID CAFE CLOSE UP\ud83c\udf80\u3011Cosy soft zatsu & saying goodnight to masters\ud83e\ude75\u3010Pippa Pebblesworth | globie\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-13T00:06:25Z",
       "scheduledStartTime": "2024-05-13T00:00:00Z",
       "activeLiveChatId": "Cg0KC1BrME5vdW1iSFBVKicKGFVDM0ZXU2RoX0t0RUxhZWU4dDQwMEpiQRILUGswTm91bWJIUFU"
     }
@@ -1435,8 +1436,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-12T22:11:46Z",
-      "scheduledStartTime": "2024-05-12T22:10:00Z",
-      "activeLiveChatId": "Cg0KCzM3eDdBTTlwN1FrKicKGFVDM0ZXU2RoX0t0RUxhZWU4dDQwMEpiQRILMzd4N0FNOXA3UWs"
+      "actualEndTime": "2024-05-13T00:05:20Z",
+      "scheduledStartTime": "2024-05-12T22:10:00Z"
     }
   }
 }
