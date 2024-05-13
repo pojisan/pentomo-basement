@@ -350,8 +350,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-13T13:59:17Z",
-      "scheduledStartTime": "2024-05-13T14:00:00Z",
-      "activeLiveChatId": "Cg0KCzJGUTdUZEp6S00wKicKGFVDX3pwa3FGdDdZQnlXYVBpOUJ4dDdFURILMkZRN1RkSnpLTTA"
+      "actualEndTime": "2024-05-13T15:54:40Z",
+      "scheduledStartTime": "2024-05-13T14:00:00Z"
     }
   },
   "JNcB_wF8TPA": {
@@ -385,6 +385,7 @@
       "title": "Doggy God\u2019s Street Cover - Rinona Ver."
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-13T16:00:06Z",
       "scheduledStartTime": "2024-05-13T16:00:00Z",
       "activeLiveChatId": "Cg0KC09aNWtRMER4SXFjKicKGFVDX3pwa3FGdDdZQnlXYVBpOUJ4dDdFURILT1o1a1EwRHhJcWM",
       "premiere": true
