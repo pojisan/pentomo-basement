@@ -162,10 +162,10 @@
     "snippet": {
       "publishedAt": "2024-04-01T09:13:34Z",
       "channelId": "UCBnmfjpmhGxao6v54fIIMUA",
-      "title": "Nikki Rei Presents: This week schedule: 6 - 12 MAY"
+      "title": "Nikki Rei Presents: This week schedule: 13 - 19 MAY"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-12T20:45:00Z"
+      "scheduledStartTime": "2024-05-19T20:45:00Z"
     }
   },
   "-uukIqgwrk0": {
@@ -595,6 +595,17 @@
       "actualStartTime": "2024-05-11T15:30:54Z",
       "actualEndTime": "2024-05-11T20:14:51Z",
       "scheduledStartTime": "2024-05-11T15:30:00Z"
+    }
+  },
+  "VZ6Np1LXVtM": {
+    "snippet": {
+      "publishedAt": "2024-05-13T09:49:40Z",
+      "channelId": "UCBnmfjpmhGxao6v54fIIMUA",
+      "title": "Someone has to carry this mess... (not it)"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-14T17:00:00Z",
+      "activeLiveChatId": "Cg0KC1ZaNk5wMUxYVnRNKicKGFVDQm5tZmpwbWhHeGFvNnY1NGZJSU1VQRILVlo2TnAxTFhWdE0"
     }
   }
 }
