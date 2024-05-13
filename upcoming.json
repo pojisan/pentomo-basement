@@ -1319,18 +1319,6 @@
       "activeLiveChatId": "Cg0KC0NTckNwMGo0WkgwKicKGFVDS3BpSlFBWF9HbmM1cmpSQjh5WFQwQRILQ1NyQ3AwajRaSDA"
     }
   },
-  "CVOS3mfFh9E": {
-    "snippet": {
-      "publishedAt": "2024-05-12T12:15:31Z",
-      "channelId": "UC1sm9H2orvynDajcE4jrYug",
-      "title": "\u3010FORZA 5\u3011LET'S RACE\u3010globie | Kiri Kilovolt\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-13T17:54:07Z",
-      "scheduledStartTime": "2024-05-13T18:00:00Z",
-      "activeLiveChatId": "Cg0KC0NWT1MzbWZGaDlFKicKGFVDMXNtOUgyb3J2eW5EYWpjRTRqcll1ZxILQ1ZPUzNtZkZoOUU"
-    }
-  },
   "Cb1XrVBPn2o": {
     "snippet": {
       "publishedAt": "2024-05-12T14:07:58Z",
@@ -2386,6 +2374,7 @@
       "title": "\u3010OniMon #26\u3011 Wanna Judge My Meme Tastes?\u3010Yuno Hanaki\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-13T20:00:16Z",
       "scheduledStartTime": "2024-05-13T20:00:00Z",
       "activeLiveChatId": "Cg0KC0w1cWFiXzQ4SVdrKicKGFVDWmw5MndNaXBqWUZjMVVsbTlZeTY1ZxILTDVxYWJfNDhJV2s"
     }
@@ -4319,6 +4308,7 @@
       "title": "HANDCAM! \ud83d\udc4b Look at all my VTuber figures!\u3010Bonnie Barkswell / globie\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-13T20:00:36Z",
       "scheduledStartTime": "2024-05-13T20:00:00Z",
       "activeLiveChatId": "Cg0KC2VtX0JuNGlITl9NKicKGFVDcXczcGRQRUtLVk9JN1NGWG9teUtMQRILZW1fQm40aUhOX00"
     }
@@ -5749,6 +5739,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-08-30T04:35:00Z",
       "activeLiveChatId": "Cg0KC3NrVENLZ003YmlJKicKGFVDazB2dXd3c21fVVFISElPZ0d2eFUtQRILc2tUQ0tnTTdiaUk"
+    }
+  },
+  "starryyozzy": {
+    "snippet": {
+      "channelId": "starryyozzy",
+      "title": "LAST STREAM BEFORE THE MOVE!! !STEAM !FLASHLIGHT !ADVGG  !fish !VITE #SHIRTMYSURVIVOR #intothefog",
+      "channelTitle": "StarryYozzy"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-13T20:01:12Z",
+      "twitch": true
     }
   },
   "su2UL8uxdC8": {
