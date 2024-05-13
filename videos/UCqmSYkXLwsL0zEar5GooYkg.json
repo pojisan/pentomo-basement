@@ -374,7 +374,8 @@
     "snippet": {
       "publishedAt": "2024-03-17T03:18:23Z",
       "channelId": "UCqmSYkXLwsL0zEar5GooYkg",
-      "title": "Schedule for the week of May 5th to May 11th"
+      "title": "Schedule for the week of May 5th to May 11th",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-04-27T06:00:00Z",
@@ -860,6 +861,39 @@
       "actualStartTime": "2024-05-12T16:15:28Z",
       "actualEndTime": "2024-05-12T18:03:30Z",
       "scheduledStartTime": "2024-05-12T16:15:00Z"
+    }
+  },
+  "s_FdpMXVmM0": {
+    "snippet": {
+      "publishedAt": "2024-05-13T07:19:13Z",
+      "channelId": "UCqmSYkXLwsL0zEar5GooYkg",
+      "title": "\u3010Alien: Isolation\u3011Aliens Make Me Sh*t My Panties\u3010Yume+ | Mimosa Shirosaki\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-15T23:00:00Z",
+      "activeLiveChatId": "Cg0KC3NfRmRwTVhWbU0wKicKGFVDcW1TWWtYTHdzTDB6RWFyNUdvb1lrZxILc19GZHBNWFZtTTA"
+    }
+  },
+  "5uPqxdfovv0": {
+    "snippet": {
+      "publishedAt": "2024-05-13T07:20:44Z",
+      "channelId": "UCqmSYkXLwsL0zEar5GooYkg",
+      "title": "\u3010Board Game Online\u3011come play with your oshi\u3010Yume+ | Mimosa Shirosaki\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-16T20:00:00Z",
+      "activeLiveChatId": "Cg0KCzV1UHF4ZGZvdnYwKicKGFVDcW1TWWtYTHdzTDB6RWFyNUdvb1lrZxILNXVQcXhkZm92djA"
+    }
+  },
+  "1WABJGx6q-Y": {
+    "snippet": {
+      "publishedAt": "2024-05-13T07:17:42Z",
+      "channelId": "UCqmSYkXLwsL0zEar5GooYkg",
+      "title": "\u3010Elden Ring\u3011Ragequit Simulator\u3010Yume+ | Mimosa Shirosaki\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-13T22:00:00Z",
+      "activeLiveChatId": "Cg0KCzFXQUJKR3g2cS1ZKicKGFVDcW1TWWtYTHdzTDB6RWFyNUdvb1lrZxILMVdBQkpHeDZxLVk"
     }
   }
 }
