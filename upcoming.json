@@ -328,6 +328,7 @@
       "title": "\u3010\u7dca\u6025\u304a\u6b4c\u8010\u4e45\uff01\uff1f\u3011\u767b\u9332\u800512\u4e07\u4eba\u884c\u304f\u307e\u3067\u300c\u3053\u3076\u3057\u300d!?\u8010\u4e45\u3060\u3041\u3041\u3041\uff01\uff01\uff01\uff01\u3010\u5009\u6301\u3081\u308b\u3068/\u306b\u3058\u3055\u3093\u3058\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-13T10:17:47Z",
       "scheduledStartTime": "2024-05-13T10:15:00Z",
       "activeLiveChatId": "Cg0KCzJqNUZlb19YV3JjKicKGFVDaUEtdHJTWmZCMGk5MlZfLWR5RHFCdxILMmo1RmVvX1hXcmM"
     }
@@ -393,7 +394,7 @@
       "title": "I write the next anime of the season!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-25T01:00:00Z",
+      "scheduledStartTime": "2024-05-22T01:00:00Z",
       "activeLiveChatId": "Cg0KCzNJc09sWkc5YVhjKicKGFVDLTFfLWpVdS1sQUxkR245LU1kQko0URILM0lzT2xaRzlhWGM"
     }
   },
@@ -2769,6 +2770,17 @@
       "activeLiveChatId": "Cg0KC1JPWFlQS29SRmZzKicKGFVDbnBjN0hwY2lmVnBpNlJCek5nZTUxdxILUk9YWVBLb1JGZnM"
     }
   },
+  "RU-W3i4Jsv4": {
+    "snippet": {
+      "publishedAt": "2024-05-13T10:16:27Z",
+      "channelId": "UCKg9vWWT_2yK3FFNNnnhhLw",
+      "title": "\ud83d\udfe3Minecraft Hardcore 100 Days- How Hard Can It Be? \ud83d\ude0e  \u2726 [ Goozilla Ily | Autumnia ]\u3010EN/TH\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-13T13:00:00Z",
+      "activeLiveChatId": "Cg0KC1JVLVczaTRKc3Y0KicKGFVDS2c5dldXVF8yeUszRkZOTm5uaGhMdxILUlUtVzNpNEpzdjQ"
+    }
+  },
   "RX56nmdEcRE": {
     "snippet": {
       "publishedAt": "2023-08-16T15:36:40Z",
@@ -3258,6 +3270,18 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-16T18:00:00Z",
       "activeLiveChatId": "Cg0KC1ZrTzgxTllUVWQwKicKGFVDMEdEeVdORWpzeGdLWF81elJzLWg1dxILVmtPODFOWVRVZDA"
+    }
+  },
+  "VpHu0pQp0iY": {
+    "snippet": {
+      "publishedAt": "2024-05-13T10:17:10Z",
+      "channelId": "UCf4U3iVUDkkhIv3jnr41u-Q",
+      "title": "[Delayed Watchalong! Part2] Oshilink's Gen1 Celanis! | #OshiLink #Vtuber"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-13T10:17:53Z",
+      "scheduledStartTime": "2024-05-13T10:17:10Z",
+      "activeLiveChatId": "Cg0KC1ZwSHUwcFFwMGlZKicKGFVDZjRVM2lWVURra2hJdjNqbnI0MXUtURILVnBIdTBwUXAwaVk"
     }
   },
   "VqVpFAZhLSE": {
@@ -5425,6 +5449,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2026-04-30T06:00:00Z",
       "activeLiveChatId": "Cg0KC3RPeWpnYWU4UmZrKicKGFVDVEpDb0hFdDVjMjdyY2VxMnNoNjlrZxILdE95amdhZThSZms"
+    }
+  },
+  "tatsuhikohiroki": {
+    "snippet": {
+      "channelId": "tatsuhikohiroki",
+      "title": "[Delayed Watchalong!] Oshilink's Gen1 Celanis! | #OshiLink #Vtuber",
+      "channelTitle": "tatsuhikohiroki"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-13T10:17:17Z",
+      "twitch": true
     }
   },
   "thKmAPsyAPE": {
