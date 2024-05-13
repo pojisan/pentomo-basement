@@ -325,7 +325,7 @@
     "snippet": {
       "publishedAt": "2024-05-13T09:28:21Z",
       "channelId": "UCiA-trSZfB0i92V_-dyDqBw",
-      "title": "\u3010\u7dca\u6025\u8010\u4e45\uff01\uff1f\u3011\u767b\u9332\u800512\u4e07\u4eba\u884c\u304f\u307e\u3067\u300c\u3053\u3076\u3057\u300d!?\u8010\u4e45\u3060\u3041\u3041\u3041\uff01\uff01\uff01\uff01\u3010\u5009\u6301\u3081\u308b\u3068/\u306b\u3058\u3055\u3093\u3058\u3011"
+      "title": "\u3010\u7dca\u6025\u304a\u6b4c\u8010\u4e45\uff01\uff1f\u3011\u767b\u9332\u800512\u4e07\u4eba\u884c\u304f\u307e\u3067\u300c\u3053\u3076\u3057\u300d!?\u8010\u4e45\u3060\u3041\u3041\u3041\uff01\uff01\uff01\uff01\u3010\u5009\u6301\u3081\u308b\u3068/\u306b\u3058\u3055\u3093\u3058\u3011"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-13T10:15:00Z",
@@ -932,6 +932,7 @@
       "title": "I WILL GUNBEAR - CELESTE\u3010Maria Marionette | NIJISANJI EN\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-13T10:00:35Z",
       "scheduledStartTime": "2024-05-13T10:00:00Z",
       "activeLiveChatId": "Cg0KCzlRSUZOUU9zVE1nKicKGFVDd2FTOF9TN2tNaUtBM2l6bFRXSGJRZxILOVFJRk5RT3NUTWc"
     }
@@ -1074,6 +1075,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-14T00:00:00Z",
       "activeLiveChatId": "Cg0KC0FxT2lfeUNweDdZKicKGFVDdS1KOHVJWHVMWmgxNmdHLWNUMW5hdxILQXFPaV95Q3B4N1k"
+    }
+  },
+  "ArIuh2jdsgA": {
+    "snippet": {
+      "publishedAt": "2024-05-13T09:59:50Z",
+      "channelId": "UCFgXWZOUZA2oYHNr6qDmsTQ",
+      "title": "WAKE UP WITH ME CHIBIGUNI"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-14T03:00:00Z",
+      "activeLiveChatId": "Cg0KC0FySXVoMmpkc2dBKicKGFVDRmdYV1pPVVpBMm9ZSE5yNnFEbXNUURILQXJJdWgyamRzZ0E"
     }
   },
   "B-5vlQ3mvds": {
@@ -2483,18 +2495,6 @@
       "scheduledStartTime": "2024-05-13T16:00:00Z",
       "activeLiveChatId": "Cg0KC09aNWtRMER4SXFjKicKGFVDX3pwa3FGdDdZQnlXYVBpOUJ4dDdFURILT1o1a1EwRHhJcWM",
       "premiere": true
-    }
-  },
-  "P-NA6JzcIw4": {
-    "snippet": {
-      "publishedAt": "2024-05-13T05:04:09Z",
-      "channelId": "UCFgXWZOUZA2oYHNr6qDmsTQ",
-      "title": "ARMORED CORE: VI FIRES OF RUBICON ENDURANCE (i dont end stream until i beat the helicopter tutorial)"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-13T05:17:39Z",
-      "scheduledStartTime": "2024-05-13T05:15:00Z",
-      "activeLiveChatId": "Cg0KC1AtTkE2SnpjSXc0KicKGFVDRmdYV1pPVVpBMm9ZSE5yNnFEbXNUURILUC1OQTZKemNJdzQ"
     }
   },
   "P-Q-eMri4Qo": {
@@ -3907,6 +3907,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-14T00:00:00Z",
       "activeLiveChatId": "Cg0KC2RzWnNjWjltZVJZKicKGFVDY1BjLTVPckxialZCZ1EtemlFV1BTURILZHNac2NaOW1lUlk"
+    }
+  },
+  "duroppucharming": {
+    "snippet": {
+      "channelId": "duroppucharming",
+      "title": "\ud83d\udc28chuu~!\ud83d\udc9a18+ \ud83d\udc9cstardew valley corn addiction hotline, how can i help you || AUtuber/Envtuber || Alola don't forget me!",
+      "channelTitle": "DuroppuCharming"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-13T09:58:20Z",
+      "twitch": true
     }
   },
   "dwPADgo8YSY": {
@@ -5615,6 +5626,7 @@
       "title": "\u3010\u3074\u306a\u304f\u3089 | \ud83c\udf08 KR\u30b5\u30fc\u30d0\u30fc \u3011 \u30d4\u30f3\u30af\u7d20\u6750\u96c6\u3081 \u3010\u306b\u3058\u3055\u3093\u3058 | \u30bb\u30d5\u30a3\u30ca\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-13T09:59:20Z",
       "scheduledStartTime": "2024-05-13T10:00:00Z",
       "activeLiveChatId": "Cg0KC3gwOWIwOXZlWkVrKicKGFVDZUdlbmRMOENPNVJrZmZCNklGd0hvdxILeDA5YjA5dmVaRWs"
     }
