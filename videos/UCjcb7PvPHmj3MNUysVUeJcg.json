@@ -511,7 +511,9 @@
       "title": "Birthday Party!! - Day Three (finale)"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-14T02:01:06Z"
+      "actualStartTime": "2024-05-14T02:03:52Z",
+      "scheduledStartTime": "2024-05-14T02:01:06Z",
+      "activeLiveChatId": "Cg0KC21Ba0JQM2VLdnpnKicKGFVDamNiN1B2UEhtajNNTlV5c1ZVZUpjZxILbUFrQlAzZUt2emc"
     }
   }
 }
