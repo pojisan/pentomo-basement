@@ -1236,18 +1236,6 @@
       "activeLiveChatId": "Cg0KC0FuMlhzNXB2RUljKicKGFVDLUxBbkZMWFU5QnVzRnY3bjhsRmo4ZxILQW4yWHM1cHZFSWM"
     }
   },
-  "AqOi_yCpx7Y": {
-    "snippet": {
-      "publishedAt": "2024-05-13T03:04:23Z",
-      "channelId": "UCu-J8uIXuLZh16gG-cT1naw",
-      "title": "\u3010BUNNY GARDEN\u3011 HAPPY LAZULIGHT'S 3RD ANNIVERSARY + SURPRISE !!! #3zulight"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-14T00:06:10Z",
-      "scheduledStartTime": "2024-05-14T00:00:00Z",
-      "activeLiveChatId": "Cg0KC0FxT2lfeUNweDdZKicKGFVDdS1KOHVJWHVMWmgxNmdHLWNUMW5hdxILQXFPaV95Q3B4N1k"
-    }
-  },
   "ArIuh2jdsgA": {
     "snippet": {
       "publishedAt": "2024-05-13T09:59:50Z",
@@ -1255,6 +1243,7 @@
       "title": "WAKE UP WITH ME CHIBIGUNI"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-14T03:42:18Z",
       "scheduledStartTime": "2024-05-14T03:15:00Z",
       "activeLiveChatId": "Cg0KC0FySXVoMmpkc2dBKicKGFVDRmdYV1pPVVpBMm9ZSE5yNnFEbXNUURILQXJJdWgyamRzZ0E"
     }
@@ -1823,6 +1812,17 @@
       "actualStartTime": "2024-05-14T01:16:13Z",
       "scheduledStartTime": "2024-05-14T01:15:00Z",
       "activeLiveChatId": "Cg0KC0ZubmpVTXU2UGVRKicKGFVDZ21QbngtRUVlT3JaU2c1VGl3N1pSURILRm5ualVNdTZQZVE"
+    }
+  },
+  "FofXV2s_QZQ": {
+    "snippet": {
+      "publishedAt": "2024-05-14T03:40:56Z",
+      "channelId": "UCUP8TmlO7NNra88AMqGU_vQ",
+      "title": "#5\u3010 \u5929\u7a42\u306e\u30b5\u30af\u30ca\u30d2\u30e1 \u3011\u5b8c\u5168\u521d\u898b\ud83c\udf3e\u3081\u3063\u3061\u3083\u826f\u3044\u304a\u7c73\u3067\u304d\u305f\u306e\u3067\u305d\u308d\u305d\u308d\u4e16\u754c\u58ca\u305b\u305d\u3046\u3010\u5c0f\u6e05\u6c34 \u900f / \u306b\u3058\u3055\u3093\u3058\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-14T15:00:00Z",
+      "activeLiveChatId": "Cg0KC0ZvZlhWMnNfUVpRKicKGFVDVVA4VG1sTzdOTnJhODhBTXFHVV92URILRm9mWFYyc19RWlE"
     }
   },
   "FrU69Z8vbG8": {
@@ -5402,6 +5402,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-03-09T13:00:00Z",
       "activeLiveChatId": "Cg0KC21mb0hwWUEzOW9jKicKGFVDYXhpRGVfVHVNTFhrd1JNVkxtNVZ3URILbWZvSHBZQTM5b2M"
+    }
+  },
+  "miyuyus": {
+    "snippet": {
+      "channelId": "miyuyus",
+      "title": "STRONGHOLD TIME \u2665 !candle !merch !throne",
+      "channelTitle": "miyuyus"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-14T03:50:45Z",
+      "twitch": true
     }
   },
   "mpqfmen-m_w": {
