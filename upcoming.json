@@ -933,6 +933,7 @@
       "title": "\u3010GAME STREAM\u30fb\u30b2\u30fc\u30e0\u914d\u4fe1\u3011Chatting While I Do Some Dailies\u30fb\u539f\u795e \uff06 NIKKE\ud83d\udd30"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-14T09:52:31Z",
       "scheduledStartTime": "2024-05-14T10:00:00Z",
       "activeLiveChatId": "Cg0KCzhUeE9BUlN3dEs4KicKGFVDSFhteVRaM1VGYmh6cGZWZ1ZscmRndxILOFR4T0FSU3d0Szg"
     }
@@ -1162,18 +1163,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-14T21:00:00Z",
       "activeLiveChatId": "Cg0KC0FuMlhzNXB2RUljKicKGFVDLUxBbkZMWFU5QnVzRnY3bjhsRmo4ZxILQW4yWHM1cHZFSWM"
-    }
-  },
-  "ArIuh2jdsgA": {
-    "snippet": {
-      "publishedAt": "2024-05-13T09:59:50Z",
-      "channelId": "UCFgXWZOUZA2oYHNr6qDmsTQ",
-      "title": "PC ALMOST BLEW UP LOL"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-14T03:42:18Z",
-      "scheduledStartTime": "2024-05-14T03:15:00Z",
-      "activeLiveChatId": "Cg0KC0FySXVoMmpkc2dBKicKGFVDRmdYV1pPVVpBMm9ZSE5yNnFEbXNUURILQXJJdWgyamRzZ0E"
     }
   },
   "B-5vlQ3mvds": {
@@ -2756,7 +2745,7 @@
       "title": "MANA STRONK!!! | Valorant #vtuber"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-14T10:30:00Z",
+      "scheduledStartTime": "2024-05-14T11:00:00Z",
       "activeLiveChatId": "Cg0KC05zcThYT2tDMlZFKicKGFVDTkExSndCd1pza180VVUtOHM2Q1ZfQRILTnNxOFhPa0MyVkU"
     }
   },
@@ -2995,6 +2984,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-18T17:00:00Z",
       "activeLiveChatId": "Cg0KC1FZZDYxeWMyUnEwKicKGFVDRVNRc1NjN1VoOEViaVhWdG1QYkRfQRILUVlkNjF5YzJScTA"
+    }
+  },
+  "QdpjxyYLOYU": {
+    "snippet": {
+      "publishedAt": "2024-05-14T09:59:37Z",
+      "channelId": "UCK6oCMib62eYAIPrlrYRVrw",
+      "title": "SHARK/PARTY \u3010Miya 3D Concert\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-15T16:00:00Z",
+      "activeLiveChatId": "Cg0KC1FkcGp4eVlMT1lVKicKGFVDSzZvQ01pYjYyZVlBSVBybHJZUlZydxILUWRwanh5WUxPWVU"
     }
   },
   "QfzCpws51mE": {
