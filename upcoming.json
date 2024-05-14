@@ -215,6 +215,17 @@
       "activeLiveChatId": "Cg0KCzBuQ2ZuU3lSbl9vKicKGFVDN3NxYlE0XzVfRUx6LU92LWJWQmk4QRILMG5DZm5TeVJuX28"
     }
   },
+  "0tNNYqDbzn4": {
+    "snippet": {
+      "publishedAt": "2024-05-14T20:02:34Z",
+      "channelId": "UCt2Z49e6nxKBAKysfF6ZcrA",
+      "title": "Can I Survive Dark Souls?"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-14T22:00:00Z",
+      "activeLiveChatId": "Cg0KCzB0Tk5ZcURiem40KicKGFVDdDJaNDllNm54S0JBS3lzZkY2WmNyQRILMHROTllxRGJ6bjQ"
+    }
+  },
   "0xzsJpuIwso": {
     "snippet": {
       "publishedAt": "2024-05-05T01:48:42Z",
@@ -1643,18 +1654,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-15T20:00:00Z",
       "activeLiveChatId": "Cg0KC0UzaTZCd1lvWmFjKicKGFVDYlpabHFBU1U2Njgtd3lXMUsya1lCdxILRTNpNkJ3WW9aYWM"
-    }
-  },
-  "EB6sohMc7HU": {
-    "snippet": {
-      "publishedAt": "2024-05-14T16:32:39Z",
-      "channelId": "UCLdkcTt5vOfGi_myvK-iO0g",
-      "title": "\u3010BLAISE N' BREAKFAST\u3011COSPLAY + MAID CAFE EDITION!"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-14T18:05:13Z",
-      "scheduledStartTime": "2024-05-14T18:00:00Z",
-      "activeLiveChatId": "Cg0KC0VCNnNvaE1jN0hVKicKGFVDTGRrY1R0NXZPZkdpX215dkstaU8wZxILRUI2c29oTWM3SFU"
     }
   },
   "EQIqqVkONCQ": {
@@ -3444,6 +3443,7 @@
       "title": "Bunnies making my heart race! \ud83d\udc36\ud83d\udc07 Bunny Garden with a HEARTRATE MONITOR!?\u3010Bonnie Barkswell / globie\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-14T20:03:09Z",
       "scheduledStartTime": "2024-05-14T20:00:00Z",
       "activeLiveChatId": "Cg0KC1RFSHd6dVJhWTVNKicKGFVDcXczcGRQRUtLVk9JN1NGWG9teUtMQRILVEVId3p1UmFZNU0"
     }
@@ -4847,6 +4847,7 @@
       "title": "\u3010FINAL FANTASY XIV\u3011ENDWALKER SPEEDRUN *EW SPOILERS [NIJISANJI EN | Vantacrow Bringer]"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-14T20:04:23Z",
       "scheduledStartTime": "2024-05-14T20:00:00Z",
       "activeLiveChatId": "Cg0KC2ZZSlR5ZlpHZkI0KicKGFVDcFlmNkM5UXNQX0JSZjk3dkx1WGxJQRILZllKVHlmWkdmQjQ"
     }
@@ -5100,17 +5101,6 @@
       "twitch": true
     }
   },
-  "haruna": {
-    "snippet": {
-      "channelId": "haruna",
-      "title": "short apexing time",
-      "channelTitle": "haruna"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-14T19:36:42Z",
-      "twitch": true
-    }
-  },
   "hisWk9dPxxk": {
     "snippet": {
       "publishedAt": "2024-05-11T01:49:10Z",
@@ -5356,6 +5346,17 @@
       "activeLiveChatId": "Cg0KC2tEQWkyYW1DSzJrKicKGFVDSEd1b0lyOWlEeEcwN3ZJT09YVEk4QRILa0RBaTJhbUNLMms"
     }
   },
+  "kRGJZplwLYk": {
+    "snippet": {
+      "publishedAt": "2024-05-14T20:08:13Z",
+      "channelId": "UCn5bP_hLL5HB6RW8X32kw1A",
+      "title": "The Yokai And Moogles | FINAL FANTASY XIV ONLINE"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-17T16:00:00Z",
+      "activeLiveChatId": "Cg0KC2tSR0pacGx3TFlrKicKGFVDbjViUF9oTEw1SEI2Ulc4WDMya3cxQRILa1JHSlpwbHdMWWs"
+    }
+  },
   "kZzywplXI8c": {
     "snippet": {
       "publishedAt": "2022-11-29T08:15:04Z",
@@ -5503,6 +5504,7 @@
       "title": "\u3010HADES II\u3011I WANT TO  BEAT CHRONOS PART 2  \u2606\u2b52NIJISANJI EN \u2727 Millie Parfait \u2606\u2b52"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-14T20:03:19Z",
       "scheduledStartTime": "2024-05-14T20:00:00Z",
       "activeLiveChatId": "Cg0KC2xiOVZmT1c3aEhFKicKGFVDNDdyTm1rRGNOZ2JPY00tMkJ3ekpUURILbGI5VmZPVzdoSEU"
     }
@@ -6380,7 +6382,7 @@
       "title": "CLICK MY FACE"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-14T20:30:00Z",
+      "scheduledStartTime": "2024-05-14T21:00:00Z",
       "activeLiveChatId": "Cg0KC3NfYnZ4MXFWODgwKicKGFVDWklGcGgxYll5R3htRmtrTk5MQUtkQRILc19idngxcVY4ODA"
     }
   },
@@ -6623,18 +6625,6 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC3YwQU9MUFFmeDFvKicKGFVDY1BjLTVPckxialZCZ1EtemlFV1BTURILdjBBT0xQUWZ4MW8"
-    }
-  },
-  "v5KDvMcHQUo": {
-    "snippet": {
-      "publishedAt": "2024-05-14T17:49:31Z",
-      "channelId": "UCTFCSCPvqjXEs3zq91aeOVg",
-      "title": "It's just a game"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-14T17:59:15Z",
-      "scheduledStartTime": "2024-05-14T18:00:00Z",
-      "activeLiveChatId": "Cg0KC3Y1S0R2TWNIUVVvKicKGFVDVEZDU0NQdnFqWEVzM3pxOTFhZU9WZxILdjVLRHZNY0hRVW8"
     }
   },
   "v6Jir3yKSvQ": {
