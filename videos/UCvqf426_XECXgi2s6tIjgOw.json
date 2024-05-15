@@ -2166,15 +2166,16 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-15T15:02:25Z",
-      "scheduledStartTime": "2024-05-15T15:00:00Z",
-      "activeLiveChatId": "Cg0KCzhQelhjRDExV2hjKicKGFVDdnFmNDI2X1hFQ1hnaTJzNnRJamdPdxILOFB6WGNEMTFXaGM"
+      "actualEndTime": "2024-05-15T17:02:57Z",
+      "scheduledStartTime": "2024-05-15T15:00:00Z"
     }
   },
   "qTB3qzU4zfs": {
     "snippet": {
       "publishedAt": "2024-05-15T15:03:35Z",
       "channelId": "UCvqf426_XECXgi2s6tIjgOw",
-      "title": "Minecraft Permadeath Time! Let's relax and hang out!\u26cf\ufe0f\ud83e\udd0d #shorts #shortslive #shortsfeed"
+      "title": "Minecraft Permadeath Time! Let's relax and hang out!\u26cf\ufe0f\ud83e\udd0d #shorts #shortslive #shortsfeed",
+      "private": true
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-15T15:07:03Z",
