@@ -375,6 +375,7 @@
       "title": "\u3010Resident Evil 5\u3011 Romeo, I mean Miguelito, save meeee~"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-15T03:04:01Z",
       "scheduledStartTime": "2024-05-15T03:00:53Z",
       "activeLiveChatId": "Cg0KCzJIeC1SZERWcXNnKicKGFVDS2FiWC1GbmFCenRjeG1nZXgyLWZZQRILMkh4LVJkRFZxc2c"
     }
@@ -1750,6 +1751,7 @@
       "title": "\u3010Resident Evil 5\u3011 Boulder Punching Time!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-15T03:03:25Z",
       "scheduledStartTime": "2024-05-15T03:00:00Z",
       "activeLiveChatId": "Cg0KC0ZadTdNUzhDNlprKicKGFVDVDQxV25RWTNPMkY3T2JpMWhoUE95QRILRlp1N01TOEM2Wms"
     }
@@ -2932,18 +2934,6 @@
       "activeLiveChatId": "Cg0KC1BDamE0T3lzcmdNKicKGFVDbGNNVDlWOWl1N3hwaGtIVkhnbEhUZxILUENqYTRPeXNyZ00"
     }
   },
-  "PHGPykhWKgU": {
-    "snippet": {
-      "publishedAt": "2024-05-14T15:22:23Z",
-      "channelId": "UCchGYP5t5Vz48UVxNOifk-Q",
-      "title": "\u3010IT TAKES TWO P.3\u3011paws in paws!! w/ @MiunaUsako"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-15T01:02:11Z",
-      "scheduledStartTime": "2024-05-15T01:01:58Z",
-      "activeLiveChatId": "Cg0KC1BIR1B5a2hXS2dVKicKGFVDY2hHWVA1dDVWejQ4VVZ4Tk9pZmstURILUEhHUHlraFdLZ1U"
-    }
-  },
   "PIDxy5CKmqA": {
     "snippet": {
       "publishedAt": "2023-10-04T15:44:13Z",
@@ -3168,6 +3158,7 @@
       "title": "\u663c\u306b\u6d3b\u52d5\u3092\u3057\u3066\u3044\u3066\u3048\u3089\u3044\u3010\u306b\u3058\u3055\u3093\u3058\u6240\u5c5e\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-15T03:02:23Z",
       "scheduledStartTime": "2024-05-15T03:00:00Z",
       "activeLiveChatId": "Cg0KC1IxUXVTVWdRY2VRKicKGFVDdExmQV9xVXFDSnRqWEpNMlpSX2tlZxILUjFRdVNVZ1FjZVE"
     }
@@ -3977,20 +3968,9 @@
       "title": "\u3010ZZZ FIRST TIME\u3011\"AMPLIFYING TEST\" WAT DO THAT MEAN"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-15T03:03:37Z",
       "scheduledStartTime": "2024-05-15T03:00:00Z",
       "activeLiveChatId": "Cg0KC1hlT2gyNVlkc2RNKicKGFVDWVhfaUdyaEJuRnQwZHlYd1NpN1U0URILWGVPaDI1WWRzZE0"
-    }
-  },
-  "Xgay6ZM_92o": {
-    "snippet": {
-      "publishedAt": "2024-05-12T21:45:22Z",
-      "channelId": "UCTNpwWyoLgeJ-tsxWq7ucvw",
-      "title": "\u3010TECH TUESDAY\u3011TECH IS ON FIRE\u3010VyVid | Eva Ananova \u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-15T01:00:09Z",
-      "scheduledStartTime": "2024-05-15T01:00:00Z",
-      "activeLiveChatId": "Cg0KC1hnYXk2Wk1fOTJvKicKGFVDVE5wd1d5b0xnZUotdHN4V3E3dWN2dxILWGdheTZaTV85Mm8"
     }
   },
   "XmWz5eqcTYY": {
@@ -6172,6 +6152,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-15T23:00:00Z",
       "activeLiveChatId": "Cg0KC3NfRmRwTVhWbU0wKicKGFVDcW1TWWtYTHdzTDB6RWFyNUdvb1lrZxILc19GZHBNWFZtTTA"
+    }
+  },
+  "sayu": {
+    "snippet": {
+      "channelId": "sayu",
+      "title": "ZZZ FIRST TIME TESTING!? WILL IT WIN ME OVER FINALLY?\u2503!website !merch",
+      "channelTitle": "Sayu"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-15T03:03:35Z",
+      "twitch": true
     }
   },
   "sfWhmTFYS2I": {
