@@ -1147,7 +1147,9 @@
       "title": "\u3010Superchat Catchup\u3011Superchat Mode!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-15T02:01:00Z"
+      "actualStartTime": "2024-05-15T02:07:12Z",
+      "scheduledStartTime": "2024-05-15T02:01:00Z",
+      "activeLiveChatId": "Cg0KCzl0VEhEVG9seVJzKicKGFVDbWJzOFQ2TVdxVUhQMXRJUXZTZ0tyZxILOXRUSERUb2x5UnM"
     }
   },
   "A4XX9pHXFSU": {
@@ -4615,6 +4617,7 @@
       "title": "\u3010 LIVE \ud83d\udd34 3DIO Maid RP ASMR\u3011Your Every Wish Is My Command\u3010Alias Anono | V4Mirai | ENVtuber\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-15T02:07:45Z",
       "scheduledStartTime": "2024-05-15T02:00:00Z",
       "activeLiveChatId": "Cg0KC2RBeEU5Y0J5RW1NKicKGFVDRVk5Q25TSDBuMFFLbVkyUS1PSDdadxILZEF4RTljQnlFbU0"
     }
@@ -4770,18 +4773,6 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC2ZFY2dfNFlxNDJZKicKGFVDVi05ZGd0VlhIbXF2elk5cWR2b0dZQRILZkVjZ180WXE0Mlk"
-    }
-  },
-  "fXFZIMTiJUo": {
-    "snippet": {
-      "publishedAt": "2024-05-12T15:48:55Z",
-      "channelId": "UCHVYd2Ftek5HiegRjt2X92g",
-      "title": "\u3010Street Fighter  6\u3011Time to beat people up!\u3010Yuuki Ame\u30fbbondlive EN\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-15T00:00:44Z",
-      "scheduledStartTime": "2024-05-15T00:00:00Z",
-      "activeLiveChatId": "Cg0KC2ZYRlpJTVRpSlVvKicKGFVDSFZZZDJGdGVrNUhpZWdSanQyWDkyZxILZlhGWklNVGlKVW8"
     }
   },
   "fdka1BSqnXY": {
@@ -5861,6 +5852,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-19T02:00:00Z",
       "activeLiveChatId": "Cg0KC3BENW4zc2FLSGxRKicKGFVDb0F3M1NNTF8wOWRGLTd5aFFVOHdGURILcEQ1bjNzYUtIbFE"
+    }
+  },
+  "pTX50JlkT1M": {
+    "snippet": {
+      "publishedAt": "2024-05-15T02:03:24Z",
+      "channelId": "UCPltQXIgQaD5mVkAIrO_dSA",
+      "title": "\u300e Pummel Party\u300fFIRST CELANIS COLLAB @AudicaSevens @DeltaLarc @BaalArland @LaurenRadios"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-16T15:00:00Z",
+      "activeLiveChatId": "Cg0KC3BUWDUwSmxrVDFNKicKGFVDUGx0UVhJZ1FhRDVtVmtBSXJPX2RTQRILcFRYNTBKbGtUMU0"
     }
   },
   "paXSHfUvX1g": {
