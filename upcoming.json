@@ -5529,18 +5529,6 @@
       "activeLiveChatId": "Cg0KC2xydm9FbUZfZDkwKicKGFVDMWVYX01Wck4wRUJLZHBrbjliLWpodxILbHJ2b0VtRl9kOTA"
     }
   },
-  "m013KWrVy0o": {
-    "snippet": {
-      "publishedAt": "2024-05-13T02:12:10Z",
-      "channelId": "UCQ3s_kQYf3PuqOKu90HrIqw",
-      "title": "\u3010OW2\u3011We're on the cusp!!! RANKED\u3010globie 2nd Gen - Equinnox\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-15T16:01:00Z",
-      "scheduledStartTime": "2024-05-15T16:00:00Z",
-      "activeLiveChatId": "Cg0KC20wMTNLV3JWeTBvKicKGFVDUTNzX2tRWWYzUHVxT0t1OTBIcklxdxILbTAxM0tXclZ5MG8"
-    }
-  },
   "m14GxKNy_Mc": {
     "snippet": {
       "publishedAt": "2024-03-10T14:01:50Z",
@@ -6394,6 +6382,18 @@
       "activeLiveChatId": "Cg0KC3RoS21BUHN5QVBFKicKGFVDY2hHWVA1dDVWejQ4VVZ4Tk9pZmstURILdGhLbUFQc3lBUEU"
     }
   },
+  "tjJWLYNhB8s": {
+    "snippet": {
+      "publishedAt": "2024-05-15T18:51:52Z",
+      "channelId": "UCvqf426_XECXgi2s6tIjgOw",
+      "title": "What Was I Made For? - Billie Eilish | First Cover by Spectra Libitina"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-18T18:00:00Z",
+      "activeLiveChatId": "Cg0KC3RqSldMWU5oQjhzKicKGFVDdnFmNDI2X1hFQ1hnaTJzNnRJamdPdxILdGpKV0xZTmhCOHM",
+      "premiere": true
+    }
+  },
   "tlOwyu9xNDw": {
     "snippet": {
       "publishedAt": "2024-05-11T04:43:04Z",
@@ -6888,7 +6888,7 @@
       "title": "Punching With Hatsune Miku IN 3D [Fit Boxing]"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-16T00:00:00Z",
+      "scheduledStartTime": "2024-05-16T00:30:00Z",
       "activeLiveChatId": "Cg0KC3p3V3JISlBlTzJrKicKGFVDdTFJTnplZnczUjdNOS0zUUVIWW1NURILendXckhKUGVPMms"
     }
   }
