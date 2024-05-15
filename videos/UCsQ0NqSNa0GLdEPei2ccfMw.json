@@ -2389,8 +2389,19 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-15T09:42:20Z",
-      "scheduledStartTime": "2024-05-15T09:45:00Z",
-      "activeLiveChatId": "Cg0KC2xrRmZRUV8xWU1FKicKGFVDc1EwTnFTTmEwR0xkRVBlaTJjY2ZNdxILbGtGZlFRXzFZTUU"
+      "actualEndTime": "2024-05-15T10:45:47Z",
+      "scheduledStartTime": "2024-05-15T09:45:00Z"
+    }
+  },
+  "N8lUhk-rJQk": {
+    "snippet": {
+      "publishedAt": "2024-05-15T10:46:27Z",
+      "channelId": "UCsQ0NqSNa0GLdEPei2ccfMw",
+      "title": "\u3010BUNNY GARDEN\u3011Shriousa takeover PT2\u3010VOLs\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-15T14:00:00Z",
+      "activeLiveChatId": "Cg0KC044bFVoay1ySlFrKicKGFVDc1EwTnFTTmEwR0xkRVBlaTJjY2ZNdxILTjhsVWhrLXJKUWs"
     }
   }
 }
