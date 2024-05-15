@@ -21,17 +21,6 @@
       "activeLiveChatId": "Cg0KCy00VDRvVHM5NDNBKicKGFVDMk5lNmREY0Z4bk0yaENCTGlpM0lVZxILLTRUNG9Uczk0M0E"
     }
   },
-  "-4W8xH-AuAA": {
-    "snippet": {
-      "publishedAt": "2024-02-12T09:31:27Z",
-      "channelId": "UC99iAcajhltPg-TUStqg8dw",
-      "title": "Angy's Streaming Schedule!\u3010Offline Chat\u3011\ud83d\udc51\ud83d\udca2"
-    },
-    "liveStreamingDetails": {
-      "scheduledStartTime": "2024-12-31T16:00:00Z",
-      "activeLiveChatId": "Cg0KCy00Vzh4SC1BdUFBKicKGFVDOTlpQWNhamhsdFBnLVRVU3RxZzhkdxILLTRXOHhILUF1QUE"
-    }
-  },
   "-5WYX9JJCp4": {
     "snippet": {
       "publishedAt": "2024-02-29T14:03:19Z",
@@ -1110,6 +1099,7 @@
       "title": "\u3010SOMA\u3011This Should be the End - First Horror Game in 10 Years\u3010globie 2nd Gen - Equinnox\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-15T14:58:02Z",
       "scheduledStartTime": "2024-05-15T15:00:00Z",
       "activeLiveChatId": "Cg0KCzlJVHBDTE1EaHl3KicKGFVDRkhkRUFIUGJGVWpnSjFSYU9fQXc2dxILOUlUcENMTURoeXc"
     }
@@ -1253,18 +1243,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-16T16:00:00Z",
       "activeLiveChatId": "Cg0KC0FMcHA0bTIwSEFvKicKGFVDc3d2ZDZfWVdtZDZyaVJrLThvVC1zQRILQUxwcDRtMjBIQW8"
-    }
-  },
-  "ANZRDJVOFgU": {
-    "snippet": {
-      "publishedAt": "2024-05-15T10:54:23Z",
-      "channelId": "UC99iAcajhltPg-TUStqg8dw",
-      "title": "\u3010SEKIRO: SHADOWS DIE TWICE\u3011Part 2: Done with Lady Butterfly!\u3010VOLs\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-15T13:03:02Z",
-      "scheduledStartTime": "2024-05-15T13:00:00Z",
-      "activeLiveChatId": "Cg0KC0FOWlJESlZPRmdVKicKGFVDOTlpQWNhamhsdFBnLVRVU3RxZzhkdxILQU5aUkRKVk9GZ1U"
     }
   },
   "AO11P2Ik2Gk": {
@@ -1975,7 +1953,7 @@
     "snippet": {
       "publishedAt": "2024-04-16T12:33:17Z",
       "channelId": "UC1JnagrqjTzERqfpNtRfx1A",
-      "title": "\u3010FREE CHAT\u3011May 6th - May 12th\u3010Yumi The Witch | V4Mirai | ENVtuber\u3011"
+      "title": "\u3010FREE CHAT\u3011May 13th - May 19th\u3010Yumi The Witch | V4Mirai | ENVtuber\u3011"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-01-01T11:35:00Z",
