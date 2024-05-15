@@ -749,8 +749,20 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-15T01:56:07Z",
-      "scheduledStartTime": "2024-05-15T02:00:00Z",
-      "activeLiveChatId": "Cg0KC3R6bkNTMm12ZU1BKicKGFVDYXNadnNrRkNfU0hzNkxYeDJfMjZjURILdHpuQ1MybXZlTUE"
+      "actualEndTime": "2024-05-15T04:12:31Z",
+      "scheduledStartTime": "2024-05-15T02:00:00Z"
+    }
+  },
+  "Uh0Ht0g9D88": {
+    "snippet": {
+      "publishedAt": "2024-05-14T04:26:49Z",
+      "channelId": "UCasZvskFC_SHs6LXx2_26cQ",
+      "title": "VERTICAL\u300aROCK LIFE\u300bMY NEW CAREER PATH POG\u3010Sera Kesera | bondliveEN\u3011#vtuber #shorts"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-15T01:56:05Z",
+      "actualEndTime": "2024-05-15T04:12:38Z",
+      "scheduledStartTime": "2024-05-15T02:00:00Z"
     }
   }
 }
