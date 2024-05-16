@@ -237,6 +237,17 @@
       "activeLiveChatId": "Cg0KCzExMTJHNVdRdVY0KicKGFVDd2FTOF9TN2tNaUtBM2l6bFRXSGJRZxILMTExMkc1V1F1VjQ"
     }
   },
+  "13WM8QhQDaE": {
+    "snippet": {
+      "publishedAt": "2024-05-16T22:31:45Z",
+      "channelId": "UCkJ64W0J7R0zCSAsZfRIhVQ",
+      "title": "\u3010#WRESTLETUBER2024\u3011 To be the man, you gotta CREATE the man! WOOOOO!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-17T23:00:00Z",
+      "activeLiveChatId": "Cg0KCzEzV004UWhRRGFFKicKGFVDa0o2NFcwSjdSMHpDU0FzWmZSSWhWURILMTNXTThRaFFEYUU"
+    }
+  },
   "15A2EuJheYw": {
     "snippet": {
       "publishedAt": "2024-05-14T15:04:05Z",
@@ -582,6 +593,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-17T01:00:00Z",
       "activeLiveChatId": "Cg0KCzRHVWVKUTZnemhFKicKGFVDblloSWs5YUdFeF9iSWdoZVZqczUzdxILNEdVZUpRNmd6aEU"
+    }
+  },
+  "4HwoJdFm4vo": {
+    "snippet": {
+      "publishedAt": "2024-05-12T14:29:25Z",
+      "channelId": "UC1sm9H2orvynDajcE4jrYug",
+      "title": "\u3010STAR SPRINT!!!\u3011WELCOME TO THE RACE TRACK\u3010globie | Kiri Kilovolt\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-17T18:00:00Z",
+      "activeLiveChatId": "Cg0KCzRId29KZEZtNHZvKicKGFVDMXNtOUgyb3J2eW5EYWpjRTRqcll1ZxILNEh3b0pkRm00dm8"
     }
   },
   "4cGQMBLx8Fw": {
@@ -1262,7 +1284,8 @@
       "title": "\u3010 RE7 BIOHAZARD #2 \u3011 EL VIEJO ES INMORTAL!? \u3010 Akugaki Koa / \u30a2\u30af\u30ac\u30ad\u30b3\u30a2 \u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-16T23:00:00Z",
+      "actualStartTime": "2024-05-16T22:41:05Z",
+      "scheduledStartTime": "2024-05-16T22:45:00Z",
       "activeLiveChatId": "Cg0KC0JlcWlPd0t5V05ZKicKGFVDNFI2ZGRoQkpwMmJqUUhWTnhnTlFTQRILQmVxaU93S3lXTlk"
     }
   },
@@ -5068,6 +5091,7 @@
       "title": "\u3010FIRST TIME WARHAMMER 40K: SPACE MARINE\u3011I AM CHAOS!\u3010EIEN Project\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-16T22:38:40Z",
       "scheduledStartTime": "2024-05-16T22:30:00Z",
       "activeLiveChatId": "Cg0KC2thSXE5OGNlem5JKicKGFVDYnZSNDZTUXBPUFJLTXJWVDhOb0pUQRILa2FJcTk4Y2V6bkk"
     }
@@ -5263,17 +5287,6 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC21XNDZ1ZHJxQl9ZKicKGFVDQUZieUVqOXBlc0N4bzY5b3pFaGk5URILbVc0NnVkcnFCX1k"
-    }
-  },
-  "matarakan": {
-    "snippet": {
-      "channelId": "matarakan",
-      "title": "HALO 2 FIRST TIME WITH  @BRICKY !schedule !mint !podcast",
-      "channelTitle": "MataraKan"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-16T17:10:08Z",
-      "twitch": true
     }
   },
   "miyuyus": {
@@ -5828,7 +5841,7 @@
   "star2d2": {
     "snippet": {
       "channelId": "star2d2",
-      "title": "\u2b50MARVEL RIVALS BC IM DEFINITELY NOT ADDICTED\u2b50 | !youtube !socials !vite !merch",
+      "title": "\u2b50Just chilling \u2b50 | !youtube !socials !vite !merch",
       "channelTitle": "star2d2"
     },
     "liveStreamingDetails": {
