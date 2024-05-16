@@ -1981,6 +1981,17 @@
       "activeLiveChatId": "Cg0KC0hhSXZ1S1FBTjR3KicKGFVDS0tINjRpSFpIMk85TmRsc09RRDJRZxILSGFJdnVLUUFONHc"
     }
   },
+  "HbCdY-0HO5s": {
+    "snippet": {
+      "publishedAt": "2024-05-16T23:10:28Z",
+      "channelId": "UC9SWIzHP07PL1y6cU8wkDwA",
+      "title": "\u3010Zatsu\u3011maybe sing maybe yap but yes yap\u3010Yume+ | Mero Umiko\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-17T00:00:00Z",
+      "activeLiveChatId": "Cg0KC0hiQ2RZLTBITzVzKicKGFVDOVNXSXpIUDA3UEwxeTZjVTh3a0R3QRILSGJDZFktMEhPNXM"
+    }
+  },
   "HbYkNEAAMSc": {
     "snippet": {
       "publishedAt": "2024-05-16T21:02:54Z",
@@ -2588,6 +2599,7 @@
       "title": "\u3010HADES II\u3011 FAREWELL TO ALL THE EARTHLY REMAINS (THATS ME) \u3010NIJISANJI EN | Elira Pendora\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-16T23:05:23Z",
       "scheduledStartTime": "2024-05-16T23:00:00Z",
       "activeLiveChatId": "Cg0KC01NOENQaTE2WEo0KicKGFVDSWVTVVRPVGtGOUhzN3EzU0djTy1PdxILTU04Q1BpMTZYSjQ"
     }
@@ -3776,17 +3788,6 @@
       "activeLiveChatId": "Cg0KC1hTM1B0QzByWHMwKicKGFVDQzRoakpwX010dHdmWmN1V2MwT3BWURILWFMzUHRDMHJYczA"
     }
   },
-  "XSia4HCFMxs": {
-    "snippet": {
-      "publishedAt": "2024-05-16T18:20:37Z",
-      "channelId": "UC9SWIzHP07PL1y6cU8wkDwA",
-      "title": "\u3010Study With Me\u3011I'm Stressed!\u3010Yume+ | Mero Umiko\u3011"
-    },
-    "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-17T00:00:00Z",
-      "activeLiveChatId": "Cg0KC1hTaWE0SENGTXhzKicKGFVDOVNXSXpIUDA3UEwxeTZjVTh3a0R3QRILWFNpYTRIQ0ZNeHM"
-    }
-  },
   "XVFZBpTRkMw": {
     "snippet": {
       "publishedAt": "2024-05-14T20:13:55Z",
@@ -4069,6 +4070,17 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-16T22:02:34Z",
+      "twitch": true
+    }
+  },
+  "aresmythos": {
+    "snippet": {
+      "channelId": "aresmythos",
+      "title": "\u2694\ufe0f Chatting --> Super Cool Epic Gigachad Gaming Time! \u2694\ufe0f | !gg !merch",
+      "channelTitle": "AresMythos"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-16T23:07:57Z",
       "twitch": true
     }
   },
@@ -4846,6 +4858,17 @@
       "activeLiveChatId": "Cg0KC2hyQ25iVkVpU2tRKicKGFVDRmdYV1pPVVpBMm9ZSE5yNnFEbXNUURILaHJDbmJWRWlTa1E"
     }
   },
+  "hunikinn": {
+    "snippet": {
+      "channelId": "hunikinn",
+      "title": "she goes YAP YAP YAP YAP YAP  \u0aee\u208d \u00b4\u02f6\u2022 \u1d25 \u2022\u02f6` \u208e\u10d0  |  !merch !discord !twitter",
+      "channelTitle": "Hunikinn"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-16T23:05:20Z",
+      "twitch": true
+    }
+  },
   "hvbd782pD4w": {
     "snippet": {
       "publishedAt": "2024-05-07T14:54:05Z",
@@ -5076,7 +5099,7 @@
     "snippet": {
       "publishedAt": "2024-05-16T20:39:04Z",
       "channelId": "UCbvR46SQpOPRKMrVT8NoJTA",
-      "title": "\u3010FIRST TIME WARHAMMER 40K: SPACE MARINE\u3011I AM CHAOS!\u3010EIEN Project\u3011"
+      "title": "\u3010PSYCHOPOMP\u3011Descending into the depths!\u3010EIEN Project\u3011"
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-16T22:38:40Z",
@@ -5552,6 +5575,7 @@
       "title": "\u3010Minecraft\u3011 Playing Until I Rage Quit\u3010VICTORIA VALERIE | SPECIALITE\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-16T23:10:41Z",
       "scheduledStartTime": "2024-05-16T23:15:00Z",
       "activeLiveChatId": "Cg0KC3Bnc3kxWnNTU1I4KicKGFVDbzl3QnowRmtKd2lMZWFnQjh0V1hDZxILcGdzeTFac1NTUjg"
     }
