@@ -57,7 +57,7 @@
     "snippet": {
       "publishedAt": "2024-05-13T22:36:07Z",
       "channelId": "UCKJexadCeNo3lu0U20skmNg",
-      "title": "[help me watchalong] reviewing one piece to prove that its boring"
+      "title": "[watchalong] reviewing one piece to prove that its boring"
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-16T00:03:24Z",
@@ -181,6 +181,7 @@
       "title": "\u3010DETROIT BECOME HUMAN\u3011Connor's parts are literally the best \u3010bondlive EN\u3011#shorts"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-16T01:00:43Z",
       "scheduledStartTime": "2024-05-16T01:00:00Z",
       "activeLiveChatId": "Cg0KCzBUcFd0dEFzLXJRKicKGFVDWk8wQ2lySGVXWVRVTWwtN3pQRzZZZxILMFRwV3R0QXMtclE"
     }
@@ -590,6 +591,7 @@
       "title": "\u3010HADES II\u3011Death to Chronos."
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-16T01:00:58Z",
       "scheduledStartTime": "2024-05-16T01:00:00Z",
       "activeLiveChatId": "Cg0KCzQ3VldDbWVCVEhVKicKGFVDTGRrY1R0NXZPZkdpX215dkstaU8wZxILNDdWV0NtZUJUSFU"
     }
@@ -1506,6 +1508,7 @@
       "title": "\u3010FFXIV\u3011 Starting Fresh~!! \u3010Yume+ | Mero Umiko\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-16T01:00:34Z",
       "scheduledStartTime": "2024-05-16T01:00:00Z",
       "activeLiveChatId": "Cg0KC0QyVlRJd0VETWxBKicKGFVDOVNXSXpIUDA3UEwxeTZjVTh3a0R3QRILRDJWVEl3RURNbEE"
     }
@@ -2043,6 +2046,7 @@
       "title": "\u3010HADES\u3011Ai Think Its Hella Hot in Here ;)\u3010Ai Shinju\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-16T01:00:44Z",
       "scheduledStartTime": "2024-05-16T01:00:00Z",
       "activeLiveChatId": "Cg0KC0duUjNZMGN4eGY4KicKGFVDN1RDQ3R2ckV1OHFfUzVPdFJKaC1hURILR25SM1kwY3h4Zjg"
     }
@@ -2923,18 +2927,6 @@
       "actualStartTime": "2024-05-15T22:00:29Z",
       "scheduledStartTime": "2024-05-15T22:00:00Z",
       "activeLiveChatId": "Cg0KC09BcnJkdEJnMllBKicKGFVDT19hS0tZeG40dHZycVBqY1R6WjZFURILT0FycmR0QmcyWUE"
-    }
-  },
-  "OFSmt_kP5OI": {
-    "snippet": {
-      "publishedAt": "2024-05-15T04:58:27Z",
-      "channelId": "UChJ5FTsHOu72_5OVx0rvsvQ",
-      "title": "\u3010HONKAI: STAR RAIL\u3011AVENTURINEEE WAAAHHH\u3010NIJISANJI EN | Uki Violeta\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-15T20:59:30Z",
-      "scheduledStartTime": "2024-05-15T21:00:00Z",
-      "activeLiveChatId": "Cg0KC09GU210X2tQNU9JKicKGFVDaEo1RlRzSE91NzJfNU9WeDBydnN2URILT0ZTbXRfa1A1T0k"
     }
   },
   "OFXWsA7VMo4": {
@@ -3921,18 +3913,6 @@
       "activeLiveChatId": "Cg0KC1gwaEp0bm1CUzNNKicKGFVDOThpUk12UnFVeFJENkdQNE50UnNrdxILWDBoSnRubUJTM00"
     }
   },
-  "X1pFjft_7Lc": {
-    "snippet": {
-      "publishedAt": "2024-05-15T04:57:24Z",
-      "channelId": "UCu-J8uIXuLZh16gG-cT1naw",
-      "title": "\u3010STELLAR BLADE\u3011NOT EIDOS AGAIN [P4]"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-15T20:00:03Z",
-      "scheduledStartTime": "2024-05-15T20:00:00Z",
-      "activeLiveChatId": "Cg0KC1gxcEZqZnRfN0xjKicKGFVDdS1KOHVJWHVMWmgxNmdHLWNUMW5hdxILWDFwRmpmdF83TGM"
-    }
-  },
   "X58FvFWfae0": {
     "snippet": {
       "publishedAt": "2023-01-03T07:09:23Z",
@@ -4542,6 +4522,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-18T20:00:00Z",
       "activeLiveChatId": "Cg0KC2N3YWRUQW9wZmpjKicKGFVDX2xVeUhUOWd5R2ZmRDE1b05hRlJndxILY3dhZFRBb3BmamM"
+    }
+  },
+  "cwstal": {
+    "snippet": {
+      "channelId": "cwstal",
+      "title": "[!DROPS] hihi\u2506\u029a help fund my 2.0 \u2661 \u025e",
+      "channelTitle": "cwstal"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-16T01:00:53Z",
+      "twitch": true
     }
   },
   "cyLd18I29Ko": {
@@ -6564,20 +6555,9 @@
       "title": "1 Hour to Know Miuna Usako from Pixel Link \u3010MIKI HITSUGI | SPECIALITE\u3011#mik1tv"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-16T00:55:28Z",
       "scheduledStartTime": "2024-05-16T01:00:00Z",
       "activeLiveChatId": "Cg0KC3hNaGo2WWxpRF84KicKGFVDSHQ0RjMtLUhxMHNOWFA2REVkbFNtZxILeE1oajZZbGlEXzg"
-    }
-  },
-  "xQbmiAo6_qU": {
-    "snippet": {
-      "publishedAt": "2024-05-15T07:35:30Z",
-      "channelId": "UCmbs8T6MWqUHP1tIQvSgKrg",
-      "title": "\u3010Cover\u3011My War / \u50d5\u306e\u6226\u4e89 - Ouro Kronii"
-    },
-    "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-16T01:00:00Z",
-      "activeLiveChatId": "Cg0KC3hRYm1pQW82X3FVKicKGFVDbWJzOFQ2TVdxVUhQMXRJUXZTZ0tyZxILeFFibWlBbzZfcVU",
-      "premiere": true
     }
   },
   "xcdlTH2FZEo": {
@@ -6663,6 +6643,17 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC3lWUXJGazF0MzhRKicKGFVDUjZxaHNMcG42MldWeENCSzFka0xvdxILeVZRckZrMXQzOFE"
+    }
+  },
+  "yaXw89-d2Uw": {
+    "snippet": {
+      "publishedAt": "2024-05-16T00:52:05Z",
+      "channelId": "UC4WvIIAo89_AzGUh1AZ6Dkg",
+      "title": "\u3010YU-GI-OH!  Unboxing\u3011 OPENING CARD PACKS!! \u3010HANDCAM\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-16T16:00:00Z",
+      "activeLiveChatId": "Cg0KC3lhWHc4OS1kMlV3KicKGFVDNFd2SUlBbzg5X0F6R1VoMUFaNkRrZxILeWFYdzg5LWQyVXc"
     }
   },
   "yccysErpZXk": {
