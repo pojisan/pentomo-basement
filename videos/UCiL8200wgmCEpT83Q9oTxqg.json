@@ -418,7 +418,8 @@
     "snippet": {
       "publishedAt": "2024-05-05T20:22:11Z",
       "channelId": "UCiL8200wgmCEpT83Q9oTxqg",
-      "title": "Content Warning with Umi, Bri and Lida"
+      "title": "Content Warning with Umi, Bri and Lida",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-12T00:00:00Z",
@@ -447,6 +448,17 @@
       "actualStartTime": "2024-05-11T00:30:40Z",
       "actualEndTime": "2024-05-11T01:44:12Z",
       "scheduledStartTime": "2024-05-11T00:30:00Z"
+    }
+  },
+  "f7UjrarD3Ss": {
+    "snippet": {
+      "publishedAt": "2024-05-16T03:24:20Z",
+      "channelId": "UCiL8200wgmCEpT83Q9oTxqg",
+      "title": "New Model Debut, New Me \ud83e\udd74 and Punishment Wheel...\u3010PT 1\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-17T22:00:00Z",
+      "activeLiveChatId": "Cg0KC2Y3VWpyYXJEM1NzKicKGFVDaUw4MjAwd2dtQ0VwVDgzUTlvVHhxZxILZjdVanJhckQzU3M"
     }
   }
 }
