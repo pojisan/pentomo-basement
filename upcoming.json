@@ -2104,18 +2104,6 @@
       "activeLiveChatId": "Cg0KC0hHci1zdlBrejQwKicKGFVDOXhSN3VOMHg1YTZDSDNVb3BxN2N6QRILSEdyLXN2UGt6NDA"
     }
   },
-  "HLJj6lq8W5s": {
-    "snippet": {
-      "publishedAt": "2024-05-13T22:40:39Z",
-      "channelId": "UC4R6ddhBJp2bjQHVNxgNQSA",
-      "title": "\u3010 SHASHINGO \u3011 \u89b3\u5149\u3057\u306a\u304c\u3089\u65b0\u3057\u3044\u8a00\u8449\u3092\u899a\u3048\u3088\u3046\uff01 (EN/JP STREAM) \u3010 Akugaki Koa / \u30a2\u30af\u30ac\u30ad\u30b3\u30a2 \u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-15T22:55:56Z",
-      "scheduledStartTime": "2024-05-15T23:00:00Z",
-      "activeLiveChatId": "Cg0KC0hMSmo2bHE4VzVzKicKGFVDNFI2ZGRoQkpwMmJqUUhWTnhnTlFTQRILSExKajZscThXNXM"
-    }
-  },
   "HXYNBzRc5y4": {
     "snippet": {
       "publishedAt": "2024-03-15T23:34:42Z",
@@ -3098,6 +3086,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2026-01-01T03:00:00Z",
       "activeLiveChatId": "Cg0KC1FNUnNZWXh6SkI4KicKGFVDb0F3M1NNTF8wOWRGLTd5aFFVOHdGURILUU1Sc1lZeHpKQjg"
+    }
+  },
+  "QRE24diI2RQ": {
+    "snippet": {
+      "publishedAt": "2024-05-16T01:16:14Z",
+      "channelId": "UCM_Mb-ZC3jMg3p32jN6v4cA",
+      "title": "IRL Members-Only Guitar Stream \ud83c\udfb8"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-16T17:00:00Z",
+      "activeLiveChatId": "Cg0KC1FSRTI0ZGlJMlJRKicKGFVDTV9NYi1aQzNqTWczcDMyak42djRjQRILUVJFMjRkaUkyUlE"
     }
   },
   "QW4zMJgYw_E": {
@@ -5201,6 +5200,7 @@
       "title": "\u3010UNARCHIVED EMO Karaoke\u3011Kouromi-chan!?\u3010Kou Mariya | V4Mirai | ENVtuber\u3011#short #shortsfeed"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-16T01:15:55Z",
       "scheduledStartTime": "2024-05-16T01:00:00Z",
       "activeLiveChatId": "Cg0KC2pQOERYNEF6MUFZKicKGFVDcXlMMG9CMmpsLTVHcFNnLUdXWl9ndxILalA4RFg0QXoxQVk"
     }
@@ -5483,6 +5483,17 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC21XNDZ1ZHJxQl9ZKicKGFVDQUZieUVqOXBlc0N4bzY5b3pFaGk5URILbVc0NnVkcnFCX1k"
+    }
+  },
+  "mariya": {
+    "snippet": {
+      "channelId": "mariya",
+      "title": "\ud83d\udd34 EMO MAID KARAOKE   \u2022 !youtube",
+      "channelTitle": "Mariya"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-16T01:14:20Z",
+      "twitch": true
     }
   },
   "mfoHpYA39oc": {
