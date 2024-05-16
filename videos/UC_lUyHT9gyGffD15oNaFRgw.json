@@ -653,15 +653,16 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-16T12:00:04Z",
-      "scheduledStartTime": "2024-05-16T12:00:00Z",
-      "activeLiveChatId": "Cg0KCzhKeFh5NmpBYVFFKicKGFVDX2xVeUhUOWd5R2ZmRDE1b05hRlJndxILOEp4WHk2akFhUUU"
+      "actualEndTime": "2024-05-16T12:11:15Z",
+      "scheduledStartTime": "2024-05-16T12:00:00Z"
     }
   },
   "E4QOSv5Glmo": {
     "snippet": {
       "publishedAt": "2024-05-16T12:09:31Z",
       "channelId": "UC_lUyHT9gyGffD15oNaFRgw",
-      "title": "YOU, GET WORK DONE \u3010HANDCAM\u3011"
+      "title": "YOU, GET WORK DONE \u3010HANDCAM\u3011",
+      "private": true
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-16T12:09:44Z",
