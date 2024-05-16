@@ -396,7 +396,8 @@
     "snippet": {
       "publishedAt": "2024-03-10T12:20:05Z",
       "channelId": "UCaxiDe_TuMLXkwRMVLm5VwQ",
-      "title": "\u2726 WEEKLY SCHEDULE 15/04 - 21/04\u2727"
+      "title": "\u2726 WEEKLY SCHEDULE 15/04 - 21/04\u2727",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-03-09T13:00:00Z",
@@ -807,6 +808,17 @@
       "actualStartTime": "2024-05-15T10:01:12Z",
       "actualEndTime": "2024-05-15T12:10:48Z",
       "scheduledStartTime": "2024-05-15T10:00:00Z"
+    }
+  },
+  "cZJZIUesWkY": {
+    "snippet": {
+      "publishedAt": "2024-05-16T03:47:20Z",
+      "channelId": "UCaxiDe_TuMLXkwRMVLm5VwQ",
+      "title": "\u3010Minecraft\u3011Server update to 1.20.4 !!!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-16T05:00:00Z",
+      "activeLiveChatId": "Cg0KC2NaSlpJVWVzV2tZKicKGFVDYXhpRGVfVHVNTFhrd1JNVkxtNVZ3URILY1pKWklVZXNXa1k"
     }
   }
 }

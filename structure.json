@@ -353,6 +353,17 @@
         }
       }
     },
+    "Joshiko Productions": {
+      "Margo": {
+        "tv": "akiajimargo"
+      },
+      "Hiyori": {
+        "tv": "HiyorisInn"
+      },
+      "kyubalt": {
+        "tv": "kyubalt"
+      }
+    },
     "Kawa Entertainment": {
       "Kascade": {
         "Hunikin": {
@@ -398,6 +409,11 @@
       },
       "Kaylex": {
         "yt": "UCKabX-FnaBztcxmgex2-fYA"
+      }
+    },
+    "LIGHTMOTIF": {
+      "Xiulan": {
+        "tv": "xiulanlong"
       }
     },
     "LITMEDIA": {
@@ -446,7 +462,8 @@
     "M.Entertainment": {
       "MeloNyx": {
         "Andi": {
-          "yt": "UCYIzqbVP6FLZr4Kteo5gJrA"
+          "yt": "UCYIzqbVP6FLZr4Kteo5gJrA",
+          "tv": "enominya_andi"
         }
       }
     },
@@ -624,7 +641,7 @@
       }
     },
     "PixelLink": {
-      "PixelStart": {
+      "PixelStart+": {
         "Ragi": {
           "yt": "UCtuoyOZhnxJ12pE294FdH8Q"
         },
@@ -636,9 +653,20 @@
         },
         "Chiaki": {
           "yt": "UC-1_-jUu-lALdGn9-MdBJ4Q"
+        }
+      },
+      "Chronicle": {
+        "Chio": {
+          "yt": "UCJ4pvspwjnM-hSXqkoIuMGQ"
         },
-        "Nebi": {
-          "yt": "UC9nd7b17bvaWJvuZFxbC2tg"
+        "Kanna": {
+          "yt": "UClxj3GlGphZVgd1SLYhZKmg"
+        },
+        "Arisu": {
+          "yt": "UCiaAJfdkrwuDjWiQjYZWpXw"
+        },
+        "Daiya": {
+          "yt": "UCAxVoBLG2Bv1xgbYU_efsCg"
         }
       }
     },
@@ -960,72 +988,6 @@
         }
       }
     },
-    "V&U": {
-      "Symphoria": {
-        "Liora": {
-          "yt": "UCI8GiqiQhs_kZb_21YWXt5A"
-        },
-        "Lofi": {
-          "yt": "UCK4FZd60ttMhI30EOtE4aEQ"
-        },
-        "Kokone": {
-          "yt": "UCB-8nNthtuVIZniqXNyrhKQ"
-        }
-      },
-      "Solstice": {
-        "Amoria": {
-          "yt": "UCfW0f2J6o-_r3fmeWs3HF_A"
-        }
-      },
-      "Oracle": {
-        "Echo Lyne": {
-          "yt": "UCXIKBLg4fAVte7jDafWRRgQ"
-        },
-        "Suri": {
-          "yt": "UCPaNI2VUDc2L0CUXTJzto4A"
-        },
-        "Maeve": {
-          "yt": "UC9NNMwafy9quvNWafFukNDw"
-        },
-        "Cyon": {
-          "yt": "UCRlQzuVeYxTDPobPN1jaVkQ"
-        },
-        "Meeta": {
-          "yt": "UCpu_YSDy-0bfsypkaOeC-sA"
-        }
-      },
-      "HELL\u00f8 LAND": {
-        "DK": {
-          "yt": "UCQY5mpFtPyWJZHbjaxmHnzw"
-        },
-        "Spectra": {
-          "yt": "UCvqf426_XECXgi2s6tIjgOw"
-        },
-        "Zeli": {
-          "yt": "UCcAn8WXsoqw9x8DAkzYQNQQ"
-        },
-        "Misma": {
-          "yt": "UCXhRd4KkpzYsPm5hFTPVsqw"
-        }
-      },
-      "Triple A Club": {
-        "Cerenity": {
-          "yt": "UCH24asiIqsVUQlz8FvXJbcw"
-        },
-        "Rowa": {
-          "yt": "UCm6JMVKxg8PvJjl3F7J0tdQ"
-        },
-        "Mivi": {
-          "yt": "UCoWn6qkdxCSHvJElmgvzr1g"
-        },
-        "Ciccino": {
-          "yt": "UC_cxiOVYi9TH3iPvam9f5yA"
-        },
-        "Tomomi": {
-          "yt": "UCi427aW2rjzGjUlE27SqteQ"
-        }
-      }
-    },
     "V-Dere": {
       "V-Dere Official": {
         "yt": "UCLEXfayxeCKe0FXObRjyQhQ"
@@ -1044,6 +1006,11 @@
         "Elia": {
           "yt": "UCO4zMaYBEzdYISfeoO6ip_Q"
         }
+      }
+    },
+    "VFleet Project": {
+      "Tarawa": {
+        "tv": "tarawavt"
       }
     },
     "V4Mirai": {
@@ -1176,6 +1143,72 @@
       "Sora": {
         "tv": "vthoshisorano",
         "yt": "UCEMGYP7qDEy807gJESz4TzA"
+      }
+    },
+    "V&U": {
+      "Symphoria": {
+        "Liora": {
+          "yt": "UCI8GiqiQhs_kZb_21YWXt5A"
+        },
+        "Lofi": {
+          "yt": "UCK4FZd60ttMhI30EOtE4aEQ"
+        },
+        "Kokone": {
+          "yt": "UCB-8nNthtuVIZniqXNyrhKQ"
+        }
+      },
+      "Solstice": {
+        "Amoria": {
+          "yt": "UCfW0f2J6o-_r3fmeWs3HF_A"
+        }
+      },
+      "Oracle": {
+        "Echo Lyne": {
+          "yt": "UCXIKBLg4fAVte7jDafWRRgQ"
+        },
+        "Suri": {
+          "yt": "UCPaNI2VUDc2L0CUXTJzto4A"
+        },
+        "Maeve": {
+          "yt": "UC9NNMwafy9quvNWafFukNDw"
+        },
+        "Cyon": {
+          "yt": "UCRlQzuVeYxTDPobPN1jaVkQ"
+        },
+        "Meeta": {
+          "yt": "UCpu_YSDy-0bfsypkaOeC-sA"
+        }
+      },
+      "HELL\u00f8 LAND": {
+        "DK": {
+          "yt": "UCQY5mpFtPyWJZHbjaxmHnzw"
+        },
+        "Spectra": {
+          "yt": "UCvqf426_XECXgi2s6tIjgOw"
+        },
+        "Zeli": {
+          "yt": "UCcAn8WXsoqw9x8DAkzYQNQQ"
+        },
+        "Misma": {
+          "yt": "UCXhRd4KkpzYsPm5hFTPVsqw"
+        }
+      },
+      "Triple A Club": {
+        "Cerenity": {
+          "yt": "UCH24asiIqsVUQlz8FvXJbcw"
+        },
+        "Rowa": {
+          "yt": "UCm6JMVKxg8PvJjl3F7J0tdQ"
+        },
+        "Mivi": {
+          "yt": "UCoWn6qkdxCSHvJElmgvzr1g"
+        },
+        "Ciccino": {
+          "yt": "UC_cxiOVYi9TH3iPvam9f5yA"
+        },
+        "Tomomi": {
+          "yt": "UCi427aW2rjzGjUlE27SqteQ"
+        }
       }
     },
     "Vyvid": {
@@ -1450,6 +1483,11 @@
       }
     },
     "PixelLink": {
+      "PixelStart+": {
+        "Nebi": {
+          "yt": "UC9nd7b17bvaWJvuZFxbC2tg"
+        }
+      },
       "Friends": {
         "Ayu": {
           "yt": "UC1ogmLVdMrU4HuLBUYtzjVQ"
@@ -1502,7 +1540,8 @@
           "yt": "UCeGendL8CO5RkffB6IFwHow"
         },
         "Hada": {
-          "yt": "UCLjx3lqIkYkPCBJop8czJ2A"
+          "yt": "UCLjx3lqIkYkPCBJop8czJ2A",
+          "tv": "banhada2434"
         }
       },
       "Edengumi": {
