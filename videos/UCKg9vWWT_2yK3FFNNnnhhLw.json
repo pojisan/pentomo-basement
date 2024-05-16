@@ -61,6 +61,7 @@
       "title": "\u3010Ily\u3011Whatever \u2726 Topic | Sub topic"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-16T13:48:27Z",
       "activeLiveChatId": "Cg0KC3pBVTZQNjBSeGpJKicKGFVDS2c5dldXVF8yeUszRkZOTm5uaGhMdxILekFVNlA2MFJ4akk"
     }
   },
@@ -1154,6 +1155,7 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-16T12:58:31Z",
+      "actualEndTime": "2024-05-16T13:47:30Z",
       "scheduledStartTime": "2024-05-16T12:58:11Z",
       "activeLiveChatId": "Cg0KC1NrcVBfTVlDZ3h3KicKGFVDS2c5dldXVF8yeUszRkZOTm5uaGhMdxILU2txUF9NWUNneHc"
     }
