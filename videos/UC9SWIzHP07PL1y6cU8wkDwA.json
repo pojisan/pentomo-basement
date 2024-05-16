@@ -634,11 +634,23 @@
     "snippet": {
       "publishedAt": "2024-05-16T17:41:32Z",
       "channelId": "UC9SWIzHP07PL1y6cU8wkDwA",
-      "title": "\u3010Karaoke\u3011Jelly Jams! But make it scuff \u3010Yume+ | Mero Umiko\u3011"
+      "title": "\u3010Karaoke\u3011Jelly Jams! But make it scuff \u3010Yume+ | Mero Umiko\u3011",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-17T00:00:00Z",
       "activeLiveChatId": "Cg0KC3drQ3VzZjk2QllBKicKGFVDOVNXSXpIUDA3UEwxeTZjVTh3a0R3QRILd2tDdXNmOTZCWUE"
+    }
+  },
+  "XSia4HCFMxs": {
+    "snippet": {
+      "publishedAt": "2024-05-16T18:20:37Z",
+      "channelId": "UC9SWIzHP07PL1y6cU8wkDwA",
+      "title": "\u3010Study With Me\u3011I'm Stressed!\u3010Yume+ | Mero Umiko\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-17T00:00:00Z",
+      "activeLiveChatId": "Cg0KC1hTaWE0SENGTXhzKicKGFVDOVNXSXpIUDA3UEwxeTZjVTh3a0R3QRILWFNpYTRIQ0ZNeHM"
     }
   }
 }
