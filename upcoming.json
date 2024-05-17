@@ -199,7 +199,7 @@
       "title": "\u3010#WRESTLETUBER2024\u3011 To be the man, you gotta CREATE the man! WOOOOO!"
     },
     "liveStreamingDetails": {
-      "actualStartTime": "2024-05-17T23:01:29Z",
+      "actualStartTime": "2024-05-17T23:01:46Z",
       "scheduledStartTime": "2024-05-17T23:00:00Z",
       "activeLiveChatId": "Cg0KCzEzV004UWhRRGFFKicKGFVDa0o2NFcwSjdSMHpDU0FzWmZSSWhWURILMTNXTThRaFFEYUU"
     }
@@ -1306,7 +1306,7 @@
       "title": "\u3010KARAOKE | \u6b4c\u67a0\u3011Le angel do le sing\u3010Harima Tem | bondlive EN\u3011#shorts"
     },
     "liveStreamingDetails": {
-      "actualStartTime": "2024-05-17T23:01:10Z",
+      "actualStartTime": "2024-05-17T23:01:40Z",
       "scheduledStartTime": "2024-05-17T23:00:00Z",
       "activeLiveChatId": "Cg0KC0RiYTRkVW44Q3U4KicKGFVDZXhlM01rYlhRSE5KREJjZmd5ZDZrURILRGJhNGRVbjhDdTg"
     }
@@ -3848,6 +3848,7 @@
       "title": "FFXIV | MSQ pt 13: Last Primal... Right???"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-17T23:01:55Z",
       "scheduledStartTime": "2024-05-17T23:00:00Z",
       "activeLiveChatId": "Cg0KC2JjX3JldklhMHlzKicKGFVDb0lHN18tT3FSODZYX0hXRnllUFVOZxILYmNfcmV2SWEweXM"
     }
@@ -3959,6 +3960,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-18T00:00:00Z",
       "activeLiveChatId": "Cg0KC2NYV0dHZExoaEFFKicKGFVDX3NGTk0wejBNV205QTZXbEtQdU1NZxILY1hXR0dkTGhoQUU"
+    }
+  },
+  "chikafujilisa": {
+    "snippet": {
+      "channelId": "chikafujilisa",
+      "title": "radio sheepy | april 2024 picks !currentsong",
+      "channelTitle": "chikafujilisa"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-17T23:01:43Z",
+      "twitch": true
     }
   },
   "co-TesDDDWs": {
@@ -4806,18 +4818,6 @@
       "activeLiveChatId": "Cg0KC2xQR2hoN0lQWFJRKicKGFVDS250czhTX2hheWpRSU9YdFFLQ1ZJZxILbFBHaGg3SVBYUlE"
     }
   },
-  "lVC2kx9mU_w": {
-    "snippet": {
-      "publishedAt": "2024-05-13T04:18:11Z",
-      "channelId": "UCESQsSc7Uh8EbiXVtmPbD_A",
-      "title": "The LAST V4Maid Stream | After Hours with @REMKanashibari and @DrNovae \u3010V4Mirai | Abi Kadabura\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-17T21:04:45Z",
-      "scheduledStartTime": "2024-05-17T21:00:00Z",
-      "activeLiveChatId": "Cg0KC2xWQzJreDltVV93KicKGFVDRVNRc1NjN1VoOEViaVhWdG1QYkRfQRILbFZDMmt4OW1VX3c"
-    }
-  },
   "lWLkxIN0jsw": {
     "snippet": {
       "publishedAt": "2021-07-03T16:15:54Z",
@@ -5603,6 +5603,7 @@
       "title": "\u3010PERSONA 3 RELOAD\u3011 Akihiko please introduce ME \u203bspoiler warning \u3010NIJISANJI EN | Elira Pendora\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-17T23:04:28Z",
       "scheduledStartTime": "2024-05-17T23:00:00Z",
       "activeLiveChatId": "Cg0KC3VLUFdHTGc3OGxVKicKGFVDSWVTVVRPVGtGOUhzN3EzU0djTy1PdxILdUtQV0dMZzc4bFU"
     }
