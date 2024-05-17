@@ -702,18 +702,6 @@
       "activeLiveChatId": "Cg0KCzZyZWpKaWIzR0RRKicKGFVDTzR6TWFZQkV6ZFlJU2Zlb082aXBfURILNnJlakppYjNHRFE"
     }
   },
-  "6ulLUMpsC9k": {
-    "snippet": {
-      "publishedAt": "2024-05-12T21:46:57Z",
-      "channelId": "UCTNpwWyoLgeJ-tsxWq7ucvw",
-      "title": "\u3010HANDCAM\u3011Hololive Merch Unboxing!\u3010VyVid | Eva Ananova \u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-17T01:00:15Z",
-      "scheduledStartTime": "2024-05-17T01:00:00Z",
-      "activeLiveChatId": "Cg0KCzZ1bExVTXBzQzlrKicKGFVDVE5wd1d5b0xnZUotdHN4V3E3dWN2dxILNnVsTFVNcHNDOWs"
-    }
-  },
   "7-NrZtxaoxM": {
     "snippet": {
       "publishedAt": "2024-05-16T13:30:41Z",
@@ -883,6 +871,7 @@
       "title": "\u3010Karaoke Stream (Achived)\u3011Drunk Barmaido Tries to Sing"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-17T03:04:00Z",
       "scheduledStartTime": "2024-05-17T03:00:00Z",
       "activeLiveChatId": "Cg0KCzhGeC1HOEhKUnFzKicKGFVDVDQxV25RWTNPMkY3T2JpMWhoUE95QRILOEZ4LUc4SEpScXM"
     }
@@ -939,6 +928,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-07-01T22:00:00Z",
       "activeLiveChatId": "Cg0KCzh2ckxyYzZpTGZNKicKGFVDYlpabHFBU1U2Njgtd3lXMUsya1lCdxILOHZyTHJjNmlMZk0"
+    }
+  },
+  "8xMbb4OxgCM": {
+    "snippet": {
+      "publishedAt": "2024-05-11T05:05:52Z",
+      "channelId": "UCEY9CnSH0n0QKmY2Q-OH7Zw",
+      "title": "\u3010Goose Goose Duck Gameplay\u3011The Right To Keep and Bear Arms\u3010Alias Anono | V4Mirai | ENVtuber\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-18T15:00:00Z",
+      "activeLiveChatId": "Cg0KCzh4TWJiNE94Z0NNKicKGFVDRVk5Q25TSDBuMFFLbVkyUS1PSDdadxILOHhNYmI0T3hnQ00"
     }
   },
   "9Aeao2VshEk": {
@@ -2973,30 +2973,6 @@
       "activeLiveChatId": "Cg0KC1NCVlJIbDRUaTJRKicKGFVDR2hxeGhvdk5mYVBCcHhmQ3J1eTlFQRILU0JWUkhsNFRpMlE"
     }
   },
-  "SCRoX53MvG8": {
-    "snippet": {
-      "publishedAt": "2024-05-14T08:06:24Z",
-      "channelId": "UCkJ64W0J7R0zCSAsZfRIhVQ",
-      "title": "\u3010VALKYRIA CHRONICLES\u3011Yo, are scouts y'know...OP?\u3010PART 4\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-17T00:00:49Z",
-      "scheduledStartTime": "2024-05-17T00:00:00Z",
-      "activeLiveChatId": "Cg0KC1NDUm9YNTNNdkc4KicKGFVDa0o2NFcwSjdSMHpDU0FzWmZSSWhWURILU0NSb1g1M012Rzg"
-    }
-  },
-  "SHOsQU2eatY": {
-    "snippet": {
-      "publishedAt": "2024-05-14T21:46:48Z",
-      "channelId": "UCpeRj9-GaLGNUoKdI5I7vZA",
-      "title": "\u3010Pacify\u3011 I-I'm sorry if I deafen you with my screams... \u7d76\u53eb\u6ce8\u610f\uff01with Nanamona!"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-17T00:01:57Z",
-      "scheduledStartTime": "2024-05-17T00:00:00Z",
-      "activeLiveChatId": "Cg0KC1NIT3NRVTJlYXRZKicKGFVDcGVSajktR2FMR05Vb0tkSTVJN3ZaQRILU0hPc1FVMmVhdFk"
-    }
-  },
   "SHcAIm-l7WA": {
     "snippet": {
       "publishedAt": "2024-05-13T03:51:16Z",
@@ -4344,7 +4320,7 @@
       "title": "\u30db\u30ed\u30e9\u30a4\u30d6\u66f2 Hololive songs! \u3010 UNARCHIVED VERTICAL KARAOKE \u30fb \u6b4c\u67a0 \u3011#shorts #shortsfeed #shortslive"
     },
     "liveStreamingDetails": {
-      "actualStartTime": "2024-05-17T03:00:41Z",
+      "actualStartTime": "2024-05-17T03:01:02Z",
       "scheduledStartTime": "2024-05-17T03:00:00Z",
       "activeLiveChatId": "Cg0KC2c2ZWY3b05TY19vKicKGFVDMXRScVFUSTNCY2hzOFh2VW5qOHl2URILZzZlZjdvTlNjX28"
     }
@@ -4734,7 +4710,7 @@
       "title": "\ud83d\udc97FREE CHAT\ud83c\udf15"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-16T14:55:00Z",
+      "scheduledStartTime": "2026-05-31T14:55:00Z",
       "activeLiveChatId": "Cg0KC2pTRnlRZzNRb3pZKicKGFVDZUdlbmRMOENPNVJrZmZCNklGd0hvdxILalNGeVFnM1Fvelk"
     }
   },
@@ -5610,6 +5586,7 @@
       "title": "\u3010whatever we want\u3011 \u3010NIJISANJI EN | Ren Zotto\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-17T03:06:25Z",
       "scheduledStartTime": "2024-05-17T03:00:00Z",
       "activeLiveChatId": "Cg0KC3RIOXhOblM1Vlg4KicKGFVDS3U1OWdUWl9yZEVtZXJkeDVyVjRZZxILdEg5eE5uUzVWWDg"
     }
@@ -5961,6 +5938,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-20T23:00:00Z",
       "activeLiveChatId": "Cg0KC3gtZ1NzbFpIcHVnKicKGFVDazJrMXktZDI0bkZ5VkN2eXhuQWFZQRILeC1nU3NsWkhwdWc"
+    }
+  },
+  "x29TunOsfbY": {
+    "snippet": {
+      "publishedAt": "2024-05-17T03:06:38Z",
+      "channelId": "UCEY9CnSH0n0QKmY2Q-OH7Zw",
+      "title": "\u3010 Just Chatting\u3011Morning Tea and Maro Reading With My Booquets!\u3010Alias Anono | V4Mirai | ENVtuber\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-17T18:00:00Z",
+      "activeLiveChatId": "Cg0KC3gyOVR1bk9zZmJZKicKGFVDRVk5Q25TSDBuMFFLbVkyUS1PSDdadxILeDI5VHVuT3NmYlk"
     }
   },
   "xcdlTH2FZEo": {
