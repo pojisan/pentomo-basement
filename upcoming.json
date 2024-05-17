@@ -533,7 +533,8 @@
       "title": "\u3010Umineko\u3011uuuu UUUU UUUUUUUUUUU!!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-17T16:00:00Z",
+      "actualStartTime": "2024-05-17T15:57:20Z",
+      "scheduledStartTime": "2024-05-17T15:56:15Z",
       "activeLiveChatId": "Cg0KCzRjR1FNQkx4OEZ3KicKGFVDc3d2ZDZfWVdtZDZyaVJrLThvVC1zQRILNGNHUU1CTHg4Rnc"
     }
   },
@@ -889,6 +890,7 @@
       "title": "\u3010GUERILLA \u3011Cozy Zatsu/catch up !\u3010Yume+ | Rhea Nevermore\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-17T16:01:00Z",
       "scheduledStartTime": "2024-05-17T16:00:00Z",
       "activeLiveChatId": "Cg0KCzhNOXRjVFpqVUdZKicKGFVDSUlkMmJBM0JzQmVCQjgwYmR3TnM0URILOE05dGNUWmpVR1k"
     }
@@ -1466,6 +1468,7 @@
       "title": "\u3010OKIRUBY!\u3011 prrrrrrr...eeeeeeets! PET EDITION\u3010idolES | Ruby Runeheart\u3011#2"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-17T16:01:25Z",
       "scheduledStartTime": "2024-05-17T16:00:00Z",
       "activeLiveChatId": "Cg0KC0VuZVpvWWNiWm5zKicKGFVDLVcteWFWSWpxa1hvaDZkWjZfVGNNQRILRW5lWm9ZY2JabnM"
     }
@@ -2912,6 +2915,7 @@
       "title": "\u3010Ark Survival\u3011Good morning, sleepyhead\u300e Rina Astera | OshiLinkEN\u300f"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-17T16:00:57Z",
       "scheduledStartTime": "2024-05-17T16:00:00Z",
       "activeLiveChatId": "Cg0KC1JuMGYyMFdjcTA4KicKGFVDUGx0UVhJZ1FhRDVtVmtBSXJPX2RTQRILUm4wZjIwV2NxMDg"
     }
@@ -4351,6 +4355,17 @@
       "activeLiveChatId": "Cg0KC2drWjhkbVJJenVFKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILZ2taOGRtUkl6dUU"
     }
   },
+  "gx_aura": {
+    "snippet": {
+      "channelId": "gx_aura",
+      "title": "Q&A WITH MY MASCOT!?| !socials !video",
+      "channelTitle": "GX_Aura"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-17T15:58:32Z",
+      "twitch": true
+    }
+  },
   "h0U_AE1ODxc": {
     "snippet": {
       "publishedAt": "2024-05-16T13:12:47Z",
@@ -5455,6 +5470,7 @@
       "title": "Playing with viewers(Gold and Diamond quasos)\ud83d\udc7c"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-17T16:01:01Z",
       "scheduledStartTime": "2024-05-17T16:00:00Z",
       "activeLiveChatId": "Cg0KC3RLUFdZck9vek5jKicKGFVDUmtkRkdYd0J0eHZtOVNzZm1ObU1aQRILdEtQV1lyT296TmM"
     }
@@ -5684,6 +5700,7 @@
       "title": "\u3010Exanimum: The Silent Call\u3011Someone hug me. I'm gonna die TwT\u3010Sarugaku Leon Jr. | Globie\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-17T15:59:14Z",
       "scheduledStartTime": "2024-05-17T16:00:00Z",
       "activeLiveChatId": "Cg0KC3ZSX2x2djhnV2s4KicKGFVDLUxBbkZMWFU5QnVzRnY3bjhsRmo4ZxILdlJfbHZ2OGdXazg"
     }
