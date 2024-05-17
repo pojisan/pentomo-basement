@@ -858,11 +858,23 @@
     "snippet": {
       "publishedAt": "2024-05-16T14:51:04Z",
       "channelId": "UCdG9oj3n1Qhb7BUCsQSIiJg",
-      "title": "\u3010Cuphead\u3011Me? Rage? Never.\u3010Obari Luca | globie\u3011"
+      "title": "\u3010Cuphead\u3011Me? Rage? Never.\u3010Obari Luca | globie\u3011",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-16T17:00:00Z",
       "activeLiveChatId": "Cg0KCy13aHBRLW84Wlp3KicKGFVDZEc5b2ozbjFRaGI3QlVDc1FTSWlKZxILLXdocFEtbzhaWnc"
+    }
+  },
+  "7XyJP5IHP-0": {
+    "snippet": {
+      "publishedAt": "2024-05-17T16:18:00Z",
+      "channelId": "UCdG9oj3n1Qhb7BUCsQSIiJg",
+      "title": "\u3010PHASMOPHOBIA\u3011BRAT PACK RETURNS!! W/@SerinaMaiko \u3010Obari Luca | globie\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-17T21:00:00Z",
+      "activeLiveChatId": "Cg0KCzdYeUpQNUlIUC0wKicKGFVDZEc5b2ozbjFRaGI3QlVDc1FTSWlKZxILN1h5SlA1SUhQLTA"
     }
   }
 }
