@@ -1381,8 +1381,21 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-17T19:00:54Z",
+      "actualEndTime": "2024-05-17T20:57:19Z",
       "scheduledStartTime": "2024-05-17T19:00:00Z",
       "activeLiveChatId": "Cg0KC0xyZmloOXhISTN3KicKGFVDR3dMU3lQTGFIcHEwbnVUX0pWU010URILTHJmaWg5eEhJM3c"
+    }
+  },
+  "rg9DCHRxHKc": {
+    "snippet": {
+      "publishedAt": "2024-05-17T20:55:44Z",
+      "channelId": "UCGwLSyPLaHpq0nuT_JVSMtQ",
+      "title": "\u3010FR/EN/JP/CN/VN/ES\u3011SINGING TIME\u3010Kanenui Mienai | globie\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-17T20:59:33Z",
+      "scheduledStartTime": "2024-05-17T21:00:00Z",
+      "activeLiveChatId": "Cg0KC3JnOURDSFJ4SEtjKicKGFVDR3dMU3lQTGFIcHEwbnVUX0pWU010URILcmc5RENIUnhIS2M"
     }
   }
 }
