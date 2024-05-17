@@ -148,6 +148,7 @@
       "title": "\u3010\u30b9\u30a4\u30ab\u30b2\u30fc\u30e0\u3011\u30c0\u30d6\u30eb\u30b9\u30a4\u30ab\u304c\u4f5c\u308a\u305f\u3044\u30b9\u30a4\u30ab\u306e\u5996\u7cbe\ud83c\udf49\u3010\u306b\u3058\u3055\u3093\u3058 | \u30bb\u30d5\u30a3\u30ca\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-17T04:30:28Z",
       "scheduledStartTime": "2024-05-17T04:30:00Z",
       "activeLiveChatId": "Cg0KCzBRT2hHSS1OT1FRKicKGFVDZUdlbmRMOENPNVJrZmZCNklGd0hvdxILMFFPaEdJLU5PUVE"
     }
@@ -2070,18 +2071,6 @@
       "activeLiveChatId": "Cg0KC0pQcGtXZHM5eXFzKicKGFVDRzU2WFdaZWJPM1RIV0w2R3FkTDZnQRILSlBwa1dkczl5cXM"
     }
   },
-  "JSB96leCrdY": {
-    "snippet": {
-      "publishedAt": "2024-05-05T13:17:24Z",
-      "channelId": "UCLKUX65DUynX3azXjBFh2CA",
-      "title": "\u3010 KARAOKE \u3011Monthly Mandatory Furi Karaoke IKZ!"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-17T02:01:35Z",
-      "scheduledStartTime": "2024-05-17T02:00:00Z",
-      "activeLiveChatId": "Cg0KC0pTQjk2bGVDcmRZKicKGFVDTEtVWDY1RFV5blgzYXpYakJGaDJDQRILSlNCOTZsZUNyZFk"
-    }
-  },
   "JSiWVz0dai4": {
     "snippet": {
       "publishedAt": "2024-05-12T20:06:08Z",
@@ -3220,6 +3209,17 @@
       "scheduledStartTime": "2025-05-03T02:00:00Z"
     }
   },
+  "UqTg5bhDFoY": {
+    "snippet": {
+      "publishedAt": "2024-05-17T04:26:14Z",
+      "channelId": "UC4WvIIAo89_AzGUh1AZ6Dkg",
+      "title": "sweat. regret."
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-17T22:00:00Z",
+      "activeLiveChatId": "Cg0KC1VxVGc1YmhERm9ZKicKGFVDNFd2SUlBbzg5X0F6R1VoMUFaNkRrZxILVXFUZzViaERGb1k"
+    }
+  },
   "UveyQxRG97U": {
     "snippet": {
       "publishedAt": "2023-12-11T16:45:39Z",
@@ -4212,7 +4212,8 @@
       "title": "GET CHUUNI WIFE, LIFE GOOD \ud83d\udc4d + zatsu!!!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-17T04:15:00Z",
+      "actualStartTime": "2024-05-17T04:22:07Z",
+      "scheduledStartTime": "2024-05-17T04:21:53Z",
       "activeLiveChatId": "Cg0KC2ZIRnlwSmp6dVNFKicKGFVDdWFEaWRHazRITkxPblFFOXd6TU1lURILZkhGeXBKanp1U0U"
     }
   },
