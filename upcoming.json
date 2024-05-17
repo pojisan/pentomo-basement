@@ -1936,18 +1936,6 @@
       "activeLiveChatId": "Cg0KC0hiQ2RZLTBITzVzKicKGFVDOVNXSXpIUDA3UEwxeTZjVTh3a0R3QRILSGJDZFktMEhPNXM"
     }
   },
-  "HbYkNEAAMSc": {
-    "snippet": {
-      "publishedAt": "2024-05-16T21:02:54Z",
-      "channelId": "UCkjP_w607B-n4kWJrZAsHMQ",
-      "title": "\u3010Idol Training: Karaoke\u3011 Duets with @feebeechanchibi  \ud83d\udc1d\ud83c\udf38  \u3010Ami Amami | \u96e8\u6d77\u3042\u307f\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-16T22:00:31Z",
-      "scheduledStartTime": "2024-05-16T22:00:00Z",
-      "activeLiveChatId": "Cg0KC0hiWWtORUFBTVNjKicKGFVDa2pQX3c2MDdCLW40a1dKclpBc0hNURILSGJZa05FQUFNU2M"
-    }
-  },
   "HdY5qOWBQRo": {
     "snippet": {
       "publishedAt": "2023-10-15T06:40:33Z",
@@ -2567,6 +2555,18 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC01aVzFBbS0yS0M0KicKGFVDbzdUUmozY1MtZl8xRDlaRG11VHNqdxILTVpXMUFtLTJLQzQ"
+    }
+  },
+  "MaJKZ3dlWjg": {
+    "snippet": {
+      "publishedAt": "2024-05-17T00:13:21Z",
+      "channelId": "UCy2mFNN1LoAzapcNY948gxw",
+      "title": "\u3010Persona 3 Reload\u3011Shinji-senpai..."
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-17T00:20:42Z",
+      "scheduledStartTime": "2024-05-17T00:20:26Z",
+      "activeLiveChatId": "Cg0KC01hSktaM2RsV2pnKicKGFVDeTJtRk5OMUxvQXphcGNOWTk0OGd4dxILTWFKS1ozZGxXamc"
     }
   },
   "MbaasAbAgj4": {
@@ -4300,18 +4300,6 @@
       "activeLiveChatId": "Cg0KC2R5QV9pdVZZR2gwKicKGFVDamNiN1B2UEhtajNNTlV5c1ZVZUpjZxILZHlBX2l1VllHaDA"
     }
   },
-  "e-9NEpGT0VI": {
-    "snippet": {
-      "publishedAt": "2024-05-16T21:58:11Z",
-      "channelId": "UCUr8O6Z8JyAg83KJbc_u_bQ",
-      "title": "ORCHARDMC!!! \u2665 !ip !candle !merch !throne"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-16T21:58:22Z",
-      "scheduledStartTime": "2024-05-16T21:58:20Z",
-      "activeLiveChatId": "Cg0KC2UtOU5FcEdUMFZJKicKGFVDVXI4TzZaOEp5QWc4M0tKYmNfdV9iURILZS05TkVwR1QwVkk"
-    }
-  },
   "eOsIhKL6dG4": {
     "snippet": {
       "publishedAt": "2024-05-15T15:33:46Z",
@@ -5208,17 +5196,6 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-17T00:00:35Z",
-      "twitch": true
-    }
-  },
-  "miyuyus": {
-    "snippet": {
-      "channelId": "miyuyus",
-      "title": "ORCHARDMC!!! \u2665 !ip !candle !merch !throne",
-      "channelTitle": "miyuyus"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-16T22:55:41Z",
       "twitch": true
     }
   },
