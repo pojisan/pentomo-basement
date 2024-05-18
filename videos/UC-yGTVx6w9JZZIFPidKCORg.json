@@ -132,7 +132,8 @@
     "snippet": {
       "publishedAt": "2024-05-18T07:47:50Z",
       "channelId": "UC-yGTVx6w9JZZIFPidKCORg",
-      "title": "Test 4"
+      "title": "Test 4",
+      "private": true
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-18T07:49:52Z",
