@@ -88,8 +88,7 @@
       "title": "\u300eRADIOS KARAOKE\u300fA Flash of Emotion with a Bit of Fever\u300eLauren Radios | OshiLink\u300f"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-20T00:00:00Z",
-      "activeLiveChatId": "Cg0KCzJVdENmcHdPc2t3KicKGFVDLXlHVFZ4Nnc5SlpaSUZQaWRLQ09SZxILMlV0Q2Zwd09za3c"
+      "scheduledStartTime": "2024-05-20T00:00:00Z"
     }
   },
   "z3QR2mp5Jpk": {
@@ -145,7 +144,8 @@
     "snippet": {
       "publishedAt": "2024-05-18T08:19:44Z",
       "channelId": "UC-yGTVx6w9JZZIFPidKCORg",
-      "title": "test"
+      "title": "test",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-20T14:15:00Z",
