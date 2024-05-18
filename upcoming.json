@@ -525,7 +525,7 @@
       "title": "\u3010Anime Watch Along\u3011KONOSUBA! God's blessing on this wonderful world! Legend of Crimson"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-18T02:00:00Z",
+      "scheduledStartTime": "2024-05-18T02:10:00Z",
       "activeLiveChatId": "Cg0KCzRqak5uVHVUaDJRKicKGFVDM3dvNGJ5X0JhbkRXZ0hBNlp6TmFRdxILNGpqTm5UdVRoMlE"
     }
   },
@@ -1343,6 +1343,18 @@
       "activeLiveChatId": "Cg0KC0UtSzdXS19KcnJrKicKGFVDWmw5MndNaXBqWUZjMVVsbTlZeTY1ZxILRS1LN1dLX0pycms"
     }
   },
+  "EI2WwK27Xo0": {
+    "snippet": {
+      "publishedAt": "2024-05-17T07:08:58Z",
+      "channelId": "UCpzxZW5kghGnO5TmAFJQAVw",
+      "title": "BUNNY GARDEN but I stare respectfully with EYE TRACKER pt. 3"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-18T02:09:32Z",
+      "scheduledStartTime": "2024-05-18T02:00:00Z",
+      "activeLiveChatId": "Cg0KC0VJMld3SzI3WG8wKicKGFVDcHp4Wlc1a2doR25PNVRtQUZKUUFWdxILRUkyV3dLMjdYbzA"
+    }
+  },
   "ES_BPDdwz7I": {
     "snippet": {
       "publishedAt": "2024-05-13T06:50:59Z",
@@ -1445,6 +1457,7 @@
       "title": "\u3010JUST CHATTING / \u96d1\u8ac7\u3011Hi! I'm Raian. :^)  | #vtuber"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-18T02:10:10Z",
       "scheduledStartTime": "2024-05-18T02:00:00Z",
       "activeLiveChatId": "Cg0KC0ZZY21IVlU5c0lNKicKGFVDNFdzTEVfeGRybmQwNUQwNUdvOW9YdxILRlljbUhWVTlzSU0"
     }
@@ -1531,6 +1544,7 @@
       "title": "\u3010Crow Country - PT 2\u3011It's Summer 1990 and it's STILL MY Turn\u3010NIJISANJI EN|Victoria Brightshield\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-18T02:05:19Z",
       "scheduledStartTime": "2024-05-18T02:00:00Z",
       "activeLiveChatId": "Cg0KC0c2MDNmN0N5ZG53KicKGFVDaFRBOGtIeUlucjJyS1oyYUJ2NVVMdxILRzYwM2Y3Q3lkbnc"
     }
@@ -3801,18 +3815,6 @@
       "activeLiveChatId": "Cg0KC2NUT1Jvam5hb25NKicKGFVDcXlMMG9CMmpsLTVHcFNnLUdXWl9ndxILY1RPUm9qbmFvbk0"
     }
   },
-  "cXWGGdLhhAE": {
-    "snippet": {
-      "publishedAt": "2024-05-17T13:07:40Z",
-      "channelId": "UC_sFNM0z0MWm9A6WlKPuMMg",
-      "title": "ehehe\u3010Chatting\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-17T23:54:42Z",
-      "scheduledStartTime": "2024-05-18T00:00:00Z",
-      "activeLiveChatId": "Cg0KC2NYV0dHZExoaEFFKicKGFVDX3NGTk0wejBNV205QTZXbEtQdU1NZxILY1hXR0dkTGhoQUU"
-    }
-  },
   "chikafujilisa": {
     "snippet": {
       "channelId": "chikafujilisa",
@@ -4431,18 +4433,6 @@
       "activeLiveChatId": "Cg0KC2k0c0Z5OFFfYUpVKicKGFVDS0FEX05NTjFCM2k3MkpfNG1Md0ZCURILaTRzRnk4UV9hSlU"
     }
   },
-  "iB8x0wKWM24": {
-    "snippet": {
-      "publishedAt": "2024-05-13T07:22:46Z",
-      "channelId": "UCqmSYkXLwsL0zEar5GooYkg",
-      "title": "\u3010Left 4 Dead 2\u3011REMEDY SHOOTS ZOMBIES!!!!\u3010Yume+ | Mimosa Shirosaki\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-17T22:59:34Z",
-      "scheduledStartTime": "2024-05-17T23:00:00Z",
-      "activeLiveChatId": "Cg0KC2lCOHgwd0tXTTI0KicKGFVDcW1TWWtYTHdzTDB6RWFyNUdvb1lrZxILaUI4eDB3S1dNMjQ"
-    }
-  },
   "iT7ikXeVdHY": {
     "snippet": {
       "publishedAt": "2024-05-06T02:36:53Z",
@@ -4579,6 +4569,7 @@
       "title": "\u3010COLLAB\u3011 Plate Up chaos w.Enya! @EnyaIgnis"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-18T02:01:14Z",
       "scheduledStartTime": "2024-05-18T02:00:00Z",
       "activeLiveChatId": "Cg0KC2t5UUs4V09GcHg0KicKGFVDQ0E0akpZNVByVGZJRkpJY2JJX05oURILa3lRSzhXT0ZweDQ"
     }
@@ -5274,6 +5265,17 @@
       "twitch": true
     }
   },
+  "shimadatiger": {
+    "snippet": {
+      "channelId": "shimadatiger",
+      "title": "I have a 7 way parlay on my hellsweep | TEKKEN 8 FUN (!newvideo)",
+      "channelTitle": "ShimadaTiger"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-18T02:04:07Z",
+      "twitch": true
+    }
+  },
   "skTCKgM7biI": {
     "snippet": {
       "publishedAt": "2024-02-26T04:33:52Z",
@@ -5611,6 +5613,7 @@
       "title": "\u300e DREAMS PS4\u300fArt's Dream and Maybe Other Dreams\u300eLauren Radios | OshiLink\u300f"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-18T02:02:36Z",
       "scheduledStartTime": "2024-05-18T02:00:00Z",
       "activeLiveChatId": "Cg0KC3Zrd2tPS2RxdTk4KicKGFVDLXlHVFZ4Nnc5SlpaSUZQaWRLQ09SZxILdmt3a09LZHF1OTg"
     }
