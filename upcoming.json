@@ -1052,10 +1052,11 @@
     "snippet": {
       "publishedAt": "2024-05-18T18:31:34Z",
       "channelId": "UCoqPsUW_2I_bZ7N5H3F4YbQ",
-      "title": "(Indigo Park) Racoon time! [#LaikaCream]"
+      "title": "(Indigo Park) RACOON & FERRET TIME! [#LaikaCream]"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-18T22:00:00Z",
+      "actualStartTime": "2024-05-18T21:57:25Z",
+      "scheduledStartTime": "2024-05-18T21:56:51Z",
       "activeLiveChatId": "Cg0KC0V6eHZ3ZHdhZkU0KicKGFVDb3FQc1VXXzJJX2JaN041SDNGNFliURILRXp4dndkd2FmRTQ"
     }
   },
@@ -1130,18 +1131,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-12-05T04:10:00Z",
       "activeLiveChatId": "Cg0KC0ZNTG0tSXJrNmt3KicKGFVDUU1XTWIwWWVyTUJLZk5KWGlCNmtadxILRk1MbS1Jcms2a3c"
-    }
-  },
-  "Fk7-c8jHow0": {
-    "snippet": {
-      "publishedAt": "2024-05-17T23:22:13Z",
-      "channelId": "UC9NNMwafy9quvNWafFukNDw",
-      "title": "I Forced my Dad to Try Elden Ring"
-    },
-    "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-18T22:00:00Z",
-      "activeLiveChatId": "Cg0KC0ZrNy1jOGpIb3cwKicKGFVDOU5OTXdhZnk5cXV2TldhZkZ1a05EdxILRms3LWM4akhvdzA",
-      "premiere": true
     }
   },
   "FrU69Z8vbG8": {
@@ -1463,6 +1452,7 @@
       "title": "Aiming for 17K!! Every $5+ is a song wheel spin!\u3010Ran Tsukiha | Production kawaii\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-18T22:00:32Z",
       "scheduledStartTime": "2024-05-18T22:00:00Z",
       "activeLiveChatId": "Cg0KC0h2U21Hd2k2U0FjKicKGFVDYi04RmtnLW1TVTJSbWxQOEZkcHlNdxILSHZTbUd3aTZTQWM"
     }
@@ -3246,6 +3236,17 @@
       "activeLiveChatId": "Cg0KC2JJaFpqTmpVc3Q4KicKGFVDZlcwZjJKNm8tX3IzZm1lV3MzSEZfQRILYkloWmpOalVzdDg"
     }
   },
+  "bajiru_en": {
+    "snippet": {
+      "channelId": "bajiru_en",
+      "title": "\u3010KARAOKE\u3011IM BACK EVERYBAJI\ud83c\udf31 || !socials !advgg !sl",
+      "channelTitle": "bajiru_EN"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-18T21:52:37Z",
+      "twitch": true
+    }
+  },
   "blLWBuPq8j0": {
     "snippet": {
       "publishedAt": "2024-01-23T17:27:26Z",
@@ -3407,6 +3408,17 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC2Q5UEx5d2xkN1ZzKicKGFVDb21JblcxME1rSEpzLV92aTRySFFDURILZDlQTHl3bGQ3VnM"
+    }
+  },
+  "dXELIj6MU48": {
+    "snippet": {
+      "publishedAt": "2024-05-18T21:56:49Z",
+      "channelId": "UCKabX-FnaBztcxmgex2-fYA",
+      "title": "\u3010Eiyuden Chronicle: Hundred Heroes\u3011 Let's recruit more!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-18T22:30:50Z",
+      "activeLiveChatId": "Cg0KC2RYRUxJajZNVTQ4KicKGFVDS2FiWC1GbmFCenRjeG1nZXgyLWZZQRILZFhFTElqNk1VNDg"
     }
   },
   "dmwuagzZflc": {
@@ -4779,6 +4791,7 @@
       "title": "Fallout 4 Survival mode Sword Only?!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-18T21:58:54Z",
       "scheduledStartTime": "2024-05-18T22:00:00Z",
       "activeLiveChatId": "Cg0KC3dNMjJaY2l0U2ZZKicKGFVDZS1fcDZvdW40cDAtZ2RCNEFrZlQxURILd00yMlpjaXRTZlk"
     }
