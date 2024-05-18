@@ -1653,6 +1653,7 @@
       "title": "\u3010MEMBERSHIPS OPEN\u3011Welcome to the Shrine!!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-18T16:00:42Z",
       "scheduledStartTime": "2024-05-18T16:00:00Z",
       "activeLiveChatId": "Cg0KC0lvOW13MDhwT2dnKicKGFVDX3pwa3FGdDdZQnlXYVBpOUJ4dDdFURILSW85bXcwOHBPZ2c"
     }
@@ -1709,6 +1710,7 @@
       "title": "\u3010DRAWING\u3011V4Mirai and Globie Outfit Swap Fanart\u3010globie 2nd Gen - Equinnox\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-18T15:59:09Z",
       "scheduledStartTime": "2024-05-18T16:00:00Z",
       "activeLiveChatId": "Cg0KC0pTaVdWejBkYWk0KicKGFVDRkhkRUFIUGJGVWpnSjFSYU9fQXc2dxILSlNpV1Z6MGRhaTQ"
     }
@@ -2148,6 +2150,7 @@
       "title": "\u3010THE CLOSING SHIFT\u3011I have to WORK???\u3010Komiyama Ambros | globie\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-18T16:00:31Z",
       "scheduledStartTime": "2024-05-18T16:00:00Z",
       "activeLiveChatId": "Cg0KC05JY3NaU01GTVNNKicKGFVDYnNQNEJJc1BZYVJMdjlmX3lYRG9EQRILTkljc1pTTUZNU00"
     }
@@ -3896,6 +3899,17 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC2h5X3Bvd3FIdDA4KicKGFVDYkRISVMwTnBYUk9oWWpzYVhRWDRwQRILaHlfcG93cUh0MDg"
+    }
+  },
+  "hyperx": {
+    "snippet": {
+      "channelId": "hyperx",
+      "title": "Baldcursed Gate ft. @renniesaurus @orihime @auteru | !kura !youtube !code",
+      "channelTitle": "HyperX"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-18T15:58:26Z",
+      "twitch": true
     }
   },
   "i-BguMcByII": {
