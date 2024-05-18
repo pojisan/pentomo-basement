@@ -311,7 +311,7 @@
       "title": "PENACONY 2.1 REACTION!! [VTUBER]"
     },
     "liveStreamingDetails": {
-      "actualStartTime": "2024-05-18T04:00:53Z",
+      "actualStartTime": "2024-05-18T04:01:04Z",
       "scheduledStartTime": "2024-05-18T04:00:00Z",
       "activeLiveChatId": "Cg0KCzFoNERfMXZHUGk0KicKGFVDSnduR1Vqb25pSkEzSXQtUDJzbmMtQRILMWg0RF8xdkdQaTQ"
     }
@@ -2086,7 +2086,7 @@
       "title": "\ud83c\udfb6 LIVE MAID DJ * goshujinsama put your hands in the air!!!!!!!! \ud83c\udfb6\u3010Mono Monet \ud83d\udcad\ud83c\udfa8 V4Mirai\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-18T04:00:00Z",
+      "scheduledStartTime": "2024-05-18T04:30:00Z",
       "activeLiveChatId": "Cg0KC0xHNWVxb09yT1NnKicKGFVDZHVib3RTeTRwUE9zaWFXNE1yWW4zURILTEc1ZXFvT3JPU2c"
     }
   },
@@ -2214,6 +2214,7 @@
       "title": "SUDDEN TETRIS TIME !!!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-18T04:04:48Z",
       "scheduledStartTime": "2024-05-18T04:00:00Z",
       "activeLiveChatId": "Cg0KC01FOHB3ZTlwejNzKicKGFVDTGRrY1R0NXZPZkdpX215dkstaU8wZxILTUU4cHdlOXB6M3M"
     }
@@ -2460,7 +2461,7 @@
       "title": "\u3010Stardew valley\u3011  #12 \u5996\u7cbe\u306e\u8fb2\u5712\u30e9\u30a4\u30d5\ud83c\udf31 \u3010\u306b\u3058\u3055\u3093\u3058 | \u30bb\u30d5\u30a3\u30ca\u3011"
     },
     "liveStreamingDetails": {
-      "actualStartTime": "2024-05-18T04:00:46Z",
+      "actualStartTime": "2024-05-18T04:01:01Z",
       "scheduledStartTime": "2024-05-18T04:00:00Z",
       "activeLiveChatId": "Cg0KC1A3dldPQXpDanNvKicKGFVDZUdlbmRMOENPNVJrZmZCNklGd0hvdxILUDd2V09BekNqc28"
     }
@@ -3067,18 +3068,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-01-11T04:00:00Z",
       "activeLiveChatId": "Cg0KC1ZaTUE4RTFZMi1ZKicKGFVDbjJMc29zdTgyeUU5UFVtVkxGQlpCURILVlpNQThFMVkyLVk"
-    }
-  },
-  "VhGILAsP1C0": {
-    "snippet": {
-      "publishedAt": "2024-05-17T00:28:53Z",
-      "channelId": "UCdh-YF2gTzqDNu0VU9lwPPw",
-      "title": "\u3010KARAOKE \u6b4c\u67a0\u3011100K CELEBRATION KARAOKE !!!\u3010NIJISANJI EN | Claude Clawmark\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-18T03:02:57Z",
-      "scheduledStartTime": "2024-05-18T03:00:00Z",
-      "activeLiveChatId": "Cg0KC1ZoR0lMQXNQMUMwKicKGFVDZGgtWUYyZ1R6cUROdTBWVTlsd1BQdxILVmhHSUxBc1AxQzA"
     }
   },
   "VqVpFAZhLSE": {
@@ -4104,6 +4093,17 @@
       "activeLiveChatId": "Cg0KC2gwVV9BRTFPRHhjKicKGFVDY1BjLTVPckxialZCZ1EtemlFV1BTURILaDBVX0FFMU9EeGM"
     }
   },
+  "h3xTwc1DTfQ": {
+    "snippet": {
+      "publishedAt": "2024-05-18T04:06:21Z",
+      "channelId": "UCKajmKUZ7age8zlTp-GvO2Q",
+      "title": "Last Chatting Before I Try and Upgrade my PC (Wish Me Luck)"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-22T00:00:00Z",
+      "activeLiveChatId": "Cg0KC2gzeFR3YzFEVGZRKicKGFVDS2FqbUtVWjdhZ2U4emxUcC1Hdk8yURILaDN4VHdjMURUZlE"
+    }
+  },
   "h4426bmybDA": {
     "snippet": {
       "publishedAt": "2023-10-08T01:26:36Z",
@@ -4570,6 +4570,7 @@
       "title": "[FREETALK] Lili ate ??? in Thailand!!\u3010MyHolo TV\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-18T04:01:55Z",
       "scheduledStartTime": "2024-05-18T04:00:00Z",
       "activeLiveChatId": "Cg0KC21MZ0JiRTdzalkwKicKGFVDSHozUGVVMVJSY1k5dkpEU3FzaWdJQRILbUxnQmJFN3NqWTA"
     }
