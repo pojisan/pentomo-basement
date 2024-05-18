@@ -1192,7 +1192,7 @@
       "title": "Let them COOK!!\u3010OVERCOOKED 2\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-18T04:00:00Z",
+      "scheduledStartTime": "2024-05-19T02:00:00Z",
       "activeLiveChatId": "Cg0KC0c3Tk0zazkza2pJKicKGFVDS0I3bV90Z1g3bHNVM1Bpdl9oaEgyQRILRzdOTTNrOTNrakk"
     }
   },
@@ -1466,18 +1466,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2026-01-01T23:00:00Z",
       "activeLiveChatId": "Cg0KC0k3eE9INXNQSW84KicKGFVDYnZSNDZTUXBPUFJLTXJWVDhOb0pUQRILSTd4T0g1c1BJbzg"
-    }
-  },
-  "IAjxgWSpsuc": {
-    "snippet": {
-      "publishedAt": "2024-05-18T16:03:08Z",
-      "channelId": "UC2gPbOjo_NM2QeroArW8Yeg",
-      "title": "I will end Chronos [Hades II Early Access]"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-18T17:00:48Z",
-      "scheduledStartTime": "2024-05-18T17:00:00Z",
-      "activeLiveChatId": "Cg0KC0lBanhnV1Nwc3VjKicKGFVDMmdQYk9qb19OTTJRZXJvQXJXOFllZxILSUFqeGdXU3BzdWM"
     }
   },
   "IFNqAbkV56Q": {
@@ -2316,6 +2304,7 @@
       "title": "\u3010LUNALIA MAID COLLAB \ud83c\udf19\u3011Just 4 Normal Maids Cooking...\u3010LUNALIA | V4Mirai | ENVtuber\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-18T22:01:32Z",
       "scheduledStartTime": "2024-05-18T22:00:00Z",
       "activeLiveChatId": "Cg0KC1JFeVRNZGlENnlFKicKGFVDYlpabHFBU1U2Njgtd3lXMUsya1lCdxILUkV5VE1kaUQ2eUU"
     }
@@ -3193,6 +3182,17 @@
       "activeLiveChatId": "Cg0KC2FOT2IzUU9MUWhjKicKGFVDQm5tZmpwbWhHeGFvNnY1NGZJSU1VQRILYU5PYjNRT0xRaGM"
     }
   },
+  "angelinakumalo": {
+    "snippet": {
+      "channelId": "angelinakumalo",
+      "title": "\u2730333X BATTLE?!\u2730 Open Lobby 1 Spot! Pool Code: fishielol @suikaART @A4loveletter (!gamersupps !clip !discord !donate)",
+      "channelTitle": "AngelinaKumalo"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-18T22:01:21Z",
+      "twitch": true
+    }
+  },
   "auCkpoNM1yE": {
     "snippet": {
       "publishedAt": "2024-03-24T19:34:20Z",
@@ -3701,17 +3701,6 @@
       "activeLiveChatId": "Cg0KC2hpc1drOWRQeHhrKicKGFVDVmpwRlAxX055M1BVb0UyNnI0SVRhdxILaGlzV2s5ZFB4eGs"
     }
   },
-  "hiyorisinn": {
-    "snippet": {
-      "channelId": "hiyorisinn",
-      "title": "playing PSO2 (NON-NGS) w/ community!! / !streamloots !asmr",
-      "channelTitle": "HiyorisInn"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-18T17:52:31Z",
-      "twitch": true
-    }
-  },
   "hlDFczhR2mo": {
     "snippet": {
       "publishedAt": "2023-09-07T02:29:02Z",
@@ -4149,6 +4138,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-18T23:00:50Z",
       "activeLiveChatId": "Cg0KC25oMnlHbkhhY3dZKicKGFVDTzBEcFZLUjRDSDVFWGdvc2N6OTliQRILbmgyeUduSGFjd1k"
+    }
+  },
+  "niasuzune": {
+    "snippet": {
+      "channelId": "niasuzune",
+      "title": "\u3010DONOTHON DAY 14\u3011WHO'S THE REAL SCAREDY CAT? | !donothon !discord",
+      "channelTitle": "NiaSuzune"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-18T22:03:17Z",
+      "twitch": true
     }
   },
   "nnAY-x9AtNk": {
