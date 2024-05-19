@@ -831,5 +831,27 @@
       "actualEndTime": "2024-05-19T20:51:34Z",
       "scheduledStartTime": "2024-05-19T19:00:00Z"
     }
+  },
+  "WpdmoUNDzcA": {
+    "snippet": {
+      "publishedAt": "2024-05-19T21:23:19Z",
+      "channelId": "UCMmy_EmxnYQ8aar8fNZrumw",
+      "title": "\u3010Donothon\u3011Kattarina's donothon - part 5"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-21T23:00:00Z",
+      "activeLiveChatId": "Cg0KC1dwZG1vVU5EemNBKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILV3BkbW9VTkR6Y0E"
+    }
+  },
+  "Y6pN7gTu22A": {
+    "snippet": {
+      "publishedAt": "2024-05-19T21:22:32Z",
+      "channelId": "UCMmy_EmxnYQ8aar8fNZrumw",
+      "title": "\u3010Donothon\u3011Kattarina's donothon - part 4"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-21T15:00:00Z",
+      "activeLiveChatId": "Cg0KC1k2cE43Z1R1MjJBKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILWTZwTjdnVHUyMkE"
+    }
   }
 }
