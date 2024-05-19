@@ -4346,8 +4346,21 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-19T10:00:37Z",
-      "scheduledStartTime": "2024-05-19T10:00:00Z",
-      "activeLiveChatId": "Cg0KC3h2TjBRUzRYaDVFKicKGFVDaUEtdHJTWmZCMGk5MlZfLWR5RHFCdxILeHZOMFFTNFhoNUU"
+      "actualEndTime": "2024-05-19T12:41:07Z",
+      "scheduledStartTime": "2024-05-19T10:00:00Z"
+    }
+  },
+  "fHdaBTbTLwc": {
+    "snippet": {
+      "publishedAt": "2024-05-19T12:45:06Z",
+      "channelId": "UCiA-trSZfB0i92V_-dyDqBw",
+      "title": "\u307f\u3093\u306a\u672c\u5f53\u306b\u3042\u308a\u304c\u3068\u3046\u3063"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-19T12:45:06Z",
+      "actualEndTime": "2024-05-19T12:50:52Z",
+      "scheduledStartTime": "2024-05-19T12:45:00Z",
+      "activeLiveChatId": "Cg0KC2ZIZGFCVGJUTHdjKicKGFVDaUEtdHJTWmZCMGk5MlZfLWR5RHFCdxILZkhkYUJUYlRMd2M"
     }
   }
 }
