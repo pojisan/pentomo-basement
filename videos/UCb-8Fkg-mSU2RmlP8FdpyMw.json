@@ -1466,7 +1466,8 @@
     "snippet": {
       "publishedAt": "2023-10-30T17:20:15Z",
       "channelId": "UCb-8Fkg-mSU2RmlP8FdpyMw",
-      "title": "\u3010SCHEDULE\u3011\u3010Ran Tsukiha | Production kawaii\u3011"
+      "title": "\u3010SCHEDULE\u3011\u3010Ran Tsukiha | Production kawaii\u3011",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-12-31T18:15:00Z",
@@ -1648,7 +1649,8 @@
     "snippet": {
       "publishedAt": "2023-10-05T03:27:17Z",
       "channelId": "UCb-8Fkg-mSU2RmlP8FdpyMw",
-      "title": "TR Live Stream"
+      "title": "TR Live Stream",
+      "private": true
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC1J5RnVPRHQ0cDVzKicKGFVDYi04RmtnLW1TVTJSbWxQOEZkcHlNdxILUnlGdU9EdDRwNXM"
