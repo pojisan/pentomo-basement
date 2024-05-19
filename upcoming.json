@@ -1277,7 +1277,7 @@
       "title": "Can I win the grand prize of $1000 dollars?...\u3010 Idol Cup 2024 \u2502 Mario Kart Tournament \u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-19T19:00:00Z",
+      "scheduledStartTime": "2024-05-19T19:30:00Z",
       "activeLiveChatId": "Cg0KC0dqYmJ5ZklTM0RRKicKGFVDOXhSN3VOMHg1YTZDSDNVb3BxN2N6QRILR2piYnlmSVMzRFE"
     }
   },
@@ -2332,6 +2332,7 @@
       "title": "Making Brazilian DESSERT PIZZA?! | Wake Up with Abi\u3010V4Mirai | Abi Kadabura\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-19T17:00:44Z",
       "scheduledStartTime": "2024-05-19T17:00:00Z",
       "activeLiveChatId": "Cg0KC1N3OVVlQ0Z4OWJ3KicKGFVDRVNRc1NjN1VoOEViaVhWdG1QYkRfQRILU3c5VWVDRng5Ync"
     }
@@ -3198,18 +3199,6 @@
       "activeLiveChatId": "Cg0KC2I0aE5McmdLUjRVKicKGFVDN0diN1Vhd2UyMFF5RmliaExsMWx6QRILYjRoTkxyZ0tSNFU"
     }
   },
-  "bEgSDptdrmo": {
-    "snippet": {
-      "publishedAt": "2024-05-19T10:52:16Z",
-      "channelId": "UCgmFrRcyH7d1zR9sIVQhFow",
-      "title": "\u3010Content Warning\u3011\u30db\u30e9\u30fc\u6620\u50cf\u7cfbYOUTUBER\u306f\u3058\u3081\u307e\u3057\u305f /w \u3076\u3063\uff13 \u307c\u3069 \u3042\u304b\u308a\u3093\uff13\u3010\u30ed\u30fc\u30ec\u30f3\u30fb\u30a4\u30ed\u30a2\u30b9/\u306b\u3058\u3055\u3093\u3058\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-19T11:07:15Z",
-      "scheduledStartTime": "2024-05-19T10:50:00Z",
-      "activeLiveChatId": "Cg0KC2JFZ1NEcHRkcm1vKicKGFVDZ21GclJjeUg3ZDF6UjlzSVZRaEZvdxILYkVnU0RwdGRybW8"
-    }
-  },
   "bIhZjNjUst8": {
     "snippet": {
       "publishedAt": "2024-05-15T14:48:09Z",
@@ -3260,6 +3249,7 @@
       "title": "\u3010LETHAL COMPANY BIRTHDAY BASH\u3011Some spooky with the ghostie @SpectraVNU \u3010Pippa Pebblesworth | Globie\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-19T17:02:27Z",
       "scheduledStartTime": "2024-05-19T17:00:00Z",
       "activeLiveChatId": "Cg0KC2J2azNpTFAtYmVBKicKGFVDM0ZXU2RoX0t0RUxhZWU4dDQwMEpiQRILYnZrM2lMUC1iZUE"
     }
@@ -4500,6 +4490,17 @@
       "activeLiveChatId": "Cg0KC3NTZXZjN2dNbW1JKicKGFVDblloSWs5YUdFeF9iSWdoZVZqczUzdxILc1NldmM3Z01tbUk"
     }
   },
+  "sTa69-bQ95U": {
+    "snippet": {
+      "publishedAt": "2024-05-19T16:12:02Z",
+      "channelId": "UC4R6ddhBJp2bjQHVNxgNQSA",
+      "title": "TONEO MARIO KART \u3010 Akugaki Koa / \u30a2\u30af\u30ac\u30ad\u30b3\u30a2 \u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-19T19:00:00Z",
+      "activeLiveChatId": "Cg0KC3NUYTY5LWJROTVVKicKGFVDNFI2ZGRoQkpwMmJqUUhWTnhnTlFTQRILc1RhNjktYlE5NVU"
+    }
+  },
   "sVcoTTSoggo": {
     "snippet": {
       "publishedAt": "2024-03-17T03:18:23Z",
@@ -4900,6 +4901,17 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC3hoejNaZUhYaVI4KicKGFVDZWpiaWNvUm5RakNPZEFQQXY1SlB3ZxILeGh6M1plSFhpUjg"
+    }
+  },
+  "xiulanlong": {
+    "snippet": {
+      "channelId": "xiulanlong",
+      "title": "[VTUBER] I can't whisper but I can shout! \u25cd\u2022\u1d17\u2022\u25cd) !cover !discord !merch",
+      "channelTitle": "XiulanLong"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-19T17:01:24Z",
+      "twitch": true
     }
   },
   "xmOLuuwYxkA": {
