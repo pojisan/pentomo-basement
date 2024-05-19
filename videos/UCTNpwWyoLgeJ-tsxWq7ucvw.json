@@ -316,8 +316,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-19T18:00:45Z",
-      "scheduledStartTime": "2024-05-19T18:00:00Z",
-      "activeLiveChatId": "Cg0KC1ZMQTZWLUxVcTZVKicKGFVDVE5wd1d5b0xnZUotdHN4V3E3dWN2dxILVkxBNlYtTFVxNlU"
+      "actualEndTime": "2024-05-19T19:31:51Z",
+      "scheduledStartTime": "2024-05-19T18:00:00Z"
     }
   },
   "5Tu6xLOyW3U": {
@@ -427,6 +427,18 @@
       "publishedAt": "2024-05-19T04:05:38Z",
       "channelId": "UCTNpwWyoLgeJ-tsxWq7ucvw",
       "title": "#VTuber sings \u201cDitto\u201d (english ver.) #shorts"
+    }
+  },
+  "ukJcE3FO530": {
+    "snippet": {
+      "publishedAt": "2024-05-19T16:51:45Z",
+      "channelId": "UCTNpwWyoLgeJ-tsxWq7ucvw",
+      "title": "\u3010KARAOKE\u30115K ENDURANCE!\u3010VyVid | Eva Ananova \u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-19T19:32:18Z",
+      "scheduledStartTime": "2024-05-19T19:30:00Z",
+      "activeLiveChatId": "Cg0KC3VrSmNFM0ZPNTMwKicKGFVDVE5wd1d5b0xnZUotdHN4V3E3dWN2dxILdWtKY0UzRk81MzA"
     }
   }
 }
