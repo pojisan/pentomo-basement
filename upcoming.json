@@ -308,7 +308,8 @@
       "title": "\u3010ASMR\u3011Soft spoken & singing"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-19T02:00:00Z"
+      "scheduledStartTime": "2024-05-19T02:00:00Z",
+      "activeLiveChatId": "Cg0KCzJHVE5OUFFLajQwKicKGFVDamNiN1B2UEhtajNNTlV5c1ZVZUpjZxILMkdUTk5QUUtqNDA"
     }
   },
   "2UtCfpwOskw": {
@@ -1535,7 +1536,7 @@
       "title": "\u3010MYSTERY GAME??\u3011Time to meet Seth?\u3010VyVid | DaFish \u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-19T02:00:00Z",
+      "scheduledStartTime": "2024-05-19T01:30:00Z",
       "activeLiveChatId": "Cg0KC0pRX2ROQ3BCWmRzKicKGFVDb2R6S2EweWJzZHU5Z0VwOWxwS2c5ZxILSlFfZE5DcEJaZHM"
     }
   },
@@ -1996,7 +1997,7 @@
       "title": "I TRY TO MAKE MIRROR GALAXY CAKE"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-19T03:00:00Z",
+      "scheduledStartTime": "2024-05-19T04:00:00Z",
       "activeLiveChatId": "Cg0KC05hU1lTRHZ1RlFjKicKGFVDRmdYV1pPVVpBMm9ZSE5yNnFEbXNUURILTmFTWVNEdnVGUWM"
     }
   },
@@ -2212,6 +2213,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-01-01T18:55:00Z",
       "activeLiveChatId": "Cg0KC1E3MWNwTDhmQzgwKicKGFVDSzZvQ01pYjYyZVlBSVBybHJZUlZydxILUTcxY3BMOGZDODA"
+    }
+  },
+  "QC7zcWfRQ7E": {
+    "snippet": {
+      "publishedAt": "2024-05-19T01:16:14Z",
+      "channelId": "UC8zgKaS8LiyL28mdhRC2nBg",
+      "title": "VROOM VROOOM\u3010 Idol Cup 2024 \u2502 Mario Kart Tournament \u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-19T19:00:00Z",
+      "activeLiveChatId": "Cg0KC1FDN3pjV2ZSUTdFKicKGFVDOHpnS2FTOExpeUwyOG1kaFJDMm5CZxILUUM3emNXZlJRN0U"
     }
   },
   "QMRsYYxzJB8": {
@@ -2984,18 +2996,6 @@
       "activeLiveChatId": "Cg0KC1o2ZW1JM2E2bWpRKicKGFVDVE5wd1d5b0xnZUotdHN4V3E3dWN2dxILWjZlbUkzYTZtalE"
     }
   },
-  "Z8tOTJUYg6k": {
-    "snippet": {
-      "publishedAt": "2024-05-15T23:47:40Z",
-      "channelId": "UCIeSUTOTkF9Hs7q3SGcO-Ow",
-      "title": "\u30103.0 BRUSH UP\u3011 LOOK AT ME GO!!! YIPPEE!!!!! \u3010NIJISANJI EN | Elira Pendora\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-19T00:01:36Z",
-      "scheduledStartTime": "2024-05-19T00:00:00Z",
-      "activeLiveChatId": "Cg0KC1o4dE9USlVZZzZrKicKGFVDSWVTVVRPVGtGOUhzN3EzU0djTy1PdxILWjh0T1RKVVlnNms"
-    }
-  },
   "Z8x_eZh0-q4": {
     "snippet": {
       "publishedAt": "2021-10-12T07:27:00Z",
@@ -3370,6 +3370,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-20T01:00:00Z",
       "activeLiveChatId": "Cg0KC2R1bmRaQVpvUHpzKicKGFVDM1Q3Tnd5UUJBeWx5V180WE9hOXdFURILZHVuZFpBWm9QenM"
+    }
+  },
+  "duroppucharming": {
+    "snippet": {
+      "channelId": "duroppucharming",
+      "title": "\ud83d\udc28chuu~!\ud83d\udc9a18+ \ud83d\udc9cHow 'bout a nice cup of Libertea  || AUtuber/Envtuber || Alola don't forget me!",
+      "channelTitle": "DuroppuCharming"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-19T01:10:54Z",
+      "twitch": true
     }
   },
   "dwPADgo8YSY": {
