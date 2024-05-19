@@ -5992,8 +5992,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-19T01:07:45Z",
-      "scheduledStartTime": "2024-05-19T01:00:00Z",
-      "activeLiveChatId": "Cg0KC2hBcXh2Q2xEVGZjKicKGFVDcHp4Wlc1a2doR25PNVRtQUZKUUFWdxILaEFxeHZDbERUZmM"
+      "actualEndTime": "2024-05-19T02:13:54Z",
+      "scheduledStartTime": "2024-05-19T01:00:00Z"
     }
   },
   "3aIhk9anIpc": {
@@ -6042,6 +6042,7 @@
       "title": "NEW OUTFIT ZATSUDAN"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-19T02:16:37Z",
       "scheduledStartTime": "2024-05-19T02:15:00Z",
       "activeLiveChatId": "Cg0KC1ZBNlBLWUp4WDlnKicKGFVDcHp4Wlc1a2doR25PNVRtQUZKUUFWdxILVkE2UEtZSnhYOWc"
     }
