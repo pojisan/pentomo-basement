@@ -4984,12 +4984,24 @@
     "snippet": {
       "publishedAt": "2024-05-17T01:48:08Z",
       "channelId": "UCT41WnQY3O2F7Obi1hhPOyA",
-      "title": "\u3010Karaoke Stream (Achived)\u3011Drunk Barmaido Tries to Sing"
+      "title": "\u3010Karaoke Stream (Achived)\u3011Drunk Barmaido Tries to Sing",
+      "private": true
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-17T03:04:00Z",
       "scheduledStartTime": "2024-05-17T03:00:00Z",
       "activeLiveChatId": "Cg0KCzhGeC1HOEhKUnFzKicKGFVDVDQxV25RWTNPMkY3T2JpMWhoUE95QRILOEZ4LUc4SEpScXM"
+    }
+  },
+  "dU7jaSbmp3M": {
+    "snippet": {
+      "publishedAt": "2024-05-19T00:57:37Z",
+      "channelId": "UCT41WnQY3O2F7Obi1hhPOyA",
+      "title": "\u3010Diablo 4\u3011 Insane build for insane barmaido"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-19T01:05:00Z",
+      "activeLiveChatId": "Cg0KC2RVN2phU2JtcDNNKicKGFVDVDQxV25RWTNPMkY3T2JpMWhoUE95QRILZFU3amFTYm1wM00"
     }
   }
 }
