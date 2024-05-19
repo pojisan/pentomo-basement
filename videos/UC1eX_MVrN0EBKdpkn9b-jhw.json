@@ -1462,5 +1462,27 @@
       "actualEndTime": "2024-05-17T15:45:38Z",
       "scheduledStartTime": "2024-05-17T12:30:00Z"
     }
+  },
+  "Yw2Ny_XgltQ": {
+    "snippet": {
+      "publishedAt": "2024-05-19T18:08:44Z",
+      "channelId": "UC1eX_MVrN0EBKdpkn9b-jhw",
+      "title": "IDK"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-20T13:00:00Z",
+      "activeLiveChatId": "Cg0KC1l3Mk55X1hnbHRRKicKGFVDMWVYX01Wck4wRUJLZHBrbjliLWpodxILWXcyTnlfWGdsdFE"
+    }
+  },
+  "3Oq8unehBvQ": {
+    "snippet": {
+      "publishedAt": "2024-05-19T18:11:36Z",
+      "channelId": "UC1eX_MVrN0EBKdpkn9b-jhw",
+      "title": "Talking Session with Sanguia The Jungle Tavern"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-22T00:00:00Z",
+      "activeLiveChatId": "Cg0KCzNPcTh1bmVoQnZRKicKGFVDMWVYX01Wck4wRUJLZHBrbjliLWpodxILM09xOHVuZWhCdlE"
+    }
   }
 }
