@@ -1438,7 +1438,7 @@
       "title": "\u3010VTUBING Q&A\u3011Class Of 2024 - Answering YOUR Questions!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-19T15:30:00Z",
+      "scheduledStartTime": "2024-05-20T15:00:00Z",
       "activeLiveChatId": "Cg0KC0syUnpvVEZqdm04KicKGFVDSzZvQ01pYjYyZVlBSVBybHJZUlZydxILSzJSem9URmp2bTg"
     }
   },
@@ -2274,6 +2274,7 @@
       "title": "\ud83d\udd34\u3010VALORANT\u3011 MY FIRST VALO EXPERIENCE!! \u2728 Playing With Viewers~"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-19T13:02:43Z",
       "scheduledStartTime": "2024-05-19T13:00:00Z",
       "activeLiveChatId": "Cg0KC1RDUTNzNFZtUmFVKicKGFVDNDE3UVBhV0xMNHJjWUJBRVNQTGZyQRILVENRM3M0Vm1SYVU"
     }
@@ -2729,6 +2730,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2026-05-15T19:00:00Z",
       "activeLiveChatId": "Cg0KC1h2Zlc5SlVKdWtRKicKGFVDSDI0YXNpSXFzVlVRbHo4RnZYSmJjdxILWHZmVzlKVUp1a1E"
+    }
+  },
+  "XzFLSn-Q-Uc": {
+    "snippet": {
+      "publishedAt": "2024-05-19T13:08:09Z",
+      "channelId": "UCV-9dgtVXHmqvzY9qdvoGYA",
+      "title": "OUR PERSONALITIES ARE MESSED UP!! MBTI quiz w/ @yunohanaki"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-20T13:00:00Z",
+      "activeLiveChatId": "Cg0KC1h6RkxTbi1RLVVjKicKGFVDVi05ZGd0VlhIbXF2elk5cWR2b0dZQRILWHpGTFNuLVEtVWM"
     }
   },
   "XzkNg89Cq9Y": {
@@ -4217,17 +4229,6 @@
       "activeLiveChatId": "Cg0KC3NTZXZjN2dNbW1JKicKGFVDblloSWs5YUdFeF9iSWdoZVZqczUzdxILc1NldmM3Z01tbUk"
     }
   },
-  "sayu": {
-    "snippet": {
-      "channelId": "sayu",
-      "title": "AFK Journey CATCH UP! #ad\u2503!website !merch",
-      "channelTitle": "Sayu"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-19T03:30:55Z",
-      "twitch": true
-    }
-  },
   "skTCKgM7biI": {
     "snippet": {
       "publishedAt": "2024-02-26T04:33:52Z",
@@ -4279,6 +4280,7 @@
       "title": "\u3010\u5b66\u5712\u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc\u3011\u304a\u5b22\u69d8\u30d7\u30ed\u30c7\u30e5\u30fc\u30b9\u3002\u3055\u305b\u3066\u304f\u3060\u3055\u3044\u307e\u3057\u203c\u3010\u6700\u65b0\u4f5c\u3078\u5165\u5b66\u3067\u3059\u308f\uff5e\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-19T13:01:18Z",
       "scheduledStartTime": "2024-05-19T13:00:00Z",
       "activeLiveChatId": "Cg0KC3RLWVFKN2xVTDU4KicKGFVDZ0lmTHBRdmVsbG9EaThJMFljYndwZxILdEtZUUo3bFVMNTg"
     }
