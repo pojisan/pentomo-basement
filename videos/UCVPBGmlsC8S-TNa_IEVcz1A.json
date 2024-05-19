@@ -896,12 +896,24 @@
     "snippet": {
       "publishedAt": "2024-05-19T01:57:10Z",
       "channelId": "UCVPBGmlsC8S-TNa_IEVcz1A",
-      "title": "\u2600\ufe0f\u3010GOLDEN SUN: TLA\u3011#9 GOTTA CATCH EM' ALL, DJINNMON\u3010Yume+ | Raein Clowd\u3011"
+      "title": "\u2600\ufe0f\u3010GOLDEN SUN: TLA\u3011#9 GOTTA CATCH EM' ALL, DJINNMON\u3010Yume+ | Raein Clowd\u3011",
+      "private": true
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-19T15:38:19Z",
       "scheduledStartTime": "2024-05-19T15:30:00Z",
       "activeLiveChatId": "Cg0KC2FVMWZwUk8wM2YwKicKGFVDVlBCR21sc0M4Uy1UTmFfSUVWY3oxQRILYVUxZnBSTzAzZjA"
+    }
+  },
+  "isa7N_4WMHs": {
+    "snippet": {
+      "publishedAt": "2024-05-19T15:47:11Z",
+      "channelId": "UCVPBGmlsC8S-TNa_IEVcz1A",
+      "title": "\u2600\ufe0f\u3010GOLDEN SUN: TLA\u3011#9 GOTTA CATCH EM' ALL, DJINNMON\u3010Yume+ | Raein Clowd\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-19T15:45:00Z",
+      "activeLiveChatId": "Cg0KC2lzYTdOXzRXTUhzKicKGFVDVlBCR21sc0M4Uy1UTmFfSUVWY3oxQRILaXNhN05fNFdNSHM"
     }
   }
 }
