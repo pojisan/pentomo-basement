@@ -370,6 +370,7 @@
       "title": "\u3010Karaoke\u3011Press 1 for a Will to Live\u3010Yume+ | Mimosa Shirosaki\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-19T16:29:34Z",
       "scheduledStartTime": "2024-05-19T16:30:00Z",
       "activeLiveChatId": "Cg0KCzNLMm9xTFRUZDYwKicKGFVDcW1TWWtYTHdzTDB6RWFyNUdvb1lrZxILM0syb3FMVFRkNjA"
     }
@@ -1837,7 +1838,7 @@
       "title": "I took my Dog to see the Bunny Girls... [Bunny Garden]\u3010NIJISANJI EN | Doppio Dropscythe\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-20T12:10:00Z",
+      "scheduledStartTime": "2024-05-26T12:00:00Z",
       "activeLiveChatId": "Cg0KC01oa0VrTmtkQkJvKicKGFVDeTkxeEJsWV9CcmgzYm5IeEt0anJyZxILTWhrRWtOa2RCQm8"
     }
   },
@@ -2993,6 +2994,7 @@
       "title": "\u3010Who you would live with?!?!\u3011LETS GOO I GET TO LIVE WITH KAFKA\u3010Sarugaku Leon Jr. | Globie\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-19T16:30:02Z",
       "scheduledStartTime": "2024-05-19T16:30:00Z",
       "activeLiveChatId": "Cg0KC1owN0dfWERRQTZJKicKGFVDLUxBbkZMWFU5QnVzRnY3bjhsRmo4ZxILWjA3R19YRFFBNkk"
     }
@@ -4485,6 +4487,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-08-30T04:35:00Z",
       "activeLiveChatId": "Cg0KC3NrVENLZ003YmlJKicKGFVDazB2dXd3c21fVVFISElPZ0d2eFUtQRILc2tUQ0tnTTdiaUk"
+    }
+  },
+  "ssDmDI8BTrI": {
+    "snippet": {
+      "publishedAt": "2024-05-19T16:30:00Z",
+      "channelId": "UC-W-yaVIjqkXoh6dZ6_TcMA",
+      "title": "tonight we dine in MARIO KART!\u3010idolcup 2024 tournament | Ruby Runeheart\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-19T19:00:00Z",
+      "activeLiveChatId": "Cg0KC3NzRG1ESThCVHJJKicKGFVDLVcteWFWSWpxa1hvaDZkWjZfVGNNQRILc3NEbURJOEJUckk"
     }
   },
   "su2wbOAvLjI": {
