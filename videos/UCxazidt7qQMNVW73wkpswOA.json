@@ -1011,7 +1011,7 @@
     "snippet": {
       "publishedAt": "2023-11-20T14:49:46Z",
       "channelId": "UCxazidt7qQMNVW73wkpswOA",
-      "title": "\u3010SCHEDULE\u3011May 13 - May 19"
+      "title": "\u3010SCHEDULE\u3011May 20 - May 26"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2026-05-01T03:45:00Z",
@@ -1527,6 +1527,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-24T02:00:00Z",
       "activeLiveChatId": "Cg0KCy1oT190SEFSWEVjKicKGFVDeGF6aWR0N3FRTU5WVzczd2twc3dPQRILLWhPX3RIQVJYRWM"
+    }
+  },
+  "nztel4scx7o": {
+    "snippet": {
+      "publishedAt": "2024-05-20T22:01:30Z",
+      "channelId": "UCxazidt7qQMNVW73wkpswOA",
+      "title": "boomer tries shorts stream...is this thing on? \ud83d\udc75"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-27T03:00:00Z",
+      "activeLiveChatId": "Cg0KC256dGVsNHNjeDdvKicKGFVDeGF6aWR0N3FRTU5WVzczd2twc3dPQRILbnp0ZWw0c2N4N28"
     }
   }
 }
