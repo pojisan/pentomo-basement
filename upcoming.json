@@ -1873,6 +1873,7 @@
       "title": "maybe i need to get an actual job"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-20T13:59:47Z",
       "scheduledStartTime": "2024-05-20T14:00:00Z",
       "activeLiveChatId": "Cg0KC0lSbktxTktVdDBBKicKGFVDb05oejRPcXl4ZEV1dWZtRXo4ZW95QRILSVJuS3FOS1V0MEE"
     }
@@ -4379,6 +4380,7 @@
       "title": "Are we finally fighting Stormterror??\u3010GENSHIN IMPACT\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-20T14:01:02Z",
       "scheduledStartTime": "2024-05-20T14:00:00Z",
       "activeLiveChatId": "Cg0KC2Z1OFltWUdzLWRRKicKGFVDX3pwa3FGdDdZQnlXYVBpOUJ4dDdFURILZnU4WW1ZR3MtZFE"
     }
@@ -5472,17 +5474,6 @@
       "activeLiveChatId": "Cg0KC3JnZGk4YnRlUWdjKicKGFVDOHpnS2FTOExpeUwyOG1kaFJDMm5CZxILcmdkaThidGVRZ2M"
     }
   },
-  "riyu_thelamb": {
-    "snippet": {
-      "channelId": "riyu_thelamb",
-      "title": "Rimworld!! baby making time. \u3010PROJECT VERSES\u3011",
-      "channelTitle": "riyu_thelamb"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-20T11:23:48Z",
-      "twitch": true
-    }
-  },
   "rn2SX1mvIyc": {
     "snippet": {
       "publishedAt": "2023-01-17T06:13:35Z",
@@ -5848,6 +5839,18 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-12-25T20:00:00Z",
       "activeLiveChatId": "Cg0KC3ZneXNsSjdCdnhRKicKGFVDOXhSN3VOMHg1YTZDSDNVb3BxN2N6QRILdmd5c2xKN0J2eFE"
+    }
+  },
+  "vh78IdP7uGE": {
+    "snippet": {
+      "publishedAt": "2024-05-20T13:53:21Z",
+      "channelId": "UC6EgjUZSYSAQe9CDFxH715w",
+      "title": "\u30c9\u30a5\u304d\u307e\u30ae\u30eb\u30c9\u6bce\u9031\u6708\u66dc\u65e5\u306f\u30a2\u30f3\u30da\u30fc\u30c7\u3060\u3088\u3049\u3000#\u30c9\u30a5\u30fc\u30e0\u30ba\u30c7\u30a3"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-20T14:00:31Z",
+      "scheduledStartTime": "2024-05-20T14:00:00Z",
+      "activeLiveChatId": "Cg0KC3ZoNzhJZFA3dUdFKicKGFVDNkVnalVaU1lTQVFlOUNERnhINzE1dxILdmg3OElkUDd1R0U"
     }
   },
   "vhJIMpQAWwQ": {
