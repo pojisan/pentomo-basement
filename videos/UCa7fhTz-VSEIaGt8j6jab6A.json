@@ -230,7 +230,7 @@
     "snippet": {
       "publishedAt": "2024-05-16T17:05:09Z",
       "channelId": "UCa7fhTz-VSEIaGt8j6jab6A",
-      "title": "\u3010VERTICAL\u3011FIRST UNARCHIVED KARAOKE STREAM! SINGIN' THE CLASSICS! #shorts"
+      "title": "\u3010VERTICAL\u3011FIRST ARCHIVED KARAOKE STREAM! SINGIN' THE CLASSICS! #shorts"
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-17T21:34:24Z",
@@ -258,8 +258,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-20T20:06:49Z",
-      "scheduledStartTime": "2024-05-20T20:06:11Z",
-      "activeLiveChatId": "Cg0KC3FHV0NtaGNycThvKicKGFVDYTdmaFR6LVZTRUlhR3Q4ajZqYWI2QRILcUdXQ21oY3JxOG8"
+      "actualEndTime": "2024-05-20T22:59:26Z",
+      "scheduledStartTime": "2024-05-20T20:06:11Z"
     }
   }
 }

@@ -7785,9 +7785,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-20T22:30:07Z",
-      "scheduledStartTime": "2024-05-20T22:30:00Z",
-      "activeLiveChatId": "Cg0KC1h6a05nODlDcTlZKicKGFVDTXdHSFIwQlRadUxzbWpZX05UNVB3ZxILWHprTmc4OUNxOVk",
-      "premiere": true
+      "actualEndTime": "2024-05-20T22:34:54Z",
+      "scheduledStartTime": "2024-05-20T22:30:00Z"
     }
   },
   "EhqcF4lBAJI": {
@@ -7833,6 +7832,7 @@
       "title": "WOW MIRACULOUSLY PRESERVED ANOTHER YEAR #BdayINA2024"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-20T23:00:39Z",
       "scheduledStartTime": "2024-05-20T23:00:00Z",
       "activeLiveChatId": "Cg0KC0ZDbEFwV05La0hJKicKGFVDTXdHSFIwQlRadUxzbWpZX05UNVB3ZxILRkNsQXBXTktrSEk"
     }

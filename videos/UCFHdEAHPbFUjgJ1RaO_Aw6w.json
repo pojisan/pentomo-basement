@@ -574,8 +574,18 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-20T17:00:01Z",
       "actualEndTime": "2024-05-20T20:01:32Z",
-      "scheduledStartTime": "2024-05-20T17:00:00Z",
-      "activeLiveChatId": "Cg0KC2FwdGZJRUJzWjFvKicKGFVDRkhkRUFIUGJGVWpnSjFSYU9fQXc2dxILYXB0ZklFQnNaMW8"
+      "scheduledStartTime": "2024-05-20T17:00:00Z"
+    }
+  },
+  "KORRgKI-ZEM": {
+    "snippet": {
+      "publishedAt": "2024-05-20T13:24:00Z",
+      "channelId": "UCFHdEAHPbFUjgJ1RaO_Aw6w",
+      "title": "\u3010DRAWING\u3011More Vtuber Outfit Swap Fanart\u3010globie 2nd Gen - Equinnox\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-23T17:00:00Z",
+      "activeLiveChatId": "Cg0KC0tPUlJnS0ktWkVNKicKGFVDRkhkRUFIUGJGVWpnSjFSYU9fQXc2dxILS09SUmdLSS1aRU0"
     }
   }
 }
