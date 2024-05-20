@@ -2836,5 +2836,16 @@
       "actualEndTime": "2023-09-30T05:27:39Z",
       "scheduledStartTime": "2023-09-30T02:49:03Z"
     }
+  },
+  "nr-Hlbnic-0": {
+    "snippet": {
+      "publishedAt": "2024-05-20T14:59:09Z",
+      "channelId": "UCUfgKgCxtFs1ZPlyiM3JcTw",
+      "title": "THIS GAME IS INSANE"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-22T00:00:00Z",
+      "activeLiveChatId": "Cg0KC25yLUhsYm5pYy0wKicKGFVDVWZnS2dDeHRGczFaUGx5aU0zSmNUdxILbnItSGxibmljLTA"
+    }
   }
 }
