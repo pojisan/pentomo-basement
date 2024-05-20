@@ -891,6 +891,7 @@
       "title": "oh hello? yes, it's lottie!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-20T22:31:52Z",
       "scheduledStartTime": "2024-05-20T22:30:00Z",
       "activeLiveChatId": "Cg0KCzhQUDJoVmRuY1BzKicKGFVDaXl6b3JETnc2dEpXR0VWSXRINFNtZxILOFBQMmhWZG5jUHM"
     }
@@ -2649,18 +2650,6 @@
       "activeLiveChatId": "Cg0KC05Ebjl2TXR3OHdVKicKGFVDQmdoVUtBX0wwbmEwU2VRNnNuek1NURILTkRuOXZNdHc4d1U"
     }
   },
-  "NMw1DK8dFTQ": {
-    "snippet": {
-      "publishedAt": "2024-05-20T13:10:04Z",
-      "channelId": "UCqlgtk9H_1GoWtvW8Vii38w",
-      "title": "\u3010Mahjong Soul\u3011I am here for the cute girls\u3010Alicja Da Lontano | Globie Gen 2 Solstia\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-20T19:08:10Z",
-      "scheduledStartTime": "2024-05-20T19:00:00Z",
-      "activeLiveChatId": "Cg0KC05NdzFESzhkRlRRKicKGFVDcWxndGs5SF8xR29XdHZXOFZpaTM4dxILTk13MURLOGRGVFE"
-    }
-  },
   "NWZt11LYBlI": {
     "snippet": {
       "publishedAt": "2021-12-12T18:20:25Z",
@@ -3670,7 +3659,7 @@
       "title": "Playing with viewers in Apex(Gold and Diamond quasos)\ud83d\udc7c"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-25T12:00:00Z",
+      "scheduledStartTime": "2024-05-26T12:00:00Z",
       "activeLiveChatId": "Cg0KC1dfTFNZVmhCQWdzKicKGFVDUmtkRkdYd0J0eHZtOVNzZm1ObU1aQRILV19MU1lWaEJBZ3M"
     }
   },
@@ -3843,18 +3832,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-23T19:00:00Z",
       "activeLiveChatId": "Cg0KC1h5bTBQNXd6QUpZKicKGFVDeWtNV2Y4QjhJN2NfakE4RlR5MnRHdxILWHltMFA1d3pBSlk"
-    }
-  },
-  "XzkNg89Cq9Y": {
-    "snippet": {
-      "publishedAt": "2024-05-17T08:43:13Z",
-      "channelId": "UCMwGHR0BTZuLsmjY_NT5Pwg",
-      "title": "\u300eMECONOPSIS\u300f - Ninomae Ina'nis"
-    },
-    "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-20T22:30:00Z",
-      "activeLiveChatId": "Cg0KC1h6a05nODlDcTlZKicKGFVDTXdHSFIwQlRadUxzbWpZX05UNVB3ZxILWHprTmc4OUNxOVk",
-      "premiere": true
     }
   },
   "Y-0DqSNsaZU": {
@@ -4436,7 +4413,7 @@
       "title": "An angel at the Closing Shift?!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-26T16:00:00Z",
+      "scheduledStartTime": "2024-05-25T16:00:00Z",
       "activeLiveChatId": "Cg0KC2M3YTZsWmpfNmJFKicKGFVDUmtkRkdYd0J0eHZtOVNzZm1ObU1aQRILYzdhNmxaal82YkU"
     }
   },
