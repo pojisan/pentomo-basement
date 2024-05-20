@@ -113,7 +113,8 @@
     "snippet": {
       "publishedAt": "2024-04-07T20:50:02Z",
       "channelId": "UCbZZlqASU668-wyW1K2kYBw",
-      "title": "\u3010This Week's Schedule\u3011May 20th - 26th"
+      "title": "\u3010This Week's Schedule\u3011May 20th - 26th",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-07-01T22:00:00Z",
@@ -408,7 +409,8 @@
     "snippet": {
       "publishedAt": "2024-05-11T15:29:57Z",
       "channelId": "UCbZZlqASU668-wyW1K2kYBw",
-      "title": "REM Kanashibari Merch! \ud83d\udc99"
+      "title": "REM Kanashibari Merch! \ud83d\udc99",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2026-05-11T15:30:00Z"
@@ -462,6 +464,17 @@
       "publishedAt": "2024-05-17T15:46:47Z",
       "channelId": "UCbZZlqASU668-wyW1K2kYBw",
       "title": "VTuber crashes truck - no survivors found. RIP"
+    }
+  },
+  "PffI25sRfk4": {
+    "snippet": {
+      "publishedAt": "2024-05-20T14:06:38Z",
+      "channelId": "UCbZZlqASU668-wyW1K2kYBw",
+      "title": "\ud83d\udcda Library ASMR \ud83d\udcda soft-whispers \u2022 keyboard typing \u2022 page turning \u2022 book sounds | 3DIO Binaural ASMR"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-21T22:30:00Z",
+      "activeLiveChatId": "Cg0KC1BmZkkyNXNSZms0KicKGFVDYlpabHFBU1U2Njgtd3lXMUsya1lCdxILUGZmSTI1c1JmazQ"
     }
   }
 }
