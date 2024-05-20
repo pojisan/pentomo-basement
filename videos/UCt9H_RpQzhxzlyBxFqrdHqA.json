@@ -44,8 +44,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-05T00:55:09Z",
       "actualEndTime": "2024-05-05T04:49:22Z",
-      "scheduledStartTime": "2024-05-05T01:00:00Z",
-      "activeLiveChatId": "Cg0KC1ctUEZzRnotYmpVKicKGFVDdDlIX1JwUXpoeHpseUJ4RnFyZEhxQRILVy1QRnNGei1ialU"
+      "scheduledStartTime": "2024-05-05T01:00:00Z"
     }
   },
   "sNcEPTpecuQ": {
@@ -3987,8 +3986,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-05T10:55:11Z",
       "actualEndTime": "2024-05-05T13:10:27Z",
-      "scheduledStartTime": "2024-05-05T11:00:00Z",
-      "activeLiveChatId": "Cg0KC3NRZjE2WG1VMzZnKicKGFVDdDlIX1JwUXpoeHpseUJ4RnFyZEhxQRILc1FmMTZYbVUzNmc"
+      "scheduledStartTime": "2024-05-05T11:00:00Z"
     }
   },
   "QADz5JuhuaA": {
@@ -4037,8 +4035,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-08T00:55:16Z",
       "actualEndTime": "2024-05-08T04:27:10Z",
-      "scheduledStartTime": "2024-05-08T01:00:00Z",
-      "activeLiveChatId": "Cg0KC3JYZ2R4ZnlMVWQwKicKGFVDdDlIX1JwUXpoeHpseUJ4RnFyZEhxQRILclhnZHhmeUxVZDA"
+      "scheduledStartTime": "2024-05-08T01:00:00Z"
     }
   },
   "PCYUtMzwJeo": {
@@ -4050,8 +4047,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-09T00:55:37Z",
       "actualEndTime": "2024-05-09T04:10:55Z",
-      "scheduledStartTime": "2024-05-09T01:00:00Z",
-      "activeLiveChatId": "Cg0KC1BDWVV0TXp3SmVvKicKGFVDdDlIX1JwUXpoeHpseUJ4RnFyZEhxQRILUENZVXRNendKZW8"
+      "scheduledStartTime": "2024-05-09T01:00:00Z"
     }
   },
   "ckrp6_LOr5A": {
@@ -4063,8 +4059,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-10T00:55:15Z",
       "actualEndTime": "2024-05-10T06:30:41Z",
-      "scheduledStartTime": "2024-05-10T01:00:00Z",
-      "activeLiveChatId": "Cg0KC2NrcnA2X0xPcjVBKicKGFVDdDlIX1JwUXpoeHpseUJ4RnFyZEhxQRILY2tycDZfTE9yNUE"
+      "scheduledStartTime": "2024-05-10T01:00:00Z"
     }
   },
   "b7e9XNZe9c0": {
@@ -4075,19 +4070,31 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-10T14:55:18Z",
-      "scheduledStartTime": "2024-05-10T15:00:00Z",
-      "activeLiveChatId": "Cg0KC2I3ZTlYTlplOWMwKicKGFVDdDlIX1JwUXpoeHpseUJ4RnFyZEhxQRILYjdlOVhOWmU5YzA",
-      "premiere": true
+      "actualEndTime": "2024-05-10T15:32:16Z",
+      "scheduledStartTime": "2024-05-10T15:00:00Z"
     }
   },
   "Fae7QrHt1uI": {
     "snippet": {
       "publishedAt": "2024-05-08T16:07:36Z",
       "channelId": "UCt9H_RpQzhxzlyBxFqrdHqA",
-      "title": "\u3010FUWAMOCO ROCK N' RAWR PARTY\u3011fluffy favorites fill your heart \ud83e\ude75 #shorts \u3010FUWAWA SOLO \u7e26\u578b\u914d\u4fe1 VERTICAL\u3011"
+      "title": "\u3010FUWAMOCO ROCK N' RAWR PARTY\u3011fluffy favorites fill your heart \ud83e\ude75 #shorts \u3010FUWAWA SOLO \u7e26\u578b\u914d\u4fe1 VERTICAL\u3011",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-12T01:00:00Z"
+    }
+  },
+  "FwmPP6XE0PY": {
+    "snippet": {
+      "publishedAt": "2024-05-19T03:54:09Z",
+      "channelId": "UCt9H_RpQzhxzlyBxFqrdHqA",
+      "title": "\u3010WE MISSED YOU\u3011we missed you we missed you we missed you \ud83d\udc3e\ud83d\udc93 \u3010FUWAMOCO\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-19T00:55:35Z",
+      "actualEndTime": "2024-05-19T03:42:53Z",
+      "scheduledStartTime": "2024-05-19T01:00:00Z"
     }
   }
 }

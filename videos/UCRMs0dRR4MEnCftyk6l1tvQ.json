@@ -20,8 +20,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-06T16:05:14Z",
       "actualEndTime": "2024-05-06T16:39:35Z",
-      "scheduledStartTime": "2024-05-06T16:00:00Z",
-      "activeLiveChatId": "Cg0KC0J6QWF2ZUR5U2trKicKGFVDUk1zMGRSUjRNRW5DZnR5azZsMXR2URILQnpBYXZlRHlTa2s"
+      "scheduledStartTime": "2024-05-06T16:00:00Z"
     }
   },
   "rm9_sDFPZZ4": {
@@ -214,21 +213,19 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-10T19:23:20Z",
       "actualEndTime": "2024-05-10T20:48:47Z",
-      "scheduledStartTime": "2024-05-10T19:00:00Z",
-      "activeLiveChatId": "Cg0KC21reFBneGxpNTBNKicKGFVDUk1zMGRSUjRNRW5DZnR5azZsMXR2URILbWt4UGd4bGk1ME0"
+      "scheduledStartTime": "2024-05-10T19:00:00Z"
     }
   },
   "o3XuTecbEVc": {
     "snippet": {
       "publishedAt": "2024-05-12T00:08:46Z",
       "channelId": "UCRMs0dRR4MEnCftyk6l1tvQ",
-      "title": "Reboot - idol ENCORE (Official Music Video)"
+      "title": "REBOOT - idol ENCORE (Official Music Video)"
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-12T01:20:06Z",
-      "scheduledStartTime": "2024-05-12T01:20:00Z",
-      "activeLiveChatId": "Cg0KC28zWHVUZWNiRVZjKicKGFVDUk1zMGRSUjRNRW5DZnR5azZsMXR2URILbzNYdVRlY2JFVmM",
-      "premiere": true
+      "actualEndTime": "2024-05-12T01:25:20Z",
+      "scheduledStartTime": "2024-05-12T01:20:00Z"
     }
   },
   "16-6T6G21a0": {

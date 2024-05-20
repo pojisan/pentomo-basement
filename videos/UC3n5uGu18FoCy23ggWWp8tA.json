@@ -4809,12 +4809,25 @@
     "snippet": {
       "publishedAt": "2024-05-05T02:19:58Z",
       "channelId": "UC3n5uGu18FoCy23ggWWp8tA",
-      "title": "\u3010MUMEI RADIO\u3011Replaying All The Hits #shorts"
+      "title": "\u3010MUMEI RADIO\u3011Replaying All The Hits #shorts",
+      "private": true
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-05T05:02:02Z",
       "scheduledStartTime": "2024-05-05T05:00:00Z",
       "activeLiveChatId": "Cg0KCzVfTk5VTXFOZWZjKicKGFVDM241dUd1MThGb0N5MjNnZ1dXcDh0QRILNV9OTlVNcU5lZmM"
+    }
+  },
+  "jUiVdz4J5ew": {
+    "snippet": {
+      "publishedAt": "2024-05-19T06:41:41Z",
+      "channelId": "UC3n5uGu18FoCy23ggWWp8tA",
+      "title": "\u3010OH HI\u3011 kyun :("
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-19T03:03:50Z",
+      "actualEndTime": "2024-05-19T06:03:36Z",
+      "scheduledStartTime": "2024-05-19T03:00:00Z"
     }
   }
 }

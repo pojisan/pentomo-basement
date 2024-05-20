@@ -2542,8 +2542,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-05T22:50:53Z",
       "actualEndTime": "2024-05-06T01:40:53Z",
-      "scheduledStartTime": "2024-05-05T22:45:00Z",
-      "activeLiveChatId": "Cg0KC2JMeVk5cXNhS1BrKicKGFVDUGFOSTJWVURjMkwwQ1VYVEp6dG80QRILYkx5WTlxc2FLUGs"
+      "scheduledStartTime": "2024-05-05T22:45:00Z"
     }
   },
   "gWrLvT2Y27I": {
@@ -2581,7 +2580,7 @@
     "snippet": {
       "publishedAt": "2024-05-08T22:10:09Z",
       "channelId": "UCPaNI2VUDc2L0CUXTJzto4A",
-      "title": "Show me your Phone! \ud83d\udca2 #meme"
+      "title": "Show me your Phone! \ud83d\udca2"
     }
   },
   "NeWahvoOsOc": {
@@ -2616,16 +2615,15 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-09T23:17:20Z",
-      "scheduledStartTime": "2024-05-09T23:00:00Z",
-      "activeLiveChatId": "Cg0KC1l0OHVhWEtYbzhRKicKGFVDUGFOSTJWVURjMkwwQ1VYVEp6dG80QRILWXQ4dWFYS1hvOFE",
-      "premiere": true
+      "actualEndTime": "2024-05-10T02:01:19Z",
+      "scheduledStartTime": "2024-05-09T23:00:00Z"
     }
   },
   "BaCCgE7VpYs": {
     "snippet": {
       "publishedAt": "2024-05-13T01:16:33Z",
       "channelId": "UCPaNI2VUDc2L0CUXTJzto4A",
-      "title": "night chat~! \ud83d\udca4 lazing around and chatting in VR! #shorts #shortslive #shortsfeed"
+      "title": "night chat~! \ud83d\udca4 lazing around and chatting in VR!"
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-13T03:26:21Z",

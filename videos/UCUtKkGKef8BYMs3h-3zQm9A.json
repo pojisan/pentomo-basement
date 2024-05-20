@@ -7616,8 +7616,31 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-08T14:01:46Z",
       "actualEndTime": "2024-05-08T16:28:53Z",
-      "scheduledStartTime": "2024-05-08T14:00:00Z",
-      "activeLiveChatId": "Cg0KC0ZrTGJqc3YzUktNKicKGFVDVXRLa0dLZWY4QllNczNoLTN6UW05QRILRmtMYmpzdjNSS00"
+      "scheduledStartTime": "2024-05-08T14:00:00Z"
+    }
+  },
+  "Jzdn3ocz2dg": {
+    "snippet": {
+      "publishedAt": "2024-05-19T14:42:14Z",
+      "channelId": "UCUtKkGKef8BYMs3h-3zQm9A",
+      "title": "\ud83c\udfb5\u3010Karaoke\u3011 Suha's J-pop & Anime song Playlist \u3010NIJISANJI\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-19T11:17:08Z",
+      "actualEndTime": "2024-05-19T14:29:57Z",
+      "scheduledStartTime": "2024-05-19T11:15:00Z"
+    }
+  },
+  "cR-t_p61D5s": {
+    "snippet": {
+      "publishedAt": "2024-05-16T11:31:34Z",
+      "channelId": "UCUtKkGKef8BYMs3h-3zQm9A",
+      "title": "\ud83c\udf0a\u3010Refind Self\u3011 \uc218\ud558\ub294 ENFP\uac00 \uc544\ub2d0\uc9c0\ub3c4 \ubab0\ub77c   \u3010KR\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-16T09:01:28Z",
+      "actualEndTime": "2024-05-16T11:21:25Z",
+      "scheduledStartTime": "2024-05-16T09:00:00Z"
     }
   }
 }

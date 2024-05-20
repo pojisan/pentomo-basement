@@ -3998,8 +3998,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-04T16:13:19Z",
       "actualEndTime": "2024-05-04T20:27:33Z",
-      "scheduledStartTime": "2024-05-04T16:00:00Z",
-      "activeLiveChatId": "Cg0KC1RBZmdzN0J4NW1FKicKGFVDel9aUnc2YWs0Rm95OHpaeTBrRXByURILVEFmZ3M3Qng1bUU"
+      "scheduledStartTime": "2024-05-04T16:00:00Z"
     }
   },
   "RsmOou3TRz4": {
@@ -4011,8 +4010,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-06T14:05:04Z",
       "actualEndTime": "2024-05-06T16:46:58Z",
-      "scheduledStartTime": "2024-05-06T14:00:00Z",
-      "activeLiveChatId": "Cg0KC1JzbU9vdTNUUno0KicKGFVDel9aUnc2YWs0Rm95OHpaeTBrRXByURILUnNtT291M1RSejQ"
+      "scheduledStartTime": "2024-05-06T14:00:00Z"
     }
   },
   "hxPs7rkgsOs": {
@@ -4043,13 +4041,12 @@
     "snippet": {
       "publishedAt": "2024-05-09T11:10:25Z",
       "channelId": "UCz_ZRw6ak4Foy8zZy0kEprQ",
-      "title": "\u3010COOKING HANDCAM W/MOM\u3011| MAKING GAMBAS AL AJILLO \ud83d\udda4\ud83e\udd90"
+      "title": "\u3010COOKING HANDCAM W/MOM\u3011| gambas al ajillo \ud83d\udda4\ud83e\udd90"
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-09T15:00:07Z",
-      "scheduledStartTime": "2024-05-09T15:00:00Z",
-      "activeLiveChatId": "Cg0KC1kwaUQtSktENG1rKicKGFVDel9aUnc2YWs0Rm95OHpaeTBrRXByURILWTBpRC1KS0Q0bWs",
-      "premiere": true
+      "actualEndTime": "2024-05-09T15:39:44Z",
+      "scheduledStartTime": "2024-05-09T15:00:00Z"
     }
   },
   "qiX5WPi9OkQ": {
@@ -4097,8 +4094,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-15T16:02:21Z",
       "actualEndTime": "2024-05-15T20:08:04Z",
-      "scheduledStartTime": "2024-05-15T15:45:00Z",
-      "activeLiveChatId": "Cg0KC1dHM1VWMmd2UXBnKicKGFVDel9aUnc2YWs0Rm95OHpaeTBrRXByURILV0czVVYyZ3ZRcGc"
+      "scheduledStartTime": "2024-05-15T15:45:00Z"
     }
   },
   "5a499bVDykQ": {
@@ -4110,8 +4106,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-16T16:01:37Z",
       "actualEndTime": "2024-05-16T18:56:51Z",
-      "scheduledStartTime": "2024-05-16T15:45:00Z",
-      "activeLiveChatId": "Cg0KCzVhNDk5YlZEeWtRKicKGFVDel9aUnc2YWs0Rm95OHpaeTBrRXByURILNWE0OTliVkR5a1E"
+      "scheduledStartTime": "2024-05-16T15:45:00Z"
     }
   },
   "G8_oDoV0k4I": {
@@ -4123,8 +4118,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-17T16:12:23Z",
       "actualEndTime": "2024-05-17T19:29:20Z",
-      "scheduledStartTime": "2024-05-17T15:45:00Z",
-      "activeLiveChatId": "Cg0KC0c4X29Eb1YwazRJKicKGFVDel9aUnc2YWs0Rm95OHpaeTBrRXByURILRzhfb0RvVjBrNEk"
+      "scheduledStartTime": "2024-05-17T15:45:00Z"
     }
   }
 }

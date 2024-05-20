@@ -1968,8 +1968,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-04T18:00:39Z",
       "actualEndTime": "2024-05-04T20:29:37Z",
-      "scheduledStartTime": "2024-05-04T18:00:00Z",
-      "activeLiveChatId": "Cg0KC25NNDJDQWUtWjhBKicKGFVDdnFmNDI2X1hFQ1hnaTJzNnRJamdPdxILbk00MkNBZS1aOEE"
+      "scheduledStartTime": "2024-05-04T18:00:00Z"
     }
   },
   "O4hlab6_Gi4": {
@@ -1988,8 +1987,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-07T16:01:48Z",
       "actualEndTime": "2024-05-07T20:50:13Z",
-      "scheduledStartTime": "2024-05-07T16:00:00Z",
-      "activeLiveChatId": "Cg0KC1dtLUhoYXpMUGtVKicKGFVDdnFmNDI2X1hFQ1hnaTJzNnRJamdPdxILV20tSGhhekxQa1U"
+      "scheduledStartTime": "2024-05-07T16:00:00Z"
     }
   },
   "T9L0pM-0hVM": {
@@ -2045,15 +2043,14 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-09T15:05:33Z",
       "actualEndTime": "2024-05-09T18:39:35Z",
-      "scheduledStartTime": "2024-05-09T15:00:00Z",
-      "activeLiveChatId": "Cg0KC0p4a1hackMwVk5FKicKGFVDdnFmNDI2X1hFQ1hnaTJzNnRJamdPdxILSnhrWFpyQzBWTkU"
+      "scheduledStartTime": "2024-05-09T15:00:00Z"
     }
   },
   "l2UKZDzpYUU": {
     "snippet": {
       "publishedAt": "2024-05-09T15:00:45Z",
       "channelId": "UCvqf426_XECXgi2s6tIjgOw",
-      "title": "The Customer is Always Right... Right? #shorts"
+      "title": "The Customer is Always Right... RIGHT?! #shorts"
     }
   },
   "r8gzJx07oxc": {
@@ -2078,8 +2075,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-10T13:32:13Z",
       "actualEndTime": "2024-05-10T14:37:58Z",
-      "scheduledStartTime": "2024-05-10T13:35:00Z",
-      "activeLiveChatId": "Cg0KC3Myc2JaWGhKSHlBKicKGFVDdnFmNDI2X1hFQ1hnaTJzNnRJamdPdxILczJzYlpYaEpIeUE"
+      "scheduledStartTime": "2024-05-10T13:35:00Z"
     }
   },
   "pPpKQKMpDY8": {
@@ -2110,7 +2106,7 @@
     "snippet": {
       "publishedAt": "2024-05-11T15:00:13Z",
       "channelId": "UCvqf426_XECXgi2s6tIjgOw",
-      "title": "Magenta Isn't Real"
+      "title": "Magenta ISN'T REAL #shorts"
     }
   },
   "c_o_msljp0s": {
@@ -2122,8 +2118,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-13T14:05:55Z",
       "actualEndTime": "2024-05-13T15:10:40Z",
-      "scheduledStartTime": "2024-05-13T14:05:00Z",
-      "activeLiveChatId": "Cg0KC2Nfb19tc2xqcDBzKicKGFVDdnFmNDI2X1hFQ1hnaTJzNnRJamdPdxILY19vX21zbGpwMHM"
+      "scheduledStartTime": "2024-05-13T14:05:00Z"
     }
   },
   "DymIlsJOR4g": {
@@ -2191,9 +2186,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-18T18:00:06Z",
-      "scheduledStartTime": "2024-05-18T18:00:00Z",
-      "activeLiveChatId": "Cg0KC3RqSldMWU5oQjhzKicKGFVDdnFmNDI2X1hFQ1hnaTJzNnRJamdPdxILdGpKV0xZTmhCOHM",
-      "premiere": true
+      "actualEndTime": "2024-05-18T18:06:45Z",
+      "scheduledStartTime": "2024-05-18T18:00:00Z"
     }
   },
   "FkyjK01-vGw": {
@@ -2249,8 +2243,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-19T11:03:22Z",
       "actualEndTime": "2024-05-19T22:57:37Z",
-      "scheduledStartTime": "2024-05-19T11:00:00Z",
-      "activeLiveChatId": "Cg0KC3dsdGR3aEpYb1owKicKGFVDdnFmNDI2X1hFQ1hnaTJzNnRJamdPdxILd2x0ZHdoSlhvWjA"
+      "scheduledStartTime": "2024-05-19T11:00:00Z"
     }
   }
 }

@@ -2457,5 +2457,28 @@
       "actualEndTime": "2021-04-30T12:07:24Z",
       "scheduledStartTime": "2021-04-30T11:30:00Z"
     }
+  },
+  "kHVw1Ayptzo": {
+    "snippet": {
+      "publishedAt": "2024-05-19T08:38:39Z",
+      "channelId": "UCLjx3lqIkYkPCBJop8czJ2A",
+      "title": "[Paper Mario: The Origami King] Yahoo!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-19T06:13:34Z",
+      "actualEndTime": "2024-05-19T08:28:46Z",
+      "scheduledStartTime": "2024-05-19T06:00:00Z"
+    }
+  },
+  "IGlJY7A-HtE": {
+    "snippet": {
+      "publishedAt": "2024-05-17T08:32:40Z",
+      "channelId": "UCLjx3lqIkYkPCBJop8czJ2A",
+      "title": "[Genshin Impact] ***STREAM TIME NOT CONFIRMED***"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-22T06:00:00Z",
+      "activeLiveChatId": "Cg0KC0lHbEpZN0EtSHRFKicKGFVDTGp4M2xxSWtZa1BDQkpvcDhjekoyQRILSUdsSlk3QS1IdEU"
+    }
   }
 }

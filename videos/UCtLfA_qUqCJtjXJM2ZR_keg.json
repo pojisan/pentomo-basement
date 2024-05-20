@@ -3845,8 +3845,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-05T06:45:34Z",
       "actualEndTime": "2024-05-05T07:40:49Z",
-      "scheduledStartTime": "2024-05-05T07:00:00Z",
-      "activeLiveChatId": "Cg0KC251UzJabDB2QlVZKicKGFVDdExmQV9xVXFDSnRqWEpNMlpSX2tlZxILbnVTMlpsMHZCVVk"
+      "scheduledStartTime": "2024-05-05T07:00:00Z"
     }
   },
   "2kiAoILkRgs": {
@@ -3870,8 +3869,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-08T12:03:47Z",
       "actualEndTime": "2024-05-08T14:10:45Z",
-      "scheduledStartTime": "2024-05-08T12:00:00Z",
-      "activeLiveChatId": "Cg0KC05oYmg5Ny1sTXYwKicKGFVDdExmQV9xVXFDSnRqWEpNMlpSX2tlZxILTmhiaDk3LWxNdjA"
+      "scheduledStartTime": "2024-05-08T12:00:00Z"
     }
   },
   "u-RkPTDknXc": {
@@ -3914,13 +3912,12 @@
     "snippet": {
       "publishedAt": "2024-05-16T12:31:08Z",
       "channelId": "UCtLfA_qUqCJtjXJM2ZR_keg",
-      "title": "\u30fb\u30fb\u30fb\u300e\u5b66\u5712\u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc\u300f\uff1f\u3010\u77f3\u795e\u306e\u305e\u307f\uff0f\u306b\u3058\u3055\u3093\u3058\u6240\u5c5e\u3011"
+      "title": "\u30fb\u30fb\u30fb\u300e\u5b66\u5712\u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc\u300f\uff1f \uff5e\u30c1\u30e5\u30fc\u30c8\u30ea\u30a2\u30eb\u7de8\uff5e\u3010\u77f3\u795e\u306e\u305e\u307f\uff0f\u306b\u3058\u3055\u3093\u3058\u6240\u5c5e\u3011"
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-16T13:21:04Z",
       "actualEndTime": "2024-05-16T14:57:50Z",
-      "scheduledStartTime": "2024-05-16T13:15:00Z",
-      "activeLiveChatId": "Cg0KC1NzbnllbkstYlRrKicKGFVDdExmQV9xVXFDSnRqWEpNMlpSX2tlZxILU3NueWVuSy1iVGs"
+      "scheduledStartTime": "2024-05-16T13:15:00Z"
     }
   },
   "NnwpXElvV3o": {
@@ -3956,8 +3953,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-19T08:33:38Z",
       "actualEndTime": "2024-05-19T11:09:44Z",
-      "scheduledStartTime": "2024-05-19T08:30:00Z",
-      "activeLiveChatId": "Cg0KC3RfNlpFeUE4dTlFKicKGFVDdExmQV9xVXFDSnRqWEpNMlpSX2tlZxILdF82WkV5QTh1OUU"
+      "scheduledStartTime": "2024-05-19T08:30:00Z"
     }
   }
 }

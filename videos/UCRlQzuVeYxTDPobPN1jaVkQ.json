@@ -3569,8 +3569,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-11T01:02:48Z",
       "actualEndTime": "2024-05-11T12:50:11Z",
-      "scheduledStartTime": "2024-05-11T01:00:00Z",
-      "activeLiveChatId": "Cg0KC3BPa3QyYUpPcEJnKicKGFVDUmxRenVWZVl4VERQb2JQTjFqYVZrURILcE9rdDJhSk9wQmc"
+      "scheduledStartTime": "2024-05-11T01:00:00Z"
     }
   },
   "LSQc6STy75g": {
@@ -3594,8 +3593,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-08T08:01:24Z",
       "actualEndTime": "2024-05-08T12:00:46Z",
-      "scheduledStartTime": "2024-05-08T08:00:00Z",
-      "activeLiveChatId": "Cg0KCzU0Q3ktWFZuYXR3KicKGFVDUmxRenVWZVl4VERQb2JQTjFqYVZrURILNTRDeS1YVm5hdHc"
+      "scheduledStartTime": "2024-05-08T08:00:00Z"
     }
   },
   "JOAIB_fXeCI": {
@@ -3631,8 +3629,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-12T07:05:42Z",
       "actualEndTime": "2024-05-12T13:09:42Z",
-      "scheduledStartTime": "2024-05-12T07:00:00Z",
-      "activeLiveChatId": "Cg0KC3NVV0pQRkl6cXQ4KicKGFVDUmxRenVWZVl4VERQb2JQTjFqYVZrURILc1VXSlBGSXpxdDg"
+      "scheduledStartTime": "2024-05-12T07:00:00Z"
     }
   },
   "9sXzwaPD_0Q": {
@@ -3651,7 +3648,7 @@
     "snippet": {
       "publishedAt": "2024-05-13T22:00:01Z",
       "channelId": "UCRlQzuVeYxTDPobPN1jaVkQ",
-      "title": "I return with well balanced yaps ~  #vtuber #envtuber"
+      "title": "the yap variety pack xD  #vtuber #envtuber"
     }
   },
   "RAoOVShykco": {
@@ -3682,7 +3679,8 @@
     "snippet": {
       "publishedAt": "2024-05-14T11:55:15Z",
       "channelId": "UCRlQzuVeYxTDPobPN1jaVkQ",
-      "title": "\u3016soft read | ASMR\u3017What cursed knowledge do we get this week :3\u3016Cyon \u2765 V&U\u3017"
+      "title": "\u3016soft read | ASMR\u3017What cursed knowledge do we get this week :3\u3016Cyon \u2765 V&U\u3017",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-20T03:00:00Z",
@@ -3693,14 +3691,14 @@
     "snippet": {
       "publishedAt": "2024-05-15T22:00:28Z",
       "channelId": "UCRlQzuVeYxTDPobPN1jaVkQ",
-      "title": "If you wonder why I am the way I am... #vtuber #envtuber"
+      "title": "Mercilessly trolled by my family #vtuber #envtuber"
     }
   },
   "CPeT5I5Ia1g": {
     "snippet": {
       "publishedAt": "2024-05-17T22:00:10Z",
       "channelId": "UCRlQzuVeYxTDPobPN1jaVkQ",
-      "title": "I promise I'm not ALWAYS a toxic gamer #envtuber #vtuber"
+      "title": "Promise I'm not ALWAYS a toxic gamer #envtuber #vtuber"
     }
   },
   "jpDQeKCNAE4": {
@@ -3712,8 +3710,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-18T15:00:06Z",
       "actualEndTime": "2024-05-18T17:19:37Z",
-      "scheduledStartTime": "2024-05-18T15:00:00Z",
-      "activeLiveChatId": "Cg0KC2pwRFFlS0NOQUU0KicKGFVDUmxRenVWZVl4VERQb2JQTjFqYVZrURILanBEUWVLQ05BRTQ"
+      "scheduledStartTime": "2024-05-18T15:00:00Z"
     }
   }
 }

@@ -2778,8 +2778,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-07T10:56:31Z",
       "actualEndTime": "2024-05-07T11:01:49Z",
-      "scheduledStartTime": "2024-05-07T10:56:16Z",
-      "activeLiveChatId": "Cg0KC0NsT2RaUDk1cllZKicKGFVDZ25mUFBiOUpJM2U5QTRjWEhuV2J5ZxILQ2xPZFpQOTVyWVk"
+      "scheduledStartTime": "2024-05-07T10:56:16Z"
     }
   },
   "lEaKTWIfxdg": {
@@ -2798,8 +2797,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-09T01:55:57Z",
       "actualEndTime": "2024-05-09T04:09:57Z",
-      "scheduledStartTime": "2024-05-09T02:00:00Z",
-      "activeLiveChatId": "Cg0KC1lOQW9OTDFyNzRNKicKGFVDZ25mUFBiOUpJM2U5QTRjWEhuV2J5ZxILWU5Bb05MMXI3NE0"
+      "scheduledStartTime": "2024-05-09T02:00:00Z"
     }
   },
   "olPmIWM4-zM": {
@@ -2837,8 +2835,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-18T02:00:11Z",
       "actualEndTime": "2024-05-18T05:38:00Z",
-      "scheduledStartTime": "2024-05-18T02:00:00Z",
-      "activeLiveChatId": "Cg0KC3cxa2xMXzQ2U2U4KicKGFVDZ25mUFBiOUpJM2U5QTRjWEhuV2J5ZxILdzFrbExfNDZTZTg"
+      "scheduledStartTime": "2024-05-18T02:00:00Z"
     }
   },
   "RLEW4ihxaeY": {
@@ -2853,6 +2850,17 @@
       "publishedAt": "2024-05-19T23:00:09Z",
       "channelId": "UCgnfPPb9JI3e9A4cXHnWbyg",
       "title": "The Time You Reincarnated as a Clip On Mic #shorts"
+    }
+  },
+  "ZHnlRT8V-RM": {
+    "snippet": {
+      "publishedAt": "2024-05-09T23:37:43Z",
+      "channelId": "UCgnfPPb9JI3e9A4cXHnWbyg",
+      "title": "There's Breaking Bad Then There's Breaking In\u3010Shadows of Doubt\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-21T00:00:00Z",
+      "activeLiveChatId": "Cg0KC1pIbmxSVDhWLVJNKicKGFVDZ25mUFBiOUpJM2U5QTRjWEhuV2J5ZxILWkhubFJUOFYtUk0"
     }
   }
 }

@@ -60,8 +60,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-05T02:01:05Z",
       "actualEndTime": "2024-05-05T04:00:07Z",
-      "scheduledStartTime": "2024-05-05T02:00:00Z",
-      "activeLiveChatId": "Cg0KCzlobTFZVGhrN0JVKicKGFVDaUJNSDFkN2V3XzNiaTJBX3paR3NtdxILOWhtMVlUaGs3QlU"
+      "scheduledStartTime": "2024-05-05T02:00:00Z"
     }
   },
   "LgyVH5n6yz0": {
@@ -82,9 +81,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-06T02:00:06Z",
-      "scheduledStartTime": "2024-05-06T02:00:00Z",
-      "activeLiveChatId": "Cg0KC2gySEdFeGJ2UHNzKicKGFVDaUJNSDFkN2V3XzNiaTJBX3paR3NtdxILaDJIR0V4YnZQc3M",
-      "premiere": true
+      "actualEndTime": "2024-05-06T02:03:55Z",
+      "scheduledStartTime": "2024-05-06T02:00:00Z"
     }
   },
   "pZhclNe1Vv4": {
@@ -96,8 +94,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-07T02:03:45Z",
       "actualEndTime": "2024-05-07T04:10:16Z",
-      "scheduledStartTime": "2024-05-07T02:00:00Z",
-      "activeLiveChatId": "Cg0KC3BaaGNsTmUxVnY0KicKGFVDaUJNSDFkN2V3XzNiaTJBX3paR3NtdxILcFpoY2xOZTFWdjQ"
+      "scheduledStartTime": "2024-05-07T02:00:00Z"
     }
   },
   "TNc_31FlXkk": {
@@ -109,8 +106,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-09T02:11:48Z",
       "actualEndTime": "2024-05-09T04:17:55Z",
-      "scheduledStartTime": "2024-05-09T02:00:00Z",
-      "activeLiveChatId": "Cg0KC1ROY18zMUZsWGtrKicKGFVDaUJNSDFkN2V3XzNiaTJBX3paR3NtdxILVE5jXzMxRmxYa2s"
+      "scheduledStartTime": "2024-05-09T02:00:00Z"
     }
   },
   "kmr7Kvh5BPM": {
@@ -165,15 +161,14 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-16T02:00:09Z",
       "actualEndTime": "2024-05-16T05:00:51Z",
-      "scheduledStartTime": "2024-05-16T02:00:00Z",
-      "activeLiveChatId": "Cg0KC2QwNXFxampFbF93KicKGFVDaUJNSDFkN2V3XzNiaTJBX3paR3NtdxILZDA1cXFqakVsX3c"
+      "scheduledStartTime": "2024-05-16T02:00:00Z"
     }
   },
   "i2Qwdzf055M": {
     "snippet": {
       "publishedAt": "2024-05-13T23:01:16Z",
       "channelId": "UCiBMH1d7ew_3bi2A_zZGsmw",
-      "title": "\u3010MONETIZATION\u3011 What\u00b4s your name? Let\u00b4s decide! \u3010idolES | Taiga Toragami\u3011"
+      "title": "\u3010MONETIZATION\u3011 Whats your name? Lets decide! \u3010idolES | Taiga Toragami\u3011"
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-18T02:00:20Z",
@@ -202,8 +197,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-19T02:01:00Z",
       "actualEndTime": "2024-05-19T04:17:41Z",
-      "scheduledStartTime": "2024-05-19T02:00:00Z",
-      "activeLiveChatId": "Cg0KC3RnNFlHOTdTZzdNKicKGFVDaUJNSDFkN2V3XzNiaTJBX3paR3NtdxILdGc0WUc5N1NnN00"
+      "scheduledStartTime": "2024-05-19T02:00:00Z"
     }
   }
 }
