@@ -763,7 +763,8 @@
     "snippet": {
       "publishedAt": "2024-05-12T14:03:34Z",
       "channelId": "UCIId2bA3BsBeBB80bdwNs4Q",
-      "title": "\u3010SCHEDULE \u3011MAY 12TH-18TH\u3010Yume+ | Rhea Nevermore\u3011"
+      "title": "\u3010SCHEDULE \u3011MAY 12TH-18TH\u3010Yume+ | Rhea Nevermore\u3011",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2026-05-12T14:05:00Z",
@@ -865,6 +866,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-20T22:00:00Z",
       "activeLiveChatId": "Cg0KC0RVMFQtUFBBTkNnKicKGFVDSUlkMmJBM0JzQmVCQjgwYmR3TnM0URILRFUwVC1QUEFOQ2c"
+    }
+  },
+  "aywFg0oIE-k": {
+    "snippet": {
+      "publishedAt": "2024-05-20T07:23:04Z",
+      "channelId": "UCIId2bA3BsBeBB80bdwNs4Q",
+      "title": "\u3010GUILTY GEAR STRIVE\u3011Joat duking it out for the crown\u3010Yume Plus | Rhea Nevermore\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-21T22:00:00Z",
+      "activeLiveChatId": "Cg0KC2F5d0ZnMG9JRS1rKicKGFVDSUlkMmJBM0JzQmVCQjgwYmR3TnM0URILYXl3Rmcwb0lFLWs"
     }
   }
 }
