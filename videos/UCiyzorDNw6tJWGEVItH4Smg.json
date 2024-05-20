@@ -2949,12 +2949,24 @@
     "snippet": {
       "publishedAt": "2024-05-19T19:55:55Z",
       "channelId": "UCiyzorDNw6tJWGEVItH4Smg",
-      "title": "lets sing!!!! WOOPYO~ \u5f61\u2606\u3010UNARCHIVED KARAOKE\u3011"
+      "title": "lets sing!!!! WOOPYO~ \u5f61\u2606\u3010UNARCHIVED KARAOKE\u3011",
+      "private": true
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-19T23:31:08Z",
       "scheduledStartTime": "2024-05-19T23:30:00Z",
       "activeLiveChatId": "Cg0KCzJycC0wclhuUmZFKicKGFVDaXl6b3JETnc2dEpXR0VWSXRINFNtZxILMnJwLTByWG5SZkU"
+    }
+  },
+  "tudVCieAYOI": {
+    "snippet": {
+      "publishedAt": "2024-05-19T23:57:49Z",
+      "channelId": "UCiyzorDNw6tJWGEVItH4Smg",
+      "title": "singin' axolotl!!!!\u3010UNARCHIVED KARAOKE\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-20T00:00:00Z",
+      "activeLiveChatId": "Cg0KC3R1ZFZDaWVBWU9JKicKGFVDaXl6b3JETnc2dEpXR0VWSXRINFNtZxILdHVkVkNpZUFZT0k"
     }
   }
 }
