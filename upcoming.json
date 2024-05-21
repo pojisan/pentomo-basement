@@ -721,6 +721,7 @@
       "title": "If I scream, I restart the game..\u3010Don't Scream\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-21T18:00:36Z",
       "scheduledStartTime": "2024-05-21T18:00:00Z",
       "activeLiveChatId": "Cg0KCzR2a0ZwVlBSZGVJKicKGFVDOW15ZEJPTGRMNi1GcDYxcGFLNjhUdxILNHZrRnBWUFJkZUk"
     }
@@ -2241,18 +2242,6 @@
       "activeLiveChatId": "Cg0KC0h1UnNrVGZkVmtJKicKGFVDVlFFYmpBY0pSZVB4T0RWTTVtV0N2URILSHVSc2tUZmRWa0k"
     }
   },
-  "I3vG7sn1RqU": {
-    "snippet": {
-      "publishedAt": "2024-05-21T10:21:39Z",
-      "channelId": "UC4WsLE_xdrnd05D05Go9oXw",
-      "title": "Climbing out of HELL (bronze lmao)\u3010LEAGUE & CHAT\u3011| #vtuber"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-21T14:05:54Z",
-      "scheduledStartTime": "2024-05-21T14:00:00Z",
-      "activeLiveChatId": "Cg0KC0kzdkc3c24xUnFVKicKGFVDNFdzTEVfeGRybmQwNUQwNUdvOW9YdxILSTN2RzdzbjFScVU"
-    }
-  },
   "I7xOH5sPIo8": {
     "snippet": {
       "publishedAt": "2024-04-02T03:20:38Z",
@@ -3634,6 +3623,7 @@
       "title": "Bunana Paradise but its Bunny Garden\u3010VyVid | Bunana \u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-21T18:00:01Z",
       "scheduledStartTime": "2024-05-21T18:00:00Z",
       "activeLiveChatId": "Cg0KC1NuNjJ1eWI2ZGU4KicKGFVDVmpwRlAxX055M1BVb0UyNnI0SVRhdxILU242MnV5YjZkZTg"
     }
@@ -5139,6 +5129,7 @@
       "title": "Mario WHO? We Only Know Luigi Here.\u3010Super Mario Bros. Wonder\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-21T17:58:08Z",
       "scheduledStartTime": "2024-05-21T18:00:00Z",
       "activeLiveChatId": "Cg0KC2VSY0FES0t3TTJrKicKGFVDMEdEeVdORWpzeGdLWF81elJzLWg1dxILZVJjQURLS3dNMms"
     }
@@ -5756,6 +5747,7 @@
       "title": "\u3010Animal Well\u3011 MORE OF THE BEST GAME OF THE YEAR"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-21T17:55:25Z",
       "scheduledStartTime": "2024-05-21T18:00:00Z",
       "activeLiveChatId": "Cg0KC2tMUENXTGJXd0RzKicKGFVDMEpGdDVKamw1YV9fek9hWkxxazdQZxILa0xQQ1dMYld3RHM"
     }
@@ -6687,6 +6679,17 @@
       "twitch": true
     }
   },
+  "sdcw5GeXKjk": {
+    "snippet": {
+      "publishedAt": "2024-05-21T17:58:55Z",
+      "channelId": "UCLdkcTt5vOfGi_myvK-iO0g",
+      "title": "\u3010YURI VN VOICE ACTING\u3011OshiRabu Waifus Over Husbandos! w/ @AliasAnono"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-21T23:00:00Z",
+      "activeLiveChatId": "Cg0KC3NkY3c1R2VYS2prKicKGFVDTGRrY1R0NXZPZkdpX215dkstaU8wZxILc2RjdzVHZVhLams"
+    }
+  },
   "skTCKgM7biI": {
     "snippet": {
       "publishedAt": "2024-02-26T04:33:52Z",
@@ -6859,6 +6862,7 @@
       "title": "\u3010NFS UNBOUND\u3011I'M GONNA DESTROY VANCE LIVE @VanceVanCreed  \u3010globie | Kiri Kilovolt\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-21T17:58:22Z",
       "scheduledStartTime": "2024-05-21T18:00:00Z",
       "activeLiveChatId": "Cg0KC3VhYnlSLUZDd3JjKicKGFVDMXNtOUgyb3J2eW5EYWpjRTRqcll1ZxILdWFieVItRkN3cmM"
     }
@@ -7096,6 +7100,7 @@
       "title": "\u3010NFS\u3011Still Speeding with  @KiriKilovolt \u3010globie 2nd Gen - Equinnox\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-21T17:56:02Z",
       "scheduledStartTime": "2024-05-21T18:00:00Z",
       "activeLiveChatId": "Cg0KC3dieHN1SXhYWnNvKicKGFVDRkhkRUFIUGJGVWpnSjFSYU9fQXc2dxILd2J4c3VJeFhac28"
     }
