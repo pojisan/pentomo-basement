@@ -543,6 +543,17 @@
       "activeLiveChatId": "Cg0KCzJ6YUF2MHVnOUlJKicKGFVDMXVjZ29DX3NHd3dfRXV1NWlNcXBRdxILMnphQXYwdWc5SUk"
     }
   },
+  "3DRD2lyzFwg": {
+    "snippet": {
+      "publishedAt": "2024-05-21T16:24:56Z",
+      "channelId": "UCRWF6QSuklmwY3UJHyVTQ1w",
+      "title": "\u3010Chatting\uff0f\u96d1\u8ac7\u67a0\u3011Making anime bingos!!\u3010Cosmia\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-21T18:00:00Z",
+      "activeLiveChatId": "Cg0KCzNEUkQybHl6RndnKicKGFVDUldGNlFTdWtsbXdZM1VKSHlWVFExdxILM0RSRDJseXpGd2c"
+    }
+  },
   "3IsOlZG9aXc": {
     "snippet": {
       "publishedAt": "2024-05-10T21:24:04Z",
@@ -982,6 +993,7 @@
       "title": "\u300e KARAOKE DAY \u300fJP Songs (Not only in Japanese??) | #OSHICelanis #OshiLinkEN"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-21T16:23:25Z",
       "scheduledStartTime": "2024-05-21T16:30:00Z",
       "activeLiveChatId": "Cg0KCzc5ZmZZTjZrbjZzKicKGFVDTndZNlpIMjd2WkRqUmgyQzluc0NqdxILNzlmZllONmtuNnM"
     }
@@ -3144,18 +3156,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-01-29T07:45:00Z",
       "activeLiveChatId": "Cg0KC055aVJSWGtEWXV3KicKGFVDc1FxazRjbjhwbGpVZWFkWWJVVmd5ZxILTnlpUlJYa0RZdXc"
-    }
-  },
-  "O0PVmvzgG-k": {
-    "snippet": {
-      "publishedAt": "2024-05-21T12:36:23Z",
-      "channelId": "UC7XCjKxBEct0uAukpQXNFPw",
-      "title": "\u3010\u6b4c\u67a0\u3011\u3086\u3063\u305f\u308a\u6b4c\u67a0\uff01\uff01-Midnight station -64 \u3010HACHI\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-21T15:06:53Z",
-      "scheduledStartTime": "2024-05-21T15:00:00Z",
-      "activeLiveChatId": "Cg0KC08wUFZtdnpnRy1rKicKGFVDN1hDakt4QkVjdDB1QXVrcFFYTkZQdxILTzBQVm12emdHLWs"
     }
   },
   "O3uaLD_rdXs": {
@@ -6218,7 +6218,7 @@
       "title": "THIS GAME IS INSANE"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-22T00:00:00Z",
+      "scheduledStartTime": "2024-05-23T00:00:00Z",
       "activeLiveChatId": "Cg0KC25yLUhsYm5pYy0wKicKGFVDVWZnS2dDeHRGczFaUGx5aU0zSmNUdxILbnItSGxibmljLTA"
     }
   },
