@@ -427,6 +427,7 @@
       "title": "\u3010Portal 2\u3011SHE'S BEHIND ME ISN'T SHE"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-21T00:00:00Z",
       "scheduledStartTime": "2024-05-21T00:00:00Z",
       "activeLiveChatId": "Cg0KCzJRNy1mQnlDLVhBKicKGFVDb1duNnFrZHhDU0h2SkVsbWd2enIxZxILMlE3LWZCeUMtWEE"
     }
@@ -599,6 +600,7 @@
       "title": "We're gonna need more ammo\u3010Resident Evil 4 Remake\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-20T23:59:44Z",
       "scheduledStartTime": "2024-05-21T00:00:00Z",
       "activeLiveChatId": "Cg0KCzRVc18zSUlnSlZNKicKGFVDLTFfLWpVdS1sQUxkR245LU1kQko0URILNFVzXzNJSWdKVk0"
     }
@@ -2248,18 +2250,6 @@
       "activeLiveChatId": "Cg0KC0pMTThPUTBSVlM4KicKGFVDNFlYMlp0NjZSNHVZcUxIRmt3UDFhdxILSkxNOE9RMFJWUzg"
     }
   },
-  "JMUQxd98Bu0": {
-    "snippet": {
-      "publishedAt": "2024-05-20T20:31:43Z",
-      "channelId": "UCw1KNjVqfrJSfcFd6zlcSzA",
-      "title": "\u3010DONOTHON DAY 16\u3011I DONT KNOW ANYTHING ABOUT THIS GAME BUT LET'S GET SPOOKED!"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-20T22:01:15Z",
-      "scheduledStartTime": "2024-05-20T22:00:00Z",
-      "activeLiveChatId": "Cg0KC0pNVVF4ZDk4QnUwKicKGFVDdzFLTmpWcWZySlNmY0ZkNnpsY1N6QRILSk1VUXhkOThCdTA"
-    }
-  },
   "JPpkWds9yqs": {
     "snippet": {
       "publishedAt": "2023-09-19T21:18:55Z",
@@ -3900,6 +3890,7 @@
       "title": "\u3010SHASHINGO\u3011Let's BENKYOU some more!\u3010 Reina Ronronea | globie\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-21T00:00:53Z",
       "scheduledStartTime": "2024-05-21T00:00:00Z",
       "activeLiveChatId": "Cg0KC1hSTldqMm5VZWNZKicKGFVDVm1oZzR3Y1RWcGp5Q29LRFk1OW1ZdxILWFJOV2oyblVlY1k"
     }
@@ -4331,6 +4322,18 @@
       "activeLiveChatId": "Cg0KC2FKYzRocTBLMkswKicKGFVDX2N4aU9WWWk5VEgzaVB2YW05ZjV5QRILYUpjNGhxMEsySzA"
     }
   },
+  "aKM-oIZSY1s": {
+    "snippet": {
+      "publishedAt": "2024-05-16T08:34:19Z",
+      "channelId": "UC-JSeFfovhNsEhftt1WHMvg",
+      "title": "Denauth - Sugary, Spooky Official Music Video\u3010NIJISANJI EN\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-25T04:00:00Z",
+      "activeLiveChatId": "Cg0KC2FLTS1vSVpTWTFzKicKGFVDLUpTZUZmb3ZoTnNFaGZ0dDFXSE12ZxILYUtNLW9JWlNZMXM",
+      "premiere": true
+    }
+  },
   "ajM_MXLNBpo": {
     "snippet": {
       "publishedAt": "2024-05-19T20:57:26Z",
@@ -4458,6 +4461,7 @@
       "title": "Lots to talk about Ft. Veil-Sama\u3010Zatsudan\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-21T00:00:09Z",
       "scheduledStartTime": "2024-05-21T00:00:00Z",
       "activeLiveChatId": "Cg0KC2JtbVUxSFEwSXVrKicKGFVDRndjRUlzanZpOVhFdnBHeDZpd0hwdxILYm1tVTFIUTBJdWs"
     }
@@ -4590,6 +4594,7 @@
       "title": "\u3010Hades pt.5\u3011My only Railgun Run\u3010Yurikago Kokone | V&U\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-21T00:00:47Z",
       "scheduledStartTime": "2024-05-21T00:00:00Z",
       "activeLiveChatId": "Cg0KC2NVUDZiQnZyQjRZKicKGFVDQi04bk50aHR1VklabmlxWE55cmhLURILY1VQNmJCdnJCNFk"
     }
@@ -4734,6 +4739,17 @@
       "activeLiveChatId": "Cg0KC2R5QV9pdVZZR2gwKicKGFVDamNiN1B2UEhtajNNTlV5c1ZVZUpjZxILZHlBX2l1VllHaDA"
     }
   },
+  "dzwGm95Jzoo": {
+    "snippet": {
+      "publishedAt": "2024-05-20T23:59:39Z",
+      "channelId": "UCHxUvAIXHfDzpTW02v7Qarg",
+      "title": "\u3010The Game of Sisyphus \u5ca9\u304a\u3058 + FREE TALK ZATSU\u3011ROLLING AND TALKING"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-21T21:00:00Z",
+      "activeLiveChatId": "Cg0KC2R6d0dtOTVKem9vKicKGFVDSHhVdkFJWEhmRHpwVFcwMnY3UWFyZxILZHp3R205NUp6b28"
+    }
+  },
   "eBP2RSDcKkM": {
     "snippet": {
       "publishedAt": "2024-05-20T07:31:26Z",
@@ -4807,7 +4823,8 @@
       "title": "MY THERAPIST SAID THIS CAN CURE MY \"PROBLEMS\""
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-21T00:00:00Z",
+      "actualStartTime": "2024-05-21T00:01:08Z",
+      "scheduledStartTime": "2024-05-21T00:00:21Z",
       "activeLiveChatId": "Cg0KC2VyOHR0UDJPMHU0KicKGFVDVWZnS2dDeHRGczFaUGx5aU0zSmNUdxILZXI4dHRQMk8wdTQ"
     }
   },
@@ -5022,6 +5039,7 @@
       "title": "Let's take a mini break down Minami Lane! Momday Monday featuring a cute and colorful life sim!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-20T23:55:16Z",
       "scheduledStartTime": "2024-05-21T00:00:00Z",
       "activeLiveChatId": "Cg0KC2gwVV9BRTFPRHhjKicKGFVDY1BjLTVPckxialZCZ1EtemlFV1BTURILaDBVX0FFMU9EeGM"
     }
@@ -5682,17 +5700,6 @@
       "premiere": true
     }
   },
-  "niasuzune": {
-    "snippet": {
-      "channelId": "niasuzune",
-      "title": "\u3010DONOTHON DAY 16\u3011I DONT KNOW ANYTHING ABOUT THIS GAME BUT LET'S GET SPOOKED! | !donothon !discord",
-      "channelTitle": "NiaSuzune"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-20T22:00:40Z",
-      "twitch": true
-    }
-  },
   "nnAY-x9AtNk": {
     "snippet": {
       "publishedAt": "2022-07-13T01:04:14Z",
@@ -6194,6 +6201,7 @@
       "title": "\u3010FALLOUT NEW VEGAS\u3011my looting adventures ARE NOT OVER\u3010NIJISANJI EN | Reimu Endou\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-21T00:01:30Z",
       "scheduledStartTime": "2024-05-21T00:00:00Z",
       "activeLiveChatId": "Cg0KC3NmOVkyNG9NU2VvKicKGFVDQlVSTThTNExIN2NSWjBDbGVhOVJEQRILc2Y5WTI0b01TZW8"
     }
@@ -6818,6 +6826,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-24T21:00:00Z",
       "activeLiveChatId": "Cg0KC3lCTkRsTkdIQUpVKicKGFVDeWtNV2Y4QjhJN2NfakE4RlR5MnRHdxILeUJORGxOR0hBSlU"
+    }
+  },
+  "yBz225e4RNc": {
+    "snippet": {
+      "publishedAt": "2024-05-15T11:34:32Z",
+      "channelId": "UC-JSeFfovhNsEhftt1WHMvg",
+      "title": "\u201cDenauth\u201d VTuber Debut Program hosted by Doppio & Vantacrow\u3010NIJISANJI EN\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-25T02:00:00Z",
+      "activeLiveChatId": "Cg0KC3lCejIyNWU0Uk5jKicKGFVDLUpTZUZmb3ZoTnNFaGZ0dDFXSE12ZxILeUJ6MjI1ZTRSTmM"
     }
   },
   "yVQrFk1t38Q": {
