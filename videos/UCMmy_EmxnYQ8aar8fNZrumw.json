@@ -815,8 +815,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-21T07:06:05Z",
-      "scheduledStartTime": "2024-05-21T07:00:00Z",
-      "activeLiveChatId": "Cg0KC1dRN0MyZWRzVkc4KicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILV1E3QzJlZHNWRzg"
+      "actualEndTime": "2024-05-21T15:04:17Z",
+      "scheduledStartTime": "2024-05-21T07:00:00Z"
     }
   },
   "2v04gRBZs2w": {
@@ -849,6 +849,7 @@
       "title": "\u3010Donothon\u3011Kattarina's donothon - part 4"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-21T15:07:50Z",
       "scheduledStartTime": "2024-05-21T15:00:00Z",
       "activeLiveChatId": "Cg0KC1k2cE43Z1R1MjJBKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILWTZwTjdnVHUyMkE"
     }
