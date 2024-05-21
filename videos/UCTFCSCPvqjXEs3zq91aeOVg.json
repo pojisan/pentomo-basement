@@ -3687,7 +3687,8 @@
       "title": "I don't know what to put here"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-21T20:00:00Z",
+      "actualStartTime": "2024-05-21T20:10:14Z",
+      "scheduledStartTime": "2024-05-21T20:15:00Z",
       "activeLiveChatId": "Cg0KC0FOVGZtWlJuaVNrKicKGFVDVEZDU0NQdnFqWEVzM3pxOTFhZU9WZxILQU5UZm1aUm5pU2s"
     }
   }
