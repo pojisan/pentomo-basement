@@ -2390,18 +2390,6 @@
       "activeLiveChatId": "Cg0KC0tPUlJnS0ktWkVNKicKGFVDRkhkRUFIUGJGVWpnSjFSYU9fQXc2dxILS09SUmdLSS1aRU0"
     }
   },
-  "KPRIIDpTBzQ": {
-    "snippet": {
-      "publishedAt": "2024-05-21T01:23:27Z",
-      "channelId": "UCI8GiqiQhs_kZb_21YWXt5A",
-      "title": "\u3010JUST CHATTING\u3011 With @PinaPengin !!"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-21T03:00:16Z",
-      "scheduledStartTime": "2024-05-21T03:00:00Z",
-      "activeLiveChatId": "Cg0KC0tQUklJRHBUQnpRKicKGFVDSThHaXFpUWhzX2taYl8yMVlXWHQ1QRILS1BSSUlEcFRCelE"
-    }
-  },
   "KRGKnZxDVI8": {
     "snippet": {
       "publishedAt": "2024-04-30T22:52:44Z",
@@ -3971,6 +3959,7 @@
       "title": "\u3010MenoChat\u3011Time to chat with Meno!\u3010Ibuki Meno\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-21T05:41:02Z",
       "scheduledStartTime": "2024-05-21T05:30:00Z",
       "activeLiveChatId": "Cg0KC1hEc3UwM19fcm1BKicKGFVDWmZRUnV3U0x0eTc0UUFqNTVCYUtsQRILWERzdTAzX19ybUE"
     }
