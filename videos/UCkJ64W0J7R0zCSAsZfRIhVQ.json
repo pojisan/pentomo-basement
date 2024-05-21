@@ -6414,5 +6414,27 @@
       "actualEndTime": "2024-05-20T00:45:03Z",
       "scheduledStartTime": "2024-05-19T22:00:00Z"
     }
+  },
+  "6YbRnRBPqkE": {
+    "snippet": {
+      "publishedAt": "2024-05-21T10:23:51Z",
+      "channelId": "UCkJ64W0J7R0zCSAsZfRIhVQ",
+      "title": "\u3010VALKYRIA CHRONICLES\u3011Valkyria? Chronicled.\u3010PART 6\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-24T00:00:00Z",
+      "activeLiveChatId": "Cg0KCzZZYlJuUkJQcWtFKicKGFVDa0o2NFcwSjdSMHpDU0FzWmZSSWhWURILNlliUm5SQlBxa0U"
+    }
+  },
+  "zgBoNRbFBzo": {
+    "snippet": {
+      "publishedAt": "2024-05-21T10:23:03Z",
+      "channelId": "UCkJ64W0J7R0zCSAsZfRIhVQ",
+      "title": "\u3010BLACK MESA\u3011Breaking through the surface tension!\u3010PART 6\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-22T00:00:00Z",
+      "activeLiveChatId": "Cg0KC3pnQm9OUmJGQnpvKicKGFVDa0o2NFcwSjdSMHpDU0FzWmZSSWhWURILemdCb05SYkZCem8"
+    }
   }
 }
