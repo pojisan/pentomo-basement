@@ -115,7 +115,8 @@
       "title": "GIRLFAILURE VTUBER CHATS WITH YOU"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-22T04:15:00Z",
+      "actualStartTime": "2024-05-22T04:23:42Z",
+      "scheduledStartTime": "2024-05-22T04:23:24Z",
       "activeLiveChatId": "Cg0KCy1mZ3loaUhfYU9RKicKGFVDdWFEaWRHazRITkxPblFFOXd6TU1lURILLWZneWhpSF9hT1E"
     }
   },
@@ -1040,18 +1041,6 @@
       "actualStartTime": "2024-05-22T01:29:07Z",
       "scheduledStartTime": "2024-05-22T01:30:00Z",
       "activeLiveChatId": "Cg0KCzdWM1g2VFotVGQwKicKGFVDVDQxV25RWTNPMkY3T2JpMWhoUE95QRILN1YzWDZUWi1UZDA"
-    }
-  },
-  "7igO25u2OPA": {
-    "snippet": {
-      "publishedAt": "2024-05-22T00:49:26Z",
-      "channelId": "UCsaCRWOX3IInUOSj-XRUCpg",
-      "title": "[Gaming] Let's Chat with Yagami Noah\uff5cVTuber / Lethal Company"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-22T01:24:25Z",
-      "scheduledStartTime": "2024-05-22T01:00:00Z",
-      "activeLiveChatId": "Cg0KCzdpZ08yNXUyT1BBKicKGFVDc2FDUldPWDNJSW5VT1NqLVhSVUNwZxILN2lnTzI1dTJPUEE"
     }
   },
   "7vu75k0OyHY": {
@@ -5915,6 +5904,17 @@
       "activeLiveChatId": "Cg0KC21fSlMxY2N2RWs4KicKGFVDX3Q3d3RTY1ZMazg1SWFEOWpZU1JBQRILbV9KUzFjY3ZFazg"
     }
   },
+  "mariya": {
+    "snippet": {
+      "channelId": "mariya",
+      "title": "\ud83d\udd34 EMO MAID KARAOKE   \u2022 !youtube",
+      "channelTitle": "Mariya"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-22T04:30:44Z",
+      "twitch": true
+    }
+  },
   "meica05": {
     "snippet": {
       "channelId": "meica05",
@@ -6183,18 +6183,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-23T00:00:00Z",
       "activeLiveChatId": "Cg0KC3AtaEJYcmQ1SlA4KicKGFVDdjFUaHlFNEtWWW5uVlk4R0xmdG5vQRILcC1oQlhyZDVKUDg"
-    }
-  },
-  "p3sSz2UvwbA": {
-    "snippet": {
-      "publishedAt": "2024-05-22T01:03:42Z",
-      "channelId": "UCM_Mb-ZC3jMg3p32jN6v4cA",
-      "title": "GENSHIN EXPLORATION DAY :3 #shorts"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-22T01:04:27Z",
-      "scheduledStartTime": "2024-05-22T01:05:00Z",
-      "activeLiveChatId": "Cg0KC3Azc1N6MlV2d2JBKicKGFVDTV9NYi1aQzNqTWczcDMyak42djRjQRILcDNzU3oyVXZ3YkE"
     }
   },
   "p4hentZ6eeI": {
