@@ -1068,7 +1068,8 @@
     "snippet": {
       "publishedAt": "2023-12-18T12:46:15Z",
       "channelId": "UC-LAnFLXU9BusFv7n8lFj8g",
-      "title": "\u3010Schedule! May 12th-May 18th!!\u3011Another week of Monkeying around!\u3010Sarugaku Leon Jr. | Globie\u3011"
+      "title": "\u3010Schedule! May 12th-May 18th!!\u3011Another week of Monkeying around!\u3010Sarugaku Leon Jr. | Globie\u3011",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-12-31T15:45:00Z",
@@ -1182,7 +1183,8 @@
     "snippet": {
       "publishedAt": "2023-12-08T11:38:38Z",
       "channelId": "UC-LAnFLXU9BusFv7n8lFj8g",
-      "title": "\u3010Apex Legends\u3011TOO MANY MONKE \u3010Sarugaku Leon Jr. | Globie\u3011"
+      "title": "\u3010Apex Legends\u3011TOO MANY MONKE \u3010Sarugaku Leon Jr. | Globie\u3011",
+      "private": true
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC05vaGJiYUh3NXlnKicKGFVDLUxBbkZMWFU5QnVzRnY3bjhsRmo4ZxILTm9oYmJhSHc1eWc"
@@ -1538,6 +1540,17 @@
       "actualStartTime": "2024-05-21T16:00:29Z",
       "actualEndTime": "2024-05-21T20:57:24Z",
       "scheduledStartTime": "2024-05-21T16:00:00Z"
+    }
+  },
+  "98mPhAu7JjU": {
+    "snippet": {
+      "publishedAt": "2024-05-22T12:16:31Z",
+      "channelId": "UC-LAnFLXU9BusFv7n8lFj8g",
+      "title": "\u3010Wuthering Waves w/ Theo!\u3011A new monkey's adventure starts\u3010Sarugaku Leon Jr. | Globie\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-23T00:30:00Z",
+      "activeLiveChatId": "Cg0KCzk4bVBoQXU3SmpVKicKGFVDLUxBbkZMWFU5QnVzRnY3bjhsRmo4ZxILOThtUGhBdTdKalU"
     }
   }
 }
