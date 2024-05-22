@@ -4205,6 +4205,7 @@
       "title": "\u3010\u3056\u3064\u3011 \u305f\u3060\u3044\u307e\ud83d\ude0a\ud83d\udc97 \u3010\u306b\u3058\u3055\u3093\u3058 | \u30bb\u30d5\u30a3\u30ca\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-22T10:00:06Z",
       "scheduledStartTime": "2024-05-22T10:00:00Z",
       "activeLiveChatId": "Cg0KC1hMZmp6XzdmXzRVKicKGFVDZUdlbmRMOENPNVJrZmZCNklGd0hvdxILWExmanpfN2ZfNFU"
     }
@@ -5746,6 +5747,17 @@
       "activeLiveChatId": "Cg0KC2xZNExqUEtwTWgwKicKGFVDYkxGdVNyQVFLa3VzcmpUdkNPNWdYURILbFk0TGpQS3BNaDA"
     }
   },
+  "laphipi": {
+    "snippet": {
+      "channelId": "laphipi",
+      "title": "LET'S FIND MORE ANANANAMOLELIES w/ @xiulanlong @riofukai @mumuguru | !socials !dc !merch !collab",
+      "channelTitle": "laphipi"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-22T09:58:57Z",
+      "twitch": true
+    }
+  },
   "lbDZnyYmfhs": {
     "snippet": {
       "publishedAt": "2024-05-21T20:15:38Z",
@@ -6527,7 +6539,7 @@
   "sayu": {
     "snippet": {
       "channelId": "sayu",
-      "title": "HORROR WEEK DAY 2 ALL BLIND! Finishing Crow Country then starting SIGNALIS!\u2503!website !merch",
+      "title": "ELDEN RING SEAMLESS CO-OP START!w/Rennie and Teru\u2503!website !merch",
       "channelTitle": "Sayu"
     },
     "liveStreamingDetails": {
@@ -7043,6 +7055,17 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC3hoejNaZUhYaVI4KicKGFVDZWpiaWNvUm5RakNPZEFQQXY1SlB3ZxILeGh6M1plSFhpUjg"
+    }
+  },
+  "xiulanlong": {
+    "snippet": {
+      "channelId": "xiulanlong",
+      "title": "[VTUBER] I decided to stream my pov too WAHHAHA GM! \u25cd\u2022\u1d17\u2022\u25cd) !cover !discord !merch @mumuguru @laphipi @riofukai",
+      "channelTitle": "XiulanLong"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-22T09:58:55Z",
+      "twitch": true
     }
   },
   "xmOLuuwYxkA": {
