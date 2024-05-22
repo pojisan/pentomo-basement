@@ -1104,7 +1104,8 @@
     "snippet": {
       "publishedAt": "2024-05-03T12:21:26Z",
       "channelId": "UCejbicoRnQjCOdAPAv5JPwg",
-      "title": "The Great Mini Moo Lair Review: uyu"
+      "title": "The Great Mini Moo Lair Review: uyu",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-18T21:00:00Z",
@@ -1187,7 +1188,8 @@
     "snippet": {
       "publishedAt": "2024-05-14T22:44:26Z",
       "channelId": "UCejbicoRnQjCOdAPAv5JPwg",
-      "title": "The Great Creation of the Purple Cookbook"
+      "title": "The Great Creation of the Purple Cookbook",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-17T21:00:00Z",
@@ -1216,6 +1218,17 @@
       "actualStartTime": "2024-05-15T21:00:10Z",
       "actualEndTime": "2024-05-15T23:01:51Z",
       "scheduledStartTime": "2024-05-15T21:00:00Z"
+    }
+  },
+  "WNoOj7Uabf4": {
+    "snippet": {
+      "publishedAt": "2024-05-22T22:30:53Z",
+      "channelId": "UCejbicoRnQjCOdAPAv5JPwg",
+      "title": "kinda quiet gowilla-moo ;w;"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-22T22:45:00Z",
+      "activeLiveChatId": "Cg0KC1dOb09qN1VhYmY0KicKGFVDZWpiaWNvUm5RakNPZEFQQXY1SlB3ZxILV05vT2o3VWFiZjQ"
     }
   }
 }
