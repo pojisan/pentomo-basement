@@ -948,17 +948,6 @@
       "activeLiveChatId": "Cg0KCzc2YnR5YUFfaFJrKicKGFVDSHVWZ25PR3RETjlIMnA0VnJsRDYyQRILNzZidHlhQV9oUms"
     }
   },
-  "7Aya9g2FlHA": {
-    "snippet": {
-      "publishedAt": "2023-01-09T06:25:41Z",
-      "channelId": "UCoOEer2c2pn2LqPX6skNWtA",
-      "title": "\u3010SCHEDULE | FREE CHAT\u3011UPDATED WEEKLY! \u3010XANDER | lucid \u2601\ufe0f\u3011"
-    },
-    "liveStreamingDetails": {
-      "scheduledStartTime": "2026-05-01T05:00:00Z",
-      "activeLiveChatId": "Cg0KCzdBeWE5ZzJGbEhBKicKGFVDb09FZXIyYzJwbjJMcVBYNnNrTld0QRILN0F5YTlnMkZsSEE"
-    }
-  },
   "7Cb7OF3C9HU": {
     "snippet": {
       "publishedAt": "2024-05-21T03:46:32Z",
@@ -3168,6 +3157,16 @@
       "activeLiveChatId": "Cg0KC055aVJSWGtEWXV3KicKGFVDc1FxazRjbjhwbGpVZWFkWWJVVmd5ZxILTnlpUlJYa0RZdXc"
     }
   },
+  "NzBlrntRomA": {
+    "snippet": {
+      "publishedAt": "2024-05-22T11:22:22Z",
+      "channelId": "UC-yGTVx6w9JZZIFPidKCORg",
+      "title": "\u300eSPANISH TIME\u300fPlatiquemos un Ratito \u300eLauren Radios | OshiLink\u300f"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-24T23:00:00Z"
+    }
+  },
   "OFXWsA7VMo4": {
     "snippet": {
       "publishedAt": "2021-11-22T14:50:00Z",
@@ -3836,6 +3835,7 @@
       "title": "\u3010\u30b9\u30c8\u30b0\u30e9\u3011\u7262\u738b\u84ee \u5cf6\u53d6\u308a\u30c7\u30d3\u30e5\u30fc\u7537 19\u65e5\u76ee\u3010\u30ed\u30fc\u30ec\u30f3\u30fb\u30a4\u30ed\u30a2\u30b9/\u306b\u3058\u3055\u3093\u3058\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-22T11:24:26Z",
       "scheduledStartTime": "2024-05-22T11:20:00Z",
       "activeLiveChatId": "Cg0KC1RtWUk0d245N1FrKicKGFVDZ21GclJjeUg3ZDF6UjlzSVZRaEZvdxILVG1ZSTR3bjk3UWs"
     }
@@ -5304,8 +5304,18 @@
       "title": "\u3010Wuthering Waves\u3011NEW GACHA ?!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-23T14:00:00Z",
+      "scheduledStartTime": "2024-05-23T12:00:00Z",
       "activeLiveChatId": "Cg0KC2dwZjdEUHl6UE5FKicKGFVDSzZvQ01pYjYyZVlBSVBybHJZUlZydxILZ3BmN0RQeXpQTkU"
+    }
+  },
+  "gul1tvCVF04": {
+    "snippet": {
+      "publishedAt": "2024-05-22T11:24:48Z",
+      "channelId": "UC-yGTVx6w9JZZIFPidKCORg",
+      "title": "\u300eRADIOS KARAOKE / UNARCHIVED\u300fSongs from the Radio by Radios\u300eLauren Radios | OshiLink\u300f"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-25T23:00:00Z"
     }
   },
   "gvzjDO2489Q": {
