@@ -2691,8 +2691,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-21T23:11:04Z",
       "actualEndTime": "2024-05-21T23:57:22Z",
-      "scheduledStartTime": "2024-05-21T23:00:00Z",
-      "activeLiveChatId": "Cg0KC2tCNURtWFQ4OUpNKicKGFVDdjFUaHlFNEtWWW5uVlk4R0xmdG5vQRILa0I1RG1YVDg5Sk0"
+      "scheduledStartTime": "2024-05-21T23:00:00Z"
     }
   },
   "5T9Czb4EHbY": {
@@ -2704,6 +2703,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-24T21:00:00Z",
       "activeLiveChatId": "Cg0KCzVUOUN6YjRFSGJZKicKGFVDdjFUaHlFNEtWWW5uVlk4R0xmdG5vQRILNVQ5Q3piNEVIYlk"
+    }
+  },
+  "lUT7F04PfE8": {
+    "snippet": {
+      "publishedAt": "2024-05-21T03:32:03Z",
+      "channelId": "UCv1ThyE4KVYnnVY8GLftnoA",
+      "title": "\u30102024 BIRTHDAY MEMBER ZATSU\u3011Post-Birthday Thoughts and Check-in!\u3010V4Mirai | Serina Maiko | ENVtuber\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-25T20:00:00Z",
+      "activeLiveChatId": "Cg0KC2xVVDdGMDRQZkU4KicKGFVDdjFUaHlFNEtWWW5uVlk4R0xmdG5vQRILbFVUN0YwNFBmRTg"
     }
   }
 }
