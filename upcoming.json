@@ -2312,18 +2312,6 @@
       "activeLiveChatId": "Cg0KC0hYWU5CelJjNXk0KicKGFVDbTZKTVZLeGc4UHZKamwzRjdKMHRkURILSFhZTkJ6UmM1eTQ"
     }
   },
-  "H_cOiqma81M": {
-    "snippet": {
-      "publishedAt": "2024-05-17T17:50:34Z",
-      "channelId": "UCiS8bmdvcPfDbT5dqmxz_ew",
-      "title": "GX Aura x Ironside | Showcase"
-    },
-    "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-22T18:00:00Z",
-      "activeLiveChatId": "Cg0KC0hfY09pcW1hODFNKicKGFVDaVM4Ym1kdmNQZkRiVDVkcW14el9ldxILSF9jT2lxbWE4MU0",
-      "premiere": true
-    }
-  },
   "HaTveZ0Wlio": {
     "snippet": {
       "publishedAt": "2024-05-21T04:18:15Z",
@@ -4209,6 +4197,7 @@
       "title": "\u3010PARKING TYCOON\u3011TIME TO PARK UP!\u3010globie | Kiri Kilovolt\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-22T17:56:54Z",
       "scheduledStartTime": "2024-05-22T18:00:00Z",
       "activeLiveChatId": "Cg0KC1cyUkI2bC1mRTJZKicKGFVDMXNtOUgyb3J2eW5EYWpjRTRqcll1ZxILVzJSQjZsLWZFMlk"
     }
@@ -5854,6 +5843,7 @@
       "title": "\u3010Alien Isolation\u3011Why am I doing this?\u3010globie 2nd Gen - Equinnox\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-22T17:56:32Z",
       "scheduledStartTime": "2024-05-22T18:00:00Z",
       "activeLiveChatId": "Cg0KC2tGODlJcmkzRGFnKicKGFVDRkhkRUFIUGJGVWpnSjFSYU9fQXc2dxILa0Y4OUlyaTNEYWc"
     }
@@ -7363,6 +7353,7 @@
       "title": "I TOOK A TRAIN! [ZATSU] #aylive"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-22T18:00:11Z",
       "scheduledStartTime": "2024-05-22T18:00:00Z",
       "activeLiveChatId": "Cg0KC3gyZXVtT0U0QWNVKicKGFVDSW8zM2IwaGYyX21kcXRBWnZLbGF5URILeDJldW1PRTRBY1U"
     }
