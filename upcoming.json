@@ -3702,6 +3702,7 @@
       "title": "\u3010KARAOKE | \u6b4c\u67a0\u3011Chatting and singing"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-22T14:02:02Z",
       "scheduledStartTime": "2024-05-22T14:00:00Z",
       "activeLiveChatId": "Cg0KC1NUWVEyWHJRLUNBKicKGFVDcjhOWjlqT3JyVmNJUm5hSFpDakpVZxILU1RZUTJYclEtQ0E"
     }
@@ -3953,18 +3954,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-04-27T09:00:00Z",
       "activeLiveChatId": "Cg0KC1VlTHcwdVUyMll3KicKGFVDTzR6TWFZQkV6ZFlJU2Zlb082aXBfURILVWVMdzB1VTIyWXc"
-    }
-  },
-  "Uj_Oue65dhs": {
-    "snippet": {
-      "publishedAt": "2024-05-22T09:05:32Z",
-      "channelId": "UC1ZRXoTQUwZtKnpOfJwGNPw",
-      "title": "[Weekly Zatsu] Making Plans, Catching up, Affection and Attention \ud83d\udc9c"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-22T12:03:49Z",
-      "scheduledStartTime": "2024-05-22T12:00:00Z",
-      "activeLiveChatId": "Cg0KC1VqX091ZTY1ZGhzKicKGFVDMVpSWG9UUVV3WnRLbnBPZkp3R05QdxILVWpfT3VlNjVkaHM"
     }
   },
   "UkhXe5spyg8": {
@@ -6224,6 +6213,17 @@
       "premiere": true
     }
   },
+  "ninete_en": {
+    "snippet": {
+      "channelId": "ninete_en",
+      "title": "\u3010Drops\u2705\u3011Day36\uff1a\u304a\u3044\u3001\u7b11\u3048\u308b\u3002",
+      "channelTitle": "\u30ca\u30a4\u30f3\u30c6\u30a3\u30fc\u30f3"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-22T14:05:36Z",
+      "twitch": true
+    }
+  },
   "nnAY-x9AtNk": {
     "snippet": {
       "publishedAt": "2022-07-13T01:04:14Z",
@@ -6733,6 +6733,17 @@
       "activeLiveChatId": "Cg0KC3J0aXhzNm1BRXJFKicKGFVDVlFFYmpBY0pSZVB4T0RWTTVtV0N2URILcnRpeHM2bUFFckU"
     }
   },
+  "rurumi": {
+    "snippet": {
+      "channelId": "rurumi",
+      "title": "BUNNY GIRLS IN YOUR FACE \ud83d\udca2\ud83d\udca5\ud83d\udca5",
+      "channelTitle": "Rurumi"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-22T14:02:27Z",
+      "twitch": true
+    }
+  },
   "rvWwaulJ6RA": {
     "snippet": {
       "publishedAt": "2023-01-24T09:17:20Z",
@@ -6849,6 +6860,7 @@
       "title": "I know you're not the real Robin\u3010HONKAI STAR RAIL\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-22T14:05:38Z",
       "scheduledStartTime": "2024-05-22T14:00:00Z",
       "activeLiveChatId": "Cg0KC3NuOTVhQlRmak1vKicKGFVDX3pwa3FGdDdZQnlXYVBpOUJ4dDdFURILc245NWFCVGZqTW8"
     }
