@@ -3107,7 +3107,8 @@
       "title": "Bunny VTuber Reacts to Reddit and tries to gain Karma"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-22T20:00:00Z",
+      "actualStartTime": "2024-05-22T20:05:44Z",
+      "scheduledStartTime": "2024-05-22T20:04:17Z",
       "activeLiveChatId": "Cg0KC04zRkZpdUNMaUtzKicKGFVDYTdmaFR6LVZTRUlhR3Q4ajZqYWI2QRILTjNGRml1Q0xpS3M"
     }
   },
@@ -5802,18 +5803,6 @@
       "activeLiveChatId": "Cg0KC2p2WVVWSUtaTVJRKicKGFVDR3V3WWxGZGRMaEN3akpyeFVZdXB4QRILanZZVVZJS1pNUlE"
     }
   },
-  "kF89Iri3Dag": {
-    "snippet": {
-      "publishedAt": "2024-05-19T13:37:20Z",
-      "channelId": "UCFHdEAHPbFUjgJ1RaO_Aw6w",
-      "title": "\u3010Alien Isolation\u3011Why am I doing this?\u3010globie 2nd Gen - Equinnox\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-22T17:56:32Z",
-      "scheduledStartTime": "2024-05-22T18:00:00Z",
-      "activeLiveChatId": "Cg0KC2tGODlJcmkzRGFnKicKGFVDRkhkRUFIUGJGVWpnSjFSYU9fQXc2dxILa0Y4OUlyaTNEYWc"
-    }
-  },
   "kU-cSjbENbM": {
     "snippet": {
       "publishedAt": "2024-05-22T00:47:32Z",
@@ -6189,6 +6178,7 @@
       "title": "\u3010HANDCAM\u3011 Sakuraco unboxing! \u3010EIEN Project\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-22T20:06:55Z",
       "scheduledStartTime": "2024-05-22T20:00:00Z",
       "activeLiveChatId": "Cg0KC25VdmRJTTJYbVNzKicKGFVDel84enRROXJjdV9VcFVwMGh2N2JZdxILblV2ZElNMlhtU3M"
     }
