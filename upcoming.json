@@ -212,7 +212,7 @@
       "title": "YAKUZA KIWAMI Chapter 6+"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-22T02:45:00Z",
+      "scheduledStartTime": "2024-05-22T03:00:00Z",
       "activeLiveChatId": "Cg0KCzBYVjRRaWdzOERzKicKGFVDRmdYV1pPVVpBMm9ZSE5yNnFEbXNUURILMFhWNFFpZ3M4RHM"
     }
   },
@@ -2256,18 +2256,6 @@
       "activeLiveChatId": "Cg0KC0huNHF6bXVBckdrKicKGFVDQXhWb0JMRzJCdjF4Z2JZVV9lZnNDZxILSG40cXptdUFyR2s"
     }
   },
-  "HuRskTfdVkI": {
-    "snippet": {
-      "publishedAt": "2024-05-06T14:40:57Z",
-      "channelId": "UCVQEbjAcJRePxODVM5mWCvQ",
-      "title": "[Path To Nowhere] Begin chapter ten! (Feat Alive Neptuna) [Part 50]"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-22T00:03:23Z",
-      "scheduledStartTime": "2024-05-22T00:00:00Z",
-      "activeLiveChatId": "Cg0KC0h1UnNrVGZkVmtJKicKGFVDVlFFYmpBY0pSZVB4T0RWTTVtV0N2URILSHVSc2tUZmRWa0k"
-    }
-  },
   "I7xOH5sPIo8": {
     "snippet": {
       "publishedAt": "2024-04-02T03:20:38Z",
@@ -2277,18 +2265,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2026-01-01T23:00:00Z",
       "activeLiveChatId": "Cg0KC0k3eE9INXNQSW84KicKGFVDYnZSNDZTUXBPUFJLTXJWVDhOb0pUQRILSTd4T0g1c1BJbzg"
-    }
-  },
-  "IAs9EkF-RmM": {
-    "snippet": {
-      "publishedAt": "2024-05-21T22:28:33Z",
-      "channelId": "UC2gPbOjo_NM2QeroArW8Yeg",
-      "title": "Games [Members Only]"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-21T23:02:53Z",
-      "scheduledStartTime": "2024-05-21T23:00:00Z",
-      "activeLiveChatId": "Cg0KC0lBczlFa0YtUm1NKicKGFVDMmdQYk9qb19OTTJRZXJvQXJXOFllZxILSUFzOUVrRi1SbU0"
     }
   },
   "IGlJY7A-HtE": {
@@ -2937,18 +2913,6 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC01iYWFzQWJBZ2o0KicKGFVDLTFfLWpVdS1sQUxkR245LU1kQko0URILTWJhYXNBYkFnajQ"
-    }
-  },
-  "MfbJlySgZSs": {
-    "snippet": {
-      "publishedAt": "2024-05-21T19:14:41Z",
-      "channelId": "UCIeSUTOTkF9Hs7q3SGcO-Ow",
-      "title": "\u3010HONKAI: STAR RAIL\u3011 c...cowboy......... save a horse........ \u3010NIJISANJI EN | Elira Pendora\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-21T23:00:57Z",
-      "scheduledStartTime": "2024-05-21T23:00:00Z",
-      "activeLiveChatId": "Cg0KC01mYkpseVNnWlNzKicKGFVDSWVTVVRPVGtGOUhzN3EzU0djTy1PdxILTWZiSmx5U2daU3M"
     }
   },
   "Mhb2O-fpvto": {
@@ -4199,6 +4163,17 @@
       "activeLiveChatId": "Cg0KC1g5eGN1MHNPSmtRKicKGFVDRVNRc1NjN1VoOEViaVhWdG1QYkRfQRILWDl4Y3Uwc09Ka1E"
     }
   },
+  "XEzMZaZ0Zfk": {
+    "snippet": {
+      "publishedAt": "2024-05-22T03:00:04Z",
+      "channelId": "UCn5bP_hLL5HB6RW8X32kw1A",
+      "title": "How Many Mog Tomes Does It Take To Get What I Want? | FINAL FANTASY XIV ONLINE"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-24T16:00:00Z",
+      "activeLiveChatId": "Cg0KC1hFek1aYVowWmZrKicKGFVDbjViUF9oTEw1SEI2Ulc4WDMya3cxQRILWEV6TVphWjBaZms"
+    }
+  },
   "XFSrg1fnG_I": {
     "snippet": {
       "publishedAt": "2024-05-03T12:21:26Z",
@@ -4902,6 +4877,7 @@
       "title": "WE'RE OUTTA BLIGHTTOWN!!! But now what?\u3010 DARK SOULS REMASTERED || PART 6 \u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-22T03:01:11Z",
       "scheduledStartTime": "2024-05-22T03:00:00Z",
       "activeLiveChatId": "Cg0KC2NNdlBEci1fNGRzKicKGFVDMXRScVFUSTNCY2hzOFh2VW5qOHl2URILY012UERyLV80ZHM"
     }
