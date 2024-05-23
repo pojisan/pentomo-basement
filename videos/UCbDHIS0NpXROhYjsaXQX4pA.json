@@ -1623,5 +1623,27 @@
       "actualEndTime": "2024-05-23T02:57:48Z",
       "scheduledStartTime": "2024-05-22T23:00:00Z"
     }
+  },
+  "xruKAFd28dg": {
+    "snippet": {
+      "publishedAt": "2024-05-23T22:10:25Z",
+      "channelId": "UCbDHIS0NpXROhYjsaXQX4pA",
+      "title": "VERTICAL [ZATSU] Nothing is Working  [Yae Yugiri | V4Mirai]"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-23T23:00:00Z",
+      "activeLiveChatId": "Cg0KC3hydUtBRmQyOGRnKicKGFVDYkRISVMwTnBYUk9oWWpzYVhRWDRwQRILeHJ1S0FGZDI4ZGc"
+    }
+  },
+  "CyGH83n86Bc": {
+    "snippet": {
+      "publishedAt": "2024-05-23T22:08:39Z",
+      "channelId": "UCbDHIS0NpXROhYjsaXQX4pA",
+      "title": "[ZATSU] something something of mice and men  [Yae Yugiri | V4Mirai]"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-23T23:00:00Z",
+      "activeLiveChatId": "Cg0KC0N5R0g4M244NkJjKicKGFVDYkRISVMwTnBYUk9oWWpzYVhRWDRwQRILQ3lHSDgzbjg2QmM"
+    }
   }
 }

@@ -408,7 +408,8 @@
       "title": "(Corpse Party) I Can Fix Them I Swear! (WARNING! Graphic Content!)[#LaikaCream #ZenithVE]"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-23T22:00:00Z",
+      "actualStartTime": "2024-05-23T22:04:27Z",
+      "scheduledStartTime": "2024-05-23T22:03:53Z",
       "activeLiveChatId": "Cg0KC1JaNzl2cEd4ckZjKicKGFVDb3FQc1VXXzJJX2JaN041SDNGNFliURILUlo3OXZwR3hyRmM"
     }
   },
@@ -420,8 +421,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-23T22:00:06Z",
-      "scheduledStartTime": "2024-05-23T21:59:57Z",
-      "activeLiveChatId": "Cg0KC0JhWUFjNTBfZFpRKicKGFVDb3FQc1VXXzJJX2JaN041SDNGNFliURILQmFZQWM1MF9kWlE"
+      "actualEndTime": "2024-05-23T22:03:51Z",
+      "scheduledStartTime": "2024-05-23T21:59:57Z"
     }
   }
 }

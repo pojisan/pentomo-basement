@@ -571,6 +571,7 @@
       "title": "\u3010ACE COMBAT 7: SKIES UNKNOWN\u3011FIRST TIME PLAYING!\u3010EIEN Project\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-23T22:02:17Z",
       "scheduledStartTime": "2024-05-23T22:00:00Z",
       "activeLiveChatId": "Cg0KCzMzZzVfWFh1S1p3KicKGFVDYnZSNDZTUXBPUFJLTXJWVDhOb0pUQRILMzNnNV9YWHVLWnc"
     }
@@ -1388,18 +1389,6 @@
       "activeLiveChatId": "Cg0KC0JUVlZOUnRwQTRJKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILQlRWVk5SdHBBNEk"
     }
   },
-  "BaYAc50_dZQ": {
-    "snippet": {
-      "publishedAt": "2024-05-23T21:59:57Z",
-      "channelId": "UCoqPsUW_2I_bZ7N5H3F4YbQ",
-      "title": "(Parasocial) Literally My life... (WARNING! Graphic Content!)[#LaikaCream #ZenithVE]"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-23T22:00:06Z",
-      "scheduledStartTime": "2024-05-23T21:59:57Z",
-      "activeLiveChatId": "Cg0KC0JhWUFjNTBfZFpRKicKGFVDb3FQc1VXXzJJX2JaN041SDNGNFliURILQmFZQWM1MF9kWlE"
-    }
-  },
   "C41RnmaR8fM": {
     "snippet": {
       "publishedAt": "2023-08-07T01:50:40Z",
@@ -1506,6 +1495,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-12-31T23:00:00Z",
       "activeLiveChatId": "Cg0KC0NzMlhmNjBCUVZVKicKGFVDM0FZdG1NTmRKY3pDdlFOb1B5LWdqdxILQ3MyWGY2MEJRVlU"
+    }
+  },
+  "CyGH83n86Bc": {
+    "snippet": {
+      "publishedAt": "2024-05-23T22:08:39Z",
+      "channelId": "UCbDHIS0NpXROhYjsaXQX4pA",
+      "title": "[ZATSU] something something of mice and men  [Yae Yugiri | V4Mirai]"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-23T23:00:00Z",
+      "activeLiveChatId": "Cg0KC0N5R0g4M244NkJjKicKGFVDYkRISVMwTnBYUk9oWWpzYVhRWDRwQRILQ3lHSDgzbjg2QmM"
     }
   },
   "D6pjhyDBGNQ": {
@@ -1704,6 +1704,18 @@
       "activeLiveChatId": "Cg0KC0YxajQ0LTZtaERBKicKGFVDeGF6aWR0N3FRTU5WVzczd2twc3dPQRILRjFqNDQtNm1oREE"
     }
   },
+  "F3hb7mkbb1Q": {
+    "snippet": {
+      "publishedAt": "2024-05-23T21:55:05Z",
+      "channelId": "UC9NNMwafy9quvNWafFukNDw",
+      "title": "\ud83d\udd34\u3010VERTICAL\u3011FIRST TIME GHOST OF TSUSHIMA (i'm back from vacation!!) #shorts #shortslive #gaming"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-23T22:03:40Z",
+      "scheduledStartTime": "2024-05-23T22:00:00Z",
+      "activeLiveChatId": "Cg0KC0YzaGI3bWtiYjFRKicKGFVDOU5OTXdhZnk5cXV2TldhZkZ1a05EdxILRjNoYjdta2JiMVE"
+    }
+  },
   "F53lhP_3JJI": {
     "snippet": {
       "publishedAt": "2021-06-23T04:06:33Z",
@@ -1798,18 +1810,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-26T13:00:00Z",
       "activeLiveChatId": "Cg0KC0ZjZjJuWVJscEU4KicKGFVDNDE3UVBhV0xMNHJjWUJBRVNQTGZyQRILRmNmMm5ZUmxwRTg"
-    }
-  },
-  "FeAPVEp6MCE": {
-    "snippet": {
-      "publishedAt": "2024-05-23T17:02:11Z",
-      "channelId": "UC3FWSdh_KtELaee8t400JbA",
-      "title": "\u3010HANDCAM\u3011Throne Announcement! and thank you for the pressies\u3010Pippa Pebblesworth | globie\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-23T18:35:18Z",
-      "scheduledStartTime": "2024-05-23T18:30:00Z",
-      "activeLiveChatId": "Cg0KC0ZlQVBWRXA2TUNFKicKGFVDM0ZXU2RoX0t0RUxhZWU4dDQwMEpiQRILRmVBUFZFcDZNQ0U"
     }
   },
   "FgXtMEaaU4g": {
@@ -3304,7 +3304,8 @@
       "title": "(Corpse Party) I Can Fix Them I Swear! (WARNING! Graphic Content!)[#LaikaCream #ZenithVE]"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-23T22:00:00Z",
+      "actualStartTime": "2024-05-23T22:04:27Z",
+      "scheduledStartTime": "2024-05-23T22:03:53Z",
       "activeLiveChatId": "Cg0KC1JaNzl2cEd4ckZjKicKGFVDb3FQc1VXXzJJX2JaN041SDNGNFliURILUlo3OXZwR3hyRmM"
     }
   },
@@ -4247,6 +4248,7 @@
       "title": "\u3010MINECRAFT\u3011 ALL HAIL THE BIG BIRB CAFE \u3010NIJISANJI EN | Aia Amare \u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-23T22:07:38Z",
       "scheduledStartTime": "2024-05-23T22:00:00Z",
       "activeLiveChatId": "Cg0KC19Jby0wMjZjcXVJKicKGFVDTjY4TG9NM2toUzRnZEJNaVdKTzhXQRILX0lvLTAyNmNxdUk"
     }
@@ -4426,6 +4428,28 @@
       "activeLiveChatId": "Cg0KC2FsN1dHakFRT0FzKicKGFVDMk5lNmREY0Z4bk0yaENCTGlpM0lVZxILYWw3V0dqQVFPQXM"
     }
   },
+  "angelinakumalo": {
+    "snippet": {
+      "channelId": "angelinakumalo",
+      "title": "\u2730FALLOUT 1\u2730 Idiot Gen Zer doesn't know wtf is going on (!gamersupps !clip !discord)",
+      "channelTitle": "AngelinaKumalo"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-23T22:02:30Z",
+      "twitch": true
+    }
+  },
+  "apollomythos": {
+    "snippet": {
+      "channelId": "apollomythos",
+      "title": "\u2600\ufe0fASMR SUN MOMMY GODDESS \u2600\ufe0f(SOUND ALERTS R OFF) \u3010!discord\u3011\u3010!mythos\u3011\u3010!raid\u3011\u3010!Donate\u3011",
+      "channelTitle": "ApolloMythos"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-23T22:01:38Z",
+      "twitch": true
+    }
+  },
   "aresmythos": {
     "snippet": {
       "channelId": "aresmythos",
@@ -4594,6 +4618,7 @@
       "title": "\u3010Metal Gear Solid 2\u3011L + Rations \u2014 First Play!!\u3010Kou Mariya | VTuber | V4Mirai\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-23T22:04:21Z",
       "scheduledStartTime": "2024-05-23T22:00:00Z",
       "activeLiveChatId": "Cg0KC2NUT1Jvam5hb25NKicKGFVDcXlMMG9CMmpsLTVHcFNnLUdXWl9ndxILY1RPUm9qbmFvbk0"
     }
@@ -6092,6 +6117,7 @@
       "title": "\u3010ASMR RP\u3011 eepy wuby tiene sue\u00f1o pero quiere verte // sleepy girlfriend\u3010idolES | Ruby Runeheart\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-23T22:02:30Z",
       "scheduledStartTime": "2024-05-23T22:00:00Z",
       "activeLiveChatId": "Cg0KC3Jrd3RxT09CWFhVKicKGFVDLVcteWFWSWpxa1hvaDZkWjZfVGNNQRILcmt3dHFPT0JYWFU"
     }
@@ -6386,6 +6412,7 @@
       "title": "HI. LET'S HANG OUT."
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-23T22:05:34Z",
       "scheduledStartTime": "2024-05-25T00:00:00Z",
       "activeLiveChatId": "Cg0KC3VsbmxOcDI5WGQwKicKGFVDMW9nbUxWZE1yVTRIdUxCVVl0empWURILdWxubE5wMjlYZDA"
     }
@@ -6682,18 +6709,6 @@
       "activeLiveChatId": "Cg0KC3gzbUZkaVRWTTFNKicKGFVDNWFBTHV3d2NSYTdXeldISzkzQVllZxILeDNtRmRpVFZNMU0"
     }
   },
-  "xBz0YBIhuEo": {
-    "snippet": {
-      "publishedAt": "2024-05-21T09:45:33Z",
-      "channelId": "UC1ogmLVdMrU4HuLBUYtzjVQ",
-      "title": "DIAMONDS TONIGHT (or iron)"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-23T21:58:47Z",
-      "scheduledStartTime": "2024-05-23T22:00:00Z",
-      "activeLiveChatId": "Cg0KC3hCejBZQklodUVvKicKGFVDMW9nbUxWZE1yVTRIdUxCVVl0empWURILeEJ6MFlCSWh1RW8"
-    }
-  },
   "xCHTH78gYtg": {
     "snippet": {
       "publishedAt": "2024-05-22T01:15:27Z",
@@ -6724,6 +6739,17 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC3hoejNaZUhYaVI4KicKGFVDZWpiaWNvUm5RakNPZEFQQXY1SlB3ZxILeGh6M1plSFhpUjg"
+    }
+  },
+  "xruKAFd28dg": {
+    "snippet": {
+      "publishedAt": "2024-05-23T22:10:25Z",
+      "channelId": "UCbDHIS0NpXROhYjsaXQX4pA",
+      "title": "VERTICAL [ZATSU] Nothing is Working  [Yae Yugiri | V4Mirai]"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-23T23:00:00Z",
+      "activeLiveChatId": "Cg0KC3hydUtBRmQyOGRnKicKGFVDYkRISVMwTnBYUk9oWWpzYVhRWDRwQRILeHJ1S0FGZDI4ZGc"
     }
   },
   "xvk04wgMLaA": {
