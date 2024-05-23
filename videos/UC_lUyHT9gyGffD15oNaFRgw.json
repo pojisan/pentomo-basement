@@ -738,12 +738,25 @@
     "snippet": {
       "publishedAt": "2024-05-22T22:52:48Z",
       "channelId": "UC_lUyHT9gyGffD15oNaFRgw",
-      "title": "help, please feed me"
+      "title": "help, please feed me",
+      "private": true
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-23T08:10:26Z",
       "scheduledStartTime": "2024-05-23T08:00:00Z",
       "activeLiveChatId": "Cg0KC0xfY3JldHVjbVlvKicKGFVDX2xVeUhUOWd5R2ZmRDE1b05hRlJndxILTF9jcmV0dWNtWW8"
+    }
+  },
+  "kARlU8zjX8o": {
+    "snippet": {
+      "publishedAt": "2024-05-23T08:14:13Z",
+      "channelId": "UC_lUyHT9gyGffD15oNaFRgw",
+      "title": "help, please feed me"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-23T08:17:01Z",
+      "scheduledStartTime": "2024-05-23T08:15:00Z",
+      "activeLiveChatId": "Cg0KC2tBUmxVOHpqWDhvKicKGFVDX2xVeUhUOWd5R2ZmRDE1b05hRlJndxILa0FSbFU4empYOG8"
     }
   }
 }
