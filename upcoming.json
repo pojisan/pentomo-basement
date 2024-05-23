@@ -3128,6 +3128,7 @@
       "title": "\u3010BILIBILI V ARK SERVER\u3011will I make new friends?\u3010Dokibird\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-23T06:00:47Z",
       "scheduledStartTime": "2024-05-23T06:00:00Z",
       "activeLiveChatId": "Cg0KC09VTEZZZXFDWU5BKicKGFVDb21JblcxME1rSEpzLV92aTRySFFDURILT1VMRlllcUNZTkE"
     }
@@ -6332,17 +6333,6 @@
       "activeLiveChatId": "Cg0KC3NWY29UVFNvZ2dvKicKGFVDcW1TWWtYTHdzTDB6RWFyNUdvb1lrZxILc1Zjb1RUU29nZ28"
     }
   },
-  "sayu": {
-    "snippet": {
-      "channelId": "sayu",
-      "title": "RELEASE DAY WAO~ GET REWARDS FOR SUPPORTING STREAMERS with subs!\u2503!website !merch",
-      "channelTitle": "Sayu"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-23T03:34:37Z",
-      "twitch": true
-    }
-  },
   "shimadatiger": {
     "snippet": {
       "channelId": "shimadatiger",
@@ -6614,18 +6604,6 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC3ZHVGtFS2gwdVJNKicKGFVDVEZDU0NQdnFqWEVzM3pxOTFhZU9WZxILdkdUa0VLaDB1Uk0"
-    }
-  },
-  "vN7aXOy0B9E": {
-    "snippet": {
-      "publishedAt": "2024-05-22T10:03:57Z",
-      "channelId": "UCRIeS3g-awIQuPAPnApHbCA",
-      "title": "\u3010FFXIV:ARR\u3011The Marauder's Way\u3010Lore Stream\u3011#AresNanos"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-23T01:59:34Z",
-      "scheduledStartTime": "2024-05-23T02:00:00Z",
-      "activeLiveChatId": "Cg0KC3ZON2FYT3kwQjlFKicKGFVDUkllUzNnLWF3SVF1UEFQbkFwSGJDQRILdk43YVhPeTBCOUU"
     }
   },
   "valentinevt": {
