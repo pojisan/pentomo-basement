@@ -434,17 +434,6 @@
       "activeLiveChatId": "Cg0KCzItTnZaa3k3aGVzKicKGFVDVVA4VG1sTzdOTnJhODhBTXFHVV92URILMi1OdlpreTdoZXM"
     }
   },
-  "20sElmjMNi8": {
-    "snippet": {
-      "publishedAt": "2024-05-23T05:02:19Z",
-      "channelId": "UComInW10MkHJs-_vi4rHQCQ",
-      "title": "\u3010SAND LAND\u3011Off to Green Land\u3010Dokibird\u3011"
-    },
-    "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-23T21:00:00Z",
-      "activeLiveChatId": "Cg0KCzIwc0VsbWpNTmk4KicKGFVDb21JblcxME1rSEpzLV92aTRySFFDURILMjBzRWxtak1OaTg"
-    }
-  },
   "21GVRauz4AE": {
     "snippet": {
       "publishedAt": "2024-05-23T18:51:21Z",
@@ -964,6 +953,7 @@
       "title": "\u3010BITS & BOPS\u3011 Cute Rhythm Game demo!!!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-23T20:00:29Z",
       "scheduledStartTime": "2024-05-23T20:00:00Z",
       "activeLiveChatId": "Cg0KCzZPa1NDdm9xN2NjKicKGFVDQ0E0akpZNVByVGZJRkpJY2JJX05oURILNk9rU0N2b3E3Y2M"
     }
@@ -3200,7 +3190,7 @@
       "title": "\u3010Tales of Symphonia\u3011 Flanoir Scenes + Story Progression! \u3010Yuno Hanaki\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-23T20:00:00Z",
+      "scheduledStartTime": "2024-05-23T20:15:00Z",
       "activeLiveChatId": "Cg0KC1FMaUx5WHFuaElZKicKGFVDWmw5MndNaXBqWUZjMVVsbTlZeTY1ZxILUUxpTHlYcW5oSVk"
     }
   },
@@ -3505,18 +3495,6 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC1RrOUFSUEJqN3p3KicKGFVDX2xfN0RhOEhCMmNMVHg3VTg4UnJzQRILVGs5QVJQQmo3enc"
-    }
-  },
-  "TvTo_jo42X8": {
-    "snippet": {
-      "publishedAt": "2024-05-19T20:12:13Z",
-      "channelId": "UC1sm9H2orvynDajcE4jrYug",
-      "title": "\u3010CAR WRAP REVIEW PT.2\u3011LOOKING AT MORE COOL CARS!\u3010globie | Kiri Kilovolt\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-23T17:58:03Z",
-      "scheduledStartTime": "2024-05-23T18:00:00Z",
-      "activeLiveChatId": "Cg0KC1R2VG9fam80Mlg4KicKGFVDMXNtOUgyb3J2eW5EYWpjRTRqcll1ZxILVHZUb19qbzQyWDg"
     }
   },
   "U1A7CPv2ZFM": {
@@ -5231,6 +5209,17 @@
       "activeLiveChatId": "Cg0KC2h5X3Bvd3FIdDA4KicKGFVDYkRISVMwTnBYUk9oWWpzYVhRWDRwQRILaHlfcG93cUh0MDg"
     }
   },
+  "hyperx": {
+    "snippet": {
+      "channelId": "hyperx",
+      "title": "Fueling gacha addiction or horror, you pick! | !kura !youtube !code",
+      "channelTitle": "HyperX"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-23T20:00:02Z",
+      "twitch": true
+    }
+  },
   "i-DzVoVX22s": {
     "snippet": {
       "publishedAt": "2022-04-06T19:10:32Z",
@@ -5647,6 +5636,7 @@
       "title": "\u3010Dragon's Dogma 2\u3011I have no idea what im doing\u3010bondliveEN | Ivaela Daemoni\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-23T20:00:59Z",
       "scheduledStartTime": "2024-05-23T20:00:00Z",
       "activeLiveChatId": "Cg0KC24yZUZLQzB6aERjKicKGFVDeGJORVc3eHlrVEM3aEU1Rllnd3JPdxILbjJlRktDMHpoRGM"
     }
@@ -6958,6 +6948,7 @@
       "title": "\u3010Going Under\u3011I don't want to be a mermaid!\u3010Alicja Da Lontano | Globie Gen 2 Solstia\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-23T19:59:56Z",
       "scheduledStartTime": "2024-05-23T20:00:00Z",
       "activeLiveChatId": "Cg0KC3piQ3dxYVBTS3prKicKGFVDcWxndGs5SF8xR29XdHZXOFZpaTM4dxILemJDd3FhUFNLems"
     }
