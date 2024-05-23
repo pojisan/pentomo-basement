@@ -71,6 +71,7 @@
       "title": "\u3010One Hand Clapping\u3011aaaaaaaaa - \u3010OshiLink EN | Audica Sevens \u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-23T12:56:54Z",
       "scheduledStartTime": "2024-05-23T13:00:00Z",
       "activeLiveChatId": "Cg0KCy1NdkxLRDh5ekc0KicKGFVDS3BpSlFBWF9HbmM1cmpSQjh5WFQwQRILLU12TEtEOHl6RzQ"
     }
@@ -3097,18 +3098,6 @@
       "activeLiveChatId": "Cg0KC092OTgwdkEzVHdRKicKGFVDZ21QbngtRUVlT3JaU2c1VGl3N1pSURILT3Y5ODB2QTNUd1E"
     }
   },
-  "P-ArFxy1sZo": {
-    "snippet": {
-      "publishedAt": "2024-05-23T10:26:59Z",
-      "channelId": "UCeGendL8CO5RkffB6IFwHow",
-      "title": "\u3010\u30b9\u30a4\u30ab\u30b2\u30fc\u30e0\u3011 \u30aa\u30f3\u30e9\u30a4\u30f3\u3067\u8996\u8074\u8005\u53c2\u52a0\u578b\ud83c\udf49\u3010\u306b\u3058\u3055\u3093\u3058 | \u30bb\u30d5\u30a3\u30ca\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-23T11:29:54Z",
-      "scheduledStartTime": "2024-05-23T11:30:00Z",
-      "activeLiveChatId": "Cg0KC1AtQXJGeHkxc1pvKicKGFVDZUdlbmRMOENPNVJrZmZCNklGd0hvdxILUC1BckZ4eTFzWm8"
-    }
-  },
   "P-Q-eMri4Qo": {
     "snippet": {
       "publishedAt": "2023-05-30T20:46:28Z",
@@ -3614,7 +3603,7 @@
       "title": "ooga booga guerilla | Overwatch 2 #vtuber"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-23T13:00:00Z",
+      "scheduledStartTime": "2024-05-23T13:15:00Z",
       "activeLiveChatId": "Cg0KC1RqVkNsSmZXQUNvKicKGFVDTkExSndCd1pza180VVUtOHM2Q1ZfQRILVGpWQ2xKZldBQ28"
     }
   },
@@ -4408,6 +4397,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-24T01:00:00Z",
       "activeLiveChatId": "Cg0KC19RUFZnMk5Gb3l3KicKGFVDY0FuOFdYc29xdzl4OERBa3pZUU5RURILX1FQVmcyTkZveXc"
+    }
+  },
+  "__mHbCD5VT4": {
+    "snippet": {
+      "publishedAt": "2024-05-23T12:58:59Z",
+      "channelId": "UC8yXRB_jKDeapwQak2i30EA",
+      "title": "\u3010Little Kitty, Big City\u3011I am the destroyer of worlds"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-24T03:00:00Z",
+      "activeLiveChatId": "Cg0KC19fbUhiQ0Q1VlQ0KicKGFVDOHlYUkJfaktEZWFwd1FhazJpMzBFQRILX19tSGJDRDVWVDQ"
     }
   },
   "_dZluRCstow": {
@@ -5690,6 +5690,7 @@
       "title": "GENSHIN PLAYER TRIES OUT WUTHERING WAVES\u203c"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-23T12:59:27Z",
       "scheduledStartTime": "2024-05-23T13:00:00Z",
       "activeLiveChatId": "Cg0KC21sQU1yWGNDelFVKicKGFVDb05oejRPcXl4ZEV1dWZtRXo4ZW95QRILbWxBTXJYY0N6UVU"
     }
@@ -5936,6 +5937,7 @@
       "title": "\u3010Shinkansen 0 | \u65b0\u5e79\u7dda 0\u53f7\u3011It was the damn Exit 8 and now THIS?!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-23T13:00:37Z",
       "scheduledStartTime": "2024-05-23T13:00:00Z",
       "activeLiveChatId": "Cg0KC3BQRzFQZmpwOG9NKicKGFVDTkhjdDFQV2pRTjA1SkROaTNBZjZLZxILcFBHMVBmanA4b00"
     }
@@ -6153,7 +6155,8 @@
       "title": "\ud83d\udfe3Minecraft HardCore | How To Surivie The Nethers Wrath \ud83d\ude0e  \u2726 [ Goozilla Ily | Autumnia ]\u3010EN/TH\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-23T13:00:00Z",
+      "actualStartTime": "2024-05-23T13:01:07Z",
+      "scheduledStartTime": "2024-05-23T13:00:50Z",
       "activeLiveChatId": "Cg0KC3JPYjJFODNsbVBZKicKGFVDS2c5dldXVF8yeUszRkZOTm5uaGhMdxILck9iMkU4M2xtUFk"
     }
   },
