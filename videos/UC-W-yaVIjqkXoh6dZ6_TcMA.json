@@ -302,8 +302,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-22T21:01:03Z",
       "actualEndTime": "2024-05-22T23:19:42Z",
-      "scheduledStartTime": "2024-05-22T21:00:00Z",
-      "activeLiveChatId": "Cg0KC1lWQ0pzTEd4bndVKicKGFVDLVcteWFWSWpxa1hvaDZkWjZfVGNNQRILWVZDSnNMR3hud1U"
+      "scheduledStartTime": "2024-05-22T21:00:00Z"
     }
   },
   "oIIi0ty5gKw": {
@@ -337,6 +336,16 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-24T10:00:00Z",
       "activeLiveChatId": "Cg0KC3Jrd3RxT09CWFhVKicKGFVDLVcteWFWSWpxa1hvaDZkWjZfVGNNQRILcmt3dHFPT0JYWFU"
+    }
+  },
+  "9iyEVa0FUUI": {
+    "snippet": {
+      "publishedAt": "2024-05-22T23:15:38Z",
+      "channelId": "UC-W-yaVIjqkXoh6dZ6_TcMA",
+      "title": "Ruby Runeheart Ch. idol-ES Live Stream"
+    },
+    "liveStreamingDetails": {
+      "activeLiveChatId": "Cg0KCzlpeUVWYTBGVVVJKicKGFVDLVcteWFWSWpxa1hvaDZkWjZfVGNNQRILOWl5RVZhMEZVVUk"
     }
   }
 }
