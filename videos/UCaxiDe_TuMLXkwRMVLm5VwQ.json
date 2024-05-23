@@ -849,8 +849,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-23T03:00:37Z",
-      "scheduledStartTime": "2024-05-23T03:00:00Z",
-      "activeLiveChatId": "Cg0KC1JUbU50T1JxODVJKicKGFVDYXhpRGVfVHVNTFhrd1JNVkxtNVZ3URILUlRtTnRPUnE4NUk"
+      "actualEndTime": "2024-05-23T05:02:52Z",
+      "scheduledStartTime": "2024-05-23T03:00:00Z"
     }
   },
   "0tjhflQMC-k": {
@@ -860,6 +860,7 @@
       "title": "\u3010Wuthering Waves\u3011ANOTHER NEW GACHA MOBAGE?!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-23T05:05:09Z",
       "scheduledStartTime": "2024-05-23T05:00:00Z",
       "activeLiveChatId": "Cg0KCzB0amhmbFFNQy1rKicKGFVDYXhpRGVfVHVNTFhrd1JNVkxtNVZ3URILMHRqaGZsUU1DLWs"
     }
