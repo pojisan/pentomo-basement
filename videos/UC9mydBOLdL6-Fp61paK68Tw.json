@@ -1049,8 +1049,20 @@
       "title": "If I scream, I restart the game..\u3010Don't Scream\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-21T18:00:00Z",
-      "activeLiveChatId": "Cg0KCzR2a0ZwVlBSZGVJKicKGFVDOW15ZEJPTGRMNi1GcDYxcGFLNjhUdxILNHZrRnBWUFJkZUk"
+      "actualStartTime": "2024-05-21T18:00:36Z",
+      "actualEndTime": "2024-05-21T20:00:45Z",
+      "scheduledStartTime": "2024-05-21T18:00:00Z"
+    }
+  },
+  "-f32P0kmKDo": {
+    "snippet": {
+      "publishedAt": "2024-05-22T21:54:51Z",
+      "channelId": "UC9mydBOLdL6-Fp61paK68Tw",
+      "title": "This game might crush every other Gacha...\u3010Wuthering Waves\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-23T18:00:00Z",
+      "activeLiveChatId": "Cg0KCy1mMzJQMGttS0RvKicKGFVDOW15ZEJPTGRMNi1GcDYxcGFLNjhUdxILLWYzMlAwa21LRG8"
     }
   }
 }

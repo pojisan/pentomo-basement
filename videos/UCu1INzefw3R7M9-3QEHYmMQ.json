@@ -23782,9 +23782,11 @@
     "snippet": {
       "publishedAt": "2024-05-19T21:46:37Z",
       "channelId": "UCu1INzefw3R7M9-3QEHYmMQ",
-      "title": "MEMBER'S ONLY TOGGLE REVEAL + Odd Taxi Watchalong"
+      "title": "MEMBER'S ONLY TOGGLE REVEAL + Odd Taxi Watchalong",
+      "private": true
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-21T01:02:24Z",
       "scheduledStartTime": "2024-05-21T01:00:00Z",
       "activeLiveChatId": "Cg0KC1Y2RmI1Sk1rX2JvKicKGFVDdTFJTnplZnczUjdNOS0zUUVIWW1NURILVjZGYjVKTWtfYm8"
     }
@@ -23796,8 +23798,9 @@
       "title": "WOMEN SCARE ME [Higurashi Voice Acting Readalong]"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-21T16:00:00Z",
-      "activeLiveChatId": "Cg0KCzIyQUxQTkI0bEFzKicKGFVDdTFJTnplZnczUjdNOS0zUUVIWW1NURILMjJBTFBOQjRsQXM"
+      "actualStartTime": "2024-05-21T16:04:58Z",
+      "actualEndTime": "2024-05-21T20:42:11Z",
+      "scheduledStartTime": "2024-05-21T16:00:00Z"
     }
   },
   "Q71Pc8eyB2M": {
@@ -23818,8 +23821,9 @@
       "title": "\u3010ASMR/KU100\u3011Comfy Stardew Valley Session With Waifu (Whispering, Keyboard Sounds, Tapping)"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-22T15:00:00Z",
-      "activeLiveChatId": "Cg0KC2tlY0ZUeFVuNGtRKicKGFVDdTFJTnplZnczUjdNOS0zUUVIWW1NURILa2VjRlR4VW40a1E"
+      "actualStartTime": "2024-05-22T15:04:11Z",
+      "actualEndTime": "2024-05-22T18:32:31Z",
+      "scheduledStartTime": "2024-05-22T15:00:00Z"
     }
   },
   "gHpL-8U-g50": {
@@ -23853,6 +23857,13 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-25T00:00:00Z",
       "activeLiveChatId": "Cg0KC0dja3JUV09pU3NFKicKGFVDdTFJTnplZnczUjdNOS0zUUVIWW1NURILR2NrclRXT2lTc0U"
+    }
+  },
+  "jrJeR8p1cOM": {
+    "snippet": {
+      "publishedAt": "2024-05-21T05:39:10Z",
+      "channelId": "UCu1INzefw3R7M9-3QEHYmMQ",
+      "title": "COMFIEST VTuber Outfit Reveal"
     }
   }
 }

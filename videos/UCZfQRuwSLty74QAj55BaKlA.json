@@ -8258,11 +8258,35 @@
     "snippet": {
       "publishedAt": "2024-05-18T03:04:05Z",
       "channelId": "UCZfQRuwSLty74QAj55BaKlA",
-      "title": "\u3010MenoGame\u3011Hogwarts Legacy\u3010Ibuki Meno\u3011"
+      "title": "\u3010MenoGame\u3011Hogwarts Legacy\u3010Ibuki Meno\u3011",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-18T23:30:00Z",
       "activeLiveChatId": "Cg0KC1BrWWM2UWtDMU0wKicKGFVDWmZRUnV3U0x0eTc0UUFqNTVCYUtsQRILUGtZYzZRa0MxTTA"
+    }
+  },
+  "7GxcijtsyoA": {
+    "snippet": {
+      "publishedAt": "2024-05-21T04:37:47Z",
+      "channelId": "UCZfQRuwSLty74QAj55BaKlA",
+      "title": "\u3010MenoGame\u3011Hogwarts Legacy\u3010Ibuki Meno\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-22T11:00:00Z",
+      "activeLiveChatId": "Cg0KCzdHeGNpanRzeW9BKicKGFVDWmZRUnV3U0x0eTc0UUFqNTVCYUtsQRILN0d4Y2lqdHN5b0E"
+    }
+  },
+  "XDsu03__rmA": {
+    "snippet": {
+      "publishedAt": "2024-05-21T04:36:42Z",
+      "channelId": "UCZfQRuwSLty74QAj55BaKlA",
+      "title": "\u3010MenoChat\u3011Time to chat with Meno!\u3010Ibuki Meno\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-21T05:41:02Z",
+      "actualEndTime": "2024-05-21T07:43:44Z",
+      "scheduledStartTime": "2024-05-21T05:30:00Z"
     }
   }
 }

@@ -3357,8 +3357,9 @@
       "title": "\u3010\u6b4c\u67a0/Singing Stream\u3011\u30ea\u30af\u30a8\u30b9\u30c8OK!! \u306e\u3093\u3073\u308a\u6b4c\u67a0\ud83d\udc9c/Request OK!! Singing Stream!!\u3010VTuber/Ririsya\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-21T12:00:00Z",
-      "activeLiveChatId": "Cg0KC2d0N2NTT3NhNmZJKicKGFVDMXVjZ29DX3NHd3dfRXV1NWlNcXBRdxILZ3Q3Y1NPc2E2Zkk"
+      "actualStartTime": "2024-05-21T12:01:45Z",
+      "actualEndTime": "2024-05-21T14:24:59Z",
+      "scheduledStartTime": "2024-05-21T12:00:00Z"
     }
   }
 }

@@ -3558,8 +3558,43 @@
       "title": "\u3010BEFORE YOUR EYES\u3011 blinking through the tears..."
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-21T11:00:00Z",
-      "activeLiveChatId": "Cg0KC3gwaGxFQjhVRmYwKicKGFVDZlcwZjJKNm8tX3IzZm1lV3MzSEZfQRILeDBobEVCOFVGZjA"
+      "actualStartTime": "2024-05-21T11:04:24Z",
+      "actualEndTime": "2024-05-21T14:43:07Z",
+      "scheduledStartTime": "2024-05-21T11:00:00Z"
+    }
+  },
+  "vnv8-fJSluM": {
+    "snippet": {
+      "publishedAt": "2024-05-22T15:10:17Z",
+      "channelId": "UCfW0f2J6o-_r3fmeWs3HF_A",
+      "title": "\u3010PERSONA 3 RELOAD\u3011 well if your friend jumped off a bridge, would you? (yes)"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-23T02:04:19Z",
+      "scheduledStartTime": "2024-05-23T02:00:00Z",
+      "activeLiveChatId": "Cg0KC3ZudjgtZkpTbHVNKicKGFVDZlcwZjJKNm8tX3IzZm1lV3MzSEZfQRILdm52OC1mSlNsdU0"
+    }
+  },
+  "-ywadoz9bCU": {
+    "snippet": {
+      "publishedAt": "2024-05-22T15:15:12Z",
+      "channelId": "UCfW0f2J6o-_r3fmeWs3HF_A",
+      "title": "\u3010PERSONA 3 RELOAD\u3011 gimme femc bro"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-27T02:00:00Z",
+      "activeLiveChatId": "Cg0KCy15d2Fkb3o5YkNVKicKGFVDZlcwZjJKNm8tX3IzZm1lV3MzSEZfQRILLXl3YWRvejliQ1U"
+    }
+  },
+  "egwWOHYBQk0": {
+    "snippet": {
+      "publishedAt": "2024-05-22T15:13:13Z",
+      "channelId": "UCfW0f2J6o-_r3fmeWs3HF_A",
+      "title": "\u3010RED DEAD REDEMPTION 2\u3011 magical girl go pew pew"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-26T11:00:00Z",
+      "activeLiveChatId": "Cg0KC2Vnd1dPSFlCUWswKicKGFVDZlcwZjJKNm8tX3IzZm1lV3MzSEZfQRILZWd3V09IWUJRazA"
     }
   }
 }

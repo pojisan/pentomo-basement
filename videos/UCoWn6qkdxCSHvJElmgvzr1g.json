@@ -672,7 +672,7 @@
     "snippet": {
       "publishedAt": "2024-05-01T06:00:06Z",
       "channelId": "UCoWn6qkdxCSHvJElmgvzr1g",
-      "title": "\u3010Hitman 3\u3011THE PROFESSIONAL.\u3014Pt. 7\u3015"
+      "title": "\u3010Hitman 2\u3011THE PROFESSIONAL.\u3014Pt. 7\u3015"
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-05T02:02:12Z",
@@ -906,8 +906,9 @@
       "title": "\u3010GTA V\u3011SIDE STORIES!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-23T00:00:00Z",
-      "activeLiveChatId": "Cg0KC1ROWXRiUmdKVkNnKicKGFVDb1duNnFrZHhDU0h2SkVsbWd2enIxZxILVE5ZdGJSZ0pWQ2c"
+      "actualStartTime": "2024-05-23T00:01:46Z",
+      "actualEndTime": "2024-05-23T01:53:44Z",
+      "scheduledStartTime": "2024-05-23T00:00:00Z"
     }
   },
   "2Q7-fByC-XA": {
@@ -918,8 +919,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-21T00:00:00Z",
-      "scheduledStartTime": "2024-05-21T00:00:00Z",
-      "activeLiveChatId": "Cg0KCzJRNy1mQnlDLVhBKicKGFVDb1duNnFrZHhDU0h2SkVsbWd2enIxZxILMlE3LWZCeUMtWEE"
+      "actualEndTime": "2024-05-21T03:07:17Z",
+      "scheduledStartTime": "2024-05-21T00:00:00Z"
     }
   },
   "srXHtlkY2eg": {
@@ -929,8 +930,9 @@
       "title": "\u3010Indigo Park\u3011WHERE AM I"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-22T01:00:00Z",
-      "activeLiveChatId": "Cg0KC3NyWEh0bGtZMmVnKicKGFVDb1duNnFrZHhDU0h2SkVsbWd2enIxZxILc3JYSHRsa1kyZWc"
+      "actualStartTime": "2024-05-22T01:01:09Z",
+      "actualEndTime": "2024-05-22T02:44:22Z",
+      "scheduledStartTime": "2024-05-22T01:00:00Z"
     }
   },
   "61T4gbeiiGM": {

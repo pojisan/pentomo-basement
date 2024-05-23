@@ -3673,8 +3673,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-20T20:53:41Z",
-      "scheduledStartTime": "2024-05-20T21:00:00Z",
-      "activeLiveChatId": "Cg0KC1N4TllFVHE1WTAwKicKGFVDcFlmNkM5UXNQX0JSZjk3dkx1WGxJQRILU3hOWUVUcTVZMDA"
+      "actualEndTime": "2024-05-21T04:26:27Z",
+      "scheduledStartTime": "2024-05-20T21:00:00Z"
     }
   },
   "uL916sPuNhY": {
@@ -3687,6 +3687,30 @@
       "actualStartTime": "2024-05-20T19:18:40Z",
       "actualEndTime": "2024-05-20T20:30:47Z",
       "scheduledStartTime": "2024-05-20T19:00:00Z"
+    }
+  },
+  "SQXS6Cbr16w": {
+    "snippet": {
+      "publishedAt": "2024-05-21T08:08:48Z",
+      "channelId": "UCpYf6C9QsP_BRf97vLuXlIA",
+      "title": "\u3010FINAL FANTASY XIV\u3011ENDWALKER SPEEDRUN CONTINUE *EW SPOILERS [NIJISANJI EN | Vantacrow Bringer]"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-21T19:05:24Z",
+      "actualEndTime": "2024-05-22T00:36:05Z",
+      "scheduledStartTime": "2024-05-21T19:00:00Z"
+    }
+  },
+  "f0kgCQeMJJo": {
+    "snippet": {
+      "publishedAt": "2024-05-22T12:08:21Z",
+      "channelId": "UCpYf6C9QsP_BRf97vLuXlIA",
+      "title": "\u3010WUTHERING WAVES\u3011IT'S FINALLY HERE!!!\u3010NIJISANJ EN | Vantacrow Bringer\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-23T01:01:35Z",
+      "scheduledStartTime": "2024-05-23T01:00:00Z",
+      "activeLiveChatId": "Cg0KC2Ywa2dDUWVNSkpvKicKGFVDcFlmNkM5UXNQX0JSZjk3dkx1WGxJQRILZjBrZ0NRZU1KSm8"
     }
   }
 }

@@ -7506,8 +7506,20 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-20T23:07:29Z",
-      "scheduledStartTime": "2024-05-20T23:00:00Z",
-      "activeLiveChatId": "Cg0KC3pHaVdNRFlvanI4KicKGFVDNFd2SUlBbzg5X0F6R1VoMUFaNkRrZxILekdpV01EWW9qcjg"
+      "actualEndTime": "2024-05-21T02:56:15Z",
+      "scheduledStartTime": "2024-05-20T23:00:00Z"
+    }
+  },
+  "AJHqKjwX5is": {
+    "snippet": {
+      "publishedAt": "2024-05-22T03:51:19Z",
+      "channelId": "UC4WvIIAo89_AzGUh1AZ6Dkg",
+      "title": "\u3010FORTNITE\u3011number one victory royale"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-22T23:06:29Z",
+      "actualEndTime": "2024-05-23T02:06:11Z",
+      "scheduledStartTime": "2024-05-22T23:00:00Z"
     }
   }
 }

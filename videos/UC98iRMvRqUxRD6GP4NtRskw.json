@@ -2225,6 +2225,8 @@
       "title": "I'm Going to CRASH the Economy | STONKS 9800"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-22T23:59:11Z",
+      "actualEndTime": "2024-05-23T01:01:06Z",
       "scheduledStartTime": "2024-05-23T00:00:00Z",
       "activeLiveChatId": "Cg0KC2lfcDhNbUxEWHJFKicKGFVDOThpUk12UnFVeFJENkdQNE50UnNrdxILaV9wOE1tTERYckU"
     }
@@ -2248,8 +2250,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-20T23:42:27Z",
-      "scheduledStartTime": "2024-05-21T00:00:00Z",
-      "activeLiveChatId": "Cg0KC2J2Y0pQZEl6VGhZKicKGFVDOThpUk12UnFVeFJENkdQNE50UnNrdxILYnZjSlBkSXpUaFk"
+      "actualEndTime": "2024-05-21T01:37:48Z",
+      "scheduledStartTime": "2024-05-21T00:00:00Z"
     }
   },
   "V1Vb5oVpmuY": {
@@ -2259,8 +2261,9 @@
       "title": "This Job STINKS!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-21T17:00:00Z",
-      "activeLiveChatId": "Cg0KC1YxVmI1b1ZwbXVZKicKGFVDOThpUk12UnFVeFJENkdQNE50UnNrdxILVjFWYjVvVnBtdVk"
+      "actualStartTime": "2024-05-21T16:59:48Z",
+      "actualEndTime": "2024-05-21T18:05:02Z",
+      "scheduledStartTime": "2024-05-21T17:00:00Z"
     }
   },
   "OOKtftTYYpo": {
@@ -2270,8 +2273,9 @@
       "title": "GET IN THE TELEPOD! | Chrono Trigger"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-21T22:00:00Z",
-      "activeLiveChatId": "Cg0KC09PS3RmdFRZWXBvKicKGFVDOThpUk12UnFVeFJENkdQNE50UnNrdxILT09LdGZ0VFlZcG8"
+      "actualStartTime": "2024-05-21T21:59:41Z",
+      "actualEndTime": "2024-05-21T23:55:56Z",
+      "scheduledStartTime": "2024-05-21T22:00:00Z"
     }
   }
 }

@@ -918,8 +918,9 @@
       "title": "\u3010Piano Practice\u3011Look at my thumbnail"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-22T13:00:00Z",
-      "activeLiveChatId": "Cg0KCzl6MThfZTRiQldrKicKGFVDazB2dXd3c21fVVFISElPZ0d2eFUtQRILOXoxOF9lNGJCV2s"
+      "actualStartTime": "2024-05-22T13:00:16Z",
+      "actualEndTime": "2024-05-22T15:29:16Z",
+      "scheduledStartTime": "2024-05-22T13:00:00Z"
     }
   },
   "g7f4cg8LZ54": {
@@ -929,8 +930,9 @@
       "title": "Crochet a Blobfish (I will finish it trust me)"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-21T13:00:00Z",
-      "activeLiveChatId": "Cg0KC2c3ZjRjZzhMWjU0KicKGFVDazB2dXd3c21fVVFISElPZ0d2eFUtQRILZzdmNGNnOExaNTQ"
+      "actualStartTime": "2024-05-21T13:17:17Z",
+      "actualEndTime": "2024-05-21T15:40:42Z",
+      "scheduledStartTime": "2024-05-21T13:00:00Z"
     }
   }
 }

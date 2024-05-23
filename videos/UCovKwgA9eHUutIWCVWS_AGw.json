@@ -81,8 +81,9 @@
       "title": "\u3010AFK Journey\u3011Adventure Level: CHILL feat. @hiyumiNAO \u3010Fionna fon Engels \u2661 Project: Verses\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-21T01:00:00Z",
-      "activeLiveChatId": "Cg0KC2taX1JoLWZucEVRKicKGFVDb3ZLd2dBOWVIVXV0SVdDVldTX0FHdxILa1pfUmgtZm5wRVE"
+      "actualStartTime": "2024-05-21T01:01:21Z",
+      "actualEndTime": "2024-05-21T03:47:47Z",
+      "scheduledStartTime": "2024-05-21T01:00:00Z"
     }
   },
   "dp9xmF_2cjI": {
@@ -92,8 +93,9 @@
       "title": "\u3010Hades II\u3011I'm not scared of the underworld!\u3010Fionna fon Engels \u2661 Project: Verses\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-22T00:00:00Z",
-      "activeLiveChatId": "Cg0KC2RwOXhtRl8yY2pJKicKGFVDb3ZLd2dBOWVIVXV0SVdDVldTX0FHdxILZHA5eG1GXzJjakk"
+      "actualStartTime": "2024-05-21T23:59:08Z",
+      "actualEndTime": "2024-05-22T02:43:24Z",
+      "scheduledStartTime": "2024-05-22T00:00:00Z"
     }
   },
   "YcYDU6YjvaA": {
@@ -133,7 +135,8 @@
     "snippet": {
       "publishedAt": "2024-05-19T18:13:46Z",
       "channelId": "UCovKwgA9eHUutIWCVWS_AGw",
-      "title": "\u3010Wuthering Waves\u3011another day, another dead world huh?\u3010Fionna fon Engels \u2661 Project: Verses\u3011"
+      "title": "\u3010Wuthering Waves\u3011another day, another dead world huh?\u3010Fionna fon Engels \u2661 Project: Verses\u3011",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-22T13:00:00Z",

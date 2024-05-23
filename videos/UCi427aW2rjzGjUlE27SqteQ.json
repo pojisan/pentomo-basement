@@ -453,5 +453,16 @@
       "actualEndTime": "2024-05-19T23:00:09Z",
       "scheduledStartTime": "2024-05-19T23:15:00Z"
     }
+  },
+  "FK7AK3Hy1gc": {
+    "snippet": {
+      "publishedAt": "2024-05-23T01:27:04Z",
+      "channelId": "UCi427aW2rjzGjUlE27SqteQ",
+      "title": "GONE FISHIN' - read description!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2026-05-23T01:25:00Z",
+      "activeLiveChatId": "Cg0KC0ZLN0FLM0h5MWdjKicKGFVDaTQyN2FXMnJqekdqVWxFMjdTcXRlURILRks3QUszSHkxZ2M"
+    }
   }
 }

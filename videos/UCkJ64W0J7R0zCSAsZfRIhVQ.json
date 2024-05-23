@@ -6371,7 +6371,7 @@
     "snippet": {
       "publishedAt": "2024-05-14T08:06:24Z",
       "channelId": "UCkJ64W0J7R0zCSAsZfRIhVQ",
-      "title": "\u3010VALKYRIA CHRONICLES\u3011Yo, are scouts y'know...OP?\u3010PART 4\u3011"
+      "title": "\u3010VALKYRIA CHRONICLES\u3011Yo, are scouts y'know...OP?\u3010PART 5\u3011"
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-17T00:00:49Z",
@@ -6413,6 +6413,29 @@
       "actualStartTime": "2024-05-19T22:04:57Z",
       "actualEndTime": "2024-05-20T00:45:03Z",
       "scheduledStartTime": "2024-05-19T22:00:00Z"
+    }
+  },
+  "6YbRnRBPqkE": {
+    "snippet": {
+      "publishedAt": "2024-05-21T10:23:51Z",
+      "channelId": "UCkJ64W0J7R0zCSAsZfRIhVQ",
+      "title": "\u3010VALKYRIA CHRONICLES\u3011Valkyria? Chronicled.\u3010PART 6\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-24T00:00:00Z",
+      "activeLiveChatId": "Cg0KCzZZYlJuUkJQcWtFKicKGFVDa0o2NFcwSjdSMHpDU0FzWmZSSWhWURILNlliUm5SQlBxa0U"
+    }
+  },
+  "zgBoNRbFBzo": {
+    "snippet": {
+      "publishedAt": "2024-05-21T10:23:03Z",
+      "channelId": "UCkJ64W0J7R0zCSAsZfRIhVQ",
+      "title": "\u3010BLACK MESA\u3011Breaking through the surface tension!\u3010PART 6\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-22T00:01:24Z",
+      "actualEndTime": "2024-05-22T02:48:10Z",
+      "scheduledStartTime": "2024-05-22T00:00:00Z"
     }
   }
 }

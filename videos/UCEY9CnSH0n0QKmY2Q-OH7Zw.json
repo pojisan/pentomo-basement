@@ -527,7 +527,8 @@
     "snippet": {
       "publishedAt": "2024-05-18T19:47:38Z",
       "channelId": "UCEY9CnSH0n0QKmY2Q-OH7Zw",
-      "title": "\u3010 TEMPORARY WAITING ROOM \u3011Twin Cat Maid Compete For You ASMR\u3010Alias Anono \u3011"
+      "title": "\u3010 TEMPORARY WAITING ROOM \u3011Twin Cat Maid Compete For You ASMR\u3010Alias Anono \u3011",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-21T18:00:00Z",
@@ -553,8 +554,21 @@
       "title": "\u3010 LIVE \ud83d\udd34 3DIO Yandere RP ASMR\u3011Jealous Princess Makes You Hers \u3010Alias Anono | V4Mirai | ENVtuber\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-23T02:10:57Z",
       "scheduledStartTime": "2024-05-23T02:00:00Z",
       "activeLiveChatId": "Cg0KC21OSHJRTXdCYUhFKicKGFVDRVk5Q25TSDBuMFFLbVkyUS1PSDdadxILbU5IclFNd0JhSEU"
+    }
+  },
+  "dxgCWAfhpyg": {
+    "snippet": {
+      "publishedAt": "2024-05-21T08:13:29Z",
+      "channelId": "UCEY9CnSH0n0QKmY2Q-OH7Zw",
+      "title": "\u3010 Just Chatting\u3011NO ONE CAN STOP ME!\u3010Alias Anono | V4Mirai | ENVtuber\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-21T18:03:54Z",
+      "actualEndTime": "2024-05-21T20:24:17Z",
+      "scheduledStartTime": "2024-05-21T18:00:00Z"
     }
   }
 }

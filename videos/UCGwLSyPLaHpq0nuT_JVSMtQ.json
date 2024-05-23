@@ -1415,8 +1415,20 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-20T18:59:56Z",
-      "scheduledStartTime": "2024-05-20T19:00:00Z",
-      "activeLiveChatId": "Cg0KCzlrSGcxa0dnbnFBKicKGFVDR3dMU3lQTGFIcHEwbnVUX0pWU010URILOWtIZzFrR2ducUE"
+      "actualEndTime": "2024-05-21T01:05:29Z",
+      "scheduledStartTime": "2024-05-20T19:00:00Z"
+    }
+  },
+  "LNSTcH9yOkQ": {
+    "snippet": {
+      "publishedAt": "2024-05-21T05:56:22Z",
+      "channelId": "UCGwLSyPLaHpq0nuT_JVSMtQ",
+      "title": "\u3010\u6f22\u5b57\u3067GO!\u3011\u5bdd\u8d77\u304d\u3067\u3067\u304d\u308b\u304b\uff01\uff1f\u3010Kumanui Miel | globie\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-21T13:01:17Z",
+      "actualEndTime": "2024-05-21T15:20:57Z",
+      "scheduledStartTime": "2024-05-21T13:00:00Z"
     }
   }
 }

@@ -1091,8 +1091,40 @@
       "title": "\u3010GRADUATION\u3011SEA you later, Salminions!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-21T04:00:00Z",
-      "activeLiveChatId": "Cg0KC0x2MnBZUTJNWlpBKicKGFVDS0I3bV90Z1g3bHNVM1Bpdl9oaEgyQRILTHYycFlRMk1aWkE"
+      "actualStartTime": "2024-05-21T04:00:10Z",
+      "actualEndTime": "2024-05-21T07:38:00Z",
+      "scheduledStartTime": "2024-05-21T04:00:00Z"
+    }
+  },
+  "7eats0h_puM": {
+    "snippet": {
+      "publishedAt": "2024-05-21T05:29:13Z",
+      "channelId": "UCKB7m_tgX7lsU3Piv_hhH2A",
+      "title": "I hosted FightClub in League of Legends"
+    }
+  },
+  "bTJG6NY32ms": {
+    "snippet": {
+      "publishedAt": "2024-05-21T18:52:23Z",
+      "channelId": "UCKB7m_tgX7lsU3Piv_hhH2A",
+      "title": "Making DELICIOUS FOOD for my Members \u2665\u3010HANDCAM\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2023-11-23T05:00:08Z",
+      "actualEndTime": "2023-11-23T08:15:19Z",
+      "scheduledStartTime": "2023-11-23T05:00:00Z"
+    }
+  },
+  "Tjd8R-_vK2I": {
+    "snippet": {
+      "publishedAt": "2024-05-21T18:52:10Z",
+      "channelId": "UCKB7m_tgX7lsU3Piv_hhH2A",
+      "title": "Let her COOK \u3010HANDCAM\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-01-11T05:00:17Z",
+      "actualEndTime": "2024-01-11T08:05:20Z",
+      "scheduledStartTime": "2024-01-11T05:00:00Z"
     }
   }
 }

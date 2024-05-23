@@ -39,7 +39,7 @@
     "snippet": {
       "publishedAt": "2024-04-15T16:41:48Z",
       "channelId": "UC9SWIzHP07PL1y6cU8wkDwA",
-      "title": "\u301005/05 - 05/11\u3011Weekly Schedule~!! \u3010Yume+ | Mero Umiko\u3011"
+      "title": "\u301005/19 - 05/25\u3011Weekly Schedule~!! \u3010Yume+ | Mero Umiko\u3011"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-04-15T16:40:00Z",
@@ -695,6 +695,41 @@
       "actualStartTime": "2024-05-20T03:32:50Z",
       "actualEndTime": "2024-05-20T07:35:57Z",
       "scheduledStartTime": "2024-05-20T03:30:00Z"
+    }
+  },
+  "eN5xBkjdSRo": {
+    "snippet": {
+      "publishedAt": "2024-05-21T19:54:00Z",
+      "channelId": "UC9SWIzHP07PL1y6cU8wkDwA",
+      "title": "\u3010REMedy Tarot Fic\u3011 Adding our Plague Doctor~!! \u3010Yume+ | Mero Umiko\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-21T23:59:34Z",
+      "actualEndTime": "2024-05-22T02:20:38Z",
+      "scheduledStartTime": "2024-05-22T00:00:00Z"
+    }
+  },
+  "qmnKF2OBEcQ": {
+    "snippet": {
+      "publishedAt": "2024-05-22T14:16:53Z",
+      "channelId": "UC9SWIzHP07PL1y6cU8wkDwA",
+      "title": "\u3010Wuthering Waves\u3011GIV ME GIV ME\u3010Yume+ | Mero Umiko\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-23T00:52:35Z",
+      "scheduledStartTime": "2024-05-23T01:00:00Z",
+      "activeLiveChatId": "Cg0KC3FtbktGMk9CRWNRKicKGFVDOVNXSXpIUDA3UEwxeTZjVTh3a0R3QRILcW1uS0YyT0JFY1E"
+    }
+  },
+  "YzMaRKWMvTo": {
+    "snippet": {
+      "publishedAt": "2024-05-22T20:25:19Z",
+      "channelId": "UC9SWIzHP07PL1y6cU8wkDwA",
+      "title": "\u3010Zatsu\u3011ohameroo!!\u3010Yume+ | Mero Umiko\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-23T14:00:00Z",
+      "activeLiveChatId": "Cg0KC1l6TWFSS1dNdlRvKicKGFVDOVNXSXpIUDA3UEwxeTZjVTh3a0R3QRILWXpNYVJLV012VG8"
     }
   }
 }

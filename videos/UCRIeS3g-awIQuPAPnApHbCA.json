@@ -240,8 +240,33 @@
       "title": "\u3010FFXIV:ARR\u3011In the light of the Crystal.\u3010Lore Stream\u3011#AresNanos"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-20T02:00:00Z",
-      "activeLiveChatId": "Cg0KC2pPdk95THFBeFhZKicKGFVDUkllUzNnLWF3SVF1UEFQbkFwSGJDQRILak92T3lMcUF4WFk"
+      "actualStartTime": "2024-05-22T01:59:19Z",
+      "actualEndTime": "2024-05-22T05:27:39Z",
+      "scheduledStartTime": "2024-05-20T02:00:00Z"
+    }
+  },
+  "wlQ0TfMzNTI": {
+    "snippet": {
+      "publishedAt": "2024-05-21T05:10:56Z",
+      "channelId": "UCRIeS3g-awIQuPAPnApHbCA",
+      "title": "IS THIS THING ON??? RESTREAM TEST"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-21T05:11:52Z",
+      "actualEndTime": "2024-05-21T05:43:37Z",
+      "scheduledStartTime": "2024-05-21T05:11:04Z"
+    }
+  },
+  "vN7aXOy0B9E": {
+    "snippet": {
+      "publishedAt": "2024-05-22T10:03:57Z",
+      "channelId": "UCRIeS3g-awIQuPAPnApHbCA",
+      "title": "\u3010FFXIV:ARR\u3011The Marauder's Way\u3010Lore Stream\u3011#AresNanos"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-23T01:59:34Z",
+      "scheduledStartTime": "2024-05-23T02:00:00Z",
+      "activeLiveChatId": "Cg0KC3ZON2FYT3kwQjlFKicKGFVDUkllUzNnLWF3SVF1UEFQbkFwSGJDQRILdk43YVhPeTBCOUU"
     }
   }
 }

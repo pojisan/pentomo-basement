@@ -1689,7 +1689,8 @@
     "snippet": {
       "publishedAt": "2023-01-09T06:25:41Z",
       "channelId": "UCoOEer2c2pn2LqPX6skNWtA",
-      "title": "\u3010SCHEDULE | FREE CHAT\u3011UPDATED WEEKLY! \u3010XANDER | lucid \u2601\ufe0f\u3011"
+      "title": "\u3010SCHEDULE | FREE CHAT\u3011UPDATED WEEKLY! \u3010XANDER | lucid \u2601\ufe0f\u3011",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2026-05-01T05:00:00Z",
@@ -1867,6 +1868,17 @@
       "actualStartTime": "2022-10-31T03:00:06Z",
       "actualEndTime": "2022-10-31T03:04:13Z",
       "scheduledStartTime": "2022-10-31T03:00:00Z"
+    }
+  },
+  "P5NKC6CmVgc": {
+    "snippet": {
+      "publishedAt": "2024-05-22T11:25:54Z",
+      "channelId": "UCoOEer2c2pn2LqPX6skNWtA",
+      "title": "omg hey guys im back..."
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-23T02:30:00Z",
+      "activeLiveChatId": "Cg0KC1A1TktDNkNtVmdjKicKGFVDb09FZXIyYzJwbjJMcVBYNnNrTld0QRILUDVOS0M2Q21WZ2M"
     }
   }
 }

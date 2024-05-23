@@ -7833,8 +7833,21 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-20T23:00:39Z",
-      "scheduledStartTime": "2024-05-20T23:00:00Z",
-      "activeLiveChatId": "Cg0KC0ZDbEFwV05La0hJKicKGFVDTXdHSFIwQlRadUxzbWpZX05UNVB3ZxILRkNsQXBXTktrSEk"
+      "actualEndTime": "2024-05-21T00:25:30Z",
+      "scheduledStartTime": "2024-05-20T23:00:00Z"
+    }
+  },
+  "XEVa8puinO0": {
+    "snippet": {
+      "publishedAt": "2024-05-22T00:23:58Z",
+      "channelId": "UCMwGHR0BTZuLsmjY_NT5Pwg",
+      "title": "\u3010Katamari Damacy Reroll+\u3011 NANAAANANANA NANA NA NA \u26a0SPOILER WARNING"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-22T21:00:48Z",
+      "actualEndTime": "2024-05-23T00:11:18Z",
+      "scheduledStartTime": "2024-05-22T21:00:00Z",
+      "activeLiveChatId": "Cg0KC1hFVmE4cHVpbk8wKicKGFVDTXdHSFIwQlRadUxzbWpZX05UNVB3ZxILWEVWYThwdWluTzA"
     }
   }
 }

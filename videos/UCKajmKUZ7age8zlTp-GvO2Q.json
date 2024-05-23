@@ -2567,8 +2567,9 @@
       "title": "I Become a Furry\u3010 Little Kitty, Big City \u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-21T01:00:00Z",
-      "activeLiveChatId": "Cg0KC0xCUlJZUkE2Z0NvKicKGFVDS2FqbUtVWjdhZ2U4emxUcC1Hdk8yURILTEJSUllSQTZnQ28"
+      "actualStartTime": "2024-05-21T13:59:26Z",
+      "actualEndTime": "2024-05-21T16:03:43Z",
+      "scheduledStartTime": "2024-05-21T14:00:00Z"
     }
   },
   "h3xTwc1DTfQ": {
@@ -2578,8 +2579,9 @@
       "title": "Last Chatting Before I Try and Upgrade my PC (Wish Me Luck)"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-22T00:00:00Z",
-      "activeLiveChatId": "Cg0KC2gzeFR3YzFEVGZRKicKGFVDS2FqbUtVWjdhZ2U4emxUcC1Hdk8yURILaDN4VHdjMURUZlE"
+      "actualStartTime": "2024-05-22T22:31:02Z",
+      "actualEndTime": "2024-05-23T00:16:08Z",
+      "scheduledStartTime": "2024-05-22T22:30:00Z"
     }
   },
   "SqFZMwrWR-o": {
@@ -2587,6 +2589,13 @@
       "publishedAt": "2024-05-20T14:00:20Z",
       "channelId": "UCKajmKUZ7age8zlTp-GvO2Q",
       "title": "Scotland #vtuber #envtuber #envtubermemes"
+    }
+  },
+  "hZ94dhC9id8": {
+    "snippet": {
+      "publishedAt": "2024-05-21T19:15:00Z",
+      "channelId": "UCKajmKUZ7age8zlTp-GvO2Q",
+      "title": "VTuber using voice changer caught in 4k"
     }
   }
 }

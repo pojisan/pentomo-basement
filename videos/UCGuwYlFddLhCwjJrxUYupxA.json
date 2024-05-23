@@ -1916,8 +1916,9 @@
       "title": "\u3010Tetris\u3011I swear this will also be chill. Help me practice #zhunisession"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-22T23:00:00Z",
-      "activeLiveChatId": "Cg0KC1ktMERxU05zYVpVKicKGFVDR3V3WWxGZGRMaEN3akpyeFVZdXB4QRILWS0wRHFTTnNhWlU"
+      "actualStartTime": "2024-05-22T23:04:01Z",
+      "actualEndTime": "2024-05-23T01:51:33Z",
+      "scheduledStartTime": "2024-05-22T23:00:00Z"
     }
   },
   "E95saVIjQU8": {
@@ -1928,8 +1929,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-20T23:11:07Z",
-      "scheduledStartTime": "2024-05-20T23:00:00Z",
-      "activeLiveChatId": "Cg0KC0U5NXNhVklqUVU4KicKGFVDR3V3WWxGZGRMaEN3akpyeFVZdXB4QRILRTk1c2FWSWpRVTg"
+      "actualEndTime": "2024-05-21T01:39:31Z",
+      "scheduledStartTime": "2024-05-20T23:00:00Z"
     }
   }
 }

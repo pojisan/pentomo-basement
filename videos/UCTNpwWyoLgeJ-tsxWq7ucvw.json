@@ -372,8 +372,9 @@
       "title": "\u3010LUNCH LADY\u3011WHY IS A HAG CHASING ME.\u3010VyVid | Eva Ananova \u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-21T01:00:00Z",
-      "activeLiveChatId": "Cg0KC1o2ZW1JM2E2bWpRKicKGFVDVE5wd1d5b0xnZUotdHN4V3E3dWN2dxILWjZlbUkzYTZtalE"
+      "actualStartTime": "2024-05-21T01:00:31Z",
+      "actualEndTime": "2024-05-21T03:55:22Z",
+      "scheduledStartTime": "2024-05-21T01:00:00Z"
     }
   },
   "wNpxJi7EjOc": {
@@ -475,8 +476,9 @@
       "title": "\u3010TECH TUESDAY\u3011FREE TECH SUPPORT!\u3010VyVid | Eva Ananova \u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-22T01:00:00Z",
-      "activeLiveChatId": "Cg0KC3kwbGNTUDJZNTdBKicKGFVDVE5wd1d5b0xnZUotdHN4V3E3dWN2dxILeTBsY1NQMlk1N0E"
+      "actualStartTime": "2024-05-22T01:00:31Z",
+      "actualEndTime": "2024-05-22T04:14:04Z",
+      "scheduledStartTime": "2024-05-22T01:00:00Z"
     }
   },
   "yjwvXTrDWvg": {
@@ -484,6 +486,20 @@
       "publishedAt": "2024-05-20T23:02:40Z",
       "channelId": "UCTNpwWyoLgeJ-tsxWq7ucvw",
       "title": "#VTuber unleashes the beast\u2026 again... #shorts"
+    }
+  },
+  "Ke-xwl31Oq0": {
+    "snippet": {
+      "publishedAt": "2024-05-21T00:23:47Z",
+      "channelId": "UCTNpwWyoLgeJ-tsxWq7ucvw",
+      "title": "#VTuber sings \u201cGolden Hour\u201d #shorts"
+    }
+  },
+  "uYBSVuFHJdk": {
+    "snippet": {
+      "publishedAt": "2024-05-23T00:36:49Z",
+      "channelId": "UCTNpwWyoLgeJ-tsxWq7ucvw",
+      "title": "Being a #VTuber means awkward conversations\u2026 #shorts"
     }
   }
 }

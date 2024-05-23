@@ -4407,8 +4407,20 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-21T00:00:47Z",
-      "scheduledStartTime": "2024-05-21T00:00:00Z",
-      "activeLiveChatId": "Cg0KC2NVUDZiQnZyQjRZKicKGFVDQi04bk50aHR1VklabmlxWE55cmhLURILY1VQNmJCdnJCNFk"
+      "actualEndTime": "2024-05-21T05:12:16Z",
+      "scheduledStartTime": "2024-05-21T00:00:00Z"
+    }
+  },
+  "7Br7X6Lx-rE": {
+    "snippet": {
+      "publishedAt": "2024-05-22T23:51:47Z",
+      "channelId": "UCB-8nNthtuVIZniqXNyrhKQ",
+      "title": "\u3010Wuthering Waves\u3011New gacha game?!\u3010Yurikago Kokone | V&U\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-23T02:08:48Z",
+      "scheduledStartTime": "2024-05-23T02:00:00Z",
+      "activeLiveChatId": "Cg0KCzdCcjdYNkx4LXJFKicKGFVDQi04bk50aHR1VklabmlxWE55cmhLURILN0JyN1g2THgtckU"
     }
   }
 }

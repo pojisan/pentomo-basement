@@ -810,8 +810,9 @@
       "title": "\u3010Mobile Legends\u3011wawa\u3010Cyanne Aria | bondlive_EN\u3011#shorts #vtuber #mlbb"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-22T21:00:00Z",
-      "activeLiveChatId": "Cg0KC3o3VEpsWVM2T3hZKicKGFVDbnBjN0hwY2lmVnBpNlJCek5nZTUxdxILejdUSmxZUzZPeFk"
+      "actualStartTime": "2024-05-22T20:55:25Z",
+      "actualEndTime": "2024-05-23T00:45:42Z",
+      "scheduledStartTime": "2024-05-22T21:00:00Z"
     }
   },
   "_1skNWQZP2E": {
@@ -821,8 +822,9 @@
       "title": "\u3010Lethal Company\u3011Please I am scared\u3010Cyanne Aria | bondlive_EN\u3011#shorts #vtuber"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-22T01:00:00Z",
-      "activeLiveChatId": "Cg0KC18xc2tOV1FaUDJFKicKGFVDbnBjN0hwY2lmVnBpNlJCek5nZTUxdxILXzFza05XUVpQMkU"
+      "actualStartTime": "2024-05-22T01:07:29Z",
+      "actualEndTime": "2024-05-22T04:37:12Z",
+      "scheduledStartTime": "2024-05-22T01:00:00Z"
     }
   },
   "dzugyyfPIKw": {
@@ -834,8 +836,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-20T21:01:25Z",
       "actualEndTime": "2024-05-20T23:01:16Z",
-      "scheduledStartTime": "2024-05-20T21:00:00Z",
-      "activeLiveChatId": "Cg0KC2R6dWd5eWZQSUt3KicKGFVDbnBjN0hwY2lmVnBpNlJCek5nZTUxdxILZHp1Z3l5ZlBJS3c"
+      "scheduledStartTime": "2024-05-20T21:00:00Z"
     }
   },
   "9hJ0or5UKYo": {
@@ -865,6 +866,20 @@
       "publishedAt": "2024-05-20T21:00:07Z",
       "channelId": "UCnpc7HpcifVpi6RBzNge51w",
       "title": "\u3010Mobile Legends: Bang Bang\u3011AWAAWAWAWA\u3010Cyanne Aria | bondlive_EN\u3011#shorts #vtuber #mlbb"
+    }
+  },
+  "8g8Rw3uXWC0": {
+    "snippet": {
+      "publishedAt": "2024-05-21T21:00:04Z",
+      "channelId": "UCnpc7HpcifVpi6RBzNge51w",
+      "title": "\u3010Fictional men\u3011I likey #shorts #vtuber"
+    }
+  },
+  "OOKpnR8-NPc": {
+    "snippet": {
+      "publishedAt": "2024-05-22T21:00:21Z",
+      "channelId": "UCnpc7HpcifVpi6RBzNge51w",
+      "title": "\u3010my fictional crush girl version\u3011\u3010Cyanne Aria | bondlive_EN\u3011#shorts #vtuber #anime"
     }
   }
 }

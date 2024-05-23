@@ -866,8 +866,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-20T21:00:32Z",
       "actualEndTime": "2024-05-21T00:08:45Z",
-      "scheduledStartTime": "2024-05-20T21:00:00Z",
-      "activeLiveChatId": "Cg0KC0RVMFQtUFBBTkNnKicKGFVDSUlkMmJBM0JzQmVCQjgwYmR3TnM0URILRFUwVC1QUEFOQ2c"
+      "scheduledStartTime": "2024-05-20T21:00:00Z"
     }
   },
   "aywFg0oIE-k": {
@@ -877,8 +876,9 @@
       "title": "\u3010GUILTY GEAR STRIVE\u3011Joat duking it out for the crown\u3010Yume Plus | Rhea Nevermore\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-21T22:00:00Z",
-      "activeLiveChatId": "Cg0KC2F5d0ZnMG9JRS1rKicKGFVDSUlkMmJBM0JzQmVCQjgwYmR3TnM0URILYXl3Rmcwb0lFLWs"
+      "actualStartTime": "2024-05-21T21:59:19Z",
+      "actualEndTime": "2024-05-22T00:06:30Z",
+      "scheduledStartTime": "2024-05-21T22:00:00Z"
     }
   },
   "eBP2RSDcKkM": {
@@ -897,6 +897,32 @@
       "publishedAt": "2024-05-20T19:00:12Z",
       "channelId": "UCIId2bA3BsBeBB80bdwNs4Q",
       "title": "his chair her cushion, the cutest edaters to exist"
+    }
+  },
+  "BSlAWDI6VNA": {
+    "snippet": {
+      "publishedAt": "2024-05-21T19:00:08Z",
+      "channelId": "UCIId2bA3BsBeBB80bdwNs4Q",
+      "title": "vtuber canceled for sourcing her product inhumanely"
+    }
+  },
+  "PseCEzf4kjA": {
+    "snippet": {
+      "publishedAt": "2024-05-22T05:51:45Z",
+      "channelId": "UCIId2bA3BsBeBB80bdwNs4Q",
+      "title": "\u3010WUTHERING WAVES\u3011the gacha addict plays another gacha WHO WOULDA THUNK\u3010Yume Plus | Rhea Nevermore\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-23T01:24:22Z",
+      "scheduledStartTime": "2024-05-23T01:30:00Z",
+      "activeLiveChatId": "Cg0KC1BzZUNFemY0a2pBKicKGFVDSUlkMmJBM0JzQmVCQjgwYmR3TnM0URILUHNlQ0V6ZjRrakE"
+    }
+  },
+  "di6XaoZVuv8": {
+    "snippet": {
+      "publishedAt": "2024-05-22T19:00:30Z",
+      "channelId": "UCIId2bA3BsBeBB80bdwNs4Q",
+      "title": "#shorts #vtuberen"
     }
   }
 }

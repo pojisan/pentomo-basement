@@ -2667,6 +2667,7 @@
       "title": "\u30102024 BIRTHDAY COUNTDOWN!\u3011The Time Is Almost Upon Us...\u3010V4Mirai | Serina Maiko | ENVtuber\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-22T23:59:36Z",
       "scheduledStartTime": "2024-05-23T00:00:00Z",
       "activeLiveChatId": "Cg0KC3AtaEJYcmQ1SlA4KicKGFVDdjFUaHlFNEtWWW5uVlk4R0xmdG5vQRILcC1oQlhyZDVKUDg"
     }
@@ -2689,8 +2690,42 @@
       "title": "\u30102024 BIRTHDAY OUTFIT!\u3011Birthday Dress Reveal!\u3010V4Mirai | Serina Maiko | ENVtuber\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-21T22:00:00Z",
-      "activeLiveChatId": "Cg0KC2tCNURtWFQ4OUpNKicKGFVDdjFUaHlFNEtWWW5uVlk4R0xmdG5vQRILa0I1RG1YVDg5Sk0"
+      "actualStartTime": "2024-05-21T23:11:04Z",
+      "actualEndTime": "2024-05-21T23:57:22Z",
+      "scheduledStartTime": "2024-05-21T23:00:00Z"
+    }
+  },
+  "5T9Czb4EHbY": {
+    "snippet": {
+      "publishedAt": "2024-05-21T03:31:10Z",
+      "channelId": "UCv1ThyE4KVYnnVY8GLftnoA",
+      "title": "\u30102024 BIRTHDAY THEATRE!\u3011Serina Maiko's Royal Birthday Theatre!\u3010V4Mirai | Serina Maiko | ENVtuber\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-24T21:00:00Z",
+      "activeLiveChatId": "Cg0KCzVUOUN6YjRFSGJZKicKGFVDdjFUaHlFNEtWWW5uVlk4R0xmdG5vQRILNVQ5Q3piNEVIYlk"
+    }
+  },
+  "lUT7F04PfE8": {
+    "snippet": {
+      "publishedAt": "2024-05-21T03:32:03Z",
+      "channelId": "UCv1ThyE4KVYnnVY8GLftnoA",
+      "title": "\u30102024 BIRTHDAY MEMBER ZATSU\u3011Post-Birthday Thoughts and Check-in!\u3010V4Mirai | Serina Maiko | ENVtuber\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-25T20:00:00Z",
+      "activeLiveChatId": "Cg0KC2xVVDdGMDRQZkU4KicKGFVDdjFUaHlFNEtWWW5uVlk4R0xmdG5vQRILbFVUN0YwNFBmRTg"
+    }
+  },
+  "6v-yL_XJdyU": {
+    "snippet": {
+      "publishedAt": "2024-05-21T03:33:39Z",
+      "channelId": "UCv1ThyE4KVYnnVY8GLftnoA",
+      "title": "\u30102024 BIRTHDAY KARAOKE!\u3011Birthday Songs & Hot Girl Anthems!\u3010V4Mirai | Serina Maiko | ENVtuber\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-26T21:00:00Z",
+      "activeLiveChatId": "Cg0KCzZ2LXlMX1hKZHlVKicKGFVDdjFUaHlFNEtWWW5uVlk4R0xmdG5vQRILNnYteUxfWEpkeVU"
     }
   }
 }

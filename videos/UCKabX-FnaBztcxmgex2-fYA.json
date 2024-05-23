@@ -4531,11 +4531,12 @@
     "snippet": {
       "publishedAt": "2024-05-14T07:38:23Z",
       "channelId": "UCKabX-FnaBztcxmgex2-fYA",
-      "title": "\u3010Little Witch in the Woods\u3011 We can relax, hopefully"
+      "title": "\u3010Little Witch in the Woods/Helldivers 2\u3011 We can relax, hopefully"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-21T03:00:13Z",
-      "activeLiveChatId": "Cg0KC1dBUFBhNEJEbmk4KicKGFVDS2FiWC1GbmFCenRjeG1nZXgyLWZZQRILV0FQUGE0QkRuaTg"
+      "actualStartTime": "2024-05-21T03:14:17Z",
+      "actualEndTime": "2024-05-21T07:04:33Z",
+      "scheduledStartTime": "2024-05-21T03:00:13Z"
     }
   },
   "2Hx-RdDVqsg": {
@@ -4596,6 +4597,29 @@
       "actualStartTime": "2024-05-20T03:15:00Z",
       "actualEndTime": "2024-05-20T06:45:01Z",
       "scheduledStartTime": "2024-05-20T03:00:39Z"
+    }
+  },
+  "uzqN-HAonj0": {
+    "snippet": {
+      "publishedAt": "2024-05-22T01:06:48Z",
+      "channelId": "UCKabX-FnaBztcxmgex2-fYA",
+      "title": "\u3010Styx: Shards of Darkness\u3011 Finally continuing the story"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-22T02:20:32Z",
+      "actualEndTime": "2024-05-22T06:00:50Z",
+      "scheduledStartTime": "2024-05-22T02:15:41Z"
+    }
+  },
+  "wOuSGmfrn7g": {
+    "snippet": {
+      "publishedAt": "2024-05-22T06:14:42Z",
+      "channelId": "UCKabX-FnaBztcxmgex2-fYA",
+      "title": "\u3010Warhammer 40,000: Darktide\u3011 Cowards die in shame"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-23T02:15:00Z",
+      "activeLiveChatId": "Cg0KC3dPdVNHbWZybjdnKicKGFVDS2FiWC1GbmFCenRjeG1nZXgyLWZZQRILd091U0dtZnJuN2c"
     }
   }
 }

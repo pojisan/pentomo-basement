@@ -915,8 +915,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-20T21:58:32Z",
-      "scheduledStartTime": "2024-05-20T22:00:00Z",
-      "activeLiveChatId": "Cg0KC3hQTC1ZNXpJZGtFKicKGFVDcW1TWWtYTHdzTDB6RWFyNUdvb1lrZxILeFBMLVk1eklka0U"
+      "actualEndTime": "2024-05-21T03:02:23Z",
+      "scheduledStartTime": "2024-05-20T22:00:00Z"
     }
   },
   "3K2oqLTTd60": {
@@ -949,8 +949,22 @@
       "title": "\u3010Buckshot Roulette\u3011Touching Barrels w/ my Crush\u3010Yume+ | Mimosa Shirosaki\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-21T23:00:00Z",
-      "activeLiveChatId": "Cg0KC3Y3MFRaeks1aW1RKicKGFVDcW1TWWtYTHdzTDB6RWFyNUdvb1lrZxILdjcwVFp6SzVpbVE"
+      "actualStartTime": "2024-05-22T00:02:38Z",
+      "actualEndTime": "2024-05-22T01:50:31Z",
+      "scheduledStartTime": "2024-05-21T23:00:00Z"
+    }
+  },
+  "mH6M1Dzntzg": {
+    "snippet": {
+      "publishedAt": "2024-05-22T17:40:58Z",
+      "channelId": "UCqmSYkXLwsL0zEar5GooYkg",
+      "title": "\u3010Sainou x Yume Collab\u3011look ma i got over my social anxiety!\u3010Yume+ | Mimosa Shirosaki\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-22T23:05:00Z",
+      "actualEndTime": "2024-05-23T01:29:25Z",
+      "scheduledStartTime": "2024-05-22T23:00:00Z",
+      "activeLiveChatId": "Cg0KC21INk0xRHpudHpnKicKGFVDcW1TWWtYTHdzTDB6RWFyNUdvb1lrZxILbUg2TTFEem50emc"
     }
   }
 }

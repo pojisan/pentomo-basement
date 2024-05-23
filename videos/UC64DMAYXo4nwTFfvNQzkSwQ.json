@@ -2339,8 +2339,9 @@
       "title": "\u3010ZATSUDAN\u3011let's talk!!! \ud83e\udde1\u3010PixelLink\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-21T01:00:00Z",
-      "activeLiveChatId": "Cg0KC1ZkdVZ3alZwejlvKicKGFVDNjRETUFZWG80bndURmZ2TlF6a1N3URILVmR1VndqVnB6OW8"
+      "actualStartTime": "2024-05-21T01:01:14Z",
+      "actualEndTime": "2024-05-21T03:30:52Z",
+      "scheduledStartTime": "2024-05-21T01:00:00Z"
     }
   },
   "WTOwHMp1Vvw": {
@@ -2348,6 +2349,18 @@
       "publishedAt": "2024-05-20T17:13:19Z",
       "channelId": "UC64DMAYXo4nwTFfvNQzkSwQ",
       "title": "This VTuber scammed herself!"
+    }
+  },
+  "KKZyoTiUzhM": {
+    "snippet": {
+      "publishedAt": "2024-05-22T15:30:57Z",
+      "channelId": "UC64DMAYXo4nwTFfvNQzkSwQ",
+      "title": "\u3010UNDERTALE #1\u3011first time playing!!!\u3010PixelLink\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-23T01:01:02Z",
+      "scheduledStartTime": "2024-05-23T01:00:00Z",
+      "activeLiveChatId": "Cg0KC0tLWnlvVGlVemhNKicKGFVDNjRETUFZWG80bndURmZ2TlF6a1N3URILS0taeW9UaVV6aE0"
     }
   }
 }

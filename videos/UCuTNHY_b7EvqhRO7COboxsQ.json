@@ -3222,5 +3222,29 @@
       "actualEndTime": "2024-05-19T19:22:55Z",
       "scheduledStartTime": "2024-05-19T17:00:00Z"
     }
+  },
+  "aM04IH5BUC8": {
+    "snippet": {
+      "publishedAt": "2024-05-21T03:18:39Z",
+      "channelId": "UCuTNHY_b7EvqhRO7COboxsQ",
+      "title": "Canada and games!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-21T03:20:42Z",
+      "actualEndTime": "2024-05-21T03:59:16Z",
+      "scheduledStartTime": "2024-05-21T03:20:00Z"
+    }
+  },
+  "jo1dh1URD_s": {
+    "snippet": {
+      "publishedAt": "2024-05-21T22:42:34Z",
+      "channelId": "UCuTNHY_b7EvqhRO7COboxsQ",
+      "title": "im being a degenerate on valorant"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-21T22:46:20Z",
+      "actualEndTime": "2024-05-22T01:22:04Z",
+      "scheduledStartTime": "2024-05-21T22:45:00Z"
+    }
   }
 }

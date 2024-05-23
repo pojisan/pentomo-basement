@@ -10250,5 +10250,62 @@
       "actualEndTime": "2024-05-18T15:47:30Z",
       "scheduledStartTime": "2024-05-18T13:35:27Z"
     }
+  },
+  "q9AMlQb6l20": {
+    "snippet": {
+      "publishedAt": "2024-05-21T13:26:29Z",
+      "channelId": "UC0ZTVxCHkZanT5dnP2FZD4Q",
+      "title": "\u3010Hades II\u3011First new patch is here"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-21T15:00:49Z",
+      "actualEndTime": "2024-05-21T22:12:56Z",
+      "scheduledStartTime": "2024-05-21T15:00:00Z"
+    }
+  },
+  "o_UDfA6yk1U": {
+    "snippet": {
+      "publishedAt": "2024-05-21T13:59:57Z",
+      "channelId": "UC0ZTVxCHkZanT5dnP2FZD4Q",
+      "title": "\u3010Stellar Blade\u3011It has been awhile! But I am back~"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-22T13:04:49Z",
+      "actualEndTime": "2024-05-22T16:21:53Z",
+      "scheduledStartTime": "2024-05-22T13:00:00Z"
+    }
+  },
+  "dcD-545TDbI": {
+    "snippet": {
+      "publishedAt": "2024-05-22T01:00:27Z",
+      "channelId": "UC0ZTVxCHkZanT5dnP2FZD4Q",
+      "title": "\u3010Lifeline\u3011I did not say that... I did not! Oh, hey chat."
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-23T04:30:00Z",
+      "activeLiveChatId": "Cg0KC2RjRC01NDVURGJJKicKGFVDMFpUVnhDSGtaYW5UNWRuUDJGWkQ0URILZGNELTU0NVREYkk"
+    }
+  },
+  "xCHTH78gYtg": {
+    "snippet": {
+      "publishedAt": "2024-05-22T01:15:27Z",
+      "channelId": "UC0ZTVxCHkZanT5dnP2FZD4Q",
+      "title": "Is this your browser history?"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-24T03:00:00Z",
+      "activeLiveChatId": "Cg0KC3hDSFRINzhnWXRnKicKGFVDMFpUVnhDSGtaYW5UNWRuUDJGWkQ0URILeENIVEg3OGdZdGc"
+    }
+  },
+  "eoAGaIm-1nE": {
+    "snippet": {
+      "publishedAt": "2024-05-22T01:27:35Z",
+      "channelId": "UC0ZTVxCHkZanT5dnP2FZD4Q",
+      "title": "\u3010Megaman Legends 2\u3011This might be the finale"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-25T13:00:00Z",
+      "activeLiveChatId": "Cg0KC2VvQUdhSW0tMW5FKicKGFVDMFpUVnhDSGtaYW5UNWRuUDJGWkQ0URILZW9BR2FJbS0xbkU"
+    }
   }
 }

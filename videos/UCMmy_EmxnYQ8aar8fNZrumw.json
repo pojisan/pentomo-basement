@@ -791,8 +791,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-20T23:20:04Z",
-      "scheduledStartTime": "2024-05-20T23:00:00Z",
-      "activeLiveChatId": "Cg0KC0RzS2I1dnlQakdzKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILRHNLYjV2eVBqR3M"
+      "actualEndTime": "2024-05-21T07:03:04Z",
+      "scheduledStartTime": "2024-05-20T23:00:00Z"
     }
   },
   "p-qZTLdBa3U": {
@@ -814,8 +814,9 @@
       "title": "\u3010Donothon\u3011Kattarina's donothon - part 3"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-21T07:00:00Z",
-      "activeLiveChatId": "Cg0KC1dRN0MyZWRzVkc4KicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILV1E3QzJlZHNWRzg"
+      "actualStartTime": "2024-05-21T07:06:05Z",
+      "actualEndTime": "2024-05-21T15:04:17Z",
+      "scheduledStartTime": "2024-05-21T07:00:00Z"
     }
   },
   "2v04gRBZs2w": {
@@ -837,8 +838,9 @@
       "title": "\u3010Donothon\u3011Kattarina's donothon - part 5"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-21T23:00:00Z",
-      "activeLiveChatId": "Cg0KC1dwZG1vVU5EemNBKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILV3BkbW9VTkR6Y0E"
+      "actualStartTime": "2024-05-21T23:12:42Z",
+      "actualEndTime": "2024-05-22T07:06:02Z",
+      "scheduledStartTime": "2024-05-21T23:00:00Z"
     }
   },
   "Y6pN7gTu22A": {
@@ -848,8 +850,57 @@
       "title": "\u3010Donothon\u3011Kattarina's donothon - part 4"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-21T15:00:00Z",
-      "activeLiveChatId": "Cg0KC1k2cE43Z1R1MjJBKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILWTZwTjdnVHUyMkE"
+      "actualStartTime": "2024-05-21T15:07:50Z",
+      "actualEndTime": "2024-05-21T23:10:43Z",
+      "scheduledStartTime": "2024-05-21T15:00:00Z"
+    }
+  },
+  "WQQKeWP_93s": {
+    "snippet": {
+      "publishedAt": "2024-05-21T22:59:39Z",
+      "channelId": "UCMmy_EmxnYQ8aar8fNZrumw",
+      "title": "\u3010Donothon\u3011Kattarina's donothon - part 6"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-22T07:19:01Z",
+      "actualEndTime": "2024-05-22T15:19:07Z",
+      "scheduledStartTime": "2024-05-22T07:00:00Z"
+    }
+  },
+  "PnMcoxzc9ig": {
+    "snippet": {
+      "publishedAt": "2024-05-22T07:19:57Z",
+      "channelId": "UCMmy_EmxnYQ8aar8fNZrumw",
+      "title": "\u3010Donothon\u3011Kattarina's donothon - part 7"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-22T15:20:14Z",
+      "actualEndTime": "2024-05-22T23:06:22Z",
+      "scheduledStartTime": "2024-05-22T15:00:00Z",
+      "activeLiveChatId": "Cg0KC1BuTWNveHpjOWlnKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILUG5NY294emM5aWc"
+    }
+  },
+  "hu9SJU8BK4E": {
+    "snippet": {
+      "publishedAt": "2024-05-22T15:25:11Z",
+      "channelId": "UCMmy_EmxnYQ8aar8fNZrumw",
+      "title": "\u3010Donothon\u3011Kattarina's donothon - part 9"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-23T07:00:00Z",
+      "activeLiveChatId": "Cg0KC2h1OVNKVThCSzRFKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILaHU5U0pVOEJLNEU"
+    }
+  },
+  "2rB_gxbT4_U": {
+    "snippet": {
+      "publishedAt": "2024-05-22T15:24:28Z",
+      "channelId": "UCMmy_EmxnYQ8aar8fNZrumw",
+      "title": "\u3010Donothon\u3011Kattarina's donothon - part 8"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-22T23:08:14Z",
+      "scheduledStartTime": "2024-05-22T23:00:00Z",
+      "activeLiveChatId": "Cg0KCzJyQl9neGJUNF9VKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILMnJCX2d4YlQ0X1U"
     }
   }
 }

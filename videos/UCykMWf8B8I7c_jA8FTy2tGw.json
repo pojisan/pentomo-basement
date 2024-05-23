@@ -10663,11 +10663,12 @@
     "snippet": {
       "publishedAt": "2024-05-12T12:42:21Z",
       "channelId": "UCykMWf8B8I7c_jA8FTy2tGw",
-      "title": "\u3010Kings Field\u3011I Need To Grind!!",
-      "private": true
+      "title": "\u3010Kings Field\u3011I Need To Grind!!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-13T19:00:00Z",
+      "actualStartTime": "2024-05-22T19:00:31Z",
+      "actualEndTime": "2024-05-22T23:01:21Z",
+      "scheduledStartTime": "2024-05-22T19:00:00Z",
       "activeLiveChatId": "Cg0KC2htM096R09qMHV3KicKGFVDeWtNV2Y4QjhJN2NfakE4RlR5MnRHdxILaG0zT3pHT2owdXc"
     }
   },
@@ -10763,8 +10764,9 @@
       "title": "\u3010The Misadventures of Tron Bonne\u3011We WILL Rescue Tiesel Today!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-21T19:00:00Z",
-      "activeLiveChatId": "Cg0KC016MzlCTXNSN0NBKicKGFVDeWtNV2Y4QjhJN2NfakE4RlR5MnRHdxILTXozOUJNc1I3Q0E"
+      "actualStartTime": "2024-05-21T19:01:57Z",
+      "actualEndTime": "2024-05-21T23:29:38Z",
+      "scheduledStartTime": "2024-05-21T19:00:00Z"
     }
   },
   "VMwF3l-4cCc": {
@@ -10783,7 +10785,8 @@
     "snippet": {
       "publishedAt": "2024-05-20T02:42:10Z",
       "channelId": "UCykMWf8B8I7c_jA8FTy2tGw",
-      "title": "\u3010Games\u3011Crash n Burn + Off-World Interceptor on 3do!"
+      "title": "\u3010Games\u3011Crash n Burn + Off-World Interceptor on 3do!",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-22T19:00:00Z",

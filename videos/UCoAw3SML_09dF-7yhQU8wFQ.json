@@ -10162,7 +10162,8 @@
       "title": "charlotte suzu explains biology"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-23T02:00:00Z",
+      "actualStartTime": "2024-05-23T02:02:13Z",
+      "scheduledStartTime": "2024-05-23T02:01:50Z",
       "activeLiveChatId": "Cg0KC3haUlk1b0xsMk93KicKGFVDb0F3M1NNTF8wOWRGLTd5aFFVOHdGURILeFpSWTVvTGwyT3c"
     }
   },
@@ -10173,8 +10174,9 @@
       "title": "we beat depression. now what? #finalfantasyxiv"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-21T02:00:00Z",
-      "activeLiveChatId": "Cg0KC2NnLTlNT3BjS2xNKicKGFVDb0F3M1NNTF8wOWRGLTd5aFFVOHdGURILY2ctOU1PcGNLbE0"
+      "actualStartTime": "2024-05-21T02:00:17Z",
+      "actualEndTime": "2024-05-21T07:43:44Z",
+      "scheduledStartTime": "2024-05-21T01:59:52Z"
     }
   }
 }

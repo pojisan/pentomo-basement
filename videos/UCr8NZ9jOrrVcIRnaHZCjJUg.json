@@ -3718,5 +3718,39 @@
       "actualEndTime": "2024-05-15T16:29:25Z",
       "scheduledStartTime": "2024-05-15T14:00:00Z"
     }
+  },
+  "STYQ2XrQ-CA": {
+    "snippet": {
+      "publishedAt": "2024-05-22T00:48:29Z",
+      "channelId": "UCr8NZ9jOrrVcIRnaHZCjJUg",
+      "title": "\u3010KARAOKE | \u6b4c\u67a0\u3011Chatting and singing"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-22T14:02:02Z",
+      "actualEndTime": "2024-05-22T17:19:22Z",
+      "scheduledStartTime": "2024-05-22T14:00:00Z"
+    }
+  },
+  "y13TJRcnFx0": {
+    "snippet": {
+      "publishedAt": "2024-05-22T00:54:25Z",
+      "channelId": "UCr8NZ9jOrrVcIRnaHZCjJUg",
+      "title": "Doodling Vtubers pt.7 | Let's keep going!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-25T14:00:00Z",
+      "activeLiveChatId": "Cg0KC3kxM1RKUmNuRngwKicKGFVDcjhOWjlqT3JyVmNJUm5hSFpDakpVZxILeTEzVEpSY25GeDA"
+    }
+  },
+  "hYZ_lgtuaek": {
+    "snippet": {
+      "publishedAt": "2024-05-22T00:52:39Z",
+      "channelId": "UCr8NZ9jOrrVcIRnaHZCjJUg",
+      "title": "Spin the wheel and force me to work out"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-24T14:00:00Z",
+      "activeLiveChatId": "Cg0KC2hZWl9sZ3R1YWVrKicKGFVDcjhOWjlqT3JyVmNJUm5hSFpDakpVZxILaFlaX2xndHVhZWs"
+    }
   }
 }

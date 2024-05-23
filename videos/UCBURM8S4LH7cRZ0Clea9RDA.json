@@ -8272,8 +8272,57 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-21T00:01:30Z",
-      "scheduledStartTime": "2024-05-21T00:00:00Z",
-      "activeLiveChatId": "Cg0KC3NmOVkyNG9NU2VvKicKGFVDQlVSTThTNExIN2NSWjBDbGVhOVJEQRILc2Y5WTI0b01TZW8"
+      "actualEndTime": "2024-05-21T05:18:03Z",
+      "scheduledStartTime": "2024-05-21T00:00:00Z"
+    }
+  },
+  "vTIw8jBi_aw": {
+    "snippet": {
+      "publishedAt": "2024-05-21T05:27:51Z",
+      "channelId": "UCBURM8S4LH7cRZ0Clea9RDA",
+      "title": "STELLAR BLADE ENDURANCE HERE WE GO BABY\u3010NIJISANJI EN | Reimu Endou\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-21T15:30:41Z",
+      "actualEndTime": "2024-05-22T03:35:37Z",
+      "scheduledStartTime": "2024-05-21T15:30:00Z"
+    }
+  },
+  "4gXdkA6KPEo": {
+    "snippet": {
+      "publishedAt": "2024-05-22T03:50:22Z",
+      "channelId": "UCBURM8S4LH7cRZ0Clea9RDA",
+      "title": "\u30107 YEARS FROM NOW\u3011We're locking in \ud83e\udef5 you and I\u3010NIJISANJI EN | Reimu Endou\u3011",
+      "private": true
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-22T13:30:20Z",
+      "scheduledStartTime": "2024-05-22T13:30:00Z",
+      "activeLiveChatId": "Cg0KCzRnWGRrQTZLUEVvKicKGFVDQlVSTThTNExIN2NSWjBDbGVhOVJEQRILNGdYZGtBNktQRW8"
+    }
+  },
+  "r-5pWCedvSI": {
+    "snippet": {
+      "publishedAt": "2024-05-17T02:31:55Z",
+      "channelId": "UCBURM8S4LH7cRZ0Clea9RDA",
+      "title": "\u604b\u611b\u504f\u5dee\u5024\u4e0a\u6607\u4e2d! (Love Percentile on the Rise!)\u3010ver. Reimu Endou | NIJISANJI EN \u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-25T15:00:00Z",
+      "activeLiveChatId": "Cg0KC3ItNXBXQ2VkdlNJKicKGFVDQlVSTThTNExIN2NSWjBDbGVhOVJEQRILci01cFdDZWR2U0k",
+      "premiere": true
+    }
+  },
+  "W15dB-sRkSs": {
+    "snippet": {
+      "publishedAt": "2024-05-22T14:24:11Z",
+      "channelId": "UCBURM8S4LH7cRZ0Clea9RDA",
+      "title": "\u3010CRISIS CORE \u2013FINAL FANTASY VII\u2013 REUNION\u3011stop breaking my heart game\u3010NIJISANJI EN | Reimu Endou\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-23T00:01:47Z",
+      "scheduledStartTime": "2024-05-23T00:00:00Z",
+      "activeLiveChatId": "Cg0KC1cxNWRCLXNSa1NzKicKGFVDQlVSTThTNExIN2NSWjBDbGVhOVJEQRILVzE1ZEItc1JrU3M"
     }
   }
 }

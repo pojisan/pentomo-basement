@@ -7245,8 +7245,32 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-20T23:40:47Z",
-      "scheduledStartTime": "2024-05-21T00:00:00Z",
-      "activeLiveChatId": "Cg0KC0N6dVZkcWtSQWV3KicKGFVDQ0E0akpZNVByVGZJRkpJY2JJX05oURILQ3p1VmRxa1JBZXc"
+      "actualEndTime": "2024-05-21T02:04:08Z",
+      "scheduledStartTime": "2024-05-21T00:00:00Z"
+    }
+  },
+  "S1IGAn619Fc": {
+    "snippet": {
+      "publishedAt": "2024-05-21T05:28:08Z",
+      "channelId": "UCCA4jJY5PrTfIFJIcbI_NhQ",
+      "title": "\u3010WEEKLY ENCORE\u3011 Hanging out with girlies hehe @EnyaIgnis @chikafujilisa"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-22T22:02:58Z",
+      "actualEndTime": "2024-05-22T22:40:26Z",
+      "scheduledStartTime": "2024-05-22T22:00:00Z"
+    }
+  },
+  "FZN7IpwB5bI": {
+    "snippet": {
+      "publishedAt": "2024-05-21T05:26:28Z",
+      "channelId": "UCCA4jJY5PrTfIFJIcbI_NhQ",
+      "title": "\u3010THE BRIDGE CURSE 2\u3011 SAVE MEEEEEEE"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-21T21:00:32Z",
+      "actualEndTime": "2024-05-21T23:12:57Z",
+      "scheduledStartTime": "2024-05-21T21:00:00Z"
     }
   }
 }
