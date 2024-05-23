@@ -444,6 +444,17 @@
       "activeLiveChatId": "Cg0KCzFzY2hzUHNvd1ZvKicKGFVDVHoxRmtvRUU2UWUtRV9nRC1NNjdRdxILMXNjaHNQc293Vm8"
     }
   },
+  "2-NvZky7hes": {
+    "snippet": {
+      "publishedAt": "2024-05-23T13:55:47Z",
+      "channelId": "UCUP8TmlO7NNra88AMqGU_vQ",
+      "title": "\u3010 \u30dd\u30fc\u30b7\u30e7\u30f3\u30af\u30e9\u30d5\u30c8 \u3011\u6df1\u591c\u306e\u30c1\u30eb\u932c\u91d1\u8853\ud83e\uddea\u521d\u3081\u3066\u306e\u30dd\u30fc\u30b7\u30e7\u30f3\u4f5c\u308a\uff01\u3010\u5c0f\u6e05\u6c34 \u900f / \u306b\u3058\u3055\u3093\u3058\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-23T15:00:00Z",
+      "activeLiveChatId": "Cg0KCzItTnZaa3k3aGVzKicKGFVDVVA4VG1sTzdOTnJhODhBTXFHVV92URILMi1OdlpreTdoZXM"
+    }
+  },
   "20sElmjMNi8": {
     "snippet": {
       "publishedAt": "2024-05-23T05:02:19Z",
@@ -985,6 +996,7 @@
       "title": "JUST CHATTING + Q&A's w/ @PrettyPatterns \u3010NIJISANJI  EN | Enna Alouette\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-23T14:00:55Z",
       "scheduledStartTime": "2024-05-23T14:00:00Z",
       "activeLiveChatId": "Cg0KCzZoZ2REM0JFSGdJKicKGFVDUjZxaHNMcG42MldWeENCSzFka0xvdxILNmhnZEQzQkVIZ0k"
     }
@@ -1017,6 +1029,7 @@
       "title": "NEW JOURNEY NEW STORY NEW GACHA\u3010WUTHERING WAVES\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-23T14:01:15Z",
       "scheduledStartTime": "2024-05-23T14:00:00Z",
       "activeLiveChatId": "Cg0KCzZ5UktqbGNlZzNZKicKGFVDX3pwa3FGdDdZQnlXYVBpOUJ4dDdFURILNnlSS2psY2VnM1k"
     }
@@ -1526,6 +1539,7 @@
       "title": "\u3010Witch Spring R\u3011CUTE WITCH GIRL RPG WAWACORE #kfp #\u30ad\u30a2\u30e9\u30a4\u30d6"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-23T14:01:47Z",
       "scheduledStartTime": "2024-05-23T14:00:00Z",
       "activeLiveChatId": "Cg0KC0QtTm45Wkw2MzVJKicKGFVDSHN4NEhxYS0xT1JqUVRoOVRZRGh3dxILRC1ObjlaTDYzNUk"
     }
@@ -1592,6 +1606,7 @@
       "title": "\u3010Subnautica: Below Zero\u3011Kyanite My Beloved"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-23T13:55:05Z",
       "scheduledStartTime": "2024-05-23T13:00:00Z",
       "activeLiveChatId": "Cg0KC0RWQnM2TmlvN3ZZKicKGFVDazB2dXd3c21fVVFISElPZ0d2eFUtQRILRFZCczZOaW83dlk"
     }
@@ -2151,6 +2166,7 @@
       "title": "How do you tune it? LEARNING THE UKULELE"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-23T14:02:19Z",
       "scheduledStartTime": "2024-05-23T14:00:00Z",
       "activeLiveChatId": "Cg0KC0hOSmVXSFJCSXlBKicKGFVDVi05ZGd0VlhIbXF2elk5cWR2b0dZQRILSE5KZVdIUkJJeUE"
     }
@@ -5562,6 +5578,17 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC2xZNExqUEtwTWgwKicKGFVDYkxGdVNyQVFLa3VzcmpUdkNPNWdYURILbFk0TGpQS3BNaDA"
+    }
+  },
+  "laphipi": {
+    "snippet": {
+      "channelId": "laphipi",
+      "title": "More signing practice!! LALALA | !socials !dc !merch",
+      "channelTitle": "laphipi"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-23T13:59:29Z",
+      "twitch": true
     }
   },
   "lbDZnyYmfhs": {
