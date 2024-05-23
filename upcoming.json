@@ -613,6 +613,7 @@
       "title": "\ud83d\udea8 WEE WOO WEE WOO! \ud83d\udea8"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-23T00:20:18Z",
       "scheduledStartTime": "2024-05-23T00:15:00Z",
       "activeLiveChatId": "Cg0KCzNqZ3ZlSFNhNlk0KicKGFVDUGFOSTJWVURjMkwwQ1VYVEp6dG80QRILM2pndmVIU2E2WTQ"
     }
@@ -930,7 +931,7 @@
       "title": "VTUBER DISCOVERS: CARCASS #shorts #shortslive #shortsfeed #vtuber"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-23T01:00:00Z",
+      "scheduledStartTime": "2024-05-23T02:00:00Z",
       "activeLiveChatId": "Cg0KCzZGcWdGT3BuWGVzKicKGFVDY0FuOFdYc29xdzl4OERBa3pZUU5RURILNkZxZ0ZPcG5YZXM"
     }
   },
@@ -2690,7 +2691,7 @@
       "title": "\u3010CARCASS\u3011i'm hungry.....\u3010V&U | GEN4\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-23T01:00:00Z",
+      "scheduledStartTime": "2024-05-23T02:00:00Z",
       "activeLiveChatId": "Cg0KC0w2X3M5Y0oyRXZVKicKGFVDY0FuOFdYc29xdzl4OERBa3pZUU5RURILTDZfczljSjJFdlU"
     }
   },
@@ -4757,6 +4758,17 @@
       "activeLiveChatId": "Cg0KC2FQWkt3eEx1WUo4KicKGFVDOXhSN3VOMHg1YTZDSDNVb3BxN2N6QRILYVBaS3d4THVZSjg"
     }
   },
+  "akoJJMIVh48": {
+    "snippet": {
+      "publishedAt": "2024-05-23T00:14:54Z",
+      "channelId": "UCZO0CirHeWYTUMl-7zPG6Yg",
+      "title": "\u3010DETROIT BECOME HUMAN\u3011: wen the detroit becomes human \u3010bondlive EN\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-23T01:00:00Z",
+      "activeLiveChatId": "Cg0KC2Frb0pKTUlWaDQ4KicKGFVDWk8wQ2lySGVXWVRVTWwtN3pQRzZZZxILYWtvSkpNSVZoNDg"
+    }
+  },
   "angelinakumalo": {
     "snippet": {
       "channelId": "angelinakumalo",
@@ -5061,7 +5073,7 @@
   "dee_the_sphinx": {
     "snippet": {
       "channelId": "dee_the_sphinx",
-      "title": "\ud83d\udd06SENUA BRAIN ROT Part:2 Attempted Wiggles\ud83d\udd06!discord [Vtuber]",
+      "title": "SENUA'S SCUFF SAGA PART 2 - BUT FIRST, CHATS \ud83d\udd06!discord [Vtuber]",
       "channelTitle": "Dee_the_Sphinx"
     },
     "liveStreamingDetails": {
@@ -5425,18 +5437,6 @@
       "activeLiveChatId": "Cg0KC2d3cWs0dHY5VHVNKicKGFVDX3pwa3FGdDdZQnlXYVBpOUJ4dDdFURILZ3dxazR0djlUdU0"
     }
   },
-  "h3xTwc1DTfQ": {
-    "snippet": {
-      "publishedAt": "2024-05-18T04:06:21Z",
-      "channelId": "UCKajmKUZ7age8zlTp-GvO2Q",
-      "title": "Last Chatting Before I Try and Upgrade my PC (Wish Me Luck)"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-22T22:31:02Z",
-      "scheduledStartTime": "2024-05-22T22:30:00Z",
-      "activeLiveChatId": "Cg0KC2gzeFR3YzFEVGZRKicKGFVDS2FqbUtVWjdhZ2U4emxUcC1Hdk8yURILaDN4VHdjMURUZlE"
-    }
-  },
   "h4426bmybDA": {
     "snippet": {
       "publishedAt": "2023-10-08T01:26:36Z",
@@ -5602,7 +5602,7 @@
   "hunikinn": {
     "snippet": {
       "channelId": "hunikinn",
-      "title": "dog is back from vacay and ready to yap yap yap yap \u0aee\u208d \u00b4\u02f6\u2022 \u1d25 \u2022\u02f6` \u208e\u10d0  |  !merch !discord !twitter",
+      "title": "dog is back from vacay and ready to yap yap yap yap  FT. @bakenene \u0aee\u208d \u00b4\u02f6\u2022 \u1d25 \u2022\u02f6` \u208e\u10d0  |  !merch !discord !twitter",
       "channelTitle": "Hunikinn"
     },
     "liveStreamingDetails": {
