@@ -514,11 +514,23 @@
     "snippet": {
       "publishedAt": "2024-05-21T21:57:18Z",
       "channelId": "UCiL8200wgmCEpT83Q9oTxqg",
-      "title": "Content Warning w Riri, Chrysalia and Jade!\u3010 BDAY DONATHON PT 6\u3011"
+      "title": "Content Warning w Riri, Chrysalia and Jade!\u3010 BDAY DONATHON PT 6\u3011",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-23T00:00:00Z",
       "activeLiveChatId": "Cg0KC3NtMVR2NWtOZ2Y0KicKGFVDaUw4MjAwd2dtQ0VwVDgzUTlvVHhxZxILc20xVHY1a05nZjQ"
+    }
+  },
+  "emhpAl8KCBc": {
+    "snippet": {
+      "publishedAt": "2024-05-23T20:34:00Z",
+      "channelId": "UCiL8200wgmCEpT83Q9oTxqg",
+      "title": "??? and The Forest w/ Bri, Umi and Suri\u3010BDAY DONATHON PT 6\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-23T22:00:00Z",
+      "activeLiveChatId": "Cg0KC2VtaHBBbDhLQ0JjKicKGFVDaUw4MjAwd2dtQ0VwVDgzUTlvVHhxZxILZW1ocEFsOEtDQmM"
     }
   }
 }
