@@ -725,11 +725,23 @@
     "snippet": {
       "publishedAt": "2024-05-22T20:25:19Z",
       "channelId": "UC9SWIzHP07PL1y6cU8wkDwA",
-      "title": "\u3010Zatsu\u3011ohameroo!!\u3010Yume+ | Mero Umiko\u3011"
+      "title": "\u3010Zatsu\u3011ohameroo!!\u3010Yume+ | Mero Umiko\u3011",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-23T14:00:00Z",
       "activeLiveChatId": "Cg0KC1l6TWFSS1dNdlRvKicKGFVDOVNXSXpIUDA3UEwxeTZjVTh3a0R3QRILWXpNYVJLV012VG8"
+    }
+  },
+  "MjymdhXLIR4": {
+    "snippet": {
+      "publishedAt": "2024-05-23T17:36:27Z",
+      "channelId": "UC9SWIzHP07PL1y6cU8wkDwA",
+      "title": "\u3010Anime 3x3's\u3011lets see what shows the bubbies like~\u3010Yume+ | Mero Umiko\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-25T00:00:00Z",
+      "activeLiveChatId": "Cg0KC01qeW1kaFhMSVI0KicKGFVDOVNXSXpIUDA3UEwxeTZjVTh3a0R3QRILTWp5bWRoWExJUjQ"
     }
   }
 }
