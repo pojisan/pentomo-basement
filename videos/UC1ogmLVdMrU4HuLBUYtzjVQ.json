@@ -1778,12 +1778,24 @@
     "snippet": {
       "publishedAt": "2024-05-21T23:22:09Z",
       "channelId": "UC1ogmLVdMrU4HuLBUYtzjVQ",
-      "title": "HI. LET'S HANG OUT."
+      "title": "HI. LET'S HANG OUT.",
+      "private": true
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-23T22:05:34Z",
       "scheduledStartTime": "2024-05-25T00:00:00Z",
       "activeLiveChatId": "Cg0KC3VsbmxOcDI5WGQwKicKGFVDMW9nbUxWZE1yVTRIdUxCVVl0empWURILdWxubE5wMjlYZDA"
+    }
+  },
+  "w_es8kFbIHM": {
+    "snippet": {
+      "publishedAt": "2024-05-23T22:05:30Z",
+      "channelId": "UC1ogmLVdMrU4HuLBUYtzjVQ",
+      "title": "DIAMONDS TONIGHT (or iron)"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-23T22:05:00Z",
+      "activeLiveChatId": "Cg0KC3dfZXM4a0ZiSUhNKicKGFVDMW9nbUxWZE1yVTRIdUxCVVl0empWURILd19lczhrRmJJSE0"
     }
   }
 }
