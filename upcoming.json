@@ -1865,6 +1865,7 @@
       "title": "Let's play with @JunaUnagi pew pew!\ud83d\udc7c"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-23T16:00:34Z",
       "scheduledStartTime": "2024-05-23T16:00:00Z",
       "activeLiveChatId": "Cg0KC0ZrSldxYVBNaVg0KicKGFVDUmtkRkdYd0J0eHZtOVNzZm1ObU1aQRILRmtKV3FhUE1pWDQ"
     }
@@ -2440,17 +2441,6 @@
       "activeLiveChatId": "Cg0KC0tENTR4Rl9aSWpZKicKGFVDMWVYX01Wck4wRUJLZHBrbjliLWpodxILS0Q1NHhGX1pJalk"
     }
   },
-  "KEpXtbSEUGg": {
-    "snippet": {
-      "publishedAt": "2024-05-21T19:53:18Z",
-      "channelId": "UCquyWr7sdEFHCsqEgn1UA1g",
-      "title": "WUTHERING WAVES | First Time Playing WuWa?"
-    },
-    "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-23T17:00:00Z",
-      "activeLiveChatId": "Cg0KC0tFcFh0YlNFVUdnKicKGFVDcXV5V3I3c2RFRkhDc3FFZ24xVUExZxILS0VwWHRiU0VVR2c"
-    }
-  },
   "KJJiv6AHBEY": {
     "snippet": {
       "publishedAt": "2024-02-19T22:14:40Z",
@@ -2977,6 +2967,7 @@
       "title": "\u3010Wuthering Waves #2\u3011 IM SO READY TO STREAM THIS SO MUCH LAYGOO\u3010Sarugaku Leon Jr. | Globie\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-23T15:57:27Z",
       "scheduledStartTime": "2024-05-23T16:00:00Z",
       "activeLiveChatId": "Cg0KC05zNE5Nb0N1UlFVKicKGFVDLUxBbkZMWFU5QnVzRnY3bjhsRmo4ZxILTnM0Tk1vQ3VSUVU"
     }
@@ -3139,6 +3130,7 @@
       "title": "\u3010Zatsu\u3011oh lord he's yappin\u3010globie 2nd Gen - Equinnox\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-23T16:02:06Z",
       "scheduledStartTime": "2024-05-23T16:00:00Z",
       "activeLiveChatId": "Cg0KC1BDdTdaUEtrSnpJKicKGFVDUTNzX2tRWWYzUHVxT0t1OTBIcklxdxILUEN1N1pQS2tKekk"
     }
@@ -4531,6 +4523,17 @@
       "activeLiveChatId": "Cg0KC2I0aE5McmdLUjRVKicKGFVDN0diN1Vhd2UyMFF5RmliaExsMWx6QRILYjRoTkxyZ0tSNFU"
     }
   },
+  "bISrtVtHOpg": {
+    "snippet": {
+      "publishedAt": "2024-05-23T16:00:08Z",
+      "channelId": "UCJwnGUjoniJA3It-P2snc-A",
+      "title": "WINDTRACE WITH MY GWORLIES!!! ft. @HimemiyaRie @oumiyaemma @RitaKamishiro  [VTUBER]"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-24T03:00:00Z",
+      "activeLiveChatId": "Cg0KC2JJU3J0VnRIT3BnKicKGFVDSnduR1Vqb25pSkEzSXQtUDJzbmMtQRILYklTcnRWdEhPcGc"
+    }
+  },
   "bWrKy65IOAc": {
     "snippet": {
       "publishedAt": "2024-02-13T15:16:19Z",
@@ -4680,6 +4683,7 @@
       "title": "[Minecraft] Bad News, Guys..."
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-23T16:00:38Z",
       "scheduledStartTime": "2024-05-23T16:00:00Z",
       "activeLiveChatId": "Cg0KC2NqUkplUVdYMVVRKicKGFVDeGVyUWxFMHQxeVk0YnFlSzVsZE05QRILY2pSSmVRV1gxVVE"
     }
@@ -5092,6 +5096,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-27T14:00:00Z",
       "activeLiveChatId": "Cg0KC2d3cWs0dHY5VHVNKicKGFVDX3pwa3FGdDdZQnlXYVBpOUJ4dDdFURILZ3dxazR0djlUdU0"
+    }
+  },
+  "gx_aura": {
+    "snippet": {
+      "channelId": "gx_aura",
+      "title": "AURA GOES UNDERCOVER! | !socials !video !ironside",
+      "channelTitle": "GX_Aura"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-23T16:02:21Z",
+      "twitch": true
     }
   },
   "h4426bmybDA": {
