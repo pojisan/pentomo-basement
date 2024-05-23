@@ -2114,7 +2114,8 @@
     "snippet": {
       "publishedAt": "2023-05-28T04:04:15Z",
       "channelId": "UC0w_dvkIwnXzMak6gfeioRQ",
-      "title": "\ud83d\udd25 Weekly Schedule \ud83d\udd25"
+      "title": "\ud83d\udd25 Weekly Schedule \ud83d\udd25",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-05-27T23:00:00Z",

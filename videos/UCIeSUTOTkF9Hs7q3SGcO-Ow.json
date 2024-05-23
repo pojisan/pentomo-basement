@@ -2698,7 +2698,8 @@
     "snippet": {
       "publishedAt": "2023-01-17T06:13:35Z",
       "channelId": "UCIeSUTOTkF9Hs7q3SGcO-Ow",
-      "title": "\u3010schedule & free chat\u3011"
+      "title": "\u3010schedule & free chat\u3011",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-01-31T06:10:00Z",
@@ -8014,7 +8015,8 @@
     "snippet": {
       "publishedAt": "2021-05-17T23:54:06Z",
       "channelId": "UCIeSUTOTkF9Hs7q3SGcO-Ow",
-      "title": "Elira Pendora \u3010NIJISANJI EN\u3011 Live Stream"
+      "title": "Elira Pendora \u3010NIJISANJI EN\u3011 Live Stream",
+      "private": true
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC1kzOTNBbThYblY0KicKGFVDSWVTVVRPVGtGOUhzN3EzU0djTy1PdxILWTM5M0FtOFhuVjQ"

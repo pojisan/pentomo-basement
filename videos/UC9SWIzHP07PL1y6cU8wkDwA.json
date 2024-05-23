@@ -39,7 +39,8 @@
     "snippet": {
       "publishedAt": "2024-04-15T16:41:48Z",
       "channelId": "UC9SWIzHP07PL1y6cU8wkDwA",
-      "title": "\u301005/19 - 05/25\u3011Weekly Schedule~!! \u3010Yume+ | Mero Umiko\u3011"
+      "title": "\u301005/19 - 05/25\u3011Weekly Schedule~!! \u3010Yume+ | Mero Umiko\u3011",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-04-15T16:40:00Z",
@@ -718,8 +719,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-23T00:52:35Z",
       "actualEndTime": "2024-05-23T07:30:45Z",
-      "scheduledStartTime": "2024-05-23T01:00:00Z",
-      "activeLiveChatId": "Cg0KC3FtbktGMk9CRWNRKicKGFVDOVNXSXpIUDA3UEwxeTZjVTh3a0R3QRILcW1uS0YyT0JFY1E"
+      "scheduledStartTime": "2024-05-23T01:00:00Z"
     }
   },
   "YzMaRKWMvTo": {

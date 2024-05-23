@@ -523,7 +523,8 @@
     "snippet": {
       "publishedAt": "2024-02-13T15:16:19Z",
       "channelId": "UCVQEbjAcJRePxODVM5mWCvQ",
-      "title": "\u3010WEEKLY SCHEDULE\u3011Free Chat!\u3010ZENITH VE | THEODORE LOCUS\u3011"
+      "title": "\u3010WEEKLY SCHEDULE\u3011Free Chat!\u3010ZENITH VE | THEODORE LOCUS\u3011",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-02-13T15:15:00Z",
@@ -3807,7 +3808,8 @@
     "snippet": {
       "publishedAt": "2022-07-13T14:54:17Z",
       "channelId": "UCVQEbjAcJRePxODVM5mWCvQ",
-      "title": "The Observer ch. Live Stream"
+      "title": "The Observer ch. Live Stream",
+      "private": true
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC3J0aXhzNm1BRXJFKicKGFVDVlFFYmpBY0pSZVB4T0RWTTVtV0N2URILcnRpeHM2bUFFckU"
@@ -3845,8 +3847,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-23T01:35:47Z",
       "actualEndTime": "2024-05-23T05:36:19Z",
-      "scheduledStartTime": "2024-05-23T01:30:00Z",
-      "activeLiveChatId": "Cg0KC0M5TnBJUjdwTUtnKicKGFVDVlFFYmpBY0pSZVB4T0RWTTVtV0N2URILQzlOcElSN3BNS2c"
+      "scheduledStartTime": "2024-05-23T01:30:00Z"
     }
   },
   "qCJftg8nnzw": {
