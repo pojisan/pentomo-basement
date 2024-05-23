@@ -3576,7 +3576,8 @@
     "snippet": {
       "publishedAt": "2024-05-07T10:34:17Z",
       "channelId": "UCRlQzuVeYxTDPobPN1jaVkQ",
-      "title": "\u3016Sekiro\u3017...time to relearn the controls... again...\u3016Cyon \u2765 V&U\u3017"
+      "title": "\u3016Sekiro\u3017...time to relearn the controls... again...\u3016Cyon \u2765 V&U\u3017",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-23T08:00:00Z",
@@ -3759,6 +3760,17 @@
       "publishedAt": "2024-05-22T22:00:18Z",
       "channelId": "UCRlQzuVeYxTDPobPN1jaVkQ",
       "title": "I'm not very good at giving advice  #vtuber #envtuber"
+    }
+  },
+  "4txYS7BNu74": {
+    "snippet": {
+      "publishedAt": "2024-05-23T02:47:35Z",
+      "channelId": "UCRlQzuVeYxTDPobPN1jaVkQ",
+      "title": "\u3016Sekiro\u3017...time to relearn the controls... again...\u3016Cyon \u2765 V&U\u3017"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-23T08:00:00Z",
+      "activeLiveChatId": "Cg0KCzR0eFlTN0JOdTc0KicKGFVDUmxRenVWZVl4VERQb2JQTjFqYVZrURILNHR4WVM3Qk51NzQ"
     }
   }
 }
