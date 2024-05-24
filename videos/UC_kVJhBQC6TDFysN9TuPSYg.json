@@ -1439,8 +1439,21 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-24T16:00:03Z",
+      "actualEndTime": "2024-05-24T17:38:04Z",
       "scheduledStartTime": "2024-05-24T16:00:00Z",
       "activeLiveChatId": "Cg0KC3R5YzlhbVFLTktjKicKGFVDX2tWSmhCUUM2VERGeXNOOVR1UFNZZxILdHljOWFtUUtOS2M"
+    }
+  },
+  "aU-7a9hpQwQ": {
+    "snippet": {
+      "publishedAt": "2024-05-24T17:37:13Z",
+      "channelId": "UC_kVJhBQC6TDFysN9TuPSYg",
+      "title": "\u3010AMNESIA THE DARK DESCENT\u3011WE FINISH THIS!\u3010globie 1st Gen\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-24T17:38:53Z",
+      "scheduledStartTime": "2024-05-24T17:35:00Z",
+      "activeLiveChatId": "Cg0KC2FVLTdhOWhwUXdRKicKGFVDX2tWSmhCUUM2VERGeXNOOVR1UFNZZxILYVUtN2E5aHBRd1E"
     }
   }
 }
