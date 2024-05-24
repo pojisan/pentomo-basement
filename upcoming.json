@@ -1785,6 +1785,7 @@
       "title": "\u3010IT TAKES TWO\u3011YAY DIVORCE! w/ @GXAuraOfficial \u3010EIEN Project\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-24T15:00:04Z",
       "scheduledStartTime": "2024-05-24T15:00:00Z",
       "activeLiveChatId": "Cg0KC0ZyR0tTaXhLeTFzKicKGFVDYnZSNDZTUXBPUFJLTXJWVDhOb0pUQRILRnJHS1NpeEt5MXM"
     }
@@ -4739,6 +4740,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-27T14:00:00Z",
       "activeLiveChatId": "Cg0KC2d3cWs0dHY5VHVNKicKGFVDX3pwa3FGdDdZQnlXYVBpOUJ4dDdFURILZ3dxazR0djlUdU0"
+    }
+  },
+  "gx_aura": {
+    "snippet": {
+      "channelId": "gx_aura",
+      "title": "COLLAB WITH THE CUTEST FROG!? !collab | !socials !video !ironside",
+      "channelTitle": "GX_Aura"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-24T14:59:44Z",
+      "twitch": true
     }
   },
   "h4426bmybDA": {
