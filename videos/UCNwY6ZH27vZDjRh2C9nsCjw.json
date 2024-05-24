@@ -85,7 +85,8 @@
     "snippet": {
       "publishedAt": "2024-05-19T17:46:49Z",
       "channelId": "UCNwY6ZH27vZDjRh2C9nsCjw",
-      "title": "\u300e EN... INSCRYPTION??? \u300fI confused this name on schedule... Sorry | #OSHICelanis #OshiLinkEN"
+      "title": "\u300e EN... INSCRYPTION??? \u300fI confused this name on schedule... Sorry | #OSHICelanis #OshiLinkEN",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-24T13:00:00Z"
@@ -113,6 +114,18 @@
       "actualStartTime": "2024-05-21T16:23:25Z",
       "actualEndTime": "2024-05-21T18:43:41Z",
       "scheduledStartTime": "2024-05-21T16:30:00Z"
+    }
+  },
+  "y4Ck9Y8cUg8": {
+    "snippet": {
+      "publishedAt": "2024-05-24T13:05:47Z",
+      "channelId": "UCNwY6ZH27vZDjRh2C9nsCjw",
+      "title": "\u300e EN... INSCRYPTION??? \u300fI confused this name on schedule... Sorry | #OSHICelanis #OshiLinkEN"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-24T13:06:43Z",
+      "scheduledStartTime": "2024-05-24T13:05:00Z",
+      "activeLiveChatId": "Cg0KC3k0Q2s5WThjVWc4KicKGFVDTndZNlpIMjd2WkRqUmgyQzluc0NqdxILeTRDazlZOGNVZzg"
     }
   }
 }
