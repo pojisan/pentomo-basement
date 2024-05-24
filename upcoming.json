@@ -334,6 +334,7 @@
       "title": "\u3016A Difficult Game About Climbing\u3017...why did I promise this as a birthday reward\u3016Cyon \u2765 V&U\u3017"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-24T03:32:57Z",
       "scheduledStartTime": "2024-05-24T03:30:00Z",
       "activeLiveChatId": "Cg0KCzFCMV9vZ3YxVHNvKicKGFVDUmxRenVWZVl4VERQb2JQTjFqYVZrURILMUIxX29ndjFUc28"
     }
@@ -2101,6 +2102,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-26T00:00:00Z",
       "activeLiveChatId": "Cg0KC0huNHF6bXVBckdrKicKGFVDQXhWb0JMRzJCdjF4Z2JZVV9lZnNDZxILSG40cXptdUFyR2s"
+    }
+  },
+  "Hwmdp548yEY": {
+    "snippet": {
+      "publishedAt": "2024-05-24T03:28:11Z",
+      "channelId": "UCxerQlE0t1yY4bqeK5ldM9A",
+      "title": "[Escape the Backrooms] I Don't Get Paid Enough For This @LucienLunaris @Octavio_en @JurardTRexford"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-25T01:00:00Z",
+      "activeLiveChatId": "Cg0KC0h3bWRwNTQ4eUVZKicKGFVDeGVyUWxFMHQxeVk0YnFlSzVsZE05QRILSHdtZHA1NDh5RVk"
     }
   },
   "I5ckQZqBJEE": {
@@ -4317,18 +4329,6 @@
       "activeLiveChatId": "Cg0KC2NGdnQ2Z3JaSVFJKicKGFVDTV9NYi1aQzNqTWczcDMyak42djRjQRILY0Z2dDZnclpJUUk"
     }
   },
-  "cTtHdajvzC8": {
-    "snippet": {
-      "publishedAt": "2024-05-21T01:59:45Z",
-      "channelId": "UCuDmUl3WY41FqGI_bUr62PA",
-      "title": "\u3010LALANIGHT #2\u3011\u00a1\u00a1Cuentos para mimir en luna llena!!\u3010idolES\u3011\ud83c\udf80"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-24T02:11:03Z",
-      "scheduledStartTime": "2024-05-24T02:00:00Z",
-      "activeLiveChatId": "Cg0KC2NUdEhkYWp2ekM4KicKGFVDdURtVWwzV1k0MUZxR0lfYlVyNjJQQRILY1R0SGRhanZ6Qzg"
-    }
-  },
   "cX5suRnxe9Q": {
     "snippet": {
       "publishedAt": "2024-05-20T21:26:36Z",
@@ -4460,21 +4460,10 @@
       "activeLiveChatId": "Cg0KC2RWTDJSUlFqeG1ZKicKGFVDSzlsNnJUd1UzaGlTWmlqSU1xNTFHdxILZFZMMlJSUWp4bVk"
     }
   },
-  "dee_the_sphinx": {
-    "snippet": {
-      "channelId": "dee_the_sphinx",
-      "title": "SENUA Finally! \ud83d\udd06!discord [Vtuber]",
-      "channelTitle": "Dee_the_Sphinx"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-23T23:11:36Z",
-      "twitch": true
-    }
-  },
   "discordia_ch": {
     "snippet": {
       "channelId": "discordia_ch",
-      "title": "\u3010VFleet\u3011[DROPS\u2705] PLENTY OF SIDETITTLES HERE~ | !Discord !UwU !GG !Starforge | @Discordia_Ch",
+      "title": "\u3010VFleet\u3011[DROPS\u2705] WAVES ARE DEFINITELY WUTHERING~ | !Discord !UwU !GG !Starforge | @Discordia_Ch",
       "channelTitle": "Discordia_Ch"
     },
     "liveStreamingDetails": {
