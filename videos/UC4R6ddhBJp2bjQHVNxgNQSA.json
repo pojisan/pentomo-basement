@@ -294,5 +294,49 @@
       "actualEndTime": "2024-05-24T01:12:59Z",
       "scheduledStartTime": "2024-05-23T23:00:00Z"
     }
+  },
+  "T6KdoOCxCzE": {
+    "snippet": {
+      "publishedAt": "2024-05-24T04:09:39Z",
+      "channelId": "UC4R6ddhBJp2bjQHVNxgNQSA",
+      "title": "KOAYO!! \u2600 #2"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-26T14:00:00Z",
+      "activeLiveChatId": "Cg0KC1Q2S2RvT0N4Q3pFKicKGFVDNFI2ZGRoQkpwMmJqUUhWTnhnTlFTQRILVDZLZG9PQ3hDekU"
+    }
+  },
+  "2UEHI39g-_g": {
+    "snippet": {
+      "publishedAt": "2024-05-24T04:10:32Z",
+      "channelId": "UC4R6ddhBJp2bjQHVNxgNQSA",
+      "title": "(EN Stream)  SHASHINGO!! \u3010 Akugaki Koa / \u30a2\u30af\u30ac\u30ad\u30b3\u30a2 \u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-26T23:00:00Z",
+      "activeLiveChatId": "Cg0KCzJVRUhJMzlnLV9nKicKGFVDNFI2ZGRoQkpwMmJqUUhWTnhnTlFTQRILMlVFSEkzOWctX2c"
+    }
+  },
+  "5wDV4AUgeW8": {
+    "snippet": {
+      "publishedAt": "2024-05-24T04:09:03Z",
+      "channelId": "UC4R6ddhBJp2bjQHVNxgNQSA",
+      "title": "KARAOKE EN ESPA\u00d1OL"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-25T18:00:00Z",
+      "activeLiveChatId": "Cg0KCzV3RFY0QVVnZVc4KicKGFVDNFI2ZGRoQkpwMmJqUUhWTnhnTlFTQRILNXdEVjRBVWdlVzg"
+    }
+  },
+  "1QQGjRlCkj8": {
+    "snippet": {
+      "publishedAt": "2024-05-24T04:08:10Z",
+      "channelId": "UC4R6ddhBJp2bjQHVNxgNQSA",
+      "title": "ACTIVACI\u00d3N DE MEMBRES\u00cdA"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-24T23:00:00Z",
+      "activeLiveChatId": "Cg0KCzFRUUdqUmxDa2o4KicKGFVDNFI2ZGRoQkpwMmJqUUhWTnhnTlFTQRILMVFRR2pSbENrajg"
+    }
   }
 }
