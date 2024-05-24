@@ -1179,6 +1179,7 @@
       "title": "\u3010Wuthering Waves\u3011Do it for the hot boys and girls\u3010Cyanne Aria | bondlive_EN\u3011#shorts #vtuber #wuwa"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-24T21:50:43Z",
       "scheduledStartTime": "2024-05-24T21:00:00Z",
       "activeLiveChatId": "Cg0KCzloSjBvcjVVS1lvKicKGFVDbnBjN0hwY2lmVnBpNlJCek5nZTUxdxILOWhKMG9yNVVLWW8"
     }
@@ -4785,6 +4786,17 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-24T20:47:20Z",
+      "twitch": true
+    }
+  },
+  "haruna": {
+    "snippet": {
+      "channelId": "haruna",
+      "title": "no work today!!!! apey tiiiime",
+      "channelTitle": "haruna"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-24T21:41:35Z",
       "twitch": true
     }
   },
