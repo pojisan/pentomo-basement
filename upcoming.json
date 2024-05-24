@@ -3204,7 +3204,8 @@
       "title": "\u3010KARAOKE \u250a\ufe0e#\u6b4c\u67a0\u3011\u3057\u3042\u308f\u305b\u306a\u6c17\u6301\u3061\u3067\u3046\u305f\u3046 #singing \u3010#\u30ce\u30a2\u30dd\u30e9\u30ea\u30b9\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-24T16:15:00Z",
+      "actualStartTime": "2024-05-24T16:21:09Z",
+      "scheduledStartTime": "2024-05-24T16:20:00Z",
       "activeLiveChatId": "Cg0KC1NqTC1heWFtakw0KicKGFVDSXUxclJpUUxlVVU4ZTFzYU42STBlZxILU2pMLWF5YW1qTDQ"
     }
   },
@@ -3716,6 +3717,7 @@
       "title": "How Many Mog Tomes Does It Take To Get What I Want? | FINAL FANTASY XIV ONLINE"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-24T16:19:06Z",
       "scheduledStartTime": "2024-05-24T16:00:00Z",
       "activeLiveChatId": "Cg0KC1hFek1aYVowWmZrKicKGFVDbjViUF9oTEw1SEI2Ulc4WDMya3cxQRILWEV6TVphWjBaZms"
     }
@@ -4505,18 +4507,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-25T13:00:00Z",
       "activeLiveChatId": "Cg0KC2VvQUdhSW0tMW5FKicKGFVDMFpUVnhDSGtaYW5UNWRuUDJGWkQ0URILZW9BR2FJbS0xbkU"
-    }
-  },
-  "f-x8jePqQwU": {
-    "snippet": {
-      "publishedAt": "2024-05-24T13:48:39Z",
-      "channelId": "UCqjTqdVlvIipZXIKeCkHKUA",
-      "title": "\u3010Coffee Talk Episode 2: Hibiscus & Butterfly\u3011\u5b63\u7bc0\u306e\u5909\u308f\u308a\u76ee\u3001\u591c\u9577\u306b\u6559\u6388\u3068\u30b3\u30fc\u30d2\u30fc\u3092\u3010\u30aa\u30ea\u30d0\u30fc\u30fb\u30a8\u30d0\u30f3\u30b9/\u306b\u3058\u3055\u3093\u3058\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-24T14:10:52Z",
-      "scheduledStartTime": "2024-05-24T14:10:00Z",
-      "activeLiveChatId": "Cg0KC2YteDhqZVBxUXdVKicKGFVDcWpUcWRWbHZJaXBaWElLZUNrSEtVQRILZi14OGplUHFRd1U"
     }
   },
   "fEcg_4Yq42Y": {
@@ -5674,6 +5664,7 @@
       "title": "\u300eValorant\u300fRUN AWAAAAY!\u301aBaal Arland | OshiLinkEN\u301b"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-24T16:21:01Z",
       "scheduledStartTime": "2024-05-24T16:00:00Z",
       "activeLiveChatId": "Cg0KC3FxY3NoTkpaV2ZBKicKGFVDcnA5TU9LdVl6V0ZBMFg3d0xMaEhrQRILcXFjc2hOSlpXZkE"
     }
@@ -5895,6 +5886,28 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2026-01-02T01:00:00Z",
       "activeLiveChatId": "Cg0KC3QySFR6b1ZXTTdZKicKGFVDRndjRUlzanZpOVhFdnBHeDZpd0hwdxILdDJIVHpvVldNN1k"
+    }
+  },
+  "tCTTahkwVwQ": {
+    "snippet": {
+      "publishedAt": "2024-05-24T16:15:49Z",
+      "channelId": "UCwaS8_S7kMiKA3izlTWHbQg",
+      "title": "Big Brain Big Money - BIG AMBITIONS\u3010Maria Marionette | NIJISANJI EN\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-25T10:00:00Z",
+      "activeLiveChatId": "Cg0KC3RDVFRhaGt3VndRKicKGFVDd2FTOF9TN2tNaUtBM2l6bFRXSGJRZxILdENUVGFoa3dWd1E"
+    }
+  },
+  "tCiUIpxbGtU": {
+    "snippet": {
+      "publishedAt": "2024-05-24T16:11:04Z",
+      "channelId": "UCFzQd4pZ43ZNEdWBFe7QOKA",
+      "title": "ON MY WAY TO GET THE CAR ACCIDENT WORLD RECORD"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-24T20:00:00Z",
+      "activeLiveChatId": "Cg0KC3RDaVVJcHhiR3RVKicKGFVDRnpRZDRwWjQzWk5FZFdCRmU3UU9LQRILdENpVUlweGJHdFU"
     }
   },
   "tOyjgae8Rfk": {
