@@ -2334,20 +2334,43 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-24T23:10:11Z",
-      "scheduledStartTime": "2024-05-24T23:00:00Z",
-      "activeLiveChatId": "Cg0KCy1ETko4X1RWSkhRKicKGFVDazQtTFVtekZNRVRMdDRTbjFKODJDdxILLUROSjhfVFZKSFE"
+      "actualEndTime": "2024-05-24T23:15:58Z",
+      "scheduledStartTime": "2024-05-24T23:00:00Z"
     }
   },
   "XTWkvDDPJvg": {
     "snippet": {
       "publishedAt": "2024-05-24T20:58:36Z",
       "channelId": "UCk4-LUmzFMETLt4Sn1J82Cw",
-      "title": "\u3010VERTICAL\u3011MYTHICAL COBBLEMON SEASON 2 DAY 1!! #shortslive \u3010KoziiChu\u3011"
+      "title": "\u3010VERTICAL\u3011MYTHICAL COBBLEMON SEASON 2 DAY 1!! #shortslive \u3010KoziiChu\u3011",
+      "private": true
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-24T23:09:32Z",
       "scheduledStartTime": "2024-05-24T22:45:00Z",
       "activeLiveChatId": "Cg0KC1hUV2t2RERQSnZnKicKGFVDazQtTFVtekZNRVRMdDRTbjFKODJDdxILWFRXa3ZERFBKdmc"
+    }
+  },
+  "MjEhtXiC83U": {
+    "snippet": {
+      "publishedAt": "2024-05-24T23:17:19Z",
+      "channelId": "UCk4-LUmzFMETLt4Sn1J82Cw",
+      "title": "\u3010VERTICAL\u3011MYTHICAL COBBLEMON SEASON 2 DAY 1!! #shortslive \u3010KoziiChu\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-25T01:00:00Z",
+      "activeLiveChatId": "Cg0KC01qRWh0WGlDODNVKicKGFVDazQtTFVtekZNRVRMdDRTbjFKODJDdxILTWpFaHRYaUM4M1U"
+    }
+  },
+  "Vi2TOWgZpa4": {
+    "snippet": {
+      "publishedAt": "2024-05-24T23:16:51Z",
+      "channelId": "UCk4-LUmzFMETLt4Sn1J82Cw",
+      "title": "MYTHICAL COBBLEMON SEASON 2!! DAY 1!!! we monkeymaxing bois \ud83d\udc12\ud83d\udc12\u3010KoziiChu\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-25T01:00:00Z",
+      "activeLiveChatId": "Cg0KC1ZpMlRPV2dacGE0KicKGFVDazQtTFVtekZNRVRMdDRTbjFKODJDdxILVmkyVE9XZ1pwYTQ"
     }
   }
 }
