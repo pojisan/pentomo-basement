@@ -553,18 +553,6 @@
       "activeLiveChatId": "Cg0KCzJ6YUF2MHVnOUlJKicKGFVDMXVjZ29DX3NHd3dfRXV1NWlNcXBRdxILMnphQXYwdWc5SUk"
     }
   },
-  "33g5_XXuKZw": {
-    "snippet": {
-      "publishedAt": "2024-05-22T00:04:25Z",
-      "channelId": "UCbvR46SQpOPRKMrVT8NoJTA",
-      "title": "\u3010ACE COMBAT 7: SKIES UNKNOWN\u3011FIRST TIME PLAYING!\u3010EIEN Project\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-23T22:02:17Z",
-      "scheduledStartTime": "2024-05-23T22:00:00Z",
-      "activeLiveChatId": "Cg0KCzMzZzVfWFh1S1p3KicKGFVDYnZSNDZTUXBPUFJLTXJWVDhOb0pUQRILMzNnNV9YWHVLWnc"
-    }
-  },
   "3IsOlZG9aXc": {
     "snippet": {
       "publishedAt": "2024-05-10T21:24:04Z",
@@ -3386,6 +3374,7 @@
       "title": "\ud83d\udd2a\u3010WUTHERING WAVES\u3011EEEEEEEEEEE\u3010Yume+ | Raein Clowd\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-24T01:26:05Z",
       "scheduledStartTime": "2024-05-24T02:30:00Z",
       "activeLiveChatId": "Cg0KC1UxQTdDUHYyWkZNKicKGFVDVlBCR21sc0M4Uy1UTmFfSUVWY3oxQRILVTFBN0NQdjJaRk0"
     }
@@ -4626,7 +4615,7 @@
   "dee_the_sphinx": {
     "snippet": {
       "channelId": "dee_the_sphinx",
-      "title": "\ud83d\udd06SCUFF SAGA Continues: Part 3\ud83d\udd06!discord [Vtuber]",
+      "title": "just chatting prior to gaming - but we might have forgotten about it! \ud83d\udd06!discord [Vtuber]",
       "channelTitle": "Dee_the_Sphinx"
     },
     "liveStreamingDetails": {
@@ -5799,6 +5788,17 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC3BhWFNIZlV2WDFnKicKGFVDVXI4TzZaOEp5QWc4M0tKYmNfdV9iURILcGFYU0hmVXZYMWc"
+    }
+  },
+  "paichipop": {
+    "snippet": {
+      "channelId": "paichipop",
+      "title": "\u3010Lethal Company\u3011 LETSS GOOOOO STREAM FUN!!\u3010DropOuts\u3011",
+      "channelTitle": "PAICHIpop"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-24T01:26:01Z",
+      "twitch": true
     }
   },
   "poseidonmythos": {
