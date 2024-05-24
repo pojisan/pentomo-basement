@@ -1616,18 +1616,6 @@
       "activeLiveChatId": "Cg0KC0RwTnhtQmFNQjhZKicKGFVDb21JblcxME1rSEpzLV92aTRySFFDURILRHBOeG1CYU1COFk"
     }
   },
-  "DsWrV-W6XD4": {
-    "snippet": {
-      "publishedAt": "2024-05-21T22:17:53Z",
-      "channelId": "UCIu1rRiQLeUU8e1saN6I0eg",
-      "title": "\u3010 #4\u4eba\u3067\u30b7\u30e3\u30c3\u30d5\u30eb\u6b4c\u67a0\u30ea\u30ec\u30fc\u250a\ufe0e#\u3042\u306e\u3063\u304f\u3011\ud83d\udc99\u6708\u57ce\u30a2\u30aa\u30a4\u00d7\u30ce\u30a2\u30fb\u30dd\u30e9\u30ea\u30b9\ud83e\udd0d\u6708\u3068\u661f\u304b\u3089\u307e\u3063\u3059\u3050\u964d\u308a\u6ce8\u3050\u5504\u3010#\u30ce\u30a2\u30dd\u30e9\u30ea\u30b9 \u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-24T13:00:04Z",
-      "scheduledStartTime": "2024-05-24T13:00:00Z",
-      "activeLiveChatId": "Cg0KC0RzV3JWLVc2WEQ0KicKGFVDSXUxclJpUUxlVVU4ZTFzYU42STBlZxILRHNXclYtVzZYRDQ"
-    }
-  },
   "DyzwW7FKhpE": {
     "snippet": {
       "publishedAt": "2024-01-06T19:49:59Z",
@@ -3215,18 +3203,6 @@
       "activeLiveChatId": "Cg0KC1NhT05FZHp1VVR3KicKGFVDZ21QbngtRUVlT3JaU2c1VGl3N1pSURILU2FPTkVkenVVVHc"
     }
   },
-  "SrR46oXNJws": {
-    "snippet": {
-      "publishedAt": "2024-05-21T01:10:42Z",
-      "channelId": "UCx_A6fns9qKjybu-6k0ur1g",
-      "title": "Wouldn't it be funny if this is an endurance stream? Haha\u3010Hades 2\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-24T04:59:45Z",
-      "scheduledStartTime": "2024-05-24T05:00:00Z",
-      "activeLiveChatId": "Cg0KC1NyUjQ2b1hOSndzKicKGFVDeF9BNmZuczlxS2p5YnUtNmswdXIxZxILU3JSNDZvWE5Kd3M"
-    }
-  },
   "SwR2ZL7oSP4": {
     "snippet": {
       "publishedAt": "2024-02-21T05:49:37Z",
@@ -4769,17 +4745,6 @@
       "activeLiveChatId": "Cg0KC2hGV0JpcWRPa3lFKicKGFVDbjJMc29zdTgyeUU5UFVtVkxGQlpCURILaEZXQmlxZE9reUU"
     }
   },
-  "hJY_4ukuEzA": {
-    "snippet": {
-      "publishedAt": "2024-05-19T10:20:52Z",
-      "channelId": "UCx_A6fns9qKjybu-6k0ur1g",
-      "title": "FIRST TIME PLAYING SLAY THE SPIRE! I'M SO EXCITED!\u3010Slay the Spire\u3011"
-    },
-    "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-25T00:00:00Z",
-      "activeLiveChatId": "Cg0KC2hKWV80dWt1RXpBKicKGFVDeF9BNmZuczlxS2p5YnUtNmswdXIxZxILaEpZXzR1a3VFekE"
-    }
-  },
   "hOKCPtloWAI": {
     "snippet": {
       "publishedAt": "2023-11-09T04:01:53Z",
@@ -5370,17 +5335,6 @@
       "activeLiveChatId": "Cg0KC25va3NUWDVMUWFFKicKGFVDbWJzOFQ2TVdxVUhQMXRJUXZTZ0tyZxILbm9rc1RYNUxRYUU"
     }
   },
-  "notnonanon": {
-    "snippet": {
-      "channelId": "notnonanon",
-      "title": "I AM ADDICTED TO HADES",
-      "channelTitle": "NotNonAnon"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-24T04:59:22Z",
-      "twitch": true
-    }
-  },
   "nztel4scx7o": {
     "snippet": {
       "publishedAt": "2024-05-20T22:01:30Z",
@@ -5526,6 +5480,7 @@
       "title": "\u22c6\u263e ASMR \u263d Elfie reads you a Self-Love book so you can sleep peacefully tonight\u301c\ud83d\udca4"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-24T13:30:58Z",
       "scheduledStartTime": "2024-05-24T13:30:00Z",
       "activeLiveChatId": "Cg0KC3B6LTlsQldCV1BBKicKGFVDSEd1b0lyOWlEeEcwN3ZJT09YVEk4QRILcHotOWxCV0JXUEE"
     }

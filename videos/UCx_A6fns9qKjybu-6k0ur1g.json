@@ -7177,6 +7177,7 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-24T04:59:45Z",
+      "actualEndTime": "2024-05-24T13:27:33Z",
       "scheduledStartTime": "2024-05-24T05:00:00Z",
       "activeLiveChatId": "Cg0KC1NyUjQ2b1hOSndzKicKGFVDeF9BNmZuczlxS2p5YnUtNmswdXIxZxILU3JSNDZvWE5Kd3M"
     }
@@ -7185,7 +7186,8 @@
     "snippet": {
       "publishedAt": "2024-05-19T10:20:52Z",
       "channelId": "UCx_A6fns9qKjybu-6k0ur1g",
-      "title": "FIRST TIME PLAYING SLAY THE SPIRE! I'M SO EXCITED!\u3010Slay the Spire\u3011"
+      "title": "FIRST TIME PLAYING SLAY THE SPIRE! I'M SO EXCITED!\u3010Slay the Spire\u3011",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-25T00:00:00Z",
