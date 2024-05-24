@@ -2189,8 +2189,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-24T06:38:13Z",
-      "scheduledStartTime": "2024-05-24T06:30:00Z",
-      "activeLiveChatId": "Cg0KC2NaTTNwUW9YN1VBKicKGFVDUVk1bXBGdFB5V0paSGJqYXhtSG56dxILY1pNM3BRb1g3VUE"
+      "actualEndTime": "2024-05-24T09:15:06Z",
+      "scheduledStartTime": "2024-05-24T06:30:00Z"
     }
   },
   "nrX92GSMjOU": {
@@ -2201,8 +2201,20 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-24T06:37:48Z",
+      "actualEndTime": "2024-05-24T09:17:43Z",
       "scheduledStartTime": "2024-05-24T06:30:00Z",
       "activeLiveChatId": "Cg0KC25yWDkyR1NNak9VKicKGFVDUVk1bXBGdFB5V0paSGJqYXhtSG56dxILbnJYOTJHU01qT1U"
+    }
+  },
+  "Txoc6i-9M2g": {
+    "snippet": {
+      "publishedAt": "2024-05-24T09:19:29Z",
+      "channelId": "UCQY5mpFtPyWJZHbjaxmHnzw",
+      "title": "\u3010Fatal frame| P.2\u3011ghost boing boing\u3010V&U | GEN4\u3011#fatalframe #fatalframe5"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-24T19:00:00Z",
+      "activeLiveChatId": "Cg0KC1R4b2M2aS05TTJnKicKGFVDUVk1bXBGdFB5V0paSGJqYXhtSG56dxILVHhvYzZpLTlNMmc"
     }
   }
 }
