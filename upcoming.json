@@ -744,6 +744,7 @@
       "title": "\u3010PRINCESS PEACH: SHOWTIME!\u3011The finale to the end of a beautiful show!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-24T19:02:33Z",
       "scheduledStartTime": "2024-05-24T19:00:00Z",
       "activeLiveChatId": "Cg0KCzRUS1NZUmUtSE5FKicKGFVDaTZxMHo4TjFOTllnV1BzTTFPSzI1URILNFRLU1lSZS1ITkU"
     }
@@ -1211,6 +1212,7 @@
       "title": "[WUTHERING WAVES] Release party featuring @SarugakuLeonJr  [Part 2]"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-24T19:03:35Z",
       "scheduledStartTime": "2024-05-24T19:00:00Z",
       "activeLiveChatId": "Cg0KC0EzYWpybmZVSGRjKicKGFVDVlFFYmpBY0pSZVB4T0RWTTVtV0N2URILQTNhanJuZlVIZGM"
     }
@@ -1817,6 +1819,7 @@
       "title": "BURGER IS THE STRONGEST POKEMON IN THE WORLD"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-24T19:04:22Z",
       "scheduledStartTime": "2024-05-24T19:00:00Z",
       "activeLiveChatId": "Cg0KC0cwOVdxbWd0UE9BKicKGFVDYjhkTHZEdm1aLWQ5MktFeV85b1dvZxILRzA5V3FtZ3RQT0E"
     }
@@ -2152,6 +2155,7 @@
       "title": "\u3010Fatal frame| P.2\u3011ghost boing boing\u3010V&U | GEN4\u3011#fatalframe #shortsfeed #shorts #shortsgaming #shorts"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-24T19:01:46Z",
       "scheduledStartTime": "2024-05-24T19:00:00Z",
       "activeLiveChatId": "Cg0KC0h1c1BBc1ctdW9NKicKGFVDUVk1bXBGdFB5V0paSGJqYXhtSG56dxILSHVzUEFzVy11b00"
     }
@@ -2251,6 +2255,7 @@
       "title": "\u3010Wuthering Waves #3\u3011 3 AM AND A DREAM LESGOOO\u3010Sarugaku Leon Jr. | Globie\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-24T19:04:45Z",
       "scheduledStartTime": "2024-05-24T19:00:00Z",
       "activeLiveChatId": "Cg0KC0pHbWV2eFZNNVJzKicKGFVDLUxBbkZMWFU5QnVzRnY3bjhsRmo4ZxILSkdtZXZ4Vk01UnM"
     }
@@ -5181,6 +5186,17 @@
       "twitch": true
     }
   },
+  "matarakan": {
+    "snippet": {
+      "channelId": "matarakan",
+      "title": "ARE YOU HAGMAXXING?!  L4D2 COLLAB! FLESH VS VTUBERS! !youtube !podcast !mint",
+      "channelTitle": "MataraKan"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-24T19:02:03Z",
+      "twitch": true
+    }
+  },
   "mfoHpYA39oc": {
     "snippet": {
       "publishedAt": "2024-03-10T12:20:05Z",
@@ -6387,7 +6403,7 @@
       "title": "\u3010MEMBERS ONLY\u3011recording- 100% NOT leaking"
     },
     "liveStreamingDetails": {
-      "actualStartTime": "2024-05-24T19:00:59Z",
+      "actualStartTime": "2024-05-24T19:01:29Z",
       "scheduledStartTime": "2024-05-24T19:00:00Z",
       "activeLiveChatId": "Cg0KC3lvSVJuZFZTdTRrKicKGFVDNWFBTHV3d2NSYTdXeldISzkzQVllZxILeW9JUm5kVlN1NGs"
     }
