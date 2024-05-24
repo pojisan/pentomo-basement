@@ -2301,7 +2301,8 @@
     "snippet": {
       "publishedAt": "2024-05-24T14:32:48Z",
       "channelId": "UCvqf426_XECXgi2s6tIjgOw",
-      "title": "Ghost Princess Jumpscare! Let's Chat!\u3010Guerilla Zatsudan\u3011"
+      "title": "Ghost Princess Jumpscare! Let's Chat!\u3010Guerilla Zatsudan\u3011",
+      "private": true
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-24T14:40:25Z",
@@ -2317,6 +2318,7 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-24T14:45:36Z",
+      "actualEndTime": "2024-05-24T16:30:16Z",
       "scheduledStartTime": "2024-05-24T14:45:00Z",
       "activeLiveChatId": "Cg0KCy1sdGc5QmpSbnJjKicKGFVDdnFmNDI2X1hFQ1hnaTJzNnRJamdPdxILLWx0ZzlCalJucmM"
     }
