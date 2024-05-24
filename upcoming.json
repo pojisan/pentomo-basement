@@ -215,6 +215,7 @@
       "title": "\u3010MONETIZATION\u3011MEMBERSHIP OPEN! + sorpresaaaaaaaaaaaaaaaaaaas!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-24T22:02:19Z",
       "scheduledStartTime": "2024-05-24T22:00:00Z",
       "activeLiveChatId": "Cg0KCzBEN3JFSk1Gckp3KicKGFVDLVcteWFWSWpxa1hvaDZkWjZfVGNNQRILMEQ3ckVKTUZySnc"
     }
@@ -758,18 +759,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-25T21:00:00Z",
       "activeLiveChatId": "Cg0KCzRTOEpHY3g2cU1zKicKGFVDbHhqM0dsR3BoWlZnZDFTTFloWkttZxILNFM4SkdjeDZxTXM"
-    }
-  },
-  "4TKSYRe-HNE": {
-    "snippet": {
-      "publishedAt": "2024-05-24T17:21:39Z",
-      "channelId": "UCi6q0z8N1NNYgWPsM1OK25Q",
-      "title": "\u3010PRINCESS PEACH: SHOWTIME!\u3011The finale to the end of a beautiful show!"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-24T19:02:33Z",
-      "scheduledStartTime": "2024-05-24T19:00:00Z",
-      "activeLiveChatId": "Cg0KCzRUS1NZUmUtSE5FKicKGFVDaTZxMHo4TjFOTllnV1BzTTFPSzI1URILNFRLU1lSZS1ITkU"
     }
   },
   "4nfPB4RQabw": {
@@ -1325,18 +1314,6 @@
       "activeLiveChatId": "Cg0KC0I1SVNxRDFhTUkwKicKGFVDbFM2azN3MXNQd2xWRnFLMy15SUQ1QRILQjVJU3FEMWFNSTA"
     }
   },
-  "BEnn5ezv5H8": {
-    "snippet": {
-      "publishedAt": "2024-05-23T14:23:01Z",
-      "channelId": "UCUP8TmlO7NNra88AMqGU_vQ",
-      "title": "#3\u3010  P4G / \u30da\u30eb\u30bd\u30ca4 \u30b6\u30fb\u30b4\u30fc\u30eb\u30c7\u30f3 \u3011\u5b8c\u5168\u521d\u898b\uff01\u53cb\u9054\u304c\u305f\u304f\u3055\u3093\u5897\u3048\u3066\u304d\u305f\ud83d\ude1a\ud83d\ude1a\u3010\u5c0f\u6e05\u6c34 \u900f / \u306b\u3058\u3055\u3093\u3058\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-24T15:02:40Z",
-      "scheduledStartTime": "2024-05-24T15:00:00Z",
-      "activeLiveChatId": "Cg0KC0JFbm41ZXp2NUg4KicKGFVDVVA4VG1sTzdOTnJhODhBTXFHVV92URILQkVubjVlenY1SDg"
-    }
-  },
   "BRXEltk5UOE": {
     "snippet": {
       "publishedAt": "2021-09-15T09:36:32Z",
@@ -1398,6 +1375,7 @@
       "title": "Fallout 4 except I'm a 1920's gangster?!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-24T21:57:36Z",
       "scheduledStartTime": "2024-05-24T22:00:00Z",
       "activeLiveChatId": "Cg0KC0NBTGtvNVJJMjA0KicKGFVDZS1fcDZvdW40cDAtZ2RCNEFrZlQxURILQ0FMa281UkkyMDQ"
     }
@@ -3086,6 +3064,7 @@
       "title": "\ud83d\udd34(handcam) MYSTERY JAPANESE CANDY TASTE TEST"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-24T22:00:01Z",
       "scheduledStartTime": "2024-05-24T22:00:00Z",
       "activeLiveChatId": "Cg0KC1Fyb283UWctRVZRKicKGFVDOU5OTXdhZnk5cXV2TldhZkZ1a05EdxILUXJvbzdRZy1FVlE"
     }
@@ -3729,6 +3708,7 @@
       "title": "Guwuns! | Anime Girls try Buckshot Roulette ft @NyanaBanyana \u3010V4Mirai | Abi Kadabura\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-24T22:01:22Z",
       "scheduledStartTime": "2024-05-24T22:00:00Z",
       "activeLiveChatId": "Cg0KC1g5eGN1MHNPSmtRKicKGFVDRVNRc1NjN1VoOEViaVhWdG1QYkRfQRILWDl4Y3Uwc09Ka1E"
     }
@@ -4819,6 +4799,17 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC2hpc1drOWRQeHhrKicKGFVDVmpwRlAxX055M1BVb0UyNnI0SVRhdxILaGlzV2s5ZFB4eGs"
+    }
+  },
+  "hiyorisinn": {
+    "snippet": {
+      "channelId": "hiyorisinn",
+      "title": "continuing legend of grimrock!! / !streamloots !asmr",
+      "channelTitle": "HiyorisInn"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-24T21:52:45Z",
+      "twitch": true
     }
   },
   "hlDFczhR2mo": {
