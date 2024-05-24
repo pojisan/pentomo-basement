@@ -2532,6 +2532,7 @@
       "title": "\u3010ZATSU\u3011Let's talk for a little!!\u3010Obari Luca | globie\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-24T17:06:58Z",
       "scheduledStartTime": "2024-05-24T17:00:00Z",
       "activeLiveChatId": "Cg0KC0x2aWhzM2JLOHB3KicKGFVDZEc5b2ozbjFRaGI3QlVDc1FTSWlKZxILTHZpaHMzYks4cHc"
     }
@@ -6105,6 +6106,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-25T02:00:00Z",
       "activeLiveChatId": "Cg0KC3ZVcTFUTHVEY09FKicKGFVDTGRrY1R0NXZPZkdpX215dkstaU8wZxILdlVxMVRMdURjT0U"
+    }
+  },
+  "valentinevt": {
+    "snippet": {
+      "channelId": "valentinevt",
+      "title": "Polishing my apex skills in solos...",
+      "channelTitle": "ValentineVT"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-24T17:08:13Z",
+      "twitch": true
     }
   },
   "vbhfY2vFttc": {
