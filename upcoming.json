@@ -1297,6 +1297,7 @@
       "title": "i'm finally gonna talk about it"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-24T14:21:20Z",
       "scheduledStartTime": "2024-05-24T14:00:00Z",
       "activeLiveChatId": "Cg0KC0F0YllTbUFZTkNvKicKGFVDeUY3U2VJeVdsVXpua19zZ19YakM4URILQXRiWVNtQVlOQ28"
     }
@@ -5793,6 +5794,17 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC3J0aXhzNm1BRXJFKicKGFVDVlFFYmpBY0pSZVB4T0RWTTVtV0N2URILcnRpeHM2bUFFckU"
+    }
+  },
+  "rurumi": {
+    "snippet": {
+      "channelId": "rurumi",
+      "title": "A Livestream\u2026BUT WITH SEGGS ???",
+      "channelTitle": "Rurumi"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-24T14:13:34Z",
+      "twitch": true
     }
   },
   "rvWwaulJ6RA": {
