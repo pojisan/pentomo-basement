@@ -4642,7 +4642,8 @@
       "title": "\u3010KIRBY AIR RIDE\u3011FINALLYYYYYYYYYYYYYYYYYY!!!!!!!!!!!!! rabies noises"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-24T18:00:00Z",
+      "actualStartTime": "2024-05-24T17:57:55Z",
+      "scheduledStartTime": "2024-05-24T17:56:27Z",
       "activeLiveChatId": "Cg0KC2dldEpyY3Z2N3lRKicKGFVDc3d2ZDZfWVdtZDZyaVJrLThvVC1zQRILZ2V0SnJjdnY3eVE"
     }
   },
@@ -4783,6 +4784,7 @@
       "title": "Let's Zatsu & Maro with a VTuber Talent Manager\u3010 Vee Sensei | V4Mirai \u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-24T18:00:32Z",
       "scheduledStartTime": "2024-05-24T18:00:00Z",
       "activeLiveChatId": "Cg0KC2haYWw3VjNYczVRKicKGFVDZmZBU1dhVmsxUEZucEMtZ1R2dUpndxILaFphbDdWM1hzNVE"
     }
@@ -4965,6 +4967,7 @@
       "title": "\u3010Alien Isolation\u3011Second Round with the Xenomorph\u3010globie 2nd Gen - Equinnox\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-24T17:55:44Z",
       "scheduledStartTime": "2024-05-24T18:00:00Z",
       "activeLiveChatId": "Cg0KC2psU1IxaWtHVWtjKicKGFVDRkhkRUFIUGJGVWpnSjFSYU9fQXc2dxILamxTUjFpa0dVa2M"
     }
@@ -5215,6 +5218,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2026-05-30T14:45:00Z",
       "activeLiveChatId": "Cg0KC21fSlMxY2N2RWs4KicKGFVDX3Q3d3RTY1ZMazg1SWFEOWpZU1JBQRILbV9KUzFjY3ZFazg"
+    }
+  },
+  "mamimaiolica": {
+    "snippet": {
+      "channelId": "mamimaiolica",
+      "title": "Mami Maiolica | LETS GET 'ER DONE\u3010\u2518\u3011",
+      "channelTitle": "mamimaiolica"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-24T17:55:38Z",
+      "twitch": true
     }
   },
   "mfoHpYA39oc": {
@@ -5567,6 +5581,7 @@
       "title": "RED or GREEN Flag? Viewer Habits Edition!\u3010Zatsudan\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-24T18:00:42Z",
       "scheduledStartTime": "2024-05-24T18:00:00Z",
       "activeLiveChatId": "Cg0KC3FPMjBpc3h0QzRRKicKGFVDOW15ZEJPTGRMNi1GcDYxcGFLNjhUdxILcU8yMGlzeHRDNFE"
     }
@@ -5767,17 +5782,6 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC3J0aXhzNm1BRXJFKicKGFVDVlFFYmpBY0pSZVB4T0RWTTVtV0N2URILcnRpeHM2bUFFckU"
-    }
-  },
-  "rurumi": {
-    "snippet": {
-      "channelId": "rurumi",
-      "title": "A Livestream\u2026BUT WITH SEGGS ???",
-      "channelTitle": "Rurumi"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-24T14:13:34Z",
-      "twitch": true
     }
   },
   "rvWwaulJ6RA": {
