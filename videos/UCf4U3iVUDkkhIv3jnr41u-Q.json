@@ -1722,8 +1722,15 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-24T13:55:09Z",
-      "scheduledStartTime": "2024-05-24T13:54:57Z",
-      "activeLiveChatId": "Cg0KCzl2YVJ3YXFkbUZnKicKGFVDZjRVM2lWVURra2hJdjNqbnI0MXUtURILOXZhUndhcWRtRmc"
+      "actualEndTime": "2024-05-24T16:54:26Z",
+      "scheduledStartTime": "2024-05-24T13:54:57Z"
+    }
+  },
+  "bmLW2XAcaHU": {
+    "snippet": {
+      "publishedAt": "2024-05-24T16:00:26Z",
+      "channelId": "UCf4U3iVUDkkhIv3jnr41u-Q",
+      "title": "Wuthering Waves [#1] - I heard a new game drop"
     }
   }
 }
