@@ -7890,8 +7890,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-25T17:57:29Z",
-      "scheduledStartTime": "2024-05-25T18:00:00Z",
-      "activeLiveChatId": "Cg0KCzJGblVObUxsVVFzKicKGFVDQkpGc2FDdmdCYTFhOUJuRWF4dTk3URILMkZuVU5tTGxVUXM"
+      "actualEndTime": "2024-05-25T18:24:22Z",
+      "scheduledStartTime": "2024-05-25T18:00:00Z"
     }
   },
   "GnAxiYK1gAk": {
@@ -7901,6 +7901,7 @@
       "title": "ConnectiVT 2024: Digital Well-Being - Strategies for Healthy Media Engagement"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-25T18:28:52Z",
       "scheduledStartTime": "2024-05-25T18:30:00Z",
       "activeLiveChatId": "Cg0KC0duQXhpWUsxZ0FrKicKGFVDQkpGc2FDdmdCYTFhOUJuRWF4dTk3URILR25BeGlZSzFnQWs"
     }
