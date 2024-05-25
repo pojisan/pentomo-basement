@@ -3568,8 +3568,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-24T22:00:01Z",
-      "scheduledStartTime": "2024-05-24T22:00:00Z",
-      "activeLiveChatId": "Cg0KC1Fyb283UWctRVZRKicKGFVDOU5OTXdhZnk5cXV2TldhZkZ1a05EdxILUXJvbzdRZy1FVlE"
+      "actualEndTime": "2024-05-25T00:05:21Z",
+      "scheduledStartTime": "2024-05-24T22:00:00Z"
     }
   },
   "F1FvxBinVpg": {
@@ -3580,8 +3580,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-24T22:05:16Z",
-      "scheduledStartTime": "2024-05-24T22:00:00Z",
-      "activeLiveChatId": "Cg0KC0YxRnZ4QmluVnBnKicKGFVDOU5OTXdhZnk5cXV2TldhZkZ1a05EdxILRjFGdnhCaW5WcGc"
+      "actualEndTime": "2024-05-25T00:05:25Z",
+      "scheduledStartTime": "2024-05-24T22:00:00Z"
     }
   },
   "uAVYCfUC0mo": {
@@ -3591,8 +3591,21 @@
       "title": "\ud83d\udd34Trying The GACHA SOULSLIKE"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-25T00:06:01Z",
       "scheduledStartTime": "2024-05-25T00:00:00Z",
       "activeLiveChatId": "Cg0KC3VBVllDZlVDMG1vKicKGFVDOU5OTXdhZnk5cXV2TldhZkZ1a05EdxILdUFWWUNmVUMwbW8"
+    }
+  },
+  "7aYVPoTAz40": {
+    "snippet": {
+      "publishedAt": "2024-05-25T00:07:51Z",
+      "channelId": "UC9NNMwafy9quvNWafFukNDw",
+      "title": "\ud83d\udd34\u3010VERTICAL\u3011Trying The GACHA SOULSLIKE #shorts #shortslive #gaming"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-25T00:10:55Z",
+      "scheduledStartTime": "2024-05-25T00:00:00Z",
+      "activeLiveChatId": "Cg0KCzdhWVZQb1RBejQwKicKGFVDOU5OTXdhZnk5cXV2TldhZkZ1a05EdxILN2FZVlBvVEF6NDA"
     }
   }
 }

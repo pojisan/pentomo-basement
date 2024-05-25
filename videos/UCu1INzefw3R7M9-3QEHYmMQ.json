@@ -23853,7 +23853,8 @@
     "snippet": {
       "publishedAt": "2024-05-19T23:22:22Z",
       "channelId": "UCu1INzefw3R7M9-3QEHYmMQ",
-      "title": "\u3010SAYING YOUR NAME\u3011I Say Hello To Everyone Who Comments! #shorts #shortslive"
+      "title": "\u3010SAYING YOUR NAME\u3011I Say Hello To Everyone Who Comments! #shorts #shortslive",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-25T00:00:00Z",
@@ -23883,6 +23884,17 @@
       "publishedAt": "2024-05-24T18:12:25Z",
       "channelId": "UCu1INzefw3R7M9-3QEHYmMQ",
       "title": "New Outfit! Can I Go Outside Like This? #shorts #vtuber"
+    }
+  },
+  "kE_FDMlEEi8": {
+    "snippet": {
+      "publishedAt": "2023-03-03T01:17:56Z",
+      "channelId": "UCu1INzefw3R7M9-3QEHYmMQ",
+      "title": "\u3010SAYING YOUR NAME\u3011I Say Hello To Everyone Who Comments! #shorts  #shortslive"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-25T00:02:13Z",
+      "activeLiveChatId": "Cg0KC2tFX0ZETWxFRWk4KicKGFVDdTFJTnplZnczUjdNOS0zUUVIWW1NURILa0VfRkRNbEVFaTg"
     }
   }
 }
