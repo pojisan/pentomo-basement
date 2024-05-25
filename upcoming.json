@@ -981,6 +981,18 @@
       "activeLiveChatId": "Cg0KC0FPMTFQMklrMkdrKicKGFVDRzU2WFdaZWJPM1RIV0w2R3FkTDZnQRILQU8xMVAySWsyR2s"
     }
   },
+  "AUUeBN0WOMY": {
+    "snippet": {
+      "publishedAt": "2024-05-25T19:30:59Z",
+      "channelId": "UCJwnGUjoniJA3It-P2snc-A",
+      "title": "SAY MY NAME - Nana Asteria"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-25T22:00:00Z",
+      "activeLiveChatId": "Cg0KC0FVVWVCTjBXT01ZKicKGFVDSnduR1Vqb25pSkEzSXQtUDJzbmMtQRILQVVVZUJOMFdPTVk",
+      "premiere": true
+    }
+  },
   "AlAJqwXZr1M": {
     "snippet": {
       "publishedAt": "2024-05-19T23:27:18Z",
@@ -5217,6 +5229,7 @@
       "title": "PASS ME THE AUX CORD [unarchived]"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-25T19:37:34Z",
       "scheduledStartTime": "2024-05-25T19:30:00Z",
       "activeLiveChatId": "Cg0KC3NadzVELVhlSS1zKicKGFVDX2xVeUhUOWd5R2ZmRDE1b05hRlJndxILc1p3NUQtWGVJLXM"
     }
