@@ -4528,18 +4528,6 @@
       "activeLiveChatId": "Cg0KC2xydm9FbUZfZDkwKicKGFVDMWVYX01Wck4wRUJLZHBrbjliLWpodxILbHJ2b0VtRl9kOTA"
     }
   },
-  "lsLVtxNp9II": {
-    "snippet": {
-      "publishedAt": "2024-05-24T13:20:35Z",
-      "channelId": "UCFgXWZOUZA2oYHNr6qDmsTQ",
-      "title": "hehehehe announcement"
-    },
-    "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-26T05:30:00Z",
-      "activeLiveChatId": "Cg0KC2xzTFZ0eE5wOUlJKicKGFVDRmdYV1pPVVpBMm9ZSE5yNnFEbXNUURILbHNMVnR4TnA5SUk",
-      "premiere": true
-    }
-  },
   "m0hCErPULAQ": {
     "snippet": {
       "publishedAt": "2024-05-24T23:18:22Z",
@@ -4624,17 +4612,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-03-09T13:00:00Z",
       "activeLiveChatId": "Cg0KC21mb0hwWUEzOW9jKicKGFVDYXhpRGVfVHVNTFhrd1JNVkxtNVZ3URILbWZvSHBZQTM5b2M"
-    }
-  },
-  "miyuyus": {
-    "snippet": {
-      "channelId": "miyuyus",
-      "title": "mincraf donothon! \u2665 !donate !goals",
-      "channelTitle": "miyuyus"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-25T03:33:53Z",
-      "twitch": true
     }
   },
   "msxN8CIi6x8": {
@@ -5315,6 +5292,7 @@
       "title": "Alright, get in line..... \u3010Lobotomy Corporation\u3011\u3010\u6b4c\u7f8e\u9cf4\u30af\u30e9\u30e9 / Phase Connect\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-25T06:00:19Z",
       "scheduledStartTime": "2024-05-25T06:00:00Z",
       "activeLiveChatId": "Cg0KC3U0SVBqQ1VLdEI4KicKGFVDUmxaYXN6azg0WVhqUnRkUEN4cWp2dxILdTRJUGpDVUt0Qjg"
     }
