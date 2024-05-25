@@ -1767,18 +1767,6 @@
       "activeLiveChatId": "Cg0KC0ljV1ZMNDk0NFY4KicKGFVDMmhXRmxxTWV3NjFKeTZBOHp1NUh6URILSWNXVkw0OTQ0Vjg"
     }
   },
-  "IgGnUKdfH34": {
-    "snippet": {
-      "publishedAt": "2024-05-19T23:10:32Z",
-      "channelId": "UCJ4pvspwjnM-hSXqkoIuMGQ",
-      "title": "\u3010DEBUT STREAM\u3011It\u2019s Chompin\u2019 Time!!!\u3010PixelLink\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-25T23:00:32Z",
-      "scheduledStartTime": "2024-05-25T23:00:00Z",
-      "activeLiveChatId": "Cg0KC0lnR25VS2RmSDM0KicKGFVDSjRwdnNwd2puTS1oU1hxa29JdU1HURILSWdHblVLZGZIMzQ"
-    }
-  },
   "J09Y3gDiIk8": {
     "snippet": {
       "publishedAt": "2024-01-22T08:30:05Z",
@@ -1939,18 +1927,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-01-01T22:15:00Z",
       "activeLiveChatId": "Cg0KC0tKSml2NkFIQkVZKicKGFVDbGNNVDlWOWl1N3hwaGtIVkhnbEhUZxILS0pKaXY2QUhCRVk"
-    }
-  },
-  "KLYIN0NcoZI": {
-    "snippet": {
-      "publishedAt": "2024-05-19T23:11:27Z",
-      "channelId": "UCJ4pvspwjnM-hSXqkoIuMGQ",
-      "title": "Kimama na Tenshi-tachi - WataTen5\u3010Chio Chompi\u3011COVER"
-    },
-    "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-25T23:50:00Z",
-      "activeLiveChatId": "Cg0KC0tMWUlOME5jb1pJKicKGFVDSjRwdnNwd2puTS1oU1hxa29JdU1HURILS0xZSU4wTmNvWkk",
-      "premiere": true
     }
   },
   "KRGKnZxDVI8": {
@@ -2716,18 +2692,6 @@
       "activeLiveChatId": "Cg0KC1Q2cUh1a1dST0c4KicKGFVDNFlYMlp0NjZSNHVZcUxIRmt3UDFhdxILVDZxSHVrV1JPRzg"
     }
   },
-  "TeIwh0SXlY8": {
-    "snippet": {
-      "publishedAt": "2024-05-25T21:14:14Z",
-      "channelId": "UCxbNEW7xykTC7hE5FYgwrOw",
-      "title": "\u3010KARAOKE\u3011Unarchived Chill Karaoke\u3010bondliveEN | Ivaela Daemoni\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-25T22:01:56Z",
-      "scheduledStartTime": "2024-05-25T22:00:00Z",
-      "activeLiveChatId": "Cg0KC1RlSXdoMFNYbFk4KicKGFVDeGJORVc3eHlrVEM3aEU1Rllnd3JPdxILVGVJd2gwU1hsWTg"
-    }
-  },
   "TiQj7Lh4USk": {
     "snippet": {
       "publishedAt": "2023-09-21T02:34:13Z",
@@ -3429,6 +3393,7 @@
       "title": "\u3016PIXELLINK DEBUT WATCHALONG!\u3017She's free!  Its time for @DaiyaFortuna  to deal our hand!~\u3016Cyon \u2765 V&U\u3017"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-25T23:49:08Z",
       "scheduledStartTime": "2024-05-26T00:00:00Z",
       "activeLiveChatId": "Cg0KC19TLWFBd0tENmJVKicKGFVDUmxRenVWZVl4VERQb2JQTjFqYVZrURILX1MtYUF3S0Q2YlU"
     }
@@ -3503,6 +3468,7 @@
       "title": "\u3010DEBUT WATCHALONG\u3011NEW PixelLink talent!! @DaiyaFortuna"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-25T23:41:46Z",
       "scheduledStartTime": "2024-05-25T23:45:00Z",
       "activeLiveChatId": "Cg0KC2FfdC1iV29rTHMwKicKGFVDMFpUVnhDSGtaYW5UNWRuUDJGWkQ0URILYV90LWJXb2tMczA"
     }
@@ -3909,7 +3875,8 @@
       "title": "\u3010DEBUT WATCHALONG\u3011Watching the new PixelLink talents!! Daiya time!!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-26T00:00:00Z",
+      "actualStartTime": "2024-05-25T23:43:32Z",
+      "scheduledStartTime": "2024-05-25T23:42:25Z",
       "activeLiveChatId": "Cg0KC2Z2UzNMbUFTM2ZFKicKGFVDc3d2ZDZfWVdtZDZyaVJrLThvVC1zQRILZnZTM0xtQVMzZkU"
     }
   },
@@ -4882,6 +4849,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-04-28T09:00:00Z",
       "activeLiveChatId": "Cg0KC3JnZGk4YnRlUWdjKicKGFVDOHpnS2FTOExpeUwyOG1kaFJDMm5CZxILcmdkaThidGVRZ2M"
+    }
+  },
+  "rinapumpkin": {
+    "snippet": {
+      "channelId": "rinapumpkin",
+      "title": "\u0b68\ud83c\udf83 Drawing more floof babies \ud83c\udf83\u0b67 MWUAH! \u208a\u02da\u22b9 \u2661",
+      "channelTitle": "RinaPumpkin"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-25T23:50:18Z",
+      "twitch": true
     }
   },
   "rn2SX1mvIyc": {
