@@ -127,7 +127,8 @@
     "snippet": {
       "publishedAt": "2024-05-19T13:30:56Z",
       "channelId": "UCrp9MOKuYzWFA0X7wLLhHkA",
-      "title": "\u300eHollow Knight\u300fLets explore the darkness!\u301aBaal Arland | OshiLinkEN\u301b"
+      "title": "\u300eHollow Knight\u300fLets explore the darkness!\u301aBaal Arland | OshiLinkEN\u301b",
+      "private": true
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-25T22:46:28Z",
@@ -145,6 +146,18 @@
       "actualStartTime": "2024-05-23T03:00:42Z",
       "actualEndTime": "2024-05-23T06:19:32Z",
       "scheduledStartTime": "2024-05-23T03:00:00Z"
+    }
+  },
+  "Wax9bkc5Oig": {
+    "snippet": {
+      "publishedAt": "2024-05-25T22:53:47Z",
+      "channelId": "UCrp9MOKuYzWFA0X7wLLhHkA",
+      "title": "\u300eHollow Knight\u300fLets explore the darkness!\u301aBaal Arland | OshiLinkEN\u301b"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-25T22:55:17Z",
+      "scheduledStartTime": "2024-05-25T22:55:00Z",
+      "activeLiveChatId": "Cg0KC1dheDlia2M1T2lnKicKGFVDcnA5TU9LdVl6V0ZBMFg3d0xMaEhrQRILV2F4OWJrYzVPaWc"
     }
   }
 }

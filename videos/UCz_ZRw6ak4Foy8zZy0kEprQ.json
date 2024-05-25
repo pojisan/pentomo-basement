@@ -4142,15 +4142,15 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-25T16:06:09Z",
       "actualEndTime": "2024-05-25T17:19:24Z",
-      "scheduledStartTime": "2024-05-25T15:45:00Z",
-      "activeLiveChatId": "Cg0KC0NYelVfQ3dZM2pVKicKGFVDel9aUnc2YWs0Rm95OHpaeTBrRXByURILQ1h6VV9Dd1kzalU"
+      "scheduledStartTime": "2024-05-25T15:45:00Z"
     }
   },
   "rYZpFSs6v7I": {
     "snippet": {
       "publishedAt": "2024-05-25T17:20:22Z",
       "channelId": "UCz_ZRw6ak4Foy8zZy0kEprQ",
-      "title": "i mine the craft :D"
+      "title": "i mine the craft :D",
+      "private": true
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-25T17:29:01Z",
