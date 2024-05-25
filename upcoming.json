@@ -2088,6 +2088,7 @@
       "title": "UNSPECIFIED GAMING STREAM (Enya hasn't decided yet)"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-25T23:31:49Z",
       "scheduledStartTime": "2024-05-25T23:30:00Z",
       "activeLiveChatId": "Cg0KC0xvUmN1VEQ1WVU4KicKGFVDQmdoVUtBX0wwbmEwU2VRNnNuek1NURILTG9SY3VURDVZVTg"
     }
@@ -2465,6 +2466,17 @@
       "activeLiveChatId": "Cg0KC1FNUnNZWXh6SkI4KicKGFVDb0F3M1NNTF8wOWRGLTd5aFFVOHdGURILUU1Sc1lZeHpKQjg"
     }
   },
+  "QVtufMCKINA": {
+    "snippet": {
+      "publishedAt": "2024-05-25T23:35:41Z",
+      "channelId": "UCxerQlE0t1yY4bqeK5ldM9A",
+      "title": "Encouragement Stream! Sometimes You Just Need A Push!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-26T00:00:00Z",
+      "activeLiveChatId": "Cg0KC1FWdHVmTUNLSU5BKicKGFVDeGVyUWxFMHQxeVk0YnFlSzVsZE05QRILUVZ0dWZNQ0tJTkE"
+    }
+  },
   "QW4zMJgYw_E": {
     "snippet": {
       "publishedAt": "2024-04-06T04:12:33Z",
@@ -2527,6 +2539,7 @@
       "title": "\u3010Zatsudan\u3011My first week COMPLETE! | Q&A\u3010Yume+ | Aimee\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-25T23:36:07Z",
       "scheduledStartTime": "2024-05-25T23:30:00Z",
       "activeLiveChatId": "Cg0KC1F0YWlTQllrVWZFKicKGFVDX3Q3d3RTY1ZMazg1SWFEOWpZU1JBQRILUXRhaVNCWWtVZkU"
     }
@@ -5376,7 +5389,7 @@
       "title": "IM LOST\u3010ALPHA SAPPHIRE #6\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-26T02:00:00Z",
+      "scheduledStartTime": "2024-05-27T02:00:00Z",
       "activeLiveChatId": "Cg0KC3gyNzhjSDFQZVprKicKGFVDMW9nbUxWZE1yVTRIdUxCVVl0empWURILeDI3OGNIMVBlWms"
     }
   },
