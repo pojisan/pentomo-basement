@@ -1744,6 +1744,7 @@
       "title": "Minecraft | Hunting for the LAST Wolf Variant!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-25T15:01:10Z",
       "scheduledStartTime": "2024-05-25T15:00:00Z",
       "activeLiveChatId": "Cg0KC0duaW00enV6dUFBKicKGFVDcXV5V3I3c2RFRkhDc3FFZ24xVUExZxILR25pbTR6dXp1QUE"
     }
@@ -4198,6 +4199,7 @@
       "title": "FIRST TIME Dragon Age: Origins On Stream!!!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-25T15:05:45Z",
       "scheduledStartTime": "2024-05-25T15:00:00Z",
       "activeLiveChatId": "Cg0KC2dIcEwtOFUtZzUwKicKGFVDdTFJTnplZnczUjdNOS0zUUVIWW1NURILZ0hwTC04VS1nNTA"
     }
@@ -4306,6 +4308,7 @@
       "title": "The Fanart Appreciation Stream 2 (w/ chibi Ver) \u2728\u2764\ufe0f"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-25T15:09:42Z",
       "scheduledStartTime": "2024-05-25T15:00:00Z",
       "activeLiveChatId": "Cg0KC2g5d1k2amxDR19JKicKGFVDTzhXY0RzRjV6bnItcXNYbHpaTnBxZxILaDl3WTZqbENHX0k"
     }
@@ -4436,6 +4439,17 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC2h5X3Bvd3FIdDA4KicKGFVDYkRISVMwTnBYUk9oWWpzYVhRWDRwQRILaHlfcG93cUh0MDg"
+    }
+  },
+  "hyperx": {
+    "snippet": {
+      "channelId": "hyperx",
+      "title": "Early morning scares with @auteru and @ravtek | !kura !youtube !code",
+      "channelTitle": "HyperX"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-25T15:06:22Z",
+      "twitch": true
     }
   },
   "i-DzVoVX22s": {
