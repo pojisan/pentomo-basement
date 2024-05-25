@@ -585,7 +585,7 @@
       "title": "\u3010Just chatting\u3011i'm taking a bath, please dont peek!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-11T19:00:00Z",
+      "scheduledStartTime": "2024-05-25T19:00:00Z",
       "activeLiveChatId": "Cg0KCy1ucXNKZVo0RHhrKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILLW5xc0plWjREeGs"
     }
   },
@@ -762,8 +762,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-25T17:15:54Z",
-      "scheduledStartTime": "2024-05-25T17:00:00Z",
-      "activeLiveChatId": "Cg0KC0JUVlZOUnRwQTRJKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILQlRWVk5SdHBBNEk"
+      "actualEndTime": "2024-05-25T18:43:24Z",
+      "scheduledStartTime": "2024-05-25T17:00:00Z"
     }
   },
   "fkDdCqmff_g": {
