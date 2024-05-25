@@ -582,7 +582,8 @@
     "snippet": {
       "publishedAt": "2024-04-30T09:27:03Z",
       "channelId": "UCMmy_EmxnYQ8aar8fNZrumw",
-      "title": "\u3010Just chatting\u3011i'm taking a bath, please dont peek!"
+      "title": "\u3010Just chatting\u3011i'm taking a bath, please dont peek!",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-25T19:00:00Z",
@@ -902,6 +903,18 @@
       "actualStartTime": "2024-05-22T23:08:14Z",
       "actualEndTime": "2024-05-23T07:00:43Z",
       "scheduledStartTime": "2024-05-22T23:00:00Z"
+    }
+  },
+  "J3UW1J2ihqE": {
+    "snippet": {
+      "publishedAt": "2024-05-25T19:16:30Z",
+      "channelId": "UCMmy_EmxnYQ8aar8fNZrumw",
+      "title": "\u3010Just chatting\u3011i'm taking a bath, please dont peek!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-25T19:20:31Z",
+      "scheduledStartTime": "2024-05-25T19:15:00Z",
+      "activeLiveChatId": "Cg0KC0ozVVcxSjJpaHFFKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILSjNVVzFKMmlocUU"
     }
   }
 }

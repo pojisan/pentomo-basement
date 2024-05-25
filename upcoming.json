@@ -131,17 +131,6 @@
       "activeLiveChatId": "Cg0KCy1jQ1owNHRWSG5ZKicKGFVDRVNRc1NjN1VoOEViaVhWdG1QYkRfQRILLWNDWjA0dFZIblk"
     }
   },
-  "-nqsJeZ4Dxk": {
-    "snippet": {
-      "publishedAt": "2024-04-30T09:27:03Z",
-      "channelId": "UCMmy_EmxnYQ8aar8fNZrumw",
-      "title": "\u3010Just chatting\u3011i'm taking a bath, please dont peek!"
-    },
-    "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-25T19:00:00Z",
-      "activeLiveChatId": "Cg0KCy1ucXNKZVo0RHhrKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILLW5xc0plWjREeGs"
-    }
-  },
   "-ywadoz9bCU": {
     "snippet": {
       "publishedAt": "2024-05-22T15:15:12Z",
@@ -1891,6 +1880,18 @@
       "activeLiveChatId": "Cg0KC0owOVkzZ0RpSWs4KicKGFVDYkRISVMwTnBYUk9oWWpzYVhRWDRwQRILSjA5WTNnRGlJazg"
     }
   },
+  "J3UW1J2ihqE": {
+    "snippet": {
+      "publishedAt": "2024-05-25T19:16:30Z",
+      "channelId": "UCMmy_EmxnYQ8aar8fNZrumw",
+      "title": "\u3010Just chatting\u3011i'm taking a bath, please dont peek!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-25T19:20:31Z",
+      "scheduledStartTime": "2024-05-25T19:15:00Z",
+      "activeLiveChatId": "Cg0KC0ozVVcxSjJpaHFFKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILSjNVVzFKMmlocUU"
+    }
+  },
   "J9slqyWduoo": {
     "snippet": {
       "publishedAt": "2024-05-25T06:40:40Z",
@@ -2393,6 +2394,7 @@
       "title": "YOU WERE RIGHT. THIS GAME IS ADDICTING."
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-25T19:11:59Z",
       "scheduledStartTime": "2024-05-25T19:00:00Z",
       "activeLiveChatId": "Cg0KC05NckFpSWM4NjRrKicKGFVDYjhkTHZEdm1aLWQ5MktFeV85b1dvZxILTk1yQWlJYzg2NGs"
     }
@@ -3789,18 +3791,6 @@
       "activeLiveChatId": "Cg0KC2M3SzZSSW5HM0R3KicKGFVDTXdHSFIwQlRadUxzbWpZX05UNVB3ZxILYzdLNlJJbkczRHc"
     }
   },
-  "c7a6lZj_6bE": {
-    "snippet": {
-      "publishedAt": "2024-05-18T15:24:04Z",
-      "channelId": "UCRkdFGXwBtxvm9SsfmNmMZA",
-      "title": "An angel at the Closing Shift?!"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-25T15:59:56Z",
-      "scheduledStartTime": "2024-05-25T16:00:00Z",
-      "activeLiveChatId": "Cg0KC2M3YTZsWmpfNmJFKicKGFVDUmtkRkdYd0J0eHZtOVNzZm1ObU1aQRILYzdhNmxaal82YkU"
-    }
-  },
   "cVM3ZEKtj_4": {
     "snippet": {
       "publishedAt": "2024-05-25T12:44:11Z",
@@ -4164,17 +4154,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-27T14:00:00Z",
       "activeLiveChatId": "Cg0KC2d3cWs0dHY5VHVNKicKGFVDX3pwa3FGdDdZQnlXYVBpOUJ4dDdFURILZ3dxazR0djlUdU0"
-    }
-  },
-  "gx_aura": {
-    "snippet": {
-      "channelId": "gx_aura",
-      "title": "FREE CROWD CONTROL! \ud83d\udde3\ufe0f WE MAKING IT OUT OF THE DOOR TO DARKNESS WITH THIS ONE! \ud83d\udd25\ud83d\udd25\ud83d\udd25 | !socials !video !ironside",
-      "channelTitle": "GX_Aura"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-25T14:58:59Z",
-      "twitch": true
     }
   },
   "h4426bmybDA": {
@@ -5140,6 +5119,7 @@
       "title": "\u3010 It Takes Two \u3011 Getting lost in a linear game (again) to save our marriage w/@TomoeCarmine !!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-25T19:20:32Z",
       "scheduledStartTime": "2024-05-25T19:00:00Z",
       "activeLiveChatId": "Cg0KC3JyMHJLSDdpQV9vKicKGFVDUEszUzlpajBEWElObVRqUTRLaFFWQRILcnIwcktIN2lBX28"
     }
@@ -5226,7 +5206,7 @@
       "title": "PASS ME THE AUX CORD [unarchived]"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-25T19:00:00Z",
+      "scheduledStartTime": "2024-05-25T19:30:00Z",
       "activeLiveChatId": "Cg0KC3NadzVELVhlSS1zKicKGFVDX2xVeUhUOWd5R2ZmRDE1b05hRlJndxILc1p3NUQtWGVJLXM"
     }
   },
@@ -5739,17 +5719,6 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC3hoejNaZUhYaVI4KicKGFVDZWpiaWNvUm5RakNPZEFQQXY1SlB3ZxILeGh6M1plSFhpUjg"
-    }
-  },
-  "xiulanlong": {
-    "snippet": {
-      "channelId": "xiulanlong",
-      "title": "[VTUBER] We singin! Long time no sing! (\u25cd\u2022\u1d17\u2022\u25cd) !cover !discord !merch",
-      "channelTitle": "XiulanLong"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-25T15:33:48Z",
-      "twitch": true
     }
   },
   "xvk04wgMLaA": {
