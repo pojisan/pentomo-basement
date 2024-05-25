@@ -879,6 +879,7 @@
       "title": "Let's watch @KannaYanagi !!   #sponsored"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-25T20:27:27Z",
       "scheduledStartTime": "2024-05-25T20:30:00Z",
       "activeLiveChatId": "Cg0KCzlQMWpTVk1QR2hNKicKGFVDTzR6TWFZQkV6ZFlJU2Zlb082aXBfURILOVAxalNWTVBHaE0"
     }
@@ -2936,6 +2937,7 @@
       "title": "\u3010PIXELLINK DEBUT WATCHALONG\u3011 It's time for this duck to spread her wings! @KannaYanagi |  #sponsored"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-25T20:30:36Z",
       "scheduledStartTime": "2024-05-25T20:30:00Z",
       "activeLiveChatId": "Cg0KC1Y5c1JBNzRGMjA4KicKGFVDel84enRROXJjdV9VcFVwMGh2N2JZdxILVjlzUkE3NEYyMDg"
     }
@@ -3653,6 +3655,17 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC2I0aE5McmdLUjRVKicKGFVDN0diN1Vhd2UyMFF5RmliaExsMWx6QRILYjRoTkxyZ0tSNFU"
+    }
+  },
+  "bDFcfosMm3E": {
+    "snippet": {
+      "publishedAt": "2024-05-25T20:29:16Z",
+      "channelId": "UCHsx4Hqa-1ORjQTh9TYDhww",
+      "title": "\u3010WORMS W.M.D\u3011BIRDS FIGHT TO DEATH #kfp #\u30ad\u30a2\u30e9\u30a4\u30d6"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-26T05:00:00Z",
+      "activeLiveChatId": "Cg0KC2JERmNmb3NNbTNFKicKGFVDSHN4NEhxYS0xT1JqUVRoOVRZRGh3dxILYkRGY2Zvc01tM0U"
     }
   },
   "bWrKy65IOAc": {
@@ -4884,7 +4897,7 @@
       "title": "\u3010NEW VTUBER DEBUT\u3011PixelLink Kanna Yanagi Debut Watchalong! #AD"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-25T21:00:00Z",
+      "scheduledStartTime": "2024-05-25T20:50:00Z",
       "activeLiveChatId": "Cg0KC3FMWm1NaHJUR2dZKicKGFVDdTFJTnplZnczUjdNOS0zUUVIWW1NURILcUxabU1oclRHZ1k"
     }
   },
