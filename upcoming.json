@@ -1173,6 +1173,7 @@
       "title": "\u3010Sonic Adventure 1\u3011I can finally play SA1!!\u3010Yume+ | Aimee\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-25T00:41:45Z",
       "scheduledStartTime": "2024-05-25T00:30:00Z",
       "activeLiveChatId": "Cg0KC0E2QmpCOE4zUHVZKicKGFVDX3Q3d3RTY1ZMazg1SWFEOWpZU1JBQRILQTZCakI4TjNQdVk"
     }
@@ -3222,18 +3223,6 @@
       "activeLiveChatId": "Cg0KC1VLVUdfWjE1SWZFKicKGFVDaFRBOGtIeUlucjJyS1oyYUJ2NVVMdxILVUtVR19aMTVJZkU"
     }
   },
-  "UMsVAjJFqD8": {
-    "snippet": {
-      "publishedAt": "2024-05-23T23:17:56Z",
-      "channelId": "UCkiUByBCF1aOiRd16xAlPMg",
-      "title": "Bang."
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-24T17:03:33Z",
-      "scheduledStartTime": "2024-05-24T17:00:00Z",
-      "activeLiveChatId": "Cg0KC1VNc1ZBakpGcUQ4KicKGFVDa2lVQnlCQ0YxYU9pUmQxNnhBbFBNZxILVU1zVkFqSkZxRDg"
-    }
-  },
   "UNPXdayzFIc": {
     "snippet": {
       "publishedAt": "2024-05-22T15:47:49Z",
@@ -5100,17 +5089,6 @@
       "activeLiveChatId": "Cg0KC21fSlMxY2N2RWs4KicKGFVDX3Q3d3RTY1ZMazg1SWFEOWpZU1JBQRILbV9KUzFjY3ZFazg"
     }
   },
-  "matarakan": {
-    "snippet": {
-      "channelId": "matarakan",
-      "title": "are you HAGMAXXING? A bit of chatting :)  !youtube !podcast !mint",
-      "channelTitle": "MataraKan"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-24T19:02:03Z",
-      "twitch": true
-    }
-  },
   "meica05": {
     "snippet": {
       "channelId": "meica05",
@@ -6238,6 +6216,17 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-24T20:00:27Z",
       "twitch": true
+    }
+  },
+  "xnVTAnXtPVc": {
+    "snippet": {
+      "publishedAt": "2024-05-25T00:48:14Z",
+      "channelId": "UCPaNI2VUDc2L0CUXTJzto4A",
+      "title": "\ud83c\udf10 the internet is dead and I KILLED IT!!! \ud83c\udf10"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-25T02:00:00Z",
+      "activeLiveChatId": "Cg0KC3huVlRBblh0UFZjKicKGFVDUGFOSTJWVURjMkwwQ1VYVEp6dG80QRILeG5WVEFuWHRQVmM"
     }
   },
   "xvk04wgMLaA": {
