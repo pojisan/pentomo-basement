@@ -786,8 +786,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-25T19:37:34Z",
-      "scheduledStartTime": "2024-05-25T19:30:00Z",
-      "activeLiveChatId": "Cg0KC3NadzVELVhlSS1zKicKGFVDX2xVeUhUOWd5R2ZmRDE1b05hRlJndxILc1p3NUQtWGVJLXM"
+      "actualEndTime": "2024-05-25T20:45:13Z",
+      "scheduledStartTime": "2024-05-25T19:30:00Z"
     }
   },
   "L4o9YpnsZQE": {
@@ -797,6 +797,7 @@
       "title": "\u3010PIXELLINK DEBUT WATCHALONG\u3011Que! It's Detective Duck debut time!! @KannaYanagi | #sponsored"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-25T20:49:03Z",
       "scheduledStartTime": "2024-05-25T20:45:00Z",
       "activeLiveChatId": "Cg0KC0w0bzlZcG5zWlFFKicKGFVDX2xVeUhUOWd5R2ZmRDE1b05hRlJndxILTDRvOVlwbnNaUUU"
     }
