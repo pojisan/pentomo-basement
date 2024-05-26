@@ -2169,6 +2169,7 @@
       "title": "\u3010D.K Graves\u3011\u30f4\u30a1\u30f3\u30d1\u30a4\u30a2\u3092\u6b4c\u3063\u3066\u307f\u305f"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-26T22:00:07Z",
       "scheduledStartTime": "2024-05-26T22:00:00Z",
       "activeLiveChatId": "Cg0KCzVXc2xCa0NVd2h3KicKGFVDUVk1bXBGdFB5V0paSGJqYXhtSG56dxILNVdzbEJrQ1V3aHc",
       "premiere": true
@@ -2237,6 +2238,7 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-26T20:08:50Z",
+      "actualEndTime": "2024-05-26T21:59:10Z",
       "scheduledStartTime": "2024-05-26T20:00:00Z",
       "activeLiveChatId": "Cg0KC0trdVlKRS02TXBnKicKGFVDUVk1bXBGdFB5V0paSGJqYXhtSG56dxILS2t1WUpFLTZNcGc"
     }
@@ -2249,8 +2251,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-26T20:09:10Z",
-      "scheduledStartTime": "2024-05-26T20:00:00Z",
-      "activeLiveChatId": "Cg0KC0dJSE0waDVFc0UwKicKGFVDUVk1bXBGdFB5V0paSGJqYXhtSG56dxILR0lITTBoNUVzRTA"
+      "actualEndTime": "2024-05-26T21:53:15Z",
+      "scheduledStartTime": "2024-05-26T20:00:00Z"
     }
   }
 }
