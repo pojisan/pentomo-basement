@@ -1060,6 +1060,7 @@
       "title": "#4\u3010  P4G / \u30da\u30eb\u30bd\u30ca4 \u30b6\u30fb\u30b4\u30fc\u30eb\u30c7\u30f3 \u3011\u5b8c\u5168\u521d\u898b\uff01\u5b8c\u4e8c\u52a9\u3051\u306b\u884c\u304f\u305e\uff01\uff01\uff01\u3010\u5c0f\u6e05\u6c34 \u900f / \u306b\u3058\u3055\u3093\u3058\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-26T01:12:02Z",
       "scheduledStartTime": "2024-05-26T01:10:00Z",
       "activeLiveChatId": "Cg0KC0QxRzR1QS1UVC1RKicKGFVDVVA4VG1sTzdOTnJhODhBTXFHVV92URILRDFHNHVBLVRULVE"
     }
@@ -3525,18 +3526,6 @@
       "activeLiveChatId": "Cg0KC2NWTTNaRUt0al80KicKGFVDdXVBYl83MlF6SzBNMVVTUE1FbDF5dxILY1ZNM1pFS3RqXzQ"
     }
   },
-  "cjjXF2BLK-8": {
-    "snippet": {
-      "publishedAt": "2024-05-20T16:27:51Z",
-      "channelId": "UCykMWf8B8I7c_jA8FTy2tGw",
-      "title": "\u3010Watchalong\u3011Watching Your Favorite Old Commercials!"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-26T00:00:13Z",
-      "scheduledStartTime": "2024-05-26T00:00:00Z",
-      "activeLiveChatId": "Cg0KC2NqalhGMkJMSy04KicKGFVDeWtNV2Y4QjhJN2NfakE4RlR5MnRHdxILY2pqWEYyQkxLLTg"
-    }
-  },
   "cyLd18I29Ko": {
     "snippet": {
       "publishedAt": "2024-05-14T00:01:25Z",
@@ -3695,6 +3684,7 @@
       "title": "Every Yugioh Duel I Lose I Drink"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-26T01:12:31Z",
       "scheduledStartTime": "2024-05-26T01:00:00Z",
       "activeLiveChatId": "Cg0KC2Y4ZEtjWEJjWVQwKicKGFVDQTRiT0IxSm53NS1sYnVvU0NmeGMtdxILZjhkS2NYQmNZVDA"
     }
@@ -4864,7 +4854,7 @@
     "snippet": {
       "publishedAt": "2024-01-28T08:02:18Z",
       "channelId": "UCFwcEIsjvi9XEvpGx6iwHpw",
-      "title": "\u3010FREE CHAT\u3011Schedule for - May 19th - May 25th  2024"
+      "title": "\u3010FREE CHAT\u3011Schedule for - May 26th - June 1st  2024"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2026-01-02T01:00:00Z",
@@ -5358,6 +5348,17 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC3lWUXJGazF0MzhRKicKGFVDUjZxaHNMcG42MldWeENCSzFka0xvdxILeVZRckZrMXQzOFE"
+    }
+  },
+  "yanchagogo": {
+    "snippet": {
+      "channelId": "yanchagogo",
+      "title": "\u3010 Yanchaversary \u30114 years of SCUFF (EN/TAG)",
+      "channelTitle": "YanchaGoGo"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-26T01:14:52Z",
+      "twitch": true
     }
   },
   "yccysErpZXk": {
