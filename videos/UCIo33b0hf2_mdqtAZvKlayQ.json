@@ -2316,8 +2316,20 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-26T18:06:41Z",
-      "scheduledStartTime": "2024-05-26T18:00:00Z",
-      "activeLiveChatId": "Cg0KC0d3Y20tQ0pzOFdRKicKGFVDSW8zM2IwaGYyX21kcXRBWnZLbGF5URILR3djbS1DSnM4V1E"
+      "actualEndTime": "2024-05-26T20:21:57Z",
+      "scheduledStartTime": "2024-05-26T18:00:00Z"
+    }
+  },
+  "4Iqa8qWTsig": {
+    "snippet": {
+      "publishedAt": "2024-05-26T20:20:32Z",
+      "channelId": "UCIo33b0hf2_mdqtAZvKlayQ",
+      "title": "I AM JUST PLAYING THE EVENT!!!\u3010GENSHIN IMPACT\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-26T20:22:54Z",
+      "scheduledStartTime": "2024-05-26T20:20:00Z",
+      "activeLiveChatId": "Cg0KCzRJcWE4cVdUc2lnKicKGFVDSW8zM2IwaGYyX21kcXRBWnZLbGF5URILNElxYThxV1RzaWc"
     }
   }
 }
