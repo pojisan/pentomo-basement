@@ -10140,7 +10140,8 @@
       "title": "1 chat = 1 cent"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-26T02:00:00Z",
+      "actualStartTime": "2024-05-26T02:00:44Z",
+      "scheduledStartTime": "2024-05-26T02:00:30Z",
       "activeLiveChatId": "Cg0KC1dBZUhNMjFEak00KicKGFVDb0F3M1NNTF8wOWRGLTd5aFFVOHdGURILV0FlSE0yMURqTTQ"
     }
   },
