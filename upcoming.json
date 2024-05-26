@@ -1042,6 +1042,7 @@
       "title": "erm... what the birthday"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-26T03:02:08Z",
       "scheduledStartTime": "2024-05-26T03:00:00Z",
       "activeLiveChatId": "Cg0KC0NwX0lOS2FQUnZzKicKGFVDOHlYUkJfaktEZWFwd1FhazJpMzBFQRILQ3BfSU5LYVBSdnM"
     }
@@ -2270,6 +2271,7 @@
       "title": "\u3010Waltz Of the Wizard\u3011SHADOW WIZARD MONEY GANG"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-26T03:00:33Z",
       "scheduledStartTime": "2024-05-26T03:00:00Z",
       "activeLiveChatId": "Cg0KC090VWdZQjlSSVJZKicKGFVDb1duNnFrZHhDU0h2SkVsbWd2enIxZxILT3RVZ1lCOVJJUlk"
     }
@@ -2302,6 +2304,7 @@
       "title": "\u3010\u65e5\u672c\u8a9e\u96d1\u8ac7\u3011Passion \u65e5\u672c\u8a9e\u30bf\u30a4\u30e0\uff01With \u30b6 \u30e1\u30a4\u30c9 \u3010NIJISANJI EN | Klara Charmwood\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-26T03:00:13Z",
       "scheduledStartTime": "2024-05-26T03:00:00Z",
       "activeLiveChatId": "Cg0KC1A1VzdmR21tbTBVKicKGFVDUVl3SVVDTHFGb2luN2xIS21lUGpKdxILUDVXN2ZHbW1tMFU"
     }
@@ -2455,18 +2458,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-12T18:52:25Z",
       "activeLiveChatId": "Cg0KC1FqYk0xZjZoQjcwKicKGFVDVXI4TzZaOEp5QWc4M0tKYmNfdV9iURILUWpiTTFmNmhCNzA"
-    }
-  },
-  "QtaiSBYkUfE": {
-    "snippet": {
-      "publishedAt": "2024-05-18T07:41:38Z",
-      "channelId": "UC_t7wtScVLk85IaD9jYSRAA",
-      "title": "\u3010Zatsudan\u3011My first week COMPLETE! | Q&A\u3010Yume+ | Aimee\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-25T23:36:07Z",
-      "scheduledStartTime": "2024-05-25T23:30:00Z",
-      "activeLiveChatId": "Cg0KC1F0YWlTQllrVWZFKicKGFVDX3Q3d3RTY1ZMazg1SWFEOWpZU1JBQRILUXRhaVNCWWtVZkU"
     }
   },
   "R12MEKZ7S8c": {
@@ -2711,6 +2702,7 @@
       "title": "\u3010KARAOKE/\u7e26\u578b\u6b4c\u67a0\u3011\ud83c\udfb5 THE COMEBACK! I CAN SING AGAIN!!!! \ud83c\udfb5\u3010Reina Ronronea | globie\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-26T02:58:57Z",
       "scheduledStartTime": "2024-05-26T03:00:00Z",
       "activeLiveChatId": "Cg0KC1VfYXY0MEJkN2tJKicKGFVDVm1oZzR3Y1RWcGp5Q29LRFk1OW1ZdxILVV9hdjQwQmQ3a0k"
     }
@@ -3022,6 +3014,7 @@
       "title": "\u3010Diablo 4\u3011Mama Lilith, where you at?"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-26T02:56:52Z",
       "scheduledStartTime": "2024-05-26T03:00:00Z",
       "activeLiveChatId": "Cg0KC1d6dzFUV2p1R1lJKicKGFVDVDQxV25RWTNPMkY3T2JpMWhoUE95QRILV3p3MVRXanVHWUk"
     }
@@ -4555,6 +4548,7 @@
       "title": "DEBUT WAITING ROOM | Kenbishi Saya \u5263\u83f1\u54b2\u591c"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-26T02:56:44Z",
       "scheduledStartTime": "2024-05-26T03:00:00Z",
       "activeLiveChatId": "Cg0KC3B2MXZQX1hRUktzKicKGFVDdzBvMmtTdXItaXFtODJHTUtVbVZoURILcHYxdlBfWFFSS3M"
     }
@@ -5236,6 +5230,7 @@
       "title": "\u3010DEBUT 2.0\u3011No Loose Threads! \ud83e\udea1 \u3010Twisty Amanozako | NIJISANJI EN\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-26T03:01:45Z",
       "scheduledStartTime": "2024-05-26T03:00:00Z",
       "activeLiveChatId": "Cg0KC3gzbDh2ckxuM1JzKicKGFVDVUkxcXBqSlNFYmd6ZGx3bXBkVm1NdxILeDNsOHZyTG4zUnM"
     }
