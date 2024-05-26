@@ -598,6 +598,7 @@
       "title": "\u3010DEBUT STREAM\u3011There's this proverb we say about LOTUSes"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-26T02:05:31Z",
       "scheduledStartTime": "2024-05-26T02:00:00Z",
       "activeLiveChatId": "Cg0KCzVZUU1WdGY2MDJrKicKGFVDSUxRbDVnUkJNdndkLTk3LU01cExZURILNVlRTVZ0ZjYwMms"
     }
@@ -1018,6 +1019,7 @@
       "title": "I MAKE A GIANT CHOCOLATE HEART + SURPRISE INSIDE + ANNOUNCEMENT!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-26T02:07:22Z",
       "scheduledStartTime": "2024-05-26T02:00:00Z",
       "activeLiveChatId": "Cg0KC0NkTEhYbEt3dTBRKicKGFVDRmdYV1pPVVpBMm9ZSE5yNnFEbXNUURILQ2RMSFhsS3d1MFE"
     }
@@ -1765,6 +1767,7 @@
       "title": "\u3010Member's Chat\u3011Shall we make an anime bingo???"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-26T02:03:54Z",
       "scheduledStartTime": "2024-05-26T02:00:00Z",
       "activeLiveChatId": "Cg0KC0pOVkNIN1N4M3VBKicKGFVDMmhXRmxxTWV3NjFKeTZBOHp1NUh6URILSk5WQ0g3U3gzdUE"
     }
@@ -1787,6 +1790,7 @@
       "title": "KARAOKE OFFCOLLAB W/ @ShabelTonya"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-26T02:04:00Z",
       "scheduledStartTime": "2024-05-26T02:00:00Z",
       "activeLiveChatId": "Cg0KC0pZT01FX1huaE1ZKicKGFVDeUtzZy01N1hDOXB5SGJQN3Yza0NQURILSllPTUVfWG5oTVk"
     }
@@ -2731,18 +2735,6 @@
       "activeLiveChatId": "Cg0KC1Y0U3Bmdmw5ZjVvKicKGFVDc3d2ZDZfWVdtZDZyaVJrLThvVC1zQRILVjRTcGZ2bDlmNW8"
     }
   },
-  "V6Fd6JLS8Qc": {
-    "snippet": {
-      "publishedAt": "2024-05-26T00:45:02Z",
-      "channelId": "UCqlgtk9H_1GoWtvW8Vii38w",
-      "title": "\u3010???\u3011Uvaopun av zll olyl\u3010Hspjqh Kh Svuahuv |Nsvipl Nlu 2 Zvszaph\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-26T00:49:12Z",
-      "scheduledStartTime": "2024-05-26T00:47:00Z",
-      "activeLiveChatId": "Cg0KC1Y2RmQ2SkxTOFFjKicKGFVDcWxndGs5SF8xR29XdHZXOFZpaTM4dxILVjZGZDZKTFM4UWM"
-    }
-  },
   "VDJZSsFDl6s": {
     "snippet": {
       "publishedAt": "2024-04-16T17:11:37Z",
@@ -3512,6 +3504,7 @@
       "title": "\u3010STREET FIGHTER 6\u3011TRYING AKUMA (why is he so angry)\u3010NIJISANJI EN | Sonny Brisko\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-26T02:07:21Z",
       "scheduledStartTime": "2024-05-26T02:00:00Z",
       "activeLiveChatId": "Cg0KC2NWTTNaRUt0al80KicKGFVDdXVBYl83MlF6SzBNMVVTUE1FbDF5dxILY1ZNM1pFS3RqXzQ"
     }
@@ -4087,18 +4080,6 @@
       "activeLiveChatId": "Cg0KC2p2WVVWSUtaTVJRKicKGFVDR3V3WWxGZGRMaEN3akpyeFVZdXB4QRILanZZVVZJS1pNUlE"
     }
   },
-  "k5tKfYAWF7Y": {
-    "snippet": {
-      "publishedAt": "2024-05-25T18:21:15Z",
-      "channelId": "UCk4-LUmzFMETLt4Sn1J82Cw",
-      "title": "\u3010VERTICAL\u3011DAY 2 on SEASON 2 of COBBLEMON!! #shortslive \u3010KoziiChu\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-25T19:02:00Z",
-      "scheduledStartTime": "2024-05-25T19:00:00Z",
-      "activeLiveChatId": "Cg0KC2s1dEtmWUFXRjdZKicKGFVDazQtTFVtekZNRVRMdDRTbjFKODJDdxILazV0S2ZZQVdGN1k"
-    }
-  },
   "kZzywplXI8c": {
     "snippet": {
       "publishedAt": "2022-11-29T08:15:04Z",
@@ -4129,6 +4110,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-27T02:00:00Z",
       "activeLiveChatId": "Cg0KC2tnZ0RSemRCZjZFKicKGFVDYXNadnNrRkNfU0hzNkxYeDJfMjZjURILa2dnRFJ6ZEJmNkU"
+    }
+  },
+  "kyubalt": {
+    "snippet": {
+      "channelId": "kyubalt",
+      "title": "\u3010  detroit: become human w/ @akiajimargo \u3011 detroit become age gap - !essay + !neocities + !discord",
+      "channelTitle": "kyubalt"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-26T02:11:55Z",
+      "twitch": true
     }
   },
   "l3uqelUhGhU": {
@@ -4505,18 +4497,6 @@
       "activeLiveChatId": "Cg0KC3B4bTM3TUZRWl9FKicKGFVDSHhVdkFJWEhmRHpwVFcwMnY3UWFyZxILcHhtMzdNRlFaX0U"
     }
   },
-  "q26w7VcKcPE": {
-    "snippet": {
-      "publishedAt": "2024-05-25T18:16:37Z",
-      "channelId": "UCk4-LUmzFMETLt4Sn1J82Cw",
-      "title": "DAY 2 on SEASON 2 of COBBLEMON!! Mythical Monke Business... \ud83d\udc12\ud83d\udc12\u3010KoziiChu\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-25T18:56:56Z",
-      "scheduledStartTime": "2024-05-25T19:00:00Z",
-      "activeLiveChatId": "Cg0KC3EyNnc3VmNLY1BFKicKGFVDazQtTFVtekZNRVRMdDRTbjFKODJDdxILcTI2dzdWY0tjUEU"
-    }
-  },
   "q2Gb5JMp0k8": {
     "snippet": {
       "publishedAt": "2024-01-21T14:20:06Z",
@@ -4655,18 +4635,6 @@
       "actualStartTime": "2024-05-26T01:59:49Z",
       "scheduledStartTime": "2024-05-26T02:00:00Z",
       "activeLiveChatId": "Cg0KC3JET2dfVE14ZkFnKicKGFVDZ25mUFBiOUpJM2U5QTRjWEhuV2J5ZxILckRPZ19UTXhmQWc"
-    }
-  },
-  "rMbbqeq9KUs": {
-    "snippet": {
-      "publishedAt": "2024-05-21T14:18:56Z",
-      "channelId": "UCZl92wMipjYFc1Ulm9Yy65g",
-      "title": "\u3010Members Only\u3011 recording new alerts! \u3010Yuno Hanaki\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-26T00:01:39Z",
-      "scheduledStartTime": "2024-05-26T00:00:00Z",
-      "activeLiveChatId": "Cg0KC3JNYmJxZXE5S1VzKicKGFVDWmw5MndNaXBqWUZjMVVsbTlZeTY1ZxILck1iYnFlcTlLVXM"
     }
   },
   "rVHLt9-hkFE": {
@@ -5327,17 +5295,6 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC3lWUXJGazF0MzhRKicKGFVDUjZxaHNMcG42MldWeENCSzFka0xvdxILeVZRckZrMXQzOFE"
-    }
-  },
-  "yanchagogo": {
-    "snippet": {
-      "channelId": "yanchagogo",
-      "title": "\u3010 Yanchaversary \u30114 years of SCUFF (EN/TAG)",
-      "channelTitle": "YanchaGoGo"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-26T01:14:52Z",
-      "twitch": true
     }
   },
   "yccysErpZXk": {
