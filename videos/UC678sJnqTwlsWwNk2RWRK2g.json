@@ -172,7 +172,8 @@
     "snippet": {
       "publishedAt": "2024-04-21T10:47:12Z",
       "channelId": "UC678sJnqTwlsWwNk2RWRK2g",
-      "title": "\u3010FREE CHAT\u3011Schedule for Apr.29 - May.05\u3010Vilhelm Vanderbos | globie Gen 2 | Equinnox\u3011"
+      "title": "\u3010FREE CHAT\u3011Schedule for Apr.29 - May.05\u3010Vilhelm Vanderbos | globie Gen 2 | Equinnox\u3011",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2026-01-01T12:00:00Z",
@@ -489,6 +490,50 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-27T12:30:00Z",
       "activeLiveChatId": "Cg0KC0FFalN5b1hYQUNVKicKGFVDNjc4c0pucVR3bHNXd05rMlJXUksyZxILQUVqU3lvWFhBQ1U"
+    }
+  },
+  "SwgqN_cIaPw": {
+    "snippet": {
+      "publishedAt": "2024-05-26T10:10:10Z",
+      "channelId": "UC678sJnqTwlsWwNk2RWRK2g",
+      "title": "\u3010Art Stream\u3011Weekend Art and Zatsu\u3010Vilhelm Vanderbos | globie Gen 2 | Equinnox\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-01T12:30:00Z",
+      "activeLiveChatId": "Cg0KC1N3Z3FOX2NJYVB3KicKGFVDNjc4c0pucVR3bHNXd05rMlJXUksyZxILU3dncU5fY0lhUHc"
+    }
+  },
+  "VTQuAUDgfMY": {
+    "snippet": {
+      "publishedAt": "2024-05-26T10:07:42Z",
+      "channelId": "UC678sJnqTwlsWwNk2RWRK2g",
+      "title": "\u3010Art Stream\u3011Let's make another portrait of a senpai!\u3010Vilhelm Vanderbos | globie Gen 2 | Equinnox\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-30T17:00:00Z",
+      "activeLiveChatId": "Cg0KC1ZUUXVBVURnZk1ZKicKGFVDNjc4c0pucVR3bHNXd05rMlJXUksyZxILVlRRdUFVRGdmTVk"
+    }
+  },
+  "zefvOv6GJpU": {
+    "snippet": {
+      "publishedAt": "2024-05-24T15:49:26Z",
+      "channelId": "UC678sJnqTwlsWwNk2RWRK2g",
+      "title": "\u3010Another Code Recollection\u3011Part 2 Tracing more memories\u3010Vilhelm Vanderbos | globie Gen 2 | Equinnox\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-31T17:00:00Z",
+      "activeLiveChatId": "Cg0KC3plZnZPdjZHSnBVKicKGFVDNjc4c0pucVR3bHNXd05rMlJXUksyZxILemVmdk92NkdKcFU"
+    }
+  },
+  "b7kow7FJIfc": {
+    "snippet": {
+      "publishedAt": "2024-05-24T15:25:04Z",
+      "channelId": "UC678sJnqTwlsWwNk2RWRK2g",
+      "title": "\u3010Another Code Recollection\u3011Tracing lost memories.\u3010Vilhelm Vanderbos | globie Gen 2 | Equinnox\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-29T12:30:00Z",
+      "activeLiveChatId": "Cg0KC2I3a293N0ZKSWZjKicKGFVDNjc4c0pucVR3bHNXd05rMlJXUksyZxILYjdrb3c3RkpJZmM"
     }
   }
 }
