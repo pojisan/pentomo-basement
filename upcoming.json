@@ -1664,6 +1664,7 @@
       "title": "\u3010HADES II\u3011PRO GAMER MOVES ONLY. 100% no fail \ud83d\udc85\u2728"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-26T17:58:54Z",
       "scheduledStartTime": "2024-05-26T18:00:00Z",
       "activeLiveChatId": "Cg0KC0dpOVpXUjNjNlgwKicKGFVDMEdEeVdORWpzeGdLWF81elJzLWg1dxILR2k5WldSM2M2WDA"
     }
@@ -3319,18 +3320,6 @@
       "activeLiveChatId": "Cg0KC1lEaThDT2NZVjRBKicKGFVDZ0lmTHBRdmVsbG9EaThJMFljYndwZxILWURpOENPY1lWNEE"
     }
   },
-  "YG5eYCRijAA": {
-    "snippet": {
-      "publishedAt": "2024-05-26T09:58:49Z",
-      "channelId": "UCMmy_EmxnYQ8aar8fNZrumw",
-      "title": "\u3010Handcamera\u3011trying japanese snacks (tokyo treat 3)"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-26T16:02:36Z",
-      "scheduledStartTime": "2024-05-26T16:00:00Z",
-      "activeLiveChatId": "Cg0KC1lHNWVZQ1JpakFBKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILWUc1ZVlDUmlqQUE"
-    }
-  },
   "YLEXrOtZhZg": {
     "snippet": {
       "publishedAt": "2024-03-04T06:01:08Z",
@@ -3889,6 +3878,17 @@
       "activeLiveChatId": "Cg0KC2ViZWhXakVBd2I0KicKGFVDbjJMc29zdTgyeUU5UFVtVkxGQlpCURILZWJlaFdqRUF3YjQ"
     }
   },
+  "ed1yjRuH8e0": {
+    "snippet": {
+      "publishedAt": "2024-05-26T17:58:33Z",
+      "channelId": "UCRlZaszk84YXjRtdPCxqjvw",
+      "title": "\u3010ELDEN RING\u3011Let's try this again.\u3010\u6b4c\u7f8e\u9cf4\u30af\u30e9\u30e9 / Phase Connect\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-01T07:00:00Z",
+      "activeLiveChatId": "Cg0KC2VkMXlqUnVIOGUwKicKGFVDUmxaYXN6azg0WVhqUnRkUEN4cWp2dxILZWQxeWpSdUg4ZTA"
+    }
+  },
   "eqC676SVXJI": {
     "snippet": {
       "publishedAt": "2024-05-25T13:17:47Z",
@@ -4123,6 +4123,17 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC2hpc1drOWRQeHhrKicKGFVDVmpwRlAxX055M1BVb0UyNnI0SVRhdxILaGlzV2s5ZFB4eGs"
+    }
+  },
+  "hiyorisinn": {
+    "snippet": {
+      "channelId": "hiyorisinn",
+      "title": "let's finish grimrock!!! probably! / !streamloots !asmr",
+      "channelTitle": "HiyorisInn"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-26T17:52:33Z",
+      "twitch": true
     }
   },
   "hjGParKxy10": {
