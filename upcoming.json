@@ -845,7 +845,7 @@
       "title": "hehehe announcement"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-26T05:30:00Z",
+      "scheduledStartTime": "2024-05-26T05:00:00Z",
       "activeLiveChatId": "Cg0KC0FFQi1zX0MtZVIwKicKGFVDRmdYV1pPVVpBMm9ZSE5yNnFEbXNUURILQUVCLXNfQy1lUjA",
       "premiere": true
     }
@@ -2449,6 +2449,17 @@
       "activeLiveChatId": "Cg0KC1F0YWlTQllrVWZFKicKGFVDX3Q3d3RTY1ZMazg1SWFEOWpZU1JBQRILUXRhaVNCWWtVZkU"
     }
   },
+  "RLpLQ1Zx8Lc": {
+    "snippet": {
+      "publishedAt": "2024-05-26T02:19:15Z",
+      "channelId": "UCJ4pvspwjnM-hSXqkoIuMGQ",
+      "title": "Dinosaur 2.0!!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-26T17:00:00Z",
+      "activeLiveChatId": "Cg0KC1JMcExRMVp4OExjKicKGFVDSjRwdnNwd2puTS1oU1hxa29JdU1HURILUkxwTFExWng4TGM"
+    }
+  },
   "RX56nmdEcRE": {
     "snippet": {
       "publishedAt": "2023-08-16T15:36:40Z",
@@ -3131,6 +3142,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-03-31T21:00:00Z",
       "activeLiveChatId": "Cg0KC1lMRVhyT3RaaFpnKicKGFVDQjdxeW5KOXFwMGNOV1JGZUJhd0I0QRILWUxFWHJPdFpoWmc"
+    }
+  },
+  "YTU414Bxlns": {
+    "snippet": {
+      "publishedAt": "2024-05-26T02:21:23Z",
+      "channelId": "UCJ4pvspwjnM-hSXqkoIuMGQ",
+      "title": "Dinosaur Horror?! [Oakwood]"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-27T17:00:00Z",
+      "activeLiveChatId": "Cg0KC1lUVTQxNEJ4bG5zKicKGFVDSjRwdnNwd2puTS1oU1hxa29JdU1HURILWVRVNDE0QnhsbnM"
     }
   },
   "YZC6Un8MH7o": {
@@ -3877,18 +3899,6 @@
       "activeLiveChatId": "Cg0KC2hZWl9sZ3R1YWVrKicKGFVDcjhOWjlqT3JyVmNJUm5hSFpDakpVZxILaFlaX2xndHVhZWs"
     }
   },
-  "hcBOISI-WH8": {
-    "snippet": {
-      "publishedAt": "2024-05-21T08:24:11Z",
-      "channelId": "UClxj3GlGphZVgd1SLYhZKmg",
-      "title": "Get to know the Gen 2 girls! - Chronicles first collab!"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-26T00:57:45Z",
-      "scheduledStartTime": "2024-05-26T01:00:00Z",
-      "activeLiveChatId": "Cg0KC2hjQk9JU0ktV0g4KicKGFVDbHhqM0dsR3BoWlZnZDFTTFloWkttZxILaGNCT0lTSS1XSDg"
-    }
-  },
   "hisWk9dPxxk": {
     "snippet": {
       "publishedAt": "2024-05-11T01:49:10Z",
@@ -3980,6 +3990,7 @@
       "title": "\u3010ANIMAL CROSSING\u3011Chatting and Decoration\u3010NIJISANJI EN | Vantacrow Bringer\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-26T02:12:44Z",
       "scheduledStartTime": "2024-05-26T02:00:00Z",
       "activeLiveChatId": "Cg0KC2kzUWdSd1pSR1BzKicKGFVDcFlmNkM5UXNQX0JSZjk3dkx1WGxJQRILaTNRZ1J3WlJHUHM"
     }
@@ -4783,7 +4794,7 @@
       "title": "Sweating in my new outfit \ud83e\udd75"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-26T02:00:00Z",
+      "scheduledStartTime": "2024-05-26T02:30:00Z",
       "activeLiveChatId": "Cg0KC3NzRjJScHF4MVBRKicKGFVDcHp4Wlc1a2doR25PNVRtQUZKUUFWdxILc3NGMlJwcXgxUFE"
     }
   },
