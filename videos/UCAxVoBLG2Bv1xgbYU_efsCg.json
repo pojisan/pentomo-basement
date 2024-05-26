@@ -21,8 +21,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-25T23:57:17Z",
-      "scheduledStartTime": "2024-05-26T00:00:00Z",
-      "activeLiveChatId": "Cg0KC0huNHF6bXVBckdrKicKGFVDQXhWb0JMRzJCdjF4Z2JZVV9lZnNDZxILSG40cXptdUFyR2s"
+      "actualEndTime": "2024-05-26T00:42:01Z",
+      "scheduledStartTime": "2024-05-26T00:00:00Z"
     }
   },
   "AlAJqwXZr1M": {
@@ -32,6 +32,7 @@
       "title": "\u30e9\u30d6\u30ab\uff1f (Love ka?) - \u67ca\u30ad\u30e9\u30a4\u3010Daiya Fortuna\u3011COVER"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-26T00:50:06Z",
       "scheduledStartTime": "2024-05-26T00:50:00Z",
       "activeLiveChatId": "Cg0KC0FsQUpxd1hacjFNKicKGFVDQXhWb0JMRzJCdjF4Z2JZVV9lZnNDZxILQWxBSnF3WFpyMU0",
       "premiere": true
