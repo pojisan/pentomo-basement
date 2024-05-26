@@ -7486,7 +7486,8 @@
     "snippet": {
       "publishedAt": "2024-05-14T00:01:25Z",
       "channelId": "UCI4PLfuiL9jFOpsEIA20Kjg",
-      "title": "[Awkward First Date] Episode 2: Druskie"
+      "title": "[Awkward First Date] Episode 2: Druskie",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-27T00:00:00Z",
@@ -7588,6 +7589,18 @@
       "publishedAt": "2024-05-23T11:01:08Z",
       "channelId": "UCI4PLfuiL9jFOpsEIA20Kjg",
       "title": "DnD Moment: Archibald's Ring of Devil's Sight"
+    }
+  },
+  "X6nczo9ZWmM": {
+    "snippet": {
+      "publishedAt": "2024-05-26T21:28:45Z",
+      "channelId": "UCI4PLfuiL9jFOpsEIA20Kjg",
+      "title": "Im back and i remember why i hate breaks. [Just Chatting]"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-26T21:31:18Z",
+      "scheduledStartTime": "2024-05-26T21:30:00Z",
+      "activeLiveChatId": "Cg0KC1g2bmN6bzlaV21NKicKGFVDSTRQTGZ1aUw5akZPcHNFSUEyMEtqZxILWDZuY3pvOVpXbU0"
     }
   }
 }
