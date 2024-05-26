@@ -1938,9 +1938,10 @@
     "snippet": {
       "publishedAt": "2024-05-26T02:36:24Z",
       "channelId": "UC1ZRXoTQUwZtKnpOfJwGNPw",
-      "title": "THE ULTIMATE THRILLER GAME! ?"
+      "title": "GET IN! WE'RE PLAYING MY FAVORITE GAME!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-26T12:00:53Z",
       "scheduledStartTime": "2024-05-26T12:00:00Z",
       "activeLiveChatId": "Cg0KC0t0UXhiTXVsQTE0KicKGFVDMVpSWG9UUVV3WnRLbnBPZkp3R05QdxILS3RReGJNdWxBMTQ"
     }
@@ -2442,6 +2443,7 @@
       "title": "\u3010SLEEPY ZATSU\u3011  I'm back from Japan!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-26T12:00:58Z",
       "scheduledStartTime": "2024-05-26T12:00:00Z",
       "activeLiveChatId": "Cg0KC1FZVk1aUkhYeUprKicKGFVDYnJiRktGaHlIRDRiTUpiRWNYWnoxZxILUVlWTVpSSFh5Sms"
     }
@@ -4158,6 +4160,17 @@
       "activeLiveChatId": "Cg0KC2tnZ0RSemRCZjZFKicKGFVDYXNadnNrRkNfU0hzNkxYeDJfMjZjURILa2dnRFJ6ZEJmNkU"
     }
   },
+  "kirispica": {
+    "snippet": {
+      "channelId": "kirispica",
+      "title": "I'm back from Japan!!  \u3010Kirispica | V-Dere\u3011",
+      "channelTitle": "kirispica"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-26T12:00:32Z",
+      "twitch": true
+    }
+  },
   "l3uqelUhGhU": {
     "snippet": {
       "publishedAt": "2024-03-22T18:06:38Z",
@@ -4946,6 +4959,7 @@
       "title": "\u3010 WUTHERING WAVES \u3011playing a lil bit of valorant before WuWa!!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-26T11:59:49Z",
       "scheduledStartTime": "2024-05-26T12:00:00Z",
       "activeLiveChatId": "Cg0KC3RWM21qS01Jdl9nKicKGFVDTEtVWDY1RFV5blgzYXpYakJGaDJDQRILdFYzbWpLTUl2X2c"
     }
