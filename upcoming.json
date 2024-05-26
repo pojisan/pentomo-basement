@@ -779,6 +779,7 @@
       "title": "\u3010 WUTHERING WAVES \u3011help i might get addicted to this game"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-26T08:02:46Z",
       "scheduledStartTime": "2024-05-26T08:00:00Z",
       "activeLiveChatId": "Cg0KCzhuM0VkT2trR1ZFKicKGFVDTEtVWDY1RFV5blgzYXpYakJGaDJDQRILOG4zRWRPa2tHVkU"
     }
@@ -833,6 +834,7 @@
       "title": "JUST DANCE IN CHIBI!!!!!\u3010Maria Marionette | NIJISANJI EN\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-26T08:03:27Z",
       "scheduledStartTime": "2024-05-26T08:00:00Z",
       "activeLiveChatId": "Cg0KCzlkcW5OQ0ttZC1VKicKGFVDd2FTOF9TN2tNaUtBM2l6bFRXSGJRZxILOWRxbk5DS21kLVU"
     }
@@ -1877,6 +1879,17 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC0tVYTFTbTVtU0c0KicKGFVDa2lVQnlCQ0YxYU9pUmQxNnhBbFBNZxILS1VhMVNtNW1TRzQ"
+    }
+  },
+  "KZg2gCPE34k": {
+    "snippet": {
+      "publishedAt": "2024-05-26T08:09:01Z",
+      "channelId": "UC-W-yaVIjqkXoh6dZ6_TcMA",
+      "title": "\u3010CHIT CHAT\u3011mmmm"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-26T09:00:00Z",
+      "activeLiveChatId": "Cg0KC0taZzJnQ1BFMzRrKicKGFVDLVcteWFWSWpxa1hvaDZkWjZfVGNNQRILS1pnMmdDUEUzNGs"
     }
   },
   "Kh3gWoVxfq0": {
@@ -3058,7 +3071,9 @@
       "title": "\u3010MHW:IB\uff0f\u30e2\u30f3\u30cf\u30f3\u30ef\u30fc\u30eb\u30c9\u3011\u3042\u304b\u3074\u3083\u3068\u30e2\u30f3\u30cf\u30f3\u30b3\u30e9\u30dc\uff01\u5927\u30ad\u30e3\u30ea\u30fc\u7de8\uff08\u79c1\u304c\u3059\u308b\u5074\uff09\u3010\u77f3\u795e\u306e\u305e\u307f\uff0f\u7345\u5b50\u5802\u3042\u304b\u308a\uff0f\u306b\u3058\u3055\u3093\u3058\u6240\u5c5e\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-26T08:00:00Z"
+      "actualStartTime": "2024-05-26T08:10:58Z",
+      "scheduledStartTime": "2024-05-26T08:00:00Z",
+      "activeLiveChatId": "Cg0KC1lQLUpGc0VXYmtrKicKGFVDdExmQV9xVXFDSnRqWEpNMlpSX2tlZxILWVAtSkZzRVdia2s"
     }
   },
   "YTU414Bxlns": {
@@ -4671,18 +4686,6 @@
       "activeLiveChatId": "Cg0KC3QySFR6b1ZXTTdZKicKGFVDRndjRUlzanZpOVhFdnBHeDZpd0hwdxILdDJIVHpvVldNN1k"
     }
   },
-  "t675xX0bt98": {
-    "snippet": {
-      "publishedAt": "2024-05-26T03:50:13Z",
-      "channelId": "UCqyL0oB2jl-5GpSg-GWZ_gw",
-      "title": "\u3010ZATSUDAN\u3011Guerilla Beach Episode!\u3010Kou Mariya | V4Mirai | ENVtuber\u3011#shortsfeed #shorts"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-26T04:03:38Z",
-      "scheduledStartTime": "2024-05-26T04:00:00Z",
-      "activeLiveChatId": "Cg0KC3Q2NzV4WDBidDk4KicKGFVDcXlMMG9CMmpsLTVHcFNnLUdXWl9ndxILdDY3NXhYMGJ0OTg"
-    }
-  },
   "tOyjgae8Rfk": {
     "snippet": {
       "publishedAt": "2024-04-05T05:11:41Z",
@@ -5160,7 +5163,7 @@
   "zeusmythosvt": {
     "snippet": {
       "channelId": "zeusmythosvt",
-      "title": "\u300c \ud83c\udf29\ufe0f WUTHERING WAVES \ud83c\udf29\ufe0f \u300d YAPPIN' A BIT BEFORE GARTIC PHONE + SPLATOON 3 w/ COMMUNITY LATER \u26a1 !discord !throne !lurk !daki !uwu !GS",
+      "title": "\u300c \ud83c\udf29\ufe0f SPLATOON 3 \ud83c\udf29\ufe0f \u300d PLAYING SPLATOON 3 WITH COMMUNITY \u26a1 !discord !throne !lurk !daki !uwu !GS",
       "channelTitle": "ZeusMythosVT"
     },
     "liveStreamingDetails": {
