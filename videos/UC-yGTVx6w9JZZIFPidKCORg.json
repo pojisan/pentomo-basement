@@ -180,7 +180,8 @@
     "snippet": {
       "publishedAt": "2024-05-22T11:24:48Z",
       "channelId": "UC-yGTVx6w9JZZIFPidKCORg",
-      "title": "\u300eRADIOS KARAOKE / UNARCHIVED\u300fSongs from the Radio by Radios\u300eLauren Radios | OshiLink\u300f"
+      "title": "\u300eRADIOS KARAOKE / UNARCHIVED\u300fSongs from the Radio by Radios\u300eLauren Radios | OshiLink\u300f",
+      "private": true
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-25T23:04:23Z",
@@ -207,7 +208,8 @@
       "title": "\u300e SHADOW OF THE COLOSSUS\u300fThis Story is a Beautiful Tragedy\u300eLauren Radios | OshiLink\u300f"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-26T23:00:00Z"
+      "scheduledStartTime": "2024-05-26T23:00:00Z",
+      "activeLiveChatId": "Cg0KC2ZmRUE1OWlXcUNrKicKGFVDLXlHVFZ4Nnc5SlpaSUZQaWRLQ09SZxILZmZFQTU5aVdxQ2s"
     }
   }
 }
