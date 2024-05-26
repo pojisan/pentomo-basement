@@ -39,7 +39,8 @@
     "snippet": {
       "publishedAt": "2024-05-22T14:28:59Z",
       "channelId": "UCHuVgnOGtDN9H2p4VrlD62A",
-      "title": "\u3010PROJECT VERSES\u3011Video watching!! Live on twitch"
+      "title": "\u3010PROJECT VERSES\u3011Video watching!! Live on twitch",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-25T10:30:00Z",
@@ -50,11 +51,37 @@
     "snippet": {
       "publishedAt": "2024-05-22T14:41:15Z",
       "channelId": "UCHuVgnOGtDN9H2p4VrlD62A",
-      "title": "\u3010PROJECT VERSES\u3011Collab with @FionnafonEngels playing Phogs! Live on twitch"
+      "title": "\u3010PROJECT VERSES\u3011Collab with @FionnafonEngels playing Phogs! Live on twitch",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-24T17:00:00Z",
       "activeLiveChatId": "Cg0KC1Jya3BzSjNxazFrKicKGFVDSHVWZ25PR3RETjlIMnA0VnJsRDYyQRILUnJrcHNKM3FrMWs"
+    }
+  },
+  "-R6QE97xUnk": {
+    "snippet": {
+      "publishedAt": "2024-05-26T18:57:23Z",
+      "channelId": "UCHuVgnOGtDN9H2p4VrlD62A",
+      "title": "\u3010PROJECT VERSES\u3011 Rimworld more breeding!!!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-28T10:30:00Z",
+      "activeLiveChatId": "Cg0KCy1SNlFFOTd4VW5rKicKGFVDSHVWZ25PR3RETjlIMnA0VnJsRDYyQRILLVI2UUU5N3hVbms"
+    }
+  },
+  "1lVc9iUFBC0": {
+    "snippet": {
+      "publishedAt": "2024-05-26T18:54:20Z",
+      "channelId": "UCHuVgnOGtDN9H2p4VrlD62A",
+      "title": "Playing flash games and playing rimworld! \u3010PROJECT VERSES\u3011"
+    }
+  },
+  "iinOgO8Qpxg": {
+    "snippet": {
+      "publishedAt": "2024-05-26T18:50:51Z",
+      "channelId": "UCHuVgnOGtDN9H2p4VrlD62A",
+      "title": "Playing Phogs with @FionnafonEngels ! BARK BARK \u3010PROJECT VERSES\u3011"
     }
   }
 }
