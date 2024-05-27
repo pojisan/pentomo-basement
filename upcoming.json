@@ -1117,7 +1117,7 @@
       "title": "\u3010LIVE \ud83d\udd34 3DIO Bath RP ASMR\u3011Moonlit Bath & Melodies\u3010Alias Anono | V4Mirai | ENVtuber\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-29T02:00:00Z",
+      "scheduledStartTime": "2024-05-28T18:00:00Z",
       "activeLiveChatId": "Cg0KC0FDb2RZNExXRkZFKicKGFVDRVk5Q25TSDBuMFFLbVkyUS1PSDdadxILQUNvZFk0TFdGRkU"
     }
   },
@@ -3816,18 +3816,6 @@
       "activeLiveChatId": "Cg0KC1lMRVhyT3RaaFpnKicKGFVDQjdxeW5KOXFwMGNOV1JGZUJhd0I0QRILWUxFWHJPdFpoWmc"
     }
   },
-  "YTU414Bxlns": {
-    "snippet": {
-      "publishedAt": "2024-05-26T02:21:23Z",
-      "channelId": "UCJ4pvspwjnM-hSXqkoIuMGQ",
-      "title": "Dinosaur Horror?! [Oakwood]"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-27T16:59:48Z",
-      "scheduledStartTime": "2024-05-27T17:00:00Z",
-      "activeLiveChatId": "Cg0KC1lUVTQxNEJ4bG5zKicKGFVDSjRwdnNwd2puTS1oU1hxa29JdU1HURILWVRVNDE0QnhsbnM"
-    }
-  },
   "YZC6Un8MH7o": {
     "snippet": {
       "publishedAt": "2024-05-25T22:21:58Z",
@@ -4324,18 +4312,6 @@
       "activeLiveChatId": "Cg0KC2NaVWIyZmM0VDBzKicKGFVDSjRwdnNwd2puTS1oU1hxa29JdU1HURILY1pVYjJmYzRUMHM"
     }
   },
-  "chQjBBBsMwQ": {
-    "snippet": {
-      "publishedAt": "2024-05-27T17:01:50Z",
-      "channelId": "UCQY5mpFtPyWJZHbjaxmHnzw",
-      "title": "\u3010Mahjong Soul\u3011aaaa\u3010V&U | GEN4\u3011#mahjongsoul #shortsfeed #shortslive #shortsgaming #shorts"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-27T17:11:30Z",
-      "scheduledStartTime": "2024-05-27T17:00:00Z",
-      "activeLiveChatId": "Cg0KC2NoUWpCQkJzTXdRKicKGFVDUVk1bXBGdFB5V0paSGJqYXhtSG56dxILY2hRakJCQnNNd1E"
-    }
-  },
   "cti_Z-YRgnI": {
     "snippet": {
       "publishedAt": "2024-05-26T07:06:09Z",
@@ -4595,18 +4571,6 @@
       "activeLiveChatId": "Cg0KC2ZFY2dfNFlxNDJZKicKGFVDVi05ZGd0VlhIbXF2elk5cWR2b0dZQRILZkVjZ180WXE0Mlk"
     }
   },
-  "fdiJeiK_L2E": {
-    "snippet": {
-      "publishedAt": "2024-05-27T12:17:39Z",
-      "channelId": "UCQY5mpFtPyWJZHbjaxmHnzw",
-      "title": "\u3010Mahjong Soul\u3011please... let me rank up\u3010V&U | GEN4\u3011#mahjongsoul"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-27T17:10:52Z",
-      "scheduledStartTime": "2024-05-27T17:00:00Z",
-      "activeLiveChatId": "Cg0KC2ZkaUplaUtfTDJFKicKGFVDUVk1bXBGdFB5V0paSGJqYXhtSG56dxILZmRpSmVpS19MMkU"
-    }
-  },
   "fdka1BSqnXY": {
     "snippet": {
       "publishedAt": "2024-04-10T10:00:56Z",
@@ -4820,6 +4784,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-24T14:00:00Z",
       "activeLiveChatId": "Cg0KC2hZWl9sZ3R1YWVrKicKGFVDcjhOWjlqT3JyVmNJUm5hSFpDakpVZxILaFlaX2xndHVhZWs"
+    }
+  },
+  "haruna": {
+    "snippet": {
+      "channelId": "haruna",
+      "title": "lil bit of gaming before i need to work again....",
+      "channelTitle": "haruna"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-27T19:38:11Z",
+      "twitch": true
     }
   },
   "hisWk9dPxxk": {
