@@ -63,7 +63,7 @@
     "snippet": {
       "publishedAt": "2024-04-15T16:24:10Z",
       "channelId": "UC2Ne6dDcFxnM2hCBLii3IUg",
-      "title": "\u3010STREAM SCHEDULE\u3011May 20th - May 26th \u3010Dr.NOVA(e) | V4Mirai | ENVtuber\u3011"
+      "title": "\u3010STREAM SCHEDULE\u3011May 27th - June 2nd \u3010Dr.NOVA(e) | V4Mirai | ENVtuber\u3011"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-10-31T03:00:00Z",
@@ -514,6 +514,17 @@
       "actualStartTime": "2024-05-26T20:00:21Z",
       "actualEndTime": "2024-05-26T22:27:05Z",
       "scheduledStartTime": "2024-05-26T20:00:00Z"
+    }
+  },
+  "6CAPqgvXoXE": {
+    "snippet": {
+      "publishedAt": "2024-05-27T15:18:08Z",
+      "channelId": "UC2Ne6dDcFxnM2hCBLii3IUg",
+      "title": "\u3010The Ratchelor\u3011A Rat Dating Sim, for lonely Rats.\u3010Dr.NOVA(e) | V4Mirai | ENVtuber\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-27T20:00:00Z",
+      "activeLiveChatId": "Cg0KCzZDQVBxZ3ZYb1hFKicKGFVDMk5lNmREY0Z4bk0yaENCTGlpM0lVZxILNkNBUHFndlhvWEU"
     }
   }
 }
