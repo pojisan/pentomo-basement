@@ -7971,11 +7971,24 @@
     "snippet": {
       "publishedAt": "2024-05-27T05:01:23Z",
       "channelId": "UCBJFsaCvgBa1a9BnEaxu97Q",
-      "title": "METHOD - Rita Kamishiro & WUNDER RiKU [MV] \u3010Sparkle Fansong\u3011"
+      "title": "METHOD - Rita Kamishiro & WUNDER RiKU [MV] \u3010Sparkle Fansong\u3011",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-27T20:00:00Z",
       "activeLiveChatId": "Cg0KC0o1U1BpbmRBWjBBKicKGFVDQkpGc2FDdmdCYTFhOUJuRWF4dTk3URILSjVTUGluZEFaMEE",
+      "premiere": true
+    }
+  },
+  "tHZfciupjwI": {
+    "snippet": {
+      "publishedAt": "2024-05-27T14:54:27Z",
+      "channelId": "UCBJFsaCvgBa1a9BnEaxu97Q",
+      "title": "METHOD - Rita Kamishiro & WUNDER RiKU [MV] \u3010Sparkle Fansong\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-27T20:00:00Z",
+      "activeLiveChatId": "Cg0KC3RIWmZjaXVwandJKicKGFVDQkpGc2FDdmdCYTFhOUJuRWF4dTk3URILdEhaZmNpdXBqd0k",
       "premiere": true
     }
   }
