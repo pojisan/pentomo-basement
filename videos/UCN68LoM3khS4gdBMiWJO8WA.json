@@ -5738,8 +5738,20 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-27T02:01:39Z",
-      "scheduledStartTime": "2024-05-27T02:00:00Z",
-      "activeLiveChatId": "Cg0KC0RVNXdsVEtYUE4wKicKGFVDTjY4TG9NM2toUzRnZEJNaVdKTzhXQRILRFU1d2xUS1hQTjA"
+      "actualEndTime": "2024-05-27T03:03:25Z",
+      "scheduledStartTime": "2024-05-27T02:00:00Z"
+    }
+  },
+  "E_xIkOUuU_M": {
+    "snippet": {
+      "publishedAt": "2024-05-27T03:06:08Z",
+      "channelId": "UCN68LoM3khS4gdBMiWJO8WA",
+      "title": "AIA'S 2ND BIRTHDAY COUNTDOWN! #AIADAY2024 (part 2 bc obs crashed) \u3010NIJISANJI EN | Aia Amare \u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-27T03:09:28Z",
+      "scheduledStartTime": "2024-05-27T03:05:00Z",
+      "activeLiveChatId": "Cg0KC0VfeElrT1V1VV9NKicKGFVDTjY4TG9NM2toUzRnZEJNaVdKTzhXQRILRV94SWtPVXVVX00"
     }
   }
 }
