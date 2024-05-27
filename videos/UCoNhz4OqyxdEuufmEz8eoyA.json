@@ -313,8 +313,20 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-27T13:59:24Z",
-      "scheduledStartTime": "2024-05-27T14:00:00Z",
-      "activeLiveChatId": "Cg0KCzRhTkM1WlBNdlI4KicKGFVDb05oejRPcXl4ZEV1dWZtRXo4ZW95QRILNGFOQzVaUE12Ujg"
+      "actualEndTime": "2024-05-27T15:51:23Z",
+      "scheduledStartTime": "2024-05-27T14:00:00Z"
+    }
+  },
+  "jyd2y3x1Klc": {
+    "snippet": {
+      "publishedAt": "2024-05-27T15:49:39Z",
+      "channelId": "UCoNhz4OqyxdEuufmEz8eoyA",
+      "title": "love and deep simulator"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-27T15:52:15Z",
+      "scheduledStartTime": "2024-05-27T15:50:00Z",
+      "activeLiveChatId": "Cg0KC2p5ZDJ5M3gxS2xjKicKGFVDb05oejRPcXl4ZEV1dWZtRXo4ZW95QRILanlkMnkzeDFLbGM"
     }
   }
 }
