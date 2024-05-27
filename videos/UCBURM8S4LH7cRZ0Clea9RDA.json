@@ -8346,8 +8346,18 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-27T01:13:34Z",
       "actualEndTime": "2024-05-27T05:50:50Z",
-      "scheduledStartTime": "2024-05-27T01:15:00Z",
-      "activeLiveChatId": "Cg0KC2FiVE1sQm4wUktnKicKGFVDQlVSTThTNExIN2NSWjBDbGVhOVJEQRILYWJUTWxCbjBSS2c"
+      "scheduledStartTime": "2024-05-27T01:15:00Z"
+    }
+  },
+  "-qxJXBsBFtU": {
+    "snippet": {
+      "publishedAt": "2024-05-27T06:11:23Z",
+      "channelId": "UCBURM8S4LH7cRZ0Clea9RDA",
+      "title": "\u3010STELLAR BLADE\u3011I got ONE MORE IN ME\u3010NIJISANJI EN | Reimu Endou\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-27T14:00:00Z",
+      "activeLiveChatId": "Cg0KCy1xeEpYQnNCRnRVKicKGFVDQlVSTThTNExIN2NSWjBDbGVhOVJEQRILLXF4SlhCc0JGdFU"
     }
   }
 }
