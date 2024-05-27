@@ -1096,36 +1096,6 @@
         "tv": "tarawavt"
       }
     },
-    "V-SEA Official": {
-      "Gen 0 (v-sea)": {
-        "Xinyi": {
-          "yt": "UCC8rgbLSCXs7nKbbMiOyZyg",
-          "tv": "xinyidoki"
-        },
-        "Usa": {
-          "yt": "UCxIuBwvl3SvIwWx49vd-LUw",
-          "tv": "usaahmya"
-        },
-        "Haru": {
-          "yt": "UCz28IW2vB0Doszt3kucVoeQ",
-          "tv": "haruminnie"
-        }
-      },
-      "Gen 1 (v-sea)": {
-        "Sauna": {
-          "yt": "UCwj_PHv3a41sVuOCJzplJdg"
-        },
-        "Tania": {
-          "yt": "UCahgW0Fy7HwUBxLSx3LzIcg"
-        },
-        "Minmi": {
-          "yt": "UCCxGgjAnCeT6K3uApxAeY_g"
-        },
-        "Dani": {
-          "yt": "UCWLYnuXAOLb2rd4YlLQ748A"
-        }
-      }
-    },
     "V4Mirai": {
       "V4M Official": {
         "yt": "UCffASWaVk1PFnpC-gTvuJgw"
@@ -1242,6 +1212,36 @@
         },
         "Furi": {
           "yt": "UCb8dLvDvmZ-d92KEy_9oWog"
+        }
+      }
+    },
+    "V-SEA": {
+      "Gen 0 (v-sea)": {
+        "Xinyi": {
+          "yt": "UCC8rgbLSCXs7nKbbMiOyZyg",
+          "tv": "xinyidoki"
+        },
+        "Usa": {
+          "yt": "UCxIuBwvl3SvIwWx49vd-LUw",
+          "tv": "usaahmya"
+        },
+        "Haru": {
+          "yt": "UCz28IW2vB0Doszt3kucVoeQ",
+          "tv": "haruminnie"
+        }
+      },
+      "Gen 1 (v-sea)": {
+        "Sauna": {
+          "yt": "UCwj_PHv3a41sVuOCJzplJdg"
+        },
+        "Tania": {
+          "yt": "UCahgW0Fy7HwUBxLSx3LzIcg"
+        },
+        "Minmi": {
+          "yt": "UCCxGgjAnCeT6K3uApxAeY_g"
+        },
+        "Dani": {
+          "yt": "UCWLYnuXAOLb2rd4YlLQ748A"
         }
       }
     },
