@@ -333,6 +333,7 @@
       "title": "\u3010ASMR/KU100\u3011Most Immersive Triggers For Instant Sleep!  [Heartbeat/Oil Massage/Whispering/\u6700\u5f37\u306e\u30c8\u30ea\u30ac\u30fc]"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-27T02:33:20Z",
       "scheduledStartTime": "2024-05-27T02:30:00Z",
       "activeLiveChatId": "Cg0KCzFlSU4weHVoLTU4KicKGFVDdTFJTnplZnczUjdNOS0zUUVIWW1NURILMWVJTjB4dWgtNTg"
     }
@@ -413,18 +414,6 @@
       "activeLiveChatId": "Cg0KCzJGb2NCYy0xZjdFKicKGFVDQXhWb0JMRzJCdjF4Z2JZVV9lZnNDZxILMkZvY0JjLTFmN0U"
     }
   },
-  "2UEHI39g-_g": {
-    "snippet": {
-      "publishedAt": "2024-05-24T04:10:32Z",
-      "channelId": "UC4R6ddhBJp2bjQHVNxgNQSA",
-      "title": "(EN Stream)  SHASHINGO!! \u3010 Akugaki Koa | idolES \u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-26T22:55:37Z",
-      "scheduledStartTime": "2024-05-26T23:00:00Z",
-      "activeLiveChatId": "Cg0KCzJVRUhJMzlnLV9nKicKGFVDNFI2ZGRoQkpwMmJqUUhWTnhnTlFTQRILMlVFSEkzOWctX2c"
-    }
-  },
   "2VhjINcrmUI": {
     "snippet": {
       "publishedAt": "2024-05-21T20:14:10Z",
@@ -465,6 +454,17 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KCzJ6YUF2MHVnOUlJKicKGFVDMXVjZ29DX3NHd3dfRXV1NWlNcXBRdxILMnphQXYwdWc5SUk"
+    }
+  },
+  "320KBbppRgY": {
+    "snippet": {
+      "publishedAt": "2024-05-27T02:35:25Z",
+      "channelId": "UC_t7wtScVLk85IaD9jYSRAA",
+      "title": "\u3010It Takes Two\u3011Enemies to lovers? With @RheaNevermore \u3010Yume+ | Aimee\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-30T00:00:00Z",
+      "activeLiveChatId": "Cg0KCzMyMEtCYnBwUmdZKicKGFVDX3Q3d3RTY1ZMazg1SWFEOWpZU1JBQRILMzIwS0JicHBSZ1k"
     }
   },
   "3577tR3VRdo": {
@@ -4866,7 +4866,7 @@
       "title": "boomer tries #shorts stream...is this thing on? \ud83d\udc75  #shortslive"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-27T03:00:00Z",
+      "scheduledStartTime": "2024-05-27T03:15:00Z",
       "activeLiveChatId": "Cg0KC256dGVsNHNjeDdvKicKGFVDeGF6aWR0N3FRTU5WVzczd2twc3dPQRILbnp0ZWw0c2N4N28"
     }
   },
