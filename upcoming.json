@@ -289,7 +289,8 @@
       "title": "\u3010MEMBERS ONLY\u3011 do you ever just :D"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-27T14:00:00Z",
+      "actualStartTime": "2024-05-27T14:02:10Z",
+      "scheduledStartTime": "2024-05-27T14:01:49Z",
       "activeLiveChatId": "Cg0KCzE1RG1hTVRFZmdnKicKGFVDdWFEaWRHazRITkxPblFFOXd6TU1lURILMTVEbWFNVEVmZ2c"
     }
   },
@@ -1567,7 +1568,9 @@
       "title": "\u3010\u30b9\u30de\u30d6\u30e9\u3011\u308f\u305f\u3057\u306f\u60aa\u9b54\u3060\u304b\u3089\u30b9\u30de\u30d6\u30e9\u306e\u3053\u3068\u304c\u3088\u304f\u308f\u304b\u3089\u306a\u304f\u3066\u3010\u77f3\u795e\u306e\u305e\u307f\uff0f\u306b\u3058\u3055\u3093\u3058\u6240\u5c5e\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-27T14:00:00Z"
+      "actualStartTime": "2024-05-27T14:01:43Z",
+      "scheduledStartTime": "2024-05-27T14:00:00Z",
+      "activeLiveChatId": "Cg0KC0VudVQ3bUV3OGRvKicKGFVDdExmQV9xVXFDSnRqWEpNMlpSX2tlZxILRW51VDdtRXc4ZG8"
     }
   },
   "F1j44-6mhDA": {
@@ -2663,6 +2666,7 @@
       "title": "\u3010 ICARUS \u3011\u307e\u3063\u305f\u308a\u3061\u308b\u2026\uff1f\u307e\u3055\u304b\u306e\u30a4\u30ab\u30eb\u30b9\u30b3\u30e9\u30dc\u26cf\u3010\u5c0f\u6e05\u6c34 \u900f / \u306b\u3058\u3055\u3093\u3058\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-27T14:06:07Z",
       "scheduledStartTime": "2024-05-27T14:00:00Z",
       "activeLiveChatId": "Cg0KC05LSTlFMlRZSnd3KicKGFVDVVA4VG1sTzdOTnJhODhBTXFHVV92URILTktJOUUyVFlKd3c"
     }
@@ -4128,6 +4132,17 @@
       "activeLiveChatId": "Cg0KC2FsOHlxbWZUbkR3KicKGFVDbHhqM0dsR3BoWlZnZDFTTFloWkttZxILYWw4eXFtZlRuRHc"
     }
   },
+  "apollomythos": {
+    "snippet": {
+      "channelId": "apollomythos",
+      "title": "\u2600\ufe0fjust chatting + Cuphead  w @aresmythos\u2600\ufe0f(SOUND ALERTS R ON) \u3010!discord\u3011\u3010!mythos\u3011\u3010!raid\u3011\u3010!Donate\u3011",
+      "channelTitle": "ApolloMythos"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-27T14:01:22Z",
+      "twitch": true
+    }
+  },
   "auBX4pNLy_E": {
     "snippet": {
       "publishedAt": "2024-05-24T13:08:53Z",
@@ -5458,6 +5473,7 @@
       "title": "\u300eWuthering Waves\u300fWe using up all our luck!\u301aBaal Arland | OshiLinkEN\u301b"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-27T14:01:36Z",
       "scheduledStartTime": "2024-05-27T14:00:00Z",
       "activeLiveChatId": "Cg0KC3BVLTVpUS05TFdFKicKGFVDcnA5TU9LdVl6V0ZBMFg3d0xMaEhrQRILcFUtNWlRLTlMV0U"
     }
