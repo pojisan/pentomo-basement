@@ -536,7 +536,8 @@
     "snippet": {
       "publishedAt": "2024-05-27T06:18:23Z",
       "channelId": "UCe-_p6oun4p0-gdB4AkfT1Q",
-      "title": "Fallout 4 except I'm a 1920's gangster?!"
+      "title": "Fallout 4 except I'm a 1920's gangster?!",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-31T22:00:00Z",
@@ -552,6 +553,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-29T22:00:00Z",
       "activeLiveChatId": "Cg0KC01NaUlkanBYeF8wKicKGFVDZS1fcDZvdW40cDAtZ2RCNEFrZlQxURILTU1pSWRqcFh4XzA"
+    }
+  },
+  "C2Vj8Vl_ikY": {
+    "snippet": {
+      "publishedAt": "2024-05-27T18:35:23Z",
+      "channelId": "UCe-_p6oun4p0-gdB4AkfT1Q",
+      "title": "Fallout 4 except I'm a 1920's Gangster?!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-01T22:00:00Z",
+      "activeLiveChatId": "Cg0KC0MyVmo4VmxfaWtZKicKGFVDZS1fcDZvdW40cDAtZ2RCNEFrZlQxURILQzJWajhWbF9pa1k"
     }
   }
 }
