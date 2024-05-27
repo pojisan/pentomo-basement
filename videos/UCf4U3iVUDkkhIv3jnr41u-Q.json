@@ -1760,8 +1760,20 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-27T05:02:21Z",
-      "scheduledStartTime": "2024-05-27T05:02:08Z",
-      "activeLiveChatId": "Cg0KCzRoME1SelpkQ04wKicKGFVDZjRVM2lWVURra2hJdjNqbnI0MXUtURILNGgwTVJ6WmRDTjA"
+      "actualEndTime": "2024-05-27T11:45:23Z",
+      "scheduledStartTime": "2024-05-27T05:02:08Z"
+    }
+  },
+  "Qui31iUSTrg": {
+    "snippet": {
+      "publishedAt": "2024-05-27T11:46:08Z",
+      "channelId": "UCf4U3iVUDkkhIv3jnr41u-Q",
+      "title": "[Wuthering Waves] I JUST WANTED TO PEE | coughing stream #Vtuber"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-27T11:46:19Z",
+      "scheduledStartTime": "2024-05-27T11:46:07Z",
+      "activeLiveChatId": "Cg0KC1F1aTMxaVVTVHJnKicKGFVDZjRVM2lWVURra2hJdjNqbnI0MXUtURILUXVpMzFpVVNUcmc"
     }
   }
 }
