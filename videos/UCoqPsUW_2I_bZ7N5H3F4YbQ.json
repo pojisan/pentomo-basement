@@ -229,7 +229,8 @@
     "snippet": {
       "publishedAt": "2024-04-13T16:37:14Z",
       "channelId": "UCoqPsUW_2I_bZ7N5H3F4YbQ",
-      "title": "Schedule  + Free Chat  [#LaikaCream #noodledoods ]"
+      "title": "Schedule  + Free Chat  [#LaikaCream #noodledoods ]",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2026-05-01T03:45:00Z",
@@ -423,6 +424,17 @@
       "actualStartTime": "2024-05-23T22:00:06Z",
       "actualEndTime": "2024-05-23T22:03:51Z",
       "scheduledStartTime": "2024-05-23T21:59:57Z"
+    }
+  },
+  "p8uIk4ULobU": {
+    "snippet": {
+      "publishedAt": "2024-05-28T21:55:25Z",
+      "channelId": "UCoqPsUW_2I_bZ7N5H3F4YbQ",
+      "title": "\u3010Zatsu/???\u3011A SILLY SURPRISE!!!\u3010#LaikaCream\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-28T22:00:00Z",
+      "activeLiveChatId": "Cg0KC3A4dUlrNFVMb2JVKicKGFVDb3FQc1VXXzJJX2JaN041SDNGNFliURILcDh1SWs0VUxvYlU"
     }
   }
 }
