@@ -281,8 +281,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-28T02:02:28Z",
-      "scheduledStartTime": "2024-05-28T02:00:00Z",
-      "activeLiveChatId": "Cg0KCzRJWUVfV2MyNUk0KicKGFVDaUJNSDFkN2V3XzNiaTJBX3paR3NtdxILNElZRV9XYzI1STQ"
+      "actualEndTime": "2024-05-28T02:42:20Z",
+      "scheduledStartTime": "2024-05-28T02:00:00Z"
     }
   },
   "rGICt2s4tbw": {
@@ -294,6 +294,18 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-30T02:00:00Z",
       "activeLiveChatId": "Cg0KC3JHSUN0MnM0dGJ3KicKGFVDaUJNSDFkN2V3XzNiaTJBX3paR3NtdxILckdJQ3QyczR0Ync"
+    }
+  },
+  "LCeJ-UhvZbA": {
+    "snippet": {
+      "publishedAt": "2024-05-28T02:42:54Z",
+      "channelId": "UCiBMH1d7ew_3bi2A_zZGsmw",
+      "title": "\u3010Animal Crossing\u3011 A travel to heal my soul~ P2 \u3010idolES | Taiga Toragami\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-28T02:45:34Z",
+      "scheduledStartTime": "2024-05-28T02:45:00Z",
+      "activeLiveChatId": "Cg0KC0xDZUotVWh2WmJBKicKGFVDaUJNSDFkN2V3XzNiaTJBX3paR3NtdxILTENlSi1VaHZaYkE"
     }
   }
 }
