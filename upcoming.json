@@ -1162,7 +1162,7 @@
       "title": "\u3010LIVE \ud83d\udd34 3DIO Bath RP ASMR\u3011Moonlit Bath & Melodies\u3010Alias Anono | V4Mirai | ENVtuber\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-28T18:00:00Z",
+      "scheduledStartTime": "2024-06-04T18:00:00Z",
       "activeLiveChatId": "Cg0KC0FDb2RZNExXRkZFKicKGFVDRVk5Q25TSDBuMFFLbVkyUS1PSDdadxILQUNvZFk0TFdGRkU"
     }
   },
@@ -4801,6 +4801,17 @@
       "activeLiveChatId": "Cg0KC2RmOUl3NURmWFM4KicKGFVDYXNadnNrRkNfU0hzNkxYeDJfMjZjURILZGY5SXc1RGZYUzg"
     }
   },
+  "dkD0EsfwbR8": {
+    "snippet": {
+      "publishedAt": "2024-05-28T17:42:28Z",
+      "channelId": "UCIo33b0hf2_mdqtAZvKlayQ",
+      "title": "HEUEHUEHUEHUEHEUHEU!!\u3010TURNIP BOY ROBS A BANK\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-28T18:00:00Z",
+      "activeLiveChatId": "Cg0KC2RrRDBFc2Z3YlI4KicKGFVDSW8zM2IwaGYyX21kcXRBWnZLbGF5URILZGtEMEVzZndiUjg"
+    }
+  },
   "dsX6nex-4As": {
     "snippet": {
       "publishedAt": "2024-05-27T16:36:18Z",
@@ -6347,7 +6358,8 @@
       "title": "\u3010Killer Klowns From Outerspace\u3011Klowns!!!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-28T19:00:00Z",
+      "actualStartTime": "2024-05-28T17:44:39Z",
+      "scheduledStartTime": "2024-05-28T18:00:00Z",
       "activeLiveChatId": "Cg0KC3NUNXE5RGg5dnp3KicKGFVDQjdxeW5KOXFwMGNOV1JGZUJhd0I0QRILc1Q1cTlEaDl2enc"
     }
   },
@@ -6381,6 +6393,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-08-30T04:35:00Z",
       "activeLiveChatId": "Cg0KC3NrVENLZ003YmlJKicKGFVDazB2dXd3c21fVVFISElPZ0d2eFUtQRILc2tUQ0tnTTdiaUk"
+    }
+  },
+  "starryyozzy": {
+    "snippet": {
+      "channelId": "starryyozzy",
+      "title": "KILLER KLOWNS TIIIIME!! !STEAM !FLASHLIGHT !ADVGG  !fish !VITE !s4gs!",
+      "channelTitle": "StarryYozzy"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-28T17:44:36Z",
+      "twitch": true
     }
   },
   "su2wbOAvLjI": {
@@ -6989,6 +7012,17 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC3hoejNaZUhYaVI4KicKGFVDZWpiaWNvUm5RakNPZEFQQXY1SlB3ZxILeGh6M1plSFhpUjg"
+    }
+  },
+  "xiulanlong": {
+    "snippet": {
+      "channelId": "xiulanlong",
+      "title": "[VTUBER] Travel around the world with me!v(\u25cd\u2022\u1d17\u2022\u25cd) !cover !discord !merch",
+      "channelTitle": "XiulanLong"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-28T17:42:55Z",
+      "twitch": true
     }
   },
   "xvk04wgMLaA": {
