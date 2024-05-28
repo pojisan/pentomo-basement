@@ -5103,11 +5103,23 @@
     "snippet": {
       "publishedAt": "2024-05-28T01:05:38Z",
       "channelId": "UCT41WnQY3O2F7Obi1hhPOyA",
-      "title": "\u3010Far Cry Dragon Blood\u3011 OMG! SLAY \ud83d\udc85"
+      "title": "\u3010Far Cry Dragon Blood\u3011 OMG! SLAY \ud83d\udc85",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-28T02:05:00Z",
       "activeLiveChatId": "Cg0KC0NvYW40clpnV2NjKicKGFVDVDQxV25RWTNPMkY3T2JpMWhoUE95QRILQ29hbjRyWmdXY2M"
+    }
+  },
+  "RkSdd-NvXhQ": {
+    "snippet": {
+      "publishedAt": "2024-05-28T02:50:20Z",
+      "channelId": "UCT41WnQY3O2F7Obi1hhPOyA",
+      "title": "\u3010Warhammer 40k: DARKTIDE\u3011 Threat level 4? Empewow"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-28T03:15:00Z",
+      "activeLiveChatId": "Cg0KC1JrU2RkLU52WGhRKicKGFVDVDQxV25RWTNPMkY3T2JpMWhoUE95QRILUmtTZGQtTnZYaFE"
     }
   }
 }
