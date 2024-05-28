@@ -6438,5 +6438,27 @@
       "actualEndTime": "2024-05-22T02:48:10Z",
       "scheduledStartTime": "2024-05-22T00:00:00Z"
     }
+  },
+  "-RD-wT532DM": {
+    "snippet": {
+      "publishedAt": "2024-05-28T06:19:12Z",
+      "channelId": "UCkJ64W0J7R0zCSAsZfRIhVQ",
+      "title": "\u3010VALKYRIA CHRONICLES\u3011Isara? No - I, Sara.\u3010PART 7\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-31T00:00:00Z",
+      "activeLiveChatId": "Cg0KCy1SRC13VDUzMkRNKicKGFVDa0o2NFcwSjdSMHpDU0FzWmZSSWhWURILLVJELXdUNTMyRE0"
+    }
+  },
+  "5RAbRlfBumc": {
+    "snippet": {
+      "publishedAt": "2024-05-28T06:18:05Z",
+      "channelId": "UCkJ64W0J7R0zCSAsZfRIhVQ",
+      "title": "\u3010BLACK MESA\u3011THE FINAL SCIENCE-ING IS UPON US (maybe)\u3010PART 6\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-29T00:00:00Z",
+      "activeLiveChatId": "Cg0KCzVSQWJSbGZCdW1jKicKGFVDa0o2NFcwSjdSMHpDU0FzWmZSSWhWURILNVJBYlJsZkJ1bWM"
+    }
   }
 }
