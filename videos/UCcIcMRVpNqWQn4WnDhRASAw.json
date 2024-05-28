@@ -2492,9 +2492,19 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-28T02:50:07Z",
-      "scheduledStartTime": "2024-05-28T02:50:00Z",
-      "activeLiveChatId": "Cg0KC3VvZ0JVZE9idHlNKicKGFVDY0ljTVJWcE5xV1FuNFduRGhSQVNBdxILdW9nQlVkT2J0eU0",
-      "premiere": true
+      "actualEndTime": "2024-05-28T03:07:07Z",
+      "scheduledStartTime": "2024-05-28T02:50:00Z"
+    }
+  },
+  "DuMZFG6F3Cg": {
+    "snippet": {
+      "publishedAt": "2024-05-28T03:01:13Z",
+      "channelId": "UCcIcMRVpNqWQn4WnDhRASAw",
+      "title": "DAY 2"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-28T17:00:00Z",
+      "activeLiveChatId": "Cg0KC0R1TVpGRzZGM0NnKicKGFVDY0ljTVJWcE5xV1FuNFduRGhSQVNBdxILRHVNWkZHNkYzQ2c"
     }
   }
 }

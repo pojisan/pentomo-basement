@@ -248,8 +248,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-27T23:50:51Z",
       "actualEndTime": "2024-05-28T02:41:59Z",
-      "scheduledStartTime": "2024-05-28T00:00:00Z",
-      "activeLiveChatId": "Cg0KC21zeE44Q0lpNng4KicKGFVDY1BjLTVPckxialZCZ1EtemlFV1BTURILbXN4TjhDSWk2eDg"
+      "scheduledStartTime": "2024-05-28T00:00:00Z"
     }
   },
   "5wpcs9hrJVQ": {
@@ -261,6 +260,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-31T00:00:00Z",
       "activeLiveChatId": "Cg0KCzV3cGNzOWhySlZRKicKGFVDY1BjLTVPckxialZCZ1EtemlFV1BTURILNXdwY3M5aHJKVlE"
+    }
+  },
+  "TJ-ZN7eo-lY": {
+    "snippet": {
+      "publishedAt": "2024-05-22T18:56:10Z",
+      "channelId": "UCcPc-5OrLbjVBgQ-ziEWPSQ",
+      "title": "Find the Lost Lights playthrough. Can we help Mono bring light to the three realms?"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-04T00:00:00Z",
+      "activeLiveChatId": "Cg0KC1RKLVpON2VvLWxZKicKGFVDY1BjLTVPckxialZCZ1EtemlFV1BTURILVEotWk43ZW8tbFk"
     }
   }
 }
