@@ -939,8 +939,19 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-27T19:59:44Z",
-      "scheduledStartTime": "2024-05-27T20:00:00Z",
-      "activeLiveChatId": "Cg0KC2t6Y1JlOWJjcGU4KicKGFVDWGhSZDRLa3B6WXNQbTVoRlRQVnNxdxILa3pjUmU5YmNwZTg"
+      "actualEndTime": "2024-05-28T01:02:15Z",
+      "scheduledStartTime": "2024-05-27T20:00:00Z"
+    }
+  },
+  "QUiHvsL0AuQ": {
+    "snippet": {
+      "publishedAt": "2024-05-28T01:06:30Z",
+      "channelId": "UCXhRd4KkpzYsPm5hFTPVsqw",
+      "title": "\u3010OMEGAVERSE QUIZ\u3011HELLO?? \ud83d\udca6\ud83d\udca6\u3010V&U | GEN4\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-29T21:30:00Z",
+      "activeLiveChatId": "Cg0KC1FVaUh2c0wwQXVRKicKGFVDWGhSZDRLa3B6WXNQbTVoRlRQVnNxdxILUVVpSHZzTDBBdVE"
     }
   }
 }
