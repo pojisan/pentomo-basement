@@ -927,6 +927,7 @@
       "title": "\u3010 LIVE \ud83d\udd34 3DIO Robot RP ASMR\u3011I'm The Only One Who Can Fix You\u3010Alias Anono | V4Mirai | ENVtuber\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-28T02:12:56Z",
       "scheduledStartTime": "2024-05-28T02:00:00Z",
       "activeLiveChatId": "Cg0KCzdzX1dKVWpWLWdFKicKGFVDRVk5Q25TSDBuMFFLbVkyUS1PSDdadxILN3NfV0pValYtZ0U"
     }
@@ -5225,18 +5226,6 @@
       "activeLiveChatId": "Cg0KC2pkbUVtT3dEck4wKicKGFVDSHN4NEhxYS0xT1JqUVRoOVRZRGh3dxILamRtRW1Pd0RyTjA"
     }
   },
-  "jeQwohqHgsA": {
-    "snippet": {
-      "publishedAt": "2024-05-27T22:55:53Z",
-      "channelId": "UCuTNHY_b7EvqhRO7COboxsQ",
-      "title": "sol madguy"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-27T23:57:27Z",
-      "scheduledStartTime": "2024-05-28T00:00:00Z",
-      "activeLiveChatId": "Cg0KC2plUXdvaHFIZ3NBKicKGFVDdVROSFlfYjdFdnFoUk83Q09ib3hzURILamVRd29ocUhnc0E"
-    }
-  },
   "jnPsSU6hVTU": {
     "snippet": {
       "publishedAt": "2024-05-27T22:59:29Z",
@@ -5267,6 +5256,17 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC2p2WVVWSUtaTVJRKicKGFVDR3V3WWxGZGRMaEN3akpyeFVZdXB4QRILanZZVVZJS1pNUlE"
+    }
+  },
+  "k0bu2MbvmVQ": {
+    "snippet": {
+      "publishedAt": "2024-05-28T02:18:14Z",
+      "channelId": "UC0GDyWNEjsxgKX_5zRs-h5w",
+      "title": "\u3010KARAOKE\u3011NEW MICROPHONE HYPE!!!! \ud83c\udfb5 (+requests on) #\u6b4c\u67a0"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-01T16:00:00Z",
+      "activeLiveChatId": "Cg0KC2swYnUyTWJ2bVZRKicKGFVDMEdEeVdORWpzeGdLWF81elJzLWg1dxILazBidTJNYnZtVlE"
     }
   },
   "kY08o3c5qlk": {
@@ -6138,6 +6138,17 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-27T19:54:49Z",
+      "twitch": true
+    }
+  },
+  "shimadatiger": {
+    "snippet": {
+      "channelId": "shimadatiger",
+      "title": "I'm going William Da Foe mode on the sticks | NEW KOREAN STICK AND TEKKEN 8 FUN (!newvideo)",
+      "channelTitle": "ShimadaTiger"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-28T02:14:01Z",
       "twitch": true
     }
   },
