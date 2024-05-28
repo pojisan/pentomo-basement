@@ -137,8 +137,7 @@
       "title": "\u300e KARAOKE DAY \u300fEmo Version... No jaja, just ueueue | #OSHICelanis #OshiLinkEN"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-28T17:30:00Z",
-      "activeLiveChatId": "Cg0KC2N0aV9aLVlSZ25JKicKGFVDTndZNlpIMjd2WkRqUmgyQzluc0NqdxILY3RpX1otWVJnbkk"
+      "scheduledStartTime": "2024-05-28T17:30:00Z"
     }
   },
   "sca02LQJp3o": {
@@ -159,6 +158,18 @@
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-30T13:00:00Z"
+    }
+  },
+  "CSnjt2J2tJc": {
+    "snippet": {
+      "publishedAt": "2024-05-28T17:36:54Z",
+      "channelId": "UCNwY6ZH27vZDjRh2C9nsCjw",
+      "title": "\u300eGAMES DAY?\u300f Finally beating that tonto| #OSHICelanis #OshiLinkEN"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-28T17:37:22Z",
+      "scheduledStartTime": "2024-05-28T17:36:53Z",
+      "activeLiveChatId": "Cg0KC0NTbmp0MkoydEpjKicKGFVDTndZNlpIMjd2WkRqUmgyQzluc0NqdxILQ1NuanQySjJ0SmM"
     }
   }
 }
