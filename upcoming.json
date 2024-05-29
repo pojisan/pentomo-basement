@@ -225,6 +225,7 @@
       "title": "WHAT is THAT!? \ud83d\ude31 BRITISH VTuber tries AMERICAN snacks! \ud83e\udd28\u3010Bonnie Barkswell / globie\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-29T20:03:22Z",
       "scheduledStartTime": "2024-05-29T20:00:00Z",
       "activeLiveChatId": "Cg0KCzBhSXJzU0pyM2RBKicKGFVDcXczcGRQRUtLVk9JN1NGWG9teUtMQRILMGFJcnNTSnIzZEE"
     }
@@ -2858,6 +2859,7 @@
       "title": "\u3010Chatting\u3011WEEEEEEEEEH\u3010bondliveEN | Ivaela Daemoni\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-29T20:02:14Z",
       "scheduledStartTime": "2024-05-29T20:00:00Z",
       "activeLiveChatId": "Cg0KC08zNTFYYzNBZ3EwKicKGFVDeGJORVc3eHlrVEM3aEU1Rllnd3JPdxILTzM1MVhjM0FncTA"
     }
@@ -4681,6 +4683,17 @@
       "activeLiveChatId": "Cg0KC2VmUDJ0NkVrWjRZKicKGFVDUmtkRkdYd0J0eHZtOVNzZm1ObU1aQRILZWZQMnQ2RWtaNFk"
     }
   },
+  "ehSsdiUufb0": {
+    "snippet": {
+      "publishedAt": "2024-05-29T20:04:20Z",
+      "channelId": "UC8rcEBzJSleTkf_-agPM20g",
+      "title": "\u3010Undertale\u3011Under What? :o"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-30T04:00:00Z",
+      "activeLiveChatId": "Cg0KC2VoU3NkaVV1ZmIwKicKGFVDOHJjRUJ6SlNsZVRrZl8tYWdQTTIwZxILZWhTc2RpVXVmYjA"
+    }
+  },
   "eq11758SCR8": {
     "snippet": {
       "publishedAt": "2024-05-27T05:34:30Z",
@@ -5087,17 +5100,6 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC2h5X3Bvd3FIdDA4KicKGFVDYkRISVMwTnBYUk9oWWpzYVhRWDRwQRILaHlfcG93cUh0MDg"
-    }
-  },
-  "hyperx": {
-    "snippet": {
-      "channelId": "hyperx",
-      "title": "VTuber Goose Goose Duck! | !kura !youtube !code",
-      "channelTitle": "HyperX"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-29T16:20:51Z",
-      "twitch": true
     }
   },
   "i-DzVoVX22s": {
@@ -6129,6 +6131,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-04-28T09:00:00Z",
       "activeLiveChatId": "Cg0KC3JnZGk4YnRlUWdjKicKGFVDOHpnS2FTOExpeUwyOG1kaFJDMm5CZxILcmdkaThidGVRZ2M"
+    }
+  },
+  "rinapumpkin": {
+    "snippet": {
+      "channelId": "rinapumpkin",
+      "title": "\u0b68\ud83c\udf83 Dr. Pumpkin can fix you (sort of) \ud83c\udf83\u0b67 MWUAH! \u208a\u02da\u22b9 \u2661",
+      "channelTitle": "RinaPumpkin"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-29T20:04:38Z",
+      "twitch": true
     }
   },
   "rn2SX1mvIyc": {
