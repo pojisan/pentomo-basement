@@ -1921,5 +1921,17 @@
       "actualEndTime": "2024-05-25T02:27:28Z",
       "scheduledStartTime": "2024-05-24T23:00:00Z"
     }
+  },
+  "pWTJiPOQRd8": {
+    "snippet": {
+      "publishedAt": "2024-05-29T09:08:44Z",
+      "channelId": "UCNUS0XshN1Tf7iLdd0MpPAg",
+      "title": "\u3010Announcement\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-29T23:00:00Z",
+      "activeLiveChatId": "Cg0KC3BXVEppUE9RUmQ4KicKGFVDTlVTMFhzaE4xVGY3aUxkZDBNcFBBZxILcFdUSmlQT1FSZDg",
+      "premiere": true
+    }
   }
 }
