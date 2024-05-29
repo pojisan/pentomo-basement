@@ -546,6 +546,7 @@
       "title": "\u3010Need for Speed Payback\u3011 Part 1! VTuber can DRIVE (real)\u3010NIJISANJI EN | Ryoma Barrenwort\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-29T01:00:40Z",
       "scheduledStartTime": "2024-05-29T01:00:00Z",
       "activeLiveChatId": "Cg0KCzNwdFROMEhJQXdZKicKGFVDSXpaRGlpbGNQdjB3aW1fTWJ1aXpGQRILM3B0VE4wSElBd1k"
     }
@@ -734,6 +735,7 @@
       "title": "\u3010DETROIT BECOME HUMAN\u3011: The Dramatic Finale \u3010bondlive EN\u3011#vtuber"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-29T01:01:03Z",
       "scheduledStartTime": "2024-05-29T01:00:00Z",
       "activeLiveChatId": "Cg0KCzVmeS1EY0h6V2swKicKGFVDWk8wQ2lySGVXWVRVTWwtN3pQRzZZZxILNWZ5LURjSHpXazA"
     }
@@ -1027,6 +1029,7 @@
       "title": "\u3010FFXIV:ARR\u3011Starter dungeons!\u3010DUNGEONS\u3011#AresNanos"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-29T01:01:07Z",
       "scheduledStartTime": "2024-05-29T01:00:00Z",
       "activeLiveChatId": "Cg0KCzhrdjU4QlhkY0VNKicKGFVDUkllUzNnLWF3SVF1UEFQbkFwSGJDQRILOGt2NThCWGRjRU0"
     }
@@ -1264,6 +1267,7 @@
       "title": "\u3010TECH TUESDAY\u3011I BUILD YOUR COMPUTERS\u3010VyVid | Eva Ananova \u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-29T01:00:05Z",
       "scheduledStartTime": "2024-05-29T01:00:00Z",
       "activeLiveChatId": "Cg0KC0JORTE3OFJJZENRKicKGFVDVE5wd1d5b0xnZUotdHN4V3E3dWN2dxILQk5FMTc4UklkQ1E"
     }
@@ -1321,17 +1325,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-10-13T19:00:00Z",
       "activeLiveChatId": "Cg0KC0M0MVJubWFSOGZNKicKGFVDSW8zM2IwaGYyX21kcXRBWnZLbGF5URILQzQxUm5tYVI4Zk0"
-    }
-  },
-  "CAFiyEmhr2M": {
-    "snippet": {
-      "publishedAt": "2024-05-18T23:24:16Z",
-      "channelId": "UCH7txi6feolO5jAmAM5RICA",
-      "title": "AMA and Chaotic Vibes #OshiLinkEN"
-    },
-    "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-18T23:24:25Z",
-      "activeLiveChatId": "Cg0KC0NBRml5RW1ocjJNKicKGFVDSDd0eGk2ZmVvbE81akFtQU01UklDQRILQ0FGaXlFbWhyMk0"
     }
   },
   "CBLiSLTbIQ8": {
@@ -1891,6 +1884,7 @@
       "title": "\u226aYakuza Kiwami 2\u226b This game is a management game. #3 \u3010SPOILER WARNING\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-29T01:00:56Z",
       "scheduledStartTime": "2024-05-29T01:00:00Z",
       "activeLiveChatId": "Cg0KC0dIZ1JUclJyTFhJKicKGFVDZ21QbngtRUVlT3JaU2c1VGl3N1pSURILR0hnUlRyUnJMWEk"
     }
@@ -3007,6 +3001,7 @@
       "title": "\u3010WRESTLETUBER AFTERPARTY\u3011my first big event done!!\u3010Dokibird\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-29T01:01:32Z",
       "scheduledStartTime": "2024-05-29T01:00:00Z",
       "activeLiveChatId": "Cg0KC08tQjNyTXpvV2dVKicKGFVDb21JblcxME1rSEpzLV92aTRySFFDURILTy1CM3JNem9XZ1U"
     }
@@ -4422,6 +4417,17 @@
       "activeLiveChatId": "Cg0KC193OFpIR2ZQMXdZKicKGFVDdzBvMmtTdXItaXFtODJHTUtVbVZoURILX3c4WkhHZlAxd1k"
     }
   },
+  "_y1cBy0AxnY": {
+    "snippet": {
+      "publishedAt": "2024-05-29T00:51:30Z",
+      "channelId": "UCZO0CirHeWYTUMl-7zPG6Yg",
+      "title": "VERTICAL\u3010DETROIT BECOME HUMAN\u3011: The Dramatic Finale \u3010bondlive EN\u3011#vtuber #shorts"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-29T01:00:00Z",
+      "activeLiveChatId": "Cg0KC195MWNCeTBBeG5ZKicKGFVDWk8wQ2lySGVXWVRVTWwtN3pQRzZZZxILX3kxY0J5MEF4blk"
+    }
+  },
   "a0bXsn56ZXI": {
     "snippet": {
       "publishedAt": "2023-11-05T15:03:02Z",
@@ -5110,6 +5116,7 @@
       "title": "\u3010HELLDIVERS 2\u3011spread democracy!!!\u3010PixelLink\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-29T01:01:22Z",
       "scheduledStartTime": "2024-05-29T01:00:00Z",
       "activeLiveChatId": "Cg0KC2dsck05VjVsZDJJKicKGFVDNjRETUFZWG80bndURmZ2TlF6a1N3URILZ2xyTTlWNWxkMkk"
     }
@@ -5154,6 +5161,7 @@
       "title": "\u30101st ADVENT OFF-COLLAB\u3011lovely TAKOYAKI PARTY from HECK \ud83d\udc19\u26a0\ufe0f #holoAdvent\u3010BIG ANNOUNCEMENT\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-29T00:55:38Z",
       "scheduledStartTime": "2024-05-29T01:00:00Z",
       "activeLiveChatId": "Cg0KC2gyN1pBNGRrYW93KicKGFVDdDlIX1JwUXpoeHpseUJ4RnFyZEhxQRILaDI3WkE0ZGthb3c"
     }
@@ -5381,6 +5389,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-30T03:00:00Z",
       "activeLiveChatId": "Cg0KC2lNWFgtRUE2ZG44KicKGFVDVUkxcXBqSlNFYmd6ZGx3bXBkVm1NdxILaU1YWC1FQTZkbjg"
+    }
+  },
+  "inumaromugi": {
+    "snippet": {
+      "channelId": "inumaromugi",
+      "title": "\u3010Eri\u3011some vtuber doodling, then gaming! (not my first play of omori) |  Omori #1 |\u2726 \u207a.",
+      "channelTitle": "InumaroMugi"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-29T00:59:55Z",
+      "twitch": true
     }
   },
   "itFq1q8Nrl0": {
@@ -5744,7 +5763,7 @@
   "matarakan": {
     "snippet": {
       "channelId": "matarakan",
-      "title": "I AM BACK FROM VACATION~ let's chat, then sign posters then OW 2 :)  !youtube !podcast !mint",
+      "title": "OVERWATCH 2 W/ @michimochievee @rubensargasm @eviltoaster @heavenlyfather !youtube !podcast !mint",
       "channelTitle": "MataraKan"
     },
     "liveStreamingDetails": {
@@ -5944,17 +5963,6 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC29oVC1RRmUwcVdNKicKGFVDZHVib3RTeTRwUE9zaWFXNE1yWW4zURILb2hULVFGZTBxV00"
-    }
-  },
-  "oslghX1kYCY": {
-    "snippet": {
-      "publishedAt": "2022-10-08T14:58:32Z",
-      "channelId": "UCH7txi6feolO5jAmAM5RICA",
-      "title": "Pixie Demon YouTube Debut: Editing CCE Photos"
-    },
-    "liveStreamingDetails": {
-      "scheduledStartTime": "2022-10-08T15:30:00Z",
-      "activeLiveChatId": "Cg0KC29zbGdoWDFrWUNZKicKGFVDSDd0eGk2ZmVvbE81akFtQU01UklDQRILb3NsZ2hYMWtZQ1k"
     }
   },
   "osz3bh5_u4E": {
