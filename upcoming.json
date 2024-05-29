@@ -2345,7 +2345,7 @@
       "title": "MALZENO?! INFECTION?! I AM CONFUSION!!! [MONSTER HUNTER RISE: SUNBREAK]"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-31T13:00:00Z",
+      "scheduledStartTime": "2024-05-31T10:00:00Z",
       "activeLiveChatId": "Cg0KC0p0cktOMERzQU9ZKicKGFVDS0FEX05NTjFCM2k3MkpfNG1Md0ZCURILSnRyS04wRHNBT1k"
     }
   },
@@ -2723,7 +2723,7 @@
       "title": "BRAIN CELL DOKO? [Escape Simulator VR] w/ Sonny, Rosemi + Maririn!\u3010NIJISANJI EN | Doppio Dropscythe\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-29T14:00:00Z",
+      "scheduledStartTime": "2024-05-29T14:05:00Z",
       "activeLiveChatId": "Cg0KC01QNi02eFNEZFI4KicKGFVDeTkxeEJsWV9CcmgzYm5IeEt0anJyZxILTVA2LTZ4U0RkUjg"
     }
   },
@@ -2852,6 +2852,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2026-04-29T18:20:00Z",
       "activeLiveChatId": "Cg0KC05XWnQxMUxZQmxJKicKGFVDRGRtb0E3OWJmSThESERuRV9ZeTJkZxILTldadDExTFlCbEk"
+    }
+  },
+  "NW_CIsUuLRo": {
+    "snippet": {
+      "publishedAt": "2024-05-29T13:56:38Z",
+      "channelId": "UClxj3GlGphZVgd1SLYhZKmg",
+      "title": "\u3010ELDEN RING\u3011Ultimate spear challenge!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-01T16:00:00Z",
+      "activeLiveChatId": "Cg0KC05XX0NJc1V1TFJvKicKGFVDbHhqM0dsR3BoWlZnZDFTTFloWkttZxILTldfQ0lzVXVMUm8"
     }
   },
   "NYYGIFAfO2I": {
@@ -3168,6 +3179,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-01-01T18:55:00Z",
       "activeLiveChatId": "Cg0KC1E3MWNwTDhmQzgwKicKGFVDSzZvQ01pYjYyZVlBSVBybHJZUlZydxILUTcxY3BMOGZDODA"
+    }
+  },
+  "QBJVby24g04": {
+    "snippet": {
+      "publishedAt": "2024-05-29T13:54:08Z",
+      "channelId": "UCBJFsaCvgBa1a9BnEaxu97Q",
+      "title": "That's So Rover!\u3010Wuthering Waves\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-29T22:00:00Z",
+      "activeLiveChatId": "Cg0KC1FCSlZieTI0ZzA0KicKGFVDQkpGc2FDdmdCYTFhOUJuRWF4dTk3URILUUJKVmJ5MjRnMDQ"
     }
   },
   "QFkk2UMF_VM": {
@@ -3535,6 +3557,7 @@
       "title": "\u3010Meeta Osita | V&U\u3011Kratos my husband #shortsfeed #fyp #godofwar #kratos"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-29T14:00:28Z",
       "scheduledStartTime": "2024-05-29T14:00:00Z",
       "activeLiveChatId": "Cg0KC1RZU3Z2TXJMaGNVKicKGFVDcHVfWVNEeS0wYmZzeXBrYU9lQy1zQRILVFlTdnZNckxoY1U"
     }
@@ -4320,6 +4343,7 @@
       "title": "\u3010Wuthering Waves\u3011Getting Sponsored by a GAME I LOVE?!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-29T13:56:05Z",
       "scheduledStartTime": "2024-05-29T14:00:00Z",
       "activeLiveChatId": "Cg0KC2FDUEhmUlJlMlcwKicKGFVDSzZvQ01pYjYyZVlBSVBybHJZUlZydxILYUNQSGZSUmUyVzA"
     }
@@ -4626,6 +4650,17 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC2RYMU5aVE1vQ0VZKicKGFVDQmdoVUtBX0wwbmEwU2VRNnNuek1NURILZFgxTlpUTW9DRVk"
+    }
+  },
+  "dee_the_sphinx": {
+    "snippet": {
+      "channelId": "dee_the_sphinx",
+      "title": "\ud83d\udd06One more before I go....\ud83d\udd06!discord [Vtuber]",
+      "channelTitle": "Dee_the_Sphinx"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-29T14:01:20Z",
+      "twitch": true
     }
   },
   "df9Iw5DfXS8": {
@@ -5605,8 +5640,20 @@
       "title": "\u3010Meeta Osita | V&U\u3011Kratos my love, I'm back! (God of War Pt.1)"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-29T14:00:38Z",
       "scheduledStartTime": "2024-05-29T14:00:00Z",
       "activeLiveChatId": "Cg0KC21pOTdEWURkbVB3KicKGFVDcHVfWVNEeS0wYmZzeXBrYU9lQy1zQRILbWk5N0RZRGRtUHc"
+    }
+  },
+  "miya_mareena": {
+    "snippet": {
+      "channelId": "miya_mareena",
+      "title": "[Drops] WuWa Sponsorship! - Shark Girl Hours #sponsored !waves [ !merch, !gg ]",
+      "channelTitle": "miya_mareena"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-29T13:55:28Z",
+      "twitch": true
     }
   },
   "mpeAwPXKSqg": {
@@ -6157,17 +6204,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-04-28T09:00:00Z",
       "activeLiveChatId": "Cg0KC3JnZGk4YnRlUWdjKicKGFVDOHpnS2FTOExpeUwyOG1kaFJDMm5CZxILcmdkaThidGVRZ2M"
-    }
-  },
-  "riyu_thelamb": {
-    "snippet": {
-      "channelId": "riyu_thelamb",
-      "title": "LOSING STREAK WITH @DELPHIPLAYDEAD\u3010PROJECT VERSES\u3011",
-      "channelTitle": "riyu_thelamb"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-29T11:30:01Z",
-      "twitch": true
     }
   },
   "rn2SX1mvIyc": {
@@ -6807,6 +6843,7 @@
       "title": "ESCAPE SIMULATOR VR with Sonny, Rosemi and Doppio\u3010Maria Marionette | NIJISANJI EN\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-29T14:02:03Z",
       "scheduledStartTime": "2024-05-29T14:00:00Z",
       "activeLiveChatId": "Cg0KC3c4ZTZ5ZkJyRWdNKicKGFVDd2FTOF9TN2tNaUtBM2l6bFRXSGJRZxILdzhlNnlmQnJFZ00"
     }
@@ -7098,6 +7135,7 @@
       "title": "\u3010GEOGUESSR\u3011WORLD DOMINATION!\u3010 Reina Ronronea | globie\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-29T14:01:10Z",
       "scheduledStartTime": "2024-05-29T14:00:00Z",
       "activeLiveChatId": "Cg0KC3o2VkxXTy15R1A0KicKGFVDVm1oZzR3Y1RWcGp5Q29LRFk1OW1ZdxILejZWTFdPLXlHUDQ"
     }
