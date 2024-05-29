@@ -130,6 +130,17 @@
       "scheduledStartTime": "2026-05-31T19:00:00Z"
     }
   },
+  "-UvuDhnGLYk": {
+    "snippet": {
+      "publishedAt": "2024-05-29T22:19:52Z",
+      "channelId": "UCO8WcDsF5znr-qsXlzZNpqg",
+      "title": "no 5 stars? \ud83d\udc40 (me too) \u3010Wuthering Waves\u3011\u3010NIJISANJI EN | Ver Vermillion\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-30T00:00:00Z",
+      "activeLiveChatId": "Cg0KCy1VdnVEaG5HTFlrKicKGFVDTzhXY0RzRjV6bnItcXNYbHpaTnBxZxILLVV2dURobkdMWWs"
+    }
+  },
   "-Vfl3oyEwys": {
     "snippet": {
       "publishedAt": "2024-05-27T12:30:21Z",
@@ -734,18 +745,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-29T23:00:00Z",
       "activeLiveChatId": "Cg0KCzVjc3pXS2NENnJBKicKGFVDeGVyUWxFMHQxeVk0YnFlSzVsZE05QRILNWNzeldLY0Q2ckE"
-    }
-  },
-  "5ifTd4uyIRw": {
-    "snippet": {
-      "publishedAt": "2024-05-29T17:50:01Z",
-      "channelId": "UCCA4jJY5PrTfIFJIcbI_NhQ",
-      "title": "\u3010IDK\u3011 whisper singing hehe"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-29T21:02:15Z",
-      "scheduledStartTime": "2024-05-29T21:00:00Z",
-      "activeLiveChatId": "Cg0KCzVpZlRkNHV5SVJ3KicKGFVDQ0E0akpZNVByVGZJRkpJY2JJX05oURILNWlmVGQ0dXlJUnc"
     }
   },
   "5rJScK0wKFM": {
@@ -2962,18 +2961,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-18T18:00:00Z",
       "activeLiveChatId": "Cg0KC1AtU1QzdEMyUVNRKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILUC1TVDN0QzJRU1E"
-    }
-  },
-  "P0MlR_bsTAI": {
-    "snippet": {
-      "publishedAt": "2024-05-27T18:53:42Z",
-      "channelId": "UCv1ThyE4KVYnnVY8GLftnoA",
-      "title": "\u3010HANDCAM\u3011Popin' Cookin' Redemption!\u3010V4Mirai | Serina Maiko | ENVtuber\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-29T21:00:31Z",
-      "scheduledStartTime": "2024-05-29T21:00:00Z",
-      "activeLiveChatId": "Cg0KC1AwTWxSX2JzVEFJKicKGFVDdjFUaHlFNEtWWW5uVlk4R0xmdG5vQRILUDBNbFJfYnNUQUk"
     }
   },
   "P3Qq6JWp9Yk": {
@@ -6445,6 +6432,7 @@
       "title": "\u3010DRAWING ZATSUDAN\u3011 Let's Draw Ryoma! \ud83d\udcb3\ud83d\udca8 \u3010NIJISANJI EN | Aia Amare \u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-29T22:16:46Z",
       "scheduledStartTime": "2024-05-29T22:00:00Z",
       "activeLiveChatId": "Cg0KC3VDaEZqUkM5WTVvKicKGFVDTjY4TG9NM2toUzRnZEJNaVdKTzhXQRILdUNoRmpSQzlZNW8"
     }
