@@ -738,5 +738,27 @@
       "actualEndTime": "2024-05-22T19:20:04Z",
       "scheduledStartTime": "2024-05-22T16:00:00Z"
     }
+  },
+  "3kctKkunCLs": {
+    "snippet": {
+      "publishedAt": "2024-05-29T04:28:33Z",
+      "channelId": "UClcMT9V9iu7xphkHVHglHTg",
+      "title": "\u3010HONKAI: STAR RAIL\u3011THE CHARMONY FESTIVAL BEGINS"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-31T16:00:00Z",
+      "activeLiveChatId": "Cg0KCzNrY3RLa3VuQ0xzKicKGFVDbGNNVDlWOWl1N3hwaGtIVkhnbEhUZxILM2tjdEtrdW5DTHM"
+    }
+  },
+  "D0yEZBXmAnc": {
+    "snippet": {
+      "publishedAt": "2024-05-29T04:26:33Z",
+      "channelId": "UClcMT9V9iu7xphkHVHglHTg",
+      "title": "\u3010PERSONA 3 RELOAD\u3011HE HAS A PERSONA???????"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-29T16:00:00Z",
+      "activeLiveChatId": "Cg0KC0QweUVaQlhtQW5jKicKGFVDbGNNVDlWOWl1N3hwaGtIVkhnbEhUZxILRDB5RVpCWG1BbmM"
+    }
   }
 }
