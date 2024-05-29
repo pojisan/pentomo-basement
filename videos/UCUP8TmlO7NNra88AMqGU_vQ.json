@@ -5526,13 +5526,23 @@
     "snippet": {
       "publishedAt": "2024-05-29T10:00:19Z",
       "channelId": "UCUP8TmlO7NNra88AMqGU_vQ",
-      "title": "\u5c0f\u6e05\u6c34\u900f\u306b\u3088\u308b\u58f0\u771f\u4f3c\u96c6\u30fb\u30fb\uff08\uff1f\uff09"
+      "title": "\u5c0f\u6e05\u6c34\u900f\u306b\u3088\u308b\u58f0\u771f\u4f3c\u96c6\u30fb\u30fb\uff08\uff1f\uff09#shorts"
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-29T10:00:19Z",
-      "scheduledStartTime": "2024-05-29T10:00:00Z",
-      "activeLiveChatId": "Cg0KC291OXBkWTBHREVvKicKGFVDVVA4VG1sTzdOTnJhODhBTXFHVV92URILb3U5cGRZMEdERW8",
-      "premiere": true
+      "actualEndTime": "2024-05-29T10:01:50Z",
+      "scheduledStartTime": "2024-05-29T10:00:00Z"
+    }
+  },
+  "lUHYzhfF1GI": {
+    "snippet": {
+      "publishedAt": "2024-05-29T08:48:06Z",
+      "channelId": "UCUP8TmlO7NNra88AMqGU_vQ",
+      "title": "#5\u3010  P4G / \u30da\u30eb\u30bd\u30ca4 \u30b6\u30fb\u30b4\u30fc\u30eb\u30c7\u30f3 \u3011\u5b8c\u5168\u521d\u898b\uff01\uff01\u5b8c\u4e8c\u3068\u6109\u5feb\u306a\u4ef2\u9593\u305f\u3061\u3010\u5c0f\u6e05\u6c34 \u900f / \u306b\u3058\u3055\u3093\u3058\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-29T15:00:00Z",
+      "activeLiveChatId": "Cg0KC2xVSFl6aGZGMUdJKicKGFVDVVA4VG1sTzdOTnJhODhBTXFHVV92URILbFVIWXpoZkYxR0k"
     }
   }
 }
