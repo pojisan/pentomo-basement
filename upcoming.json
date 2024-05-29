@@ -2056,6 +2056,7 @@
       "title": "\u3010DUCK DETECTIVE\u3011  if quack = QUACK? then QUAACKKK!!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-29T12:09:36Z",
       "scheduledStartTime": "2024-05-29T12:00:00Z",
       "activeLiveChatId": "Cg0KC0hybWZHTVQ3cGpjKicKGFVDYnJiRktGaHlIRDRiTUpiRWNYWnoxZxILSHJtZkdNVDdwamM"
     }
@@ -2546,6 +2547,7 @@
       "title": "\u3010\u5b66\u5712\u30a2\u30a4\u30c9\u30eb\u30de\u30b9\u30bf\u30fc\u3011\u3064\u3044\u306b\u5b66\u30de\u30b9\u59cb\u3081\u307e\u3059\u2026\u30c3\uff01\uff01\uff01\u3010\u306b\u3058\u3055\u3093\u3058/\u753a\u7530\u3061\u307e\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-29T12:04:29Z",
       "scheduledStartTime": "2024-05-29T12:00:00Z",
       "activeLiveChatId": "Cg0KC0xSMkVKbU14VlZvKicKGFVDbzdUUmozY1MtZl8xRDlaRG11VHNqdxILTFIyRUptTXhWVm8"
     }
@@ -5386,6 +5388,17 @@
       "activeLiveChatId": "Cg0KC2tlMTZnRmdhbUdRKicKGFVDSzlsNnJUd1UzaGlTWmlqSU1xNTFHdxILa2UxNmdGZ2FtR1E"
     }
   },
+  "kirispica": {
+    "snippet": {
+      "channelId": "kirispica",
+      "title": "if quack = QUACK? then QUAACKKK!! \u3010Kirispica | V-Dere\u3011",
+      "channelTitle": "kirispica"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-29T12:08:49Z",
+      "twitch": true
+    }
+  },
   "l3uqelUhGhU": {
     "snippet": {
       "publishedAt": "2024-03-22T18:06:38Z",
@@ -5490,18 +5503,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-05-27T23:00:00Z",
       "activeLiveChatId": "Cg0KC203bGRsVEkzamlrKicKGFVDMHdfZHZrSXduWHpNYWs2Z2ZlaW9SURILbTdsZGxUSTNqaWs"
-    }
-  },
-  "mArk6h4iRsI": {
-    "snippet": {
-      "publishedAt": "2024-05-29T08:15:46Z",
-      "channelId": "UCRlQzuVeYxTDPobPN1jaVkQ",
-      "title": "\u3016Just Chilling\u3017Sick but chatty ehehe\u3016Cyon \u2765 V&U\u3017#shorts  #shortslive  #shortsfeed"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-29T08:31:01Z",
-      "scheduledStartTime": "2024-05-29T08:30:00Z",
-      "activeLiveChatId": "Cg0KC21Bcms2aDRpUnNJKicKGFVDUmxRenVWZVl4VERQb2JQTjFqYVZrURILbUFyazZoNGlSc0k"
     }
   },
   "mBMP-cpNO1Q": {
@@ -6711,18 +6712,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-30T18:00:00Z",
       "activeLiveChatId": "Cg0KC3Z2NkhVRkRmWjEwKicKGFVDaWFBSmZka3J3dURqV2lRallaV3BYdxILdnY2SFVGRGZaMTA"
-    }
-  },
-  "w0gS9ZUOoSs": {
-    "snippet": {
-      "publishedAt": "2024-05-29T09:46:48Z",
-      "channelId": "UCHt4F3--Hq0sNXP6DEdlSmg",
-      "title": "1 Hour to Know Miya Mareena \ud83e\udd88 Shark \u3010MIKI HITSUGI | SPECIALITE\u3011#mik1tv"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-29T10:52:49Z",
-      "scheduledStartTime": "2024-05-29T11:00:00Z",
-      "activeLiveChatId": "Cg0KC3cwZ1M5WlVPb1NzKicKGFVDSHQ0RjMtLUhxMHNOWFA2REVkbFNtZxILdzBnUzlaVU9vU3M"
     }
   },
   "w8DLUoEbtLk": {
