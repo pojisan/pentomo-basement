@@ -434,8 +434,22 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-28T22:04:24Z",
+      "actualEndTime": "2024-05-28T23:58:27Z",
       "scheduledStartTime": "2024-05-28T22:54:14Z",
       "activeLiveChatId": "Cg0KC3A4dUlrNFVMb2JVKicKGFVDb3FQc1VXXzJJX2JaN041SDNGNFliURILcDh1SWs0VUxvYlU"
+    }
+  },
+  "hwbKDJkT0J0": {
+    "snippet": {
+      "publishedAt": "2024-05-29T00:00:16Z",
+      "channelId": "UCoqPsUW_2I_bZ7N5H3F4YbQ",
+      "title": "Last Cup Of Coffee  [#LaikaCream #coversong ]"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-29T00:00:16Z",
+      "scheduledStartTime": "2024-05-29T00:00:00Z",
+      "activeLiveChatId": "Cg0KC2h3YktESmtUMEowKicKGFVDb3FQc1VXXzJJX2JaN041SDNGNFliURILaHdiS0RKa1QwSjA",
+      "premiere": true
     }
   }
 }
