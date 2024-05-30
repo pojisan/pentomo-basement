@@ -1053,8 +1053,18 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-30T09:32:25Z",
       "actualEndTime": "2024-05-30T11:58:31Z",
-      "scheduledStartTime": "2024-05-30T09:30:00Z",
-      "activeLiveChatId": "Cg0KC2g5OHVMM2djVG9ZKicKGFVDTkExSndCd1pza180VVUtOHM2Q1ZfQRILaDk4dUwzZ2NUb1k"
+      "scheduledStartTime": "2024-05-30T09:30:00Z"
+    }
+  },
+  "kSNyhTAbVno": {
+    "snippet": {
+      "publishedAt": "2024-05-30T12:06:57Z",
+      "channelId": "UCNA1JwBwZsk_4UU-8s6CV_A",
+      "title": "grandma sings songs of her past | Karaoke"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-01T13:00:00Z",
+      "activeLiveChatId": "Cg0KC2tTTnloVEFiVm5vKicKGFVDTkExSndCd1pza180VVUtOHM2Q1ZfQRILa1NOeWhUQWJWbm8"
     }
   }
 }
