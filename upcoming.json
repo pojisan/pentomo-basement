@@ -3513,7 +3513,7 @@
       "title": "\u3010Holocure\u3011Let's Collect Them Cuties!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-30T14:00:00Z",
+      "scheduledStartTime": "2024-05-30T13:00:00Z",
       "activeLiveChatId": "Cg0KC1ZPVDZ4Slp0N1dVKicKGFVDS3BpSlFBWF9HbmM1cmpSQjh5WFQwQRILVk9UNnhKWnQ3V1U"
     }
   },
@@ -5241,17 +5241,6 @@
       "activeLiveChatId": "Cg0KC2xZNExqUEtwTWgwKicKGFVDYkxGdVNyQVFLa3VzcmpUdkNPNWdYURILbFk0TGpQS3BNaDA"
     }
   },
-  "lillianthemaid": {
-    "snippet": {
-      "channelId": "lillianthemaid",
-      "title": "This isn't scary...",
-      "channelTitle": "lillianthemaid"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-30T10:13:18Z",
-      "twitch": true
-    }
-  },
   "lpK2hChX6oU": {
     "snippet": {
       "publishedAt": "2024-05-26T05:50:30Z",
@@ -6133,6 +6122,7 @@
       "title": "\u3010 Getting Over It \u3011 Ngetest kesabaran ku setebal apa \u3010 MASAKI RINA \u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-30T12:47:07Z",
       "scheduledStartTime": "2024-05-30T12:45:00Z",
       "activeLiveChatId": "Cg0KC3R3LVR0bV95NmEwKicKGFVDMWVYX01Wck4wRUJLZHBrbjliLWpodxILdHctVHRtX3k2YTA"
     }
