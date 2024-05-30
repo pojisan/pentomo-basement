@@ -1106,6 +1106,17 @@
       "activeLiveChatId": "Cg0KC0JtSjJ4WkZpdlVVKicKGFVDbGNNVDlWOWl1N3hwaGtIVkhnbEhUZxILQm1KMnhaRml2VVU"
     }
   },
+  "C001Mrdwias": {
+    "snippet": {
+      "publishedAt": "2024-05-30T10:16:32Z",
+      "channelId": "UC3FWSdh_KtELaee8t400JbA",
+      "title": "\u3010CHAT & HANDCAM\u3011MCM London Comic Con 2024 Haul & Chat\u3010Pippa Pebblesworth | globie\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-30T18:00:00Z",
+      "activeLiveChatId": "Cg0KC0MwMDFNcmR3aWFzKicKGFVDM0ZXU2RoX0t0RUxhZWU4dDQwMEpiQRILQzAwMU1yZHdpYXM"
+    }
+  },
   "C2Vj8Vl_ikY": {
     "snippet": {
       "publishedAt": "2024-05-27T18:35:23Z",
@@ -2931,6 +2942,17 @@
       "activeLiveChatId": "Cg0KC1F0TUs0eUI5eVdVKicKGFVDSXUxclJpUUxlVVU4ZTFzYU42STBlZxILUXRNSzR5Qjl5V1U"
     }
   },
+  "R-gDnUyZIFk": {
+    "snippet": {
+      "publishedAt": "2024-05-30T10:17:20Z",
+      "channelId": "UCbrbFKFhyHD4bMJbEcXZz1g",
+      "title": "\u3010Singing & Piano\u3011 Requests Open! #\u6b4c\u67a0"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-30T12:00:00Z",
+      "activeLiveChatId": "Cg0KC1ItZ0RuVXlaSUZrKicKGFVDYnJiRktGaHlIRDRiTUpiRWNYWnoxZxILUi1nRG5VeVpJRms"
+    }
+  },
   "RIcFHJqjmUs": {
     "snippet": {
       "publishedAt": "2024-05-28T15:48:06Z",
@@ -3209,6 +3231,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-03T16:00:00Z",
       "activeLiveChatId": "Cg0KC1VGNEVSZTBrd2pvKicKGFVDUk1zMGRSUjRNRW5DZnR5azZsMXR2URILVUY0RVJlMGt3am8"
+    }
+  },
+  "UIoaZXPGBEg": {
+    "snippet": {
+      "publishedAt": "2024-05-30T10:15:36Z",
+      "channelId": "UCRIeS3g-awIQuPAPnApHbCA",
+      "title": "\u3010PKMN:INFINITE FUSION\u3011WHO'S THAT POKEMON?! #AresNanos"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-31T02:00:00Z",
+      "activeLiveChatId": "Cg0KC1VJb2FaWFBHQkVnKicKGFVDUkllUzNnLWF3SVF1UEFQbkFwSGJDQRILVUlvYVpYUEdCRWc"
     }
   },
   "UIxipTWoCYo": {
@@ -4086,18 +4119,6 @@
       "activeLiveChatId": "Cg0KC2I0aE5McmdLUjRVKicKGFVDN0diN1Vhd2UyMFF5RmliaExsMWx6QRILYjRoTkxyZ0tSNFU"
     }
   },
-  "bROgJomJbBQ": {
-    "snippet": {
-      "publishedAt": "2024-05-29T23:20:54Z",
-      "channelId": "UCYadZR9mRignx4RKvPow44g",
-      "title": "Is This the the SCARIEST Zelda Temple!? | RETRO GAME TIME! \ud83d\udc97\u3010 Legend of Zelda: Ocarina of Time \u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-30T02:34:07Z",
-      "scheduledStartTime": "2024-05-30T02:30:00Z",
-      "activeLiveChatId": "Cg0KC2JST2dKb21KYkJRKicKGFVDWWFkWlI5bVJpZ254NFJLdlBvdzQ0ZxILYlJPZ0pvbUpiQlE"
-    }
-  },
   "bWrKy65IOAc": {
     "snippet": {
       "publishedAt": "2024-02-13T15:16:19Z",
@@ -4451,6 +4472,7 @@
       "title": "Will I survive? or will I be the slayer?\ud83d\udc7c @Lillianthemaid @LorelaiLoch @Laphipi @ScarlettFlameheart"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-30T10:12:39Z",
       "scheduledStartTime": "2024-05-30T10:00:00Z",
       "activeLiveChatId": "Cg0KC2VmUDJ0NkVrWjRZKicKGFVDUmtkRkdYd0J0eHZtOVNzZm1ObU1aQRILZWZQMnQ2RWtaNFk"
     }
@@ -5048,6 +5070,17 @@
       "activeLiveChatId": "Cg0KC2xZNExqUEtwTWgwKicKGFVDYkxGdVNyQVFLa3VzcmpUdkNPNWdYURILbFk0TGpQS3BNaDA"
     }
   },
+  "lillianthemaid": {
+    "snippet": {
+      "channelId": "lillianthemaid",
+      "title": "This isn't scary...",
+      "channelTitle": "lillianthemaid"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-30T10:13:18Z",
+      "twitch": true
+    }
+  },
   "lpK2hChX6oU": {
     "snippet": {
       "publishedAt": "2024-05-26T05:50:30Z",
@@ -5322,6 +5355,7 @@
       "title": "DBD Collab! @ArialYuriko @LorelaiLoch @Laphipi @Lillianthemaid"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-30T10:13:11Z",
       "scheduledStartTime": "2024-05-30T10:00:00Z",
       "activeLiveChatId": "Cg0KC291Q3FmMVZ5dlV3KicKGFVDZS1fcDZvdW40cDAtZ2RCNEFrZlQxURILb3VDcWYxVnl2VXc"
     }
