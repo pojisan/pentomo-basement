@@ -3741,7 +3741,8 @@
       "title": "\u3010SUPERCHAT READING\u3011belated thank yous \ud83d\udc3e\u2728 \u3010FUWAMOCO\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-31T01:00:00Z"
+      "scheduledStartTime": "2024-05-31T01:00:00Z",
+      "activeLiveChatId": "Cg0KC1kxX1RyakswMDkwKicKGFVDdDlIX1JwUXpoeHpseUJ4RnFyZEhxQRILWTFfVHJqSzAwOTA"
     }
   },
   "Y393Am8XnV4": {
@@ -3977,7 +3978,8 @@
       "title": "drinking and community gaming!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-30T23:30:00Z",
+      "actualStartTime": "2024-05-30T23:30:34Z",
+      "scheduledStartTime": "2024-05-30T23:30:27Z",
       "activeLiveChatId": "Cg0KC19mSFBMd284MF9VKicKGFVDY0ljTVJWcE5xV1FuNFduRGhSQVNBdxILX2ZIUEx3bzgwX1U"
     }
   },
@@ -4743,9 +4745,10 @@
     "snippet": {
       "publishedAt": "2024-05-26T17:38:33Z",
       "channelId": "UCESQsSc7Uh8EbiXVtmPbD_A",
-      "title": "Morning Chat Half Human Half Anime Girl!\u3010V4Mirai | Abi Kadabura\u3011"
+      "title": "VTuber Bath! | stinky\u3010V4Mirai | Abi Kadabura\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-30T23:26:18Z",
       "activeLiveChatId": "Cg0KC2hqUUF6cDhWNmNvKicKGFVDRVNRc1NjN1VoOEViaVhWdG1QYkRfQRILaGpRQXpwOFY2Y28"
     }
   },
@@ -5222,6 +5225,17 @@
       "activeLiveChatId": "Cg0KC25iSzd0TkxCcVNjKicKGFVDSFZZZDJGdGVrNUhpZWdSanQyWDkyZxILbmJLN3ROTEJxU2M"
     }
   },
+  "nbUFzcx_tu0": {
+    "snippet": {
+      "publishedAt": "2024-05-30T23:21:53Z",
+      "channelId": "UCBURM8S4LH7cRZ0Clea9RDA",
+      "title": "\u3010BLOODBORNE\u3011oooh here we go ~ FIRST TIME\u3010NIJISANJI EN | Reimu Endou\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-31T13:00:00Z",
+      "activeLiveChatId": "Cg0KC25iVUZ6Y3hfdHUwKicKGFVDQlVSTThTNExIN2NSWjBDbGVhOVJEQRILbmJVRnpjeF90dTA"
+    }
+  },
   "ng1hd42fv8I": {
     "snippet": {
       "publishedAt": "2024-05-26T11:02:35Z",
@@ -5263,6 +5277,17 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC25va3NUWDVMUWFFKicKGFVDbWJzOFQ2TVdxVUhQMXRJUXZTZ0tyZxILbm9rc1RYNUxRYUU"
+    }
+  },
+  "oB2SXD35n7k": {
+    "snippet": {
+      "publishedAt": "2024-05-30T23:21:38Z",
+      "channelId": "UCpu_YSDy-0bfsypkaOeC-sA",
+      "title": "\u3010Meeta Osita | V&U\u3011Let's learn Japanese with photography! (Shashingo) #shortsfeed #fyp #shashingo"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-31T00:00:00Z",
+      "activeLiveChatId": "Cg0KC29CMlNYRDM1bjdrKicKGFVDcHVfWVNEeS0wYmZzeXBrYU9lQy1zQRILb0IyU1hEMzVuN2s"
     }
   },
   "oGZiI4C-wME": {
@@ -5974,6 +5999,7 @@
       "title": "\ud83d\udc14\u3010POKEMON COLOSSEUM\u3011#2 HERETICS MUST BE CLEANSED\u3010Yume+ | Raein Clowd\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-30T23:30:57Z",
       "scheduledStartTime": "2024-05-30T23:30:00Z",
       "activeLiveChatId": "Cg0KC3VIa1BFbV9jX1JvKicKGFVDVlBCR21sc0M4Uy1UTmFfSUVWY3oxQRILdUhrUEVtX2NfUm8"
     }
