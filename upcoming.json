@@ -1232,6 +1232,17 @@
       "activeLiveChatId": "Cg0KC0NpWC10WnNhaGcwKicKGFVDd2FTOF9TN2tNaUtBM2l6bFRXSGJRZxILQ2lYLXRac2FoZzA"
     }
   },
+  "CkozCZake_s": {
+    "snippet": {
+      "publishedAt": "2024-05-30T17:19:28Z",
+      "channelId": "UCcIcMRVpNqWQn4WnDhRASAw",
+      "title": "day 4!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-30T18:00:00Z",
+      "activeLiveChatId": "Cg0KC0Nrb3pDWmFrZV9zKicKGFVDY0ljTVJWcE5xV1FuNFduRGhSQVNBdxILQ2tvekNaYWtlX3M"
+    }
+  },
   "CpfOi7ZB5r8": {
     "snippet": {
       "publishedAt": "2024-05-29T14:26:20Z",
@@ -5349,17 +5360,6 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-30T16:59:09Z",
-      "twitch": true
-    }
-  },
-  "ninete_en": {
-    "snippet": {
-      "channelId": "ninete_en",
-      "title": "\u3010Drops\u2705\u3011Day36\uff1a\u304a\u3044\u3001\u7b11\u3048\u308b\u3002\u3084\u3063\u3068\u7b11\u3048\u308b\u3002",
-      "channelTitle": "\u30ca\u30a4\u30f3\u30c6\u30a3\u30fc\u30f3"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-30T15:05:16Z",
       "twitch": true
     }
   },
