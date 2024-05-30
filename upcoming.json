@@ -327,10 +327,10 @@
     "snippet": {
       "publishedAt": "2024-05-24T11:09:59Z",
       "channelId": "UCk2k1y-d24nFyVCvyxnAaYA",
-      "title": "I BEAT A WORLD RECORD"
+      "title": "tba"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-03T23:00:00Z",
+      "scheduledStartTime": "2024-06-06T23:00:00Z",
       "activeLiveChatId": "Cg0KCzFWU2tyRHVPR2FNKicKGFVDazJrMXktZDI0bkZ5VkN2eXhuQWFZQRILMVZTa3JEdU9HYU0"
     }
   },
@@ -433,10 +433,11 @@
     "snippet": {
       "publishedAt": "2024-05-30T03:08:56Z",
       "channelId": "UCKg9vWWT_2yK3FFNNnnhhLw",
-      "title": "\ud83d\udfe3Indigo Park - Indigo Park Is Now My FAVORITE Mascot Horror!  \u2726 EN|TH [ Goozilla Ily | Autumnia ]"
+      "title": "\ud83d\udfe3Goozi Game - Indigo Park Is Now My FAVORITE Mascot Horror!  \u2726 EN|TH [ Goozilla Ily | Autumnia ]"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-30T13:00:00Z",
+      "actualStartTime": "2024-05-30T12:59:05Z",
+      "scheduledStartTime": "2024-05-30T13:00:54Z",
       "activeLiveChatId": "Cg0KCzNVMTN4dEZPd1ZnKicKGFVDS2c5dldXVF8yeUszRkZOTm5uaGhMdxILM1UxM3h0Rk93Vmc"
     }
   },
@@ -721,6 +722,17 @@
       "activeLiveChatId": "Cg0KCzc2YnR5YUFfaFJrKicKGFVDSHVWZ25PR3RETjlIMnA0VnJsRDYyQRILNzZidHlhQV9oUms"
     }
   },
+  "79NeBVreZsQ": {
+    "snippet": {
+      "publishedAt": "2024-05-30T12:55:13Z",
+      "channelId": "UCqjTqdVlvIipZXIKeCkHKUA",
+      "title": "\u3010 #\u306b\u3058\u3055\u3093\u3058\u30b9\u30de\u30d6\u30e9\u676f  \u3011\u9b3c\u6559\u5b98\u53c2\u6226\uff01\uff1f\u6559\u6388\u306e\u5927\u4f1a\u524d\u731b\u7279\u8a13\u3010\u30aa\u30ea\u30d0\u30fc\u30fb\u30a8\u30d0\u30f3\u30b9/\u306b\u3058\u3055\u3093\u3058\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-31T04:00:00Z",
+      "activeLiveChatId": "Cg0KCzc5TmVCVnJlWnNRKicKGFVDcWpUcWRWbHZJaXBaWElLZUNrSEtVQRILNzlOZUJWcmVac1E"
+    }
+  },
   "7D7RaHZx57A": {
     "snippet": {
       "publishedAt": "2024-05-28T22:58:10Z",
@@ -901,6 +913,7 @@
       "title": "\ud83d\udd34\u3010DON'T FACE UP\u3011 A Horror Game Where You Have To Look Down... OR ELSE"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-30T13:01:07Z",
       "scheduledStartTime": "2024-05-30T13:00:00Z",
       "activeLiveChatId": "Cg0KCzk4emtSaVVLSGlBKicKGFVDNDE3UVBhV0xMNHJjWUJBRVNQTGZyQRILOTh6a1JpVUtIaUE"
     }
@@ -912,7 +925,9 @@
       "title": "\u300e DUCK DETECTIVE \u300fDeltective is on the case! | #OSHICelanis #OshiLinkEN"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-30T13:00:00Z"
+      "actualStartTime": "2024-05-30T12:54:17Z",
+      "scheduledStartTime": "2024-05-30T13:00:00Z",
+      "activeLiveChatId": "Cg0KCzk5OTVmc1ZNdURzKicKGFVDTndZNlpIMjd2WkRqUmgyQzluc0NqdxILOTk5NWZzVk11RHM"
     }
   },
   "9UZi4BIJSv4": {
@@ -3513,6 +3528,7 @@
       "title": "\u3010Holocure\u3011Let's Collect Them Cuties!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-30T12:59:01Z",
       "scheduledStartTime": "2024-05-30T13:00:00Z",
       "activeLiveChatId": "Cg0KC1ZPVDZ4Slp0N1dVKicKGFVDS3BpSlFBWF9HbmM1cmpSQjh5WFQwQRILVk9UNnhKWnQ3V1U"
     }
@@ -3686,6 +3702,7 @@
       "title": "What should we play today?"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-30T12:57:50Z",
       "scheduledStartTime": "2024-05-30T13:00:00Z",
       "activeLiveChatId": "Cg0KC1dndUJ0NVd2aTM4KicKGFVDS0tINjRpSFpIMk85TmRsc09RRDJRZxILV2d1QnQ1V3ZpMzg"
     }
@@ -4572,6 +4589,17 @@
       "activeLiveChatId": "Cg0KC2VXYWhmTGZZaGxRKicKGFVDTzR6TWFZQkV6ZFlJU2Zlb082aXBfURILZVdhaGZMZllobFE"
     }
   },
+  "eXLw66KFALI": {
+    "snippet": {
+      "publishedAt": "2024-05-30T12:55:24Z",
+      "channelId": "UCe22Bcwd_GCpTjLxn83zl7A",
+      "title": "\u3010\u30da\u30eb\u30bd\u30ca3 \u30ea\u30ed\u30fc\u30c9/P3R\u301101:\u521d\u3081\u307e\u3057\u3066\u3001\u300c\u5f71\u6642\u9593\u300d\u203b\u30cd\u30bf\u30d0\u30ec\u3042\u308a\u3010\u5148\u6597\u5be7/\u306b\u3058\u3055\u3093\u3058\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-31T13:00:00Z",
+      "activeLiveChatId": "Cg0KC2VYTHc2NktGQUxJKicKGFVDZTIyQmN3ZF9HQ3BUakx4bjgzemw3QRILZVhMdzY2S0ZBTEk"
+    }
+  },
   "e_c-uqyy6jY": {
     "snippet": {
       "publishedAt": "2024-05-30T11:34:50Z",
@@ -4774,6 +4802,7 @@
       "title": "\u3010Subnautica: Below Zero\u3011More Exploration!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-30T13:01:22Z",
       "scheduledStartTime": "2024-05-30T13:00:00Z",
       "activeLiveChatId": "Cg0KC2cxazY1VFdibmdrKicKGFVDazB2dXd3c21fVVFISElPZ0d2eFUtQRILZzFrNjVUV2JuZ2s"
     }
@@ -5164,6 +5193,7 @@
       "title": "\u3010Love and Deepspace\u3011Does Merman taste like Sushi or Human?"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-30T13:00:19Z",
       "scheduledStartTime": "2024-05-30T13:00:00Z",
       "activeLiveChatId": "Cg0KC2tMblhiU0wzdVp3KicKGFVDTkhjdDFQV2pRTjA1SkROaTNBZjZLZxILa0xuWGJTTDN1Wnc"
     }
