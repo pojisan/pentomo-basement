@@ -2606,17 +2606,6 @@
       "activeLiveChatId": "Cg0KC01pNFNzbGZCYVpBKicKGFVDRU1HWVA3cURFeTgwN2dKRVN6NFR6QRILTWk0U3NsZkJhWkE"
     }
   },
-  "MiAAnNtNkpY": {
-    "snippet": {
-      "publishedAt": "2024-05-28T06:14:09Z",
-      "channelId": "UCHVYd2Ftek5HiegRjt2X92g",
-      "title": "\u3010Apex Legends\u3011Wingman is back! \u3010Yuuki Ame\u30fbbondlive EN\u3011"
-    },
-    "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-30T00:00:00Z",
-      "activeLiveChatId": "Cg0KC01pQUFuTnROa3BZKicKGFVDSFZZZDJGdGVrNUhpZWdSanQyWDkyZxILTWlBQW5OdE5rcFk"
-    }
-  },
   "MntqBtiOsDY": {
     "snippet": {
       "publishedAt": "2022-12-01T04:43:01Z",
@@ -3462,6 +3451,7 @@
       "title": "\u3010Art Stream\u3011Let's make another portrait of a senpai!\u3010Vilhelm Vanderbos | globie Gen 2 | Equinnox\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-30T17:03:03Z",
       "scheduledStartTime": "2024-05-30T17:00:00Z",
       "activeLiveChatId": "Cg0KC1ZUUXVBVURnZk1ZKicKGFVDNjc4c0pucVR3bHNXd05rMlJXUksyZxILVlRRdUFVRGdmTVk"
     }
@@ -4151,6 +4141,17 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-30T14:00:19Z",
+      "twitch": true
+    }
+  },
+  "aresmythos": {
+    "snippet": {
+      "channelId": "aresmythos",
+      "title": "\u2694\ufe0fChatting --> Elden Ring DLC Character Prep Playthrough\u2694\ufe0f | !gg !merch !socials",
+      "channelTitle": "AresMythos"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-30T17:10:20Z",
       "twitch": true
     }
   },
