@@ -1196,6 +1196,7 @@
       "title": "Cleaning the Castle~! PowerWash Simulator Zatsudan!\u3010MEMBERSHIP STREAM\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-30T15:02:28Z",
       "scheduledStartTime": "2024-05-30T15:00:00Z",
       "activeLiveChatId": "Cg0KC0NJYXpTdF80MXdnKicKGFVDdnFmNDI2X1hFQ1hnaTJzNnRJamdPdxILQ0lhelN0XzQxd2c"
     }
@@ -1772,18 +1773,6 @@
       "activeLiveChatId": "Cg0KC0dNbFRDRm02a3pZKicKGFVDUTNzX2tRWWYzUHVxT0t1OTBIcklxdxILR01sVENGbTZrelk"
     }
   },
-  "GO0QrB7x6S0": {
-    "snippet": {
-      "publishedAt": "2024-05-30T12:33:20Z",
-      "channelId": "UCtLfA_qUqCJtjXJM2ZR_keg",
-      "title": "\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u30c7\u30d3\u30eb\u304c\u96d1\u8ac7\u67a0\u306b\u964d\u81e8\u30fb\u30fb\u30fb\u3010\u77f3\u795e\u306e\u305e\u307f\uff0f\u306b\u3058\u3055\u3093\u3058\u6240\u5c5e\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-30T13:06:50Z",
-      "scheduledStartTime": "2024-05-30T13:00:00Z",
-      "activeLiveChatId": "Cg0KC0dPMFFyQjd4NlMwKicKGFVDdExmQV9xVXFDSnRqWEpNMlpSX2tlZxILR08wUXJCN3g2UzA"
-    }
-  },
   "GOHLyJZxMJk": {
     "snippet": {
       "publishedAt": "2024-05-30T00:02:31Z",
@@ -1871,18 +1860,6 @@
       "activeLiveChatId": "Cg0KC0dwZk5Ba0gzNkg4KicKGFVDZWpiaWNvUm5RakNPZEFQQXY1SlB3ZxILR3BmTkFrSDM2SDg"
     }
   },
-  "GvkaZBJszZc": {
-    "snippet": {
-      "publishedAt": "2024-05-30T13:02:24Z",
-      "channelId": "UCf4U3iVUDkkhIv3jnr41u-Q",
-      "title": "[Working+Studying] Sending in Resumes...studying... | Muted stream #Vtuber"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-30T13:02:37Z",
-      "scheduledStartTime": "2024-05-30T13:02:23Z",
-      "activeLiveChatId": "Cg0KC0d2a2FaQkpzelpjKicKGFVDZjRVM2lWVURra2hJdjNqbnI0MXUtURILR3ZrYVpCSnN6WmM"
-    }
-  },
   "GyuEVdOwcYk": {
     "snippet": {
       "publishedAt": "2024-05-19T17:26:50Z",
@@ -1936,18 +1913,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-21T17:00:00Z",
       "activeLiveChatId": "Cg0KC0gySjFPTThzbUowKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILSDJKMU9NOHNtSjA"
-    }
-  },
-  "H6qyRN58uDM": {
-    "snippet": {
-      "publishedAt": "2024-05-30T00:01:47Z",
-      "channelId": "UCi6q0z8N1NNYgWPsM1OK25Q",
-      "title": "\u3010ANOTHER CRAB'S TREASURE\u3011Samurai more like Samu-BYE!"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-30T12:15:30Z",
-      "scheduledStartTime": "2024-05-30T12:15:00Z",
-      "activeLiveChatId": "Cg0KC0g2cXlSTjU4dURNKicKGFVDaTZxMHo4TjFOTllnV1BzTTFPSzI1URILSDZxeVJONTh1RE0"
     }
   },
   "HGr-svPkz40": {
@@ -5440,6 +5405,17 @@
       "activeLiveChatId": "Cg0KC25nMWhkNDJmdjhJKicKGFVDMXNtOUgyb3J2eW5EYWpjRTRqcll1ZxILbmcxaGQ0MmZ2OEk"
     }
   },
+  "ninete_en": {
+    "snippet": {
+      "channelId": "ninete_en",
+      "title": "\u3010Drops\u2705\u3011Day36\uff1a\u304a\u3044\u3001\u7b11\u3048\u308b\u3002\u3084\u3063\u3068\u7b11\u3048\u308b\u3002",
+      "channelTitle": "\u30ca\u30a4\u30f3\u30c6\u30a3\u30fc\u30f3"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-30T15:05:16Z",
+      "twitch": true
+    }
+  },
   "nn3QPBiEbp4": {
     "snippet": {
       "publishedAt": "2024-05-27T05:16:19Z",
@@ -6095,17 +6071,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-02T16:00:00Z",
       "activeLiveChatId": "Cg0KC3RXYi1FREExRGhNKicKGFVDel84enRROXJjdV9VcFVwMGh2N2JZdxILdFdiLUVEQTFEaE0"
-    }
-  },
-  "tatsuhikohiroki": {
-    "snippet": {
-      "channelId": "tatsuhikohiroki",
-      "title": "[Working+Studying] Sending in Resumes...studying... | Muted stream #Vtuber",
-      "channelTitle": "tatsuhikohiroki"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-30T13:02:30Z",
-      "twitch": true
     }
   },
   "thKmAPsyAPE": {
