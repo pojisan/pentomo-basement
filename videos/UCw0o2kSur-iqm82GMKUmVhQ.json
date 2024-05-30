@@ -97,8 +97,8 @@
       "title": "KENBISHI KAHOOT!!! [Part 1] - Kenbishi Saya \u5263\u83f1\u54b2\u591c"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-30T03:00:00Z",
-      "activeLiveChatId": "Cg0KC3V4akpjOXRXcExnKicKGFVDdzBvMmtTdXItaXFtODJHTUtVbVZoURILdXhqSmM5dFdwTGc"
+      "actualEndTime": "2024-05-30T03:14:43Z",
+      "scheduledStartTime": "2024-05-30T03:00:00Z"
     }
   },
   "wnt3sBi_gso": {
@@ -122,6 +122,18 @@
       "actualStartTime": "2024-05-28T03:04:24Z",
       "actualEndTime": "2024-05-28T06:28:53Z",
       "scheduledStartTime": "2024-05-28T03:04:28Z"
+    }
+  },
+  "QWpRGTSlX-o": {
+    "snippet": {
+      "publishedAt": "2024-05-30T03:15:44Z",
+      "channelId": "UCw0o2kSur-iqm82GMKUmVhQ",
+      "title": "KENBISHI KAHOOT!!! [Part 1] - Kenbishi Saya \u5263\u83f1\u54b2\u591c"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-30T03:15:58Z",
+      "scheduledStartTime": "2024-05-30T03:16:03Z",
+      "activeLiveChatId": "Cg0KC1FXcFJHVFNsWC1vKicKGFVDdzBvMmtTdXItaXFtODJHTUtVbVZoURILUVdwUkdUU2xYLW8"
     }
   }
 }
