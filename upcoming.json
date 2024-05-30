@@ -835,6 +835,7 @@
       "title": "Milk thief simulator\ud83d\udc7c"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-30T16:00:34Z",
       "scheduledStartTime": "2024-05-30T16:00:00Z",
       "activeLiveChatId": "Cg0KCzhLcEFoOU8zR09JKicKGFVDUmtkRkdYd0J0eHZtOVNzZm1ObU1aQRILOEtwQWg5TzNHT0k"
     }
@@ -878,7 +879,8 @@
       "title": "\u3010Pokemon Colosseum\u3011CHILDHOOD NOSTALGIA RULES!!!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-30T16:00:00Z",
+      "actualStartTime": "2024-05-30T15:57:49Z",
+      "scheduledStartTime": "2024-05-30T15:56:16Z",
       "activeLiveChatId": "Cg0KCzh2NnlOYUYxSHBvKicKGFVDc3d2ZDZfWVdtZDZyaVJrLThvVC1zQRILOHY2eU5hRjFIcG8"
     }
   },
@@ -4269,6 +4271,7 @@
       "title": "\u3010STELLAR BLADE\u3011Action? Fashion!? LET'S GO!!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-30T15:57:20Z",
       "scheduledStartTime": "2024-05-30T16:00:00Z",
       "activeLiveChatId": "Cg0KC2M3R3Q3YzQyTzZnKicKGFVDbHhqM0dsR3BoWlZnZDFTTFloWkttZxILYzdHdDdjNDJPNmc"
     }
@@ -4324,6 +4327,7 @@
       "title": "\u3010Tales of Symphonia FINALE ENDURANCE\u3011 REUNITING THE TWO WORLDS! \u3010Yuno Hanaki\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-30T16:00:24Z",
       "scheduledStartTime": "2024-05-30T16:00:00Z",
       "activeLiveChatId": "Cg0KC2Nvd1N4RzhCX1JRKicKGFVDWmw5MndNaXBqWUZjMVVsbTlZeTY1ZxILY293U3hHOEJfUlE"
     }
@@ -4762,6 +4766,17 @@
       "activeLiveChatId": "Cg0KC2drWjhkbVJJenVFKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILZ2taOGRtUkl6dUU"
     }
   },
+  "gx_aura": {
+    "snippet": {
+      "channelId": "gx_aura",
+      "title": "\ud83e\udd86 QUACK QUACK! WE HAVE A MYSTERY TO SOLVE! | !socials !video !ironside [Duck Detective]",
+      "channelTitle": "GX_Aura"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-30T15:57:20Z",
+      "twitch": true
+    }
+  },
   "h07uSMW5e_M": {
     "snippet": {
       "publishedAt": "2024-05-29T04:31:38Z",
@@ -5167,17 +5182,6 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC2xZNExqUEtwTWgwKicKGFVDYkxGdVNyQVFLa3VzcmpUdkNPNWdYURILbFk0TGpQS3BNaDA"
-    }
-  },
-  "laphipi": {
-    "snippet": {
-      "channelId": "laphipi",
-      "title": "Slime to scary, making Japanese candy instead!| !socials !dc !merch",
-      "channelTitle": "laphipi"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-30T14:00:13Z",
-      "twitch": true
     }
   },
   "lpK2hChX6oU": {
@@ -6039,18 +6043,6 @@
       "scheduledStartTime": "2024-06-01T22:00:00Z",
       "activeLiveChatId": "Cg0KC3RzNkN5X2xfcGZRKicKGFVDaTdUd29tdFMzWnlmakFNNVRXRU1TURILdHM2Q3lfbF9wZlE",
       "premiere": true
-    }
-  },
-  "tw-Ttm_y6a0": {
-    "snippet": {
-      "publishedAt": "2024-05-27T19:27:46Z",
-      "channelId": "UC1eX_MVrN0EBKdpkn9b-jhw",
-      "title": "\u3010 Getting Over It \u3011 Ngetest kesabaran ku setebal apa \u3010 MASAKI RINA \u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-30T12:47:07Z",
-      "scheduledStartTime": "2024-05-30T12:45:00Z",
-      "activeLiveChatId": "Cg0KC3R3LVR0bV95NmEwKicKGFVDMWVYX01Wck4wRUJLZHBrbjliLWpodxILdHctVHRtX3k2YTA"
     }
   },
   "u7mptfQbm0E": {
