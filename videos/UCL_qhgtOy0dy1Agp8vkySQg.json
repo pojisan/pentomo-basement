@@ -12039,8 +12039,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-30T02:15:50Z",
       "actualEndTime": "2024-05-30T04:19:47Z",
-      "scheduledStartTime": "2024-05-30T02:15:21Z",
-      "activeLiveChatId": "Cg0KCzJEdUNUaXZHaTRJKicKGFVDTF9xaGd0T3kwZHkxQWdwOHZreVNRZxILMkR1Q1RpdkdpNEk"
+      "scheduledStartTime": "2024-05-30T02:15:21Z"
     }
   },
   "UkKEzi5VCL0": {
@@ -12061,7 +12060,8 @@
       "title": "\u3010MEMBER'S ONLY\u3011gaming and chatting with members! (fall guys probably!)"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-30T05:00:00Z",
+      "actualStartTime": "2024-05-30T05:00:44Z",
+      "scheduledStartTime": "2024-05-30T05:00:07Z",
       "activeLiveChatId": "Cg0KC3d5c0I0d19fVzFrKicKGFVDTF9xaGd0T3kwZHkxQWdwOHZreVNRZxILd3lzQjR3X19XMWs"
     }
   },
