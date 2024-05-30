@@ -913,7 +913,7 @@
       "title": "\ud83d\udd34\u3010DON'T FACE UP\u3011 A Horror Game Where You Have To Look Down... OR ELSE"
     },
     "liveStreamingDetails": {
-      "actualStartTime": "2024-05-30T13:01:07Z",
+      "actualStartTime": "2024-05-30T13:01:37Z",
       "scheduledStartTime": "2024-05-30T13:00:00Z",
       "activeLiveChatId": "Cg0KCzk4emtSaVVLSGlBKicKGFVDNDE3UVBhV0xMNHJjWUJBRVNQTGZyQRILOTh6a1JpVUtIaUE"
     }
@@ -1766,7 +1766,9 @@
       "title": "\u30a4\u30f3\u30bf\u30fc\u30cd\u30c3\u30c8\u30c7\u30d3\u30eb\u304c\u96d1\u8ac7\u67a0\u306b\u964d\u81e8\u30fb\u30fb\u30fb\u3010\u77f3\u795e\u306e\u305e\u307f\uff0f\u306b\u3058\u3055\u3093\u3058\u6240\u5c5e\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-30T13:00:00Z"
+      "actualStartTime": "2024-05-30T13:06:50Z",
+      "scheduledStartTime": "2024-05-30T13:00:00Z",
+      "activeLiveChatId": "Cg0KC0dPMFFyQjd4NlMwKicKGFVDdExmQV9xVXFDSnRqWEpNMlpSX2tlZxILR08wUXJCN3g2UzA"
     }
   },
   "GOHLyJZxMJk": {
@@ -1866,6 +1868,18 @@
       "actualStartTime": "2024-05-30T11:38:36Z",
       "scheduledStartTime": "2024-05-30T11:30:00Z",
       "activeLiveChatId": "Cg0KC0d0OFBSSVVjMEpjKicKGFVDNjh3NHo2V2l2ZW8zYmkzck4xR290QRILR3Q4UFJJVWMwSmM"
+    }
+  },
+  "GvkaZBJszZc": {
+    "snippet": {
+      "publishedAt": "2024-05-30T13:02:24Z",
+      "channelId": "UCf4U3iVUDkkhIv3jnr41u-Q",
+      "title": "[Working+Studying] Sending in Resumes...studying... | Muted stream #Vtuber"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-30T13:02:37Z",
+      "scheduledStartTime": "2024-05-30T13:02:23Z",
+      "activeLiveChatId": "Cg0KC0d2a2FaQkpzelpjKicKGFVDZjRVM2lWVURra2hJdjNqbnI0MXUtURILR3ZrYVpCSnN6WmM"
     }
   },
   "GyuEVdOwcYk": {
@@ -2784,6 +2798,7 @@
       "title": "\u3010 \u30e2\u30f3\u30cf\u30f3\u30ef\u30fc\u30eb\u30c9/MHWI \u30113\u4eba\u3067\u72e9\u731f\u3059\u308c\u3070\u4f55\u3082\u6016\u304f\u306a\u3044\u2694\u3010\u7345\u5b50\u795e\u30ec\u30aa\u30ca/Re:AcT\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-30T13:06:22Z",
       "scheduledStartTime": "2024-05-30T13:00:00Z",
       "activeLiveChatId": "Cg0KC09PYmlJT2c5Q2Z3KicKGFVDQjFzX0lkTy1yMG5Va1kybVhldGktQRILT09iaUlPZzlDZnc"
     }
@@ -4818,18 +4833,6 @@
       "activeLiveChatId": "Cg0KC2dBZ2lJdGdqT2FnKicKGFVDb3ZLd2dBOWVIVXV0SVdDVldTX0FHdxILZ0FnaUl0Z2pPYWc"
     }
   },
-  "gGJFDpl69tY": {
-    "snippet": {
-      "publishedAt": "2024-05-30T06:58:23Z",
-      "channelId": "UCUtKkGKef8BYMs3h-3zQm9A",
-      "title": "\ud83c\udf0a\u3010Quiz\u3011 \uc18d\ubcf4) \ubbfc\uc218\ud558 \uc9c4\uc9dc \ub611\ub611\ud568 \u203c\ufe0f \u3010KR\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-05-30T10:00:51Z",
-      "scheduledStartTime": "2024-05-30T10:00:00Z",
-      "activeLiveChatId": "Cg0KC2dHSkZEcGw2OXRZKicKGFVDVXRLa0dLZWY4QllNczNoLTN6UW05QRILZ0dKRkRwbDY5dFk"
-    }
-  },
   "gK31rX-EsIw": {
     "snippet": {
       "publishedAt": "2024-04-15T16:41:48Z",
@@ -5344,6 +5347,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2026-05-30T14:45:00Z",
       "activeLiveChatId": "Cg0KC21fSlMxY2N2RWs4KicKGFVDX3Q3d3RTY1ZMazg1SWFEOWpZU1JBQRILbV9KUzFjY3ZFazg"
+    }
+  },
+  "matarakan": {
+    "snippet": {
+      "channelId": "matarakan",
+      "title": "early morning stream! let's work before offkai :) ~ !youtube !podcast !mint",
+      "channelTitle": "MataraKan"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-30T13:09:44Z",
+      "twitch": true
     }
   },
   "mpeAwPXKSqg": {
@@ -6098,6 +6112,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-02T16:00:00Z",
       "activeLiveChatId": "Cg0KC3RXYi1FREExRGhNKicKGFVDel84enRROXJjdV9VcFVwMGh2N2JZdxILdFdiLUVEQTFEaE0"
+    }
+  },
+  "tatsuhikohiroki": {
+    "snippet": {
+      "channelId": "tatsuhikohiroki",
+      "title": "[Working+Studying] Sending in Resumes...studying... | Muted stream #Vtuber",
+      "channelTitle": "tatsuhikohiroki"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-30T13:02:30Z",
+      "twitch": true
     }
   },
   "thKmAPsyAPE": {
