@@ -3764,5 +3764,27 @@
       "actualEndTime": "2024-05-24T17:25:02Z",
       "scheduledStartTime": "2024-05-24T14:00:00Z"
     }
+  },
+  "reG_X6kB0J0": {
+    "snippet": {
+      "publishedAt": "2024-05-30T03:04:09Z",
+      "channelId": "UCr8NZ9jOrrVcIRnaHZCjJUg",
+      "title": "\u3010KARAOKE | \u6b4c\u67a0\u3011A frog's last song"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-30T14:00:00Z",
+      "activeLiveChatId": "Cg0KC3JlR19YNmtCMEowKicKGFVDcjhOWjlqT3JyVmNJUm5hSFpDakpVZxILcmVHX1g2a0IwSjA"
+    }
+  },
+  "AgwVv5OjKs0": {
+    "snippet": {
+      "publishedAt": "2024-05-30T03:11:22Z",
+      "channelId": "UCr8NZ9jOrrVcIRnaHZCjJUg",
+      "title": "\u3010Graduation\u3011Otsu Karrot Keromi \ud83e\udef6"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-31T14:00:00Z",
+      "activeLiveChatId": "Cg0KC0Fnd1Z2NU9qS3MwKicKGFVDcjhOWjlqT3JyVmNJUm5hSFpDakpVZxILQWd3VnY1T2pLczA"
+    }
   }
 }
