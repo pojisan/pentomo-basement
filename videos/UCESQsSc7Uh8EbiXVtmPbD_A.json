@@ -3980,8 +3980,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-31T20:54:05Z",
       "actualEndTime": "2024-05-31T21:40:59Z",
-      "scheduledStartTime": "2024-05-31T20:00:00Z",
-      "activeLiveChatId": "Cg0KC1FMbVFwc19ocWtJKicKGFVDRVNRc1NjN1VoOEViaVhWdG1QYkRfQRILUUxtUXBzX2hxa0k"
+      "scheduledStartTime": "2024-05-31T20:00:00Z"
     }
   },
   "3t4vvSQEuz0": {
@@ -4016,6 +4015,16 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-31T20:04:38Z",
       "actualEndTime": "2024-05-31T20:51:48Z"
+    }
+  },
+  "_VYbvFgldQw": {
+    "snippet": {
+      "publishedAt": "2024-05-31T20:52:01Z",
+      "channelId": "UCESQsSc7Uh8EbiXVtmPbD_A",
+      "title": "Singing before OFFKAI CONCERT!\u3010V4Mirai | Abi Kadabura\u3011"
+    },
+    "liveStreamingDetails": {
+      "activeLiveChatId": "Cg0KC19WWWJ2RmdsZFF3KicKGFVDRVNRc1NjN1VoOEViaVhWdG1QYkRfQRILX1ZZYnZGZ2xkUXc"
     }
   }
 }
