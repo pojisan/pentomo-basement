@@ -615,8 +615,18 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-31T00:02:39Z",
       "actualEndTime": "2024-05-31T06:17:26Z",
-      "scheduledStartTime": "2024-05-31T00:00:00Z",
-      "activeLiveChatId": "Cg0KCzlVWmk0QklKU3Y0KicKGFVDaUw4MjAwd2dtQ0VwVDgzUTlvVHhxZxILOVVaaTRCSUpTdjQ"
+      "scheduledStartTime": "2024-05-31T00:00:00Z"
+    }
+  },
+  "yqVmzuNhYtY": {
+    "snippet": {
+      "publishedAt": "2024-05-31T06:15:47Z",
+      "channelId": "UCiL8200wgmCEpT83Q9oTxqg",
+      "title": "TWO DAYS LEFT\u3010 BDAY DONATHON PT 3\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-01T00:00:00Z",
+      "activeLiveChatId": "Cg0KC3lxVm16dU5oWXRZKicKGFVDaUw4MjAwd2dtQ0VwVDgzUTlvVHhxZxILeXFWbXp1TmhZdFk"
     }
   }
 }
