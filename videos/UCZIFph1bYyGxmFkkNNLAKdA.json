@@ -14560,5 +14560,16 @@
       "actualEndTime": "2024-05-29T23:30:45Z",
       "scheduledStartTime": "2024-05-29T23:20:00Z"
     }
+  },
+  "2ciODZVazFc": {
+    "snippet": {
+      "publishedAt": "2024-05-31T21:45:12Z",
+      "channelId": "UCZIFph1bYyGxmFkkNNLAKdA",
+      "title": "TEST"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-31T22:00:00Z",
+      "activeLiveChatId": "Cg0KCzJjaU9EWlZhekZjKicKGFVDWklGcGgxYll5R3htRmtrTk5MQUtkQRILMmNpT0RaVmF6RmM"
+    }
   }
 }
