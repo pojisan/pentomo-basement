@@ -323,6 +323,17 @@
       "activeLiveChatId": "Cg0KCzFDcXRKd0VvTmc0KicKGFVDdjFUaHlFNEtWWW5uVlk4R0xmdG5vQRILMUNxdEp3RW9OZzQ"
     }
   },
+  "1FslXsJxuJI": {
+    "snippet": {
+      "publishedAt": "2024-06-01T13:07:47Z",
+      "channelId": "UCgA2jKRkqpY_8eysPUs8sjw",
+      "title": "\u3010HOLLOW KNIGHT #8\u3011so we back in the mines\u3010NIJISANJI EN | Petra Gurin\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-02T03:00:00Z",
+      "activeLiveChatId": "Cg0KCzFGc2xYc0p4dUpJKicKGFVDZ0EyaktSa3FwWV84ZXlzUFVzOHNqdxILMUZzbFhzSnh1Skk"
+    }
+  },
   "1PnHQ0YMtOs": {
     "snippet": {
       "publishedAt": "2024-01-28T15:50:18Z",
@@ -890,6 +901,7 @@
       "title": "\u3010REVIEWING YOUR #ZALIPAPE\u3011Show me your cute pape pictures!!\u3010NIJISANJI EN | Vezalius Bandage\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-01T13:04:15Z",
       "scheduledStartTime": "2024-06-01T13:00:00Z",
       "activeLiveChatId": "Cg0KCzhtYXJiR3c3b2VNKicKGFVDSzlsNnJUd1UzaGlTWmlqSU1xNTFHdxILOG1hcmJHdzdvZU0"
     }
@@ -4103,18 +4115,6 @@
       "activeLiveChatId": "Cg0KC2VMckk5eDBQZ3hVKicKGFVDM1Q3Tnd5UUJBeWx5V180WE9hOXdFURILZUxySTl4MFBneFU"
     }
   },
-  "eN8Nv5PgVlY": {
-    "snippet": {
-      "publishedAt": "2024-05-27T11:05:30Z",
-      "channelId": "UClxj3GlGphZVgd1SLYhZKmg",
-      "title": "\u3010GUILTY GEAR STRIVE\u3011Trying out Slayer & A.B.A!"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-01T10:04:08Z",
-      "scheduledStartTime": "2024-06-01T10:00:00Z",
-      "activeLiveChatId": "Cg0KC2VOOE52NVBnVmxZKicKGFVDbHhqM0dsR3BoWlZnZDFTTFloWkttZxILZU44TnY1UGdWbFk"
-    }
-  },
   "eWahfLfYhlQ": {
     "snippet": {
       "publishedAt": "2023-06-30T10:59:54Z",
@@ -5883,6 +5883,7 @@
       "title": "\u3010\u30b9\u30de\u30d6\u30e9\u3011\uff1f\u2026\u2026\u3088\u304f\u308f\u304b\u3093\u306d\u30fc\u3051\u3069\u3001\u201d\u30d6\u30c3\u98db\u3070\u305b\u3070\u3044\u3044\u201d\u3093\u3060\u308d\uff1f\u3010\u77f3\u795e\u306e\u305e\u307f\uff0f\u306b\u3058\u3055\u3093\u3058\u6240\u5c5e\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-01T13:05:18Z",
       "scheduledStartTime": "2024-06-01T13:00:00Z",
       "activeLiveChatId": "Cg0KC3pPWVRyanN4aWRjKicKGFVDdExmQV9xVXFDSnRqWEpNMlpSX2tlZxILek9ZVHJqc3hpZGM"
     }
