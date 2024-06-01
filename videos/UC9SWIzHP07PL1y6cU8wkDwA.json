@@ -789,8 +789,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-01T18:30:35Z",
-      "scheduledStartTime": "2024-06-01T18:30:00Z",
-      "activeLiveChatId": "Cg0KCzNXMTFDNnEyam5jKicKGFVDOVNXSXpIUDA3UEwxeTZjVTh3a0R3QRILM1cxMUM2cTJqbmM"
+      "actualEndTime": "2024-06-01T22:05:19Z",
+      "scheduledStartTime": "2024-06-01T18:30:00Z"
     }
   },
   "o50s2VCWEqI": {
@@ -803,6 +803,17 @@
       "actualStartTime": "2024-06-01T00:03:14Z",
       "actualEndTime": "2024-06-01T04:26:15Z",
       "scheduledStartTime": "2024-06-01T00:00:00Z"
+    }
+  },
+  "C8PrrrAfNVM": {
+    "snippet": {
+      "publishedAt": "2024-06-01T22:08:02Z",
+      "channelId": "UC9SWIzHP07PL1y6cU8wkDwA",
+      "title": "\u3010Zero Escape\u3011Actually getting all the endings?!\u3010Yume+ | Mero Umiko\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-01T23:00:00Z",
+      "activeLiveChatId": "Cg0KC0M4UHJyckFmTlZNKicKGFVDOVNXSXpIUDA3UEwxeTZjVTh3a0R3QRILQzhQcnJyQWZOVk0"
     }
   }
 }
