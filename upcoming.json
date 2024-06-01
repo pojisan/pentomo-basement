@@ -2609,18 +2609,6 @@
       "premiere": true
     }
   },
-  "PDOtKsMr2Jo": {
-    "snippet": {
-      "publishedAt": "2024-06-01T08:19:36Z",
-      "channelId": "UCKKH64iHZH2O9NdlsOQD2Qg",
-      "title": "I am now an INDIE VTUBER?!"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-01T13:00:41Z",
-      "scheduledStartTime": "2024-06-01T13:00:00Z",
-      "activeLiveChatId": "Cg0KC1BET3RLc01yMkpvKicKGFVDS0tINjRpSFpIMk85TmRsc09RRDJRZxILUERPdEtzTXIySm8"
-    }
-  },
   "PIDxy5CKmqA": {
     "snippet": {
       "publishedAt": "2023-10-04T15:44:13Z",
@@ -2757,7 +2745,7 @@
       "title": "\u3010KARAOKE \u250a\ufe0e#\u6b4c\u67a0\u3011\u3057\u3051\u3063\u305f\u5929\u4f7f\u3067\u3059\ud83d\udca7\u307a\u3057\u3087 #singing \u3010#\u30ce\u30a2\u30dd\u30e9\u30ea\u30b9\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-02T14:00:00Z",
+      "scheduledStartTime": "2024-06-02T10:00:00Z",
       "activeLiveChatId": "Cg0KC1F0TUs0eUI5eVdVKicKGFVDSXUxclJpUUxlVVU4ZTFzYU42STBlZxILUXRNSzR5Qjl5V1U"
     }
   },
@@ -2801,6 +2789,7 @@
       "title": "\u3010OFF COLLAB\u3011ENDURANCE TIME WITH @Bunana_ch \u3010VyVid | Eva Ananova \u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-01T15:25:07Z",
       "scheduledStartTime": "2024-06-01T16:00:00Z",
       "activeLiveChatId": "Cg0KC1JaTEtOTXVMT2VVKicKGFVDVE5wd1d5b0xnZUotdHN4V3E3dWN2dxILUlpMS05NdUxPZVU"
     }
@@ -4635,6 +4624,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2026-05-30T14:45:00Z",
       "activeLiveChatId": "Cg0KC21fSlMxY2N2RWs4KicKGFVDX3Q3d3RTY1ZMazg1SWFEOWpZU1JBQRILbV9KUzFjY3ZFazg"
+    }
+  },
+  "miya_mareena": {
+    "snippet": {
+      "channelId": "miya_mareena",
+      "title": "Silly Shark Girl - @kuromiyalucien !watchalong - Cute Anime women in YOUR AREA~ [ !merch, !gg, !throne ]",
+      "channelTitle": "miya_mareena"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-01T15:24:19Z",
+      "twitch": true
     }
   },
   "mpeAwPXKSqg": {
