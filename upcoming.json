@@ -31,18 +31,6 @@
       "activeLiveChatId": "Cg0KCy01V1lYOUpKQ3A0KicKGFVDN1RDQ3R2ckV1OHFfUzVPdFJKaC1hURILLTVXWVg5SkpDcDQ"
     }
   },
-  "-EIhL1LpWC8": {
-    "snippet": {
-      "publishedAt": "2024-05-31T09:34:11Z",
-      "channelId": "UCRIeS3g-awIQuPAPnApHbCA",
-      "title": "\u3010VALHEIM\u3011VIKING HEAVEN NOW #AresNanos"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-01T01:01:52Z",
-      "scheduledStartTime": "2024-06-01T01:00:00Z",
-      "activeLiveChatId": "Cg0KCy1FSWhMMUxwV0M4KicKGFVDUkllUzNnLWF3SVF1UEFQbkFwSGJDQRILLUVJaEwxTHBXQzg"
-    }
-  },
   "-JcCsS_CVzk": {
     "snippet": {
       "publishedAt": "2024-05-08T01:00:49Z",
@@ -108,6 +96,17 @@
       "scheduledStartTime": "2026-05-31T19:00:00Z"
     }
   },
+  "-WFpPBmKyYk": {
+    "snippet": {
+      "publishedAt": "2024-06-01T04:14:29Z",
+      "channelId": "UCcAn8WXsoqw9x8DAkzYQNQQ",
+      "title": "WATCHING VALLURES NEW DEBUTS #ad #shorts #shortslive #shortsfeed #vtuber"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-01T19:00:00Z",
+      "activeLiveChatId": "Cg0KCy1XRnBQQm1LeVlrKicKGFVDY0FuOFdYc29xdzl4OERBa3pZUU5RURILLVdGcFBCbUt5WWs"
+    }
+  },
   "-Ye6E7xDado": {
     "snippet": {
       "publishedAt": "2024-03-03T09:33:07Z",
@@ -159,6 +158,7 @@
       "title": "\u3010DRAWING CHANNEL MEMBERS!\u3011Doodling Icons!  | #vtuber"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-01T04:18:03Z",
       "scheduledStartTime": "2024-06-01T04:00:00Z",
       "activeLiveChatId": "Cg0KCy12dnllZzkxX1hJKicKGFVDNFdzTEVfeGRybmQwNUQwNUdvOW9YdxILLXZ2eWVnOTFfWEk"
     }
@@ -1102,6 +1102,17 @@
       "scheduledStartTime": "2024-06-01T15:00:00Z",
       "activeLiveChatId": "Cg0KC0JuMlJRUmJBalJVKicKGFVDR3dMU3lQTGFIcHEwbnVUX0pWU010URILQm4yUlFSYkFqUlU",
       "premiere": true
+    }
+  },
+  "Bu0MD9x_Zco": {
+    "snippet": {
+      "publishedAt": "2024-06-01T04:16:25Z",
+      "channelId": "UCcAn8WXsoqw9x8DAkzYQNQQ",
+      "title": "\u3010VAllure Debut Watchalong #ad\u3011zebi meets cute girls!\u3010V&U | GEN4\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-01T19:00:00Z",
+      "activeLiveChatId": "Cg0KC0J1ME1EOXhfWmNvKicKGFVDY0FuOFdYc29xdzl4OERBa3pZUU5RURILQnUwTUQ5eF9aY28"
     }
   },
   "C2Vj8Vl_ikY": {
@@ -4490,6 +4501,17 @@
       "scheduledStartTime": "2024-06-01T22:00:00Z",
       "activeLiveChatId": "Cg0KC2ljMFpYQWVkc1UwKicKGFVDdll6d0VrQ1EyN2dQYWo1NHdCc1ZPZxILaWMwWlhBZWRzVTA",
       "premiere": true
+    }
+  },
+  "inumaromugi": {
+    "snippet": {
+      "channelId": "inumaromugi",
+      "title": "\u3010Eri\u3011suprise gaming!!!| rental |\u2726 \u207a.",
+      "channelTitle": "InumaroMugi"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-01T04:16:09Z",
+      "twitch": true
     }
   },
   "j6l4JDvIIeo": {
