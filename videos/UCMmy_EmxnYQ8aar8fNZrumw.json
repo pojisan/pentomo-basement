@@ -749,7 +749,8 @@
     "snippet": {
       "publishedAt": "2024-05-12T11:40:03Z",
       "channelId": "UCMmy_EmxnYQ8aar8fNZrumw",
-      "title": "\u3010Geography Class\u3011testing my knowledge"
+      "title": "\u3010Geography Class\u3011testing my knowledge",
+      "private": true
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-01T12:12:57Z",
@@ -1011,6 +1012,18 @@
       "actualStartTime": "2024-05-30T18:01:47Z",
       "actualEndTime": "2024-05-30T19:37:55Z",
       "scheduledStartTime": "2024-05-30T18:00:00Z"
+    }
+  },
+  "DZPY7vV6_vs": {
+    "snippet": {
+      "publishedAt": "2024-06-01T12:22:19Z",
+      "channelId": "UCMmy_EmxnYQ8aar8fNZrumw",
+      "title": "\u3010Geography Class\u3011testing my knowledge"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-01T12:23:58Z",
+      "scheduledStartTime": "2024-06-01T12:20:00Z",
+      "activeLiveChatId": "Cg0KC0RaUFk3dlY2X3ZzKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILRFpQWTd2VjZfdnM"
     }
   }
 }
