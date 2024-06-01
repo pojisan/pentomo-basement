@@ -690,6 +690,7 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-01T01:01:33Z",
+      "actualEndTime": "2024-06-01T05:10:47Z",
       "scheduledStartTime": "2024-06-01T01:00:00Z",
       "activeLiveChatId": "Cg0KC0VZQVhYMlFJTUw4KicKGFVDWk8wQ2lySGVXWVRVTWwtN3pQRzZZZxILRVlBWFgyUUlNTDg"
     }
@@ -702,6 +703,7 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-01T01:00:51Z",
+      "actualEndTime": "2024-06-01T05:10:51Z",
       "scheduledStartTime": "2024-06-01T01:00:00Z",
       "activeLiveChatId": "Cg0KC0plRFdLdERlcG9NKicKGFVDWk8wQ2lySGVXWVRVTWwtN3pQRzZZZxILSmVEV0t0RGVwb00"
     }
