@@ -1178,7 +1178,7 @@
     "snippet": {
       "publishedAt": "2024-05-27T01:11:19Z",
       "channelId": "UCbvR46SQpOPRKMrVT8NoJTA",
-      "title": "\u3010SONIC ADVENTURE 2\u3011I FOUND YOU FAKER!\u3010EIEN Project\u3011"
+      "title": "\u3010SONIC ADVENTURE DX\u3011Ah yeah! This is happening!\u3010EIEN Project\u3011"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-01T23:00:00Z",
@@ -3777,6 +3777,7 @@
       "title": "\u30101ST INDULGE COLLAB\u3011Alright... who's the biggest yapper then?"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-01T22:30:37Z",
       "scheduledStartTime": "2024-06-01T22:30:00Z",
       "activeLiveChatId": "Cg0KC2Y3dkNiVHNIblQwKicKGFVDd21HXzd5NnBUb1JXSEo5VHdGZFoxURILZjd2Q2JUc0huVDA"
     }
@@ -4122,6 +4123,18 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-02T13:00:00Z",
       "activeLiveChatId": "Cg0KC2s2UjdTUWFUV0lNKicKGFVDMUxlZ3hDTmE2bHFtU3NaVFNtN0d5QRILazZSN1NRYVRXSU0",
+      "premiere": true
+    }
+  },
+  "kBDBMV1EO60": {
+    "snippet": {
+      "publishedAt": "2024-06-01T22:09:49Z",
+      "channelId": "UCHpii1sLA2xLbnsYDUmfhYQ",
+      "title": "I COVERED THE NTR SONG LIKE YOU WANTED"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-01T23:30:00Z",
+      "activeLiveChatId": "Cg0KC2tCREJNVjFFTzYwKicKGFVDSHBpaTFzTEEyeExibnNZRFVtZmhZURILa0JEQk1WMUVPNjA",
       "premiere": true
     }
   },
@@ -5247,18 +5260,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-01-01T08:00:00Z",
       "activeLiveChatId": "Cg0KC3dudDNzQmlfZ3NvKicKGFVDdzBvMmtTdXItaXFtODJHTUtVbVZoURILd250M3NCaV9nc28"
-    }
-  },
-  "x2CnDyZVgF0": {
-    "snippet": {
-      "publishedAt": "2024-05-27T17:05:40Z",
-      "channelId": "UCykMWf8B8I7c_jA8FTy2tGw",
-      "title": "\u3010Silverload\u3011What's Going On In This Here Town..."
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-01T19:01:46Z",
-      "scheduledStartTime": "2024-06-01T19:00:00Z",
-      "activeLiveChatId": "Cg0KC3gyQ25EeVpWZ0YwKicKGFVDeWtNV2Y4QjhJN2NfakE4RlR5MnRHdxILeDJDbkR5WlZnRjA"
     }
   },
   "xCM1a_X5oj8": {
