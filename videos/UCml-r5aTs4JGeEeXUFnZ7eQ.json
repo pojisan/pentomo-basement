@@ -341,5 +341,18 @@
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC1FlQmwzcno4eTdjKicKGFVDbWwtcjVhVHM0SkdlRWVYVUZuWjdlURILUWVCbDNyejh5N2M"
     }
+  },
+  "1aJz80aOY9o": {
+    "snippet": {
+      "publishedAt": "2024-06-01T20:04:34Z",
+      "channelId": "UCml-r5aTs4JGeEeXUFnZ7eQ",
+      "title": "Test"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-01T20:04:57Z",
+      "actualEndTime": "2024-06-01T20:09:02Z",
+      "scheduledStartTime": "2024-06-01T20:04:34Z",
+      "activeLiveChatId": "Cg0KCzFhSno4MGFPWTlvKicKGFVDbWwtcjVhVHM0SkdlRWVYVUZuWjdlURILMWFKejgwYU9ZOW8"
+    }
   }
 }
