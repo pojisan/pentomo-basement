@@ -693,6 +693,18 @@
       "activeLiveChatId": "Cg0KCzVySlNjSzB3S0ZNKicKGFVDNFdzTEVfeGRybmQwNUQwNUdvOW9YdxILNXJKU2NLMHdLRk0"
     }
   },
+  "5tz8BwSNKNk": {
+    "snippet": {
+      "publishedAt": "2024-06-01T03:10:03Z",
+      "channelId": "UCw0o2kSur-iqm82GMKUmVhQ",
+      "title": "[DEBUT 2.0] Lore Video + Mascot Reveal!!! - Kenbishi Saya \u5263\u83f1\u54b2\u591c"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-01T03:10:18Z",
+      "scheduledStartTime": "2024-06-01T03:10:23Z",
+      "activeLiveChatId": "Cg0KCzV0ejhCd1NOS05rKicKGFVDdzBvMmtTdXItaXFtODJHTUtVbVZoURILNXR6OEJ3U05LTms"
+    }
+  },
   "64v11eieX3I": {
     "snippet": {
       "publishedAt": "2024-05-19T13:12:44Z",
@@ -2006,18 +2018,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-09-30T14:55:00Z",
       "activeLiveChatId": "Cg0KC0lVa0daRE43aHVRKicKGFVDNkVnalVaU1lTQVFlOUNERnhINzE1dxILSVVrR1pETjdodVE"
-    }
-  },
-  "IW9ehxvDbiE": {
-    "snippet": {
-      "publishedAt": "2024-05-27T01:33:52Z",
-      "channelId": "UCTNpwWyoLgeJ-tsxWq7ucvw",
-      "title": "\u3010HANDCAM\u3011MAKING FRIENDSHIP BRACELETS WITH @Bunana_ch \u3010VyVid | Eva Ananova \u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-01T00:01:12Z",
-      "scheduledStartTime": "2024-06-01T00:00:00Z",
-      "activeLiveChatId": "Cg0KC0lXOWVoeHZEYmlFKicKGFVDVE5wd1d5b0xnZUotdHN4V3E3dWN2dxILSVc5ZWh4dkRiaUU"
     }
   },
   "IcWVL4944V8": {
@@ -3781,6 +3781,7 @@
       "title": "LEAGUE OF LEGENDS CHALLENGER GRIND PART 3"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-01T03:03:14Z",
       "scheduledStartTime": "2024-06-01T03:00:00Z",
       "activeLiveChatId": "Cg0KC19fNFF1ZUE0am5VKicKGFVDcHp4Wlc1a2doR25PNVRtQUZKUUFWdxILX180UXVlQTRqblU"
     }
@@ -4420,17 +4421,6 @@
       "activeLiveChatId": "Cg0KC2hZWl9sZ3R1YWVrKicKGFVDcjhOWjlqT3JyVmNJUm5hSFpDakpVZxILaFlaX2xndHVhZWs"
     }
   },
-  "hadesmythos": {
-    "snippet": {
-      "channelId": "hadesmythos",
-      "title": "\u2726\ud83d\udd25testing something not a real stream sorry sorry\ud83d\udd25\u2726 \u300e|!UWU |!Daki |!throne |!discord |!treat |!donate\u300f",
-      "channelTitle": "HadesMythos"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-01T02:48:34Z",
-      "twitch": true
-    }
-  },
   "hisWk9dPxxk": {
     "snippet": {
       "publishedAt": "2024-05-11T01:49:10Z",
@@ -4865,6 +4855,7 @@
       "title": "\u3010Free Talk\u3011So, is it Raining at your place?\u3010Vtuber ENG/MY/JP \u52c7\u6c17\u96e8\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-01T03:03:00Z",
       "scheduledStartTime": "2024-06-01T03:00:00Z",
       "activeLiveChatId": "Cg0KC25iSzd0TkxCcVNjKicKGFVDSFZZZDJGdGVrNUhpZWdSanQyWDkyZxILbmJLN3ROTEJxU2M"
     }
@@ -4920,6 +4911,7 @@
       "title": "\u3010 Valorant \u3011\u663c\u304b\u3089\u30d5\u30eb\u30d1\u3067\u3059\uff5e\uff01\u30e9\u30f3\u30af\u305f\u304b\u3063\uff01w/\u3057\u305a\u304f\u3061\u3083\u3093\u30fb\u3089\u3080\u3061\u30fbrassya\u3055\u3093\u30fb\u9752\u6850\u30a8\u30a4\u30c8\u3010\u306b\u3058\u3055\u3093\u3058/\u7345\u5b50\u5802\u3042\u304b\u308a\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-01T03:06:28Z",
       "scheduledStartTime": "2024-06-01T03:00:00Z",
       "activeLiveChatId": "Cg0KC281djhuYXhscjJrKicKGFVDV1JQcUEwZWhoV1Y0SG5wMjdQSkNrURILbzV2OG5heGxyMms"
     }
@@ -5381,7 +5373,7 @@
       "channelTitle": "ShimadaTiger"
     },
     "liveStreamingDetails": {
-      "actualStartTime": "2024-06-01T02:01:24Z",
+      "actualStartTime": "2024-06-01T03:06:17Z",
       "twitch": true
     }
   },
@@ -5923,6 +5915,17 @@
       "actualStartTime": "2024-06-01T00:00:22Z",
       "scheduledStartTime": "2024-06-01T00:00:00Z",
       "activeLiveChatId": "Cg0KC3lxVm16dU5oWXRZKicKGFVDaUw4MjAwd2dtQ0VwVDgzUTlvVHhxZxILeXFWbXp1TmhZdFk"
+    }
+  },
+  "yuuna": {
+    "snippet": {
+      "channelId": "yuuna",
+      "title": "it's my 4th year anniversary of streaming lol!!",
+      "channelTitle": "yuuna"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-01T03:10:53Z",
+      "twitch": true
     }
   },
   "z4nzNbXOdGs": {
