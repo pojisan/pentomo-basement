@@ -63,7 +63,8 @@
     "snippet": {
       "publishedAt": "2024-04-15T16:24:10Z",
       "channelId": "UC2Ne6dDcFxnM2hCBLii3IUg",
-      "title": "\u3010STREAM SCHEDULE\u3011May 27th - June 2nd \u3010Dr.NOVA(e) | V4Mirai | ENVtuber\u3011"
+      "title": "\u3010STREAM SCHEDULE\u3011May 27th - June 2nd \u3010Dr.NOVA(e) | V4Mirai | ENVtuber\u3011",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-10-31T03:00:00Z",
@@ -196,7 +197,8 @@
     "snippet": {
       "publishedAt": "2024-02-29T23:18:20Z",
       "channelId": "UC2Ne6dDcFxnM2hCBLii3IUg",
-      "title": "Dr.Nova(e) Live Stream"
+      "title": "Dr.Nova(e) Live Stream",
+      "private": true
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC0ZIdkI2QkJIYlFjKicKGFVDMk5lNmREY0Z4bk0yaENCTGlpM0lVZxILRkh2QjZCQkhiUWM"
