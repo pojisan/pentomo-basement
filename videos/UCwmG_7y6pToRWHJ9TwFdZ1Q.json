@@ -47,8 +47,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-01T22:30:37Z",
-      "scheduledStartTime": "2024-06-01T22:30:00Z",
-      "activeLiveChatId": "Cg0KC2Y3dkNiVHNIblQwKicKGFVDd21HXzd5NnBUb1JXSEo5VHdGZFoxURILZjd2Q2JUc0huVDA"
+      "actualEndTime": "2024-06-01T23:21:25Z",
+      "scheduledStartTime": "2024-06-01T22:30:00Z"
     }
   },
   "W6ljJwjCQj0": {
@@ -70,6 +70,7 @@
       "title": "\u3010Vtuber Lore\u3011Stronny: The Siren That Can't Sing! \ud83e\udd91\ud83d\uded0\u3010VAllure\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-01T23:30:07Z",
       "scheduledStartTime": "2024-06-01T23:30:00Z",
       "activeLiveChatId": "Cg0KC0ZjNVlQSVNwV28wKicKGFVDd21HXzd5NnBUb1JXSEo5VHdGZFoxURILRmM1WVBJU3BXbzA",
       "premiere": true
