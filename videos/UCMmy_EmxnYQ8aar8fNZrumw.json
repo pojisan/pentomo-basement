@@ -657,7 +657,7 @@
       "title": "let's enjoy this sunny day"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-07T19:00:00Z",
+      "scheduledStartTime": "2024-06-01T20:00:00Z",
       "activeLiveChatId": "Cg0KC0ZyVTY5Wjh2Ykc4KicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILRnJVNjlaOHZiRzg"
     }
   },
@@ -999,8 +999,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-01T14:01:10Z",
-      "scheduledStartTime": "2024-06-01T14:00:00Z",
-      "activeLiveChatId": "Cg0KC1p1QzRGSS1fU3M0KicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILWnVDNEZJLV9TczQ"
+      "actualEndTime": "2024-06-01T16:01:37Z",
+      "scheduledStartTime": "2024-06-01T14:00:00Z"
     }
   },
   "Jli3x7m8Zlk": {
