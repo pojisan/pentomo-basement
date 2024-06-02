@@ -941,6 +941,7 @@
       "title": "\u3010Super Bunny Man\u3011there is 4 of us?!\u3010Alicja Da Lontano | Globie Gen 2 Solstia\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-02T13:21:38Z",
       "scheduledStartTime": "2024-06-02T13:18:00Z",
       "activeLiveChatId": "Cg0KC0I2b3g5cWVza1dVKicKGFVDcWxndGs5SF8xR29XdHZXOFZpaTM4dxILQjZveDlxZXNrV1U"
     }
@@ -2124,18 +2125,6 @@
       "activeLiveChatId": "Cg0KC01udHFCdGlPc0RZKicKGFVDb09FZXIyYzJwbjJMcVBYNnNrTld0QRILTW50cUJ0aU9zRFk"
     }
   },
-  "Mt5EUhkQEtQ": {
-    "snippet": {
-      "publishedAt": "2024-06-01T15:07:42Z",
-      "channelId": "UCKu59gTZ_rdEmerdx5rV4Yg",
-      "title": "\u3010WE WERE HERE\u3011 Collab with Shu! \u3010NIJISANJI EN | Ren Zotto\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-02T09:01:58Z",
-      "scheduledStartTime": "2024-06-02T09:00:00Z",
-      "activeLiveChatId": "Cg0KC010NUVVaGtRRXRRKicKGFVDS3U1OWdUWl9yZEVtZXJkeDVyVjRZZxILTXQ1RVVoa1FFdFE"
-    }
-  },
   "N-uQtR5G7mY": {
     "snippet": {
       "publishedAt": "2022-11-28T02:31:01Z",
@@ -2253,6 +2242,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-01-29T07:45:00Z",
       "activeLiveChatId": "Cg0KC055aVJSWGtEWXV3KicKGFVDc1FxazRjbjhwbGpVZWFkWWJVVmd5ZxILTnlpUlJYa0RZdXc"
+    }
+  },
+  "OD5pu78EZJc": {
+    "snippet": {
+      "publishedAt": "2024-06-02T13:22:40Z",
+      "channelId": "UC64DMAYXo4nwTFfvNQzkSwQ",
+      "title": "\u3010ZATSUDAN\u3011we yap we yap we yap!!!\u3010PixelLink\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-02T20:00:00Z",
+      "activeLiveChatId": "Cg0KC09ENXB1NzhFWkpjKicKGFVDNjRETUFZWG80bndURmZ2TlF6a1N3URILT0Q1cHU3OEVaSmM"
     }
   },
   "OFXWsA7VMo4": {
@@ -3782,7 +3782,7 @@
     "snippet": {
       "publishedAt": "2024-06-02T13:00:29Z",
       "channelId": "UCz_ZRw6ak4Foy8zZy0kEprQ",
-      "title": "\u3010\ud83d\udda4VERY SPICY\ud83d\udda4\u3011 clingy boyfriend begs for you to stay home \u3010BF ASMR\u3011 \u3010WHIMPERING AND WHINING\u3011"
+      "title": "\u3010\ud83d\udda4VERY SPICY\ud83d\udda4\u3011 clingy boyfriend begs for you to stay home \u3010BF ASMR\u3011\u3010WHIMPERING AND WHINING\u3011"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-02T15:30:00Z",
@@ -4788,6 +4788,7 @@
       "title": "\u3010Zatsudan\u3011Eepy work time nyaaa\u3010Twisty Amanozako | NIJISANJI EN\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-02T13:30:53Z",
       "scheduledStartTime": "2024-06-02T13:30:00Z",
       "activeLiveChatId": "Cg0KC3Nhak14SHBKd2hzKicKGFVDVUkxcXBqSlNFYmd6ZGx3bXBkVm1NdxILc2FqTXhIcEp3aHM"
     }
