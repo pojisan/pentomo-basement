@@ -1032,7 +1032,8 @@
     "snippet": {
       "publishedAt": "2024-06-02T13:36:20Z",
       "channelId": "UCMmy_EmxnYQ8aar8fNZrumw",
-      "title": "\u3010Offkai2024\u3011walking around and buying things!!"
+      "title": "\u3010Offkai2024\u3011walking around and buying things!!",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-02T20:00:00Z",
@@ -1092,6 +1093,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-06T18:00:00Z",
       "activeLiveChatId": "Cg0KC2pLYTNfSkRoUTZJKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILakthM19KRGhRNkk"
+    }
+  },
+  "RLGayFfsyXs": {
+    "snippet": {
+      "publishedAt": "2024-06-02T15:07:39Z",
+      "channelId": "UCMmy_EmxnYQ8aar8fNZrumw",
+      "title": "\u3010Offkai2024\u3011walking around and buying things!!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-02T20:00:00Z",
+      "activeLiveChatId": "Cg0KC1JMR2F5RmZzeVhzKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILUkxHYXlGZnN5WHM"
     }
   }
 }
