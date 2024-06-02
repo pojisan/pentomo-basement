@@ -2346,6 +2346,7 @@
       "title": "\u3010DARK SOULS: REMASTERED\u3011NOOB RACE @CeresFauna  !"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-02T00:06:05Z",
       "scheduledStartTime": "2024-06-02T00:00:00Z",
       "activeLiveChatId": "Cg0KC09xbWZqVzFmcWZ3KicKGFVDb1NyWV9JUVFWcG1JUlo5WGYteTkzZxILT3FtZmpXMWZxZnc"
     }
@@ -2787,6 +2788,7 @@
       "title": "\u3010Members Only\u3011 gaming but idk what we're playing yet \u3010Yuno Hanaki\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-02T00:06:06Z",
       "scheduledStartTime": "2024-06-02T00:00:00Z",
       "activeLiveChatId": "Cg0KC1VCcS1PbTZMOGVFKicKGFVDWmw5MndNaXBqWUZjMVVsbTlZeTY1ZxILVUJxLU9tNkw4ZUU"
     }
@@ -4564,6 +4566,7 @@
       "title": "Unarchive Karaoke #shortslive #shorts"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-02T00:07:04Z",
       "scheduledStartTime": "2024-06-02T00:00:00Z",
       "activeLiveChatId": "Cg0KC3B3NHN2cFhWYUNjKicKGFVDSDhtRE16YVI1TUdGZENGNFdkc0dEQRILcHc0c3ZwWFZhQ2M"
     }
@@ -4864,6 +4867,7 @@
       "title": "\u3010DARK SOULS: REMASTERED\u3011 RACE AGAINST @GawrGura Green POV"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-02T00:03:26Z",
       "scheduledStartTime": "2024-06-02T00:00:00Z",
       "activeLiveChatId": "Cg0KC3NHZUxsc1FWY21BKicKGFVDT19hS0tZeG40dHZycVBqY1R6WjZFURILc0dlTGxzUVZjbUE"
     }
@@ -5222,6 +5226,17 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC3dYVWNQQVhmQXI4KicKGFVDcnA5TU9LdVl6V0ZBMFg3d0xMaEhrQRILd1hVY1BBWGZBcjg"
+    }
+  },
+  "wildspice": {
+    "snippet": {
+      "channelId": "wildspice",
+      "title": "Holeman Adventures at Dreamhack Dallas #OshiLinkEN !kofi",
+      "channelTitle": "WildSpice"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-02T00:06:05Z",
+      "twitch": true
     }
   },
   "wjDz5GbSQxo": {
