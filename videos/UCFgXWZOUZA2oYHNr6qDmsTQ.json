@@ -9498,8 +9498,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-02T03:19:01Z",
-      "scheduledStartTime": "2024-06-02T03:15:00Z",
-      "activeLiveChatId": "Cg0KC2lWMjRoZ1B0c3cwKicKGFVDRmdYV1pPVVpBMm9ZSE5yNnFEbXNUURILaVYyNGhnUHRzdzA"
+      "actualEndTime": "2024-06-02T07:33:13Z",
+      "scheduledStartTime": "2024-06-02T03:15:00Z"
     }
   },
   "PcF3-UMUNYg": {
@@ -9514,6 +9514,17 @@
       "publishedAt": "2024-06-02T04:00:20Z",
       "channelId": "UCFgXWZOUZA2oYHNr6qDmsTQ",
       "title": "Scarle Yonaguni New Outfit 3: SleepyGuni Showcase\u3010NIJISANJI EN\u3011"
+    }
+  },
+  "dMWgijJQv-o": {
+    "snippet": {
+      "publishedAt": "2024-06-02T07:40:01Z",
+      "channelId": "UCFgXWZOUZA2oYHNr6qDmsTQ",
+      "title": "New Outfit Sleep Over Party!\ud83e\udd73\u2601\ufe0f\ud83c\udf19\u2764\ufe0f\u2728"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-02T23:00:00Z",
+      "activeLiveChatId": "Cg0KC2RNV2dpakpRdi1vKicKGFVDRmdYV1pPVVpBMm9ZSE5yNnFEbXNUURILZE1XZ2lqSlF2LW8"
     }
   }
 }
