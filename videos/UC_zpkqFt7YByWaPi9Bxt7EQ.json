@@ -540,5 +540,27 @@
       "actualEndTime": "2024-05-30T16:35:03Z",
       "scheduledStartTime": "2024-05-30T16:30:00Z"
     }
+  },
+  "TkyiSadryUA": {
+    "snippet": {
+      "publishedAt": "2024-06-02T17:39:45Z",
+      "channelId": "UC_zpkqFt7YByWaPi9Bxt7EQ",
+      "title": "Let's learn to sing Sway to My Beat in Cosmos from Honkai: Star Rail!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-05T14:00:00Z",
+      "activeLiveChatId": "Cg0KC1RreWlTYWRyeVVBKicKGFVDX3pwa3FGdDdZQnlXYVBpOUJ4dDdFURILVGt5aVNhZHJ5VUE"
+    }
+  },
+  "LEZ6MI-x6ZI": {
+    "snippet": {
+      "publishedAt": "2024-06-02T17:34:06Z",
+      "channelId": "UC_zpkqFt7YByWaPi9Bxt7EQ",
+      "title": "FU XUAN HOMECOMING PARTY\u3010HONKAI STAR RAIL\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-03T14:00:00Z",
+      "activeLiveChatId": "Cg0KC0xFWjZNSS14NlpJKicKGFVDX3pwa3FGdDdZQnlXYVBpOUJ4dDdFURILTEVaNk1JLXg2Wkk"
+    }
   }
 }
