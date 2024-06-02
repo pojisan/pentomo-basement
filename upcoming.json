@@ -1174,6 +1174,7 @@
       "title": "We Were Here! w/ Ren!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-02T09:00:44Z",
       "scheduledStartTime": "2024-06-02T09:00:00Z",
       "activeLiveChatId": "Cg0KC0VrdThBQlhkYWZNKicKGFVDRzByekJaVl9RTVA0TXRXZzZJamhFQRILRWt1OEFCWGRhZk0"
     }
@@ -4222,6 +4223,7 @@
       "title": "SAAAAAAAAAAM - EASTWARD\u3010Maria Marionette | NIJISANJI EN\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-02T09:00:58Z",
       "scheduledStartTime": "2024-06-02T09:00:00Z",
       "activeLiveChatId": "Cg0KC29hWC1qT09sS1dBKicKGFVDd2FTOF9TN2tNaUtBM2l6bFRXSGJRZxILb2FYLWpPT2xLV0E"
     }
@@ -5121,6 +5123,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-01-01T05:00:00Z",
       "activeLiveChatId": "Cg0KC3poeVR0MkhTS3M4KicKGFVDVlBCR21sc0M4Uy1UTmFfSUVWY3oxQRILemh5VHQySFNLczg"
+    }
+  },
+  "zk8TigIeSkc": {
+    "snippet": {
+      "publishedAt": "2024-06-02T09:00:04Z",
+      "channelId": "UCb8dLvDvmZ-d92KEy_9oWog",
+      "title": "I WANT A MINECRAFT TRIDENT."
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-07T19:00:00Z",
+      "activeLiveChatId": "Cg0KC3prOFRpZ0llU2tjKicKGFVDYjhkTHZEdm1aLWQ5MktFeV85b1dvZxILems4VGlnSWVTa2M"
     }
   }
 }
