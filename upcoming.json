@@ -244,7 +244,7 @@
       "title": "\u3010\u30de\u30c1\u30e7\u30ea\u30a6\u30e0\u3011\u7720\u308c\u306a\u3044\u306a\u3089\u3001\u4e00\u7dd2\u306b\u30de\u30c3\u30c1\u30e7\u3092\u80b2\u3066\u307e\u305b\u3093\u304b\u2026\uff1f///\u3010\u306b\u3058\u3055\u3093\u3058/\u753a\u7530\u3061\u307e\u3011"
     },
     "liveStreamingDetails": {
-      "actualStartTime": "2024-06-02T12:11:01Z",
+      "actualStartTime": "2024-06-02T12:11:12Z",
       "scheduledStartTime": "2024-06-02T12:00:00Z",
       "activeLiveChatId": "Cg0KCzEtcFNzWUx4eUhRKicKGFVDbzdUUmozY1MtZl8xRDlaRG11VHNqdxILMS1wU3NZTHh5SFE"
     }
@@ -1701,6 +1701,7 @@
       "title": "SMALLBAN WANTED TO SAY HI \u3010  smallban  \u3011 \u3010NIJISANJI EN | Alban Knox\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-02T12:15:06Z",
       "scheduledStartTime": "2024-06-02T12:00:00Z",
       "activeLiveChatId": "Cg0KC0lldVFRTDdRNFZzKicKGFVDUTF6R3hIcmZFbW1XNENQcEJ4OS1xdxILSWV1UVFMN1E0VnM"
     }
@@ -3079,6 +3080,17 @@
       "activeLiveChatId": "Cg0KC1k4OGwyZjNIdGRJKicKGFVDVUkxcXBqSlNFYmd6ZGx3bXBkVm1NdxILWTg4bDJmM0h0ZEk"
     }
   },
+  "YGjl72v82ns": {
+    "snippet": {
+      "publishedAt": "2024-06-02T12:12:23Z",
+      "channelId": "UC_sFNM0z0MWm9A6WlKPuMMg",
+      "title": "\u3010Stardew Valley\u3011Elliot my beloved, how I missed you \ud83c\udfbc"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-10T00:00:00Z",
+      "activeLiveChatId": "Cg0KC1lHamw3MnY4Mm5zKicKGFVDX3NGTk0wejBNV205QTZXbEtQdU1NZxILWUdqbDcydjgybnM"
+    }
+  },
   "YLEXrOtZhZg": {
     "snippet": {
       "publishedAt": "2024-03-04T06:01:08Z",
@@ -3099,18 +3111,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2026-04-14T03:00:00Z",
       "activeLiveChatId": "Cg0KC1lnUkdNbWNmSE84KicKGFVDOHJjRUJ6SlNsZVRrZl8tYWdQTTIwZxILWWdSR01tY2ZITzg"
-    }
-  },
-  "YvMLiDYGTRE": {
-    "snippet": {
-      "publishedAt": "2024-05-27T13:19:53Z",
-      "channelId": "UC1eX_MVrN0EBKdpkn9b-jhw",
-      "title": "\u3010 Assassin's Creed Origins \u3011 Let's do it again, Time to do my job \u3010 MASAKI RINA \u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-02T02:03:29Z",
-      "scheduledStartTime": "2024-06-02T02:00:00Z",
-      "activeLiveChatId": "Cg0KC1l2TUxpRFlHVFJFKicKGFVDMWVYX01Wck4wRUJLZHBrbjliLWpodxILWXZNTGlEWUdUUkU"
     }
   },
   "Yvn9tnhHRGE": {
@@ -4626,6 +4626,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2026-05-28T21:10:00Z",
       "activeLiveChatId": "Cg0KC3JENUJSUDhJcDZFKicKGFVDaWFBSmZka3J3dURqV2lRallaV3BYdxILckQ1QlJQOElwNkU"
+    }
+  },
+  "rH1kc_Tup4I": {
+    "snippet": {
+      "publishedAt": "2024-06-02T12:13:03Z",
+      "channelId": "UCK6oCMib62eYAIPrlrYRVrw",
+      "title": "\u3010SONG RELEASE\u3011WAITING ROOM - ZATSU"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-08T15:00:00Z",
+      "activeLiveChatId": "Cg0KC3JIMWtjX1R1cDRJKicKGFVDSzZvQ01pYjYyZVlBSVBybHJZUlZydxILckgxa2NfVHVwNEk"
     }
   },
   "rHgAmJY9b2E": {
