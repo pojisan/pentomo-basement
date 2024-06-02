@@ -3965,6 +3965,7 @@
       "title": "\u3010SISTER SOUL-LINK\u3011WILL WE CLEAR THE FIRST GYM?"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-02T17:28:24Z",
       "scheduledStartTime": "2024-06-02T16:00:00Z",
       "activeLiveChatId": "Cg0KC2gwN3VTTVc1ZV9NKicKGFVDbGNNVDlWOWl1N3hwaGtIVkhnbEhUZxILaDA3dVNNVzVlX00"
     }
@@ -4362,7 +4363,7 @@
       "channelTitle": "laphipi"
     },
     "liveStreamingDetails": {
-      "actualStartTime": "2024-06-02T16:56:11Z",
+      "actualStartTime": "2024-06-02T17:30:50Z",
       "twitch": true
     }
   },
@@ -4567,6 +4568,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-02T20:00:00Z",
       "activeLiveChatId": "Cg0KC25nMWhkNDJmdjhJKicKGFVDMXNtOUgyb3J2eW5EYWpjRTRqcll1ZxILbmcxaGQ0MmZ2OEk"
+    }
+  },
+  "ninaninin": {
+    "snippet": {
+      "channelId": "ninaninin",
+      "title": "[Crow Country] Retro Style Horror Game! | !schedule  \u2728 VTuber",
+      "channelTitle": "Ninaninin"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-02T17:25:51Z",
+      "twitch": true
     }
   },
   "ninete_en": {
