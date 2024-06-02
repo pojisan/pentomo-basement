@@ -1730,6 +1730,7 @@
       "title": "\u3010LIVE\u3011Are YOU the cutie I need in my life?"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-02T02:02:39Z",
       "scheduledStartTime": "2024-06-02T02:00:00Z",
       "activeLiveChatId": "Cg0KC0pLQVpXdC1WakVrKicKGFVDSUxRbDVnUkJNdndkLTk3LU01cExZURILSktBWld0LVZqRWs"
     }
@@ -2749,7 +2750,7 @@
     "snippet": {
       "publishedAt": "2024-06-01T08:59:38Z",
       "channelId": "UCZl92wMipjYFc1Ulm9Yy65g",
-      "title": "\u3010Members Only\u3011 gaming but idk what we're playing yet \u3010Yuno Hanaki\u3011"
+      "title": "\u3010Members Only\u3011 gaming oriented zatsu oops\u3010Yuno Hanaki\u3011"
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-02T00:06:06Z",
@@ -3197,6 +3198,7 @@
       "title": "\u3010 Assassin's Creed Origins \u3011 Let's do it again, Time to do my job \u3010 MASAKI RINA \u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-02T02:03:29Z",
       "scheduledStartTime": "2024-06-02T02:00:00Z",
       "activeLiveChatId": "Cg0KC1l2TUxpRFlHVFJFKicKGFVDMWVYX01Wck4wRUJLZHBrbjliLWpodxILWXZNTGlEWUdUUkU"
     }
@@ -4131,6 +4133,17 @@
       "activeLiveChatId": "Cg0KC2t0bWRKak05STU0KicKGFVDSHBpaTFzTEEyeExibnNZRFVtZmhZURILa3RtZEpqTTlJNTQ"
     }
   },
+  "kyubalt": {
+    "snippet": {
+      "channelId": "kyubalt",
+      "title": "\u3010  it me birthday (chilling edition) \u3011 im old... - !essay + !neocities + !discord",
+      "channelTitle": "kyubalt"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-02T02:09:43Z",
+      "twitch": true
+    }
+  },
   "l3uqelUhGhU": {
     "snippet": {
       "publishedAt": "2024-03-22T18:06:38Z",
@@ -4257,6 +4270,17 @@
       "activeLiveChatId": "Cg0KC21fSlMxY2N2RWs4KicKGFVDX3Q3d3RTY1ZMazg1SWFEOWpZU1JBQRILbV9KUzFjY3ZFazg"
     }
   },
+  "metorial": {
+    "snippet": {
+      "channelId": "metorial",
+      "title": "Let's go Cutie! \u27e1 !discord !cc !lurk !socials",
+      "channelTitle": "Metorial"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-02T02:01:57Z",
+      "twitch": true
+    }
+  },
   "mpeAwPXKSqg": {
     "snippet": {
       "publishedAt": "2024-05-27T16:11:16Z",
@@ -4340,6 +4364,7 @@
       "title": "\u300aSUNNYSIDE\u300bTHE DREAM LIFE (PROBABLY)\u3010Sera Kesera | bondliveEN\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-02T02:06:21Z",
       "scheduledStartTime": "2024-06-02T02:00:00Z",
       "activeLiveChatId": "Cg0KC25uM1FQQmlFYnA0KicKGFVDYXNadnNrRkNfU0hzNkxYeDJfMjZjURILbm4zUVBCaUVicDQ"
     }
@@ -4586,6 +4611,7 @@
       "title": "\ud83c\udf19\u2601\ufe0fSleepyGuni\u2601\ufe0f\ud83c\udf19SCARLE YONAGUNI NEW OUTFIT REVEAL #OyasuScarle \ud83d\udc8b"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-02T02:06:43Z",
       "scheduledStartTime": "2024-06-02T02:00:00Z",
       "activeLiveChatId": "Cg0KC3FJNEZlRXJScERvKicKGFVDRmdYV1pPVVpBMm9ZSE5yNnFEbXNUURILcUk0RmVFclJwRG8"
     }
@@ -5159,17 +5185,6 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC3dYVWNQQVhmQXI4KicKGFVDcnA5TU9LdVl6V0ZBMFg3d0xMaEhrQRILd1hVY1BBWGZBcjg"
-    }
-  },
-  "wildspice": {
-    "snippet": {
-      "channelId": "wildspice",
-      "title": "Holeman Adventures at Dreamhack Dallas #OshiLinkEN !kofi",
-      "channelTitle": "WildSpice"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-02T00:06:05Z",
-      "twitch": true
     }
   },
   "wjDz5GbSQxo": {
