@@ -1160,7 +1160,7 @@
     "snippet": {
       "publishedAt": "2023-12-03T02:36:43Z",
       "channelId": "UC1eX_MVrN0EBKdpkn9b-jhw",
-      "title": "\u3010 STREAM SCHEDULE \u301127th May 2024 - 2nd June 2024\u3010 MASAKI RINA \u3011"
+      "title": "\u3010 STREAM SCHEDULE \u30113rd June 2024 - 9th June 2024\u3010 MASAKI RINA \u3011"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-12-31T15:45:00Z",
@@ -1586,8 +1586,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-02T12:27:07Z",
-      "scheduledStartTime": "2024-06-02T12:30:00Z",
-      "activeLiveChatId": "Cg0KCzl0RHpueC1RVGpvKicKGFVDMWVYX01Wck4wRUJLZHBrbjliLWpodxILOXREem54LVFUam8"
+      "actualEndTime": "2024-06-02T19:55:15Z",
+      "scheduledStartTime": "2024-06-02T12:30:00Z"
     }
   }
 }
