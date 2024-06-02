@@ -14581,8 +14581,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-01T19:30:33Z",
-      "scheduledStartTime": "2024-06-01T19:00:00Z",
-      "activeLiveChatId": "Cg0KCy1najhraXV4WDBNKicKGFVDWklGcGgxYll5R3htRmtrTk5MQUtkQRILLWdqOGtpdXhYME0"
+      "actualEndTime": "2024-06-02T00:22:23Z",
+      "scheduledStartTime": "2024-06-01T19:00:00Z"
     }
   },
   "rvN8aljqoRw": {
@@ -14592,7 +14592,7 @@
       "title": "SPROUT'S FIRST CLEAR Alexander: Gordias\u3010FFXIV Heavensward\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-02T00:00:00Z",
+      "scheduledStartTime": "2024-06-02T01:00:00Z",
       "activeLiveChatId": "Cg0KC3J2TjhhbGpxb1J3KicKGFVDWklGcGgxYll5R3htRmtrTk5MQUtkQRILcnZOOGFsanFvUnc"
     }
   }
