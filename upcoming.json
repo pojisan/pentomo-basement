@@ -103,6 +103,7 @@
       "title": "\u3010Monster Hunter: World\u3011Gunlance is Romance #4\u3010NIJISANJI EN | Klara Charmwood\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-03T12:00:18Z",
       "scheduledStartTime": "2024-06-03T12:00:00Z",
       "activeLiveChatId": "Cg0KCy1aVWpJTENwNHdFKicKGFVDUVl3SVVDTHFGb2luN2xIS21lUGpKdxILLVpVaklMQ3A0d0U"
     }
@@ -4726,6 +4727,7 @@
       "title": "\u3010ZATSUDAN/CHATTING\u3011 Offkai!! Original Song!! let me tell you all about it! \ud83d\udc97"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-03T12:01:07Z",
       "scheduledStartTime": "2024-06-03T12:00:00Z",
       "activeLiveChatId": "Cg0KC2pjQmJ4TGloaTd3KicKGFVDYnJiRktGaHlIRDRiTUpiRWNYWnoxZxILamNCYnhMaWhpN3c"
     }
@@ -4792,6 +4794,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-06-24T22:00:00Z",
       "activeLiveChatId": "Cg0KC2tlMTZnRmdhbUdRKicKGFVDSzlsNnJUd1UzaGlTWmlqSU1xNTFHdxILa2UxNmdGZ2FtR1E"
+    }
+  },
+  "kirispica": {
+    "snippet": {
+      "channelId": "kirispica",
+      "title": "Let's chat about OffKai and my original song! \u3010Kirispica | V-Dere\u3011",
+      "channelTitle": "kirispica"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-03T12:00:20Z",
+      "twitch": true
     }
   },
   "kmYWpNV_3m0": {
