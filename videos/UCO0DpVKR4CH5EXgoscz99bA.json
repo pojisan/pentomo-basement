@@ -7237,7 +7237,17 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-03T00:01:50Z",
-      "activeLiveChatId": "Cg0KC08xUG5HY3Z1d1RVKicKGFVDTzBEcFZLUjRDSDVFWGdvc2N6OTliQRILTzFQbkdjdnV3VFU"
+      "actualEndTime": "2024-06-03T02:32:48Z"
+    }
+  },
+  "VH_otGGmnD4": {
+    "snippet": {
+      "publishedAt": "2024-06-03T02:35:46Z",
+      "channelId": "UCO0DpVKR4CH5EXgoscz99bA",
+      "title": "Dubbing Comics live~"
+    },
+    "liveStreamingDetails": {
+      "activeLiveChatId": "Cg0KC1ZIX290R0dtbkQ0KicKGFVDTzBEcFZLUjRDSDVFWGdvc2N6OTliQRILVkhfb3RHR21uRDQ"
     }
   }
 }
