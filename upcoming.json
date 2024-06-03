@@ -1846,7 +1846,8 @@
       "title": "3DIO ASMR \ud83d\udc97 Let me take care of you, relax! \ud83d\udc97"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-03T03:00:00Z",
+      "actualStartTime": "2024-06-03T02:57:12Z",
+      "scheduledStartTime": "2024-06-03T02:57:03Z",
       "activeLiveChatId": "Cg0KC0lmY2hETFR2eEc4KicKGFVDVWZnS2dDeHRGczFaUGx5aU0zSmNUdxILSWZjaERMVHZ4Rzg"
     }
   },
@@ -2138,6 +2139,7 @@
       "title": "\u3010Elden Ring\u3011Fair Maiden, in search of the Elden Ring"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-03T03:01:00Z",
       "scheduledStartTime": "2024-06-03T03:00:00Z",
       "activeLiveChatId": "Cg0KC0xicUpxVm1UdG00KicKGFVDOHJjRUJ6SlNsZVRrZl8tYWdQTTIwZxILTGJxSnFWbVR0bTQ"
     }
@@ -2278,6 +2280,7 @@
       "title": "\u3010Shashingo\u3011 My Japanese Learning Continues! \u65e5\u672c\u8a9e\u7df4\u7fd2\uff01\u3010NIJISANJI EN | Ryoma Barrenwort\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-03T03:01:03Z",
       "scheduledStartTime": "2024-06-03T03:00:00Z",
       "activeLiveChatId": "Cg0KC01USWZEdVNEc0pFKicKGFVDSXpaRGlpbGNQdjB3aW1fTWJ1aXpGQRILTVRJZkR1U0RzSkU"
     }
@@ -2309,6 +2312,7 @@
       "title": "My First Week in PixelLink Summary!\u3010Zatsu\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-03T02:59:43Z",
       "scheduledStartTime": "2024-06-03T03:00:00Z",
       "activeLiveChatId": "Cg0KC01jMV90RUxQOXB3KicKGFVDQXhWb0JMRzJCdjF4Z2JZVV9lZnNDZxILTWMxX3RFTFA5cHc"
     }
@@ -2687,6 +2691,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-05T20:00:00Z",
       "activeLiveChatId": "Cg0KC1I2dzFpa2ZtU25VKicKGFVDcW1TWWtYTHdzTDB6RWFyNUdvb1lrZxILUjZ3MWlrZm1TblU"
+    }
+  },
+  "RLeC18VcvIM": {
+    "snippet": {
+      "publishedAt": "2024-06-03T02:52:03Z",
+      "channelId": "UCoAw3SML_09dF-7yhQU8wFQ",
+      "title": "is mtn dew for vtubers?"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-05T02:00:00Z",
+      "activeLiveChatId": "Cg0KC1JMZUMxOFZjdklNKicKGFVDb0F3M1NNTF8wOWRGLTd5aFFVOHdGURILUkxlQzE4VmN2SU0"
     }
   },
   "RX56nmdEcRE": {
@@ -3775,6 +3790,7 @@
       "title": "\u3010Zatsu\u3011Hypnosis\u3010Yume+ | Mimosa Shirosaki\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-03T02:58:04Z",
       "scheduledStartTime": "2024-06-03T03:00:00Z",
       "activeLiveChatId": "Cg0KC2NaemdyTGZILXRFKicKGFVDcW1TWWtYTHdzTDB6RWFyNUdvb1lrZxILY1p6Z3JMZkgtdEU"
     }
@@ -4366,6 +4382,7 @@
       "title": "\u3010DEBUT 2.0\u3011 I love yapping to you senpai so let's yap some more! \u2702\ud83d\udc94\u3010VAllure\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-03T03:00:45Z",
       "scheduledStartTime": "2024-06-03T03:00:00Z",
       "activeLiveChatId": "Cg0KC2ljTGpjUnhHamhzKicKGFVDelJSdndmZlJBNTdsWW9Zd0Nzbko3QRILaWNMamNSeEdqaHM"
     }
@@ -5264,7 +5281,7 @@
     "snippet": {
       "publishedAt": "2024-03-17T03:18:23Z",
       "channelId": "UCqmSYkXLwsL0zEar5GooYkg",
-      "title": "Schedule for the week of May 26th to July 1st"
+      "title": "Schedule for the week of June 2nd to June 8th"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-04-27T06:00:00Z",
