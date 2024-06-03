@@ -417,6 +417,7 @@
       "title": "\u3010Handcam\u3011VTuber TCG ?! Opening Rift Runners Booster Box !!!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-03T13:49:25Z",
       "scheduledStartTime": "2024-06-03T14:00:00Z",
       "activeLiveChatId": "Cg0KCzJjdkJSdUh0S0o4KicKGFVDSzZvQ01pYjYyZVlBSVBybHJZUlZydxILMmN2QlJ1SHRLSjg"
     }
@@ -1103,7 +1104,7 @@
     "snippet": {
       "publishedAt": "2024-01-29T08:06:15Z",
       "channelId": "UC_kVJhBQC6TDFysN9TuPSYg",
-      "title": "\u3010FREE CHAT\u3011Schedule from 27th May to 2nd June\u3010globie 1st Gen\u3011"
+      "title": "\u3010FREE CHAT\u3011Schedule from 3rd to 9th June\u3010globie 1st Gen\u3011"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-01-29T08:05:00Z",
@@ -5093,6 +5094,17 @@
       "activeLiveChatId": "Cg0KC21fSlMxY2N2RWs4KicKGFVDX3Q3d3RTY1ZMazg1SWFEOWpZU1JBQRILbV9KUzFjY3ZFazg"
     }
   },
+  "miya_mareena": {
+    "snippet": {
+      "channelId": "miya_mareena",
+      "title": "VTuber TCG ?! Handcam !! Shark Girl Hours~ [ !merch, !gg ]",
+      "channelTitle": "miya_mareena"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-03T13:48:44Z",
+      "twitch": true
+    }
+  },
   "mpeAwPXKSqg": {
     "snippet": {
       "publishedAt": "2024-05-27T16:11:16Z",
@@ -5574,17 +5586,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-04-28T09:00:00Z",
       "activeLiveChatId": "Cg0KC3JnZGk4YnRlUWdjKicKGFVDOHpnS2FTOExpeUwyOG1kaFJDMm5CZxILcmdkaThidGVRZ2M"
-    }
-  },
-  "riyu_thelamb": {
-    "snippet": {
-      "channelId": "riyu_thelamb",
-      "title": "Farmer lamb!\u3010PROJECT VERSES\u3011",
-      "channelTitle": "riyu_thelamb"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-03T10:06:50Z",
-      "twitch": true
     }
   },
   "rn2SX1mvIyc": {
