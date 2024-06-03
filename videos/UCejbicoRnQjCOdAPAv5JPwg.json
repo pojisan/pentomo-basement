@@ -1279,5 +1279,38 @@
       "actualEndTime": "2024-06-03T04:13:23Z",
       "scheduledStartTime": "2024-06-03T02:00:00Z"
     }
+  },
+  "lBJJIxOHTTw": {
+    "snippet": {
+      "publishedAt": "2024-06-03T14:26:49Z",
+      "channelId": "UCejbicoRnQjCOdAPAv5JPwg",
+      "title": "\u3010TGDPSSP\u3011Warhammer 40K: Boltgun"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-04T21:00:00Z",
+      "activeLiveChatId": "Cg0KC2xCSkpJeE9IVFR3KicKGFVDZWpiaWNvUm5RakNPZEFQQXY1SlB3ZxILbEJKSkl4T0hUVHc"
+    }
+  },
+  "mTG9-lya9Ow": {
+    "snippet": {
+      "publishedAt": "2024-06-03T14:30:57Z",
+      "channelId": "UCejbicoRnQjCOdAPAv5JPwg",
+      "title": "Needy Calfie Overload"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-06T21:00:00Z",
+      "activeLiveChatId": "Cg0KC21URzktbHlhOU93KicKGFVDZWpiaWNvUm5RakNPZEFQQXY1SlB3ZxILbVRHOS1seWE5T3c"
+    }
+  },
+  "ip6SweQV254": {
+    "snippet": {
+      "publishedAt": "2024-06-03T14:25:33Z",
+      "channelId": "UCejbicoRnQjCOdAPAv5JPwg",
+      "title": "Hapi Hapi Zachu! (WARNING! Might include cow hugs and yapping)"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-03T21:00:00Z",
+      "activeLiveChatId": "Cg0KC2lwNlN3ZVFWMjU0KicKGFVDZWpiaWNvUm5RakNPZEFQQXY1SlB3ZxILaXA2U3dlUVYyNTQ"
+    }
   }
 }
