@@ -14615,6 +14615,7 @@
       "title": "you're in danger"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-03T20:11:31Z",
       "scheduledStartTime": "2024-06-03T20:00:00Z",
       "activeLiveChatId": "Cg0KCy11Q3BBZmtXMkxrKicKGFVDWklGcGgxYll5R3htRmtrTk5MQUtkQRILLXVDcEFma1cyTGs"
     }
@@ -14630,7 +14631,8 @@
     "snippet": {
       "publishedAt": "2024-06-03T19:24:29Z",
       "channelId": "UCZIFph1bYyGxmFkkNNLAKdA",
-      "title": "you're in danger (SHORTS VERSION)"
+      "title": "you're in danger (SHORTS VERSION)",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-03T20:00:00Z",
