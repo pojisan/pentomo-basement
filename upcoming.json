@@ -907,18 +907,6 @@
       "activeLiveChatId": "Cg0KCzgwYnBQNGxSNkJnKicKGFVDYi04RmtnLW1TVTJSbWxQOEZkcHlNdxILODBicFA0bFI2Qmc"
     }
   },
-  "8PJIj6yQkD4": {
-    "snippet": {
-      "publishedAt": "2024-06-03T03:17:26Z",
-      "channelId": "UCqlgtk9H_1GoWtvW8Vii38w",
-      "title": "\u3010 Live2D Model Asset Showcase\u3011Birthday Party dress (Day and Night version)\u3010 Serina Maiko V4Mirai\u3011"
-    },
-    "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-03T13:00:00Z",
-      "activeLiveChatId": "Cg0KCzhQSklqNnlRa0Q0KicKGFVDcWxndGs5SF8xR29XdHZXOFZpaTM4dxILOFBKSWo2eVFrRDQ",
-      "premiere": true
-    }
-  },
   "8UEmElIibEw": {
     "snippet": {
       "publishedAt": "2023-11-24T21:49:59Z",
@@ -1239,6 +1227,7 @@
       "title": "Cutting Down the Onion Layers\u3010REFIND SELF + PERSONALITY TEST\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-03T13:00:16Z",
       "scheduledStartTime": "2024-06-03T13:00:00Z",
       "activeLiveChatId": "Cg0KC0NCMWd4UV9waDNFKicKGFVDMUxlZ3hDTmE2bHFtU3NaVFNtN0d5QRILQ0IxZ3hRX3BoM0U"
     }
@@ -2229,6 +2218,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-05T17:00:00Z",
       "activeLiveChatId": "Cg0KC0tFcFh0YlNFVUdnKicKGFVDcXV5V3I3c2RFRkhDc3FFZ24xVUExZxILS0VwWHRiU0VVR2c"
+    }
+  },
+  "KHac2JHVBAE": {
+    "snippet": {
+      "publishedAt": "2024-06-03T12:58:15Z",
+      "channelId": "UC1eX_MVrN0EBKdpkn9b-jhw",
+      "title": "\u3010 A Way Out \u3011 Bertemenan sama @DewiFelicita di penjara \u3010 MASAKI RINA \u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-06T12:30:00Z",
+      "activeLiveChatId": "Cg0KC0tIYWMySkhWQkFFKicKGFVDMWVYX01Wck4wRUJLZHBrbjliLWpodxILS0hhYzJKSFZCQUU"
     }
   },
   "KJJiv6AHBEY": {
@@ -3722,6 +3722,7 @@
       "title": "\u3010\u30da\u30eb\u30bd\u30ca3 \u30ea\u30ed\u30fc\u30c9/P3R\u301103:\u5f71\u306e\u6d78\u98df\u3001\u3059\u3050\u305d\u3070\u306b \u203b\u30cd\u30bf\u30d0\u30ec\u3042\u308a\u3010\u5148\u6597\u5be7/\u306b\u3058\u3055\u3093\u3058\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-03T13:00:32Z",
       "scheduledStartTime": "2024-06-03T13:00:00Z",
       "activeLiveChatId": "Cg0KC1ozVzR4NnFUckJJKicKGFVDZTIyQmN3ZF9HQ3BUakx4bjgzemw3QRILWjNXNHg2cVRyQkk"
     }
@@ -4344,7 +4345,7 @@
       "channelTitle": "Enominya_Andi"
     },
     "liveStreamingDetails": {
-      "actualStartTime": "2024-06-03T11:25:16Z",
+      "actualStartTime": "2024-06-03T12:58:02Z",
       "twitch": true
     }
   },
@@ -5149,6 +5150,7 @@
       "title": "\u3010Untitled Goose Game\u3011YAY HONKING"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-03T12:56:12Z",
       "scheduledStartTime": "2024-06-03T13:00:00Z",
       "activeLiveChatId": "Cg0KC25kZFJIQTZwakw0KicKGFVDS3BpSlFBWF9HbmM1cmpSQjh5WFQwQRILbmRkUkhBNnBqTDQ"
     }
@@ -5902,7 +5904,8 @@
       "title": "\u3010LETHAL COMPANY\u3011\u79c1\u305f\u3061\u306f\u7686\u3001\u3068\u3066\u3082\u52c7\u6562\u3060\uff01\uff01\uff08\u82f1\u8a9e\u7981\u6b62\uff09"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-03T13:00:00Z",
+      "actualStartTime": "2024-06-03T13:00:07Z",
+      "scheduledStartTime": "2024-06-03T12:58:03Z",
       "activeLiveChatId": "Cg0KC3Y4Ym5mTGZ5Ulo0KicKGFVDTF9xaGd0T3kwZHkxQWdwOHZreVNRZxILdjhibmZMZnlSWjQ"
     }
   },
@@ -6279,6 +6282,17 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC3loTXdTVS0zUzdnKicKGFVDS0tINjRpSFpIMk85TmRsc09RRDJRZxILeWhNd1NVLTNTN2c"
+    }
+  },
+  "ykE2NHVbydQ": {
+    "snippet": {
+      "publishedAt": "2024-06-03T12:56:32Z",
+      "channelId": "UCZl92wMipjYFc1Ulm9Yy65g",
+      "title": "\u3010OniMon #29\u3011 Defining a \"wholesome\" game!\u3010Yuno Hanaki\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-03T20:00:00Z",
+      "activeLiveChatId": "Cg0KC3lrRTJOSFZieWRRKicKGFVDWmw5MndNaXBqWUZjMVVsbTlZeTY1ZxILeWtFMk5IVmJ5ZFE"
     }
   },
   "ypHULL_hmaQ": {
