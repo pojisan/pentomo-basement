@@ -853,6 +853,7 @@
       "title": "\u30b9\u30a4\u30ab\u30b9\u30a4\u30ab\u30b9\u30a4\u30ab\ud83c\udf49\u6708\u66dc\u65e5\u306e\u3080\u3080\u3080\u3000#\u7e26\u578b\u914d\u4fe1\u3000#Shorts\u3000#\u30b9\u30a4\u30ab\u30b2\u30fc\u30e0"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-03T02:11:38Z",
       "scheduledStartTime": "2024-06-03T02:08:31Z",
       "activeLiveChatId": "Cg0KC0ExQ1JRUFRneUhjKicKGFVDNkVnalVaU1lTQVFlOUNERnhINzE1dxILQTFDUlFQVGd5SGM"
     }
@@ -2016,6 +2017,7 @@
       "title": "\u3010Lords of the Fallen\u3011 Am I strong enough to play this game?"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-03T02:15:46Z",
       "scheduledStartTime": "2024-06-03T02:15:00Z",
       "activeLiveChatId": "Cg0KC0tkaEFyN3J3VDBRKicKGFVDVDQxV25RWTNPMkY3T2JpMWhoUE95QRILS2RoQXI3cndUMFE"
     }
@@ -2318,18 +2320,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-03T14:00:00Z",
       "activeLiveChatId": "Cg0KC010NnA0T05OMENRKicKGFVDNFdzTEVfeGRybmQwNUQwNUdvOW9YdxILTXQ2cDRPTk4wQ1E"
-    }
-  },
-  "MwvoHG41dcY": {
-    "snippet": {
-      "publishedAt": "2024-06-02T18:25:44Z",
-      "channelId": "UCVPBGmlsC8S-TNa_IEVcz1A",
-      "title": "\ud83d\udd2a\u3010WUTHERING WAVES\u3011PHYSICAL ATTRACTION\u3010Yume+ | Raein Clowd\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-02T21:07:15Z",
-      "scheduledStartTime": "2024-06-02T21:00:00Z",
-      "activeLiveChatId": "Cg0KC013dm9IRzQxZGNZKicKGFVDVlBCR21sc0M4Uy1UTmFfSUVWY3oxQRILTXd2b0hHNDFkY1k"
     }
   },
   "N-uQtR5G7mY": {
@@ -3212,7 +3202,7 @@
     "snippet": {
       "publishedAt": "2024-05-27T02:07:03Z",
       "channelId": "UCu1INzefw3R7M9-3QEHYmMQ",
-      "title": "\u3010ASMR/KU100\u3011Deep Sleep Whispers From Angel GF [Heartbeat/Oil Massage/Brain Tingles/Whisper/\u6700\u5f37\u306e\u30c8\u30ea\u30ac\u30fc]"
+      "title": "\u3010ASMR/KU100\u3011Deep Sleep Whispers From Angel GF [Heartbeat/Oil Massage/Brain Tingles/EN/\u65e5\u672c\u8a9e/\u6700\u5f37\u306e\u30c8\u30ea\u30ac\u30fc]"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-03T02:30:00Z",
@@ -3238,18 +3228,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-04-03T17:00:00Z",
       "activeLiveChatId": "Cg0KC1gwaEp0bm1CUzNNKicKGFVDOThpUk12UnFVeFJENkdQNE50UnNrdxILWDBoSnRubUJTM00"
-    }
-  },
-  "X2boRMbW9Wc": {
-    "snippet": {
-      "publishedAt": "2024-06-01T16:52:52Z",
-      "channelId": "UCoWn6qkdxCSHvJElmgvzr1g",
-      "title": "\u3010Just Chatting\u3011I'M FINALLY BACK"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-03T00:00:26Z",
-      "scheduledStartTime": "2024-06-03T00:00:00Z",
-      "activeLiveChatId": "Cg0KC1gyYm9STWJXOVdjKicKGFVDb1duNnFrZHhDU0h2SkVsbWd2enIxZxILWDJib1JNYlc5V2M"
     }
   },
   "X58FvFWfae0": {
@@ -4502,7 +4480,7 @@
   "kyubalt": {
     "snippet": {
       "channelId": "kyubalt",
-      "title": "\u3010  sheepstalgia sunday \u3011 exploring the world of gamepro once again - !essay + !neocities + !discord",
+      "title": "\u3010  sheepstalgia sunday \u3011 exploring the world of play once again - !essay + !neocities + !discord",
       "channelTitle": "kyubalt"
     },
     "liveStreamingDetails": {
