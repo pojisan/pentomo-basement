@@ -516,5 +516,28 @@
       "actualEndTime": "2024-06-02T15:06:54Z",
       "scheduledStartTime": "2024-06-02T13:18:00Z"
     }
+  },
+  "HCI_LSIikyA": {
+    "snippet": {
+      "publishedAt": "2024-06-03T04:55:58Z",
+      "channelId": "UCqlgtk9H_1GoWtvW8Vii38w",
+      "title": "\u3010Pico Park\u3011Vamos a jugar con Reina Senpai\u3010Alicja Da Lontano | Globie Gen 2 Solstia\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-03T14:00:00Z",
+      "activeLiveChatId": "Cg0KC0hDSV9MU0lpa3lBKicKGFVDcWxndGs5SF8xR29XdHZXOFZpaTM4dxILSENJX0xTSWlreUE"
+    }
+  },
+  "8PJIj6yQkD4": {
+    "snippet": {
+      "publishedAt": "2024-06-03T03:17:26Z",
+      "channelId": "UCqlgtk9H_1GoWtvW8Vii38w",
+      "title": "\u3010 Live2D Model Asset Showcase\u3011Birthday Party dress (Day and Night version)\u3010 Serina Maiko V4Mirai\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-03T13:00:00Z",
+      "activeLiveChatId": "Cg0KCzhQSklqNnlRa0Q0KicKGFVDcWxndGs5SF8xR29XdHZXOFZpaTM4dxILOFBKSWo2eVFrRDQ",
+      "premiere": true
+    }
   }
 }
