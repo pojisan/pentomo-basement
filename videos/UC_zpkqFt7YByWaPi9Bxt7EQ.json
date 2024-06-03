@@ -561,8 +561,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-03T14:02:26Z",
       "actualEndTime": "2024-06-03T16:40:10Z",
-      "scheduledStartTime": "2024-06-03T14:00:00Z",
-      "activeLiveChatId": "Cg0KC0xFWjZNSS14NlpJKicKGFVDX3pwa3FGdDdZQnlXYVBpOUJ4dDdFURILTEVaNk1JLXg2Wkk"
+      "scheduledStartTime": "2024-06-03T14:00:00Z"
     }
   },
   "zqwEEx1XW-k": {
@@ -596,6 +595,13 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-08T17:00:00Z",
       "activeLiveChatId": "Cg0KC0F0cjFiTXppMGlBKicKGFVDX3pwa3FGdDdZQnlXYVBpOUJ4dDdFURILQXRyMWJNemkwaUE"
+    }
+  },
+  "_qpNXHGEaOI": {
+    "snippet": {
+      "publishedAt": "2024-06-03T14:29:50Z",
+      "channelId": "UC_zpkqFt7YByWaPi9Bxt7EQ",
+      "title": "Aventurine Original Song - Full MV ^"
     }
   }
 }
