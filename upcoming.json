@@ -320,6 +320,7 @@
       "title": "so a LOOOOOT happened"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-03T05:03:02Z",
       "scheduledStartTime": "2024-06-03T05:00:00Z",
       "activeLiveChatId": "Cg0KCzFNMkdscEpwVFRJKicKGFVDeUtzZy01N1hDOXB5SGJQN3Yza0NQURILMU0yR2xwSnBUVEk"
     }
@@ -375,6 +376,7 @@
       "title": "I AM STILL IN DEBT \ud83d\ude2d\ud83d\udc97\u3010 Animal Crossing New Horizons \u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-03T05:09:45Z",
       "scheduledStartTime": "2024-06-03T05:00:00Z",
       "activeLiveChatId": "Cg0KCzFia2JnTTVWLU9rKicKGFVDWWFkWlI5bVJpZ254NFJLdlBvdzQ0ZxILMWJrYmdNNVYtT2s"
     }
@@ -1248,18 +1250,6 @@
       "activeLiveChatId": "Cg0KC0RCTlhLTWU2VFJBKicKGFVDNFlYMlp0NjZSNHVZcUxIRmt3UDFhdxILREJOWEtNZTZUUkE"
     }
   },
-  "DDDSVkUICF8": {
-    "snippet": {
-      "publishedAt": "2024-05-28T14:34:33Z",
-      "channelId": "UC-yGTVx6w9JZZIFPidKCORg",
-      "title": "\u300e DREAMS PS4\u300fTREN: A Game Inside a Game to Make Games\u300eLauren Radios | OshiLink\u300f"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-03T01:03:23Z",
-      "scheduledStartTime": "2024-06-03T01:00:00Z",
-      "activeLiveChatId": "Cg0KC0RERFNWa1VJQ0Y4KicKGFVDLXlHVFZ4Nnc5SlpaSUZQaWRLQ09SZxILREREU1ZrVUlDRjg"
-    }
-  },
   "DMt6mRxKxn0": {
     "snippet": {
       "publishedAt": "2022-11-13T07:29:16Z",
@@ -1977,6 +1967,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-02-15T05:00:00Z",
       "activeLiveChatId": "Cg0KC0pQcGtXZHM5eXFzKicKGFVDRzU2WFdaZWJPM1RIV0w2R3FkTDZnQRILSlBwa1dkczl5cXM"
+    }
+  },
+  "JShepwAIT9U": {
+    "snippet": {
+      "publishedAt": "2024-06-03T05:07:33Z",
+      "channelId": "UCasZvskFC_SHs6LXx2_26cQ",
+      "title": "\u300aROCK LIFE W/ CYANNE\u300b ROCK HARD AS USUAL.\u3010Sera Kesera | bondliveEN\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-03T21:00:00Z",
+      "activeLiveChatId": "Cg0KC0pTaGVwd0FJVDlVKicKGFVDYXNadnNrRkNfU0hzNkxYeDJfMjZjURILSlNoZXB3QUlUOVU"
     }
   },
   "JlKInYGDvt0": {
@@ -3135,7 +3136,7 @@
       "title": "\u3010HUNT-A-KILLER\u3011Leaving my life of crime behind\u3010Yumi The Witch | V4Mirai | ENVtuber\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-05T08:30:00Z",
+      "scheduledStartTime": "2024-06-06T08:30:00Z",
       "activeLiveChatId": "Cg0KC1V3YS1Ccko1NElZKicKGFVDMUpuYWdycWpUekVScWZwTnRSZngxQRILVXdhLUJySjU0SVk"
     }
   },
@@ -5994,7 +5995,7 @@
   "zeusmythosvt": {
     "snippet": {
       "channelId": "zeusmythosvt",
-      "title": "\u300c \ud83c\udf29\ufe0f JUST CHATTING \ud83c\udf29\ufe0f \u300dGODDESS IS EATING LUNCH BE RIGHT BACK FOR ELDEN RING \u26a1 !discord !throne !lurk !daki !uwu !GS",
+      "title": "\u300c \ud83c\udf29\ufe0f ELDEN RING \ud83c\udf29\ufe0f \u300dNG+1 GOING TO FIGHT RADAHN OR I WILL DIE TRYING HAHAHAHAHA \u26a1 !discord !throne !lurk !daki !uwu !GS",
       "channelTitle": "ZeusMythosVT"
     },
     "liveStreamingDetails": {
