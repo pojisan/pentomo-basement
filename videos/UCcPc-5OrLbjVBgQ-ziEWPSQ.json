@@ -274,5 +274,38 @@
       "actualEndTime": "2024-06-04T02:29:32Z",
       "scheduledStartTime": "2024-06-04T00:00:00Z"
     }
+  },
+  "oeSPb7Q3KIE": {
+    "snippet": {
+      "publishedAt": "2024-05-22T19:14:07Z",
+      "channelId": "UCcPc-5OrLbjVBgQ-ziEWPSQ",
+      "title": "Turn on the Light playthrough. Good thing, too- it is a bit dark in here!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-11T00:00:00Z",
+      "activeLiveChatId": "Cg0KC29lU1BiN1EzS0lFKicKGFVDY1BjLTVPckxialZCZ1EtemlFV1BTURILb2VTUGI3UTNLSUU"
+    }
+  },
+  "XOgK3SNeNmc": {
+    "snippet": {
+      "publishedAt": "2024-05-22T16:45:40Z",
+      "channelId": "UCcPc-5OrLbjVBgQ-ziEWPSQ",
+      "title": "Heading back to the Planet of Lana! Episode 2"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-14T00:00:00Z",
+      "activeLiveChatId": "Cg0KC1hPZ0szU05lTm1jKicKGFVDY1BjLTVPckxialZCZ1EtemlFV1BTURILWE9nSzNTTmVObWM"
+    }
+  },
+  "tKdyte3iuIM": {
+    "snippet": {
+      "publishedAt": "2024-05-22T16:14:36Z",
+      "channelId": "UCcPc-5OrLbjVBgQ-ziEWPSQ",
+      "title": "Let's finish gathering all our clues! Outer Wilds playthrough episode 7."
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-07T00:00:00Z",
+      "activeLiveChatId": "Cg0KC3RLZHl0ZTNpdUlNKicKGFVDY1BjLTVPckxialZCZ1EtemlFV1BTURILdEtkeXRlM2l1SU0"
+    }
   }
 }
