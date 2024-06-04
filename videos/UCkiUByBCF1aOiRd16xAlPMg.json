@@ -3632,8 +3632,32 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-04T18:10:40Z",
-      "scheduledStartTime": "2024-06-04T18:10:41Z",
-      "activeLiveChatId": "Cg0KC24xaUE1XzVqNGdVKicKGFVDa2lVQnlCQ0YxYU9pUmQxNnhBbFBNZxILbjFpQTVfNWo0Z1U"
+      "actualEndTime": "2024-06-04T18:13:22Z",
+      "scheduledStartTime": "2024-06-04T18:10:41Z"
+    }
+  },
+  "-YI7yD199Yo": {
+    "snippet": {
+      "publishedAt": "2024-06-04T18:16:55Z",
+      "channelId": "UCkiUByBCF1aOiRd16xAlPMg",
+      "title": "A Quickie."
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-04T18:15:36Z",
+      "actualEndTime": "2024-06-04T18:15:48Z",
+      "scheduledStartTime": "2024-06-04T18:15:32Z"
+    }
+  },
+  "VtKGCj59Xcs": {
+    "snippet": {
+      "publishedAt": "2024-06-04T18:16:13Z",
+      "channelId": "UCkiUByBCF1aOiRd16xAlPMg",
+      "title": "A Quickie."
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-04T18:14:53Z",
+      "actualEndTime": "2024-06-04T18:15:17Z",
+      "scheduledStartTime": "2024-06-04T18:14:54Z"
     }
   }
 }
