@@ -716,6 +716,7 @@
       "title": "\u3010Minecraft Heroes\u3011Building a trap for heroes\u30fb\u30d2\u30fc\u30ed\u30fc\u3092\u5f15\u304d\u5bc4\u305b\u308b\u7f60\u3092\u4f5c\u308b\uff01\u3010NIJISANJI EN | Vezalius Bandage\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-04T13:03:02Z",
       "scheduledStartTime": "2024-06-04T13:00:00Z",
       "activeLiveChatId": "Cg0KCzVRRTBTSXJHUTJ3KicKGFVDSzlsNnJUd1UzaGlTWmlqSU1xNTFHdxILNVFFMFNJckdRMnc"
     }
@@ -781,6 +782,7 @@
       "title": "\u3010MINECRAFT HERO SERVER\u3011WE ARE SO BACK \u3010NIJISANJI EN | Yu Q. Wilson\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-04T13:02:13Z",
       "scheduledStartTime": "2024-06-04T13:00:00Z",
       "activeLiveChatId": "Cg0KCzY0S004bGVSc1lrKicKGFVDS3BLQzNNNWZrY0V2dE9yMDZkbVlsQRILNjRLTThsZVJzWWs"
     }
@@ -3271,6 +3273,7 @@
       "title": "\ud83d\udd34\u3010THIEF SIMULATOR\u3011 Times Are Hard But I'm Harder \ud83d\udcb0"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-04T13:03:14Z",
       "scheduledStartTime": "2024-06-04T13:00:00Z",
       "activeLiveChatId": "Cg0KC1JpakxpbGQ0RHY4KicKGFVDNDE3UVBhV0xMNHJjWUJBRVNQTGZyQRILUmlqTGlsZDREdjg"
     }
@@ -4787,6 +4790,17 @@
       "activeLiveChatId": "Cg0KC2VkT2M0eUZEcUxvKicKGFVDb3ZLd2dBOWVIVXV0SVdDVldTX0FHdxILZWRPYzR5RkRxTG8"
     }
   },
+  "erislefaire": {
+    "snippet": {
+      "channelId": "erislefaire",
+      "title": "i might sound a little tired but let's relax with kitties today | !kofi !discord |",
+      "channelTitle": "ErisLefaire"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-04T13:08:34Z",
+      "twitch": true
+    }
+  },
   "etxaVqZeo10": {
     "snippet": {
       "publishedAt": "2024-06-02T22:20:23Z",
@@ -5977,7 +5991,8 @@
       "title": "\ud83d\udfe3Goozi Game | Valorant Training Arc \u0e01\u0e25\u0e31\u0e1a\u0e21\u0e32\u0e25\u0e2d\u0e07\u0e2d\u0e35\u0e01\u0e04\u0e23\u0e31\u0e48\u0e07! \u2726 EN|TH\u3010 Goozilla Ily\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-04T13:00:00Z",
+      "actualStartTime": "2024-06-04T13:02:40Z",
+      "scheduledStartTime": "2024-06-04T13:02:22Z",
       "activeLiveChatId": "Cg0KC3BPb19KcDdxdnNFKicKGFVDS2c5dldXVF8yeUszRkZOTm5uaGhMdxILcE9vX0pwN3F2c0U"
     }
   },
