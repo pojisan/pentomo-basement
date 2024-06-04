@@ -337,8 +337,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-04T02:01:07Z",
-      "scheduledStartTime": "2024-06-04T02:00:00Z",
-      "activeLiveChatId": "Cg0KC3QtN210ZnE2Qy1BKicKGFVDaUJNSDFkN2V3XzNiaTJBX3paR3NtdxILdC03bXRmcTZDLUE"
+      "actualEndTime": "2024-06-04T02:33:36Z",
+      "scheduledStartTime": "2024-06-04T02:00:00Z"
     }
   },
   "DHhF6ZQDr1s": {
@@ -361,6 +361,18 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-08T22:00:00Z",
       "activeLiveChatId": "Cg0KC080bjNKZkNmM3owKicKGFVDaUJNSDFkN2V3XzNiaTJBX3paR3NtdxILTzRuM0pmQ2YzejA"
+    }
+  },
+  "Z0q349_eKnU": {
+    "snippet": {
+      "publishedAt": "2024-06-04T02:33:08Z",
+      "channelId": "UCiBMH1d7ew_3bi2A_zZGsmw",
+      "title": "\u3010Como y luego WuWa\u3011Se fuerte mi maquinitaaa \u3010idolES | Taiga Toragami\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-04T02:35:50Z",
+      "scheduledStartTime": "2024-06-04T02:35:00Z",
+      "activeLiveChatId": "Cg0KC1owcTM0OV9lS25VKicKGFVDaUJNSDFkN2V3XzNiaTJBX3paR3NtdxILWjBxMzQ5X2VLblU"
     }
   }
 }
