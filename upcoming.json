@@ -1879,6 +1879,7 @@
       "title": "I AM BECOME GOOSE, TERROR OF SMALL RURAL TOWNSHIPS"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-04T18:03:15Z",
       "scheduledStartTime": "2024-06-04T18:00:00Z",
       "activeLiveChatId": "Cg0KC0dZdDVOT1F6eTJRKicKGFVDMVpSWG9UUVV3WnRLbnBPZkp3R05QdxILR1l0NU5PUXp5MlE"
     }
@@ -3165,7 +3166,7 @@
       "title": "\u3010AC:Brotherhood\u3011100% for the 1st time! \ud83e\udd91\ud83d\uded0\u3010VAllure\u3011"
     },
     "liveStreamingDetails": {
-      "actualStartTime": "2024-06-04T18:02:10Z",
+      "actualStartTime": "2024-06-04T18:02:40Z",
       "scheduledStartTime": "2024-06-04T18:00:00Z",
       "activeLiveChatId": "Cg0KC1FSM3lvR0REcF9FKicKGFVDd21HXzd5NnBUb1JXSEo5VHdGZFoxURILUVIzeW9HRERwX0U"
     }
@@ -3267,18 +3268,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-05T16:00:00Z",
       "activeLiveChatId": "Cg0KC1JqdUh4WXUxX2R3KicKGFVDc3d2ZDZfWVdtZDZyaVJrLThvVC1zQRILUmp1SHhZdTFfZHc"
-    }
-  },
-  "RwDn3sDUk4o": {
-    "snippet": {
-      "publishedAt": "2024-06-01T18:54:32Z",
-      "channelId": "UCHpii1sLA2xLbnsYDUmfhYQ",
-      "title": "OFFKAI AFTERTALK | DUAL STREAM ON TWITCH"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-04T14:55:35Z",
-      "scheduledStartTime": "2024-06-04T15:00:00Z",
-      "activeLiveChatId": "Cg0KC1J3RG4zc0RVazRvKicKGFVDSHBpaTFzTEEyeExibnNZRFVtZmhZURILUndEbjNzRFVrNG8"
     }
   },
   "RxHtpP21aPE": {
@@ -4493,6 +4482,17 @@
       "activeLiveChatId": "Cg0KC2JXckt5NjVJT0FjKicKGFVDVlFFYmpBY0pSZVB4T0RWTTVtV0N2URILYldyS3k2NUlPQWM"
     }
   },
+  "bajiru_en": {
+    "snippet": {
+      "channelId": "bajiru_en",
+      "title": "\u3010KARAOKE\u3011rAAAA SING! \ud83c\udf31 || !socials !advgg !sl",
+      "channelTitle": "bajiru_EN"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-04T18:02:20Z",
+      "twitch": true
+    }
+  },
   "blLWBuPq8j0": {
     "snippet": {
       "publishedAt": "2024-01-23T17:27:26Z",
@@ -5147,17 +5147,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-24T14:00:00Z",
       "activeLiveChatId": "Cg0KC2hZWl9sZ3R1YWVrKicKGFVDcjhOWjlqT3JyVmNJUm5hSFpDakpVZxILaFlaX2xndHVhZWs"
-    }
-  },
-  "hadesmythos": {
-    "snippet": {
-      "channelId": "hadesmythos",
-      "title": "\u2726\ud83d\udd25ITS A NEW DAY, ITS A NEW DAWN, FOR MEEEEEEE AND IM TALKING ABOUT OFFKAI \ud83d\udd25\u2726 \u300e|!UWU |!Daki |!throne |!discord |!treat |!donate\u300f",
-      "channelTitle": "HadesMythos"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-04T14:54:57Z",
-      "twitch": true
     }
   },
   "hisWk9dPxxk": {
@@ -5828,6 +5817,18 @@
       "activeLiveChatId": "Cg0KC24wR0xQVXkwcFF3KicKGFVDMWVYX01Wck4wRUJLZHBrbjliLWpodxILbjBHTFBVeTBwUXc"
     }
   },
+  "n1iA5_5j4gU": {
+    "snippet": {
+      "publishedAt": "2024-06-04T18:10:32Z",
+      "channelId": "UCkiUByBCF1aOiRd16xAlPMg",
+      "title": "A Quickie."
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-04T18:10:40Z",
+      "scheduledStartTime": "2024-06-04T18:10:41Z",
+      "activeLiveChatId": "Cg0KC24xaUE1XzVqNGdVKicKGFVDa2lVQnlCQ0YxYU9pUmQxNnhBbFBNZxILbjFpQTVfNWo0Z1U"
+    }
+  },
   "n5D5GvXzXmY": {
     "snippet": {
       "publishedAt": "2023-12-11T14:51:50Z",
@@ -6043,18 +6044,6 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC29zejNiaDVfdTRFKicKGFVDbHJRN3hoUkJ4U192Xy1XdXVkR0ttQRILb3N6M2JoNV91NEU"
-    }
-  },
-  "oyfC0ndJJ_o": {
-    "snippet": {
-      "publishedAt": "2024-06-04T15:32:46Z",
-      "channelId": "UCsQ0NqSNa0GLdEPei2ccfMw",
-      "title": "\u3010VALORANT\u3011I don't know how to play this game anymore.\u3010VOLs\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-04T15:43:49Z",
-      "scheduledStartTime": "2024-06-04T15:45:00Z",
-      "activeLiveChatId": "Cg0KC295ZkMwbmRKSl9vKicKGFVDc1EwTnFTTmEwR0xkRVBlaTJjY2ZNdxILb3lmQzBuZEpKX28"
     }
   },
   "p2e9RMCHutI": {
@@ -6985,18 +6974,6 @@
       "actualStartTime": "2024-06-04T15:56:31Z",
       "scheduledStartTime": "2024-06-04T16:00:00Z",
       "activeLiveChatId": "Cg0KC3diN2RURHE0MFAwKicKGFVDRkhkRUFIUGJGVWpnSjFSYU9fQXc2dxILd2I3ZFREcTQwUDA"
-    }
-  },
-  "wcWShOKOT0c": {
-    "snippet": {
-      "publishedAt": "2024-06-04T17:59:23Z",
-      "channelId": "UCkiUByBCF1aOiRd16xAlPMg",
-      "title": "A Quickie."
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-04T18:00:14Z",
-      "scheduledStartTime": "2024-06-04T17:59:32Z",
-      "activeLiveChatId": "Cg0KC3djV1NoT0tPVDBjKicKGFVDa2lVQnlCQ0YxYU9pUmQxNnhBbFBNZxILd2NXU2hPS09UMGM"
     }
   },
   "wijncQzuK1o": {
