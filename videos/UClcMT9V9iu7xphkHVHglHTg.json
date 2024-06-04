@@ -774,5 +774,27 @@
       "actualEndTime": "2024-06-02T22:38:01Z",
       "scheduledStartTime": "2024-06-02T16:00:00Z"
     }
+  },
+  "6GhSQoWeXWs": {
+    "snippet": {
+      "publishedAt": "2024-06-04T08:49:39Z",
+      "channelId": "UClcMT9V9iu7xphkHVHglHTg",
+      "title": "\u3010HONKAI: STAR RAIL\u3011TIME TO AUDITION FOR THE FESTIVAL!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-04T16:00:00Z",
+      "activeLiveChatId": "Cg0KCzZHaFNRb1dlWFdzKicKGFVDbGNNVDlWOWl1N3hwaGtIVkhnbEhUZxILNkdoU1FvV2VYV3M"
+    }
+  },
+  "JVflBuLDBpc": {
+    "snippet": {
+      "publishedAt": "2024-06-04T08:50:50Z",
+      "channelId": "UClcMT9V9iu7xphkHVHglHTg",
+      "title": "\u3010PERSONA 3 RELOAD\u3011WHO'S THE NEXT SHADOW?"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-05T16:00:00Z",
+      "activeLiveChatId": "Cg0KC0pWZmxCdUxEQnBjKicKGFVDbGNNVDlWOWl1N3hwaGtIVkhnbEhUZxILSlZmbEJ1TERCcGM"
+    }
   }
 }
