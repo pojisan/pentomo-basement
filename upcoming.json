@@ -3803,6 +3803,7 @@
       "title": "$\ud835\udcd4\ud835\udce7\ud835\udce8 NURSE ROLEPLAY\ud83e\udd0d \u3010NIJISANJI EN | Aia Amare \u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-04T21:04:24Z",
       "scheduledStartTime": "2024-06-04T21:00:00Z",
       "activeLiveChatId": "Cg0KC1dLNXJiQnVXOTlvKicKGFVDTjY4TG9NM2toUzRnZEJNaVdKTzhXQRILV0s1cmJCdVc5OW8"
     }
@@ -5912,6 +5913,17 @@
       "twitch": true
     }
   },
+  "ninete_en": {
+    "snippet": {
+      "channelId": "ninete_en",
+      "title": "Day:42:\u30a8\u30b4\u3068\u3044\u3046\u540d\u306e\u30d0\u30c8\u30eb\u30e2\u30a4\u30e9\u3092\u6291\u3048\u308b\u7cbe\u795e\u4fee\u884c\u3002",
+      "channelTitle": "\u30ca\u30a4\u30f3\u30c6\u30a3\u30fc\u30f3"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-04T21:02:55Z",
+      "twitch": true
+    }
+  },
   "nnAY-x9AtNk": {
     "snippet": {
       "publishedAt": "2022-07-13T01:04:14Z",
@@ -7171,17 +7183,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-05T04:00:00Z",
       "activeLiveChatId": "Cg0KC3lpc1d4NHRYc1pRKicKGFVDcFlmNkM5UXNQX0JSZjk3dkx1WGxJQRILeWlzV3g0dFhzWlE"
-    }
-  },
-  "ykHyzs_PUCY": {
-    "snippet": {
-      "publishedAt": "2024-06-04T15:03:39Z",
-      "channelId": "UCa7fhTz-VSEIaGt8j6jab6A",
-      "title": "i hate this game"
-    },
-    "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-04T21:00:00Z",
-      "activeLiveChatId": "Cg0KC3lrSHl6c19QVUNZKicKGFVDYTdmaFR6LVZTRUlhR3Q4ajZqYWI2QRILeWtIeXpzX1BVQ1k"
     }
   },
   "ylZje3DyZYQ": {
