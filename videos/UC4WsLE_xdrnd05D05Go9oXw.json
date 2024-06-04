@@ -4468,8 +4468,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-04T14:01:24Z",
       "actualEndTime": "2024-06-04T17:08:31Z",
-      "scheduledStartTime": "2024-06-04T14:00:00Z",
-      "activeLiveChatId": "Cg0KC3JFYXc0cGpPcEkwKicKGFVDNFdzTEVfeGRybmQwNUQwNUdvOW9YdxILckVhdzRwak9wSTA"
+      "scheduledStartTime": "2024-06-04T14:00:00Z"
     }
   },
   "Mt6p4ONN0CQ": {
@@ -4516,6 +4515,17 @@
       "scheduledStartTime": "2024-06-06T13:00:00Z",
       "activeLiveChatId": "Cg0KC0NmYWZ3MFdzNXA0KicKGFVDNFdzTEVfeGRybmQwNUQwNUdvOW9YdxILQ2ZhZncwV3M1cDQ",
       "premiere": true
+    }
+  },
+  "TodcE-sBVYU": {
+    "snippet": {
+      "publishedAt": "2024-06-04T17:07:49Z",
+      "channelId": "UC4WsLE_xdrnd05D05Go9oXw",
+      "title": "\u3010BIRTHDAY CELEBRATION\u3011officially two years old | #vtuber"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-06T14:00:00Z",
+      "activeLiveChatId": "Cg0KC1RvZGNFLXNCVllVKicKGFVDNFdzTEVfeGRybmQwNUQwNUdvOW9YdxILVG9kY0Utc0JWWVU"
     }
   }
 }
