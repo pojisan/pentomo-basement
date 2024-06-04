@@ -765,5 +765,49 @@
       "actualEndTime": "2024-06-01T22:00:09Z",
       "scheduledStartTime": "2024-06-01T19:00:00Z"
     }
+  },
+  "J7Is26prEX4": {
+    "snippet": {
+      "publishedAt": "2024-06-04T22:41:09Z",
+      "channelId": "UC_cxiOVYi9TH3iPvam9f5yA",
+      "title": "[TERRARIA PART 4] WOAH MAMA- Ciccino Katterina Triple A Club V&U"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-09T02:00:00Z",
+      "activeLiveChatId": "Cg0KC0o3SXMyNnByRVg0KicKGFVDX2N4aU9WWWk5VEgzaVB2YW05ZjV5QRILSjdJczI2cHJFWDQ"
+    }
+  },
+  "q0xQ61OGlWI": {
+    "snippet": {
+      "publishedAt": "2024-06-04T22:39:22Z",
+      "channelId": "UC_cxiOVYi9TH3iPvam9f5yA",
+      "title": "[TERRARIA PART 3] FIGHTING FOR MY LIFE - Ciccino Katterina Triple A Club V&U"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-08T02:00:00Z",
+      "activeLiveChatId": "Cg0KC3EweFE2MU9HbFdJKicKGFVDX2N4aU9WWWk5VEgzaVB2YW05ZjV5QRILcTB4UTYxT0dsV0k"
+    }
+  },
+  "gCJP8uDw6dA": {
+    "snippet": {
+      "publishedAt": "2024-06-04T22:37:41Z",
+      "channelId": "UC_cxiOVYi9TH3iPvam9f5yA",
+      "title": "[TERRARIA PART 2] Once Again!! - Ciccino Katterina Triple A Club V&U"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-06T02:00:00Z",
+      "activeLiveChatId": "Cg0KC2dDSlA4dUR3NmRBKicKGFVDX2N4aU9WWWk5VEgzaVB2YW05ZjV5QRILZ0NKUDh1RHc2ZEE"
+    }
+  },
+  "qHlDi3zA6p0": {
+    "snippet": {
+      "publishedAt": "2024-06-04T22:36:18Z",
+      "channelId": "UC_cxiOVYi9TH3iPvam9f5yA",
+      "title": "[TERRARIA PART 1] Winning Terraria for the First Time!! - Ciccino Katterina Triple A Club V&U"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-05T02:00:00Z",
+      "activeLiveChatId": "Cg0KC3FIbERpM3pBNnAwKicKGFVDX2N4aU9WWWk5VEgzaVB2YW05ZjV5QRILcUhsRGkzekE2cDA"
+    }
   }
 }
