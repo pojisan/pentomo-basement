@@ -295,7 +295,7 @@
     "snippet": {
       "publishedAt": "2023-12-11T01:32:26Z",
       "channelId": "UCv1ThyE4KVYnnVY8GLftnoA",
-      "title": "\u3010SCHEDULE\u3011\ud83d\uddd3\ufe0f\u3010V4Mirai | Serina Maiko\u3011"
+      "title": "\u3010SCHEDULE\u3011\ud83d\uddd3\ufe0f 06/03 - 06/09 \ud83d\uddd3\ufe0f\u3010V4Mirai | Serina Maiko\u3011"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-01-01T05:00:00Z",
@@ -363,6 +363,7 @@
       "title": "[3D SPORTS] I Bet I Can Score 50 GOALS OR ELSE!!!!!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-04T19:51:35Z",
       "scheduledStartTime": "2024-06-04T19:30:00Z",
       "activeLiveChatId": "Cg0KCzFtakc0SF9NdTlZKicKGFVDS0pleGFkQ2VObzNsdTBVMjBza21OZxILMW1qRzRIX011OVk"
     }
@@ -4222,6 +4223,7 @@
       "title": "Playing with some big balls! \ud83e\udd4e Game of Sisyphus!\u3010Bonnie Barkswell / globie\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-04T20:00:25Z",
       "scheduledStartTime": "2024-06-04T20:00:00Z",
       "activeLiveChatId": "Cg0KC1pzbGtDVFBVVThJKicKGFVDcXczcGRQRUtLVk9JN1NGWG9teUtMQRILWnNsa0NUUFVVOEk"
     }
@@ -4491,6 +4493,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2026-01-31T14:45:00Z",
       "activeLiveChatId": "Cg0KC2JsTFdCdVBxOGowKicKGFVDOGFVRjlpcHpRYjJqVEhsRm9GWjFWZxILYmxMV0J1UHE4ajA"
+    }
+  },
+  "bqK-n_FieL0": {
+    "snippet": {
+      "publishedAt": "2024-06-04T19:57:16Z",
+      "channelId": "UCxbNEW7xykTC7hE5FYgwrOw",
+      "title": "\u3010Getting Over It\u3011EUGHH\u3010bondliveEN | Ivaela Daemoni\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-04T20:15:00Z",
+      "activeLiveChatId": "Cg0KC2JxSy1uX0ZpZUwwKicKGFVDeGJORVc3eHlrVEM3aEU1Rllnd3JPdxILYnFLLW5fRmllTDA"
     }
   },
   "btL9ezZ6eXU": {
@@ -5490,6 +5503,7 @@
       "title": "\u3010ASMR Roleplay\u3011Can I buy you a drink? \ud83e\udea2\ud83d\udc07\u3010VAllure\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-04T19:58:55Z",
       "scheduledStartTime": "2024-06-04T20:00:00Z",
       "activeLiveChatId": "Cg0KC2t0dXprbWVJcDFVKicKGFVDdll6d0VrQ1EyN2dQYWo1NHdCc1ZPZxILa3R1emttZUlwMVU"
     }
@@ -5533,6 +5547,7 @@
       "title": "\u3010Art\u3011Drawing your pfps poorly & announcements!\u3010Alicja Da Lontano | Globie Gen 2 Solstia\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-04T19:59:14Z",
       "scheduledStartTime": "2024-06-04T20:00:00Z",
       "activeLiveChatId": "Cg0KC2xGajN2ME90azhJKicKGFVDcWxndGs5SF8xR29XdHZXOFZpaTM4dxILbEZqM3YwT3RrOEk"
     }
@@ -5651,6 +5666,7 @@
       "title": "\u3010Little Goody Two Shoes\u3011 Am I a little goody two shoe?~ [P1]"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-04T20:00:23Z",
       "scheduledStartTime": "2024-06-04T20:00:00Z",
       "activeLiveChatId": "Cg0KC2x1UFJfWmFDaW9jKicKGFVDdS1KOHVJWHVMWmgxNmdHLWNUMW5hdxILbHVQUl9aYUNpb2M"
     }
@@ -6549,17 +6565,6 @@
       "activeLiveChatId": "Cg0KC3RPeWpnYWU4UmZrKicKGFVDVEpDb0hFdDVjMjdyY2VxMnNoNjlrZxILdE95amdhZThSZms"
     }
   },
-  "tatsuhikohiroki": {
-    "snippet": {
-      "channelId": "tatsuhikohiroki",
-      "title": "[Road to 1,000!] Singing practice without music with LOTS OF COUGHING | Impromptu stream cause what's sleep #Vtuber",
-      "channelTitle": "tatsuhikohiroki"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-04T17:55:59Z",
-      "twitch": true
-    }
-  },
   "tgT5_3YKu_c": {
     "snippet": {
       "publishedAt": "2024-06-02T13:36:42Z",
@@ -7218,18 +7223,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-07T19:00:00Z",
       "activeLiveChatId": "Cg0KC3prOFRpZ0llU2tjKicKGFVDYjhkTHZEdm1aLWQ5MktFeV85b1dvZxILems4VGlnSWVTa2M"
-    }
-  },
-  "zqm046FpFVY": {
-    "snippet": {
-      "publishedAt": "2024-06-04T17:55:53Z",
-      "channelId": "UCf4U3iVUDkkhIv3jnr41u-Q",
-      "title": "[Road to 1,000!] Singing practice without music with LOTS OF COUGHING | Impromptu stream  #Vtuber"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-04T17:56:32Z",
-      "scheduledStartTime": "2024-06-04T17:55:53Z",
-      "activeLiveChatId": "Cg0KC3pxbTA0NkZwRlZZKicKGFVDZjRVM2lWVURra2hJdjNqbnI0MXUtURILenFtMDQ2RnBGVlk"
     }
   },
   "zqwEEx1XW-k": {
