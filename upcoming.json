@@ -4555,6 +4555,7 @@
       "title": "Only Sheriff Challenge\ud83d\udc7c"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-05T15:00:42Z",
       "scheduledStartTime": "2024-06-05T15:00:00Z",
       "activeLiveChatId": "Cg0KC2NjN0QwUnFwRDVjKicKGFVDUmtkRkdYd0J0eHZtOVNzZm1ObU1aQRILY2M3RDBScXBENWM"
     }
@@ -5164,6 +5165,17 @@
       "activeLiveChatId": "Cg0KC2hZWl9sZ3R1YWVrKicKGFVDcjhOWjlqT3JyVmNJUm5hSFpDakpVZxILaFlaX2xndHVhZWs"
     }
   },
+  "hadesmythos": {
+    "snippet": {
+      "channelId": "hadesmythos",
+      "title": "\u2726\ud83d\udd25CHATTING, THEN PLAYING COBBLEMON, AND THEN REACTING TO CRAZY SHIT\ud83d\udd25\u2726 \u300e|!UWU |!Daki |!throne |!discord |!treat |!donate\u300f",
+      "channelTitle": "HadesMythos"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-05T14:52:45Z",
+      "twitch": true
+    }
+  },
   "hisWk9dPxxk": {
     "snippet": {
       "publishedAt": "2024-05-11T01:49:10Z",
@@ -5494,6 +5506,7 @@
       "title": "MYTHICAL COBBLEMON S2\u300eDUAL STREAM ON TWITCH\u300f"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-05T14:53:13Z",
       "scheduledStartTime": "2024-06-05T15:00:00Z",
       "activeLiveChatId": "Cg0KC2t0bWRKak05STU0KicKGFVDSHBpaTFzTEEyeExibnNZRFVtZmhZURILa3RtZEpqTTlJNTQ"
     }
@@ -5711,17 +5724,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2026-05-30T14:45:00Z",
       "activeLiveChatId": "Cg0KC21fSlMxY2N2RWs4KicKGFVDX3Q3d3RTY1ZMazg1SWFEOWpZU1JBQRILbV9KUzFjY3ZFazg"
-    }
-  },
-  "makofukasame": {
-    "snippet": {
-      "channelId": "makofukasame",
-      "title": "IT'S COLD AND I'M OFF WORK WHAT DO I DO [vtuber] !vershion !gamersupps",
-      "channelTitle": "MakoFukasame"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-05T09:01:35Z",
-      "twitch": true
     }
   },
   "miya_mareena": {
