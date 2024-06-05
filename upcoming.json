@@ -4978,7 +4978,8 @@
       "title": "I made burgers, now let's eat one!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-05T01:30:04Z",
+      "actualStartTime": "2024-06-05T01:47:40Z",
+      "scheduledStartTime": "2024-06-05T01:47:29Z",
       "activeLiveChatId": "Cg0KC2RqWXFSd0QybEpRKicKGFVDN3NxYlE0XzVfRUx6LU92LWJWQmk4QRILZGpZcVJ3RDJsSlE"
     }
   },
@@ -6206,17 +6207,6 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC25WejdycFFnelZZKicKGFVDZHVyZXV4N0JfVi14aE03dFlJbUFTURILblZ6N3JwUWd6Vlk"
-    }
-  },
-  "ninete_en": {
-    "snippet": {
-      "channelId": "ninete_en",
-      "title": "Day:42:\u80cc\u4e2d\u3067\u8a9e\u308b\u3002",
-      "channelTitle": "\u30ca\u30a4\u30f3\u30c6\u30a3\u30fc\u30f3"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-04T21:02:55Z",
-      "twitch": true
     }
   },
   "nnAY-x9AtNk": {
