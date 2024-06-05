@@ -4083,7 +4083,9 @@
       "title": "\u3010biohazard HD REMASTER #7\u3011\u672c\u5f53\u306f\u6050\u308d\u3057\u3044\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c9\uff08\u30ac\u30c1\uff09\u3010\u77f3\u795e\u306e\u305e\u307f\uff0f\u306b\u3058\u3055\u3093\u3058\u6240\u5c5e\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-05T12:00:00Z"
+      "actualStartTime": "2024-06-05T12:03:06Z",
+      "scheduledStartTime": "2024-06-05T12:00:00Z",
+      "activeLiveChatId": "Cg0KC2RPVG1nYTZfdkJBKicKGFVDdExmQV9xVXFDSnRqWEpNMlpSX2tlZxILZE9UbWdhNl92QkE"
     }
   }
 }
