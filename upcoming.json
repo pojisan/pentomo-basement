@@ -459,6 +459,7 @@
       "title": "\u3010HANDCAM\u3011 Offkai Aftertalk & Opening presents\ud83e\udde1"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-05T03:01:10Z",
       "scheduledStartTime": "2024-06-05T03:00:00Z",
       "activeLiveChatId": "Cg0KCzNPSks1VF81cmtNKicKGFVDQ0E0akpZNVByVGZJRkpJY2JJX05oURILM09KSzVUXzVya00"
     }
@@ -3284,6 +3285,7 @@
       "title": "\u3010Omori\u3011Senpai will be my friend, right?\u3010VAllure\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-05T02:56:55Z",
       "scheduledStartTime": "2024-06-05T03:00:00Z",
       "activeLiveChatId": "Cg0KC1F1NUxXdEN0UUd3KicKGFVDelJSdndmZlJBNTdsWW9Zd0Nzbko3QRILUXU1TFd0Q3RRR3c"
     }
@@ -3856,6 +3858,17 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC1Z4aUMtcUtOSnNVKicKGFVDSFZZZDJGdGVrNUhpZWdSanQyWDkyZxILVnhpQy1xS05Kc1U"
+    }
+  },
+  "W47zc1vhuN4": {
+    "snippet": {
+      "publishedAt": "2024-06-05T02:52:36Z",
+      "channelId": "UC0ZTVxCHkZanT5dnP2FZD4Q",
+      "title": "\u3010Donothon Day 6\u3011LAST DAYYY!!!!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-11T13:00:00Z",
+      "activeLiveChatId": "Cg0KC1c0N3pjMXZodU40KicKGFVDMFpUVnhDSGtaYW5UNWRuUDJGWkQ0URILVzQ3emMxdmh1TjQ"
     }
   },
   "WGjK9KrRBUU": {
@@ -4439,6 +4452,7 @@
       "title": "\u3010Mass Effect 2\u3011 Salvation comes with a cost"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-05T02:59:30Z",
       "scheduledStartTime": "2024-06-05T03:00:00Z",
       "activeLiveChatId": "Cg0KC19WNnJLZXpvMjRrKicKGFVDS2FiWC1GbmFCenRjeG1nZXgyLWZZQRILX1Y2cktlem8yNGs"
     }
@@ -4692,18 +4706,6 @@
       "activeLiveChatId": "Cg0KC2J0TDllelo2ZVhVKicKGFVDcHVfWVNEeS0wYmZzeXBrYU9lQy1zQRILYnRMOWV6WjZlWFU"
     }
   },
-  "bu8trdmg8DI": {
-    "snippet": {
-      "publishedAt": "2024-06-04T20:44:30Z",
-      "channelId": "UCKzKgU-xlncdEG5WouqTfyg",
-      "title": "\u3010Rabbit and Steel\u3011Watch my Solo Raid Prog!! LFG: 1 Heavyblade First time Duty Completion"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-05T00:06:27Z",
-      "scheduledStartTime": "2024-06-05T00:00:00Z",
-      "activeLiveChatId": "Cg0KC2J1OHRyZG1nOERJKicKGFVDS3pLZ1UteGxuY2RFRzVXb3VxVGZ5ZxILYnU4dHJkbWc4REk"
-    }
-  },
   "bud8W2UpFgU": {
     "snippet": {
       "publishedAt": "2024-05-08T16:59:19Z",
@@ -4927,18 +4929,6 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-05T01:10:01Z",
       "twitch": true
-    }
-  },
-  "djYqRwD2lJQ": {
-    "snippet": {
-      "publishedAt": "2024-06-03T02:39:52Z",
-      "channelId": "UC7sqbQ4_5_ELz-Ov-bVBi8A",
-      "title": "I made burgers, now let's eat one!"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-05T01:47:40Z",
-      "scheduledStartTime": "2024-06-05T01:47:29Z",
-      "activeLiveChatId": "Cg0KC2RqWXFSd0QybEpRKicKGFVDN3NxYlE0XzVfRUx6LU92LWJWQmk4QRILZGpZcVJ3RDJsSlE"
     }
   },
   "dwPADgo8YSY": {
@@ -5268,9 +5258,10 @@
     "snippet": {
       "publishedAt": "2024-06-04T17:34:03Z",
       "channelId": "UCpYf6C9QsP_BRf97vLuXlIA",
-      "title": "\u3010GENSHIN IMPACT\u3011ROLLING FOR MY ONE AND ONLY\u3010NIJISANJ EN | Vantacrow Bringer\u3011"
+      "title": "\u3010GENSHIN IMPACT\u3011COLORINDE WILL BE MINE\u3010NIJISANJ EN | Vantacrow Bringer\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-05T02:57:32Z",
       "scheduledStartTime": "2024-06-05T03:00:00Z",
       "activeLiveChatId": "Cg0KC2dnZ1ExVlAtZjJFKicKGFVDcFlmNkM5UXNQX0JSZjk3dkx1WGxJQRILZ2dnUTFWUC1mMkU"
     }
