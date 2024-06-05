@@ -1156,8 +1156,20 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-05T04:46:55Z",
-      "scheduledStartTime": "2024-06-05T04:45:00Z",
-      "activeLiveChatId": "Cg0KCzZOX0g4QkZKT0FjKicKGFVDNFlYMlp0NjZSNHVZcUxIRmt3UDFhdxILNk5fSDhCRkpPQWM"
+      "actualEndTime": "2024-06-05T05:04:44Z",
+      "scheduledStartTime": "2024-06-05T04:45:00Z"
+    }
+  },
+  "S8ZMreMFhg8": {
+    "snippet": {
+      "publishedAt": "2024-06-05T05:06:28Z",
+      "channelId": "UC4YX2Zt66R4uYqLHFkwP1aw",
+      "title": "\u3010HANDCAM\u3011I earned the tentacle enjoyer ribbon! #Offkai merch haul!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-05T05:06:37Z",
+      "scheduledStartTime": "2024-06-05T05:06:38Z",
+      "activeLiveChatId": "Cg0KC1M4Wk1yZU1GaGc4KicKGFVDNFlYMlp0NjZSNHVZcUxIRmt3UDFhdxILUzhaTXJlTUZoZzg"
     }
   }
 }
