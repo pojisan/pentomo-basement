@@ -5393,5 +5393,18 @@
       "scheduledStartTime": "2024-06-05T11:00:00Z",
       "activeLiveChatId": "Cg0KC0V1QTdTTmRaOG5rKicKGFVDbHJRN3hoUkJ4U192Xy1XdXVkR0ttQRILRXVBN1NOZFo4bms"
     }
+  },
+  "8nlPSU31AOQ": {
+    "snippet": {
+      "publishedAt": "2024-06-05T13:00:06Z",
+      "channelId": "UClrQ7xhRBxS_v_-WuudGKmA",
+      "title": "\u3066\u3089\u3066\u3089 / \u93d1\u6728\u308d\u3053 cover"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-05T13:00:06Z",
+      "scheduledStartTime": "2024-06-05T13:00:00Z",
+      "activeLiveChatId": "Cg0KCzhubFBTVTMxQU9RKicKGFVDbHJRN3hoUkJ4U192Xy1XdXVkR0ttQRILOG5sUFNVMzFBT1E",
+      "premiere": true
+    }
   }
 }
