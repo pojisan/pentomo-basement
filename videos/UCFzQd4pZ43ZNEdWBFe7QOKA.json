@@ -890,5 +890,16 @@
       "actualEndTime": "2024-06-05T02:24:15Z",
       "scheduledStartTime": "2024-06-05T01:00:00Z"
     }
+  },
+  "3QrrRgwA5WQ": {
+    "snippet": {
+      "publishedAt": "2024-06-05T16:46:22Z",
+      "channelId": "UCFzQd4pZ43ZNEdWBFe7QOKA",
+      "title": "greylock watchalong"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-05T20:00:00Z",
+      "activeLiveChatId": "Cg0KCzNRcnJSZ3dBNVdRKicKGFVDRnpRZDRwWjQzWk5FZFdCRmU3UU9LQRILM1FyclJnd0E1V1E"
+    }
   }
 }
