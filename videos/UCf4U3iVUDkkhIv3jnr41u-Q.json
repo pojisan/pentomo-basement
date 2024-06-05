@@ -1907,5 +1907,30 @@
       "actualEndTime": "2024-06-04T19:52:42Z",
       "scheduledStartTime": "2024-06-04T17:55:53Z"
     }
+  },
+  "IcbQiK24BDk": {
+    "snippet": {
+      "publishedAt": "2024-06-05T05:37:24Z",
+      "channelId": "UCf4U3iVUDkkhIv3jnr41u-Q",
+      "title": "[Road to 1,000!] Gaming | TwT #Vtuber"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-05T05:37:38Z",
+      "scheduledStartTime": "2024-06-05T05:37:24Z",
+      "activeLiveChatId": "Cg0KC0ljYlFpSzI0QkRrKicKGFVDZjRVM2lWVURra2hJdjNqbnI0MXUtURILSWNiUWlLMjRCRGs"
+    }
+  },
+  "fKdt6KSPMF4": {
+    "snippet": {
+      "publishedAt": "2024-06-05T05:39:16Z",
+      "channelId": "UCf4U3iVUDkkhIv3jnr41u-Q",
+      "title": "[Road to 1,000!] Gaming | TwT #Vtuber"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-05T05:31:14Z",
+      "actualEndTime": "2024-06-05T05:36:37Z",
+      "scheduledStartTime": "2024-06-05T05:30:56Z",
+      "activeLiveChatId": "Cg0KC2ZLZHQ2S1NQTUY0KicKGFVDZjRVM2lWVURra2hJdjNqbnI0MXUtURILZktkdDZLU1BNRjQ"
+    }
   }
 }
