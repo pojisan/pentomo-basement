@@ -1547,18 +1547,6 @@
       "activeLiveChatId": "Cg0KC0RwTnhtQmFNQjhZKicKGFVDb21JblcxME1rSEpzLV92aTRySFFDURILRHBOeG1CYU1COFk"
     }
   },
-  "DsPNBEu56rI": {
-    "snippet": {
-      "publishedAt": "2024-06-04T14:29:24Z",
-      "channelId": "UCkJ64W0J7R0zCSAsZfRIhVQ",
-      "title": "\u3010BLACK MESA\u3011THE (real) FINAL SCIENCE-ING IS UPON US (definitely)\u3010PART 8\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-05T00:01:12Z",
-      "scheduledStartTime": "2024-06-05T00:00:00Z",
-      "activeLiveChatId": "Cg0KC0RzUE5CRXU1NnJJKicKGFVDa0o2NFcwSjdSMHpDU0FzWmZSSWhWURILRHNQTkJFdTU2ckk"
-    }
-  },
   "DyzwW7FKhpE": {
     "snippet": {
       "publishedAt": "2024-01-06T19:49:59Z",
@@ -3917,18 +3905,6 @@
       "activeLiveChatId": "Cg0KC1dxSGJsdnlVbmZJKicKGFVDVklRc0h1MXljUDJsUkdJYmpGSmpKdxILV3FIYmx2eVVuZkk"
     }
   },
-  "WrlI4r1jeA8": {
-    "snippet": {
-      "publishedAt": "2024-06-05T02:10:21Z",
-      "channelId": "UC68w4z6Wiveo3bi3rN1GotA",
-      "title": "My birthday gift has been sitting on the sofa for over two weeks. Will I unbox it today?"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-05T02:37:08Z",
-      "scheduledStartTime": "2024-06-05T02:30:00Z",
-      "activeLiveChatId": "Cg0KC1dybEk0cjFqZUE4KicKGFVDNjh3NHo2V2l2ZW8zYmkzck4xR290QRILV3JsSTRyMWplQTg"
-    }
-  },
   "WzpJq5gpTJo": {
     "snippet": {
       "publishedAt": "2023-08-30T18:36:48Z",
@@ -5848,6 +5824,17 @@
       "twitch": true
     }
   },
+  "miyuyus": {
+    "snippet": {
+      "channelId": "miyuyus",
+      "title": "I GOT A NEW PC. \u2665 !donate !goals",
+      "channelTitle": "miyuyus"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-05T04:21:34Z",
+      "twitch": true
+    }
+  },
   "mlQl4kMmkyU": {
     "snippet": {
       "publishedAt": "2024-06-03T16:34:49Z",
@@ -6580,7 +6567,8 @@
       "title": "\u3010KARAOKE\u3011 comfy singing with acoustic arrangements!!! #shorts #\u6b4c\u67a0"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-05T04:15:00Z",
+      "actualStartTime": "2024-06-05T04:17:40Z",
+      "scheduledStartTime": "2024-06-05T04:17:22Z",
       "activeLiveChatId": "Cg0KC3M1Wm5ROGpXSXl3KicKGFVDdWFEaWRHazRITkxPblFFOXd6TU1lURILczVablE4aldJeXc"
     }
   },
