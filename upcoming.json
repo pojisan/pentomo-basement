@@ -4418,7 +4418,7 @@
       "title": "\u3010FIRST TIME WITH SLIME!?\u3011Playing with various slimes I bought!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-05T03:30:00Z",
+      "scheduledStartTime": "2024-06-05T04:30:00Z",
       "activeLiveChatId": "Cg0KC2FZZk03cGhJTFl3KicKGFVDWVhfaUdyaEJuRnQwZHlYd1NpN1U0URILYVlmTTdwaElMWXc"
     }
   },
@@ -4670,17 +4670,6 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-05T04:04:04Z",
-      "twitch": true
-    }
-  },
-  "civi_8": {
-    "snippet": {
-      "channelId": "civi_8",
-      "title": "\u2693\ufe0fCatch up with CiVi-8!\u2693\ufe0f Takao Tuesday starts now!",
-      "channelTitle": "CiVi_8"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-05T03:02:05Z",
       "twitch": true
     }
   },
@@ -6637,17 +6626,6 @@
       "activeLiveChatId": "Cg0KC3NWY29UVFNvZ2dvKicKGFVDcW1TWWtYTHdzTDB6RWFyNUdvb1lrZxILc1Zjb1RUU29nZ28"
     }
   },
-  "shirozevalia": {
-    "snippet": {
-      "channelId": "shirozevalia",
-      "title": "Yappin and Clappin gods! !socials",
-      "channelTitle": "ShiroZevalia"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-04T22:53:19Z",
-      "twitch": true
-    }
-  },
   "skTCKgM7biI": {
     "snippet": {
       "publishedAt": "2024-02-26T04:33:52Z",
@@ -7314,6 +7292,7 @@
       "title": "[METRO 2033 REDUX] making my way downtown (part 2)"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-05T04:31:04Z",
       "scheduledStartTime": "2024-06-05T04:00:00Z",
       "activeLiveChatId": "Cg0KC3lkNExUMWJZaVJrKicKGFVDTGp4M2xxSWtZa1BDQkpvcDhjekoyQRILeWQ0TFQxYllpUms"
     }
