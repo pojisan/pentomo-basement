@@ -1466,6 +1466,7 @@
       "title": "\u3010THE LAST OF US\u3011UNTIL THE END....! HASTA QUE TERMINE!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-05T13:32:00Z",
       "scheduledStartTime": "2024-06-05T13:30:00Z",
       "activeLiveChatId": "Cg0KC0RnbmFMNkdXM0lvKicKGFVDLVcteWFWSWpxa1hvaDZkWjZfVGNNQRILRGduYUw2R1czSW8"
     }
@@ -4316,18 +4317,6 @@
       "activeLiveChatId": "Cg0KC2E3dmlpWFdGSW5BKicKGFVDdExmQV9xVXFDSnRqWEpNMlpSX2tlZxILYTd2aWlYV0ZJbkE"
     }
   },
-  "aDGCobpJhZk": {
-    "snippet": {
-      "publishedAt": "2024-06-03T12:37:55Z",
-      "channelId": "UC1eX_MVrN0EBKdpkn9b-jhw",
-      "title": "\u3010 Assassin's Creed Origins \u3011\u3010 PART 3 \u3011 Pembalasan dendam untuk anak, tapi .... \u3010 MASAKI RINA \u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-05T04:32:35Z",
-      "scheduledStartTime": "2024-06-05T04:00:00Z",
-      "activeLiveChatId": "Cg0KC2FER0NvYnBKaFprKicKGFVDMWVYX01Wck4wRUJLZHBrbjliLWpodxILYURHQ29icEpoWms"
-    }
-  },
   "aEDCmA1JqRE": {
     "snippet": {
       "publishedAt": "2024-06-01T15:57:56Z",
@@ -4544,6 +4533,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-08T01:00:00Z",
       "activeLiveChatId": "Cg0KC2NNLV8xQUc0amQ0KicKGFVDTEtVWDY1RFV5blgzYXpYakJGaDJDQRILY00tXzFBRzRqZDQ"
+    }
+  },
+  "carneliaasahi": {
+    "snippet": {
+      "channelId": "carneliaasahi",
+      "title": "AM BAAACK TO JENSHINING FROM CHEATI- !brush",
+      "channelTitle": "CarneliaAsahi"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-05T13:32:15Z",
+      "twitch": true
     }
   },
   "cc7D0RqpD5c": {
