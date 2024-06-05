@@ -388,8 +388,20 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-05T21:59:16Z",
-      "scheduledStartTime": "2024-06-05T22:00:00Z",
-      "activeLiveChatId": "Cg0KC2dRTzFIN2k1d2JBKicKGFVDVUkxcXBqSlNFYmd6ZGx3bXBkVm1NdxILZ1FPMUg3aTV3YkE"
+      "actualEndTime": "2024-06-05T22:51:57Z",
+      "scheduledStartTime": "2024-06-05T22:00:00Z"
+    }
+  },
+  "YL1k8geqIDE": {
+    "snippet": {
+      "publishedAt": "2024-06-05T22:53:11Z",
+      "channelId": "UCUI1qpjJSEbgzdlwmpdVmMw",
+      "title": "\u3010Zatsudan\u3011I am a model!\u3010Twisty Amanozako | NIJISANJI EN\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-05T22:55:11Z",
+      "scheduledStartTime": "2024-06-05T22:55:00Z",
+      "activeLiveChatId": "Cg0KC1lMMWs4Z2VxSURFKicKGFVDVUkxcXBqSlNFYmd6ZGx3bXBkVm1NdxILWUwxazhnZXFJREU"
     }
   }
 }
