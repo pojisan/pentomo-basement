@@ -31,6 +31,7 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-04T22:56:54Z",
+      "actualEndTime": "2024-06-05T00:28:05Z",
       "activeLiveChatId": "Cg0KC2ZyekNXV09VVjlNKicKGFVDdjFUaHlFNEtWWW5uVlk4R0xmdG5vQRILZnJ6Q1dXT1VWOU0"
     }
   },
@@ -2826,6 +2827,16 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-05T18:00:00Z",
       "activeLiveChatId": "Cg0KC2JvWVJ2bDFGRHBJKicKGFVDdjFUaHlFNEtWWW5uVlk4R0xmdG5vQRILYm9ZUnZsMUZEcEk"
+    }
+  },
+  "fSfZhyj3yus": {
+    "snippet": {
+      "publishedAt": "2024-06-05T00:28:08Z",
+      "channelId": "UCv1ThyE4KVYnnVY8GLftnoA",
+      "title": "\u30103D Street Karaoke!\u3011Guess Who's Back?!\u3010V4Mirai | Serina Maiko | ENVtuber\u3011#shortslive #shorts"
+    },
+    "liveStreamingDetails": {
+      "activeLiveChatId": "Cg0KC2ZTZlpoeWozeXVzKicKGFVDdjFUaHlFNEtWWW5uVlk4R0xmdG5vQRILZlNmWmh5ajN5dXM"
     }
   }
 }
