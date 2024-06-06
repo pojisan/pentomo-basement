@@ -116,10 +116,22 @@
     "snippet": {
       "publishedAt": "2024-06-06T14:28:00Z",
       "channelId": "UCvYzwEkCQ27gPaj54wBsVOg",
-      "title": "LOL WHY IS NOTHING WORKING"
+      "title": "LOL WHY IS NOTHING WORKING",
+      "private": true
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC0lTQlhMNEhFc3BvKicKGFVDdll6d0VrQ1EyN2dQYWo1NHdCc1ZPZxILSVNCWEw0SEVzcG8"
+    }
+  },
+  "SZfIgUvOpjc": {
+    "snippet": {
+      "publishedAt": "2024-06-06T15:13:53Z",
+      "channelId": "UCvYzwEkCQ27gPaj54wBsVOg",
+      "title": "\u3010Class of '09\u3011The typical American Highschool Experience \ud83e\udea2\ud83d\udc07\u3010VAllure\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-06T20:00:00Z",
+      "activeLiveChatId": "Cg0KC1NaZklnVXZPcGpjKicKGFVDdll6d0VrQ1EyN2dQYWo1NHdCc1ZPZxILU1pmSWdVdk9wamM"
     }
   }
 }
