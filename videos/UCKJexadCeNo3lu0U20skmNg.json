@@ -10761,5 +10761,16 @@
       "actualEndTime": "2024-06-05T23:30:30Z",
       "scheduledStartTime": "2024-06-05T21:15:00Z"
     }
+  },
+  "Dk1m84RQ7tw": {
+    "snippet": {
+      "publishedAt": "2024-06-06T17:59:05Z",
+      "channelId": "UCKJexadCeNo3lu0U20skmNg",
+      "title": "[Karaoke] It's a terrible day for rain..."
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-06T20:30:00Z",
+      "activeLiveChatId": "Cg0KC0RrMW04NFJRN3R3KicKGFVDS0pleGFkQ2VObzNsdTBVMjBza21OZxILRGsxbTg0UlE3dHc"
+    }
   }
 }
