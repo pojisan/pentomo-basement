@@ -1007,17 +1007,8 @@
     },
     "Tsunderia": {
       "Gen 0 (Tsun)": {
-        "Saya": {
-          "yt": "UCFzQd4pZ43ZNEdWBFe7QOKA"
-        },
-        "Muyu": {
-          "yt": "UCejbicoRnQjCOdAPAv5JPwg"
-        },
         "Char": {
           "tv": "hoshinochar"
-        },
-        "Dizzy": {
-          "yt": "UC98iRMvRqUxRD6GP4NtRskw"
         }
       },
       "TsunQuest": {
@@ -1060,6 +1051,22 @@
         },
         "Amiya": {
           "yt": "UCykMWf8B8I7c_jA8FTy2tGw"
+        }
+      },
+      "TsunNDA": {
+        "Yomi": {
+          "tv": "yomicham",
+          "yt": "UCy655eCseRVT9ln262dgI1Q"
+        },
+        "Haewon": {
+          "tv": "haewontheheartstring"
+        },
+        "Maria": {
+          "tv": "mariaparadisia",
+          "yt": "UCCrgfIGHE015putgxWrYWkw"
+        },
+        "Shima": {
+          "yt": "UCB3iwvkYq96ksvA7PiMP-1w"
         }
       }
     },
@@ -1875,6 +1882,9 @@
       "Dizzy": {
         "yt": "UC98iRMvRqUxRD6GP4NtRskw"
       },
+      "Roboco": {
+        "yt": "UCDqI2jOz0weumE8s7paEk6g"
+      },
       "Sara": {
         "yt": "UCkJ64W0J7R0zCSAsZfRIhVQ"
       }
@@ -1931,22 +1941,31 @@
     },
     "Tsunderia": {
       "Friends": {
+        "Dizzy": {
+          "yt": "UC98iRMvRqUxRD6GP4NtRskw"
+        },
+        "Muyu": {
+          "yt": "UCejbicoRnQjCOdAPAv5JPwg"
+        },
+        "Saya": {
+          "yt": "UCFzQd4pZ43ZNEdWBFe7QOKA"
+        },
+        "Wosemi": {
+          "yt": "UC4WvIIAo89_AzGUh1AZ6Dkg",
+          "tv": "rosemilovelock"
+        },
+        "Alias": {
+          "yt": "UCEY9CnSH0n0QKmY2Q-OH7Zw"
+        },
+        "Arisu": {
+          "yt": "UCiaAJfdkrwuDjWiQjYZWpXw"
+        },
         "Shimada": {
           "tv": "shimadatiger"
         },
-        "Yomi": {
-          "tv": "yomicham",
-          "yt": "UCy655eCseRVT9ln262dgI1Q"
-        },
-        "Haewon": {
-          "tv": "haewontheheartstring"
-        },
-        "Maria": {
-          "tv": "mariaparadisia",
-          "yt": "UCCrgfIGHE015putgxWrYWkw"
-        },
-        "Shima": {
-          "yt": "UCB3iwvkYq96ksvA7PiMP-1w"
+        "Tonya": {
+          "yt": "UCCA4jJY5PrTfIFJIcbI_NhQ",
+          "tv": "shabeltonya"
         }
       }
     },

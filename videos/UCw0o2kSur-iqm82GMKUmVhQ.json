@@ -168,9 +168,10 @@
       "title": "saya in a box"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-06T06:15:18Z",
+      "actualEndTime": "2024-06-06T06:17:52Z",
       "scheduledStartTime": "2024-06-06T06:15:00Z",
-      "activeLiveChatId": "Cg0KC3Zac194NFNhdGZFKicKGFVDdzBvMmtTdXItaXFtODJHTUtVbVZoURILdlpzX3g0U2F0ZkU",
-      "premiere": true
+      "activeLiveChatId": "Cg0KC3Zac194NFNhdGZFKicKGFVDdzBvMmtTdXItaXFtODJHTUtVbVZoURILdlpzX3g0U2F0ZkU"
     }
   }
 }
