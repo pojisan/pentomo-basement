@@ -2922,6 +2922,7 @@
       "title": "\u3010Handcam\u3011I'm back! Let's have lunch using my new hotplate!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-06T04:05:41Z",
       "scheduledStartTime": "2024-06-06T04:00:00Z",
       "activeLiveChatId": "Cg0KC09mV1ZlemtSZDJrKicKGFVDMmhXRmxxTWV3NjFKeTZBOHp1NUh6URILT2ZXVmV6a1JkMms"
     }
@@ -4142,18 +4143,6 @@
       "activeLiveChatId": "Cg0KC19IZmE2QWtNdGtrKicKGFVDUEszUzlpajBEWElObVRqUTRLaFFWQRILX0hmYTZBa010a2s"
     }
   },
-  "_IJ28xcc7fk": {
-    "snippet": {
-      "publishedAt": "2024-06-05T10:17:11Z",
-      "channelId": "UC64DMAYXo4nwTFfvNQzkSwQ",
-      "title": "\u3010HELLDIVERS 2\u3011SWEET LIBERTYYYYY\u3010PixelLink\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-06T01:01:08Z",
-      "scheduledStartTime": "2024-06-06T01:00:00Z",
-      "activeLiveChatId": "Cg0KC19JSjI4eGNjN2ZrKicKGFVDNjRETUFZWG80bndURmZ2TlF6a1N3URILX0lKMjh4Y2M3Zms"
-    }
-  },
   "_LSlpvMYJ1g": {
     "snippet": {
       "publishedAt": "2024-05-26T19:24:13Z",
@@ -4258,17 +4247,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-09T02:00:00Z",
       "activeLiveChatId": "Cg0KC2FwZ1NTQmZPaDlrKicKGFVDSUxRbDVnUkJNdndkLTk3LU01cExZURILYXBnU1NCZk9oOWs"
-    }
-  },
-  "apolloalto": {
-    "snippet": {
-      "channelId": "apolloalto",
-      "title": "Today, Friendships Are Tested !discord !socials !commands",
-      "channelTitle": "ApolloAlto"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-05T22:59:13Z",
-      "twitch": true
     }
   },
   "auCkpoNM1yE": {
@@ -5370,17 +5348,6 @@
       "activeLiveChatId": "Cg0KC2x1NVQwQW1PNHpnKicKGFVDZS1fcDZvdW40cDAtZ2RCNEFrZlQxURILbHU1VDBBbU80emc"
     }
   },
-  "luluthebard": {
-    "snippet": {
-      "channelId": "luluthebard",
-      "title": "UNO W/ THE VIRTUX BOIZ ft @apolloalto @reiiflynn & @shirozevalia",
-      "channelTitle": "LuLuTheBard"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-05T23:00:53Z",
-      "twitch": true
-    }
-  },
   "lymzkbD9NVI": {
     "snippet": {
       "publishedAt": "2024-05-31T02:09:32Z",
@@ -6234,17 +6201,6 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-06T03:29:55Z",
-      "twitch": true
-    }
-  },
-  "shirozevalia": {
-    "snippet": {
-      "channelId": "shirozevalia",
-      "title": "The most Important card game to save the world w/ @luluthebard @reiiflynn and @apolloalto !socials",
-      "channelTitle": "ShiroZevalia"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-05T22:57:13Z",
       "twitch": true
     }
   },
