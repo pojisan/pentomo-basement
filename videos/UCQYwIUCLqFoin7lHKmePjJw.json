@@ -246,8 +246,18 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-06T12:00:43Z",
       "actualEndTime": "2024-06-06T14:16:44Z",
-      "scheduledStartTime": "2024-06-06T12:00:00Z",
-      "activeLiveChatId": "Cg0KC3djM3d2UXlrQ2tFKicKGFVDUVl3SVVDTHFGb2luN2xIS21lUGpKdxILd2Mzd3ZReWtDa0U"
+      "scheduledStartTime": "2024-06-06T12:00:00Z"
+    }
+  },
+  "pra6cyvMgms": {
+    "snippet": {
+      "publishedAt": "2024-06-06T16:52:56Z",
+      "channelId": "UCQYwIUCLqFoin7lHKmePjJw",
+      "title": "\u3010Monetization Stream\u3011Let's relax and chat!\u3010NIJISANJI EN | Denauth\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-07T12:00:00Z",
+      "activeLiveChatId": "Cg0KC3ByYTZjeXZNZ21zKicKGFVDUVl3SVVDTHFGb2luN2xIS21lUGpKdxILcHJhNmN5dk1nbXM"
     }
   }
 }
