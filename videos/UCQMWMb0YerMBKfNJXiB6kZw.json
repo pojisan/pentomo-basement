@@ -1549,5 +1549,16 @@
       "actualEndTime": "2024-05-16T02:47:00Z",
       "scheduledStartTime": "2024-05-16T00:00:00Z"
     }
+  },
+  "YmHq-2FscS4": {
+    "snippet": {
+      "publishedAt": "2024-06-06T00:14:30Z",
+      "channelId": "UCQMWMb0YerMBKfNJXiB6kZw",
+      "title": "Announcement: Let's Chat!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-07T02:00:00Z",
+      "activeLiveChatId": "Cg0KC1ltSHEtMkZzY1M0KicKGFVDUU1XTWIwWWVyTUJLZk5KWGlCNmtadxILWW1IcS0yRnNjUzQ"
+    }
   }
 }
