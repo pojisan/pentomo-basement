@@ -457,7 +457,9 @@
       "title": "\u30108\u756a\u306e\u308a\u3070\u30118\u756a\u51fa\u53e3\u306e\u7d9a\u7de8\uff01\uff1f\u60aa\u9b54\u306e\u65e5\u306a\u3089\u4f59\u88d5\u306a\u30fb\u30fb\u30fb\u306f\u305a\uff01\u3010\u77f3\u795e\u306e\u305e\u307f\uff0f\u306b\u3058\u3055\u3093\u3058\u6240\u5c5e\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-06T13:00:00Z"
+      "actualStartTime": "2024-06-06T13:01:25Z",
+      "scheduledStartTime": "2024-06-06T13:00:00Z",
+      "activeLiveChatId": "Cg0KCzJ2MS1ROUdiQlFVKicKGFVDdExmQV9xVXFDSnRqWEpNMlpSX2tlZxILMnYxLVE5R2JCUVU"
     }
   },
   "2zaAv0ug9II": {
@@ -1417,18 +1419,6 @@
       "activeLiveChatId": "Cg0KC0NTckNwMGo0WkgwKicKGFVDS3BpSlFBWF9HbmM1cmpSQjh5WFQwQRILQ1NyQ3AwajRaSDA"
     }
   },
-  "Cfafw0Ws5p4": {
-    "snippet": {
-      "publishedAt": "2024-06-02T19:44:41Z",
-      "channelId": "UC4WsLE_xdrnd05D05Go9oXw",
-      "title": "\u3061\u3083\u3093\u3068\u3042\u308b\u3088 (Chanto Aru yo) - COVER by Raian Valerius | #vtuber"
-    },
-    "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-06T13:00:00Z",
-      "activeLiveChatId": "Cg0KC0NmYWZ3MFdzNXA0KicKGFVDNFdzTEVfeGRybmQwNUQwNUdvOW9YdxILQ2ZhZncwV3M1cDQ",
-      "premiere": true
-    }
-  },
   "Criw5zhE0bI": {
     "snippet": {
       "publishedAt": "2023-08-13T06:13:14Z",
@@ -1803,7 +1793,9 @@
       "title": "\u300eKEEPTALKINGNOBODYEXPLODES\u300fD\u00fao pizzachurrochicharr\u00f3n | #OSHICelanis #OshiLinkEN"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-13T13:00:00Z"
+      "actualStartTime": "2024-06-06T12:58:27Z",
+      "scheduledStartTime": "2024-06-13T13:00:00Z",
+      "activeLiveChatId": "Cg0KC0ZzTjVUaFNPc3hNKicKGFVDTndZNlpIMjd2WkRqUmgyQzluc0NqdxILRnNONVRoU09zeE0"
     }
   },
   "FwJs-uvBqmQ": {
@@ -3027,6 +3019,7 @@
       "title": "\u3010Subnautica: Below Zero\u3011A New Base!!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-06T12:59:42Z",
       "scheduledStartTime": "2024-06-06T13:00:00Z",
       "activeLiveChatId": "Cg0KC08xNDNObXVFYUpzKicKGFVDazB2dXd3c21fVVFISElPZ0d2eFUtQRILTzE0M05tdUVhSnM"
     }
@@ -3285,6 +3278,7 @@
       "title": "\u3010Donothon Day 1 \u3011Fans picked a mystery pizza for me to eat!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-06T13:01:27Z",
       "scheduledStartTime": "2024-06-06T13:00:00Z",
       "activeLiveChatId": "Cg0KC1E4NUswbWVkZWJZKicKGFVDMFpUVnhDSGtaYW5UNWRuUDJGWkQ0URILUTg1SzBtZWRlYlk"
     }
@@ -3331,18 +3325,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-04-06T04:10:00Z",
       "activeLiveChatId": "Cg0KC1FXNHpNSmdZd19FKicKGFVDY0hIa0o5OGVTZmE1YWowbWRUd3dMURILUVc0ek1KZ1l3X0U"
-    }
-  },
-  "QaDn6BNy4F0": {
-    "snippet": {
-      "publishedAt": "2024-06-05T18:55:06Z",
-      "channelId": "UCGXwv2zYOxeWiNNyPiLCBCQ",
-      "title": "\u3010\u6700\u6050 -\u9752\u9b3c-\u3011\u6700\u7d42\u7ae0\u306a\u306e\u3067\u6700\u5f8c\u306fF\u30e9\u30f3\u30af\u4ee5\u5916\u3067\u304a\u9858\u3044\u3057\u307e\u3059\u306d\u2026\u3010\u604b\u8863\u3081\u3082\u308a/Phase Connect\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-06T09:00:04Z",
-      "scheduledStartTime": "2024-06-06T09:00:00Z",
-      "activeLiveChatId": "Cg0KC1FhRG42Qk55NEYwKicKGFVDR1h3djJ6WU94ZVdpTk55UGlMQ0JDURILUWFEbjZCTnk0RjA"
     }
   },
   "QdpjxyYLOYU": {
@@ -3408,6 +3390,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-08T02:00:00Z",
       "activeLiveChatId": "Cg0KC1JYZ3QtcVdrMW9vKicKGFVDVUkxcXBqSlNFYmd6ZGx3bXBkVm1NdxILUlhndC1xV2sxb28"
+    }
+  },
+  "RlBH4_CnnF8": {
+    "snippet": {
+      "publishedAt": "2024-06-06T12:50:59Z",
+      "channelId": "UCBnmfjpmhGxao6v54fIIMUA",
+      "title": "clickbait^ REAL: doing some shenanigans with my 3d model"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-08T16:00:00Z",
+      "activeLiveChatId": "Cg0KC1JsQkg0X0NubkY4KicKGFVDQm5tZmpwbWhHeGFvNnY1NGZJSU1VQRILUmxCSDRfQ25uRjg"
     }
   },
   "RxHtpP21aPE": {
@@ -3832,6 +3825,7 @@
       "title": "\u3010COD: MW2 100% Achievement\u3011Subjecting Myself To Nostalgic Purgatory Challenge! :D"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-06T13:01:32Z",
       "scheduledStartTime": "2024-06-06T13:00:00Z",
       "activeLiveChatId": "Cg0KC1ZoMV9RQUlDV2J3KicKGFVDTkhjdDFQV2pRTjA1SkROaTNBZjZLZxILVmgxX1FBSUNXYnc"
     }
@@ -4210,6 +4204,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2026-05-31T06:45:00Z",
       "activeLiveChatId": "Cg0KC1k4OGwyZjNIdGRJKicKGFVDVUkxcXBqSlNFYmd6ZGx3bXBkVm1NdxILWTg4bDJmM0h0ZEk"
+    }
+  },
+  "Y9-pGojVeLc": {
+    "snippet": {
+      "publishedAt": "2024-06-06T12:51:54Z",
+      "channelId": "UCG_UQg-S5Fofys7M10HpyCw",
+      "title": "wild (not) athy appears"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-06T14:00:00Z",
+      "activeLiveChatId": "Cg0KC1k5LXBHb2pWZUxjKicKGFVDR19VUWctUzVGb2Z5czdNMTBIcHlDdxILWTktcEdvalZlTGM"
     }
   },
   "YBDiM8K-K9I": {
@@ -5081,6 +5086,17 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-06T11:20:28Z",
+      "twitch": true
+    }
+  },
+  "erislefaire": {
+    "snippet": {
+      "channelId": "erislefaire",
+      "title": "missing every pew pew | !kofi !discord |",
+      "channelTitle": "ErisLefaire"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-06T13:01:01Z",
       "twitch": true
     }
   },
