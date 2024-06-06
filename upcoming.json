@@ -458,7 +458,8 @@
       "title": "\u3010CONTENT WARNING COLLAB\u3011welcome to the advent of viral videos \ud83d\udc3e #holoAdvent\u3010ANNOUNCEMENT\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-07T01:00:00Z"
+      "scheduledStartTime": "2024-06-07T01:00:00Z",
+      "activeLiveChatId": "Cg0KCzJrcGJNYWlYSU1FKicKGFVDdDlIX1JwUXpoeHpseUJ4RnFyZEhxQRILMmtwYk1haVhJTUU"
     }
   },
   "2mUVxJYTKps": {
@@ -643,18 +644,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-10-17T01:20:00Z",
       "activeLiveChatId": "Cg0KCzRBc2w1a09YYldBKicKGFVDdHVveU9aaG54SjEycEUyOTRGZEg4URILNEFzbDVrT1hiV0E"
-    }
-  },
-  "4HdJyNU_iNY": {
-    "snippet": {
-      "publishedAt": "2024-06-05T01:12:20Z",
-      "channelId": "UCVIQsHu1ycP2lRGIbjFJjJw",
-      "title": "\u30103DIO Roleplay\u3011Helping Your Little Sister Fold Her Laundry (unarchived)\u3010VAllure\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-06T22:00:52Z",
-      "scheduledStartTime": "2024-06-06T22:00:00Z",
-      "activeLiveChatId": "Cg0KCzRIZEp5TlVfaU5ZKicKGFVDVklRc0h1MXljUDJsUkdJYmpGSmpKdxILNEhkSnlOVV9pTlk"
     }
   },
   "4l-_nOZ6oto": {
@@ -2888,17 +2877,6 @@
       "activeLiveChatId": "Cg0KC041dXo0WmlBM0JRKicKGFVDb0FRc2MtRFEwTWpmVHAwNTlvdFFBdxILTjV1ejRaaUEzQlE"
     }
   },
-  "N64ucaXoGg4": {
-    "snippet": {
-      "publishedAt": "2024-06-04T06:29:52Z",
-      "channelId": "UC5qlAhrec6-0J-K3zmhNPPQ",
-      "title": "Embrace your Tingle-ness"
-    },
-    "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-07T01:00:00Z",
-      "activeLiveChatId": "Cg0KC042NHVjYVhvR2c0KicKGFVDNXFsQWhyZWM2LTBKLUszem1oTlBQURILTjY0dWNhWG9HZzQ"
-    }
-  },
   "NBxIvNo6CEc": {
     "snippet": {
       "publishedAt": "2024-06-05T17:24:12Z",
@@ -2951,17 +2929,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2026-04-29T18:20:00Z",
       "activeLiveChatId": "Cg0KC05XWnQxMUxZQmxJKicKGFVDRGRtb0E3OWJmSThESERuRV9ZeTJkZxILTldadDExTFlCbEk"
-    }
-  },
-  "N_7FwxUBbcY": {
-    "snippet": {
-      "publishedAt": "2024-06-04T06:28:35Z",
-      "channelId": "UC5qlAhrec6-0J-K3zmhNPPQ",
-      "title": "Hunting Crows"
-    },
-    "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-06T01:00:00Z",
-      "activeLiveChatId": "Cg0KC05fN0Z3eFVCYmNZKicKGFVDNXFsQWhyZWM2LTBKLUszem1oTlBQURILTl83Rnd4VUJiY1k"
     }
   },
   "N_bvPeACGqA": {
@@ -3599,7 +3566,7 @@
       "title": "Can You Manage Democracy with Only 3 Braincells? \ud83d\udc97 | TPS TIME!\u3010 Helldivers 2 | novamore Collab \u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-07T02:30:00Z",
+      "scheduledStartTime": "2024-06-08T02:30:00Z",
       "activeLiveChatId": "Cg0KC1RlaFk4WFdjWlJNKicKGFVDWWFkWlI5bVJpZ254NFJLdlBvdzQ0ZxILVGVoWThYV2NaUk0"
     }
   },
@@ -4665,17 +4632,6 @@
       "activeLiveChatId": "Cg0KC2JXckt5NjVJT0FjKicKGFVDVlFFYmpBY0pSZVB4T0RWTTVtV0N2URILYldyS3k2NUlPQWM"
     }
   },
-  "bajiru_en": {
-    "snippet": {
-      "channelId": "bajiru_en",
-      "title": "\u3010KARAOKE\u3011AM SING!!\ud83c\udf31 || !socials !advgg !sl",
-      "channelTitle": "bajiru_EN"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-06T20:50:53Z",
-      "twitch": true
-    }
-  },
   "bfrzCNm5nzE": {
     "snippet": {
       "publishedAt": "2024-06-03T17:39:55Z",
@@ -4914,7 +4870,7 @@
   "dee_the_sphinx": {
     "snippet": {
       "channelId": "dee_the_sphinx",
-      "title": "\ud83d\udd06DONUT DAY CAFE?!\ud83d\udd06!discord [Vtuber]",
+      "title": "It's pronounced LINES. Also we making donuts. \ud83d\udd06!discord [Vtuber]",
       "channelTitle": "Dee_the_Sphinx"
     },
     "liveStreamingDetails": {
@@ -7085,18 +7041,6 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC3dYVWNQQVhmQXI4KicKGFVDcnA5TU9LdVl6V0ZBMFg3d0xMaEhrQRILd1hVY1BBWGZBcjg"
-    }
-  },
-  "wiNuSO9LdmE": {
-    "snippet": {
-      "publishedAt": "2024-06-04T22:43:06Z",
-      "channelId": "UCt2Z49e6nxKBAKysfF6ZcrA",
-      "title": "Wanna Stop Endlessly Scrolling? Stop Here To Rest!\u2502DARK SOULS STREAM"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-06T20:00:15Z",
-      "scheduledStartTime": "2024-06-06T20:00:00Z",
-      "activeLiveChatId": "Cg0KC3dpTnVTTzlMZG1FKicKGFVDdDJaNDllNm54S0JBS3lzZkY2WmNyQRILd2lOdVNPOUxkbUU"
     }
   },
   "wiUuNn03Z1A": {
