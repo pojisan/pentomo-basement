@@ -924,7 +924,7 @@
       "title": "\u3010 AFK Journey \u3011 I Got a Sponsorship Again!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-06T21:00:00Z",
+      "scheduledStartTime": "2024-06-06T23:00:00Z",
       "activeLiveChatId": "Cg0KCzZvTjhRME1XcUNNKicKGFVDS2FqbUtVWjdhZ2U4emxUcC1Hdk8yURILNm9OOFEwTVdxQ00"
     }
   },
@@ -1859,9 +1859,10 @@
     "snippet": {
       "publishedAt": "2024-05-27T04:25:12Z",
       "channelId": "UCdqDlrY_4p3z_Ho4hS2-4Zw",
-      "title": "\u3010Escape The Backrooms\u3011 These girls make me look sane, check this out  | Nanobites"
+      "title": "its just me"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-06T20:14:25Z",
       "scheduledStartTime": "2024-06-06T20:00:00Z",
       "activeLiveChatId": "Cg0KC0Z3SnMtdXZCcW1RKicKGFVDZHFEbHJZXzRwM3pfSG80aFMyLTRadxILRndKcy11dkJxbVE"
     }
@@ -6072,6 +6073,17 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC25WejdycFFnelZZKicKGFVDZHVyZXV4N0JfVi14aE03dFlJbUFTURILblZ6N3JwUWd6Vlk"
+    }
+  },
+  "nanobites": {
+    "snippet": {
+      "channelId": "nanobites",
+      "title": "hi \u2b50 !discord !socials !hoodie !gacha !merch #hellofreshpartner #sponsored",
+      "channelTitle": "NANOBITES"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-06T20:13:24Z",
+      "twitch": true
     }
   },
   "ninaninin": {
