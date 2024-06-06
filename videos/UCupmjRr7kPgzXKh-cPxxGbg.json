@@ -29,6 +29,7 @@
       "title": "We'll Only Be Remains One Day \u3010WHAT REMAINS OF EDITH FINCH\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-06T15:01:31Z",
       "scheduledStartTime": "2024-06-06T15:00:00Z",
       "activeLiveChatId": "Cg0KC2hVS0RzcVBwTlo0KicKGFVDdXBtalJyN2tQZ3pYS2gtY1B4eEdiZxILaFVLRHNxUHBOWjQ"
     }
@@ -249,7 +250,8 @@
     "snippet": {
       "publishedAt": "2024-05-07T17:14:37Z",
       "channelId": "UCupmjRr7kPgzXKh-cPxxGbg",
-      "title": "\u3010Erina's Birthday Merchandise Timer\u3011"
+      "title": "\u3010Erina's Birthday Merchandise Timer\u3011",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-06T07:00:00Z",
