@@ -6179,7 +6179,8 @@
     "snippet": {
       "publishedAt": "2024-06-05T06:16:53Z",
       "channelId": "UChJ5FTsHOu72_5OVx0rvsvQ",
-      "title": "\u3010\u30ea\u30ba\u30e0\u5929\u56fd\u3011\u9b41\u661f\u3055\u3093\u3042\u308a\u304c\u3068\u3046\u3054\u3056\u3044\u307e\u3059\uff01\uff01\u3010NIJISANJI EN | Uki Violeta\u3011"
+      "title": "\u3010\u30ea\u30ba\u30e0\u5929\u56fd\u3011\u9b41\u661f\u3055\u3093\u3042\u308a\u304c\u3068\u3046\u3054\u3056\u3044\u307e\u3059\uff01\uff01\u3010NIJISANJI EN | Uki Violeta\u3011",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-07T00:00:00Z",
@@ -6196,6 +6197,17 @@
       "actualStartTime": "2024-06-06T00:02:01Z",
       "actualEndTime": "2024-06-06T05:10:20Z",
       "scheduledStartTime": "2024-06-06T00:00:00Z"
+    }
+  },
+  "0fxNkO1dpvw": {
+    "snippet": {
+      "publishedAt": "2024-06-06T21:07:22Z",
+      "channelId": "UChJ5FTsHOu72_5OVx0rvsvQ",
+      "title": "\u3010CROW COUNTRY\u3011\ud83d\udc26\u200d\u2b1b crowki \ud83d\udc26\u200d\u2b1b\u3010NIJISANJI EN | Uki Violeta\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-07T00:00:00Z",
+      "activeLiveChatId": "Cg0KCzBmeE5rTzFkcHZ3KicKGFVDaEo1RlRzSE91NzJfNU9WeDBydnN2URILMGZ4TmtPMWRwdnc"
     }
   }
 }
