@@ -1329,7 +1329,7 @@
     "snippet": {
       "publishedAt": "2024-06-06T17:38:15Z",
       "channelId": "UCB1s_IdO-r0nUkY2mXeti-A",
-      "title": "\u3010 \uff03\u7345\u5b50\u795e\u30ec\u30aa\u30ca\u65b0\u8863\u88c5 \u3011\u597d\u304d\u306b\u306a\u3063\u3061\u3083\u3046\u304b\u3082\uff1fNew outfit\ud83c\udf1f\u2601\u91cd\u5927\u544a\u77e5\u3042\u308a\uff01\uff01\u3010\u7345\u5b50\u795e\u30ec\u30aa\u30ca/Re:AcT\u3011"
+      "title": "\u3010 \uff03\u7345\u5b50\u795e\u30ec\u30aa\u30ca\u65b0\u8863\u88c5 \u3011\u3082\u3063\u3068\u597d\u304d\u306b\u306a\u3063\u3061\u3083\u3046\u304b\u3082\uff1fNew outfit\ud83c\udf1f\u2601\u91cd\u5927\u544a\u77e5\u3042\u308a\uff01\uff01\u3010\u7345\u5b50\u795e\u30ec\u30aa\u30ca/Re:AcT\u3011"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-07T12:00:00Z",
@@ -1613,6 +1613,7 @@
       "title": "[Karaoke] It's a terrible day for rain..."
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-06T20:48:20Z",
       "scheduledStartTime": "2024-06-06T20:30:00Z",
       "activeLiveChatId": "Cg0KC0RrMW04NFJRN3R3KicKGFVDS0pleGFkQ2VObzNsdTBVMjBza21OZxILRGsxbTg0UlE3dHc"
     }
@@ -4748,6 +4749,17 @@
       "activeLiveChatId": "Cg0KC2JXckt5NjVJT0FjKicKGFVDVlFFYmpBY0pSZVB4T0RWTTVtV0N2URILYldyS3k2NUlPQWM"
     }
   },
+  "bajiru_en": {
+    "snippet": {
+      "channelId": "bajiru_en",
+      "title": "\u3010KARAOKE\u3011practice & sing! \ud83c\udf31 || !socials !advgg !sl",
+      "channelTitle": "bajiru_EN"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-06T20:50:53Z",
+      "twitch": true
+    }
+  },
   "bfrzCNm5nzE": {
     "snippet": {
       "publishedAt": "2024-06-03T17:39:55Z",
@@ -5576,6 +5588,17 @@
       "activeLiveChatId": "Cg0KC2k0c0Z5OFFfYUpVKicKGFVDS0FEX05NTjFCM2k3MkpfNG1Md0ZCURILaTRzRnk4UV9hSlU"
     }
   },
+  "iIc12zreFfY": {
+    "snippet": {
+      "publishedAt": "2024-06-02T14:46:00Z",
+      "channelId": "UC1sm9H2orvynDajcE4jrYug",
+      "title": "\u3010STAR SPRINT!!!\u3011EP.4 - FEELING SLEEPY...NO, GOTTA FOCUS! \u3010globie | Kiri Kilovolt\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-07T18:00:00Z",
+      "activeLiveChatId": "Cg0KC2lJYzEyenJlRmZZKicKGFVDMXNtOUgyb3J2eW5EYWpjRTRqcll1ZxILaUljMTJ6cmVGZlk"
+    }
+  },
   "ik0STEdKOsk": {
     "snippet": {
       "publishedAt": "2024-06-06T20:02:57Z",
@@ -5626,7 +5649,7 @@
       "title": "\u3010Dead Island\u3011zombies!!!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-06T18:00:00Z",
+      "scheduledStartTime": "2024-06-07T14:00:00Z",
       "activeLiveChatId": "Cg0KC2pLYTNfSkRoUTZJKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILakthM19KRGhRNkk"
     }
   },
