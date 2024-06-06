@@ -1318,7 +1318,8 @@
       "title": "\u3010Just Chatting\u3011Going Undercover #shorts"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-06T01:00:00Z"
+      "scheduledStartTime": "2024-06-06T01:00:00Z",
+      "activeLiveChatId": "Cg0KC0J5SHRMa2xuUk9nKicKGFVDbWJzOFQ2TVdxVUhQMXRJUXZTZ0tyZxILQnlIdExrbG5ST2c"
     }
   },
   "C2_IjjOZrXA": {
@@ -1483,18 +1484,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-22T21:00:00Z",
       "activeLiveChatId": "Cg0KC0RUbDNudFcxLVRJKicKGFVDSDhtRE16YVI1TUdGZENGNFdkc0dEQRILRFRsM250VzEtVEk"
-    }
-  },
-  "DYdKlGqe4bA": {
-    "snippet": {
-      "publishedAt": "2024-06-05T23:32:35Z",
-      "channelId": "UCH7txi6feolO5jAmAM5RICA",
-      "title": "Offkai Expo and Dreamhack Dallas Recap #OshiLinkEN"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-05T23:32:49Z",
-      "scheduledStartTime": "2024-06-05T23:32:45Z",
-      "activeLiveChatId": "Cg0KC0RZZEtsR3FlNGJBKicKGFVDSDd0eGk2ZmVvbE81akFtQU01UklDQRILRFlkS2xHcWU0YkE"
     }
   },
   "D_W1cFW-hL0": {
@@ -2759,6 +2748,17 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC04tdVF0UjVHN21ZKicKGFVDVHoxRmtvRUU2UWUtRV9nRC1NNjdRdxILTi11UXRSNUc3bVk"
+    }
+  },
+  "N0VkBEzTFwk": {
+    "snippet": {
+      "publishedAt": "2024-06-06T00:43:05Z",
+      "channelId": "UC417QPaWLL4rcYBAESPLfrA",
+      "title": "\ud83d\udd34\u3010MAN OF MEDAN\u3011 A Horror Game Inspired By The Real 'SS Ourang Medan' Ghost Ship... \ud83d\udea2"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-07T13:00:00Z",
+      "activeLiveChatId": "Cg0KC04wVmtCRXpURndrKicKGFVDNDE3UVBhV0xMNHJjWUJBRVNQTGZyQRILTjBWa0JFelRGd2s"
     }
   },
   "NBxIvNo6CEc": {
@@ -7053,17 +7053,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-06T20:00:00Z",
       "activeLiveChatId": "Cg0KC3dpTnVTTzlMZG1FKicKGFVDdDJaNDllNm54S0JBS3lzZkY2WmNyQRILd2lOdVNPOUxkbUU"
-    }
-  },
-  "wildspice": {
-    "snippet": {
-      "channelId": "wildspice",
-      "title": "Three Vtubers strolled into Offkai and Dreamhack Dallas... @dividiastorm @silverwolf2006plays #OshiLinkEN !kofi",
-      "channelTitle": "WildSpice"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-05T23:32:37Z",
-      "twitch": true
     }
   },
   "wjDz5GbSQxo": {
