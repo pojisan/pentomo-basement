@@ -357,9 +357,6 @@
         },
         "Fuyo": {
           "yt": "UC8zgKaS8LiyL28mdhRC2nBg"
-        },
-        "Pochi": {
-          "yt": "UCP0csSl19lOSNwJGCFsJqAQ"
         }
       },
       "ENDLESS": {
@@ -728,9 +725,6 @@
         },
         "Chiaki": {
           "yt": "UC-1_-jUu-lALdGn9-MdBJ4Q"
-        },
-        "Nebi": {
-          "yt": "UC9nd7b17bvaWJvuZFxbC2tg"
         }
       },
       "Chronicle": {
@@ -1728,6 +1722,75 @@
     }
   },
   "corpo+": {
+    "Idol Corp": {
+      "E-Sekai": {
+        "Yuko": {
+          "yt": "UCcIcMRVpNqWQn4WnDhRASAw"
+        },
+        "Juna": {
+          "yt": "UCTFCSCPvqjXEs3zq91aeOVg"
+        },
+        "Rin": {
+          "yt": "UCpZIbzoEC_3rZglErpQkbDg"
+        },
+        "Fuyo": {
+          "yt": "UC8zgKaS8LiyL28mdhRC2nBg"
+        },
+        "Pochi": {
+          "yt": "UCP0csSl19lOSNwJGCFsJqAQ"
+        }
+      },
+      "Project Star": {
+        "KyOresu": {
+          "yt": "UCsFgdazMeQtf8lHvISB1DLQ"
+        }
+      }
+    },
+    "PixelLink": {
+      "PixelStart+": {
+        "Ragi": {
+          "yt": "UCtuoyOZhnxJ12pE294FdH8Q"
+        },
+        "Miuna": {
+          "yt": "UC64DMAYXo4nwTFfvNQzkSwQ"
+        },
+        "Lottie": {
+          "yt": "UCiyzorDNw6tJWGEVItH4Smg"
+        },
+        "Chiaki": {
+          "yt": "UC-1_-jUu-lALdGn9-MdBJ4Q"
+        },
+        "Nebi": {
+          "yt": "UC9nd7b17bvaWJvuZFxbC2tg"
+        }
+      },
+      "Friends": {
+        "Ayu": {
+          "yt": "UC1ogmLVdMrU4HuLBUYtzjVQ"
+        }
+      }
+    },
+    "Tsunderia": {
+      "Friends": {
+        "Shimada": {
+          "tv": "shimadatiger"
+        },
+        "Yomi": {
+          "tv": "yomicham",
+          "yt": "UCy655eCseRVT9ln262dgI1Q"
+        },
+        "Haewon": {
+          "tv": "haewontheheartstring"
+        },
+        "Maria": {
+          "tv": "mariaparadisia",
+          "yt": "UCCrgfIGHE015putgxWrYWkw"
+        },
+        "Shima": {
+          "yt": "UCB3iwvkYq96ksvA7PiMP-1w"
+        }
+      }
+    },
     "VReverie": {
       "Friends": {
         "Valentine": {
@@ -1754,34 +1817,6 @@
         },
         "Kanna": {
           "yt": "UClxj3GlGphZVgd1SLYhZKmg"
-        }
-      }
-    },
-    "PixelLink": {
-      "Friends": {
-        "Ayu": {
-          "yt": "UC1ogmLVdMrU4HuLBUYtzjVQ"
-        }
-      }
-    },
-    "Tsunderia": {
-      "Friends": {
-        "Shimada": {
-          "tv": "shimadatiger"
-        },
-        "Yomi": {
-          "tv": "yomicham",
-          "yt": "UCy655eCseRVT9ln262dgI1Q"
-        },
-        "Haewon": {
-          "tv": "haewontheheartstring"
-        },
-        "Maria": {
-          "tv": "mariaparadisia",
-          "yt": "UCCrgfIGHE015putgxWrYWkw"
-        },
-        "Shima": {
-          "yt": "UCB3iwvkYq96ksvA7PiMP-1w"
         }
       }
     },
@@ -1906,6 +1941,12 @@
   },
   "dev": {
     "VSinger": {
+      "Lumin": {
+        "yt": "UCHXmyTZ3UFbhzpfVgVlrdgw"
+      },
+      "Ririsya": {
+        "yt": "UC1ucgoC_sGww_Euu5iMqpQw"
+      },
       "HACHI": {
         "yt": "UC7XCjKxBEct0uAukpQXNFPw"
       },
