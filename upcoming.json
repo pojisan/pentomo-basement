@@ -682,6 +682,7 @@
       "title": "\u3010Singing & Piano\u3011 Song Request Stream! #\u6b4c\u67a0"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-06T12:00:18Z",
       "scheduledStartTime": "2024-06-06T12:00:00Z",
       "activeLiveChatId": "Cg0KCzU0b29UNlU4Si1vKicKGFVDYnJiRktGaHlIRDRiTUpiRWNYWnoxZxILNTRvb1Q2VThKLW8"
     }
@@ -4821,6 +4822,7 @@
       "title": "\u3010\u96d1\u8ac7\u3011\u65b0\u3057\u3044\u30e1\u30f3\u30d0\u30fc\u30b7\u30c3\u30d7\u3010phase connect\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-06T12:00:52Z",
       "scheduledStartTime": "2024-06-06T12:00:00Z",
       "activeLiveChatId": "Cg0KC2N5Z3BWVmpPSVVrKicKGFVDQjdzU1VOd2hfZFhFN1pMM0RzR0RwdxILY3lncFZWak9JVWs"
     }
@@ -5751,6 +5753,17 @@
       "activeLiveChatId": "Cg0KC2tlMTZnRmdhbUdRKicKGFVDSzlsNnJUd1UzaGlTWmlqSU1xNTFHdxILa2UxNmdGZ2FtR1E"
     }
   },
+  "kirispica": {
+    "snippet": {
+      "channelId": "kirispica",
+      "title": "Singing & Piano! Song Request Stream !sr !sl \u3010Kirispica | V-Dere\u3011",
+      "channelTitle": "kirispica"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-06T11:59:33Z",
+      "twitch": true
+    }
+  },
   "kmYWpNV_3m0": {
     "snippet": {
       "publishedAt": "2024-06-02T07:50:38Z",
@@ -5896,6 +5909,7 @@
       "title": "[PC] Serious Sam: The First Encounter (2001) #1"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-06T12:01:12Z",
       "scheduledStartTime": "2024-06-06T12:00:00Z",
       "activeLiveChatId": "Cg0KC21IRnVFUUVZcGE0KicKGFVDaXlEcFBlcnFYa2ljWm1ueEtCOXFaURILbUhGdUVRRVlwYTQ"
     }
@@ -6026,6 +6040,17 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC25kazRHWmw3Q0xVKicKGFVDdTFJTnplZnczUjdNOS0zUUVIWW1NURILbmRrNEdabDdDTFU"
+    }
+  },
+  "ninete_en": {
+    "snippet": {
+      "channelId": "ninete_en",
+      "title": "Day:43:\u80cc\u4e2d\u3067\u8a9e\u308b\u3002",
+      "channelTitle": "\u30ca\u30a4\u30f3\u30c6\u30a3\u30fc\u30f3"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-06T11:51:55Z",
+      "twitch": true
     }
   },
   "nnAY-x9AtNk": {
@@ -7167,6 +7192,7 @@
       "title": "\u3010SILENT BREATH\u3011Spooky Game With Harmonica Again!!! \u3010NIJISANJI EN | Klara Charmwood\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-06T12:00:43Z",
       "scheduledStartTime": "2024-06-06T12:00:00Z",
       "activeLiveChatId": "Cg0KC3djM3d2UXlrQ2tFKicKGFVDUVl3SVVDTHFGb2luN2xIS21lUGpKdxILd2Mzd3ZReWtDa0U"
     }
