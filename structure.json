@@ -838,7 +838,8 @@
           "yt": "UCuaDidGk4HNLOnQE9wzMMeQ"
         },
         "Clara": {
-          "yt": "UCRlZaszk84YXjRtdPCxqjvw"
+          "yt": "UCRlZaszk84YXjRtdPCxqjvw",
+          "tv": "kaminariclara"
         }
       },
       "Novamore": {
@@ -2061,14 +2062,16 @@
       }
     }
   },
+  "phase+": {
+    "Phase Connect": {
+      "Nano": {
+        "yt": "UCdqDlrY_4p3z_Ho4hS2-4Zw",
+        "tv": "nanobites"
+      }
+    }
+  },
   "dev": {
     "VSinger": {
-      "Lumin": {
-        "yt": "UCHXmyTZ3UFbhzpfVgVlrdgw"
-      },
-      "Ririsya": {
-        "yt": "UC1ucgoC_sGww_Euu5iMqpQw"
-      },
       "HACHI": {
         "yt": "UC7XCjKxBEct0uAukpQXNFPw"
       },
@@ -2092,6 +2095,19 @@
       },
       "Leona": {
         "yt": "UCB1s_IdO-r0nUkY2mXeti-A"
+      },
+      "Lumin": {
+        "yt": "UCHXmyTZ3UFbhzpfVgVlrdgw"
+      },
+      "Clara": {
+        "yt": "UCRlZaszk84YXjRtdPCxqjvw",
+        "tv": "kaminariclara"
+      },
+      "Roca": {
+        "yt": "UC9xR7uN0x5a6CH3Uopq7czA"
+      },
+      "Ririsya": {
+        "yt": "UC1ucgoC_sGww_Euu5iMqpQw"
       }
     },
     "non-vtuber": {
