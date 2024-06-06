@@ -403,5 +403,38 @@
       "actualEndTime": "2024-06-05T23:03:50Z",
       "scheduledStartTime": "2024-06-05T22:55:00Z"
     }
+  },
+  "SRNNdnycAyg": {
+    "snippet": {
+      "publishedAt": "2024-06-06T00:21:37Z",
+      "channelId": "UCUI1qpjJSEbgzdlwmpdVmMw",
+      "title": "\u3010Minecraft\u3011The PERFECT START!\u250aSurvival Let's Play #1"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-06T01:00:00Z",
+      "activeLiveChatId": "Cg0KC1NSTk5kbnljQXlnKicKGFVDVUkxcXBqSlNFYmd6ZGx3bXBkVm1NdxILU1JOTmRueWNBeWc"
+    }
+  },
+  "9J2817JQO3c": {
+    "snippet": {
+      "publishedAt": "2024-06-01T13:43:48Z",
+      "channelId": "UCUI1qpjJSEbgzdlwmpdVmMw",
+      "title": "\u3010SOMA\u3011Endurance until I am smart!\u3010Twisty Amanozako | NIJISANJI EN\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-09T01:00:00Z",
+      "activeLiveChatId": "Cg0KCzlKMjgxN0pRTzNjKicKGFVDVUkxcXBqSlNFYmd6ZGx3bXBkVm1NdxILOUoyODE3SlFPM2M"
+    }
+  },
+  "vwHq3c9feuI": {
+    "snippet": {
+      "publishedAt": "2024-06-01T13:42:01Z",
+      "channelId": "UCUI1qpjJSEbgzdlwmpdVmMw",
+      "title": "\u3010ASMR\u3011Oyasumimimimi \ud83d\udca4 Healing Ear Cleaning / Whispers / Oil Massage\u3010Twisty Amanozako | NIJISANJI EN\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-10T05:00:00Z",
+      "activeLiveChatId": "Cg0KC3Z3SHEzYzlmZXVJKicKGFVDVUkxcXBqSlNFYmd6ZGx3bXBkVm1NdxILdndIcTNjOWZldUk"
+    }
   }
 }
