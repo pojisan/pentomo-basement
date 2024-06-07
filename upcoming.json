@@ -387,6 +387,7 @@
       "title": "\u3010IT TAKES TWO W/ SERA\u3011: SHES LEAVING ME!!!!\u3010bondlive EN\u3011#vtuber"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-07T00:58:33Z",
       "scheduledStartTime": "2024-06-07T01:00:00Z",
       "activeLiveChatId": "Cg0KCzFaVElRcEM1R19nKicKGFVDWk8wQ2lySGVXWVRVTWwtN3pQRzZZZxILMVpUSVFwQzVHX2c"
     }
@@ -553,18 +554,6 @@
       "activeLiveChatId": "Cg0KCzNJaTlOcFRZSG00KicKGFVDTXBrN3Frc0t1VFlWeWNXV25nRkJBZxILM0lpOU5wVFlIbTQ"
     }
   },
-  "3PYEG51iH-0": {
-    "snippet": {
-      "publishedAt": "2024-06-06T12:43:32Z",
-      "channelId": "UCBJFsaCvgBa1a9BnEaxu97Q",
-      "title": "Please don't make me cry \ud83d\ude2d\u3010Genshin Impact Act 5: Bedtime Story\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-06T22:00:39Z",
-      "scheduledStartTime": "2024-06-06T22:00:00Z",
-      "activeLiveChatId": "Cg0KCzNQWUVHNTFpSC0wKicKGFVDQkpGc2FDdmdCYTFhOUJuRWF4dTk3URILM1BZRUc1MWlILTA"
-    }
-  },
   "3XTAk5R7mEE": {
     "snippet": {
       "publishedAt": "2024-06-06T20:35:45Z",
@@ -584,6 +573,7 @@
       "title": "\u3010Content Warning\u3011We hunting monsters tonight...!\ud83c\udfbc"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-07T00:55:29Z",
       "scheduledStartTime": "2024-06-07T01:00:00Z",
       "activeLiveChatId": "Cg0KCzNYVnptRUxmNGNZKicKGFVDX3NGTk0wejBNV205QTZXbEtQdU1NZxILM1hWem1FTGY0Y1k"
     }
@@ -1386,6 +1376,7 @@
       "title": "productive shenanigans\u3010WORK STREAM\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-07T00:55:37Z",
       "scheduledStartTime": "2024-06-07T01:00:00Z",
       "activeLiveChatId": "Cg0KC0JxY0QwYWZhRVQwKicKGFVDMW9nbUxWZE1yVTRIdUxCVVl0empWURILQnFjRDBhZmFFVDA"
     }
@@ -1667,6 +1658,7 @@
       "title": "Luigi to the rescue!\u3010Luigi's Mansion 3\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-07T01:00:00Z",
       "scheduledStartTime": "2024-06-07T01:00:00Z",
       "activeLiveChatId": "Cg0KC0UzOWlDdUNKZFo4KicKGFVDLTFfLWpVdS1sQUxkR245LU1kQko0URILRTM5aUN1Q0pkWjg"
     }
@@ -2163,6 +2155,18 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-10-31T04:00:00Z",
       "activeLiveChatId": "Cg0KC0hkWTVxT1dCUVJvKicKGFVDWmw5MndNaXBqWUZjMVVsbTlZeTY1ZxILSGRZNXFPV0JRUm8"
+    }
+  },
+  "HfRt9m8yR3k": {
+    "snippet": {
+      "publishedAt": "2024-06-07T00:55:45Z",
+      "channelId": "UCT41WnQY3O2F7Obi1hhPOyA",
+      "title": "\u3010F.E.A.R\u3011 My Sanity Level.... RIP"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-07T00:56:05Z",
+      "scheduledStartTime": "2024-06-07T00:55:43Z",
+      "activeLiveChatId": "Cg0KC0hmUnQ5bTh5UjNrKicKGFVDVDQxV25RWTNPMkY3T2JpMWhoUE95QRILSGZSdDltOHlSM2s"
     }
   },
   "HhfyJqf38hc": {
@@ -3107,6 +3111,7 @@
       "title": "\u300aIT TAKES TWO W/ REIYA\u300bOUR DRAMATIC FALLING-OUT\u3010Sera Kesera | bondliveEN\u3011#vtuber"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-07T00:57:04Z",
       "scheduledStartTime": "2024-06-07T01:00:00Z",
       "activeLiveChatId": "Cg0KC1AtZW1CVkllX2owKicKGFVDYXNadnNrRkNfU0hzNkxYeDJfMjZjURILUC1lbUJWSWVfajA"
     }
@@ -3236,6 +3241,7 @@
       "title": "\u3010Content Warning\u3011Hololive Heads to Australia For Monster Sightings with #holoadvent"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-07T00:55:37Z",
       "scheduledStartTime": "2024-06-07T01:00:00Z",
       "activeLiveChatId": "Cg0KC1FFbzF0NkRNQ0l3KicKGFVDZ25mUFBiOUpJM2U5QTRjWEhuV2J5ZxILUUVvMXQ2RE1DSXc"
     }
@@ -3407,7 +3413,7 @@
     "snippet": {
       "publishedAt": "2024-06-06T14:20:34Z",
       "channelId": "UCoNhz4OqyxdEuufmEz8eoyA",
-      "title": "Bye-Bye Penacony already? :(  | Honkai: Star Rail"
+      "title": "Bye-Bye Penacony already? :( 2.3 WATCH ALONG! | Honkai: Star Rail"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-07T11:00:00Z",
@@ -4521,6 +4527,17 @@
       "activeLiveChatId": "Cg0KC2FfX054cnZ1LVNBKicKGFVDb0FRc2MtRFEwTWpmVHAwNTlvdFFBdxILYV9fTnhydnUtU0E"
     }
   },
+  "adventureralm": {
+    "snippet": {
+      "channelId": "adventureralm",
+      "title": "Bloodstained Multiplayer Mayhem! | Feat. @bromadthenomad | !discord !socials !bounty",
+      "channelTitle": "AdventurerAlm"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-07T00:56:42Z",
+      "twitch": true
+    }
+  },
   "angelinakumalo": {
     "snippet": {
       "channelId": "angelinakumalo",
@@ -4617,6 +4634,18 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-02-13T15:15:00Z",
       "activeLiveChatId": "Cg0KC2JXckt5NjVJT0FjKicKGFVDVlFFYmpBY0pSZVB4T0RWTTVtV0N2URILYldyS3k2NUlPQWM"
+    }
+  },
+  "bZeHt96kvbg": {
+    "snippet": {
+      "publishedAt": "2024-05-20T05:17:44Z",
+      "channelId": "UC5qlAhrec6-0J-K3zmhNPPQ",
+      "title": "That one girl who is an indecisive girl and takes forever in the dressing room"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-07T01:00:37Z",
+      "scheduledStartTime": "2024-06-07T01:00:00Z",
+      "activeLiveChatId": "Cg0KC2JaZUh0OTZrdmJnKicKGFVDNXFsQWhyZWM2LTBKLUszem1oTlBQURILYlplSHQ5Nmt2Ymc"
     }
   },
   "bfrzCNm5nzE": {
@@ -5327,6 +5356,7 @@
       "title": "\u3010CONTENT WARNING\u3011HELLO AND WELCOME TO OUR VLOG + ANNOUNCEMENT (NOT CLICKBAIT) #holoAdvent"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-07T00:56:03Z",
       "scheduledStartTime": "2024-06-07T01:00:00Z",
       "activeLiveChatId": "Cg0KC2hUUmJWdUUtQ1V3KicKGFVDOXBfbHFRMEZFRHozMjdWZ2Y1SndxQRILaFRSYlZ1RS1DVXc"
     }
@@ -5711,17 +5741,6 @@
       "activeLiveChatId": "Cg0KC2thU0M5cXhmTTFRKicKGFVDZlcwZjJKNm8tX3IzZm1lV3MzSEZfQRILa2FTQzlxeGZNMVE"
     }
   },
-  "kanekolumi": {
-    "snippet": {
-      "channelId": "kanekolumi",
-      "title": "fried brain lumi tries her absolute best",
-      "channelTitle": "KanekoLumi"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-06T21:01:17Z",
-      "twitch": true
-    }
-  },
   "ke16gFgamGQ": {
     "snippet": {
       "publishedAt": "2023-07-12T20:17:38Z",
@@ -5939,7 +5958,7 @@
     "snippet": {
       "publishedAt": "2024-06-03T15:37:11Z",
       "channelId": "UCUI1qpjJSEbgzdlwmpdVmMw",
-      "title": "\u3010????\u3011???? w/ @????\u3010Twisty Amanozako | NIJISANJI EN\u3011"
+      "title": "\u3010COVER AFTERPARTY\u3011IDENTITY with @KlaraCharmwood\u3010Twisty Amanozako | NIJISANJI EN\u3011"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-07T01:00:00Z",
@@ -6208,7 +6227,7 @@
   "poseidonmythos": {
     "snippet": {
       "channelId": "poseidonmythos",
-      "title": "\u2500\ud83d\udd31 PUNTABLE WATER GODDESS PLAYS COBBLEMON \ud83d\udd31\u250a !merch !gsupps !throne !discord !socials",
+      "title": "\u2500\ud83d\udd31 PUNTABLE 6 MILLIMETER WATER GODDESS PLAYS COBBLEMON \ud83d\udd31\u250a !merch !gsupps !throne !discord !socials",
       "channelTitle": "PoseidonMythos"
     },
     "liveStreamingDetails": {
@@ -6384,6 +6403,7 @@
       "title": "\u3010SHASHINGO\u3011YAPPING AND LEARNING JAPANESE! \u3010VyVid | Eva Ananova \u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-07T01:00:41Z",
       "scheduledStartTime": "2024-06-07T01:00:00Z",
       "activeLiveChatId": "Cg0KC3FkaWFIaVM3NEY4KicKGFVDVE5wd1d5b0xnZUotdHN4V3E3dWN2dxILcWRpYUhpUzc0Rjg"
     }
@@ -6628,7 +6648,7 @@
   "shirozevalia": {
     "snippet": {
       "channelId": "shirozevalia",
-      "title": "Your Prince Playing Dragon Age Inquisition for the first time !socials",
+      "title": "Dragon age was stinky so we play hades instead HYPE !socials",
       "channelTitle": "ShiroZevalia"
     },
     "liveStreamingDetails": {
@@ -7144,18 +7164,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-09T00:00:00Z",
       "activeLiveChatId": "Cg0KC3hDTTFhX1g1b2o4KicKGFVDb3ZLd2dBOWVIVXV0SVdDVldTX0FHdxILeENNMWFfWDVvajg"
-    }
-  },
-  "xRMSuozCAD8": {
-    "snippet": {
-      "publishedAt": "2024-06-06T03:30:56Z",
-      "channelId": "UCMwGHR0BTZuLsmjY_NT5Pwg",
-      "title": "\u3010Death's Door\u3011 I DIE I LIVE I DIE AGAIN \u3010#3\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-06T21:00:23Z",
-      "scheduledStartTime": "2024-06-06T21:00:00Z",
-      "activeLiveChatId": "Cg0KC3hSTVN1b3pDQUQ4KicKGFVDTXdHSFIwQlRadUxzbWpZX05UNVB3ZxILeFJNU3VvekNBRDg"
     }
   },
   "xcdlTH2FZEo": {
