@@ -120,18 +120,6 @@
       "activeLiveChatId": "Cg0KCy1sY0lLN0VKTnAwKicKGFVDSHVWZ25PR3RETjlIMnA0VnJsRDYyQRILLWxjSUs3RUpOcDA"
     }
   },
-  "-vpkSEqZwfY": {
-    "snippet": {
-      "publishedAt": "2024-06-07T20:38:13Z",
-      "channelId": "UC-W-yaVIjqkXoh6dZ6_TcMA",
-      "title": "\u3010SUMMER GAME FEST\u3011 react with @AkugakiKoa  !! OOOOOH!"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-07T21:02:10Z",
-      "scheduledStartTime": "2024-06-07T21:00:00Z",
-      "activeLiveChatId": "Cg0KCy12cGtTRXFad2ZZKicKGFVDLVcteWFWSWpxa1hvaDZkWjZfVGNNQRILLXZwa1NFcVp3Zlk"
-    }
-  },
   "0566e_8TjBQ": {
     "snippet": {
       "publishedAt": "2024-06-05T11:46:14Z",
@@ -1674,6 +1662,7 @@
       "title": "\u3010Rabbit and Steel\u3011The rabbits will take care of this."
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-07T23:05:06Z",
       "scheduledStartTime": "2024-06-07T23:00:26Z",
       "activeLiveChatId": "Cg0KC0dfZm9nNkpTUHRRKicKGFVDeTJtRk5OMUxvQXphcGNOWTk0OGd4dxILR19mb2c2SlNQdFE"
     }
@@ -1960,18 +1949,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-09-30T14:55:00Z",
       "activeLiveChatId": "Cg0KC0lVa0daRE43aHVRKicKGFVDNkVnalVaU1lTQVFlOUNERnhINzE1dxILSVVrR1pETjdodVE"
-    }
-  },
-  "IV_JzXbAdUw": {
-    "snippet": {
-      "publishedAt": "2024-06-06T08:13:20Z",
-      "channelId": "UClxj3GlGphZVgd1SLYhZKmg",
-      "title": "Let's react to the 2024 Summer Game Fest together!!\u3010WATCHALONG\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-07T20:33:01Z",
-      "scheduledStartTime": "2024-06-07T20:30:00Z",
-      "activeLiveChatId": "Cg0KC0lWX0p6WGJBZFV3KicKGFVDbHhqM0dsR3BoWlZnZDFTTFloWkttZxILSVZfSnpYYkFkVXc"
     }
   },
   "IcWFdUT2pXw": {
@@ -2997,18 +2974,6 @@
       "actualStartTime": "2024-06-07T20:01:40Z",
       "scheduledStartTime": "2024-06-07T20:00:00Z",
       "activeLiveChatId": "Cg0KC1F0clhIV2NUWHFnKicKGFVDSHN4NEhxYS0xT1JqUVRoOVRZRGh3dxILUXRyWEhXY1RYcWc"
-    }
-  },
-  "RJecviYo8ts": {
-    "snippet": {
-      "publishedAt": "2024-06-07T15:12:53Z",
-      "channelId": "UCa7fhTz-VSEIaGt8j6jab6A",
-      "title": "SUMMER GAMES FEST WATCHALONG AND DRINK-A-LONG\u3010Rhubarb N. Kustard / globie\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-07T20:31:53Z",
-      "scheduledStartTime": "2024-06-07T20:30:08Z",
-      "activeLiveChatId": "Cg0KC1JKZWN2aVlvOHRzKicKGFVDYTdmaFR6LVZTRUlhR3Q4ajZqYWI2QRILUkplY3ZpWW84dHM"
     }
   },
   "RX56nmdEcRE": {
@@ -4302,6 +4267,17 @@
       "activeLiveChatId": "Cg0KC2FwZ1NTQmZPaDlrKicKGFVDSUxRbDVnUkJNdndkLTk3LU01cExZURILYXBnU1NCZk9oOWs"
     }
   },
+  "apolloalto": {
+    "snippet": {
+      "channelId": "apolloalto",
+      "title": "Vibing and Playing one of the BEST Games Ever!! !discord !socials !commands",
+      "channelTitle": "ApolloAlto"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-07T23:07:29Z",
+      "twitch": true
+    }
+  },
   "auCkpoNM1yE": {
     "snippet": {
       "publishedAt": "2024-03-24T19:34:20Z",
@@ -4903,6 +4879,7 @@
       "title": "\u3010 LETHAL COMPANY \u3011REMedy collab w/@Aimee_exe@MimosaShirosaki@MeroUmiko @raeinclowd \u3010Rhea Nevermore\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-07T23:11:03Z",
       "scheduledStartTime": "2024-06-07T23:00:00Z",
       "activeLiveChatId": "Cg0KC2dWOXJMOF9pQlgwKicKGFVDSUlkMmJBM0JzQmVCQjgwYmR3TnM0URILZ1Y5ckw4X2lCWDA"
     }
@@ -5635,7 +5612,7 @@
       "title": "\u3010COZY TALK\u3011 cuddles, soft whispers and maybe kisses~"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-07T22:30:00Z",
+      "scheduledStartTime": "2024-06-08T01:00:00Z",
       "activeLiveChatId": "Cg0KC21tRmhONmxfOGlnKicKGFVDLVcteWFWSWpxa1hvaDZkWjZfVGNNQRILbW1GaE42bF84aWc"
     }
   },
@@ -6470,18 +6447,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-08T22:00:00Z",
       "activeLiveChatId": "Cg0KC3Uwd3BVZlozSHBjKicKGFVDYnZSNDZTUXBPUFJLTXJWVDhOb0pUQRILdTB3cFVmWjNIcGM"
-    }
-  },
-  "uFKu7qxAdz4": {
-    "snippet": {
-      "publishedAt": "2024-05-30T12:15:49Z",
-      "channelId": "UC0ZTVxCHkZanT5dnP2FZD4Q",
-      "title": "\u3010Summer Game Fest 2024\u3011Another year, another summer game fest!"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-07T20:41:54Z",
-      "scheduledStartTime": "2024-06-07T20:45:00Z",
-      "activeLiveChatId": "Cg0KC3VGS3U3cXhBZHo0KicKGFVDMFpUVnhDSGtaYW5UNWRuUDJGWkQ0URILdUZLdTdxeEFkejQ"
     }
   },
   "uULw226YJno": {

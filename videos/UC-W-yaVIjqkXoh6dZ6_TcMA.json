@@ -529,8 +529,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-07T21:02:10Z",
-      "scheduledStartTime": "2024-06-07T21:00:00Z",
-      "activeLiveChatId": "Cg0KCy12cGtTRXFad2ZZKicKGFVDLVcteWFWSWpxa1hvaDZkWjZfVGNNQRILLXZwa1NFcVp3Zlk"
+      "actualEndTime": "2024-06-07T23:06:14Z",
+      "scheduledStartTime": "2024-06-07T21:00:00Z"
     }
   },
   "mmFhN6l_8ig": {
@@ -540,7 +540,7 @@
       "title": "\u3010COZY TALK\u3011 cuddles, soft whispers and maybe kisses~"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-07T22:30:00Z",
+      "scheduledStartTime": "2024-06-08T01:00:00Z",
       "activeLiveChatId": "Cg0KC21tRmhONmxfOGlnKicKGFVDLVcteWFWSWpxa1hvaDZkWjZfVGNNQRILbW1GaE42bF84aWc"
     }
   }
