@@ -2284,6 +2284,17 @@
       "activeLiveChatId": "Cg0KC0tVYTFTbTVtU0c0KicKGFVDa2lVQnlCQ0YxYU9pUmQxNnhBbFBNZxILS1VhMVNtNW1TRzQ"
     }
   },
+  "KhbvoY6kmT0": {
+    "snippet": {
+      "publishedAt": "2024-06-07T19:20:50Z",
+      "channelId": "UCO_aKKYxn4tvrqPjcTzZ6EQ",
+      "title": "\u3010WARIOWARE: MOVE IT\u3011 Movin' in 3D! #mocopi"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-07T22:00:00Z",
+      "activeLiveChatId": "Cg0KC0toYnZvWTZrbVQwKicKGFVDT19hS0tZeG40dHZycVBqY1R6WjZFURILS2hidm9ZNmttVDA"
+    }
+  },
   "Kjmqsg7e0_I": {
     "snippet": {
       "publishedAt": "2023-12-07T00:46:26Z",
@@ -2880,18 +2891,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-31T09:25:00Z",
       "activeLiveChatId": "Cg0KC1BkOExFclYwQ2dFKicKGFVDeF9BNmZuczlxS2p5YnUtNmswdXIxZxILUGQ4TEVyVjBDZ0U"
-    }
-  },
-  "Po1lqvDlltc": {
-    "snippet": {
-      "publishedAt": "2024-06-04T08:52:33Z",
-      "channelId": "UClcMT9V9iu7xphkHVHglHTg",
-      "title": "\u3010SISTER SOUL-LINK\u3011IS RUMI GONNA MAKE US WIPE AGAIN?"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-07T17:01:31Z",
-      "scheduledStartTime": "2024-06-07T16:00:00Z",
-      "activeLiveChatId": "Cg0KC1BvMWxxdkRsbHRjKicKGFVDbGNNVDlWOWl1N3hwaGtIVkhnbEhUZxILUG8xbHF2RGxsdGM"
     }
   },
   "PuzsVzbUdmQ": {
@@ -4916,6 +4915,7 @@
       "title": "hi! \ud83c\udf88 yippee!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-07T19:12:42Z",
       "scheduledStartTime": "2024-06-07T19:00:00Z",
       "activeLiveChatId": "Cg0KC2c1NHZneVBrVmlrKicKGFVDSUo2VEdzVGNCbFlHVWotemJMNjBFURILZzU0dmd5UGtWaWs"
     }
@@ -4994,6 +4994,17 @@
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-08T02:00:00Z"
+    }
+  },
+  "h04kxRd99-I": {
+    "snippet": {
+      "publishedAt": "2024-06-07T19:12:24Z",
+      "channelId": "UCdubotSy4pPOsiaW4MrYn3Q",
+      "title": "NIGHTMARE KART * the ghost of mt. yharnam!!\u3010Mono Monet \ud83d\udcad\ud83c\udfa8 V4Mirai\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-07T21:00:00Z",
+      "activeLiveChatId": "Cg0KC2gwNGt4UmQ5OS1JKicKGFVDZHVib3RTeTRwUE9zaWFXNE1yWW4zURILaDA0a3hSZDk5LUk"
     }
   },
   "h4426bmybDA": {
@@ -6579,17 +6590,6 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-07T17:05:19Z",
-      "twitch": true
-    }
-  },
-  "valryia": {
-    "snippet": {
-      "channelId": "valryia",
-      "title": "Gotta love Zombies in June- ft @usuiraine",
-      "channelTitle": "Valryia"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-07T14:55:38Z",
       "twitch": true
     }
   },
