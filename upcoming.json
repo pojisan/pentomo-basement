@@ -1225,6 +1225,7 @@
       "title": "[Poppy Playtime Chap 3] Tonight We WILL Stop Her!!\u3010MyHolo TV\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-07T14:01:58Z",
       "scheduledStartTime": "2024-06-07T14:00:00Z",
       "activeLiveChatId": "Cg0KC0NwM1FyTFczamI4KicKGFVDSHozUGVVMVJSY1k5dkpEU3FzaWdJQRILQ3AzUXJMVzNqYjg"
     }
@@ -2015,18 +2016,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-04-30T21:45:00Z",
       "activeLiveChatId": "Cg0KC0lIZFlQMEVhSTBzKicKGFVDYnNQNEJJc1BZYVJMdjlmX3lYRG9EQRILSUhkWVAwRWFJMHM"
-    }
-  },
-  "IJbSkPNXFBI": {
-    "snippet": {
-      "publishedAt": "2024-06-07T04:30:46Z",
-      "channelId": "UCZl92wMipjYFc1Ulm9Yy65g",
-      "title": "\u3010Fictitious Friday\u3011 FANTASY or REALISM?! Let's Compare! \u3010Yuno Hanaki\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-07T12:04:49Z",
-      "scheduledStartTime": "2024-06-07T12:00:00Z",
-      "activeLiveChatId": "Cg0KC0lKYlNrUE5YRkJJKicKGFVDWmw5MndNaXBqWUZjMVVsbTlZeTY1ZxILSUpiU2tQTlhGQkk"
     }
   },
   "IUkGZDN7huQ": {
@@ -4632,6 +4621,17 @@
       "activeLiveChatId": "Cg0KC2RiWi1NYlJ0SGJnKicKGFVDSzlsNnJUd1UzaGlTWmlqSU1xNTFHdxILZGJaLU1iUnRIYmc"
     }
   },
+  "dee_the_sphinx": {
+    "snippet": {
+      "channelId": "dee_the_sphinx",
+      "title": "\ud83d\udd06THE FUTURE... of DEE?!\ud83d\udd06!discord [Vtuber]",
+      "channelTitle": "Dee_the_Sphinx"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-07T14:04:35Z",
+      "twitch": true
+    }
+  },
   "duroppucharming": {
     "snippet": {
       "channelId": "duroppucharming",
@@ -5284,6 +5284,7 @@
       "title": "\u3010Dead Island\u3011zombies!!!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-07T14:08:25Z",
       "scheduledStartTime": "2024-06-07T14:00:00Z",
       "activeLiveChatId": "Cg0KC2pLYTNfSkRoUTZJKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILakthM19KRGhRNkk"
     }
@@ -6286,6 +6287,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-04-27T06:00:00Z",
       "activeLiveChatId": "Cg0KC3NWY29UVFNvZ2dvKicKGFVDcW1TWWtYTHdzTDB6RWFyNUdvb1lrZxILc1Zjb1RUU29nZ28"
+    }
+  },
+  "sW2aS68UgSI": {
+    "snippet": {
+      "publishedAt": "2024-06-07T14:01:22Z",
+      "channelId": "UC3AYtmMNdJczCvQNoPy-gjw",
+      "title": "STOP NO!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-08T21:00:00Z",
+      "activeLiveChatId": "Cg0KC3NXMmFTNjhVZ1NJKicKGFVDM0FZdG1NTmRKY3pDdlFOb1B5LWdqdxILc1cyYVM2OFVnU0k"
     }
   },
   "sayu": {
