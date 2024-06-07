@@ -12158,8 +12158,22 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-07T03:00:23Z",
+      "actualEndTime": "2024-06-07T04:01:07Z",
       "scheduledStartTime": "2024-06-07T03:00:00Z",
       "activeLiveChatId": "Cg0KC0dEUWFEbEU5OWJNKicKGFVDTF9xaGd0T3kwZHkxQWdwOHZreVNRZxILR0RRYURsRTk5Yk0"
+    }
+  },
+  "Du4unKMbR2Q": {
+    "snippet": {
+      "publishedAt": "2024-06-07T04:00:06Z",
+      "channelId": "UCL_qhgtOy0dy1Agp8vkySQg",
+      "title": "\u3010Audio Visualizer\u3011Midnight Mayoi / Mori Calliope \u00d7 Kobo Kanaeru"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-07T04:00:06Z",
+      "scheduledStartTime": "2024-06-07T04:00:00Z",
+      "activeLiveChatId": "Cg0KC0R1NHVuS01iUjJRKicKGFVDTF9xaGd0T3kwZHkxQWdwOHZreVNRZxILRHU0dW5LTWJSMlE",
+      "premiere": true
     }
   }
 }
