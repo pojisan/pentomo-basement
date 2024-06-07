@@ -1828,6 +1828,17 @@
       "activeLiveChatId": "Cg0KC0hMYUlfM0IwWjRvKicKGFVDQXhWb0JMRzJCdjF4Z2JZVV9lZnNDZxILSExhSV8zQjBaNG8"
     }
   },
+  "HTCQLX2ovDE": {
+    "snippet": {
+      "publishedAt": "2024-06-07T18:51:23Z",
+      "channelId": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+      "title": "\u226a\u6b4c\u67a0\u30fbUNARCHIVED KARAOKE \u226b oWL & raT - pARt 2"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-08T04:00:00Z",
+      "activeLiveChatId": "Cg0KC0hUQ1FMWDJvdkRFKicKGFVDZ21QbngtRUVlT3JaU2c1VGl3N1pSURILSFRDUUxYMm92REU"
+    }
+  },
   "HXFDSvHDHMw": {
     "snippet": {
       "publishedAt": "2024-06-06T15:43:55Z",
@@ -2076,6 +2087,7 @@
       "title": "ASK US ANYTHING COLLAB WITH ELIBRO  \u3010 Zatsudan/Just Chatting\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-07T19:01:02Z",
       "scheduledStartTime": "2024-06-07T19:00:00Z",
       "activeLiveChatId": "Cg0KC0o4OE9VQ0VSdUlnKicKGFVDTzR6TWFZQkV6ZFlJU2Zlb082aXBfURILSjg4T1VDRVJ1SWc"
     }
@@ -2803,6 +2815,7 @@
       "title": "\u3010Overwatch 2\u3011\ud83e\udd8d\ud83e\udd8d\ud83e\udd8d\u3010Yume+ | Mimosa Shirosaki\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-07T18:53:51Z",
       "scheduledStartTime": "2024-06-07T19:00:00Z",
       "activeLiveChatId": "Cg0KC090RTFaUzVpQmNzKicKGFVDcW1TWWtYTHdzTDB6RWFyNUdvb1lrZxILT3RFMVpTNWlCY3M"
     }
@@ -2867,18 +2880,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-31T09:25:00Z",
       "activeLiveChatId": "Cg0KC1BkOExFclYwQ2dFKicKGFVDeF9BNmZuczlxS2p5YnUtNmswdXIxZxILUGQ4TEVyVjBDZ0U"
-    }
-  },
-  "PjqptM30ImI": {
-    "snippet": {
-      "publishedAt": "2024-06-07T03:48:22Z",
-      "channelId": "UCUfgKgCxtFs1ZPlyiM3JcTw",
-      "title": "WHY ARE WE DOING THIS..."
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-07T16:05:14Z",
-      "scheduledStartTime": "2024-06-07T16:04:37Z",
-      "activeLiveChatId": "Cg0KC1BqcXB0TTMwSW1JKicKGFVDVWZnS2dDeHRGczFaUGx5aU0zSmNUdxILUGpxcHRNMzBJbUk"
     }
   },
   "Po1lqvDlltc": {
@@ -3558,6 +3559,7 @@
       "title": "\u3010Platform 8\u3011lost on a train... please come pick me up...."
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-07T19:00:46Z",
       "scheduledStartTime": "2024-06-07T19:00:00Z",
       "activeLiveChatId": "Cg0KC1ZyaEpjQkVobC1ZKicKGFVDNWFBTHV3d2NSYTdXeldISzkzQVllZxILVnJoSmNCRWhsLVk"
     }
@@ -4745,6 +4747,17 @@
       "activeLiveChatId": "Cg0KC2VkT2M0eUZEcUxvKicKGFVDb3ZLd2dBOWVIVXV0SVdDVldTX0FHdxILZWRPYzR5RkRxTG8"
     }
   },
+  "eliastellaria": {
+    "snippet": {
+      "channelId": "eliastellaria",
+      "title": "ASK US ANYTHING COLLAB WITH ELIBRO \u3010 Zatsudan/Just Chatting\u3011",
+      "channelTitle": "EliaStellaria"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-07T19:00:25Z",
+      "twitch": true
+    }
+  },
   "etxaVqZeo10": {
     "snippet": {
       "publishedAt": "2024-06-02T22:20:23Z",
@@ -4902,6 +4915,7 @@
       "title": "#sponsored stream! | Stormshot: Isle of Adventure"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-07T18:54:53Z",
       "scheduledStartTime": "2024-06-07T19:00:00Z",
       "activeLiveChatId": "Cg0KC2ZzM1hMSFZQSjdvKicKGFVDSTRQTGZ1aUw5akZPcHNFSUEyMEtqZxILZnMzWExIVlBKN28"
     }
@@ -5324,6 +5338,7 @@
       "title": "This game is breaking me... (First Dark Souls playthrough)"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-07T18:56:22Z",
       "scheduledStartTime": "2024-06-07T19:00:00Z",
       "activeLiveChatId": "Cg0KC2pWU3M4NnVqd080KicKGFVDOXhSN3VOMHg1YTZDSDNVb3BxN2N6QRILalZTczg2dWp3TzQ"
     }
@@ -5773,6 +5788,7 @@
       "title": "\u3010Games\u3011Playing Lots of PC-Engine Cute-Em-Ups!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-07T18:59:34Z",
       "scheduledStartTime": "2024-06-07T19:00:00Z",
       "activeLiveChatId": "Cg0KC29SMmo4Yi1xWnRzKicKGFVDeWtNV2Y4QjhJN2NfakE4RlR5MnRHdxILb1IyajhiLXFadHM"
     }
