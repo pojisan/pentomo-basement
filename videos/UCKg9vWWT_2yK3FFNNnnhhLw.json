@@ -1289,7 +1289,8 @@
     "snippet": {
       "publishedAt": "2024-06-04T13:49:19Z",
       "channelId": "UCKg9vWWT_2yK3FFNNnnhhLw",
-      "title": "\u3010Ily\u3011Whatever \u2726 Topic | Sub topic"
+      "title": "\u3010Ily\u3011Whatever \u2726 Topic | Sub topic",
+      "private": true
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KCzVoTUtFa2RscjZjKicKGFVDS2c5dldXVF8yeUszRkZOTm5uaGhMdxILNWhNS0VrZGxyNmM"
@@ -1311,12 +1312,25 @@
     "snippet": {
       "publishedAt": "2024-06-07T12:11:43Z",
       "channelId": "UCKg9vWWT_2yK3FFNNnnhhLw",
-      "title": "\ud83d\udfe3Goozi Game | Minecraft Hardcore Explore for EnderPearls! \ud83d\ude0e  \u2726 [ Goozilla Ily | Autumnia ]\u3010EN/TH\u3011"
+      "title": "\ud83d\udfe3Goozi Game | Minecraft Hardcore Explore for EnderPearls! \ud83d\ude0e  \u2726 [ Goozilla Ily | Autumnia ]\u3010EN/TH\u3011",
+      "private": true
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-07T12:59:11Z",
       "scheduledStartTime": "2024-06-07T12:58:54Z",
       "activeLiveChatId": "Cg0KC3BOV1Mwd1VwajVVKicKGFVDS2c5dldXVF8yeUszRkZOTm5uaGhMdxILcE5XUzB3VXBqNVU"
+    }
+  },
+  "p-9FpD_GiRQ": {
+    "snippet": {
+      "publishedAt": "2024-06-07T13:10:33Z",
+      "channelId": "UCKg9vWWT_2yK3FFNNnnhhLw",
+      "title": "\ud83d\udfe3Goozi Game | Minecraft Hardcore Explore for EnderPearls! \ud83d\ude0e  \u2726 [ Goozilla Ily | Autumnia ]\u3010EN/TH\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-07T13:13:40Z",
+      "scheduledStartTime": "2024-06-07T13:13:23Z",
+      "activeLiveChatId": "Cg0KC3AtOUZwRF9HaVJRKicKGFVDS2c5dldXVF8yeUszRkZOTm5uaGhMdxILcC05RnBEX0dpUlE"
     }
   }
 }
