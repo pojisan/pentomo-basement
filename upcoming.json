@@ -4553,7 +4553,7 @@
   "aresmythos": {
     "snippet": {
       "channelId": "aresmythos",
-      "title": "\u2694\ufe0fChatting --> Elden Ring (My soul is being consumed aaaaaa)\u2694\ufe0f | !gg !merch !socials !pp",
+      "title": "\u2694\ufe0fDLC Prep Playthrough | No Magic No Summons | My soul is being consumed aaaaaa\u2694\ufe0f | !gg !merch !socials !pp",
       "channelTitle": "AresMythos"
     },
     "liveStreamingDetails": {
@@ -4881,6 +4881,17 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-06T23:08:00Z",
+      "twitch": true
+    }
+  },
+  "discordia_ch": {
+    "snippet": {
+      "channelId": "discordia_ch",
+      "title": "\u3010PartnerPush\u3011WARCRIMES W/ WAIFUS~ [VFleet] | !Discord !UwU !GG !Starforge | @Discordia_Ch",
+      "channelTitle": "Discordia_Ch"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-07T01:12:24Z",
       "twitch": true
     }
   },
@@ -5371,17 +5382,6 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC2hpc1drOWRQeHhrKicKGFVDVmpwRlAxX055M1BVb0UyNnI0SVRhdxILaGlzV2s5ZFB4eGs"
-    }
-  },
-  "hiyorisinn": {
-    "snippet": {
-      "channelId": "hiyorisinn",
-      "title": "finishing chocobo's dungeon 2 (or else) / !streamloots !asmr",
-      "channelTitle": "HiyorisInn"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-06T20:52:13Z",
-      "twitch": true
     }
   },
   "hjM3COLrd9c": {
