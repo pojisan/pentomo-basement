@@ -143,8 +143,9 @@
       "title": "Rrrrrrunie Rrrrrrruse Learrrrns to Rrrrroll her Rs!!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-07T00:00:00Z",
-      "activeLiveChatId": "Cg0KC1NOcE15SFhOUzRNKicKGFVDb0FRc2MtRFEwTWpmVHAwNTlvdFFBdxILU05wTXlIWE5TNE0"
+      "actualStartTime": "2024-06-07T00:04:46Z",
+      "actualEndTime": "2024-06-07T00:05:09Z",
+      "scheduledStartTime": "2024-06-07T00:00:00Z"
     }
   },
   "IP4Djpg2jDc": {
@@ -1526,6 +1527,18 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KCzVlazNYZXJZaFNRKicKGFVDb0FRc2MtRFEwTWpmVHAwNTlvdFFBdxILNWVrM1hlclloU1E"
+    }
+  },
+  "k35b50-EP5Y": {
+    "snippet": {
+      "publishedAt": "2024-06-07T00:08:26Z",
+      "channelId": "UCoAQsc-DQ0MjfTp059otQAw",
+      "title": "Rrrrrrunie Rrrrrrruse Learrrrns to Rrrrroll her Rs!!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-07T00:09:22Z",
+      "scheduledStartTime": "2024-06-07T00:10:00Z",
+      "activeLiveChatId": "Cg0KC2szNWI1MC1FUDVZKicKGFVDb0FRc2MtRFEwTWpmVHAwNTlvdFFBdxILazM1YjUwLUVQNVk"
     }
   }
 }
