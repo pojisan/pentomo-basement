@@ -4465,6 +4465,17 @@
       "scheduledStartTime": "2024-05-28T17:30:00Z"
     }
   },
+  "cynth_ai": {
+    "snippet": {
+      "channelId": "cynth_ai",
+      "title": "AFFILIATE DEBUT! | I give you a bitrate fart.",
+      "channelTitle": "cynth_AI"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-07T20:03:47Z",
+      "twitch": true
+    }
+  },
   "d-U2t6BuMNU": {
     "snippet": {
       "publishedAt": "2023-06-12T16:00:17Z",
@@ -4892,6 +4903,7 @@
       "title": "DRUNK older lady chatting with YOU\ud83c\udf77\u3010Bonnie Barkswell / globie\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-07T20:05:22Z",
       "scheduledStartTime": "2024-06-07T20:00:00Z",
       "activeLiveChatId": "Cg0KC2dLNE14Mk4za1RnKicKGFVDcXczcGRQRUtLVk9JN1NGWG9teUtMQRILZ0s0TXgyTjNrVGc"
     }
