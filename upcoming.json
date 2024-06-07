@@ -800,7 +800,7 @@
       "title": "\u3010 RE7 BIOHAZARD #4 \u3011 Todos estamos un poco locos \u219d \u3010 Akugaki Koa | idolES \u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-07T23:00:00Z",
+      "scheduledStartTime": "2024-06-08T00:00:00Z",
       "activeLiveChatId": "Cg0KCzgtai1hem50cE9FKicKGFVDNFI2ZGRoQkpwMmJqUUhWTnhnTlFTQRILOC1qLWF6bnRwT0U"
     }
   },
@@ -1122,7 +1122,7 @@
       "title": "\u3010VERTICAL KARAOKE | \u6b4c\u67a0\u3011STREAM SPARKS! #shorts"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-09T18:00:00Z",
+      "scheduledStartTime": "2024-06-07T23:00:00Z",
       "activeLiveChatId": "Cg0KC0NPeGFzOUNROS1BKicKGFVDaTZxMHo4TjFOTllnV1BzTTFPSzI1URILQ094YXM5Q1E5LUE"
     }
   },
@@ -4310,17 +4310,6 @@
       "activeLiveChatId": "Cg0KC2FwZ1NTQmZPaDlrKicKGFVDSUxRbDVnUkJNdndkLTk3LU01cExZURILYXBnU1NCZk9oOWs"
     }
   },
-  "aresmythos": {
-    "snippet": {
-      "channelId": "aresmythos",
-      "title": "\u2694\ufe0fBECOMING ELDEN LORD | No Magic No Summons | ONE MONTH OF STREAMING YIPPEE\u2694\ufe0f | !gg !merch !socials !pp",
-      "channelTitle": "AresMythos"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-07T17:01:10Z",
-      "twitch": true
-    }
-  },
   "auCkpoNM1yE": {
     "snippet": {
       "publishedAt": "2024-03-24T19:34:20Z",
@@ -4780,6 +4769,7 @@
       "title": "i'm frightened\u3010FACADE\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-07T22:46:33Z",
       "scheduledStartTime": "2024-06-07T22:45:00Z",
       "activeLiveChatId": "Cg0KC2Ytajk5YklGaVdVKicKGFVDaXl6b3JETnc2dEpXR0VWSXRINFNtZxILZi1qOTliSUZpV1U"
     }
@@ -5734,6 +5724,18 @@
       "activeLiveChatId": "Cg0KC25WejdycFFnelZZKicKGFVDZHVyZXV4N0JfVi14aE03dFlJbUFTURILblZ6N3JwUWd6Vlk"
     }
   },
+  "nerWXTFJBuA": {
+    "snippet": {
+      "publishedAt": "2024-06-07T22:08:19Z",
+      "channelId": "UC9NNMwafy9quvNWafFukNDw",
+      "title": "\u265f\ufe0fTHERE'S A CHESS SOULSLIKE???"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-07T22:45:42Z",
+      "scheduledStartTime": "2024-06-07T22:30:00Z",
+      "activeLiveChatId": "Cg0KC25lcldYVEZKQnVBKicKGFVDOU5OTXdhZnk5cXV2TldhZkZ1a05EdxILbmVyV1hURkpCdUE"
+    }
+  },
   "niasuzune": {
     "snippet": {
       "channelId": "niasuzune",
@@ -6437,7 +6439,7 @@
   "tea_the_khajiit": {
     "snippet": {
       "channelId": "tea_the_khajiit",
-      "title": "\u2728DROPS\u2728SGF CO-STREAM! ESO #Sponsored stream after!  \u2601\ufe0f !Merch",
+      "title": "\u2728DROPS\u2728!GIVEAWAY !ESO GOLD ROAD #Sponsored stream  \u2601\ufe0f !Merch",
       "channelTitle": "Tea_The_Khajiit"
     },
     "liveStreamingDetails": {
