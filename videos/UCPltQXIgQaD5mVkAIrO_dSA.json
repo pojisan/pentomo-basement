@@ -273,8 +273,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-07T16:00:09Z",
-      "scheduledStartTime": "2024-06-07T16:00:00Z",
-      "activeLiveChatId": "Cg0KC3JIZ0FtSlk5YjJFKicKGFVDUGx0UVhJZ1FhRDVtVmtBSXJPX2RTQRILckhnQW1KWTliMkU"
+      "actualEndTime": "2024-06-07T18:15:33Z",
+      "scheduledStartTime": "2024-06-07T16:00:00Z"
     }
   },
   "3-iwtuOjE3M": {
@@ -296,7 +296,8 @@
       "title": "\u3010Hagcraft\u3011this hole was made for me\u300e Rina Astera | OshiLinkEN\u300f"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-13T19:00:00Z"
+      "scheduledStartTime": "2024-06-13T19:00:00Z",
+      "activeLiveChatId": "Cg0KC254NFdVVkl2THdjKicKGFVDUGx0UVhJZ1FhRDVtVmtBSXJPX2RTQRILbng0V1VWSXZMd2M"
     }
   },
   "kWzd7yrrdGU": {
