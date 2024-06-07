@@ -2410,6 +2410,7 @@
       "title": "[ZATSU] OH EM GEE HIII!!!  [V&U | GEN 5]"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-07T20:43:35Z",
       "scheduledStartTime": "2024-06-07T21:00:00Z",
       "activeLiveChatId": "Cg0KC0xyNGtlNGdsLTQ0KicKGFVDSDI0YXNpSXFzVlVRbHo4RnZYSmJjdxILTHI0a2U0Z2wtNDQ"
     }
@@ -4732,7 +4733,7 @@
       "title": "i'm frightened\u3010FACADE\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-07T22:45:00Z",
+      "scheduledStartTime": "2024-06-07T22:30:00Z",
       "activeLiveChatId": "Cg0KC2Ytajk5YklGaVdVKicKGFVDaXl6b3JETnc2dEpXR0VWSXRINFNtZxILZi1qOTliSUZpV1U"
     }
   },
@@ -5417,6 +5418,17 @@
       "twitch": true
     }
   },
+  "kyubalt": {
+    "snippet": {
+      "channelId": "kyubalt",
+      "title": "\u3010  summer game fest \u3011 geoff's silly summer barbeque yahoo - !essay + !neocities + !discord",
+      "channelTitle": "kyubalt"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-07T20:44:28Z",
+      "twitch": true
+    }
+  },
   "l3uqelUhGhU": {
     "snippet": {
       "publishedAt": "2024-03-22T18:06:38Z",
@@ -5604,6 +5616,7 @@
       "title": "SUMMER GAME FEST 2024 WITH ROSEMI \ud83c\udf49\ud83c\udfae \u3010Stream on Screen\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-07T20:47:20Z",
       "scheduledStartTime": "2024-06-07T20:45:00Z",
       "activeLiveChatId": "Cg0KC24xamFSQVhIQmhnKicKGFVDNFd2SUlBbzg5X0F6R1VoMUFaNkRrZxILbjFqYVJBWEhCaGc"
     }
