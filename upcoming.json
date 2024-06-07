@@ -126,6 +126,7 @@
       "title": "\u3010SUMMER GAME FEST\u3011 react with @AkugakiKoa  !! OOOOOH!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-07T21:02:10Z",
       "scheduledStartTime": "2024-06-07T21:00:00Z",
       "activeLiveChatId": "Cg0KCy12cGtTRXFad2ZZKicKGFVDLVcteWFWSWpxa1hvaDZkWjZfVGNNQRILLXZwa1NFcVp3Zlk"
     }
@@ -2583,6 +2584,7 @@
       "title": "\u3010BUNNY GARDEN\u3011Anniversary celebrations & drinking with cuties\u3010Pippa Pebblesworth | globie\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-07T21:01:46Z",
       "scheduledStartTime": "2024-06-07T21:00:00Z",
       "activeLiveChatId": "Cg0KC01wenVKb2tWZG9zKicKGFVDM0ZXU2RoX0t0RUxhZWU4dDQwMEpiQRILTXB6dUpva1Zkb3M"
     }
@@ -5096,6 +5098,17 @@
       "activeLiveChatId": "Cg0KC2hpc1drOWRQeHhrKicKGFVDVmpwRlAxX055M1BVb0UyNnI0SVRhdxILaGlzV2s5ZFB4eGs"
     }
   },
+  "hiyorisinn": {
+    "snippet": {
+      "channelId": "hiyorisinn",
+      "title": "HALF-LIFE 1 MODS - USS Darkstar / !streamloots !asmr",
+      "channelTitle": "HiyorisInn"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-07T20:52:13Z",
+      "twitch": true
+    }
+  },
   "hlDFczhR2mo": {
     "snippet": {
       "publishedAt": "2023-09-07T02:29:02Z",
@@ -5651,17 +5664,6 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC25WejdycFFnelZZKicKGFVDZHVyZXV4N0JfVi14aE03dFlJbUFTURILblZ6N3JwUWd6Vlk"
-    }
-  },
-  "ninaninin": {
-    "snippet": {
-      "channelId": "ninaninin",
-      "title": "Late Night Chatting ;D | !schedule  \u2728 VTuber",
-      "channelTitle": "Ninaninin"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-07T17:00:41Z",
-      "twitch": true
     }
   },
   "nnAY-x9AtNk": {
