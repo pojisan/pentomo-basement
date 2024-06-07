@@ -15784,12 +15784,25 @@
     "snippet": {
       "publishedAt": "2024-06-07T11:01:11Z",
       "channelId": "UCiyDpPerqXkicZmnxKB9qZQ",
-      "title": "[PC] Dead Space (2008) #1"
+      "title": "[PC] Dead Space (2008) #1",
+      "private": true
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-07T12:14:40Z",
       "scheduledStartTime": "2024-06-07T12:30:00Z",
       "activeLiveChatId": "Cg0KC05Cay1NVGJWX3gwKicKGFVDaXlEcFBlcnFYa2ljWm1ueEtCOXFaURILTkJrLU1UYlZfeDA"
+    }
+  },
+  "Auz9wFdpauM": {
+    "snippet": {
+      "publishedAt": "2024-06-07T12:54:16Z",
+      "channelId": "UCiyDpPerqXkicZmnxKB9qZQ",
+      "title": "[PC] Dead Space (2008) #1"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-07T12:56:29Z",
+      "scheduledStartTime": "2024-06-07T13:00:00Z",
+      "activeLiveChatId": "Cg0KC0F1ejl3RmRwYXVNKicKGFVDaXlEcFBlcnFYa2ljWm1ueEtCOXFaURILQXV6OXdGZHBhdU0"
     }
   }
 }
