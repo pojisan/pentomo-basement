@@ -1399,6 +1399,7 @@
       "title": "\u3010Arknights\u3011IS THIS THE MOST DIFFICULT EVENT ?!?!?!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-07T09:00:20Z",
       "scheduledStartTime": "2024-06-07T09:00:00Z",
       "activeLiveChatId": "Cg0KC0VDckUycWo5elRJKicKGFVDYXhpRGVfVHVNTFhrd1JNVkxtNVZ3URILRUNyRTJxajl6VEk"
     }
@@ -2066,6 +2067,7 @@
       "title": "OUTER WILDS: going in BLIND!!! \ud83c\udf20"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-07T09:00:17Z",
       "scheduledStartTime": "2024-06-07T09:00:00Z",
       "activeLiveChatId": "Cg0KC0ozRG9sejZRTkJBKicKGFVDa2ItcjcwMnVoeDQtNkxybWV0cC1PdxILSjNEb2x6NlFOQkE"
     }
@@ -2719,18 +2721,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-08T22:00:00Z",
       "activeLiveChatId": "Cg0KC080bjNKZkNmM3owKicKGFVDaUJNSDFkN2V3XzNiaTJBX3paR3NtdxILTzRuM0pmQ2YzejA"
-    }
-  },
-  "OCJYUXn4_TA": {
-    "snippet": {
-      "publishedAt": "2024-06-07T03:56:09Z",
-      "channelId": "UCYadZR9mRignx4RKvPow44g",
-      "title": "Can I ESCAPE From a SERIAL KILLER!? \ud83d\udc97\u3010 DEADLY NIGHT \u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-07T04:20:20Z",
-      "scheduledStartTime": "2024-06-07T04:15:00Z",
-      "activeLiveChatId": "Cg0KC09DSllVWG40X1RBKicKGFVDWWFkWlI5bVJpZ254NFJLdlBvdzQ0ZxILT0NKWVVYbjRfVEE"
     }
   },
   "OEqjyjQkOC0": {
@@ -3500,7 +3490,7 @@
       "title": "\u3010Content Warning\u3011 Denauth Weekly Collab #2!\u3010NIJISANJI EN | Ryoma Barrenwort\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-08T02:00:00Z",
+      "scheduledStartTime": "2024-06-08T03:00:00Z",
       "activeLiveChatId": "Cg0KC1ZtdC1ka0JtTG9jKicKGFVDSXpaRGlpbGNQdjB3aW1fTWJ1aXpGQRILVm10LWRrQm1Mb2M"
     }
   },
