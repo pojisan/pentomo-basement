@@ -2095,18 +2095,6 @@
       "activeLiveChatId": "Cg0KC0tKSml2NkFIQkVZKicKGFVDbGNNVDlWOWl1N3hwaGtIVkhnbEhUZxILS0pKaXY2QUhCRVk"
     }
   },
-  "KJ_vcmVVjE0": {
-    "snippet": {
-      "publishedAt": "2024-06-08T06:04:57Z",
-      "channelId": "UCUI1qpjJSEbgzdlwmpdVmMw",
-      "title": "\u3010Minecraft\u3011I am THE Miner\u250aSurvival Let's Play #2\u3010Twisty Amanozako | NIJISANJI EN\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-08T06:29:23Z",
-      "scheduledStartTime": "2024-06-08T06:30:00Z",
-      "activeLiveChatId": "Cg0KC0tKX3ZjbVZWakUwKicKGFVDVUkxcXBqSlNFYmd6ZGx3bXBkVm1NdxILS0pfdmNtVlZqRTA"
-    }
-  },
   "KRGKnZxDVI8": {
     "snippet": {
       "publishedAt": "2024-04-30T22:52:44Z",
@@ -3516,6 +3504,7 @@
       "title": "\u3010 Content Warning \u3011\u4ffa\u7b49\u306a\u3089\u30d0\u30ba\u308b\u306e\u306a\u3093\u3066\u7c21\u5358\u3060\u3088\u306a\uff1f\uff01\u3010\u5c0f\u6e05\u6c34 \u900f / \u306b\u3058\u3055\u3093\u3058\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-08T11:00:12Z",
       "scheduledStartTime": "2024-06-08T10:00:00Z",
       "activeLiveChatId": "Cg0KC1h0WC1mUVJadzQ0KicKGFVDVVA4VG1sTzdOTnJhODhBTXFHVV92URILWHRYLWZRUlp3NDQ"
     }
@@ -3561,6 +3550,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2026-05-31T06:45:00Z",
       "activeLiveChatId": "Cg0KC1k4OGwyZjNIdGRJKicKGFVDVUkxcXBqSlNFYmd6ZGx3bXBkVm1NdxILWTg4bDJmM0h0ZEk"
+    }
+  },
+  "YBDiM8K-K9I": {
+    "snippet": {
+      "publishedAt": "2024-05-19T15:57:33Z",
+      "channelId": "UCqmSYkXLwsL0zEar5GooYkg",
+      "title": "\u3010Bunny Garden\u3011Astronomical Levels of Rizz\u3010Yume+ | Mimosa Shirosaki\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-09T05:00:00Z",
+      "activeLiveChatId": "Cg0KC1lCRGlNOEstSzlJKicKGFVDcW1TWWtYTHdzTDB6RWFyNUdvb1lrZxILWUJEaU04Sy1LOUk"
     }
   },
   "YGjl72v82ns": {
@@ -3680,18 +3680,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-09T00:00:00Z",
       "activeLiveChatId": "Cg0KC1pObkNkcVdYSE1VKicKGFVDVm1oZzR3Y1RWcGp5Q29LRFk1OW1ZdxILWk5uQ2RxV1hITVU"
-    }
-  },
-  "ZPF7ZS51vko": {
-    "snippet": {
-      "publishedAt": "2024-06-08T01:57:32Z",
-      "channelId": "UCYadZR9mRignx4RKvPow44g",
-      "title": "SHARK HUNTIN TO RELIEVE MY DEBT \ud83d\ude2d\ud83d\udc97\u3010 Animal Crossing New Horizons \u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-08T04:09:57Z",
-      "scheduledStartTime": "2024-06-08T04:00:00Z",
-      "activeLiveChatId": "Cg0KC1pQRjdaUzUxdmtvKicKGFVDWWFkWlI5bVJpZ254NFJLdlBvdzQ0ZxILWlBGN1pTNTF2a28"
     }
   },
   "ZSvrjKOqLRU": {
@@ -4369,6 +4357,17 @@
       "activeLiveChatId": "Cg0KC2VkT2M0eUZEcUxvKicKGFVDb3ZLd2dBOWVIVXV0SVdDVldTX0FHdxILZWRPYzR5RkRxTG8"
     }
   },
+  "enominya_andi": {
+    "snippet": {
+      "channelId": "enominya_andi",
+      "title": "TAKIS ARE BACK! NEW MODEL REVAL! A fox boi got announced, gotta grind!",
+      "channelTitle": "Enominya_Andi"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-08T11:00:04Z",
+      "twitch": true
+    }
+  },
   "evAHV7pZzgw": {
     "snippet": {
       "publishedAt": "2024-06-05T02:38:59Z",
@@ -4527,6 +4526,7 @@
       "title": "Let's explore the new content!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-08T11:02:11Z",
       "scheduledStartTime": "2024-06-08T11:00:00Z",
       "activeLiveChatId": "Cg0KC2Z0Q2pHR0g4UExRKicKGFVDS0tINjRpSFpIMk85TmRsc09RRDJRZxILZnRDakdHSDhQTFE"
     }
@@ -4810,6 +4810,18 @@
       "activeLiveChatId": "Cg0KC2lRVmpoN0Nlc0VRKicKGFVDYl9hbmdmRjhpbzEtMURydks1azVMQRILaVFWamg3Q2VzRVE"
     }
   },
+  "iqJZMWGo4zc": {
+    "snippet": {
+      "publishedAt": "2024-06-07T09:45:55Z",
+      "channelId": "UCRm6lqtdxs_Qo6HeL-SRQ-w",
+      "title": "Pa\u2162.SENSATION\u3000\u6b4c\u3063\u3066\u8e0a\u3063\u3066\u307f\u305f\uff5c#\u306b\u3058\u3055\u3093\u3058\u30c0\u30f3\u30b9\u90e8"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-10T11:00:00Z",
+      "activeLiveChatId": "Cg0KC2lxSlpNV0dvNHpjKicKGFVDUm02bHF0ZHhzX1FvNkhlTC1TUlEtdxILaXFKWk1XR280emM",
+      "premiere": true
+    }
+  },
   "ir9gPU7FbJk": {
     "snippet": {
       "publishedAt": "2024-06-02T07:52:58Z",
@@ -4860,6 +4872,7 @@
       "title": "\u3010#\u30aa\u30bf\u30af\u306e\u5168\u529b\u5bfe\u8ac7 \u3011\u63a8\u3057\u30a2\u30cb\u30e1\u3092\u5e03\u6559\u3055\u305b\u3066\u304f\u3060\u3055\u3044\uff01\uff01\uff01\uff01\uff01\u50d5\u306e\u30d2\u30fc\u30ed\u30fc\u30a2\u30ab\u30c7\u30df\u30a2/\u9b54\u5165\u308a\u307e\u3057\u305f\uff01\u5165\u9593\u304f\u3093\u3010\u604b\u8863\u3081\u3082\u308a/\u82e5\u9b54\u85e4\u3042\u3093\u305a\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-08T11:01:54Z",
       "scheduledStartTime": "2024-06-08T11:00:00Z",
       "activeLiveChatId": "Cg0KC2pfRUNVSnA5LVlNKicKGFVDR1h3djJ6WU94ZVdpTk55UGlMQ0JDURILal9FQ1VKcDktWU0"
     }
@@ -5021,6 +5034,17 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC2xZNExqUEtwTWgwKicKGFVDYkxGdVNyQVFLa3VzcmpUdkNPNWdYURILbFk0TGpQS3BNaDA"
+    }
+  },
+  "liolalightbringer": {
+    "snippet": {
+      "channelId": "liolalightbringer",
+      "title": "Purple Mushroom Exploring New Content!",
+      "channelTitle": "LiolaLightbringer"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-08T11:01:28Z",
+      "twitch": true
     }
   },
   "ljCtucm7vCk": {
