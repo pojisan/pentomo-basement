@@ -877,6 +877,7 @@
       "title": "\u3010 \u96d1\u8ac7 \u3011\u663c\u96d1\u3058\u3083\u306a\u3044\u96d1\u8ac7\u3092\u3084\u308b\u3053\u3068\u3063\u3066\u3042\u308b\u3093\u3067\u3059\u304b\u2026\u2049\u3010\u306b\u3058\u3055\u3093\u3058/\u7345\u5b50\u5802\u3042\u304b\u308a\u3011#shorts"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-08T05:50:18Z",
       "scheduledStartTime": "2024-06-08T05:45:00Z",
       "activeLiveChatId": "Cg0KCzlValdMelBJWjRFKicKGFVDV1JQcUEwZWhoV1Y0SG5wMjdQSkNrURILOVVqV0x6UElaNEU"
     }
@@ -4739,6 +4740,17 @@
       "activeLiveChatId": "Cg0KC2lYUHIzWGZ4dUVBKicKGFVDNFdzTEVfeGRybmQwNUQwNUdvOW9YdxILaVhQcjNYZnh1RUE"
     }
   },
+  "inumaromugi": {
+    "snippet": {
+      "channelId": "inumaromugi",
+      "title": "\u3010Eri\u3011eepydayo ||\u2726 \u207a.",
+      "channelTitle": "InumaroMugi"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-08T05:44:12Z",
+      "twitch": true
+    }
+  },
   "ir9gPU7FbJk": {
     "snippet": {
       "publishedAt": "2024-06-02T07:52:58Z",
@@ -5080,17 +5092,6 @@
       "activeLiveChatId": "Cg0KC21fSlMxY2N2RWs4KicKGFVDX3Q3d3RTY1ZMazg1SWFEOWpZU1JBQRILbV9KUzFjY3ZFazg"
     }
   },
-  "metorial": {
-    "snippet": {
-      "channelId": "metorial",
-      "title": "Horizontal singing here! \u27e1 !discord !cc !lurk !socials",
-      "channelTitle": "Metorial"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-08T02:02:44Z",
-      "twitch": true
-    }
-  },
   "mukyapunch": {
     "snippet": {
       "channelId": "mukyapunch",
@@ -5219,18 +5220,6 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC29HWmlJNEMtd01FKicKGFVDaUEtdHJTWmZCMGk5MlZfLWR5RHFCdxILb0daaUk0Qy13TUU"
-    }
-  },
-  "oGvOHN27e-M": {
-    "snippet": {
-      "publishedAt": "2024-05-31T18:00:33Z",
-      "channelId": "UCILQl5gRBMvwd-97-M5pLYQ",
-      "title": "\u3010LIVE\u3011My First Karaoke Stream will make you fall in love with me"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-08T02:03:25Z",
-      "scheduledStartTime": "2024-06-08T02:00:00Z",
-      "activeLiveChatId": "Cg0KC29Hdk9ITjI3ZS1NKicKGFVDSUxRbDVnUkJNdndkLTk3LU01cExZURILb0d2T0hOMjdlLU0"
     }
   },
   "oQ_NjsjGsaE": {
@@ -6416,18 +6405,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-09T02:00:00Z",
       "activeLiveChatId": "Cg0KC3ptUnF4anNEdGxJKicKGFVDQXhWb0JMRzJCdjF4Z2JZVV9lZnNDZxILem1ScXhqc0R0bEk"
-    }
-  },
-  "zqwEEx1XW-k": {
-    "snippet": {
-      "publishedAt": "2024-06-02T17:44:16Z",
-      "channelId": "UC_zpkqFt7YByWaPi9Bxt7EQ",
-      "title": "I spoiled myself so I know we will meet Zhongli soon\u3010GENSHIN IMPACT\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-08T02:47:33Z",
-      "scheduledStartTime": "2024-06-08T02:00:00Z",
-      "activeLiveChatId": "Cg0KC3pxd0VFeDFYVy1rKicKGFVDX3pwa3FGdDdZQnlXYVBpOUJ4dDdFURILenF3RUV4MVhXLWs"
     }
   }
 }
