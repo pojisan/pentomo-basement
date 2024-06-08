@@ -2811,6 +2811,7 @@
       "title": "\u3010CONTENT WARNING\u3011Content Farm @KlaraCharmwood @RyomaBarrenwort\u3010Twisty Amanozako | NIJISANJI EN\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-08T03:06:53Z",
       "scheduledStartTime": "2024-06-08T03:00:00Z",
       "activeLiveChatId": "Cg0KC1JYZ3QtcVdrMW9vKicKGFVDVUkxcXBqSlNFYmd6ZGx3bXBkVm1NdxILUlhndC1xV2sxb28"
     }
@@ -3263,7 +3264,9 @@
       "title": "\u3010Don't Scream\u3011I Am Strong"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-08T03:00:00Z"
+      "actualStartTime": "2024-06-08T03:09:10Z",
+      "scheduledStartTime": "2024-06-08T03:05:00Z",
+      "activeLiveChatId": "Cg0KC1ZRM0pXVjVXX0dvKicKGFVDbWJzOFQ2TVdxVUhQMXRJUXZTZ0tyZxILVlEzSldWNVdfR28"
     }
   },
   "VZMA8E1Y2-Y": {
@@ -3295,6 +3298,7 @@
       "title": "\u3010Content Warning\u3011 Denauth Weekly Collab #2!\u3010NIJISANJI EN | Ryoma Barrenwort\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-08T03:06:36Z",
       "scheduledStartTime": "2024-06-08T03:00:00Z",
       "activeLiveChatId": "Cg0KC1ZtdC1ka0JtTG9jKicKGFVDSXpaRGlpbGNQdjB3aW1fTWJ1aXpGQRILVm10LWRrQm1Mb2M"
     }
@@ -3821,6 +3825,7 @@
       "title": "\u3010Content Warning\u3011We Make Content!\u3010NIJISANJI EN | Klara Charmwood\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-08T03:06:26Z",
       "scheduledStartTime": "2024-06-08T03:00:00Z",
       "activeLiveChatId": "Cg0KC19BVkRDVVdoU0JJKicKGFVDUVl3SVVDTHFGb2luN2xIS21lUGpKdxILX0FWRENVV2hTQkk"
     }
@@ -5130,6 +5135,17 @@
       "activeLiveChatId": "Cg0KC2x1NVQwQW1PNHpnKicKGFVDZS1fcDZvdW40cDAtZ2RCNEFrZlQxURILbHU1VDBBbU80emc"
     }
   },
+  "luluthebard": {
+    "snippet": {
+      "channelId": "luluthebard",
+      "title": "Making A Mario Level! | Mario 64 Maker Stream!",
+      "channelTitle": "LuLuTheBard"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-08T03:05:33Z",
+      "twitch": true
+    }
+  },
   "lymzkbD9NVI": {
     "snippet": {
       "publishedAt": "2024-05-31T02:09:32Z",
@@ -5551,18 +5567,6 @@
       "activeLiveChatId": "Cg0KC3B5VjhIODAzdmpRKicKGFVDTzR6TWFZQkV6ZFlJU2Zlb082aXBfURILcHlWOEg4MDN2alE"
     }
   },
-  "q0xQ61OGlWI": {
-    "snippet": {
-      "publishedAt": "2024-06-04T22:39:22Z",
-      "channelId": "UC_cxiOVYi9TH3iPvam9f5yA",
-      "title": "[TERRARIA PART 3] FIGHTING FOR MY LIFE - Ciccino Katterina Triple A Club V&U"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-08T01:54:02Z",
-      "scheduledStartTime": "2024-06-08T02:00:00Z",
-      "activeLiveChatId": "Cg0KC3EweFE2MU9HbFdJKicKGFVDX2N4aU9WWWk5VEgzaVB2YW05ZjV5QRILcTB4UTYxT0dsV0k"
-    }
-  },
   "q2Gb5JMp0k8": {
     "snippet": {
       "publishedAt": "2024-01-21T14:20:06Z",
@@ -5720,7 +5724,7 @@
       "title": "\u3010 -`\ud83d\udcac\u96d1\u8ac7/ZATSU \u3011\u65b0\u8863\u88c5\u3092\u3058\u3063\u304f\u308a\u898b\u306a\u304c\u3089\u30b9\u30d1\u30c1\u30e3\u3082\u8aad\u3082\u3046\u264c\u3010\u7345\u5b50\u795e\u30ec\u30aa\u30ca/Re:AcT\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-08T12:45:00Z",
+      "scheduledStartTime": "2024-06-08T12:30:00Z",
       "activeLiveChatId": "Cg0KC3FwYVRBU29adnljKicKGFVDQjFzX0lkTy1yMG5Va1kybVhldGktQRILcXBhVEFTb1p2eWM"
     }
   },
@@ -5862,6 +5866,7 @@
       "title": "Learning to TYPE PROPERLY on a KEYBOARD | Dance Mat Typing - Kenbishi Saya \u5263\u83f1\u54b2\u591c"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-08T03:03:42Z",
       "scheduledStartTime": "2024-06-08T03:00:00Z",
       "activeLiveChatId": "Cg0KC3NCN1FQMTluQmJJKicKGFVDdzBvMmtTdXItaXFtODJHTUtVbVZoURILc0I3UVAxOW5CYkk"
     }

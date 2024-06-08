@@ -4585,7 +4585,9 @@
       "title": "\u3010Don't Scream\u3011I Am Strong"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-08T03:00:00Z"
+      "actualStartTime": "2024-06-08T03:09:10Z",
+      "scheduledStartTime": "2024-06-08T03:05:00Z",
+      "activeLiveChatId": "Cg0KC1ZRM0pXVjVXX0dvKicKGFVDbWJzOFQ2TVdxVUhQMXRJUXZTZ0tyZxILVlEzSldWNVdfR28"
     }
   }
 }
