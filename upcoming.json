@@ -571,7 +571,7 @@
     "snippet": {
       "publishedAt": "2024-06-08T11:48:46Z",
       "channelId": "UCqjTqdVlvIipZXIKeCkHKUA",
-      "title": "\u30108\u756a\u306e\u308a\u3070\u3011\u99c5\u304b\u3089\u51fa\u3089\u305f\u304b\u3089\u306e\u308a\u3070\u304b\u3089\u3082\u51fa\u3089\u308c\u308b\u3067\u3057\u3087\u6559\u6388\u3010\u30aa\u30ea\u30d0\u30fc\u30fb\u30a8\u30d0\u30f3\u30b9/\u306b\u3058\u3055\u3093\u3058\u3011"
+      "title": "\u30108\u756a\u306e\u308a\u3070\u3011\u99c5\u304b\u3089\u51fa\u3089\u308c\u305f\u304b\u3089\u306e\u308a\u3070\u304b\u3089\u3082\u51fa\u3089\u308c\u308b\u3067\u3057\u3087\u6559\u6388\u3010\u30aa\u30ea\u30d0\u30fc\u30fb\u30a8\u30d0\u30f3\u30b9/\u306b\u3058\u3055\u3093\u3058\u3011"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-08T13:00:00Z",
@@ -1871,6 +1871,7 @@
       "title": "\u3010Membership Stream\u3011Come Join The Partea!\u3010NIJISANJI EN | Denauth\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-08T12:00:36Z",
       "scheduledStartTime": "2024-06-08T12:00:00Z",
       "activeLiveChatId": "Cg0KC0l1VGNIUnZHcEtVKicKGFVDUVl3SVVDTHFGb2luN2xIS21lUGpKdxILSXVUY0hSdkdwS1U"
     }
@@ -2692,7 +2693,7 @@
     "snippet": {
       "publishedAt": "2024-05-24T13:06:32Z",
       "channelId": "UCRkdFGXwBtxvm9SsfmNmMZA",
-      "title": "500 Members Kisses\ud83d\udc7c"
+      "title": "500 Members Kisses\ud83d\udc7cWILL BE ARCHIVED ONLY FOR MEMBERSHIPS AFTER THE STREAM"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-08T14:00:00Z",
@@ -3264,18 +3265,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-15T14:00:00Z",
       "activeLiveChatId": "Cg0KC1cyUVgyWEFOSko0KicKGFVDb3ZLd2dBOWVIVXV0SVdDVldTX0FHdxILVzJRWDJYQU5KSjQ"
-    }
-  },
-  "W40WEZQAgpI": {
-    "snippet": {
-      "publishedAt": "2024-06-08T09:31:47Z",
-      "channelId": "UCwaS8_S7kMiKA3izlTWHbQg",
-      "title": "lemme try something - Hatsune Miku: Project DIVA Mega Mix+\u3010NIJISANJI  EN | Maria Marionette\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-08T09:48:16Z",
-      "scheduledStartTime": "2024-06-08T10:00:00Z",
-      "activeLiveChatId": "Cg0KC1c0MFdFWlFBZ3BJKicKGFVDd2FTOF9TN2tNaUtBM2l6bFRXSGJRZxILVzQwV0VaUUFncEk"
     }
   },
   "W47zc1vhuN4": {
@@ -6275,6 +6264,7 @@
       "title": "\u3010Overwatch 2\u3011Mahiru House Custom Day #2 (Japanese) \u3010Yuuki Ame\u30fbbondlive EN\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-08T11:53:20Z",
       "scheduledStartTime": "2024-06-08T13:00:00Z",
       "activeLiveChatId": "Cg0KC3gzMEQ2Qk9pUUp3KicKGFVDSFZZZDJGdGVrNUhpZWdSanQyWDkyZxILeDMwRDZCT2lRSnc"
     }
