@@ -439,6 +439,17 @@
       "activeLiveChatId": "Cg0KCzNiSDQ1U3d6eWt3KicKGFVDRVk5Q25TSDBuMFFLbVkyUS1PSDdadxILM2JINDVTd3p5a3c"
     }
   },
+  "3jcZ1MVb3Ow": {
+    "snippet": {
+      "publishedAt": "2024-06-08T18:30:46Z",
+      "channelId": "UCR6qhsLpn62WVxCBK1dkLow",
+      "title": "\u2728\ud83c\udf1fSTARLIGHT LUMINANCE\ud83c\udf1f\u2728 After Party Talk \u3010NIJISANJI  EN | Enna Alouette\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-09T14:00:00Z",
+      "activeLiveChatId": "Cg0KCzNqY1oxTVZiM093KicKGFVDUjZxaHNMcG42MldWeENCSzFka0xvdxILM2pjWjFNVmIzT3c"
+    }
+  },
   "3jjnqZPOmDo": {
     "snippet": {
       "publishedAt": "2023-07-07T00:59:17Z",
@@ -2388,6 +2399,7 @@
       "title": "\u3010BOKURA\u3011 Two halves of a whole dummy w/@AmoraLumina  \u3010EIEN Project\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-08T18:30:50Z",
       "scheduledStartTime": "2024-06-08T18:30:00Z",
       "activeLiveChatId": "Cg0KC05BbjNjcWhkRlVNKicKGFVDel84enRROXJjdV9VcFVwMGh2N2JZdxILTkFuM2NxaGRGVU0"
     }
@@ -2767,18 +2779,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-08T22:00:00Z",
       "activeLiveChatId": "Cg0KC1JmNXN1aUpkZG1zKicKGFVDNFI2ZGRoQkpwMmJqUUhWTnhnTlFTQRILUmY1c3VpSmRkbXM"
-    }
-  },
-  "RlBH4_CnnF8": {
-    "snippet": {
-      "publishedAt": "2024-06-06T12:50:59Z",
-      "channelId": "UCBnmfjpmhGxao6v54fIIMUA",
-      "title": "clickbait^ REAL: doing some shenanigans with my 3d model"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-08T16:37:04Z",
-      "scheduledStartTime": "2024-06-08T16:00:00Z",
-      "activeLiveChatId": "Cg0KC1JsQkg0X0NubkY4KicKGFVDQm5tZmpwbWhHeGFvNnY1NGZJSU1VQRILUmxCSDRfQ25uRjg"
     }
   },
   "RmFARtovC-g": {
@@ -4565,6 +4565,17 @@
       "activeLiveChatId": "Cg0KC2hZWl9sZ3R1YWVrKicKGFVDcjhOWjlqT3JyVmNJUm5hSFpDakpVZxILaFlaX2xndHVhZWs"
     }
   },
+  "haruna": {
+    "snippet": {
+      "channelId": "haruna",
+      "title": "PEX",
+      "channelTitle": "haruna"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-08T18:29:48Z",
+      "twitch": true
+    }
+  },
   "hisWk9dPxxk": {
     "snippet": {
       "publishedAt": "2024-05-11T01:49:10Z",
@@ -5326,6 +5337,7 @@
       "title": "\u3010BOKURA\u3011 A Princess and A Fox attempt to Solve Puzzles"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-08T18:30:50Z",
       "scheduledStartTime": "2024-06-08T18:30:00Z",
       "activeLiveChatId": "Cg0KC29qU1FTeF9tbm44KicKGFVDMEpGdDVKamw1YV9fek9hWkxxazdQZxILb2pTUVN4X21ubjg"
     }
@@ -5487,7 +5499,7 @@
       "title": "\u3010RING FIT ADVENTURE\u3011 Maid Exercises......I lost a bet...\u3010Dr.NOVA(e) | V4Mirai | ENVtuber\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-08T19:45:00Z",
+      "scheduledStartTime": "2024-06-08T20:00:00Z",
       "activeLiveChatId": "Cg0KC3E4Q29BT3VDMW0wKicKGFVDMk5lNmREY0Z4bk0yaENCTGlpM0lVZxILcThDb0FPdUMxbTA"
     }
   },
