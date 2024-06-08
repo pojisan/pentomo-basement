@@ -2320,18 +2320,6 @@
       "activeLiveChatId": "Cg0KC0xUc3RNZjFnUk9NKicKGFVDNjRETUFZWG80bndURmZ2TlF6a1N3URILTFRzdE1mMWdST00"
     }
   },
-  "Lb9dYc1xuOo": {
-    "snippet": {
-      "publishedAt": "2024-06-04T13:27:05Z",
-      "channelId": "UCHxUvAIXHfDzpTW02v7Qarg",
-      "title": "Summer is here\ud83c\udf49 Detective Kohaku\u2019s Zatsu Consultation \u540d\u63a2\u5075\u304b\u3089\u306e\u96d1\u8ac7"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-07T22:00:08Z",
-      "scheduledStartTime": "2024-06-07T22:00:00Z",
-      "activeLiveChatId": "Cg0KC0xiOWRZYzF4dU9vKicKGFVDSHhVdkFJWEhmRHpwVFcwMnY3UWFyZxILTGI5ZFljMXh1T28"
-    }
-  },
   "LgyVH5n6yz0": {
     "snippet": {
       "publishedAt": "2024-05-04T05:32:11Z",
@@ -4760,17 +4748,6 @@
       "activeLiveChatId": "Cg0KC2ZrRGRDcW1mZl9nKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILZmtEZENxbWZmX2c"
     }
   },
-  "gBoinvvLdUY": {
-    "snippet": {
-      "publishedAt": "2024-06-07T23:46:26Z",
-      "channelId": "UCILQl5gRBMvwd-97-M5pLYQ",
-      "title": "\u3010LIVE\u3011First Singing Stream! (testing out vertical???)"
-    },
-    "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-08T02:00:00Z",
-      "activeLiveChatId": "Cg0KC2dCb2ludnZMZFVZKicKGFVDSUxRbDVnUkJNdndkLTk3LU01cExZURILZ0JvaW52dkxkVVk"
-    }
-  },
   "gK31rX-EsIw": {
     "snippet": {
       "publishedAt": "2024-04-15T16:41:48Z",
@@ -5033,6 +5010,17 @@
       "activeLiveChatId": "Cg0KC2hweDFlTHE5aExFKicKGFVDblloSWs5YUdFeF9iSWdoZVZqczUzdxILaHB4MWVMcTloTEU"
     }
   },
+  "hunikinn": {
+    "snippet": {
+      "channelId": "hunikinn",
+      "title": "AAAAAAAAAAAAAAAA I DONT WANT TO BE SICK ANYMORE |  !merch !discord !twitter",
+      "channelTitle": "Hunikinn"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-08T00:16:26Z",
+      "twitch": true
+    }
+  },
   "hvbd782pD4w": {
     "snippet": {
       "publishedAt": "2024-05-07T14:54:05Z",
@@ -5136,6 +5124,7 @@
       "title": "KARAOKE! Anime Girl Sings For You! Requests Open! [Singing Stream/\u6b4c\u67a0]"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-08T00:12:50Z",
       "scheduledStartTime": "2024-06-08T00:00:00Z",
       "activeLiveChatId": "Cg0KC2lvdjZMYVNCQm1nKicKGFVDdTFJTnplZnczUjdNOS0zUUVIWW1NURILaW92NkxhU0JCbWc"
     }
