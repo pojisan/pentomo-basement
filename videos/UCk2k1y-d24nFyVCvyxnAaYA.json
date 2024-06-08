@@ -3205,12 +3205,24 @@
     "snippet": {
       "publishedAt": "2024-06-08T17:03:40Z",
       "channelId": "UCk2k1y-d24nFyVCvyxnAaYA",
-      "title": "\ud83c\udf89 50K CELEBRATION \ud83c\udf8a"
+      "title": "\ud83c\udf89 50K CELEBRATION \ud83c\udf8a",
+      "private": true
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-08T20:30:12Z",
       "scheduledStartTime": "2024-06-08T23:00:00Z",
       "activeLiveChatId": "Cg0KC2NvLTdyaE5TdTV3KicKGFVDazJrMXktZDI0bkZ5VkN2eXhuQWFZQRILY28tN3JoTlN1NXc"
+    }
+  },
+  "K_Bgrf2cCcE": {
+    "snippet": {
+      "publishedAt": "2024-06-08T20:32:11Z",
+      "channelId": "UCk2k1y-d24nFyVCvyxnAaYA",
+      "title": "\ud83c\udf89 50K CELEBRATION \ud83c\udf8a"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-08T23:00:00Z",
+      "activeLiveChatId": "Cg0KC0tfQmdyZjJjQ2NFKicKGFVDazJrMXktZDI0bkZ5VkN2eXhuQWFZQRILS19CZ3JmMmNDY0U"
     }
   }
 }
