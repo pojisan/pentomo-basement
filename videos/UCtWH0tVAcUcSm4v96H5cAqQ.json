@@ -1910,8 +1910,18 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-08T09:04:43Z",
       "actualEndTime": "2024-06-08T11:32:32Z",
-      "scheduledStartTime": "2024-06-08T09:00:00Z",
-      "activeLiveChatId": "Cg0KCzk3OHVURm5leS1FKicKGFVDdFdIMHRWQWNVY1NtNHY5Nkg1Y0FxURILOTc4dVRGbmV5LUU"
+      "scheduledStartTime": "2024-06-08T09:00:00Z"
+    }
+  },
+  "2ywE1E_L6PQ": {
+    "snippet": {
+      "publishedAt": "2024-06-08T17:00:36Z",
+      "channelId": "UCtWH0tVAcUcSm4v96H5cAqQ",
+      "title": "\u3010KARAOKE\u3011Rock\u306e\u65e5!!RADWIMPS\u3055\u3093\u306e\u66f2\u3092\u6b4c\u3046\u304b\u3082!!\u3010\u5009\u5922\u3074\u3053 / Phase Connect\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-09T11:00:00Z",
+      "activeLiveChatId": "Cg0KCzJ5d0UxRV9MNlBRKicKGFVDdFdIMHRWQWNVY1NtNHY5Nkg1Y0FxURILMnl3RTFFX0w2UFE"
     }
   }
 }
