@@ -427,8 +427,20 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-08T02:13:53Z",
-      "scheduledStartTime": "2024-06-08T02:13:29Z",
-      "activeLiveChatId": "Cg0KC2dIbk5CRFliVTVrKicKGFVDbWwtcjVhVHM0SkdlRWVYVUZuWjdlURILZ0huTkJEWWJVNWs"
+      "actualEndTime": "2024-06-08T02:34:29Z",
+      "scheduledStartTime": "2024-06-08T02:13:29Z"
+    }
+  },
+  "wcGSPmPirAk": {
+    "snippet": {
+      "publishedAt": "2024-06-08T02:32:29Z",
+      "channelId": "UCml-r5aTs4JGeEeXUFnZ7eQ",
+      "title": "\u3010COMMUNITY GAME NIGHT\u3011Jackbox with the Melodites! #NEXAS"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-08T02:34:50Z",
+      "scheduledStartTime": "2024-06-08T02:34:41Z",
+      "activeLiveChatId": "Cg0KC3djR1NQbVBpckFrKicKGFVDbWwtcjVhVHM0SkdlRWVYVUZuWjdlURILd2NHU1BtUGlyQWs"
     }
   }
 }
