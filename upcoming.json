@@ -365,18 +365,6 @@
       "activeLiveChatId": "Cg0KCzJXOXVoWi1iZVRNKicKGFVDeGJORVc3eHlrVEM3aEU1Rllnd3JPdxILMlc5dWhaLWJlVE0"
     }
   },
-  "2c3TPnkfBus": {
-    "snippet": {
-      "publishedAt": "2024-06-08T11:24:13Z",
-      "channelId": "UC727SQYUvx5pDDGQpTICNWg",
-      "title": "\u3010Platform 8 | \uff18\u756a\u306e\u308a\u3070\u3011NEW Game From The Exit 8 Devs! 8\u756a\u51fa\u53e3\u65b0\u4f5c\u521d\u898b\u30d7\u30ec\u30a4\u3010hololive ID 2nd Gen | Anya Melfissa\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-08T13:02:01Z",
-      "scheduledStartTime": "2024-06-08T13:00:00Z",
-      "activeLiveChatId": "Cg0KCzJjM1RQbmtmQnVzKicKGFVDNzI3U1FZVXZ4NXBEREdRcFRJQ05XZxILMmMzVFBua2ZCdXM"
-    }
-  },
   "2zaAv0ug9II": {
     "snippet": {
       "publishedAt": "2023-12-15T13:25:49Z",
@@ -985,7 +973,8 @@
       "title": "\u300eBirthday Stream\u300fWe're doing something!\u301aBaal Arland | OshiLinkEN\u301b"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-08T15:00:00Z"
+      "scheduledStartTime": "2024-06-08T15:00:00Z",
+      "activeLiveChatId": "Cg0KC0FySkhZQXNZZm9vKicKGFVDcnA5TU9LdVl6V0ZBMFg3d0xMaEhrQRILQXJKSFlBc1lmb28"
     }
   },
   "Atr1bMzi0iA": {
@@ -5186,6 +5175,17 @@
       "activeLiveChatId": "Cg0KC25WejdycFFnelZZKicKGFVDZHVyZXV4N0JfVi14aE03dFlJbUFTURILblZ6N3JwUWd6Vlk"
     }
   },
+  "ninete_en": {
+    "snippet": {
+      "channelId": "ninete_en",
+      "title": "Day:44:\u9854\u3088\u308a\u80cc\u4e2d\u3067\u8a9e\u308bOW\u3002",
+      "channelTitle": "\u30ca\u30a4\u30f3\u30c6\u30a3\u30fc\u30f3"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-08T14:48:31Z",
+      "twitch": true
+    }
+  },
   "nnAY-x9AtNk": {
     "snippet": {
       "publishedAt": "2022-07-13T01:04:14Z",
@@ -5634,6 +5634,7 @@
       "title": "\u3010SONG RELEASE\u3011GETCHA! WAITING ROOM - ZATSU"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-08T14:50:35Z",
       "scheduledStartTime": "2024-06-08T15:00:00Z",
       "activeLiveChatId": "Cg0KC3JIMWtjX1R1cDRJKicKGFVDSzZvQ01pYjYyZVlBSVBybHJZUlZydxILckgxa2NfVHVwNEk"
     }
