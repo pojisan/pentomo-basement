@@ -1691,18 +1691,6 @@
       "activeLiveChatId": "Cg0KC0hMYUlfM0IwWjRvKicKGFVDQXhWb0JMRzJCdjF4Z2JZVV9lZnNDZxILSExhSV8zQjBaNG8"
     }
   },
-  "HXFDSvHDHMw": {
-    "snippet": {
-      "publishedAt": "2024-06-06T15:43:55Z",
-      "channelId": "UC9qMBWQdfgvIKqPpDUmvNUA",
-      "title": "[ Return Stream ] I am a horse!"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-08T06:01:06Z",
-      "scheduledStartTime": "2024-06-08T06:00:00Z",
-      "activeLiveChatId": "Cg0KC0hYRkRTdkhESE13KicKGFVDOXFNQldRZGZndklLcVBwRFVtdk5VQRILSFhGRFN2SERITXc"
-    }
-  },
   "HXYNBzRc5y4": {
     "snippet": {
       "publishedAt": "2024-03-15T23:34:42Z",
@@ -1842,6 +1830,7 @@
       "title": "\u3010MINECRAFT\u3011MORE FRIENDS? ehehe\u3010ArashiNebula_HOSHIZORA\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-08T08:00:24Z",
       "scheduledStartTime": "2024-06-08T08:00:00Z",
       "activeLiveChatId": "Cg0KC0l5ck8yS0Q5bHhjKicKGFVDbjdJYlZCdGtvVWFaRUxxdHJiOXFOURILSXlyTzJLRDlseGM"
     }
@@ -2319,6 +2308,17 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC01aVzFBbS0yS0M0KicKGFVDbzdUUmozY1MtZl8xRDlaRG11VHNqdxILTVpXMUFtLTJLQzQ"
+    }
+  },
+  "MaCuNXbUv8s": {
+    "snippet": {
+      "publishedAt": "2024-06-08T07:59:28Z",
+      "channelId": "UCuuAb_72QzK0M1USPMEl1yw",
+      "title": "\u3010It Steals\u3011steal THIS\u3010NIJISANJI EN | Sonny Brisko\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-08T10:00:00Z",
+      "activeLiveChatId": "Cg0KC01hQ3VOWGJVdjhzKicKGFVDdXVBYl83MlF6SzBNMVVTUE1FbDF5dxILTWFDdU5YYlV2OHM"
     }
   },
   "MbaasAbAgj4": {
@@ -3107,6 +3107,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-08T22:30:00Z",
       "activeLiveChatId": "Cg0KC1Y1R25FZ3JpMThNKicKGFVDcDRHODNSTUJETjBFZ1pGU1VESzd6dxILVjVHbkVncmkxOE0"
+    }
+  },
+  "V9dyUoFmfcI": {
+    "snippet": {
+      "publishedAt": "2024-06-08T08:00:19Z",
+      "channelId": "UCH24asiIqsVUQlz8FvXJbcw",
+      "title": "[ART] DOODLE TIME!!  [V&U | GEN 5]"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-08T20:00:00Z",
+      "activeLiveChatId": "Cg0KC1Y5ZHlVb0ZtZmNJKicKGFVDSDI0YXNpSXFzVlVRbHo4RnZYSmJjdxILVjlkeVVvRm1mY0k"
     }
   },
   "VDJZSsFDl6s": {
@@ -5048,17 +5059,6 @@
       "twitch": true
     }
   },
-  "mukyapunch": {
-    "snippet": {
-      "channelId": "mukyapunch",
-      "title": "How about some WuWa for your delight? But first, we'll talk food \ud83d\udc1a\u2615 | !discord | !stinky | !cup",
-      "channelTitle": "MukyaPunch"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-08T04:07:34Z",
-      "twitch": true
-    }
-  },
   "n0GLPUy0pQw": {
     "snippet": {
       "publishedAt": "2024-06-03T12:45:36Z",
@@ -6271,6 +6271,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-08T20:00:00Z",
       "activeLiveChatId": "Cg0KC3lsWmplM0R5WllRKicKGFVDOXhSN3VOMHg1YTZDSDNVb3BxN2N6QRILeWxaamUzRHlaWVE"
+    }
+  },
+  "ypfUDuDSwig": {
+    "snippet": {
+      "publishedAt": "2024-06-08T07:56:53Z",
+      "channelId": "UCu-rV2gPtJ-CsGxe71z_BrQ",
+      "title": "\u3010content warning\u3011Youtuber\u3060\u304b\u3089\u30db\u30e9\u30fc\u52d5\u753b\u3067\u30d0\u30ba\u308a\u624b\u306b\u306a\u3063\u3066\u307f\u305f\uff57\uff57\uff57\u3010\u306b\u3058\u3055\u3093\u3058\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-08T10:00:00Z",
+      "activeLiveChatId": "Cg0KC3lwZlVEdURTd2lnKicKGFVDdS1yVjJnUHRKLUNzR3hlNzF6X0JyURILeXBmVUR1RFN3aWc"
     }
   },
   "zAvbEG27qEU": {
