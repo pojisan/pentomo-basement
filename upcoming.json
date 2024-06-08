@@ -232,6 +232,7 @@
       "title": "the booty game isn't allowed to make me cry"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-08T19:17:48Z",
       "scheduledStartTime": "2024-06-08T19:00:00Z",
       "activeLiveChatId": "Cg0KCzExQ2lVNzkzeFJvKicKGFVDWklGcGgxYll5R3htRmtrTk5MQUtkQRILMTFDaVU3OTN4Um8"
     }
@@ -1579,6 +1580,7 @@
       "title": "!UNARCHIVED KARAOKE! Eurobeat 20k SPECIAL! \ud83c\udf06\ud83c\udfce\u3010Bonnie Barkswell / globie\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-08T19:11:39Z",
       "scheduledStartTime": "2024-06-08T19:00:00Z",
       "activeLiveChatId": "Cg0KC0dvalQ3WXcxd2NNKicKGFVDcXczcGRQRUtLVk9JN1NGWG9teUtMQRILR29qVDdZdzF3Y00"
     }
@@ -3305,6 +3307,17 @@
       "activeLiveChatId": "Cg0KC1d6cEpxNWdwVEpvKicKGFVDel84enRROXJjdV9VcFVwMGh2N2JZdxILV3pwSnE1Z3BUSm8"
     }
   },
+  "X-WE5SppUH4": {
+    "snippet": {
+      "publishedAt": "2024-06-08T19:16:55Z",
+      "channelId": "UCa7fhTz-VSEIaGt8j6jab6A",
+      "title": "\u3010GEOGUESSR\u3011BUNNY VTUBER WILL FIND YOUR HOUSE."
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-08T22:00:00Z",
+      "activeLiveChatId": "Cg0KC1gtV0U1U3BwVUg0KicKGFVDYTdmaFR6LVZTRUlhR3Q4ajZqYWI2QRILWC1XRTVTcHBVSDQ"
+    }
+  },
   "X0hJtnmBS3M": {
     "snippet": {
       "publishedAt": "2024-03-04T23:33:01Z",
@@ -4476,6 +4489,7 @@
       "title": "I dont know how to make Netherite anymore???"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-08T19:15:43Z",
       "scheduledStartTime": "2024-06-08T19:00:00Z",
       "activeLiveChatId": "Cg0KC2hJRWszSi1iTThRKicKGFVDYjhkTHZEdm1aLWQ5MktFeV85b1dvZxILaElFazNKLWJNOFE"
     }
@@ -6180,17 +6194,6 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC3hoejNaZUhYaVI4KicKGFVDZWpiaWNvUm5RakNPZEFQQXY1SlB3ZxILeGh6M1plSFhpUjg"
-    }
-  },
-  "xiulanlong": {
-    "snippet": {
-      "channelId": "xiulanlong",
-      "title": "[VTUBER] This looks funny so lets play it!! (\u25cd\u2022\u1d17\u2022\u25cd) !cover !discord !merch",
-      "channelTitle": "XiulanLong"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-08T16:49:48Z",
-      "twitch": true
     }
   },
   "xvk04wgMLaA": {
