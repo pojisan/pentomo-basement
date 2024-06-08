@@ -408,8 +408,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-08T00:57:57Z",
-      "scheduledStartTime": "2024-06-08T00:57:35Z",
-      "activeLiveChatId": "Cg0KC0lsZG9mZ0czdW1vKicKGFVDbWwtcjVhVHM0SkdlRWVYVUZuWjdlURILSWxkb2ZnRzN1bW8"
+      "actualEndTime": "2024-06-08T02:13:34Z",
+      "scheduledStartTime": "2024-06-08T00:57:35Z"
     }
   },
   "ezvs3jcHv0U": {
@@ -417,6 +417,18 @@
       "publishedAt": "2024-06-07T23:31:23Z",
       "channelId": "UCml-r5aTs4JGeEeXUFnZ7eQ",
       "title": "MPREG? What's that? #vtuber #vtuberclips"
+    }
+  },
+  "gHnNBDYbU5k": {
+    "snippet": {
+      "publishedAt": "2024-06-08T02:13:29Z",
+      "channelId": "UCml-r5aTs4JGeEeXUFnZ7eQ",
+      "title": "\u3010COMMUNITY GAME NIGHT\u3011Jackbox with the Melodites! #NEXAS"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-08T02:13:53Z",
+      "scheduledStartTime": "2024-06-08T02:13:29Z",
+      "activeLiveChatId": "Cg0KC2dIbk5CRFliVTVrKicKGFVDbWwtcjVhVHM0SkdlRWVYVUZuWjdlURILZ0huTkJEWWJVNWs"
     }
   }
 }
