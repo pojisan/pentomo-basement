@@ -6297,8 +6297,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-08T03:45:33Z",
-      "scheduledStartTime": "2024-06-08T03:45:00Z",
-      "activeLiveChatId": "Cg0KCzI5dEQydlY3UTNJKicKGFVDcHp4Wlc1a2doR25PNVRtQUZKUUFWdxILMjl0RDJ2VjdRM0k"
+      "actualEndTime": "2024-06-08T11:14:20Z",
+      "scheduledStartTime": "2024-06-08T03:45:00Z"
     }
   },
   "S7Ie0TU5n6k": {
@@ -6306,6 +6306,17 @@
       "publishedAt": "2024-06-07T22:09:15Z",
       "channelId": "UCpzxZW5kghGnO5TmAFJQAVw",
       "title": "1v1 ended with the PERFECT TIMING! #leagueoflegends #vtuber"
+    }
+  },
+  "tqMOBjxG_Co": {
+    "snippet": {
+      "publishedAt": "2024-06-08T11:19:07Z",
+      "channelId": "UCpzxZW5kghGnO5TmAFJQAVw",
+      "title": "LEAGUE OF LEGENDS CHALLENGER GRIND PART 6"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-09T02:00:00Z",
+      "activeLiveChatId": "Cg0KC3RxTU9CanhHX0NvKicKGFVDcHp4Wlc1a2doR25PNVRtQUZKUUFWdxILdHFNT0JqeEdfQ28"
     }
   }
 }
