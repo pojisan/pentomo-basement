@@ -876,6 +876,7 @@
       "title": "\u3010\u5730\u5b66\u5e03\u6559\u96d1\u8ac7\uff1a\uff11\uff15\u3011\u7fa4\u99ac\u306e\u5730\u5b66\uff01\uff01\uff78\uff9e\uff9d\uff8f\uff70\u3010\u5009\u5922\u3074\u3053 / Phase Connect\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-08T09:04:43Z",
       "scheduledStartTime": "2024-06-08T09:00:00Z",
       "activeLiveChatId": "Cg0KCzk3OHVURm5leS1FKicKGFVDdFdIMHRWQWNVY1NtNHY5Nkg1Y0FxURILOTc4dVRGbmV5LUU"
     }
@@ -1069,6 +1070,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-10-13T19:00:00Z",
       "activeLiveChatId": "Cg0KC0M0MVJubWFSOGZNKicKGFVDSW8zM2IwaGYyX21kcXRBWnZLbGF5URILQzQxUm5tYVI4Zk0"
+    }
+  },
+  "CJokdJHlEe4": {
+    "snippet": {
+      "publishedAt": "2024-06-08T09:03:23Z",
+      "channelId": "UCml-r5aTs4JGeEeXUFnZ7eQ",
+      "title": "\u3010NEXAS Collab\u3011Risky Business for a Reasonable Wage (Lethal Company)"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-08T20:00:00Z",
+      "activeLiveChatId": "Cg0KC0NKb2tkSkhsRWU0KicKGFVDbWwtcjVhVHM0SkdlRWVYVUZuWjdlURILQ0pva2RKSGxFZTQ"
     }
   },
   "CNvl9xtv140": {
@@ -5059,14 +5071,14 @@
       "activeLiveChatId": "Cg0KC21fSlMxY2N2RWs4KicKGFVDX3Q3d3RTY1ZMazg1SWFEOWpZU1JBQRILbV9KUzFjY3ZFazg"
     }
   },
-  "miyuyus": {
+  "makofukasame": {
     "snippet": {
-      "channelId": "miyuyus",
-      "title": "PET SIM 99 \u2665 !donate !goals",
-      "channelTitle": "miyuyus"
+      "channelId": "makofukasame",
+      "title": "streamin makes me feel good (yaps and games!) [vtuber] !vershion !gamersupps",
+      "channelTitle": "MakoFukasame"
     },
     "liveStreamingDetails": {
-      "actualStartTime": "2024-06-08T07:48:42Z",
+      "actualStartTime": "2024-06-08T09:10:34Z",
       "twitch": true
     }
   },
