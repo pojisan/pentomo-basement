@@ -120,18 +120,6 @@
       "activeLiveChatId": "Cg0KCy1sY0lLN0VKTnAwKicKGFVDSHVWZ25PR3RETjlIMnA0VnJsRDYyQRILLWxjSUs3RUpOcDA"
     }
   },
-  "0566e_8TjBQ": {
-    "snippet": {
-      "publishedAt": "2024-06-05T11:46:14Z",
-      "channelId": "UCHt4F3--Hq0sNXP6DEdlSmg",
-      "title": "BEFORE Debut of Specialite GEN 1 | 6 Months Talkshow  \u3010MIKI HITSUGI | SPECIALITE\u3011#mik1tv"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-07T23:01:34Z",
-      "scheduledStartTime": "2024-06-07T23:00:00Z",
-      "activeLiveChatId": "Cg0KCzA1NjZlXzhUakJRKicKGFVDSHQ0RjMtLUhxMHNOWFA2REVkbFNtZxILMDU2NmVfOFRqQlE"
-    }
-  },
   "08lj6Tgb1g4": {
     "snippet": {
       "publishedAt": "2024-04-14T18:03:23Z",
@@ -489,7 +477,7 @@
       "title": "MEMBERSHIP OPENING PARTY"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-08T02:00:00Z",
+      "scheduledStartTime": "2024-06-15T23:00:00Z",
       "activeLiveChatId": "Cg0KCzN5MlloTno1bTdJKicKGFVDQmdoVUtBX0wwbmEwU2VRNnNuek1NURILM3kyWWhOejVtN0k"
     }
   },
@@ -1163,7 +1151,7 @@
       "title": "\u3010Cuphead: EXPERT MODE\u3011i've given up."
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-08T01:00:00Z",
+      "scheduledStartTime": "2024-06-09T01:00:00Z",
       "activeLiveChatId": "Cg0KC0RELWhXWnprRUdJKicKGFVDb1duNnFrZHhDU0h2SkVsbWd2enIxZxILREQtaFdaemtFR0k"
     }
   },
@@ -1948,7 +1936,8 @@
       "title": "\u3010COMMUNITY GAME NIGHT\u3011Jackbox with the Melodites! #NEXAS"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-08T01:00:00Z",
+      "actualStartTime": "2024-06-08T00:57:57Z",
+      "scheduledStartTime": "2024-06-08T00:57:35Z",
       "activeLiveChatId": "Cg0KC0lsZG9mZ0czdW1vKicKGFVDbWwtcjVhVHM0SkdlRWVYVUZuWjdlURILSWxkb2ZnRzN1bW8"
     }
   },
@@ -2241,6 +2230,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-03-01T07:45:00Z",
       "activeLiveChatId": "Cg0KC0t3bVlQNkoyUVRBKicKGFVDZHVib3RTeTRwUE9zaWFXNE1yWW4zURILS3dtWVA2SjJRVEE"
+    }
+  },
+  "KzkId1aIJdo": {
+    "snippet": {
+      "publishedAt": "2024-06-08T00:57:15Z",
+      "channelId": "UCBghUKA_L0na0SeQ6snzMMQ",
+      "title": "Publicly Available Autism Stream"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-08T22:00:00Z",
+      "activeLiveChatId": "Cg0KC0t6a0lkMWFJSmRvKicKGFVDQmdoVUtBX0wwbmEwU2VRNnNuek1NURILS3prSWQxYUlKZG8"
     }
   },
   "L7wD0f3wLDs": {
@@ -2772,7 +2772,7 @@
       "title": "\u3016 FREE TALK \u3017Just using this for Twitter space and junk"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-31T09:25:00Z",
+      "scheduledStartTime": "2025-06-12T09:25:00Z",
       "activeLiveChatId": "Cg0KC1BkOExFclYwQ2dFKicKGFVDeF9BNmZuczlxS2p5YnUtNmswdXIxZxILUGQ4TEVyVjBDZ0U"
     }
   },
@@ -4186,6 +4186,17 @@
       "activeLiveChatId": "Cg0KC2F1Q2twb05NMXlFKicKGFVDVEpDb0hFdDVjMjdyY2VxMnNoNjlrZxILYXVDa3BvTk0xeUU"
     }
   },
+  "ayaseyuu_": {
+    "snippet": {
+      "channelId": "ayaseyuu_",
+      "title": "\u4f55\u3082\u8003\u3048\u3066\u306a\u3044 The 2nd\u3010\u7d62\u4e16\u30e6\u30a6 / Phase connect\u3011",
+      "channelTitle": "\u7d62\u4e16\u30e6\u30a6"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-08T00:59:41Z",
+      "twitch": true
+    }
+  },
   "b4hNLrgKR4U": {
     "snippet": {
       "publishedAt": "2021-12-15T00:10:46Z",
@@ -4526,6 +4537,7 @@
       "title": "FIRST TIME in the SEWERS"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-08T00:58:35Z",
       "scheduledStartTime": "2024-06-08T01:00:00Z",
       "activeLiveChatId": "Cg0KC2VMckk5eDBQZ3hVKicKGFVDM1Q3Tnd5UUJBeWx5V180WE9hOXdFURILZUxySTl4MFBneFU"
     }
@@ -4700,6 +4712,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-18T14:00:00Z",
       "activeLiveChatId": "Cg0KC2ZrRGRDcW1mZl9nKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILZmtEZENxbWZmX2c"
+    }
+  },
+  "fo7BNB4gwws": {
+    "snippet": {
+      "publishedAt": "2024-06-08T00:59:26Z",
+      "channelId": "UCx_A6fns9qKjybu-6k0ur1g",
+      "title": "\u3010 I'M BACK! \u3011LET'S TALK ABOUT OFFKAI! (Surely, I won't stilll be sick by now, right?)"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-10T05:00:00Z",
+      "activeLiveChatId": "Cg0KC2ZvN0JOQjRnd3dzKicKGFVDeF9BNmZuczlxS2p5YnUtNmswdXIxZxILZm83Qk5CNGd3d3M"
     }
   },
   "gK31rX-EsIw": {
@@ -5060,18 +5083,6 @@
       "activeLiveChatId": "Cg0KC2lYUHIzWGZ4dUVBKicKGFVDNFdzTEVfeGRybmQwNUQwNUdvOW9YdxILaVhQcjNYZnh1RUE"
     }
   },
-  "ik0STEdKOsk": {
-    "snippet": {
-      "publishedAt": "2024-06-06T20:02:57Z",
-      "channelId": "UCXhRd4KkpzYsPm5hFTPVsqw",
-      "title": "\u3010THE BAR\u3011CRACK OPEN A COLD ONE, NOSTALGIA TIME!\u3010V&U | GEN4\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-07T21:45:23Z",
-      "scheduledStartTime": "2024-06-07T21:45:00Z",
-      "activeLiveChatId": "Cg0KC2lrMFNURWRLT3NrKicKGFVDWGhSZDRLa3B6WXNQbTVoRlRQVnNxdxILaWswU1RFZEtPc2s"
-    }
-  },
   "iov6LaSBBmg": {
     "snippet": {
       "publishedAt": "2024-06-03T00:39:48Z",
@@ -5266,17 +5277,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-06-24T22:00:00Z",
       "activeLiveChatId": "Cg0KC2tlMTZnRmdhbUdRKicKGFVDSzlsNnJUd1UzaGlTWmlqSU1xNTFHdxILa2UxNmdGZ2FtR1E"
-    }
-  },
-  "kenzokozima": {
-    "snippet": {
-      "channelId": "kenzokozima",
-      "title": "Continuing the saga of Senua and watching a debut too!",
-      "channelTitle": "kenzokozima"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-07T22:02:26Z",
-      "twitch": true
     }
   },
   "l3uqelUhGhU": {
@@ -5730,16 +5730,15 @@
       "activeLiveChatId": "Cg0KC3BNejJEXzFFeXZvKicKGFVDMVpSWG9UUVV3WnRLbnBPZkp3R05QdxILcE16MkRfMUV5dm8"
     }
   },
-  "pP0e5jjSY-A": {
+  "pUnRLrREgWU": {
     "snippet": {
-      "publishedAt": "2024-06-07T10:52:25Z",
-      "channelId": "UC9p_lqQ0FEDz327Vgf5JwqA",
-      "title": "\u3010LITTLE KITTY, BIG CITY\u3011I didn't do it :3"
+      "publishedAt": "2024-06-08T00:55:31Z",
+      "channelId": "UCBghUKA_L0na0SeQ6snzMMQ",
+      "title": "101\u00b0 FEVER ZATSU AND CHILL"
     },
     "liveStreamingDetails": {
-      "actualStartTime": "2024-06-07T22:57:06Z",
-      "scheduledStartTime": "2024-06-07T23:00:00Z",
-      "activeLiveChatId": "Cg0KC3BQMGU1ampTWS1BKicKGFVDOXBfbHFRMEZFRHozMjdWZ2Y1SndxQRILcFAwZTVqalNZLUE"
+      "scheduledStartTime": "2024-06-08T02:00:00Z",
+      "activeLiveChatId": "Cg0KC3BVblJMclJFZ1dVKicKGFVDQmdoVUtBX0wwbmEwU2VRNnNuek1NURILcFVuUkxyUkVnV1U"
     }
   },
   "paXSHfUvX1g": {
