@@ -1032,8 +1032,20 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-08T17:39:15Z",
-      "scheduledStartTime": "2024-06-08T17:00:00Z",
-      "activeLiveChatId": "Cg0KCzR3enpzTktJZWJrKicKGFVDUEszUzlpajBEWElObVRqUTRLaFFWQRILNHd6enNOS0llYms"
+      "actualEndTime": "2024-06-08T18:55:23Z",
+      "scheduledStartTime": "2024-06-08T17:00:00Z"
+    }
+  },
+  "Qqo4574Ve9Q": {
+    "snippet": {
+      "publishedAt": "2024-06-08T18:34:08Z",
+      "channelId": "UCPK3S9ij0DXINmTjQ4KhQVA",
+      "title": "\u3010 MONSTER HUNTER RISE\u3011FIRST TIME PLAYING MONHUN RISE!!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-08T18:57:02Z",
+      "scheduledStartTime": "2024-06-08T18:45:00Z",
+      "activeLiveChatId": "Cg0KC1FxbzQ1NzRWZTlRKicKGFVDUEszUzlpajBEWElObVRqUTRLaFFWQRILUXFvNDU3NFZlOVE"
     }
   }
 }
