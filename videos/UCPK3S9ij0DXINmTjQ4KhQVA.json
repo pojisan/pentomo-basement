@@ -1044,8 +1044,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-08T18:57:02Z",
-      "scheduledStartTime": "2024-06-08T18:45:00Z",
-      "activeLiveChatId": "Cg0KC1FxbzQ1NzRWZTlRKicKGFVDUEszUzlpajBEWElObVRqUTRLaFFWQRILUXFvNDU3NFZlOVE"
+      "actualEndTime": "2024-06-08T22:35:08Z",
+      "scheduledStartTime": "2024-06-08T18:45:00Z"
     }
   }
 }
