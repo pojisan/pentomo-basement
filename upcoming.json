@@ -96,18 +96,6 @@
       "scheduledStartTime": "2026-05-31T19:00:00Z"
     }
   },
-  "-Ua6U2piBKI": {
-    "snippet": {
-      "publishedAt": "2024-06-05T16:55:40Z",
-      "channelId": "UCyF7SeIyWlUznk_sg_XjC8Q",
-      "title": "\u3010COVER\u3011 Playing God - Paramore \u3010Umi Kyoku\u3011"
-    },
-    "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-08T20:00:00Z",
-      "activeLiveChatId": "Cg0KCy1VYTZVMnBpQktJKicKGFVDeUY3U2VJeVdsVXpua19zZ19YakM4URILLVVhNlUycGlCS0k",
-      "premiere": true
-    }
-  },
   "-Ye6E7xDado": {
     "snippet": {
       "publishedAt": "2024-03-03T09:33:07Z",
@@ -937,6 +925,7 @@
       "title": "\u3010Phase Weekly\u3011\u301005/25~ 06/07\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-08T20:00:58Z",
       "scheduledStartTime": "2024-06-08T20:00:00Z",
       "activeLiveChatId": "Cg0KC0FPeDdmSHBMNFJVKicKGFVDbHBPRVpvSVloeElZNm41Tk5HYVBiQRILQU94N2ZIcEw0UlU"
     }
@@ -1262,6 +1251,7 @@
       "title": "\u3010VALORANT\u3011 HOPCON UNTIL ETHYRIA 3D CONCERT"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-08T20:01:01Z",
       "scheduledStartTime": "2024-06-08T20:00:00Z",
       "activeLiveChatId": "Cg0KC0RtcmNNOWZYU2UwKicKGFVDdS1KOHVJWHVMWmgxNmdHLWNUMW5hdxILRG1yY005ZlhTZTA"
     }
@@ -2352,6 +2342,17 @@
       "activeLiveChatId": "Cg0KC01udHFCdGlPc0RZKicKGFVDb09FZXIyYzJwbjJMcVBYNnNrTld0QRILTW50cUJ0aU9zRFk"
     }
   },
+  "Mo27Jky20Bg": {
+    "snippet": {
+      "publishedAt": "2024-06-08T19:52:07Z",
+      "channelId": "UCk4-LUmzFMETLt4Sn1J82Cw",
+      "title": "\ud83d\udc12 Magical Mythical Modded Monke Minecraft! \ud83d\udc12 - Mythical Cobblemon Season 2!!\u3010KoziiChu\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-08T20:15:00Z",
+      "activeLiveChatId": "Cg0KC01vMjdKa3kyMEJnKicKGFVDazQtTFVtekZNRVRMdDRTbjFKODJDdxILTW8yN0preTIwQmc"
+    }
+  },
   "Mq-uNEez8zc": {
     "snippet": {
       "publishedAt": "2024-03-12T02:39:57Z",
@@ -2488,7 +2489,7 @@
       "title": "\u3010KARAOKE\u3011 Karaoke Relay de EternalS \u3010idolES | Taiga Toragami\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-08T22:30:00Z",
+      "scheduledStartTime": "2024-06-08T21:30:00Z",
       "activeLiveChatId": "Cg0KC080bjNKZkNmM3owKicKGFVDaUJNSDFkN2V3XzNiaTJBX3paR3NtdxILTzRuM0pmQ2YzejA"
     }
   },
@@ -3185,6 +3186,7 @@
       "title": "\u3010Cult of the Lamb\u3011come worship at my altar, pet!\u3010VAllure\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-08T19:59:06Z",
       "scheduledStartTime": "2024-06-08T20:00:00Z",
       "activeLiveChatId": "Cg0KC1ZuSzNZTHc1OVQ0KicKGFVDdll6d0VrQ1EyN2dQYWo1NHdCc1ZPZxILVm5LM1lMdzU5VDQ"
     }
@@ -4435,18 +4437,6 @@
       "activeLiveChatId": "Cg0KC2g0NDI2Ym15YkRBKicKGFVDNWFBTHV3d2NSYTdXeldISzkzQVllZxILaDQ0MjZibXliREE"
     }
   },
-  "h7RxzeuTUrk": {
-    "snippet": {
-      "publishedAt": "2024-06-03T02:10:09Z",
-      "channelId": "UCwmG_7y6pToRWHJ9TwFdZ1Q",
-      "title": "\u3010ASMR\u3011Can this Cuttlefish [REDACTED] you? \ud83e\udd91\ud83d\uded0\u3010VAllure\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-08T18:01:52Z",
-      "scheduledStartTime": "2024-06-08T18:00:00Z",
-      "activeLiveChatId": "Cg0KC2g3Unh6ZXVUVXJrKicKGFVDd21HXzd5NnBUb1JXSEo5VHdGZFoxURILaDdSeHpldVRVcms"
-    }
-  },
   "hBS1UMG7Q34": {
     "snippet": {
       "publishedAt": "2024-04-15T16:24:10Z",
@@ -4898,6 +4888,7 @@
       "title": "\u3010VALORANT\u3011ETHYRIA 3D HYPE !!!\u3010NIJISANJI EN | Claude Clawmark\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-08T20:00:24Z",
       "scheduledStartTime": "2024-06-08T20:00:00Z",
       "activeLiveChatId": "Cg0KC2tpNVZzQ01OcHdFKicKGFVDZGgtWUYyZ1R6cUROdTBWVTlsd1BQdxILa2k1VnNDTU5wd0U"
     }
@@ -5423,6 +5414,7 @@
       "title": "\u3010RING FIT ADVENTURE\u3011 Maid Exercises......I lost a bet...\u3010Dr.NOVA(e) | V4Mirai | ENVtuber\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-08T19:59:48Z",
       "scheduledStartTime": "2024-06-08T20:00:00Z",
       "activeLiveChatId": "Cg0KC3E4Q29BT3VDMW0wKicKGFVDMk5lNmREY0Z4bk0yaENCTGlpM0lVZxILcThDb0FPdUMxbTA"
     }
