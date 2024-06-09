@@ -6856,9 +6856,15 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-09T09:00:07Z",
-      "scheduledStartTime": "2024-06-09T09:00:00Z",
-      "activeLiveChatId": "Cg0KC0NETmJaMjhQc0V3KicKGFVDZ0lmTHBRdmVsbG9EaThJMFljYndwZxILQ0ROYloyOFBzRXc",
-      "premiere": true
+      "actualEndTime": "2024-06-09T09:06:44Z",
+      "scheduledStartTime": "2024-06-09T09:00:00Z"
+    }
+  },
+  "LLqrgHxsyjI": {
+    "snippet": {
+      "publishedAt": "2024-06-09T11:00:24Z",
+      "channelId": "UCgIfLpQvelloDi8I0Ycbwpg",
+      "title": "\u3010\u30aa\u30ea\u30b8\u30ca\u30ebMV\u3011\u2661\u3075\u3041\u3080\u30fb\u3075\u3041\u305f\uff5e\u308b\u2661\u3010\u58f1\u767e\u6e80\u5929\u539f\u30b5\u30ed\u30e1\u3011 #shorts #Vtuber"
     }
   }
 }
