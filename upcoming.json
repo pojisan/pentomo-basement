@@ -808,6 +808,7 @@
       "title": "\u3010SOMA\u3011Endurance until I am smart!\u3010Twisty Amanozako | NIJISANJI EN\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-09T02:45:23Z",
       "scheduledStartTime": "2024-06-09T02:45:00Z",
       "activeLiveChatId": "Cg0KCzlKMjgxN0pRTzNjKicKGFVDVUkxcXBqSlNFYmd6ZGx3bXBkVm1NdxILOUoyODE3SlFPM2M"
     }
@@ -1736,18 +1737,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-09T18:00:00Z",
       "activeLiveChatId": "Cg0KC0oySTZXc3M5V3NRKicKGFVDd21HXzd5NnBUb1JXSEo5VHdGZFoxURILSjJJNldzczlXc1E"
-    }
-  },
-  "J4zEq2SkW7M": {
-    "snippet": {
-      "publishedAt": "2024-06-09T00:35:26Z",
-      "channelId": "UCT41WnQY3O2F7Obi1hhPOyA",
-      "title": "\u3010Diablo 4\u3011 I'm a mother's chosen"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-09T00:40:55Z",
-      "scheduledStartTime": "2024-06-09T00:35:25Z",
-      "activeLiveChatId": "Cg0KC0o0ekVxMlNrVzdNKicKGFVDVDQxV25RWTNPMkY3T2JpMWhoUE95QRILSjR6RXEyU2tXN00"
     }
   },
   "J7Is26prEX4": {
@@ -3615,17 +3604,6 @@
       "activeLiveChatId": "Cg0KC2FfX054cnZ1LVNBKicKGFVDb0FRc2MtRFEwTWpmVHAwNTlvdFFBdxILYV9fTnhydnUtU0E"
     }
   },
-  "aishiiai": {
-    "snippet": {
-      "channelId": "aishiiai",
-      "title": "\u3010Offkai Expo Stories\u3011Ai am finally back!!! Ai missed you all!!!",
-      "channelTitle": "AishiiAi"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-09T01:02:20Z",
-      "twitch": true
-    }
-  },
   "apgSSBfOh9k": {
     "snippet": {
       "publishedAt": "2024-05-31T18:11:53Z",
@@ -3892,6 +3870,17 @@
       "actualStartTime": "2024-06-09T00:17:57Z",
       "scheduledStartTime": "2024-06-09T00:17:57Z",
       "activeLiveChatId": "Cg0KC2RxNG1QdDBkc3ZrKicKGFVDVXI4TzZaOEp5QWc4M0tKYmNfdV9iURILZHE0bVB0MGRzdms"
+    }
+  },
+  "dqklVS4hf3w": {
+    "snippet": {
+      "publishedAt": "2024-06-09T02:50:11Z",
+      "channelId": "UCHGuoIr9iDxG07vIOOXTI8A",
+      "title": "\u22c6\u263e Art Stream \u263d Elfie dunno how to use CSP so hope any user can teach me!\u3010 #artstream / #elfiemago \u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-15T13:30:00Z",
+      "activeLiveChatId": "Cg0KC2Rxa2xWUzRoZjN3KicKGFVDSEd1b0lyOWlEeEcwN3ZJT09YVEk4QRILZHFrbFZTNGhmM3c"
     }
   },
   "dwPADgo8YSY": {
@@ -4401,18 +4390,6 @@
       "scheduledStartTime": "2024-06-10T11:00:00Z",
       "activeLiveChatId": "Cg0KC2lxSlpNV0dvNHpjKicKGFVDUm02bHF0ZHhzX1FvNkhlTC1TUlEtdxILaXFKWk1XR280emM",
       "premiere": true
-    }
-  },
-  "j0KeZ2FHxqc": {
-    "snippet": {
-      "publishedAt": "2024-06-08T21:53:31Z",
-      "channelId": "UCAFbyEj9pesCxo69ozEhi9Q",
-      "title": "\u3010Offkai Expo Stories\u3011Ai am finally back!!! Ai missed you all!!!"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-09T01:02:59Z",
-      "scheduledStartTime": "2024-06-09T01:00:00Z",
-      "activeLiveChatId": "Cg0KC2owS2VaMkZIeHFjKicKGFVDQUZieUVqOXBlc0N4bzY5b3pFaGk5URILajBLZVoyRkh4cWM"
     }
   },
   "j7dsRn97ii0": {
