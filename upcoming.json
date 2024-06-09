@@ -159,6 +159,16 @@
       "activeLiveChatId": "Cg0KCzBuQ2ZuU3lSbl9vKicKGFVDN3NxYlE0XzVfRUx6LU92LWJWQmk4QRILMG5DZm5TeVJuX28"
     }
   },
+  "0wWSTEnBBbI": {
+    "snippet": {
+      "publishedAt": "2024-06-09T19:53:37Z",
+      "channelId": "UC727SQYUvx5pDDGQpTICNWg",
+      "title": "\u3010Minecraft\u3011Working on Borobudur With the ID Girls!\u3010hololive ID 2nd Generation | Anya Melfissa\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-10T13:00:00Z"
+    }
+  },
   "0xzsJpuIwso": {
     "snippet": {
       "publishedAt": "2024-05-05T01:48:42Z",
@@ -2144,6 +2154,7 @@
       "title": "\u3010Keep Talking & Nobody Explodes\u3011Forced to yap to survive!! @MimosaShirosaki\u3010Yume+ | Aimee\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-09T23:12:44Z",
       "scheduledStartTime": "2024-06-09T23:00:00Z",
       "activeLiveChatId": "Cg0KC0xIYkhPekZnaHRZKicKGFVDX3Q3d3RTY1ZMazg1SWFEOWpZU1JBQRILTEhiSE96RmdodFk"
     }
@@ -2516,6 +2527,7 @@
       "title": "How have you put up with me for this long \ud83e\udd73"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-09T23:18:34Z",
       "scheduledStartTime": "2024-06-09T23:00:00Z",
       "activeLiveChatId": "Cg0KC08ySHFXenBnRzZ3KicKGFVDdVROSFlfYjdFdnFoUk83Q09ib3hzURILTzJIcVd6cGdHNnc"
     }
@@ -2854,18 +2866,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-08-16T14:45:00Z",
       "activeLiveChatId": "Cg0KC1JYNTZubWRFY1JFKicKGFVDQjFzX0lkTy1yMG5Va1kybVhldGktQRILUlg1Nm5tZEVjUkU"
-    }
-  },
-  "RmFARtovC-g": {
-    "snippet": {
-      "publishedAt": "2024-06-07T14:55:42Z",
-      "channelId": "UC3AYtmMNdJczCvQNoPy-gjw",
-      "title": "Cozy Making Games! Gamedev Stream"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-09T21:00:25Z",
-      "scheduledStartTime": "2024-06-09T21:00:00Z",
-      "activeLiveChatId": "Cg0KC1JtRkFSdG92Qy1nKicKGFVDM0FZdG1NTmRKY3pDdlFOb1B5LWdqdxILUm1GQVJ0b3ZDLWc"
     }
   },
   "RxHtpP21aPE": {
@@ -3452,6 +3452,7 @@
       "title": "Gaming uwu"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-09T23:13:35Z",
       "scheduledStartTime": "2024-06-09T23:15:00Z",
       "activeLiveChatId": "Cg0KC1g1SllMaFBQbXQwKicKGFVDQmdoVUtBX0wwbmEwU2VRNnNuek1NURILWDVKWUxoUFBtdDA"
     }
@@ -5969,6 +5970,18 @@
       "activeLiveChatId": "Cg0KC3RwUHVpTkRGdHBvKicKGFVDOHlYUkJfaktEZWFwd1FhazJpMzBFQRILdHBQdWlOREZ0cG8"
     }
   },
+  "u66H72Nxasw": {
+    "snippet": {
+      "publishedAt": "2024-06-09T23:14:16Z",
+      "channelId": "UCH7txi6feolO5jAmAM5RICA",
+      "title": "AMA and Chaotic Vibes #OshiLinkEN"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-09T23:14:33Z",
+      "scheduledStartTime": "2024-06-09T23:14:26Z",
+      "activeLiveChatId": "Cg0KC3U2Nkg3Mk54YXN3KicKGFVDSDd0eGk2ZmVvbE81akFtQU01UklDQRILdTY2SDcyTnhhc3c"
+    }
+  },
   "uULw226YJno": {
     "snippet": {
       "publishedAt": "2024-06-05T20:47:05Z",
@@ -6214,6 +6227,17 @@
       "activeLiveChatId": "Cg0KC3dpVXVObjAzWjFBKicKGFVDb0FRc2MtRFEwTWpmVHAwNTlvdFFBdxILd2lVdU5uMDNaMUE"
     }
   },
+  "wildspice": {
+    "snippet": {
+      "channelId": "wildspice",
+      "title": "Local Demon Vtuber Plays More Final Fantasy VIII #OshiLinkEN !kofi",
+      "channelTitle": "WildSpice"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-09T23:14:18Z",
+      "twitch": true
+    }
+  },
   "wjDz5GbSQxo": {
     "snippet": {
       "publishedAt": "2022-02-08T03:42:18Z",
@@ -6392,18 +6416,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-10T01:00:00Z",
       "activeLiveChatId": "Cg0KC3luS2pLdE1icEhZKicKGFVDaEo1RlRzSE91NzJfNU9WeDBydnN2URILeW5Lakt0TWJwSFk"
-    }
-  },
-  "z9ovCg64s-c": {
-    "snippet": {
-      "publishedAt": "2024-06-09T08:12:09Z",
-      "channelId": "UCIzZDiilcPv0wim_MbuizFA",
-      "title": "\u3010MTG Arena\u3011 Building Our Card Collection Through Drafts \u3010NIJISANJI EN | Ryoma Barrenwort\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-09T19:00:37Z",
-      "scheduledStartTime": "2024-06-09T19:00:00Z",
-      "activeLiveChatId": "Cg0KC3o5b3ZDZzY0cy1jKicKGFVDSXpaRGlpbGNQdjB3aW1fTWJ1aXpGQRILejlvdkNnNjRzLWM"
     }
   },
   "zBk9JLTwpOk": {
