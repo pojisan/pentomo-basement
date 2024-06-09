@@ -11724,8 +11724,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-09T12:02:26Z",
-      "scheduledStartTime": "2024-06-09T12:00:00Z",
-      "activeLiveChatId": "Cg0KC0pkRktpa3VGWmk0KicKGFVDQjFzX0lkTy1yMG5Va1kybVhldGktQRILSmRGS2lrdUZaaTQ"
+      "actualEndTime": "2024-06-09T13:35:17Z",
+      "scheduledStartTime": "2024-06-09T12:00:00Z"
     }
   },
   "qpaTASoZvyc": {
@@ -11738,6 +11738,19 @@
       "actualStartTime": "2024-06-08T12:32:18Z",
       "actualEndTime": "2024-06-08T14:11:39Z",
       "scheduledStartTime": "2024-06-08T12:30:00Z"
+    }
+  },
+  "8uQaiHKjDbU": {
+    "snippet": {
+      "publishedAt": "2024-06-09T13:45:06Z",
+      "channelId": "UCB1s_IdO-r0nUkY2mXeti-A",
+      "title": "\u30a2\u30d5\u30bf\u30fc\u30ec\u30a4\u30f3/ \u7345\u5b50\u795e\u30ec\u30aa\u30ca\u3010Official Music Video\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-09T13:45:06Z",
+      "actualEndTime": "2024-06-09T13:50:45Z",
+      "scheduledStartTime": "2024-06-09T13:45:00Z",
+      "activeLiveChatId": "Cg0KCzh1UWFpSEtqRGJVKicKGFVDQjFzX0lkTy1yMG5Va1kybVhldGktQRILOHVRYWlIS2pEYlU"
     }
   }
 }
