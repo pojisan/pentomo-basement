@@ -1386,18 +1386,6 @@
       "activeLiveChatId": "Cg0KC0Z3VjhBcGRKTGhRKicKGFVDYnd0QkdMWXBlYTRlSWstZ29jcUp1dxILRndWOEFwZEpMaFE"
     }
   },
-  "G--P54GVUCI": {
-    "snippet": {
-      "publishedAt": "2024-06-03T16:11:17Z",
-      "channelId": "UCt9H_RpQzhxzlyBxFqrdHqA",
-      "title": "\u3010FWMC MINECRAFT JOURNEY\u3011fluffy digging lessons \ud83d\udc3e\u3010FUWAWA POV\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-09T00:55:29Z",
-      "scheduledStartTime": "2024-06-09T01:00:00Z",
-      "activeLiveChatId": "Cg0KC0ctLVA1NEdWVUNJKicKGFVDdDlIX1JwUXpoeHpseUJ4RnFyZEhxQRILRy0tUDU0R1ZVQ0k"
-    }
-  },
   "G0dYSrc2FwE": {
     "snippet": {
       "publishedAt": "2023-05-21T09:08:52Z",
@@ -3629,6 +3617,17 @@
       "activeLiveChatId": "Cg0KC2F1Q2twb05NMXlFKicKGFVDVEpDb0hFdDVjMjdyY2VxMnNoNjlrZxILYXVDa3BvTk0xeUU"
     }
   },
+  "ayaseyuu_": {
+    "snippet": {
+      "channelId": "ayaseyuu_",
+      "title": "\u3082\u306f\u3084\u30ad\u30f3\u30ad\u30e3\u30cb\u304c\u89aa\u203b\u30b3\u30e1\u30f3\u30c8\u8aad\u307f\u4e0a\u3052\u6709\u3010\u7d62\u4e16\u30e6\u30a6 / Phase connect\u3011",
+      "channelTitle": "\u7d62\u4e16\u30e6\u30a6"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-09T03:39:57Z",
+      "twitch": true
+    }
+  },
   "b4hNLrgKR4U": {
     "snippet": {
       "publishedAt": "2021-12-15T00:10:46Z",
@@ -3766,6 +3765,7 @@
       "title": "\u3010Pokemon Infinite Fusion\u3011PART 4! NAMING POKEMON AFTER CHAT!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-09T03:33:42Z",
       "scheduledStartTime": "2024-06-09T03:30:00Z",
       "activeLiveChatId": "Cg0KC2N4LUdkSDh3TmNBKicKGFVDWVhfaUdyaEJuRnQwZHlYd1NpN1U0URILY3gtR2RIOHdOY0E"
     }
@@ -4625,7 +4625,7 @@
   "luluthebard": {
     "snippet": {
       "channelId": "luluthebard",
-      "title": "ROAD TO CEO MELEE EDITION | Ranked Grind & VIEWER MATCHES",
+      "title": "1ROAD TO CEO MELEE EDITION | Ranked Grind & VIEWER MATCHES",
       "channelTitle": "LuLuTheBard"
     },
     "liveStreamingDetails": {
@@ -5341,6 +5341,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-09T04:00:00Z",
       "activeLiveChatId": "Cg0KC3NZOFJWWXhyTE5JKicKGFVDUmxRenVWZVl4VERQb2JQTjFqYVZrURILc1k4UlZZeHJMTkk"
+    }
+  },
+  "sayu": {
+    "snippet": {
+      "channelId": "sayu",
+      "title": "CURSED FUSIONS PART 4! @4 badges I think?\u2503!website !merch",
+      "channelTitle": "Sayu"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-09T03:33:40Z",
+      "twitch": true
     }
   },
   "shirozevalia": {
