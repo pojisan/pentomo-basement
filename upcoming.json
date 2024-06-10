@@ -781,6 +781,17 @@
       "activeLiveChatId": "Cg0KCzZmV2hGaVVsWnM4KicKGFVDUTF6R3hIcmZFbW1XNENQcEJ4OS1xdxILNmZXaEZpVWxaczg"
     }
   },
+  "6ol6kWFt5m0": {
+    "snippet": {
+      "publishedAt": "2024-06-10T11:49:38Z",
+      "channelId": "UC_t7wtScVLk85IaD9jYSRAA",
+      "title": "\u3010The Murder of Sonic The Hedgehog\u3011He's fiiiiiiiiiiiiiiiiiine.... I think\u3010Yume+ | Aimee\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-13T04:00:00Z",
+      "activeLiveChatId": "Cg0KCzZvbDZrV0Z0NW0wKicKGFVDX3Q3d3RTY1ZMazg1SWFEOWpZU1JBQRILNm9sNmtXRnQ1bTA"
+    }
+  },
   "6rmQJtVoX7g": {
     "snippet": {
       "publishedAt": "2024-06-08T08:23:26Z",
@@ -1082,18 +1093,6 @@
       "activeLiveChatId": "Cg0KC0E0WFg5cEhYRlNVKicKGFVDcXlMMG9CMmpsLTVHcFNnLUdXWl9ndxILQTRYWDlwSFhGU1U"
     }
   },
-  "ACI6j5MSQUI": {
-    "snippet": {
-      "publishedAt": "2024-06-10T02:46:30Z",
-      "channelId": "UCn7IbVBtkoUaZELqtrb9qNQ",
-      "title": "\u3010MINECRAFT\u3011WORK! WORK!\u3010ArashiNebula_HOSHIZORA\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-10T08:35:12Z",
-      "scheduledStartTime": "2024-06-10T08:00:00Z",
-      "activeLiveChatId": "Cg0KC0FDSTZqNU1TUVVJKicKGFVDbjdJYlZCdGtvVWFaRUxxdHJiOXFOURILQUNJNmo1TVNRVUk"
-    }
-  },
   "AIlDMlaTGEY": {
     "snippet": {
       "publishedAt": "2024-02-25T23:36:25Z",
@@ -1165,6 +1164,7 @@
       "title": "[MAHJONG SOUL] Let's vibe! New folk around! (ft Liola, Ambros and Hikari)"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-10T12:00:27Z",
       "scheduledStartTime": "2024-06-10T12:00:00Z",
       "activeLiveChatId": "Cg0KC0IwOGhYdzVvRWx3KicKGFVDVlFFYmpBY0pSZVB4T0RWTTVtV0N2URILQjA4aFh3NW9FbHc"
     }
@@ -1639,6 +1639,17 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC0Z3VjhBcGRKTGhRKicKGFVDYnd0QkdMWXBlYTRlSWstZ29jcUp1dxILRndWOEFwZEpMaFE"
+    }
+  },
+  "FykW5dFtkoA": {
+    "snippet": {
+      "publishedAt": "2024-06-10T11:55:45Z",
+      "channelId": "UCqw3pdPEKKVOI7SFXomyKLA",
+      "title": "Dog Girl makes HUGE MESS!! \ud83d\udc36DORONKO WANKO!\u3010Bonnie Barkswell / globie\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-10T20:00:00Z",
+      "activeLiveChatId": "Cg0KC0Z5a1c1ZEZ0a29BKicKGFVDcXczcGRQRUtLVk9JN1NGWG9teUtMQRILRnlrVzVkRnRrb0E"
     }
   },
   "G0dYSrc2FwE": {
@@ -2535,7 +2546,7 @@
       "title": "Wake up with me! Chibiguni!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-16T18:00:00Z",
+      "scheduledStartTime": "2024-06-15T18:00:00Z",
       "activeLiveChatId": "Cg0KC0xuMFRGX21IbWhZKicKGFVDRmdYV1pPVVpBMm9ZSE5yNnFEbXNUURILTG4wVEZfbUhtaFk"
     }
   },
@@ -3034,7 +3045,7 @@
     "snippet": {
       "publishedAt": "2024-06-10T04:54:25Z",
       "channelId": "UCUI1qpjJSEbgzdlwmpdVmMw",
-      "title": "\u3010Minecraft\u3011Home Sweet Home\u250aSurvival Let's Play #3\u3010Twisty Amanozako | NIJISANJI EN\u3011"
+      "title": "\u3010Minecraft\u3011Survival Let's Play #1\u250aSurvival Let's Play #3\u3010Twisty Amanozako | NIJISANJI EN\u3011"
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-10T06:43:33Z",
@@ -5522,6 +5533,17 @@
       "activeLiveChatId": "Cg0KC2xiRmdlbG16U2E0KicKGFVDRkhkRUFIUGJGVWpnSjFSYU9fQXc2dxILbGJGZ2VsbXpTYTQ"
     }
   },
+  "liolalightbringer": {
+    "snippet": {
+      "channelId": "liolalightbringer",
+      "title": "Mahjong Soul Collab! ouo",
+      "channelTitle": "LiolaLightbringer"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-10T11:57:24Z",
+      "twitch": true
+    }
+  },
   "lr1QRGiQYM4": {
     "snippet": {
       "publishedAt": "2024-06-10T07:00:36Z",
@@ -5787,6 +5809,7 @@
       "title": "\u3010Minecraft\u3011Let's Explore More! #3\u3010NIJISANJI EN | Klara Charmwood\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-10T12:00:32Z",
       "scheduledStartTime": "2024-06-10T12:00:00Z",
       "activeLiveChatId": "Cg0KC25wRDVXeEhUVDlZKicKGFVDUVl3SVVDTHFGb2luN2xIS21lUGpKdxILbnBENVd4SFRUOVk"
     }
@@ -6046,18 +6069,6 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC3E2WWsxcVVxMEFNKicKGFVDSzZvQ01pYjYyZVlBSVBybHJZUlZydxILcTZZazFxVXEwQU0"
-    }
-  },
-  "qB4ghymHfQI": {
-    "snippet": {
-      "publishedAt": "2024-06-09T18:13:29Z",
-      "channelId": "UC8rcEBzJSleTkf_-agPM20g",
-      "title": "\u3010Elden Ring\u3011Prepare to be Mohgged"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-10T02:59:49Z",
-      "scheduledStartTime": "2024-06-10T03:00:00Z",
-      "activeLiveChatId": "Cg0KC3FCNGdoeW1IZlFJKicKGFVDOHJjRUJ6SlNsZVRrZl8tYWdQTTIwZxILcUI0Z2h5bUhmUUk"
     }
   },
   "qCJftg8nnzw": {
@@ -6371,6 +6382,7 @@
       "title": "Mahjong Souls with Theodore, Ambros and Hikari!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-10T11:58:07Z",
       "scheduledStartTime": "2024-06-10T12:00:00Z",
       "activeLiveChatId": "Cg0KC3Nucldic1VncWhRKicKGFVDS0tINjRpSFpIMk85TmRsc09RRDJRZxILc25yV2JzVWdxaFE"
     }
@@ -6835,6 +6847,7 @@
       "title": "\u3010MAHJONG SOUL\u3011I am addicted.....\u3010Komiyama Ambros | globie\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-10T11:58:11Z",
       "scheduledStartTime": "2024-06-10T12:00:00Z",
       "activeLiveChatId": "Cg0KC3gtUlEzYTg3bTdZKicKGFVDYnNQNEJJc1BZYVJMdjlmX3lYRG9EQRILeC1SUTNhODdtN1k"
     }
