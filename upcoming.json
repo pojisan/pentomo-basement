@@ -362,6 +362,7 @@
       "title": "\u3010Minecraft\u3011in\u306b\u3058\u9bd6!! \u540c\u671f\u3068\u3044\u3063\u3057\u3087\u306b\u4e45\u3005\u6df1\u591c\u30de\u30a4\u30af\u30e9!!\u3010\u5009\u6301\u3081\u308b\u3068/\u306b\u3058\u3055\u3093\u3058\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-10T13:45:56Z",
       "scheduledStartTime": "2024-06-10T13:45:00Z",
       "activeLiveChatId": "Cg0KCzFWeGk2ODNnUWgwKicKGFVDaUEtdHJTWmZCMGk5MlZfLWR5RHFCdxILMVZ4aTY4M2dRaDA"
     }
@@ -3311,6 +3312,7 @@
       "title": "\u3010Handcam\u3011Building a Mini Ramen Shop and Drinking Beer~"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-10T13:51:15Z",
       "scheduledStartTime": "2024-06-10T14:00:00Z",
       "activeLiveChatId": "Cg0KC1I0UVJ2b2VMZEFnKicKGFVDSzZvQ01pYjYyZVlBSVBybHJZUlZydxILUjRRUnZvZUxkQWc"
     }
@@ -5357,17 +5359,6 @@
       "activeLiveChatId": "Cg0KC2lkaFZEYy02c0wwKicKGFVDTzR6TWFZQkV6ZFlJU2Zlb082aXBfURILaWRoVkRjLTZzTDA"
     }
   },
-  "inumaromugi": {
-    "snippet": {
-      "channelId": "inumaromugi",
-      "title": "\u3010Eri\u3011what da ferret doin ||\u2726 \u207a.",
-      "channelTitle": "InumaroMugi"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-10T10:05:59Z",
-      "twitch": true
-    }
-  },
   "j1C9DB4p8KE": {
     "snippet": {
       "publishedAt": "2024-06-10T04:34:41Z",
@@ -5796,6 +5787,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-11T22:00:00Z",
       "activeLiveChatId": "Cg0KC21nVGpfV3FsZnNzKicKGFVDZS1fcDZvdW40cDAtZ2RCNEFrZlQxURILbWdUal9XcWxmc3M"
+    }
+  },
+  "miya_mareena": {
+    "snippet": {
+      "channelId": "miya_mareena",
+      "title": "Handcam - Building a Ramen Shop - Drinking Beer [ !merch, !gg ]",
+      "channelTitle": "miya_mareena"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-10T13:51:08Z",
+      "twitch": true
     }
   },
   "n5D5GvXzXmY": {
@@ -7254,6 +7256,7 @@
       "title": "\u3010 Minecraft \u3011\u540c\u671f\u305f\u3061\u3068\u3072\u3055\u3073\u3055\u306b\u30de\u30a4\u30af\u30e9\u3084\u308b\u3088\uff5e\uff01\uff01\u3010\u306b\u3058\u3055\u3093\u3058/\u30bd\u30d5\u30a3\u30a2\u30fb\u30f4\u30a1\u30ec\u30f3\u30bf\u30a4\u30f3\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-10T13:43:16Z",
       "scheduledStartTime": "2024-06-10T13:30:00Z",
       "activeLiveChatId": "Cg0KC3psdUcxbVZmc2YwKicKGFVDaXZ3UGxPcDBvam5NUFpqNXBOT1BQQRILemx1RzFtVmZzZjA"
     }
