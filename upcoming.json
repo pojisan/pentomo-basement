@@ -3877,18 +3877,6 @@
       "activeLiveChatId": "Cg0KC1V2ZXlReFJHOTdVKicKGFVDM0ZXU2RoX0t0RUxhZWU4dDQwMEpiQRILVXZleVF4Ukc5N1U"
     }
   },
-  "V8IN5uIM5ZU": {
-    "snippet": {
-      "publishedAt": "2024-06-09T13:58:28Z",
-      "channelId": "UClxj3GlGphZVgd1SLYhZKmg",
-      "title": "\u3010ALAN WAKE 2\u3011Duck Detective unraveling mysteries in the Night Springs DLC!"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-10T16:00:06Z",
-      "scheduledStartTime": "2024-06-10T16:00:00Z",
-      "activeLiveChatId": "Cg0KC1Y4SU41dUlNNVpVKicKGFVDbHhqM0dsR3BoWlZnZDFTTFloWkttZxILVjhJTjV1SU01WlU"
-    }
-  },
   "VDJZSsFDl6s": {
     "snippet": {
       "publishedAt": "2024-04-16T17:11:37Z",
@@ -6642,6 +6630,17 @@
       "activeLiveChatId": "Cg0KC3NrVENLZ003YmlJKicKGFVDazB2dXd3c21fVVFISElPZ0d2eFUtQRILc2tUQ0tnTTdiaUk"
     }
   },
+  "starryyozzy": {
+    "snippet": {
+      "channelId": "starryyozzy",
+      "title": "Lets have a good day!!  !FLASHLIGHT !ADVGG  !fish !VITE !s4gs! #SHIRTMYSURVIVOR (plz)",
+      "channelTitle": "StarryYozzy"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-10T19:36:26Z",
+      "twitch": true
+    }
+  },
   "su2wbOAvLjI": {
     "snippet": {
       "publishedAt": "2023-11-20T14:49:46Z",
@@ -6814,6 +6813,7 @@
       "title": "\u3010DEAD BY DAYLIGHT\u3011Let's have a good day today!!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-10T19:36:56Z",
       "scheduledStartTime": "2024-06-10T19:45:00Z",
       "activeLiveChatId": "Cg0KC3VjYmFaMWIwWG84KicKGFVDQjdxeW5KOXFwMGNOV1JGZUJhd0I0QRILdWNiYVoxYjBYbzg"
     }
