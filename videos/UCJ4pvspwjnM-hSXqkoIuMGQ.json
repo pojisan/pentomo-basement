@@ -244,5 +244,27 @@
       "actualEndTime": "2024-06-06T02:15:26Z",
       "scheduledStartTime": "2024-06-06T00:00:00Z"
     }
+  },
+  "-P7GRSMLPOc": {
+    "snippet": {
+      "publishedAt": "2024-06-10T17:50:08Z",
+      "channelId": "UCJ4pvspwjnM-hSXqkoIuMGQ",
+      "title": "Chimomo!! Let's Talk!!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-12T17:00:00Z",
+      "activeLiveChatId": "Cg0KCy1QN0dSU01MUE9jKicKGFVDSjRwdnNwd2puTS1oU1hxa29JdU1HURILLVA3R1JTTUxQT2M"
+    }
+  },
+  "aG7b4AlnqJs": {
+    "snippet": {
+      "publishedAt": "2024-06-10T17:48:48Z",
+      "channelId": "UCJ4pvspwjnM-hSXqkoIuMGQ",
+      "title": "John Neighbor Hates Me!!!\u3010Subnautica\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-11T17:00:00Z",
+      "activeLiveChatId": "Cg0KC2FHN2I0QWxucUpzKicKGFVDSjRwdnNwd2puTS1oU1hxa29JdU1HURILYUc3YjRBbG5xSnM"
+    }
   }
 }
