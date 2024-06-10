@@ -2847,5 +2847,27 @@
       "actualEndTime": "2024-06-07T11:49:28Z",
       "scheduledStartTime": "2024-06-07T09:00:00Z"
     }
+  },
+  "apCb7G96kOg": {
+    "snippet": {
+      "publishedAt": "2024-06-10T14:30:56Z",
+      "channelId": "UCkb-r702uhx4-6Lrmetp-Ow",
+      "title": "[Thank you for 50K!!] Learning to code in Rust\ud83c\udf20"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-12T07:00:00Z",
+      "activeLiveChatId": "Cg0KC2FwQ2I3Rzk2a09nKicKGFVDa2ItcjcwMnVoeDQtNkxybWV0cC1PdxILYXBDYjdHOTZrT2c"
+    }
+  },
+  "QH8LKkIVHzI": {
+    "snippet": {
+      "publishedAt": "2024-06-10T14:25:19Z",
+      "channelId": "UCkb-r702uhx4-6Lrmetp-Ow",
+      "title": "[EVENT] jellyCTF LIVE COMMUNITY CTF!! \ud83c\udf20"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-11T07:00:00Z",
+      "activeLiveChatId": "Cg0KC1FIOExLa0lWSHpJKicKGFVDa2ItcjcwMnVoeDQtNkxybWV0cC1PdxILUUg4TEtrSVZIekk"
+    }
   }
 }
