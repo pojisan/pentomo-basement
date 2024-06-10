@@ -757,6 +757,17 @@
       "activeLiveChatId": "Cg0KCzc2YnR5YUFfaFJrKicKGFVDSHVWZ25PR3RETjlIMnA0VnJsRDYyQRILNzZidHlhQV9oUms"
     }
   },
+  "7DWnQyOFobc": {
+    "snippet": {
+      "publishedAt": "2024-06-10T01:17:55Z",
+      "channelId": "UCu1INzefw3R7M9-3QEHYmMQ",
+      "title": "\u3010FIRST TIME Dragon Age: Origins\u3011I LIke This Game"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-15T15:00:00Z",
+      "activeLiveChatId": "Cg0KCzdEV25ReU9Gb2JjKicKGFVDdTFJTnplZnczUjdNOS0zUUVIWW1NURILN0RXblF5T0ZvYmM"
+    }
+  },
   "7PC11e3umPE": {
     "snippet": {
       "publishedAt": "2024-05-04T20:08:09Z",
@@ -3548,18 +3559,6 @@
       "activeLiveChatId": "Cg0KC1g1OEZ2RldmYWUwKicKGFVDdWFEaWRHazRITkxPblFFOXd6TU1lURILWDU4RnZGV2ZhZTA"
     }
   },
-  "X5JYLhPPmt0": {
-    "snippet": {
-      "publishedAt": "2024-06-06T03:13:19Z",
-      "channelId": "UCBghUKA_L0na0SeQ6snzMMQ",
-      "title": "Worldless Gaming uwu (flashing lights)"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-09T23:13:35Z",
-      "scheduledStartTime": "2024-06-09T23:15:00Z",
-      "activeLiveChatId": "Cg0KC1g1SllMaFBQbXQwKicKGFVDQmdoVUtBX0wwbmEwU2VRNnNuek1NURILWDVKWUxoUFBtdDA"
-    }
-  },
   "XDiHfNVzBRw": {
     "snippet": {
       "publishedAt": "2022-04-13T21:16:01Z",
@@ -3902,6 +3901,7 @@
       "title": "[DON'T SCREAM] You'll never guess what I'm gonna do  [V&U | GEN 5]"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-10T01:12:25Z",
       "scheduledStartTime": "2024-06-10T01:00:00Z",
       "activeLiveChatId": "Cg0KC19EQWZzMWV0TDc0KicKGFVDSDI0YXNpSXFzVlVRbHo4RnZYSmJjdxILX0RBZnMxZXRMNzQ"
     }
@@ -4378,6 +4378,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-23T06:45:00Z",
       "activeLiveChatId": "Cg0KC2RaMHh1aHhTTzNnKicKGFVDSjQ2WVRZQlFWWHNmc3A4LUhyeW9VQRILZFoweHVoeFNPM2c"
+    }
+  },
+  "discordia_ch": {
+    "snippet": {
+      "channelId": "discordia_ch",
+      "title": "\u3010Vtuber\u3011REACTS + MonHun/WT LATER~ [VFleet] | !Discord !UwU !GG !Starforge | @Discordia_Ch",
+      "channelTitle": "Discordia_Ch"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-10T01:15:24Z",
+      "twitch": true
     }
   },
   "dl8muSDNkac": {
