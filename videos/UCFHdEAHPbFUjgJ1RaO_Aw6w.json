@@ -818,8 +818,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-10T08:56:11Z",
       "actualEndTime": "2024-06-10T12:09:45Z",
-      "scheduledStartTime": "2024-06-10T09:00:00Z",
-      "activeLiveChatId": "Cg0KC01SaFJhb2h0UXpNKicKGFVDRkhkRUFIUGJGVWpnSjFSYU9fQXc2dxILTVJoUmFvaHRRek0"
+      "scheduledStartTime": "2024-06-10T09:00:00Z"
     }
   },
   "qWpSHJeQSbA": {
@@ -853,6 +852,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-11T18:00:00Z",
       "activeLiveChatId": "Cg0KC01iVkNlU1JzbGp3KicKGFVDRkhkRUFIUGJGVWpnSjFSYU9fQXc2dxILTWJWQ2VTUnNsanc"
+    }
+  },
+  "zoK2fsSCyMM": {
+    "snippet": {
+      "publishedAt": "2024-06-09T19:03:29Z",
+      "channelId": "UCFHdEAHPbFUjgJ1RaO_Aw6w",
+      "title": "\u3010Zatsu\u3011Lets Talk Kamen Rider\u3010Globie | Vance Van Creed\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-12T08:00:00Z",
+      "activeLiveChatId": "Cg0KC3pvSzJmc1NDeU1NKicKGFVDRkhkRUFIUGJGVWpnSjFSYU9fQXc2dxILem9LMmZzU0N5TU0"
     }
   }
 }
