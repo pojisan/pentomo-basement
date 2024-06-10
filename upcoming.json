@@ -486,6 +486,17 @@
       "activeLiveChatId": "Cg0KCzJ6YUF2MHVnOUlJKicKGFVDMXVjZ29DX3NHd3dfRXV1NWlNcXBRdxILMnphQXYwdWc5SUk"
     }
   },
+  "32S3Lj4JXc0": {
+    "snippet": {
+      "publishedAt": "2024-06-10T14:54:26Z",
+      "channelId": "UCoWn6qkdxCSHvJElmgvzr1g",
+      "title": "\u3010Just Chatting\u3011I HAVE SEVEN FINGERS"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-11T00:00:00Z",
+      "activeLiveChatId": "Cg0KCzMyUzNMajRKWGMwKicKGFVDb1duNnFrZHhDU0h2SkVsbWd2enIxZxILMzJTM0xqNEpYYzA"
+    }
+  },
   "3Dm-bqdTn4g": {
     "snippet": {
       "publishedAt": "2023-01-04T08:17:47Z",
@@ -1192,18 +1203,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-01-29T08:05:00Z",
       "activeLiveChatId": "Cg0KC0ItYW1memh4X05RKicKGFVDX2tWSmhCUUM2VERGeXNOOVR1UFNZZxILQi1hbWZ6aHhfTlE"
-    }
-  },
-  "B08hXw5oElw": {
-    "snippet": {
-      "publishedAt": "2024-06-09T15:44:15Z",
-      "channelId": "UCVQEbjAcJRePxODVM5mWCvQ",
-      "title": "[MAHJONG SOUL] Let's vibe! New folk around! (ft Liola, Ambros and Hikari)"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-10T12:00:27Z",
-      "scheduledStartTime": "2024-06-10T12:00:00Z",
-      "activeLiveChatId": "Cg0KC0IwOGhYdzVvRWx3KicKGFVDVlFFYmpBY0pSZVB4T0RWTTVtV0N2URILQjA4aFh3NW9FbHc"
     }
   },
   "B3fqjNnNRg8": {
@@ -4684,29 +4683,6 @@
       "activeLiveChatId": "Cg0KC2NUNHhfNTE0QWNVKicKGFVDcnA5TU9LdVl6V0ZBMFg3d0xMaEhrQRILY1Q0eF81MTRBY1U"
     }
   },
-  "cV90KiSHBNI": {
-    "snippet": {
-      "publishedAt": "2024-06-09T08:57:30Z",
-      "channelId": "UCMmy_EmxnYQ8aar8fNZrumw",
-      "title": "\u3010The Abduction\u3011kidnapping @SayuSincronisity"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-10T13:03:39Z",
-      "scheduledStartTime": "2024-06-10T13:00:00Z",
-      "activeLiveChatId": "Cg0KC2NWOTBLaVNIQk5JKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILY1Y5MEtpU0hCTkk"
-    }
-  },
-  "clioaite": {
-    "snippet": {
-      "channelId": "clioaite",
-      "title": "Monday is also GUNDAY !merch !gamersupps",
-      "channelTitle": "ClioAite"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-10T02:27:35Z",
-      "twitch": true
-    }
-  },
   "ct3OCgsWdls": {
     "snippet": {
       "publishedAt": "2024-06-10T07:28:07Z",
@@ -5972,6 +5948,7 @@
       "title": "\u3010FUWAMOCO MORNING\u3011episode 97 \ud83d\udc3e #FWMCMORNING"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-10T14:55:23Z",
       "scheduledStartTime": "2024-06-10T15:00:00Z",
       "activeLiveChatId": "Cg0KC29LVk5pTS1OdUpVKicKGFVDdDlIX1JwUXpoeHpseUJ4RnFyZEhxQRILb0tWTmlNLU51SlU"
     }
