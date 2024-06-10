@@ -2075,18 +2075,6 @@
       "activeLiveChatId": "Cg0KC0lIZFlQMEVhSTBzKicKGFVDYnNQNEJJc1BZYVJMdjlmX3lYRG9EQRILSUhkWVAwRWFJMHM"
     }
   },
-  "IO9GYFMqILE": {
-    "snippet": {
-      "publishedAt": "2024-06-10T10:48:39Z",
-      "channelId": "UCUtKkGKef8BYMs3h-3zQm9A",
-      "title": "\ud83c\udf0a\u3010\uc7a1\ub2f4/\u96d1\u8ac7\u3011 \uc548\ub155\ud558\uc138\uc694\ud06c\uc154\ud14c\ub9ac\uc5b4 \u3053\u3093\u306b\u3061\u308f\u308f \u3010KR/JP\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-10T11:32:29Z",
-      "scheduledStartTime": "2024-06-10T11:30:00Z",
-      "activeLiveChatId": "Cg0KC0lPOUdZRk1xSUxFKicKGFVDVXRLa0dLZWY4QllNczNoLTN6UW05QRILSU85R1lGTXFJTEU"
-    }
-  },
   "IS1R9yifjk4": {
     "snippet": {
       "publishedAt": "2024-06-09T15:50:54Z",
@@ -4962,6 +4950,17 @@
       "twitch": true
     }
   },
+  "erislefaire": {
+    "snippet": {
+      "channelId": "erislefaire",
+      "title": "i'm little under the weather but let''s chill with the cats | !kofi !discord |",
+      "channelTitle": "ErisLefaire"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-10T13:14:46Z",
+      "twitch": true
+    }
+  },
   "evAHV7pZzgw": {
     "snippet": {
       "publishedAt": "2024-06-05T02:38:59Z",
@@ -5592,7 +5591,9 @@
       "title": "\u30de\u30a4\u30af\u30e9\u3092\u3084\u308b\u306a\u3089\u4eca\uff01\uff57\uff0f\u3057\u3057\u3069\u3046\u3055\u3093\u3068\u305d\u306e\u4ef2\u9593\u305f\u3061\u3010\u77f3\u795e\u306e\u305e\u307f\uff0f\u306b\u3058\u3055\u3093\u3058\u6240\u5c5e\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-10T13:10:00Z"
+      "actualStartTime": "2024-06-10T13:14:23Z",
+      "scheduledStartTime": "2024-06-10T13:10:00Z",
+      "activeLiveChatId": "Cg0KC2xLLTJrbTZFTkx3KicKGFVDdExmQV9xVXFDSnRqWEpNMlpSX2tlZxILbEstMmttNkVOTHc"
     }
   },
   "lPGhh7IPXRQ": {
