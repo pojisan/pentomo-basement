@@ -2847,8 +2847,20 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-10T12:59:53Z",
-      "scheduledStartTime": "2024-06-10T13:00:00Z",
-      "activeLiveChatId": "Cg0KC1BSRXpTRkhTa1dFKicKGFVDc2FDUldPWDNJSW5VT1NqLVhSVUNwZxILUFJFelNGSFNrV0U"
+      "actualEndTime": "2024-06-10T15:03:41Z",
+      "scheduledStartTime": "2024-06-10T13:00:00Z"
+    }
+  },
+  "IR-sgFySz7w": {
+    "snippet": {
+      "publishedAt": "2024-06-10T15:05:42Z",
+      "channelId": "UCsaCRWOX3IInUOSj-XRUCpg",
+      "title": "[Gaming] Let's Chat with Yagami Noah\uff5cVTuber /GTA5 in Street Junkies #\u30b9\u30c8\u30b8\u30e3\u30f3\u3010GTA5\u3011\u65e5\u672c\u8a9e/PC"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-10T15:06:46Z",
+      "scheduledStartTime": "2024-06-10T15:05:00Z",
+      "activeLiveChatId": "Cg0KC0lSLXNnRnlTejd3KicKGFVDc2FDUldPWDNJSW5VT1NqLVhSVUNwZxILSVItc2dGeVN6N3c"
     }
   }
 }
