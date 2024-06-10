@@ -653,5 +653,60 @@
       "actualEndTime": "2024-06-07T02:12:01Z",
       "scheduledStartTime": "2024-06-06T22:00:00Z"
     }
+  },
+  "GjakglHE58I": {
+    "snippet": {
+      "publishedAt": "2024-06-10T05:39:50Z",
+      "channelId": "UCe-_p6oun4p0-gdB4AkfT1Q",
+      "title": "Kouhai Karaoke Relay! Theme: Old School Songs!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-15T21:40:00Z",
+      "activeLiveChatId": "Cg0KC0dqYWtnbEhFNThJKicKGFVDZS1fcDZvdW40cDAtZ2RCNEFrZlQxURILR2pha2dsSEU1OEk"
+    }
+  },
+  "ydfsoGG7Pwo": {
+    "snippet": {
+      "publishedAt": "2024-06-10T05:36:49Z",
+      "channelId": "UCe-_p6oun4p0-gdB4AkfT1Q",
+      "title": "Skyrim except I'm a Pirate?!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-13T22:00:00Z",
+      "activeLiveChatId": "Cg0KC3lkZnNvR0c3UHdvKicKGFVDZS1fcDZvdW40cDAtZ2RCNEFrZlQxURILeWRmc29HRzdQd28"
+    }
+  },
+  "8ZLN4NivD3c": {
+    "snippet": {
+      "publishedAt": "2024-06-10T05:35:57Z",
+      "channelId": "UCe-_p6oun4p0-gdB4AkfT1Q",
+      "title": "Fallout 4 Survival Mode Gamma Gun Only?!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-12T22:00:00Z",
+      "activeLiveChatId": "Cg0KCzhaTE40Tml2RDNjKicKGFVDZS1fcDZvdW40cDAtZ2RCNEFrZlQxURILOFpMTjROaXZEM2M"
+    }
+  },
+  "mgTj_Wqlfss": {
+    "snippet": {
+      "publishedAt": "2024-06-10T05:35:10Z",
+      "channelId": "UCe-_p6oun4p0-gdB4AkfT1Q",
+      "title": "Skyrim except I'm a Monk?!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-11T22:00:00Z",
+      "activeLiveChatId": "Cg0KC21nVGpfV3FsZnNzKicKGFVDZS1fcDZvdW40cDAtZ2RCNEFrZlQxURILbWdUal9XcWxmc3M"
+    }
+  },
+  "n_5N0CGmBlc": {
+    "snippet": {
+      "publishedAt": "2024-06-10T05:34:10Z",
+      "channelId": "UCe-_p6oun4p0-gdB4AkfT1Q",
+      "title": "Pentiment: Medieval Redrum Mystery Part 2!!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-10T22:00:00Z",
+      "activeLiveChatId": "Cg0KC25fNU4wQ0dtQmxjKicKGFVDZS1fcDZvdW40cDAtZ2RCNEFrZlQxURILbl81TjBDR21CbGM"
+    }
   }
 }
