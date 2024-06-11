@@ -2976,6 +2976,7 @@
       "title": "\u3010Alien Isolation\u3011 Part 6: Reaching the End\u3010globie 2nd Gen - Equinnox\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-11T17:55:53Z",
       "scheduledStartTime": "2024-06-11T18:00:00Z",
       "activeLiveChatId": "Cg0KC01iVkNlU1JzbGp3KicKGFVDRkhkRUFIUGJGVWpnSjFSYU9fQXc2dxILTWJWQ2VTUnNsanc"
     }
@@ -3872,6 +3873,7 @@
       "title": "I'VE RETURNED!!! Let's talk about my trip to Offkai~ I've got things to show you \ud83d\ude0d"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-11T18:01:28Z",
       "scheduledStartTime": "2024-06-11T18:00:00Z",
       "activeLiveChatId": "Cg0KC1NTREJIN09vX1U0KicKGFVDTV9NYi1aQzNqTWczcDMyak42djRjQRILU1NEQkg3T29fVTQ"
     }
@@ -5641,18 +5643,6 @@
       "activeLiveChatId": "Cg0KC2dfazJoNmZ5V0VVKicKGFVDSUxRbDVnUkJNdndkLTk3LU01cExZURILZ19rMmg2ZnlXRVU"
     }
   },
-  "gdl0VOPwyM0": {
-    "snippet": {
-      "publishedAt": "2024-06-07T11:57:52Z",
-      "channelId": "UCrp9MOKuYzWFA0X7wLLhHkA",
-      "title": "\u300ePersona 3 Reload\u300fTurnbased Pewing\u301aBaal Arland | OshiLinkEN\u301b"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-11T14:58:17Z",
-      "scheduledStartTime": "2024-06-11T15:00:00Z",
-      "activeLiveChatId": "Cg0KC2dkbDBWT1B3eU0wKicKGFVDcnA5TU9LdVl6V0ZBMFg3d0xMaEhrQRILZ2RsMFZPUHd5TTA"
-    }
-  },
   "gvALS1ZyGWw": {
     "snippet": {
       "publishedAt": "2024-06-10T17:48:16Z",
@@ -6446,6 +6436,17 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-11T17:29:04Z",
+      "twitch": true
+    }
+  },
+  "mumuguru": {
+    "snippet": {
+      "channelId": "mumuguru",
+      "title": "erm what the sigma",
+      "channelTitle": "mumuguru"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-11T18:00:42Z",
       "twitch": true
     }
   },
@@ -7314,6 +7315,17 @@
       "activeLiveChatId": "Cg0KC3VCTmw1MFc0djhnKicKGFVDNFdzTEVfeGRybmQwNUQwNUdvOW9YdxILdUJObDUwVzR2OGc"
     }
   },
+  "uCwVeTvpeME": {
+    "snippet": {
+      "publishedAt": "2024-06-11T17:55:07Z",
+      "channelId": "UC98iRMvRqUxRD6GP4NtRskw",
+      "title": "For Family Honor | Chinese Parents"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-11T22:00:00Z",
+      "activeLiveChatId": "Cg0KC3VDd1ZlVHZwZU1FKicKGFVDOThpUk12UnFVeFJENkdQNE50UnNrdxILdUN3VmVUdnBlTUU"
+    }
+  },
   "uGchwvtM4BU": {
     "snippet": {
       "publishedAt": "2024-06-11T16:08:53Z",
@@ -7733,6 +7745,18 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-01-01T08:00:00Z",
       "activeLiveChatId": "Cg0KC3dudDNzQmlfZ3NvKicKGFVDdzBvMmtTdXItaXFtODJHTUtVbVZoURILd250M3NCaV9nc28"
+    }
+  },
+  "x7O-B9P18OY": {
+    "snippet": {
+      "publishedAt": "2024-06-11T17:52:20Z",
+      "channelId": "UCtuoyOZhnxJ12pE294FdH8Q",
+      "title": "Foraging for Materials!!!\u3010MINECRAFT\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-11T18:01:06Z",
+      "scheduledStartTime": "2024-06-11T18:00:00Z",
+      "activeLiveChatId": "Cg0KC3g3Ty1COVAxOE9ZKicKGFVDdHVveU9aaG54SjEycEUyOTRGZEg4URILeDdPLUI5UDE4T1k"
     }
   },
   "xKYSHWwabos": {
