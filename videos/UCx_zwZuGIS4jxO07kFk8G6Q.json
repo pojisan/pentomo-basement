@@ -5938,5 +5938,16 @@
       "actualEndTime": "2024-06-10T19:04:19Z",
       "scheduledStartTime": "2024-06-10T16:00:00Z"
     }
+  },
+  "vaaf_tcpSlo": {
+    "snippet": {
+      "publishedAt": "2024-06-11T07:00:05Z",
+      "channelId": "UCx_zwZuGIS4jxO07kFk8G6Q",
+      "title": "GATTACA but Lumi"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-11T16:00:00Z",
+      "activeLiveChatId": "Cg0KC3ZhYWZfdGNwU2xvKicKGFVDeF96d1p1R0lTNGp4TzA3a0ZrOEc2URILdmFhZl90Y3BTbG8"
+    }
   }
 }
