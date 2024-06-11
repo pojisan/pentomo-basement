@@ -6063,5 +6063,16 @@
       "actualEndTime": "2024-05-20T18:26:38Z",
       "scheduledStartTime": "2024-05-20T13:00:00Z"
     }
+  },
+  "VmC_5abmlWw": {
+    "snippet": {
+      "publishedAt": "2024-06-11T10:29:06Z",
+      "channelId": "UC7Gb7Uawe20QyFibhLl1lzA",
+      "title": "HEY!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-11T12:15:00Z",
+      "activeLiveChatId": "Cg0KC1ZtQ181YWJtbFd3KicKGFVDN0diN1Vhd2UyMFF5RmliaExsMWx6QRILVm1DXzVhYm1sV3c"
+    }
   }
 }
