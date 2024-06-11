@@ -1213,8 +1213,18 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-11T14:27:17Z",
       "actualEndTime": "2024-06-11T16:37:40Z",
-      "scheduledStartTime": "2024-06-11T14:30:00Z",
-      "activeLiveChatId": "Cg0KC3ZPck1RS3NidzMwKicKGFVDS1pPVkNQMDZCZ1BkSWdXTDA0NjdBQRILdk9yTVFLc2J3MzA"
+      "scheduledStartTime": "2024-06-11T14:30:00Z"
+    }
+  },
+  "bd_pIOJq2g8": {
+    "snippet": {
+      "publishedAt": "2024-06-11T16:51:41Z",
+      "channelId": "UCKZOVCP06BgPdIgWL0467AA",
+      "title": "\u3010PLATFORM 8\u3011LET ME OUT AGAIN!!!\u3010CADENCE NINE\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-14T12:00:00Z",
+      "activeLiveChatId": "Cg0KC2JkX3BJT0pxMmc4KicKGFVDS1pPVkNQMDZCZ1BkSWdXTDA0NjdBQRILYmRfcElPSnEyZzg"
     }
   }
 }
