@@ -1024,18 +1024,6 @@
       "activeLiveChatId": "Cg0KCzdQQ2lqUDNBa2MwKicKGFVDNmtsYVItRVQ2MjdLamZJT28xbDJnURILN1BDaWpQM0FrYzA"
     }
   },
-  "7PcrvrS5rXM": {
-    "snippet": {
-      "publishedAt": "2024-06-09T10:21:18Z",
-      "channelId": "UCRkdFGXwBtxvm9SsfmNmMZA",
-      "title": "Apex endurance Training until I have the first W(?)\ud83d\udc7c"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-11T15:00:31Z",
-      "scheduledStartTime": "2024-06-11T15:00:00Z",
-      "activeLiveChatId": "Cg0KCzdQY3J2clM1clhNKicKGFVDUmtkRkdYd0J0eHZtOVNzZm1ObU1aQRILN1BjcnZyUzVyWE0"
-    }
-  },
   "7Y9zo0uiBlQ": {
     "snippet": {
       "publishedAt": "2024-06-10T16:36:13Z",
@@ -5150,7 +5138,9 @@
       "title": "\u300e KARAOKE DAY \u300fEmo Version... No jaja, just ueueue | #OSHICelanis #OshiLinkEN"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-11T17:30:00Z"
+      "actualStartTime": "2024-06-11T17:32:54Z",
+      "scheduledStartTime": "2024-06-11T17:30:00Z",
+      "activeLiveChatId": "Cg0KC2N0aV9aLVlSZ25JKicKGFVDTndZNlpIMjd2WkRqUmgyQzluc0NqdxILY3RpX1otWVJnbkk"
     }
   },
   "d-U2t6BuMNU": {
@@ -5594,18 +5584,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-12T02:00:00Z",
       "activeLiveChatId": "Cg0KC2ZxSFZWZUVlc21BKicKGFVDNjRETUFZWG80bndURmZ2TlF6a1N3URILZnFIVlZlRWVzbUE"
-    }
-  },
-  "g-2WOfvIXQE": {
-    "snippet": {
-      "publishedAt": "2024-06-11T00:37:27Z",
-      "channelId": "UCn7IbVBtkoUaZELqtrb9qNQ",
-      "title": "\u3010LEAGUE OF LEGEND\u3011why am I here ??????\u3010ArashiNebula_HOSHIZORA\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-11T13:02:29Z",
-      "scheduledStartTime": "2024-06-11T13:00:00Z",
-      "activeLiveChatId": "Cg0KC2ctMldPZnZJWFFFKicKGFVDbjdJYlZCdGtvVWFaRUxxdHJiOXFOURILZy0yV09mdklYUUU"
     }
   },
   "gK31rX-EsIw": {
@@ -7799,6 +7777,17 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC3hoejNaZUhYaVI4KicKGFVDZWpiaWNvUm5RakNPZEFQQXY1SlB3ZxILeGh6M1plSFhpUjg"
+    }
+  },
+  "xiulanlong": {
+    "snippet": {
+      "channelId": "xiulanlong",
+      "title": "[VTUBER] Geoguesser all the way! We travellin! (\u25cd\u2022\u1d17\u2022\u25cd) !cover !discord !merch",
+      "channelTitle": "XiulanLong"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-11T17:34:40Z",
+      "twitch": true
     }
   },
   "xo5o3O1xHoE": {
