@@ -771,6 +771,7 @@
       "title": "\u3010\u30da\u30eb\u30bd\u30ca3 \u30ea\u30ed\u30fc\u30c9/P3R\u301107:\u5897\u3048\u305f\u529b\u3001\u6575\u304b\u5473\u65b9\u304b \u203b\u30cd\u30bf\u30d0\u30ec\u3042\u308a\u3010\u5148\u6597\u5be7/\u306b\u3058\u3055\u3093\u3058\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-11T13:00:06Z",
       "scheduledStartTime": "2024-06-11T13:00:00Z",
       "activeLiveChatId": "Cg0KCzVhTzE5S3lDZ0VvKicKGFVDZTIyQmN3ZF9HQ3BUakx4bjgzemw3QRILNWFPMTlLeUNnRW8"
     }
@@ -1503,7 +1504,8 @@
       "title": "\u3010Potion Permit\u3011The people love me now!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-11T13:00:47Z",
+      "actualStartTime": "2024-06-11T13:00:49Z",
+      "scheduledStartTime": "2024-06-11T13:00:36Z",
       "activeLiveChatId": "Cg0KC0QtUUNnclF0SEJvKicKGFVDN3NxYlE0XzVfRUx6LU92LWJWQmk4QRILRC1RQ2dyUXRIQm8"
     }
   },
@@ -2173,18 +2175,6 @@
       "activeLiveChatId": "Cg0KC0hYWU5CelJjNXk0KicKGFVDbTZKTVZLeGc4UHZKamwzRjdKMHRkURILSFhZTkJ6UmM1eTQ"
     }
   },
-  "H_ldjLT3Sxs": {
-    "snippet": {
-      "publishedAt": "2024-06-10T20:53:43Z",
-      "channelId": "UC_lUyHT9gyGffD15oNaFRgw",
-      "title": "we're PROFESSIONAL CHEFS dayo! \u3010Plate Up\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-11T08:29:37Z",
-      "scheduledStartTime": "2024-06-11T08:15:00Z",
-      "activeLiveChatId": "Cg0KC0hfbGRqTFQzU3hzKicKGFVDX2xVeUhUOWd5R2ZmRDE1b05hRlJndxILSF9sZGpMVDNTeHM"
-    }
-  },
   "HdY5qOWBQRo": {
     "snippet": {
       "publishedAt": "2023-10-15T06:40:33Z",
@@ -2423,6 +2413,7 @@
       "title": "\u3010#ZCORust D1\u3011WE'RE ROLEPLAYING! THE DAWN OF THE NEW WORLD!  | DAY/BREAK #VTuber"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-11T12:58:23Z",
       "scheduledStartTime": "2024-06-11T12:30:00Z",
       "activeLiveChatId": "Cg0KC0pGSUJFMnNJMlpjKicKGFVDWThKSUcwU1RNdldCa3k2T0tXaDlOURILSkZJQkUyc0kyWmM"
     }
@@ -2759,6 +2750,7 @@
       "title": "\u22c6\u263e League of Legends \u263d We got the spirit you kno\u3010 #collab / #malaysiavtuber / #elfiemago \u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-11T13:01:06Z",
       "scheduledStartTime": "2024-06-11T13:00:00Z",
       "activeLiveChatId": "Cg0KC0xEVElLZHpneVJBKicKGFVDSEd1b0lyOWlEeEcwN3ZJT09YVEk4QRILTERUSUtkemd5UkE"
     }
@@ -5673,7 +5665,7 @@
   "gx_aura": {
     "snippet": {
       "channelId": "gx_aura",
-      "title": "\ud83c\udf88 CHARITY BIRTHDAY STREAM! Raising money for Great Ormond Street Hospital! !charity [Birthday Stream]",
+      "title": "\ud83c\udf88 CHARITY BIRTHDAY STREAM! Raising money for Great Ormond Street Hospital! !charity [Birthday Stream] | !birthdaymerch",
       "channelTitle": "GX_Aura"
     },
     "liveStreamingDetails": {
@@ -6044,6 +6036,7 @@
       "title": "\u3010MINECRAFT\u3011 T-This time... I'll be a w-warrior!!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-11T13:00:32Z",
       "scheduledStartTime": "2024-06-11T13:00:00Z",
       "activeLiveChatId": "Cg0KC2pjV1JwXzdpNjBFKicKGFVDYnJiRktGaHlIRDRiTUpiRWNYWnoxZxILamNXUnBfN2k2MEU"
     }
@@ -6120,6 +6113,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-11T13:00:00Z",
       "activeLiveChatId": "Cg0KC2toMmVvejg2X1NVKicKGFVDNDE3UVBhV0xMNHJjWUJBRVNQTGZyQRILa2gyZW96ODZfU1U"
+    }
+  },
+  "kirispica": {
+    "snippet": {
+      "channelId": "kirispica",
+      "title": "My warrior arc begins!! \u3010Kirispica | V-Dere\u3011",
+      "channelTitle": "kirispica"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-11T12:59:55Z",
+      "twitch": true
     }
   },
   "kn4jZ6p3hCs": {
@@ -6334,6 +6338,7 @@
       "title": "\u3010SHADY PART OF ME\u3011here i go...\u3010Elazul Roy\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-11T12:58:19Z",
       "scheduledStartTime": "2024-06-11T13:00:00Z",
       "activeLiveChatId": "Cg0KC203XzFtMzRrTWtzKicKGFVDVHoxRmtvRUU2UWUtRV9nRC1NNjdRdxILbTdfMW0zNGtNa3M"
     }
@@ -6529,6 +6534,18 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-11T21:00:00Z",
       "activeLiveChatId": "Cg0KC25faFhRMU9aVkVNKicKGFVDel84enRROXJjdV9VcFVwMGh2N2JZdxILbl9oWFExT1pWRU0"
+    }
+  },
+  "nk8blA4uoXo": {
+    "snippet": {
+      "publishedAt": "2024-06-11T12:58:46Z",
+      "channelId": "UCsaCRWOX3IInUOSj-XRUCpg",
+      "title": "[Gaming] Let's Chat with Yagami Noah\uff5cVTuber /GTA5 in Street Junkies #\u30b9\u30c8\u30b8\u30e3\u30f3\u3010GTA5\u3011\u65e5\u672c\u8a9e/PC"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-11T12:59:56Z",
+      "scheduledStartTime": "2024-06-11T13:00:00Z",
+      "activeLiveChatId": "Cg0KC25rOGJsQTR1b1hvKicKGFVDc2FDUldPWDNJSW5VT1NqLVhSVUNwZxILbms4YmxBNHVvWG8"
     }
   },
   "nnAY-x9AtNk": {
