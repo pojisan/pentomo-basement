@@ -857,6 +857,7 @@
       "title": "LET'S SHOOT ZOMBIES TOGETHER!! \ud83d\udc97 \u3010 L4D2 | MEMBERS ONLY \u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-11T03:26:34Z",
       "scheduledStartTime": "2024-06-11T03:00:00Z",
       "activeLiveChatId": "Cg0KCzZ4UVFPVi10dTJFKicKGFVDWWFkWlI5bVJpZ254NFJLdlBvdzQ0ZxILNnhRUU9WLXR1MkU"
     }
@@ -1151,18 +1152,6 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KCzlpeUVWYTBGVVVJKicKGFVDLVcteWFWSWpxa1hvaDZkWjZfVGNNQRILOWl5RVZhMEZVVUk"
-    }
-  },
-  "9mZPlRYhGaw": {
-    "snippet": {
-      "publishedAt": "2024-06-09T20:17:19Z",
-      "channelId": "UCoAw3SML_09dF-7yhQU8wFQ",
-      "title": "fudge them kids"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-11T02:00:48Z",
-      "scheduledStartTime": "2024-06-11T02:00:38Z",
-      "activeLiveChatId": "Cg0KCzltWlBsUlloR2F3KicKGFVDb0F3M1NNTF8wOWRGLTd5aFFVOHdGURILOW1aUGxSWWhHYXc"
     }
   },
   "9mimOumGH_g": {
@@ -2226,6 +2215,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-12T00:00:00Z",
       "activeLiveChatId": "Cg0KC0lTMVI5eWlmams0KicKGFVDVlFFYmpBY0pSZVB4T0RWTTVtV0N2URILSVMxUjl5aWZqazQ"
+    }
+  },
+  "ISZc53LFrMA": {
+    "snippet": {
+      "publishedAt": "2024-06-11T03:22:42Z",
+      "channelId": "UCpzxZW5kghGnO5TmAFJQAVw",
+      "title": "APEX MASTERS GRIND ft. @ClaudeClawmark & @RyomaBarrenwort"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-12T03:00:00Z",
+      "activeLiveChatId": "Cg0KC0lTWmM1M0xGck1BKicKGFVDcHp4Wlc1a2doR25PNVRtQUZKUUFWdxILSVNaYzUzTEZyTUE"
     }
   },
   "IUkGZDN7huQ": {
@@ -4815,7 +4815,7 @@
       "title": "MORE Worldless Gaming uwu (flashing lights)"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-11T03:35:00Z",
+      "scheduledStartTime": "2024-06-11T03:40:00Z",
       "activeLiveChatId": "Cg0KC2FxbGpubGl5SklBKicKGFVDQmdoVUtBX0wwbmEwU2VRNnNuek1NURILYXFsam5saXlKSUE"
     }
   },
@@ -5607,17 +5607,6 @@
       "activeLiveChatId": "Cg0KC2hweDFlTHE5aExFKicKGFVDblloSWs5YUdFeF9iSWdoZVZqczUzdxILaHB4MWVMcTloTEU"
     }
   },
-  "hunikinn": {
-    "snippet": {
-      "channelId": "hunikinn",
-      "title": "NO LONGER DYING WOOOOO!!! |  !merch !discord !twitter",
-      "channelTitle": "Hunikinn"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-10T23:27:05Z",
-      "twitch": true
-    }
-  },
   "hvbd782pD4w": {
     "snippet": {
       "publishedAt": "2024-05-07T14:54:05Z",
@@ -6012,6 +6001,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-12-31T15:45:00Z",
       "activeLiveChatId": "Cg0KC2xydm9FbUZfZDkwKicKGFVDMWVYX01Wck4wRUJLZHBrbjliLWpodxILbHJ2b0VtRl9kOTA"
+    }
+  },
+  "luluthebard": {
+    "snippet": {
+      "channelId": "luluthebard",
+      "title": "1ROAD TO CEO STREET FIGHTER EDITION | Return To Unga",
+      "channelTitle": "LuLuTheBard"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-11T03:24:05Z",
+      "twitch": true
     }
   },
   "lymzkbD9NVI": {
