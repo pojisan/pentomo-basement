@@ -4682,18 +4682,6 @@
       "activeLiveChatId": "Cg0KC1pmZGQyb3VNMUZNKicKGFVDdDJuWDZ2RVVUMElrNmQycGVWT2pEdxILWmZkZDJvdU0xRk0"
     }
   },
-  "ZxPd3-sQ8SU": {
-    "snippet": {
-      "publishedAt": "2024-06-11T10:51:56Z",
-      "channelId": "UCUI1qpjJSEbgzdlwmpdVmMw",
-      "title": "\u3010Minecraft\u3011Our PERFECT & PEACEFUL Start!! 2\u250aSurvival Let's Play #1\u3010Twisty Amanozako | NIJISANJI EN\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-11T10:55:01Z",
-      "scheduledStartTime": "2024-06-11T11:00:00Z",
-      "activeLiveChatId": "Cg0KC1p4UGQzLXNROFNVKicKGFVDVUkxcXBqSlNFYmd6ZGx3bXBkVm1NdxILWnhQZDMtc1E4U1U"
-    }
-  },
   "_-TIgyRvkoE": {
     "snippet": {
       "publishedAt": "2024-05-08T02:36:45Z",
@@ -4962,6 +4950,17 @@
       "activeLiveChatId": "Cg0KC2FwQ2I3Rzk2a09nKicKGFVDa2ItcjcwMnVoeDQtNkxybWV0cC1PdxILYXBDYjdHOTZrT2c"
     }
   },
+  "apollomythos": {
+    "snippet": {
+      "channelId": "apollomythos",
+      "title": "18+ \u2600\ufe0fSun Mommy Goddess ll Chatting + Gaming (SOUND ALERTS R ON PLZ BE KIND) \u3010!discord\u3011\u3010!mythos\u3011\u3010!raid\u3011\u3010!Donate\u3011",
+      "channelTitle": "ApolloMythos"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-11T14:00:15Z",
+      "twitch": true
+    }
+  },
   "auCkpoNM1yE": {
     "snippet": {
       "publishedAt": "2024-03-24T19:34:20Z",
@@ -5076,6 +5075,7 @@
       "title": "SUPERMARKET"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-11T14:01:11Z",
       "scheduledStartTime": "2024-06-11T14:00:00Z",
       "activeLiveChatId": "Cg0KC2J6d2xXT205MFo4KicKGFVDb05oejRPcXl4ZEV1dWZtRXo4ZW95QRILYnp3bFdPbTkwWjg"
     }
@@ -6743,6 +6743,7 @@
       "title": "\u3010BIRTHDAY COUNTDOWN\u3011I got older!\u3010NIJISANJI EN | Ike Eveland\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-11T13:58:41Z",
       "scheduledStartTime": "2024-06-11T14:00:00Z",
       "activeLiveChatId": "Cg0KC293QnZhNXNFdjNzKicKGFVDNHlOSUtHdnktWVVyd1l1cFZkTERYQRILb3dCdmE1c0V2M3M"
     }
@@ -7014,17 +7015,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-04-28T09:00:00Z",
       "activeLiveChatId": "Cg0KC3JnZGk4YnRlUWdjKicKGFVDOHpnS2FTOExpeUwyOG1kaFJDMm5CZxILcmdkaThidGVRZ2M"
-    }
-  },
-  "riyu_thelamb": {
-    "snippet": {
-      "channelId": "riyu_thelamb",
-      "title": "YEEHAW\u3010PROJECT VERSES\u3011",
-      "channelTitle": "riyu_thelamb"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-11T10:29:50Z",
-      "twitch": true
     }
   },
   "rn2SX1mvIyc": {
@@ -7499,7 +7489,7 @@
       "title": "\u3010IT TAKES TWO\u3011TWO is better than ONE w/ @AiShinju \u3010CADENCE NINE\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-11T14:00:00Z",
+      "scheduledStartTime": "2024-06-11T14:15:00Z",
       "activeLiveChatId": "Cg0KC3ZPck1RS3NidzMwKicKGFVDS1pPVkNQMDZCZ1BkSWdXTDA0NjdBQRILdk9yTVFLc2J3MzA"
     }
   },
@@ -7801,6 +7791,7 @@
       "title": "Andrew & Ashley Unleashed! - The Coffin of Andy and Leyley \u3010NIJISANJI EN | Fulgur Ovid\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-11T14:00:34Z",
       "scheduledStartTime": "2024-06-11T14:00:00Z",
       "activeLiveChatId": "Cg0KC3hvNW8zTzF4SG9FKicKGFVDR2hxeGhvdk5mYVBCcHhmQ3J1eTlFQRILeG81bzNPMXhIb0U"
     }
