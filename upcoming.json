@@ -1604,6 +1604,7 @@
       "title": "Babysit me until I eep? Cat meme time!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-11T20:22:05Z",
       "scheduledStartTime": "2024-06-11T20:30:00Z",
       "activeLiveChatId": "Cg0KC0RiQUNKdGItRjNnKicKGFVDLWhNd3ZSdU1zUXJmZ3UwRFBLTFYyQRILRGJBQ0p0Yi1GM2c"
     }
@@ -3215,6 +3216,7 @@
       "title": "20 second drawings but i can't draw"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-11T20:31:11Z",
       "scheduledStartTime": "2024-06-11T20:30:00Z",
       "activeLiveChatId": "Cg0KC050RGROVVZjd3BnKicKGFVDeUY3U2VJeVdsVXpua19zZ19YakM4URILTnREZE5VVmN3cGc"
     }
@@ -6851,6 +6853,17 @@
       "activeLiveChatId": "Cg0KC3E2WWsxcVVxMEFNKicKGFVDSzZvQ01pYjYyZVlBSVBybHJZUlZydxILcTZZazFxVXEwQU0"
     }
   },
+  "qADzHvGBKnk": {
+    "snippet": {
+      "publishedAt": "2024-06-11T20:22:47Z",
+      "channelId": "UCPm_htRQjzhgFikcO_LTvTA",
+      "title": "\u3010Powerwash Simulator\u3011uh oh stinky"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-12T01:00:00Z",
+      "activeLiveChatId": "Cg0KC3FBRHpIdkdCS25rKicKGFVDUG1faHRSUWp6aGdGaWtjT19MVHZUQRILcUFEekh2R0JLbms"
+    }
+  },
   "qCJftg8nnzw": {
     "snippet": {
       "publishedAt": "2024-05-06T14:53:27Z",
@@ -7062,7 +7075,7 @@
       "title": "\u3010HOLOMYTH MINECRAFT\u30115 refined ladies 1 block! (part 1)"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-14T22:00:00Z",
+      "scheduledStartTime": "2024-06-15T03:00:00Z",
       "activeLiveChatId": "Cg0KC3NOQ3hGM2xMakFzKicKGFVDTF9xaGd0T3kwZHkxQWdwOHZreVNRZxILc05DeEYzbExqQXM"
     }
   },
@@ -7522,6 +7535,17 @@
       "scheduledStartTime": "2024-06-15T20:00:00Z",
       "activeLiveChatId": "Cg0KC3ZZRHpfNHd1MkVFKicKGFVDLVkzZXZNeDdNWGJWZVNiUktRM2dOdxILdllEel80d3UyRUU",
       "premiere": true
+    }
+  },
+  "valentinevt": {
+    "snippet": {
+      "channelId": "valentinevt",
+      "title": "I feel the trauma in barotrauma | Collab",
+      "channelTitle": "ValentineVT"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-11T20:21:33Z",
+      "twitch": true
     }
   },
   "vbhfY2vFttc": {
