@@ -3,10 +3,23 @@
     "snippet": {
       "publishedAt": "2024-06-09T08:59:22Z",
       "channelId": "UCxIuBwvl3SvIwWx49vd-LUw",
-      "title": "Usa Ahmya \ud83d\udc7e \ud83d\udc30\u3010V-SEA\u3011 Live Stream"
+      "title": "Usa Ahmya \ud83d\udc7e \ud83d\udc30\u3010V-SEA\u3011 Live Stream",
+      "private": true
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KCzh4eVhzQWJCc3JrKicKGFVDeEl1Qnd2bDNTdkl3V3g0OXZkLUxVdxILOHh5WHNBYkJzcms"
+    }
+  },
+  "TZVHjKKP4d4": {
+    "snippet": {
+      "publishedAt": "2024-06-11T06:47:55Z",
+      "channelId": "UCxIuBwvl3SvIwWx49vd-LUw",
+      "title": "Japan trip chat! Lets catch up!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-11T06:48:40Z",
+      "scheduledStartTime": "2024-06-11T07:00:30Z",
+      "activeLiveChatId": "Cg0KC1RaVkhqS0tQNGQ0KicKGFVDeEl1Qnd2bDNTdkl3V3g0OXZkLUxVdxILVFpWSGpLS1A0ZDQ"
     }
   }
 }
