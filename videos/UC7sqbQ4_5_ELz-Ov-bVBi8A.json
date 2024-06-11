@@ -211,8 +211,20 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-11T16:01:58Z",
-      "scheduledStartTime": "2024-06-11T16:01:21Z",
-      "activeLiveChatId": "Cg0KC2padWwyQ1dfaWFJKicKGFVDN3NxYlE0XzVfRUx6LU92LWJWQmk4QRILalp1bDJDV19pYUk"
+      "actualEndTime": "2024-06-11T19:06:19Z",
+      "scheduledStartTime": "2024-06-11T16:01:21Z"
+    }
+  },
+  "eLBlL_UgzJ8": {
+    "snippet": {
+      "publishedAt": "2024-06-11T19:07:04Z",
+      "channelId": "UC7sqbQ4_5_ELz-Ov-bVBi8A",
+      "title": "\u3010Mater Duel\u3011This wasn't planned"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-11T19:07:16Z",
+      "scheduledStartTime": "2024-06-11T19:07:05Z",
+      "activeLiveChatId": "Cg0KC2VMQmxMX1Vneko4KicKGFVDN3NxYlE0XzVfRUx6LU92LWJWQmk4QRILZUxCbExfVWd6Sjg"
     }
   }
 }
