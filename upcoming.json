@@ -601,6 +601,7 @@
       "title": "\u3010KARAOKE\u301125K Casual Celebration\u3010Yae Yugiri | V4Mirai | VTuber\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-11T23:10:12Z",
       "scheduledStartTime": "2024-06-11T23:00:00Z",
       "activeLiveChatId": "Cg0KCzNyYk5nZEp2R05FKicKGFVDYkRISVMwTnBYUk9oWWpzYVhRWDRwQRILM3JiTmdkSnZHTkU"
     }
@@ -1044,6 +1045,7 @@
       "title": "\u3010PROJECT ZOMBOID \u3011 ANGEL VS ZOMBIES (w/ NIJI EN) \u3010NIJISANJI EN | Aia Amare \u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-11T23:09:47Z",
       "scheduledStartTime": "2024-06-11T23:00:00Z",
       "activeLiveChatId": "Cg0KCzdfejZiX21mR1dnKicKGFVDTjY4TG9NM2toUzRnZEJNaVdKTzhXQRILN196NmJfbWZHV2c"
     }
@@ -3667,6 +3669,17 @@
       "activeLiveChatId": "Cg0KC1FlQmwzcno4eTdjKicKGFVDbWwtcjVhVHM0SkdlRWVYVUZuWjdlURILUWVCbDNyejh5N2M"
     }
   },
+  "QeWG4hq5F44": {
+    "snippet": {
+      "publishedAt": "2024-06-11T23:01:08Z",
+      "channelId": "UCKzKgU-xlncdEG5WouqTfyg",
+      "title": "\u3010Paper Mario: Thousand Year Door\u3011How  do I Save Peach from a Sussy AI?!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-12T00:00:00Z",
+      "activeLiveChatId": "Cg0KC1FlV0c0aHE1RjQ0KicKGFVDS3pLZ1UteGxuY2RFRzVXb3VxVGZ5ZxILUWVXRzRocTVGNDQ"
+    }
+  },
   "QenOWrxinZM": {
     "snippet": {
       "publishedAt": "2024-06-10T08:17:10Z",
@@ -5038,6 +5051,17 @@
       "twitch": true
     }
   },
+  "aoOhQ5J7XZE": {
+    "snippet": {
+      "publishedAt": "2024-06-11T23:03:29Z",
+      "channelId": "UCckdfYDGrjojJM28n5SHYrA",
+      "title": "WHAT"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-11T23:15:00Z",
+      "activeLiveChatId": "Cg0KC2FvT2hRNUo3WFpFKicKGFVDY2tkZllER3Jqb2pKTTI4bjVTSFlyQRILYW9PaFE1SjdYWkU"
+    }
+  },
   "apCb7G96kOg": {
     "snippet": {
       "publishedAt": "2024-06-10T14:30:56Z",
@@ -5320,7 +5344,7 @@
   "dee_the_sphinx": {
     "snippet": {
       "channelId": "dee_the_sphinx",
-      "title": "\ud83d\udd06Taking a sick DEEy\ud83d\udd06!trailer !discord [Vtuber]",
+      "title": "Dee is not feeling her best BE NICE TO HER EVERYONE!! >:C  \ud83d\udd06!discord [Vtuber]",
       "channelTitle": "Dee_the_Sphinx"
     },
     "liveStreamingDetails": {
@@ -7384,18 +7408,6 @@
       "activeLiveChatId": "Cg0KC3VHRlc5cXdHamtVKicKGFVDcXczcGRQRUtLVk9JN1NGWG9teUtMQRILdUdGVzlxd0dqa1U"
     }
   },
-  "uGchwvtM4BU": {
-    "snippet": {
-      "publishedAt": "2024-06-11T16:08:53Z",
-      "channelId": "UCa7fhTz-VSEIaGt8j6jab6A",
-      "title": "\u3010FARMING SIMULATOR 2022\u3011This rabbit yearns for agricultural labour"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-11T21:01:34Z",
-      "scheduledStartTime": "2024-06-11T21:00:47Z",
-      "activeLiveChatId": "Cg0KC3VHY2h3dnRNNEJVKicKGFVDYTdmaFR6LVZTRUlhR3Q4ajZqYWI2QRILdUdjaHd2dE00QlU"
-    }
-  },
   "uULw226YJno": {
     "snippet": {
       "publishedAt": "2024-06-05T20:47:05Z",
@@ -7793,6 +7805,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-14T02:00:00Z",
       "activeLiveChatId": "Cg0KC3dpam5jUXp1SzFvKicKGFVDc1FxazRjbjhwbGpVZWFkWWJVVmd5ZxILd2lqbmNRenVLMW8"
+    }
+  },
+  "wildspice": {
+    "snippet": {
+      "channelId": "wildspice",
+      "title": "Local Demon Does MORE Dreamhack Dallas Photo Edits #OshiLinkEN !kofi !model",
+      "channelTitle": "WildSpice"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-11T23:11:17Z",
+      "twitch": true
     }
   },
   "wjDz5GbSQxo": {
