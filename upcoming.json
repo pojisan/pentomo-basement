@@ -4307,7 +4307,7 @@
       "title": "\u3010Idol Showdown\u3011Throwing down with @oumiyaemma \u3010Fionna fon Engels \u2661 Project: Verses\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-15T14:00:00Z",
+      "scheduledStartTime": "2024-06-22T14:00:00Z",
       "activeLiveChatId": "Cg0KC1cyUVgyWEFOSko0KicKGFVDb3ZLd2dBOWVIVXV0SVdDVldTX0FHdxILVzJRWDJYQU5KSjQ"
     }
   },
@@ -6959,7 +6959,7 @@
       "title": "\u3010Hades II\u3011Conquering second boss!\u3010Fionna fon Engels \u2661 Project: Verses\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-12T00:00:00Z",
+      "scheduledStartTime": "2024-06-11T23:00:00Z",
       "activeLiveChatId": "Cg0KC3JFNFVBWmYtam4wKicKGFVDb3ZLd2dBOWVIVXV0SVdDVldTX0FHdxILckU0VUFaZi1qbjA"
     }
   },
@@ -7077,6 +7077,7 @@
       "title": "\u3010 LIVE \ud83d\udd343Dio Yandere Idol RP ASMR\u3011My Yandere Idol's Sweet Obsession\u3010Love Bomb | Kidnapping | Kisses\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-11T22:42:06Z",
       "scheduledStartTime": "2024-06-11T22:30:00Z",
       "activeLiveChatId": "Cg0KC3NRQ1RLbkF3YzRNKicKGFVDRVk5Q25TSDBuMFFLbVkyUS1PSDdadxILc1FDVEtuQXdjNE0"
     }
@@ -7134,6 +7135,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-14T15:00:00Z",
       "activeLiveChatId": "Cg0KC3NaSEhsb0duTzJVKicKGFVDUmtkRkdYd0J0eHZtOVNzZm1ObU1aQRILc1pISGxvR25PMlU"
+    }
+  },
+  "shirozevalia": {
+    "snippet": {
+      "channelId": "shirozevalia",
+      "title": "Returning to Eorzea come and chill with me!",
+      "channelTitle": "ShiroZevalia"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-11T22:51:05Z",
+      "twitch": true
     }
   },
   "skTCKgM7biI": {
@@ -7307,6 +7319,7 @@
       "title": "For Family Honor | Chinese Parents"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-11T22:43:09Z",
       "scheduledStartTime": "2024-06-11T22:45:00Z",
       "activeLiveChatId": "Cg0KC3VDd1ZlVHZwZU1FKicKGFVDOThpUk12UnFVeFJENkdQNE50UnNrdxILdUN3VmVUdnBlTUU"
     }
