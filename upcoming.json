@@ -487,6 +487,18 @@
       "activeLiveChatId": "Cg0KCzMyOXRkdmduTlVjKicKGFVDM0ZXU2RoX0t0RUxhZWU4dDQwMEpiQRILMzI5dGR2Z25OVWM"
     }
   },
+  "38t4H0hElr0": {
+    "snippet": {
+      "publishedAt": "2024-06-11T21:35:36Z",
+      "channelId": "UCsQqk4cn8pljUeadYbUVgyg",
+      "title": "???"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-15T04:00:00Z",
+      "activeLiveChatId": "Cg0KCzM4dDRIMGhFbHIwKicKGFVDc1FxazRjbjhwbGpVZWFkWWJVVmd5ZxILMzh0NEgwaEVscjA",
+      "premiere": true
+    }
+  },
   "3Dm-bqdTn4g": {
     "snippet": {
       "publishedAt": "2023-01-04T08:17:47Z",
@@ -980,18 +992,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-15T15:00:00Z",
       "activeLiveChatId": "Cg0KCzdEV25ReU9Gb2JjKicKGFVDdTFJTnplZnczUjdNOS0zUUVIWW1NURILN0RXblF5T0ZvYmM"
-    }
-  },
-  "7FS8vF4cRWA": {
-    "snippet": {
-      "publishedAt": "2024-06-05T02:24:32Z",
-      "channelId": "UCC4hjJp_MttwfZcuWc0OpVQ",
-      "title": "Started at the bottom AND WE'RE STILL HERE\u3010idolEN | Kai Saikota\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-11T20:02:11Z",
-      "scheduledStartTime": "2024-06-11T20:00:00Z",
-      "activeLiveChatId": "Cg0KCzdGUzh2RjRjUldBKicKGFVDQzRoakpwX010dHdmWmN1V2MwT3BWURILN0ZTOHZGNGNSV0E"
     }
   },
   "7PC11e3umPE": {
@@ -1617,18 +1617,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-22T21:00:00Z",
       "activeLiveChatId": "Cg0KC0RUbDNudFcxLVRJKicKGFVDSDhtRE16YVI1TUdGZENGNFdkc0dEQRILRFRsM250VzEtVEk"
-    }
-  },
-  "DbACJtb-F3g": {
-    "snippet": {
-      "publishedAt": "2024-06-11T20:15:12Z",
-      "channelId": "UC-hMwvRuMsQrfgu0DPKLV2A",
-      "title": "Babysit me until I eep? Cat meme time!"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-11T20:22:05Z",
-      "scheduledStartTime": "2024-06-11T20:30:00Z",
-      "activeLiveChatId": "Cg0KC0RiQUNKdGItRjNnKicKGFVDLWhNd3ZSdU1zUXJmZ3UwRFBLTFYyQRILRGJBQ0p0Yi1GM2c"
     }
   },
   "De2qLB8Lu-4": {
@@ -5273,6 +5261,7 @@
       "title": "\u3010REACT\u3011comfy c0nsp!r@cy cor3 :3"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-11T21:48:50Z",
       "scheduledStartTime": "2024-06-11T21:45:00Z",
       "activeLiveChatId": "Cg0KC2RnLTZBV3BRVGxnKicKGFVDNFlYMlp0NjZSNHVZcUxIRmt3UDFhdxILZGctNkFXcFFUbGc"
     }
@@ -5908,7 +5897,7 @@
       "title": "\u3010NEW PC\u3011o7 old pc 2019-2024\u3010Dokibird\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-11T22:00:00Z",
+      "scheduledStartTime": "2024-06-11T22:30:00Z",
       "activeLiveChatId": "Cg0KC2lvUk1hMkRhWmJNKicKGFVDb21JblcxME1rSEpzLV92aTRySFFDURILaW9STWEyRGFaYk0"
     }
   },
