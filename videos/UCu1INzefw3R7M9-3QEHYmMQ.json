@@ -24182,8 +24182,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-11T14:49:33Z",
-      "scheduledStartTime": "2024-06-11T14:45:00Z",
-      "activeLiveChatId": "Cg0KC0F5WEZZam5Zc0lJKicKGFVDdTFJTnplZnczUjdNOS0zUUVIWW1NURILQXlYRllqbllzSUk"
+      "actualEndTime": "2024-06-11T15:34:19Z",
+      "scheduledStartTime": "2024-06-11T14:45:00Z"
     }
   },
   "nozqNAy-WGY": {
@@ -24193,6 +24193,7 @@
       "title": "Pain. (Content Warning) [Higurashi Voice Acting Readalong]"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-11T15:37:54Z",
       "scheduledStartTime": "2024-06-11T15:30:00Z",
       "activeLiveChatId": "Cg0KC25venFOQXktV0dZKicKGFVDdTFJTnplZnczUjdNOS0zUUVIWW1NURILbm96cU5BeS1XR1k"
     }
