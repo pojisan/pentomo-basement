@@ -4849,8 +4849,19 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-11T13:58:41Z",
-      "scheduledStartTime": "2024-06-11T14:00:00Z",
-      "activeLiveChatId": "Cg0KC293QnZhNXNFdjNzKicKGFVDNHlOSUtHdnktWVVyd1l1cFZkTERYQRILb3dCdmE1c0V2M3M"
+      "actualEndTime": "2024-06-11T15:56:51Z",
+      "scheduledStartTime": "2024-06-11T14:00:00Z"
+    }
+  },
+  "Q57J07OXchE": {
+    "snippet": {
+      "publishedAt": "2024-06-11T16:01:20Z",
+      "channelId": "UC4yNIKGvy-YUrwYupVdLDXA",
+      "title": "Let's look at some birthday projects!\u3010NIJISANJI EN | Ike Eveland\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-12T00:00:00Z",
+      "activeLiveChatId": "Cg0KC1E1N0owN09YY2hFKicKGFVDNHlOSUtHdnktWVVyd1l1cFZkTERYQRILUTU3SjA3T1hjaEU"
     }
   }
 }

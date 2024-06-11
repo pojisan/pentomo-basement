@@ -3953,6 +3953,7 @@
       "title": "I performed on stage at OffKai!! \u3010 Kirispica | V-Dere \u3011 Full Performance Recording!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-11T16:00:08Z",
       "scheduledStartTime": "2024-06-11T16:00:00Z",
       "activeLiveChatId": "Cg0KC0E3bkxkOFRnbFZnKicKGFVDYnJiRktGaHlIRDRiTUpiRWNYWnoxZxILQTduTGQ4VGdsVmc",
       "premiere": true
@@ -3966,6 +3967,7 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-11T13:00:32Z",
+      "actualEndTime": "2024-06-11T16:00:26Z",
       "scheduledStartTime": "2024-06-11T13:00:00Z",
       "activeLiveChatId": "Cg0KC2pjV1JwXzdpNjBFKicKGFVDYnJiRktGaHlIRDRiTUpiRWNYWnoxZxILamNXUnBfN2k2MEU"
     }
