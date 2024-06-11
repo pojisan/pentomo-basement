@@ -1265,6 +1265,17 @@
       "activeLiveChatId": "Cg0KCzltaW1PdW1HSF9nKicKGFVDNjc4c0pucVR3bHNXd05rMlJXUksyZxILOW1pbU91bUdIX2c"
     }
   },
+  "9oiLgHpKNK0": {
+    "snippet": {
+      "publishedAt": "2024-06-11T21:20:56Z",
+      "channelId": "UCTFCSCPvqjXEs3zq91aeOVg",
+      "title": "TETE WITH KAI"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-11T23:00:00Z",
+      "activeLiveChatId": "Cg0KCzlvaUxnSHBLTkswKicKGFVDVEZDU0NQdnFqWEVzM3pxOTFhZU9WZxILOW9pTGdIcEtOSzA"
+    }
+  },
   "9xch8fxEqwU": {
     "snippet": {
       "publishedAt": "2024-06-11T03:38:37Z",
@@ -4798,6 +4809,7 @@
       "title": "\u3010AUTOPSY SIMULATOR\u3011I'll enjoy cutting you up ehe~\u3010Dr.NOVA(e) | V4Mirai | ENVtuber\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-11T21:30:32Z",
       "scheduledStartTime": "2024-06-11T21:30:00Z",
       "activeLiveChatId": "Cg0KC19TcDdka0ZZNWJVKicKGFVDMk5lNmREY0Z4bk0yaENCTGlpM0lVZxILX1NwN2RrRlk1YlU"
     }
@@ -5631,17 +5643,6 @@
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-14T15:00:00Z"
-    }
-  },
-  "gx_aura": {
-    "snippet": {
-      "channelId": "gx_aura",
-      "title": "\ud83c\udf88 CHARITY BIRTHDAY STREAM! Raising money for Great Ormond Street Hospital! !charity [Birthday Stream] | !birthdaymerch",
-      "channelTitle": "GX_Aura"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-11T11:59:20Z",
-      "twitch": true
     }
   },
   "h4426bmybDA": {
@@ -6668,18 +6669,6 @@
       "activeLiveChatId": "Cg0KC29pVENJRkJQR0drKicKGFVDSjRPNlBXQTQ3ZjZYYkNnckxRTnFFURILb2lUQ0lGQlBHR2s"
     }
   },
-  "ooAP5zaGgio": {
-    "snippet": {
-      "publishedAt": "2024-06-11T18:42:44Z",
-      "channelId": "UCB7qynJ9qp0cNWRFeBawB4A",
-      "title": "\u3010DEAD BY DAYLIGHT\u3011Hello there!!"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-11T19:35:43Z",
-      "scheduledStartTime": "2024-06-11T20:45:00Z",
-      "activeLiveChatId": "Cg0KC29vQVA1emFHZ2lvKicKGFVDQjdxeW5KOXFwMGNOV1JGZUJhd0I0QRILb29BUDV6YUdnaW8"
-    }
-  },
   "osz3bh5_u4E": {
     "snippet": {
       "publishedAt": "2023-12-11T23:01:45Z",
@@ -7141,17 +7130,6 @@
       "activeLiveChatId": "Cg0KC3NrVENLZ003YmlJKicKGFVDazB2dXd3c21fVVFISElPZ0d2eFUtQRILc2tUQ0tnTTdiaUk"
     }
   },
-  "starryyozzy": {
-    "snippet": {
-      "channelId": "starryyozzy",
-      "title": "Lets have a good day!! !candle !ADVGG  !fish !VITE !s4gs! #SHIRTMYSURVIVOR (plz)",
-      "channelTitle": "StarryYozzy"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-11T21:20:05Z",
-      "twitch": true
-    }
-  },
   "su2wbOAvLjI": {
     "snippet": {
       "publishedAt": "2023-11-20T14:49:46Z",
@@ -7312,7 +7290,7 @@
       "title": "For Family Honor | Chinese Parents"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-11T22:00:00Z",
+      "scheduledStartTime": "2024-06-11T22:45:00Z",
       "activeLiveChatId": "Cg0KC3VDd1ZlVHZwZU1FKicKGFVDOThpUk12UnFVeFJENkdQNE50UnNrdxILdUN3VmVUdnBlTUU"
     }
   },
