@@ -1210,8 +1210,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-12T14:41:11Z",
-      "scheduledStartTime": "2024-06-12T14:00:00Z",
-      "activeLiveChatId": "Cg0KC2ZmWkQ5SHJXc2VzKicKGFVDeUY3U2VJeVdsVXpua19zZ19YakM4URILZmZaRDlIcldzZXM"
+      "actualEndTime": "2024-06-12T18:46:25Z",
+      "scheduledStartTime": "2024-06-12T14:00:00Z"
     }
   },
   "Z4DiLcwVxQU": {
@@ -1244,6 +1244,7 @@
       "title": "fable anniversary edition (first time)"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-12T18:48:49Z",
       "scheduledStartTime": "2024-06-12T18:45:00Z",
       "activeLiveChatId": "Cg0KCzlRQ2xkVHd3dkpzKicKGFVDeUY3U2VJeVdsVXpua19zZ19YakM4URILOVFDbGRUd3d2SnM"
     }
