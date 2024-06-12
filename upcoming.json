@@ -157,6 +157,7 @@
       "title": "l;asdjkfa"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-12T15:54:46Z",
       "scheduledStartTime": "2024-06-12T15:45:00Z",
       "activeLiveChatId": "Cg0KCy13NU42dkRVdE5FKicKGFVDel9aUnc2YWs0Rm95OHpaeTBrRXByURILLXc1TjZ2RFV0TkU"
     }
@@ -4984,6 +4985,17 @@
       "activeLiveChatId": "Cg0KC2Nham5SUHE5RmhRKicKGFVDN1RDQ3R2ckV1OHFfUzVPdFJKaC1hURILY2FqblJQcTlGaFE"
     }
   },
+  "cynth_ai": {
+    "snippet": {
+      "channelId": "cynth_ai",
+      "title": "In Borf We Trust | Minecarft",
+      "channelTitle": "cynth_AI"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-12T16:01:13Z",
+      "twitch": true
+    }
+  },
   "d-U2t6BuMNU": {
     "snippet": {
       "publishedAt": "2023-06-12T16:00:17Z",
@@ -5293,6 +5305,7 @@
       "title": "\u3010Dead by Daylight\u3011NO PERKS ALLOWED\u3010globie 2nd Gen - Equinnox\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-12T15:59:24Z",
       "scheduledStartTime": "2024-06-12T16:00:00Z",
       "activeLiveChatId": "Cg0KC2ZSWnZhV0s4LVFZKicKGFVDUTNzX2tRWWYzUHVxT0t1OTBIcklxdxILZlJadmFXSzgtUVk"
     }
@@ -6001,7 +6014,7 @@
       "title": "[CUTE DEMON IN YOUR AREA] Click Here to Chat Now #shorts #shortsvideo #shortsfeed"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-12T16:00:00Z",
+      "scheduledStartTime": "2024-06-12T16:30:00Z",
       "activeLiveChatId": "Cg0KC2xqeWtmSXZEVzg0KicKGFVDS0pleGFkQ2VObzNsdTBVMjBza21OZxILbGp5a2ZJdkRXODQ"
     }
   },
@@ -6183,7 +6196,8 @@
       "title": "\u3010Persona 4 Golden\u3011KANJI FRRRRRR"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-12T16:00:00Z",
+      "actualStartTime": "2024-06-12T15:57:14Z",
+      "scheduledStartTime": "2024-06-12T15:55:04Z",
       "activeLiveChatId": "Cg0KC25FeUVHSmxVR0hjKicKGFVDc3d2ZDZfWVdtZDZyaVJrLThvVC1zQRILbkV5RUdKbFVHSGM"
     }
   },
@@ -7691,6 +7705,7 @@
       "title": "\u3010Tomb Raider: Legend\u3011PT 2 Stealing all of ojisan's important belongings\u3010VAllure\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-12T16:01:31Z",
       "scheduledStartTime": "2024-06-12T16:00:00Z",
       "activeLiveChatId": "Cg0KC3puWGk0b1hjMm0wKicKGFVDOE9GeFBaTjY5WTBZbllsUTdMTmwwZxILem5YaTRvWGMybTA"
     }
