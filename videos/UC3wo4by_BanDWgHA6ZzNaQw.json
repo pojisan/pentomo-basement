@@ -5120,8 +5120,18 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-12T02:02:13Z",
       "actualEndTime": "2024-06-12T05:58:51Z",
-      "scheduledStartTime": "2024-06-12T02:00:00Z",
-      "activeLiveChatId": "Cg0KCzFRWGx1SWxKbUZ3KicKGFVDM3dvNGJ5X0JhbkRXZ0hBNlp6TmFRdxILMVFYbHVJbEptRnc"
+      "scheduledStartTime": "2024-06-12T02:00:00Z"
+    }
+  },
+  "Br8r_3CrhS0": {
+    "snippet": {
+      "publishedAt": "2024-06-10T12:53:44Z",
+      "channelId": "UC3wo4by_BanDWgHA6ZzNaQw",
+      "title": "\u3010Payday 3\u3011Honor among thieves is the ancestor of all honor!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-13T02:00:38Z",
+      "activeLiveChatId": "Cg0KC0JyOHJfM0NyaFMwKicKGFVDM3dvNGJ5X0JhbkRXZ0hBNlp6TmFRdxILQnI4cl8zQ3JoUzA"
     }
   }
 }
