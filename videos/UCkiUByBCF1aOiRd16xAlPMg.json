@@ -3742,5 +3742,16 @@
       "actualEndTime": "2024-06-12T11:45:10Z",
       "scheduledStartTime": "2024-06-12T09:00:00Z"
     }
+  },
+  "z8rFDK-CccA": {
+    "snippet": {
+      "publishedAt": "2024-06-12T16:44:11Z",
+      "channelId": "UCkiUByBCF1aOiRd16xAlPMg",
+      "title": "Let's Sing!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-12T17:00:00Z",
+      "activeLiveChatId": "Cg0KC3o4ckZESy1DY2NBKicKGFVDa2lVQnlCQ0YxYU9pUmQxNnhBbFBNZxILejhyRkRLLUNjY0E"
+    }
   }
 }
