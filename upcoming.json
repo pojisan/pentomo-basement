@@ -4020,18 +4020,6 @@
       "activeLiveChatId": "Cg0KC1ZESlpTc0ZEbDZzKicKGFVDMXNtOUgyb3J2eW5EYWpjRTRqcll1ZxILVkRKWlNzRkRsNnM"
     }
   },
-  "VHMwi4UihwM": {
-    "snippet": {
-      "publishedAt": "2024-06-08T03:29:04Z",
-      "channelId": "UCoAQsc-DQ0MjfTp059otQAw",
-      "title": "\u3010RUNIE RUSEDAY #26\u3011I don't want to be left out!!!"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-12T00:01:09Z",
-      "scheduledStartTime": "2024-06-12T00:00:00Z",
-      "activeLiveChatId": "Cg0KC1ZITXdpNFVpaHdNKicKGFVDb0FRc2MtRFEwTWpmVHAwNTlvdFFBdxILVkhNd2k0VWlod00"
-    }
-  },
   "VMkhpmBSESk": {
     "snippet": {
       "publishedAt": "2024-03-31T04:48:24Z",
@@ -4802,7 +4790,7 @@
   "ami_35vt": {
     "snippet": {
       "channelId": "ami_35vt",
-      "title": "\u26a1{\u2693\ufe0fVFleet \u2693\ufe0f}\u26a1\ud83d\udc9c AMIATORS UNITE! \ud83d\udc9cCozy hangout in the sky!",
+      "title": "\u26a1{\u2693\ufe0fVFleet \u2693\ufe0f}\u26a1\ud83d\udc9c AMIATORS UNITE! \ud83d\udc9c let's chat",
       "channelTitle": "Ami_35VT"
     },
     "liveStreamingDetails": {
@@ -4850,18 +4838,6 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC2I0aE5McmdLUjRVKicKGFVDN0diN1Vhd2UyMFF5RmliaExsMWx6QRILYjRoTkxyZ0tSNFU"
-    }
-  },
-  "b6rCv8zYIsQ": {
-    "snippet": {
-      "publishedAt": "2024-06-11T03:59:34Z",
-      "channelId": "UChJ5FTsHOu72_5OVx0rvsvQ",
-      "title": "\u3010PROJECT ZOMBOID\u3011what's in your head, in your head\u3010NIJISANJI EN | Uki Violeta\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-12T00:08:46Z",
-      "scheduledStartTime": "2024-06-12T00:00:00Z",
-      "activeLiveChatId": "Cg0KC2I2ckN2OHpZSXNRKicKGFVDaEo1RlRzSE91NzJfNU9WeDBydnN2URILYjZyQ3Y4ellJc1E"
     }
   },
   "bA2rNEzAkPc": {
@@ -6105,6 +6081,7 @@
       "title": "my hidden place \ud83d\udcadVRCHAT\u3010Mono Monet \ud83d\udcad\ud83c\udfa8 V4Mirai\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-12T03:38:48Z",
       "scheduledStartTime": "2024-06-12T03:30:00Z",
       "activeLiveChatId": "Cg0KC2xyOHRfMktmeGo0KicKGFVDZHVib3RTeTRwUE9zaWFXNE1yWW4zURILbHI4dF8yS2Z4ajQ"
     }
@@ -6258,17 +6235,6 @@
       "twitch": true
     }
   },
-  "mumuguru": {
-    "snippet": {
-      "channelId": "mumuguru",
-      "title": "erm late night stream??",
-      "channelTitle": "mumuguru"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-12T02:18:01Z",
-      "twitch": true
-    }
-  },
   "n5D5GvXzXmY": {
     "snippet": {
       "publishedAt": "2023-12-11T14:51:50Z",
@@ -6321,6 +6287,7 @@
       "title": "\u3010 \u663c\u96d1 \u3011\u6c34\u66dc\u65e5\u3063\u3066\u307e\u3060\u9031\u306e\u771f\u3093\u4e2d\u3089\u3057\u3044\u3088\u3002\u3010\u306b\u3058\u3055\u3093\u3058/\u7345\u5b50\u5802\u3042\u304b\u308a\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-12T03:35:34Z",
       "scheduledStartTime": "2024-06-12T03:30:00Z",
       "activeLiveChatId": "Cg0KC25GYXcwSjVHRDRrKicKGFVDV1JQcUEwZWhoV1Y0SG5wMjdQSkNrURILbkZhdzBKNUdENGs"
     }
@@ -6956,6 +6923,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-14T15:00:00Z",
       "activeLiveChatId": "Cg0KC3NaSEhsb0duTzJVKicKGFVDUmtkRkdYd0J0eHZtOVNzZm1ObU1aQRILc1pISGxvR25PMlU"
+    }
+  },
+  "sayu": {
+    "snippet": {
+      "channelId": "sayu",
+      "title": "CATCHING UP! CH5 TIME!? then ANTS ASSEMBLE!! #ad\u2503!website !merch !ant",
+      "channelTitle": "Sayu"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-12T03:36:15Z",
+      "twitch": true
     }
   },
   "shirozevalia": {
