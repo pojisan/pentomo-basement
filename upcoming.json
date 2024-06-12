@@ -3645,18 +3645,6 @@
       "activeLiveChatId": "Cg0KC1JYNTZubWRFY1JFKicKGFVDQjFzX0lkTy1yMG5Va1kybVhldGktQRILUlg1Nm5tZEVjUkU"
     }
   },
-  "RhQ6UXZ98Mc": {
-    "snippet": {
-      "publishedAt": "2024-06-12T13:25:12Z",
-      "channelId": "UCxazidt7qQMNVW73wkpswOA",
-      "title": "\u3010GUERILLA\u3011TFT + yappin'!"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-12T15:30:19Z",
-      "scheduledStartTime": "2024-06-12T15:30:00Z",
-      "activeLiveChatId": "Cg0KC1JoUTZVWFo5OE1jKicKGFVDeGF6aWR0N3FRTU5WVzczd2twc3dPQRILUmhRNlVYWjk4TWM"
-    }
-  },
   "RoWe-kCzLbE": {
     "snippet": {
       "publishedAt": "2024-05-27T07:26:21Z",
@@ -5020,18 +5008,6 @@
       "activeLiveChatId": "Cg0KC2NUNHhfNTE0QWNVKicKGFVDcnA5TU9LdVl6V0ZBMFg3d0xMaEhrQRILY1Q0eF81MTRBY1U"
     }
   },
-  "cajnRPq9FhQ": {
-    "snippet": {
-      "publishedAt": "2024-06-12T04:26:01Z",
-      "channelId": "UC7TCCtvrEu8q_S5OtRJh-aQ",
-      "title": "\u3010WUTHERING WAVES\u3011AI HANG OUT WIF YINLIN \u3010Ai Shinju\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-12T13:58:46Z",
-      "scheduledStartTime": "2024-06-12T14:00:00Z",
-      "activeLiveChatId": "Cg0KC2Nham5SUHE5RmhRKicKGFVDN1RDQ3R2ckV1OHFfUzVPdFJKaC1hURILY2FqblJQcTlGaFE"
-    }
-  },
   "cynth_ai": {
     "snippet": {
       "channelId": "cynth_ai",
@@ -6216,6 +6192,17 @@
       "activeLiveChatId": "Cg0KC21fSlMxY2N2RWs4KicKGFVDX3Q3d3RTY1ZMazg1SWFEOWpZU1JBQRILbV9KUzFjY3ZFazg"
     }
   },
+  "mozumipichi": {
+    "snippet": {
+      "channelId": "mozumipichi",
+      "title": "Let's Sing!",
+      "channelTitle": "MozumiPichi"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-12T17:15:31Z",
+      "twitch": true
+    }
+  },
   "n5D5GvXzXmY": {
     "snippet": {
       "publishedAt": "2023-12-11T14:51:50Z",
@@ -6268,6 +6255,17 @@
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-16T02:00:00Z"
+    }
+  },
+  "nLD3lQ0EsSo": {
+    "snippet": {
+      "publishedAt": "2024-06-12T17:18:31Z",
+      "channelId": "UC9xR7uN0x5a6CH3Uopq7czA",
+      "title": "HI I CAN'T SLEEP! \ud83d\ude30"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-12T17:30:00Z",
+      "activeLiveChatId": "Cg0KC25MRDNsUTBFc1NvKicKGFVDOXhSN3VOMHg1YTZDSDNVb3BxN2N6QRILbkxEM2xRMEVzU28"
     }
   },
   "nPinkW7LltE": {
@@ -6802,18 +6800,6 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC3J2V3dhdWxKNlJBKicKGFVDdS1yVjJnUHRKLUNzR3hlNzF6X0JyURILcnZXd2F1bEo2UkE"
-    }
-  },
-  "s-fX8GxF_ck": {
-    "snippet": {
-      "publishedAt": "2024-06-12T13:28:07Z",
-      "channelId": "UCxazidt7qQMNVW73wkpswOA",
-      "title": "\u3010VERTICAL\u3011yappin + TFT! #shorts #shortslive"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-12T15:30:57Z",
-      "scheduledStartTime": "2024-06-12T16:30:00Z",
-      "activeLiveChatId": "Cg0KC3MtZlg4R3hGX2NrKicKGFVDeGF6aWR0N3FRTU5WVzczd2twc3dPQRILcy1mWDhHeEZfY2s"
     }
   },
   "sNCxF3lLjAs": {
@@ -7735,6 +7721,7 @@
       "title": "Let's Sing!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-12T17:16:07Z",
       "scheduledStartTime": "2024-06-12T17:00:00Z",
       "activeLiveChatId": "Cg0KC3o4ckZESy1DY2NBKicKGFVDa2lVQnlCQ0YxYU9pUmQxNnhBbFBNZxILejhyRkRLLUNjY0E"
     }
