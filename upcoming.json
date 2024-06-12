@@ -2290,18 +2290,6 @@
       "activeLiveChatId": "Cg0KC0lVa0daRE43aHVRKicKGFVDNkVnalVaU1lTQVFlOUNERnhINzE1dxILSVVrR1pETjdodVE"
     }
   },
-  "IUrhSlgxY5o": {
-    "snippet": {
-      "publishedAt": "2024-06-10T05:56:43Z",
-      "channelId": "UCAxVoBLG2Bv1xgbYU_efsCg",
-      "title": "Let's Mix PixelLink Girl Themed Drinks (FOR REALS THIS TIME)!! ((HANDCAM))"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-12T00:41:39Z",
-      "scheduledStartTime": "2024-06-12T00:00:00Z",
-      "activeLiveChatId": "Cg0KC0lVcmhTbGd4WTVvKicKGFVDQXhWb0JMRzJCdjF4Z2JZVV9lZnNDZxILSVVyaFNsZ3hZNW8"
-    }
-  },
   "IcWVL4944V8": {
     "snippet": {
       "publishedAt": "2022-02-15T15:07:09Z",
@@ -3161,18 +3149,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-04-02T04:00:00Z",
       "activeLiveChatId": "Cg0KC09WOFVGNGtKYUZZKicKGFVDNFlYMlp0NjZSNHVZcUxIRmt3UDFhdxILT1Y4VUY0a0phRlk"
-    }
-  },
-  "OZXIKbLwG94": {
-    "snippet": {
-      "publishedAt": "2024-06-10T00:37:00Z",
-      "channelId": "UC-1_-jUu-lALdGn9-MdBJ4Q",
-      "title": "Testing my Typing Skills w/ Typing Games!"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-12T01:00:20Z",
-      "scheduledStartTime": "2024-06-12T01:00:00Z",
-      "activeLiveChatId": "Cg0KC09aWElLYkx3Rzk0KicKGFVDLTFfLWpVdS1sQUxkR245LU1kQko0URILT1pYSUtiTHdHOTQ"
     }
   },
   "OfnbKnWHUT0": {
@@ -4891,18 +4867,6 @@
       "activeLiveChatId": "Cg0KC2J4d2U1Vkx4N3hRKicKGFVDcjhOWjlqT3JyVmNJUm5hSFpDakpVZxILYnh3ZTVWTHg3eFE"
     }
   },
-  "bzH9GRP8SH0": {
-    "snippet": {
-      "publishedAt": "2024-06-11T03:40:51Z",
-      "channelId": "UC9SWIzHP07PL1y6cU8wkDwA",
-      "title": "\u3010Yuppie Psycho\u3011no more accents i promise\u3010Yume+ | Mero Umiko\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-11T21:59:21Z",
-      "scheduledStartTime": "2024-06-11T22:00:00Z",
-      "activeLiveChatId": "Cg0KC2J6SDlHUlA4U0gwKicKGFVDOVNXSXpIUDA3UEwxeTZjVTh3a0R3QRILYnpIOUdSUDhTSDA"
-    }
-  },
   "c6q_Dv5uHuA": {
     "snippet": {
       "publishedAt": "2023-12-18T12:46:15Z",
@@ -6010,6 +5974,7 @@
       "title": "\u3010ELDEN RING\u3011FINISHING THE GAME ONCE AND FOR ALL\u3010NIJISANJI EN | Luca Kaneshiro\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-12T04:32:53Z",
       "scheduledStartTime": "2024-06-12T04:30:00Z",
       "activeLiveChatId": "Cg0KC2xaVERhcldGcGhBKicKGFVDN0diN1Vhd2UyMFF5RmliaExsMWx6QRILbFpURGFyV0ZwaEE"
     }
@@ -6227,6 +6192,17 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-12T02:04:31Z",
+      "twitch": true
+    }
+  },
+  "miyuyus": {
+    "snippet": {
+      "channelId": "miyuyus",
+      "title": "im making chat a vtuber. oh god. \u2665 !candle !merch !throne",
+      "channelTitle": "miyuyus"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-12T04:35:53Z",
       "twitch": true
     }
   },
