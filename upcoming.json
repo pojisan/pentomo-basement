@@ -103,6 +103,7 @@
       "title": "Chimomo!! Let's Talk!!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-12T16:57:34Z",
       "scheduledStartTime": "2024-06-12T17:00:00Z",
       "activeLiveChatId": "Cg0KCy1QN0dSU01MUE9jKicKGFVDSjRwdnNwd2puTS1oU1hxa29JdU1HURILLVA3R1JTTUxQT2M"
     }
@@ -2082,6 +2083,7 @@
       "title": "\u3010The Abduction\u3011kidnapping @JunaUnagi"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-12T17:03:11Z",
       "scheduledStartTime": "2024-06-12T17:00:00Z",
       "activeLiveChatId": "Cg0KC0dwUkMzTVdnSWd3KicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILR3BSQzNNV2dJZ3c"
     }
@@ -5154,6 +5156,7 @@
       "title": "[TERRARIA CALAMITY PART 1] Trying Out This Mod - Ciccino Katterina V&U"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-12T17:00:11Z",
       "scheduledStartTime": "2024-06-12T17:00:00Z",
       "activeLiveChatId": "Cg0KC2RibENCY2JvdmY0KicKGFVDX2N4aU9WWWk5VEgzaVB2YW05ZjV5QRILZGJsQ0JjYm92ZjQ"
     }
@@ -6501,6 +6504,17 @@
       "scheduledStartTime": "2024-06-16T23:00:00Z"
     }
   },
+  "pudizu": {
+    "snippet": {
+      "channelId": "pudizu",
+      "title": "YCH Chibi Commission Aerystorm day 2  |  !ych !comms",
+      "channelTitle": "Pudizu"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-12T17:00:33Z",
+      "twitch": true
+    }
+  },
   "q2Gb5JMp0k8": {
     "snippet": {
       "publishedAt": "2024-01-21T14:20:06Z",
@@ -6967,18 +6981,6 @@
       "activeLiveChatId": "Cg0KC3QyU0dFYlgyeFVNKicKGFVDdExmQV9xVXFDSnRqWEpNMlpSX2tlZxILdDJTR0ViWDJ4VU0"
     }
   },
-  "tAYoSd-qS8I": {
-    "snippet": {
-      "publishedAt": "2024-06-11T12:41:59Z",
-      "channelId": "UCVmhg4wcTVpjyCoKDY59mYw",
-      "title": "\u3010HANDCAM\u3011KANJI STUDY WITH ME !\u3010Reina Ronronea | globie\u3011#shorts #shortsfeed"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-12T14:00:41Z",
-      "scheduledStartTime": "2024-06-12T14:00:00Z",
-      "activeLiveChatId": "Cg0KC3RBWW9TZC1xUzhJKicKGFVDVm1oZzR3Y1RWcGp5Q29LRFk1OW1ZdxILdEFZb1NkLXFTOEk"
-    }
-  },
   "tFZoOt7kRDQ": {
     "snippet": {
       "publishedAt": "2024-06-10T12:21:04Z",
@@ -7260,17 +7262,6 @@
       "scheduledStartTime": "2024-06-15T20:00:00Z",
       "activeLiveChatId": "Cg0KC3ZZRHpfNHd1MkVFKicKGFVDLVkzZXZNeDdNWGJWZVNiUktRM2dOdxILdllEel80d3UyRUU",
       "premiere": true
-    }
-  },
-  "valryia": {
-    "snippet": {
-      "channelId": "valryia",
-      "title": "How to (Not) Zomboid ft. @carneliaasahi, @renafenrir, @makciksimmer",
-      "channelTitle": "Valryia"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-12T13:04:07Z",
-      "twitch": true
     }
   },
   "vbhfY2vFttc": {
@@ -7604,6 +7595,18 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC3k4R3pJX0M2Q2JrKicKGFVDalFsdTBCaXgxYmFiSEVrQTdUSkE4ZxILeThHeklfQzZDYms"
+    }
+  },
+  "yBaNZkXvMWU": {
+    "snippet": {
+      "publishedAt": "2024-06-06T12:47:00Z",
+      "channelId": "UCBnmfjpmhGxao6v54fIIMUA",
+      "title": "I will continue a crafting project depending on my mood"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-12T16:44:16Z",
+      "scheduledStartTime": "2024-06-12T16:30:00Z",
+      "activeLiveChatId": "Cg0KC3lCYU5aa1h2TVdVKicKGFVDQm5tZmpwbWhHeGFvNnY1NGZJSU1VQRILeUJhTlprWHZNV1U"
     }
   },
   "yFaYCWPEzIE": {
