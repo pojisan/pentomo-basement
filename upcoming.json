@@ -602,6 +602,17 @@
       "activeLiveChatId": "Cg0KCzN2YXRvNkF3VTRJKicKGFVDS0FEX05NTjFCM2k3MkpfNG1Md0ZCURILM3ZhdG82QXdVNEk"
     }
   },
+  "3wN500cM0Qo": {
+    "snippet": {
+      "publishedAt": "2024-06-12T11:53:58Z",
+      "channelId": "UCbrbFKFhyHD4bMJbEcXZz1g",
+      "title": "\u3010Singing & Piano\u3011 Song Request Stream! #\u6b4c\u67a0"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-13T12:00:00Z",
+      "activeLiveChatId": "Cg0KCzN3TjUwMGNNMFFvKicKGFVDYnJiRktGaHlIRDRiTUpiRWNYWnoxZxILM3dONTAwY00wUW8"
+    }
+  },
   "3y2YhNz5m7I": {
     "snippet": {
       "publishedAt": "2024-06-06T03:12:38Z",
@@ -3769,6 +3780,7 @@
       "title": "\u3010\ud83d\udd34GAME\u3011Persona 5 Royal \ud83c\udfb4 Playig the series for the first time\uff01\uff01"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-12T12:01:35Z",
       "scheduledStartTime": "2024-06-12T12:00:00Z",
       "activeLiveChatId": "Cg0KC1NpT000OF91YVgwKicKGFVDNmxaTEFPZ1NZZ0o2WmtXMlpUSTc1URILU2lPTTQ4X3VhWDA"
     }
@@ -4431,6 +4443,7 @@
       "title": "\u3010DEAD BY DAYLIGHT\u3011  Airi-Sensei, Teach Me How To Play!!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-12T12:01:15Z",
       "scheduledStartTime": "2024-06-12T12:00:00Z",
       "activeLiveChatId": "Cg0KC1lYZURNVnlFeEFRKicKGFVDYnJiRktGaHlIRDRiTUpiRWNYWnoxZxILWVhlRE1WeUV4QVE"
     }
@@ -5925,6 +5938,17 @@
       "activeLiveChatId": "Cg0KC2tlMTZnRmdhbUdRKicKGFVDSzlsNnJUd1UzaGlTWmlqSU1xNTFHdxILa2UxNmdGZ2FtR1E"
     }
   },
+  "kirispica": {
+    "snippet": {
+      "channelId": "kirispica",
+      "title": "My first time playing!! Teach me! @AiriViridis \u3010Kirispica | V-Dere\u3011",
+      "channelTitle": "kirispica"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-12T12:00:59Z",
+      "twitch": true
+    }
+  },
   "kq6x8JgYJu8": {
     "snippet": {
       "publishedAt": "2024-06-12T09:05:18Z",
@@ -6901,17 +6925,6 @@
       "activeLiveChatId": "Cg0KC3NaSEhsb0duTzJVKicKGFVDUmtkRkdYd0J0eHZtOVNzZm1ObU1aQRILc1pISGxvR25PMlU"
     }
   },
-  "sayu": {
-    "snippet": {
-      "channelId": "sayu",
-      "title": "FIRST TIME! ANTS ASSEMBLE!! #ad\u2503!website !merch !ant",
-      "channelTitle": "Sayu"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-12T03:36:15Z",
-      "twitch": true
-    }
-  },
   "sfwMYPUDeRM": {
     "snippet": {
       "publishedAt": "2024-06-12T03:42:14Z",
@@ -7040,6 +7053,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2026-04-30T06:00:00Z",
       "activeLiveChatId": "Cg0KC3RPeWpnYWU4UmZrKicKGFVDVEpDb0hFdDVjMjdyY2VxMnNoNjlrZxILdE95amdhZThSZms"
+    }
+  },
+  "tatsuhikohiroki": {
+    "snippet": {
+      "channelId": "tatsuhikohiroki",
+      "title": "SING SING SING!? | Guerrila stream #Vtuber (Multistream)",
+      "channelTitle": "tatsuhikohiroki"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-12T11:53:45Z",
+      "twitch": true
     }
   },
   "tenma": {
@@ -7783,6 +7807,18 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-13T19:00:00Z",
       "activeLiveChatId": "Cg0KC3p1UXVFVHdjd3NvKicKGFVDaTZxMHo4TjFOTllnV1BzTTFPSzI1URILenVRdUVUd2N3c28"
+    }
+  },
+  "zxDQrWsx6qw": {
+    "snippet": {
+      "publishedAt": "2024-06-12T11:53:40Z",
+      "channelId": "UCf4U3iVUDkkhIv3jnr41u-Q",
+      "title": "SING SING SING!? | Guerrila stream #Vtuber (Multistream)"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-12T11:54:20Z",
+      "scheduledStartTime": "2024-06-12T11:53:39Z",
+      "activeLiveChatId": "Cg0KC3p4RFFyV3N4NnF3KicKGFVDZjRVM2lWVURra2hJdjNqbnI0MXUtURILenhEUXJXc3g2cXc"
     }
   }
 }

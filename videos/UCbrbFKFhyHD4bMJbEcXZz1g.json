@@ -3918,6 +3918,7 @@
       "title": "\u3010DEAD BY DAYLIGHT\u3011  Airi-Sensei, Teach Me How To Play!!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-12T12:01:15Z",
       "scheduledStartTime": "2024-06-12T12:00:00Z",
       "activeLiveChatId": "Cg0KC1lYZURNVnlFeEFRKicKGFVDYnJiRktGaHlIRDRiTUpiRWNYWnoxZxILWVhlRE1WeUV4QVE"
     }
@@ -3968,6 +3969,17 @@
       "actualStartTime": "2024-06-11T13:00:32Z",
       "actualEndTime": "2024-06-11T16:00:26Z",
       "scheduledStartTime": "2024-06-11T13:00:00Z"
+    }
+  },
+  "3wN500cM0Qo": {
+    "snippet": {
+      "publishedAt": "2024-06-12T11:53:58Z",
+      "channelId": "UCbrbFKFhyHD4bMJbEcXZz1g",
+      "title": "\u3010Singing & Piano\u3011 Song Request Stream! #\u6b4c\u67a0"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-13T12:00:00Z",
+      "activeLiveChatId": "Cg0KCzN3TjUwMGNNMFFvKicKGFVDYnJiRktGaHlIRDRiTUpiRWNYWnoxZxILM3dONTAwY00wUW8"
     }
   }
 }
