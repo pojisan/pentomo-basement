@@ -4156,6 +4156,7 @@
       "title": "[PC] Serious Sam: The First Encounter (2001) #2"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-13T11:56:51Z",
       "scheduledStartTime": "2024-06-13T12:00:00Z",
       "activeLiveChatId": "Cg0KC1dvYi1KN2dKbUw4KicKGFVDaXlEcFBlcnFYa2ljWm1ueEtCOXFaURILV29iLUo3Z0ptTDg"
     }
@@ -5663,6 +5664,17 @@
       "activeLiveChatId": "Cg0KC2pNaDlDcldwQllFKicKGFVDbk5MWldqbDRHdlZGNHM4ekJUOV9rQRILak1oOUNyV3BCWUU"
     }
   },
+  "jQCMneWKEfc": {
+    "snippet": {
+      "publishedAt": "2024-06-13T11:55:18Z",
+      "channelId": "UCKajmKUZ7age8zlTp-GvO2Q",
+      "title": "\u3010 Indigo Park \u3011 Game BACKSTORY will BLOW YOUR MIND!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-13T19:00:00Z",
+      "activeLiveChatId": "Cg0KC2pRQ01uZVdLRWZjKicKGFVDS2FqbUtVWjdhZ2U4emxUcC1Hdk8yURILalFDTW5lV0tFZmM"
+    }
+  },
   "jSFyQg3QozY": {
     "snippet": {
       "publishedAt": "2021-05-17T14:58:40Z",
@@ -6334,6 +6346,7 @@
       "title": "\u3010TRY AGAIN\u3011we gonna try again right??\u3010ArashiNebula_HOSHIZORA\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-13T11:56:42Z",
       "scheduledStartTime": "2024-06-13T12:00:00Z",
       "activeLiveChatId": "Cg0KC3A5SUM2cDhaMHNzKicKGFVDbjdJYlZCdGtvVWFaRUxxdHJiOXFOURILcDlJQzZwOFowc3M"
     }
@@ -6514,6 +6527,7 @@
       "title": "\u3010MINECRAFT HERO SERVER\u3011WE'RE JUST GETTING STARTED\u3010NIJISANJI EN | Yu Q. Wilson\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-13T12:01:20Z",
       "scheduledStartTime": "2024-06-13T12:00:00Z",
       "activeLiveChatId": "Cg0KC3FpN3YyQjBMdjU0KicKGFVDS3BLQzNNNWZrY0V2dE9yMDZkbVlsQRILcWk3djJCMEx2NTQ"
     }
@@ -6850,6 +6864,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2026-04-30T06:00:00Z",
       "activeLiveChatId": "Cg0KC3RPeWpnYWU4UmZrKicKGFVDVEpDb0hFdDVjMjdyY2VxMnNoNjlrZxILdE95amdhZThSZms"
+    }
+  },
+  "tenma": {
+    "snippet": {
+      "channelId": "tenma",
+      "title": "I AM CLOSE TO THE END I CAN FEEL IT",
+      "channelTitle": "Tenma"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-13T11:57:28Z",
+      "twitch": true
     }
   },
   "thKmAPsyAPE": {
