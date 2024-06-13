@@ -185,8 +185,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-13T18:26:37Z",
-      "scheduledStartTime": "2024-06-13T18:00:00Z",
-      "activeLiveChatId": "Cg0KC000SVZDX3V3TFN3KicKGFVDaTdUd29tdFMzWnlmakFNNVRXRU1TURILTTRJVkNfdXdMU3c"
+      "actualEndTime": "2024-06-13T19:54:43Z",
+      "scheduledStartTime": "2024-06-13T18:00:00Z"
     }
   },
   "8h1I9yXyD5M": {
@@ -196,6 +196,7 @@
       "title": "\u3010Stardew Valley\u3011Still in its beginning phase of growth \ud83d\udc10\ud83c\udf7c PT 2\u3010VAllure\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-13T19:56:08Z",
       "scheduledStartTime": "2024-06-14T00:00:00Z",
       "activeLiveChatId": "Cg0KCzhoMUk5eVh5RDVNKicKGFVDaTdUd29tdFMzWnlmakFNNVRXRU1TURILOGgxSTl5WHlENU0"
     }
