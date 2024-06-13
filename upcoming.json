@@ -81,6 +81,7 @@
       "title": "\u3010\u9cf4\u6f6e\u3011\u96d1\u8ac7\u3057\u3064\u3064\u307e\u3063\u305f\u308a\u30d7\u30ec\u30a4 zatsudan then wuwa\u3010\u767d\u9e7f\u3044\u304a\u308a Phase Connect\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-13T22:01:07Z",
       "scheduledStartTime": "2024-06-13T22:00:00Z",
       "activeLiveChatId": "Cg0KCy1ON2dfaGEyTHF3KicKGFVDTjViRDFZWWFwVGhPZWFkRzdZa0JPQRILLU43Z19oYTJMcXc"
     }
@@ -636,18 +637,6 @@
       "activeLiveChatId": "Cg0KCzNiSDQ1U3d6eWt3KicKGFVDRVk5Q25TSDBuMFFLbVkyUS1PSDdadxILM2JINDVTd3p5a3c"
     }
   },
-  "3iPAJTpiE70": {
-    "snippet": {
-      "publishedAt": "2024-06-10T05:12:40Z",
-      "channelId": "UCdqDlrY_4p3z_Ho4hS2-4Zw",
-      "title": "\u3010Handcam\u3011 A LIL ANNOUNCEMENT ON A THURSDAY :3 (+ OPENING GIFTS) | Nanobites"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-13T20:01:09Z",
-      "scheduledStartTime": "2024-06-13T20:00:00Z",
-      "activeLiveChatId": "Cg0KCzNpUEFKVHBpRTcwKicKGFVDZHFEbHJZXzRwM3pfSG80aFMyLTRadxILM2lQQUpUcGlFNzA"
-    }
-  },
   "3jjnqZPOmDo": {
     "snippet": {
       "publishedAt": "2023-07-07T00:59:17Z",
@@ -731,18 +720,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-15T19:00:00Z",
       "activeLiveChatId": "Cg0KCzR1QjlNNG5rbjM0KicKGFVDeWtNV2Y4QjhJN2NfakE4RlR5MnRHdxILNHVCOU00bmtuMzQ"
-    }
-  },
-  "4wh1veQ1r4I": {
-    "snippet": {
-      "publishedAt": "2024-06-13T16:05:37Z",
-      "channelId": "UCejbicoRnQjCOdAPAv5JPwg",
-      "title": "the cows are hanging out"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-13T16:32:07Z",
-      "scheduledStartTime": "2024-06-13T16:30:00Z",
-      "activeLiveChatId": "Cg0KCzR3aDF2ZVExcjRJKicKGFVDZWpiaWNvUm5RakNPZEFQQXY1SlB3ZxILNHdoMXZlUTFyNEk"
     }
   },
   "52563OjVB-8": {
@@ -3807,6 +3784,18 @@
       "activeLiveChatId": "Cg0KC1Q2cUh1a1dST0c4KicKGFVDNFlYMlp0NjZSNHVZcUxIRmt3UDFhdxILVDZxSHVrV1JPRzg"
     }
   },
+  "TBy8NpRwGBE": {
+    "snippet": {
+      "publishedAt": "2024-06-13T21:57:47Z",
+      "channelId": "UCml-r5aTs4JGeEeXUFnZ7eQ",
+      "title": "Testing the new controller"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-13T21:58:09Z",
+      "scheduledStartTime": "2024-06-13T21:57:46Z",
+      "activeLiveChatId": "Cg0KC1RCeThOcFJ3R0JFKicKGFVDbWwtcjVhVHM0SkdlRWVYVUZuWjdlURILVEJ5OE5wUndHQkU"
+    }
+  },
   "THiHy_sPTAI": {
     "snippet": {
       "publishedAt": "2024-06-11T07:24:15Z",
@@ -3910,6 +3899,7 @@
       "title": "\ud83d\udc80CUPHEAD FOR THE FIRST TIME"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-13T22:00:26Z",
       "scheduledStartTime": "2024-06-13T22:00:00Z",
       "activeLiveChatId": "Cg0KC1VMeTJ2Q1hub1VrKicKGFVDOU5OTXdhZnk5cXV2TldhZkZ1a05EdxILVUx5MnZDWG5vVWs"
     }
@@ -4510,7 +4500,8 @@
       "title": "(Corpse Party) Let's Actually Finish This! \ud83e\udd0e\ud83e\udde9 (WARNING! Graphic Content!)[#LaikaCream ]"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-13T22:00:00Z",
+      "actualStartTime": "2024-06-13T22:01:12Z",
+      "scheduledStartTime": "2024-06-13T22:01:03Z",
       "activeLiveChatId": "Cg0KC1p3WFNpWkdqUTR3KicKGFVDb3FQc1VXXzJJX2JaN041SDNGNFliURILWndYU2laR2pRNHc"
     }
   },
@@ -4855,6 +4846,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-14T08:00:00Z",
       "activeLiveChatId": "Cg0KC2NOYUYyVlcwa2lBKicKGFVDUmxRenVWZVl4VERQb2JQTjFqYVZrURILY05hRjJWVzBraUE"
+    }
+  },
+  "clothovmelodiam": {
+    "snippet": {
+      "channelId": "clothovmelodiam",
+      "title": "Testing the new controller",
+      "channelTitle": "clothovmelodiam"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-13T21:58:04Z",
+      "twitch": true
     }
   },
   "cuVBPt8TR0E": {
@@ -5555,18 +5557,6 @@
       "activeLiveChatId": "Cg0KC2lRVmpoN0Nlc0VRKicKGFVDYl9hbmdmRjhpbzEtMURydks1azVMQRILaVFWamg3Q2VzRVE"
     }
   },
-  "iTiWoagJP70": {
-    "snippet": {
-      "publishedAt": "2024-06-11T01:08:55Z",
-      "channelId": "UC_cxiOVYi9TH3iPvam9f5yA",
-      "title": "[SLIDESHOW NIGHT] Get In My Swamp Analysis - Ciccino Katterina Triple A Club V&U"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-13T20:08:52Z",
-      "scheduledStartTime": "2024-06-13T20:00:00Z",
-      "activeLiveChatId": "Cg0KC2lUaVdvYWdKUDcwKicKGFVDX2N4aU9WWWk5VEgzaVB2YW05ZjV5QRILaVRpV29hZ0pQNzA"
-    }
-  },
   "iX0-ZIUynzE": {
     "snippet": {
       "publishedAt": "2024-06-11T14:08:49Z",
@@ -6051,17 +6041,6 @@
       "activeLiveChatId": "Cg0KC25WejdycFFnelZZKicKGFVDZHVyZXV4N0JfVi14aE03dFlJbUFTURILblZ6N3JwUWd6Vlk"
     }
   },
-  "nanobites": {
-    "snippet": {
-      "channelId": "nanobites",
-      "title": "a lil ANNOUNCEMENT + unboxing gifts\u2b50 !discord !socials !hoodie !gacha !merch #hellofreshpartner #sponsored",
-      "channelTitle": "NANOBITES"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-13T20:00:17Z",
-      "twitch": true
-    }
-  },
   "ndCPDmbRwuQ": {
     "snippet": {
       "publishedAt": "2024-06-13T07:03:26Z",
@@ -6071,17 +6050,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-16T22:00:00Z",
       "activeLiveChatId": "Cg0KC25kQ1BEbWJSd3VRKicKGFVDa2pQX3c2MDdCLW40a1dKclpBc0hNURILbmRDUERtYlJ3dVE"
-    }
-  },
-  "ninaninin": {
-    "snippet": {
-      "channelId": "ninaninin",
-      "title": "[Towelket 2] This game is apparently kinda disturbing :D wahoo | !schedule  \u2728 VTuber",
-      "channelTitle": "Ninaninin"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-13T17:05:57Z",
-      "twitch": true
     }
   },
   "ninete_en": {
@@ -6285,6 +6253,17 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC3BhWFNIZlV2WDFnKicKGFVDVXI4TzZaOEp5QWc4M0tKYmNfdV9iURILcGFYU0hmVXZYMWc"
+    }
+  },
+  "poseidonmythos": {
+    "snippet": {
+      "channelId": "poseidonmythos",
+      "title": "\u2500\ud83d\udd31 IF YOU'RE SEEING THIS, YOU'RE COOL \ud83d\udd31 i'm yapping...again! Collab later! \u250a !merch !gsupps !throne !discord !socials",
+      "channelTitle": "PoseidonMythos"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-13T21:59:51Z",
+      "twitch": true
     }
   },
   "pskESR2wt2U": {
@@ -7035,6 +7014,7 @@
       "title": "Parry Crab Approaches Malenia, Blade of Miquella"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-13T21:55:52Z",
       "scheduledStartTime": "2024-06-13T22:00:00Z",
       "activeLiveChatId": "Cg0KC3Z4T005eEhfcTY4KicKGFVDbkpOTms0NU8xUVlTMm9NUllGS1N5dxILdnhPTTl4SF9xNjg"
     }
