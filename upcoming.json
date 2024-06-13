@@ -3495,7 +3495,7 @@
     "snippet": {
       "publishedAt": "2024-06-13T00:37:05Z",
       "channelId": "UCNA1JwBwZsk_4UU-8s6CV_A",
-      "title": "vtuber explores your jungle | League of Legends"
+      "title": "vtubers explores your jungle | League of Legends"
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-13T12:11:56Z",
@@ -3869,6 +3869,7 @@
       "title": "YAPPING, CONCERT HYPE, QUALITY TIME"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-13T14:09:20Z",
       "scheduledStartTime": "2024-06-13T15:00:00Z",
       "activeLiveChatId": "Cg0KC1Q5aWFlWHRSbTFZKicKGFVDSzZvQ01pYjYyZVlBSVBybHJZUlZydxILVDlpYWVYdFJtMVk"
     }
@@ -4945,6 +4946,7 @@
       "title": "\u3010\u3084\u3084\u30ab\u30b9\u3011\u7d04\u4e00\u9031\u9593\u3076\u308a\u306e\u914d\u4fe1\u3067\u3059\u308f\u3010\u304a\u96d1\u8ac7\u3067\u3059\u308f\uff5e\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-13T14:04:26Z",
       "scheduledStartTime": "2024-06-13T14:00:00Z",
       "activeLiveChatId": "Cg0KC2NMTjdNbzFXYm40KicKGFVDZ0lmTHBRdmVsbG9EaThJMFljYndwZxILY0xON01vMVdibjQ"
     }
@@ -5763,7 +5765,7 @@
       "title": "\u3010 Indigo Park \u3011 Game BACKSTORY will BLOW YOUR MIND!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-13T19:00:00Z",
+      "scheduledStartTime": "2024-06-13T18:00:00Z",
       "activeLiveChatId": "Cg0KC2pRQ01uZVdLRWZjKicKGFVDS2FqbUtVWjdhZ2U4emxUcC1Hdk8yURILalFDTW5lV0tFZmM"
     }
   },
@@ -6197,6 +6199,17 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-13T09:00:34Z",
+      "twitch": true
+    }
+  },
+  "miya_mareena": {
+    "snippet": {
+      "channelId": "miya_mareena",
+      "title": "Shark Girl Hours [ !merch, !gg ]",
+      "channelTitle": "miya_mareena"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-13T14:08:15Z",
       "twitch": true
     }
   },
@@ -6690,6 +6703,7 @@
       "title": "Rise of the Moth Sheep! - Sky: Children of the Light \u3010NIJISANJI EN | Fulgur Ovid\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-13T14:06:46Z",
       "scheduledStartTime": "2024-06-13T14:00:00Z",
       "activeLiveChatId": "Cg0KC3JUMEx5dWl0Z1VjKicKGFVDR2hxeGhvdk5mYVBCcHhmQ3J1eTlFQRILclQwTHl1aXRnVWM"
     }
