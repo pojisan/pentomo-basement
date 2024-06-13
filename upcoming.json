@@ -483,6 +483,7 @@
       "title": "\u3010ART\u3011Doodly Time!! Doodling PixelLink~!\u3010PixelLink\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-13T18:56:48Z",
       "scheduledStartTime": "2024-06-13T19:00:00Z",
       "activeLiveChatId": "Cg0KCzI4X0g2eE82RVdRKicKGFVDaWFBSmZka3J3dURqV2lRallaV3BYdxILMjhfSDZ4TzZFV1E"
     }
@@ -611,6 +612,7 @@
       "title": "This train is NOT what you think it is...\u3010Platform 8\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-13T19:00:21Z",
       "scheduledStartTime": "2024-06-13T19:00:00Z",
       "activeLiveChatId": "Cg0KCzNRRjNXalNDT1hNKicKGFVDOW15ZEJPTGRMNi1GcDYxcGFLNjhUdxILM1FGM1dqU0NPWE0"
     }
@@ -901,6 +903,7 @@
       "title": "MINECRAFTING WITH CHIO\u3010MINECRAFT\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-13T18:58:07Z",
       "scheduledStartTime": "2024-06-13T19:00:00Z",
       "activeLiveChatId": "Cg0KCzZMcFctV29ZMklnKicKGFVDaXl6b3JETnc2dEpXR0VWSXRINFNtZxILNkxwVy1Xb1kySWc"
     }
@@ -1072,6 +1075,7 @@
       "title": "\u3010Rockman Dash: 5tsu no Shima no Daibouken\u3011Newly Preserved Megaman Docomo Phone Game!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-13T19:00:55Z",
       "scheduledStartTime": "2024-06-13T19:00:00Z",
       "activeLiveChatId": "Cg0KCzd6Tm5NbjduTVVzKicKGFVDeWtNV2Y4QjhJN2NfakE4RlR5MnRHdxILN3pObk1uN25NVXM"
     }
@@ -3195,6 +3199,7 @@
       "title": "Charla Talk Zatsu ES (I will try EN and JP) \u3010idolES\u3011 \ud83c\udf80"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-13T19:01:14Z",
       "scheduledStartTime": "2024-06-13T19:00:00Z",
       "activeLiveChatId": "Cg0KC09aMHVPTURqX2RJKicKGFVDdURtVWwzV1k0MUZxR0lfYlVyNjJQQRILT1owdU9NRGpfZEk"
     }
@@ -4174,6 +4179,7 @@
       "title": "\u301012 HOURS STREAM\u3011 \"I'M BACK\" HOME PARTY + 10K CELEBRATION pt.1 \u301012\u6642\u9593\u8010\u4e45\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-13T19:01:19Z",
       "scheduledStartTime": "2024-06-13T19:00:00Z",
       "activeLiveChatId": "Cg0KC1dqcU1qa0ZrR19BKicKGFVDSHhVdkFJWEhmRHpwVFcwMnY3UWFyZxILV2pxTWprRmtHX0E"
     }
@@ -4883,6 +4889,7 @@
       "title": "\u3010DON'T SCREAM\u3011hey haha\u3010V&U | GEN4\u3011#dontscream"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-13T18:52:17Z",
       "scheduledStartTime": "2024-06-13T19:00:00Z",
       "activeLiveChatId": "Cg0KC2NPWGpIS1U1NDBjKicKGFVDUVk1bXBGdFB5V0paSGJqYXhtSG56dxILY09YakhLVTU0MGM"
     }
@@ -5460,6 +5467,17 @@
       "activeLiveChatId": "Cg0KC2hZWl9sZ3R1YWVrKicKGFVDcjhOWjlqT3JyVmNJUm5hSFpDakpVZxILaFlaX2xndHVhZWs"
     }
   },
+  "hadesmythos": {
+    "snippet": {
+      "channelId": "hadesmythos",
+      "title": "\u2726\ud83d\udd25AAAAAAAAAAAAAAAA\ud83d\udd25\u2726 \u300e|!UWU |!Daki |!throne |!discord |!treat |!donate\u300f",
+      "channelTitle": "HadesMythos"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-13T18:57:52Z",
+      "twitch": true
+    }
+  },
   "hg0_k6RQ1K4": {
     "snippet": {
       "publishedAt": "2024-06-13T01:45:56Z",
@@ -5908,6 +5926,7 @@
       "title": "Journey for The Great Ocean!!\u3010Minecraft\u3011w/ @LottieShinju"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-13T18:58:03Z",
       "scheduledStartTime": "2024-06-13T19:00:00Z",
       "activeLiveChatId": "Cg0KC2xmVkpEeWpVWjRzKicKGFVDSjRwdnNwd2puTS1oU1hxa29JdU1HURILbGZWSkR5alVaNHM"
     }
@@ -7377,6 +7396,7 @@
       "title": "\u3010DON'T SCREAM\u3011hey haha\u3010V&U | GEN4\u3011#dontscream #shortsfeed #shorts #shortsgaming"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-13T18:53:04Z",
       "scheduledStartTime": "2024-06-13T19:00:00Z",
       "activeLiveChatId": "Cg0KC3k1cll0MDgySVhNKicKGFVDUVk1bXBGdFB5V0paSGJqYXhtSG56dxILeTVyWXQwODJJWE0"
     }
