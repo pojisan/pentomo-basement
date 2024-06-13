@@ -3,7 +3,8 @@
     "snippet": {
       "publishedAt": "2024-05-17T22:03:17Z",
       "channelId": "UCxerQlE0t1yY4bqeK5ldM9A",
-      "title": "[Another Crab's Treasure] I Am Become Crab, Destroyer of Sea Life"
+      "title": "[Another Crab's Treasure] I Am Become Crab, Destroyer of Sea Life",
+      "private": true
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-17T18:02:53Z",
@@ -15,7 +16,8 @@
     "snippet": {
       "publishedAt": "2024-05-17T08:38:22Z",
       "channelId": "UCxerQlE0t1yY4bqeK5ldM9A",
-      "title": "Jump King Endurance. (Midlife Crisis)"
+      "title": "Jump King Endurance. (Midlife Crisis)",
+      "private": true
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-16T21:00:58Z",
@@ -27,7 +29,8 @@
     "snippet": {
       "publishedAt": "2024-05-15T23:03:00Z",
       "channelId": "UCxerQlE0t1yY4bqeK5ldM9A",
-      "title": "[Dave the Diver] Shark is Back on the Menu!"
+      "title": "[Dave the Diver] Shark is Back on the Menu!",
+      "private": true
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-15T19:01:02Z",
@@ -39,7 +42,8 @@
     "snippet": {
       "publishedAt": "2024-05-14T22:45:37Z",
       "channelId": "UCxerQlE0t1yY4bqeK5ldM9A",
-      "title": "AVALLUM JACKBOX NIGHT!"
+      "title": "AVALLUM JACKBOX NIGHT!",
+      "private": true
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-14T19:01:22Z",
@@ -51,7 +55,8 @@
     "snippet": {
       "publishedAt": "2024-05-13T04:15:35Z",
       "channelId": "UCxerQlE0t1yY4bqeK5ldM9A",
-      "title": "[Madison VR] Finally a Game to Test my Courage..."
+      "title": "[Madison VR] Finally a Game to Test my Courage...",
+      "private": true
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-13T01:33:11Z",
@@ -63,7 +68,8 @@
     "snippet": {
       "publishedAt": "2024-05-12T04:16:38Z",
       "channelId": "UCxerQlE0t1yY4bqeK5ldM9A",
-      "title": "[Reading] Unearthing the Tales of My Ancestors..."
+      "title": "[Reading] Unearthing the Tales of My Ancestors...",
+      "private": true
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-12T02:01:21Z",
@@ -1398,6 +1404,7 @@
       "title": "[Waltz of the Wizard] I Have a -2 To My INT Stat but That Won't Stop Me"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-13T23:01:38Z",
       "scheduledStartTime": "2024-06-13T23:00:00Z",
       "activeLiveChatId": "Cg0KCzIyQlF3dmJaTng0KicKGFVDeGVyUWxFMHQxeVk0YnFlSzVsZE05QRILMjJCUXd2YlpOeDQ"
     }

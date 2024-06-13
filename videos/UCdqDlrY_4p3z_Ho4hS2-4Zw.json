@@ -1093,8 +1093,19 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-13T20:01:09Z",
       "actualEndTime": "2024-06-13T21:59:56Z",
-      "scheduledStartTime": "2024-06-13T20:00:00Z",
-      "activeLiveChatId": "Cg0KCzNpUEFKVHBpRTcwKicKGFVDZHFEbHJZXzRwM3pfSG80aFMyLTRadxILM2lQQUpUcGlFNzA"
+      "scheduledStartTime": "2024-06-13T20:00:00Z"
+    }
+  },
+  "AfGrFFWo0wA": {
+    "snippet": {
+      "publishedAt": "2024-06-13T20:01:48Z",
+      "channelId": "UCdqDlrY_4p3z_Ho4hS2-4Zw",
+      "title": "\u3010Abiotic Factor\u3011 THIS GAME IS AMAZINGLY FUN | Nanobites"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-13T20:00:24Z",
+      "actualEndTime": "2024-06-13T20:00:30Z",
+      "scheduledStartTime": "2024-06-13T20:00:25Z"
     }
   }
 }
