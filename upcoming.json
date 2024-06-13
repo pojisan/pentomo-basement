@@ -3504,6 +3504,7 @@
       "title": "\u3010DEAD BY DAYLIGHT\u3011Masquerade event! Let's party!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-13T19:38:04Z",
       "scheduledStartTime": "2024-06-13T19:45:00Z",
       "activeLiveChatId": "Cg0KC1FaREtYSmExS01VKicKGFVDQjdxeW5KOXFwMGNOV1JGZUJhd0I0QRILUVpES1hKYTFLTVU"
     }
@@ -6764,6 +6765,17 @@
       "actualStartTime": "2024-06-13T18:02:01Z",
       "scheduledStartTime": "2024-06-13T18:00:00Z",
       "activeLiveChatId": "Cg0KC3NyOEVmSnNMQmZrKicKGFVDWER5dGxKVTZSTDhENjhWclBaR3lJQRILc3I4RWZKc0xCZms"
+    }
+  },
+  "starryyozzy": {
+    "snippet": {
+      "channelId": "starryyozzy",
+      "title": "DBD ANNI EVENT! LET'S PARTY!! !candle !ADVGG  !fish !VITE !s4gs! #SHIRTMYSURVIVOR (plz)",
+      "channelTitle": "StarryYozzy"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-13T19:38:02Z",
+      "twitch": true
     }
   },
   "su2wbOAvLjI": {
