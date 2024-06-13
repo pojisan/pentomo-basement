@@ -173,8 +173,19 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-13T00:04:56Z",
-      "scheduledStartTime": "2024-06-13T00:00:00Z",
-      "activeLiveChatId": "Cg0KC3ZtazhYOTR6bGVFKicKGFVDaTdUd29tdFMzWnlmakFNNVRXRU1TURILdm1rOFg5NHpsZUU"
+      "actualEndTime": "2024-06-13T04:41:44Z",
+      "scheduledStartTime": "2024-06-13T00:00:00Z"
+    }
+  },
+  "M4IVC_uwLSw": {
+    "snippet": {
+      "publishedAt": "2024-06-10T10:43:24Z",
+      "channelId": "UCi7TwomtS3ZyfjAM5TWEMSQ",
+      "title": "\u3010Powerwash Simulator\u3011Let's get clean together~ \ud83d\udc10\ud83c\udf7c  Indulge Collab\u3010VAllure\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-13T18:00:00Z",
+      "activeLiveChatId": "Cg0KC000SVZDX3V3TFN3KicKGFVDaTdUd29tdFMzWnlmakFNNVRXRU1TURILTTRJVkNfdXdMU3c"
     }
   }
 }

@@ -300,8 +300,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-13T01:01:06Z",
-      "scheduledStartTime": "2024-06-13T01:00:00Z",
-      "activeLiveChatId": "Cg0KC2RjTWdTLTlWS1A0KicKGFVDLXlHVFZ4Nnc5SlpaSUZQaWRLQ09SZxILZGNNZ1MtOVZLUDQ"
+      "actualEndTime": "2024-06-13T04:42:04Z",
+      "scheduledStartTime": "2024-06-13T01:00:00Z"
     }
   },
   "--THwJaGd_E": {
@@ -331,7 +331,8 @@
       "title": "\u300ePortal 2\u300fNo one better to go with through... portals\u300eLauren Radios & WildSpice | OshiLink\u300f"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-14T00:00:00Z"
+      "scheduledStartTime": "2024-06-14T00:00:00Z",
+      "activeLiveChatId": "Cg0KC0RIZUxKS2pfM01nKicKGFVDLXlHVFZ4Nnc5SlpaSUZQaWRLQ09SZxILREhlTEpLal8zTWc"
     }
   }
 }
