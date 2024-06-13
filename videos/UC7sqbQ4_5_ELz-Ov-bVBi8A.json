@@ -259,8 +259,20 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-13T16:00:20Z",
-      "scheduledStartTime": "2024-06-13T16:00:10Z",
-      "activeLiveChatId": "Cg0KCzhwNGZmd1hfaUVjKicKGFVDN3NxYlE0XzVfRUx6LU92LWJWQmk4QRILOHA0ZmZ3WF9pRWM"
+      "actualEndTime": "2024-06-13T18:11:32Z",
+      "scheduledStartTime": "2024-06-13T16:00:10Z"
+    }
+  },
+  "ENf0VCbqO0Y": {
+    "snippet": {
+      "publishedAt": "2024-06-13T18:04:07Z",
+      "channelId": "UC7sqbQ4_5_ELz-Ov-bVBi8A",
+      "title": "\u3010Master Duel\u3011This is my reward"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-13T18:12:03Z",
+      "scheduledStartTime": "2024-06-13T18:11:53Z",
+      "activeLiveChatId": "Cg0KC0VOZjBWQ2JxTzBZKicKGFVDN3NxYlE0XzVfRUx6LU92LWJWQmk4QRILRU5mMFZDYnFPMFk"
     }
   }
 }
