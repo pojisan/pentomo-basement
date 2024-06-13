@@ -1193,7 +1193,8 @@
       "title": "\u3010Casual Chat\u3011Korean Fire Noodle Challenge!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-13T16:00:31Z",
+      "actualStartTime": "2024-06-13T16:00:20Z",
+      "scheduledStartTime": "2024-06-13T16:00:10Z",
       "activeLiveChatId": "Cg0KCzhwNGZmd1hfaUVjKicKGFVDN3NxYlE0XzVfRUx6LU92LWJWQmk4QRILOHA0ZmZ3WF9pRWM"
     }
   },
@@ -1711,17 +1712,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-14T17:00:00Z",
       "activeLiveChatId": "Cg0KC0V1aTNNbmJDQ1lnKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILRXVpM01uYkNDWWc"
-    }
-  },
-  "Exoup9Urw-Q": {
-    "snippet": {
-      "publishedAt": "2024-06-13T07:09:59Z",
-      "channelId": "UCx_zwZuGIS4jxO07kFk8G6Q",
-      "title": "[The Alters] NEXT FEST IS UPON US"
-    },
-    "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-13T16:00:00Z",
-      "activeLiveChatId": "Cg0KC0V4b3VwOVVydy1RKicKGFVDeF96d1p1R0lTNGp4TzA3a0ZrOEc2URILRXhvdXA5VXJ3LVE"
     }
   },
   "F1O_SxiJJB0": {
@@ -4855,18 +4845,6 @@
       "activeLiveChatId": "Cg0KC2M3SzZSSW5HM0R3KicKGFVDTXdHSFIwQlRadUxzbWpZX05UNVB3ZxILYzdLNlJJbkczRHc"
     }
   },
-  "cLN7Mo1Wbn4": {
-    "snippet": {
-      "publishedAt": "2024-06-13T13:16:44Z",
-      "channelId": "UCgIfLpQvelloDi8I0Ycbwpg",
-      "title": "\u3010\u3084\u3084\u30ab\u30b9\u3011\u7d04\u4e00\u9031\u9593\u3076\u308a\u306e\u914d\u4fe1\u3067\u3059\u308f\u3010\u304a\u96d1\u8ac7\u3067\u3059\u308f\uff5e\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-13T14:04:26Z",
-      "scheduledStartTime": "2024-06-13T14:00:00Z",
-      "activeLiveChatId": "Cg0KC2NMTjdNbzFXYm40KicKGFVDZ0lmTHBRdmVsbG9EaThJMFljYndwZxILY0xON01vMVdibjQ"
-    }
-  },
   "cNaF2VW0kiA": {
     "snippet": {
       "publishedAt": "2024-06-12T10:23:39Z",
@@ -6163,6 +6141,7 @@
       "title": "\u3010Hagcraft\u3011this hole was made for me\u300e Rina Astera | OshiLinkEN\u300f"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-13T16:01:01Z",
       "scheduledStartTime": "2024-06-13T16:00:00Z",
       "activeLiveChatId": "Cg0KC254NFdVVkl2THdjKicKGFVDUGx0UVhJZ1FhRDVtVmtBSXJPX2RTQRILbng0V1VWSXZMd2M"
     }
@@ -6397,6 +6376,7 @@
       "title": "This game is about scar, right? | [Wuthering Waves]"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-13T16:01:35Z",
       "scheduledStartTime": "2024-06-13T16:00:00Z",
       "activeLiveChatId": "Cg0KC3FHTzJoUXotQk9JKicKGFVDMVpSWG9UUVV3WnRLbnBPZkp3R05QdxILcUdPMmhRei1CT0k"
     }
