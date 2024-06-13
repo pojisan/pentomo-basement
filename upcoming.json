@@ -642,6 +642,7 @@
       "title": "i yearn to yap...  \u3010\u2661 lucid | Boomi Mamana\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-13T00:07:39Z",
       "scheduledStartTime": "2024-06-13T00:00:00Z",
       "activeLiveChatId": "Cg0KCzRncHpkaS0tYm13KicKGFVDRzU2WFdaZWJPM1RIV0w2R3FkTDZnQRILNGdwemRpLS1ibXc"
     }
@@ -2054,18 +2055,6 @@
       "activeLiveChatId": "Cg0KC0daM1c2Z3ZITXVnKicKGFVDNmxaTEFPZ1NZZ0o2WmtXMlpUSTc1URILR1ozVzZndkhNdWc"
     }
   },
-  "GesJrynvY3g": {
-    "snippet": {
-      "publishedAt": "2024-06-12T18:22:04Z",
-      "channelId": "UCvYzwEkCQ27gPaj54wBsVOg",
-      "title": "\u3010Bunny Garden\u3011Bunny Girl's Galore!\u3010VAllure\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-12T20:02:03Z",
-      "scheduledStartTime": "2024-06-12T20:00:00Z",
-      "activeLiveChatId": "Cg0KC0dlc0pyeW52WTNnKicKGFVDdll6d0VrQ1EyN2dQYWo1NHdCc1ZPZxILR2VzSnJ5bnZZM2c"
-    }
-  },
   "GjakglHE58I": {
     "snippet": {
       "publishedAt": "2024-06-10T05:39:50Z",
@@ -3113,18 +3102,6 @@
       "activeLiveChatId": "Cg0KC055aVJSWGtEWXV3KicKGFVDc1FxazRjbjhwbGpVZWFkWWJVVmd5ZxILTnlpUlJYa0RZdXc"
     }
   },
-  "O0tp92CUBtI": {
-    "snippet": {
-      "publishedAt": "2024-06-12T06:45:39Z",
-      "channelId": "UCH24asiIqsVUQlz8FvXJbcw",
-      "title": "[RENTAL] THIS TURNED INTO A SPEEDRUN OOPS  [V&U | GEN 5]"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-12T21:58:25Z",
-      "scheduledStartTime": "2024-06-12T22:00:00Z",
-      "activeLiveChatId": "Cg0KC08wdHA5MkNVQnRJKicKGFVDSDI0YXNpSXFzVlVRbHo4RnZYSmJjdxILTzB0cDkyQ1VCdEk"
-    }
-  },
   "OAoZbdo1_z8": {
     "snippet": {
       "publishedAt": "2024-06-11T14:54:17Z",
@@ -4092,6 +4069,7 @@
       "title": "\u30103Dio ASMR\u3011lots and lots of kisses\u3010Yae Yugiri | V4Mirai | VTuber\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-13T00:07:30Z",
       "scheduledStartTime": "2024-06-13T00:00:00Z",
       "activeLiveChatId": "Cg0KC1ZLM3QzR2dTYXVFKicKGFVDYkRISVMwTnBYUk9oWWpzYVhRWDRwQRILVkszdDNHZ1NhdUU"
     }
@@ -4180,18 +4158,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-22T14:00:00Z",
       "activeLiveChatId": "Cg0KC1cyUVgyWEFOSko0KicKGFVDb3ZLd2dBOWVIVXV0SVdDVldTX0FHdxILVzJRWDJYQU5KSjQ"
-    }
-  },
-  "W7LARYZZ2-0": {
-    "snippet": {
-      "publishedAt": "2024-06-12T21:59:59Z",
-      "channelId": "UCLdkcTt5vOfGi_myvK-iO0g",
-      "title": "\u3010BLASTCAST\u3011A DRUNK PODCAST : EVANGELION FOR THE UNEDUCATED w/@NanimoNavi"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-12T22:25:37Z",
-      "scheduledStartTime": "2024-06-12T22:00:00Z",
-      "activeLiveChatId": "Cg0KC1c3TEFSWVpaMi0wKicKGFVDTGRrY1R0NXZPZkdpX215dkstaU8wZxILVzdMQVJZWloyLTA"
     }
   },
   "WNrasRj9SYg": {
@@ -4694,6 +4660,7 @@
       "title": "Reacting To The Most CURSED Yugioh Duels W/ @LukeVonKarma"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-13T00:06:40Z",
       "scheduledStartTime": "2024-06-13T00:00:00Z",
       "activeLiveChatId": "Cg0KC19PVS1HTUVldEFrKicKGFVDQTRiT0IxSm53NS1sYnVvU0NmeGMtdxILX09VLUdNRWV0QWs"
     }
@@ -6322,7 +6289,8 @@
       "title": "\u3010DONKEY KONG COUNTRY 2\u3011banana survival story \ud83c\udf4c\u3010\u30b9\u30fc\u30d1\u30fc\u30c9\u30f3\u30ad\u30fc\u30b3\u30f3\u30b02\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-13T01:00:00Z"
+      "scheduledStartTime": "2024-06-13T01:00:00Z",
+      "activeLiveChatId": "Cg0KC25HQ01kYVQ2ck1zKicKGFVDdDlIX1JwUXpoeHpseUJ4RnFyZEhxQRILbkdDTWRhVDZyTXM"
     }
   },
   "nIh5AXEKT90": {
@@ -6664,6 +6632,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-13T23:00:00Z",
       "activeLiveChatId": "Cg0KC3FDSmZ0Zzhubnp3KicKGFVDVlFFYmpBY0pSZVB4T0RWTTVtV0N2URILcUNKZnRnOG5uenc"
+    }
+  },
+  "qGO2hQz-BOI": {
+    "snippet": {
+      "publishedAt": "2024-06-13T00:09:51Z",
+      "channelId": "UC1ZRXoTQUwZtKnpOfJwGNPw",
+      "title": "This game is about scar, right? | [Wuthering Waves]"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-13T16:00:00Z",
+      "activeLiveChatId": "Cg0KC3FHTzJoUXotQk9JKicKGFVDMVpSWG9UUVV3WnRLbnBPZkp3R05QdxILcUdPMmhRei1CT0k"
     }
   },
   "qP077R7O5ak": {
@@ -7353,6 +7332,17 @@
       "activeLiveChatId": "Cg0KC3ZJWmxiVnlpUlpzKicKGFVDVmpwRlAxX055M1BVb0UyNnI0SVRhdxILdklabGJWeWlSWnM"
     }
   },
+  "vM9anf8Mmcw": {
+    "snippet": {
+      "publishedAt": "2024-06-13T00:10:39Z",
+      "channelId": "UCRm6lqtdxs_Qo6HeL-SRQ-w",
+      "title": "\u3010\u30d6\u30eb\u30fc\u30a2\u30fc\u30ab\u30a4\u30d6\u3011Vol.4 \u30ab\u30eb\u30d0\u30ce\u30b0\u306e\u514e\u3000\u7b2c2\u7ae0\u3010 \u30ec\u30a4\u30f3\u30fb\u30d1\u30bf\u30fc\u30bd\u30f3/\u306b\u3058\u3055\u3093\u3058 \u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-13T08:00:00Z",
+      "activeLiveChatId": "Cg0KC3ZNOWFuZjhNbWN3KicKGFVDUm02bHF0ZHhzX1FvNkhlTC1TUlEtdxILdk05YW5mOE1tY3c"
+    }
+  },
   "vYDz_4wu2EE": {
     "snippet": {
       "publishedAt": "2024-06-07T04:15:43Z",
@@ -7437,6 +7427,7 @@
       "title": "\u3010One Shot\u3011Can only do it once, or maybe..? \ud83d\udc10\ud83c\udf7cPT 3\u3010VAllure\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-13T00:04:56Z",
       "scheduledStartTime": "2024-06-13T00:00:00Z",
       "activeLiveChatId": "Cg0KC3ZtazhYOTR6bGVFKicKGFVDaTdUd29tdFMzWnlmakFNNVRXRU1TURILdm1rOFg5NHpsZUU"
     }
