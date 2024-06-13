@@ -506,8 +506,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-13T22:01:12Z",
-      "scheduledStartTime": "2024-06-13T22:01:03Z",
-      "activeLiveChatId": "Cg0KC1p3WFNpWkdqUTR3KicKGFVDb3FQc1VXXzJJX2JaN041SDNGNFliURILWndYU2laR2pRNHc"
+      "actualEndTime": "2024-06-13T23:45:21Z",
+      "scheduledStartTime": "2024-06-13T22:01:03Z"
     }
   },
   "t7_G9Q4fSCs": {
@@ -517,6 +517,7 @@
       "title": "\u3010Happy Birthday\u3011A Year Closer to Death!\u3010#LaikaCream\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-13T23:50:46Z",
       "scheduledStartTime": "2024-06-15T22:00:00Z",
       "activeLiveChatId": "Cg0KC3Q3X0c5UTRmU0NzKicKGFVDb3FQc1VXXzJJX2JaN041SDNGNFliURILdDdfRzlRNGZTQ3M"
     }
