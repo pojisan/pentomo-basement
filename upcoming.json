@@ -664,6 +664,7 @@
       "title": "\u3010Singing & Piano\u3011 Song Request Stream! #\u6b4c\u67a0"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-13T12:07:07Z",
       "scheduledStartTime": "2024-06-13T12:00:00Z",
       "activeLiveChatId": "Cg0KCzN3TjUwMGNNMFFvKicKGFVDYnJiRktGaHlIRDRiTUpiRWNYWnoxZxILM3dONTAwY00wUW8"
     }
@@ -1419,18 +1420,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-15T16:00:00Z",
       "activeLiveChatId": "Cg0KC0JtSjJ4WkZpdlVVKicKGFVDbGNNVDlWOWl1N3hwaGtIVkhnbEhUZxILQm1KMnhaRml2VVU"
-    }
-  },
-  "Bni4Fa_5824": {
-    "snippet": {
-      "publishedAt": "2024-06-12T16:26:53Z",
-      "channelId": "UCUtKkGKef8BYMs3h-3zQm9A",
-      "title": "\ud83c\udf0a\u3010LOL\u3011 \u306b\u3058\u30db\u30edLOL\u30d5\u30eb\u30d1\uff01\u6c17\u8efd\u3044\u306b\u9811\u5f35\u308a\u307e\u3059\uff3e\uff3e  w. Rio, Towa, Hayun, Petit \u3010JP\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-13T10:02:26Z",
-      "scheduledStartTime": "2024-06-13T10:00:00Z",
-      "activeLiveChatId": "Cg0KC0JuaTRGYV81ODI0KicKGFVDVXRLa0dLZWY4QllNczNoLTN6UW05QRILQm5pNEZhXzU4MjQ"
     }
   },
   "C2blOLFuseI": {
@@ -3122,7 +3111,7 @@
     "snippet": {
       "publishedAt": "2024-06-12T11:32:14Z",
       "channelId": "UCyKsg-57XC9pyHbP7v3kCPQ",
-      "title": "\ubbf8\uc624\ub9ac \ubbf8\uad6d \uac14\ub2e4\uc653\uc9c0\ub871~ (KR stream)"
+      "title": "\ubbf8\uc624\ub9ac \ubbf8\uad6d \uac14\ub2e4\uc653\uc9c0\ub871~ (KR stream w/ TL)"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-13T13:00:00Z",
@@ -5767,7 +5756,9 @@
       "title": "\u3010LITTLE NIGHTMARES-\u30ea\u30c8\u30eb\u30ca\u30a4\u30c8\u30e1\u30a2- #2\u3011\u540d\u4f5c\u8131\u51fa\u30b2\u30fc\u30e0\u3092\u3084\u308b\u3001\u591c\u3010\u77f3\u795e\u306e\u305e\u307f\uff0f\u306b\u3058\u3055\u3093\u3058\u6240\u5c5e2\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-13T12:00:00Z"
+      "actualStartTime": "2024-06-13T12:03:27Z",
+      "scheduledStartTime": "2024-06-13T12:00:00Z",
+      "activeLiveChatId": "Cg0KC2tfWDJLaDlVSS1jKicKGFVDdExmQV9xVXFDSnRqWEpNMlpSX2tlZxILa19YMktoOVVJLWM"
     }
   },
   "ke16gFgamGQ": {
@@ -5779,6 +5770,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-06-24T22:00:00Z",
       "activeLiveChatId": "Cg0KC2tlMTZnRmdhbUdRKicKGFVDSzlsNnJUd1UzaGlTWmlqSU1xNTFHdxILa2UxNmdGZ2FtR1E"
+    }
+  },
+  "kirispica": {
+    "snippet": {
+      "channelId": "kirispica",
+      "title": "Singing & Piano Song Requests! !sl !sr \u3010Kirispica | V-Dere\u3011",
+      "channelTitle": "kirispica"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-13T12:06:51Z",
+      "twitch": true
     }
   },
   "krqd0AjjXaQ": {
@@ -5930,6 +5932,17 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-13T11:00:11Z",
       "twitch": true
+    }
+  },
+  "lnXewO5Lsgo": {
+    "snippet": {
+      "publishedAt": "2024-06-13T12:02:58Z",
+      "channelId": "UCyKsg-57XC9pyHbP7v3kCPQ",
+      "title": "[ASMR] Succubus roleplay \ud83d\udc8b"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-16T14:00:00Z",
+      "activeLiveChatId": "Cg0KC2xuWGV3TzVMc2dvKicKGFVDeUtzZy01N1hDOXB5SGJQN3Yza0NQURILbG5YZXdPNUxzZ28"
     }
   },
   "lqPpe8560zM": {
@@ -6766,6 +6779,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-08-30T04:35:00Z",
       "activeLiveChatId": "Cg0KC3NrVENLZ003YmlJKicKGFVDazB2dXd3c21fVVFISElPZ0d2eFUtQRILc2tUQ0tnTTdiaUk"
+    }
+  },
+  "sp98VicQj0w": {
+    "snippet": {
+      "publishedAt": "2024-06-13T12:02:08Z",
+      "channelId": "UCnYhIk9aGEx_bIgheVjs53w",
+      "title": "2 girls 1 cup...head \ud83d\ude08"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-14T02:00:00Z",
+      "activeLiveChatId": "Cg0KC3NwOThWaWNRajB3KicKGFVDblloSWs5YUdFeF9iSWdoZVZqczUzdxILc3A5OFZpY1FqMHc"
     }
   },
   "sqTOZdPOjew": {
