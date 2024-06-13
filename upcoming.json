@@ -1591,6 +1591,18 @@
       "activeLiveChatId": "Cg0KC0UtSzdXS19KcnJrKicKGFVDWmw5MndNaXBqWUZjMVVsbTlZeTY1ZxILRS1LN1dLX0pycms"
     }
   },
+  "EFQOh-_RRC4": {
+    "snippet": {
+      "publishedAt": "2024-06-13T22:12:24Z",
+      "channelId": "UCkiUByBCF1aOiRd16xAlPMg",
+      "title": "THANK THE LORD"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-13T22:17:13Z",
+      "scheduledStartTime": "2024-06-13T22:10:00Z",
+      "activeLiveChatId": "Cg0KC0VGUU9oLV9SUkM0KicKGFVDa2lVQnlCQ0YxYU9pUmQxNnhBbFBNZxILRUZRT2gtX1JSQzQ"
+    }
+  },
   "EKy9igPBHcU": {
     "snippet": {
       "publishedAt": "2024-06-11T00:33:42Z",
@@ -2551,6 +2563,7 @@
       "title": "let's hang out!!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-13T22:15:38Z",
       "scheduledStartTime": "2024-06-13T22:10:00Z",
       "activeLiveChatId": "Cg0KC0tlbXJxQlVkak5rKicKGFVDMW9nbUxWZE1yVTRIdUxCVVl0empWURILS2VtcnFCVWRqTms"
     }
@@ -5982,11 +5995,22 @@
     "snippet": {
       "publishedAt": "2024-06-13T21:47:11Z",
       "channelId": "UC3n5uGu18FoCy23ggWWp8tA",
-      "title": "idk what i'm gonna do yet"
+      "title": "\u3010BUCKSHOT ROULETTE\u3011You've Gotta Know When To Hold 'Em"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-14T03:00:00Z",
       "activeLiveChatId": "Cg0KC21vNGF1NXdzLU1ZKicKGFVDM241dUd1MThGb0N5MjNnZ1dXcDh0QRILbW80YXU1d3MtTVk"
+    }
+  },
+  "mozumipichi": {
+    "snippet": {
+      "channelId": "mozumipichi",
+      "title": "THANK THE LORD",
+      "channelTitle": "MozumiPichi"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-13T22:16:36Z",
+      "twitch": true
     }
   },
   "n5D5GvXzXmY": {
@@ -6866,7 +6890,7 @@
       "title": "ROBLOX w/ @neiomicielo and @EriElulu  \u3010\u2661 lucid | Boomi Mamana\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-13T22:45:00Z",
+      "scheduledStartTime": "2024-06-14T00:00:00Z",
       "activeLiveChatId": "Cg0KC3V3dUVxbnFqTnp3KicKGFVDRzU2WFdaZWJPM1RIV0w2R3FkTDZnQRILdXd1RXFucWpOenc"
     }
   },
