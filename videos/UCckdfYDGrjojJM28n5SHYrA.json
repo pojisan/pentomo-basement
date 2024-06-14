@@ -5627,12 +5627,12 @@
     "snippet": {
       "publishedAt": "2024-01-04T22:28:24Z",
       "channelId": "UCckdfYDGrjojJM28n5SHYrA",
-      "title": "SHOWCASING YOUR ASSETS (BE NOT AFRAID)",
-      "private": true
+      "title": "SHOWCASING YOUR ASSETS (BE NOT AFRAID)"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-05T12:00:00Z",
-      "activeLiveChatId": "Cg0KC1NSYVIxeGVpQkpjKicKGFVDY2tkZllER3Jqb2pKTTI4bjVTSFlyQRILU1JhUjF4ZWlCSmM"
+      "actualStartTime": "2024-06-08T04:35:27Z",
+      "actualEndTime": "2024-06-08T07:23:04Z",
+      "scheduledStartTime": "2024-06-08T04:30:00Z"
     }
   },
   "z5VsZUODfCA": {
@@ -5669,6 +5669,30 @@
       "actualStartTime": "2024-05-22T11:06:42Z",
       "actualEndTime": "2024-05-22T13:49:40Z",
       "scheduledStartTime": "2024-05-22T11:00:00Z"
+    }
+  },
+  "FFWWeyBy0ks": {
+    "snippet": {
+      "publishedAt": "2024-06-01T16:39:37Z",
+      "channelId": "UCckdfYDGrjojJM28n5SHYrA",
+      "title": "LUXIEM PIZZA PARTY OFF COLLAB"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-01T12:47:35Z",
+      "actualEndTime": "2024-06-01T16:24:31Z",
+      "scheduledStartTime": "2024-06-01T12:15:00Z"
+    }
+  },
+  "aoOhQ5J7XZE": {
+    "snippet": {
+      "publishedAt": "2024-06-11T23:03:29Z",
+      "channelId": "UCckdfYDGrjojJM28n5SHYrA",
+      "title": "WHAT"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-11T23:15:08Z",
+      "actualEndTime": "2024-06-12T00:53:12Z",
+      "scheduledStartTime": "2024-06-11T23:15:00Z"
     }
   }
 }

@@ -1018,8 +1018,46 @@
       "title": "\u3010GAME STREAM\u30fb\u30b2\u30fc\u30e0\u914d\u4fe1\u3011Chatting During Dailies\u30fb\u30c7\u30a4\u30ea\u30fc\u3057\u306a\u304c\u3089\u96d1\u8ac7\u3057\u3088\u3046\uff01"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-25T05:00:00Z",
-      "activeLiveChatId": "Cg0KC1Qyem50VW1haHk4KicKGFVDSFhteVRaM1VGYmh6cGZWZ1ZscmRndxILVDJ6bnRVbWFoeTg"
+      "actualStartTime": "2024-05-25T04:56:47Z",
+      "actualEndTime": "2024-05-25T09:16:54Z",
+      "scheduledStartTime": "2024-05-25T05:00:00Z"
+    }
+  },
+  "e2o9Oesq6HU": {
+    "snippet": {
+      "publishedAt": "2024-05-26T14:20:46Z",
+      "channelId": "UCHXmyTZ3UFbhzpfVgVlrdgw",
+      "title": "\u3010GAME STREAM\u30fb\u30b2\u30fc\u30e0\u914d\u4fe1\u3011Chatting During Dailies\u30fb\u30c7\u30a4\u30ea\u30fc\u3057\u306a\u304c\u3089\u96d1\u8ac7\u3057\u3088\u3046\uff01"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-01T04:50:57Z",
+      "actualEndTime": "2024-06-01T08:49:56Z",
+      "scheduledStartTime": "2024-06-01T05:00:00Z"
+    }
+  },
+  "gZ57W6_eEVo": {
+    "snippet": {
+      "publishedAt": "2024-05-26T14:25:41Z",
+      "channelId": "UCHXmyTZ3UFbhzpfVgVlrdgw",
+      "title": "\u3010Singing Stream\u30fb\u6b4c\u67a0\u3011Time for the HARDEST challenge of my life\u30fb\u30a2\u30cb\u30bd\u30f3\u4ee5\u5916\u306e\u66f2\uff1f\uff01"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-27T03:52:51Z",
+      "actualEndTime": "2024-05-27T07:38:48Z",
+      "scheduledStartTime": "2024-05-27T04:00:00Z"
+    }
+  },
+  "4PDXc-sQ8JE": {
+    "snippet": {
+      "publishedAt": "2024-06-10T09:25:37Z",
+      "channelId": "UCHXmyTZ3UFbhzpfVgVlrdgw",
+      "title": "\u3010Singing Stream\u30fb\u6b4c\u67a0\u3011UNARCHIVED Practice Stream\u30fb\u6b4c\u7df4\u7fd2\u301c\uff01",
+      "private": true
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-11T09:50:51Z",
+      "scheduledStartTime": "2024-06-11T10:00:00Z",
+      "activeLiveChatId": "Cg0KCzRQRFhjLXNROEpFKicKGFVDSFhteVRaM1VGYmh6cGZWZ1ZscmRndxILNFBEWGMtc1E4SkU"
     }
   }
 }

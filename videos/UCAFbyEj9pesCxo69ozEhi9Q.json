@@ -1670,8 +1670,20 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-23T01:03:29Z",
-      "scheduledStartTime": "2024-05-23T01:00:00Z",
-      "activeLiveChatId": "Cg0KC2NoNGh3Tm55a21JKicKGFVDQUZieUVqOXBlc0N4bzY5b3pFaGk5URILY2g0aHdObnlrbUk"
+      "actualEndTime": "2024-05-23T02:28:53Z",
+      "scheduledStartTime": "2024-05-23T01:00:00Z"
+    }
+  },
+  "j0KeZ2FHxqc": {
+    "snippet": {
+      "publishedAt": "2024-06-08T21:53:31Z",
+      "channelId": "UCAFbyEj9pesCxo69ozEhi9Q",
+      "title": "\u3010Offkai Expo Stories\u3011Ai am finally back!!! Ai missed you all!!!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-09T01:02:59Z",
+      "actualEndTime": "2024-06-09T02:43:20Z",
+      "scheduledStartTime": "2024-06-09T01:00:00Z"
     }
   }
 }

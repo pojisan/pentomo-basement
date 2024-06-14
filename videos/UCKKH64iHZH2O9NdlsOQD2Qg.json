@@ -3906,8 +3906,9 @@
       "title": "Trying to get better at Dead by Daylight!!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-25T06:00:00Z",
-      "activeLiveChatId": "Cg0KC2VFSFI2QjVkUnZJKicKGFVDS0tINjRpSFpIMk85TmRsc09RRDJRZxILZUVIUjZCNWRSdkk"
+      "actualStartTime": "2024-05-25T14:01:42Z",
+      "actualEndTime": "2024-05-25T17:27:21Z",
+      "scheduledStartTime": "2024-05-25T14:00:00Z"
     }
   },
   "NAE0G-KsC3s": {
@@ -3917,8 +3918,9 @@
       "title": "[ #shorts ] Trying to get better at Dead by Daylight!!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-25T06:00:00Z",
-      "activeLiveChatId": "Cg0KC05BRTBHLUtzQzNzKicKGFVDS0tINjRpSFpIMk85TmRsc09RRDJRZxILTkFFMEctS3NDM3M"
+      "actualStartTime": "2024-05-25T14:08:19Z",
+      "actualEndTime": "2024-05-25T16:32:32Z",
+      "scheduledStartTime": "2024-05-25T14:00:00Z"
     }
   },
   "BqWRr7H8BWk": {
@@ -3928,8 +3930,9 @@
       "title": "HANDCAM / Let's make burgers \ud83c\udf54"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-23T06:00:00Z",
-      "activeLiveChatId": "Cg0KC0JxV1JyN0g4QldrKicKGFVDS0tINjRpSFpIMk85TmRsc09RRDJRZxILQnFXUnI3SDhCV2s"
+      "actualStartTime": "2024-05-23T06:04:51Z",
+      "actualEndTime": "2024-05-23T07:23:46Z",
+      "scheduledStartTime": "2024-05-23T06:00:00Z"
     }
   },
   "3MrJwr-ByiQ": {
@@ -3954,6 +3957,90 @@
       "actualStartTime": "2024-05-21T05:59:58Z",
       "actualEndTime": "2024-05-21T08:05:45Z",
       "scheduledStartTime": "2024-05-21T06:00:00Z"
+    }
+  },
+  "JXqIto6V7uc": {
+    "snippet": {
+      "publishedAt": "2024-05-28T10:05:52Z",
+      "channelId": "UCKKH64iHZH2O9NdlsOQD2Qg",
+      "title": "5/28 - Work with me!! \u270d\u270d\u270d"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-28T13:00:51Z",
+      "actualEndTime": "2024-05-28T14:53:27Z",
+      "scheduledStartTime": "2024-05-28T13:00:00Z"
+    }
+  },
+  "WguBt5Wvi38": {
+    "snippet": {
+      "publishedAt": "2024-05-30T10:03:24Z",
+      "channelId": "UCKKH64iHZH2O9NdlsOQD2Qg",
+      "title": "What should we play today?"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-30T12:57:50Z",
+      "actualEndTime": "2024-05-30T15:19:50Z",
+      "scheduledStartTime": "2024-05-30T13:00:00Z"
+    }
+  },
+  "PDOtKsMr2Jo": {
+    "snippet": {
+      "publishedAt": "2024-06-01T08:19:36Z",
+      "channelId": "UCKKH64iHZH2O9NdlsOQD2Qg",
+      "title": "I am now an INDIE VTUBER?!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-01T13:00:41Z",
+      "actualEndTime": "2024-06-01T15:24:23Z",
+      "scheduledStartTime": "2024-06-01T13:00:00Z"
+    }
+  },
+  "kPdbiGnrX7k": {
+    "snippet": {
+      "publishedAt": "2024-06-02T05:17:28Z",
+      "channelId": "UCKKH64iHZH2O9NdlsOQD2Qg",
+      "title": "Trying out Pathless Woods with @AuregaliaAruri and @LunarisUrufi \ud83d\udc99\ud83d\udc96\ud83d\udc9b"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-02T13:01:14Z",
+      "actualEndTime": "2024-06-02T16:54:19Z",
+      "scheduledStartTime": "2024-06-02T13:00:00Z"
+    }
+  },
+  "d1DC4L_9OaM": {
+    "snippet": {
+      "publishedAt": "2024-06-04T06:29:44Z",
+      "channelId": "UCKKH64iHZH2O9NdlsOQD2Qg",
+      "title": "6/4 - Work with me \u270d\u270d"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-04T08:00:11Z",
+      "actualEndTime": "2024-06-04T11:56:37Z",
+      "scheduledStartTime": "2024-06-04T08:00:00Z"
+    }
+  },
+  "ftCjGGH8PLQ": {
+    "snippet": {
+      "publishedAt": "2024-06-08T10:03:50Z",
+      "channelId": "UCKKH64iHZH2O9NdlsOQD2Qg",
+      "title": "Let's explore the new content!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-08T11:02:11Z",
+      "actualEndTime": "2024-06-08T13:03:22Z",
+      "scheduledStartTime": "2024-06-08T11:00:00Z"
+    }
+  },
+  "snrWbsUgqhQ": {
+    "snippet": {
+      "publishedAt": "2024-06-10T08:50:01Z",
+      "channelId": "UCKKH64iHZH2O9NdlsOQD2Qg",
+      "title": "Mahjong Souls with Theodore, Ambros and Hikari!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-10T11:58:07Z",
+      "actualEndTime": "2024-06-10T14:25:26Z",
+      "scheduledStartTime": "2024-06-10T12:00:00Z"
     }
   }
 }

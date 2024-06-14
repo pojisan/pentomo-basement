@@ -3616,10 +3616,11 @@
     "snippet": {
       "publishedAt": "2024-05-15T03:38:38Z",
       "channelId": "UCKnts8S_hayjQIOXtQKCVIg",
-      "title": "Ya like Jazz?"
+      "title": "Ya like Jazz?",
+      "private": true
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-23T22:00:00Z",
+      "scheduledStartTime": "2024-06-09T22:00:00Z",
       "activeLiveChatId": "Cg0KCzVFRndWUjdmdVJVKicKGFVDS250czhTX2hheWpRSU9YdFFLQ1ZJZxILNUVGd1ZSN2Z1UlU"
     }
   },
@@ -3630,8 +3631,9 @@
       "title": "Finishing this piece..."
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-24T22:00:00Z",
-      "activeLiveChatId": "Cg0KC2w1YXhiaUE4UE5FKicKGFVDS250czhTX2hheWpRSU9YdFFLQ1ZJZxILbDVheGJpQThQTkU"
+      "actualStartTime": "2024-05-24T00:43:52Z",
+      "actualEndTime": "2024-05-24T03:05:17Z",
+      "scheduledStartTime": "2024-05-24T00:00:00Z"
     }
   },
   "IOzP1n09ey8": {
@@ -3639,6 +3641,80 @@
       "publishedAt": "2024-05-20T21:30:01Z",
       "channelId": "UCKnts8S_hayjQIOXtQKCVIg",
       "title": "Choose wisely Yokaidachi's... ft. @oumiyaemma"
+    }
+  },
+  "CrE40tt7gCI": {
+    "snippet": {
+      "publishedAt": "2024-05-23T05:39:40Z",
+      "channelId": "UCKnts8S_hayjQIOXtQKCVIg",
+      "title": "ASMR singing for you..."
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-30T23:20:59Z",
+      "actualEndTime": "2024-05-31T02:03:23Z",
+      "scheduledStartTime": "2024-05-30T23:00:00Z"
+    }
+  },
+  "ZU3XVy7piuc": {
+    "snippet": {
+      "publishedAt": "2024-05-31T20:52:16Z",
+      "channelId": "UCKnts8S_hayjQIOXtQKCVIg",
+      "title": "I'm getting a little sleepy... come talk to me to keep me awake."
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-02T01:09:31Z",
+      "actualEndTime": "2024-06-02T02:45:13Z",
+      "scheduledStartTime": "2024-06-02T01:00:00Z"
+    }
+  },
+  "NF9ozk8i3TE": {
+    "snippet": {
+      "publishedAt": "2024-06-03T22:00:20Z",
+      "channelId": "UCKnts8S_hayjQIOXtQKCVIg",
+      "title": "WHY DO YOU GUYS LIKE MY ASMR SO MUCH?!"
+    }
+  },
+  "wy8MjC9EPOY": {
+    "snippet": {
+      "publishedAt": "2024-06-04T06:19:44Z",
+      "channelId": "UCKnts8S_hayjQIOXtQKCVIg",
+      "title": "I CAN finish this piece!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-07T22:12:17Z",
+      "actualEndTime": "2024-06-08T01:59:39Z",
+      "scheduledStartTime": "2024-06-07T22:00:00Z"
+    }
+  },
+  "-lbG_iIKTCI": {
+    "snippet": {
+      "publishedAt": "2024-06-04T06:17:11Z",
+      "channelId": "UCKnts8S_hayjQIOXtQKCVIg",
+      "title": "Will you have the best PC setup?!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-15T22:00:00Z",
+      "activeLiveChatId": "Cg0KCy1sYkdfaUlLVENJKicKGFVDS250czhTX2hheWpRSU9YdFFLQ1ZJZxILLWxiR19pSUtUQ0k"
+    }
+  },
+  "oIjxKoU1_4k": {
+    "snippet": {
+      "publishedAt": "2024-06-09T22:00:32Z",
+      "channelId": "UCKnts8S_hayjQIOXtQKCVIg",
+      "title": "There are too many people in my family..."
+    }
+  },
+  "8L7NqENDv2I": {
+    "snippet": {
+      "publishedAt": "2024-06-13T08:34:17Z",
+      "channelId": "UCKnts8S_hayjQIOXtQKCVIg",
+      "title": "You want to talk to me that badly!?"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-14T00:56:51Z",
+      "actualEndTime": "2024-06-14T02:56:30Z",
+      "scheduledStartTime": "2024-06-14T01:00:00Z",
+      "activeLiveChatId": "Cg0KCzhMN05xRU5EdjJJKicKGFVDS250czhTX2hheWpRSU9YdFFLQ1ZJZxILOEw3TnFFTkR2Mkk"
     }
   }
 }

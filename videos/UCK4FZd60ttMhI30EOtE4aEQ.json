@@ -3271,5 +3271,41 @@
       "actualEndTime": "2024-05-17T05:33:26Z",
       "scheduledStartTime": "2024-05-17T05:30:00Z"
     }
+  },
+  "CzrjnOKYs4M": {
+    "snippet": {
+      "publishedAt": "2024-05-23T05:02:19Z",
+      "channelId": "UCK4FZd60ttMhI30EOtE4aEQ",
+      "title": "\u3010Honkai Star Rail\u3011 hifi I'm lofi"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-23T05:03:51Z",
+      "actualEndTime": "2024-05-23T08:09:58Z",
+      "scheduledStartTime": "2024-05-23T05:00:00Z"
+    }
+  },
+  "j-CzBvbir3Q": {
+    "snippet": {
+      "publishedAt": "2024-05-27T05:56:40Z",
+      "channelId": "UCK4FZd60ttMhI30EOtE4aEQ",
+      "title": "\u3010Honkai Star Rail\u3011 I want to gacha but I have to put up with it"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-27T06:02:31Z",
+      "actualEndTime": "2024-05-27T10:02:18Z",
+      "scheduledStartTime": "2024-05-27T06:00:00Z"
+    }
+  },
+  "ax_arg0iwPg": {
+    "snippet": {
+      "publishedAt": "2024-06-03T07:51:02Z",
+      "channelId": "UCK4FZd60ttMhI30EOtE4aEQ",
+      "title": "\u3010Honkai Star Rail\u3011 Firefly where you at"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-03T08:05:04Z",
+      "actualEndTime": "2024-06-03T10:50:27Z",
+      "scheduledStartTime": "2024-06-03T08:00:00Z"
+    }
   }
 }

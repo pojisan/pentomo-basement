@@ -397,7 +397,7 @@
       "title": "Nyanami Ruru & Rumi WEEKLY SCHEDULE"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2025-01-01T22:15:00Z",
+      "scheduledStartTime": "2026-01-01T22:15:00Z",
       "activeLiveChatId": "Cg0KC0tKSml2NkFIQkVZKicKGFVDbGNNVDlWOWl1N3hwaGtIVkhnbEhUZxILS0pKaXY2QUhCRVk"
     }
   },
@@ -676,11 +676,12 @@
     "snippet": {
       "publishedAt": "2024-05-14T02:59:58Z",
       "channelId": "UClcMT9V9iu7xphkHVHglHTg",
-      "title": "\u3010PERSONA 3 RELOAD\u3011WE WANT KOROMARU WE WANT KOROMARU"
+      "title": "\u3010PERSONA 3 RELOAD\u3011WE FINALLY MET KOROMARU AGAIN!!!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-23T16:00:00Z",
-      "activeLiveChatId": "Cg0KCzB6MlY4TF9ZMjgwKicKGFVDbGNNVDlWOWl1N3hwaGtIVkhnbEhUZxILMHoyVjhMX1kyODA"
+      "actualStartTime": "2024-05-23T16:13:58Z",
+      "actualEndTime": "2024-05-23T19:29:44Z",
+      "scheduledStartTime": "2024-05-23T16:00:00Z"
     }
   },
   "WvcbLJbT-yI": {
@@ -699,11 +700,10 @@
     "snippet": {
       "publishedAt": "2024-05-14T03:03:48Z",
       "channelId": "UClcMT9V9iu7xphkHVHglHTg",
-      "title": "\u3010LETHAL COMPANY\u3011HOW FAR CAN WE GO WITH JUST TWO PEOPLE?? (RUMI POV)",
-      "private": true
+      "title": "\u3010LETHAL COMPANY\u3011WE MUST MAKE QUOTA (RUMI POV)"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-19T16:00:00Z",
+      "scheduledStartTime": "2024-06-15T16:00:00Z",
       "activeLiveChatId": "Cg0KC0JtSjJ4WkZpdlVVKicKGFVDbGNNVDlWOWl1N3hwaGtIVkhnbEhUZxILQm1KMnhaRml2VVU"
     }
   },
@@ -736,6 +736,113 @@
       "actualStartTime": "2024-05-22T16:08:04Z",
       "actualEndTime": "2024-05-22T19:20:04Z",
       "scheduledStartTime": "2024-05-22T16:00:00Z"
+    }
+  },
+  "3kctKkunCLs": {
+    "snippet": {
+      "publishedAt": "2024-05-29T04:28:33Z",
+      "channelId": "UClcMT9V9iu7xphkHVHglHTg",
+      "title": "\u3010HONKAI: STAR RAIL\u3011THE CHARMONY FESTIVAL BEGINS"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-31T16:10:27Z",
+      "actualEndTime": "2024-05-31T20:47:37Z",
+      "scheduledStartTime": "2024-05-31T16:00:00Z"
+    }
+  },
+  "D0yEZBXmAnc": {
+    "snippet": {
+      "publishedAt": "2024-05-29T04:26:33Z",
+      "channelId": "UClcMT9V9iu7xphkHVHglHTg",
+      "title": "\u3010PERSONA 3 RELOAD\u3011HE HAS A PERSONA???????"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-29T16:13:52Z",
+      "actualEndTime": "2024-05-29T20:01:04Z",
+      "scheduledStartTime": "2024-05-29T16:00:00Z"
+    }
+  },
+  "h07uSMW5e_M": {
+    "snippet": {
+      "publishedAt": "2024-05-29T04:31:38Z",
+      "channelId": "UClcMT9V9iu7xphkHVHglHTg",
+      "title": "\u3010SISTER SOUL-LINK\u3011WILL WE CLEAR THE FIRST GYM?"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-02T17:28:24Z",
+      "actualEndTime": "2024-06-02T22:38:01Z",
+      "scheduledStartTime": "2024-06-02T16:00:00Z"
+    }
+  },
+  "6GhSQoWeXWs": {
+    "snippet": {
+      "publishedAt": "2024-06-04T08:49:39Z",
+      "channelId": "UClcMT9V9iu7xphkHVHglHTg",
+      "title": "\u3010HONKAI: STAR RAIL\u3011Learning The TRUTH About The Watchmaker..."
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-04T16:03:11Z",
+      "actualEndTime": "2024-06-04T20:42:17Z",
+      "scheduledStartTime": "2024-06-04T16:00:00Z"
+    }
+  },
+  "JVflBuLDBpc": {
+    "snippet": {
+      "publishedAt": "2024-06-04T08:50:50Z",
+      "channelId": "UClcMT9V9iu7xphkHVHglHTg",
+      "title": "\u3010PERSONA 3 RELOAD\u3011WHO'S THE NEXT SHADOW?"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-05T16:20:44Z",
+      "actualEndTime": "2024-06-05T18:36:35Z",
+      "scheduledStartTime": "2024-06-05T16:00:00Z"
+    }
+  },
+  "Po1lqvDlltc": {
+    "snippet": {
+      "publishedAt": "2024-06-04T08:52:33Z",
+      "channelId": "UClcMT9V9iu7xphkHVHglHTg",
+      "title": "\u3010SISTER SOUL-LINK\u3011IS RUMI GONNA MAKE US WIPE AGAIN?"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-07T17:01:31Z",
+      "actualEndTime": "2024-06-07T19:13:12Z",
+      "scheduledStartTime": "2024-06-07T16:00:00Z"
+    }
+  },
+  "h4gHrcIriTs": {
+    "snippet": {
+      "publishedAt": "2024-06-11T00:29:37Z",
+      "channelId": "UClcMT9V9iu7xphkHVHglHTg",
+      "title": "\u3010HONKAI: STAR RAIL\u3011WE FIGHT FOR WHAT'S RIGHT!!!!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-13T16:02:26Z",
+      "actualEndTime": "2024-06-13T21:28:25Z",
+      "scheduledStartTime": "2024-06-13T16:00:00Z"
+    }
+  },
+  "EKy9igPBHcU": {
+    "snippet": {
+      "publishedAt": "2024-06-11T00:33:42Z",
+      "channelId": "UClcMT9V9iu7xphkHVHglHTg",
+      "title": "\u3010SISTER SOUL-LINK\u3011THIS IS THE RUN!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-14T16:00:00Z",
+      "activeLiveChatId": "Cg0KC0VLeTlpZ1BCSGNVKicKGFVDbGNNVDlWOWl1N3hwaGtIVkhnbEhUZxILRUt5OWlnUEJIY1U"
+    }
+  },
+  "u_EV84Nb_fw": {
+    "snippet": {
+      "publishedAt": "2024-06-11T00:32:50Z",
+      "channelId": "UClcMT9V9iu7xphkHVHglHTg",
+      "title": "\u3010PERSONA 3 RELOAD\u3011WAIT WHAT'S NEXT????"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-12T16:03:31Z",
+      "actualEndTime": "2024-06-12T18:12:10Z",
+      "scheduledStartTime": "2024-06-12T16:00:00Z"
     }
   }
 }

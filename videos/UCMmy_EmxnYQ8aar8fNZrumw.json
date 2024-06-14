@@ -582,10 +582,11 @@
     "snippet": {
       "publishedAt": "2024-04-30T09:27:03Z",
       "channelId": "UCMmy_EmxnYQ8aar8fNZrumw",
-      "title": "\u3010Just chatting\u3011i'm taking a bath, please dont peek!"
+      "title": "\u3010Just chatting\u3011i'm taking a bath, please dont peek!",
+      "private": true
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-11T19:00:00Z",
+      "scheduledStartTime": "2024-05-25T19:00:00Z",
       "activeLiveChatId": "Cg0KCy1ucXNKZVo0RHhrKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILLW5xc0plWjREeGs"
     }
   },
@@ -641,22 +642,24 @@
     "snippet": {
       "publishedAt": "2024-05-05T07:39:46Z",
       "channelId": "UCMmy_EmxnYQ8aar8fNZrumw",
-      "title": "\u3010ASMR/3Dio\u3011waifu helps you calm down / triggers + taking requests"
+      "title": "\u3010ASMR/3Dio\u3011DOMMY waifu / triggers + taking requests"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-07T17:00:00Z",
-      "activeLiveChatId": "Cg0KC2drWjhkbVJJenVFKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILZ2taOGRtUkl6dUU"
+      "actualStartTime": "2024-05-30T20:08:12Z",
+      "actualEndTime": "2024-05-30T21:33:11Z",
+      "scheduledStartTime": "2024-05-30T20:00:00Z"
     }
   },
   "FrU69Z8vbG8": {
     "snippet": {
       "publishedAt": "2024-05-06T16:57:35Z",
       "channelId": "UCMmy_EmxnYQ8aar8fNZrumw",
-      "title": "let's enjoy this sunny day"
+      "title": "let's enjoy this karaoke !!!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-07T19:00:00Z",
-      "activeLiveChatId": "Cg0KC0ZyVTY5Wjh2Ykc4KicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILRnJVNjlaOHZiRzg"
+      "actualStartTime": "2024-06-01T20:05:44Z",
+      "actualEndTime": "2024-06-01T22:02:27Z",
+      "scheduledStartTime": "2024-06-01T20:00:00Z"
     }
   },
   "nmn5yQslHPc": {
@@ -747,10 +750,12 @@
     "snippet": {
       "publishedAt": "2024-05-12T11:40:03Z",
       "channelId": "UCMmy_EmxnYQ8aar8fNZrumw",
-      "title": "\u3010Geography Class\u3011testing my knowledge"
+      "title": "\u3010Geography Class\u3011testing my knowledge",
+      "private": true
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-18T18:00:00Z",
+      "actualStartTime": "2024-06-01T12:12:57Z",
+      "scheduledStartTime": "2024-06-01T12:15:00Z",
       "activeLiveChatId": "Cg0KC1AtU1QzdEMyUVNRKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILUC1TVDN0QzJRU1E"
     }
   },
@@ -761,8 +766,9 @@
       "title": "\u3010Buckshot Roulette\u3011playing with my luck"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-17T18:00:00Z",
-      "activeLiveChatId": "Cg0KC0JUVlZOUnRwQTRJKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILQlRWVk5SdHBBNEk"
+      "actualStartTime": "2024-05-25T17:15:54Z",
+      "actualEndTime": "2024-05-25T18:43:24Z",
+      "scheduledStartTime": "2024-05-25T17:00:00Z"
     }
   },
   "fkDdCqmff_g": {
@@ -876,8 +882,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-22T15:20:14Z",
       "actualEndTime": "2024-05-22T23:06:22Z",
-      "scheduledStartTime": "2024-05-22T15:00:00Z",
-      "activeLiveChatId": "Cg0KC1BuTWNveHpjOWlnKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILUG5NY294emM5aWc"
+      "scheduledStartTime": "2024-05-22T15:00:00Z"
     }
   },
   "hu9SJU8BK4E": {
@@ -887,8 +892,9 @@
       "title": "\u3010Donothon\u3011Kattarina's donothon - part 9"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-23T07:00:00Z",
-      "activeLiveChatId": "Cg0KC2h1OVNKVThCSzRFKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILaHU5U0pVOEJLNEU"
+      "actualStartTime": "2024-05-23T07:02:33Z",
+      "actualEndTime": "2024-05-23T15:17:08Z",
+      "scheduledStartTime": "2024-05-23T07:00:00Z"
     }
   },
   "2rB_gxbT4_U": {
@@ -899,8 +905,328 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-22T23:08:14Z",
-      "scheduledStartTime": "2024-05-22T23:00:00Z",
-      "activeLiveChatId": "Cg0KCzJyQl9neGJUNF9VKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILMnJCX2d4YlQ0X1U"
+      "actualEndTime": "2024-05-23T07:00:43Z",
+      "scheduledStartTime": "2024-05-22T23:00:00Z"
+    }
+  },
+  "J3UW1J2ihqE": {
+    "snippet": {
+      "publishedAt": "2024-05-25T19:16:30Z",
+      "channelId": "UCMmy_EmxnYQ8aar8fNZrumw",
+      "title": "\u3010Just chatting\u3011i'm taking a bath, please dont peek!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-25T19:20:31Z",
+      "actualEndTime": "2024-05-25T20:09:15Z",
+      "scheduledStartTime": "2024-05-25T19:15:00Z"
+    }
+  },
+  "YG5eYCRijAA": {
+    "snippet": {
+      "publishedAt": "2024-05-26T09:58:49Z",
+      "channelId": "UCMmy_EmxnYQ8aar8fNZrumw",
+      "title": "\u3010Handcamera\u3011trying japanese snacks (tokyo treat 3)"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-26T16:02:36Z",
+      "actualEndTime": "2024-05-26T17:53:52Z",
+      "scheduledStartTime": "2024-05-26T16:00:00Z"
+    }
+  },
+  "ne-oaK5rypc": {
+    "snippet": {
+      "publishedAt": "2024-05-26T10:08:30Z",
+      "channelId": "UCMmy_EmxnYQ8aar8fNZrumw",
+      "title": "\u3010Watch Dogs\u3011hecking"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-27T08:29:16Z",
+      "actualEndTime": "2024-05-27T13:09:39Z",
+      "scheduledStartTime": "2024-05-27T08:00:00Z"
+    }
+  },
+  "eHv8k8A6Cf0": {
+    "snippet": {
+      "publishedAt": "2024-05-27T16:43:14Z",
+      "channelId": "UCMmy_EmxnYQ8aar8fNZrumw",
+      "title": "\u3010Just chatting\u3011burp competition 2024"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-28T08:00:00Z",
+      "activeLiveChatId": "Cg0KC2VIdjhrOEE2Q2YwKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILZUh2OGs4QTZDZjA"
+    }
+  },
+  "bJD8Fin7CTI": {
+    "snippet": {
+      "publishedAt": "2024-05-27T13:07:04Z",
+      "channelId": "UCMmy_EmxnYQ8aar8fNZrumw",
+      "title": "\u3010The Abduction\u3011kidnapping @KarrotVonBun"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-27T17:03:58Z",
+      "actualEndTime": "2024-05-27T21:11:32Z",
+      "scheduledStartTime": "2024-05-27T17:00:00Z"
+    }
+  },
+  "PuvfsU1nfsg": {
+    "snippet": {
+      "publishedAt": "2024-05-29T12:21:48Z",
+      "channelId": "UCMmy_EmxnYQ8aar8fNZrumw",
+      "title": "\u3010The Mortuary Assistant\u3011yippee!!!!!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-29T18:03:02Z",
+      "actualEndTime": "2024-05-29T20:55:24Z",
+      "scheduledStartTime": "2024-05-29T18:00:00Z"
+    }
+  },
+  "W6bwCliCK2I": {
+    "snippet": {
+      "publishedAt": "2024-05-29T12:36:00Z",
+      "channelId": "UCMmy_EmxnYQ8aar8fNZrumw",
+      "title": "\u3010Month Summary\u3011May - superdono reading + more!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-31T18:01:07Z",
+      "actualEndTime": "2024-05-31T20:49:55Z",
+      "scheduledStartTime": "2024-05-31T18:00:00Z"
+    }
+  },
+  "ZuC4FI-_Ss4": {
+    "snippet": {
+      "publishedAt": "2024-05-30T15:38:24Z",
+      "channelId": "UCMmy_EmxnYQ8aar8fNZrumw",
+      "title": "\u3010The Abduction\u3011kidnapping @SaraNagare"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-01T14:01:10Z",
+      "actualEndTime": "2024-06-01T16:01:37Z",
+      "scheduledStartTime": "2024-06-01T14:00:00Z"
+    }
+  },
+  "Jli3x7m8Zlk": {
+    "snippet": {
+      "publishedAt": "2024-05-30T15:43:54Z",
+      "channelId": "UCMmy_EmxnYQ8aar8fNZrumw",
+      "title": "\u3010Handcamera\u3011trying authentic Japanese food!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-30T18:01:47Z",
+      "actualEndTime": "2024-05-30T19:37:55Z",
+      "scheduledStartTime": "2024-05-30T18:00:00Z"
+    }
+  },
+  "DZPY7vV6_vs": {
+    "snippet": {
+      "publishedAt": "2024-06-01T12:22:19Z",
+      "channelId": "UCMmy_EmxnYQ8aar8fNZrumw",
+      "title": "\u3010Geography Class\u3011testing my knowledge"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-01T12:23:58Z",
+      "actualEndTime": "2024-06-01T13:31:10Z",
+      "scheduledStartTime": "2024-06-01T12:20:00Z"
+    }
+  },
+  "u91d898mPcE": {
+    "snippet": {
+      "publishedAt": "2024-06-02T13:36:20Z",
+      "channelId": "UCMmy_EmxnYQ8aar8fNZrumw",
+      "title": "\u3010Offkai2024\u3011walking around and buying things!!",
+      "private": true
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-02T20:00:00Z",
+      "activeLiveChatId": "Cg0KC3U5MWQ4OThtUGNFKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILdTkxZDg5OG1QY0U"
+    }
+  },
+  "04ihgVfTJLA": {
+    "snippet": {
+      "publishedAt": "2024-06-02T13:49:31Z",
+      "channelId": "UCMmy_EmxnYQ8aar8fNZrumw",
+      "title": "\u3010Watch Dogs\u3011hacking into your net and stealing your information"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-03T08:39:19Z",
+      "actualEndTime": "2024-06-03T14:23:51Z",
+      "scheduledStartTime": "2024-06-03T08:00:00Z"
+    }
+  },
+  "IN9Yub3uE-s": {
+    "snippet": {
+      "publishedAt": "2024-06-02T13:57:06Z",
+      "channelId": "UCMmy_EmxnYQ8aar8fNZrumw",
+      "title": "\u3010The Abduction\u3011kidnapping @HazumiAileen"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-06T18:04:07Z",
+      "actualEndTime": "2024-06-06T20:35:29Z",
+      "scheduledStartTime": "2024-06-06T18:00:00Z"
+    }
+  },
+  "iC-p35JGJqY": {
+    "snippet": {
+      "publishedAt": "2024-06-02T13:53:04Z",
+      "channelId": "UCMmy_EmxnYQ8aar8fNZrumw",
+      "title": "\u3010The Abduction\u3011kidnapping @ZeliVNU"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-03T17:01:25Z",
+      "actualEndTime": "2024-06-03T19:12:34Z",
+      "scheduledStartTime": "2024-06-03T17:00:00Z"
+    }
+  },
+  "3q1kDOIA4ik": {
+    "snippet": {
+      "publishedAt": "2024-06-02T14:01:37Z",
+      "channelId": "UCMmy_EmxnYQ8aar8fNZrumw",
+      "title": "\u3010The Expanse\u3011Archer's Paradox"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-05T08:53:05Z",
+      "actualEndTime": "2024-06-05T11:35:53Z",
+      "scheduledStartTime": "2024-06-05T08:30:00Z"
+    }
+  },
+  "jKa3_JDhQ6I": {
+    "snippet": {
+      "publishedAt": "2024-06-02T14:39:22Z",
+      "channelId": "UCMmy_EmxnYQ8aar8fNZrumw",
+      "title": "\u3010Dead Island\u3011zombies!!!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-07T14:08:25Z",
+      "actualEndTime": "2024-06-07T19:53:06Z",
+      "scheduledStartTime": "2024-06-07T14:00:00Z"
+    }
+  },
+  "RLGayFfsyXs": {
+    "snippet": {
+      "publishedAt": "2024-06-02T15:07:39Z",
+      "channelId": "UCMmy_EmxnYQ8aar8fNZrumw",
+      "title": "\u3010Offkai2024\u3011walking around and buying things!!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-02T20:11:01Z",
+      "actualEndTime": "2024-06-02T21:06:50Z",
+      "scheduledStartTime": "2024-06-02T20:00:00Z"
+    }
+  },
+  "LGSqYA0WmcY": {
+    "snippet": {
+      "publishedAt": "2024-06-09T08:41:47Z",
+      "channelId": "UCMmy_EmxnYQ8aar8fNZrumw",
+      "title": "\u3010Monthly Date\u3011Let's get some coffee together"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-09T17:53:01Z",
+      "actualEndTime": "2024-06-09T20:10:04Z",
+      "scheduledStartTime": "2024-06-09T17:30:00Z"
+    }
+  },
+  "cV90KiSHBNI": {
+    "snippet": {
+      "publishedAt": "2024-06-09T08:57:30Z",
+      "channelId": "UCMmy_EmxnYQ8aar8fNZrumw",
+      "title": "\u3010The Abduction\u3011kidnapping @SayuSincronisity"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-10T13:03:39Z",
+      "actualEndTime": "2024-06-10T14:56:35Z",
+      "scheduledStartTime": "2024-06-10T13:00:00Z"
+    }
+  },
+  "HGCxAl36z6Q": {
+    "snippet": {
+      "publishedAt": "2024-06-09T08:54:19Z",
+      "channelId": "UCMmy_EmxnYQ8aar8fNZrumw",
+      "title": "\u3010The Abduction\u3011kidnapping @LalabellLullaby"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-09T17:00:00Z",
+      "activeLiveChatId": "Cg0KC0hHQ3hBbDM2ejZRKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILSEdDeEFsMzZ6NlE"
+    }
+  },
+  "Eui3MnbCCYg": {
+    "snippet": {
+      "publishedAt": "2024-06-09T09:04:17Z",
+      "channelId": "UCMmy_EmxnYQ8aar8fNZrumw",
+      "title": "\u3010The Abduction\u3011kidnapping @MionAkuma"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-14T17:00:00Z",
+      "activeLiveChatId": "Cg0KC0V1aTNNbmJDQ1lnKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILRXVpM01uYkNDWWc"
+    }
+  },
+  "H5NyYGX4CXI": {
+    "snippet": {
+      "publishedAt": "2024-06-09T09:11:39Z",
+      "channelId": "UCMmy_EmxnYQ8aar8fNZrumw",
+      "title": "\u3010The Expanse\u3011Hunting Grounds"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-12T11:38:19Z",
+      "actualEndTime": "2024-06-12T15:31:47Z",
+      "scheduledStartTime": "2024-06-12T11:30:00Z"
+    }
+  },
+  "GpRC3MWgIgw": {
+    "snippet": {
+      "publishedAt": "2024-06-09T09:02:11Z",
+      "channelId": "UCMmy_EmxnYQ8aar8fNZrumw",
+      "title": "\u3010The Abduction\u3011kidnapping @JunaUnagi"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-12T17:03:11Z",
+      "actualEndTime": "2024-06-12T19:13:45Z",
+      "scheduledStartTime": "2024-06-12T17:00:00Z"
+    }
+  },
+  "Y1sd72XSnU8": {
+    "snippet": {
+      "publishedAt": "2024-06-09T09:19:08Z",
+      "channelId": "UCMmy_EmxnYQ8aar8fNZrumw",
+      "title": "\u3010Handcamera\u3011trying japanese snacks (tokyo treat 4)"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-13T13:18:53Z",
+      "actualEndTime": "2024-06-13T15:28:35Z",
+      "scheduledStartTime": "2024-06-13T13:00:00Z"
+    }
+  },
+  "fPlOBG4ZldY": {
+    "snippet": {
+      "publishedAt": "2024-06-09T09:13:33Z",
+      "channelId": "UCMmy_EmxnYQ8aar8fNZrumw",
+      "title": "\u3010Watch Dogs\u3011im in your onlyfans account"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-10T17:11:56Z",
+      "actualEndTime": "2024-06-10T21:33:46Z",
+      "scheduledStartTime": "2024-06-10T17:00:00Z"
+    }
+  },
+  "HlV-CY1TuRU": {
+    "snippet": {
+      "publishedAt": "2024-06-09T09:21:15Z",
+      "channelId": "UCMmy_EmxnYQ8aar8fNZrumw",
+      "title": "\u3010Dead Island\u3011new zeland is kind weird ngl"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-14T09:00:00Z",
+      "activeLiveChatId": "Cg0KC0hsVi1DWTFUdVJVKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILSGxWLUNZMVR1UlU"
+    }
+  },
+  "uhkDh9ORPew": {
+    "snippet": {
+      "publishedAt": "2024-06-09T16:48:59Z",
+      "channelId": "UCMmy_EmxnYQ8aar8fNZrumw",
+      "title": "\u3010The Abduction\u3011kidnapping @TaigaToragami"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-13T17:05:18Z",
+      "actualEndTime": "2024-06-13T19:02:15Z",
+      "scheduledStartTime": "2024-06-13T17:00:00Z"
     }
   }
 }

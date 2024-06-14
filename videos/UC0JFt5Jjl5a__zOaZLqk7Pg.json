@@ -1038,7 +1038,7 @@
       "title": "\u3010SCHEDULE\u3011This week with your local Intergalactic Princess \ud83d\ude80\ud83d\udc97"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2025-05-13T18:00:00Z",
+      "scheduledStartTime": "2025-05-27T18:00:00Z",
       "activeLiveChatId": "Cg0KC241RDVHdlh6WG1ZKicKGFVDMEpGdDVKamw1YV9fek9hWkxxazdQZxILbjVENUd2WHpYbVk"
     }
   },
@@ -1747,8 +1747,9 @@
       "title": "\u3010Zatsu + Art\u3011  Designing Cute Alternate Outfits"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-25T18:00:00Z",
-      "activeLiveChatId": "Cg0KC1Z1bHZWYkNIcEgwKicKGFVDMEpGdDVKamw1YV9fek9hWkxxazdQZxILVnVsdlZiQ0hwSDA"
+      "actualStartTime": "2024-05-25T18:01:25Z",
+      "actualEndTime": "2024-05-25T20:14:36Z",
+      "scheduledStartTime": "2024-05-25T18:00:00Z"
     }
   },
   "XcdW7VRLOW8": {
@@ -1824,12 +1825,12 @@
     "snippet": {
       "publishedAt": "2024-05-13T19:20:42Z",
       "channelId": "UC0JFt5Jjl5a__zOaZLqk7Pg",
-      "title": "\u3010BOKURA\u3011 A Princess and A Fox attempt to Solve Puzzles",
-      "private": true
+      "title": "\u3010BOKURA\u3011 A Princess and A Fox attempt to Solve Puzzles"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-15T21:00:00Z",
-      "activeLiveChatId": "Cg0KC29qU1FTeF9tbm44KicKGFVDMEpGdDVKamw1YV9fek9hWkxxazdQZxILb2pTUVN4X21ubjg"
+      "actualStartTime": "2024-06-08T18:30:50Z",
+      "actualEndTime": "2024-06-09T00:07:35Z",
+      "scheduledStartTime": "2024-06-08T18:30:00Z"
     }
   },
   "exhun31iIqQ": {
@@ -1869,7 +1870,8 @@
     "snippet": {
       "publishedAt": "2024-05-20T19:52:10Z",
       "channelId": "UC0JFt5Jjl5a__zOaZLqk7Pg",
-      "title": "\u3010VTuber Mastermind\u3011A VTuber Quiz Show to TEST YOUR OSHI'S KNOWLEDGE"
+      "title": "\u3010VTuber Mastermind\u3011A VTuber Quiz Show to TEST YOUR OSHI'S KNOWLEDGE",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-26T18:00:00Z",
@@ -1895,8 +1897,9 @@
       "title": "\u3010Vertical Zatsu \u96d1\u8ac7\u3011 Midday Relax and Chat"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-23T13:00:00Z",
-      "activeLiveChatId": "Cg0KC0paYzJHeGtqdVFJKicKGFVDMEpGdDVKamw1YV9fek9hWkxxazdQZxILSlpjMkd4a2p1UUk"
+      "actualStartTime": "2024-05-23T13:02:52Z",
+      "actualEndTime": "2024-05-23T14:31:58Z",
+      "scheduledStartTime": "2024-05-23T13:00:00Z"
     }
   },
   "kLPCWLbWwDs": {
@@ -1928,6 +1931,235 @@
       "actualStartTime": "2024-05-22T18:10:55Z",
       "actualEndTime": "2024-05-22T21:01:32Z",
       "scheduledStartTime": "2024-05-22T18:15:00Z"
+    }
+  },
+  "PuqBBOmZoQI": {
+    "snippet": {
+      "publishedAt": "2024-05-23T17:30:02Z",
+      "channelId": "UC0JFt5Jjl5a__zOaZLqk7Pg",
+      "title": "Amora Learns how to Minesweeper"
+    }
+  },
+  "BR_ABdxMBBQ": {
+    "snippet": {
+      "publishedAt": "2024-05-24T23:37:54Z",
+      "channelId": "UC0JFt5Jjl5a__zOaZLqk7Pg",
+      "title": "\u3010PixelLink Debut Watchalong\u3011 Meeting a Princess from Another Kingdom @ArisuOshiro  #sponsored"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-25T21:45:08Z",
+      "actualEndTime": "2024-05-25T22:58:28Z",
+      "scheduledStartTime": "2024-05-25T21:45:00Z"
+    }
+  },
+  "mrNZAZaAvDc": {
+    "snippet": {
+      "publishedAt": "2024-05-25T16:00:37Z",
+      "channelId": "UC0JFt5Jjl5a__zOaZLqk7Pg",
+      "title": "This SHOULDN\u2019T have worked!"
+    }
+  },
+  "wj978e-Jrp8": {
+    "snippet": {
+      "publishedAt": "2024-05-26T17:17:13Z",
+      "channelId": "UC0JFt5Jjl5a__zOaZLqk7Pg",
+      "title": "\u3010Sheepy: A Short Adventure\u3011 Lil guy simulator!!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-26T19:01:34Z",
+      "actualEndTime": "2024-05-26T20:57:06Z",
+      "scheduledStartTime": "2024-05-26T19:00:00Z"
+    }
+  },
+  "QPzVNKpavYA": {
+    "snippet": {
+      "publishedAt": "2024-05-27T12:28:39Z",
+      "channelId": "UC0JFt5Jjl5a__zOaZLqk7Pg",
+      "title": "\u3010Lies of Penguin\u3011 Clearly the Greatest Souls Like Game Ever"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-29T17:59:56Z",
+      "actualEndTime": "2024-05-29T21:08:25Z",
+      "scheduledStartTime": "2024-05-29T18:00:00Z"
+    }
+  },
+  "-Vfl3oyEwys": {
+    "snippet": {
+      "publishedAt": "2024-05-27T12:30:21Z",
+      "channelId": "UC0JFt5Jjl5a__zOaZLqk7Pg",
+      "title": "\u3010Animal Well\u3011 The FINAL stretch!!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-30T18:15:57Z",
+      "actualEndTime": "2024-05-30T21:18:10Z",
+      "scheduledStartTime": "2024-05-30T18:15:00Z"
+    }
+  },
+  "DAz_ufisvYg": {
+    "snippet": {
+      "publishedAt": "2024-05-27T12:32:38Z",
+      "channelId": "UC0JFt5Jjl5a__zOaZLqk7Pg",
+      "title": "\u3010Vertical Zatsu\u3011 Time for a Midday chat!!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-01T13:01:54Z",
+      "actualEndTime": "2024-06-01T15:05:28Z",
+      "scheduledStartTime": "2024-06-01T13:00:00Z"
+    }
+  },
+  "6QyJYxoF51Q": {
+    "snippet": {
+      "publishedAt": "2024-05-27T13:02:23Z",
+      "channelId": "UC0JFt5Jjl5a__zOaZLqk7Pg",
+      "title": "\u3010Handcam\u3011Decorating a Cake for Granpa PC's Retirement"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-28T18:00:02Z",
+      "actualEndTime": "2024-05-28T19:15:57Z",
+      "scheduledStartTime": "2024-05-28T18:00:00Z"
+    }
+  },
+  "XpSHWZ6pImg": {
+    "snippet": {
+      "publishedAt": "2024-05-27T16:00:22Z",
+      "channelId": "UC0JFt5Jjl5a__zOaZLqk7Pg",
+      "title": "Amora Lumina is going WHERE?!"
+    }
+  },
+  "zArSStPsWRc": {
+    "snippet": {
+      "publishedAt": "2024-05-29T16:00:57Z",
+      "channelId": "UC0JFt5Jjl5a__zOaZLqk7Pg",
+      "title": "Appeasing the Baking Gods"
+    }
+  },
+  "oTjxU_dLdlA": {
+    "snippet": {
+      "publishedAt": "2024-05-31T16:00:46Z",
+      "channelId": "UC0JFt5Jjl5a__zOaZLqk7Pg",
+      "title": "Amora VS Another Princess"
+    }
+  },
+  "ETjycE7eAuw": {
+    "snippet": {
+      "publishedAt": "2024-06-02T17:56:52Z",
+      "channelId": "UC0JFt5Jjl5a__zOaZLqk7Pg",
+      "title": "\u3010Unarchived Guerilla Karaoke\u3011 singing timeeee"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-02T18:21:04Z",
+      "actualEndTime": "2024-06-02T20:28:23Z",
+      "scheduledStartTime": "2024-06-02T18:20:00Z"
+    }
+  },
+  "x1r3SimD0ig": {
+    "snippet": {
+      "publishedAt": "2024-06-03T16:00:52Z",
+      "channelId": "UC0JFt5Jjl5a__zOaZLqk7Pg",
+      "title": "Quasso"
+    }
+  },
+  "MESr0wqUiyk": {
+    "snippet": {
+      "publishedAt": "2024-06-05T16:00:30Z",
+      "channelId": "UC0JFt5Jjl5a__zOaZLqk7Pg",
+      "title": "A Smooth Penguin"
+    }
+  },
+  "eQmQ-uzfcAA": {
+    "snippet": {
+      "publishedAt": "2024-06-06T16:00:37Z",
+      "channelId": "UC0JFt5Jjl5a__zOaZLqk7Pg",
+      "title": "I learnt how Probability Works... Probably"
+    }
+  },
+  "dLwRte6IsQ0": {
+    "snippet": {
+      "publishedAt": "2024-06-06T22:24:28Z",
+      "channelId": "UC0JFt5Jjl5a__zOaZLqk7Pg",
+      "title": "\u3010Fruit Mountain + Zatsu\u3011 3D Relaxed Fruit Game",
+      "private": true
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-09T18:00:00Z",
+      "activeLiveChatId": "Cg0KC2RMd1J0ZTZJc1EwKicKGFVDMEpGdDVKamw1YV9fek9hWkxxazdQZxILZEx3UnRlNklzUTA"
+    }
+  },
+  "860G3iYLkBk": {
+    "snippet": {
+      "publishedAt": "2024-06-06T22:22:19Z",
+      "channelId": "UC0JFt5Jjl5a__zOaZLqk7Pg",
+      "title": "\u3010Vertical Zatsu\u3011Midday Holiday Return!!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-07T13:01:39Z",
+      "actualEndTime": "2024-06-07T15:00:30Z",
+      "scheduledStartTime": "2024-06-07T13:00:00Z"
+    }
+  },
+  "nFF0jsnSXxs": {
+    "snippet": {
+      "publishedAt": "2024-06-08T16:00:43Z",
+      "channelId": "UC0JFt5Jjl5a__zOaZLqk7Pg",
+      "title": "VTuber Terrorized By Invincible MOLE #shorts"
+    }
+  },
+  "3inIiKO8pUU": {
+    "snippet": {
+      "publishedAt": "2024-06-10T15:57:56Z",
+      "channelId": "UC0JFt5Jjl5a__zOaZLqk7Pg",
+      "title": "\u3010The Password Game\u3011 HOW MANY RULES DOES IT TAKE TO BREAK A PRINCESS?!!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-10T17:59:47Z",
+      "actualEndTime": "2024-06-10T20:31:46Z",
+      "scheduledStartTime": "2024-06-10T18:00:00Z"
+    }
+  },
+  "q4-Naq0smW0": {
+    "snippet": {
+      "publishedAt": "2024-06-10T16:32:34Z",
+      "channelId": "UC0JFt5Jjl5a__zOaZLqk7Pg",
+      "title": "\u3010Stardew Valley\u3011All hearts Challenge!!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-12T18:00:34Z",
+      "actualEndTime": "2024-06-12T20:51:47Z",
+      "scheduledStartTime": "2024-06-12T18:00:00Z"
+    }
+  },
+  "RMolflk_Jpo": {
+    "snippet": {
+      "publishedAt": "2024-06-10T16:45:39Z",
+      "channelId": "UC0JFt5Jjl5a__zOaZLqk7Pg",
+      "title": "\u3010Animal Well\u3011 Finding the FINAL Easter Eggs"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-13T18:01:58Z",
+      "actualEndTime": "2024-06-13T21:40:41Z",
+      "scheduledStartTime": "2024-06-13T18:00:00Z"
+    }
+  },
+  "UsabMlUXPgU": {
+    "snippet": {
+      "publishedAt": "2024-06-11T01:20:32Z",
+      "channelId": "UC0JFt5Jjl5a__zOaZLqk7Pg",
+      "title": "\u3010Vertical Zatsu\u3011Midday Relaxed Zatsu!!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-14T13:00:00Z",
+      "activeLiveChatId": "Cg0KC1VzYWJNbFVYUGdVKicKGFVDMEpGdDVKamw1YV9fek9hWkxxazdQZxILVXNhYk1sVVhQZ1U"
+    }
+  },
+  "NaOqEOTrLk8": {
+    "snippet": {
+      "publishedAt": "2024-06-11T01:56:18Z",
+      "channelId": "UC0JFt5Jjl5a__zOaZLqk7Pg",
+      "title": "\u3010Minecraft Playthrough EP1\u3011 Going back to my Content Roots!!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-15T18:30:00Z",
+      "activeLiveChatId": "Cg0KC05hT3FFT1RyTGs4KicKGFVDMEpGdDVKamw1YV9fek9hWkxxazdQZxILTmFPcUVPVHJMazg"
     }
   }
 }

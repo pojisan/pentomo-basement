@@ -2143,8 +2143,9 @@
       "title": "I PLAY THE SOUTH PARK GAME"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-23T19:00:00Z",
-      "activeLiveChatId": "Cg0KC2FQWkt3eEx1WUo4KicKGFVDOXhSN3VOMHg1YTZDSDNVb3BxN2N6QRILYVBaS3d4THVZSjg"
+      "actualStartTime": "2024-05-23T18:57:42Z",
+      "actualEndTime": "2024-05-23T22:46:14Z",
+      "scheduledStartTime": "2024-05-23T19:00:00Z"
     }
   },
   "u9evKx198Uk": {
@@ -2154,8 +2155,9 @@
       "title": "\u3010UNARCHIVED KARAOKE/ \u6b4c\u67a0\u3011Tiger Girl Sings For You!~ \ud83c\udfb6"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-25T20:00:00Z",
-      "activeLiveChatId": "Cg0KC3U5ZXZLeDE5OFVrKicKGFVDOXhSN3VOMHg1YTZDSDNVb3BxN2N6QRILdTlldkt4MTk4VWs"
+      "actualStartTime": "2024-05-25T19:57:53Z",
+      "actualEndTime": "2024-05-25T21:22:35Z",
+      "scheduledStartTime": "2024-05-25T20:00:00Z"
     }
   },
   "YcTTW2L0M08": {
@@ -2165,8 +2167,9 @@
       "title": "THIS BOSS IS UNBEATABLE... (First Dark Souls playthrough)"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-26T19:00:00Z",
-      "activeLiveChatId": "Cg0KC1ljVFRXMkwwTTA4KicKGFVDOXhSN3VOMHg1YTZDSDNVb3BxN2N6QRILWWNUVFcyTDBNMDg"
+      "actualStartTime": "2024-05-26T19:19:33Z",
+      "actualEndTime": "2024-05-27T05:07:56Z",
+      "scheduledStartTime": "2024-05-26T19:00:00Z"
     }
   },
   "Ucf5S1a4Lb0": {
@@ -2176,8 +2179,94 @@
       "title": "Testing my knowledge of ZA WARUDO"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-24T20:00:00Z",
-      "activeLiveChatId": "Cg0KC1VjZjVTMWE0TGIwKicKGFVDOXhSN3VOMHg1YTZDSDNVb3BxN2N6QRILVWNmNVMxYTRMYjA"
+      "actualStartTime": "2024-05-24T19:58:10Z",
+      "actualEndTime": "2024-05-24T23:13:16Z",
+      "scheduledStartTime": "2024-05-24T20:00:00Z"
+    }
+  },
+  "jVSs86ujwO4": {
+    "snippet": {
+      "publishedAt": "2024-05-28T16:08:32Z",
+      "channelId": "UC9xR7uN0x5a6CH3Uopq7czA",
+      "title": "This game is breaking me... (First Dark Souls playthrough)"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-07T18:56:22Z",
+      "actualEndTime": "2024-06-07T21:58:27Z",
+      "scheduledStartTime": "2024-06-07T19:00:00Z"
+    }
+  },
+  "iz0bsDDY90Y": {
+    "snippet": {
+      "publishedAt": "2024-05-28T16:28:10Z",
+      "channelId": "UC9xR7uN0x5a6CH3Uopq7czA",
+      "title": "Little Chat~ \ud83c\udfb6"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-29T19:58:20Z",
+      "actualEndTime": "2024-05-29T22:05:58Z",
+      "scheduledStartTime": "2024-05-29T20:00:00Z"
+    }
+  },
+  "NkEzov291UE": {
+    "snippet": {
+      "publishedAt": "2024-05-28T16:53:40Z",
+      "channelId": "UC9xR7uN0x5a6CH3Uopq7czA",
+      "title": "UNHINGED GAME"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-28T19:58:42Z",
+      "actualEndTime": "2024-05-28T23:17:34Z",
+      "scheduledStartTime": "2024-05-28T20:00:00Z"
+    }
+  },
+  "0XoMIZPmS80": {
+    "snippet": {
+      "publishedAt": "2024-06-03T13:58:20Z",
+      "channelId": "UC9xR7uN0x5a6CH3Uopq7czA",
+      "title": "MORE SOUTH PARK GAME"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-04T18:57:01Z",
+      "actualEndTime": "2024-06-04T22:07:07Z",
+      "scheduledStartTime": "2024-06-04T19:00:00Z"
+    }
+  },
+  "EspKtruRQ1Y": {
+    "snippet": {
+      "publishedAt": "2024-06-03T14:16:55Z",
+      "channelId": "UC9xR7uN0x5a6CH3Uopq7czA",
+      "title": "Guitar N Singing Practice \ud83c\udfb6 (MEMBERS)"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-05T20:01:22Z",
+      "actualEndTime": "2024-06-05T22:27:44Z",
+      "scheduledStartTime": "2024-06-05T20:00:00Z",
+      "activeLiveChatId": "Cg0KC0VzcEt0cnVSUTFZKicKGFVDOXhSN3VOMHg1YTZDSDNVb3BxN2N6QRILRXNwS3RydVJRMVk"
+    }
+  },
+  "ylZje3DyZYQ": {
+    "snippet": {
+      "publishedAt": "2024-06-03T15:04:01Z",
+      "channelId": "UC9xR7uN0x5a6CH3Uopq7czA",
+      "title": "\u3010UNARCHIVED KARAOKE/ \u6b4c\u67a0\u3011Live singing for you~ \ud83c\udfb6"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-08T18:55:52Z",
+      "actualEndTime": "2024-06-08T20:22:45Z",
+      "scheduledStartTime": "2024-06-08T19:00:00Z"
+    }
+  },
+  "nLD3lQ0EsSo": {
+    "snippet": {
+      "publishedAt": "2024-06-12T17:18:31Z",
+      "channelId": "UC9xR7uN0x5a6CH3Uopq7czA",
+      "title": "HI I CAN'T SLEEP! \ud83d\ude30"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-12T17:27:37Z",
+      "actualEndTime": "2024-06-12T18:45:29Z",
+      "scheduledStartTime": "2024-06-12T17:30:00Z"
     }
   }
 }

@@ -1583,8 +1583,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-23T02:03:26Z",
-      "scheduledStartTime": "2024-05-23T02:00:00Z",
-      "activeLiveChatId": "Cg0KC0w2X3M5Y0oyRXZVKicKGFVDY0FuOFdYc29xdzl4OERBa3pZUU5RURILTDZfczljSjJFdlU"
+      "actualEndTime": "2024-05-23T03:38:36Z",
+      "scheduledStartTime": "2024-05-23T02:00:00Z"
     }
   },
   "6FqgFOpnXes": {
@@ -1595,8 +1595,315 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-23T02:03:42Z",
-      "scheduledStartTime": "2024-05-23T02:00:00Z",
-      "activeLiveChatId": "Cg0KCzZGcWdGT3BuWGVzKicKGFVDY0FuOFdYc29xdzl4OERBa3pZUU5RURILNkZxZ0ZPcG5YZXM"
+      "actualEndTime": "2024-05-23T03:30:21Z",
+      "scheduledStartTime": "2024-05-23T02:00:00Z"
+    }
+  },
+  "_QPVg2NFoyw": {
+    "snippet": {
+      "publishedAt": "2024-05-23T07:00:35Z",
+      "channelId": "UCcAn8WXsoqw9x8DAkzYQNQQ",
+      "title": "VTUBER PLAYS HELLDIVERS 2 #shorts #shortslive #shortsfeed #vtuber"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-24T01:04:31Z",
+      "actualEndTime": "2024-05-24T04:07:36Z",
+      "scheduledStartTime": "2024-05-24T01:00:00Z"
+    }
+  },
+  "dGZfANxY6VU": {
+    "snippet": {
+      "publishedAt": "2024-05-23T07:02:18Z",
+      "channelId": "UCcAn8WXsoqw9x8DAkzYQNQQ",
+      "title": "\u3010HELLDIVERS 2\u3011bug HATE. zebi LOVE\u3010V&U | GEN4\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-24T01:03:32Z",
+      "actualEndTime": "2024-05-24T04:13:26Z",
+      "scheduledStartTime": "2024-05-24T01:00:00Z"
+    }
+  },
+  "p4N4fUA0Yrc": {
+    "snippet": {
+      "publishedAt": "2024-05-26T16:18:37Z",
+      "channelId": "UCcAn8WXsoqw9x8DAkzYQNQQ",
+      "title": "#vtuber Goes OUTSIDE to a CONVENTION?!"
+    }
+  },
+  "wJtGu88ituo": {
+    "snippet": {
+      "publishedAt": "2024-05-29T18:27:49Z",
+      "channelId": "UCcAn8WXsoqw9x8DAkzYQNQQ",
+      "title": "\u3010ZATSU | \u96d1\u8ac7\u3011jelllooooooooo!!!!!!!! ZEBI IS BACK! FROM VACATION!\u3010V&U | GEN4\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-30T01:03:10Z",
+      "actualEndTime": "2024-05-30T03:03:09Z",
+      "scheduledStartTime": "2024-05-30T01:00:00Z"
+    }
+  },
+  "oe4_aQKv5d4": {
+    "snippet": {
+      "publishedAt": "2024-05-29T18:23:41Z",
+      "channelId": "UCcAn8WXsoqw9x8DAkzYQNQQ",
+      "title": "VTUBER ZATSU | \u96d1\u8ac7 #shorts #shortslive #shortsfeed #vtuber"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-30T01:03:52Z",
+      "actualEndTime": "2024-05-30T02:58:19Z",
+      "scheduledStartTime": "2024-05-30T01:00:00Z"
+    }
+  },
+  "i026xBwk4Sw": {
+    "snippet": {
+      "publishedAt": "2024-05-30T18:48:22Z",
+      "channelId": "UCcAn8WXsoqw9x8DAkzYQNQQ",
+      "title": "VTUBER COMMENTATES SILENT HILL TRANSMISSION #shorts #shortslive #shortsfeed #vtuber"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-30T22:45:39Z",
+      "actualEndTime": "2024-05-30T23:48:19Z",
+      "scheduledStartTime": "2024-05-30T22:50:00Z"
+    }
+  },
+  "RLbq4fHHQm4": {
+    "snippet": {
+      "publishedAt": "2024-05-30T18:51:22Z",
+      "channelId": "UCcAn8WXsoqw9x8DAkzYQNQQ",
+      "title": "\u3010SILENT HILL Transmission May 31, 2024\u3011VTUBER REACTION TO THE TRANSMISSION!\u3010V&U | GEN4\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-30T22:45:21Z",
+      "actualEndTime": "2024-05-30T23:50:36Z",
+      "scheduledStartTime": "2024-05-30T22:50:00Z"
+    }
+  },
+  "2k7RiV0xPzo": {
+    "snippet": {
+      "publishedAt": "2024-05-31T04:29:04Z",
+      "channelId": "UCcAn8WXsoqw9x8DAkzYQNQQ",
+      "title": "\u3010Goddess of Victory: Nikke\u3011WOMEN!!!!!!!!!!!!!!!!!\u3010V&U | GEN4\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-01T01:00:51Z",
+      "actualEndTime": "2024-06-01T03:44:51Z",
+      "scheduledStartTime": "2024-06-01T01:00:00Z"
+    }
+  },
+  "H9CxGrZlXZw": {
+    "snippet": {
+      "publishedAt": "2024-05-31T04:27:59Z",
+      "channelId": "UCcAn8WXsoqw9x8DAkzYQNQQ",
+      "title": "VTUBER PLAYS NIKKE #shorts #shortslive #shortsfeed #vtuber"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-01T01:01:19Z",
+      "actualEndTime": "2024-06-01T03:35:11Z",
+      "scheduledStartTime": "2024-06-01T01:00:00Z"
+    }
+  },
+  "Bu0MD9x_Zco": {
+    "snippet": {
+      "publishedAt": "2024-06-01T04:16:25Z",
+      "channelId": "UCcAn8WXsoqw9x8DAkzYQNQQ",
+      "title": "\u3010VAllure Debut Watchalong #ad\u3011zebi meets cute girls!\u3010V&U | GEN4\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-01T18:54:41Z",
+      "actualEndTime": "2024-06-01T22:08:05Z",
+      "scheduledStartTime": "2024-06-01T19:00:00Z"
+    }
+  },
+  "-WFpPBmKyYk": {
+    "snippet": {
+      "publishedAt": "2024-06-01T04:14:29Z",
+      "channelId": "UCcAn8WXsoqw9x8DAkzYQNQQ",
+      "title": "WATCHING VALLURES NEW DEBUTS #ad #shorts #shortslive #shortsfeed #vtuber"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-01T18:55:26Z",
+      "actualEndTime": "2024-06-01T21:58:10Z",
+      "scheduledStartTime": "2024-06-01T19:00:00Z"
+    }
+  },
+  "C2_IjjOZrXA": {
+    "snippet": {
+      "publishedAt": "2024-06-03T20:39:05Z",
+      "channelId": "UCcAn8WXsoqw9x8DAkzYQNQQ",
+      "title": "\u3010The Game of Sisyphus\u3011endurance & batsu... punishment.\u3010V&U | GEN4\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-06T01:00:32Z",
+      "actualEndTime": "2024-06-06T05:07:56Z",
+      "scheduledStartTime": "2024-06-06T01:00:00Z"
+    }
+  },
+  "ISsJgexcaB8": {
+    "snippet": {
+      "publishedAt": "2024-06-03T20:37:37Z",
+      "channelId": "UCcAn8WXsoqw9x8DAkzYQNQQ",
+      "title": "VTUBER PLAYS SISYPHUS #shorts #shortslive #shortsfeed #vtuber"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-06T01:01:28Z",
+      "actualEndTime": "2024-06-06T04:52:25Z",
+      "scheduledStartTime": "2024-06-06T01:00:00Z"
+    }
+  },
+  "s7WhQxxzOvE": {
+    "snippet": {
+      "publishedAt": "2024-06-05T04:33:42Z",
+      "channelId": "UCcAn8WXsoqw9x8DAkzYQNQQ",
+      "title": "3D #vtuber MODEL DEBUT!"
+    }
+  },
+  "OmwLqNRTDIA": {
+    "snippet": {
+      "publishedAt": "2024-06-06T09:56:51Z",
+      "channelId": "UCcAn8WXsoqw9x8DAkzYQNQQ",
+      "title": "\u3010Goddess of Victory: Nikke\u3011hello ladies. i am normal.\u3010V&U | GEN4\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-07T01:02:42Z",
+      "actualEndTime": "2024-06-07T03:45:30Z",
+      "scheduledStartTime": "2024-06-07T01:00:00Z"
+    }
+  },
+  "1QNDxwpIAko": {
+    "snippet": {
+      "publishedAt": "2024-06-06T09:55:56Z",
+      "channelId": "UCcAn8WXsoqw9x8DAkzYQNQQ",
+      "title": "VTUBER PLAYS NIKKE #shorts #shortslive #shortsfeed #vtuber"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-07T01:03:04Z",
+      "actualEndTime": "2024-06-07T03:41:51Z",
+      "scheduledStartTime": "2024-06-07T01:00:00Z"
+    }
+  },
+  "OMCf_6j--AY": {
+    "snippet": {
+      "publishedAt": "2024-06-06T16:50:27Z",
+      "channelId": "UCcAn8WXsoqw9x8DAkzYQNQQ",
+      "title": "This little slime #Vtuber is a big tactical man"
+    }
+  },
+  "SPFR62L-Reg": {
+    "snippet": {
+      "publishedAt": "2024-06-07T06:50:14Z",
+      "channelId": "UCcAn8WXsoqw9x8DAkzYQNQQ",
+      "title": "\u30103D goobin in the backrooms ZATSU | \u96d1\u8ac7\u3011E\u3010V&U | GEN4\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-08T01:04:03Z",
+      "actualEndTime": "2024-06-08T03:17:46Z",
+      "scheduledStartTime": "2024-06-08T01:00:00Z"
+    }
+  },
+  "gXKep77kcS4": {
+    "snippet": {
+      "publishedAt": "2024-06-07T06:49:06Z",
+      "channelId": "UCcAn8WXsoqw9x8DAkzYQNQQ",
+      "title": "3D VR BACKROOMS #shorts #shortslive #shortsfeed #vtuber"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-08T01:04:45Z",
+      "actualEndTime": "2024-06-08T03:19:55Z",
+      "scheduledStartTime": "2024-06-08T01:00:00Z"
+    }
+  },
+  "b20E_EpzAws": {
+    "snippet": {
+      "publishedAt": "2024-06-07T22:26:34Z",
+      "channelId": "UCcAn8WXsoqw9x8DAkzYQNQQ",
+      "title": "#vtuber GETS LOST IN THE #backrooms"
+    }
+  },
+  "BWuEHm1WhGY": {
+    "snippet": {
+      "publishedAt": "2024-06-08T06:40:23Z",
+      "channelId": "UCcAn8WXsoqw9x8DAkzYQNQQ",
+      "title": "\u3010POOLS\u3011scary swimming...\u3010V&U | GEN4\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-09T01:01:59Z",
+      "actualEndTime": "2024-06-09T03:46:39Z",
+      "scheduledStartTime": "2024-06-09T01:00:00Z"
+    }
+  },
+  "wcmla0EX_wU": {
+    "snippet": {
+      "publishedAt": "2024-06-08T06:39:08Z",
+      "channelId": "UCcAn8WXsoqw9x8DAkzYQNQQ",
+      "title": "VTUBER PLAYS POOLS #shorts #shortslive #shortsfeed #vtuber"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-09T01:03:00Z",
+      "actualEndTime": "2024-06-09T03:42:56Z",
+      "scheduledStartTime": "2024-06-09T01:00:00Z"
+    }
+  },
+  "O1N0Y0x4vVY": {
+    "snippet": {
+      "publishedAt": "2024-06-10T18:09:06Z",
+      "channelId": "UCcAn8WXsoqw9x8DAkzYQNQQ",
+      "title": "ESCAPE THE BACKROOMS #shorts #shortslive #shortsfeed #shortsgaming #backrooms #escapethebackrooms"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-11T00:04:24Z",
+      "actualEndTime": "2024-06-11T03:52:06Z",
+      "scheduledStartTime": "2024-06-11T00:00:00Z"
+    }
+  },
+  "3y_0mjzNERY": {
+    "snippet": {
+      "publishedAt": "2024-06-10T18:11:16Z",
+      "channelId": "UCcAn8WXsoqw9x8DAkzYQNQQ",
+      "title": "\u3010ESCAPE THE BACKROOMS COLLAB\u3011the last collab ever.....\u3010V&U | GEN4\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-11T00:04:09Z",
+      "actualEndTime": "2024-06-11T04:01:51Z",
+      "scheduledStartTime": "2024-06-11T00:00:00Z"
+    }
+  },
+  "9GnYDD1ZXbQ": {
+    "snippet": {
+      "publishedAt": "2024-06-11T14:57:28Z",
+      "channelId": "UCcAn8WXsoqw9x8DAkzYQNQQ",
+      "title": "Bocchi The Rock! turns into zeli the slime #vtuber"
+    }
+  },
+  "hu7Nk_f27Tk": {
+    "snippet": {
+      "publishedAt": "2024-06-12T17:09:33Z",
+      "channelId": "UCcAn8WXsoqw9x8DAkzYQNQQ",
+      "title": "\u3010UNARCHIVED KARAOKE\u301130K CELEBRATION! pt.1\u3010V&U | GEN4\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-13T01:07:55Z",
+      "actualEndTime": "2024-06-13T03:29:36Z",
+      "scheduledStartTime": "2024-06-13T01:00:00Z",
+      "activeLiveChatId": "Cg0KC2h1N05rX2YyN1RrKicKGFVDY0FuOFdYc29xdzl4OERBa3pZUU5RURILaHU3TmtfZjI3VGs"
+    }
+  },
+  "JOZVoHAs5l8": {
+    "snippet": {
+      "publishedAt": "2024-06-12T17:07:51Z",
+      "channelId": "UCcAn8WXsoqw9x8DAkzYQNQQ",
+      "title": "3D KARAOKE #shorts #shortslive #shortsfeed #shortsgaming #karaoke"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-13T01:08:07Z",
+      "actualEndTime": "2024-06-13T03:12:34Z",
+      "scheduledStartTime": "2024-06-13T01:00:00Z"
+    }
+  },
+  "VTRrIFok6NA": {
+    "snippet": {
+      "publishedAt": "2024-06-12T17:02:04Z",
+      "channelId": "UCcAn8WXsoqw9x8DAkzYQNQQ",
+      "title": "Misma and zeli play scary game! #vtuber"
     }
   }
 }

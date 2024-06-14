@@ -8172,12 +8172,12 @@
     "snippet": {
       "publishedAt": "2024-05-12T04:53:24Z",
       "channelId": "UCBURM8S4LH7cRZ0Clea9RDA",
-      "title": "\u3010PRINCESS PEACH: SHOWTIME\u3011\ud83d\ude1a I'll become the cutest princess\u3010NIJISANJI EN | Reimu Endou\u3011",
-      "private": true
+      "title": "\u3010PRINCESS PEACH: SHOWTIME\u3011\ud83d\ude1a I'll become the cutest princess\u3010NIJISANJI EN | Reimu Endou\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-13T03:00:00Z",
-      "activeLiveChatId": "Cg0KC2JtZEFQeGExbWxnKicKGFVDQlVSTThTNExIN2NSWjBDbGVhOVJEQRILYm1kQVB4YTFtbGc"
+      "actualStartTime": "2024-05-26T15:01:17Z",
+      "actualEndTime": "2024-05-26T19:52:02Z",
+      "scheduledStartTime": "2024-05-26T15:00:00Z"
     }
   },
   "rlch_gVkPGA": {
@@ -8248,7 +8248,7 @@
       "private": true
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-18T00:00:00Z",
+      "scheduledStartTime": "2024-06-10T14:00:00Z",
       "activeLiveChatId": "Cg0KCzNGeDcxdnZTN1RRKicKGFVDQlVSTThTNExIN2NSWjBDbGVhOVJEQRILM0Z4NzF2dlM3VFE"
     }
   },
@@ -8308,9 +8308,9 @@
       "title": "\u604b\u611b\u504f\u5dee\u5024\u4e0a\u6607\u4e2d! (Love Percentile on the Rise!)\u3010ver. Reimu Endou | NIJISANJI EN \u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-25T15:00:00Z",
-      "activeLiveChatId": "Cg0KC3ItNXBXQ2VkdlNJKicKGFVDQlVSTThTNExIN2NSWjBDbGVhOVJEQRILci01cFdDZWR2U0k",
-      "premiere": true
+      "actualStartTime": "2024-05-25T15:00:06Z",
+      "actualEndTime": "2024-05-25T15:05:29Z",
+      "scheduledStartTime": "2024-05-25T15:00:00Z"
     }
   },
   "W15dB-sRkSs": {
@@ -8321,8 +8321,212 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-23T00:01:47Z",
-      "scheduledStartTime": "2024-05-23T00:00:00Z",
-      "activeLiveChatId": "Cg0KC1cxNWRCLXNSa1NzKicKGFVDQlVSTThTNExIN2NSWjBDbGVhOVJEQRILVzE1ZEItc1JrU3M"
+      "actualEndTime": "2024-05-23T06:43:14Z",
+      "scheduledStartTime": "2024-05-23T00:00:00Z"
+    }
+  },
+  "JXA5J4LX3vc": {
+    "snippet": {
+      "publishedAt": "2024-05-25T03:49:24Z",
+      "channelId": "UCBURM8S4LH7cRZ0Clea9RDA",
+      "title": "\ud83c\udff9 LOVE PERCENTILE ON THE RISE! AFTERPARTY ! ! ! \ud83d\udc98\u3010NIJISANJI EN | Reimu Endou\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-25T15:17:44Z",
+      "actualEndTime": "2024-05-25T16:30:20Z",
+      "scheduledStartTime": "2024-05-25T15:15:00Z"
+    }
+  },
+  "abTMlBn0RKg": {
+    "snippet": {
+      "publishedAt": "2024-05-26T20:41:09Z",
+      "channelId": "UCBURM8S4LH7cRZ0Clea9RDA",
+      "title": "\u3010THE OUTLAST TRIALS\u3011new hellish map ZUTTOMO IKZ \ud83d\ude08\u3010NIJISANJI EN | Reimu Endou\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-27T01:13:34Z",
+      "actualEndTime": "2024-05-27T05:50:50Z",
+      "scheduledStartTime": "2024-05-27T01:15:00Z"
+    }
+  },
+  "-qxJXBsBFtU": {
+    "snippet": {
+      "publishedAt": "2024-05-27T06:11:23Z",
+      "channelId": "UCBURM8S4LH7cRZ0Clea9RDA",
+      "title": "\u3010STELLAR BLADE\u3011I got ONE MORE IN ME\u3010NIJISANJI EN | Reimu Endou\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-27T14:34:13Z",
+      "actualEndTime": "2024-05-27T19:16:08Z",
+      "scheduledStartTime": "2024-05-27T14:00:00Z"
+    }
+  },
+  "ck89iHvq8Gk": {
+    "snippet": {
+      "publishedAt": "2024-05-27T21:15:07Z",
+      "channelId": "UCBURM8S4LH7cRZ0Clea9RDA",
+      "title": "\u3010CULT OF THE LAMB\u3011you know what to say and pray for\ud83d\ude4f\u3010NIJISANJI EN | Reimu Endou\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-28T15:03:27Z",
+      "actualEndTime": "2024-05-28T20:30:54Z",
+      "scheduledStartTime": "2024-05-28T15:00:00Z"
+    }
+  },
+  "mXiNyNRvK9E": {
+    "snippet": {
+      "publishedAt": "2024-05-27T20:18:52Z",
+      "channelId": "UCBURM8S4LH7cRZ0Clea9RDA",
+      "title": "\u50d5\u304c\u6b7b\u306e\u3046\u3068\u601d\u3063\u305f\u306e\u306f (The reason I wanted to die)\u3010ver. Reimu Endou | NIJISANJI EN \u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-02T03:00:06Z",
+      "actualEndTime": "2024-06-02T03:08:31Z",
+      "scheduledStartTime": "2024-06-02T03:00:00Z"
+    }
+  },
+  "CVeLadDHVnI": {
+    "snippet": {
+      "publishedAt": "2024-05-29T23:41:46Z",
+      "channelId": "UCBURM8S4LH7cRZ0Clea9RDA",
+      "title": "\u3010PRINCE OF PERSIA: THE LOST CROWN\u3011\ud83d\udc80Im kinda scared of this game\u3010NIJISANJI EN | Reimu Endou\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-30T13:15:31Z",
+      "actualEndTime": "2024-05-30T15:34:54Z",
+      "scheduledStartTime": "2024-05-30T13:00:00Z"
+    }
+  },
+  "nbUFzcx_tu0": {
+    "snippet": {
+      "publishedAt": "2024-05-30T23:21:53Z",
+      "channelId": "UCBURM8S4LH7cRZ0Clea9RDA",
+      "title": "\u3010BLOODBORNE\u3011oooh here we go ~ FIRST TIME\u3010NIJISANJI EN | Reimu Endou\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-31T13:05:18Z",
+      "actualEndTime": "2024-05-31T17:45:35Z",
+      "scheduledStartTime": "2024-05-31T13:00:00Z"
+    }
+  },
+  "RwsaiLfCqkM": {
+    "snippet": {
+      "publishedAt": "2024-05-31T18:20:22Z",
+      "channelId": "UCBURM8S4LH7cRZ0Clea9RDA",
+      "title": "\u3010THE EVIL WITHIN\u3011this one looks spooky spooky REAL HORROR\u3010NIJISANJI EN | Reimu Endou\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-03T00:12:54Z",
+      "actualEndTime": "2024-06-03T05:13:07Z",
+      "scheduledStartTime": "2024-06-03T00:00:00Z"
+    }
+  },
+  "K2T5zNRe-QE": {
+    "snippet": {
+      "publishedAt": "2024-06-01T02:00:43Z",
+      "channelId": "UCBURM8S4LH7cRZ0Clea9RDA",
+      "title": "\u3010TO THE MOON\u3011I dont wanna cry \ud83e\udec2\u3010NIJISANJI EN | Reimu Endou\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-01T14:14:46Z",
+      "actualEndTime": "2024-06-01T21:01:15Z",
+      "scheduledStartTime": "2024-06-01T14:00:00Z"
+    }
+  },
+  "80-UnDsxwKc": {
+    "snippet": {
+      "publishedAt": "2024-06-02T04:11:13Z",
+      "channelId": "UCBURM8S4LH7cRZ0Clea9RDA",
+      "title": "\u3010FALLOUT 4\u3011NEW ADVENTUREEE ikz !!!!\u3010NIJISANJI EN | Reimu Endou\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-02T14:30:34Z",
+      "actualEndTime": "2024-06-02T18:57:37Z",
+      "scheduledStartTime": "2024-06-02T14:30:00Z"
+    }
+  },
+  "B_3H7rynFuQ": {
+    "snippet": {
+      "publishedAt": "2024-06-03T05:57:59Z",
+      "channelId": "UCBURM8S4LH7cRZ0Clea9RDA",
+      "title": "\u3010PLATFORM 8\u3011We made it out of Exit 8 BUT??\ud83d\udd75\ufe0f\u200d\u2640\ufe0f\u3010NIJISANJI EN | Reimu Endou\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-04T01:01:00Z",
+      "actualEndTime": "2024-06-04T03:27:55Z",
+      "scheduledStartTime": "2024-06-04T01:00:00Z"
+    }
+  },
+  "tcYEjiSiT3o": {
+    "snippet": {
+      "publishedAt": "2024-06-04T23:38:55Z",
+      "channelId": "UCBURM8S4LH7cRZ0Clea9RDA",
+      "title": "\u3010DEAD BY DAYLIGHT\u3011revenge arc ~ \ud83d\udd2a\u3010NIJISANJI EN | Reimu Endou\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-05T22:07:19Z",
+      "actualEndTime": "2024-06-06T01:21:06Z",
+      "scheduledStartTime": "2024-06-05T22:00:00Z"
+    }
+  },
+  "JnReA8UNTnw": {
+    "snippet": {
+      "publishedAt": "2024-06-04T23:31:22Z",
+      "channelId": "UCBURM8S4LH7cRZ0Clea9RDA",
+      "title": "\u3010BUNNY GARDEN\u3011IT'S MY OSHI'S BIRTHDAY EVERYBODY \ud83e\udd73\ud83e\udd0d\ud83e\udd0d\u3010NIJISANJI EN | Reimu Endou\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-05T12:03:50Z",
+      "actualEndTime": "2024-06-05T16:55:25Z",
+      "scheduledStartTime": "2024-06-05T12:00:00Z"
+    }
+  },
+  "qGT3Pyz-G94": {
+    "snippet": {
+      "publishedAt": "2023-11-27T23:46:25Z",
+      "channelId": "UCBURM8S4LH7cRZ0Clea9RDA",
+      "title": "\u3010DON'T SCREAM\u3011this game is finally happening . . . I'll scream\u3010NIJISANJI EN | Reimu Endou\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-07T02:00:56Z",
+      "actualEndTime": "2024-06-07T05:10:32Z",
+      "scheduledStartTime": "2024-06-07T02:00:00Z"
+    }
+  },
+  "42nTnapfIdU": {
+    "snippet": {
+      "publishedAt": "2024-06-07T23:40:14Z",
+      "channelId": "UCBURM8S4LH7cRZ0Clea9RDA",
+      "title": "\ud83d\udc9c\ud83e\udd0d\ud83e\udde1ETHYRIA IS HAVING THEIR FIRST 3D CONCERT !!! let's talk before!\ud83d\udc9c\ud83e\udd0d\ud83e\udde1\u3010NIJISANJI EN | Reimu Endou\u3011",
+      "private": true
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-08T15:00:00Z",
+      "activeLiveChatId": "Cg0KCzQyblRuYXBmSWRVKicKGFVDQlVSTThTNExIN2NSWjBDbGVhOVJEQRILNDJuVG5hcGZJZFU"
+    }
+  },
+  "wnO86qVZYL0": {
+    "snippet": {
+      "publishedAt": "2024-06-08T03:37:11Z",
+      "channelId": "UCBURM8S4LH7cRZ0Clea9RDA",
+      "title": "\u3010STARLIGHT \u2606 LUMINANCE AFTERPARTY | Mumu POV\u3011WE DID IT EVERYONEEEEEEEEE \ud83d\ude2d\ud83e\udd0d\ud83e\udd0d\ud83e\udd0d"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-09T02:16:34Z",
+      "actualEndTime": "2024-06-09T03:51:35Z",
+      "scheduledStartTime": "2024-06-09T02:15:00Z"
+    }
+  },
+  "tUh_iKIwO3Y": {
+    "snippet": {
+      "publishedAt": "2024-06-08T23:24:20Z",
+      "channelId": "UCBURM8S4LH7cRZ0Clea9RDA",
+      "title": "\u3010FALLOUT NEW VEGAS\u3011it is time. . .to say goodbye to the ghouls \ud83d\ude08\u3010NIJISANJI EN | Reimu Endou\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-09T15:05:18Z",
+      "actualEndTime": "2024-06-09T16:52:52Z",
+      "scheduledStartTime": "2024-06-09T15:00:00Z"
     }
   }
 }

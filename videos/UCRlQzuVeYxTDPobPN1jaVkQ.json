@@ -3576,7 +3576,8 @@
     "snippet": {
       "publishedAt": "2024-05-07T10:34:17Z",
       "channelId": "UCRlQzuVeYxTDPobPN1jaVkQ",
-      "title": "\u3016Sekiro\u3017...time to relearn the controls... again...\u3016Cyon \u2765 V&U\u3017"
+      "title": "\u3016Sekiro\u3017...time to relearn the controls... again...\u3016Cyon \u2765 V&U\u3017",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-23T08:00:00Z",
@@ -3681,8 +3682,9 @@
       "title": "\u3016soft read | ASMR\u3017What cursed knowledge do we get this week :3\u3016Cyon \u2765 V&U\u3017"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-27T03:00:00Z",
-      "activeLiveChatId": "Cg0KC1ZZTUVwclBid3M4KicKGFVDUmxRenVWZVl4VERQb2JQTjFqYVZrURILVllNRXByUGJ3czg"
+      "actualStartTime": "2024-05-27T03:00:33Z",
+      "actualEndTime": "2024-05-27T05:30:08Z",
+      "scheduledStartTime": "2024-05-27T03:00:00Z"
     }
   },
   "q3olC_zJ7a8": {
@@ -3750,15 +3752,250 @@
       "title": "\u3016A Difficult Game About Climbing\u3017...why did I promise this as a birthday reward\u3016Cyon \u2765 V&U\u3017"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-24T03:00:00Z",
-      "activeLiveChatId": "Cg0KCzFCMV9vZ3YxVHNvKicKGFVDUmxRenVWZVl4VERQb2JQTjFqYVZrURILMUIxX29ndjFUc28"
+      "actualStartTime": "2024-05-24T03:32:57Z",
+      "actualEndTime": "2024-05-24T06:53:53Z",
+      "scheduledStartTime": "2024-05-24T03:30:00Z"
     }
   },
   "V1Jv5qMM9DA": {
     "snippet": {
       "publishedAt": "2024-05-22T22:00:18Z",
       "channelId": "UCRlQzuVeYxTDPobPN1jaVkQ",
-      "title": "I'm not very good at giving advice  #vtuber #envtuber"
+      "title": "I've got the best advice. Promise  #vtuber #envtuber"
+    }
+  },
+  "4txYS7BNu74": {
+    "snippet": {
+      "publishedAt": "2024-05-23T02:47:35Z",
+      "channelId": "UCRlQzuVeYxTDPobPN1jaVkQ",
+      "title": "\u3016Sekiro\u3017...time to relearn the controls... again...\u3016Cyon \u2765 V&U\u3017"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-23T08:01:19Z",
+      "actualEndTime": "2024-05-23T11:52:43Z",
+      "scheduledStartTime": "2024-05-23T08:00:00Z"
+    }
+  },
+  "alfsOXmW_tk": {
+    "snippet": {
+      "publishedAt": "2024-05-24T10:58:57Z",
+      "channelId": "UCRlQzuVeYxTDPobPN1jaVkQ",
+      "title": "\u3016Wuthering Waves\u3017Playing a gacha game maaaay be a bad idea... owo\u3016Cyon \u2765 V&U\u3017"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-25T02:31:13Z",
+      "actualEndTime": "2024-05-25T09:38:31Z",
+      "scheduledStartTime": "2024-05-25T02:15:00Z"
+    }
+  },
+  "_S-aAwKD6bU": {
+    "snippet": {
+      "publishedAt": "2024-05-24T11:28:52Z",
+      "channelId": "UCRlQzuVeYxTDPobPN1jaVkQ",
+      "title": "\u3016PIXELLINK DEBUT WATCHALONG!\u3017She's free!  Its time for @DaiyaFortuna  to deal our hand!~\u3016Cyon \u2765 V&U\u3017"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-25T23:49:08Z",
+      "actualEndTime": "2024-05-26T00:59:54Z",
+      "scheduledStartTime": "2024-05-26T00:00:00Z"
+    }
+  },
+  "W3uF-JH076M": {
+    "snippet": {
+      "publishedAt": "2024-05-24T22:00:28Z",
+      "channelId": "UCRlQzuVeYxTDPobPN1jaVkQ",
+      "title": "is it bad luck or is it stupidity :D (probably the later)  #vtuber #envtuber"
+    }
+  },
+  "xeWZqvvMqDU": {
+    "snippet": {
+      "publishedAt": "2024-05-27T09:23:40Z",
+      "channelId": "UCRlQzuVeYxTDPobPN1jaVkQ",
+      "title": "\u3016Wuthering Waves\u3017Short WuWa stream because... I wanna gacha :3\u3016Cyon \u2765 V&U\u3017"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-27T09:32:58Z",
+      "actualEndTime": "2024-05-27T13:11:48Z",
+      "scheduledStartTime": "2024-05-27T09:30:00Z"
+    }
+  },
+  "lhcwwjeIlfQ": {
+    "snippet": {
+      "publishedAt": "2024-05-27T13:14:00Z",
+      "channelId": "UCRlQzuVeYxTDPobPN1jaVkQ",
+      "title": "\u3016Beholder 2\u3017No work life balance here\u3016Cyon \u2765 V&U\u3017"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-28T08:01:55Z",
+      "actualEndTime": "2024-05-28T11:45:47Z",
+      "scheduledStartTime": "2024-05-28T08:00:00Z"
+    }
+  },
+  "mHoo8RRtoEk": {
+    "snippet": {
+      "publishedAt": "2024-05-27T22:00:30Z",
+      "channelId": "UCRlQzuVeYxTDPobPN1jaVkQ",
+      "title": "Vtuber talks before she thinks (real)  #vtuber  #envtuber"
+    }
+  },
+  "mArk6h4iRsI": {
+    "snippet": {
+      "publishedAt": "2024-05-29T08:15:46Z",
+      "channelId": "UCRlQzuVeYxTDPobPN1jaVkQ",
+      "title": "\u3016Just Chilling\u3017Sick but chatty ehehe\u3016Cyon \u2765 V&U\u3017#shorts  #shortslive  #shortsfeed"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-29T08:31:01Z",
+      "actualEndTime": "2024-05-29T12:02:46Z",
+      "scheduledStartTime": "2024-05-29T08:30:00Z"
+    }
+  },
+  "3Zi2z9n-Gcs": {
+    "snippet": {
+      "publishedAt": "2024-05-29T22:00:02Z",
+      "channelId": "UCRlQzuVeYxTDPobPN1jaVkQ",
+      "title": "How to start a gen wide argument  #envtuber"
+    }
+  },
+  "faDamWRWh7o": {
+    "snippet": {
+      "publishedAt": "2024-05-31T22:00:23Z",
+      "channelId": "UCRlQzuVeYxTDPobPN1jaVkQ",
+      "title": "...we did our best, or whatever  #vtuber #envtuber"
+    }
+  },
+  "zWCqw3HUbT8": {
+    "snippet": {
+      "publishedAt": "2024-06-03T23:38:18Z",
+      "channelId": "UCRlQzuVeYxTDPobPN1jaVkQ",
+      "title": "Making up reasons to get mad  #vtuber #envtuber"
+    }
+  },
+  "Na9Z18_DdCY": {
+    "snippet": {
+      "publishedAt": "2024-06-05T12:05:51Z",
+      "channelId": "UCRlQzuVeYxTDPobPN1jaVkQ",
+      "title": "\u3016Just Chilling\u3017Minication, over!~ Tanuki return\u3016Cyon \u2765 V&U\u3017#shorts  #shortslive  #shortsfeed"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-06T08:01:29Z",
+      "actualEndTime": "2024-06-06T11:24:45Z",
+      "scheduledStartTime": "2024-06-06T08:00:00Z"
+    }
+  },
+  "2HWUvJMumRQ": {
+    "snippet": {
+      "publishedAt": "2024-06-05T22:00:01Z",
+      "channelId": "UCRlQzuVeYxTDPobPN1jaVkQ",
+      "title": "no one knows and its all in my head  #vtuber #envtuber"
+    }
+  },
+  "nHldgN4cpmU": {
+    "snippet": {
+      "publishedAt": "2024-06-08T02:14:01Z",
+      "channelId": "UCRlQzuVeYxTDPobPN1jaVkQ",
+      "title": "\u3016Prey at the Altar\u3017Prey for the prey for the me\u3016Cyon \u2765 V&U\u3017"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-08T03:00:47Z",
+      "actualEndTime": "2024-06-08T06:21:38Z",
+      "scheduledStartTime": "2024-06-08T03:00:00Z"
+    }
+  },
+  "sY8RVYxrLNI": {
+    "snippet": {
+      "publishedAt": "2024-06-08T09:16:24Z",
+      "channelId": "UCRlQzuVeYxTDPobPN1jaVkQ",
+      "title": "\u3016Doodling and Chatting\u3017Lets work on some new things!~\u3016Cyon \u2765 V&U\u3017"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-09T04:01:40Z",
+      "actualEndTime": "2024-06-09T06:39:16Z",
+      "scheduledStartTime": "2024-06-09T04:00:00Z"
+    }
+  },
+  "-3AJbLVQkMc": {
+    "snippet": {
+      "publishedAt": "2024-06-08T02:21:02Z",
+      "channelId": "UCRlQzuVeYxTDPobPN1jaVkQ",
+      "title": "\u3016Members Minecraft Server\u3017Lets try an informant zombie apocalypse\u3016Cyon \u2765 V&U\u3017"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-08T23:02:00Z",
+      "actualEndTime": "2024-06-09T02:28:57Z",
+      "scheduledStartTime": "2024-06-08T23:00:00Z"
+    }
+  },
+  "3VJwn6OyHJs": {
+    "snippet": {
+      "publishedAt": "2024-06-08T22:00:02Z",
+      "channelId": "UCRlQzuVeYxTDPobPN1jaVkQ",
+      "title": "Lots of screaming and crying in this game...   #vtuber #envtuber"
+    }
+  },
+  "eDujugzmHLY": {
+    "snippet": {
+      "publishedAt": "2024-06-10T06:37:57Z",
+      "channelId": "UCRlQzuVeYxTDPobPN1jaVkQ",
+      "title": "\u3016Members Minecraft Server\u3017Just chilling and avoiding zombies :3\u3016Cyon \u2765 V&U\u3017"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-10T08:01:29Z",
+      "actualEndTime": "2024-06-10T11:29:57Z",
+      "scheduledStartTime": "2024-06-10T08:00:00Z"
+    }
+  },
+  "qMEczz-S4go": {
+    "snippet": {
+      "publishedAt": "2024-06-11T07:42:35Z",
+      "channelId": "UCRlQzuVeYxTDPobPN1jaVkQ",
+      "title": "\u3016Plate Up\u3017Cursing my computer while making food w/ @HiranoKokoro \u3016Cyon \u2765 V&U\u3017"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-11T08:29:10Z",
+      "actualEndTime": "2024-06-11T12:50:36Z",
+      "scheduledStartTime": "2024-06-11T08:15:00Z"
+    }
+  },
+  "gLwfgnbXFU8": {
+    "snippet": {
+      "publishedAt": "2024-06-12T10:24:31Z",
+      "channelId": "UCRlQzuVeYxTDPobPN1jaVkQ",
+      "title": "\u3016soft read | ASMR\u3017Reading and Reading and Reading and...\u3016Cyon \u2765 V&U\u3017"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-17T03:00:00Z",
+      "activeLiveChatId": "Cg0KC2dMd2ZnbmJYRlU4KicKGFVDUmxRenVWZVl4VERQb2JQTjFqYVZrURILZ0x3ZmduYlhGVTg"
+    }
+  },
+  "cNaF2VW0kiA": {
+    "snippet": {
+      "publishedAt": "2024-06-12T10:23:39Z",
+      "channelId": "UCRlQzuVeYxTDPobPN1jaVkQ",
+      "title": "\u3016Members Minecraft Server\u3017I am not ready\u3016Cyon \u2765 V&U\u3017"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-14T08:00:00Z",
+      "activeLiveChatId": "Cg0KC2NOYUYyVlcwa2lBKicKGFVDUmxRenVWZVl4VERQb2JQTjFqYVZrURILY05hRjJWVzBraUE"
+    }
+  },
+  "uET5LSLDGas": {
+    "snippet": {
+      "publishedAt": "2024-06-12T10:21:26Z",
+      "channelId": "UCRlQzuVeYxTDPobPN1jaVkQ",
+      "title": "\u3016Beholder 2\u3017Post Party Work Day owo\u3016Cyon \u2765 V&U\u3017",
+      "private": true
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-13T08:15:00Z",
+      "activeLiveChatId": "Cg0KC3VFVDVMU0xER2FzKicKGFVDUmxRenVWZVl4VERQb2JQTjFqYVZrURILdUVUNUxTTERHYXM"
+    }
+  },
+  "ZAfFqllMsI8": {
+    "snippet": {
+      "publishedAt": "2024-06-12T22:00:20Z",
+      "channelId": "UCRlQzuVeYxTDPobPN1jaVkQ",
+      "title": "Karaoke snippet ~ We All Become - Transistor  #envtuber"
     }
   }
 }

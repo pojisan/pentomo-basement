@@ -1304,8 +1304,9 @@
       "title": "\u3010MEGA MAN X2 #2\u3011OK WE PEW PEW!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2025-05-23T04:00:00Z",
-      "activeLiveChatId": "Cg0KC2xiRFpueVltZmhzKicKGFVDY2hHWVA1dDVWejQ4VVZ4Tk9pZmstURILbGJEWm55WW1maHM"
+      "actualStartTime": "2024-05-29T04:20:28Z",
+      "actualEndTime": "2024-05-29T06:42:44Z",
+      "scheduledStartTime": "2024-05-29T04:20:18Z"
     }
   },
   "_ByPUsTyxLg": {
@@ -1313,6 +1314,42 @@
       "publishedAt": "2024-05-22T15:00:34Z",
       "channelId": "UCchGYP5t5Vz48UVxNOifk-Q",
       "title": "Welcome To The Cat Maid Cafe! #shorts  #vtuber #miuakumiya #envtuber #vtuberen"
+    }
+  },
+  "DrX9jhWJHKc": {
+    "snippet": {
+      "publishedAt": "2024-05-27T15:37:22Z",
+      "channelId": "UCchGYP5t5Vz48UVxNOifk-Q",
+      "title": "TESTS HAVE BEEN DEMOLISHED! WE'RE BACK!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-28T04:14:23Z",
+      "actualEndTime": "2024-05-28T05:48:24Z",
+      "scheduledStartTime": "2024-05-28T04:14:11Z"
+    }
+  },
+  "rFNuMnwpC6E": {
+    "snippet": {
+      "publishedAt": "2024-05-29T17:32:36Z",
+      "channelId": "UCchGYP5t5Vz48UVxNOifk-Q",
+      "title": "\u3010MEGA MAN X2 #3\u3011TODAY WE BEAT THIS GAME"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-31T04:00:25Z",
+      "actualEndTime": "2024-05-31T07:17:08Z",
+      "scheduledStartTime": "2024-05-31T04:00:12Z"
+    }
+  },
+  "ZQwrX_dh0_U": {
+    "snippet": {
+      "publishedAt": "2024-06-05T02:26:11Z",
+      "channelId": "UCchGYP5t5Vz48UVxNOifk-Q",
+      "title": "HAPPY SIX MONTHS!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-06T04:12:49Z",
+      "actualEndTime": "2024-06-06T05:57:16Z",
+      "scheduledStartTime": "2024-06-06T04:12:39Z"
     }
   }
 }

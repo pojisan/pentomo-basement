@@ -1185,8 +1185,9 @@
       "title": "How Many Mog Tomes Does It Take To Get What I Want? | FINAL FANTASY XIV ONLINE"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-24T16:00:00Z",
-      "activeLiveChatId": "Cg0KC1hFek1aYVowWmZrKicKGFVDbjViUF9oTEw1SEI2Ulc4WDMya3cxQRILWEV6TVphWjBaZms"
+      "actualStartTime": "2024-05-24T16:19:06Z",
+      "actualEndTime": "2024-05-24T19:39:09Z",
+      "scheduledStartTime": "2024-05-24T16:00:00Z"
     }
   },
   "LfRhIMfPaAE": {
@@ -1196,8 +1197,76 @@
       "title": "Ori Platforming Pro | Ori & The Will of The Wisps"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-25T16:00:00Z",
-      "activeLiveChatId": "Cg0KC0xmUmhJTWZQYUFFKicKGFVDbjViUF9oTEw1SEI2Ulc4WDMya3cxQRILTGZSaElNZlBhQUU"
+      "actualStartTime": "2024-05-25T16:11:21Z",
+      "actualEndTime": "2024-05-25T17:58:06Z",
+      "scheduledStartTime": "2024-05-25T16:00:00Z"
+    }
+  },
+  "K8e3-ydz-Yg": {
+    "snippet": {
+      "publishedAt": "2024-05-26T20:00:10Z",
+      "channelId": "UCn5bP_hLL5HB6RW8X32kw1A",
+      "title": "Round 2 of Country Road Hazards & Cultists | Darkest Dungeon II"
+    }
+  },
+  "QFkk2UMF_VM": {
+    "snippet": {
+      "publishedAt": "2024-05-28T20:54:51Z",
+      "channelId": "UCn5bP_hLL5HB6RW8X32kw1A",
+      "title": "How Many Screams Until We Get To The End of Our Yarn?  |  Unravel Two With @ElazulRoy",
+      "private": true
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-01T01:00:00Z",
+      "activeLiveChatId": "Cg0KC1FGa2syVU1GX1ZNKicKGFVDbjViUF9oTEw1SEI2Ulc4WDMya3cxQRILUUZrazJVTUZfVk0"
+    }
+  },
+  "TqdB-ni078g": {
+    "snippet": {
+      "publishedAt": "2024-06-04T18:13:16Z",
+      "channelId": "UCn5bP_hLL5HB6RW8X32kw1A",
+      "title": "Screaming Dog-Tiger Yarn Co Op  | It ended up being chatting instead lol  [ArashiSpecter]"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-08T01:20:01Z",
+      "actualEndTime": "2024-06-08T02:33:19Z",
+      "scheduledStartTime": "2024-06-08T01:00:00Z"
+    }
+  },
+  "eFvqKt_dAlc": {
+    "snippet": {
+      "publishedAt": "2024-06-09T20:30:06Z",
+      "channelId": "UCn5bP_hLL5HB6RW8X32kw1A",
+      "title": "The Moogle FAAAARM | FINAL FANTASY XIV ONLINE"
+    }
+  },
+  "g3z2nfPf3S8": {
+    "snippet": {
+      "publishedAt": "2024-06-11T16:00:36Z",
+      "channelId": "UCn5bP_hLL5HB6RW8X32kw1A",
+      "title": "A Disgruntled Healer Compilation: Meridianum Edition [ArashiSpecter]"
+    }
+  },
+  "QfmCCv2qkRk": {
+    "snippet": {
+      "publishedAt": "2024-06-11T23:25:43Z",
+      "channelId": "UCn5bP_hLL5HB6RW8X32kw1A",
+      "title": "Here We Go Again...  |  FINAL FANTASY XIV ONLINE [ArashiSpecter]"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-14T16:00:00Z",
+      "activeLiveChatId": "Cg0KC1FmbUNDdjJxa1JrKicKGFVDbjViUF9oTEw1SEI2Ulc4WDMya3cxQRILUWZtQ0N2MnFrUms"
+    }
+  },
+  "eSFMCQdmiNc": {
+    "snippet": {
+      "publishedAt": "2024-06-11T23:31:17Z",
+      "channelId": "UCn5bP_hLL5HB6RW8X32kw1A",
+      "title": "We're Starting In Earnest On The Asia Account!  |  Honkai Star Rail  [ArashiSpecter]"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-15T16:00:00Z",
+      "activeLiveChatId": "Cg0KC2VTRk1DUWRtaU5jKicKGFVDbjViUF9oTEw1SEI2Ulc4WDMya3cxQRILZVNGTUNRZG1pTmM"
     }
   }
 }

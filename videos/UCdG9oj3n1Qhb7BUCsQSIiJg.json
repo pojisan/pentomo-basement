@@ -887,5 +887,77 @@
       "actualEndTime": "2024-05-22T19:21:02Z",
       "scheduledStartTime": "2024-05-22T17:00:00Z"
     }
+  },
+  "9KteETqK_WA": {
+    "snippet": {
+      "publishedAt": "2024-05-23T15:30:30Z",
+      "channelId": "UCdG9oj3n1Qhb7BUCsQSIiJg",
+      "title": "\u3010DOOM\u3011The Chaos Continues\u3010Obari Luca | globie\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-23T17:01:22Z",
+      "actualEndTime": "2024-05-23T19:14:00Z",
+      "scheduledStartTime": "2024-05-23T17:00:00Z"
+    }
+  },
+  "Lvihs3bK8pw": {
+    "snippet": {
+      "publishedAt": "2024-05-24T06:32:05Z",
+      "channelId": "UCdG9oj3n1Qhb7BUCsQSIiJg",
+      "title": "\u3010ZATSU\u3011Let's talk for a little!!\u3010Obari Luca | globie\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-24T17:06:58Z",
+      "actualEndTime": "2024-05-24T18:19:06Z",
+      "scheduledStartTime": "2024-05-24T17:00:00Z"
+    }
+  },
+  "NZpvSN7gER0": {
+    "snippet": {
+      "publishedAt": "2024-06-02T09:50:41Z",
+      "channelId": "UCdG9oj3n1Qhb7BUCsQSIiJg",
+      "title": "\u30106 MONTH ANNIVERSARY\u3011A Special Day.\u3010Obari Luca | globie\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-02T18:02:00Z",
+      "actualEndTime": "2024-06-02T20:04:15Z",
+      "scheduledStartTime": "2024-06-02T18:00:00Z"
+    }
+  },
+  "R-23r1hXVKg": {
+    "snippet": {
+      "publishedAt": "2024-06-05T14:30:40Z",
+      "channelId": "UCdG9oj3n1Qhb7BUCsQSIiJg",
+      "title": "\u3010MINECRAFT\u3011Being on my best behavior like always!\u3010Obari Luca | globie\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-05T18:01:40Z",
+      "actualEndTime": "2024-06-05T20:34:17Z",
+      "scheduledStartTime": "2024-06-05T18:00:00Z"
+    }
+  },
+  "gLFHvLWL3cA": {
+    "snippet": {
+      "publishedAt": "2024-06-06T15:30:37Z",
+      "channelId": "UCdG9oj3n1Qhb7BUCsQSIiJg",
+      "title": "\u3010UNDYING\u3011Yelling at my child\u3010Obari Luca | globie\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-07T17:01:23Z",
+      "actualEndTime": "2024-06-07T19:04:31Z",
+      "scheduledStartTime": "2024-06-07T17:00:00Z"
+    }
+  },
+  "6c5JC8CSH98": {
+    "snippet": {
+      "publishedAt": "2024-06-07T13:35:56Z",
+      "channelId": "UCdG9oj3n1Qhb7BUCsQSIiJg",
+      "title": "\u3010MINECRAFT\u3011No unlawful shenanigans today!!\u3010Obari Luca | globie\u3011",
+      "private": true
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-07T17:00:00Z",
+      "activeLiveChatId": "Cg0KCzZjNUpDOENTSDk4KicKGFVDZEc5b2ozbjFRaGI3QlVDc1FTSWlKZxILNmM1SkM4Q1NIOTg"
+    }
   }
 }

@@ -3690,8 +3690,70 @@
       "title": "good morning to you! \u3010IdolEN | Chikafuji Lisa\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-23T19:00:00Z",
-      "activeLiveChatId": "Cg0KC2t4SUFZRWktWDJvKicKGFVDZHVyZXV4N0JfVi14aE03dFlJbUFTURILa3hJQVlFaS1YMm8"
+      "actualStartTime": "2024-05-23T19:02:41Z",
+      "actualEndTime": "2024-05-23T20:19:21Z",
+      "scheduledStartTime": "2024-05-23T19:00:00Z"
+    }
+  },
+  "f1kNOu8n6oY": {
+    "snippet": {
+      "publishedAt": "2024-05-29T21:06:37Z",
+      "channelId": "UCdureux7B_V-xhM7tYImASQ",
+      "title": "WAR STRATS! \u3010IdolEN | Chikafuji Lisa\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-29T22:02:01Z",
+      "actualEndTime": "2024-05-30T00:32:57Z",
+      "scheduledStartTime": "2024-05-29T22:00:00Z"
+    }
+  },
+  "Zcr6c60_p6g": {
+    "snippet": {
+      "publishedAt": "2024-05-30T18:06:49Z",
+      "channelId": "UCdureux7B_V-xhM7tYImASQ",
+      "title": "Offkai Prep!\u3010IdolEN | Chikafuji Lisa\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-30T18:33:56Z",
+      "actualEndTime": "2024-05-30T20:06:47Z",
+      "scheduledStartTime": "2024-05-30T18:30:00Z"
+    }
+  },
+  "3eB4nTcgom4": {
+    "snippet": {
+      "publishedAt": "2024-06-10T21:01:26Z",
+      "channelId": "UCdureux7B_V-xhM7tYImASQ",
+      "title": "OH HOW I'VE MISSED YOU!!!!!\u3010IdolEN | Chikafuji Lisa\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-10T21:57:27Z",
+      "actualEndTime": "2024-06-10T23:43:39Z",
+      "scheduledStartTime": "2024-06-10T22:00:00Z"
+    }
+  },
+  "xuYlEcZlkoI": {
+    "snippet": {
+      "publishedAt": "2024-06-12T22:37:39Z",
+      "channelId": "UCdureux7B_V-xhM7tYImASQ",
+      "title": "Encore Weekly w/ @ShabelTonya + @EnyaIgnis"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-12T23:18:12Z",
+      "actualEndTime": "2024-06-13T01:37:03Z",
+      "scheduledStartTime": "2024-06-12T23:00:00Z"
+    }
+  },
+  "BdDf4G2sIQ8": {
+    "snippet": {
+      "publishedAt": "2024-06-13T21:32:23Z",
+      "channelId": "UCdureux7B_V-xhM7tYImASQ",
+      "title": "First karaoke in a while!\u3010IdolEN | Chikafuji Lisa\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-13T22:04:43Z",
+      "actualEndTime": "2024-06-14T00:40:03Z",
+      "scheduledStartTime": "2024-06-13T22:00:00Z",
+      "activeLiveChatId": "Cg0KC0JkRGY0RzJzSVE4KicKGFVDZHVyZXV4N0JfVi14aE03dFlJbUFTURILQmREZjRHMnNJUTg"
     }
   }
 }

@@ -2386,8 +2386,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-22T19:21:28Z",
       "actualEndTime": "2024-05-22T23:20:29Z",
-      "scheduledStartTime": "2024-05-22T19:00:00Z",
-      "activeLiveChatId": "Cg0KC19GcHh4MWRjUllFKicKGFVDMHdfZHZrSXduWHpNYWs2Z2ZlaW9SURILX0ZweHgxZGNSWUU"
+      "scheduledStartTime": "2024-05-22T19:00:00Z"
     }
   },
   "6Mb04S0jM70": {
@@ -2397,8 +2396,88 @@
       "title": "Fruit Maestro"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-23T19:00:00Z",
-      "activeLiveChatId": "Cg0KCzZNYjA0UzBqTTcwKicKGFVDMHdfZHZrSXduWHpNYWs2Z2ZlaW9SURILNk1iMDRTMGpNNzA"
+      "actualStartTime": "2024-05-23T19:01:00Z",
+      "actualEndTime": "2024-05-23T23:00:21Z",
+      "scheduledStartTime": "2024-05-23T19:00:00Z"
+    }
+  },
+  "m0hCErPULAQ": {
+    "snippet": {
+      "publishedAt": "2024-05-24T23:18:22Z",
+      "channelId": "UC0w_dvkIwnXzMak6gfeioRQ",
+      "title": "Invader 1st Year Anniversary!!! | Ember"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-27T19:06:21Z",
+      "actualEndTime": "2024-05-27T23:04:44Z",
+      "scheduledStartTime": "2024-05-27T19:00:00Z"
+    }
+  },
+  "ljw0qy6adbg": {
+    "snippet": {
+      "publishedAt": "2024-06-06T16:25:30Z",
+      "channelId": "UC0w_dvkIwnXzMak6gfeioRQ",
+      "title": "You just got emburgered"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-06T19:00:45Z",
+      "actualEndTime": "2024-06-06T23:00:27Z",
+      "scheduledStartTime": "2024-06-06T19:00:00Z"
+    }
+  },
+  "FRusPLGkHQU": {
+    "snippet": {
+      "publishedAt": "2024-06-07T18:17:03Z",
+      "channelId": "UC0w_dvkIwnXzMak6gfeioRQ",
+      "title": "You look familiar.. | Animal Well"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-07T19:31:58Z",
+      "actualEndTime": "2024-06-07T21:41:33Z",
+      "scheduledStartTime": "2024-06-07T19:30:00Z"
+    }
+  },
+  "M6LWXuV9oCQ": {
+    "snippet": {
+      "publishedAt": "2024-06-09T18:56:44Z",
+      "channelId": "UC0w_dvkIwnXzMak6gfeioRQ",
+      "title": "You Won't Believe What Happened in Fallout: New Vegas!"
+    }
+  },
+  "rZy3AurLeh0": {
+    "snippet": {
+      "publishedAt": "2024-06-10T19:25:41Z",
+      "channelId": "UC0w_dvkIwnXzMak6gfeioRQ",
+      "title": "A girl and a duck walk into a bar... | Duck Detective"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-10T20:14:40Z",
+      "actualEndTime": "2024-06-10T23:11:01Z",
+      "scheduledStartTime": "2024-06-10T20:00:00Z"
+    }
+  },
+  "lOWLd_mrL_w": {
+    "snippet": {
+      "publishedAt": "2024-06-11T17:21:16Z",
+      "channelId": "UC0w_dvkIwnXzMak6gfeioRQ",
+      "title": "Dizzy said I should play this"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-11T19:01:37Z",
+      "actualEndTime": "2024-06-11T22:53:45Z",
+      "scheduledStartTime": "2024-06-11T19:00:00Z"
+    }
+  },
+  "_dR5sYMUdkc": {
+    "snippet": {
+      "publishedAt": "2024-06-12T19:23:30Z",
+      "channelId": "UC0w_dvkIwnXzMak6gfeioRQ",
+      "title": "Road to DLC | Elden Ring | Part 10"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-12T20:01:20Z",
+      "actualEndTime": "2024-06-13T00:32:49Z",
+      "scheduledStartTime": "2024-06-12T20:00:00Z"
     }
   }
 }

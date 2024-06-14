@@ -1027,8 +1027,69 @@
       "title": "ooga booga guerilla | Overwatch 2 #vtuber"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-23T13:00:00Z",
-      "activeLiveChatId": "Cg0KC1RqVkNsSmZXQUNvKicKGFVDTkExSndCd1pza180VVUtOHM2Q1ZfQRILVGpWQ2xKZldBQ28"
+      "actualStartTime": "2024-05-23T13:11:41Z",
+      "actualEndTime": "2024-05-23T14:49:19Z",
+      "scheduledStartTime": "2024-05-23T13:15:00Z"
+    }
+  },
+  "ggfCmrbpSmI": {
+    "snippet": {
+      "publishedAt": "2024-05-28T13:51:15Z",
+      "channelId": "UCNA1JwBwZsk_4UU-8s6CV_A",
+      "title": "collab time! feat. Alexandria and @AngyCatto_VOLs | Apex Legends #vtuber"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-29T03:57:31Z",
+      "actualEndTime": "2024-05-29T06:25:52Z",
+      "scheduledStartTime": "2024-05-29T04:00:00Z"
+    }
+  },
+  "h98uL3gcToY": {
+    "snippet": {
+      "publishedAt": "2024-05-29T06:31:46Z",
+      "channelId": "UCNA1JwBwZsk_4UU-8s6CV_A",
+      "title": "MOST SANE VTUBER JUNGLE MAIN | League of Legends"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-30T09:32:25Z",
+      "actualEndTime": "2024-05-30T11:58:31Z",
+      "scheduledStartTime": "2024-05-30T09:30:00Z"
+    }
+  },
+  "kSNyhTAbVno": {
+    "snippet": {
+      "publishedAt": "2024-05-30T12:06:57Z",
+      "channelId": "UCNA1JwBwZsk_4UU-8s6CV_A",
+      "title": "grandma sings songs of her past | Karaoke"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-01T13:59:44Z",
+      "actualEndTime": "2024-06-01T15:11:29Z",
+      "scheduledStartTime": "2024-06-01T14:00:00Z"
+    }
+  },
+  "nruCCuztUPU": {
+    "snippet": {
+      "publishedAt": "2024-06-11T14:37:57Z",
+      "channelId": "UCNA1JwBwZsk_4UU-8s6CV_A",
+      "title": "comfy manacraft time | Minecraft"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-12T05:00:21Z",
+      "actualEndTime": "2024-06-12T06:58:52Z",
+      "scheduledStartTime": "2024-06-12T05:00:00Z"
+    }
+  },
+  "QZOCzy-bEMY": {
+    "snippet": {
+      "publishedAt": "2024-06-13T00:37:05Z",
+      "channelId": "UCNA1JwBwZsk_4UU-8s6CV_A",
+      "title": "vtuber explores your jungle | League of Legends"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-13T12:11:56Z",
+      "actualEndTime": "2024-06-13T15:41:56Z",
+      "scheduledStartTime": "2024-06-13T11:00:00Z"
     }
   }
 }

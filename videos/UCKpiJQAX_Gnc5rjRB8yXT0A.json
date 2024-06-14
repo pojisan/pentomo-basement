@@ -56,11 +56,10 @@
     "snippet": {
       "publishedAt": "2024-05-14T11:37:39Z",
       "channelId": "UCKpiJQAX_Gnc5rjRB8yXT0A",
-      "title": "SCHEDULE FOR 5.19 - 5.25"
+      "title": "SCHEDULE FOR 6.09 - 6.15"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-31T14:00:00Z",
-      "activeLiveChatId": "Cg0KC3FaTlhYbXB3Tm4wKicKGFVDS3BpSlFBWF9HbmM1cmpSQjh5WFQwQRILcVpOWFhtcHdObjA"
+      "scheduledStartTime": "2024-06-30T14:00:00Z"
     }
   },
   "DfqFV3-sbX4": {
@@ -98,11 +97,12 @@
     "snippet": {
       "publishedAt": "2024-05-22T17:05:19Z",
       "channelId": "UCKpiJQAX_Gnc5rjRB8yXT0A",
-      "title": "\u3010HADES II\u3011ONE MORE RUN - Time is Truly a Hassle"
+      "title": "\u3010HADES II\u3011ONE MORE RUN - Time is Truly a Hassle \u3010OshiLink EN | Audica Sevens \u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-24T14:00:00Z",
-      "activeLiveChatId": "Cg0KC3c0MENwb2tVelNVKicKGFVDS3BpSlFBWF9HbmM1cmpSQjh5WFQwQRILdzQwQ3Bva1V6U1U"
+      "actualStartTime": "2024-05-24T13:59:50Z",
+      "actualEndTime": "2024-05-24T17:35:47Z",
+      "scheduledStartTime": "2024-05-24T14:00:00Z"
     }
   },
   "-MvLKD8yzG4": {
@@ -112,8 +112,165 @@
       "title": "\u3010One Hand Clapping\u3011aaaaaaaaa - \u3010OshiLink EN | Audica Sevens \u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-23T13:00:00Z",
-      "activeLiveChatId": "Cg0KCy1NdkxLRDh5ekc0KicKGFVDS3BpSlFBWF9HbmM1cmpSQjh5WFQwQRILLU12TEtEOHl6RzQ"
+      "actualStartTime": "2024-05-23T12:56:54Z",
+      "actualEndTime": "2024-05-23T18:43:39Z",
+      "scheduledStartTime": "2024-05-23T13:00:00Z"
+    }
+  },
+  "RgS7gzkFqBc": {
+    "snippet": {
+      "publishedAt": "2024-05-24T18:38:46Z",
+      "channelId": "UCKpiJQAX_Gnc5rjRB8yXT0A",
+      "title": "\u3010Karaoke Stream / \u6b4c\u67a0\u3011Purely for Warm Up Karaoke Stream!\u3010OshiLink EN | Audica Sevens \u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-25T03:01:10Z",
+      "actualEndTime": "2024-05-25T05:11:04Z",
+      "scheduledStartTime": "2024-05-25T03:00:00Z"
+    }
+  },
+  "d6y7JahvG6M": {
+    "snippet": {
+      "publishedAt": "2024-05-25T07:02:39Z",
+      "channelId": "UCKpiJQAX_Gnc5rjRB8yXT0A",
+      "title": "\u3010HADES II\u3011ONE MORE RUNNN \u3010OshiLink EN | Audica Sevens \u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-26T15:28:45Z",
+      "actualEndTime": "2024-05-26T17:45:55Z",
+      "scheduledStartTime": "2024-05-26T15:00:00Z"
+    }
+  },
+  "7ZXTwd9L0Pc": {
+    "snippet": {
+      "publishedAt": "2024-05-25T07:14:22Z",
+      "channelId": "UCKpiJQAX_Gnc5rjRB8yXT0A",
+      "title": "\u3010Cooking Simulator\u3011Shef\u3010OshiLink EN | Audica Sevens \u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-31T15:00:37Z",
+      "actualEndTime": "2024-05-31T16:47:37Z",
+      "scheduledStartTime": "2024-05-31T15:00:00Z"
+    }
+  },
+  "VOT6xJZt7WU": {
+    "snippet": {
+      "publishedAt": "2024-05-25T07:12:09Z",
+      "channelId": "UCKpiJQAX_Gnc5rjRB8yXT0A",
+      "title": "\u3010Holocure\u3011Let's Collect Them Cuties! \u3010OshiLink EN | Audica Sevens \u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-30T12:59:01Z",
+      "actualEndTime": "2024-05-30T15:27:46Z",
+      "scheduledStartTime": "2024-05-30T13:00:00Z"
+    }
+  },
+  "1KoT4NrsvI8": {
+    "snippet": {
+      "publishedAt": "2024-06-01T00:00:00Z",
+      "channelId": "UCKpiJQAX_Gnc5rjRB8yXT0A",
+      "title": "Speaking in pigeon"
+    }
+  },
+  "pGgphEEQNNI": {
+    "snippet": {
+      "publishedAt": "2024-06-01T10:17:34Z",
+      "channelId": "UCKpiJQAX_Gnc5rjRB8yXT0A",
+      "title": "\u3010IdleOn\u3011Idling Idol Idle",
+      "private": true
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-12T13:00:00Z",
+      "activeLiveChatId": "Cg0KC3BHZ3BoRUVRTk5JKicKGFVDS3BpSlFBWF9HbmM1cmpSQjh5WFQwQRILcEdncGhFRVFOTkk"
+    }
+  },
+  "HVqOrQF6Rjw": {
+    "snippet": {
+      "publishedAt": "2024-06-01T10:20:23Z",
+      "channelId": "UCKpiJQAX_Gnc5rjRB8yXT0A",
+      "title": "\u3010Keep Talking And Nobody Explodes\u3011save me from my poor hearing"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-07T13:00:27Z",
+      "actualEndTime": "2024-06-07T15:53:59Z",
+      "scheduledStartTime": "2024-06-07T13:00:00Z"
+    }
+  },
+  "nddRHA6pjL4": {
+    "snippet": {
+      "publishedAt": "2024-06-01T10:14:36Z",
+      "channelId": "UCKpiJQAX_Gnc5rjRB8yXT0A",
+      "title": "\u3010Untitled Goose Game\u3011YAY HONKING \u3010OshiLink EN | Audica Sevens \u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-03T12:56:12Z",
+      "actualEndTime": "2024-06-03T15:33:14Z",
+      "scheduledStartTime": "2024-06-03T13:00:00Z"
+    }
+  },
+  "2uIagkR_F3M": {
+    "snippet": {
+      "publishedAt": "2024-06-04T18:40:04Z",
+      "channelId": "UCKpiJQAX_Gnc5rjRB8yXT0A",
+      "title": "\u3010Untitled Goose Game\u3011PART II YAY MORE HONKING \u3010OshiLink EN | Audica Sevens \u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-05T13:01:24Z",
+      "actualEndTime": "2024-06-05T15:18:25Z",
+      "scheduledStartTime": "2024-06-05T13:00:00Z"
+    }
+  },
+  "ixCw_QeXh7g": {
+    "snippet": {
+      "publishedAt": "2024-06-09T12:34:55Z",
+      "channelId": "UCKpiJQAX_Gnc5rjRB8yXT0A",
+      "title": "If I Can Stop One Heart From Breaking \u3010Rock Ballad ver\u3011(Honkai: Star Rail) Audica Sevens\u3010Cover\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-10T13:00:07Z",
+      "actualEndTime": "2024-06-10T13:05:28Z",
+      "scheduledStartTime": "2024-06-10T13:00:00Z"
+    }
+  },
+  "cHWZiPPnono": {
+    "snippet": {
+      "publishedAt": "2024-06-10T16:42:30Z",
+      "channelId": "UCKpiJQAX_Gnc5rjRB8yXT0A",
+      "title": "\u3010Zatsudan \u96d1\u8ac7 | Free Chat\u3011After-Song-Cover Chat! \u3010OshiLink EN | Audica Sevens\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-11T15:02:00Z",
+      "actualEndTime": "2024-06-11T16:59:03Z",
+      "scheduledStartTime": "2024-06-11T15:00:00Z"
+    }
+  },
+  "2BVhU7T645I": {
+    "snippet": {
+      "publishedAt": "2024-06-10T17:10:58Z",
+      "channelId": "UCKpiJQAX_Gnc5rjRB8yXT0A",
+      "title": "\u3010Lobotomy Corporation\u3011Satisfaction is only Temporary \u3010OshiLink EN | Audica Sevens\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-12T13:00:29Z",
+      "actualEndTime": "2024-06-12T15:06:08Z",
+      "scheduledStartTime": "2024-06-12T13:00:00Z"
+    }
+  },
+  "gvALS1ZyGWw": {
+    "snippet": {
+      "publishedAt": "2024-06-10T17:48:16Z",
+      "channelId": "UCKpiJQAX_Gnc5rjRB8yXT0A",
+      "title": "\u3010COLLAB\u3011Pico Pico Pi  |  Celanis 1st Month Group Collab\u3010OshiLink EN | Audica Sevens \u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-14T15:00:00Z"
+    }
+  },
+  "J2sf2HL843o": {
+    "snippet": {
+      "publishedAt": "2024-06-11T01:00:08Z",
+      "channelId": "UCKpiJQAX_Gnc5rjRB8yXT0A",
+      "title": "Honkai: Star Rail - If I Can Stop One Heart From Breaking (Rock Ballad Arrange.)"
     }
   }
 }

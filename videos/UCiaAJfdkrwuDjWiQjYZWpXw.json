@@ -10,7 +10,8 @@
     "snippet": {
       "publishedAt": "2024-03-10T23:01:24Z",
       "channelId": "UCiaAJfdkrwuDjWiQjYZWpXw",
-      "title": "A Live Stream"
+      "title": "A Live Stream",
+      "private": true
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC1c0U21TcmF6bzZrKicKGFVDaWFBSmZka3J3dURqV2lRallaV3BYdxILVzRTbVNyYXpvNms"
@@ -30,8 +31,9 @@
       "title": "\u3010DEBUT STREAM\u3011The FIRST Kingdom Assembly!!!\u3010PixelLink\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-25T22:00:00Z",
-      "activeLiveChatId": "Cg0KC09uTVR2LTZudTZFKicKGFVDaWFBSmZka3J3dURqV2lRallaV3BYdxILT25NVHYtNm51NkU"
+      "actualStartTime": "2024-05-25T21:58:04Z",
+      "actualEndTime": "2024-05-25T22:46:09Z",
+      "scheduledStartTime": "2024-05-25T22:00:00Z"
     }
   },
   "ryRroKc5YyM": {
@@ -41,9 +43,240 @@
       "title": "Lucifer - shimon\u3010Arisu Oshiro\u3011COVER"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-25T22:50:00Z",
-      "activeLiveChatId": "Cg0KC3J5UnJvS2M1WXlNKicKGFVDaWFBSmZka3J3dURqV2lRallaV3BYdxILcnlScm9LYzVZeU0",
-      "premiere": true
+      "actualStartTime": "2024-05-25T22:50:06Z",
+      "actualEndTime": "2024-05-25T22:54:28Z",
+      "scheduledStartTime": "2024-05-25T22:50:00Z"
+    }
+  },
+  "exixZSqc0wU": {
+    "snippet": {
+      "publishedAt": "2024-05-23T23:01:28Z",
+      "channelId": "UCiaAJfdkrwuDjWiQjYZWpXw",
+      "title": "Sad Wisu Cat Dance! (ft. Lottie Shinju) \ud83e\udd40\ud83e\ude9eDEBUT 2/25 #vtuber #memes #funny #vtuberdebut #sadcatdance"
+    }
+  },
+  "zyZ11vckPfA": {
+    "snippet": {
+      "publishedAt": "2024-05-25T15:44:23Z",
+      "channelId": "UCiaAJfdkrwuDjWiQjYZWpXw",
+      "title": "Princess Vtuber falls in DESPAIR \ud83e\udd40 DEBUT 5/25  #vtuber #vtuberdebut #anime #funny #virtualyoutuber"
+    }
+  },
+  "GWrXSKcP0aQ": {
+    "snippet": {
+      "publishedAt": "2024-05-26T03:38:58Z",
+      "channelId": "UCiaAJfdkrwuDjWiQjYZWpXw",
+      "title": "\u3010DEBUT 2.0\u3011The Princess\u2019 SECOND Kingdom Assembly! Answering Maros!!\u3010PixelLink\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-26T18:02:06Z",
+      "actualEndTime": "2024-05-26T20:16:18Z",
+      "scheduledStartTime": "2024-05-26T18:00:00Z"
+    }
+  },
+  "S3iHNwRyVBE": {
+    "snippet": {
+      "publishedAt": "2024-05-26T13:25:37Z",
+      "channelId": "UCiaAJfdkrwuDjWiQjYZWpXw",
+      "title": "\u3010Cult Of The Lamb!\u3011Bringing back my CULT! [BATSU WHEEL per DEATH] [HIGHEST DIFFICULTY]\u3010PixelLink\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-27T17:58:55Z",
+      "actualEndTime": "2024-05-27T20:20:46Z",
+      "scheduledStartTime": "2024-05-27T18:00:00Z"
+    }
+  },
+  "FObj0e1kDuo": {
+    "snippet": {
+      "publishedAt": "2024-05-27T21:10:03Z",
+      "channelId": "UCiaAJfdkrwuDjWiQjYZWpXw",
+      "title": "\u3010Viewer Submissions!\u3011Princess Reviews Citizenship Requests!!\u3010PixelLink\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-01T17:58:41Z",
+      "actualEndTime": "2024-06-01T19:59:59Z",
+      "scheduledStartTime": "2024-06-01T18:00:00Z"
+    }
+  },
+  "vv6HUFDfZ10": {
+    "snippet": {
+      "publishedAt": "2024-05-27T21:06:45Z",
+      "channelId": "UCiaAJfdkrwuDjWiQjYZWpXw",
+      "title": "\u3010Karaoke!\u3011The Princess\u2019 FIRST Karaoke!!! Singing songs I like!! \u3010PixelLink\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-30T18:01:25Z",
+      "actualEndTime": "2024-05-30T20:46:14Z",
+      "scheduledStartTime": "2024-05-30T18:00:00Z"
+    }
+  },
+  "42M57UbUWeI": {
+    "snippet": {
+      "publishedAt": "2024-05-27T21:02:48Z",
+      "channelId": "UCiaAJfdkrwuDjWiQjYZWpXw",
+      "title": "\u3010Slay The Princess!\u3011I'M THE BETTER PRINCESS!!!\u3010PixelLink\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-29T18:00:29Z",
+      "actualEndTime": "2024-05-29T21:46:30Z",
+      "scheduledStartTime": "2024-05-29T18:00:00Z"
+    }
+  },
+  "DFWtzh0OaBw": {
+    "snippet": {
+      "publishedAt": "2024-05-27T21:12:25Z",
+      "channelId": "UCiaAJfdkrwuDjWiQjYZWpXw",
+      "title": "\u3010Cult Of The Lamb!\u3011CONTINUING to rebuild my CULT! [BATSU WHEEL] [HIGHEST DIFFICULTY]\u3010PixelLink\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-02T18:00:03Z",
+      "actualEndTime": "2024-06-02T21:04:54Z",
+      "scheduledStartTime": "2024-06-02T18:00:00Z"
+    }
+  },
+  "rD5BRP8Ip6E": {
+    "snippet": {
+      "publishedAt": "2024-05-28T21:12:56Z",
+      "channelId": "UCiaAJfdkrwuDjWiQjYZWpXw",
+      "title": "Schedule + Twitter Space Chat!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2026-05-28T21:10:00Z",
+      "activeLiveChatId": "Cg0KC3JENUJSUDhJcDZFKicKGFVDaWFBSmZka3J3dURqV2lRallaV3BYdxILckQ1QlJQOElwNkU"
+    }
+  },
+  "-AXZ8pfzaUw": {
+    "snippet": {
+      "publishedAt": "2024-05-29T00:32:57Z",
+      "channelId": "UCiaAJfdkrwuDjWiQjYZWpXw",
+      "title": "Arisu Oshiro Official Lore\u3010PixelLink\u3011"
+    }
+  },
+  "Tt6lcIu-5XA": {
+    "snippet": {
+      "publishedAt": "2024-06-04T04:12:34Z",
+      "channelId": "UCiaAJfdkrwuDjWiQjYZWpXw",
+      "title": "\u3010Zatsudan!\u3011hiiiiiiii !!!!! talkies with the princess !!\u3010PixelLink\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-04T18:58:41Z",
+      "actualEndTime": "2024-06-04T21:59:35Z",
+      "scheduledStartTime": "2024-06-04T19:00:00Z"
+    }
+  },
+  "LxJDctMibcE": {
+    "snippet": {
+      "publishedAt": "2024-06-04T04:20:33Z",
+      "channelId": "UCiaAJfdkrwuDjWiQjYZWpXw",
+      "title": "\u3010Phasmophobia!\u3011im not scared. im SCARING them !!\u3010PixelLink\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-05T15:58:18Z",
+      "actualEndTime": "2024-06-05T18:41:23Z",
+      "scheduledStartTime": "2024-06-05T16:00:00Z"
+    }
+  },
+  "4l-_nOZ6oto": {
+    "snippet": {
+      "publishedAt": "2024-06-04T04:23:49Z",
+      "channelId": "UCiaAJfdkrwuDjWiQjYZWpXw",
+      "title": "\u3010Minecraft\u3011Craftin and Mining with EVERYONE !!!\u3010PixelLink\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-09T15:59:53Z",
+      "actualEndTime": "2024-06-09T20:04:40Z",
+      "scheduledStartTime": "2024-06-09T16:00:00Z"
+    }
+  },
+  "8cXoFRRI5sM": {
+    "snippet": {
+      "publishedAt": "2024-06-04T04:22:27Z",
+      "channelId": "UCiaAJfdkrwuDjWiQjYZWpXw",
+      "title": "\u3010MEMBERSHIPS\u3011Members are open!!! Celebration time!!!\u3010PixelLink\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-08T18:57:14Z",
+      "actualEndTime": "2024-06-08T21:39:42Z",
+      "scheduledStartTime": "2024-06-08T19:00:00Z"
+    }
+  },
+  "2EZhnPFWocA": {
+    "snippet": {
+      "publishedAt": "2024-06-04T04:21:23Z",
+      "channelId": "UCiaAJfdkrwuDjWiQjYZWpXw",
+      "title": "\u3010Slay The Spire\u3011I LOVE THIS GAME!!!!!\u3010PixelLink\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-06T18:58:07Z",
+      "actualEndTime": "2024-06-06T22:29:31Z",
+      "scheduledStartTime": "2024-06-06T19:00:00Z"
+    }
+  },
+  "Lh2W6ucqOL4": {
+    "snippet": {
+      "publishedAt": "2024-06-05T22:09:57Z",
+      "channelId": "UCiaAJfdkrwuDjWiQjYZWpXw",
+      "title": "Vtuber Gets EMOTIONAL DAMAGE #vtuber #vtuberclips #cultofthelamb #streamclips"
+    }
+  },
+  "Snj3pLQ6-5I": {
+    "snippet": {
+      "publishedAt": "2024-06-09T21:37:21Z",
+      "channelId": "UCiaAJfdkrwuDjWiQjYZWpXw",
+      "title": "This Vtuber is VERY BRAVE! #vtuber #envtuberclip #phasmophobia #streamclips #funnyvtuberclips"
+    }
+  },
+  "RN-au4irEUc": {
+    "snippet": {
+      "publishedAt": "2024-06-12T03:50:11Z",
+      "channelId": "UCiaAJfdkrwuDjWiQjYZWpXw",
+      "title": "\u3010Slay The Princess Pt. 2\u3011GOTTA CATCH THEM ALL (the princesses)\u3010PixelLink\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-12T18:58:00Z",
+      "actualEndTime": "2024-06-12T22:02:36Z",
+      "scheduledStartTime": "2024-06-12T19:00:00Z"
+    }
+  },
+  "GowObKb-KtI": {
+    "snippet": {
+      "publishedAt": "2024-06-12T03:57:44Z",
+      "channelId": "UCiaAJfdkrwuDjWiQjYZWpXw",
+      "title": "\u3010KOUHAI KARAOKE RELAY\u3011My first Karaoke Relay!\u3010PixelLink\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-15T20:55:00Z",
+      "activeLiveChatId": "Cg0KC0dvd09iS2ItS3RJKicKGFVDaWFBSmZka3J3dURqV2lRallaV3BYdxILR293T2JLYi1LdEk"
+    }
+  },
+  "ZzhMFcvEh9g": {
+    "snippet": {
+      "publishedAt": "2024-06-12T03:53:08Z",
+      "channelId": "UCiaAJfdkrwuDjWiQjYZWpXw",
+      "title": "\u3010IT TAKES TWO\u3011DIVORCING CHIO CHOMPI STREAM! Ft. @ChioChompi \u3010PixelLink\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-14T17:00:00Z",
+      "activeLiveChatId": "Cg0KC1p6aE1GY3ZFaDlnKicKGFVDaWFBSmZka3J3dURqV2lRallaV3BYdxILWnpoTUZjdkVoOWc"
+    }
+  },
+  "28_H6xO6EWQ": {
+    "snippet": {
+      "publishedAt": "2024-06-12T03:51:24Z",
+      "channelId": "UCiaAJfdkrwuDjWiQjYZWpXw",
+      "title": "\u3010ART\u3011Doodly Time!! Doodling PixelLink~!\u3010PixelLink\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-13T18:56:48Z",
+      "actualEndTime": "2024-06-13T22:10:13Z",
+      "scheduledStartTime": "2024-06-13T19:00:00Z"
+    }
+  },
+  "3NeaB08ggHQ": {
+    "snippet": {
+      "publishedAt": "2024-06-13T23:47:27Z",
+      "channelId": "UCiaAJfdkrwuDjWiQjYZWpXw",
+      "title": "Vtuber Commits MURDER #vtuber #envtuberclip #minecraft #Smolwisu"
     }
   }
 }

@@ -217,8 +217,107 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-05-23T02:01:50Z",
-      "scheduledStartTime": "2024-05-23T02:00:00Z",
-      "activeLiveChatId": "Cg0KC1R5Q3JCc2pHYUxrKicKGFVDN1RDQ3R2ckV1OHFfUzVPdFJKaC1hURILVHlDckJzakdhTGs"
+      "actualEndTime": "2024-05-23T05:43:00Z",
+      "scheduledStartTime": "2024-05-23T02:00:00Z"
+    }
+  },
+  "Sv8MH4msLyU": {
+    "snippet": {
+      "publishedAt": "2024-05-26T14:09:59Z",
+      "channelId": "UC7TCCtvrEu8q_S5OtRJh-aQ",
+      "title": "\u3010HOLO NO SUIKA\u3011GET TWO WATAMELON AI WIN BEEG!\u3010Ai Shinju\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-26T18:03:55Z",
+      "actualEndTime": "2024-05-26T20:30:52Z",
+      "scheduledStartTime": "2024-05-26T18:00:00Z"
+    }
+  },
+  "SFUA5aZ2vAk": {
+    "snippet": {
+      "publishedAt": "2024-05-29T13:39:43Z",
+      "channelId": "UC7TCCtvrEu8q_S5OtRJh-aQ",
+      "title": "\u3010REVERSE 1999\u3011AI AM EXCITED FOR 1.6\u3010Ai Shinju\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-30T14:04:25Z",
+      "actualEndTime": "2024-05-30T16:02:11Z",
+      "scheduledStartTime": "2024-05-30T14:00:00Z"
+    }
+  },
+  "CfQiGbMmzOQ": {
+    "snippet": {
+      "publishedAt": "2024-05-30T13:04:56Z",
+      "channelId": "UC7TCCtvrEu8q_S5OtRJh-aQ",
+      "title": "Attention babes, debut highlights ;) #vtuberen  #vtuber  #shorts"
+    }
+  },
+  "faXBosehZBs": {
+    "snippet": {
+      "publishedAt": "2024-06-05T11:42:11Z",
+      "channelId": "UC7TCCtvrEu8q_S5OtRJh-aQ",
+      "title": "\u3010HONKAI STAR RAIL\u3011AI GRINDING FOR FIREFLY FUNDS\u3010Ai Shinju\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-05T13:52:15Z",
+      "actualEndTime": "2024-06-05T17:06:46Z",
+      "scheduledStartTime": "2024-06-05T14:00:00Z"
+    }
+  },
+  "pjO4k_QswiQ": {
+    "snippet": {
+      "publishedAt": "2024-06-06T15:43:10Z",
+      "channelId": "UC7TCCtvrEu8q_S5OtRJh-aQ",
+      "title": "\u3010ZATSUDAN\u3011AI'S FIRST ZATSUDAN 2024\u3010Ai Shinju\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-06T18:01:32Z",
+      "actualEndTime": "2024-06-06T19:58:56Z",
+      "scheduledStartTime": "2024-06-06T18:00:00Z",
+      "activeLiveChatId": "Cg0KC3BqTzRrX1Fzd2lRKicKGFVDN1RDQ3R2ckV1OHFfUzVPdFJKaC1hURILcGpPNGtfUXN3aVE"
+    }
+  },
+  "0TNGKXceZLE": {
+    "snippet": {
+      "publishedAt": "2024-06-08T16:48:51Z",
+      "channelId": "UC7TCCtvrEu8q_S5OtRJh-aQ",
+      "title": "\u3010IT TAKES TWO\u3011AI ONE TWO TAKE  @CadenceNine \u3010Ai Shinju\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-09T00:00:08Z",
+      "actualEndTime": "2024-06-09T04:33:42Z",
+      "scheduledStartTime": "2024-06-09T00:00:00Z"
+    }
+  },
+  "AdYAxqAdduk": {
+    "snippet": {
+      "publishedAt": "2024-06-09T13:00:44Z",
+      "channelId": "UC7TCCtvrEu8q_S5OtRJh-aQ",
+      "title": "Fave vtuber tea? #debut #vtuber #chagee"
+    }
+  },
+  "nIY5UeajPJI": {
+    "snippet": {
+      "publishedAt": "2024-06-09T17:46:56Z",
+      "channelId": "UC7TCCtvrEu8q_S5OtRJh-aQ",
+      "title": "\u3010IT TAKES TWO\u3011AI STILL TAKE TWO @CadenceNine \u3010Ai Shinju\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-10T00:16:05Z",
+      "actualEndTime": "2024-06-10T03:50:31Z",
+      "scheduledStartTime": "2024-06-10T00:15:00Z"
+    }
+  },
+  "cajnRPq9FhQ": {
+    "snippet": {
+      "publishedAt": "2024-06-12T04:26:01Z",
+      "channelId": "UC7TCCtvrEu8q_S5OtRJh-aQ",
+      "title": "\u3010WUTHERING WAVES\u3011AI HANG OUT WIF YINLIN \u3010Ai Shinju\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-12T13:58:46Z",
+      "actualEndTime": "2024-06-12T17:19:47Z",
+      "scheduledStartTime": "2024-06-12T14:00:00Z"
     }
   }
 }

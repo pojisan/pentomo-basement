@@ -2908,8 +2908,9 @@
       "title": "I write the next anime of the season!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-25T01:00:00Z",
-      "activeLiveChatId": "Cg0KCzNJc09sWkc5YVhjKicKGFVDLTFfLWpVdS1sQUxkR245LU1kQko0URILM0lzT2xaRzlhWGM"
+      "actualStartTime": "2024-05-25T00:59:52Z",
+      "actualEndTime": "2024-05-25T03:32:52Z",
+      "scheduledStartTime": "2024-05-25T01:00:00Z"
     }
   },
   "yIHyo3LkyMQ": {
@@ -3060,8 +3061,237 @@
       "title": "Hacker & Wolf complete secret missions! \u3010Operation: Tango\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-24T01:00:00Z",
-      "activeLiveChatId": "Cg0KC3ZoVldscUFZeF9RKicKGFVDLTFfLWpVdS1sQUxkR245LU1kQko0URILdmhWV2xxQVl4X1E"
+      "actualStartTime": "2024-05-24T01:01:56Z",
+      "actualEndTime": "2024-05-24T06:00:42Z",
+      "scheduledStartTime": "2024-05-24T01:00:00Z"
+    }
+  },
+  "Dimkq918XDs": {
+    "snippet": {
+      "publishedAt": "2024-05-23T04:09:30Z",
+      "channelId": "UC-1_-jUu-lALdGn9-MdBJ4Q",
+      "title": "No sleep till we win!\u3010Resident Evil 4 Remake\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-23T04:27:12Z",
+      "actualEndTime": "2024-05-23T09:17:55Z",
+      "scheduledStartTime": "2024-05-23T04:30:00Z"
+    }
+  },
+  "o53Fq0A1cgE": {
+    "snippet": {
+      "publishedAt": "2024-05-27T00:07:49Z",
+      "channelId": "UC-1_-jUu-lALdGn9-MdBJ4Q",
+      "title": "Let's master the sword! \u3010Ghost of Tsushima\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-28T00:00:20Z",
+      "actualEndTime": "2024-05-28T04:51:36Z",
+      "scheduledStartTime": "2024-05-28T00:00:00Z"
+    }
+  },
+  "wCnbjzCHclQ": {
+    "snippet": {
+      "publishedAt": "2024-05-27T05:22:21Z",
+      "channelId": "UC-1_-jUu-lALdGn9-MdBJ4Q",
+      "title": "Mind Minigames? Mind Minigames!\u3010Psychonauts 2\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-29T00:11:40Z",
+      "actualEndTime": "2024-05-29T07:00:53Z",
+      "scheduledStartTime": "2024-05-29T00:00:00Z"
+    }
+  },
+  "PF4geSu5YqA": {
+    "snippet": {
+      "publishedAt": "2024-05-28T05:55:43Z",
+      "channelId": "UC-1_-jUu-lALdGn9-MdBJ4Q",
+      "title": "Turning PixelLink into Animal Crossing Characters! \u3010PixelChronicle Edition\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-01T01:00:13Z",
+      "actualEndTime": "2024-06-01T06:45:30Z",
+      "scheduledStartTime": "2024-06-01T01:00:00Z"
+    }
+  },
+  "9767kWnP67s": {
+    "snippet": {
+      "publishedAt": "2024-05-28T05:52:37Z",
+      "channelId": "UC-1_-jUu-lALdGn9-MdBJ4Q",
+      "title": "New enemy spotted?\u3010Mato Anomalies\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-31T01:00:44Z",
+      "actualEndTime": "2024-05-31T06:00:12Z",
+      "scheduledStartTime": "2024-05-31T01:00:00Z"
+    }
+  },
+  "urQlTQHTqdc": {
+    "snippet": {
+      "publishedAt": "2024-06-02T20:48:09Z",
+      "channelId": "UC-1_-jUu-lALdGn9-MdBJ4Q",
+      "title": "Let's meet new allies!\u3010Ghost of Tsushima\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-03T22:59:57Z",
+      "actualEndTime": "2024-06-04T04:30:19Z",
+      "scheduledStartTime": "2024-06-03T23:00:00Z"
+    }
+  },
+  "E39iCuCJdZ8": {
+    "snippet": {
+      "publishedAt": "2024-06-02T21:33:04Z",
+      "channelId": "UC-1_-jUu-lALdGn9-MdBJ4Q",
+      "title": "Luigi to the rescue!\u3010Luigi's Mansion 3\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-07T01:00:00Z",
+      "actualEndTime": "2024-06-07T06:10:37Z",
+      "scheduledStartTime": "2024-06-07T01:00:00Z"
+    }
+  },
+  "hKENHiysdds": {
+    "snippet": {
+      "publishedAt": "2024-06-02T22:30:22Z",
+      "channelId": "UC-1_-jUu-lALdGn9-MdBJ4Q",
+      "title": "Let's visit the Wild West!\u3010Frog Detective 3\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-08T18:00:11Z",
+      "actualEndTime": "2024-06-08T22:39:40Z",
+      "scheduledStartTime": "2024-06-08T18:00:00Z"
+    }
+  },
+  "etxaVqZeo10": {
+    "snippet": {
+      "publishedAt": "2024-06-02T22:20:23Z",
+      "channelId": "UC-1_-jUu-lALdGn9-MdBJ4Q",
+      "title": "Ranking the TellTale Walking Dead Cast!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-08T01:29:37Z",
+      "actualEndTime": "2024-06-08T06:30:49Z",
+      "scheduledStartTime": "2024-06-08T01:30:00Z"
+    }
+  },
+  "Bt4CuHE_9i8": {
+    "snippet": {
+      "publishedAt": "2024-06-02T23:00:04Z",
+      "channelId": "UC-1_-jUu-lALdGn9-MdBJ4Q",
+      "title": "Is this Vtuber a nerd?"
+    }
+  },
+  "BLgRGzVqNlc": {
+    "snippet": {
+      "publishedAt": "2024-06-02T23:27:09Z",
+      "channelId": "UC-1_-jUu-lALdGn9-MdBJ4Q",
+      "title": "Let's have a comfy chat!\u3010Members Stream\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-09T01:59:57Z",
+      "actualEndTime": "2024-06-09T06:44:06Z",
+      "scheduledStartTime": "2024-06-09T02:00:00Z"
+    }
+  },
+  "CoKIowx51Ow": {
+    "snippet": {
+      "publishedAt": "2024-06-03T00:53:03Z",
+      "channelId": "UC-1_-jUu-lALdGn9-MdBJ4Q",
+      "title": "Friend or Foe?\u3010Mato Anomalies\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-05T00:00:52Z",
+      "actualEndTime": "2024-06-05T04:42:30Z",
+      "scheduledStartTime": "2024-06-05T00:00:00Z"
+    }
+  },
+  "K5z7J8Kn370": {
+    "snippet": {
+      "publishedAt": "2024-06-09T23:00:08Z",
+      "channelId": "UC-1_-jUu-lALdGn9-MdBJ4Q",
+      "title": "It won't stop..."
+    }
+  },
+  "pgJTQ40nNzU": {
+    "snippet": {
+      "publishedAt": "2024-06-09T23:38:13Z",
+      "channelId": "UC-1_-jUu-lALdGn9-MdBJ4Q",
+      "title": "We finally found him!\u3010Ghost of Tsushima\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-10T23:59:48Z",
+      "actualEndTime": "2024-06-11T04:40:25Z",
+      "scheduledStartTime": "2024-06-11T00:00:00Z"
+    }
+  },
+  "Df74KkdNBcY": {
+    "snippet": {
+      "publishedAt": "2024-06-10T00:24:20Z",
+      "channelId": "UC-1_-jUu-lALdGn9-MdBJ4Q",
+      "title": "New Deer Creature?!\u3010Mato Anomalies\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-11T17:00:16Z",
+      "actualEndTime": "2024-06-11T22:58:10Z",
+      "scheduledStartTime": "2024-06-11T17:00:00Z"
+    }
+  },
+  "OZXIKbLwG94": {
+    "snippet": {
+      "publishedAt": "2024-06-10T00:37:00Z",
+      "channelId": "UC-1_-jUu-lALdGn9-MdBJ4Q",
+      "title": "Testing my Typing Skills w/ Typing Games!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-12T01:00:20Z",
+      "actualEndTime": "2024-06-12T04:33:02Z",
+      "scheduledStartTime": "2024-06-12T01:00:00Z"
+    }
+  },
+  "ublvbYYfpqM": {
+    "snippet": {
+      "publishedAt": "2024-06-10T08:01:51Z",
+      "channelId": "UC-1_-jUu-lALdGn9-MdBJ4Q",
+      "title": "Fighting Ghost Mozart?!\u3010Luigi's Mansion 3\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-13T16:59:25Z",
+      "actualEndTime": "2024-06-13T21:34:32Z",
+      "scheduledStartTime": "2024-06-13T17:00:00Z"
+    }
+  },
+  "WcJrP7coCiI": {
+    "snippet": {
+      "publishedAt": "2024-06-10T08:28:59Z",
+      "channelId": "UC-1_-jUu-lALdGn9-MdBJ4Q",
+      "title": "I'm In!\u3010Gunpoint\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-15T18:00:00Z",
+      "activeLiveChatId": "Cg0KC1djSnJQN2NvQ2lJKicKGFVDLTFfLWpVdS1sQUxkR245LU1kQko0URILV2NKclA3Y29DaUk"
+    }
+  },
+  "m0Ea89XT8Bk": {
+    "snippet": {
+      "publishedAt": "2024-06-10T09:15:17Z",
+      "channelId": "UC-1_-jUu-lALdGn9-MdBJ4Q",
+      "title": "Emperor's New Groove Watch-along!\u3010Members Stream\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-16T02:00:00Z",
+      "activeLiveChatId": "Cg0KC20wRWE4OVhUOEJrKicKGFVDLTFfLWpVdS1sQUxkR245LU1kQko0URILbTBFYTg5WFQ4Qms"
+    }
+  },
+  "PICRFvoMc_I": {
+    "snippet": {
+      "publishedAt": "2024-06-12T08:40:32Z",
+      "channelId": "UC-1_-jUu-lALdGn9-MdBJ4Q",
+      "title": "Shadow of the Samurai\u3010Ghost of Tsushima\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-14T01:00:13Z",
+      "scheduledStartTime": "2024-06-14T01:00:00Z",
+      "activeLiveChatId": "Cg0KC1BJQ1JGdm9NY19JKicKGFVDLTFfLWpVdS1sQUxkR245LU1kQko0URILUElDUkZ2b01jX0k"
     }
   }
 }

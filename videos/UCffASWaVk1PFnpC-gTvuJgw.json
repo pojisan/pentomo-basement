@@ -545,11 +545,47 @@
     "snippet": {
       "publishedAt": "2024-05-20T17:23:10Z",
       "channelId": "UCffASWaVk1PFnpC-gTvuJgw",
-      "title": "Let's Zatsu & Maro\u3010 Vee Sensei | V4Mirai \u3011"
+      "title": "Let's Zatsu & Maro with a VTuber Talent Manager\u3010 Vee Sensei | V4Mirai \u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-24T18:00:00Z",
-      "activeLiveChatId": "Cg0KC2haYWw3VjNYczVRKicKGFVDZmZBU1dhVmsxUEZucEMtZ1R2dUpndxILaFphbDdWM1hzNVE"
+      "actualStartTime": "2024-05-24T18:00:32Z",
+      "actualEndTime": "2024-05-24T21:03:22Z",
+      "scheduledStartTime": "2024-05-24T18:00:00Z"
+    }
+  },
+  "uuNzAsMJ_P4": {
+    "snippet": {
+      "publishedAt": "2024-06-06T22:31:28Z",
+      "channelId": "UCffASWaVk1PFnpC-gTvuJgw",
+      "title": "Let's Zatsu & V4MMD\u3010 Vee Sensei | V4Mirai \u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-07T18:06:17Z",
+      "actualEndTime": "2024-06-07T20:19:16Z",
+      "scheduledStartTime": "2024-06-07T18:00:00Z"
+    }
+  },
+  "tDrM0WZMbns": {
+    "snippet": {
+      "publishedAt": "2024-06-08T15:45:04Z",
+      "channelId": "UCffASWaVk1PFnpC-gTvuJgw",
+      "title": "\ud83d\udd38 idol x V4Mirai OffKair4oke Concert Watchalong! \ud83d\udd39"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-08T22:35:16Z",
+      "actualEndTime": "2024-06-09T00:33:04Z",
+      "scheduledStartTime": "2024-06-08T22:30:00Z"
+    }
+  },
+  "LwE_UMFgMn8": {
+    "snippet": {
+      "publishedAt": "2024-06-13T16:43:20Z",
+      "channelId": "UCffASWaVk1PFnpC-gTvuJgw",
+      "title": "Drawing V4Mirai as Frozen Treats\u3010 Vee Sensei | V4Mirai \u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-14T18:00:00Z",
+      "activeLiveChatId": "Cg0KC0x3RV9VTUZnTW44KicKGFVDZmZBU1dhVmsxUEZucEMtZ1R2dUpndxILTHdFX1VNRmdNbjg"
     }
   }
 }

@@ -2534,8 +2534,9 @@
       "title": "\u3010Tales of Symphonia\u3011 Flanoir Scenes + Story Progression! \u3010Yuno Hanaki\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-23T20:00:00Z",
-      "activeLiveChatId": "Cg0KC1FMaUx5WHFuaElZKicKGFVDWmw5MndNaXBqWUZjMVVsbTlZeTY1ZxILUUxpTHlYcW5oSVk"
+      "actualStartTime": "2024-05-23T20:14:21Z",
+      "actualEndTime": "2024-05-23T22:25:12Z",
+      "scheduledStartTime": "2024-05-23T20:15:00Z"
     }
   },
   "40YGg3WOV2E": {
@@ -2545,8 +2546,9 @@
       "title": "\u3010Fictitious Friday\u3011 Onigashima Worldbuilding...?! \u3010Yuno Hanaki\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-24T12:00:00Z",
-      "activeLiveChatId": "Cg0KCzQwWUdnM1dPVjJFKicKGFVDWmw5MndNaXBqWUZjMVVsbTlZeTY1ZxILNDBZR2czV09WMkU"
+      "actualStartTime": "2024-05-24T12:00:43Z",
+      "actualEndTime": "2024-05-24T15:09:10Z",
+      "scheduledStartTime": "2024-05-24T12:00:00Z"
     }
   },
   "8WZv9D4LfDg": {
@@ -2580,6 +2582,8 @@
       "title": "\u3010Members Only\u3011 recording new alerts! \u3010Yuno Hanaki\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-05-26T00:01:39Z",
+      "actualEndTime": "2024-05-26T02:09:06Z",
       "scheduledStartTime": "2024-05-26T00:00:00Z",
       "activeLiveChatId": "Cg0KC3JNYmJxZXE5S1VzKicKGFVDWmw5MndNaXBqWUZjMVVsbTlZeTY1ZxILck1iYnFlcTlLVXM"
     }
@@ -2591,19 +2595,322 @@
       "title": "\u3010Morning Work\u3011 more work to do...more skrips to script \u3010Yuno Hanaki\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-25T12:00:00Z",
-      "activeLiveChatId": "Cg0KC1dwa3E0aU1CWHNBKicKGFVDWmw5MndNaXBqWUZjMVVsbTlZeTY1ZxILV3BrcTRpTUJYc0E"
+      "actualStartTime": "2024-05-25T12:00:21Z",
+      "actualEndTime": "2024-05-25T14:04:16Z",
+      "scheduledStartTime": "2024-05-25T12:00:00Z"
     }
   },
   "qL5_IHBOHpM": {
     "snippet": {
       "publishedAt": "2024-05-21T14:14:13Z",
       "channelId": "UCZl92wMipjYFc1Ulm9Yy65g",
-      "title": "\u3010Roleplay Stream\u3011 POV: An Oni is Lost in IKEA?!\u3010Yuno Hanaki\u3011"
+      "title": "\u3010Roleplay Stream\u3011 POV: An Oni is Lost in IKEA?!\u3010Yuno Hanaki\u3011",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-24T20:00:00Z",
       "activeLiveChatId": "Cg0KC3FMNV9JSEJPSHBNKicKGFVDWmw5MndNaXBqWUZjMVVsbTlZeTY1ZxILcUw1X0lIQk9IcE0"
+    }
+  },
+  "iMIexRZVY58": {
+    "snippet": {
+      "publishedAt": "2024-05-26T16:59:42Z",
+      "channelId": "UCZl92wMipjYFc1Ulm9Yy65g",
+      "title": "\u3010Roleplay | F4A\u3011 Oni Lost in an IKEA?! \u3010Yuno Hanaki\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-26T20:02:54Z",
+      "actualEndTime": "2024-05-26T20:32:52Z",
+      "scheduledStartTime": "2024-05-26T20:00:00Z"
+    }
+  },
+  "cRJ7h81T0lI": {
+    "snippet": {
+      "publishedAt": "2024-05-27T03:30:09Z",
+      "channelId": "UCZl92wMipjYFc1Ulm9Yy65g",
+      "title": "\u3010Another Crab's Treasure\u3011 just woke up time to fight crabs \u3010Yuno Hanaki\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-27T12:02:29Z",
+      "actualEndTime": "2024-05-27T15:01:03Z",
+      "scheduledStartTime": "2024-05-27T12:00:00Z"
+    }
+  },
+  "n2d8x5TVSYs": {
+    "snippet": {
+      "publishedAt": "2024-05-27T03:31:58Z",
+      "channelId": "UCZl92wMipjYFc1Ulm9Yy65g",
+      "title": "\u3010OniMon #28\u3011 WHAT TIME IS IT? SUMMERTIME!!\u3010Yuno Hanaki\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-27T20:31:23Z",
+      "actualEndTime": "2024-05-27T22:40:01Z",
+      "scheduledStartTime": "2024-05-27T20:00:00Z"
+    }
+  },
+  "lSpg4FBwOcY": {
+    "snippet": {
+      "publishedAt": "2024-05-28T21:51:20Z",
+      "channelId": "UCZl92wMipjYFc1Ulm9Yy65g",
+      "title": "\u3010VERTICAL KARAOKE\u3011 an oni that is singing #shortslive #shorts \u3010Yuno Hanaki\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-29T00:03:15Z",
+      "actualEndTime": "2024-05-29T03:28:40Z",
+      "scheduledStartTime": "2024-05-29T00:00:00Z"
+    }
+  },
+  "b7rEZqz9e28": {
+    "snippet": {
+      "publishedAt": "2024-05-29T09:55:51Z",
+      "channelId": "UCZl92wMipjYFc1Ulm9Yy65g",
+      "title": "\u3010Viewfinder\u3011 \ud83d\udcf8 PUZZLES CAUGHT IN 4K \ud83d\udcf8  \u3010Yuno Hanaki\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-29T10:31:06Z",
+      "actualEndTime": "2024-05-29T12:49:20Z",
+      "scheduledStartTime": "2024-05-29T10:30:00Z"
+    }
+  },
+  "cowSxG8B_RQ": {
+    "snippet": {
+      "publishedAt": "2024-05-30T10:49:57Z",
+      "channelId": "UCZl92wMipjYFc1Ulm9Yy65g",
+      "title": "\u3010Tales of Symphonia FINALE ENDURANCE\u3011 REUNITING THE TWO WORLDS! \u3010Yuno Hanaki\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-30T16:00:24Z",
+      "actualEndTime": "2024-05-30T22:31:58Z",
+      "scheduledStartTime": "2024-05-30T16:00:00Z"
+    }
+  },
+  "Aa5UclGbANQ": {
+    "snippet": {
+      "publishedAt": "2024-05-31T03:36:59Z",
+      "channelId": "UCZl92wMipjYFc1Ulm9Yy65g",
+      "title": "\u3010Bunny Garden\u3011 miuka...swimsuit... \u3010Yuno Hanaki\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-01T01:06:39Z",
+      "actualEndTime": "2024-06-01T04:51:25Z",
+      "scheduledStartTime": "2024-06-01T01:00:00Z"
+    }
+  },
+  "h9Ewf18N37g": {
+    "snippet": {
+      "publishedAt": "2024-05-31T03:34:11Z",
+      "channelId": "UCZl92wMipjYFc1Ulm9Yy65g",
+      "title": "\u3010Fictitious Friday\u3011 How much LORE should you prepare? \u3010Yuno Hanaki\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-31T12:01:58Z",
+      "actualEndTime": "2024-05-31T14:14:00Z",
+      "scheduledStartTime": "2024-05-31T12:00:00Z"
+    }
+  },
+  "UBq-Om6L8eE": {
+    "snippet": {
+      "publishedAt": "2024-06-01T08:59:38Z",
+      "channelId": "UCZl92wMipjYFc1Ulm9Yy65g",
+      "title": "\u3010Members Only\u3011 gaming oriented zatsu oops\u3010Yuno Hanaki\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-02T00:06:06Z",
+      "actualEndTime": "2024-06-02T02:16:13Z",
+      "scheduledStartTime": "2024-06-02T00:00:00Z",
+      "activeLiveChatId": "Cg0KC1VCcS1PbTZMOGVFKicKGFVDWmw5MndNaXBqWUZjMVVsbTlZeTY1ZxILVUJxLU9tNkw4ZUU"
+    }
+  },
+  "dJ2SDMuXu2s": {
+    "snippet": {
+      "publishedAt": "2024-06-01T08:57:57Z",
+      "channelId": "UCZl92wMipjYFc1Ulm9Yy65g",
+      "title": "\u3010VERTICAL MORNING CHAT\u3011 VTuber says good morning to YOU #shortslive #shorts \u3010Yuno Hanaki\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-01T12:00:29Z",
+      "actualEndTime": "2024-06-01T14:05:26Z",
+      "scheduledStartTime": "2024-06-01T12:00:00Z"
+    }
+  },
+  "ykE2NHVbydQ": {
+    "snippet": {
+      "publishedAt": "2024-06-03T12:56:32Z",
+      "channelId": "UCZl92wMipjYFc1Ulm9Yy65g",
+      "title": "\u3010OniMon #29\u3011 Defining a \"wholesome\" game!\u3010Yuno Hanaki\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-03T20:05:01Z",
+      "actualEndTime": "2024-06-03T22:16:41Z",
+      "scheduledStartTime": "2024-06-03T20:00:00Z"
+    }
+  },
+  "3tXNCCrXlqQ": {
+    "snippet": {
+      "publishedAt": "2024-06-04T16:35:08Z",
+      "channelId": "UCZl92wMipjYFc1Ulm9Yy65g",
+      "title": "\u3010VERTICAL CHAT\u3011 thighs?? on stream?? #shortslive #shorts \u3010Yuno Hanaki\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-05T00:10:39Z",
+      "actualEndTime": "2024-06-05T02:03:29Z",
+      "scheduledStartTime": "2024-06-05T00:00:00Z"
+    }
+  },
+  "yTFMhZ9KnN0": {
+    "snippet": {
+      "publishedAt": "2024-06-05T01:23:28Z",
+      "channelId": "UCZl92wMipjYFc1Ulm9Yy65g",
+      "title": "\u3010Loddlenaut\u3011 venturing further into the deep sea... \u3010Yuno Hanaki\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-05T10:02:55Z",
+      "actualEndTime": "2024-06-05T12:18:29Z",
+      "scheduledStartTime": "2024-06-05T10:00:00Z"
+    }
+  },
+  "xRVHzUyb3w8": {
+    "snippet": {
+      "publishedAt": "2024-06-06T15:57:05Z",
+      "channelId": "UCZl92wMipjYFc1Ulm9Yy65g",
+      "title": "\u3010Work with Me\u3011 doing various things (+announcement!) \u3010Yuno Hanaki\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-06T20:05:46Z",
+      "actualEndTime": "2024-06-06T22:12:20Z",
+      "scheduledStartTime": "2024-06-06T20:00:00Z"
+    }
+  },
+  "zAvbEG27qEU": {
+    "snippet": {
+      "publishedAt": "2024-06-07T04:37:37Z",
+      "channelId": "UCZl92wMipjYFc1Ulm9Yy65g",
+      "title": "\u3010Members Only\u3011 Chatting w/ Cookies before Lua's Birthday Live!\u3010Yuno Hanaki\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-09T00:02:59Z",
+      "actualEndTime": "2024-06-09T03:00:29Z",
+      "scheduledStartTime": "2024-06-09T00:00:00Z",
+      "activeLiveChatId": "Cg0KC3pBdmJFRzI3cUVVKicKGFVDWmw5MndNaXBqWUZjMVVsbTlZeTY1ZxILekF2YkVHMjdxRVU"
+    }
+  },
+  "oacr_o2zmBM": {
+    "snippet": {
+      "publishedAt": "2024-06-07T04:36:17Z",
+      "channelId": "UCZl92wMipjYFc1Ulm9Yy65g",
+      "title": "\u3010WHOLESOME DIRECT\u3011 DISCOVER CUTE GAMES WITH KAWAII VTUBER! \u3010Yuno Hanaki\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-08T15:49:35Z",
+      "actualEndTime": "2024-06-08T17:28:54Z",
+      "scheduledStartTime": "2024-06-08T15:45:00Z"
+    }
+  },
+  "jotc_nuLUVY": {
+    "snippet": {
+      "publishedAt": "2024-06-07T04:33:55Z",
+      "channelId": "UCZl92wMipjYFc1Ulm9Yy65g",
+      "title": "\u3010Bunny Garden\u3011 getting a job at bunny garden for miuka \u3010Yuno Hanaki\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-08T00:03:42Z",
+      "actualEndTime": "2024-06-08T02:12:36Z",
+      "scheduledStartTime": "2024-06-08T00:00:00Z"
+    }
+  },
+  "IJbSkPNXFBI": {
+    "snippet": {
+      "publishedAt": "2024-06-07T04:30:46Z",
+      "channelId": "UCZl92wMipjYFc1Ulm9Yy65g",
+      "title": "\u3010Fictitious Friday\u3011 FANTASY or REALISM?! Let's Compare! \u3010Yuno Hanaki\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-07T12:04:49Z",
+      "actualEndTime": "2024-06-07T14:08:08Z",
+      "scheduledStartTime": "2024-06-07T12:00:00Z"
+    }
+  },
+  "Sx2iHbs3xEQ": {
+    "snippet": {
+      "publishedAt": "2024-06-09T16:03:14Z",
+      "channelId": "UCZl92wMipjYFc1Ulm9Yy65g",
+      "title": "\u3010$1 = 1 Sentence\u3011 Continuing the Story?! \u3010Yuno Hanaki\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-09T23:07:03Z",
+      "actualEndTime": "2024-06-10T02:49:12Z",
+      "scheduledStartTime": "2024-06-09T23:00:00Z"
+    }
+  },
+  "W2rg_1Ons1w": {
+    "snippet": {
+      "publishedAt": "2024-06-10T19:06:36Z",
+      "channelId": "UCZl92wMipjYFc1Ulm9Yy65g",
+      "title": "\u3010OniMon #30\u3011 weird \"food\" products?!\u3010Yuno Hanaki\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-10T23:02:37Z",
+      "actualEndTime": "2024-06-11T02:10:20Z",
+      "scheduledStartTime": "2024-06-10T23:00:00Z"
+    }
+  },
+  "5PXL_NpLeO0": {
+    "snippet": {
+      "publishedAt": "2024-06-11T14:50:17Z",
+      "channelId": "UCZl92wMipjYFc1Ulm9Yy65g",
+      "title": "\u3010Who's That Otome LI?!\u3011 WRONG ANSWERS ONLY: Amnesia Edition! \u3010Yuno Hanaki\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-12T23:06:11Z",
+      "actualEndTime": "2024-06-13T01:30:52Z",
+      "scheduledStartTime": "2024-06-12T23:00:00Z"
+    }
+  },
+  "jFUglugQonE": {
+    "snippet": {
+      "publishedAt": "2024-06-11T14:47:19Z",
+      "channelId": "UCZl92wMipjYFc1Ulm9Yy65g",
+      "title": "\u3010VERTICAL VOICE ACTING\u3011 $5 REQUESTS!! #shortslive #shorts \u3010Yuno Hanaki\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-11T23:03:11Z",
+      "actualEndTime": "2024-06-12T01:47:40Z",
+      "scheduledStartTime": "2024-06-11T23:00:00Z"
+    }
+  },
+  "HHCX_Hs7dLI": {
+    "snippet": {
+      "publishedAt": "2024-06-11T14:55:50Z",
+      "channelId": "UCZl92wMipjYFc1Ulm9Yy65g",
+      "title": "\u3010Members Only\u3011 My Oni Girl watchalong! Is this about me?!\u3010Yuno Hanaki\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-15T23:00:00Z",
+      "activeLiveChatId": "Cg0KC0hIQ1hfSHM3ZExJKicKGFVDWmw5MndNaXBqWUZjMVVsbTlZeTY1ZxILSEhDWF9IczdkTEk"
+    }
+  },
+  "OAoZbdo1_z8": {
+    "snippet": {
+      "publishedAt": "2024-06-11T14:54:17Z",
+      "channelId": "UCZl92wMipjYFc1Ulm9Yy65g",
+      "title": "\u3010Fictitious Friday\u3011 How do you balance tone? \u3010Yuno Hanaki\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-14T23:00:00Z",
+      "activeLiveChatId": "Cg0KC09Bb1piZG8xX3o4KicKGFVDWmw5MndNaXBqWUZjMVVsbTlZeTY1ZxILT0FvWmJkbzFfejg"
+    }
+  },
+  "Tvwa_3EBsWk": {
+    "snippet": {
+      "publishedAt": "2024-06-11T14:52:03Z",
+      "channelId": "UCZl92wMipjYFc1Ulm9Yy65g",
+      "title": "\u3010GIRLS ONLY\u3011 girls and women NO BOYS let's chat!! #shortslive #shorts \u3010Yuno Hanaki\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-13T23:01:45Z",
+      "actualEndTime": "2024-06-14T02:20:09Z",
+      "scheduledStartTime": "2024-06-13T23:00:00Z",
+      "activeLiveChatId": "Cg0KC1R2d2FfM0VCc1drKicKGFVDWmw5MndNaXBqWUZjMVVsbTlZeTY1ZxILVHZ3YV8zRUJzV2s"
     }
   }
 }

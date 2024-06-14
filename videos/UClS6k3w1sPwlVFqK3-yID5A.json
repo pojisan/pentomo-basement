@@ -4678,5 +4678,29 @@
       "actualEndTime": "2020-10-16T12:00:07Z",
       "scheduledStartTime": "2020-10-16T11:30:00Z"
     }
+  },
+  "n0JW85YbX_I": {
+    "snippet": {
+      "publishedAt": "2024-06-01T04:37:21Z",
+      "channelId": "UClS6k3w1sPwlVFqK3-yID5A",
+      "title": "ryu\u3060\u3088"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-01T06:04:13Z",
+      "actualEndTime": "2024-06-01T08:03:15Z",
+      "scheduledStartTime": "2024-06-01T06:00:00Z"
+    }
+  },
+  "k3_mExI4eq8": {
+    "snippet": {
+      "publishedAt": "2024-06-09T16:15:17Z",
+      "channelId": "UClS6k3w1sPwlVFqK3-yID5A",
+      "title": "\u660e\u65e5\u306f\u6708\u66dc\u65e5\u3001ryu\u306f\u8ab2\u984c"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-09T14:08:43Z",
+      "actualEndTime": "2024-06-09T16:09:50Z",
+      "scheduledStartTime": "2024-06-09T14:00:00Z"
+    }
   }
 }

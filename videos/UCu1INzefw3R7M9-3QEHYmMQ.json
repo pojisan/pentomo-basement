@@ -23810,8 +23810,9 @@
       "title": "SUPER Comfy Animal Crossing With You! \ud83d\ude33\u2764\ufe0f"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-23T15:00:00Z",
-      "activeLiveChatId": "Cg0KC1E3MVBjOGV5QjJNKicKGFVDdTFJTnplZnczUjdNOS0zUUVIWW1NURILUTcxUGM4ZXlCMk0"
+      "actualStartTime": "2024-05-23T15:20:47Z",
+      "actualEndTime": "2024-05-23T20:58:45Z",
+      "scheduledStartTime": "2024-05-23T15:00:00Z"
     }
   },
   "kecFTxUn4kQ": {
@@ -23833,8 +23834,9 @@
       "title": "FIRST TIME Dragon Age: Origins On Stream!!!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-25T15:00:00Z",
-      "activeLiveChatId": "Cg0KC2dIcEwtOFUtZzUwKicKGFVDdTFJTnplZnczUjdNOS0zUUVIWW1NURILZ0hwTC04VS1nNTA"
+      "actualStartTime": "2024-05-25T15:05:45Z",
+      "actualEndTime": "2024-05-25T20:11:22Z",
+      "scheduledStartTime": "2024-05-25T15:00:00Z"
     }
   },
   "1eIN0xuh-58": {
@@ -23844,15 +23846,17 @@
       "title": "\u3010ASMR/KU100\u3011Most Immersive Triggers For Instant Sleep!  [Heartbeat/Oil Massage/Whispering/\u6700\u5f37\u306e\u30c8\u30ea\u30ac\u30fc]"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-27T02:30:00Z",
-      "activeLiveChatId": "Cg0KCzFlSU4weHVoLTU4KicKGFVDdTFJTnplZnczUjdNOS0zUUVIWW1NURILMWVJTjB4dWgtNTg"
+      "actualStartTime": "2024-05-27T02:33:20Z",
+      "actualEndTime": "2024-05-27T04:14:35Z",
+      "scheduledStartTime": "2024-05-27T02:30:00Z"
     }
   },
   "GckrTWOiSsE": {
     "snippet": {
       "publishedAt": "2024-05-19T23:22:22Z",
       "channelId": "UCu1INzefw3R7M9-3QEHYmMQ",
-      "title": "\u3010SAYING YOUR NAME\u3011I Say Hello To Everyone Who Comments! #shorts #shortslive"
+      "title": "\u3010SAYING YOUR NAME\u3011I Say Hello To Everyone Who Comments! #shorts #shortslive",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-25T00:00:00Z",
@@ -23864,6 +23868,422 @@
       "publishedAt": "2024-05-21T05:39:10Z",
       "channelId": "UCu1INzefw3R7M9-3QEHYmMQ",
       "title": "COMFIEST VTuber Outfit Reveal"
+    }
+  },
+  "qLZmMhrTGgY": {
+    "snippet": {
+      "publishedAt": "2024-05-24T01:07:29Z",
+      "channelId": "UCu1INzefw3R7M9-3QEHYmMQ",
+      "title": "\u3010NEW VTUBER DEBUT\u3011PixelLink Kanna Yanagi Debut Watchalong! #AD"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-25T20:50:39Z",
+      "actualEndTime": "2024-05-25T22:01:32Z",
+      "scheduledStartTime": "2024-05-25T20:50:00Z"
+    }
+  },
+  "ttWFkL9sUYI": {
+    "snippet": {
+      "publishedAt": "2024-05-24T18:12:25Z",
+      "channelId": "UCu1INzefw3R7M9-3QEHYmMQ",
+      "title": "New Outfit! Can I Go Outside Like This? #shorts #vtuber"
+    }
+  },
+  "kE_FDMlEEi8": {
+    "snippet": {
+      "publishedAt": "2023-03-03T01:17:56Z",
+      "channelId": "UCu1INzefw3R7M9-3QEHYmMQ",
+      "title": "\u3010SAYING YOUR NAME\u3011I Say Hello To Everyone Who Comments! #shorts  #shortslive"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-25T00:02:13Z",
+      "actualEndTime": "2024-05-25T03:04:52Z"
+    }
+  },
+  "Zn4fxsn6Lms": {
+    "snippet": {
+      "publishedAt": "2024-05-26T19:32:30Z",
+      "channelId": "UCu1INzefw3R7M9-3QEHYmMQ",
+      "title": "\u3010VTuber IRL Vlog\u3011Your Date With Anime Waifu at Toyko Disney Sea"
+    }
+  },
+  "P5bhExUydP4": {
+    "snippet": {
+      "publishedAt": "2024-05-26T20:43:30Z",
+      "channelId": "UCu1INzefw3R7M9-3QEHYmMQ",
+      "title": "FIRST TIME BLIGHTTOWN [DARK SOULS: REMASTERED]"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-27T18:01:44Z",
+      "actualEndTime": "2024-05-27T20:40:06Z",
+      "scheduledStartTime": "2024-05-27T18:00:00Z"
+    }
+  },
+  "gtr9j-epgao": {
+    "snippet": {
+      "publishedAt": "2024-05-26T21:32:20Z",
+      "channelId": "UCu1INzefw3R7M9-3QEHYmMQ",
+      "title": "I CAN SAVE HER. [Higurashi Voice Acting Readalong]"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-28T15:01:33Z",
+      "actualEndTime": "2024-05-28T19:32:44Z",
+      "scheduledStartTime": "2024-05-28T15:00:00Z"
+    }
+  },
+  "tuou6P4l2d4": {
+    "snippet": {
+      "publishedAt": "2024-05-26T21:50:34Z",
+      "channelId": "UCu1INzefw3R7M9-3QEHYmMQ",
+      "title": "\u3010VERTICAL ASMR/KU100\u3011HUGE SUIKA GAMING #shorts #shortslive",
+      "private": true
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-05-29T15:30:00Z",
+      "activeLiveChatId": "Cg0KC3R1b3U2UDRsMmQ0KicKGFVDdTFJTnplZnczUjdNOS0zUUVIWW1NURILdHVvdTZQNGwyZDQ"
+    }
+  },
+  "XaXUGEwE34A": {
+    "snippet": {
+      "publishedAt": "2024-05-27T01:01:05Z",
+      "channelId": "UCu1INzefw3R7M9-3QEHYmMQ",
+      "title": "\u3010Wuthering Waves\u3011Welcome To Gacha Game Hell"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-31T00:02:02Z",
+      "actualEndTime": "2024-05-31T03:35:30Z",
+      "scheduledStartTime": "2024-05-31T00:00:00Z"
+    }
+  },
+  "3577tR3VRdo": {
+    "snippet": {
+      "publishedAt": "2024-05-27T01:20:07Z",
+      "channelId": "UCu1INzefw3R7M9-3QEHYmMQ",
+      "title": "\u3010320K SUB CELEBRATION\u3011Ask Me Anything + Drinking and Chatting!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-01T00:06:40Z",
+      "actualEndTime": "2024-06-01T04:22:30Z",
+      "scheduledStartTime": "2024-06-01T00:00:00Z"
+    }
+  },
+  "7RwEy5BJWto": {
+    "snippet": {
+      "publishedAt": "2024-05-27T01:42:17Z",
+      "channelId": "UCu1INzefw3R7M9-3QEHYmMQ",
+      "title": "\u3010FIRST TIME Dragon Age: Origins\u3011I Sincerely Believe Morrigan Is An Attractive Lady"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-01T15:19:37Z",
+      "actualEndTime": "2024-06-01T20:12:29Z",
+      "scheduledStartTime": "2024-06-01T15:15:00Z"
+    }
+  },
+  "WzUudnQe87A": {
+    "snippet": {
+      "publishedAt": "2024-05-27T02:07:03Z",
+      "channelId": "UCu1INzefw3R7M9-3QEHYmMQ",
+      "title": "\u3010ASMR/KU100\u3011Deep Sleep Whispers From Angel GF [Heartbeat/Oil Massage/Brain Tingles/EN/\u65e5\u672c\u8a9e/\u6700\u5f37\u306e\u30c8\u30ea\u30ac\u30fc]"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-03T02:31:16Z",
+      "actualEndTime": "2024-06-03T04:13:48Z",
+      "scheduledStartTime": "2024-06-03T02:30:00Z"
+    }
+  },
+  "9TnjxVIMiYs": {
+    "snippet": {
+      "publishedAt": "2024-05-29T15:32:18Z",
+      "channelId": "UCu1INzefw3R7M9-3QEHYmMQ",
+      "title": "\u3010VERTICAL ASMR/KU100\u3011HUGE SUIKA GAMING #shorts  #shortslive"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-29T15:34:12Z",
+      "actualEndTime": "2024-05-29T18:56:08Z"
+    }
+  },
+  "Ja0uFPhPMT4": {
+    "snippet": {
+      "publishedAt": "2024-05-30T19:39:02Z",
+      "channelId": "UCu1INzefw3R7M9-3QEHYmMQ",
+      "title": "\u3010OFFKAI EXPO 2024\u3011I PILOT A ROBOT AROUND THE CON! IRL VTuber Convention   \u30a2\u30e1\u30ea\u30ab\u306e\u5de8\u5927VTuber\u30a4\u30d9\u30f3\u30c8\u3092\u30c4\u30a2\u30fc\u3059\u308b\u3088\uff01"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-02T00:00:03Z",
+      "actualEndTime": "2024-06-02T01:34:10Z",
+      "scheduledStartTime": "2024-06-02T00:00:00Z"
+    }
+  },
+  "NO79Bd8hXao": {
+    "snippet": {
+      "publishedAt": "2024-06-02T22:38:54Z",
+      "channelId": "UCu1INzefw3R7M9-3QEHYmMQ",
+      "title": "Elden Ring Using MY BUTT Only \u3010CHALLENGE RUN\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-03T15:08:29Z",
+      "actualEndTime": "2024-06-03T19:30:06Z",
+      "scheduledStartTime": "2024-06-03T15:00:00Z"
+    }
+  },
+  "oDoeamRAJuk": {
+    "snippet": {
+      "publishedAt": "2024-06-02T22:57:17Z",
+      "channelId": "UCu1INzefw3R7M9-3QEHYmMQ",
+      "title": "\u3010MEMBER'S ONLY\u3011Odd Taxi Watchalong (Episode 7-13)"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-04T00:04:12Z",
+      "actualEndTime": "2024-06-04T04:14:16Z",
+      "scheduledStartTime": "2024-06-04T00:00:00Z"
+    }
+  },
+  "5FGucDYk_UU": {
+    "snippet": {
+      "publishedAt": "2024-06-02T23:09:10Z",
+      "channelId": "UCu1INzefw3R7M9-3QEHYmMQ",
+      "title": "Women Are Terrifying Again (TRIGGER WARNING) [Higurashi Voice Acting Readalong]"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-04T15:02:09Z",
+      "actualEndTime": "2024-06-04T20:09:04Z",
+      "scheduledStartTime": "2024-06-04T15:00:00Z"
+    }
+  },
+  "fPETFvi3tTU": {
+    "snippet": {
+      "publishedAt": "2024-06-02T23:25:33Z",
+      "channelId": "UCu1INzefw3R7M9-3QEHYmMQ",
+      "title": "Japanese Online Crane Game Challenge! How Many Prizes Can I Get? #TokyoCatch #AD"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-06T00:02:40Z",
+      "actualEndTime": "2024-06-06T03:03:57Z",
+      "scheduledStartTime": "2024-06-06T00:00:00Z"
+    }
+  },
+  "nT4HySWl9UA": {
+    "snippet": {
+      "publishedAt": "2024-06-02T23:41:33Z",
+      "channelId": "UCu1INzefw3R7M9-3QEHYmMQ",
+      "title": "\u3010VERTICAL ASMR/KU100\u3011Comfy Animal Crossing #shorts #shortslive",
+      "private": true
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-06T15:30:00Z",
+      "activeLiveChatId": "Cg0KC25UNEh5U1dsOVVBKicKGFVDdTFJTnplZnczUjdNOS0zUUVIWW1NURILblQ0SHlTV2w5VUE"
+    }
+  },
+  "n-lbWUF3cAA": {
+    "snippet": {
+      "publishedAt": "2024-06-02T23:49:19Z",
+      "channelId": "UCu1INzefw3R7M9-3QEHYmMQ",
+      "title": "CHAT"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-07T00:22:14Z",
+      "actualEndTime": "2024-06-07T01:29:41Z",
+      "scheduledStartTime": "2024-06-07T00:00:00Z"
+    }
+  },
+  "iov6LaSBBmg": {
+    "snippet": {
+      "publishedAt": "2024-06-03T00:39:48Z",
+      "channelId": "UCu1INzefw3R7M9-3QEHYmMQ",
+      "title": "KARAOKE! Anime Girl Sings For You! Requests Open! [Singing Stream/\u6b4c\u67a0]"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-08T00:12:50Z",
+      "actualEndTime": "2024-06-08T04:03:14Z",
+      "scheduledStartTime": "2024-06-08T00:00:00Z"
+    }
+  },
+  "CNvl9xtv140": {
+    "snippet": {
+      "publishedAt": "2024-06-03T00:59:37Z",
+      "channelId": "UCu1INzefw3R7M9-3QEHYmMQ",
+      "title": "\u3010ASMR/KU100\u3011Clingy Waifu NEVER Lets You Go! MAXIMUM Relaxation [Heartbeat/Whispering/\u6700\u5f37\u306e\u30c8\u30ea\u30ac\u30fc]"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-10T02:37:00Z",
+      "actualEndTime": "2024-06-10T04:37:59Z",
+      "scheduledStartTime": "2024-06-10T02:30:00Z"
+    }
+  },
+  "_7R3U46S52w": {
+    "snippet": {
+      "publishedAt": "2024-06-03T00:50:52Z",
+      "channelId": "UCu1INzefw3R7M9-3QEHYmMQ",
+      "title": "\u3010FIRST TIME Dragon Age: Origins\u3011Who is Ready For PEAK Gaming"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-08T15:00:52Z",
+      "actualEndTime": "2024-06-08T20:46:18Z",
+      "scheduledStartTime": "2024-06-08T15:00:00Z"
+    }
+  },
+  "oeyMsAT9vgw": {
+    "snippet": {
+      "publishedAt": "2024-06-03T21:37:05Z",
+      "channelId": "UCu1INzefw3R7M9-3QEHYmMQ",
+      "title": "Shikanoko nokonoko koshitantan #shorts"
+    }
+  },
+  "ndk4GZl7CLU": {
+    "snippet": {
+      "publishedAt": "2024-06-05T02:33:00Z",
+      "channelId": "UCu1INzefw3R7M9-3QEHYmMQ",
+      "title": "\u3010VERTICAL ASMR/KU100\u3011Whispered Animal Crossing #shorts  #shortslive"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-06T15:31:12Z",
+      "actualEndTime": "2024-06-06T19:21:25Z"
+    }
+  },
+  "yUM_oVWBuSU": {
+    "snippet": {
+      "publishedAt": "2024-06-07T00:12:55Z",
+      "channelId": "UCu1INzefw3R7M9-3QEHYmMQ",
+      "title": "Let's Get Isekai'ed Together #shorts #shortslive"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-12T15:02:11Z",
+      "actualEndTime": "2024-06-12T19:06:26Z"
+    }
+  },
+  "LXs_P_NGomo": {
+    "snippet": {
+      "publishedAt": "2024-06-07T01:31:19Z",
+      "channelId": "UCu1INzefw3R7M9-3QEHYmMQ",
+      "title": "Funny AI Voice Recognition Game\u3010Suck Up!\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-07T01:35:04Z",
+      "actualEndTime": "2024-06-07T04:01:03Z",
+      "scheduledStartTime": "2024-06-07T01:30:00Z"
+    }
+  },
+  "tBClglouGHY": {
+    "snippet": {
+      "publishedAt": "2024-06-09T21:23:31Z",
+      "channelId": "UCu1INzefw3R7M9-3QEHYmMQ",
+      "title": "Elden Ring Using MY BUTT Only \u3010CHALLENGE RUN\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-10T15:02:19Z",
+      "actualEndTime": "2024-06-10T20:06:59Z",
+      "scheduledStartTime": "2024-06-10T15:00:00Z"
+    }
+  },
+  "AyXFYjnYsII": {
+    "snippet": {
+      "publishedAt": "2024-06-09T21:38:59Z",
+      "channelId": "UCu1INzefw3R7M9-3QEHYmMQ",
+      "title": "Dragon Age: The Veilguard Gameplay Reveal Watchalong!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-11T14:49:33Z",
+      "actualEndTime": "2024-06-11T15:34:19Z",
+      "scheduledStartTime": "2024-06-11T14:45:00Z"
+    }
+  },
+  "nozqNAy-WGY": {
+    "snippet": {
+      "publishedAt": "2024-06-09T21:46:36Z",
+      "channelId": "UCu1INzefw3R7M9-3QEHYmMQ",
+      "title": "Pain. (Content Warning) [Higurashi Voice Acting Readalong]"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-11T15:37:54Z",
+      "actualEndTime": "2024-06-11T18:55:53Z",
+      "scheduledStartTime": "2024-06-11T15:30:00Z"
+    }
+  },
+  "NXYvZS0I_BE": {
+    "snippet": {
+      "publishedAt": "2024-06-09T22:02:36Z",
+      "channelId": "UCu1INzefw3R7M9-3QEHYmMQ",
+      "title": "VTuber EXPOSES Her Waifu + Husbando List! YOU Choose Who Wins!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-13T00:01:15Z",
+      "actualEndTime": "2024-06-13T03:16:33Z",
+      "scheduledStartTime": "2024-06-13T00:00:00Z"
+    }
+  },
+  "Cdo5S8xkxIE": {
+    "snippet": {
+      "publishedAt": "2024-06-09T22:12:48Z",
+      "channelId": "UCu1INzefw3R7M9-3QEHYmMQ",
+      "title": "Let's Get Isekai'ed Together #shorts #shortslive",
+      "private": true
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-12T15:00:00Z",
+      "activeLiveChatId": "Cg0KC0NkbzVTOHhreElFKicKGFVDdTFJTnplZnczUjdNOS0zUUVIWW1NURILQ2RvNVM4eGt4SUU"
+    }
+  },
+  "LHZEe3XtCaM": {
+    "snippet": {
+      "publishedAt": "2024-06-09T23:08:40Z",
+      "channelId": "UCu1INzefw3R7M9-3QEHYmMQ",
+      "title": "STREAM ENDS WHEN I DIE \u3010Baldur's Gate 3 Honour Mode Run\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-13T15:06:01Z",
+      "actualEndTime": "2024-06-13T18:26:06Z",
+      "scheduledStartTime": "2024-06-13T15:00:00Z"
+    }
+  },
+  "3F4o7U56Id0": {
+    "snippet": {
+      "publishedAt": "2024-06-09T23:29:30Z",
+      "channelId": "UCu1INzefw3R7M9-3QEHYmMQ",
+      "title": "\u3010VIRTUAL JAPAN TOUR\u3011Anime Girl Shows You Around OSAKA"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-14T15:00:00Z",
+      "activeLiveChatId": "Cg0KCzNGNG83VTU2SWQwKicKGFVDdTFJTnplZnczUjdNOS0zUUVIWW1NURILM0Y0bzdVNTZJZDA"
+    }
+  },
+  "Ma1I-URfoq8": {
+    "snippet": {
+      "publishedAt": "2024-06-09T23:59:39Z",
+      "channelId": "UCu1INzefw3R7M9-3QEHYmMQ",
+      "title": "\u3010Tenshi Maid Cafe\u3011Welcome Home, Master\ud83d\ude33"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-15T00:00:00Z",
+      "activeLiveChatId": "Cg0KC01hMUktVVJmb3E4KicKGFVDdTFJTnplZnczUjdNOS0zUUVIWW1NURILTWExSS1VUmZvcTg"
+    }
+  },
+  "7DWnQyOFobc": {
+    "snippet": {
+      "publishedAt": "2024-06-10T01:17:55Z",
+      "channelId": "UCu1INzefw3R7M9-3QEHYmMQ",
+      "title": "\u3010FIRST TIME Dragon Age: Origins\u3011I LIke This Game"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-15T15:00:00Z",
+      "activeLiveChatId": "Cg0KCzdEV25ReU9Gb2JjKicKGFVDdTFJTnplZnczUjdNOS0zUUVIWW1NURILN0RXblF5T0ZvYmM"
+    }
+  },
+  "IsiPMEMnBhk": {
+    "snippet": {
+      "publishedAt": "2024-06-10T01:36:29Z",
+      "channelId": "UCu1INzefw3R7M9-3QEHYmMQ",
+      "title": "\u3010ASMR/KU100\u3011Am I Too Close? Personal Attention For Deep Sleep (Breathing Sounds/EN/\u65e5\u672c\u8a9e/\u6700\u5f37\u306e\u30c8\u30ea\u30ac\u30fc)"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-17T02:30:00Z",
+      "activeLiveChatId": "Cg0KC0lzaVBNRU1uQmhrKicKGFVDdTFJTnplZnczUjdNOS0zUUVIWW1NURILSXNpUE1FTW5CaGs"
+    }
+  },
+  "vSN4w_4pheU": {
+    "snippet": {
+      "publishedAt": "2024-06-14T02:20:06Z",
+      "channelId": "UCu1INzefw3R7M9-3QEHYmMQ",
+      "title": "HELP MY HANDS ARE COLD #shorts"
     }
   }
 }

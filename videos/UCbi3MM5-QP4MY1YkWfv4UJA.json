@@ -3,7 +3,7 @@
     "snippet": {
       "publishedAt": "2023-08-06T02:00:10Z",
       "channelId": "UCbi3MM5-QP4MY1YkWfv4UJA",
-      "title": "\u6c34\u69fd \u00d7 Such - SWITCH / Himemiya Rie \u00d7 NOWA (cover)"
+      "title": "\u6c34\u69fd \u00d7 Such - SWITCH / Himemiya Rie \u00d7 nor. (cover)"
     },
     "liveStreamingDetails": {
       "actualStartTime": "2023-08-06T02:00:10Z",
@@ -25,9 +25,32 @@
       "title": "Aqu3ra - \u30ed\u30f3\u30ea\u30fc\u30e6\u30cb\u30d0\u30fc\u30b9 (Lonely Universe) / nor. cover"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-12T02:30:00Z",
-      "activeLiveChatId": "Cg0KC0RPZWpnTVlIcFNvKicKGFVDYmkzTU01LVFQNE1ZMVlrV2Z2NFVKQRILRE9lamdNWUhwU28",
-      "premiere": true
+      "actualStartTime": "2024-06-12T02:30:06Z",
+      "actualEndTime": "2024-06-12T02:35:48Z",
+      "scheduledStartTime": "2024-06-12T02:30:00Z"
+    }
+  },
+  "v8PnofQmGCQ": {
+    "snippet": {
+      "publishedAt": "2024-06-11T12:26:59Z",
+      "channelId": "UCbi3MM5-QP4MY1YkWfv4UJA",
+      "title": "\u3010Livestream\u3011sup"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-13T02:36:47Z",
+      "actualEndTime": "2024-06-13T04:41:28Z",
+      "scheduledStartTime": "2024-06-13T02:30:00Z"
+    }
+  },
+  "whOoZwV5D7s": {
+    "snippet": {
+      "publishedAt": "2023-07-25T10:14:37Z",
+      "channelId": "UCbi3MM5-QP4MY1YkWfv4UJA",
+      "title": "\u3010Free Space\u3011Live info"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2025-07-28T12:00:00Z",
+      "activeLiveChatId": "Cg0KC3doT29ad1Y1RDdzKicKGFVDYmkzTU01LVFQNE1ZMVlrV2Z2NFVKQRILd2hPb1p3VjVEN3M"
     }
   }
 }

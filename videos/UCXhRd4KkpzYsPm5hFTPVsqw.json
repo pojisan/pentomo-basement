@@ -914,8 +914,105 @@
       "title": "\u3010I'M BACK!\u3011I've missed u so much... (i have stories)\u3010V&U | GEN4\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-05-23T20:00:00Z",
-      "activeLiveChatId": "Cg0KCzBHcFN5WWdLS09JKicKGFVDWGhSZDRLa3B6WXNQbTVoRlRQVnNxdxILMEdwU3lZZ0tLT0k"
+      "actualStartTime": "2024-05-23T20:05:16Z",
+      "actualEndTime": "2024-05-23T22:50:18Z",
+      "scheduledStartTime": "2024-05-23T20:00:00Z"
+    }
+  },
+  "pwjUCSnfIpU": {
+    "snippet": {
+      "publishedAt": "2024-05-23T22:59:44Z",
+      "channelId": "UCXhRd4KkpzYsPm5hFTPVsqw",
+      "title": "\u3010TWD: SEASON 1 PART 2\u3011WE'RE SO BACK w/ Cerenity Cosmica\u3010V&U | GEN4\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-24T19:16:48Z",
+      "actualEndTime": "2024-05-24T22:48:14Z",
+      "scheduledStartTime": "2024-05-24T19:15:00Z"
+    }
+  },
+  "kzcRe9bcpe8": {
+    "snippet": {
+      "publishedAt": "2024-05-27T04:28:20Z",
+      "channelId": "UCXhRd4KkpzYsPm5hFTPVsqw",
+      "title": "\u3010GHOST OF TSUSHIMA: Part 8\u3011WE'RE SO BACK, PROGRESSION IS MINE\u3010V&U | GEN4\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-27T19:59:44Z",
+      "actualEndTime": "2024-05-28T01:02:15Z",
+      "scheduledStartTime": "2024-05-27T20:00:00Z"
+    }
+  },
+  "QUiHvsL0AuQ": {
+    "snippet": {
+      "publishedAt": "2024-05-28T01:06:30Z",
+      "channelId": "UCXhRd4KkpzYsPm5hFTPVsqw",
+      "title": "\u3010OMEGAVERSE QUIZ\u3011HELLO?? \ud83d\udca6\ud83d\udca6\u3010V&U | GEN4\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-29T21:31:33Z",
+      "actualEndTime": "2024-05-30T01:04:56Z",
+      "scheduledStartTime": "2024-05-29T21:30:00Z"
+    }
+  },
+  "VpKypTGzsRM": {
+    "snippet": {
+      "publishedAt": "2024-05-30T04:51:58Z",
+      "channelId": "UCXhRd4KkpzYsPm5hFTPVsqw",
+      "title": "\u3010GHOST OF TSUSHIMA: Part 9\u3011taka i would like to apologize.\u3010V&U | GEN4\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-05-31T20:31:05Z",
+      "actualEndTime": "2024-06-01T01:32:59Z",
+      "scheduledStartTime": "2024-05-31T20:30:00Z"
+    }
+  },
+  "C8lAG4RVoTc": {
+    "snippet": {
+      "publishedAt": "2024-06-01T02:04:05Z",
+      "channelId": "UCXhRd4KkpzYsPm5hFTPVsqw",
+      "title": "\u3010VALLURE DEBUT WATCHALONG #AD\u3011WOMEN\u3010V&U | GEN4\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-01T18:57:36Z",
+      "actualEndTime": "2024-06-01T22:01:58Z",
+      "scheduledStartTime": "2024-06-01T19:00:00Z"
+    }
+  },
+  "ik0STEdKOsk": {
+    "snippet": {
+      "publishedAt": "2024-06-06T20:02:57Z",
+      "channelId": "UCXhRd4KkpzYsPm5hFTPVsqw",
+      "title": "\u3010THE BAR\u3011CRACK OPEN A COLD ONE, NOSTALGIA TIME!\u3010V&U | GEN4\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-07T21:45:23Z",
+      "actualEndTime": "2024-06-08T00:55:21Z",
+      "scheduledStartTime": "2024-06-07T21:45:00Z"
+    }
+  },
+  "1MykgJtRy_E": {
+    "snippet": {
+      "publishedAt": "2024-06-08T19:37:05Z",
+      "channelId": "UCXhRd4KkpzYsPm5hFTPVsqw",
+      "title": "\u3010THIS OR THAT\u3011Time to put my Kouhai on the hot seat... w/ Mivi Aivori\u3010V&U | GEN4\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-08T20:15:19Z",
+      "actualEndTime": "2024-06-08T23:04:38Z",
+      "scheduledStartTime": "2024-06-08T20:15:00Z"
+    }
+  },
+  "sXSrXwvcGfU": {
+    "snippet": {
+      "publishedAt": "2024-06-08T23:23:11Z",
+      "channelId": "UCXhRd4KkpzYsPm5hFTPVsqw",
+      "title": "\u3010TWD: SEASON 1 FINALE\u3011HOME STRETCH!!!!!! w/ Cerenity Cosmica\u3010V&U | GEN4\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-09T19:45:37Z",
+      "actualEndTime": "2024-06-10T00:36:30Z",
+      "scheduledStartTime": "2024-06-09T19:45:00Z"
     }
   }
 }
