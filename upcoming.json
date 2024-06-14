@@ -2701,6 +2701,7 @@
       "title": "\u3010\ud83d\udc30\u30d0\u30cb\u30fc\u30ac\u30fc\u30c7\u30f3 #\uff13\u3011\u3044\u3064\u5f7c\u5973\u306b\u306a\u3063\u3066\u304f\u308c\u308b\u306e\u3060\u3010\u30ca\u30ea/\u306b\u3058\u3055\u3093\u3058\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-14T04:03:05Z",
       "scheduledStartTime": "2024-06-14T04:00:00Z",
       "activeLiveChatId": "Cg0KC01IRUNtX250d1pBKicKGFVDQ0hIMG5XWVhGWm10RFNfNHR2TXhIURILTUhFQ21fbnR3WkE"
     }
@@ -4524,18 +4525,6 @@
       "activeLiveChatId": "Cg0KC2FYSmJkc1VDX193KicKGFVDYXNadnNrRkNfU0hzNkxYeDJfMjZjURILYVhKYmRzVUNfX3c"
     }
   },
-  "aZPTwaI_OH4": {
-    "snippet": {
-      "publishedAt": "2024-06-09T20:20:53Z",
-      "channelId": "UCoAw3SML_09dF-7yhQU8wFQ",
-      "title": "a leek \u3010members only\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-14T02:01:01Z",
-      "scheduledStartTime": "2024-06-14T02:00:46Z",
-      "activeLiveChatId": "Cg0KC2FaUFR3YUlfT0g0KicKGFVDb0F3M1NNTF8wOWRGLTd5aFFVOHdGURILYVpQVHdhSV9PSDQ"
-    }
-  },
   "adventureralm": {
     "snippet": {
       "channelId": "adventureralm",
@@ -4565,6 +4554,7 @@
       "title": "Hey\u3010NIJISANJ EN | Vantacrow Bringer\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-14T04:05:07Z",
       "scheduledStartTime": "2024-06-14T04:00:00Z",
       "activeLiveChatId": "Cg0KC2F0cV9Kd280U1NzKicKGFVDcFlmNkM5UXNQX0JSZjk3dkx1WGxJQRILYXRxX0p3bzRTU3M"
     }
@@ -5192,6 +5182,7 @@
       "title": "\u3010LIVE\u3011First Collab with my most favorite girls"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-14T04:05:26Z",
       "scheduledStartTime": "2024-06-14T04:00:00Z",
       "activeLiveChatId": "Cg0KC2dfazJoNmZ5V0VVKicKGFVDSUxRbDVnUkJNdndkLTk3LU01cExZURILZ19rMmg2ZnlXRVU"
     }
@@ -5839,6 +5830,17 @@
       "activeLiveChatId": "Cg0KC21fSlMxY2N2RWs4KicKGFVDX3Q3d3RTY1ZMazg1SWFEOWpZU1JBQRILbV9KUzFjY3ZFazg"
     }
   },
+  "metorial": {
+    "snippet": {
+      "channelId": "metorial",
+      "title": "First DropOuts Collab!! @Yanchagogo @PaichiPop \u27e1 !discord \u27e1 !cc \u27e1 !lurk \u27e1 !socials",
+      "channelTitle": "Metorial"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-14T04:04:44Z",
+      "twitch": true
+    }
+  },
   "miyuyus": {
     "snippet": {
       "channelId": "miyuyus",
@@ -5860,6 +5862,17 @@
       "actualStartTime": "2024-06-14T03:07:24Z",
       "scheduledStartTime": "2024-06-14T03:00:00Z",
       "activeLiveChatId": "Cg0KC21vNGF1NXdzLU1ZKicKGFVDM241dUd1MThGb0N5MjNnZ1dXcDh0QRILbW80YXU1d3MtTVk"
+    }
+  },
+  "mukyapunch": {
+    "snippet": {
+      "channelId": "mukyapunch",
+      "title": "The nails are staying!! So instead, we play WuWa \ud83d\udc1a\u2615 | !discord | !stinky | !cup",
+      "channelTitle": "MukyaPunch"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-14T04:03:04Z",
+      "twitch": true
     }
   },
   "n5D5GvXzXmY": {
@@ -7107,6 +7120,17 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC3lWUXJGazF0MzhRKicKGFVDUjZxaHNMcG42MldWeENCSzFka0xvdxILeVZRckZrMXQzOFE"
+    }
+  },
+  "yanchagogo": {
+    "snippet": {
+      "channelId": "yanchagogo",
+      "title": "\u3010 DropOuts Collab!\u3011First Time for Everything @paichipop @metorial (EN/TAG)",
+      "channelTitle": "YanchaGoGo"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-14T04:05:08Z",
+      "twitch": true
     }
   },
   "yccysErpZXk": {
