@@ -1042,7 +1042,7 @@
       "title": "[GIRLS FRONTLINE 2] We continue with the plot! Rolling gacha! [Part 4]"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-14T19:30:00Z",
+      "scheduledStartTime": "2024-06-21T19:30:00Z",
       "activeLiveChatId": "Cg0KCzd1Q1h0VjBpYlhNKicKGFVDVlFFYmpBY0pSZVB4T0RWTTVtV0N2URILN3VDWHRWMGliWE0"
     }
   },
@@ -1129,7 +1129,7 @@
       "title": "MONSTIE HUNTIE"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-14T20:00:00Z",
+      "scheduledStartTime": "2024-06-15T01:00:00Z",
       "activeLiveChatId": "Cg0KCzk3Y1lHcFpqUElZKicKGFVDRnpRZDRwWjQzWk5FZFdCRmU3UU9LQRILOTdjWUdwWmpQSVk"
     }
   },
@@ -1162,6 +1162,7 @@
       "title": "PEACE WAS NEVER AN OPTION! Pummel Party w/ Avallum"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-14T19:01:38Z",
       "scheduledStartTime": "2024-06-14T19:00:00Z",
       "activeLiveChatId": "Cg0KCzlfSGFuYS1XUXV3KicKGFVDRndjRUlzanZpOVhFdnBHeDZpd0hwdxILOV9IYW5hLVdRdXc"
     }
@@ -2351,6 +2352,7 @@
       "title": "\u3010 BIRTHDAY DONOTHON \u301124 HRS WITH YOU, ME AND A BATSU WHEEL - PART 1!  #hiphipHIYO2024"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-14T19:00:09Z",
       "scheduledStartTime": "2024-06-14T19:00:00Z",
       "activeLiveChatId": "Cg0KC0l4M19vT1VXVG1NKicKGFVDUEszUzlpajBEWElObVRqUTRLaFFWQRILSXgzX29PVVdUbU0"
     }
@@ -4122,7 +4124,7 @@
       "title": "[TALKS IN LIBRARY] Let's chat music! Featuring TRIC! Episode 4!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-14T07:00:00Z",
+      "scheduledStartTime": "2024-06-21T07:00:00Z",
       "activeLiveChatId": "Cg0KC1hMUklvbi0tZ1hvKicKGFVDVlFFYmpBY0pSZVB4T0RWTTVtV0N2URILWExSSW9uLS1nWG8"
     }
   },
@@ -5737,6 +5739,7 @@
       "title": "\u3010KINGDOM HEARTS\u3011Oee PATO o me CURAS o al HORNO\u3010idolES\u3011 \ud83c\udf80"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-14T18:59:18Z",
       "scheduledStartTime": "2024-06-14T19:00:00Z",
       "activeLiveChatId": "Cg0KC21LZkxhelBtX0RRKicKGFVDdURtVWwzV1k0MUZxR0lfYlVyNjJQQRILbUtmTGF6UG1fRFE"
     }
@@ -6180,18 +6183,6 @@
       "activeLiveChatId": "Cg0KC3FDSmZ0Zzhubnp3KicKGFVDVlFFYmpBY0pSZVB4T0RWTTVtV0N2URILcUNKZnRnOG5uenc"
     }
   },
-  "qKeE4UKGC08": {
-    "snippet": {
-      "publishedAt": "2024-06-13T16:56:46Z",
-      "channelId": "UC-hMwvRuMsQrfgu0DPKLV2A",
-      "title": "I'm still sick but I wanna hangout with you and minecraft!"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-14T16:01:50Z",
-      "scheduledStartTime": "2024-06-14T16:00:00Z",
-      "activeLiveChatId": "Cg0KC3FLZUU0VUtHQzA4KicKGFVDLWhNd3ZSdU1zUXJmZ3UwRFBLTFYyQRILcUtlRTRVS0dDMDg"
-    }
-  },
   "qP077R7O5ak": {
     "snippet": {
       "publishedAt": "2024-05-19T07:33:50Z",
@@ -6588,6 +6579,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-16T00:55:00Z",
       "activeLiveChatId": "Cg0KC3RjRWFGY3YybXhZKicKGFVDYXhpRGVfVHVNTFhrd1JNVkxtNVZ3URILdGNFYUZjdjJteFk"
+    }
+  },
+  "tenma": {
+    "snippet": {
+      "channelId": "tenma",
+      "title": "Shin Megami Tensei V: Vengeance ! Guess what we're checking out~ !about",
+      "channelTitle": "Tenma"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-14T18:59:06Z",
+      "twitch": true
     }
   },
   "thKmAPsyAPE": {
