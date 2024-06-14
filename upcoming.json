@@ -281,6 +281,17 @@
       "activeLiveChatId": "Cg0KCzB1RXQ4N2FndmtnKicKGFVDVlBCR21sc0M4Uy1UTmFfSUVWY3oxQRILMHVFdDg3YWd2a2c"
     }
   },
+  "0xeQmYlgahg": {
+    "snippet": {
+      "publishedAt": "2024-06-14T23:05:09Z",
+      "channelId": "UC9mydBOLdL6-Fp61paK68Tw",
+      "title": "It's been a good run... RIP Rosco\u3010The Past Within\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-15T19:00:00Z",
+      "activeLiveChatId": "Cg0KCzB4ZVFtWWxnYWhnKicKGFVDOW15ZEJPTGRMNi1GcDYxcGFLNjhUdxILMHhlUW1ZbGdhaGc"
+    }
+  },
   "0xzsJpuIwso": {
     "snippet": {
       "publishedAt": "2024-05-05T01:48:42Z",
@@ -3047,6 +3058,7 @@
       "title": "\u3010Fictitious Friday\u3011 How do you balance tone? \u3010Yuno Hanaki\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-14T23:07:37Z",
       "scheduledStartTime": "2024-06-14T23:00:00Z",
       "activeLiveChatId": "Cg0KC09Bb1piZG8xX3o4KicKGFVDWmw5MndNaXBqWUZjMVVsbTlZeTY1ZxILT0FvWmJkbzFfejg"
     }
@@ -4461,6 +4473,16 @@
       "scheduledStartTime": "2024-08-24T04:00:00Z"
     }
   },
+  "_5lTJ1GyUjo": {
+    "snippet": {
+      "publishedAt": "2024-06-14T23:06:59Z",
+      "channelId": "UCmbs8T6MWqUHP1tIQvSgKrg",
+      "title": "\u3010Party Animals\u3011Gang At War With Promise"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-17T01:00:00Z"
+    }
+  },
   "_Ar8e6OYdXc": {
     "snippet": {
       "publishedAt": "2024-06-14T00:47:01Z",
@@ -4502,6 +4524,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-16T14:00:00Z",
       "activeLiveChatId": "Cg0KC19PaUYtMDJBem9ZKicKGFVDNFdzTEVfeGRybmQwNUQwNUdvOW9YdxILX09pRi0wMkF6b1k"
+    }
+  },
+  "_XuSwE9FXII": {
+    "snippet": {
+      "publishedAt": "2024-06-14T23:04:28Z",
+      "channelId": "UCqmSYkXLwsL0zEar5GooYkg",
+      "title": "\u3010BIRTHDAY STREAM\u3011Hag Love \ud83e\udd0d\ud83e\udd0d\ud83e\udd0d\u3010Yume+ | Mimosa Shirosaki\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-15T02:00:00Z",
+      "activeLiveChatId": "Cg0KC19YdVN3RTlGWElJKicKGFVDcW1TWWtYTHdzTDB6RWFyNUdvb1lrZxILX1h1U3dFOUZYSUk"
     }
   },
   "_cAOkeiMyvw": {
@@ -4646,6 +4679,17 @@
       "twitch": true
     }
   },
+  "apolloalto": {
+    "snippet": {
+      "channelId": "apolloalto",
+      "title": "Happy Friday !discord !socials !commands",
+      "channelTitle": "ApolloAlto"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-14T23:06:04Z",
+      "twitch": true
+    }
+  },
   "auCkpoNM1yE": {
     "snippet": {
       "publishedAt": "2024-03-24T19:34:20Z",
@@ -4749,7 +4793,7 @@
       "channelTitle": "chikafujilisa"
     },
     "liveStreamingDetails": {
-      "actualStartTime": "2024-06-14T23:02:08Z",
+      "actualStartTime": "2024-06-14T23:08:19Z",
       "twitch": true
     }
   },
@@ -7128,6 +7172,7 @@
       "title": "[GHOST OF TSUSHIMA DIRECTOR'S CUT PT 4] FIRST BLIND PLAYTHROUGH! [Yae Yugiri | V4Mirai]"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-14T23:10:21Z",
       "scheduledStartTime": "2024-06-14T23:00:00Z",
       "activeLiveChatId": "Cg0KC3pRNVdCcWxFN0FvKicKGFVDYkRISVMwTnBYUk9oWWpzYVhRWDRwQRILelE1V0JxbEU3QW8"
     }
