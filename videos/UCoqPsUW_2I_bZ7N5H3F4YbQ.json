@@ -514,12 +514,25 @@
     "snippet": {
       "publishedAt": "2024-06-13T06:02:36Z",
       "channelId": "UCoqPsUW_2I_bZ7N5H3F4YbQ",
-      "title": "\u3010Happy Birthday\u3011A Year Closer to Death!\u3010#LaikaCream\u3011"
+      "title": "\u3010Happy Birthday\u3011A Year Closer to Death!\u3010#LaikaCream\u3011",
+      "private": true
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-13T23:50:46Z",
       "scheduledStartTime": "2024-06-15T22:00:00Z",
       "activeLiveChatId": "Cg0KC3Q3X0c5UTRmU0NzKicKGFVDb3FQc1VXXzJJX2JaN041SDNGNFliURILdDdfRzlRNGZTQ3M"
+    }
+  },
+  "EJJTa37vyGU": {
+    "snippet": {
+      "publishedAt": "2024-06-13T23:54:53Z",
+      "channelId": "UCoqPsUW_2I_bZ7N5H3F4YbQ",
+      "title": "(Corpse Party) Let's Actually Finish This! \ud83e\udd0e\ud83e\udde9 (WARNING! Graphic Content!)[#LaikaCream ]"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-13T23:55:25Z",
+      "scheduledStartTime": "2024-06-13T23:54:55Z",
+      "activeLiveChatId": "Cg0KC0VKSlRhMzd2eUdVKicKGFVDb3FQc1VXXzJJX2JaN041SDNGNFliURILRUpKVGEzN3Z5R1U"
     }
   }
 }
