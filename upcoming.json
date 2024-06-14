@@ -266,6 +266,7 @@
       "title": "\ud83d\udc14\u3010POKEMON COLOSSEUM\u3011#3 SINNERS WILL PERISH\u3010Yume+ | Raein Clowd\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-14T22:00:21Z",
       "scheduledStartTime": "2024-06-14T22:15:00Z",
       "activeLiveChatId": "Cg0KCzB1RXQ4N2FndmtnKicKGFVDVlBCR21sc0M4Uy1UTmFfSUVWY3oxQRILMHVFdDg3YWd2a2c"
     }
@@ -716,6 +717,7 @@
       "title": "\u3010Nintendo Switch Sports\u3011 SWITCH SPORTS KIRIN RETURNS IN 3D"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-14T22:00:53Z",
       "scheduledStartTime": "2024-06-14T22:00:00Z",
       "activeLiveChatId": "Cg0KCzUzUDdpNnFGLXRvKicKGFVDT19hS0tZeG40dHZycVBqY1R6WjZFURILNTNQN2k2cUYtdG8"
     }
@@ -3303,6 +3305,7 @@
       "title": "\u3010herds\u306e\u77e5\u3089\u306a\u3044\u4e16\u754c\u3011\u6771\u4eac\u30c7\u30a3\u30ba\u30cb\u30fc\u30b7\u30fc\u65b0\u30a8\u30ea\u30a2\u306e\u4e16\u754c How to enter Fantasy Springs in Tokyo Disney Sea\u3010\u767d\u9e7f\u3044\u304a\u308a Phase Connect\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-14T22:00:55Z",
       "scheduledStartTime": "2024-06-14T22:00:00Z",
       "activeLiveChatId": "Cg0KC1FFa3VEcWh4ZjMwKicKGFVDTjViRDFZWWFwVGhPZWFkRzdZa0JPQRILUUVrdURxaHhmMzA"
     }
@@ -6047,6 +6050,17 @@
       "activeLiveChatId": "Cg0KC3BhWFNIZlV2WDFnKicKGFVDVXI4TzZaOEp5QWc4M0tKYmNfdV9iURILcGFYU0hmVXZYMWc"
     }
   },
+  "pippa": {
+    "snippet": {
+      "channelId": "pippa",
+      "title": "Shin Megami Tensei V Vengeance || AD !SMT",
+      "channelTitle": "Pippa"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-14T21:59:54Z",
+      "twitch": true
+    }
+  },
   "poseidonmythos": {
     "snippet": {
       "channelId": "poseidonmythos",
@@ -6786,18 +6800,6 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC3Z3OEtPRHA5WHFzKicKGFVDWERhc3VmRmVGMzBYMmxyanhfQm90ZxILdnc4S09EcDlYcXM"
-    }
-  },
-  "w0_BmrFDfhs": {
-    "snippet": {
-      "publishedAt": "2024-06-13T17:07:37Z",
-      "channelId": "UCb8dLvDvmZ-d92KEy_9oWog",
-      "title": "IM GOING ALL IN ON FUECOCO COIN!!!!"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-14T19:28:49Z",
-      "scheduledStartTime": "2024-06-14T19:00:00Z",
-      "activeLiveChatId": "Cg0KC3cwX0JtckZEZmhzKicKGFVDYjhkTHZEdm1aLWQ5MktFeV85b1dvZxILdzBfQm1yRkRmaHM"
     }
   },
   "w14UE8JBzrs": {
