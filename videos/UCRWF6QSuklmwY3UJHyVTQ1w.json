@@ -7999,8 +7999,18 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-13T21:03:34Z",
       "actualEndTime": "2024-06-14T00:17:34Z",
-      "scheduledStartTime": "2024-06-13T20:00:00Z",
-      "activeLiveChatId": "Cg0KC0tCUXJsaDRMSzNVKicKGFVDUldGNlFTdWtsbXdZM1VKSHlWVFExdxILS0JRcmxoNExLM1U"
+      "scheduledStartTime": "2024-06-13T20:00:00Z"
+    }
+  },
+  "mH_J81U2ub0": {
+    "snippet": {
+      "publishedAt": "2024-06-14T00:25:32Z",
+      "channelId": "UCRWF6QSuklmwY3UJHyVTQ1w",
+      "title": "\u3010\u30dc\u30ab\u30ed\u9650\u5b9a\u6b4c\u67a0\u3011\u30ea\u30af\u30a8\u30b9\u30c8OK\uff01\u53e4\u53c2\u30dc\u30ab\u30ed\u66f2\u6b4c\u3063\u3066\u3044\u304f\u3088\uff01\u3010Cosmia\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-14T12:00:00Z",
+      "activeLiveChatId": "Cg0KC21IX0o4MVUydWIwKicKGFVDUldGNlFTdWtsbXdZM1VKSHlWVFExdxILbUhfSjgxVTJ1YjA"
     }
   }
 }

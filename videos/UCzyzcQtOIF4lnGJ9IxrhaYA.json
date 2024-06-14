@@ -856,5 +856,16 @@
       "actualEndTime": "2024-06-05T03:15:03Z",
       "scheduledStartTime": "2024-06-04T23:00:00Z"
     }
+  },
+  "om4o9XnND60": {
+    "snippet": {
+      "publishedAt": "2024-06-14T02:41:43Z",
+      "channelId": "UCzyzcQtOIF4lnGJ9IxrhaYA",
+      "title": "Twitter space chat"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-14T04:00:00Z",
+      "activeLiveChatId": "Cg0KC29tNG85WG5ORDYwKicKGFVDenl6Y1F0T0lGNGxuR0o5SXhyaGFZQRILb200bzlYbk5ENjA"
+    }
   }
 }
