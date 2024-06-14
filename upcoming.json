@@ -794,18 +794,6 @@
       "activeLiveChatId": "Cg0KCzVpSV9wVU5RVXFJKicKGFVDVVA4VG1sTzdOTnJhODhBTXFHVV92URILNWlJX3BVTlFVcUk"
     }
   },
-  "5qzXT1xTyHI": {
-    "snippet": {
-      "publishedAt": "2024-06-13T01:52:08Z",
-      "channelId": "UCg7sW-h1PUowdiR5K4HlBew",
-      "title": "FFXIV PRODUCER LETTER REACTION!!!"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-14T09:25:51Z",
-      "scheduledStartTime": "2024-06-14T09:30:00Z",
-      "activeLiveChatId": "Cg0KCzVxelhUMXhUeUhJKicKGFVDZzdzVy1oMVBVb3dkaVI1SzRIbEJldxILNXF6WFQxeFR5SEk"
-    }
-  },
   "5rJScK0wKFM": {
     "snippet": {
       "publishedAt": "2022-04-07T08:09:42Z",
@@ -3116,6 +3104,7 @@
       "title": "\u3010Cats Organized Neatly\u3011I'm meow meow are you meow meow"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-14T13:00:23Z",
       "scheduledStartTime": "2024-06-14T13:00:00Z",
       "activeLiveChatId": "Cg0KC09OT19aZlZJTFZRKicKGFVDazB2dXd3c21fVVFISElPZ0d2eFUtQRILT05PX1pmVklMVlE"
     }
@@ -3700,7 +3689,8 @@
       "title": "\u3010Master Duel\u3011Half way through the pass!!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-14T13:00:43Z",
+      "actualStartTime": "2024-06-14T13:00:29Z",
+      "scheduledStartTime": "2024-06-14T13:00:20Z",
       "activeLiveChatId": "Cg0KC1QyWUNXbjZGUWVJKicKGFVDN3NxYlE0XzVfRUx6LU92LWJWQmk4QRILVDJZQ1duNkZRZUk"
     }
   },
@@ -3880,6 +3870,7 @@
       "title": "\u3010Vertical Zatsu\u3011Midday Relaxed Zatsu!!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-14T13:00:38Z",
       "scheduledStartTime": "2024-06-14T13:00:00Z",
       "activeLiveChatId": "Cg0KC1VzYWJNbFVYUGdVKicKGFVDMEpGdDVKamw1YV9fek9hWkxxazdQZxILVXNhYk1sVVhQZ1U"
     }
@@ -5634,6 +5625,7 @@
       "title": "\u3010ZATSU\u3011\u300c\u6885\u96e8\u300d\u3092\u751f\u304d\u629c\u304f\u30e9\u30a4\u30d5\u30cf\u30c3\u30af\u3092\u6559\u3048\u3066\uff01\uff01\uff01\uff01\uff01\u3010\u5009\u5922\u3074\u3053 / Phase Connect\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-14T13:00:07Z",
       "scheduledStartTime": "2024-06-14T13:00:00Z",
       "activeLiveChatId": "Cg0KC2xJQV94UXBhTEg4KicKGFVDdFdIMHRWQWNVY1NtNHY5Nkg1Y0FxURILbElBX3hRcGFMSDg"
     }
@@ -5730,6 +5722,7 @@
       "title": "You Could Say It's Time\u3010LIMBUS COMPANY\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-14T13:00:48Z",
       "scheduledStartTime": "2024-06-14T13:00:00Z",
       "activeLiveChatId": "Cg0KC200TEQzaEJBNTQ0KicKGFVDMUxlZ3hDTmE2bHFtU3NaVFNtN0d5QRILbTRMRDNoQkE1NDQ"
     }
@@ -6501,6 +6494,7 @@
       "title": "\u3010CHAT\u3011 i touched grass. didn't like it."
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-14T12:59:27Z",
       "scheduledStartTime": "2024-06-14T13:15:00Z",
       "activeLiveChatId": "Cg0KC3NVWWVQR0wwV2t3KicKGFVDLVcteWFWSWpxa1hvaDZkWjZfVGNNQRILc1VZZVBHTDBXa3c"
     }
