@@ -7780,8 +7780,20 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-13T23:07:17Z",
-      "scheduledStartTime": "2024-06-13T23:00:00Z",
-      "activeLiveChatId": "Cg0KC2hIeHozdWQ3eFJFKicKGFVDSTRQTGZ1aUw5akZPcHNFSUEyMEtqZxILaEh4ejN1ZDd4UkU"
+      "actualEndTime": "2024-06-14T03:25:57Z",
+      "scheduledStartTime": "2024-06-13T23:00:00Z"
+    }
+  },
+  "j4oh0WiT5HE": {
+    "snippet": {
+      "publishedAt": "2024-06-14T03:25:59Z",
+      "channelId": "UCI4PLfuiL9jFOpsEIA20Kjg",
+      "title": "One day ill correctly guess what the title should be [Dark Souls 3 Convergence Mod] w/ Jazz"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-14T03:26:08Z",
+      "scheduledStartTime": "2024-06-14T03:26:09Z",
+      "activeLiveChatId": "Cg0KC2o0b2gwV2lUNUhFKicKGFVDSTRQTGZ1aUw5akZPcHNFSUEyMEtqZxILajRvaDBXaVQ1SEU"
     }
   }
 }
