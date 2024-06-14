@@ -497,18 +497,6 @@
       "activeLiveChatId": "Cg0KCzJXOXVoWi1iZVRNKicKGFVDeGJORVc3eHlrVEM3aEU1Rllnd3JPdxILMlc5dWhaLWJlVE0"
     }
   },
-  "2lBQJ0YS8_8": {
-    "snippet": {
-      "publishedAt": "2024-06-13T13:29:47Z",
-      "channelId": "UCyKsg-57XC9pyHbP7v3kCPQ",
-      "title": "3dio working, chatting & getting ready"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-14T00:34:40Z",
-      "scheduledStartTime": "2024-06-14T00:30:00Z",
-      "activeLiveChatId": "Cg0KCzJsQlFKMFlTOF84KicKGFVDeUtzZy01N1hDOXB5SGJQN3Yza0NQURILMmxCUUowWVM4Xzg"
-    }
-  },
   "2nrf2BV8EWs": {
     "snippet": {
       "publishedAt": "2024-06-10T06:42:41Z",
@@ -1108,6 +1096,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-08-01T22:00:00Z",
       "activeLiveChatId": "Cg0KCzh2ckxyYzZpTGZNKicKGFVDYlpabHFBU1U2Njgtd3lXMUsya1lCdxILOHZyTHJjNmlMZk0"
+    }
+  },
+  "92d7btSX3sE": {
+    "snippet": {
+      "publishedAt": "2024-06-14T04:26:38Z",
+      "channelId": "UClrQ7xhRBxS_v_-WuudGKmA",
+      "title": "\u98a8\u90aa\u304c\u6cbb\u3063\u305f\u306e\u3067\u304a\u3057\u3083\u3079\u308a\u3059\u308bze\u3010 \u96d1\u8ac7\uffe4\u93d1\u6728\u308d\u3053\uffe4\u306b\u3058\u3055\u3093\u3058 \u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-14T05:30:00Z",
+      "activeLiveChatId": "Cg0KCzkyZDdidFNYM3NFKicKGFVDbHJRN3hoUkJ4U192Xy1XdXVkR0ttQRILOTJkN2J0U1gzc0U"
     }
   },
   "9UJqw1XaVv0": {
@@ -6145,7 +6144,7 @@
   "paichipop": {
     "snippet": {
       "channelId": "paichipop",
-      "title": "\u3010Lethal Company\u3011 COLLAB OF THE DAY ONE!!\u3010DropOuts\u3011",
+      "title": "\u3010Pico Park\u3011 WHATSUP POPPERS AND DELINQUENTS! DROP IN WITH OUFIRST COLLAB!\u3010DropOuts\u3011",
       "channelTitle": "PAICHIpop"
     },
     "liveStreamingDetails": {
@@ -6536,17 +6535,6 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-14T02:58:40Z",
-      "twitch": true
-    }
-  },
-  "shirozevalia": {
-    "snippet": {
-      "channelId": "shirozevalia",
-      "title": "All my Homies Hate Papalymo, come defend him if you must!",
-      "channelTitle": "ShiroZevalia"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-13T22:52:14Z",
       "twitch": true
     }
   },
