@@ -985,5 +985,40 @@
       "actualEndTime": "2024-06-13T02:49:45Z",
       "scheduledStartTime": "2024-06-13T01:00:00Z"
     }
+  },
+  "tcEaFcv2mxY": {
+    "snippet": {
+      "publishedAt": "2024-06-14T05:47:59Z",
+      "channelId": "UCaxiDe_TuMLXkwRMVLm5VwQ",
+      "title": "\u3010 Kouhai Karaoke Relay \u3011I AM KOUHAI AND I WILL DO KARAOKE #KouHYPE2024"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-16T00:55:00Z",
+      "activeLiveChatId": "Cg0KC3RjRWFGY3YybXhZKicKGFVDYXhpRGVfVHVNTFhrd1JNVkxtNVZ3URILdGNFYUZjdjJteFk"
+    }
+  },
+  "e8DNvctAR5I": {
+    "snippet": {
+      "publishedAt": "2024-06-14T06:21:33Z",
+      "channelId": "UCaxiDe_TuMLXkwRMVLm5VwQ",
+      "title": "\u3010#1 SMTV\u3011My first Shin Megami Tensei game!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-14T09:31:17Z",
+      "actualEndTime": "2024-06-14T13:09:32Z",
+      "scheduledStartTime": "2024-06-14T09:30:00Z",
+      "activeLiveChatId": "Cg0KC2U4RE52Y3RBUjVJKicKGFVDYXhpRGVfVHVNTFhrd1JNVkxtNVZ3URILZThETnZjdEFSNUk"
+    }
+  },
+  "ZEkf8rjjPuI": {
+    "snippet": {
+      "publishedAt": "2024-06-14T13:37:27Z",
+      "channelId": "UCaxiDe_TuMLXkwRMVLm5VwQ",
+      "title": "Road to 6000 subscribers! Talking, gaming, existential crisis, and more!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-15T10:30:00Z",
+      "activeLiveChatId": "Cg0KC1pFa2Y4cmpqUHVJKicKGFVDYXhpRGVfVHVNTFhrd1JNVkxtNVZ3URILWkVrZjhyampQdUk"
+    }
   }
 }

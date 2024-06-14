@@ -3975,8 +3975,9 @@
       "title": "\u3016Members Minecraft Server\u3017I am not ready\u3016Cyon \u2765 V&U\u3017"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-14T08:00:00Z",
-      "activeLiveChatId": "Cg0KC2NOYUYyVlcwa2lBKicKGFVDUmxRenVWZVl4VERQb2JQTjFqYVZrURILY05hRjJWVzBraUE"
+      "actualStartTime": "2024-06-14T08:08:28Z",
+      "actualEndTime": "2024-06-14T10:35:51Z",
+      "scheduledStartTime": "2024-06-14T08:00:00Z"
     }
   },
   "uET5LSLDGas": {
@@ -3996,6 +3997,17 @@
       "publishedAt": "2024-06-12T22:00:20Z",
       "channelId": "UCRlQzuVeYxTDPobPN1jaVkQ",
       "title": "Karaoke snippet ~ We All Become - Transistor  #envtuber"
+    }
+  },
+  "dfMmUNQpfhU": {
+    "snippet": {
+      "publishedAt": "2024-06-14T11:16:56Z",
+      "channelId": "UCRlQzuVeYxTDPobPN1jaVkQ",
+      "title": "\u3016Minecraft Mayocraft\u3017New mod, new world, new us w/ @MaeveVNU \u3016Cyon \u2765 V&U\u3017"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-14T22:00:00Z",
+      "activeLiveChatId": "Cg0KC2RmTW1VTlFwZmhVKicKGFVDUmxRenVWZVl4VERQb2JQTjFqYVZrURILZGZNbVVOUXBmaFU"
     }
   }
 }

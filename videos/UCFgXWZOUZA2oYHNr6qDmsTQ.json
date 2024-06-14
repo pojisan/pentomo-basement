@@ -9672,8 +9672,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-14T03:39:05Z",
-      "scheduledStartTime": "2024-06-14T03:30:00Z",
-      "activeLiveChatId": "Cg0KC0xBcEJyS0lkdUkwKicKGFVDRmdYV1pPVVpBMm9ZSE5yNnFEbXNUURILTEFwQnJLSWR1STA"
+      "actualEndTime": "2024-06-14T06:45:54Z",
+      "scheduledStartTime": "2024-06-14T03:30:00Z"
     }
   },
   "UM3l6MJ4L9U": {
@@ -9704,6 +9704,19 @@
       "actualStartTime": "2024-06-13T08:46:20Z",
       "actualEndTime": "2024-06-13T11:42:05Z",
       "scheduledStartTime": "2024-06-13T08:45:00Z"
+    }
+  },
+  "-LpCH3lLF7E": {
+    "snippet": {
+      "publishedAt": "2024-06-14T06:43:26Z",
+      "channelId": "UCFgXWZOUZA2oYHNr6qDmsTQ",
+      "title": "V-RISING: I WILL RIDE YOUR V~"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-14T07:02:06Z",
+      "actualEndTime": "2024-06-14T13:08:53Z",
+      "scheduledStartTime": "2024-06-14T07:00:00Z",
+      "activeLiveChatId": "Cg0KCy1McENIM2xMRjdFKicKGFVDRmdYV1pPVVpBMm9ZSE5yNnFEbXNUURILLUxwQ0gzbExGN0U"
     }
   }
 }

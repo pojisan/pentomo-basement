@@ -388,8 +388,9 @@
       "title": "\u3010SIGNALIS\u3011My heart can't take much more of this\u3010Yume+ | Aimee\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-14T08:30:00Z",
-      "activeLiveChatId": "Cg0KC01RaXV2MGM5REs4KicKGFVDX3Q3d3RTY1ZMazg1SWFEOWpZU1JBQRILTVFpdXYwYzlESzg"
+      "actualStartTime": "2024-06-14T08:29:06Z",
+      "actualEndTime": "2024-06-14T12:44:12Z",
+      "scheduledStartTime": "2024-06-14T08:30:00Z"
     }
   },
   "aBUfJV4qn8Y": {
@@ -413,6 +414,17 @@
       "actualStartTime": "2024-06-13T03:51:00Z",
       "actualEndTime": "2024-06-13T11:14:17Z",
       "scheduledStartTime": "2024-06-13T04:00:00Z"
+    }
+  },
+  "D-6wU0QbTaY": {
+    "snippet": {
+      "publishedAt": "2024-06-11T15:24:18Z",
+      "channelId": "UC_t7wtScVLk85IaD9jYSRAA",
+      "title": "\u3010Kouhai Karaoke Relay\u3011I WILL SING FOR YOU WITH ALL MY LOVE~\u3010Yume+ | Aimee\u3011#KouHype24"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-16T00:15:00Z",
+      "activeLiveChatId": "Cg0KC0QtNndVMFFiVGFZKicKGFVDX3Q3d3RTY1ZMazg1SWFEOWpZU1JBQRILRC02d1UwUWJUYVk"
     }
   }
 }

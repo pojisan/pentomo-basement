@@ -5681,8 +5681,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-13T21:02:03Z",
       "actualEndTime": "2024-06-14T03:49:37Z",
-      "scheduledStartTime": "2024-06-13T21:00:00Z",
-      "activeLiveChatId": "Cg0KC01iYjYzVkxlQXdNKicKGFVDTzR6TWFZQkV6ZFlJU2Zlb082aXBfURILTWJiNjNWTGVBd00"
+      "scheduledStartTime": "2024-06-13T21:00:00Z"
     }
   },
   "idhVDc-6sL0": {
@@ -5759,6 +5758,19 @@
       "actualStartTime": "2024-06-12T23:10:32Z",
       "actualEndTime": "2024-06-13T01:24:08Z",
       "scheduledStartTime": "2024-06-12T23:00:00Z"
+    }
+  },
+  "E80lZ8Y8TTA": {
+    "snippet": {
+      "publishedAt": "2024-06-14T04:32:00Z",
+      "channelId": "UCO4zMaYBEzdYISfeoO6ip_Q",
+      "title": "Writing in Japanese Pokemon Book!\u3010 Handcam\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-14T09:01:56Z",
+      "actualEndTime": "2024-06-14T11:20:47Z",
+      "scheduledStartTime": "2024-06-14T09:00:00Z",
+      "activeLiveChatId": "Cg0KC0U4MGxaOFk4VFRBKicKGFVDTzR6TWFZQkV6ZFlJU2Zlb082aXBfURILRTgwbFo4WThUVEE"
     }
   }
 }
