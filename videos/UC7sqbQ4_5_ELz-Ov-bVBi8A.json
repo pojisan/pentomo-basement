@@ -282,7 +282,8 @@
       "title": "\u3010Casual Chat\u3011End of the Week Chat!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-14T16:00:43Z",
+      "actualStartTime": "2024-06-14T16:00:48Z",
+      "scheduledStartTime": "2024-06-14T16:00:37Z",
       "activeLiveChatId": "Cg0KC21KTGVFNnBsRlZzKicKGFVDN3NxYlE0XzVfRUx6LU92LWJWQmk4QRILbUpMZUU2cGxGVnM"
     }
   },
@@ -294,6 +295,7 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-14T13:00:29Z",
+      "actualEndTime": "2024-06-14T16:00:14Z",
       "scheduledStartTime": "2024-06-14T13:00:20Z",
       "activeLiveChatId": "Cg0KC1QyWUNXbjZGUWVJKicKGFVDN3NxYlE0XzVfRUx6LU92LWJWQmk4QRILVDJZQ1duNkZRZUk"
     }
