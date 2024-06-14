@@ -1070,7 +1070,8 @@
       "title": "\u3010FUWAMOCO MORNING\u3011episode 99 \ud83d\udc3e #FWMCMORNING"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-14T15:00:00Z"
+      "scheduledStartTime": "2024-06-14T15:00:00Z",
+      "activeLiveChatId": "Cg0KCzhjT09DcHQ2SE5NKicKGFVDdDlIX1JwUXpoeHpseUJ4RnFyZEhxQRILOGNPT0NwdDZITk0"
     }
   },
   "8vrLrc6iLfM": {
@@ -3778,6 +3779,7 @@
       "title": "\u3010\u9b3c\u755c\u30b2\u30fc\u3011\uff11\uff10\uff10\u56de\u6b7b\u306c\u307e\u3067\u306b\u30af\u30ea\u30a2\u3057\u307e\u3059\u308f\u3002\u58f1\u767e\u6e80\u5929\u539f\u306a\u306e\u3067\u3002\u3010\u3067\u3059\u308f\uff5e\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-14T14:00:47Z",
       "scheduledStartTime": "2024-06-14T14:00:00Z",
       "activeLiveChatId": "Cg0KC1RxZWVPdWVtcHdnKicKGFVDZ0lmTHBRdmVsbG9EaThJMFljYndwZxILVHFlZU91ZW1wd2c"
     }
@@ -4271,6 +4273,7 @@
       "title": "FIGHT FIGHT FIGHT FIGHT FIGHT"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-14T13:59:29Z",
       "scheduledStartTime": "2024-06-14T14:00:00Z",
       "activeLiveChatId": "Cg0KC1lYWDY2amlTM1owKicKGFVDb05oejRPcXl4ZEV1dWZtRXo4ZW95QRILWVhYNjZqaVMzWjA"
     }
@@ -4627,6 +4630,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-17T00:00:00Z",
       "activeLiveChatId": "Cg0KC2FYSmJkc1VDX193KicKGFVDYXNadnNrRkNfU0hzNkxYeDJfMjZjURILYVhKYmRzVUNfX3c"
+    }
+  },
+  "apollomythos": {
+    "snippet": {
+      "channelId": "apollomythos",
+      "title": "18+ \u2600\ufe0fSun Mommy Goddess ll  chatting w Adora  (SOUND ALERTS R ON) \u3010!discord\u3011\u3010!mythos\u3011\u3010!raid\u3011\u3010!Donate\u3011",
+      "channelTitle": "ApolloMythos"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-14T14:00:47Z",
+      "twitch": true
     }
   },
   "auCkpoNM1yE": {
@@ -5687,7 +5701,7 @@
     "snippet": {
       "publishedAt": "2023-12-03T02:36:43Z",
       "channelId": "UC1eX_MVrN0EBKdpkn9b-jhw",
-      "title": "\u3010 STREAM SCHEDULE \u30113rd June 2024 - 9th June 2024\u3010 MASAKI RINA \u3011"
+      "title": "\u3010 STREAM SCHEDULE \u301117th June 2024 - 23rd June 2024\u3010 MASAKI RINA \u3011"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-12-31T15:45:00Z",
@@ -5949,6 +5963,7 @@
       "title": "\u3010HEAVY RAIN\u3011\u5fc3\u3092\u6289\u308b\u3001\u5927\u4eba\u306e\u305f\u3081\u306e\u30b5\u30a4\u30b3\u30fb\u30b5\u30b9\u30da\u30f3\u30b9\u3010#\u5deb\u30ed\u30ad/Phase Connect\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-14T14:01:10Z",
       "scheduledStartTime": "2024-06-14T14:00:00Z",
       "activeLiveChatId": "Cg0KC25uTjR3Zk1MR0ZrKicKGFVDdWNKWUxKU0VGUlJmVjJDQV9KR0hJURILbm5ONHdmTUxHRms"
     }
