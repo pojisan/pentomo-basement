@@ -1579,6 +1579,7 @@
       "title": "\u3010SISTER SOUL-LINK\u3011THIS IS THE RUN!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-14T16:04:59Z",
       "scheduledStartTime": "2024-06-14T16:00:00Z",
       "activeLiveChatId": "Cg0KC0VLeTlpZ1BCSGNVKicKGFVDbGNNVDlWOWl1N3hwaGtIVkhnbEhUZxILRUt5OWlnUEJIY1U"
     }
@@ -2087,18 +2088,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-15T23:00:00Z",
       "activeLiveChatId": "Cg0KC0hIQ1hfSHM3ZExJKicKGFVDWmw5MndNaXBqWUZjMVVsbTlZeTY1ZxILSEhDWF9IczdkTEk"
-    }
-  },
-  "HK8NItg_7Ow": {
-    "snippet": {
-      "publishedAt": "2024-06-14T11:37:31Z",
-      "channelId": "UCqjTqdVlvIipZXIKeCkHKUA",
-      "title": "\u3010\u30c4\u30a4\u30b9\u30c6\u30c3\u30c9\u30ef\u30f3\u30c0\u30fc\u30e9\u30f3\u30c9\u3011\u516d\u7ae0\u305d\u306e\uff14\uff01\u30c1\u30fc\u30e0\u4e00\u4e38\u3067\u30bf\u30eb\u30bf\u30ed\u30b9\u653b\u7565\u6226\uff01\uff01\u304c\u3093\u3070\u308c\u76e3\u7763\u751f\u6559\u6388\u3010\u30aa\u30ea\u30d0\u30fc\u30fb\u30a8\u30d0\u30f3\u30b9/\u306b\u3058\u3055\u3093\u3058\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-14T12:05:13Z",
-      "scheduledStartTime": "2024-06-14T12:00:00Z",
-      "activeLiveChatId": "Cg0KC0hLOE5JdGdfN093KicKGFVDcWpUcWRWbHZJaXBaWElLZUNrSEtVQRILSEs4Tkl0Z183T3c"
     }
   },
   "HXYNBzRc5y4": {
@@ -4259,18 +4248,6 @@
       "activeLiveChatId": "Cg0KC1lMRVhyT3RaaFpnKicKGFVDQjdxeW5KOXFwMGNOV1JGZUJhd0I0QRILWUxFWHJPdFpoWmc"
     }
   },
-  "YXX66jiS3Z0": {
-    "snippet": {
-      "publishedAt": "2024-06-14T11:15:32Z",
-      "channelId": "UCoNhz4OqyxdEuufmEz8eoyA",
-      "title": "FIGHT FIGHT FIGHT FIGHT FIGHT"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-14T13:59:29Z",
-      "scheduledStartTime": "2024-06-14T14:00:00Z",
-      "activeLiveChatId": "Cg0KC1lYWDY2amlTM1owKicKGFVDb05oejRPcXl4ZEV1dWZtRXo4ZW95QRILWVhYNjZqaVMzWjA"
-    }
-  },
   "Ye3gcEzRlN4": {
     "snippet": {
       "publishedAt": "2023-05-20T09:29:57Z",
@@ -5423,6 +5400,17 @@
       "activeLiveChatId": "Cg0KC2lYMC1aSVV5bnpFKicKGFVDS0pleGFkQ2VObzNsdTBVMjBza21OZxILaVgwLVpJVXluekU"
     }
   },
+  "inumaromugi": {
+    "snippet": {
+      "channelId": "inumaromugi",
+      "title": "\u3010Eri\u3011quiet night karaoke | #Sponsorship |\u2726 \u207a.",
+      "channelTitle": "InumaroMugi"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-14T16:07:45Z",
+      "twitch": true
+    }
+  },
   "j6Kd6s3nsEw": {
     "snippet": {
       "publishedAt": "2024-06-10T00:59:22Z",
@@ -5442,6 +5430,17 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC2o3ZHNSbjk3aWkwKicKGFVDbjViUF9oTEw1SEI2Ulc4WDMya3cxQRILajdkc1JuOTdpaTA"
+    }
+  },
+  "jAvNSJU2avs": {
+    "snippet": {
+      "publishedAt": "2024-06-14T16:05:57Z",
+      "channelId": "UCbrbFKFhyHD4bMJbEcXZz1g",
+      "title": "Unboxing the Weirdest Instrument! Guess which Otamatone I got! \u3010Zatsudan\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-18T12:00:00Z",
+      "activeLiveChatId": "Cg0KC2pBdk5TSlUyYXZzKicKGFVDYnJiRktGaHlIRDRiTUpiRWNYWnoxZxILakF2TlNKVTJhdnM"
     }
   },
   "jMh9CrWpBYE": {
@@ -5851,6 +5850,7 @@
       "title": "\u3010GUILTY GEAR STRIVE\u3011It's time to play Baiken!! Also battles with viewers!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-14T16:05:58Z",
       "scheduledStartTime": "2024-06-14T16:00:00Z",
       "activeLiveChatId": "Cg0KC25QaW5rVzdMbHRFKicKGFVDbHhqM0dsR3BoWlZnZDFTTFloWkttZxILblBpbmtXN0xsdEU"
     }
@@ -6452,18 +6452,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-15T11:00:00Z",
       "activeLiveChatId": "Cg0KC3NVN05lY2FJWmlZKicKGFVDSXUxclJpUUxlVVU4ZTFzYU42STBlZxILc1U3TmVjYUlaaVk"
-    }
-  },
-  "sUYePGL0Wkw": {
-    "snippet": {
-      "publishedAt": "2024-06-14T12:28:27Z",
-      "channelId": "UC-W-yaVIjqkXoh6dZ6_TcMA",
-      "title": "\u3010CHAT\u3011 i touched grass. didn't like it."
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-14T12:59:27Z",
-      "scheduledStartTime": "2024-06-14T13:15:00Z",
-      "activeLiveChatId": "Cg0KC3NVWWVQR0wwV2t3KicKGFVDLVcteWFWSWpxa1hvaDZkWjZfVGNNQRILc1VZZVBHTDBXa3c"
     }
   },
   "sVcoTTSoggo": {
