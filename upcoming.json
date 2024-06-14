@@ -1094,6 +1094,7 @@
       "title": "\u98a8\u90aa\u304c\u6cbb\u3063\u305f\u306e\u3067\u304a\u3057\u3083\u3079\u308a\u3059\u308bze\u3010 \u96d1\u8ac7\uffe4\u93d1\u6728\u308d\u3053\uffe4\u306b\u3058\u3055\u3093\u3058 \u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-14T05:30:37Z",
       "scheduledStartTime": "2024-06-14T05:30:00Z",
       "activeLiveChatId": "Cg0KCzkyZDdidFNYM3NFKicKGFVDbHJRN3hoUkJ4U192Xy1XdXVkR0ttQRILOTJkN2J0U1gzc0U"
     }
@@ -3100,18 +3101,6 @@
       "activeLiveChatId": "Cg0KC1BDVGQtX05vcGM4KicKGFVDS3pLZ1UteGxuY2RFRzVXb3VxVGZ5ZxILUENUZC1fTm9wYzg"
     }
   },
-  "PICRFvoMc_I": {
-    "snippet": {
-      "publishedAt": "2024-06-12T08:40:32Z",
-      "channelId": "UC-1_-jUu-lALdGn9-MdBJ4Q",
-      "title": "Shadow of the Samurai\u3010Ghost of Tsushima\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-14T01:00:13Z",
-      "scheduledStartTime": "2024-06-14T01:00:00Z",
-      "activeLiveChatId": "Cg0KC1BJQ1JGdm9NY19JKicKGFVDLTFfLWpVdS1sQUxkR245LU1kQko0URILUElDUkZ2b01jX0k"
-    }
-  },
   "PIDxy5CKmqA": {
     "snippet": {
       "publishedAt": "2023-10-04T15:44:13Z",
@@ -4729,17 +4718,6 @@
       "activeLiveChatId": "Cg0KC2N1VkJQdDhUUjBFKicKGFVDQmdoVUtBX0wwbmEwU2VRNnNuek1NURILY3VWQlB0OFRSMEU"
     }
   },
-  "cwstal": {
-    "snippet": {
-      "channelId": "cwstal",
-      "title": "dbd anniversary\u25dd(\u1d54\u15dc\u1d54)\u25dc",
-      "channelTitle": "cwstal"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-14T00:47:41Z",
-      "twitch": true
-    }
-  },
   "d-U2t6BuMNU": {
     "snippet": {
       "publishedAt": "2023-06-12T16:00:17Z",
@@ -6274,7 +6252,7 @@
       "title": "\ud83d\udca5\u3010GUERILLA SMASH\u3011LATE NIGHT SMASHING TEEHEE\u3010Yume+ | Raein Clowd\u3011"
     },
     "liveStreamingDetails": {
-      "actualStartTime": "2024-06-14T05:21:22Z",
+      "actualStartTime": "2024-06-14T05:21:53Z",
       "scheduledStartTime": "2024-06-14T05:45:00Z",
       "activeLiveChatId": "Cg0KC3FPZHBjcjhYWDdZKicKGFVDVlBCR21sc0M4Uy1UTmFfSUVWY3oxQRILcU9kcGNyOFhYN1k"
     }
