@@ -743,8 +743,18 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-15T20:03:43Z",
       "actualEndTime": "2024-06-15T22:10:51Z",
-      "scheduledStartTime": "2024-06-15T20:03:33Z",
-      "activeLiveChatId": "Cg0KC0ZLNzhIcFRBM2o0KicKGFVDc0ZnZGF6TWVRdGY4bEh2SVNCMURMURILRks3OEhwVEEzajQ"
+      "scheduledStartTime": "2024-06-15T20:03:33Z"
+    }
+  },
+  "7vu-ROgSaTk": {
+    "snippet": {
+      "publishedAt": "2024-06-15T22:10:26Z",
+      "channelId": "UCsFgdazMeQtf8lHvISB1DLQ",
+      "title": "\u3010New Model Reveal\u3011HELLOHELLOHELLOHELLO"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-18T20:00:00Z",
+      "activeLiveChatId": "Cg0KCzd2dS1ST2dTYVRrKicKGFVDc0ZnZGF6TWVRdGY4bEh2SVNCMURMURILN3Z1LVJPZ1NhVGs"
     }
   }
 }
