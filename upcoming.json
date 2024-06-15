@@ -3513,10 +3513,10 @@
     "snippet": {
       "publishedAt": "2024-06-11T21:09:45Z",
       "channelId": "UCkwBR9e5rCI2gmmlQy-bzfQ",
-      "title": "\u3010League of Legends\u3011MORE RANKED ENDURANCE! \ud83d\udd78\ufe0f \u3010VOLs\u3011"
+      "title": "\u3010League of Legends\u3011competitive spooder?! \ud83d\udd78\ufe0f \u3010VOLs\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-15T11:00:00Z",
+      "scheduledStartTime": "2024-06-15T11:30:00Z",
       "activeLiveChatId": "Cg0KC1RSek9DUXBCYVBjKicKGFVDa3dCUjllNXJDSTJnbW1sUXktYnpmURILVFJ6T0NRcEJhUGM"
     }
   },
@@ -4243,9 +4243,10 @@
     "snippet": {
       "publishedAt": "2024-06-14T13:37:27Z",
       "channelId": "UCaxiDe_TuMLXkwRMVLm5VwQ",
-      "title": "Road to 6000 subscribers! Talking, gaming, existential crisis, and more!"
+      "title": "Road to 6000 subscribers! Talking, gaming, existential crisis, and more! #shortsvideo #shorts"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-15T10:30:36Z",
       "scheduledStartTime": "2024-06-15T10:30:00Z",
       "activeLiveChatId": "Cg0KC1pFa2Y4cmpqUHVJKicKGFVDYXhpRGVfVHVNTFhrd1JNVkxtNVZ3URILWkVrZjhyampQdUk"
     }
@@ -5984,6 +5985,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-04-28T09:00:00Z",
       "activeLiveChatId": "Cg0KC3JnZGk4YnRlUWdjKicKGFVDOHpnS2FTOExpeUwyOG1kaFJDMm5CZxILcmdkaThidGVRZ2M"
+    }
+  },
+  "riyu_thelamb": {
+    "snippet": {
+      "channelId": "riyu_thelamb",
+      "title": "YEEHAW MISTER\u3010PROJECT VERSES\u3011",
+      "channelTitle": "riyu_thelamb"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-15T10:30:09Z",
+      "twitch": true
     }
   },
   "rn2SX1mvIyc": {
