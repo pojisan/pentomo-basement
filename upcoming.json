@@ -214,18 +214,6 @@
       "activeLiveChatId": "Cg0KCzBuQ2ZuU3lSbl9vKicKGFVDN3NxYlE0XzVfRUx6LU92LWJWQmk4QRILMG5DZm5TeVJuX28"
     }
   },
-  "0xeQmYlgahg": {
-    "snippet": {
-      "publishedAt": "2024-06-14T23:05:09Z",
-      "channelId": "UC9mydBOLdL6-Fp61paK68Tw",
-      "title": "It's been a good run... RIP Rosco\u3010The Past Within\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-15T19:00:36Z",
-      "scheduledStartTime": "2024-06-15T19:00:00Z",
-      "activeLiveChatId": "Cg0KCzB4ZVFtWWxnYWhnKicKGFVDOW15ZEJPTGRMNi1GcDYxcGFLNjhUdxILMHhlUW1ZbGdhaGc"
-    }
-  },
   "0xzsJpuIwso": {
     "snippet": {
       "publishedAt": "2024-05-05T01:48:42Z",
@@ -973,6 +961,7 @@
       "title": "A wild stream appeared\u3010Just Chatting/Zatsudan\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-15T21:02:34Z",
       "scheduledStartTime": "2024-06-15T21:00:00Z",
       "activeLiveChatId": "Cg0KCzk1ZTlxdnlwTjZNKicKGFVDTzR6TWFZQkV6ZFlJU2Zlb082aXBfURILOTVlOXF2eXBONk0"
     }
@@ -987,18 +976,6 @@
       "actualStartTime": "2024-06-15T19:31:42Z",
       "scheduledStartTime": "2024-06-15T19:30:00Z",
       "activeLiveChatId": "Cg0KCzk4UFZaU2xMaWJVKicKGFVDdURtVWwzV1k0MUZxR0lfYlVyNjJQQRILOThQVlpTbExpYlU"
-    }
-  },
-  "9JiVYnlBJgo": {
-    "snippet": {
-      "publishedAt": "2024-06-15T07:04:35Z",
-      "channelId": "UCsQqk4cn8pljUeadYbUVgyg",
-      "title": "\u3010The Past Within\u3011 Some weird old timey-wimey adventure! w/ Cassian Floros"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-15T19:01:00Z",
-      "scheduledStartTime": "2024-06-15T19:00:00Z",
-      "activeLiveChatId": "Cg0KCzlKaVZZbmxCSmdvKicKGFVDc1FxazRjbjhwbGpVZWFkWWJVVmd5ZxILOUppVllubEJKZ28"
     }
   },
   "9UJqw1XaVv0": {
@@ -1128,18 +1105,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-01-29T08:05:00Z",
       "activeLiveChatId": "Cg0KC0ItYW1memh4X05RKicKGFVDX2tWSmhCUUM2VERGeXNOOVR1UFNZZxILQi1hbWZ6aHhfTlE"
-    }
-  },
-  "B1Jq3akYYjk": {
-    "snippet": {
-      "publishedAt": "2024-06-15T13:08:47Z",
-      "channelId": "UClpOEZoIYhxIY6n5NNGaPbA",
-      "title": "\u3010Phase Weekly\u3011\u301006/08~ 06/14\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-15T20:00:04Z",
-      "scheduledStartTime": "2024-06-15T20:00:00Z",
-      "activeLiveChatId": "Cg0KC0IxSnEzYWtZWWprKicKGFVDbHBPRVpvSVloeElZNm41Tk5HYVBiQRILQjFKcTNha1lZams"
     }
   },
   "B3fqjNnNRg8": {
@@ -3848,7 +3813,7 @@
       "title": "pink"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-15T21:30:00Z",
+      "scheduledStartTime": "2024-06-15T21:45:00Z",
       "activeLiveChatId": "Cg0KC1o0RGlMY3dWeFFVKicKGFVDeUY3U2VJeVdsVXpua19zZ19YakM4URILWjREaUxjd1Z4UVU"
     }
   },
@@ -4516,7 +4481,7 @@
       "channelTitle": "EliaStellaria"
     },
     "liveStreamingDetails": {
-      "actualStartTime": "2024-06-15T21:00:04Z",
+      "actualStartTime": "2024-06-15T21:01:53Z",
       "twitch": true
     }
   },
@@ -4722,6 +4687,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-05-24T14:00:00Z",
       "activeLiveChatId": "Cg0KC2hZWl9sZ3R1YWVrKicKGFVDcjhOWjlqT3JyVmNJUm5hSFpDakpVZxILaFlaX2xndHVhZWs"
+    }
+  },
+  "haruna": {
+    "snippet": {
+      "channelId": "haruna",
+      "title": "PEX",
+      "channelTitle": "haruna"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-15T21:10:56Z",
+      "twitch": true
     }
   },
   "hisWk9dPxxk": {
@@ -5010,17 +4986,6 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC2xQR2hoN0lQWFJRKicKGFVDS250czhTX2hheWpRSU9YdFFLQ1ZJZxILbFBHaGg3SVBYUlE"
-    }
-  },
-  "lVSC1AcieLc": {
-    "snippet": {
-      "publishedAt": "2024-06-15T21:00:02Z",
-      "channelId": "UCO4zMaYBEzdYISfeoO6ip_Q",
-      "title": "heeeeeelp \u3010Elden Ring\u3011"
-    },
-    "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-15T21:00:11Z",
-      "activeLiveChatId": "Cg0KC2xWU0MxQWNpZUxjKicKGFVDTzR6TWFZQkV6ZFlJU2Zlb082aXBfURILbFZTQzFBY2llTGM"
     }
   },
   "lWLkxIN0jsw": {

@@ -5784,7 +5784,8 @@
     "snippet": {
       "publishedAt": "2024-06-15T21:00:02Z",
       "channelId": "UCO4zMaYBEzdYISfeoO6ip_Q",
-      "title": "heeeeeelp \u3010Elden Ring\u3011"
+      "title": "heeeeeelp \u3010Elden Ring\u3011",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-15T21:00:11Z",
@@ -5798,6 +5799,7 @@
       "title": "A wild stream appeared\u3010Just Chatting/Zatsudan\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-15T21:02:34Z",
       "scheduledStartTime": "2024-06-15T21:00:00Z",
       "activeLiveChatId": "Cg0KCzk1ZTlxdnlwTjZNKicKGFVDTzR6TWFZQkV6ZFlJU2Zlb082aXBfURILOTVlOXF2eXBONk0"
     }
