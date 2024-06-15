@@ -186,17 +186,6 @@
       "activeLiveChatId": "Cg0KCzA4bGo2VGdiMWc0KicKGFVDRkhkRUFIUGJGVWpnSjFSYU9fQXc2dxILMDhsajZUZ2IxZzQ"
     }
   },
-  "0M39JqbAxlE": {
-    "snippet": {
-      "publishedAt": "2024-06-14T22:01:12Z",
-      "channelId": "UCBURM8S4LH7cRZ0Clea9RDA",
-      "title": "\u3010APEX w/ Maririn + Yun kun\u3011BACK TO BACK\u3010NIJISANJI EN | Reimu Endou\u3011"
-    },
-    "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-15T13:00:00Z",
-      "activeLiveChatId": "Cg0KCzBNMzlKcWJBeGxFKicKGFVDQlVSTThTNExIN2NSWjBDbGVhOVJEQRILME0zOUpxYkF4bEU"
-    }
-  },
   "0MI5RFT38Ts": {
     "snippet": {
       "publishedAt": "2022-06-16T11:14:32Z",
@@ -2165,6 +2154,7 @@
       "title": "\u3010GUERILLA\u3011 uwu i'm a bit tipsy rn"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-15T03:01:08Z",
       "scheduledStartTime": "2024-06-15T03:00:00Z",
       "activeLiveChatId": "Cg0KC0hkcThkMktTZHZvKicKGFVDQ0E0akpZNVByVGZJRkpJY2JJX05oURILSGRxOGQyS1Nkdm8"
     }
@@ -2210,6 +2200,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-16T14:00:00Z",
       "activeLiveChatId": "Cg0KC0hrdFJOZ0tMTFFJKicKGFVDVm1oZzR3Y1RWcGp5Q29LRFk1OW1ZdxILSGt0Uk5nS0xMUUk"
+    }
+  },
+  "I07YBpdtqNM": {
+    "snippet": {
+      "publishedAt": "2024-06-15T02:58:39Z",
+      "channelId": "UCw0o2kSur-iqm82GMKUmVhQ",
+      "title": "Trying To Sight Read Piano Music?! BRO I CAN'T - Kenbishi Saya \u5263\u83f1\u54b2\u591c"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-15T03:00:00Z",
+      "activeLiveChatId": "Cg0KC0kwN1lCcGR0cU5NKicKGFVDdzBvMmtTdXItaXFtODJHTUtVbVZoURILSTA3WUJwZHRxTk0"
     }
   },
   "I7xOH5sPIo8": {
@@ -2782,6 +2783,7 @@
       "title": "\u3010Mass Effect 2\u3011 We're going on a trip in our favorite rocketship"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-15T02:59:49Z",
       "scheduledStartTime": "2024-06-15T03:00:41Z",
       "activeLiveChatId": "Cg0KC01Ydk1MUThfb0FBKicKGFVDS2FiWC1GbmFCenRjeG1nZXgyLWZZQRILTVh2TUxROF9vQUE"
     }
@@ -4607,6 +4609,17 @@
       "activeLiveChatId": "Cg0KC2JXckt5NjVJT0FjKicKGFVDVlFFYmpBY0pSZVB4T0RWTTVtV0N2URILYldyS3k2NUlPQWM"
     }
   },
+  "bajiru_en": {
+    "snippet": {
+      "channelId": "bajiru_en",
+      "title": "\u3010KARAOKE\u3011IM SING.\ud83c\udf31 || !socials !advgg !sl",
+      "channelTitle": "bajiru_EN"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-15T02:57:19Z",
+      "twitch": true
+    }
+  },
   "blLWBuPq8j0": {
     "snippet": {
       "publishedAt": "2024-01-23T17:27:26Z",
@@ -4692,17 +4705,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-17T01:00:00Z",
       "activeLiveChatId": "Cg0KC2N1VkJQdDhUUjBFKicKGFVDQmdoVUtBX0wwbmEwU2VRNnNuek1NURILY3VWQlB0OFRSMEU"
-    }
-  },
-  "cwstal": {
-    "snippet": {
-      "channelId": "cwstal",
-      "title": "spoopy game \u0aee\u208d\u02f6\u00d3\ufe4f\u00d2 \u2445\u208e\u10d0 | @generic_vt @monoupa @manakarei",
-      "channelTitle": "cwstal"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-15T00:24:46Z",
-      "twitch": true
     }
   },
   "d-U2t6BuMNU": {
@@ -6111,6 +6113,7 @@
       "title": "\u3010Harvester\u3011You're such a kidder, Senpai\u3010VAllure\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-15T03:01:04Z",
       "scheduledStartTime": "2024-06-15T03:00:00Z",
       "activeLiveChatId": "Cg0KC3FleUNXcGxKSm93KicKGFVDelJSdndmZlJBNTdsWW9Zd0Nzbko3QRILcWV5Q1dwbEpKb3c"
     }
