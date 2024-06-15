@@ -202,6 +202,7 @@
       "title": "\u3010MEMBERS ONLY\u3011 UNARCHIVED KARAOKE with MOCOPI"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-15T03:49:16Z",
       "scheduledStartTime": "2024-06-15T03:45:00Z",
       "activeLiveChatId": "Cg0KCzBSOFlOR21LOU5rKicKGFVDM241dUd1MThGb0N5MjNnZ1dXcDh0QRILMFI4WU5HbUs5Tms"
     }
@@ -4523,6 +4524,17 @@
       "activeLiveChatId": "Cg0KC2FYSmJkc1VDX193KicKGFVDYXNadnNrRkNfU0hzNkxYeDJfMjZjURILYVhKYmRzVUNfX3c"
     }
   },
+  "adventureralm": {
+    "snippet": {
+      "channelId": "adventureralm",
+      "title": "Hunting Monsters | !discord !socials !bounty",
+      "channelTitle": "AdventurerAlm"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-15T03:43:11Z",
+      "twitch": true
+    }
+  },
   "apolloalto": {
     "snippet": {
       "channelId": "apolloalto",
@@ -5743,10 +5755,11 @@
     "snippet": {
       "publishedAt": "2024-06-09T11:23:06Z",
       "channelId": "UCFgXWZOUZA2oYHNr6qDmsTQ",
-      "title": "Let's make Omurice! ( i wanna live my kichi kichi dreams!)"
+      "title": "come hang out with my tummy hurt :,3"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-15T04:00:00Z",
+      "actualStartTime": "2024-06-15T03:44:23Z",
+      "scheduledStartTime": "2024-06-15T03:45:00Z",
       "activeLiveChatId": "Cg0KC28xNGVoOU5VcnlZKicKGFVDRmdYV1pPVVpBMm9ZSE5yNnFEbXNUURILbzE0ZWg5TlVyeVk"
     }
   },
