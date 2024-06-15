@@ -1516,18 +1516,6 @@
       "activeLiveChatId": "Cg0KC0ZIdkI2QkJIYlFjKicKGFVDMk5lNmREY0Z4bk0yaENCTGlpM0lVZxILRkh2QjZCQkhiUWM"
     }
   },
-  "FK78HpTA3j4": {
-    "snippet": {
-      "publishedAt": "2024-06-12T16:30:55Z",
-      "channelId": "UCsFgdazMeQtf8lHvISB1DLQ",
-      "title": "\u3010Facecam + Handcam\u3011\ud83e\udde9Solving n' chilling.. n' teasing something? hehe"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-15T20:03:43Z",
-      "scheduledStartTime": "2024-06-15T20:03:33Z",
-      "activeLiveChatId": "Cg0KC0ZLNzhIcFRBM2o0KicKGFVDc0ZnZGF6TWVRdGY4bEh2SVNCMURMURILRks3OEhwVEEzajQ"
-    }
-  },
   "FMLm-Irk6kw": {
     "snippet": {
       "publishedAt": "2023-12-05T04:08:28Z",
@@ -1683,18 +1671,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-06-18T02:00:00Z",
       "activeLiveChatId": "Cg0KC0dUb083cXRoUjBzKicKGFVDYmkzTU01LVFQNE1ZMVlrV2Z2NFVKQRILR1RvTzdxdGhSMHM"
-    }
-  },
-  "GYLEhqMZ2Ro": {
-    "snippet": {
-      "publishedAt": "2024-06-10T04:51:48Z",
-      "channelId": "UCwmG_7y6pToRWHJ9TwFdZ1Q",
-      "title": "\u3010Crash Bandicoot Warped\u3011BLAST FROM MY PAST LET'S GO AGAIN!!!\ud83e\udd91\ud83d\uded0\u3010VAllure\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-15T18:03:11Z",
-      "scheduledStartTime": "2024-06-15T18:00:00Z",
-      "activeLiveChatId": "Cg0KC0dZTEVocU1aMlJvKicKGFVDd21HXzd5NnBUb1JXSEo5VHdGZFoxURILR1lMRWhxTVoyUm8"
     }
   },
   "GZ3W6gvHMug": {
@@ -2394,6 +2370,7 @@
       "title": "SPOOKY SEQUEL! [AMANDA THE ADVENTURER 2] (DEMO)\u3010NIJISANJI EN | Doppio Dropscythe\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-15T22:02:37Z",
       "scheduledStartTime": "2024-06-15T22:00:00Z",
       "activeLiveChatId": "Cg0KC01HM3hOTnJONnVFKicKGFVDeTkxeEJsWV9CcmgzYm5IeEt0anJyZxILTUczeE5Ock42dUU"
     }
@@ -2865,6 +2842,7 @@
       "title": "DEBUT STREAM [Wonder Pop] WOW... You are as beautiful as a flower..."
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-15T22:06:57Z",
       "scheduledStartTime": "2024-06-15T22:00:00Z",
       "activeLiveChatId": "Cg0KC1FXQ3ljSUl3U0tzKicKGFVDRlZYdzhOTVBwLUxMaUp4RzgxTG1kdxILUVdDeWNJSXdTS3M"
     }
@@ -4898,6 +4876,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-06-24T22:00:00Z",
       "activeLiveChatId": "Cg0KC2tlMTZnRmdhbUdRKicKGFVDSzlsNnJUd1UzaGlTWmlqSU1xNTFHdxILa2UxNmdGZ2FtR1E"
+    }
+  },
+  "kenzokozima": {
+    "snippet": {
+      "channelId": "kenzokozima",
+      "title": "Sushi Time! Making some yummy food for the grandkits",
+      "channelTitle": "kenzokozima"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-15T22:04:10Z",
+      "twitch": true
     }
   },
   "l3uqelUhGhU": {
