@@ -2982,6 +2982,17 @@
       "activeLiveChatId": "Cg0KC09mbmJLbldIVVQwKicKGFVDZzdzVy1oMVBVb3dkaVI1SzRIbEJldxILT2ZuYktuV0hVVDA"
     }
   },
+  "OhS7Ej43MxE": {
+    "snippet": {
+      "publishedAt": "2024-06-15T15:13:33Z",
+      "channelId": "UCo7TRj3cS-f_1D9ZDmuTsjw",
+      "title": "\u3010\u6b4c\u67a0\u3011\u30a2\u30cb\u30e1\u30bd\u30f3\u30b0\u3057\u3070\u308a\u3092\u3057\u3066\u3082\u3088\u308d\u3057\u304f\u3066\uff1f\uff01\uff1f\uff01Singing Stream\u3010\u306b\u3058\u3055\u3093\u3058/\u753a\u7530\u3061\u307e\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-16T12:00:00Z",
+      "activeLiveChatId": "Cg0KC09oUzdFajQzTXhFKicKGFVDbzdUUmozY1MtZl8xRDlaRG11VHNqdxILT2hTN0VqNDNNeEU"
+    }
+  },
   "P-Q-eMri4Qo": {
     "snippet": {
       "publishedAt": "2023-05-30T20:46:28Z",
@@ -3897,18 +3908,6 @@
       "activeLiveChatId": "Cg0KC1hLempVX3pRWEJjKicKGFVDdXRjdVl0MDV0NmZ6OTNsMUlGZlkwdxILWEt6alVfelFYQmM"
     }
   },
-  "XLFDjBtY9do": {
-    "snippet": {
-      "publishedAt": "2024-06-14T13:47:50Z",
-      "channelId": "UCbrbFKFhyHD4bMJbEcXZz1g",
-      "title": "\u3010THE QUARRY\u3011  The start of a new story! Horror game!!"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-15T12:02:41Z",
-      "scheduledStartTime": "2024-06-15T12:00:00Z",
-      "activeLiveChatId": "Cg0KC1hMRkRqQnRZOWRvKicKGFVDYnJiRktGaHlIRDRiTUpiRWNYWnoxZxILWExGRGpCdFk5ZG8"
-    }
-  },
   "XLRIon--gXo": {
     "snippet": {
       "publishedAt": "2024-06-06T04:43:10Z",
@@ -4535,7 +4534,7 @@
   "cynth_ai": {
     "snippet": {
       "channelId": "cynth_ai",
-      "title": "In Borf We Trust | Minecarft",
+      "title": "Finding Borf 2.0 | Minecarft",
       "channelTitle": "cynth_AI"
     },
     "liveStreamingDetails": {
@@ -5264,17 +5263,6 @@
       "activeLiveChatId": "Cg0KC2tlMTZnRmdhbUdRKicKGFVDSzlsNnJUd1UzaGlTWmlqSU1xNTFHdxILa2UxNmdGZ2FtR1E"
     }
   },
-  "kirispica": {
-    "snippet": {
-      "channelId": "kirispica",
-      "title": "Game start!! \u3010Kirispica | V-Dere\u3011",
-      "channelTitle": "kirispica"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-15T13:43:47Z",
-      "twitch": true
-    }
-  },
   "l3uqelUhGhU": {
     "snippet": {
       "publishedAt": "2024-03-22T18:06:38Z",
@@ -5646,6 +5634,7 @@
       "title": "[#\u306b\u3058GTA] 1\u65e5\u76ee\u3000\u3088\u3002\u3002\u3088\u308d\u3057\u304f\u304a\u306d\u304c\u3044\u3057\u307e\u3059\u306b\u3083"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-15T15:19:47Z",
       "scheduledStartTime": "2024-06-15T15:00:00Z",
       "activeLiveChatId": "Cg0KC29OR3RIZ184QUZnKicKGFVDbFM2azN3MXNQd2xWRnFLMy15SUQ1QRILb05HdEhnXzhBRmc"
     }
@@ -6633,7 +6622,7 @@
       "channelTitle": "XiulanLong"
     },
     "liveStreamingDetails": {
-      "actualStartTime": "2024-06-15T13:45:20Z",
+      "actualStartTime": "2024-06-15T15:19:46Z",
       "twitch": true
     }
   },
