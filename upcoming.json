@@ -573,6 +573,7 @@
       "title": "MEMBERSHIP OPENING PARTY"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-15T22:32:42Z",
       "scheduledStartTime": "2024-06-15T22:30:00Z",
       "activeLiveChatId": "Cg0KCzN5MlloTno1bTdJKicKGFVDQmdoVUtBX0wwbmEwU2VRNnNuek1NURILM3kyWWhOejVtN0k"
     }
@@ -966,18 +967,6 @@
       "activeLiveChatId": "Cg0KCzk4UFZaU2xMaWJVKicKGFVDdURtVWwzV1k0MUZxR0lfYlVyNjJQQRILOThQVlpTbExpYlU"
     }
   },
-  "9UJqw1XaVv0": {
-    "snippet": {
-      "publishedAt": "2024-06-13T10:03:07Z",
-      "channelId": "UCRkdFGXwBtxvm9SsfmNmMZA",
-      "title": "\u3010Kouhai Karaoke Relay\u3011Soothing voice Angel at your service\ud83d\udc7c\ud83d\udc8e\u3010VReverie\u3011#KouHype2"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-15T22:15:35Z",
-      "scheduledStartTime": "2024-06-15T22:20:00Z",
-      "activeLiveChatId": "Cg0KCzlVSnF3MVhhVnYwKicKGFVDUmtkRkdYd0J0eHZtOVNzZm1ObU1aQRILOVVKcXcxWGFWdjA"
-    }
-  },
   "9iyEVa0FUUI": {
     "snippet": {
       "publishedAt": "2024-05-22T23:15:38Z",
@@ -1343,6 +1332,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-07-23T18:40:00Z",
       "activeLiveChatId": "Cg0KC0RlMnFMQjhMdS00KicKGFVDdTFJTnplZnczUjdNOS0zUUVIWW1NURILRGUycUxCOEx1LTQ"
+    }
+  },
+  "DoFRN3d3xeM": {
+    "snippet": {
+      "publishedAt": "2024-06-15T22:40:09Z",
+      "channelId": "UCpYf6C9QsP_BRf97vLuXlIA",
+      "title": "\u3010BEYOND: TWO SOULS\u3011GETTING THE JOB DONE\u3010NIJISANJI EN | Vantacrow Bringer\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-16T03:00:00Z",
+      "activeLiveChatId": "Cg0KC0RvRlJOM2QzeGVNKicKGFVDcFlmNkM5UXNQX0JSZjk3dkx1WGxJQRILRG9GUk4zZDN4ZU0"
     }
   },
   "DoTdHWE2p3M": {
@@ -3702,6 +3702,17 @@
       "activeLiveChatId": "Cg0KC1lzeXJSVzNyaWFBKicKGFVDNjRETUFZWG80bndURmZ2TlF6a1N3URILWXN5clJXM3JpYUE"
     }
   },
+  "YxaDafS7mOI": {
+    "snippet": {
+      "publishedAt": "2024-06-15T22:34:59Z",
+      "channelId": "UCqmSYkXLwsL0zEar5GooYkg",
+      "title": "\u3010BIRTHDAY STREAM PART TWO\u3011ok let's get lit\u3010Yume+ | Mimosa Shirosaki\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-16T05:00:00Z",
+      "activeLiveChatId": "Cg0KC1l4YURhZlM3bU9JKicKGFVDcW1TWWtYTHdzTDB6RWFyNUdvb1lrZxILWXhhRGFmUzdtT0k"
+    }
+  },
   "Z4DiLcwVxQU": {
     "snippet": {
       "publishedAt": "2024-06-09T05:22:28Z",
@@ -4821,6 +4832,17 @@
       "activeLiveChatId": "Cg0KC2staWZYU3VDMHFNKicKGFVDcVZ3UkdZY1Zhdlo0OXJHbVBCMURLQRILay1pZlhTdUMwcU0"
     }
   },
+  "kIB4fI5FJX0": {
+    "snippet": {
+      "publishedAt": "2024-06-15T22:32:26Z",
+      "channelId": "UCb_angfF8io1-1DrvK5k5LA",
+      "title": "\u3010POWERWASH SIM\u3011BLARGHGLRGGLHGLGFHH"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-20T03:00:00Z",
+      "activeLiveChatId": "Cg0KC2tJQjRmSTVGSlgwKicKGFVDYl9hbmdmRjhpbzEtMURydks1azVMQRILa0lCNGZJNUZKWDA"
+    }
+  },
   "kZzywplXI8c": {
     "snippet": {
       "publishedAt": "2022-11-29T08:15:04Z",
@@ -5394,17 +5416,6 @@
       "scheduledStartTime": "2024-06-30T14:00:00Z"
     }
   },
-  "qbdyRaIQ7JU": {
-    "snippet": {
-      "publishedAt": "2024-06-15T02:46:58Z",
-      "channelId": "UCKpKC3M5fkcEvtOr06dmYlA",
-      "title": "\u3010THE CLASSROOMS\u3011NO I CAN'T GO BACK TO SCHOOL PLEASE\u3010NIJISANJI EN | Yu Q. Wilson\u3011"
-    },
-    "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-16T01:00:00Z",
-      "activeLiveChatId": "Cg0KC3FiZHlSYUlRN0pVKicKGFVDS3BLQzNNNWZrY0V2dE9yMDZkbVlsQRILcWJkeVJhSVE3SlU"
-    }
-  },
   "qbofvmazG1k": {
     "snippet": {
       "publishedAt": "2023-02-15T16:19:38Z",
@@ -5693,7 +5704,7 @@
       "channelTitle": "StarryYozzy"
     },
     "liveStreamingDetails": {
-      "actualStartTime": "2024-06-15T19:34:40Z",
+      "actualStartTime": "2024-06-15T22:32:57Z",
       "twitch": true
     }
   },
@@ -6101,6 +6112,7 @@
       "title": "[Kouhai Karaoke Relay] PASS ME THE AUX I'M GONNA SING!! #KouHype24  [V&U | GEN 5]"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-15T22:38:38Z",
       "scheduledStartTime": "2024-06-15T22:40:00Z",
       "activeLiveChatId": "Cg0KC3g2UnAtUDBLcEM0KicKGFVDSDI0YXNpSXFzVlVRbHo4RnZYSmJjdxILeDZScC1QMEtwQzQ"
     }
