@@ -1725,6 +1725,7 @@
       "title": "YAPPIN"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-15T15:07:45Z",
       "scheduledStartTime": "2024-06-15T15:00:00Z",
       "activeLiveChatId": "Cg0KC0Z6NlZOYnZaWjJvKicKGFVDTkExSndCd1pza180VVUtOHM2Q1ZfQRILRno2Vk5idlpaMm8"
     }
@@ -2258,6 +2259,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-02-15T05:00:00Z",
       "activeLiveChatId": "Cg0KC0pQcGtXZHM5eXFzKicKGFVDRzU2WFdaZWJPM1RIV0w2R3FkTDZnQRILSlBwa1dkczl5cXM"
+    }
+  },
+  "JSBK1Xl2XQY": {
+    "snippet": {
+      "publishedAt": "2024-06-15T15:02:07Z",
+      "channelId": "UCVo_KgPNsDKxHwzib7uarCw",
+      "title": "Pyramid Head is SUS... - Silent Hill 2"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-15T18:30:00Z",
+      "activeLiveChatId": "Cg0KC0pTQksxWGwyWFFZKicKGFVDVm9fS2dQTnNES3hId3ppYjd1YXJDdxILSlNCSzFYbDJYUVk"
     }
   },
   "JVYAuk7zbeI": {
@@ -5455,17 +5467,6 @@
       "activeLiveChatId": "Cg0KC21fSlMxY2N2RWs4KicKGFVDX3Q3d3RTY1ZMazg1SWFEOWpZU1JBQRILbV9KUzFjY3ZFazg"
     }
   },
-  "makofukasame": {
-    "snippet": {
-      "channelId": "makofukasame",
-      "title": "Gooning (yes boss, sure thing boss) and boomer shootin in Fallen Aces  [vtuber] !vershion !gamersupps",
-      "channelTitle": "MakoFukasame"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-15T09:00:50Z",
-      "twitch": true
-    }
-  },
   "michiru_shisui": {
     "snippet": {
       "channelId": "michiru_shisui",
@@ -6250,18 +6251,6 @@
       "activeLiveChatId": "Cg0KC3RPeWpnYWU4UmZrKicKGFVDVEpDb0hFdDVjMjdyY2VxMnNoNjlrZxILdE95amdhZThSZms"
     }
   },
-  "tQHqIE8S-t4": {
-    "snippet": {
-      "publishedAt": "2024-06-15T12:35:34Z",
-      "channelId": "UCbvR46SQpOPRKMrVT8NoJTA",
-      "title": "\u3010Vertical Zatsu\u3011Who Up Playing with They Worm?? \ud83e\udeb1 #shorts"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-15T13:00:53Z",
-      "scheduledStartTime": "2024-06-15T13:00:00Z",
-      "activeLiveChatId": "Cg0KC3RRSHFJRThTLXQ0KicKGFVDYnZSNDZTUXBPUFJLTXJWVDhOb0pUQRILdFFIcUlFOFMtdDQ"
-    }
-  },
   "tcEaFcv2mxY": {
     "snippet": {
       "publishedAt": "2024-06-14T05:47:59Z",
@@ -6789,7 +6778,7 @@
   "zeusmythosvt": {
     "snippet": {
       "channelId": "zeusmythosvt",
-      "title": "\u300c \ud83c\udf29\ufe0f HALF ANNIV UNCAPPED SUBATHON \ud83c\udf29\ufe0f \u300d  HAPPY HALF ANNIVERSARY + GAMING + COLLABS + REACTING \u26a1 !discord !throne !lurk !daki !uwu !GS",
+      "title": "\u300c \ud83c\udf29\ufe0f HALF ANNIV UNCAPPED SUBATHON \ud83c\udf29\ufe0f \u300d  DAY 1 ENDING / DAY 2: POWER RANGERS w/ FRIENDS + FUN \u26a1 !fish !discord !throne !lurk !daki !uwu !GS",
       "channelTitle": "ZeusMythosVT"
     },
     "liveStreamingDetails": {
