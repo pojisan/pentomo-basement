@@ -2975,6 +2975,7 @@
       "title": "\ubbf8\uc624\ub9ac \ubbf8\uad6d \uac14\ub2e4\uc653\uc9c0\ub871~ (KR stream w/ TL)"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-15T13:03:41Z",
       "scheduledStartTime": "2024-06-15T13:00:00Z",
       "activeLiveChatId": "Cg0KC09KUGE1OEVXNmhrKicKGFVDeUtzZy01N1hDOXB5SGJQN3Yza0NQURILT0pQYTU4RVc2aGs"
     }
@@ -3614,6 +3615,7 @@
       "title": "\ud83d\udd34\u3010BALDUR'S GATE 3\u3011 New Player's First Gameplay! \u269c\ufe0f Will I Become Addicted?"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-15T13:02:22Z",
       "scheduledStartTime": "2024-06-15T13:00:00Z",
       "activeLiveChatId": "Cg0KC1VmcnBVbFQ1Y3E4KicKGFVDNDE3UVBhV0xMNHJjWUJBRVNQTGZyQRILVWZycFVsVDVjcTg"
     }
@@ -4076,18 +4078,6 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC1llM2djRXpSbE40KicKGFVDa2ItcjcwMnVoeDQtNkxybWV0cC1PdxILWWUzZ2NFelJsTjQ"
-    }
-  },
-  "YeWTSEKET9o": {
-    "snippet": {
-      "publishedAt": "2024-06-15T04:17:49Z",
-      "channelId": "UCB1s_IdO-r0nUkY2mXeti-A",
-      "title": "\u3010APEX\u3011\u4e45\u3005\u306b\u904a\u307c\u3046\u3068\u601d\u3063\u305f\u30892\u4eba\u3068\u3082\u65b0\u8863\u88c5\u306b\u306a\u3063\u3066\u305f\ud83d\udc54\u2728 w/\u7d72\u4f9d\u3068\u3044\u3010\u7345\u5b50\u795e\u30ec\u30aa\u30ca/Re:AcT\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-15T10:04:46Z",
-      "scheduledStartTime": "2024-06-15T10:00:00Z",
-      "activeLiveChatId": "Cg0KC1llV1RTRUtFVDlvKicKGFVDQjFzX0lkTy1yMG5Va1kybVhldGktQRILWWVXVFNFS0VUOW8"
     }
   },
   "YgRGMmcfHO8": {
@@ -4553,6 +4543,17 @@
       "activeLiveChatId": "Cg0KC2M3SzZSSW5HM0R3KicKGFVDTXdHSFIwQlRadUxzbWpZX05UNVB3ZxILYzdLNlJJbkczRHc"
     }
   },
+  "carneliaasahi": {
+    "snippet": {
+      "channelId": "carneliaasahi",
+      "title": "NOOT NOOT Are we braining?? w/ @aozaakimaeena",
+      "channelTitle": "CarneliaAsahi"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-15T13:11:31Z",
+      "twitch": true
+    }
+  },
   "clioaite": {
     "snippet": {
       "channelId": "clioaite",
@@ -4562,18 +4563,6 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-15T02:05:40Z",
       "twitch": true
-    }
-  },
-  "cqz5xWUGdq8": {
-    "snippet": {
-      "publishedAt": "2024-06-14T15:51:53Z",
-      "channelId": "UCtWH0tVAcUcSm4v96H5cAqQ",
-      "title": "\u3010Piconator\u3011\u3074\u3053\u3061\u3083\u3093\u306f\u306a\u3093\u3067\u3082\u304a\u898b\u901a\u3057\u3060\uff01\u3010\u5009\u5922\u3074\u3053 / Phase Connect\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-15T11:01:16Z",
-      "scheduledStartTime": "2024-06-15T11:00:00Z",
-      "activeLiveChatId": "Cg0KC2NxejV4V1VHZHE4KicKGFVDdFdIMHRWQWNVY1NtNHY5Nkg1Y0FxURILY3F6NXhXVUdkcTg"
     }
   },
   "cuVBPt8TR0E": {
@@ -5694,6 +5683,17 @@
       "activeLiveChatId": "Cg0KC29HWmlJNEMtd01FKicKGFVDaUEtdHJTWmZCMGk5MlZfLWR5RHFCdxILb0daaUk0Qy13TUU"
     }
   },
+  "oNGtHg_8AFg": {
+    "snippet": {
+      "publishedAt": "2024-06-15T13:11:47Z",
+      "channelId": "UClS6k3w1sPwlVFqK3-yID5A",
+      "title": "[#\u306b\u3058GTA] 1\u65e5\u76ee\u3000\u3088\u3002\u3002\u3088\u308d\u3057\u304f\u304a\u306d\u304c\u3044\u3057\u307e\u3059"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-15T15:00:00Z",
+      "activeLiveChatId": "Cg0KC29OR3RIZ184QUZnKicKGFVDbFM2azN3MXNQd2xWRnFLMy15SUQ1QRILb05HdEhnXzhBRmc"
+    }
+  },
   "oRRg3tMZj3k": {
     "snippet": {
       "publishedAt": "2024-06-11T11:43:29Z",
@@ -5831,18 +5831,6 @@
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-16T23:00:00Z"
-    }
-  },
-  "pxKEwwq5xx0": {
-    "snippet": {
-      "publishedAt": "2024-06-15T08:23:01Z",
-      "channelId": "UCFgXWZOUZA2oYHNr6qDmsTQ",
-      "title": "V-RISING: I WILL RIDE YOUR V~"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-15T09:01:05Z",
-      "scheduledStartTime": "2024-06-15T09:00:00Z",
-      "activeLiveChatId": "Cg0KC3B4S0V3d3E1eHgwKicKGFVDRmdYV1pPVVpBMm9ZSE5yNnFEbXNUURILcHhLRXd3cTV4eDA"
     }
   },
   "q2Gb5JMp0k8": {
@@ -6266,7 +6254,7 @@
     "snippet": {
       "publishedAt": "2024-06-15T12:35:34Z",
       "channelId": "UCbvR46SQpOPRKMrVT8NoJTA",
-      "title": "\u3010Vertical Zatsu\u3011Who Up Playing with They Worm?? \ud83e\udeb1"
+      "title": "\u3010Vertical Zatsu\u3011Who Up Playing with They Worm?? \ud83e\udeb1 #shorts"
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-15T13:00:53Z",
