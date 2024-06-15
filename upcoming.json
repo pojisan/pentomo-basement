@@ -928,7 +928,7 @@
     "snippet": {
       "publishedAt": "2024-02-19T08:21:13Z",
       "channelId": "UCGXwv2zYOxeWiNNyPiLCBCQ",
-      "title": "\u3010FreeChat\u3011\u9031\u9593\u30b9\u30b1\u30b8\u30e5\u30fc\u30eb\u306a\u306e\u3067\u3059\uff015/27~6/2\u3010\u604b\u8863\u3081\u3082\u308a/Phase Connect\u3011"
+      "title": "\u3010FreeChat\u3011\u9031\u9593\u30b9\u30b1\u30b8\u30e5\u30fc\u30eb\u306a\u306e\u3067\u3059\uff015/17~23\u3010\u604b\u8863\u3081\u3082\u308a/Phase Connect\u3011"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2026-04-30T09:00:00Z",
@@ -1397,18 +1397,6 @@
       "activeLiveChatId": "Cg0KC0NzMlhmNjBCUVZVKicKGFVDM0FZdG1NTmRKY3pDdlFOb1B5LWdqdxILQ3MyWGY2MEJRVlU"
     }
   },
-  "Ctlv5FuR5-A": {
-    "snippet": {
-      "publishedAt": "2024-06-15T09:04:07Z",
-      "channelId": "UCiA-trSZfB0i92V_-dyDqBw",
-      "title": "\u3010 #\u306b\u3058\u3055\u3093\u3058\u82b1\u9ce5\u98a8\u6708\u6226 \u3011\u6708\u30ce\u56fd\u30e1\u30f3\u30d0\u30fc\u3067\u8ffd\u3044\u8fbc\u307f\u3060\u3041\uff01\uff01\u3010\u5009\u6301\u3081\u308b\u3068/\u306b\u3058\u3055\u3093\u3058\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-15T11:00:26Z",
-      "scheduledStartTime": "2024-06-15T11:00:00Z",
-      "activeLiveChatId": "Cg0KC0N0bHY1RnVSNS1BKicKGFVDaUEtdHJTWmZCMGk5MlZfLWR5RHFCdxILQ3RsdjVGdVI1LUE"
-    }
-  },
   "Cw_H0Znwblw": {
     "snippet": {
       "publishedAt": "2024-02-06T14:09:05Z",
@@ -1437,6 +1425,7 @@
       "title": "\u3010Art Stream\u3011Weekend Art and Zatsu\u3010Vilhelm Vanderbos | globie Gen 2 | Equinnox\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-15T12:30:20Z",
       "scheduledStartTime": "2024-06-15T12:30:00Z",
       "activeLiveChatId": "Cg0KC0Q4UkR4cS1HYkVrKicKGFVDNjc4c0pucVR3bHNXd05rMlJXUksyZxILRDhSRHhxLUdiRWs"
     }
@@ -5596,6 +5585,17 @@
       "activeLiveChatId": "Cg0KC25kQ1BEbWJSd3VRKicKGFVDa2pQX3c2MDdCLW40a1dKclpBc0hNURILbmRDUERtYlJ3dVE"
     }
   },
+  "ninete_en": {
+    "snippet": {
+      "channelId": "ninete_en",
+      "title": "Drops\u2705:\u306f\u3058\u3081\u3066\u306exdefiant\u3002",
+      "channelTitle": "\u30ca\u30a4\u30f3\u30c6\u30a3\u30fc\u30f3"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-15T12:31:03Z",
+      "twitch": true
+    }
+  },
   "nmH44fWQK6k": {
     "snippet": {
       "publishedAt": "2024-06-13T23:13:33Z",
@@ -6412,6 +6412,17 @@
       "activeLiveChatId": "Cg0KC3ZjM1JPeWNtdlBnKicKGFVDOU5OTXdhZnk5cXV2TldhZkZ1a05EdxILdmMzUk95Y212UGc"
     }
   },
+  "vd4HIS3-p_o": {
+    "snippet": {
+      "publishedAt": "2024-06-15T12:22:10Z",
+      "channelId": "UCoSrY_IQQVpmIRZ9Xf-y93g",
+      "title": "\u3010UNARCHIVED KARAOKE\u3011ANNOUNCEMENT UOOO #shorts"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-16T00:00:00Z",
+      "activeLiveChatId": "Cg0KC3ZkNEhJUzMtcF9vKicKGFVDb1NyWV9JUVFWcG1JUlo5WGYteTkzZxILdmQ0SElTMy1wX28"
+    }
+  },
   "vgyslJ7BvxQ": {
     "snippet": {
       "publishedAt": "2023-12-25T13:50:52Z",
@@ -6502,6 +6513,7 @@
       "title": "You can make In n Out Burgers at home! Let me teach you how!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-15T12:27:30Z",
       "scheduledStartTime": "2024-06-15T12:30:00Z",
       "activeLiveChatId": "Cg0KC3dWLTh2TkhIcS1zKicKGFVDbkpOTms0NU8xUVlTMm9NUllGS1N5dxILd1YtOHZOSEhxLXM"
     }
@@ -6755,7 +6767,7 @@
   "zeusmythosvt": {
     "snippet": {
       "channelId": "zeusmythosvt",
-      "title": "\u300c \ud83c\udf29\ufe0f HALF ANNIV UNCAPPED SUBATHON \ud83c\udf29\ufe0f \u300dHAPPY HALF ANNIVERSARY MORTALS + GAMING + COLLABS + REACTS  \u26a1 !discord !throne !lurk !daki !uwu !GS",
+      "title": "\u300c \ud83c\udf29\ufe0f HALF ANNIV UNCAPPED SUBATHON \ud83c\udf29\ufe0f \u300d  HAPPY HALF ANNIVERSARY + GAMING + COLLABS + SPONSORED YAY \u26a1 !discord !throne !lurk !daki !uwu !GS",
       "channelTitle": "ZeusMythosVT"
     },
     "liveStreamingDetails": {
