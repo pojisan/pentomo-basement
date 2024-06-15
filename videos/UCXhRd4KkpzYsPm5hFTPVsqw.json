@@ -1023,8 +1023,19 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-15T19:03:16Z",
-      "scheduledStartTime": "2024-06-15T19:00:00Z",
-      "activeLiveChatId": "Cg0KC1lnUnY1aUJ6WXowKicKGFVDWGhSZDRLa3B6WXNQbTVoRlRQVnNxdxILWWdSdjVpQnpZejA"
+      "actualEndTime": "2024-06-15T21:33:28Z",
+      "scheduledStartTime": "2024-06-15T19:00:00Z"
+    }
+  },
+  "npb_stSEBFY": {
+    "snippet": {
+      "publishedAt": "2024-06-15T21:36:14Z",
+      "channelId": "UCXhRd4KkpzYsPm5hFTPVsqw",
+      "title": "\u3010POKEMON COLOSSEUM: Part 1\u3011IT IS FINALLY TIME....\u3010V&U | GEN4\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-16T20:30:00Z",
+      "activeLiveChatId": "Cg0KC25wYl9zdFNFQkZZKicKGFVDWGhSZDRLa3B6WXNQbTVoRlRQVnNxdxILbnBiX3N0U0VCRlk"
     }
   }
 }
