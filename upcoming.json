@@ -85,6 +85,18 @@
       "scheduledStartTime": "2026-05-31T19:00:00Z"
     }
   },
+  "-VRUNWl_3v8": {
+    "snippet": {
+      "publishedAt": "2024-06-15T00:02:32Z",
+      "channelId": "UCdh-YF2gTzqDNu0VU9lwPPw",
+      "title": "\u3010XDEFIANT\u3011its pretty fun ngl\u3010NIJISANJI EN | Claude Clawmark\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-15T00:08:49Z",
+      "scheduledStartTime": "2024-06-15T00:15:00Z",
+      "activeLiveChatId": "Cg0KCy1WUlVOV2xfM3Y4KicKGFVDZGgtWUYyZ1R6cUROdTBWVTlsd1BQdxILLVZSVU5XbF8zdjg"
+    }
+  },
   "-Ye6E7xDado": {
     "snippet": {
       "publishedAt": "2024-03-03T09:33:07Z",
@@ -610,6 +622,7 @@
       "title": "\u3010Platform 8 / 8\u756a\u306e\u308a\u3070\u3011I still have no sense of direction......\u3010Ami Amami | PRISM Project Gen 5\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-15T00:11:31Z",
       "scheduledStartTime": "2024-06-15T00:00:00Z",
       "activeLiveChatId": "Cg0KCzNYUlRSU2NaYUJjKicKGFVDa2pQX3c2MDdCLW40a1dKclpBc0hNURILM1hSVFJTY1phQmM"
     }
@@ -684,6 +697,7 @@
       "title": "FIRST CLEAR Alexander: The Creator - min ilvl & blind\u3010FFXIV Heavensward\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-15T00:06:38Z",
       "scheduledStartTime": "2024-06-15T00:00:00Z",
       "activeLiveChatId": "Cg0KCzQ1QWM2TmN5N1JzKicKGFVDWklGcGgxYll5R3htRmtrTk5MQUtkQRILNDVBYzZOY3k3UnM"
     }
@@ -1083,6 +1097,7 @@
       "title": "\u3010Stray\u3011I've always wanted to be a car!! \ud83d\udc10\ud83c\udf7c\u3010VAllure\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-15T00:04:33Z",
       "scheduledStartTime": "2024-06-15T00:00:00Z",
       "activeLiveChatId": "Cg0KCzhCM3dmOER0bXlZKicKGFVDaTdUd29tdFMzWnlmakFNNVRXRU1TURILOEIzd2Y4RHRteVk"
     }
@@ -2842,9 +2857,10 @@
     "snippet": {
       "publishedAt": "2024-06-09T23:59:39Z",
       "channelId": "UCu1INzefw3R7M9-3QEHYmMQ",
-      "title": "\u3010Tenshi Maid Cafe\u3011Welcome Home, Master\ud83d\ude33"
+      "title": "\u3010Anime Girl Maid Cafe\u3011Welcome Home, Master\ud83d\ude33"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-15T00:07:49Z",
       "scheduledStartTime": "2024-06-15T00:00:00Z",
       "activeLiveChatId": "Cg0KC01hMUktVVJmb3E4KicKGFVDdTFJTnplZnczUjdNOS0zUUVIWW1NURILTWExSS1VUmZvcTg"
     }
@@ -4195,7 +4211,7 @@
       "title": "\u3010Valorant\u3011BondliveEN gonna show u our pew pew skillz B)\u3010Harima Tem | bondlive EN\u3011#shorts"
     },
     "liveStreamingDetails": {
-      "actualStartTime": "2024-06-15T00:00:50Z",
+      "actualStartTime": "2024-06-15T00:01:21Z",
       "scheduledStartTime": "2024-06-15T00:00:00Z",
       "activeLiveChatId": "Cg0KC1hhSU9qQ0NOT2FJKicKGFVDZXhlM01rYlhRSE5KREJjZmd5ZDZrURILWGFJT2pDQ05PYUk"
     }
@@ -5130,7 +5146,7 @@
     "snippet": {
       "publishedAt": "2024-06-09T22:54:28Z",
       "channelId": "UCZO0CirHeWYTUMl-7zPG6Yg",
-      "title": "\u3010KARAOKE\u3011: I SING FOR YOU !\u3010bondlive EN\u3011#vtuber"
+      "title": "\u3010KARAOKE\u3011: MY ANGEL VOICE BECKONS YOU\u3010bondlive EN\u3011#vtuber"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-15T01:00:00Z",
@@ -5374,6 +5390,17 @@
       "activeLiveChatId": "Cg0KC2hweDFlTHE5aExFKicKGFVDblloSWs5YUdFeF9iSWdoZVZqczUzdxILaHB4MWVMcTloTEU"
     }
   },
+  "hunikinn": {
+    "snippet": {
+      "channelId": "hunikinn",
+      "title": "3D AND READY TO SQUAT |  !merch !discord !twitter",
+      "channelTitle": "Hunikinn"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-15T00:09:44Z",
+      "twitch": true
+    }
+  },
   "hvbd782pD4w": {
     "snippet": {
       "publishedAt": "2024-05-07T14:54:05Z",
@@ -5465,6 +5492,7 @@
       "title": "\u3010VALORANT\u2022 Himura Mizuki\u3011BONDLIVE GANG!!!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-15T00:05:00Z",
       "scheduledStartTime": "2024-06-15T00:00:00Z",
       "activeLiveChatId": "Cg0KC2lVUXlSM21KNHA0KicKGFVDT1hkV0VKZTVTTm5Lb0JlQ201WjA5URILaVVReVIzbUo0cDQ"
     }
@@ -5544,6 +5572,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-12-01T11:00:00Z",
       "activeLiveChatId": "Cg0KC2pibm9TckRKNDFJKicKGFVDdS1KOHVJWHVMWmgxNmdHLWNUMW5hdxILamJub1NyREo0MUk"
+    }
+  },
+  "jeanfaymas": {
+    "snippet": {
+      "channelId": "jeanfaymas",
+      "title": "LETS GET FUNKY! [ !mod ] \u2726 !merch !vershion",
+      "channelTitle": "JeanFaymas"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-15T00:04:45Z",
+      "twitch": true
     }
   },
   "jvYUVIKZMRQ": {
@@ -6847,6 +6886,7 @@
       "title": "\u3010Valorant\u3011bondlive EN powah! \u3010Yuuki Ame\u30fbbondlive EN\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-15T00:02:02Z",
       "scheduledStartTime": "2024-06-15T00:00:00Z",
       "activeLiveChatId": "Cg0KC3ZoQkgyZnFHNlZjKicKGFVDSFZZZDJGdGVrNUhpZWdSanQyWDkyZxILdmhCSDJmcUc2VmM"
     }
