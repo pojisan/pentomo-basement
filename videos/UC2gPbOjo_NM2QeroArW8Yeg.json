@@ -6529,9 +6529,9 @@
       "title": "\u3010\u6b4c\u3063\u3066\u307f\u305f\u3011\u30d0\u30cb\u30fc (Bunny) | \u3059\u308a\u3043\u3010Namiji Freesia\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-14T21:00:00Z",
-      "activeLiveChatId": "Cg0KCzFOMFpIQTRPNm5RKicKGFVDMmdQYk9qb19OTTJRZXJvQXJXOFllZxILMU4wWkhBNE82blE",
-      "premiere": true
+      "actualStartTime": "2024-06-14T21:00:07Z",
+      "actualEndTime": "2024-06-14T21:04:07Z",
+      "scheduledStartTime": "2024-06-14T21:00:00Z"
     }
   },
   "cjKaqqELiLQ": {
@@ -6568,6 +6568,18 @@
       "actualStartTime": "2024-06-13T17:00:23Z",
       "actualEndTime": "2024-06-13T21:25:25Z",
       "scheduledStartTime": "2024-06-13T17:00:00Z"
+    }
+  },
+  "XtFCBxX9SIY": {
+    "snippet": {
+      "publishedAt": "2024-06-14T16:47:29Z",
+      "channelId": "UC2gPbOjo_NM2QeroArW8Yeg",
+      "title": "Can I speedrun to reach the DLC for release? [Elden Ring]"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-14T16:59:30Z",
+      "actualEndTime": "2024-06-14T20:59:51Z",
+      "scheduledStartTime": "2024-06-14T17:00:00Z"
     }
   }
 }

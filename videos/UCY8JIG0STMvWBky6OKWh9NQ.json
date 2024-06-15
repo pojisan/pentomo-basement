@@ -3936,8 +3936,9 @@
       "title": "\u3010#ZCORust\u3011 this time i will interact with others... for sure... | DAY/BREAK #VTuber"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-15T10:00:00Z",
-      "activeLiveChatId": "Cg0KC3NhVkRHVXpQNkNVKicKGFVDWThKSUcwU1RNdldCa3k2T0tXaDlOURILc2FWREdVelA2Q1U"
+      "actualStartTime": "2024-06-15T06:03:00Z",
+      "actualEndTime": "2024-06-15T10:42:51Z",
+      "scheduledStartTime": "2024-06-15T06:00:00Z"
     }
   },
   "EaRbdyCmH1o": {
@@ -3948,8 +3949,19 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-14T12:23:38Z",
-      "scheduledStartTime": "2024-06-14T12:20:00Z",
-      "activeLiveChatId": "Cg0KC0VhUmJkeUNtSDFvKicKGFVDWThKSUcwU1RNdldCa3k2T0tXaDlOURILRWFSYmR5Q21IMW8"
+      "actualEndTime": "2024-06-14T16:55:10Z",
+      "scheduledStartTime": "2024-06-14T12:20:00Z"
+    }
+  },
+  "edo03lgCtRU": {
+    "snippet": {
+      "publishedAt": "2024-06-15T10:50:49Z",
+      "channelId": "UCY8JIG0STMvWBky6OKWh9NQ",
+      "title": "\u3010#ZCORust\u3011 THE FINAL DAY! Fighting alongside Suckers! | DAY/BREAK #VTuber"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-15T13:30:00Z",
+      "activeLiveChatId": "Cg0KC2VkbzAzbGdDdFJVKicKGFVDWThKSUcwU1RNdldCa3k2T0tXaDlOURILZWRvMDNsZ0N0UlU"
     }
   }
 }

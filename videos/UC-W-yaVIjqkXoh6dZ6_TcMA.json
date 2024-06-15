@@ -566,8 +566,31 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-14T12:59:27Z",
       "actualEndTime": "2024-06-14T16:10:42Z",
-      "scheduledStartTime": "2024-06-14T13:15:00Z",
-      "activeLiveChatId": "Cg0KC3NVWWVQR0wwV2t3KicKGFVDLVcteWFWSWpxa1hvaDZkWjZfVGNNQRILc1VZZVBHTDBXa3c"
+      "scheduledStartTime": "2024-06-14T13:15:00Z"
+    }
+  },
+  "7LAGGbFbJl4": {
+    "snippet": {
+      "publishedAt": "2024-06-15T02:11:33Z",
+      "channelId": "UC-W-yaVIjqkXoh6dZ6_TcMA",
+      "title": "\u3010DEAD SPACE\u3011facing one of my phobias ... ES HORA!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-15T03:02:26Z",
+      "actualEndTime": "2024-06-15T05:40:22Z",
+      "scheduledStartTime": "2024-06-15T03:00:00Z"
+    }
+  },
+  "cHfW618TFuI": {
+    "snippet": {
+      "publishedAt": "2024-06-15T05:41:59Z",
+      "channelId": "UC-W-yaVIjqkXoh6dZ6_TcMA",
+      "title": "\u3010CHAT\u3011DEAD SPACE killed my pc"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-15T05:48:23Z",
+      "actualEndTime": "2024-06-15T06:43:51Z",
+      "scheduledStartTime": "2024-06-15T05:40:00Z"
     }
   }
 }

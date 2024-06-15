@@ -2414,8 +2414,19 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-14T13:00:48Z",
       "actualEndTime": "2024-06-14T15:31:04Z",
-      "scheduledStartTime": "2024-06-14T13:00:00Z",
-      "activeLiveChatId": "Cg0KC200TEQzaEJBNTQ0KicKGFVDMUxlZ3hDTmE2bHFtU3NaVFNtN0d5QRILbTRMRDNoQkE1NDQ"
+      "scheduledStartTime": "2024-06-14T13:00:00Z"
+    }
+  },
+  "N9fZEeKtEjc": {
+    "snippet": {
+      "publishedAt": "2024-06-10T10:50:57Z",
+      "channelId": "UC1LegxCNa6lqmSsZTSm7GyA",
+      "title": "Pet Me! - Hiiragi Magnetite | Cover by Cinnia Antimony"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-16T13:00:00Z",
+      "activeLiveChatId": "Cg0KC045ZlpFZUt0RWpjKicKGFVDMUxlZ3hDTmE2bHFtU3NaVFNtN0d5QRILTjlmWkVlS3RFamM",
+      "premiere": true
     }
   }
 }

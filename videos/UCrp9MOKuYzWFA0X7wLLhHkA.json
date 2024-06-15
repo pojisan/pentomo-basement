@@ -288,8 +288,15 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-14T15:01:32Z",
-      "scheduledStartTime": "2024-06-14T15:00:00Z",
-      "activeLiveChatId": "Cg0KC1U1alBHZDRCVmQwKicKGFVDcnA5TU9LdVl6V0ZBMFg3d0xMaEhrQRILVTVqUEdkNEJWZDA"
+      "actualEndTime": "2024-06-14T17:25:37Z",
+      "scheduledStartTime": "2024-06-14T15:00:00Z"
+    }
+  },
+  "VsdwRnpRC3Y": {
+    "snippet": {
+      "publishedAt": "2024-06-14T23:00:29Z",
+      "channelId": "UCrp9MOKuYzWFA0X7wLLhHkA",
+      "title": "Betrayal is always bittersweet"
     }
   }
 }

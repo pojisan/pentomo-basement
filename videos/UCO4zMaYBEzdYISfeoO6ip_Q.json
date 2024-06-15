@@ -5657,8 +5657,9 @@
       "title": "heeeeeelp \u3010Elden Ring\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-14T21:00:00Z",
-      "activeLiveChatId": "Cg0KC0lHMUptY1VTXzNBKicKGFVDTzR6TWFZQkV6ZFlJU2Zlb082aXBfURILSUcxSm1jVVNfM0E"
+      "actualStartTime": "2024-06-14T21:09:14Z",
+      "actualEndTime": "2024-06-15T01:50:46Z",
+      "scheduledStartTime": "2024-06-14T21:00:00Z"
     }
   },
   "GH4mqSrgYkw": {
@@ -5769,8 +5770,14 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-14T09:01:56Z",
       "actualEndTime": "2024-06-14T11:20:47Z",
-      "scheduledStartTime": "2024-06-14T09:00:00Z",
-      "activeLiveChatId": "Cg0KC0U4MGxaOFk4VFRBKicKGFVDTzR6TWFZQkV6ZFlJU2Zlb082aXBfURILRTgwbFo4WThUVEE"
+      "scheduledStartTime": "2024-06-14T09:00:00Z"
+    }
+  },
+  "z04q5NsPXWY": {
+    "snippet": {
+      "publishedAt": "2024-06-15T03:31:51Z",
+      "channelId": "UCO4zMaYBEzdYISfeoO6ip_Q",
+      "title": "Bad dog experience"
     }
   }
 }

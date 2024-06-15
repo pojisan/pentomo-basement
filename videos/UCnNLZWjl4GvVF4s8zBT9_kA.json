@@ -1456,8 +1456,32 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-14T11:02:25Z",
       "actualEndTime": "2024-06-14T13:46:53Z",
-      "scheduledStartTime": "2024-06-14T11:00:00Z",
-      "activeLiveChatId": "Cg0KC3FtWmIxSlgzZnRrKicKGFVDbk5MWldqbDRHdlZGNHM4ekJUOV9rQRILcW1aYjFKWDNmdGs"
+      "scheduledStartTime": "2024-06-14T11:00:00Z"
+    }
+  },
+  "Din8fBaq9gM": {
+    "snippet": {
+      "publishedAt": "2024-06-14T22:26:20Z",
+      "channelId": "UCnNLZWjl4GvVF4s8zBT9_kA",
+      "title": "\u3010cooking Simulator\u3011\u5bff\u53f8\u3092\u63e1\u3089\u306a\u3044\u3068\u6b7b\u306c\u540d\u63a2\u5075\u3010\u7d62\u4e16\u30e6\u30a6 / Phase Connect\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-15T11:02:46Z",
+      "actualEndTime": "2024-06-15T14:07:54Z",
+      "scheduledStartTime": "2024-06-15T11:00:00Z",
+      "activeLiveChatId": "Cg0KC0RpbjhmQmFxOWdNKicKGFVDbk5MWldqbDRHdlZGNHM4ekJUOV9rQRILRGluOGZCYXE5Z00"
+    }
+  },
+  "nuSxZKxjyBE": {
+    "snippet": {
+      "publishedAt": "2024-06-15T00:57:38Z",
+      "channelId": "UCnNLZWjl4GvVF4s8zBT9_kA",
+      "title": "\u3010RimWorld\u3011\u30b3\u30ed\u30cb\u30fc\u306e\u660e\u65e5\u306f\u3069\u3063\u3061\u3060\u3001\u751f\u304d\u308dYuuYorkCity\u5e02\u6c11\u3010\u7d62\u4e16\u30e6\u30a6 / Phase Connect\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-15T01:06:30Z",
+      "actualEndTime": "2024-06-15T07:24:03Z",
+      "scheduledStartTime": "2024-06-15T01:00:00Z"
     }
   }
 }

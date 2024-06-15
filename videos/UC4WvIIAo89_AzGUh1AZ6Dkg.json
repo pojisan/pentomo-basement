@@ -7639,8 +7639,9 @@
       "title": "\u3010CARPOOL KARAOKE | \u6b4c\u67a0\u3011SINGING WHILE DRIVING CHALLENGE"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-15T02:00:00Z",
-      "activeLiveChatId": "Cg0KC2NRT1Q3UFEtOTVvKicKGFVDNFd2SUlBbzg5X0F6R1VoMUFaNkRrZxILY1FPVDdQUS05NW8"
+      "actualStartTime": "2024-06-15T02:03:02Z",
+      "actualEndTime": "2024-06-15T02:36:15Z",
+      "scheduledStartTime": "2024-06-15T02:00:00Z"
     }
   }
 }

@@ -309,8 +309,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-14T15:01:20Z",
-      "scheduledStartTime": "2024-06-14T15:00:00Z",
-      "activeLiveChatId": "Cg0KC2tXemQ3eXJyZEdVKicKGFVDUGx0UVhJZ1FhRDVtVmtBSXJPX2RTQRILa1d6ZDd5cnJkR1U"
+      "actualEndTime": "2024-06-14T17:24:37Z",
+      "scheduledStartTime": "2024-06-14T15:00:00Z"
     }
   },
   "pskESR2wt2U": {
@@ -330,7 +330,8 @@
       "title": "\u3010Yakuza 0\u3011mahjong. \u300e Rina Astera | OshiLinkEN\u300f"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-15T23:00:00Z"
+      "scheduledStartTime": "2024-06-15T23:00:00Z",
+      "activeLiveChatId": "Cg0KC2QzQkJTakVKYmxzKicKGFVDUGx0UVhJZ1FhRDVtVmtBSXJPX2RTQRILZDNCQlNqRUpibHM"
     }
   },
   "DqYLTV2aIwg": {

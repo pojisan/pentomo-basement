@@ -8870,8 +8870,9 @@
       "title": "\u226aNARUTO SHIPPUDEN: Ultimate Ninja STORM Trilogy\u226b YOLO is my ninja way"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-15T01:00:00Z",
-      "activeLiveChatId": "Cg0KC0sxQjYxTTZSX3M4KicKGFVDZ21QbngtRUVlT3JaU2c1VGl3N1pSURILSzFCNjFNNlJfczg"
+      "actualStartTime": "2024-06-15T01:00:24Z",
+      "actualEndTime": "2024-06-15T06:01:54Z",
+      "scheduledStartTime": "2024-06-15T01:00:00Z"
     }
   }
 }

@@ -885,7 +885,8 @@
     "snippet": {
       "publishedAt": "2024-06-09T19:11:36Z",
       "channelId": "UCFHdEAHPbFUjgJ1RaO_Aw6w",
-      "title": "\u3010Studio Session\u3011Making a Hard Hitting Vtuber Bars\u3010Globie | Vance Van Creed\u3011"
+      "title": "\u3010Studio Session\u3011Making a Hard Hitting Vtuber Bars\u3010Globie | Vance Van Creed\u3011",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-15T18:00:00Z",
@@ -899,8 +900,9 @@
       "title": "\u3010Zatsu\u3011D&D Planning\u3010globie 2nd Gen - Equinnox\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-14T18:00:00Z",
-      "activeLiveChatId": "Cg0KC2JXOEZuem11TThvKicKGFVDRkhkRUFIUGJGVWpnSjFSYU9fQXc2dxILYlc4Rm56bXVNOG8"
+      "actualStartTime": "2024-06-14T17:55:25Z",
+      "actualEndTime": "2024-06-14T19:56:43Z",
+      "scheduledStartTime": "2024-06-14T18:00:00Z"
     }
   }
 }

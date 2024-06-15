@@ -4593,8 +4593,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-14T14:05:53Z",
-      "scheduledStartTime": "2024-06-14T14:00:00Z",
-      "activeLiveChatId": "Cg0KC3VCTmw1MFc0djhnKicKGFVDNFdzTEVfeGRybmQwNUQwNUdvOW9YdxILdUJObDUwVzR2OGc"
+      "actualEndTime": "2024-06-14T18:14:01Z",
+      "scheduledStartTime": "2024-06-14T14:00:00Z"
     }
   },
   "ONmtwd1TRL4": {
@@ -4604,8 +4604,9 @@
       "title": "\u3010Participatory Gartic Phone\u3011Lets draw funny memories together  pt1| #vtuber"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-15T02:00:00Z",
-      "activeLiveChatId": "Cg0KC09ObXR3ZDFUUkw0KicKGFVDNFdzTEVfeGRybmQwNUQwNUdvOW9YdxILT05tdHdkMVRSTDQ"
+      "actualStartTime": "2024-06-15T02:00:53Z",
+      "actualEndTime": "2024-06-15T04:44:58Z",
+      "scheduledStartTime": "2024-06-15T02:00:00Z"
     }
   },
   "NWJpoOjkf-g": {
@@ -4629,6 +4630,7 @@
       "title": "\u3010Participatory Gartic Phone\u3011Lets draw funny memories together pt2| #vtuber"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-15T14:02:03Z",
       "scheduledStartTime": "2024-06-15T14:00:00Z",
       "activeLiveChatId": "Cg0KCzAwT0E3VWJIVm5rKicKGFVDNFdzTEVfeGRybmQwNUQwNUdvOW9YdxILMDBPQTdVYkhWbms"
     }

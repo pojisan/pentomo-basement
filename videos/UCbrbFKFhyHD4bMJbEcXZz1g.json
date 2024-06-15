@@ -3990,8 +3990,9 @@
       "title": "\u3010THE QUARRY\u3011  The start of a new story! Horror game!!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-15T12:00:00Z",
-      "activeLiveChatId": "Cg0KC1hMRkRqQnRZOWRvKicKGFVDYnJiRktGaHlIRDRiTUpiRWNYWnoxZxILWExGRGpCdFk5ZG8"
+      "actualStartTime": "2024-06-15T12:02:41Z",
+      "actualEndTime": "2024-06-15T15:15:42Z",
+      "scheduledStartTime": "2024-06-15T12:00:00Z"
     }
   },
   "jAvNSJU2avs": {
@@ -4036,6 +4037,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-22T00:00:00Z",
       "activeLiveChatId": "Cg0KC0FBWGVORXYybVJrKicKGFVDYnJiRktGaHlIRDRiTUpiRWNYWnoxZxILQUFYZU5FdjJtUms"
+    }
+  },
+  "XJgZC-tUT7A": {
+    "snippet": {
+      "publishedAt": "2024-06-14T17:02:31Z",
+      "channelId": "UCbrbFKFhyHD4bMJbEcXZz1g",
+      "title": "Hatsune Miku Fitness POW!! BAM!! BOXING!!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-21T12:00:00Z",
+      "activeLiveChatId": "Cg0KC1hKZ1pDLXRVVDdBKicKGFVDYnJiRktGaHlIRDRiTUpiRWNYWnoxZxILWEpnWkMtdFVUN0E"
     }
   }
 }

@@ -2896,8 +2896,9 @@
       "title": "\u3010Fictitious Friday\u3011 How do you balance tone? \u3010Yuno Hanaki\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-14T23:00:00Z",
-      "activeLiveChatId": "Cg0KC09Bb1piZG8xX3o4KicKGFVDWmw5MndNaXBqWUZjMVVsbTlZeTY1ZxILT0FvWmJkbzFfejg"
+      "actualStartTime": "2024-06-14T23:07:37Z",
+      "actualEndTime": "2024-06-15T01:44:23Z",
+      "scheduledStartTime": "2024-06-14T23:00:00Z"
     }
   },
   "Tvwa_3EBsWk": {
@@ -2910,6 +2911,13 @@
       "actualStartTime": "2024-06-13T23:01:45Z",
       "actualEndTime": "2024-06-14T02:20:09Z",
       "scheduledStartTime": "2024-06-13T23:00:00Z"
+    }
+  },
+  "Drk9nGEqI18": {
+    "snippet": {
+      "publishedAt": "2024-06-15T14:00:18Z",
+      "channelId": "UCZl92wMipjYFc1Ulm9Yy65g",
+      "title": "Onibites Ep. 2: Akaname #shorts #vtuber"
     }
   }
 }

@@ -614,8 +614,9 @@
       "title": "\u3010STAR SPRINT!!!\u3011EP.5 - ANIME GIRLS ON CARS @Deoxide \u3010globie | Kiri Kilovolt\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-14T18:00:00Z",
-      "activeLiveChatId": "Cg0KC0xMMDVNMUpqYi1nKicKGFVDMXNtOUgyb3J2eW5EYWpjRTRqcll1ZxILTEwwNU0xSmpiLWc"
+      "actualStartTime": "2024-06-14T17:55:16Z",
+      "actualEndTime": "2024-06-15T00:50:36Z",
+      "scheduledStartTime": "2024-06-14T18:00:00Z"
     }
   },
   "kPhX_8S6KYw": {
@@ -663,6 +664,17 @@
       "publishedAt": "2024-06-14T11:00:08Z",
       "channelId": "UC1sm9H2orvynDajcE4jrYug",
       "title": "I owe an APOLOGY..."
+    }
+  },
+  "MyNrthepE_U": {
+    "snippet": {
+      "publishedAt": "2024-06-15T06:11:06Z",
+      "channelId": "UC1sm9H2orvynDajcE4jrYug",
+      "title": "\u3010KOUHAI KARAOKE RELAY\u3011LET'S SING!\u3010globie | Kiri Kilovolt\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-15T19:20:00Z",
+      "activeLiveChatId": "Cg0KC015TnJ0aGVwRV9VKicKGFVDMXNtOUgyb3J2eW5EYWpjRTRqcll1ZxILTXlOcnRoZXBFX1U"
     }
   }
 }

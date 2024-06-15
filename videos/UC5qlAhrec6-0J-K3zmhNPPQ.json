@@ -5124,8 +5124,9 @@
       "title": "Let's Play The Last Stand - Part 1"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-15T02:00:00Z",
-      "activeLiveChatId": "Cg0KC3dZTUFtTFRrVzh3KicKGFVDNXFsQWhyZWM2LTBKLUszem1oTlBQURILd1lNQW1MVGtXOHc"
+      "actualStartTime": "2024-06-15T02:00:41Z",
+      "actualEndTime": "2024-06-15T04:59:25Z",
+      "scheduledStartTime": "2024-06-15T02:00:00Z"
     }
   },
   "T-wQkCRHm6c": {
@@ -5138,6 +5139,30 @@
       "actualStartTime": "2024-06-12T05:37:21Z",
       "actualEndTime": "2024-06-12T05:54:59Z",
       "scheduledStartTime": "2024-06-12T05:37:09Z"
+    }
+  },
+  "GsyJ4hKshVw": {
+    "snippet": {
+      "publishedAt": "2024-06-15T05:09:24Z",
+      "channelId": "UC5qlAhrec6-0J-K3zmhNPPQ",
+      "title": "Woops..."
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-15T05:09:34Z",
+      "actualEndTime": "2024-06-15T05:14:58Z",
+      "scheduledStartTime": "2024-06-15T05:09:24Z"
+    }
+  },
+  "uV9ZBxsnwjc": {
+    "snippet": {
+      "publishedAt": "2024-06-15T05:17:34Z",
+      "channelId": "UC5qlAhrec6-0J-K3zmhNPPQ",
+      "title": "2 more"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-15T05:17:42Z",
+      "actualEndTime": "2024-06-15T05:20:12Z",
+      "scheduledStartTime": "2024-06-15T05:17:33Z"
     }
   }
 }

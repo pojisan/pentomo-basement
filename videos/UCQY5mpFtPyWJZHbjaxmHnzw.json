@@ -2537,8 +2537,33 @@
       "title": "\u3010ZATSU | \u96d1\u8ac7\u3011What your favorite boba says about you\u3010V&U | GEN4\u3011#zatsudan"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-14T18:00:00Z",
-      "activeLiveChatId": "Cg0KCzZqRFh0NXRQMWFjKicKGFVDUVk1bXBGdFB5V0paSGJqYXhtSG56dxILNmpEWHQ1dFAxYWM"
+      "actualStartTime": "2024-06-14T18:40:58Z",
+      "actualEndTime": "2024-06-14T20:12:04Z",
+      "scheduledStartTime": "2024-06-14T18:00:00Z"
+    }
+  },
+  "0Kx_-TCVANo": {
+    "snippet": {
+      "publishedAt": "2024-06-14T18:36:34Z",
+      "channelId": "UCQY5mpFtPyWJZHbjaxmHnzw",
+      "title": "\u3010\u96d1\u8ac7\u3011What your favorite boba says about you\u3010V&U | GEN4\u3011#zatsudan #shortsfeed #shorts #shortslive"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-14T18:41:01Z",
+      "actualEndTime": "2024-06-14T20:09:42Z",
+      "scheduledStartTime": "2024-06-14T18:45:00Z",
+      "activeLiveChatId": "Cg0KCzBLeF8tVENWQU5vKicKGFVDUVk1bXBGdFB5V0paSGJqYXhtSG56dxILMEt4Xy1UQ1ZBTm8"
+    }
+  },
+  "0bWN0YRVw0I": {
+    "snippet": {
+      "publishedAt": "2024-06-14T20:30:20Z",
+      "channelId": "UCQY5mpFtPyWJZHbjaxmHnzw",
+      "title": "\u3010HELLo Land Maid Caf\u00e9\u3011Welcome! \ud83d\udc9e\u3010V&U | GEN4\u3011#zatsudan"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-15T19:40:00Z",
+      "activeLiveChatId": "Cg0KCzBiV04wWVJWdzBJKicKGFVDUVk1bXBGdFB5V0paSGJqYXhtSG56dxILMGJXTjBZUlZ3MEk"
     }
   }
 }

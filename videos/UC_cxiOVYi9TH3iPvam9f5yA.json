@@ -207,7 +207,7 @@
     "snippet": {
       "publishedAt": "2024-03-25T07:19:35Z",
       "channelId": "UC_cxiOVYi9TH3iPvam9f5yA",
-      "title": "\u2727.* Weekly Schedule (6/03 - 6/09) + Free Chat \u2727.*"
+      "title": "\u2727.* Weekly Schedule (6/10 - 6/16) + Free Chat \u2727.*"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2026-04-01T00:00:00Z",
@@ -881,8 +881,9 @@
       "title": "[ROLEPLAY ASMR] Setting Fire To Your Valuables ASMR - Ciccino Katterina V&U"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-14T20:00:00Z",
-      "activeLiveChatId": "Cg0KC0h5VG9XaGJkdWVZKicKGFVDX2N4aU9WWWk5VEgzaVB2YW05ZjV5QRILSHlUb1doYmR1ZVk"
+      "actualStartTime": "2024-06-14T20:00:35Z",
+      "actualEndTime": "2024-06-14T21:10:38Z",
+      "scheduledStartTime": "2024-06-14T20:00:00Z"
     }
   }
 }

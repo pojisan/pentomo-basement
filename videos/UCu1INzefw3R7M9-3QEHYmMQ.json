@@ -24243,19 +24243,20 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-14T15:09:44Z",
-      "scheduledStartTime": "2024-06-14T15:00:00Z",
-      "activeLiveChatId": "Cg0KCzNGNG83VTU2SWQwKicKGFVDdTFJTnplZnczUjdNOS0zUUVIWW1NURILM0Y0bzdVNTZJZDA"
+      "actualEndTime": "2024-06-14T18:13:46Z",
+      "scheduledStartTime": "2024-06-14T15:00:00Z"
     }
   },
   "Ma1I-URfoq8": {
     "snippet": {
       "publishedAt": "2024-06-09T23:59:39Z",
       "channelId": "UCu1INzefw3R7M9-3QEHYmMQ",
-      "title": "\u3010Tenshi Maid Cafe\u3011Welcome Home, Master\ud83d\ude33"
+      "title": "\u3010Anime Girl Maid Cafe\u3011Welcome Home, Master\ud83d\ude33"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-15T00:00:00Z",
-      "activeLiveChatId": "Cg0KC01hMUktVVJmb3E4KicKGFVDdTFJTnplZnczUjdNOS0zUUVIWW1NURILTWExSS1VUmZvcTg"
+      "actualStartTime": "2024-06-15T00:07:49Z",
+      "actualEndTime": "2024-06-15T07:11:01Z",
+      "scheduledStartTime": "2024-06-15T00:00:00Z"
     }
   },
   "7DWnQyOFobc": {
@@ -24265,7 +24266,7 @@
       "title": "\u3010FIRST TIME Dragon Age: Origins\u3011I LIke This Game"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-15T15:00:00Z",
+      "scheduledStartTime": "2024-06-15T18:00:00Z",
       "activeLiveChatId": "Cg0KCzdEV25ReU9Gb2JjKicKGFVDdTFJTnplZnczUjdNOS0zUUVIWW1NURILN0RXblF5T0ZvYmM"
     }
   },
@@ -24285,6 +24286,18 @@
       "publishedAt": "2024-06-14T02:20:06Z",
       "channelId": "UCu1INzefw3R7M9-3QEHYmMQ",
       "title": "HELP MY HANDS ARE COLD #shorts"
+    }
+  },
+  "VjzNhspLVY4": {
+    "snippet": {
+      "publishedAt": "2024-06-14T23:05:05Z",
+      "channelId": "UCu1INzefw3R7M9-3QEHYmMQ",
+      "title": "Bling-Bang-Bang-Born - Creepy Nuts\u300eMASHLE: MAGIC AND MUSCLES Season 2 OP\u300fNene Amano Cover"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-16T01:00:00Z",
+      "activeLiveChatId": "Cg0KC1Zqek5oc3BMVlk0KicKGFVDdTFJTnplZnczUjdNOS0zUUVIWW1NURILVmp6TmhzcExWWTQ",
+      "premiere": true
     }
   }
 }
