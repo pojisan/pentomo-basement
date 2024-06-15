@@ -126,7 +126,7 @@
       "title": "\u3010Anime Watch Along\u3011Kill La Kill Episode 7 to 12"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-15T02:00:23Z",
+      "scheduledStartTime": "2024-06-15T02:15:00Z",
       "activeLiveChatId": "Cg0KCy1mclpEUWRmT1hVKicKGFVDM3dvNGJ5X0JhbkRXZ0hBNlp6TmFRdxILLWZyWkRRZGZPWFU"
     }
   },
@@ -613,18 +613,6 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KCzNJaTlOcFRZSG00KicKGFVDTXBrN3Frc0t1VFlWeWNXV25nRkJBZxILM0lpOU5wVFlIbTQ"
-    }
-  },
-  "3XRTRScZaBc": {
-    "snippet": {
-      "publishedAt": "2024-06-13T07:09:41Z",
-      "channelId": "UCkjP_w607B-n4kWJrZAsHMQ",
-      "title": "\u3010Platform 8 / 8\u756a\u306e\u308a\u3070\u3011I still have no sense of direction......\u3010Ami Amami | PRISM Project Gen 5\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-15T00:11:31Z",
-      "scheduledStartTime": "2024-06-15T00:00:00Z",
-      "activeLiveChatId": "Cg0KCzNYUlRSU2NaYUJjKicKGFVDa2pQX3c2MDdCLW40a1dKclpBc0hNURILM1hSVFJTY1phQmM"
     }
   },
   "3bH45Swzykw": {
@@ -2086,6 +2074,7 @@
       "title": "\u3010Paranormal Cleanup\u3011We Clean!\u3010NIJISANJI EN | Klara Charmwood\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-15T02:00:33Z",
       "scheduledStartTime": "2024-06-15T02:00:00Z",
       "activeLiveChatId": "Cg0KC0hBVEdaeU9PNXZBKicKGFVDUVl3SVVDTHFGb2luN2xIS21lUGpKdxILSEFUR1p5T081dkE"
     }
@@ -3072,6 +3061,7 @@
       "title": "\u3010Participatory Gartic Phone\u3011Lets draw funny memories together  pt1| #vtuber"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-15T02:00:53Z",
       "scheduledStartTime": "2024-06-15T02:00:00Z",
       "activeLiveChatId": "Cg0KC09ObXR3ZDFUUkw0KicKGFVDNFdzTEVfeGRybmQwNUQwNUdvOW9YdxILT05tdHdkMVRSTDQ"
     }
@@ -4999,17 +4989,6 @@
       "activeLiveChatId": "Cg0KC2ViZWhXakVBd2I0KicKGFVDbjJMc29zdTgyeUU5UFVtVkxGQlpCURILZWJlaFdqRUF3YjQ"
     }
   },
-  "eliastellaria": {
-    "snippet": {
-      "channelId": "eliastellaria",
-      "title": "heeeeeelp \u3010Elden Ring\u3011",
-      "channelTitle": "EliaStellaria"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-14T21:08:33Z",
-      "twitch": true
-    }
-  },
   "fEcg_4Yq42Y": {
     "snippet": {
       "publishedAt": "2021-11-01T08:47:20Z",
@@ -5234,17 +5213,6 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC2hpc1drOWRQeHhrKicKGFVDVmpwRlAxX055M1BVb0UyNnI0SVRhdxILaGlzV2s5ZFB4eGs"
-    }
-  },
-  "hiyorisinn": {
-    "snippet": {
-      "channelId": "hiyorisinn",
-      "title": "it's TIME to SUFFER (Xenosaga 2) / !streamloots !asmr",
-      "channelTitle": "HiyorisInn"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-14T20:52:13Z",
-      "twitch": true
     }
   },
   "hlDFczhR2mo": {
@@ -5733,17 +5701,6 @@
       "activeLiveChatId": "Cg0KC21fSlMxY2N2RWs4KicKGFVDX3Q3d3RTY1ZMazg1SWFEOWpZU1JBQRILbV9KUzFjY3ZFazg"
     }
   },
-  "magi_41": {
-    "snippet": {
-      "channelId": "magi_41",
-      "title": "Shipgirl DOESNT take water (because she is the best) (trust me) || !vfleet !socials",
-      "channelTitle": "Magi_41"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-14T23:02:21Z",
-      "twitch": true
-    }
-  },
   "margo": {
     "snippet": {
       "channelId": "margo",
@@ -5979,6 +5936,7 @@
       "title": "\u3010Monster Hunter: World\u3011It's BONKING Time! Ep.04"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-15T02:00:56Z",
       "scheduledStartTime": "2024-06-15T02:00:00Z",
       "activeLiveChatId": "Cg0KC29VTHhkcGZlWEVRKicKGFVDZ25mUFBiOUpJM2U5QTRjWEhuV2J5ZxILb1VMeGRwZmVYRVE"
     }
@@ -6836,8 +6794,20 @@
       "title": "Let's Play The Last Stand - Part 1"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-15T02:00:41Z",
       "scheduledStartTime": "2024-06-15T02:00:00Z",
       "activeLiveChatId": "Cg0KC3dZTUFtTFRrVzh3KicKGFVDNXFsQWhyZWM2LTBKLUszem1oTlBQURILd1lNQW1MVGtXOHc"
+    }
+  },
+  "wYPkOAcYNUw": {
+    "snippet": {
+      "publishedAt": "2024-06-15T01:52:19Z",
+      "channelId": "UCml-r5aTs4JGeEeXUFnZ7eQ",
+      "title": "\u3010DEVIL MAY CRY 5\u3011There's a Devil inside me... and I May Cry internally."
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-15T23:00:00Z",
+      "activeLiveChatId": "Cg0KC3dZUGtPQWNZTlV3KicKGFVDbWwtcjVhVHM0SkdlRWVYVUZuWjdlURILd1lQa09BY1lOVXc"
     }
   },
   "wdPAtCRgk-U": {
@@ -7077,6 +7047,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-16T01:32:00Z",
       "activeLiveChatId": "Cg0KC3pXdTZ5clRTaWRjKicKGFVDSHhVdkFJWEhmRHpwVFcwMnY3UWFyZxILeld1NnlyVFNpZGM"
+    }
+  },
+  "zeusmythosvt": {
+    "snippet": {
+      "channelId": "zeusmythosvt",
+      "title": "\u300c \ud83c\udf29\ufe0f HALF ANNIV UNCAPPED SUBATHON \ud83c\udf29\ufe0f \u300dHAPPY HALF ANNIVERSARY MORTALS + GAMING + COLLABS + REACTS  \u26a1 !discord !throne !lurk !daki !uwu !GS",
+      "channelTitle": "ZeusMythosVT"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-15T01:59:58Z",
+      "twitch": true
     }
   },
   "zhyTt2HSKs8": {
