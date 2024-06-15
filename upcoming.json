@@ -307,6 +307,7 @@
       "title": "\u3010Kouhai Karaoke Relay\u301125 VTUBERS from 8 COMPANIES!\ud83c\udfa4HUGE Karaoke RELAY!!\u3010Bonnie Barkswell / globie\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-15T21:15:24Z",
       "scheduledStartTime": "2024-06-15T21:20:00Z",
       "activeLiveChatId": "Cg0KCzFJbDdKWWFLb0RrKicKGFVDcXczcGRQRUtLVk9JN1NGWG9teUtMQRILMUlsN0pZYUtvRGs"
     }
@@ -1226,18 +1227,6 @@
       "activeLiveChatId": "Cg0KC0NYdWZZaVpyYS1BKicKGFVDT1hkV0VKZTVTTm5Lb0JlQ201WjA5URILQ1h1ZllpWnJhLUE"
     }
   },
-  "ChCnyk901YU": {
-    "snippet": {
-      "publishedAt": "2024-06-15T11:06:35Z",
-      "channelId": "UCGhqxhovNfaPBpxfCruy9EA",
-      "title": "Fear the Deer! - Fire Emblem: Three Houses \u3010NIJISANJI EN | Fulgur Ovid\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-15T14:00:47Z",
-      "scheduledStartTime": "2024-06-15T14:00:00Z",
-      "activeLiveChatId": "Cg0KC0NoQ255azkwMVlVKicKGFVDR2hxeGhvdk5mYVBCcHhmQ3J1eTlFQRILQ2hDbnlrOTAxWVU"
-    }
-  },
   "Criw5zhE0bI": {
     "snippet": {
       "publishedAt": "2023-08-13T06:13:14Z",
@@ -1753,18 +1742,6 @@
       "activeLiveChatId": "Cg0KC0dtMmxnN2tfOGg0KicKGFVDa2ItcjcwMnVoeDQtNkxybWV0cC1PdxILR20ybGc3a184aDQ"
     }
   },
-  "GowObKb-KtI": {
-    "snippet": {
-      "publishedAt": "2024-06-12T03:57:44Z",
-      "channelId": "UCiaAJfdkrwuDjWiQjYZWpXw",
-      "title": "\u3010KOUHAI KARAOKE RELAY\u3011My first Karaoke Relay!\u3010PixelLink\u3011#KouHype24"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-15T20:55:15Z",
-      "scheduledStartTime": "2024-06-15T20:55:00Z",
-      "activeLiveChatId": "Cg0KC0dvd09iS2ItS3RJKicKGFVDaWFBSmZka3J3dURqV2lRallaV3BYdxILR293T2JLYi1LdEk"
-    }
-  },
   "GpfNAkH36H8": {
     "snippet": {
       "publishedAt": "2023-12-24T09:26:14Z",
@@ -2078,18 +2055,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-02-15T05:00:00Z",
       "activeLiveChatId": "Cg0KC0pQcGtXZHM5eXFzKicKGFVDRzU2WFdaZWJPM1RIV0w2R3FkTDZnQRILSlBwa1dkczl5cXM"
-    }
-  },
-  "JSBK1Xl2XQY": {
-    "snippet": {
-      "publishedAt": "2024-06-15T15:02:07Z",
-      "channelId": "UCVo_KgPNsDKxHwzib7uarCw",
-      "title": "Pyramid Head is SUS... - Silent Hill 2"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-15T18:32:57Z",
-      "scheduledStartTime": "2024-06-15T18:30:00Z",
-      "activeLiveChatId": "Cg0KC0pTQksxWGwyWFFZKicKGFVDVm9fS2dQTnNES3hId3ppYjd1YXJDdxILSlNCSzFYbDJYUVk"
     }
   },
   "JiQQsseJWCk": {
@@ -4692,7 +4657,7 @@
   "haruna": {
     "snippet": {
       "channelId": "haruna",
-      "title": "PEX",
+      "title": "shoert time PEX",
       "channelTitle": "haruna"
     },
     "liveStreamingDetails": {
