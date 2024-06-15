@@ -600,18 +600,6 @@
       "activeLiveChatId": "Cg0KCzRuZlBCNFJRYWJ3KicKGFVDR3dMU3lQTGFIcHEwbnVUX0pWU010URILNG5mUEI0UlFhYnc"
     }
   },
-  "4yPsLVGk2sg": {
-    "snippet": {
-      "publishedAt": "2024-06-15T23:15:20Z",
-      "channelId": "UCml-r5aTs4JGeEeXUFnZ7eQ",
-      "title": "\u3010DEVIL MAY CRY 5\u3011There's a Devil inside me... and I May Cry internally."
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-15T23:16:09Z",
-      "scheduledStartTime": "2024-06-15T23:15:20Z",
-      "activeLiveChatId": "Cg0KCzR5UHNMVkdrMnNnKicKGFVDbWwtcjVhVHM0SkdlRWVYVUZuWjdlURILNHlQc0xWR2syc2c"
-    }
-  },
   "52563OjVB-8": {
     "snippet": {
       "publishedAt": "2022-05-26T10:11:13Z",
@@ -2413,7 +2401,7 @@
       "title": "\u3010COVER\u3011???"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-16T01:00:00Z",
+      "scheduledStartTime": "2024-06-16T01:30:00Z",
       "activeLiveChatId": "Cg0KC01kaURaaWJkUnFzKicKGFVDdjFUaHlFNEtWWW5uVlk4R0xmdG5vQRILTWRpRFppYmRScXM",
       "premiere": true
     }
@@ -3115,6 +3103,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-16T04:00:00Z",
       "activeLiveChatId": "Cg0KC1RaTnZMVzZuQnpVKicKGFVDS3BLQzNNNWZrY0V2dE9yMDZkbVlsQRILVFpOdkxXNm5CelU"
+    }
+  },
+  "Tc10ZdldNSY": {
+    "snippet": {
+      "publishedAt": "2024-06-15T23:38:38Z",
+      "channelId": "UCIu1rRiQLeUU8e1saN6I0eg",
+      "title": "\u3010KARAOKE \u250a\ufe0e#\u6b4c\u67a0\u3011\u5929\u4f7f\u306e\u58f0\u3001\u805e\u3044\u3066\u307f\u308b\uff1f #singing \u3010#\u30ce\u30a2\u30dd\u30e9\u30ea\u30b9\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-17T13:00:00Z",
+      "activeLiveChatId": "Cg0KC1RjMTBaZGxkTlNZKicKGFVDSXUxclJpUUxlVVU4ZTFzYU42STBlZxILVGMxMFpkbGROU1k"
     }
   },
   "TfVOpQY8Izw": {
@@ -4203,6 +4202,7 @@
       "title": "[KOUHAI KARAOKE RELAY] I sing for you"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-15T23:38:36Z",
       "scheduledStartTime": "2024-06-15T23:45:00Z",
       "activeLiveChatId": "Cg0KC2RoSXJDQ1Q1VDlvKicKGFVDa0o2NFcwSjdSMHpDU0FzWmZSSWhWURILZGhJckNDVDVUOW8"
     }
@@ -5801,7 +5801,7 @@
       "title": "\u3010Kouhai Karaoke Relay\u3011 I'm extremely jetlagged!! LET'S SING!!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-16T09:00:00Z",
+      "scheduledStartTime": "2024-06-16T02:00:00Z",
       "activeLiveChatId": "Cg0KC3VMR3JJakI4ODk4KicKGFVDQkpGc2FDdmdCYTFhOUJuRWF4dTk3URILdUxHcklqQjg4OTg"
     }
   },
