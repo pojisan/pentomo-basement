@@ -673,6 +673,7 @@
       "title": "\u3010\u65e5\u672c\u8a9e\u96d1\u8ac7\u3011EN \u306e\u30af\u30e9\u30e9\u3067\u3059\uff01\u8a71\u305d\u3046\uff01\u3010NIJISANJI EN | Klara Charmwood\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-15T12:03:50Z",
       "scheduledStartTime": "2024-06-15T12:00:00Z",
       "activeLiveChatId": "Cg0KCzRBZTVUb1hKZ1VrKicKGFVDUVl3SVVDTHFGb2luN2xIS21lUGpKdxILNEFlNVRvWEpnVWs"
     }
@@ -3038,6 +3039,7 @@
       "title": "\u3010Mbembe Radio | \u30e0\u30d9\u30f3\u30d9\u30e9\u30b8\u30aa\u3011A Cute Children Radio Horror Game - Can We Go Home Safely?\u3010hololive | Anya\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-15T12:07:29Z",
       "scheduledStartTime": "2024-06-15T12:05:00Z",
       "activeLiveChatId": "Cg0KC1BPaFpwdXRpeWRNKicKGFVDNzI3U1FZVXZ4NXBEREdRcFRJQ05XZxILUE9oWnB1dGl5ZE0"
     }
@@ -3910,6 +3912,7 @@
       "title": "\u3010THE QUARRY\u3011  The start of a new story! Horror game!!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-15T12:02:41Z",
       "scheduledStartTime": "2024-06-15T12:00:00Z",
       "activeLiveChatId": "Cg0KC1hMRkRqQnRZOWRvKicKGFVDYnJiRktGaHlIRDRiTUpiRWNYWnoxZxILWExGRGpCdFk5ZG8"
     }
@@ -5317,6 +5320,17 @@
       "activeLiveChatId": "Cg0KC2tlMTZnRmdhbUdRKicKGFVDSzlsNnJUd1UzaGlTWmlqSU1xNTFHdxILa2UxNmdGZ2FtR1E"
     }
   },
+  "kirispica": {
+    "snippet": {
+      "channelId": "kirispica",
+      "title": "Game start!! \u3010Kirispica | V-Dere\u3011",
+      "channelTitle": "kirispica"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-15T12:01:54Z",
+      "twitch": true
+    }
+  },
   "l3uqelUhGhU": {
     "snippet": {
       "publishedAt": "2024-03-22T18:06:38Z",
@@ -5967,18 +5981,6 @@
       "activeLiveChatId": "Cg0KC3JWSEx0OS1oa0ZFKicKGFVDWUl6cWJWUDZGTFpyNEt0ZW81Z0pyQRILclZITHQ5LWhrRkU"
     }
   },
-  "rad9JBUbImk": {
-    "snippet": {
-      "publishedAt": "2024-06-14T19:10:23Z",
-      "channelId": "UC99iAcajhltPg-TUStqg8dw",
-      "title": "\u3010SEKIRO: SHADOWS DIE TWICE\u3011FINALE: Hesitation is Defeat!!\u3010VOLs\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-15T05:01:20Z",
-      "scheduledStartTime": "2024-06-15T05:00:00Z",
-      "activeLiveChatId": "Cg0KC3JhZDlKQlViSW1rKicKGFVDOTlpQWNhamhsdFBnLVRVU3RxZzhkdxILcmFkOUpCVWJJbWs"
-    }
-  },
   "rgdi8bteQgc": {
     "snippet": {
       "publishedAt": "2024-04-27T23:54:17Z",
@@ -6489,7 +6491,7 @@
       "title": "You can make In n Out Burgers at home! Let me teach you how!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-15T12:00:00Z",
+      "scheduledStartTime": "2024-06-15T12:30:00Z",
       "activeLiveChatId": "Cg0KC3dWLTh2TkhIcS1zKicKGFVDbkpOTms0NU8xUVlTMm9NUllGS1N5dxILd1YtOHZOSEhxLXM"
     }
   },
