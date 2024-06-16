@@ -1119,8 +1119,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-16T02:56:13Z",
       "actualEndTime": "2024-06-16T03:31:08Z",
-      "scheduledStartTime": "2024-06-16T02:55:00Z",
-      "activeLiveChatId": "Cg0KCzFKSW43LWVFZ3NJKicKGFVDUEszUzlpajBEWElObVRqUTRLaFFWQRILMUpJbjctZUVnc0k"
+      "scheduledStartTime": "2024-06-16T02:55:00Z"
     }
   },
   "XXXX5_DZpfU": {
@@ -1139,13 +1138,12 @@
     "snippet": {
       "publishedAt": "2024-06-14T03:07:21Z",
       "channelId": "UCPK3S9ij0DXINmTjQ4KhQVA",
-      "title": "? - SONG COVER PREMIERE!!"
+      "title": "Moonlight-Viewing Recital (\u30aa\u30c4\u30ad\u30df\u30ea\u30b5\u30a4\u30bf\u30eb) English cover / ver. Hiyori Mokami"
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-16T03:30:06Z",
-      "scheduledStartTime": "2024-06-16T03:30:00Z",
-      "activeLiveChatId": "Cg0KC19jQU9rZWlNeXZ3KicKGFVDUEszUzlpajBEWElObVRqUTRLaFFWQRILX2NBT2tlaU15dnc",
-      "premiere": true
+      "actualEndTime": "2024-06-16T03:36:47Z",
+      "scheduledStartTime": "2024-06-16T03:30:00Z"
     }
   },
   "Rao8XkGgvUs": {
@@ -1176,8 +1174,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-16T03:37:16Z",
       "actualEndTime": "2024-06-16T04:10:18Z",
-      "scheduledStartTime": "2024-06-16T03:40:00Z",
-      "activeLiveChatId": "Cg0KC3pCbGZBVk9fM2ZvKicKGFVDUEszUzlpajBEWElObVRqUTRLaFFWQRILekJsZkFWT18zZm8"
+      "scheduledStartTime": "2024-06-16T03:40:00Z"
     }
   }
 }

@@ -222,8 +222,18 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-16T00:05:49Z",
       "actualEndTime": "2024-06-16T04:00:54Z",
-      "scheduledStartTime": "2024-06-16T00:00:00Z",
-      "activeLiveChatId": "Cg0KC3V5ZkJIaGxHaVJrKicKGFVDaTdUd29tdFMzWnlmakFNNVRXRU1TURILdXlmQkhobEdpUms"
+      "scheduledStartTime": "2024-06-16T00:00:00Z"
+    }
+  },
+  "F1xrppmFbvU": {
+    "snippet": {
+      "publishedAt": "2024-06-15T06:07:37Z",
+      "channelId": "UCi7TwomtS3ZyfjAM5TWEMSQ",
+      "title": "\u3010Supermarket Simulator\u3011How's my milk shop coming along? \ud83d\udc10\ud83c\udf7c\u3010VAllure\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-17T00:00:00Z",
+      "activeLiveChatId": "Cg0KC0YxeHJwcG1GYnZVKicKGFVDaTdUd29tdFMzWnlmakFNNVRXRU1TURILRjF4cnBwbUZidlU"
     }
   }
 }
