@@ -3523,18 +3523,6 @@
       "activeLiveChatId": "Cg0KC1l2cExWZHhCLVdFKicKGFVDYjhkTHZEdm1aLWQ5MktFeV85b1dvZxILWXZwTFZkeEItV0U"
     }
   },
-  "YxaDafS7mOI": {
-    "snippet": {
-      "publishedAt": "2024-06-15T22:34:59Z",
-      "channelId": "UCqmSYkXLwsL0zEar5GooYkg",
-      "title": "\u3010BIRTHDAY STREAM PART TWO\u3011ok let's get lit\u3010Yume+ | Mimosa Shirosaki\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-16T04:58:36Z",
-      "scheduledStartTime": "2024-06-16T05:00:00Z",
-      "activeLiveChatId": "Cg0KC1l4YURhZlM3bU9JKicKGFVDcW1TWWtYTHdzTDB6RWFyNUdvb1lrZxILWXhhRGFmUzdtT0k"
-    }
-  },
   "Z8x_eZh0-q4": {
     "snippet": {
       "publishedAt": "2021-10-12T07:27:00Z",
@@ -4421,6 +4409,17 @@
       "activeLiveChatId": "Cg0KC2lRVmpoN0Nlc0VRKicKGFVDYl9hbmdmRjhpbzEtMURydks1azVMQRILaVFWamg3Q2VzRVE"
     }
   },
+  "inumaromugi": {
+    "snippet": {
+      "channelId": "inumaromugi",
+      "title": "\u3010Eri\u3011just eating some rice! | #Sponsorship |\u2726 \u207a.",
+      "channelTitle": "InumaroMugi"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-16T08:57:07Z",
+      "twitch": true
+    }
+  },
   "j6Kd6s3nsEw": {
     "snippet": {
       "publishedAt": "2024-06-10T00:59:22Z",
@@ -4740,17 +4739,6 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-16T06:54:54Z",
-      "twitch": true
-    }
-  },
-  "miyuyus": {
-    "snippet": {
-      "channelId": "miyuyus",
-      "title": "fork knife \u2665 !candle !merch !throne",
-      "channelTitle": "miyuyus"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-16T04:34:19Z",
       "twitch": true
     }
   },
