@@ -340,6 +340,7 @@
       "title": "\u3010FATHERS DAY INTERVIEW\u3011MEET MY DAD.\u3010VyVid | Eva Ananova \u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-16T18:00:30Z",
       "scheduledStartTime": "2024-06-16T18:00:00Z",
       "activeLiveChatId": "Cg0KCzFndGxtRUFMOF9vKicKGFVDVE5wd1d5b0xnZUotdHN4V3E3dWN2dxILMWd0bG1FQUw4X28"
     }
@@ -796,7 +797,8 @@
       "title": "\u3010Sunday Afternoon TeaTime\u3011Getting to know the NEXAS Restreamers!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-16T18:00:00Z",
+      "actualStartTime": "2024-06-16T17:55:29Z",
+      "scheduledStartTime": "2024-06-16T17:55:07Z",
       "activeLiveChatId": "Cg0KCzc2cnZHSkxUN0x3KicKGFVDbWwtcjVhVHM0SkdlRWVYVUZuWjdlURILNzZydkdKTFQ3THc"
     }
   },
@@ -981,6 +983,7 @@
       "title": "\u3010Phasmophobia\u3011What did I get drag into? I am bad with ghost!\u3010Alicja Da Lontano | Globie collab\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-16T17:56:27Z",
       "scheduledStartTime": "2024-06-16T18:00:00Z",
       "activeLiveChatId": "Cg0KCzlob2VMbUwxelB3KicKGFVDcWxndGs5SF8xR29XdHZXOFZpaTM4dxILOWhvZUxtTDF6UHc"
     }
@@ -2184,18 +2187,6 @@
       "activeLiveChatId": "Cg0KC0psS0luWUdEdnQwKicKGFVDR3dMU3lQTGFIcHEwbnVUX0pWU010URILSmxLSW5ZR0R2dDA"
     }
   },
-  "K-gthOySCFE": {
-    "snippet": {
-      "publishedAt": "2024-06-16T13:33:01Z",
-      "channelId": "UCFHdEAHPbFUjgJ1RaO_Aw6w",
-      "title": "A Futile Escape | M4F | Yandere | Deep Voice | Pet Names | ASMR RP"
-    },
-    "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-16T18:00:00Z",
-      "activeLiveChatId": "Cg0KC0stZ3RoT3lTQ0ZFKicKGFVDRkhkRUFIUGJGVWpnSjFSYU9fQXc2dxILSy1ndGhPeVNDRkU",
-      "premiere": true
-    }
-  },
   "K369lVtonMQ": {
     "snippet": {
       "publishedAt": "2024-05-11T04:56:24Z",
@@ -2321,6 +2312,7 @@
       "title": "\u3010Buckshot Roulette\u3011FEET ON THE GROUND SCAREDY CAT! \ud83e\udd91\ud83d\uded0\u3010VAllure\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-16T18:00:24Z",
       "scheduledStartTime": "2024-06-16T18:00:00Z",
       "activeLiveChatId": "Cg0KC0tYcklyd3dVOWZFKicKGFVDd21HXzd5NnBUb1JXSEo5VHdGZFoxURILS1hySXJ3d1U5ZkU"
     }
@@ -2875,6 +2867,7 @@
       "title": "SUMMONING the SCARIEST GHOST! \ud83d\ude31Phasmophobia!\u3010Bonnie Barkswell / globie\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-16T17:56:39Z",
       "scheduledStartTime": "2024-06-16T18:00:00Z",
       "activeLiveChatId": "Cg0KC1B5bmtFaUtwRk9VKicKGFVDcXczcGRQRUtLVk9JN1NGWG9teUtMQRILUHlua0VpS3BGT1U"
     }
@@ -3477,6 +3470,7 @@
       "title": "Let's FINISH the game!!\u3010DAVE THE DIVER\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-16T18:00:34Z",
       "scheduledStartTime": "2024-06-16T18:00:00Z",
       "activeLiveChatId": "Cg0KC1Z1N19DRFY2VTFRKicKGFVDSW8zM2IwaGYyX21kcXRBWnZLbGF5URILVnU3X0NEVjZVMVE"
     }
@@ -4254,6 +4248,17 @@
       "activeLiveChatId": "Cg0KC2NXTHdMQkR0YTJvKicKGFVDa2lVQnlCQ0YxYU9pUmQxNnhBbFBNZxILY1dMd0xCRHRhMm8"
     }
   },
+  "clothovmelodiam": {
+    "snippet": {
+      "channelId": "clothovmelodiam",
+      "title": "\u3010Sunday Afternoon TeaTime\u3011Getting to know the NEXAS Restreamers!",
+      "channelTitle": "clothovmelodiam"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-16T17:55:24Z",
+      "twitch": true
+    }
+  },
   "cnOF92APFu0": {
     "snippet": {
       "publishedAt": "2024-06-16T14:47:18Z",
@@ -4347,6 +4352,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-22T02:00:00Z",
       "activeLiveChatId": "Cg0KC2RqdnFOSHptTHZnKicKGFVDSUxRbDVnUkJNdndkLTk3LU01cExZURILZGp2cU5Iem1Mdmc"
+    }
+  },
+  "dtbmEWl35nY": {
+    "snippet": {
+      "publishedAt": "2024-06-16T17:55:16Z",
+      "channelId": "UCHGuoIr9iDxG07vIOOXTI8A",
+      "title": "\u22c6\u263e Resident Evil#2 \u263d My brain cannot braining\u3010 #residentevil / #envtuber \u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-19T13:30:00Z",
+      "activeLiveChatId": "Cg0KC2R0Ym1FV2wzNW5ZKicKGFVDSEd1b0lyOWlEeEcwN3ZJT09YVEk4QRILZHRibUVXbDM1blk"
     }
   },
   "dwPADgo8YSY": {
