@@ -376,18 +376,6 @@
       "activeLiveChatId": "Cg0KCzFpOTNiTEJyTFMwKicKGFVDa0o2NFcwSjdSMHpDU0FzWmZSSWhWURILMWk5M2JMQnJMUzA"
     }
   },
-  "1jXvHl58UWc": {
-    "snippet": {
-      "publishedAt": "2024-06-15T05:41:58Z",
-      "channelId": "UCoIG7_-OqR86X_HWFyePUNg",
-      "title": "Endurance Stream | PT2 VTUBER PLAYS FFXIV FOR HOW LONG?!"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-15T17:59:57Z",
-      "scheduledStartTime": "2024-06-15T18:00:00Z",
-      "activeLiveChatId": "Cg0KCzFqWHZIbDU4VVdjKicKGFVDb0lHN18tT3FSODZYX0hXRnllUFVOZxILMWpYdkhsNThVV2M"
-    }
-  },
   "1schsPsowVo": {
     "snippet": {
       "publishedAt": "2024-03-02T15:59:26Z",
@@ -876,18 +864,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-09-08T04:15:00Z",
       "activeLiveChatId": "Cg0KCzhHTXhNWEFjX3JJKicKGFVDNXFsQWhyZWM2LTBKLUszem1oTlBQURILOEdNeE1YQWNfckk"
-    }
-  },
-  "8RaB5-Wmy2Q": {
-    "snippet": {
-      "publishedAt": "2024-06-16T02:57:14Z",
-      "channelId": "UCe22Bcwd_GCpTjLxn83zl7A",
-      "title": "\u3010\u6fc0\u8f9b\u30e9\u30f3\u30c1\u3011\u7b2c1\u56de\uff1a\u8f9b\u8f9b\u9b5a\u3010\u5148\u6597\u5be7/\u306b\u3058\u3055\u3093\u3058\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-16T03:03:28Z",
-      "scheduledStartTime": "2024-06-16T03:00:00Z",
-      "activeLiveChatId": "Cg0KCzhSYUI1LVdteTJRKicKGFVDZTIyQmN3ZF9HQ3BUakx4bjgzemw3QRILOFJhQjUtV215MlE"
     }
   },
   "8UEmElIibEw": {
@@ -2733,7 +2709,7 @@
       "title": "Let's make Omurice (living my kichi kichi dreams)"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-16T04:45:00Z",
+      "scheduledStartTime": "2024-06-16T05:00:00Z",
       "activeLiveChatId": "Cg0KC1E0MVo2TGJiaFY0KicKGFVDRmdYV1pPVVpBMm9ZSE5yNnFEbXNUURILUTQxWjZMYmJoVjQ"
     }
   },
@@ -4986,6 +4962,17 @@
       "twitch": true
     }
   },
+  "miyuyus": {
+    "snippet": {
+      "channelId": "miyuyus",
+      "title": "fork knife \u2665 !candle !merch !throne",
+      "channelTitle": "miyuyus"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-16T04:34:19Z",
+      "twitch": true
+    }
+  },
   "n5D5GvXzXmY": {
     "snippet": {
       "publishedAt": "2023-12-11T14:51:50Z",
@@ -5262,7 +5249,8 @@
       "title": "\u3010Rabbit&Steel\u3011COLLAB W FIFI @FionnafonEngels \u300e Rina Astera | OshiLinkEN\u300f"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-16T23:00:00Z"
+      "scheduledStartTime": "2024-06-16T23:00:00Z",
+      "activeLiveChatId": "Cg0KC3Bza0VTUjJ3dDJVKicKGFVDUGx0UVhJZ1FhRDVtVmtBSXJPX2RTQRILcHNrRVNSMnd0MlU"
     }
   },
   "q2Gb5JMp0k8": {
@@ -5686,7 +5674,7 @@
   "tarawavt": {
     "snippet": {
       "channelId": "tarawavt",
-      "title": "Weekends with Wawa: 24 HEURES DU WAS!!!",
+      "title": "Weekends with Wawa: 24 HEURES DU WAS!!! (Rain hold, so Battletech.)",
       "channelTitle": "TarawaVT"
     },
     "liveStreamingDetails": {
