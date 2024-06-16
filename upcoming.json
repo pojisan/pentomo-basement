@@ -1170,6 +1170,17 @@
       "activeLiveChatId": "Cg0KC0N3X0gwWm53Ymx3KicKGFVDbk5MWldqbDRHdlZGNHM4ekJUOV9rQRILQ3dfSDBabndibHc"
     }
   },
+  "D3fUbqlC8do": {
+    "snippet": {
+      "publishedAt": "2024-06-16T01:32:44Z",
+      "channelId": "UC-1_-jUu-lALdGn9-MdBJ4Q",
+      "title": "\u3010PixelStart Karaoke Relay\u3011Let's Sing Together!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-17T01:00:00Z",
+      "activeLiveChatId": "Cg0KC0QzZlVicWxDOGRvKicKGFVDLTFfLWpVdS1sQUxkR245LU1kQko0URILRDNmVWJxbEM4ZG8"
+    }
+  },
   "D8TqEviKYLE": {
     "snippet": {
       "publishedAt": "2024-06-16T00:01:08Z",
@@ -4096,8 +4107,20 @@
       "title": "\u3010\u3058\u3083\u3093\u305f\u307e/\u96c0\u9b42/\u3055\u3093\u307e\u3011\u884c\u5217\u306e\u3067\u304d\u3066\u307b\u3057\u3044\u3058\u3083\u3093\u305f\u307e2024!!6\u67083\u9031\u76ee\ud83d\udc9d\ud83d\udc9d\u3010Vtuber/\u5317\u539f\u304d\u307e\u305b\u308a\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-16T01:32:02Z",
       "scheduledStartTime": "2024-06-16T01:30:10Z",
       "activeLiveChatId": "Cg0KC2M4QnBzelQzX3g4KicKGFVDNkVnalVaU1lTQVFlOUNERnhINzE1dxILYzhCcHN6VDNfeDg"
+    }
+  },
+  "cWLwLBDta2o": {
+    "snippet": {
+      "publishedAt": "2024-06-16T01:39:13Z",
+      "channelId": "UCkiUByBCF1aOiRd16xAlPMg",
+      "title": "Shootin' my Shot."
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-18T17:00:00Z",
+      "activeLiveChatId": "Cg0KC2NXTHdMQkR0YTJvKicKGFVDa2lVQnlCQ0YxYU9pUmQxNnhBbFBNZxILY1dMd0xCRHRhMm8"
     }
   },
   "clothovmelodiam": {
@@ -4141,18 +4164,6 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC2QtVTJ0NkJ1TU5VKicKGFVDZTBKaUdualBmRXdFSWJXQVNiT2ltdxILZC1VMnQ2QnVNTlU"
-    }
-  },
-  "d3BBSjEJbls": {
-    "snippet": {
-      "publishedAt": "2024-06-07T05:31:37Z",
-      "channelId": "UCPltQXIgQaD5mVkAIrO_dSA",
-      "title": "\u3010Yakuza 0\u3011mahjong. \u300e Rina Astera | OshiLinkEN\u300f"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-15T23:00:26Z",
-      "scheduledStartTime": "2024-06-15T23:00:00Z",
-      "activeLiveChatId": "Cg0KC2QzQkJTakVKYmxzKicKGFVDUGx0UVhJZ1FhRDVtVmtBSXJPX2RTQRILZDNCQlNqRUpibHM"
     }
   },
   "d5ZgfYaknJc": {
@@ -5019,7 +5030,8 @@
       "title": "\u3010Dave the Diver\u3011On top of the food chain"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-16T02:00:00Z"
+      "scheduledStartTime": "2024-06-16T02:00:00Z",
+      "activeLiveChatId": "Cg0KC25JaDVBWEVLVDkwKicKGFVDamNiN1B2UEhtajNNTlV5c1ZVZUpjZxILbkloNUFYRUtUOTA"
     }
   },
   "nVz7rpQgzVY": {
@@ -6304,6 +6316,7 @@
       "title": "\u3010Kouhai Karaoke Relay\u3011Detective Trying Her Best to Sing #KouHype24"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-16T01:35:38Z",
       "scheduledStartTime": "2024-06-16T01:35:00Z",
       "activeLiveChatId": "Cg0KC3pXdTZ5clRTaWRjKicKGFVDSHhVdkFJWEhmRHpwVFcwMnY3UWFyZxILeld1NnlyVFNpZGM"
     }
@@ -6311,7 +6324,7 @@
   "zeusmythosvt": {
     "snippet": {
       "channelId": "zeusmythosvt",
-      "title": "\u300c \ud83c\udf29\ufe0f HALF ANNIV UNCAPPED SUBATHON \ud83c\udf29\ufe0f \u300d  DAY 1 ENDING / DAY 2: POWER RANGERS w/ FRIENDS + FUN \u26a1 !fish !discord !throne !lurk !daki !uwu !GS",
+      "title": "\u300c \ud83c\udf29\ufe0f HALF ANNIV UNCAPPED SUBATHON \ud83c\udf29\ufe0f \u300d  DAY 2: POWER RANGERS w/ ROY & KAINE + GAMING + FUN \u26a1 !fish !discord !throne !lurk !daki !uwu !GS",
       "channelTitle": "ZeusMythosVT"
     },
     "liveStreamingDetails": {
