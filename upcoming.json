@@ -1296,18 +1296,6 @@
       "activeLiveChatId": "Cg0KC0RUbDNudFcxLVRJKicKGFVDSDhtRE16YVI1TUdGZENGNFdkc0dEQRILRFRsM250VzEtVEk"
     }
   },
-  "DYdeqrJ0ig4": {
-    "snippet": {
-      "publishedAt": "2024-06-16T06:56:39Z",
-      "channelId": "UCiyDpPerqXkicZmnxKB9qZQ",
-      "title": "[PS3] Demon's Souls (2009) #5"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-16T12:00:21Z",
-      "scheduledStartTime": "2024-06-16T12:00:00Z",
-      "activeLiveChatId": "Cg0KC0RZZGVxckowaWc0KicKGFVDaXlEcFBlcnFYa2ljWm1ueEtCOXFaURILRFlkZXFySjBpZzQ"
-    }
-  },
   "D_D9Malqo9I": {
     "snippet": {
       "publishedAt": "2024-06-15T22:28:31Z",
@@ -2160,7 +2148,8 @@
       "title": "\u3010Casual Chat\u3011Painting my Nails the Color that YOU decided!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-16T16:00:24Z",
+      "actualStartTime": "2024-06-16T16:00:16Z",
+      "scheduledStartTime": "2024-06-16T16:00:03Z",
       "activeLiveChatId": "Cg0KC0psNHgxU0xzZVFvKicKGFVDN3NxYlE0XzVfRUx6LU92LWJWQmk4QRILSmw0eDFTTHNlUW8"
     }
   },
@@ -4256,17 +4245,6 @@
       "activeLiveChatId": "Cg0KC2N1VkJQdDhUUjBFKicKGFVDQmdoVUtBX0wwbmEwU2VRNnNuek1NURILY3VWQlB0OFRSMEU"
     }
   },
-  "cynth_ai": {
-    "snippet": {
-      "channelId": "cynth_ai",
-      "title": "Sleepy Music Game \ud83d\ude34\ud83c\udfb5 | Melatonin",
-      "channelTitle": "cynth_AI"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-16T14:00:44Z",
-      "twitch": true
-    }
-  },
   "d-U2t6BuMNU": {
     "snippet": {
       "publishedAt": "2023-06-12T16:00:17Z",
@@ -4588,6 +4566,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-17T03:00:00Z",
       "activeLiveChatId": "Cg0KC2dMd2ZnbmJYRlU4KicKGFVDUmxRenVWZVl4VERQb2JQTjFqYVZrURILZ0x3ZmduYlhGVTg"
+    }
+  },
+  "gx_aura": {
+    "snippet": {
+      "channelId": "gx_aura",
+      "title": "\ud83c\udf34 REWATCH! SUMMER CHARITY CONCERT WITH 34 VTUBERS!  \ud83c\udf79 UNARCHIVED!| !charity [SummAura Concert Rewatch]",
+      "channelTitle": "GX_Aura"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-16T15:59:01Z",
+      "twitch": true
     }
   },
   "h4426bmybDA": {
