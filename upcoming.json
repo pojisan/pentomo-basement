@@ -5552,18 +5552,6 @@
       "scheduledStartTime": "2024-06-30T14:00:00Z"
     }
   },
-  "q_K54w-cFng": {
-    "snippet": {
-      "publishedAt": "2024-06-16T09:28:12Z",
-      "channelId": "UClS6k3w1sPwlVFqK3-yID5A",
-      "title": "[#\u306b\u3058GTA] 2\u65e5\u76ee\u3000\u732b\u30ab\u30d5\u30a7\u55b6\u696d\u958b\u59cb\uff1f\uff01\uff1f\uff01\uff1f"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-16T13:05:12Z",
-      "scheduledStartTime": "2024-06-16T13:00:00Z",
-      "activeLiveChatId": "Cg0KC3FfSzU0dy1jRm5nKicKGFVDbFM2azN3MXNQd2xWRnFLMy15SUQ1QRILcV9LNTR3LWNGbmc"
-    }
-  },
   "qbofvmazG1k": {
     "snippet": {
       "publishedAt": "2023-02-15T16:19:38Z",
@@ -5746,6 +5734,17 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC3J0aXhzNm1BRXJFKicKGFVDVlFFYmpBY0pSZVB4T0RWTTVtV0N2URILcnRpeHM2bUFFckU"
+    }
+  },
+  "rurumi": {
+    "snippet": {
+      "channelId": "rurumi",
+      "title": "\ud83c\udf89 [ 3D Vr ] ANNIVERSARY MARATHON\uff01\uff01\ud83e\uddb7\u271d\ufe0f",
+      "channelTitle": "Rurumi"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-16T17:49:12Z",
+      "twitch": true
     }
   },
   "rvWwaulJ6RA": {
@@ -5960,7 +5959,7 @@
       "title": "BEHIND THE SCENES STREAMER WORK!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-16T18:00:00Z",
+      "scheduledStartTime": "2024-06-16T19:00:00Z",
       "activeLiveChatId": "Cg0KC3R6eTZzUU5LU0s0KicKGFVDMXV6TVo3eF9IZ3VuNXQ4Sjl1RmFudxILdHp5NnNRTktTSzQ"
     }
   },
