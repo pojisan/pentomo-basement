@@ -1527,7 +1527,8 @@
     "snippet": {
       "publishedAt": "2023-11-06T02:01:26Z",
       "channelId": "UCAFbyEj9pesCxo69ozEhi9Q",
-      "title": "Title Here\u3010GAME HERE\u3011"
+      "title": "Title Here\u3010GAME HERE\u3011",
+      "private": true
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC21XNDZ1ZHJxQl9ZKicKGFVDQUZieUVqOXBlc0N4bzY5b3pFaGk5URILbVc0NnVkcnFCX1k"
@@ -1690,7 +1691,8 @@
     "snippet": {
       "publishedAt": "2024-06-16T02:20:27Z",
       "channelId": "UCAFbyEj9pesCxo69ozEhi9Q",
-      "title": "\u3010BRAINROT MAXXING\u3011Erm... What the Skibidi Toilet!? Watching Brainrot Videos I guess..."
+      "title": "\u3010BRAINROT MAXXING\u3011Erm... What the Skibidi Toilet!? Watching Brainrot Videos I guess...",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-21T23:30:00Z",
@@ -1701,7 +1703,8 @@
     "snippet": {
       "publishedAt": "2024-06-16T02:17:03Z",
       "channelId": "UCAFbyEj9pesCxo69ozEhi9Q",
-      "title": "\u3010Tier List\u3011Ranking Nightmares & Chatting!"
+      "title": "\u3010Tier List\u3011Ranking Nightmares & Chatting!",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-17T01:00:00Z",
