@@ -1875,6 +1875,7 @@
       "title": "\u3010 ZATSU\u3011Sunday Chat - Are you all right?\u3010 Reina Ronronea | globie\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-16T14:00:48Z",
       "scheduledStartTime": "2024-06-16T14:00:00Z",
       "activeLiveChatId": "Cg0KC0hrdFJOZ0tMTFFJKicKGFVDVm1oZzR3Y1RWcGp5Q29LRFk1OW1ZdxILSGt0Uk5nS0xMUUk"
     }
@@ -4116,6 +4117,17 @@
       "activeLiveChatId": "Cg0KC2N1VkJQdDhUUjBFKicKGFVDQmdoVUtBX0wwbmEwU2VRNnNuek1NURILY3VWQlB0OFRSMEU"
     }
   },
+  "cynth_ai": {
+    "snippet": {
+      "channelId": "cynth_ai",
+      "title": "Sleepy Music Game \ud83d\ude34\ud83c\udfb5 | Melatonin",
+      "channelTitle": "cynth_AI"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-16T14:00:44Z",
+      "twitch": true
+    }
+  },
   "d-U2t6BuMNU": {
     "snippet": {
       "publishedAt": "2023-06-12T16:00:17Z",
@@ -4261,6 +4273,7 @@
       "title": "I Got Tentacles For Father's Day! - Octodad: Dadliest Catch \u3010NIJISANJI EN | Fulgur Ovid\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-16T14:00:26Z",
       "scheduledStartTime": "2024-06-16T14:00:00Z",
       "activeLiveChatId": "Cg0KC2U3OEEtUzB0TG5JKicKGFVDR2hxeGhvdk5mYVBCcHhmQ3J1eTlFQRILZTc4QS1TMHRMbkk"
     }
@@ -4899,6 +4912,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-12-31T15:45:00Z",
       "activeLiveChatId": "Cg0KC2xydm9FbUZfZDkwKicKGFVDMWVYX01Wck4wRUJLZHBrbjliLWpodxILbHJ2b0VtRl9kOTA"
+    }
+  },
+  "lvd8-LXMdvc": {
+    "snippet": {
+      "publishedAt": "2024-06-16T14:00:00Z",
+      "channelId": "UCMmy_EmxnYQ8aar8fNZrumw",
+      "title": "\u3010The Abduction\u3011kidnapping @HexaVT"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-16T17:00:00Z",
+      "activeLiveChatId": "Cg0KC2x2ZDgtTFhNZHZjKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILbHZkOC1MWE1kdmM"
     }
   },
   "lymzkbD9NVI": {
@@ -5571,7 +5595,8 @@
       "title": "\u3010HOLOMYTH MINECRAFT\u30115 refined ladies 1 block! (part 1)"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-16T14:00:00Z",
+      "actualStartTime": "2024-06-16T14:00:18Z",
+      "scheduledStartTime": "2024-06-16T13:58:40Z",
       "activeLiveChatId": "Cg0KC3NOQ3hGM2xMakFzKicKGFVDTF9xaGd0T3kwZHkxQWdwOHZreVNRZxILc05DeEYzbExqQXM"
     }
   },
