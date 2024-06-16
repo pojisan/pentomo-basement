@@ -608,7 +608,8 @@
     "snippet": {
       "publishedAt": "2024-06-11T22:06:23Z",
       "channelId": "UCqw3pdPEKKVOI7SFXomyKLA",
-      "title": "SUMMONING the SCARIEST GHOST! \ud83d\ude31Phasmophobia!\u3010Bonnie Barkswell / globie\u3011"
+      "title": "SUMMONING the SCARIEST GHOST! \ud83d\ude31Phasmophobia!\u3010Bonnie Barkswell / globie\u3011",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-16T18:00:00Z",
@@ -622,8 +623,9 @@
       "title": "\u3010Kouhai Karaoke Relay\u301125 VTUBERS from 8 COMPANIES!\ud83c\udfa4HUGE Karaoke RELAY!!\u3010Bonnie Barkswell / globie\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-15T21:20:00Z",
-      "activeLiveChatId": "Cg0KCzFJbDdKWWFLb0RrKicKGFVDcXczcGRQRUtLVk9JN1NGWG9teUtMQRILMUlsN0pZYUtvRGs"
+      "actualStartTime": "2024-06-15T21:15:24Z",
+      "actualEndTime": "2024-06-15T21:41:05Z",
+      "scheduledStartTime": "2024-06-15T21:20:00Z"
     }
   },
   "uGFW9qwGjkU": {

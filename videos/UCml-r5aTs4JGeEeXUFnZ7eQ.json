@@ -524,8 +524,32 @@
       "title": "\u3010DEVIL MAY CRY 5\u3011There's a Devil inside me... and I May Cry internally."
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-15T23:00:00Z",
-      "activeLiveChatId": "Cg0KC3dZUGtPQWNZTlV3KicKGFVDbWwtcjVhVHM0SkdlRWVYVUZuWjdlURILd1lQa09BY1lOVXc"
+      "actualStartTime": "2024-06-15T22:59:13Z",
+      "actualEndTime": "2024-06-15T23:14:52Z",
+      "scheduledStartTime": "2024-06-15T22:58:22Z"
+    }
+  },
+  "4yPsLVGk2sg": {
+    "snippet": {
+      "publishedAt": "2024-06-15T23:15:20Z",
+      "channelId": "UCml-r5aTs4JGeEeXUFnZ7eQ",
+      "title": "\u3010DEVIL MAY CRY 5\u3011There's a Devil inside me... and I May Cry internally."
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-15T23:16:09Z",
+      "actualEndTime": "2024-06-15T23:34:03Z",
+      "scheduledStartTime": "2024-06-15T23:15:20Z"
+    }
+  },
+  "D8TqEviKYLE": {
+    "snippet": {
+      "publishedAt": "2024-06-16T00:01:08Z",
+      "channelId": "UCml-r5aTs4JGeEeXUFnZ7eQ",
+      "title": "\u3010DEVIL MAY CRY 5\u3011There's a Devil inside me... and I May Cry internally."
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-16T00:01:08Z",
+      "activeLiveChatId": "Cg0KC0Q4VHFFdmlLWUxFKicKGFVDbWwtcjVhVHM0SkdlRWVYVUZuWjdlURILRDhUcUV2aUtZTEU"
     }
   }
 }

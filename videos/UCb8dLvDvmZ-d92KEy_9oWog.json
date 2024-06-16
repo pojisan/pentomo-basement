@@ -506,11 +506,12 @@
     "snippet": {
       "publishedAt": "2024-06-11T18:48:40Z",
       "channelId": "UCb8dLvDvmZ-d92KEy_9oWog",
-      "title": "\u3010KARAOKE RELAY\u3011THE NEW KIDS ON THE BLOCK ARE HERE TO SING! - #KouHype24"
+      "title": "\u3010KARAOKE RELAY\u3011I CANT SING. BUT I SURE DO LOVE MINECRAFT. - #KouHype24"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-15T20:35:00Z",
-      "activeLiveChatId": "Cg0KC0VMT2NfMDdFZ0tZKicKGFVDYjhkTHZEdm1aLWQ5MktFeV85b1dvZxILRUxPY18wN0VnS1k"
+      "actualStartTime": "2024-06-15T20:36:38Z",
+      "actualEndTime": "2024-06-15T21:00:00Z",
+      "scheduledStartTime": "2024-06-15T20:35:00Z"
     }
   },
   "cTWgfGUTzvI": {
@@ -541,7 +542,8 @@
     "snippet": {
       "publishedAt": "2024-06-13T16:40:59Z",
       "channelId": "UCb8dLvDvmZ-d92KEy_9oWog",
-      "title": "GOD. I LOVE MINECRAFT."
+      "title": "GOD. I LOVE MINECRAFT.",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-15T19:00:00Z",

@@ -1402,8 +1402,9 @@
       "title": "\u3010The Past Within\u3011 Some weird old timey-wimey adventure! w/ Cassian Floros"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-15T19:00:00Z",
-      "activeLiveChatId": "Cg0KCzlKaVZZbmxCSmdvKicKGFVDc1FxazRjbjhwbGpVZWFkWWJVVmd5ZxILOUppVllubEJKZ28"
+      "actualStartTime": "2024-06-15T19:01:00Z",
+      "actualEndTime": "2024-06-15T21:03:12Z",
+      "scheduledStartTime": "2024-06-15T19:00:00Z"
     }
   },
   "KqS8jHcEmXw": {
@@ -1413,6 +1414,7 @@
       "title": "\u3010Roscal Showcase\u3011 MY HOUSE IS INFESTED WITH RATS!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-16T00:00:49Z",
       "scheduledStartTime": "2024-06-16T00:00:00Z",
       "activeLiveChatId": "Cg0KC0txUzhqSGNFbVh3KicKGFVDc1FxazRjbjhwbGpVZWFkWWJVVmd5ZxILS3FTOGpIY0VtWHc"
     }

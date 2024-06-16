@@ -1920,8 +1920,9 @@
       "title": "SHARK/PARTY \u3010Miya 3D Concert\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-15T16:00:00Z",
-      "activeLiveChatId": "Cg0KC1FkcGp4eVlMT1lVKicKGFVDSzZvQ01pYjYyZVlBSVBybHJZUlZydxILUWRwanh5WUxPWVU"
+      "actualStartTime": "2024-06-15T16:00:48Z",
+      "actualEndTime": "2024-06-15T16:40:52Z",
+      "scheduledStartTime": "2024-06-15T16:00:00Z"
     }
   },
   "55tlJFwdqSY": {
@@ -2234,6 +2235,17 @@
       "publishedAt": "2024-06-12T16:24:37Z",
       "channelId": "UCK6oCMib62eYAIPrlrYRVrw",
       "title": "50 DOLLARS FOR WHAT ?! #vtuber #streamclips #vtuberclips"
+    }
+  },
+  "avOkELiweTk": {
+    "snippet": {
+      "publishedAt": "2024-06-15T18:51:08Z",
+      "channelId": "UCK6oCMib62eYAIPrlrYRVrw",
+      "title": "Chatting, Gaming, Hanging Out !!!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-16T14:00:00Z",
+      "activeLiveChatId": "Cg0KC2F2T2tFTGl3ZVRrKicKGFVDSzZvQ01pYjYyZVlBSVBybHJZUlZydxILYXZPa0VMaXdlVGs"
     }
   }
 }

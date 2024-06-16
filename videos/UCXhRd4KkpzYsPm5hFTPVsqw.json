@@ -1019,11 +1019,23 @@
     "snippet": {
       "publishedAt": "2024-06-15T07:11:04Z",
       "channelId": "UCXhRd4KkpzYsPm5hFTPVsqw",
-      "title": "\u3010HANDCAM\u3011How do I manage to fuck up a burger #shortsfeed #shortslive"
+      "title": "\u3010HANDCAM\u3011How do I manage to mess up a burger #shortsfeed #shortslive"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-15T19:00:00Z",
-      "activeLiveChatId": "Cg0KC1lnUnY1aUJ6WXowKicKGFVDWGhSZDRLa3B6WXNQbTVoRlRQVnNxdxILWWdSdjVpQnpZejA"
+      "actualStartTime": "2024-06-15T19:03:16Z",
+      "actualEndTime": "2024-06-15T21:33:28Z",
+      "scheduledStartTime": "2024-06-15T19:00:00Z"
+    }
+  },
+  "npb_stSEBFY": {
+    "snippet": {
+      "publishedAt": "2024-06-15T21:36:14Z",
+      "channelId": "UCXhRd4KkpzYsPm5hFTPVsqw",
+      "title": "\u3010POKEMON COLOSSEUM: Part 1\u3011IT IS FINALLY TIME....\u3010V&U | GEN4\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-16T20:30:00Z",
+      "activeLiveChatId": "Cg0KC25wYl9zdFNFQkZZKicKGFVDWGhSZDRLa3B6WXNQbTVoRlRQVnNxdxILbnBiX3N0U0VCRlk"
     }
   }
 }

@@ -43,9 +43,10 @@
     "snippet": {
       "publishedAt": "2024-06-15T10:11:29Z",
       "channelId": "UCFVXw8NMPp-LLiJxG81Lmdw",
-      "title": "Shizuku Shadowbrook \u3010Wonder Pop\u3011 Live Stream"
+      "title": "Wonder Pop Debut Q&A (Marshmallow)\u3010Wonder Pop\u3011 LIVE"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-15T23:18:57Z",
       "activeLiveChatId": "Cg0KC1hSV0FSbXYyQ2VJKicKGFVDRlZYdzhOTVBwLUxMaUp4RzgxTG1kdxILWFJXQVJtdjJDZUk"
     }
   },
@@ -53,11 +54,12 @@
     "snippet": {
       "publishedAt": "2024-06-15T10:45:06Z",
       "channelId": "UCFVXw8NMPp-LLiJxG81Lmdw",
-      "title": "DEBUT STREAM (Cursed Flower) [Wonder Pop] GEN 1 ENCHANT"
+      "title": "DEBUT STREAM [Wonder Pop] WOW... You are as beautiful as a flower..."
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-15T22:00:00Z",
-      "activeLiveChatId": "Cg0KC1FXQ3ljSUl3U0tzKicKGFVDRlZYdzhOTVBwLUxMaUp4RzgxTG1kdxILUVdDeWNJSXdTS3M"
+      "actualStartTime": "2024-06-15T22:06:57Z",
+      "actualEndTime": "2024-06-15T23:04:10Z",
+      "scheduledStartTime": "2024-06-15T22:00:00Z"
     }
   }
 }
