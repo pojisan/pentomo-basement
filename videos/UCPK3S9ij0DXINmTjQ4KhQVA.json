@@ -1117,6 +1117,8 @@
       "title": "\u3010Kouhai Karaoke Relay\u3011Let's sing till the end!! \ud83c\udfb5  #KouHype24\u3010Hiyori Mokami | Production kawaii\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-16T02:56:13Z",
+      "actualEndTime": "2024-06-16T03:31:08Z",
       "scheduledStartTime": "2024-06-16T02:55:00Z",
       "activeLiveChatId": "Cg0KCzFKSW43LWVFZ3NJKicKGFVDUEszUzlpajBEWElObVRqUTRLaFFWQRILMUpJbjctZUVnc0k"
     }
@@ -1137,9 +1139,10 @@
     "snippet": {
       "publishedAt": "2024-06-14T03:07:21Z",
       "channelId": "UCPK3S9ij0DXINmTjQ4KhQVA",
-      "title": "?"
+      "title": "? - SONG COVER PREMIERE!!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-16T03:30:06Z",
       "scheduledStartTime": "2024-06-16T03:30:00Z",
       "activeLiveChatId": "Cg0KC19jQU9rZWlNeXZ3KicKGFVDUEszUzlpajBEWElObVRqUTRLaFFWQRILX2NBT2tlaU15dnc",
       "premiere": true
@@ -1162,6 +1165,18 @@
       "actualStartTime": "2024-06-15T03:34:42Z",
       "actualEndTime": "2024-06-15T11:40:14Z",
       "scheduledStartTime": "2024-06-15T03:30:00Z"
+    }
+  },
+  "zBlfAVO_3fo": {
+    "snippet": {
+      "publishedAt": "2024-06-14T04:55:28Z",
+      "channelId": "UCPK3S9ij0DXINmTjQ4KhQVA",
+      "title": "\u3010 PREMIERE AFTERPARTY \u3011UHM...KINDA SHOCKED I DID ALL THAT...#hiphipHIYO24"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-16T03:37:16Z",
+      "scheduledStartTime": "2024-06-16T03:40:00Z",
+      "activeLiveChatId": "Cg0KC3pCbGZBVk9fM2ZvKicKGFVDUEszUzlpajBEWElObVRqUTRLaFFWQRILekJsZkFWT18zZm8"
     }
   }
 }

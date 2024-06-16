@@ -2423,9 +2423,11 @@
     "snippet": {
       "publishedAt": "2024-06-15T21:29:55Z",
       "channelId": "UCLdkcTt5vOfGi_myvK-iO0g",
-      "title": "\u3010UNARCHIVED KARAOKE\u3011DISNEY EDITION!"
+      "title": "\u3010UNARCHIVED KARAOKE\u3011DISNEY EDITION!",
+      "private": true
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-16T01:07:42Z",
       "scheduledStartTime": "2024-06-16T01:00:00Z",
       "activeLiveChatId": "Cg0KCzhLWk1iQmtKQkxFKicKGFVDTGRrY1R0NXZPZkdpX215dkstaU8wZxILOEtaTWJCa0pCTEU"
     }

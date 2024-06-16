@@ -2886,8 +2886,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-15T23:10:58Z",
-      "scheduledStartTime": "2024-06-15T23:00:00Z",
-      "activeLiveChatId": "Cg0KC0hIQ1hfSHM3ZExJKicKGFVDWmw5MndNaXBqWUZjMVVsbTlZeTY1ZxILSEhDWF9IczdkTEk"
+      "actualEndTime": "2024-06-16T02:55:49Z",
+      "scheduledStartTime": "2024-06-15T23:00:00Z"
     }
   },
   "OAoZbdo1_z8": {
@@ -2919,6 +2919,18 @@
       "publishedAt": "2024-06-15T14:00:18Z",
       "channelId": "UCZl92wMipjYFc1Ulm9Yy65g",
       "title": "Onibites Ep. 2: Akaname #shorts #vtuber"
+    }
+  },
+  "WjpxB7g-PTc": {
+    "snippet": {
+      "publishedAt": "2024-06-16T03:50:38Z",
+      "channelId": "UCZl92wMipjYFc1Ulm9Yy65g",
+      "title": "\u3010guerrilla gaming\u3011 uh....hi :)\u3010Yuno Hanaki\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-16T04:00:39Z",
+      "scheduledStartTime": "2024-06-16T04:00:00Z",
+      "activeLiveChatId": "Cg0KC1dqcHhCN2ctUFRjKicKGFVDWmw5MndNaXBqWUZjMVVsbTlZeTY1ZxILV2pweEI3Zy1QVGM"
     }
   }
 }

@@ -5921,6 +5921,7 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-15T23:02:00Z",
+      "actualEndTime": "2024-06-16T00:58:44Z",
       "scheduledStartTime": "2024-06-15T23:00:00Z",
       "activeLiveChatId": "Cg0KCzdjWVYxQW5xWndFKicKGFVDTjY4TG9NM2toUzRnZEJNaVdKTzhXQRILN2NZVjFBbnFad0U"
     }
@@ -5963,7 +5964,8 @@
       "title": "3RD OUTFIT DEBUT AFTERPARTY! \u3010NIJISANJI EN | Aia Amare \u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-16T01:30:00Z",
+      "actualStartTime": "2024-06-16T01:15:43Z",
+      "scheduledStartTime": "2024-06-16T01:15:00Z",
       "activeLiveChatId": "Cg0KC0dBOGktVDUwVF9rKicKGFVDTjY4TG9NM2toUzRnZEJNaVdKTzhXQRILR0E4aS1UNTBUX2s"
     }
   }
