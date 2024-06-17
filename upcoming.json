@@ -2121,7 +2121,8 @@
       "title": "\u3010MEMBERS ONLY\u3011 membas only? \u3010yes membas only\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-17T14:00:00Z",
+      "actualStartTime": "2024-06-17T14:02:18Z",
+      "scheduledStartTime": "2024-06-17T14:01:41Z",
       "activeLiveChatId": "Cg0KC0gxeFR1VjJNUnhvKicKGFVDdWFEaWRHazRITkxPblFFOXd6TU1lURILSDF4VHVWMk1SeG8"
     }
   },
@@ -3754,6 +3755,7 @@
       "title": "\u3010KARAOKE \u250a\ufe0e#\u6b4c\u67a0\u3011\u5929\u4f7f\u306e\u58f0\u3001\u805e\u3044\u3066\u307f\u308b\uff1f #singing \u3010#\u30ce\u30a2\u30dd\u30e9\u30ea\u30b9\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-17T14:06:19Z",
       "scheduledStartTime": "2024-06-17T14:00:00Z",
       "activeLiveChatId": "Cg0KC1RjMTBaZGxkTlNZKicKGFVDSXUxclJpUUxlVVU4ZTFzYU42STBlZxILVGMxMFpkbGROU1k"
     }
@@ -4656,6 +4658,7 @@
       "title": "\u3010Phasmophobia\u3011got a ghost problem?"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-17T14:09:25Z",
       "scheduledStartTime": "2024-06-17T14:00:00Z",
       "activeLiveChatId": "Cg0KC1pySnJER1FvWEJnKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILWnJKckRHUW9YQmc"
     }
@@ -6214,17 +6217,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-12-31T15:45:00Z",
       "activeLiveChatId": "Cg0KC2xydm9FbUZfZDkwKicKGFVDMWVYX01Wck4wRUJLZHBrbjliLWpodxILbHJ2b0VtRl9kOTA"
-    }
-  },
-  "lua_rehope": {
-    "snippet": {
-      "channelId": "lua_rehope",
-      "title": "\u2756 Just Chatting \u2756 While I do my Dailies.",
-      "channelTitle": "Lua_ReHOPE"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-17T12:00:16Z",
-      "twitch": true
     }
   },
   "lymzkbD9NVI": {
