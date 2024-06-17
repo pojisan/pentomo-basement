@@ -5671,8 +5671,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-16T21:01:47Z",
       "actualEndTime": "2024-06-17T01:02:13Z",
-      "scheduledStartTime": "2024-06-16T21:00:00Z",
-      "activeLiveChatId": "Cg0KC0dING1xU3JnWWt3KicKGFVDTzR6TWFZQkV6ZFlJU2Zlb082aXBfURILR0g0bXFTcmdZa3c"
+      "scheduledStartTime": "2024-06-16T21:00:00Z"
     }
   },
   "Mbb63VLeAwM": {
@@ -5804,6 +5803,17 @@
       "actualStartTime": "2024-06-15T21:02:34Z",
       "actualEndTime": "2024-06-16T00:28:42Z",
       "scheduledStartTime": "2024-06-15T21:00:00Z"
+    }
+  },
+  "rJEl5nJ0xGI": {
+    "snippet": {
+      "publishedAt": "2024-06-17T04:56:39Z",
+      "channelId": "UCO4zMaYBEzdYISfeoO6ip_Q",
+      "title": "Co-working Monday!\u3010Just Chatting/Zatsudan\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-17T08:00:00Z",
+      "activeLiveChatId": "Cg0KC3JKRWw1bkoweEdJKicKGFVDTzR6TWFZQkV6ZFlJU2Zlb082aXBfURILckpFbDVuSjB4R0k"
     }
   }
 }
