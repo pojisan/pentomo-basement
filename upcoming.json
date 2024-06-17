@@ -4048,7 +4048,8 @@
       "title": "\u3010OVERWATCH2\u3011Can I marry pink Mercy pls? | #EmiBLive"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-17T23:30:00Z",
+      "actualStartTime": "2024-06-17T23:31:40Z",
+      "scheduledStartTime": "2024-06-17T23:31:34Z",
       "activeLiveChatId": "Cg0KC1V2VzdjYXluaU1FKicKGFVDUXI5QTlFeERLWXkyd3h1MFJrQzRVZxILVXZXN2NheW5pTUU"
     }
   },
@@ -4669,10 +4670,10 @@
     "snippet": {
       "publishedAt": "2024-06-10T14:14:05Z",
       "channelId": "UCcPc-5OrLbjVBgQ-ziEWPSQ",
-      "title": "Momcabre Momday with Forgotten Hill series continues! It's spoopy night!"
+      "title": "RESCHEDULED!! Momcabre Momday with Forgotten Hill series continues! It's spoopy night!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-18T00:00:00Z",
+      "scheduledStartTime": "2024-06-20T00:00:00Z",
       "activeLiveChatId": "Cg0KC1pKVlNBT0xZa2pNKicKGFVDY1BjLTVPckxialZCZ1EtemlFV1BTURILWkpWU0FPTFlrak0"
     }
   },
@@ -7790,6 +7791,17 @@
       "activeLiveChatId": "Cg0KC3dpVXVObjAzWjFBKicKGFVDb0FRc2MtRFEwTWpmVHAwNTlvdFFBdxILd2lVdU5uMDNaMUE"
     }
   },
+  "wildspice": {
+    "snippet": {
+      "channelId": "wildspice",
+      "title": "Dreamhack Dallas Edits and Vibing !kofi !zenni #OshiLinkEN",
+      "channelTitle": "WildSpice"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-17T23:29:06Z",
+      "twitch": true
+    }
+  },
   "wjDz5GbSQxo": {
     "snippet": {
       "publishedAt": "2022-02-08T03:42:18Z",
@@ -8066,7 +8078,7 @@
   "zeusmythosvt": {
     "snippet": {
       "channelId": "zeusmythosvt",
-      "title": "\u300c \ud83c\udf29\ufe0f HALF ANNIV UNCAPPED SUBATHON \ud83c\udf29\ufe0f \u300d  GIRLFAILURE GODDESS EEPY FOR THE 4TH DAY PREP!!! \u26a1 !fish !discord !throne !lurk !daki !uwu !GS",
+      "title": "\u300c \ud83c\udf29\ufe0f HALF ANNIV UNCAPPED SUBATHON \ud83c\udf29\ufe0f \u300d  DAY 4: ANOTHER SOLO DAY OF FUN w/ CHAT YIPEEEE \u26a1 !fish !discord !throne !lurk !daki !uwu !GS",
       "channelTitle": "ZeusMythosVT"
     },
     "liveStreamingDetails": {
