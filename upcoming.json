@@ -715,6 +715,7 @@
       "title": "\u3010LETHAL COMPANY COLLAB\u3011LIVING THE DREAM W/ @IkuHoshifuri @LutoAraka @PinaPengin"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-17T01:05:03Z",
       "scheduledStartTime": "2024-06-17T01:00:00Z",
       "activeLiveChatId": "Cg0KCzVobXR3eXRBQWFZKicKGFVDa0o2NFcwSjdSMHpDU0FzWmZSSWhWURILNWhtdHd5dEFBYVk"
     }
@@ -2134,18 +2135,6 @@
       "activeLiveChatId": "Cg0KC0lzaVBNRU1uQmhrKicKGFVDdTFJTnplZnczUjdNOS0zUUVIWW1NURILSXNpUE1FTW5CaGs"
     }
   },
-  "Ivr31Ep5N-4": {
-    "snippet": {
-      "publishedAt": "2024-06-16T05:16:24Z",
-      "channelId": "UCH24asiIqsVUQlz8FvXJbcw",
-      "title": "[BOOK CULB] GL BOOKCLUB!! I love girls! LETS TALK ABOUT IT! [V&U | GEN 5]"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-16T21:57:44Z",
-      "scheduledStartTime": "2024-06-16T22:00:00Z",
-      "activeLiveChatId": "Cg0KC0l2cjMxRXA1Ti00KicKGFVDSDI0YXNpSXFzVlVRbHo4RnZYSmJjdxILSXZyMzFFcDVOLTQ"
-    }
-  },
   "J09Y3gDiIk8": {
     "snippet": {
       "publishedAt": "2024-01-22T08:30:05Z",
@@ -3072,6 +3061,7 @@
       "title": "We are slaves to Capitalism \ud83d\udc7f"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-17T01:04:48Z",
       "scheduledStartTime": "2024-06-17T01:00:00Z",
       "activeLiveChatId": "Cg0KC1JuenBRVEJSZGMwKicKGFVDblloSWs5YUdFeF9iSWdoZVZqczUzdxILUm56cFFUQlJkYzA"
     }
@@ -4034,6 +4024,7 @@
       "title": "\u3010Party Animals\u3011Gang At War With Promise"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-17T01:04:05Z",
       "scheduledStartTime": "2024-06-17T01:05:00Z",
       "activeLiveChatId": "Cg0KC181bFRKMUd5VWpvKicKGFVDbWJzOFQ2TVdxVUhQMXRJUXZTZ0tyZxILXzVsVEoxR3lVam8"
     }
@@ -4208,6 +4199,17 @@
       "actualStartTime": "2024-06-16T23:57:31Z",
       "scheduledStartTime": "2024-06-17T00:00:00Z",
       "activeLiveChatId": "Cg0KC2FYSmJkc1VDX193KicKGFVDYXNadnNrRkNfU0hzNkxYeDJfMjZjURILYVhKYmRzVUNfX3c"
+    }
+  },
+  "aishiiai": {
+    "snippet": {
+      "channelId": "aishiiai",
+      "title": "\u3010Tier List\u3011Ranking Nightmares & Chatting!",
+      "channelTitle": "AishiiAi"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-17T01:02:31Z",
+      "twitch": true
     }
   },
   "auCkpoNM1yE": {
@@ -4456,6 +4458,17 @@
       "activeLiveChatId": "Cg0KC2RaMHh1aHhTTzNnKicKGFVDSjQ2WVRZQlFWWHNmc3A4LUhyeW9VQRILZFoweHVoeFNPM2c"
     }
   },
+  "discordia_ch": {
+    "snippet": {
+      "channelId": "discordia_ch",
+      "title": "NEW OUTFIT W/ REACTS + MORE WT OR HDS (!Customs)~ [VFleet] | !Discord !UwU !GG !Starforge | @Discordia_Ch",
+      "channelTitle": "Discordia_Ch"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-17T01:04:01Z",
+      "twitch": true
+    }
+  },
   "djvqNHzmLvg": {
     "snippet": {
       "publishedAt": "2024-06-16T10:02:34Z",
@@ -4585,17 +4598,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-18T16:00:00Z",
       "activeLiveChatId": "Cg0KC2VkMXpsVklLUnRnKicKGFVDbHhqM0dsR3BoWlZnZDFTTFloWkttZxILZWQxemxWSUtSdGc"
-    }
-  },
-  "eliastellaria": {
-    "snippet": {
-      "channelId": "eliastellaria",
-      "title": "WE ADVENTURE ALL NIGHT \u3010Elden Ring\u3011",
-      "channelTitle": "EliaStellaria"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-16T21:01:10Z",
-      "twitch": true
     }
   },
   "eqBnKZpGYOE": {
@@ -6308,6 +6310,7 @@
       "title": "\u3010Tier List\u3011Ranking Nightmares & Chatting!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-17T01:03:15Z",
       "scheduledStartTime": "2024-06-17T01:00:00Z",
       "activeLiveChatId": "Cg0KC3ZJR1FfcmZVUk1BKicKGFVDQUZieUVqOXBlc0N4bzY5b3pFaGk5URILdklHUV9yZlVSTUE"
     }
