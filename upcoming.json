@@ -2475,6 +2475,17 @@
       "activeLiveChatId": "Cg0KC0s5RlpXUlRDLS1RKicKGFVDUTNzX2tRWWYzUHVxT0t1OTBIcklxdxILSzlGWldSVEMtLVE"
     }
   },
+  "K9VH8Ij8JAg": {
+    "snippet": {
+      "publishedAt": "2024-06-17T21:43:32Z",
+      "channelId": "UCvYzwEkCQ27gPaj54wBsVOg",
+      "title": "\u3010Using 3Dio\u3011You're Trash. (no, literally)\u3010VAllure\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-18T00:00:00Z",
+      "activeLiveChatId": "Cg0KC0s5Vkg4SWo4SkFnKicKGFVDdll6d0VrQ1EyN2dQYWo1NHdCc1ZPZxILSzlWSDhJajhKQWc"
+    }
+  },
   "KCke2rB6eYg": {
     "snippet": {
       "publishedAt": "2024-05-11T15:29:57Z",
@@ -6973,7 +6984,7 @@
     "snippet": {
       "publishedAt": "2024-06-15T22:25:23Z",
       "channelId": "UCb_angfF8io1-1DrvK5k5LA",
-      "title": "\u3010UNARCHIVED?\u3011DEBUT LIVE! (it's glorified karaoke)"
+      "title": "\u3010UNARCHIVED\u3011DEBUT LIVE! (it's glorified karaoke)"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-17T22:00:00Z",
@@ -7213,17 +7224,6 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-17T20:31:42Z",
-      "twitch": true
-    }
-  },
-  "tenma": {
-    "snippet": {
-      "channelId": "tenma",
-      "title": "i want to reach level 100 luck. i only grind",
-      "channelTitle": "Tenma"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-17T18:59:46Z",
       "twitch": true
     }
   },
