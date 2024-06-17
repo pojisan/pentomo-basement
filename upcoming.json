@@ -3233,6 +3233,7 @@
       "title": "Vtuber's behind story : Work, work and work"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-17T15:00:11Z",
       "scheduledStartTime": "2024-06-17T15:00:00Z",
       "activeLiveChatId": "Cg0KC1BQeUVYNTFSVFZzKicKGFVDUmtkRkdYd0J0eHZtOVNzZm1ObU1aQRILUFB5RVg1MVJUVnM"
     }
@@ -4002,6 +4003,7 @@
       "title": "\u3010FUWAMOCO MORNING\u3011episode 100 \ud83d\udc3e #FWMCMORNING"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-17T14:55:15Z",
       "scheduledStartTime": "2024-06-17T15:00:00Z",
       "activeLiveChatId": "Cg0KC1V4LUxEMHVNMFlRKicKGFVDdDlIX1JwUXpoeHpseUJ4RnFyZEhxQRILVXgtTEQwdU0wWVE"
     }
@@ -4932,6 +4934,17 @@
       "activeLiveChatId": "Cg0KC2F1Q2twb05NMXlFKicKGFVDVEpDb0hFdDVjMjdyY2VxMnNoNjlrZxILYXVDa3BvTk0xeUU"
     }
   },
+  "b1Zh-OKBGik": {
+    "snippet": {
+      "publishedAt": "2024-06-17T14:53:28Z",
+      "channelId": "UCuaDidGk4HNLOnQE9wzMMeQ",
+      "title": "PRINCESS DEPARTURE!! SEE YOU SOON!!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-18T04:15:00Z",
+      "activeLiveChatId": "Cg0KC2IxWmgtT0tCR2lrKicKGFVDdWFEaWRHazRITkxPblFFOXd6TU1lURILYjFaaC1PS0JHaWs"
+    }
+  },
   "b4hNLrgKR4U": {
     "snippet": {
       "publishedAt": "2021-12-15T00:10:46Z",
@@ -5730,7 +5743,7 @@
       "title": "COMPLETING the Community Center! Year 2 Summer is Here!\u3010Stardew Valley\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-17T15:00:00Z",
+      "scheduledStartTime": "2024-06-17T15:15:00Z",
       "activeLiveChatId": "Cg0KC2hoUjBHMjJkTnhjKicKGFVDdnFmNDI2X1hFQ1hnaTJzNnRJamdPdxILaGhSMEcyMmROeGM"
     }
   },
@@ -6378,6 +6391,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-20T22:00:00Z",
       "activeLiveChatId": "Cg0KC21vek5DTmNseDlBKicKGFVDb3ZLd2dBOWVIVXV0SVdDVldTX0FHdxILbW96TkNOY2x4OUE"
+    }
+  },
+  "mozumipichi": {
+    "snippet": {
+      "channelId": "mozumipichi",
+      "title": "Orb Gaming",
+      "channelTitle": "MozumiPichi"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-17T14:56:06Z",
+      "twitch": true
     }
   },
   "n5D5GvXzXmY": {
@@ -7091,6 +7115,7 @@
       "title": "Orb Gaming"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-17T14:56:42Z",
       "scheduledStartTime": "2024-06-17T15:00:00Z",
       "activeLiveChatId": "Cg0KC3NIZzJ4c2tVUGlzKicKGFVDa2lVQnlCQ0YxYU9pUmQxNnhBbFBNZxILc0hnMnhza1VQaXM"
     }
