@@ -3638,7 +3638,7 @@
       "title": "\u3010Bunny Garden\u3011More Rin-chan!!!"
     },
     "liveStreamingDetails": {
-      "actualStartTime": "2024-06-17T02:31:08Z",
+      "actualStartTime": "2024-06-17T02:31:38Z",
       "scheduledStartTime": "2024-06-17T02:00:31Z",
       "activeLiveChatId": "Cg0KC1dIVTVoZ2w1X0RZKicKGFVDM3dvNGJ5X0JhbkRXZ0hBNlp6TmFRdxILV0hVNWhnbDVfRFk"
     }
@@ -4255,17 +4255,6 @@
       "activeLiveChatId": "Cg0KC2FYSmJkc1VDX193KicKGFVDYXNadnNrRkNfU0hzNkxYeDJfMjZjURILYVhKYmRzVUNfX3c"
     }
   },
-  "aishiiai": {
-    "snippet": {
-      "channelId": "aishiiai",
-      "title": "\u3010Tier List\u3011Ranking Nightmares & Chatting!",
-      "channelTitle": "AishiiAi"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-17T01:02:31Z",
-      "twitch": true
-    }
-  },
   "auCkpoNM1yE": {
     "snippet": {
       "publishedAt": "2024-03-24T19:34:20Z",
@@ -4500,6 +4489,17 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC2Q5UEx5d2xkN1ZzKicKGFVDb21JblcxME1rSEpzLV92aTRySFFDURILZDlQTHl3bGQ3VnM"
+    }
+  },
+  "dWDAu8ikCxI": {
+    "snippet": {
+      "publishedAt": "2024-06-17T02:33:00Z",
+      "channelId": "UCRlQzuVeYxTDPobPN1jaVkQ",
+      "title": "\u3016Minecraft VSMP\u3017NEW SERVER FULL OF CUTE GIRLS?!\u3016Cyon \u2765 V&U\u3017"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-18T08:00:00Z",
+      "activeLiveChatId": "Cg0KC2RXREF1OGlrQ3hJKicKGFVDUmxRenVWZVl4VERQb2JQTjFqYVZrURILZFdEQXU4aWtDeEk"
     }
   },
   "dX1NZTMoCEY": {
@@ -6376,18 +6376,6 @@
       "activeLiveChatId": "Cg0KC3ZHVGtFS2gwdVJNKicKGFVDVEZDU0NQdnFqWEVzM3pxOTFhZU9WZxILdkdUa0VLaDB1Uk0"
     }
   },
-  "vIGQ_rfURMA": {
-    "snippet": {
-      "publishedAt": "2024-06-16T02:17:03Z",
-      "channelId": "UCAFbyEj9pesCxo69ozEhi9Q",
-      "title": "\u3010Tier List\u3011Ranking Nightmares & Chatting!"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-17T01:03:15Z",
-      "scheduledStartTime": "2024-06-17T01:00:00Z",
-      "activeLiveChatId": "Cg0KC3ZJR1FfcmZVUk1BKicKGFVDQUZieUVqOXBlc0N4bzY5b3pFaGk5URILdklHUV9yZlVSTUE"
-    }
-  },
   "vbhfY2vFttc": {
     "snippet": {
       "publishedAt": "2023-12-10T22:27:39Z",
@@ -6677,6 +6665,17 @@
       "activeLiveChatId": "Cg0KC3lVSFRBam50Q0JRKicKGFVDN3NxYlE0XzVfRUx6LU92LWJWQmk4QRILeVVIVEFqbnRDQlE"
     }
   },
+  "yUkbHUkpTgM": {
+    "snippet": {
+      "publishedAt": "2024-06-17T02:36:59Z",
+      "channelId": "UCB7sSUNwh_dXE7ZL3DsGDpw",
+      "title": "\u30106/17\u30112024\u5e74\u3001\u4eca\u9031\u306f\u30a4\u30d9\u30f3\u30c8\u6ca2\u5c71\uff01\uff1f\u3010phase connect\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-17T03:00:00Z",
+      "activeLiveChatId": "Cg0KC3lVa2JIVWtwVGdNKicKGFVDQjdzU1VOd2hfZFhFN1pMM0RzR0RwdxILeVVrYkhVa3BUZ00"
+    }
+  },
   "yVQrFk1t38Q": {
     "snippet": {
       "publishedAt": "2021-10-05T02:16:18Z",
@@ -6794,6 +6793,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-19T18:00:00Z",
       "activeLiveChatId": "Cg0KC3phQ0xTc25RWVJnKicKGFVDRkhkRUFIUGJGVWpnSjFSYU9fQXc2dxILemFDTFNzblFZUmc"
+    }
+  },
+  "zeusmythosvt": {
+    "snippet": {
+      "channelId": "zeusmythosvt",
+      "title": "\u300c \ud83c\udf29\ufe0f HALF ANNIV UNCAPPED SUBATHON \ud83c\udf29\ufe0f \u300d  DAY 3: INTERNET IS BACK & IM NOT SAD ANYMORE \u26a1 !fish !discord !throne !lurk !daki !uwu !GS",
+      "channelTitle": "ZeusMythosVT"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-17T02:36:38Z",
+      "twitch": true
     }
   },
   "zhyTt2HSKs8": {
