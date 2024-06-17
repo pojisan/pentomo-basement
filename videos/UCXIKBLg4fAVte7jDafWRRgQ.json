@@ -2550,5 +2550,27 @@
       "actualEndTime": "2024-06-15T23:01:23Z",
       "scheduledStartTime": "2024-06-15T21:00:00Z"
     }
+  },
+  "0MnGiuH_Pos": {
+    "snippet": {
+      "publishedAt": "2024-06-17T23:04:28Z",
+      "channelId": "UCXIKBLg4fAVte7jDafWRRgQ",
+      "title": "Joining the VSMP Minecraft Server!!!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-19T18:00:00Z",
+      "activeLiveChatId": "Cg0KCzBNbkdpdUhfUG9zKicKGFVDWElLQkxnNGZBVnRlN2pEYWZXUlJnURILME1uR2l1SF9Qb3M"
+    }
+  },
+  "hYufGs3aWRE": {
+    "snippet": {
+      "publishedAt": "2024-06-17T23:01:48Z",
+      "channelId": "UCXIKBLg4fAVte7jDafWRRgQ",
+      "title": "ROLLING FOR ALICE AND SODA"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-19T01:00:00Z",
+      "activeLiveChatId": "Cg0KC2hZdWZHczNhV1JFKicKGFVDWElLQkxnNGZBVnRlN2pEYWZXUlJnURILaFl1ZkdzM2FXUkU"
+    }
   }
 }
