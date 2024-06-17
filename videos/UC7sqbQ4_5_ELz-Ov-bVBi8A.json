@@ -331,6 +331,7 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-17T13:00:46Z",
+      "actualEndTime": "2024-06-17T16:00:11Z",
       "scheduledStartTime": "2024-06-17T13:00:09Z",
       "activeLiveChatId": "Cg0KC3lVSFRBam50Q0JRKicKGFVDN3NxYlE0XzVfRUx6LU92LWJWQmk4QRILeVVIVEFqbnRDQlE"
     }
@@ -342,7 +343,8 @@
       "title": "\u3010Study\u3011Attempting to Learn More of the Japanese Language!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-17T16:00:50Z",
+      "actualStartTime": "2024-06-17T16:00:30Z",
+      "scheduledStartTime": "2024-06-17T16:00:21Z",
       "activeLiveChatId": "Cg0KCzU1dkRlWnI4cTJVKicKGFVDN3NxYlE0XzVfRUx6LU92LWJWQmk4QRILNTV2RGVacjhxMlU"
     }
   }
