@@ -374,6 +374,7 @@
       "title": "Needing a Little Break Today~ [Weekly Yap Up]"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-17T02:31:07Z",
       "scheduledStartTime": "2024-06-17T02:30:00Z",
       "activeLiveChatId": "Cg0KCzFXY1lUdEEyaFQ4KicKGFVDQXhWb0JMRzJCdjF4Z2JZVV9lZnNDZxILMVdjWVR0QTJoVDg"
     }
@@ -470,7 +471,8 @@
       "title": "\u3010Yakuza 0\u3011here it goes again\u300e Rina Astera | OshiLinkEN\u300f"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-19T01:00:00Z"
+      "scheduledStartTime": "2024-06-19T01:00:00Z",
+      "activeLiveChatId": "Cg0KCzJ5OWVNRVE5cVBrKicKGFVDUGx0UVhJZ1FhRDVtVmtBSXJPX2RTQRILMnk5ZU1FUTlxUGs"
     }
   },
   "2zaAv0ug9II": {
@@ -972,6 +974,7 @@
       "title": "Fear & Hunger TERMINA... PAIN PART 2"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-17T02:30:21Z",
       "scheduledStartTime": "2024-06-17T02:00:00Z",
       "activeLiveChatId": "Cg0KCzhMUjZGMFBOaFlvKicKGFVDcHp4Wlc1a2doR25PNVRtQUZKUUFWdxILOExSNkYwUE5oWW8"
     }
@@ -1414,6 +1417,7 @@
       "title": "Celebrating 1 year together! \u30101 Year Anniversary Celebration\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-17T02:30:00Z",
       "scheduledStartTime": "2024-06-17T02:30:00Z",
       "activeLiveChatId": "Cg0KC0Rla0E0OTVLS1M4KicKGFVDLTFfLWpVdS1sQUxkR245LU1kQko0URILRGVrQTQ5NUtLUzg"
     }
@@ -1470,6 +1474,17 @@
       "actualStartTime": "2024-06-17T01:30:05Z",
       "scheduledStartTime": "2024-06-17T01:29:58Z",
       "activeLiveChatId": "Cg0KC0UwdzVHNHhyMVNRKicKGFVDTEtVWDY1RFV5blgzYXpYakJGaDJDQRILRTB3NUc0eHIxU1E"
+    }
+  },
+  "EMC4nXGKSA8": {
+    "snippet": {
+      "publishedAt": "2024-06-17T02:23:37Z",
+      "channelId": "UC0JFt5Jjl5a__zOaZLqk7Pg",
+      "title": "\u3010Minecraft VSMP OPENING\u3011 JOINING THE VSMP!!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-17T21:00:00Z",
+      "activeLiveChatId": "Cg0KC0VNQzRuWEdLU0E4KicKGFVDMEpGdDVKamw1YV9fek9hWkxxazdQZxILRU1DNG5YR0tTQTg"
     }
   },
   "ES_BPDdwz7I": {
@@ -2116,6 +2131,7 @@
       "title": "\u3010ASMR/KU100\u3011Am I Too Close? Personal Attention For Deep Sleep (Breathing Sounds/EN/\u65e5\u672c\u8a9e/\u6700\u5f37\u306e\u30c8\u30ea\u30ac\u30fc)"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-17T02:30:44Z",
       "scheduledStartTime": "2024-06-17T02:30:00Z",
       "activeLiveChatId": "Cg0KC0lzaVBNRU1uQmhrKicKGFVDdTFJTnplZnczUjdNOS0zUUVIWW1NURILSXNpUE1FTW5CaGs"
     }
@@ -3168,18 +3184,6 @@
       "activeLiveChatId": "Cg0KC1NLd21uRXhGenNzKicKGFVDSjRwdnNwd2puTS1oU1hxa29JdU1HURILU0t3bW5FeEZ6c3M"
     }
   },
-  "SMM9XZGYJb4": {
-    "snippet": {
-      "publishedAt": "2024-06-07T16:04:26Z",
-      "channelId": "UCovKwgA9eHUutIWCVWS_AGw",
-      "title": "\u3010Rabbit & Steel\u3011Divine strategy with @RinaAstera \u3010Fionna fon Engels \u2661 Project: Verses\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-16T23:01:03Z",
-      "scheduledStartTime": "2024-06-16T23:00:00Z",
-      "activeLiveChatId": "Cg0KC1NNTTlYWkdZSmI0KicKGFVDb3ZLd2dBOWVIVXV0SVdDVldTX0FHdxILU01NOVhaR1lKYjQ"
-    }
-  },
   "SN_zLWfOweE": {
     "snippet": {
       "publishedAt": "2022-04-19T22:59:38Z",
@@ -3634,6 +3638,7 @@
       "title": "\u3010Bunny Garden\u3011More Rin-chan!!!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-17T02:31:08Z",
       "scheduledStartTime": "2024-06-17T02:00:31Z",
       "activeLiveChatId": "Cg0KC1dIVTVoZ2w1X0RZKicKGFVDM3dvNGJ5X0JhbkRXZ0hBNlp6TmFRdxILV0hVNWhnbDVfRFk"
     }
@@ -4434,6 +4439,17 @@
       "activeLiveChatId": "Cg0KC2NXTHdMQkR0YTJvKicKGFVDa2lVQnlCQ0YxYU9pUmQxNnhBbFBNZxILY1dMd0xCRHRhMm8"
     }
   },
+  "clioaite": {
+    "snippet": {
+      "channelId": "clioaite",
+      "title": "INSERT TITLE HERE (sorry for late) !merch !gamersupps",
+      "channelTitle": "ClioAite"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-17T02:22:38Z",
+      "twitch": true
+    }
+  },
   "cnOF92APFu0": {
     "snippet": {
       "publishedAt": "2024-06-16T14:47:18Z",
@@ -4732,17 +4748,6 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC2ZobXZwem10Q2ZrKicKGFVDeUY3U2VJeVdsVXpua19zZ19YakM4URILZmhtdnB6bXRDZms"
-    }
-  },
-  "fionnafonengels": {
-    "snippet": {
-      "channelId": "fionnafonengels",
-      "title": "Divine strategy with @RinaAstera \u3010Fionna fon Engels \u2661 Project: Verses\u3011",
-      "channelTitle": "FionnafonEngels"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-16T23:00:27Z",
-      "twitch": true
     }
   },
   "fkDdCqmff_g": {
@@ -5798,18 +5803,6 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC3BhWFNIZlV2WDFnKicKGFVDVXI4TzZaOEp5QWc4M0tKYmNfdV9iURILcGFYU0hmVXZYMWc"
-    }
-  },
-  "pskESR2wt2U": {
-    "snippet": {
-      "publishedAt": "2024-06-07T05:34:00Z",
-      "channelId": "UCPltQXIgQaD5mVkAIrO_dSA",
-      "title": "\u3010Rabbit&Steel\u3011COLLAB W FIFI @FionnafonEngels \u300e Rina Astera | OshiLinkEN\u300f"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-16T23:01:28Z",
-      "scheduledStartTime": "2024-06-16T23:00:00Z",
-      "activeLiveChatId": "Cg0KC3Bza0VTUjJ3dDJVKicKGFVDUGx0UVhJZ1FhRDVtVmtBSXJPX2RTQRILcHNrRVNSMnd0MlU"
     }
   },
   "q2Gb5JMp0k8": {

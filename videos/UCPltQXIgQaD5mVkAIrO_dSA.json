@@ -321,8 +321,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-16T23:01:28Z",
-      "scheduledStartTime": "2024-06-16T23:00:00Z",
-      "activeLiveChatId": "Cg0KC3Bza0VTUjJ3dDJVKicKGFVDUGx0UVhJZ1FhRDVtVmtBSXJPX2RTQRILcHNrRVNSMnd0MlU"
+      "actualEndTime": "2024-06-17T02:22:00Z",
+      "scheduledStartTime": "2024-06-16T23:00:00Z"
     }
   },
   "d3BBSjEJbls": {
@@ -365,7 +365,8 @@
       "title": "\u3010Yakuza 0\u3011here it goes again\u300e Rina Astera | OshiLinkEN\u300f"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-19T01:00:00Z"
+      "scheduledStartTime": "2024-06-19T01:00:00Z",
+      "activeLiveChatId": "Cg0KCzJ5OWVNRVE5cVBrKicKGFVDUGx0UVhJZ1FhRDVtVmtBSXJPX2RTQRILMnk5ZU1FUTlxUGs"
     }
   },
   "YpTBuCeyowI": {
