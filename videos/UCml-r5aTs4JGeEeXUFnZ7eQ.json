@@ -545,11 +545,24 @@
     "snippet": {
       "publishedAt": "2024-06-16T00:01:08Z",
       "channelId": "UCml-r5aTs4JGeEeXUFnZ7eQ",
-      "title": "\u3010DEVIL MAY CRY 5\u3011There's a Devil inside me... and I May Cry internally."
+      "title": "\u3010DEVIL MAY CRY 5\u3011There's a Devil inside me... and I May Cry internally.",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-16T00:01:08Z",
       "activeLiveChatId": "Cg0KC0Q4VHFFdmlLWUxFKicKGFVDbWwtcjVhVHM0SkdlRWVYVUZuWjdlURILRDhUcUV2aUtZTEU"
+    }
+  },
+  "76rvGJLT7Lw": {
+    "snippet": {
+      "publishedAt": "2024-06-16T05:45:07Z",
+      "channelId": "UCml-r5aTs4JGeEeXUFnZ7eQ",
+      "title": "\u3010Sunday Afternoon TeaTime\u3011Getting to know the NEXAS Restreamers!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-16T17:55:29Z",
+      "actualEndTime": "2024-06-16T22:04:18Z",
+      "scheduledStartTime": "2024-06-16T17:55:07Z"
     }
   }
 }

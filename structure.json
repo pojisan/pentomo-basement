@@ -250,6 +250,25 @@
         }
       }
     },
+    "Glitch Stars": {
+      "Glitch Stars Official": {
+        "tv": "glitchstarsen"
+      },
+      "Virus": {
+        "Leah": {
+          "yt": "UCWn2S3PtgtXQ2TEAQuOsamQ",
+          "tv": "leahasimov"
+        },
+        "Meowie": {
+          "yt": "UCdFN6zk7iRMYJYaTbu8vDxw",
+          "tv": "akumeowie"
+        },
+        "Miwabelle": {
+          "yt": "UC0gg4GASguS_D-2U82uSYVw",
+          "tv": "miwabelle"
+        }
+      }
+    },
     "globie": {
       "1st gen (globie)": {
         "Miel": {
@@ -670,15 +689,17 @@
       }
     },
     "NOA Talent": {
-      "Nolie": {
-        "yt": "UClrW0dNscfyvjdjPiAeaK1Q"
-      },
-      "Blanche": {
-        "yt": "UC80chVdzyz6TxhByjrJDJ4Q"
-      },
-      "Kerby": {
-        "yt": "UCPk6IqZQ0JChV3BKvBr1Bgg",
-        "tv": "cerberuskerby"
+      "COVNANT": {
+        "Nolie": {
+          "yt": "UClrW0dNscfyvjdjPiAeaK1Q"
+        },
+        "Blanche": {
+          "yt": "UC80chVdzyz6TxhByjrJDJ4Q"
+        },
+        "Kerby": {
+          "yt": "UCPk6IqZQ0JChV3BKvBr1Bgg",
+          "tv": "cerberuskerby"
+        }
       }
     },
     "OshiLink": {
@@ -953,15 +974,51 @@
     "Project: Verses": {
       "Prelude": {
         "Fionna": {
-          "yt": "UCovKwgA9eHUutIWCVWS_AGw"
+          "yt": "UCovKwgA9eHUutIWCVWS_AGw",
+          "tv": "fionnafonengels"
         },
         "Riyu": {
           "yt": "UCHuVgnOGtDN9H2p4VrlD62A",
           "tv": "riyu_thelamb"
         },
         "Saya": {
-          "yt": "UCw0o2kSur-iqm82GMKUmVhQ"
+          "yt": "UCw0o2kSur-iqm82GMKUmVhQ",
+          "tv": "kenbishisaya"
         }
+      }
+    },
+    "Re:HOPE": {
+      "Chozo": {
+        "yt": "UC_FB6fpCfKhrD3f_KUeaTCQ",
+        "tv": "chozo_rehope"
+      },
+      "FABLE": {
+        "Lua": {
+          "yt": "UCdiKO7UBr-exngYrwtiuakQ",
+          "tv": "lua_rehope"
+        },
+        "Yui": {
+          "yt": "UCSZtxHQuL_wfRbGRVTsMEyw",
+          "tv": "yuinozomi_rehope"
+        },
+        "Ayane": {
+          "yt": "UCZAvli6ME8jT0-0rt8-lU2w",
+          "tv": "ayane_rehope"
+        }
+      }
+    },
+    "Socks Vtubing Agency": {
+      "Snoozy": {
+        "yt": "UC_fP-w60RJW5rQCZwhfNDrw",
+        "tv": "snoozy"
+      },
+      "Inis": {
+        "yt": "UCKDILQ9wjvg8b5Lq0R6BnzQ",
+        "tv": "inislein"
+      },
+      "Cami": {
+        "yt": "UCqY9msx1kdGb0DbnvDJ8jZQ",
+        "tv": "CamizoleCorzette"
       }
     },
     "Specialite": {
@@ -973,7 +1030,8 @@
           "yt": "UCchGYP5t5Vz48UVxNOifk-Q"
         },
         "Vicky": {
-          "yt": "UCo9wBz0FkJwiLeagB8tWXCg"
+          "yt": "UCo9wBz0FkJwiLeagB8tWXCg",
+          "tv": "victoria_valerie"
         },
         "Uta": {
           "yt": "UCPm_htRQjzhgFikcO_LTvTA"
@@ -1264,7 +1322,8 @@
         "yt": "UCkwBR9e5rCI2gmmlQy-bzfQ"
       },
       "Angy": {
-        "yt": "UC99iAcajhltPg-TUStqg8dw"
+        "yt": "UC99iAcajhltPg-TUStqg8dw",
+        "tv": "angycatto_vols"
       }
     },
     "VReverie": {
@@ -1275,7 +1334,8 @@
       },
       "Catalyst": {
         "Nova": {
-          "yt": "UCA4bOB1Jnw5-lbuoSCfxc-w"
+          "yt": "UCA4bOB1Jnw5-lbuoSCfxc-w",
+          "tv": "novaaokami"
         },
         "Ophie": {
           "yt": "UCZyNPQCjju3KIv9X84diljw"
@@ -1371,10 +1431,6 @@
       "Kibi": {
         "tv": "kibiexe",
         "twt": "kibi_exe"
-      },
-      "Poyo": {
-        "yt": "UCujRXooytFQZugBsX2QTyTA",
-        "twt": "Zenoodle"
       }
     },
     "V&U": {

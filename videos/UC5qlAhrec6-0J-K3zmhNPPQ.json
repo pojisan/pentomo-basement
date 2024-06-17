@@ -5115,8 +5115,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-15T20:30:25Z",
       "actualEndTime": "2024-06-16T00:40:28Z",
-      "scheduledStartTime": "2024-06-15T20:00:00Z",
-      "activeLiveChatId": "Cg0KC1o0dGRwdklGTlFFKicKGFVDNXFsQWhyZWM2LTBKLUszem1oTlBQURILWjR0ZHB2SUZOUUU"
+      "scheduledStartTime": "2024-06-15T20:00:00Z"
     }
   },
   "wYMAmLTkW8w": {
@@ -5165,6 +5164,32 @@
       "actualStartTime": "2024-06-15T05:17:42Z",
       "actualEndTime": "2024-06-15T05:20:12Z",
       "scheduledStartTime": "2024-06-15T05:17:33Z"
+    }
+  },
+  "pLPkgt0WJ5k": {
+    "snippet": {
+      "publishedAt": "2024-06-16T05:45:36Z",
+      "channelId": "UC5qlAhrec6-0J-K3zmhNPPQ",
+      "title": "IDK WHAT I'M DOING. Guerilla?"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-16T05:46:09Z",
+      "actualEndTime": "2024-06-16T10:41:23Z",
+      "scheduledStartTime": "2024-06-16T05:45:36Z",
+      "activeLiveChatId": "Cg0KC3BMUGtndDBXSjVrKicKGFVDNXFsQWhyZWM2LTBKLUszem1oTlBQURILcExQa2d0MFdKNWs"
+    }
+  },
+  "RiN5egaoXPo": {
+    "snippet": {
+      "publishedAt": "2024-06-16T20:59:21Z",
+      "channelId": "UC5qlAhrec6-0J-K3zmhNPPQ",
+      "title": "IDK WHAT I'M DOING. Guerilla?"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-16T20:59:33Z",
+      "actualEndTime": "2024-06-16T23:40:54Z",
+      "scheduledStartTime": "2024-06-16T20:59:19Z",
+      "activeLiveChatId": "Cg0KC1JpTjVlZ2FvWFBvKicKGFVDNXFsQWhyZWM2LTBKLUszem1oTlBQURILUmlONWVnYW9YUG8"
     }
   }
 }

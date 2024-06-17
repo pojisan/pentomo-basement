@@ -4286,8 +4286,9 @@
       "title": "STOP NO!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-16T20:00:00Z",
-      "activeLiveChatId": "Cg0KC3NXMmFTNjhVZ1NJKicKGFVDM0FZdG1NTmRKY3pDdlFOb1B5LWdqdxILc1cyYVM2OFVnU0k"
+      "actualStartTime": "2024-06-16T20:09:39Z",
+      "actualEndTime": "2024-06-16T21:12:53Z",
+      "scheduledStartTime": "2024-06-16T20:00:00Z"
     }
   },
   "RmFARtovC-g": {
@@ -4483,6 +4484,13 @@
       "publishedAt": "2024-06-15T19:00:16Z",
       "channelId": "UC3AYtmMNdJczCvQNoPy-gjw",
       "title": "This Vtuber is HORRIBLE at- #vtuber #vtuberclip"
+    }
+  },
+  "rgpYpnMS9m4": {
+    "snippet": {
+      "publishedAt": "2024-06-16T19:00:20Z",
+      "channelId": "UC3AYtmMNdJczCvQNoPy-gjw",
+      "title": "These Vtubers are SISTERS? #vtuber #vtuberclip"
     }
   }
 }

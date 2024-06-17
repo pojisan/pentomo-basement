@@ -692,8 +692,9 @@
       "title": "Resident Evil 2 SpeedRun I am sure it will be speedy zombie hunting!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-16T15:00:00Z",
-      "activeLiveChatId": "Cg0KC0RxRGlnWm84V25VKicKGFVDUmtkRkdYd0J0eHZtOVNzZm1ObU1aQRILRHFEaWdabzhXblU"
+      "actualStartTime": "2024-06-16T15:00:07Z",
+      "actualEndTime": "2024-06-16T19:45:02Z",
+      "scheduledStartTime": "2024-06-16T15:00:00Z"
     }
   },
   "8dE6wvBNnNc": {
@@ -760,12 +761,78 @@
     "snippet": {
       "publishedAt": "2024-06-13T10:03:07Z",
       "channelId": "UCRkdFGXwBtxvm9SsfmNmMZA",
-      "title": "\u3010Kouhai Karaoke Relay\u3011Soothing voice Angel at your service\ud83d\udc7c\ud83d\udc8e\u3010VReverie\u3011#KouHype2"
+      "title": "\u3010Kouhai Karaoke Relay\u3011Soothing voice Angel at your service\ud83d\udc7c\ud83d\udc8e\u3010VReverie\u3011#KouHype24"
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-15T22:15:35Z",
       "actualEndTime": "2024-06-15T22:38:50Z",
       "scheduledStartTime": "2024-06-15T22:20:00Z"
+    }
+  },
+  "nKWwhbUYrB8": {
+    "snippet": {
+      "publishedAt": "2024-06-16T21:56:45Z",
+      "channelId": "UCRkdFGXwBtxvm9SsfmNmMZA",
+      "title": "Resident Evil 2 LEON NEEDS RING FIT"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-23T15:00:00Z",
+      "activeLiveChatId": "Cg0KC25LV3doYlVZckI4KicKGFVDUmtkRkdYd0J0eHZtOVNzZm1ObU1aQRILbktXd2hiVVlyQjg"
+    }
+  },
+  "twYEboxK4QM": {
+    "snippet": {
+      "publishedAt": "2024-06-16T21:55:41Z",
+      "channelId": "UCRkdFGXwBtxvm9SsfmNmMZA",
+      "title": "Teach your babu angel about THIS!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-18T14:00:00Z",
+      "activeLiveChatId": "Cg0KC3R3WUVib3hLNFFNKicKGFVDUmtkRkdYd0J0eHZtOVNzZm1ObU1aQRILdHdZRWJveEs0UU0"
+    }
+  },
+  "PPyEX51RTVs": {
+    "snippet": {
+      "publishedAt": "2024-06-16T21:50:56Z",
+      "channelId": "UCRkdFGXwBtxvm9SsfmNmMZA",
+      "title": "Vtuber's behind story : Work, work and work"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-17T15:00:00Z",
+      "activeLiveChatId": "Cg0KC1BQeUVYNTFSVFZzKicKGFVDUmtkRkdYd0J0eHZtOVNzZm1ObU1aQRILUFB5RVg1MVJUVnM"
+    }
+  },
+  "wDrrLI1T_gE": {
+    "snippet": {
+      "publishedAt": "2024-06-16T22:16:17Z",
+      "channelId": "UCRkdFGXwBtxvm9SsfmNmMZA",
+      "title": "Minecraft I will build my world in VSMP!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-22T14:00:00Z",
+      "activeLiveChatId": "Cg0KC3dEcnJMSTFUX2dFKicKGFVDUmtkRkdYd0J0eHZtOVNzZm1ObU1aQRILd0RyckxJMVRfZ0U"
+    }
+  },
+  "RCplwLPMBj8": {
+    "snippet": {
+      "publishedAt": "2024-06-16T22:14:59Z",
+      "channelId": "UCRkdFGXwBtxvm9SsfmNmMZA",
+      "title": "Mario Kart for @EstellaStarfall BDAY PARTY"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-21T15:00:00Z",
+      "activeLiveChatId": "Cg0KC1JDcGx3TFBNQmo4KicKGFVDUmtkRkdYd0J0eHZtOVNzZm1ObU1aQRILUkNwbHdMUE1Cajg"
+    }
+  },
+  "IIXt03Gtdmg": {
+    "snippet": {
+      "publishedAt": "2024-06-16T22:13:08Z",
+      "channelId": "UCRkdFGXwBtxvm9SsfmNmMZA",
+      "title": "Valorant sponsored by Animecon Haliens Rhen brothers\ud83d\udc7c"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-20T15:00:00Z",
+      "activeLiveChatId": "Cg0KC0lJWHQwM0d0ZG1nKicKGFVDUmtkRkdYd0J0eHZtOVNzZm1ObU1aQRILSUlYdDAzR3RkbWc"
     }
   }
 }

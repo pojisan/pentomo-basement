@@ -897,8 +897,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-16T00:58:36Z",
-      "scheduledStartTime": "2024-06-16T01:00:00Z",
-      "activeLiveChatId": "Cg0KC3NQY0QxMmJkZVFVKicKGFVDWk8wQ2lySGVXWVRVTWwtN3pQRzZZZxILc1BjRDEyYmRlUVU"
+      "actualEndTime": "2024-06-16T06:56:18Z",
+      "scheduledStartTime": "2024-06-16T01:00:00Z"
     }
   },
   "fTgxZ1O-rds": {
@@ -964,7 +964,14 @@
     "snippet": {
       "publishedAt": "2024-06-15T23:06:05Z",
       "channelId": "UCZO0CirHeWYTUMl-7zPG6Yg",
-      "title": "Also I love this vocaloid song! #vtuber #envtuber #shorts #vtubershorts"
+      "title": "Also I love this vocaloid song! #vtuber #envtuber #shorts #vtubershorts #vocaloid"
+    }
+  },
+  "JxLzDc6ojYo": {
+    "snippet": {
+      "publishedAt": "2024-06-16T21:39:09Z",
+      "channelId": "UCZO0CirHeWYTUMl-7zPG6Yg",
+      "title": "What happened to my gene pool \ud83d\ude2d #vtuber #envtuber #envtuberclip #funnyvtuberclips #shorts"
     }
   }
 }

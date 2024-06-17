@@ -139,7 +139,7 @@
     "snippet": {
       "publishedAt": "2024-05-17T14:31:29Z",
       "channelId": "UC_t7wtScVLk85IaD9jYSRAA",
-      "title": "\u3010SCHEDULE\u3011JUN 10TH - JUN 16TH \u3010Yume+ | Aimee\u3011"
+      "title": "\u3010SCHEDULE\u3011JUN 17TH - JUN 23RD\u3010Yume+ | Aimee\u3011"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2026-05-30T14:45:00Z",
@@ -402,8 +402,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-16T01:17:30Z",
-      "scheduledStartTime": "2024-06-16T00:45:00Z",
-      "activeLiveChatId": "Cg0KC2FCVWZKVjRxbjhZKicKGFVDX3Q3d3RTY1ZMazg1SWFEOWpZU1JBQRILYUJVZkpWNHFuOFk"
+      "actualEndTime": "2024-06-16T04:59:27Z",
+      "scheduledStartTime": "2024-06-16T00:45:00Z"
     }
   },
   "6ol6kWFt5m0": {
@@ -427,8 +427,14 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-16T00:15:12Z",
       "actualEndTime": "2024-06-16T00:46:50Z",
-      "scheduledStartTime": "2024-06-16T00:20:00Z",
-      "activeLiveChatId": "Cg0KC0QtNndVMFFiVGFZKicKGFVDX3Q3d3RTY1ZMazg1SWFEOWpZU1JBQRILRC02d1UwUWJUYVk"
+      "scheduledStartTime": "2024-06-16T00:20:00Z"
+    }
+  },
+  "1KfXQJweiTo": {
+    "snippet": {
+      "publishedAt": "2024-06-16T21:30:00Z",
+      "channelId": "UC_t7wtScVLk85IaD9jYSRAA",
+      "title": "O is for Obedience w/@ShibiCottonbum  #vtuber #yumeplus #shorts #envtuber #funnyvtuberclips"
     }
   }
 }

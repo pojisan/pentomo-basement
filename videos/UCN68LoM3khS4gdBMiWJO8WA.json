@@ -5922,8 +5922,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-15T23:02:00Z",
       "actualEndTime": "2024-06-16T00:58:44Z",
-      "scheduledStartTime": "2024-06-15T23:00:00Z",
-      "activeLiveChatId": "Cg0KCzdjWVYxQW5xWndFKicKGFVDTjY4TG9NM2toUzRnZEJNaVdKTzhXQRILN2NZVjFBbnFad0U"
+      "scheduledStartTime": "2024-06-15T23:00:00Z"
     }
   },
   "TurCJspCRnw": {
@@ -5965,8 +5964,27 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-16T01:15:43Z",
-      "scheduledStartTime": "2024-06-16T01:15:00Z",
-      "activeLiveChatId": "Cg0KC0dBOGktVDUwVF9rKicKGFVDTjY4TG9NM2toUzRnZEJNaVdKTzhXQRILR0E4aS1UNTBUX2s"
+      "actualEndTime": "2024-06-16T04:08:12Z",
+      "scheduledStartTime": "2024-06-16T01:15:00Z"
+    }
+  },
+  "KUnJfq-bOag": {
+    "snippet": {
+      "publishedAt": "2024-06-16T09:09:07Z",
+      "channelId": "UCN68LoM3khS4gdBMiWJO8WA",
+      "title": "What are your CRAZIEST anime convention stories? \u3010NIJISANJI EN | Aia Amare \u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-16T23:34:32Z",
+      "scheduledStartTime": "2024-06-16T23:30:00Z",
+      "activeLiveChatId": "Cg0KC0tVbkpmcS1iT2FnKicKGFVDTjY4TG9NM2toUzRnZEJNaVdKTzhXQRILS1VuSmZxLWJPYWc"
+    }
+  },
+  "iAIxYuarNNs": {
+    "snippet": {
+      "publishedAt": "2024-06-16T19:30:02Z",
+      "channelId": "UCN68LoM3khS4gdBMiWJO8WA",
+      "title": "Aia Amare - Archangel (LORE FINALE)"
     }
   }
 }

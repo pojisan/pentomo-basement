@@ -2582,8 +2582,31 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-16T03:01:31Z",
-      "scheduledStartTime": "2024-06-16T03:00:00Z",
-      "activeLiveChatId": "Cg0KC25iSzF4eXZTeWxZKicKGFVDdHVveU9aaG54SjEycEUyOTRGZEg4URILbmJLMXh5dlN5bFk"
+      "actualEndTime": "2024-06-16T05:53:38Z",
+      "scheduledStartTime": "2024-06-16T03:00:00Z"
+    }
+  },
+  "a7I4V5wpRBM": {
+    "snippet": {
+      "publishedAt": "2024-06-16T13:52:10Z",
+      "channelId": "UCtuoyOZhnxJ12pE294FdH8Q",
+      "title": "\u30d7\u30e9\u30c1\u30ca\uff08Platinum) - ver. Raki Kazuki / Cardcaptor Sakura OP 3 \u2661"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-16T21:00:31Z",
+      "actualEndTime": "2024-06-16T21:05:37Z",
+      "scheduledStartTime": "2024-06-16T21:00:00Z"
+    }
+  },
+  "6rbNBjdWTOo": {
+    "snippet": {
+      "publishedAt": "2024-06-16T14:30:59Z",
+      "channelId": "UCtuoyOZhnxJ12pE294FdH8Q",
+      "title": "\u30101 YEAR KARAOKE RELAY\u3011Celebrating Together! \u2661 #PixelStartYear1"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-17T01:30:00Z",
+      "activeLiveChatId": "Cg0KCzZyYk5CamRXVE9vKicKGFVDdHVveU9aaG54SjEycEUyOTRGZEg4URILNnJiTkJqZFdUT28"
     }
   }
 }

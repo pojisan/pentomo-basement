@@ -12157,8 +12157,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-15T20:01:08Z",
       "actualEndTime": "2024-06-16T01:52:18Z",
-      "scheduledStartTime": "2024-06-15T20:00:00Z",
-      "activeLiveChatId": "Cg0KC2l2S3ItMmhkQVJZKicKGFVDSHN4NEhxYS0xT1JqUVRoOVRZRGh3dxILaXZLci0yaGRBUlk"
+      "scheduledStartTime": "2024-06-15T20:00:00Z"
     }
   },
   "xHILxXswsA8": {
@@ -12168,8 +12167,9 @@
       "title": "\u3010MYTH 1BLOCK MINECRAFT\u3011Day 3, 1 full cycle complete.. SHEEEEEEP #MythOneBlock"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-16T14:30:00Z",
-      "activeLiveChatId": "Cg0KC3hISUx4WHN3c0E4KicKGFVDSHN4NEhxYS0xT1JqUVRoOVRZRGh3dxILeEhJTHhYc3dzQTg"
+      "actualStartTime": "2024-06-16T14:29:57Z",
+      "actualEndTime": "2024-06-16T21:24:38Z",
+      "scheduledStartTime": "2024-06-16T14:30:00Z"
     }
   }
 }

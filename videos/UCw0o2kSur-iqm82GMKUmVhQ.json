@@ -303,8 +303,20 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-16T03:02:52Z",
-      "scheduledStartTime": "2024-06-16T03:01:50Z",
-      "activeLiveChatId": "Cg0KC3hXbHItRFhSOFdzKicKGFVDdzBvMmtTdXItaXFtODJHTUtVbVZoURILeFdsci1EWFI4V3M"
+      "actualEndTime": "2024-06-16T09:52:13Z",
+      "scheduledStartTime": "2024-06-16T03:01:50Z"
+    }
+  },
+  "DGIGTqtEzcw": {
+    "snippet": {
+      "publishedAt": "2024-06-16T19:24:32Z",
+      "channelId": "UCw0o2kSur-iqm82GMKUmVhQ",
+      "title": "\u58f0\u512a\u306e\u4ed5\u4e8b\u3092\u3057\u3066\u3044\u308b! (Working on Voice Acting!)"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-16T19:25:15Z",
+      "scheduledStartTime": "2024-06-16T19:24:54Z",
+      "activeLiveChatId": "Cg0KC0RHSUdUcXRFemN3KicKGFVDdzBvMmtTdXItaXFtODJHTUtVbVZoURILREdJR1RxdEV6Y3c"
     }
   }
 }

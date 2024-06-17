@@ -1085,11 +1085,12 @@
     "snippet": {
       "publishedAt": "2024-06-15T16:43:01Z",
       "channelId": "UC99iAcajhltPg-TUStqg8dw",
-      "title": "\u3010KAROAKE\u3011Happy 100+ YT Videos! Milestones Celebration!\u3010VOLs\u3011"
+      "title": "\u3010KARAOKE\u3011Happy 100+ YT Videos! Milestones Celebration!\u3010VOLs\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-16T05:00:00Z",
-      "activeLiveChatId": "Cg0KC1FodkZzMGFxSHJjKicKGFVDOTlpQWNhamhsdFBnLVRVU3RxZzhkdxILUWh2RnMwYXFIcmM"
+      "actualStartTime": "2024-06-16T05:00:40Z",
+      "actualEndTime": "2024-06-16T09:23:48Z",
+      "scheduledStartTime": "2024-06-16T05:00:00Z"
     }
   }
 }

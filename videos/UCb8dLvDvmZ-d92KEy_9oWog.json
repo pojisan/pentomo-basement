@@ -542,12 +542,12 @@
     "snippet": {
       "publishedAt": "2024-06-13T16:40:59Z",
       "channelId": "UCb8dLvDvmZ-d92KEy_9oWog",
-      "title": "GOD. I LOVE MINECRAFT.",
-      "private": true
+      "title": "ZATSU AND CHORES"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-15T19:00:00Z",
-      "activeLiveChatId": "Cg0KC25LYnN3R1ppLU9rKicKGFVDYjhkTHZEdm1aLWQ5MktFeV85b1dvZxILbktic3dHWmktT2s"
+      "actualStartTime": "2024-06-16T18:07:02Z",
+      "actualEndTime": "2024-06-16T21:02:09Z",
+      "scheduledStartTime": "2024-06-16T18:00:00Z"
     }
   },
   "w0_BmrFDfhs": {
@@ -566,11 +566,55 @@
     "snippet": {
       "publishedAt": "2024-06-16T02:21:25Z",
       "channelId": "UCb8dLvDvmZ-d92KEy_9oWog",
-      "title": "MORE MINECRAFT + VSMP OPENING CEREMONY!"
+      "title": "MINECRAFT MARATHON (+VSMP)"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-17T19:00:00Z",
+      "scheduledStartTime": "2024-06-17T13:00:00Z",
       "activeLiveChatId": "Cg0KC1l2cExWZHhCLVdFKicKGFVDYjhkTHZEdm1aLWQ5MktFeV85b1dvZxILWXZwTFZkeEItV0U"
+    }
+  },
+  "cC6xEqSA12E": {
+    "snippet": {
+      "publishedAt": "2024-06-16T20:48:03Z",
+      "channelId": "UCb8dLvDvmZ-d92KEy_9oWog",
+      "title": "MINECRAFT"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-20T19:00:00Z",
+      "activeLiveChatId": "Cg0KC2NDNnhFcVNBMTJFKicKGFVDYjhkTHZEdm1aLWQ5MktFeV85b1dvZxILY0M2eEVxU0ExMkU"
+    }
+  },
+  "DX3Po3rPwrQ": {
+    "snippet": {
+      "publishedAt": "2024-06-16T20:47:08Z",
+      "channelId": "UCb8dLvDvmZ-d92KEy_9oWog",
+      "title": "PLAYING MINECRAFT WITH A BUNCH OF VTUBERS"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-18T19:00:00Z",
+      "activeLiveChatId": "Cg0KC0RYM1BvM3JQd3JRKicKGFVDYjhkTHZEdm1aLWQ5MktFeV85b1dvZxILRFgzUG8zclB3clE"
+    }
+  },
+  "A6DFfdkC6i4": {
+    "snippet": {
+      "publishedAt": "2024-06-16T20:44:04Z",
+      "channelId": "UCb8dLvDvmZ-d92KEy_9oWog",
+      "title": "TAPU KOKO WILL SAVE THIS RUN"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-21T19:00:00Z",
+      "activeLiveChatId": "Cg0KC0E2REZmZGtDNmk0KicKGFVDYjhkTHZEdm1aLWQ5MktFeV85b1dvZxILQTZERmZka0M2aTQ"
+    }
+  },
+  "YyM8H7Y36KM": {
+    "snippet": {
+      "publishedAt": "2024-06-16T20:11:31Z",
+      "channelId": "UCb8dLvDvmZ-d92KEy_9oWog",
+      "title": "NOOB LEARNS TO PLAY POKEMON UNITE AGAIN"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-19T19:00:00Z",
+      "activeLiveChatId": "Cg0KC1l5TThIN1kzNktNKicKGFVDYjhkTHZEdm1aLWQ5MktFeV85b1dvZxILWXlNOEg3WTM2S00"
     }
   }
 }

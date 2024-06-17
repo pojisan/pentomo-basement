@@ -306,8 +306,9 @@
       "title": "\u3010Master Duel\u3011Gotta replenish my stock of Gems!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-16T13:00:24Z",
-      "activeLiveChatId": "Cg0KCy03MWd1Vmc5bjBZKicKGFVDN3NxYlE0XzVfRUx6LU92LWJWQmk4QRILLTcxZ3VWZzluMFk"
+      "actualStartTime": "2024-06-16T13:00:28Z",
+      "actualEndTime": "2024-06-16T15:45:22Z",
+      "scheduledStartTime": "2024-06-16T13:00:19Z"
     }
   },
   "Jl4x1SLseQo": {
@@ -317,8 +318,20 @@
       "title": "\u3010Casual Chat\u3011Painting my Nails the Color that YOU decided!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-16T16:00:24Z",
-      "activeLiveChatId": "Cg0KC0psNHgxU0xzZVFvKicKGFVDN3NxYlE0XzVfRUx6LU92LWJWQmk4QRILSmw0eDFTTHNlUW8"
+      "actualStartTime": "2024-06-16T16:00:16Z",
+      "actualEndTime": "2024-06-16T19:06:38Z",
+      "scheduledStartTime": "2024-06-16T16:00:03Z"
+    }
+  },
+  "yUHTAjntCBQ": {
+    "snippet": {
+      "publishedAt": "2024-06-17T00:15:08Z",
+      "channelId": "UC7sqbQ4_5_ELz-Ov-bVBi8A",
+      "title": "\u3010Master Duel\u3011Playing with Cute Kitties!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-17T13:00:21Z",
+      "activeLiveChatId": "Cg0KC3lVSFRBam50Q0JRKicKGFVDN3NxYlE0XzVfRUx6LU92LWJWQmk4QRILeVVIVEFqbnRDQlE"
     }
   }
 }

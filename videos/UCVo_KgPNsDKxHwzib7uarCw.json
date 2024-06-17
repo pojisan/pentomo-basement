@@ -5031,5 +5031,29 @@
       "channelId": "UCVo_KgPNsDKxHwzib7uarCw",
       "title": "She is NOT a Lady of the night"
     }
+  },
+  "jQG5YNXu2-U": {
+    "snippet": {
+      "publishedAt": "2024-06-16T14:27:28Z",
+      "channelId": "UCVo_KgPNsDKxHwzib7uarCw",
+      "title": "Beeko's Phase Connect Audition",
+      "private": true
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-16T18:30:00Z",
+      "activeLiveChatId": "Cg0KC2pRRzVZTlh1Mi1VKicKGFVDVm9fS2dQTnNES3hId3ppYjd1YXJDdxILalFHNVlOWHUyLVU"
+    }
+  },
+  "z6LTWSbnqYo": {
+    "snippet": {
+      "publishedAt": "2024-06-16T14:33:24Z",
+      "channelId": "UCVo_KgPNsDKxHwzib7uarCw",
+      "title": "Beeko's Phase Connect Audition"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-16T18:33:27Z",
+      "actualEndTime": "2024-06-16T20:11:12Z",
+      "scheduledStartTime": "2024-06-16T18:30:00Z"
+    }
   }
 }

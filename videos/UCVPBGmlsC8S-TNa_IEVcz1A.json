@@ -356,7 +356,7 @@
     "snippet": {
       "publishedAt": "2024-03-12T04:02:35Z",
       "channelId": "UCVPBGmlsC8S-TNa_IEVcz1A",
-      "title": "\ud83d\udd4a\ufe0f Forecast for Week of 6/9-6/15\u3010Yume+ | Raein Clowd\u3011"
+      "title": "\ud83d\udd4a\ufe0f Forecast for Week of 6/16-6/22\u3010Yume+ | Raein Clowd\u3011"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-01-01T05:00:00Z",
@@ -1185,8 +1185,19 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-15T16:56:56Z",
       "actualEndTime": "2024-06-16T00:00:02Z",
-      "scheduledStartTime": "2024-06-15T17:00:00Z",
-      "activeLiveChatId": "Cg0KC3JvZlpYdnFsRUdjKicKGFVDVlBCR21sc0M4Uy1UTmFfSUVWY3oxQRILcm9mWlh2cWxFR2M"
+      "scheduledStartTime": "2024-06-15T17:00:00Z"
+    }
+  },
+  "BTs42O9t_fc": {
+    "snippet": {
+      "publishedAt": "2024-06-16T20:55:51Z",
+      "channelId": "UCVPBGmlsC8S-TNa_IEVcz1A",
+      "title": "\ud83d\udd96\u3010COLLAB: LEFT4 DEAD 2\u3011W/ Kuro, Midnight, & Yumeko\u3010Yume+ | Raein Clowd\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-16T22:26:36Z",
+      "scheduledStartTime": "2024-06-16T22:30:00Z",
+      "activeLiveChatId": "Cg0KC0JUczQyTzl0X2ZjKicKGFVDVlBCR21sc0M4Uy1UTmFfSUVWY3oxQRILQlRzNDJPOXRfZmM"
     }
   }
 }
