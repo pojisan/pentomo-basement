@@ -725,6 +725,17 @@
       "scheduledStartTime": "2026-05-19T13:00:00Z"
     }
   },
+  "662pH4Xui7U": {
+    "snippet": {
+      "publishedAt": "2024-06-17T08:59:11Z",
+      "channelId": "UC-LAnFLXU9BusFv7n8lFj8g",
+      "title": "\u3010Wuthering Waves #6\u3011 More wuwa cause yes :D\u3010Sarugaku Leon Jr. | Globie\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-17T16:00:00Z",
+      "activeLiveChatId": "Cg0KCzY2MnBINFh1aTdVKicKGFVDLUxBbkZMWFU5QnVzRnY3bjhsRmo4ZxILNjYycEg0WHVpN1U"
+    }
+  },
   "6I38NNnQSdQ": {
     "snippet": {
       "publishedAt": "2024-06-16T19:00:53Z",
@@ -2470,7 +2481,7 @@
     "snippet": {
       "publishedAt": "2024-04-22T06:49:37Z",
       "channelId": "UCEY9CnSH0n0QKmY2Q-OH7Zw",
-      "title": "\u3010Schedule\u3011Schedule 6.10-6.16\u3010Alias Anono | V4Mirai | ENVtuber\u3011"
+      "title": "\u3010Schedule\u3011Schedule 6.17-6.23\u3010Alias Anono | V4Mirai | ENVtuber\u3011"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2026-06-01T06:50:00Z",
@@ -2696,6 +2707,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-04-01T10:00:00Z",
       "activeLiveChatId": "Cg0KC05fYnZQZUFDR3FBKicKGFVDeUtzZy01N1hDOXB5SGJQN3Yza0NQURILTl9idlBlQUNHcUE"
+    }
+  },
+  "NohRRuDNqrE": {
+    "snippet": {
+      "publishedAt": "2024-06-17T08:59:00Z",
+      "channelId": "UCRlQzuVeYxTDPobPN1jaVkQ",
+      "title": "\u3016This Week's Schedule\u3017July 17 - 23\u3016Cyon \u2765 V&U\u3017"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2026-06-17T08:50:00Z",
+      "activeLiveChatId": "Cg0KC05vaFJSdUROcXJFKicKGFVDUmxRenVWZVl4VERQb2JQTjFqYVZrURILTm9oUlJ1RE5xckU"
     }
   },
   "NohbbaHw5yg": {
@@ -3531,7 +3553,7 @@
     "snippet": {
       "publishedAt": "2024-06-17T08:23:41Z",
       "channelId": "UCEY9CnSH0n0QKmY2Q-OH7Zw",
-      "title": "\u3010 Just Chatting @YumitheWitch \u3011Installing a Pool In Our Dorms\u3010Alias Anono | @V4Mirai \u3011"
+      "title": "\u3010 Just Chatting @YumitheWitch \u3011Installing A Pool In Our Dorms\u3010Alias Anono | @V4Mirai \u3011"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-18T02:00:00Z",
@@ -5193,17 +5215,6 @@
       "activeLiveChatId": "Cg0KC2hZWl9sZ3R1YWVrKicKGFVDcjhOWjlqT3JyVmNJUm5hSFpDakpVZxILaFlaX2xndHVhZWs"
     }
   },
-  "hanya": {
-    "snippet": {
-      "channelId": "hanya",
-      "title": "\ud83c\udf38KARAOKE\ud83c\udf38 Call me yaptaro !supps !vershion",
-      "channelTitle": "Hanya"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-17T03:26:51Z",
-      "twitch": true
-    }
-  },
   "hi88GfuA45Y": {
     "snippet": {
       "publishedAt": "2024-06-16T01:53:10Z",
@@ -5803,6 +5814,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2026-05-30T14:45:00Z",
       "activeLiveChatId": "Cg0KC21fSlMxY2N2RWs4KicKGFVDX3Q3d3RTY1ZMazg1SWFEOWpZU1JBQRILbV9KUzFjY3ZFazg"
+    }
+  },
+  "makofukasame": {
+    "snippet": {
+      "channelId": "makofukasame",
+      "title": "i need to lose weight, but for now lets yap and game [vtuber] !vershion !gamersupps",
+      "channelTitle": "MakoFukasame"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-17T09:00:32Z",
+      "twitch": true
     }
   },
   "michiru_shisui": {
