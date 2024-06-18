@@ -3247,18 +3247,6 @@
       "activeLiveChatId": "Cg0KC1BkOExFclYwQ2dFKicKGFVDeF9BNmZuczlxS2p5YnUtNmswdXIxZxILUGQ4TEVyVjBDZ0U"
     }
   },
-  "PiQYGatSFrI": {
-    "snippet": {
-      "publishedAt": "2024-06-17T17:53:59Z",
-      "channelId": "UCO4zMaYBEzdYISfeoO6ip_Q",
-      "title": "SERVER OPENING PARTY! \u3010VSMP MINECRAFT \u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-17T21:03:53Z",
-      "scheduledStartTime": "2024-06-17T21:00:00Z",
-      "activeLiveChatId": "Cg0KC1BpUVlHYXRTRnJJKicKGFVDTzR6TWFZQkV6ZFlJU2Zlb082aXBfURILUGlRWUdhdFNGckk"
-    }
-  },
   "PuzsVzbUdmQ": {
     "snippet": {
       "publishedAt": "2023-03-21T00:48:37Z",
@@ -5141,6 +5129,17 @@
       "activeLiveChatId": "Cg0KC2NrVTBDWlNGNWpNKicKGFVDQTRiT0IxSm53NS1sYnVvU0NmeGMtdxILY2tVMENaU0Y1ak0"
     }
   },
+  "clioaite": {
+    "snippet": {
+      "channelId": "clioaite",
+      "title": "OI !merch !gamersupps",
+      "channelTitle": "ClioAite"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T01:50:11Z",
+      "twitch": true
+    }
+  },
   "cnOF92APFu0": {
     "snippet": {
       "publishedAt": "2024-06-16T14:47:18Z",
@@ -5433,17 +5432,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-18T16:00:00Z",
       "activeLiveChatId": "Cg0KC2VkMXpsVklLUnRnKicKGFVDbHhqM0dsR3BoWlZnZDFTTFloWkttZxILZWQxemxWSUtSdGc"
-    }
-  },
-  "eliastellaria": {
-    "snippet": {
-      "channelId": "eliastellaria",
-      "title": "SERVER OPENING PARTY! \u3010VSMP MINECRAFT \u3011",
-      "channelTitle": "EliaStellaria"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-17T21:03:11Z",
-      "twitch": true
     }
   },
   "eyfASetr4cU": {
@@ -6427,10 +6415,11 @@
     "snippet": {
       "publishedAt": "2024-06-17T10:54:25Z",
       "channelId": "UC9p_lqQ0FEDz327Vgf5JwqA",
-      "title": "\u3010ELDEN RING\u3011The time is near... (Motivated Run)"
+      "title": "\u3010MONSTER HUNTER WORLD\u3011YES"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-18T01:30:00Z",
+      "actualStartTime": "2024-06-18T01:51:05Z",
+      "scheduledStartTime": "2024-06-18T02:00:00Z",
       "activeLiveChatId": "Cg0KC21LOWxhUnU0OW5jKicKGFVDOXBfbHFRMEZFRHozMjdWZ2Y1SndxQRILbUs5bGFSdTQ5bmM"
     }
   },
