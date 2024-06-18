@@ -1271,18 +1271,6 @@
       "activeLiveChatId": "Cg0KCzlpeUVWYTBGVVVJKicKGFVDLVcteWFWSWpxa1hvaDZkWjZfVGNNQRILOWl5RVZhMEZVVUk"
     }
   },
-  "9z5yrnTpSek": {
-    "snippet": {
-      "publishedAt": "2024-06-18T15:59:12Z",
-      "channelId": "UCGwLSyPLaHpq0nuT_JVSMtQ",
-      "title": "\u3010Minecraft\u3011 PIXELLINK VSMP: actually first time i play Minecraft\u3010Kumanui Miel | globie\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-18T19:05:41Z",
-      "scheduledStartTime": "2024-06-18T19:00:00Z",
-      "activeLiveChatId": "Cg0KCzl6NXlyblRwU2VrKicKGFVDR3dMU3lQTGFIcHEwbnVUX0pWU010URILOXo1eXJuVHBTZWs"
-    }
-  },
   "A4XX9pHXFSU": {
     "snippet": {
       "publishedAt": "2024-04-26T06:05:29Z",
@@ -1344,6 +1332,17 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC0FPMTFQMklrMkdrKicKGFVDRzU2WFdaZWJPM1RIV0w2R3FkTDZnQRILQU8xMVAySWsyR2s"
+    }
+  },
+  "AOjYyvPhxx4": {
+    "snippet": {
+      "publishedAt": "2024-06-18T23:23:46Z",
+      "channelId": "UCVIQsHu1ycP2lRGIbjFJjJw",
+      "title": "\u3010Keep Talking And Nobody Explodes\u3011Getting freaky w/@KaifuLulu \u3010VAllure\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-20T22:00:00Z",
+      "activeLiveChatId": "Cg0KC0FPall5dlBoeHg0KicKGFVDVklRc0h1MXljUDJsUkdJYmpGSmpKdxILQU9qWXl2UGh4eDQ"
     }
   },
   "ARjYuEluPH8": {
@@ -2521,7 +2520,8 @@
       "title": "\u3010POPPY PLAYTIME\u3011Erm, he's right behind me isn't he? | #EmiBLive"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-18T23:30:00Z",
+      "actualStartTime": "2024-06-18T23:31:20Z",
+      "scheduledStartTime": "2024-06-18T23:31:11Z",
       "activeLiveChatId": "Cg0KC0lsTmNwUmpXOWhJKicKGFVDUXI5QTlFeERLWXkyd3h1MFJrQzRVZxILSWxOY3BSalc5aEk"
     }
   },
@@ -5216,17 +5216,6 @@
       "twitch": true
     }
   },
-  "aresmythos": {
-    "snippet": {
-      "channelId": "aresmythos",
-      "title": "\u2694\ufe0fAny% Glitchless Speedrunning!\u2694\ufe0f | !gg !merch !socials !pp",
-      "channelTitle": "AresMythos"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-18T17:05:13Z",
-      "twitch": true
-    }
-  },
   "auCkpoNM1yE": {
     "snippet": {
       "publishedAt": "2024-03-24T19:34:20Z",
@@ -5553,7 +5542,7 @@
   "dee_the_sphinx": {
     "snippet": {
       "channelId": "dee_the_sphinx",
-      "title": "\ud83d\udd06Dee missed you.. but only like a bit okay?\ud83d\udd06!discord [Vtuber]",
+      "title": "The World Ends with Dee \ud83d\udd06!discord [Vtuber]",
       "channelTitle": "Dee_the_Sphinx"
     },
     "liveStreamingDetails": {
@@ -5929,18 +5918,6 @@
       "scheduledStartTime": "2024-06-23T02:00:00Z"
     }
   },
-  "h3MGMVm4-1o": {
-    "snippet": {
-      "publishedAt": "2024-06-16T21:06:48Z",
-      "channelId": "UClxj3GlGphZVgd1SLYhZKmg",
-      "title": "\u3010MINECRAFT\u3011Minecraft server adventures!"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-18T20:56:58Z",
-      "scheduledStartTime": "2024-06-18T21:00:00Z",
-      "activeLiveChatId": "Cg0KC2gzTUdNVm00LTFvKicKGFVDbHhqM0dsR3BoWlZnZDFTTFloWkttZxILaDNNR01WbTQtMW8"
-    }
-  },
   "h3jYiXpPQ4Q": {
     "snippet": {
       "publishedAt": "2024-06-18T18:56:27Z",
@@ -6077,7 +6054,7 @@
       "title": "\u300aRAIN CODE\u300bSHORT GUY NAMED KOKOHEAD SAVES A TRAIN OR SMTH IDK\u3010Sera Kesera | bondlive EN\u3011#vtuber"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-19T02:00:00Z",
+      "scheduledStartTime": "2024-06-19T02:30:00Z",
       "activeLiveChatId": "Cg0KC2hqdDNZbHNWWlhZKicKGFVDYXNadnNrRkNfU0hzNkxYeDJfMjZjURILaGp0M1lsc1ZaWFk"
     }
   },
