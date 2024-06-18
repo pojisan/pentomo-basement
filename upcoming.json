@@ -2276,7 +2276,9 @@
       "title": "\u3010Overwatch 2\u3011I-I-I'M NEWBIE\u3010hololive ID 2nd Generation | Anya Melfissa\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-18T05:30:00Z"
+      "actualStartTime": "2024-06-18T05:41:04Z",
+      "scheduledStartTime": "2024-06-18T05:30:00Z",
+      "activeLiveChatId": "Cg0KC0lMRkNQcnlodjJZKicKGFVDNzI3U1FZVXZ4NXBEREdRcFRJQ05XZxILSUxGQ1ByeWh2Mlk"
     }
   },
   "IS1R9yifjk4": {
@@ -4426,18 +4428,6 @@
       "activeLiveChatId": "Cg0KC1llM2djRXpSbE40KicKGFVDa2ItcjcwMnVoeDQtNkxybWV0cC1PdxILWWUzZ2NFelJsTjQ"
     }
   },
-  "YfhFIvDUdgY": {
-    "snippet": {
-      "publishedAt": "2024-06-17T17:22:28Z",
-      "channelId": "UC-1_-jUu-lALdGn9-MdBJ4Q",
-      "title": "A Message in Fire\u3010Ghost of Tsushima\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-18T00:00:11Z",
-      "scheduledStartTime": "2024-06-18T00:00:00Z",
-      "activeLiveChatId": "Cg0KC1lmaEZJdkRVZGdZKicKGFVDLTFfLWpVdS1sQUxkR245LU1kQko0URILWWZoRkl2RFVkZ1k"
-    }
-  },
   "YgRGMmcfHO8": {
     "snippet": {
       "publishedAt": "2022-03-04T18:12:32Z",
@@ -4835,17 +4825,6 @@
       "activeLiveChatId": "Cg0KC2FqNW1oMEFubF9jKicKGFVDX2tWSmhCUUM2VERGeXNOOVR1UFNZZxILYWo1bWgwQW5sX2M"
     }
   },
-  "apolloalto": {
-    "snippet": {
-      "channelId": "apolloalto",
-      "title": "For the Company w/ VIRTUX !discord !socials !commands",
-      "channelTitle": "ApolloAlto"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-18T03:05:27Z",
-      "twitch": true
-    }
-  },
   "auCkpoNM1yE": {
     "snippet": {
       "publishedAt": "2024-03-24T19:34:20Z",
@@ -4974,6 +4953,17 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC2J1ZDhXMlVwRmdVKicKGFVDTndZNlpIMjd2WkRqUmgyQzluc0NqdxILYnVkOFcyVXBGZ1U"
+    }
+  },
+  "bw6EzeJHWtU": {
+    "snippet": {
+      "publishedAt": "2024-06-18T05:24:43Z",
+      "channelId": "UCIeSUTOTkF9Hs7q3SGcO-Ow",
+      "title": "\u3010NINTENDO DIRECT WATCHALONG\u3011 here we go!!!!!!!!! \u3010NIJISANJI EN | Elira Pendora\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-18T13:50:00Z",
+      "activeLiveChatId": "Cg0KC2J3NkV6ZUpIV3RVKicKGFVDSWVTVVRPVGtGOUhzN3EzU0djTy1PdxILYnc2RXplSkhXdFU"
     }
   },
   "bxwe5VLx7xQ": {
@@ -5116,17 +5106,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-24T01:00:00Z",
       "activeLiveChatId": "Cg0KC2N1VkJQdDhUUjBFKicKGFVDQmdoVUtBX0wwbmEwU2VRNnNuek1NURILY3VWQlB0OFRSMEU"
-    }
-  },
-  "cynth_ai": {
-    "snippet": {
-      "channelId": "cynth_ai",
-      "title": "INSTINKT LETHAL COMPANY @mukyapunch @apolloalto @reiiflynn @luluthebard",
-      "channelTitle": "cynth_AI"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-18T02:08:32Z",
-      "twitch": true
     }
   },
   "d-U2t6BuMNU": {
@@ -6307,17 +6286,6 @@
       "twitch": true
     }
   },
-  "luluthebard": {
-    "snippet": {
-      "channelId": "luluthebard",
-      "title": "LETHAL COMPANY WITH THE COMPANY!! ft @Reiiflynn @mukyapunch @apolloalto & @cynth_AI",
-      "channelTitle": "LuLuTheBard"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-18T03:12:45Z",
-      "twitch": true
-    }
-  },
   "lymzkbD9NVI": {
     "snippet": {
       "publishedAt": "2024-05-31T02:09:32Z",
@@ -6411,6 +6379,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-03-09T13:00:00Z",
       "activeLiveChatId": "Cg0KC21mb0hwWUEzOW9jKicKGFVDYXhpRGVfVHVNTFhrd1JNVkxtNVZ3URILbWZvSHBZQTM5b2M"
+    }
+  },
+  "michiru_shisui": {
+    "snippet": {
+      "channelId": "michiru_shisui",
+      "title": "\u3010RDR2/#\u30ec\u30c9\u30b9\u30c8\u3011RP\u30b9\u30c8\u30ea\u30fc\u30de\u30fc\u30b5\u30fc\u30d0\u30fcDay7",
+      "channelTitle": "\u7d2b\u7fe0\u307f\u3061\u308b"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T05:33:12Z",
+      "twitch": true
     }
   },
   "mozNCNclx9A": {
@@ -7038,17 +7017,6 @@
       "activeLiveChatId": "Cg0KC3JWSEx0OS1oa0ZFKicKGFVDWUl6cWJWUDZGTFpyNEt0ZW81Z0pyQRILclZITHQ5LWhrRkU"
     }
   },
-  "reiiflynn": {
-    "snippet": {
-      "channelId": "reiiflynn",
-      "title": "MILLENNIAL COMPANY FT @mukyapunch @apolloalto @luluthebard @cynth_ai",
-      "channelTitle": "reiiflynn"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-18T03:04:42Z",
-      "twitch": true
-    }
-  },
   "rgdi8bteQgc": {
     "snippet": {
       "publishedAt": "2024-04-27T23:54:17Z",
@@ -7304,6 +7272,7 @@
       "title": "\u3010RDR2/#\u30ec\u30c9\u30b9\u30c8/\u30df\u30c1\u30a7\u30eb\u30fb\u30d3\u30fc\u30ac\u30f3\u3011\u7570\u4e16\u754c\u3067\u76f8\u5909\u308f\u3089\u305a\u91d1\u7b56\u3059\u308b\u7d2b\u7fe0\u307f\u3061\u308b\u3010Day7\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T05:33:21Z",
       "scheduledStartTime": "2024-06-18T05:30:00Z",
       "activeLiveChatId": "Cg0KC3RKVXNCNmJkUVlBKicKGFVDMWNFeEVUOXhvV1NPOWlTblJzV18xURILdEpVc0I2YmRRWUE"
     }
