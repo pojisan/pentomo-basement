@@ -4025,10 +4025,10 @@
     "snippet": {
       "publishedAt": "2024-06-15T20:34:06Z",
       "channelId": "UCzyzcQtOIF4lnGJ9IxrhaYA",
-      "title": "Twitter Spaces Karaoke chat (lol)"
+      "title": "Twitter Spaces Nintendo Direct Watchalong chat ("
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-18T04:00:00Z",
+      "scheduledStartTime": "2024-06-18T14:00:00Z",
       "activeLiveChatId": "Cg0KC1RyRjgtWV9jeVBrKicKGFVDenl6Y1F0T0lGNGxuR0o5SXhyaGFZQRILVHJGOC1ZX2N5UGs"
     }
   },
@@ -5694,6 +5694,17 @@
       "activeLiveChatId": "Cg0KC2VseTFEeWdSbldzKicKGFVDTF9xaGd0T3kwZHkxQWdwOHZreVNRZxILZWx5MUR5Z1JuV3M"
     }
   },
+  "erislefaire": {
+    "snippet": {
+      "channelId": "erislefaire",
+      "title": "i'm so eepy and cranky but we chilling with kitties  | !kofi !discord |",
+      "channelTitle": "ErisLefaire"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T13:16:32Z",
+      "twitch": true
+    }
+  },
   "eyfASetr4cU": {
     "snippet": {
       "publishedAt": "2024-06-12T15:54:31Z",
@@ -6799,17 +6810,6 @@
       "activeLiveChatId": "Cg0KC21mb0hwWUEzOW9jKicKGFVDYXhpRGVfVHVNTFhrd1JNVkxtNVZ3URILbWZvSHBZQTM5b2M"
     }
   },
-  "michiru_shisui": {
-    "snippet": {
-      "channelId": "michiru_shisui",
-      "title": "\u3010RDR2/#\u30ec\u30c9\u30b9\u30c8\u3011RP\u30b9\u30c8\u30ea\u30fc\u30de\u30fc\u30b5\u30fc\u30d0\u30fcDay7",
-      "channelTitle": "\u7d2b\u7fe0\u307f\u3061\u308b"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-18T11:07:06Z",
-      "twitch": true
-    }
-  },
   "mmF7ZANz63g": {
     "snippet": {
       "publishedAt": "2024-06-18T07:16:57Z",
@@ -6968,7 +6968,8 @@
       "title": "\u3010House Flipper\u3011It was always my dream to be on HGTV"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-18T13:00:51Z",
+      "actualStartTime": "2024-06-18T13:16:21Z",
+      "scheduledStartTime": "2024-06-18T13:16:11Z",
       "activeLiveChatId": "Cg0KC256NlBMVkEtUEVVKicKGFVDN3NxYlE0XzVfRUx6LU92LWJWQmk4QRILbno2UExWQS1QRVU"
     }
   },
@@ -7770,18 +7771,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2026-01-02T01:00:00Z",
       "activeLiveChatId": "Cg0KC3QySFR6b1ZXTTdZKicKGFVDRndjRUlzanZpOVhFdnBHeDZpd0hwdxILdDJIVHpvVldNN1k"
-    }
-  },
-  "tJUsB6bdQYA": {
-    "snippet": {
-      "publishedAt": "2024-06-18T03:57:00Z",
-      "channelId": "UC1cExET9xoWSO9iSnRsW_1Q",
-      "title": "\u3010RDR2/#\u30ec\u30c9\u30b9\u30c8/\u30df\u30c1\u30a7\u30eb\u30fb\u30d3\u30fc\u30ac\u30f3\u3011\u7570\u4e16\u754c\u3067\u76f8\u5909\u308f\u3089\u305a\u91d1\u7b56\u3059\u308b\u7d2b\u7fe0\u307f\u3061\u308b\u3010Day7\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-18T05:33:21Z",
-      "scheduledStartTime": "2024-06-18T05:30:00Z",
-      "activeLiveChatId": "Cg0KC3RKVXNCNmJkUVlBKicKGFVDMWNFeEVUOXhvV1NPOWlTblJzV18xURILdEpVc0I2YmRRWUE"
     }
   },
   "tJqKuCNgCMM": {
