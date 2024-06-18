@@ -7830,6 +7830,7 @@
       "title": "\ud83d\ude91\u3010#\u306b\u3058GTA\u3011 Day4 \u30fb\uc88b\uc740 \uc758\uc0ac\ub780 \ubb58\uae4c  \u826f\u3044\u533b\u8005\u3068\u306f\u4f55\u3060\u308d\u3046\u3010KR/JP\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T13:00:05Z",
       "scheduledStartTime": "2024-06-18T13:00:00Z",
       "activeLiveChatId": "Cg0KC1lSVEprdWNWVXk4KicKGFVDVXRLa0dLZWY4QllNczNoLTN6UW05QRILWVJUSmt1Y1ZVeTg"
     }
@@ -7842,8 +7843,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-18T11:04:32Z",
-      "scheduledStartTime": "2024-06-18T11:00:00Z",
-      "activeLiveChatId": "Cg0KC0k4MVdfZkwyczhVKicKGFVDVXRLa0dLZWY4QllNczNoLTN6UW05QRILSTgxV19mTDJzOFU"
+      "actualEndTime": "2024-06-18T12:56:22Z",
+      "scheduledStartTime": "2024-06-18T11:00:00Z"
     }
   }
 }
