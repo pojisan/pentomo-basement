@@ -1061,6 +1061,7 @@
       "title": "\u30102ND YEAR ANNIVERSARY\u3011IT'S TIME TO CELEBRATE IT! \u3010NAWASENA EN/ID\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T03:56:55Z",
       "scheduledStartTime": "2024-06-18T03:00:00Z",
       "activeLiveChatId": "Cg0KCzhCaGpRV1A1NmpzKicKGFVDOUswNldqa2pYVW9xX09LQ0pYUzRkURILOEJoalFXUDU2anM"
     }
@@ -1331,7 +1332,7 @@
       "title": "\u516c\u5712\ud83c\udf40"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-16T15:00:00Z",
+      "scheduledStartTime": "2025-06-16T15:00:00Z",
       "activeLiveChatId": "Cg0KC0IzZnFqTm5OUmc4KicKGFVDdEhZLXRQMGR5eWtoVFJNbW5mUHNfZxILQjNmcWpObk5SZzg"
     }
   },
@@ -2581,18 +2582,6 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC0tqbXFzZzdlMF9JKicKGFVDWER5dGxKVTZSTDhENjhWclBaR3lJQRILS2ptcXNnN2UwX0k"
-    }
-  },
-  "Kkb-VXW7eXE": {
-    "snippet": {
-      "publishedAt": "2024-06-16T20:38:05Z",
-      "channelId": "UC98iRMvRqUxRD6GP4NtRskw",
-      "title": "The Longest Dizzy Stream | 12-hr Marathon"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-17T15:59:54Z",
-      "scheduledStartTime": "2024-06-17T16:00:00Z",
-      "activeLiveChatId": "Cg0KC0trYi1WWFc3ZVhFKicKGFVDOThpUk12UnFVeFJENkdQNE50UnNrdxILS2tiLVZYVzdlWEU"
     }
   },
   "KpbjmbzqPKU": {
@@ -4353,18 +4342,6 @@
       "activeLiveChatId": "Cg0KC1hTM1B0QzByWHMwKicKGFVDQzRoakpwX010dHdmWmN1V2MwT3BWURILWFMzUHRDMHJYczA"
     }
   },
-  "XSDRwV5ADJA": {
-    "snippet": {
-      "publishedAt": "2024-06-18T01:59:44Z",
-      "channelId": "UCtWH0tVAcUcSm4v96H5cAqQ",
-      "title": "\u3010ZATSU\u3011\u4f5c\u696d\u3057\u306a\u304c\u3089\u3010\u5009\u5922\u3074\u3053 / Phase Connect\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-18T02:02:54Z",
-      "scheduledStartTime": "2024-06-18T02:00:00Z",
-      "activeLiveChatId": "Cg0KC1hTRFJ3VjVBREpBKicKGFVDdFdIMHRWQWNVY1NtNHY5Nkg1Y0FxURILWFNEUndWNUFESkE"
-    }
-  },
   "XmWz5eqcTYY": {
     "snippet": {
       "publishedAt": "2023-05-21T05:06:33Z",
@@ -5408,6 +5385,7 @@
       "title": "\u30103DIO ASMR\u3011whispers & heartbeats for sleep \u2661"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T04:00:14Z",
       "scheduledStartTime": "2024-06-18T04:00:00Z",
       "activeLiveChatId": "Cg0KC2VKZHlMZjgzX0JnKicKGFVDdHVveU9aaG54SjEycEUyOTRGZEg4URILZUpkeUxmODNfQmc"
     }
@@ -6016,18 +5994,6 @@
       "activeLiveChatId": "Cg0KC2pNaDlDcldwQllFKicKGFVDbk5MWldqbDRHdlZGNHM4ekJUOV9rQRILak1oOUNyV3BCWUU"
     }
   },
-  "jQnLsUnlVuU": {
-    "snippet": {
-      "publishedAt": "2024-06-15T15:21:14Z",
-      "channelId": "UCuaDidGk4HNLOnQE9wzMMeQ",
-      "title": "\u3010Cover\u3011 \u4eba\u30de\u30cb\u30a2 (HITOMANIA) \uff0f \u539f\u53e3\u6c99\u8f14 \u3010Isla Coleman\u3011"
-    },
-    "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-18T04:00:00Z",
-      "activeLiveChatId": "Cg0KC2pRbkxzVW5sVnVVKicKGFVDdWFEaWRHazRITkxPblFFOXd6TU1lURILalFuTHNVbmxWdVU",
-      "premiere": true
-    }
-  },
   "jSFyQg3QozY": {
     "snippet": {
       "publishedAt": "2021-05-17T14:58:40Z",
@@ -6363,6 +6329,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-12-31T15:45:00Z",
       "activeLiveChatId": "Cg0KC2xydm9FbUZfZDkwKicKGFVDMWVYX01Wck4wRUJLZHBrbjliLWpodxILbHJ2b0VtRl9kOTA"
+    }
+  },
+  "lua_rehope": {
+    "snippet": {
+      "channelId": "lua_rehope",
+      "title": "\u2756 PGR \u2756 Revisiting the game.",
+      "channelTitle": "Lua_ReHOPE"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T04:00:02Z",
+      "twitch": true
     }
   },
   "luluthebard": {
@@ -7238,6 +7215,18 @@
       "activeLiveChatId": "Cg0KC3NOZTJSVXJwazBvKicKGFVDVUkxcXBqSlNFYmd6ZGx3bXBkVm1NdxILc05lMlJVcnBrMG8"
     }
   },
+  "sQr0X7YtCZw": {
+    "snippet": {
+      "publishedAt": "2024-06-18T03:57:44Z",
+      "channelId": "UCxIuBwvl3SvIwWx49vd-LUw",
+      "title": "Live streaming of Usa Ahmya \ud83d\udc7e \ud83d\udc30\u3010V-SEA\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T03:58:25Z",
+      "scheduledStartTime": "2024-06-18T04:00:22Z",
+      "activeLiveChatId": "Cg0KC3NRcjBYN1l0Q1p3KicKGFVDeEl1Qnd2bDNTdkl3V3g0OXZkLUxVdxILc1FyMFg3WXRDWnc"
+    }
+  },
   "sSKE31Skgug": {
     "snippet": {
       "publishedAt": "2023-06-17T01:33:34Z",
@@ -7355,6 +7344,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2026-01-02T01:00:00Z",
       "activeLiveChatId": "Cg0KC3QySFR6b1ZXTTdZKicKGFVDRndjRUlzanZpOVhFdnBHeDZpd0hwdxILdDJIVHpvVldNN1k"
+    }
+  },
+  "tJUsB6bdQYA": {
+    "snippet": {
+      "publishedAt": "2024-06-18T03:57:00Z",
+      "channelId": "UC1cExET9xoWSO9iSnRsW_1Q",
+      "title": "\u3010RDR2/#\u30ec\u30c9\u30b9\u30c8/\u30df\u30c1\u30a7\u30eb\u30fb\u30d3\u30fc\u30ac\u30f3\u3011\u7570\u4e16\u754c\u3067\u76f8\u5909\u308f\u3089\u305a\u91d1\u7b56\u3059\u308b\u7d2b\u7fe0\u307f\u3061\u308b\u3010Day7\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-18T05:30:00Z",
+      "activeLiveChatId": "Cg0KC3RKVXNCNmJkUVlBKicKGFVDMWNFeEVUOXhvV1NPOWlTblJzV18xURILdEpVc0I2YmRRWUE"
     }
   },
   "tJqKuCNgCMM": {
