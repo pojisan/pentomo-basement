@@ -7770,8 +7770,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-17T19:11:28Z",
-      "scheduledStartTime": "2024-06-17T19:00:00Z",
-      "activeLiveChatId": "Cg0KC2U0QngwV3ZFaHV3KicKGFVDSTRQTGZ1aUw5akZPcHNFSUEyMEtqZxILZTRCeDBXdkVodXc"
+      "actualEndTime": "2024-06-18T07:05:41Z",
+      "scheduledStartTime": "2024-06-17T19:00:00Z"
     }
   },
   "hHxz3ud7xRE": {
@@ -7796,6 +7796,18 @@
       "actualStartTime": "2024-06-14T03:26:08Z",
       "actualEndTime": "2024-06-14T06:31:23Z",
       "scheduledStartTime": "2024-06-14T03:26:09Z"
+    }
+  },
+  "Sn1FIQclnCk": {
+    "snippet": {
+      "publishedAt": "2024-06-18T07:04:55Z",
+      "channelId": "UCI4PLfuiL9jFOpsEIA20Kjg",
+      "title": "Session 55.5: The Sea of Sorrow | Into The Mists [DND] w/ Vtubers"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T07:06:44Z",
+      "scheduledStartTime": "2024-06-18T07:05:00Z",
+      "activeLiveChatId": "Cg0KC1NuMUZJUWNsbkNrKicKGFVDSTRQTGZ1aUw5akZPcHNFSUEyMEtqZxILU24xRklRY2xuQ2s"
     }
   }
 }
