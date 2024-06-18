@@ -3815,8 +3815,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-18T17:15:24Z",
-      "scheduledStartTime": "2024-06-18T17:00:00Z",
-      "activeLiveChatId": "Cg0KC2NXTHdMQkR0YTJvKicKGFVDa2lVQnlCQ0YxYU9pUmQxNnhBbFBNZxILY1dMd0xCRHRhMm8"
+      "actualEndTime": "2024-06-18T20:41:43Z",
+      "scheduledStartTime": "2024-06-18T17:00:00Z"
     }
   },
   "-6eBp55lb9I": {
@@ -3877,6 +3877,7 @@
       "title": "Is this an Addict Honeypot?"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T20:42:30Z",
       "scheduledStartTime": "2024-06-18T20:40:00Z",
       "activeLiveChatId": "Cg0KC3c1OVZsVmhXOWhNKicKGFVDa2lVQnlCQ0YxYU9pUmQxNnhBbFBNZxILdzU5VmxWaFc5aE0"
     }
