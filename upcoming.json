@@ -170,6 +170,7 @@
       "title": "50K Karaoke aftermath\u3010Moonlight Chats\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T00:01:00Z",
       "scheduledStartTime": "2024-06-18T00:00:00Z",
       "activeLiveChatId": "Cg0KCy1nMWtmZEI1a2VZKicKGFVDRndjRUlzanZpOVhFdnBHeDZpd0hwdxILLWcxa2ZkQjVrZVk"
     }
@@ -1830,6 +1831,7 @@
       "title": "\u3010Karaoke\u3011Let's Learn About: Showa Japanese Idol Music"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T00:01:05Z",
       "scheduledStartTime": "2024-06-18T00:00:00Z",
       "activeLiveChatId": "Cg0KC0Y3UE9KSndVODJFKicKGFVDS3pLZ1UteGxuY2RFRzVXb3VxVGZ5ZxILRjdQT0pKd1U4MkU"
     }
@@ -2519,6 +2521,7 @@
       "title": "\u3010Using 3Dio\u3011You're Trash. (no, literally)\u3010VAllure\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-17T23:59:46Z",
       "scheduledStartTime": "2024-06-18T00:00:00Z",
       "activeLiveChatId": "Cg0KC0s5Vkg4SWo4SkFnKicKGFVDdll6d0VrQ1EyN2dQYWo1NHdCc1ZPZxILSzlWSDhJajhKQWc"
     }
@@ -3215,6 +3218,7 @@
       "title": "\u300aROCK LIFE W/ MIZUKI\u300bONLY I CAN BULLY MY WIFE GRRRRRR\u3010Sera Kesera | bondliveEN\u3011#vtuber"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-17T23:57:06Z",
       "scheduledStartTime": "2024-06-18T00:00:00Z",
       "activeLiveChatId": "Cg0KC1BBZUdkdndjR2RvKicKGFVDYXNadnNrRkNfU0hzNkxYeDJfMjZjURILUEFlR2R2d2NHZG8"
     }
@@ -3433,6 +3437,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-19T20:00:00Z",
       "activeLiveChatId": "Cg0KC1FmX0JVQUZlR2d3KicKGFVDaTdUd29tdFMzWnlmakFNNVRXRU1TURILUWZfQlVBRmVHZ3c"
+    }
+  },
+  "QgX3zQXmBCI": {
+    "snippet": {
+      "publishedAt": "2024-06-17T23:59:00Z",
+      "channelId": "UCu1INzefw3R7M9-3QEHYmMQ",
+      "title": "Get Isekai'ed and Make Me Your Waifu #shorts #shortslive"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T00:00:18Z",
+      "activeLiveChatId": "Cg0KC1FnWDN6UVhtQkNJKicKGFVDdTFJTnplZnczUjdNOS0zUUVIWW1NURILUWdYM3pRWG1CQ0k"
     }
   },
   "QjbM1f6hB70": {
@@ -3889,18 +3904,6 @@
       "activeLiveChatId": "Cg0KC1RyRjgtWV9jeVBrKicKGFVDenl6Y1F0T0lGNGxuR0o5SXhyaGFZQRILVHJGOC1ZX2N5UGs"
     }
   },
-  "TtRhMfcxeds": {
-    "snippet": {
-      "publishedAt": "2024-06-17T18:42:34Z",
-      "channelId": "UCa7fhTz-VSEIaGt8j6jab6A",
-      "title": "Hello City 17. It's Me. Rhubarb"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-17T21:58:02Z",
-      "scheduledStartTime": "2024-06-17T21:57:22Z",
-      "activeLiveChatId": "Cg0KC1R0UmhNZmN4ZWRzKicKGFVDYTdmaFR6LVZTRUlhR3Q4ajZqYWI2QRILVHRSaE1mY3hlZHM"
-    }
-  },
   "TwBvfetL_H4": {
     "snippet": {
       "publishedAt": "2024-06-17T15:05:57Z",
@@ -3932,18 +3935,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-18T02:00:00Z",
       "activeLiveChatId": "Cg0KC1VNM2w2TUo0TDlVKicKGFVDRmdYV1pPVVpBMm9ZSE5yNnFEbXNUURILVU0zbDZNSjRMOVU"
-    }
-  },
-  "UNvo3L3efDg": {
-    "snippet": {
-      "publishedAt": "2024-06-17T21:09:00Z",
-      "channelId": "UCtuoyOZhnxJ12pE294FdH8Q",
-      "title": "VTUBER SMP GRAND OPENING?!\u3010MINECRAFT\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-17T21:31:11Z",
-      "scheduledStartTime": "2024-06-17T21:30:00Z",
-      "activeLiveChatId": "Cg0KC1VOdm8zTDNlZkRnKicKGFVDdHVveU9aaG54SjEycEUyOTRGZEg4URILVU52bzNMM2VmRGc"
     }
   },
   "USGPvKRvgRQ": {
@@ -4553,6 +4544,7 @@
       "title": "A Message in Fire\u3010Ghost of Tsushima\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T00:00:11Z",
       "scheduledStartTime": "2024-06-18T00:00:00Z",
       "activeLiveChatId": "Cg0KC1lmaEZJdkRVZGdZKicKGFVDLTFfLWpVdS1sQUxkR245LU1kQko0URILWWZoRkl2RFVkZ1k"
     }
@@ -4966,6 +4958,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-21T16:00:00Z",
       "activeLiveChatId": "Cg0KC2FqNW1oMEFubF9jKicKGFVDX2tWSmhCUUM2VERGeXNOOVR1UFNZZxILYWo1bWgwQW5sX2M"
+    }
+  },
+  "aresmythos": {
+    "snippet": {
+      "channelId": "aresmythos",
+      "title": "\u2694\ufe0fChatting --> Enotria: The Last Song Demo! New Soulslike Game!\u2694\ufe0f | !gg !merch !socials !pp",
+      "channelTitle": "AresMythos"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T00:00:54Z",
+      "twitch": true
     }
   },
   "auCkpoNM1yE": {
@@ -6045,6 +6048,7 @@
       "title": "\u3010Bayonetta\u3011taunting you with sexy dance moves"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-17T23:59:19Z",
       "scheduledStartTime": "2024-06-18T00:00:00Z",
       "activeLiveChatId": "Cg0KC2pNbjJiakFEWHFBKicKGFVDb0FRc2MtRFEwTWpmVHAwNTlvdFFBdxILak1uMmJqQURYcUE"
     }
@@ -6437,6 +6441,7 @@
       "title": "\u3010Elden Ring\u3011We hunt more bosses\u3010Yurikago Kokone | V&U\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T00:01:04Z",
       "scheduledStartTime": "2024-06-18T00:00:00Z",
       "activeLiveChatId": "Cg0KC21DZGVWei0xaEJrKicKGFVDQi04bk50aHR1VklabmlxWE55cmhLURILbUNkZVZ6LTFoQms"
     }
