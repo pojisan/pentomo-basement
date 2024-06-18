@@ -4187,6 +4187,7 @@
       "title": "EVEN MORE ANNIVERSARY CELEBRATION!!!! DEBUT WATCHALONG AND STUFF!!!!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T01:01:15Z",
       "scheduledStartTime": "2024-06-18T01:00:00Z",
       "activeLiveChatId": "Cg0KC1Z2Z1R6OUZnRE9BKicKGFVDNjRETUFZWG80bndURmZ2TlF6a1N3URILVnZnVHo5RmdET0E"
     }
@@ -4219,6 +4220,7 @@
       "title": "\u3010Zatsudan\u3011Lillian says hello"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T00:59:56Z",
       "scheduledStartTime": "2024-06-18T01:00:00Z",
       "activeLiveChatId": "Cg0KC1dLT21MX0cxX2xBKicKGFVDamNiN1B2UEhtajNNTlV5c1ZVZUpjZxILV0tPbUxfRzFfbEE"
     }
@@ -4348,6 +4350,7 @@
       "title": "\u3010The Quarry\u3011 I DON'T KNOW ANYTHING ABOUT THIS GAME \u3010NIJISANJI EN | Ryoma Barrenwort\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T01:00:25Z",
       "scheduledStartTime": "2024-06-18T01:00:00Z",
       "activeLiveChatId": "Cg0KC1hKbDJTcG8yZlEwKicKGFVDSXpaRGlpbGNQdjB3aW1fTWJ1aXpGQRILWEpsMlNwbzJmUTA"
     }
@@ -4948,7 +4951,7 @@
   "aresmythos": {
     "snippet": {
       "channelId": "aresmythos",
-      "title": "\u2694\ufe0fChatting --> Enotria: The Last Song Demo! New Soulslike Game!\u2694\ufe0f | !gg !merch !socials !pp",
+      "title": "\u2694\ufe0fEnotria: The Last Song Demo! New Soulslike Game!\u2694\ufe0f | !gg !merch !socials !pp",
       "channelTitle": "AresMythos"
     },
     "liveStreamingDetails": {
@@ -5007,6 +5010,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-02-13T15:15:00Z",
       "activeLiveChatId": "Cg0KC2JXckt5NjVJT0FjKicKGFVDVlFFYmpBY0pSZVB4T0RWTTVtV0N2URILYldyS3k2NUlPQWM"
+    }
+  },
+  "bd6_pjKvSts": {
+    "snippet": {
+      "publishedAt": "2024-06-18T00:52:14Z",
+      "channelId": "UCzRRvwffRA57lYoYwCsnJ7A",
+      "title": "\u3010Untitled Goose Game\u3011Collab with Stronny! Geese will take over the world.\u3010VAllure\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-20T03:00:00Z",
+      "activeLiveChatId": "Cg0KC2JkNl9wakt2U3RzKicKGFVDelJSdndmZlJBNTdsWW9Zd0Nzbko3QRILYmQ2X3BqS3ZTdHM"
     }
   },
   "bhoFtV19Nwk": {
@@ -5668,6 +5682,7 @@
       "title": "\u3010ELDEN RING\u3011: I AM TARNISHED\u3010bondlive EN\u3011#vtuber #eldenring"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T00:59:59Z",
       "scheduledStartTime": "2024-06-18T01:00:00Z",
       "activeLiveChatId": "Cg0KC2diYmFBa3c0aFFBKicKGFVDWk8wQ2lySGVXWVRVTWwtN3pQRzZZZxILZ2JiYUFrdzRoUUE"
     }
@@ -6191,17 +6206,6 @@
       "activeLiveChatId": "Cg0KC2taenl3cGxYSThjKicKGFVDaEtYZDdvcUQxOHFpSVlCb1JJSFRsdxILa1p6eXdwbFhJOGM"
     }
   },
-  "kanekolumi": {
-    "snippet": {
-      "channelId": "kanekolumi",
-      "title": "sick star RETURNS!!! BLESSINGS OF NURGLE UPON YE",
-      "channelTitle": "KanekoLumi"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-17T21:01:30Z",
-      "twitch": true
-    }
-  },
   "ke16gFgamGQ": {
     "snippet": {
       "publishedAt": "2023-07-12T20:17:38Z",
@@ -6613,6 +6617,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-21T21:00:00Z",
       "activeLiveChatId": "Cg0KC25mRlBpSGt5N0RvKicKGFVDM0FZdG1NTmRKY3pDdlFOb1B5LWdqdxILbmZGUGlIa3k3RG8"
+    }
+  },
+  "ninete_en": {
+    "snippet": {
+      "channelId": "ninete_en",
+      "title": "\u3010Drops\u2705\u3011Day53\uff1a\u4e16\u306f\u5927\u706b\u529b\u6642\u4ee3\u3002",
+      "channelTitle": "\u30ca\u30a4\u30f3\u30c6\u30a3\u30fc\u30f3"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T00:58:50Z",
+      "twitch": true
     }
   },
   "nmH44fWQK6k": {
@@ -7031,6 +7046,7 @@
       "title": "\u3010ZATSU\u3011YAPPING WITH A BIT OF HOLOCURE\u3010VyVid | Eva Ananova \u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T00:59:57Z",
       "scheduledStartTime": "2024-06-18T01:00:00Z",
       "activeLiveChatId": "Cg0KC3FxSU04MTVUb1dzKicKGFVDVE5wd1d5b0xnZUotdHN4V3E3dWN2dxILcXFJTTgxNVRvV3M"
     }
@@ -7148,7 +7164,7 @@
   "rixxybrightful": {
     "snippet": {
       "channelId": "rixxybrightful",
-      "title": "Date w/ Our Replika AI Waifu!",
+      "title": "ChatGPT Interactive Novel!",
       "channelTitle": "rixxybrightful"
     },
     "liveStreamingDetails": {
@@ -7510,6 +7526,7 @@
       "title": "\u3010FOR SCIENCE!\u3011i am committing fish crimes"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T01:00:54Z",
       "scheduledStartTime": "2024-06-18T01:00:00Z",
       "activeLiveChatId": "Cg0KC3VvMHJzdmxwWVJnKicKGFVDTGRrY1R0NXZPZkdpX215dkstaU8wZxILdW8wcnN2bHBZUmc"
     }
