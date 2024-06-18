@@ -136,6 +136,7 @@
       "title": "The Yappening! Researching Minecraft Builds! \u3010Just Chatting/Zatsudan\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T08:03:04Z",
       "scheduledStartTime": "2024-06-18T08:00:00Z",
       "activeLiveChatId": "Cg0KCy1nak9Zejk1SmlZKicKGFVDTzR6TWFZQkV6ZFlJU2Zlb082aXBfURILLWdqT1l6OTVKaVk"
     }
@@ -2178,18 +2179,6 @@
       "activeLiveChatId": "Cg0KC0gySjFPTThzbUowKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILSDJKMU9NOHNtSjA"
     }
   },
-  "HESyRpxJGlk": {
-    "snippet": {
-      "publishedAt": "2024-06-17T11:03:05Z",
-      "channelId": "UC9p_lqQ0FEDz327Vgf5JwqA",
-      "title": "\u3010OVERWATCH 2 COLLAB\u3011What the Sigma"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-18T05:04:12Z",
-      "scheduledStartTime": "2024-06-18T05:00:00Z",
-      "activeLiveChatId": "Cg0KC0hFU3lScHhKR2xrKicKGFVDOXBfbHFRMEZFRHozMjdWZ2Y1SndxQRILSEVTeVJweEpHbGs"
-    }
-  },
   "HGr-svPkz40": {
     "snippet": {
       "publishedAt": "2023-07-07T19:13:28Z",
@@ -2344,18 +2333,6 @@
       "activeLiveChatId": "Cg0KC0lJWHQwM0d0ZG1nKicKGFVDUmtkRkdYd0J0eHZtOVNzZm1ObU1aQRILSUlYdDAzR3RkbWc"
     }
   },
-  "ILFCPryhv2Y": {
-    "snippet": {
-      "publishedAt": "2024-06-18T03:49:23Z",
-      "channelId": "UC727SQYUvx5pDDGQpTICNWg",
-      "title": "\u3010Overwatch 2\u3011I-I-I'M NEWBIE\u3010hololive ID 2nd Generation | Anya Melfissa\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-18T05:41:04Z",
-      "scheduledStartTime": "2024-06-18T05:30:00Z",
-      "activeLiveChatId": "Cg0KC0lMRkNQcnlodjJZKicKGFVDNzI3U1FZVXZ4NXBEREdRcFRJQ05XZxILSUxGQ1ByeWh2Mlk"
-    }
-  },
   "IMOYOC7v7KA": {
     "snippet": {
       "publishedAt": "2024-06-18T06:27:01Z",
@@ -2420,6 +2397,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-20T23:00:00Z",
       "activeLiveChatId": "Cg0KC0lvR0JrSWNjUFVRKicKGFVDVmpwRlAxX055M1BVb0UyNnI0SVRhdxILSW9HQmtJY2NQVVE"
+    }
+  },
+  "IxL7jMhDOqs": {
+    "snippet": {
+      "publishedAt": "2024-06-18T08:02:08Z",
+      "channelId": "UCoOEer2c2pn2LqPX6skNWtA",
+      "title": "TODAY WE FINISH THE CURRENT STORY!!\u3010XANDER | lucid \u2601\ufe0f\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-22T03:00:00Z",
+      "activeLiveChatId": "Cg0KC0l4TDdqTWhET3FzKicKGFVDb09FZXIyYzJwbjJMcVBYNnNrTld0QRILSXhMN2pNaERPcXM"
     }
   },
   "J09Y3gDiIk8": {
@@ -4309,18 +4297,6 @@
       "activeLiveChatId": "Cg0KC1duNVNYUjRUOUVFKicKGFVDazQtTFVtekZNRVRMdDRTbjFKODJDdxILV241U1hSNFQ5RUU"
     }
   },
-  "WwLogp9u-U0": {
-    "snippet": {
-      "publishedAt": "2024-06-18T05:56:12Z",
-      "channelId": "UCb_angfF8io1-1DrvK5k5LA",
-      "title": "\ud83e\udd8d testing new pc parts"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-18T06:43:06Z",
-      "scheduledStartTime": "2024-06-18T05:56:11Z",
-      "activeLiveChatId": "Cg0KC1d3TG9ncDl1LVUwKicKGFVDYl9hbmdmRjhpbzEtMURydks1azVMQRILV3dMb2dwOXUtVTA"
-    }
-  },
   "WzpJq5gpTJo": {
     "snippet": {
       "publishedAt": "2023-08-30T18:36:48Z",
@@ -5391,9 +5367,10 @@
     "snippet": {
       "publishedAt": "2024-06-17T02:33:00Z",
       "channelId": "UCRlQzuVeYxTDPobPN1jaVkQ",
-      "title": "\u3016Minecraft VSMP\u3017NEW SERVER FULL OF CUTE GIRLS?!\u3016Cyon \u2765 V&U\u3017"
+      "title": "\u3016Minecraft VSMP\u3017NEW SERVER FULL OF CUTE GIRLS?! (none will be online)\u3016Cyon \u2765 V&U\u3017"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T08:03:34Z",
       "scheduledStartTime": "2024-06-18T08:00:00Z",
       "activeLiveChatId": "Cg0KC2RXREF1OGlrQ3hJKicKGFVDUmxRenVWZVl4VERQb2JQTjFqYVZrURILZFdEQXU4aWtDeEk"
     }
@@ -5581,6 +5558,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-18T16:00:00Z",
       "activeLiveChatId": "Cg0KC2VkMXpsVklLUnRnKicKGFVDbHhqM0dsR3BoWlZnZDFTTFloWkttZxILZWQxemxWSUtSdGc"
+    }
+  },
+  "eliastellaria": {
+    "snippet": {
+      "channelId": "eliastellaria",
+      "title": "The Yappening! Researching Minecraft Builds! \u3010Just Chatting/Zatsudan\u3011",
+      "channelTitle": "EliaStellaria"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T08:02:23Z",
+      "twitch": true
     }
   },
   "ely1DygRnWs": {
@@ -5871,17 +5859,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-19T01:00:00Z",
       "activeLiveChatId": "Cg0KC2hZdWZHczNhV1JFKicKGFVDWElLQkxnNGZBVnRlN2pEYWZXUlJnURILaFl1ZkdzM2FXUkU"
-    }
-  },
-  "hanya": {
-    "snippet": {
-      "channelId": "hanya",
-      "title": "\ud83c\udf38 MY FIRST TIME\ud83c\udf38 DWARF FORTRESS BABY no mods? !supps !vershion",
-      "channelTitle": "Hanya"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-18T02:00:06Z",
-      "twitch": true
     }
   },
   "hi88GfuA45Y": {
@@ -6335,18 +6312,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-19T00:00:00Z",
       "activeLiveChatId": "Cg0KC2tuNGpaNnAzaENzKicKGFVDdjFUaHlFNEtWWW5uVlk4R0xmdG5vQRILa240alo2cDNoQ3M"
-    }
-  },
-  "ktK4Na5nf28": {
-    "snippet": {
-      "publishedAt": "2024-06-18T05:52:31Z",
-      "channelId": "UCpYf6C9QsP_BRf97vLuXlIA",
-      "title": "\u3010DAVE THE DIVER\u3011We Divin\u3010NIJISANJ EN | Vantacrow Bringer\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-18T06:03:45Z",
-      "scheduledStartTime": "2024-06-18T06:00:00Z",
-      "activeLiveChatId": "Cg0KC2t0SzROYTVuZjI4KicKGFVDcFlmNkM5UXNQX0JSZjk3dkx1WGxJQRILa3RLNE5hNW5mMjg"
     }
   },
   "kxXALTsHLWY": {
