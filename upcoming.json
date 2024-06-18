@@ -1027,6 +1027,7 @@
       "title": "\u3010DAVE THE DIVER\u3011 YOU'RE THE OCEAN I WANNA DIVE INTO TONIGHT"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T20:01:07Z",
       "scheduledStartTime": "2024-06-18T20:00:00Z",
       "activeLiveChatId": "Cg0KCzc5czB0SVBqMXI0KicKGFVDdS1KOHVJWHVMWmgxNmdHLWNUMW5hdxILNzlzMHRJUGoxcjQ"
     }
@@ -1135,7 +1136,8 @@
       "title": "\u3010New Model Reveal\u3011HELLOHELLOHELLOHELLO"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-18T20:00:00Z",
+      "actualStartTime": "2024-06-18T20:01:16Z",
+      "scheduledStartTime": "2024-06-18T20:01:06Z",
       "activeLiveChatId": "Cg0KCzd2dS1ST2dTYVRrKicKGFVDc0ZnZGF6TWVRdGY4bEh2SVNCMURMURILN3Z1LVJPZ1NhVGs"
     }
   },
@@ -3032,6 +3034,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-12-31T16:00:00Z",
       "activeLiveChatId": "Cg0KC01ObVkyMk1QV2Q4KicKGFVDa3dCUjllNXJDSTJnbW1sUXktYnpmURILTU5tWTIyTVBXZDg"
+    }
+  },
+  "MSRjv58rsOk": {
+    "snippet": {
+      "publishedAt": "2024-06-18T19:52:21Z",
+      "channelId": "UCQY5mpFtPyWJZHbjaxmHnzw",
+      "title": "\u3010Gensou Skydrift ft \u202aRhubarb\u202c\u3011Drift King\u3010V&U | GEN4\u3011#gensouskydrift #shortsfeed #shorts #shortslive"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-18T20:00:00Z",
+      "activeLiveChatId": "Cg0KC01TUmp2NThyc09rKicKGFVDUVk1bXBGdFB5V0paSGJqYXhtSG56dxILTVNSanY1OHJzT2s"
     }
   },
   "MZW1Am-2KC4": {
@@ -5006,7 +5019,8 @@
       "title": "\u3010Mid-Week Zatsu\u3011Melodites, assemble!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-18T20:00:00Z",
+      "actualStartTime": "2024-06-18T19:57:46Z",
+      "scheduledStartTime": "2024-06-18T19:57:26Z",
       "activeLiveChatId": "Cg0KC19UUjZTYXNsLW1FKicKGFVDbWwtcjVhVHM0SkdlRWVYVUZuWjdlURILX1RSNlNhc2wtbUU"
     }
   },
@@ -5434,6 +5448,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-21T22:00:00Z",
       "activeLiveChatId": "Cg0KC2NYc0pIaHdlcjhVKicKGFVDcW1TWWtYTHdzTDB6RWFyNUdvb1lrZxILY1hzSkhod2VyOFU"
+    }
+  },
+  "clothovmelodiam": {
+    "snippet": {
+      "channelId": "clothovmelodiam",
+      "title": "\u3010Mid-Week Zatsu\u3011Melodites, assemble!",
+      "channelTitle": "clothovmelodiam"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T19:57:41Z",
+      "twitch": true
     }
   },
   "cuVBPt8TR0E": {
