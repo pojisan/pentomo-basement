@@ -1061,6 +1061,7 @@
       "title": "Happy 6k subscribers!!\u3010ENG / \u65e5\u672c\u8a9e / FIL OK\u3011 | #vtuber"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T14:03:19Z",
       "scheduledStartTime": "2024-06-18T14:00:00Z",
       "activeLiveChatId": "Cg0KCzdZc2RYNUtIUzhnKicKGFVDNFdzTEVfeGRybmQwNUQwNUdvOW9YdxILN1lzZFg1S0hTOGc"
     }
@@ -2781,7 +2782,8 @@
       "title": "\u3010HOLOEN JACKBOX COLLAB\u3011just a fun little party...! #hololiveenglish"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-18T14:00:00Z",
+      "actualStartTime": "2024-06-18T14:02:12Z",
+      "scheduledStartTime": "2024-06-18T14:01:35Z",
       "activeLiveChatId": "Cg0KC0wxbmFVZkc1RTdnKicKGFVDTF9xaGd0T3kwZHkxQWdwOHZreVNRZxILTDFuYVVmRzVFN2c"
     }
   },
@@ -3199,6 +3201,7 @@
       "title": "\u3010 #\u306b\u3058GTA \u30114\u65e5\u76ee\u3002\u30ed\u30b9\u30b5\u30f3\u30c8\u30b9\u306e\u5e73\u548c\u3092\u5b88\u308a\u305f\u3044\u3010\u306b\u3058\u3055\u3093\u3058/\u30bd\u30d5\u30a3\u30a2\u30fb\u30f4\u30a1\u30ec\u30f3\u30bf\u30a4\u30f3\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T14:02:27Z",
       "scheduledStartTime": "2024-06-18T14:00:00Z",
       "activeLiveChatId": "Cg0KC053RXBfWXRsTWk0KicKGFVDaXZ3UGxPcDBvam5NUFpqNXBOT1BQQRILTndFcF9ZdGxNaTQ"
     }
@@ -3751,6 +3754,7 @@
       "title": "\u3010FNAF SECURITY BREACH\u3011we're starting Ruin DLC FINALLY !\ud83d\udca6\u3010NIJISANJI EN | Reimu Endou\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T14:03:34Z",
       "scheduledStartTime": "2024-06-18T14:00:00Z",
       "activeLiveChatId": "Cg0KC1NLV0Rwbk1hODFVKicKGFVDQlVSTThTNExIN2NSWjBDbGVhOVJEQRILU0tXRHBuTWE4MVU"
     }
@@ -5382,6 +5386,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-21T22:00:00Z",
       "activeLiveChatId": "Cg0KC2NYc0pIaHdlcjhVKicKGFVDcW1TWWtYTHdzTDB6RWFyNUdvb1lrZxILY1hzSkhod2VyOFU"
+    }
+  },
+  "carneliaasahi": {
+    "snippet": {
+      "channelId": "carneliaasahi",
+      "title": "Our precious birb is feeling sick todei so we WuWa-ing and bing jiling",
+      "channelTitle": "CarneliaAsahi"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T14:05:06Z",
+      "twitch": true
     }
   },
   "clioaite": {
@@ -7556,17 +7571,6 @@
       "activeLiveChatId": "Cg0KC3JnZGk4YnRlUWdjKicKGFVDOHpnS2FTOExpeUwyOG1kaFJDMm5CZxILcmdkaThidGVRZ2M"
     }
   },
-  "riyu_thelamb": {
-    "snippet": {
-      "channelId": "riyu_thelamb",
-      "title": "Im gonna make you pregnant\u3010PROJECT VERSES\u3011",
-      "channelTitle": "riyu_thelamb"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-18T10:30:02Z",
-      "twitch": true
-    }
-  },
   "rlF0N-430Lw": {
     "snippet": {
       "publishedAt": "2024-06-18T10:32:44Z",
@@ -8032,6 +8036,17 @@
       "activeLiveChatId": "Cg0KC3ZTalRGTW9WN3F3KicKGFVDWmw5MndNaXBqWUZjMVVsbTlZeTY1ZxILdlNqVEZNb1Y3cXc"
     }
   },
+  "vT3Q6NsqEK8": {
+    "snippet": {
+      "publishedAt": "2024-06-18T14:01:38Z",
+      "channelId": "UC4amMWqtAfoTYUGqzy1_Z5Q",
+      "title": "\u3010 Dead By Daylight \u3011Relaxing by Feeling Scared\u3010 VOLS \u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-18T16:00:00Z",
+      "activeLiveChatId": "Cg0KC3ZUM1E2TnNxRUs4KicKGFVDNGFtTVdxdEFmb1RZVUdxenkxX1o1URILdlQzUTZOc3FFSzg"
+    }
+  },
   "vbhfY2vFttc": {
     "snippet": {
       "publishedAt": "2023-12-10T22:27:39Z",
@@ -8480,6 +8495,7 @@
       "title": "\u3010AMERICAN TRUCK SIMULATOR\u3011 TTS voice is back \u3010NIJISANJI  EN | Enna Alouette\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T14:10:51Z",
       "scheduledStartTime": "2024-06-18T14:00:00Z",
       "activeLiveChatId": "Cg0KC3pLd0YwcnJwWkVVKicKGFVDUjZxaHNMcG42MldWeENCSzFka0xvdxILekt3RjBycnBaRVU"
     }
