@@ -353,7 +353,8 @@
       "title": "\u3010Master Duel\u3011I'm streaming more that 5.5 hours actually"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-19T18:25:39Z",
+      "actualStartTime": "2024-06-19T18:35:48Z",
+      "scheduledStartTime": "2024-06-19T18:35:34Z",
       "activeLiveChatId": "Cg0KCzE1OUU4V2xLQzk4KicKGFVDN3NxYlE0XzVfRUx6LU92LWJWQmk4QRILMTU5RThXbEtDOTg"
     }
   },
@@ -2508,18 +2509,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-20T15:00:00Z",
       "activeLiveChatId": "Cg0KC0lJWHQwM0d0ZG1nKicKGFVDUmtkRkdYd0J0eHZtOVNzZm1ObU1aQRILSUlYdDAzR3RkbWc"
-    }
-  },
-  "IJ7-F-TDdRo": {
-    "snippet": {
-      "publishedAt": "2024-06-19T03:01:35Z",
-      "channelId": "UC7sqbQ4_5_ELz-Ov-bVBi8A",
-      "title": "\u3010Various\u30115.5 Hour Variety Stream #2!"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-19T13:00:22Z",
-      "scheduledStartTime": "2024-06-19T13:00:12Z",
-      "activeLiveChatId": "Cg0KC0lKNy1GLVREZFJvKicKGFVDN3NxYlE0XzVfRUx6LU92LWJWQmk4QRILSUo3LUYtVERkUm8"
     }
   },
   "IS1R9yifjk4": {
@@ -5132,6 +5121,17 @@
       "activeLiveChatId": "Cg0KC2EwYlhzbjU2WlhJKicKGFVDTGRrY1R0NXZPZkdpX215dkstaU8wZxILYTBiWHNuNTZaWEk"
     }
   },
+  "a3OrJawUMMg": {
+    "snippet": {
+      "publishedAt": "2024-06-19T18:38:43Z",
+      "channelId": "UCK4FZd60ttMhI30EOtE4aEQ",
+      "title": "\u3010Honkai Star Rail\u3011 Finally it's gacha time ! !  !"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-19T18:40:00Z",
+      "activeLiveChatId": "Cg0KC2EzT3JKYXdVTU1nKicKGFVDSzRGWmQ2MHR0TWhJMzBFT3RFNGFFURILYTNPckphd1VNTWc"
+    }
+  },
   "a7viiXWFInA": {
     "snippet": {
       "publishedAt": "2023-02-10T06:56:53Z",
@@ -5898,7 +5898,7 @@
       "title": "\u3010Baldurs Gate 3 ft. Meeta | P.2\u3011BALLS GAY\u3010V&U | GEN4\u3011#baldursgate3"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-19T19:30:00Z",
+      "scheduledStartTime": "2024-06-19T20:00:00Z",
       "activeLiveChatId": "Cg0KC2dGWnFxclNjUjJZKicKGFVDUVk1bXBGdFB5V0paSGJqYXhtSG56dxILZ0ZacXFyU2NSMlk"
     }
   },
@@ -7169,6 +7169,7 @@
       "title": "Keep Chasing!! - Silent Hill 2"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T18:32:11Z",
       "scheduledStartTime": "2024-06-19T18:30:00Z",
       "activeLiveChatId": "Cg0KC3BtTXNpbnpOLTI0KicKGFVDVm9fS2dQTnNES3hId3ppYjd1YXJDdxILcG1Nc2luek4tMjQ"
     }
@@ -7365,6 +7366,17 @@
       "activeLiveChatId": "Cg0KC3FrR0xzR25jMWdNKicKGFVDc3d2ZDZfWVdtZDZyaVJrLThvVC1zQRILcWtHTHNHbmMxZ00"
     }
   },
+  "qkqWiIoBIkQ": {
+    "snippet": {
+      "publishedAt": "2024-06-19T05:00:12Z",
+      "channelId": "UClpOEZoIYhxIY6n5NNGaPbA",
+      "title": "[ANNIVERSARY] 3 Years of Phase Connect! - Origins Collab"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-21T00:00:00Z",
+      "activeLiveChatId": "Cg0KC3FrcVdpSW9CSWtRKicKGFVDbHBPRVpvSVloeElZNm41Tk5HYVBiQRILcWtxV2lJb0JJa1E"
+    }
+  },
   "qlRehv1USvQ": {
     "snippet": {
       "publishedAt": "2023-01-19T14:36:30Z",
@@ -7548,6 +7560,17 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC3JuU2c3MlYzaXQ0KicKGFVDcFlmNkM5UXNQX0JSZjk3dkx1WGxJQRILcm5TZzcyVjNpdDQ"
+    }
+  },
+  "rrFOi0Ok8CQ": {
+    "snippet": {
+      "publishedAt": "2024-06-19T18:39:45Z",
+      "channelId": "UC99iAcajhltPg-TUStqg8dw",
+      "title": "\u3010ELDEN RING\u3011Beginning of the Tarnished Cat's Journey | Part 1\u3010VOLs\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-20T05:00:00Z",
+      "activeLiveChatId": "Cg0KC3JyRk9pME9rOENRKicKGFVDOTlpQWNhamhsdFBnLVRVU3RxZzhkdxILcnJGT2kwT2s4Q1E"
     }
   },
   "rtixs6mAErE": {
