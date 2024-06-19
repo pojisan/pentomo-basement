@@ -108,6 +108,17 @@
       "activeLiveChatId": "Cg0KCy1TMTNaVWlOT05vKicKGFVDNjc4c0pucVR3bHNXd05rMlJXUksyZxILLVMxM1pVaU5PTm8"
     }
   },
+  "-T3a322gHng": {
+    "snippet": {
+      "publishedAt": "2024-06-19T21:12:19Z",
+      "channelId": "UCVPBGmlsC8S-TNa_IEVcz1A",
+      "title": "\ud83d\udd2a\u3010WUTHERING WAVES\u3011#3 INTENSE GASHAPON\u3010Yume+ | Raein Clowd\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-20T00:00:00Z",
+      "activeLiveChatId": "Cg0KCy1UM2EzMjJnSG5nKicKGFVDVlBCR21sc0M4Uy1UTmFfSUVWY3oxQRILLVQzYTMyMmdIbmc"
+    }
+  },
   "-TVGNELRdjo": {
     "snippet": {
       "publishedAt": "2024-05-29T20:30:52Z",
@@ -1479,6 +1490,17 @@
       "activeLiveChatId": "Cg0KC0JkNDRRYmNlSE00KicKGFVDX3Q3d3RTY1ZMazg1SWFEOWpZU1JBQRILQmQ0NFFiY2VITTQ"
     }
   },
+  "Bf7WOpnmJt8": {
+    "snippet": {
+      "publishedAt": "2024-06-19T22:56:05Z",
+      "channelId": "UC7sqbQ4_5_ELz-Ov-bVBi8A",
+      "title": "\u3010Helltaker\u3011FInishing the game!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-20T13:00:15Z",
+      "activeLiveChatId": "Cg0KC0JmN1dPcG5tSnQ4KicKGFVDN3NxYlE0XzVfRUx6LU92LWJWQmk4QRILQmY3V09wbm1KdDg"
+    }
+  },
   "Bj74IRH_E34": {
     "snippet": {
       "publishedAt": "2024-06-19T22:06:36Z",
@@ -1785,6 +1807,7 @@
       "title": "\u3010Bear & Breakfast\u3011bwuuuh\u3010Yume+ | Mero Umiko\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T23:00:29Z",
       "scheduledStartTime": "2024-06-19T23:00:00Z",
       "activeLiveChatId": "Cg0KC0VBVkNpYlAwbjZBKicKGFVDOVNXSXpIUDA3UEwxeTZjVTh3a0R3QRILRUFWQ2liUDBuNkE"
     }
@@ -2221,6 +2244,7 @@
       "title": "\u3010Handcam Zatsu\u3011Mystery toilet and DIY Candy kits!\u3010VyVid | Bunana \u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T22:54:32Z",
       "scheduledStartTime": "2024-06-19T23:00:00Z",
       "activeLiveChatId": "Cg0KC0dqc2N0WjBmRXl3KicKGFVDVmpwRlAxX055M1BVb0UyNnI0SVRhdxILR2pzY3RaMGZFeXc"
     }
@@ -3869,6 +3893,7 @@
       "title": "\u3010ELECTROSWING\u3011Coconut Mall but Electroswing Attempt #zhunisession"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T23:00:37Z",
       "scheduledStartTime": "2024-06-19T23:00:00Z",
       "activeLiveChatId": "Cg0KC1NOb1pnRURDTkZ3KicKGFVDR3V3WWxGZGRMaEN3akpyeFVZdXB4QRILU05vWmdFRENORnc"
     }
@@ -4014,18 +4039,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-03-26T04:00:00Z",
       "activeLiveChatId": "Cg0KC1Q2cUh1a1dST0c4KicKGFVDNFlYMlp0NjZSNHVZcUxIRmt3UDFhdxILVDZxSHVrV1JPRzg"
-    }
-  },
-  "TCUcfYlF5f0": {
-    "snippet": {
-      "publishedAt": "2024-06-19T09:00:51Z",
-      "channelId": "UCZIFph1bYyGxmFkkNNLAKdA",
-      "title": "I take ONE day off"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-19T20:43:06Z",
-      "scheduledStartTime": "2024-06-19T20:30:00Z",
-      "activeLiveChatId": "Cg0KC1RDVWNmWWxGNWYwKicKGFVDWklGcGgxYll5R3htRmtrTk5MQUtkQRILVENVY2ZZbEY1ZjA"
     }
   },
   "THiHy_sPTAI": {
@@ -5292,6 +5305,17 @@
       "activeLiveChatId": "Cg0KC2NaLU85S19RT3VzKicKGFVDSTRQTGZ1aUw5akZPcHNFSUEyMEtqZxILY1otTzlLX1FPdXM"
     }
   },
+  "clothovmelodiam": {
+    "snippet": {
+      "channelId": "clothovmelodiam",
+      "title": "\u3010UNARCHIVED KARAOKE\u3011Have we finally fixed our settings...?",
+      "channelTitle": "clothovmelodiam"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T22:55:46Z",
+      "twitch": true
+    }
+  },
   "cuVBPt8TR0E": {
     "snippet": {
       "publishedAt": "2024-06-12T22:22:10Z",
@@ -5430,6 +5454,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-23T13:00:00Z",
       "activeLiveChatId": "Cg0KC2RlYnZXSGcxRGdFKicKGFVDVi05ZGd0VlhIbXF2elk5cWR2b0dZQRILZGVidldIZzFEZ0U"
+    }
+  },
+  "dee_the_sphinx": {
+    "snippet": {
+      "channelId": "dee_the_sphinx",
+      "title": "\ud83d\udd06 SNEAK PEEKS?!?! \ud83d\udd06 !discord [Vtuber]",
+      "channelTitle": "Dee_the_Sphinx"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T22:56:21Z",
+      "twitch": true
     }
   },
   "dgB6T_6RNI8": {
@@ -5595,6 +5630,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-01-09T04:00:00Z",
       "activeLiveChatId": "Cg0KC2ViZWhXakVBd2I0KicKGFVDbjJMc29zdTgyeUU5UFVtVkxGQlpCURILZWJlaFdqRUF3YjQ"
+    }
+  },
+  "essie_ch": {
+    "snippet": {
+      "channelId": "essie_ch",
+      "title": "\u3010MINECRAFT VSMP\u3011exploring the biig vtuber server for the first time!",
+      "channelTitle": "essie_ch"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T23:02:12Z",
+      "twitch": true
     }
   },
   "eyfASetr4cU": {
@@ -5850,6 +5896,7 @@
       "title": "AUTISM TEST HIGH SCORE"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T23:01:40Z",
       "scheduledStartTime": "2024-06-19T23:00:00Z",
       "activeLiveChatId": "Cg0KC2hUNEVucGdreVFnKicKGFVDZzdzVy1oMVBVb3dkaVI1SzRIbEJldxILaFQ0RW5wZ2t5UWc"
     }
@@ -6193,6 +6240,7 @@
       "title": "\u3010DEAL OR NO DEAL\u3011WE'RE GOING TO VEGAS WITH THIS ONE HOWIE\u3010Maid Mint Fantome\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T23:02:17Z",
       "scheduledStartTime": "2024-06-19T23:00:00Z",
       "activeLiveChatId": "Cg0KC2p1WjkyQWtjRjFnKicKGFVDY0hIa0o5OGVTZmE1YWowbWRUd3dMURILanVaOTJBa2NGMWc"
     }
@@ -6548,6 +6596,7 @@
       "title": "LAVA HOTEL BUILDING DAY \ud83d\udd25 #2 MINECRAFT VSMP\u3010MIKI HITSUGI | SPECIALITE\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T22:57:14Z",
       "scheduledStartTime": "2024-06-19T23:00:00Z",
       "activeLiveChatId": "Cg0KC21QNEtHWlQ3OERnKicKGFVDSHQ0RjMtLUhxMHNOWFA2REVkbFNtZxILbVA0S0daVDc4RGc"
     }
@@ -6594,6 +6643,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2026-05-30T14:45:00Z",
       "activeLiveChatId": "Cg0KC21fSlMxY2N2RWs4KicKGFVDX3Q3d3RTY1ZMazg1SWFEOWpZU1JBQRILbV9KUzFjY3ZFazg"
+    }
+  },
+  "magi_41": {
+    "snippet": {
+      "channelId": "magi_41",
+      "title": "Shipgirl's FIRST WAR THUNDER EXPERIENCE!! (be patient plz ;u;) || !vfleet !socials",
+      "channelTitle": "Magi_41"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T22:58:46Z",
+      "twitch": true
     }
   },
   "margo": {
@@ -6825,18 +6885,6 @@
       "activeLiveChatId": "Cg0KC280MGI1SFoxVHJRKicKGFVDY1BjLTVPckxialZCZ1EtemlFV1BTURILbzQwYjVIWjFUclE"
     }
   },
-  "oDbLUO9Cg-c": {
-    "snippet": {
-      "publishedAt": "2024-06-18T00:03:17Z",
-      "channelId": "UCbZZlqASU668-wyW1K2kYBw",
-      "title": "\u3010Assetto Corsa\u3011Fast Track Delivery Trucking  -  The Training Arc"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-19T21:16:39Z",
-      "scheduledStartTime": "2024-06-19T21:00:00Z",
-      "activeLiveChatId": "Cg0KC29EYkxVTzlDZy1jKicKGFVDYlpabHFBU1U2Njgtd3lXMUsya1lCdxILb0RiTFVPOUNnLWM"
-    }
-  },
   "oDlM4GJ8YZo": {
     "snippet": {
       "publishedAt": "2024-06-18T05:48:16Z",
@@ -6976,6 +7024,16 @@
       "activeLiveChatId": "Cg0KC3BBcEpNQm9HMkhNKicKGFVDa0o2NFcwSjdSMHpDU0FzWmZSSWhWURILcEFwSk1Cb0cySE0"
     }
   },
+  "pGgphEEQNNI": {
+    "snippet": {
+      "publishedAt": "2024-06-01T10:17:34Z",
+      "channelId": "UCKpiJQAX_Gnc5rjRB8yXT0A",
+      "title": "\u3010IdleOn\u3011Idling Idol Idle"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-07-16T13:00:00Z"
+    }
+  },
   "pJ2oAhazYYY": {
     "snippet": {
       "publishedAt": "2024-06-18T19:49:40Z",
@@ -7016,6 +7074,29 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC3BhWFNIZlV2WDFnKicKGFVDVXI4TzZaOEp5QWc4M0tKYmNfdV9iURILcGFYU0hmVXZYMWc"
+    }
+  },
+  "pjKk-fvgSMs": {
+    "snippet": {
+      "publishedAt": "2024-06-19T20:00:56Z",
+      "channelId": "UCC8rgbLSCXs7nKbbMiOyZyg",
+      "title": "Minecraft w/ SoraOrionOkami"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T20:01:39Z",
+      "scheduledStartTime": "2024-06-19T20:00:55Z",
+      "activeLiveChatId": "Cg0KC3BqS2stZnZnU01zKicKGFVDQzhyZ2JMU0NYczduS2JiTWlPeVp5ZxILcGpLay1mdmdTTXM"
+    }
+  },
+  "poseidonmythos": {
+    "snippet": {
+      "channelId": "poseidonmythos",
+      "title": "\u2500\ud83d\udd31 IM TIRED BOSS! \ud83d\udd31 YAPPING + PLAYING ROCK OF AGES LATER! \u250a !merch !gsupps !throne !discord !socials",
+      "channelTitle": "PoseidonMythos"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T23:00:55Z",
+      "twitch": true
     }
   },
   "pw5SZFBlPTM": {
@@ -7156,6 +7237,7 @@
       "title": "\u3010MINECRAFT VSMP\u3011exploring the biig vtuber server for the first time!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T23:02:50Z",
       "scheduledStartTime": "2024-06-19T23:00:00Z",
       "activeLiveChatId": "Cg0KC3FVemZEcEdGQmp3KicKGFVDa1dud1ZBWUdzaFRFVkRQWjQ1MWtCURILcVV6ZkRwR0ZCanc"
     }
@@ -7252,6 +7334,7 @@
       "title": "Habbo is Back in 2024??"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T23:01:45Z",
       "scheduledStartTime": "2024-06-19T23:00:00Z",
       "activeLiveChatId": "Cg0KC3FtZUpEbnRVcHpVKicKGFVDVm9fS2dQTnNES3hId3ppYjd1YXJDdxILcW1lSkRudFVwelU"
     }
@@ -7274,6 +7357,7 @@
       "title": "\u3010Collab\u3011 2 Truths 1 Lie w/ @KayaNishikino  \u3010Yuno Hanaki\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T23:04:02Z",
       "scheduledStartTime": "2024-06-19T23:00:00Z",
       "activeLiveChatId": "Cg0KC3FzRXBuNC02a2tjKicKGFVDWmw5MndNaXBqWUZjMVVsbTlZeTY1ZxILcXNFcG40LTZra2M"
     }
@@ -7798,6 +7882,16 @@
       "activeLiveChatId": "Cg0KC3R6eTZzUU5LU0s0KicKGFVDMXV6TVo3eF9IZ3VuNXQ4Sjl1RmFudxILdHp5NnNRTktTSzQ"
     }
   },
+  "uIloWxQ3Rpo": {
+    "snippet": {
+      "publishedAt": "2024-06-19T22:53:40Z",
+      "channelId": "UCoSrY_IQQVpmIRZ9Xf-y93g",
+      "title": "\u3010SHARK CITY\u30113D BIRTHDAY LIVE!  \ud83d\udc1f #sharkcity3D"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-21T01:00:00Z"
+    }
+  },
   "uJz503gJih8": {
     "snippet": {
       "publishedAt": "2024-06-17T05:23:15Z",
@@ -8230,6 +8324,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-07-01T19:00:00Z",
       "activeLiveChatId": "Cg0KC3haV2t5Ym8wQ19FKicKGFVDSTRQTGZ1aUw5akZPcHNFSUEyMEtqZxILeFpXa3libzBDX0U"
+    }
+  },
+  "xZp5cuPthW0": {
+    "snippet": {
+      "publishedAt": "2024-06-19T19:54:47Z",
+      "channelId": "UC9NNMwafy9quvNWafFukNDw",
+      "title": "\ud83d\udde1\ufe0fCan YOU Help Me Beat TERRARIA???"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-20T00:00:00Z",
+      "activeLiveChatId": "Cg0KC3hacDVjdVB0aFcwKicKGFVDOU5OTXdhZnk5cXV2TldhZkZ1a05EdxILeFpwNWN1UHRoVzA"
     }
   },
   "xcdlTH2FZEo": {

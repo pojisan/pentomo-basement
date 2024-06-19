@@ -51,7 +51,8 @@
     "snippet": {
       "publishedAt": "2024-03-20T08:33:02Z",
       "channelId": "UCK4FZd60ttMhI30EOtE4aEQ",
-      "title": "\u3010TEAMFIGHT TACTICS\u3011 NEW SEASON LECHUGO"
+      "title": "\u3010TEAMFIGHT TACTICS\u3011 NEW SEASON LECHUGO",
+      "private": true
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-03-20T06:10:00Z",
@@ -63,7 +64,8 @@
     "snippet": {
       "publishedAt": "2024-03-14T21:19:08Z",
       "channelId": "UCK4FZd60ttMhI30EOtE4aEQ",
-      "title": "\u3010PIANO\u3011 Little Mermaid Lofi's Piano Practice"
+      "title": "\u3010PIANO\u3011 Little Mermaid Lofi's Piano Practice",
+      "private": true
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-03-14T07:04:47Z",
@@ -75,7 +77,8 @@
     "snippet": {
       "publishedAt": "2024-03-13T20:13:40Z",
       "channelId": "UCK4FZd60ttMhI30EOtE4aEQ",
-      "title": "\u3010TEAMFIGHT TACTICS\u3011 Lechuugo TFT"
+      "title": "\u3010TEAMFIGHT TACTICS\u3011 Lechuugo TFT",
+      "private": true
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-03-13T06:05:06Z",
@@ -87,7 +90,8 @@
     "snippet": {
       "publishedAt": "2024-03-12T08:20:06Z",
       "channelId": "UCK4FZd60ttMhI30EOtE4aEQ",
-      "title": "\u3010PORTAL KNIGHTS\u3011 Lofi : The Best Elf Archer"
+      "title": "\u3010PORTAL KNIGHTS\u3011 Lofi : The Best Elf Archer",
+      "private": true
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-03-12T05:51:45Z",
@@ -99,7 +103,8 @@
     "snippet": {
       "publishedAt": "2024-03-07T18:27:52Z",
       "channelId": "UCK4FZd60ttMhI30EOtE4aEQ",
-      "title": "\u3010TEAMFIGHT TACTICSS\u3011 HELLOo0Oo0O0o"
+      "title": "\u3010TEAMFIGHT TACTICSS\u3011 HELLOo0Oo0O0o",
+      "private": true
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-03-07T04:36:55Z",
@@ -3329,8 +3334,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-19T18:48:27Z",
       "actualEndTime": "2024-06-19T19:08:43Z",
-      "scheduledStartTime": "2024-06-19T18:40:00Z",
-      "activeLiveChatId": "Cg0KC2EzT3JKYXdVTU1nKicKGFVDSzRGWmQ2MHR0TWhJMzBFT3RFNGFFURILYTNPckphd1VNTWc"
+      "scheduledStartTime": "2024-06-19T18:40:00Z"
     }
   }
 }
