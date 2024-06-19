@@ -71,6 +71,7 @@
       "title": "\u3010\u98f2\u9152\u96d1\u8ac7\u3011\u3059\u3000\u3054\u3000\u3044\u3000\u7121\u3000\u7b56\u3010#\u5deb\u30ed\u30ad/Phase Connect\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T14:00:58Z",
       "scheduledStartTime": "2024-06-19T14:00:00Z",
       "activeLiveChatId": "Cg0KCy03OGJ4OHpyY3lRKicKGFVDdWNKWUxKU0VGUlJmVjJDQV9KR0hJURILLTc4Yng4enJjeVE"
     }
@@ -760,6 +761,7 @@
       "title": "\u3010HONKAI STAR RAIL\u3011AI WANT HANABI \u3010Ai Shinju\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T14:00:28Z",
       "scheduledStartTime": "2024-06-19T14:00:00Z",
       "activeLiveChatId": "Cg0KCzRGdFNIalFFbVJzKicKGFVDN1RDQ3R2ckV1OHFfUzVPdFJKaC1hURILNEZ0U0hqUUVtUnM"
     }
@@ -1171,7 +1173,8 @@
       "title": "\u3010FUWAMOCO MORNING\u3011episode 101 \ud83d\udc3e #FWMCMORNING"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-19T15:00:00Z"
+      "scheduledStartTime": "2024-06-19T15:00:00Z",
+      "activeLiveChatId": "Cg0KCzdQLWdGWHlhNVU4KicKGFVDdDlIX1JwUXpoeHpseUJ4RnFyZEhxQRILN1AtZ0ZYeWE1VTg"
     }
   },
   "7PC11e3umPE": {
@@ -1257,6 +1260,7 @@
       "title": "\u3010MYTH 1BLOCK MINECRAFT\u3011Day 6, IRON FARM & ENCHANTING! Last steps! #MythOneBlock"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T13:58:23Z",
       "scheduledStartTime": "2024-06-19T14:00:00Z",
       "activeLiveChatId": "Cg0KCzg0YTVaRFBKaUh3KicKGFVDSHN4NEhxYS0xT1JqUVRoOVRZRGh3dxILODRhNVpEUEppSHc"
     }
@@ -1754,6 +1758,7 @@
       "title": "2.3 UPDATE STORY STORY STORY | Honkai: Star Rail"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T13:59:18Z",
       "scheduledStartTime": "2024-06-19T14:00:00Z",
       "activeLiveChatId": "Cg0KC0RQQnpINnpSa3BnKicKGFVDb05oejRPcXl4ZEV1dWZtRXo4ZW95QRILRFBCekg2elJrcGc"
     }
@@ -4739,6 +4744,17 @@
       "activeLiveChatId": "Cg0KC1hTM1B0QzByWHMwKicKGFVDQzRoakpwX010dHdmWmN1V2MwT3BWURILWFMzUHRDMHJYczA"
     }
   },
+  "X__saeCZU7w": {
+    "snippet": {
+      "publishedAt": "2024-06-19T13:58:48Z",
+      "channelId": "UCaxiDe_TuMLXkwRMVLm5VwQ",
+      "title": "today, the chat is free. tomorrow, who knows? (it's still free)"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-20T03:00:00Z",
+      "activeLiveChatId": "Cg0KC1hfX3NhZUNaVTd3KicKGFVDYXhpRGVfVHVNTFhrd1JNVkxtNVZ3URILWF9fc2FlQ1pVN3c"
+    }
+  },
   "XmWz5eqcTYY": {
     "snippet": {
       "publishedAt": "2023-05-21T05:06:33Z",
@@ -5140,7 +5156,8 @@
       "title": "\u3010HOLOMYTH MINECRAFT\u3011shinigami LOVE golden apples (part 3)"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-19T14:00:00Z",
+      "actualStartTime": "2024-06-19T13:59:43Z",
+      "scheduledStartTime": "2024-06-19T13:59:05Z",
       "activeLiveChatId": "Cg0KC190cGI0eU4ydG1RKicKGFVDTF9xaGd0T3kwZHkxQWdwOHZreVNRZxILX3RwYjR5TjJ0bVE"
     }
   },
@@ -6725,17 +6742,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-20T01:00:00Z",
       "activeLiveChatId": "Cg0KC2x0ZUFTWmtpSmxBKicKGFVDTEtVWDY1RFV5blgzYXpYakJGaDJDQRILbHRlQVNaa2lKbEE"
-    }
-  },
-  "lua_rehope": {
-    "snippet": {
-      "channelId": "lua_rehope",
-      "title": "\u2756TroubleShooting \u2756 The stream",
-      "channelTitle": "Lua_ReHOPE"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-19T13:08:45Z",
-      "twitch": true
     }
   },
   "lymzkbD9NVI": {
@@ -8430,9 +8436,10 @@
     "snippet": {
       "publishedAt": "2024-06-19T12:33:58Z",
       "channelId": "UCVmhg4wcTVpjyCoKDY59mYw",
-      "title": "\u3010FFXIV\u3011MSQ MUST BE DONE! + Chatting\u3010Reina Ronronea | globie\u3011"
+      "title": "\u3010FFXIV\u3011CHILLING FFXIV! LEVELING LEVELING!!\u3010Reina Ronronea | globie\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T13:59:40Z",
       "scheduledStartTime": "2024-06-19T14:00:00Z",
       "activeLiveChatId": "Cg0KC3hQVnJsa1NSMkRvKicKGFVDVm1oZzR3Y1RWcGp5Q29LRFk1OW1ZdxILeFBWcmxrU1IyRG8"
     }
