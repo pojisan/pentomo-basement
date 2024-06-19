@@ -594,6 +594,18 @@
       "activeLiveChatId": "Cg0KCzNBb3puU2RGbVBBKicKGFVDelJSdndmZlJBNTdsWW9Zd0Nzbko3QRILM0Fvem5TZEZtUEE"
     }
   },
+  "3CWMoLdqweQ": {
+    "snippet": {
+      "publishedAt": "2024-06-19T03:33:22Z",
+      "channelId": "UCu1INzefw3R7M9-3QEHYmMQ",
+      "title": "GUERILLA KARAOKE SINGING STREAM!!!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T04:03:39Z",
+      "scheduledStartTime": "2024-06-19T03:45:00Z",
+      "activeLiveChatId": "Cg0KCzNDV01vTGRxd2VRKicKGFVDdTFJTnplZnczUjdNOS0zUUVIWW1NURILM0NXTW9MZHF3ZVE"
+    }
+  },
   "3Dm-bqdTn4g": {
     "snippet": {
       "publishedAt": "2023-01-04T08:17:47Z",
@@ -1506,18 +1518,6 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC0NTckNwMGo0WkgwKicKGFVDS3BpSlFBWF9HbmM1cmpSQjh5WFQwQRILQ1NyQ3AwajRaSDA"
-    }
-  },
-  "CUJ6HTrKN1U": {
-    "snippet": {
-      "publishedAt": "2024-06-18T20:24:12Z",
-      "channelId": "UCk2k1y-d24nFyVCvyxnAaYA",
-      "title": "Return to the BIGGEST VTuber Minecraft SMP"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-18T22:00:32Z",
-      "scheduledStartTime": "2024-06-18T22:00:00Z",
-      "activeLiveChatId": "Cg0KC0NVSjZIVHJLTjFVKicKGFVDazJrMXktZDI0bkZ5VkN2eXhuQWFZQRILQ1VKNkhUcktOMVU"
     }
   },
   "CXufYiZra-A": {
@@ -3307,6 +3307,18 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-07-31T15:59:00Z",
       "activeLiveChatId": "Cg0KC1BQRUFXeWxvUkowKicKGFVDNjh3NHo2V2l2ZW8zYmkzck4xR290QRILUFBFQVd5bG9SSjA"
+    }
+  },
+  "PPpLuqvsRbk": {
+    "snippet": {
+      "publishedAt": "2024-06-18T23:02:51Z",
+      "channelId": "UCu1INzefw3R7M9-3QEHYmMQ",
+      "title": "\u3010ASMR/KU100\u301124 HOUR ASMR For The COMFIEST Sleep [Nene Amano ASMR VTuber Compilation]"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-07-08T02:30:00Z",
+      "activeLiveChatId": "Cg0KC1BQcEx1cXZzUmJrKicKGFVDdTFJTnplZnczUjdNOS0zUUVIWW1NURILUFBwTHVxdnNSYms",
+      "premiere": true
     }
   },
   "PRu8CNbFEnU": {
@@ -5397,6 +5409,7 @@
       "title": "LEAGUE OF LEGENDS CHALLENGER GRIND PART 10"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T04:03:58Z",
       "scheduledStartTime": "2024-06-19T04:00:00Z",
       "activeLiveChatId": "Cg0KC2R4MmxQS0pNZEVVKicKGFVDcHp4Wlc1a2doR25PNVRtQUZKUUFWdxILZHgybFBLSk1kRVU"
     }
@@ -5702,6 +5715,7 @@
       "title": "Singing for the first time after vocal nodules \ud83e\udd79"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T04:00:47Z",
       "scheduledStartTime": "2024-06-19T04:00:00Z",
       "activeLiveChatId": "Cg0KC2hCNkcybVJGeF9ZKicKGFVDSjRPNlBXQTQ3ZjZYYkNnckxRTnFFURILaEI2RzJtUkZ4X1k"
     }
@@ -6392,17 +6406,6 @@
       "activeLiveChatId": "Cg0KC2xlSjBkTVZwZFcwKicKGFVDLTFfLWpVdS1sQUxkR245LU1kQko0URILbGVKMGRNVnBkVzA"
     }
   },
-  "leobelpurson": {
-    "snippet": {
-      "channelId": "leobelpurson",
-      "title": "Lion let loose?",
-      "channelTitle": "LeobelPurson"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-19T03:20:07Z",
-      "twitch": true
-    }
-  },
   "liHGu9IBeaI": {
     "snippet": {
       "publishedAt": "2024-06-18T01:58:58Z",
@@ -6543,6 +6546,17 @@
       "activeLiveChatId": "Cg0KC21fSlMxY2N2RWs4KicKGFVDX3Q3d3RTY1ZMazg1SWFEOWpZU1JBQRILbV9KUzFjY3ZFazg"
     }
   },
+  "mariya": {
+    "snippet": {
+      "channelId": "mariya",
+      "title": "\ud83d\udd34 mariya on twitch (whom is different than mariya on youtube) \u2022 !youtube",
+      "channelTitle": "Mariya"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T04:06:37Z",
+      "twitch": true
+    }
+  },
   "mdcJkN5hHA4": {
     "snippet": {
       "publishedAt": "2024-06-18T21:27:32Z",
@@ -6576,6 +6590,17 @@
       "activeLiveChatId": "Cg0KC21vek5DTmNseDlBKicKGFVDb3ZLd2dBOWVIVXV0SVdDVldTX0FHdxILbW96TkNOY2x4OUE"
     }
   },
+  "mukyapunch": {
+    "snippet": {
+      "channelId": "mukyapunch",
+      "title": "We're going to Romance Halsin.  And @sterthegoblin is here to witness us.... \ud83d\udc1a\u2615 | !discord | !stinky | !cup",
+      "channelTitle": "MukyaPunch"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T04:01:41Z",
+      "twitch": true
+    }
+  },
   "n5D5GvXzXmY": {
     "snippet": {
       "publishedAt": "2023-12-11T14:51:50Z",
@@ -6605,6 +6630,7 @@
       "title": "let's take a stroll\u3010GENSHIN IMPACT\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T03:55:52Z",
       "scheduledStartTime": "2024-06-19T04:00:00Z",
       "activeLiveChatId": "Cg0KC25DZkNmelZlXzg4KicKGFVDMW9nbUxWZE1yVTRIdUxCVVl0empWURILbkNmQ2Z6VmVfODg"
     }
@@ -7255,17 +7281,6 @@
       "activeLiveChatId": "Cg0KC3JENUJSUDhJcDZFKicKGFVDaWFBSmZka3J3dURqV2lRallaV3BYdxILckQ1QlJQOElwNkU"
     }
   },
-  "rOuQ4-fit-8": {
-    "snippet": {
-      "publishedAt": "2024-06-19T00:50:36Z",
-      "channelId": "UCdh-YF2gTzqDNu0VU9lwPPw",
-      "title": "\u3010APEX LEGENDS\u3011CAR zooming thru plat lobbies\u3010NIJISANJI EN | Claude Clawmark\u3011"
-    },
-    "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-19T04:00:00Z",
-      "activeLiveChatId": "Cg0KC3JPdVE0LWZpdC04KicKGFVDZGgtWUYyZ1R6cUROdTBWVTlsd1BQdxILck91UTQtZml0LTg"
-    }
-  },
   "rUMEIIbWKfo": {
     "snippet": {
       "publishedAt": "2024-06-16T02:20:27Z",
@@ -7771,6 +7786,7 @@
       "title": "\u3010Apex Legends\u3011 Actually we solo dolo tonight! \u3010NIJISANJI EN | Ryoma Barrenwort\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T03:58:31Z",
       "scheduledStartTime": "2024-06-19T04:00:00Z",
       "activeLiveChatId": "Cg0KC3ZPS21GXzhLUlNBKicKGFVDSXpaRGlpbGNQdjB3aW1fTWJ1aXpGQRILdk9LbUZfOEtSU0E"
     }
@@ -7996,6 +8012,7 @@
       "title": "\u3010\u98f2\u9152\u3011\u30db\u30e9\u30fc\u30b2\u30fc\u30e0\u3067\u30ad\u30de\u3063\u3066\u884c\u3053\u3046\u304b\u2026\u3010phase connect\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T04:01:26Z",
       "scheduledStartTime": "2024-06-19T04:00:00Z",
       "activeLiveChatId": "Cg0KC3doZ2R5U1A3blprKicKGFVDQjdzU1VOd2hfZFhFN1pMM0RzR0RwdxILd2hnZHlTUDduWms"
     }
