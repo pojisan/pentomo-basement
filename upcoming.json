@@ -1562,6 +1562,7 @@
       "title": "I'm quitting Vtubing to become a nun"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T12:02:50Z",
       "scheduledStartTime": "2024-06-19T12:00:00Z",
       "activeLiveChatId": "Cg0KC0J6SEtnTTktV3FRKicKGFVDMVpSWG9UUVV3WnRLbnBPZkp3R05QdxILQnpIS2dNOS1XcVE"
     }
@@ -3616,6 +3617,17 @@
       "activeLiveChatId": "Cg0KC1EzSng4S0p2aUxVKicKGFVDbnBjN0hwY2lmVnBpNlJCek5nZTUxdxILUTNKeDhLSnZpTFU"
     }
   },
+  "Q3j-HYQR7-M": {
+    "snippet": {
+      "publishedAt": "2024-06-19T12:05:57Z",
+      "channelId": "UC0JFt5Jjl5a__zOaZLqk7Pg",
+      "title": "\u3010Minecraft VSMP EP1\u3011ON THAT GRIND WITH @ZumiDokumi"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-19T18:00:00Z",
+      "activeLiveChatId": "Cg0KC1Ezai1IWVFSNy1NKicKGFVDMEpGdDVKamw1YV9fek9hWkxxazdQZxILUTNqLUhZUVI3LU0"
+    }
+  },
   "Q4Y5V-2WrVo": {
     "snippet": {
       "publishedAt": "2023-11-23T07:02:59Z",
@@ -5142,17 +5154,6 @@
       "activeLiveChatId": "Cg0KC2FXSEZVeEtCb01BKicKGFVDSUxRbDVnUkJNdndkLTk3LU01cExZURILYVdIRlV4S0JvTUE"
     }
   },
-  "adventureralm": {
-    "snippet": {
-      "channelId": "adventureralm",
-      "title": "Unscheduled Castlevania & Chatting | !discord !socials !bounty",
-      "channelTitle": "AdventurerAlm"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-19T09:31:06Z",
-      "twitch": true
-    }
-  },
   "aj5mh0Anl_c": {
     "snippet": {
       "publishedAt": "2024-06-17T10:55:20Z",
@@ -6192,17 +6193,6 @@
       "activeLiveChatId": "Cg0KC2llQzA3ejFLaV84KicKGFVDSHQ0RjMtLUhxMHNOWFA2REVkbFNtZxILaWVDMDd6MUtpXzg"
     }
   },
-  "inumaromugi": {
-    "snippet": {
-      "channelId": "inumaromugi",
-      "title": "\u3010Eri\u3011cloud ferret radio~||\u2726 \u207a.",
-      "channelTitle": "InumaroMugi"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-19T10:58:45Z",
-      "twitch": true
-    }
-  },
   "iwcO164geLs": {
     "snippet": {
       "publishedAt": "2024-06-19T06:35:04Z",
@@ -6440,6 +6430,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-06-24T22:00:00Z",
       "activeLiveChatId": "Cg0KC2tlMTZnRmdhbUdRKicKGFVDSzlsNnJUd1UzaGlTWmlqSU1xNTFHdxILa2UxNmdGZ2FtR1E"
+    }
+  },
+  "kibiexe": {
+    "snippet": {
+      "channelId": "kibiexe",
+      "title": "\ud83e\udd9d\ud83d\udcfc ELDEN RING part 3! Electric bugaloo~! [!lnks]",
+      "channelTitle": "kibiexe"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T12:05:11Z",
+      "twitch": true
     }
   },
   "kxXALTsHLWY": {
@@ -6706,6 +6707,7 @@
       "title": "[LITTLE KITTY BIG CITY] \u732b\u3061\u3083\u3093\u304c\u8ff7\u5b50\u306b\u306a\u3063\u305f\uff01Japanese practise"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T12:04:21Z",
       "scheduledStartTime": "2024-06-19T11:30:00Z",
       "activeLiveChatId": "Cg0KC21kY0prTjVoSEE0KicKGFVDUHRub1pLVVJoWmFqd2tmT3JwLXFwdxILbWRjSmtONWhIQTQ"
     }
