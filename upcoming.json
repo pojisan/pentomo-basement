@@ -71,6 +71,7 @@
       "title": "\u3010Fall Guys Collab w/Azura!\u3011My worst enemy: PLATFORMING \u3010VAllure\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T20:00:07Z",
       "scheduledStartTime": "2024-06-19T20:00:00Z",
       "activeLiveChatId": "Cg0KCy1CbDJ3VDR3N0drKicKGFVDdll6d0VrQ1EyN2dQYWo1NHdCc1ZPZxILLUJsMndUNHc3R2s"
     }
@@ -1119,17 +1120,6 @@
       "activeLiveChatId": "Cg0KCzdCU2xWM3FaVVJNKicKGFVDX3NGTk0wejBNV205QTZXbEtQdU1NZxILN0JTbFYzcVpVUk0"
     }
   },
-  "7GRuvnwm7Ao": {
-    "snippet": {
-      "publishedAt": "2024-06-19T04:14:31Z",
-      "channelId": "UCBURM8S4LH7cRZ0Clea9RDA",
-      "title": "\u3010PANICORE\u3011EVERYONE. DO.NOT.PANIIIIIIIIIC\u3010NIJISANJI EN | Reimu Endou\u3011"
-    },
-    "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-19T22:00:00Z",
-      "activeLiveChatId": "Cg0KCzdHUnV2bndtN0FvKicKGFVDQlVSTThTNExIN2NSWjBDbGVhOVJEQRILN0dSdXZud203QW8"
-    }
-  },
   "7KAepsIfpKE": {
     "snippet": {
       "publishedAt": "2024-06-17T15:24:51Z",
@@ -1280,6 +1270,7 @@
       "title": "HOW LONG can I LAST? \ud83e\udd87 Vampire Survivors!\u3010Bonnie Barkswell / globie\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T20:01:27Z",
       "scheduledStartTime": "2024-06-19T20:00:00Z",
       "activeLiveChatId": "Cg0KCzhLRVg1RHJxSWs4KicKGFVDcXczcGRQRUtLVk9JN1NGWG9teUtMQRILOEtFWDVEcnFJazg"
     }
@@ -1334,6 +1325,7 @@
       "title": "Drawing...........\ud83d\ude2d\ud83d\ude2d\ud83d\ude2d\ud83e\udd72\ud83e\udd72"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T20:00:32Z",
       "scheduledStartTime": "2024-06-19T20:00:00Z",
       "activeLiveChatId": "Cg0KCzk5aVJ6MEU3MV9FKicKGFVDeGJORVc3eHlrVEM3aEU1Rllnd3JPdxILOTlpUnowRTcxX0U"
     }
@@ -1916,6 +1908,7 @@
       "title": "\ud83d\udd79\ufe0fThere's a PINBALL METROIDVANIA?? (i'm sick pls be patient)"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T20:00:11Z",
       "scheduledStartTime": "2024-06-19T20:00:00Z",
       "activeLiveChatId": "Cg0KC0VVejFOTkphNmMwKicKGFVDOU5OTXdhZnk5cXV2TldhZkZ1a05EdxILRVV6MU5OSmE2YzA"
     }
@@ -5479,6 +5472,17 @@
       "activeLiveChatId": "Cg0KC2N1VkJQdDhUUjBFKicKGFVDQmdoVUtBX0wwbmEwU2VRNnNuek1NURILY3VWQlB0OFRSMEU"
     }
   },
+  "cwstal": {
+    "snippet": {
+      "channelId": "cwstal",
+      "title": "last strim before break  \u2661",
+      "channelTitle": "cwstal"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T20:01:24Z",
+      "twitch": true
+    }
+  },
   "d-U2t6BuMNU": {
     "snippet": {
       "publishedAt": "2023-06-12T16:00:17Z",
@@ -7563,6 +7567,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-04-28T09:00:00Z",
       "activeLiveChatId": "Cg0KC3JnZGk4YnRlUWdjKicKGFVDOHpnS2FTOExpeUwyOG1kaFJDMm5CZxILcmdkaThidGVRZ2M"
+    }
+  },
+  "rixxybrightful": {
+    "snippet": {
+      "channelId": "rixxybrightful",
+      "title": "Let's Draw an MS Paint Masterpiece!",
+      "channelTitle": "rixxybrightful"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T19:55:10Z",
+      "twitch": true
     }
   },
   "rn2SX1mvIyc": {
