@@ -753,6 +753,17 @@
       "activeLiveChatId": "Cg0KCzREZDFJWVdKNmdZKicKGFVDNFI2ZGRoQkpwMmJqUUhWTnhnTlFTQRILNERkMUlZV0o2Z1k"
     }
   },
+  "4FtSHjQEmRs": {
+    "snippet": {
+      "publishedAt": "2024-06-19T12:55:01Z",
+      "channelId": "UC7TCCtvrEu8q_S5OtRJh-aQ",
+      "title": "\u3010HONKAI STAR RAIL\u3011AI WANT HANABI \u3010Ai Shinju\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-19T14:00:00Z",
+      "activeLiveChatId": "Cg0KCzRGdFNIalFFbVJzKicKGFVDN1RDQ3R2ckV1OHFfUzVPdFJKaC1hURILNEZ0U0hqUUVtUnM"
+    }
+  },
   "4GfndsK92cc": {
     "snippet": {
       "publishedAt": "2024-06-19T06:36:09Z",
@@ -2540,7 +2551,8 @@
       "title": "\u3010Various\u30115.5 Hour Variety Stream #2!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-19T13:00:51Z",
+      "actualStartTime": "2024-06-19T13:00:22Z",
+      "scheduledStartTime": "2024-06-19T13:00:12Z",
       "activeLiveChatId": "Cg0KC0lKNy1GLVREZFJvKicKGFVDN3NxYlE0XzVfRUx6LU92LWJWQmk4QRILSUo3LUYtVERkUm8"
     }
   },
@@ -3310,6 +3322,7 @@
       "title": "\u3010\u30da\u30eb\u30bd\u30ca3 \u30ea\u30ed\u30fc\u30c9/P3R\u301109:\u601d\u60d1\u3001\u4ea4\u932f\u3001\u306a\u306b\u9858\u3046 \u203b\u30cd\u30bf\u30d0\u30ec\u3042\u308a\u3010\u5148\u6597\u5be7/\u306b\u3058\u3055\u3093\u3058\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T13:01:23Z",
       "scheduledStartTime": "2024-06-19T13:00:00Z",
       "activeLiveChatId": "Cg0KC05xWGlDT0hWSmhjKicKGFVDZTIyQmN3ZF9HQ3BUakx4bjgzemw3QRILTnFYaUNPSFZKaGM"
     }
@@ -6885,17 +6898,6 @@
       "activeLiveChatId": "Cg0KC25nWnR5aXNoRXlBKicKGFVDdTFJTnplZnczUjdNOS0zUUVIWW1NURILbmdadHlpc2hFeUE"
     }
   },
-  "ninete_en": {
-    "snippet": {
-      "channelId": "ninete_en",
-      "title": "\u3010Drops\u2705\u3011\u53c2\u52a0\u578b\uff01Day3\uff1a\u6b66\u5668\u958b\u653e\u3057\u305f\u3044\uff01",
-      "channelTitle": "\u30ca\u30a4\u30f3\u30c6\u30a3\u30fc\u30f3"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-19T08:57:35Z",
-      "twitch": true
-    }
-  },
   "nnAY-x9AtNk": {
     "snippet": {
       "publishedAt": "2022-07-13T01:04:14Z",
@@ -7012,6 +7014,7 @@
       "title": "Space Witches are the Best Witches\u3010OPUS: ECHO OF STARSONG\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T13:00:41Z",
       "scheduledStartTime": "2024-06-19T13:00:00Z",
       "activeLiveChatId": "Cg0KC29OazdYNHFMZlNFKicKGFVDMUxlZ3hDTmE2bHFtU3NaVFNtN0d5QRILb05rN1g0cUxmU0U"
     }
@@ -8604,6 +8607,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-01-01T05:00:00Z",
       "activeLiveChatId": "Cg0KC3poeVR0MkhTS3M4KicKGFVDVlBCR21sc0M4Uy1UTmFfSUVWY3oxQRILemh5VHQySFNLczg"
+    }
+  },
+  "zxjVO7Eh0f8": {
+    "snippet": {
+      "publishedAt": "2024-06-19T12:54:27Z",
+      "channelId": "UCO0DpVKR4CH5EXgoscz99bA",
+      "title": "Otaku no Video Discord Watch Party (still sick btw)"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-20T23:00:43Z",
+      "activeLiveChatId": "Cg0KC3p4alZPN0VoMGY4KicKGFVDTzBEcFZLUjRDSDVFWGdvc2N6OTliQRILenhqVk83RWgwZjg"
     }
   }
 }
