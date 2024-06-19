@@ -5670,8 +5670,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-16T21:01:47Z",
-      "scheduledStartTime": "2024-06-16T21:00:00Z",
-      "activeLiveChatId": "Cg0KC0dING1xU3JnWWt3KicKGFVDTzR6TWFZQkV6ZFlJU2Zlb082aXBfURILR0g0bXFTcmdZa3c"
+      "actualEndTime": "2024-06-17T01:02:13Z",
+      "scheduledStartTime": "2024-06-16T21:00:00Z"
     }
   },
   "Mbb63VLeAwM": {
@@ -5803,6 +5803,72 @@
       "actualStartTime": "2024-06-15T21:02:34Z",
       "actualEndTime": "2024-06-16T00:28:42Z",
       "scheduledStartTime": "2024-06-15T21:00:00Z"
+    }
+  },
+  "rJEl5nJ0xGI": {
+    "snippet": {
+      "publishedAt": "2024-06-17T04:56:39Z",
+      "channelId": "UCO4zMaYBEzdYISfeoO6ip_Q",
+      "title": "Co-working Monday!\u3010Just Chatting/Zatsudan\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-17T08:01:59Z",
+      "actualEndTime": "2024-06-17T10:36:54Z",
+      "scheduledStartTime": "2024-06-17T08:00:00Z"
+    }
+  },
+  "PIIC8U8dFNE": {
+    "snippet": {
+      "publishedAt": "2024-06-17T05:11:09Z",
+      "channelId": "UCO4zMaYBEzdYISfeoO6ip_Q",
+      "title": "She dropped her PhD for this"
+    }
+  },
+  "PiQYGatSFrI": {
+    "snippet": {
+      "publishedAt": "2024-06-17T17:53:59Z",
+      "channelId": "UCO4zMaYBEzdYISfeoO6ip_Q",
+      "title": "SERVER OPENING PARTY! \u3010VSMP MINECRAFT \u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-17T21:03:53Z",
+      "actualEndTime": "2024-06-18T01:48:38Z",
+      "scheduledStartTime": "2024-06-17T21:00:00Z"
+    }
+  },
+  "liHGu9IBeaI": {
+    "snippet": {
+      "publishedAt": "2024-06-18T01:58:58Z",
+      "channelId": "UCO4zMaYBEzdYISfeoO6ip_Q",
+      "title": "MORE MINECRAFT\u3010VSMP MINECRAFT \u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-20T20:00:00Z",
+      "activeLiveChatId": "Cg0KC2xpSEd1OUlCZWFJKicKGFVDTzR6TWFZQkV6ZFlJU2Zlb082aXBfURILbGlIR3U5SUJlYUk"
+    }
+  },
+  "ZnU1QhJxY1w": {
+    "snippet": {
+      "publishedAt": "2024-06-18T01:56:08Z",
+      "channelId": "UCO4zMaYBEzdYISfeoO6ip_Q",
+      "title": "MINECRAFT TIME\u3010VSMP MINECRAFT \u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T20:37:36Z",
+      "actualEndTime": "2024-06-19T00:07:36Z",
+      "scheduledStartTime": "2024-06-18T20:30:00Z"
+    }
+  },
+  "-gjOYz95JiY": {
+    "snippet": {
+      "publishedAt": "2024-06-18T01:54:38Z",
+      "channelId": "UCO4zMaYBEzdYISfeoO6ip_Q",
+      "title": "The Yappening! Researching Minecraft Builds! \u3010Just Chatting/Zatsudan\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T08:03:04Z",
+      "actualEndTime": "2024-06-18T12:01:43Z",
+      "scheduledStartTime": "2024-06-18T08:00:00Z"
     }
   }
 }

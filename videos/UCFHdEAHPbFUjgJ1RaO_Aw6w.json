@@ -924,8 +924,9 @@
       "title": "\u3010Birthday Celebration!!\u301112-Hour Together with Vance\u3010globie 2nd Gen - Equinnox\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-17T08:00:00Z",
-      "activeLiveChatId": "Cg0KC09OdXJHWExab1FBKicKGFVDRkhkRUFIUGJGVWpnSjFSYU9fQXc2dxILT051ckdYTFpvUUE"
+      "actualStartTime": "2024-06-17T07:56:24Z",
+      "actualEndTime": "2024-06-17T19:52:18Z",
+      "scheduledStartTime": "2024-06-17T08:00:00Z"
     }
   },
   "zaCLSsnQYRg": {
@@ -937,6 +938,40 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-19T18:00:00Z",
       "activeLiveChatId": "Cg0KC3phQ0xTc25RWVJnKicKGFVDRkhkRUFIUGJGVWpnSjFSYU9fQXc2dxILemFDTFNzblFZUmc"
+    }
+  },
+  "er6oHWCrMwE": {
+    "snippet": {
+      "publishedAt": "2024-06-17T19:51:21Z",
+      "channelId": "UCFHdEAHPbFUjgJ1RaO_Aw6w",
+      "title": "\u3010Birthday Celebration!!\u301112-Hour Together with Vance P2\u3010globie 2nd Gen - Equinnox\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-17T19:53:15Z",
+      "actualEndTime": "2024-06-17T21:10:39Z",
+      "scheduledStartTime": "2024-06-17T20:00:00Z"
+    }
+  },
+  "QxHBNB8A3CQ": {
+    "snippet": {
+      "publishedAt": "2024-06-18T19:18:34Z",
+      "channelId": "UCFHdEAHPbFUjgJ1RaO_Aw6w",
+      "title": "\u3010NIKKE W/ Eye Tracker\u3011Story + Chill Vibes and Gacha\u3010globie 2nd Gen - Equinnox\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-22T18:00:00Z",
+      "activeLiveChatId": "Cg0KC1F4SEJOQjhBM0NRKicKGFVDRkhkRUFIUGJGVWpnSjFSYU9fQXc2dxILUXhIQk5COEEzQ1E"
+    }
+  },
+  "1UT0l3j-vDU": {
+    "snippet": {
+      "publishedAt": "2024-06-18T19:16:13Z",
+      "channelId": "UCFHdEAHPbFUjgJ1RaO_Aw6w",
+      "title": "\u3010BUNNY GARDEN W/ Eye Tracker\u3011Yes I Like Bunny Girls How Could You Tell\u3010globie 2nd Gen - Equinnox\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-20T18:00:00Z",
+      "activeLiveChatId": "Cg0KCzFVVDBsM2otdkRVKicKGFVDRkhkRUFIUGJGVWpnSjFSYU9fQXc2dxILMVVUMGwzai12RFU"
     }
   }
 }

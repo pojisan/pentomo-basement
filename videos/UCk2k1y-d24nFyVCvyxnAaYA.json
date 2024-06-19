@@ -3277,8 +3277,32 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-16T23:30:28Z",
-      "scheduledStartTime": "2024-06-16T23:30:00Z",
-      "activeLiveChatId": "Cg0KC0ZCRXBPOHdtTWpjKicKGFVDazJrMXktZDI0bkZ5VkN2eXhuQWFZQRILRkJFcE84d21NamM"
+      "actualEndTime": "2024-06-17T06:02:45Z",
+      "scheduledStartTime": "2024-06-16T23:30:00Z"
+    }
+  },
+  "xzcf8DdVvkU": {
+    "snippet": {
+      "publishedAt": "2024-06-17T17:56:38Z",
+      "channelId": "UCk2k1y-d24nFyVCvyxnAaYA",
+      "title": "the BIGGEST VTuber Minecraft server ever!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-17T22:00:19Z",
+      "actualEndTime": "2024-06-18T02:22:16Z",
+      "scheduledStartTime": "2024-06-17T22:00:00Z"
+    }
+  },
+  "CUJ6HTrKN1U": {
+    "snippet": {
+      "publishedAt": "2024-06-18T20:24:12Z",
+      "channelId": "UCk2k1y-d24nFyVCvyxnAaYA",
+      "title": "Return to the BIGGEST VTuber Minecraft SMP"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T22:00:32Z",
+      "actualEndTime": "2024-06-19T04:11:07Z",
+      "scheduledStartTime": "2024-06-18T22:00:00Z"
     }
   }
 }

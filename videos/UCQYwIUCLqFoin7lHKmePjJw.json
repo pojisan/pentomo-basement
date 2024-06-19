@@ -402,5 +402,41 @@
       "actualEndTime": "2024-06-16T15:19:52Z",
       "scheduledStartTime": "2024-06-16T12:00:00Z"
     }
+  },
+  "p79DH4agVBQ": {
+    "snippet": {
+      "publishedAt": "2024-06-17T03:36:04Z",
+      "channelId": "UCQYwIUCLqFoin7lHKmePjJw",
+      "title": "\u3010Monster Hunter World: Iceborne\u3011THE REAL HUNT STARTS #8\u3010NIJISANJI EN | Klara Charmwood\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-17T12:00:35Z",
+      "actualEndTime": "2024-06-17T14:44:04Z",
+      "scheduledStartTime": "2024-06-17T12:00:00Z"
+    }
+  },
+  "0griMn5Tevw": {
+    "snippet": {
+      "publishedAt": "2024-06-17T15:58:25Z",
+      "channelId": "UCQYwIUCLqFoin7lHKmePjJw",
+      "title": "\u3010The Convenience Store\u3011Maid Works At Konbini\u3010NIJISANJI EN | Klara Charmwood\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T12:04:36Z",
+      "actualEndTime": "2024-06-18T15:01:23Z",
+      "scheduledStartTime": "2024-06-18T12:00:00Z"
+    }
+  },
+  "RCIuG38wj9o": {
+    "snippet": {
+      "publishedAt": "2024-06-19T02:23:40Z",
+      "channelId": "UCQYwIUCLqFoin7lHKmePjJw",
+      "title": "\u3010#\u306b\u3058GTA\u3011\u306b\u3058\u3055\u3093\u3058GTA\u9bd6\u30bf\u30a4\u30e0\uff01Maid Joins The Chaos!\u3010NIJISANJI EN | Klara Charmwood\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T10:01:58Z",
+      "scheduledStartTime": "2024-06-19T10:00:00Z",
+      "activeLiveChatId": "Cg0KC1JDSXVHMzh3ajlvKicKGFVDUVl3SVVDTHFGb2luN2xIS21lUGpKdxILUkNJdUczOHdqOW8"
+    }
   }
 }

@@ -2256,19 +2256,43 @@
       "title": "\u3010Minecraft VSMP\u3011Moving into the VSMP VTuber Server !!!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-18T14:00:00Z",
-      "activeLiveChatId": "Cg0KCzlsdk1VQjA3N0tZKicKGFVDSzZvQ01pYjYyZVlBSVBybHJZUlZydxILOWx2TVVCMDc3S1k"
+      "actualStartTime": "2024-06-18T13:41:47Z",
+      "actualEndTime": "2024-06-18T18:45:18Z",
+      "scheduledStartTime": "2024-06-18T14:00:00Z"
     }
   },
   "Tu_Edcp4rbA": {
     "snippet": {
       "publishedAt": "2024-06-16T15:13:43Z",
       "channelId": "UCK6oCMib62eYAIPrlrYRVrw",
-      "title": "\u3010Destiny 2\u3011Back after a LONG BREAK ?!"
+      "title": "Was supposed to be Destiny 2 BUT WE YAPPED OOPS !!!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-17T14:00:00Z",
-      "activeLiveChatId": "Cg0KC1R1X0VkY3A0cmJBKicKGFVDSzZvQ01pYjYyZVlBSVBybHJZUlZydxILVHVfRWRjcDRyYkE"
+      "actualStartTime": "2024-06-17T13:54:49Z",
+      "actualEndTime": "2024-06-17T16:57:44Z",
+      "scheduledStartTime": "2024-06-17T14:00:00Z"
+    }
+  },
+  "EW9-vZ7lvJk": {
+    "snippet": {
+      "publishedAt": "2024-06-19T13:20:29Z",
+      "channelId": "UCK6oCMib62eYAIPrlrYRVrw",
+      "title": "\u3010COLLAB\u3011Powerpoint Karaoke with @Laphipi"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-21T16:00:00Z",
+      "activeLiveChatId": "Cg0KC0VXOS12WjdsdkprKicKGFVDSzZvQ01pYjYyZVlBSVBybHJZUlZydxILRVc5LXZaN2x2Sms"
+    }
+  },
+  "bU-EuZCLejo": {
+    "snippet": {
+      "publishedAt": "2024-06-19T13:19:10Z",
+      "channelId": "UCK6oCMib62eYAIPrlrYRVrw",
+      "title": "YAPPING AND MINING"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-20T14:00:00Z",
+      "activeLiveChatId": "Cg0KC2JVLUV1WkNMZWpvKicKGFVDSzZvQ01pYjYyZVlBSVBybHJZUlZydxILYlUtRXVaQ0xlam8"
     }
   }
 }

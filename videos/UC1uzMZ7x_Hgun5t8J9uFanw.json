@@ -1261,8 +1261,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-16T23:09:53Z",
-      "scheduledStartTime": "2024-06-16T23:00:00Z",
-      "activeLiveChatId": "Cg0KCy05N0VYN1ZrU1cwKicKGFVDMXV6TVo3eF9IZ3VuNXQ4Sjl1RmFudxILLTk3RVg3VmtTVzA"
+      "actualEndTime": "2024-06-17T02:42:50Z",
+      "scheduledStartTime": "2024-06-16T23:00:00Z"
     }
   },
   "tzy6sQNKSK4": {
@@ -1274,6 +1274,42 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-16T19:30:00Z",
       "activeLiveChatId": "Cg0KC3R6eTZzUU5LU0s0KicKGFVDMXV6TVo3eF9IZ3VuNXQ4Sjl1RmFudxILdHp5NnNRTktTSzQ"
+    }
+  },
+  "hUonaq-x48M": {
+    "snippet": {
+      "publishedAt": "2024-06-17T18:37:40Z",
+      "channelId": "UC1uzMZ7x_Hgun5t8J9uFanw",
+      "title": "i forgot i dont have a save file for the dlc SO IM DOING IT NOW"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-17T23:06:49Z",
+      "actualEndTime": "2024-06-18T03:08:54Z",
+      "scheduledStartTime": "2024-06-17T23:00:00Z"
+    }
+  },
+  "BqGZF8xI38Y": {
+    "snippet": {
+      "publishedAt": "2024-06-18T19:00:04Z",
+      "channelId": "UC1uzMZ7x_Hgun5t8J9uFanw",
+      "title": "GETTING OUR ELDEN RING SAVE READY FOR DLC"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T23:03:31Z",
+      "actualEndTime": "2024-06-19T02:39:29Z",
+      "scheduledStartTime": "2024-06-18T23:00:00Z"
+    }
+  },
+  "IizYz_5s3Xk": {
+    "snippet": {
+      "publishedAt": "2024-06-18T19:30:28Z",
+      "channelId": "UC1uzMZ7x_Hgun5t8J9uFanw",
+      "title": "I JOINED A MINECRAFT SMP | VSMP GUERILLA STREAM"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T19:44:10Z",
+      "actualEndTime": "2024-06-18T22:14:04Z",
+      "scheduledStartTime": "2024-06-18T19:45:00Z"
     }
   }
 }

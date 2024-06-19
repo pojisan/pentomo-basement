@@ -288,8 +288,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-16T23:01:03Z",
-      "scheduledStartTime": "2024-06-16T23:00:00Z",
-      "activeLiveChatId": "Cg0KC1NNTTlYWkdZSmI0KicKGFVDb3ZLd2dBOWVIVXV0SVdDVldTX0FHdxILU01NOVhaR1lKYjQ"
+      "actualEndTime": "2024-06-17T02:23:58Z",
+      "scheduledStartTime": "2024-06-16T23:00:00Z"
     }
   },
   "W2QX2XANJJ4": {
@@ -338,10 +338,10 @@
     "snippet": {
       "publishedAt": "2024-06-16T19:40:31Z",
       "channelId": "UCovKwgA9eHUutIWCVWS_AGw",
-      "title": "\u3010Chatting\u3011HAPPY ONE MONTH~~\u3010Fionna fon Engels \u2661 Project: Verses\u3011"
+      "title": "\u3010Special Event!\u3011HAPPY ONE MONTH~~\u3010Fionna fon Engels \u2661 Project: Verses\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-19T00:00:00Z",
+      "scheduledStartTime": "2024-06-19T22:00:00Z",
       "activeLiveChatId": "Cg0KC1VTR1B2S1J2Z1JRKicKGFVDb3ZLd2dBOWVIVXV0SVdDVldTX0FHdxILVVNHUHZLUnZnUlE"
     }
   },
@@ -365,6 +365,25 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-20T22:00:00Z",
       "activeLiveChatId": "Cg0KC21vek5DTmNseDlBKicKGFVDb3ZLd2dBOWVIVXV0SVdDVldTX0FHdxILbW96TkNOY2x4OUE"
+    }
+  },
+  "-lMWMJraT-8": {
+    "snippet": {
+      "publishedAt": "2024-06-18T17:24:05Z",
+      "channelId": "UCovKwgA9eHUutIWCVWS_AGw",
+      "title": "this is how 99% of raid groups communicate #vtuber #envtuber #rabbitandsteel"
+    }
+  },
+  "VUvghX8pwbI": {
+    "snippet": {
+      "publishedAt": "2024-06-18T19:19:03Z",
+      "channelId": "UCovKwgA9eHUutIWCVWS_AGw",
+      "title": "\u3010Chatting\u3011Setting up my new stream room!\u3010Fionna fon Engels \u2661 Project: Verses\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T23:51:28Z",
+      "actualEndTime": "2024-06-19T01:58:09Z",
+      "scheduledStartTime": "2024-06-19T00:00:00Z"
     }
   }
 }

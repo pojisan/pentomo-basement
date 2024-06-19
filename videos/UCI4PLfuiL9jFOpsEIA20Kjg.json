@@ -7769,8 +7769,9 @@
       "title": "Session 55: We be Pirates | Into The Mists [DND] w/ Vtubers"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-17T19:00:00Z",
-      "activeLiveChatId": "Cg0KC2U0QngwV3ZFaHV3KicKGFVDSTRQTGZ1aUw5akZPcHNFSUEyMEtqZxILZTRCeDBXdkVodXc"
+      "actualStartTime": "2024-06-17T19:11:28Z",
+      "actualEndTime": "2024-06-18T07:05:41Z",
+      "scheduledStartTime": "2024-06-17T19:00:00Z"
     }
   },
   "hHxz3ud7xRE": {
@@ -7795,6 +7796,74 @@
       "actualStartTime": "2024-06-14T03:26:08Z",
       "actualEndTime": "2024-06-14T06:31:23Z",
       "scheduledStartTime": "2024-06-14T03:26:09Z"
+    }
+  },
+  "Sn1FIQclnCk": {
+    "snippet": {
+      "publishedAt": "2024-06-18T07:04:55Z",
+      "channelId": "UCI4PLfuiL9jFOpsEIA20Kjg",
+      "title": "Session 55.5: The End of the Duel | Into The Mists [DND] w/ Vtubers"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T07:06:44Z",
+      "actualEndTime": "2024-06-18T07:43:30Z",
+      "scheduledStartTime": "2024-06-18T07:05:00Z"
+    }
+  },
+  "kmW_dZT0hnc": {
+    "snippet": {
+      "publishedAt": "2024-06-18T07:45:32Z",
+      "channelId": "UCI4PLfuiL9jFOpsEIA20Kjg",
+      "title": "Session 55.5.5 CAUSE INTERNET DIED: The Sea of Sorrow | Into The Mists [DND] w/ Vtubers"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T07:45:43Z",
+      "actualEndTime": "2024-06-18T08:19:03Z",
+      "scheduledStartTime": "2024-06-18T07:45:41Z"
+    }
+  },
+  "xZWkybo0C_E": {
+    "snippet": {
+      "publishedAt": "2024-06-19T00:58:53Z",
+      "channelId": "UCI4PLfuiL9jFOpsEIA20Kjg",
+      "title": "Session 56: Aboard the Shadow Serpent | Into The Mists [DND] w/ Vtubers"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-07-01T19:00:00Z",
+      "activeLiveChatId": "Cg0KC3haV2t5Ym8wQ19FKicKGFVDSTRQTGZ1aUw5akZPcHNFSUEyMEtqZxILeFpXa3libzBDX0U"
+    }
+  },
+  "cZ-O9K_QOus": {
+    "snippet": {
+      "publishedAt": "2024-06-19T02:04:41Z",
+      "channelId": "UCI4PLfuiL9jFOpsEIA20Kjg",
+      "title": "IRITHYLL TIMEEE!!! [Dark Souls 3 Convergence Mod] w/ Jazz"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-20T01:30:00Z",
+      "activeLiveChatId": "Cg0KC2NaLU85S19RT3VzKicKGFVDSTRQTGZ1aUw5akZPcHNFSUEyMEtqZxILY1otTzlLX1FPdXM"
+    }
+  },
+  "xr_PtSDzNT0": {
+    "snippet": {
+      "publishedAt": "2024-06-19T03:50:12Z",
+      "channelId": "UCI4PLfuiL9jFOpsEIA20Kjg",
+      "title": "IT WAS ME BARRY! or... or maybe it wasnt... [Dark Souls 2 SotFS] Player/Equipment Stat Randomizer"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-22T19:00:00Z",
+      "activeLiveChatId": "Cg0KC3hyX1B0U0R6TlQwKicKGFVDSTRQTGZ1aUw5akZPcHNFSUEyMEtqZxILeHJfUHRTRHpOVDA"
+    }
+  },
+  "saxE8UeRKVw": {
+    "snippet": {
+      "publishedAt": "2024-06-19T08:21:22Z",
+      "channelId": "UCI4PLfuiL9jFOpsEIA20Kjg",
+      "title": "THE ADVENTURES OF TRYM AND THE RED QUEEN! [Divinity Original Sin 2] w/ @trymsartshack"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-20T18:00:00Z",
+      "activeLiveChatId": "Cg0KC3NheEU4VWVSS1Z3KicKGFVDSTRQTGZ1aUw5akZPcHNFSUEyMEtqZxILc2F4RThVZVJLVnc"
     }
   }
 }

@@ -4910,8 +4910,42 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-17T00:01:54Z",
-      "scheduledStartTime": "2024-06-17T00:00:00Z",
-      "activeLiveChatId": "Cg0KC25LUXo2YzBNc3NRKicKGFVDZXhlM01rYlhRSE5KREJjZmd5ZDZrURILbktRejZjME1zc1E"
+      "actualEndTime": "2024-06-17T03:07:19Z",
+      "scheduledStartTime": "2024-06-17T00:00:00Z"
+    }
+  },
+  "2QGwoWdLo5U": {
+    "snippet": {
+      "publishedAt": "2024-06-18T20:51:34Z",
+      "channelId": "UCexe3MkbXQHNJDBcfgyd6kQ",
+      "title": "\u3010Suika Game\u3011Don't ask what happened to no.14...\u3010Harima Tem | bondlive EN\u3011#shorts"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-22T00:00:00Z",
+      "activeLiveChatId": "Cg0KCzJRR3dvV2RMbzVVKicKGFVDZXhlM01rYlhRSE5KREJjZmd5ZDZrURILMlFHd29XZExvNVU"
+    }
+  },
+  "GbL9WdSfc_I": {
+    "snippet": {
+      "publishedAt": "2024-06-18T20:45:24Z",
+      "channelId": "UCexe3MkbXQHNJDBcfgyd6kQ",
+      "title": "\u3010Ring Fit Adventure\u3011Prepare for pain.\u3010Harima Tem | bondlive EN\u3011#shorts"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-20T00:00:00Z",
+      "activeLiveChatId": "Cg0KC0diTDlXZFNmY19JKicKGFVDZXhlM01rYlhRSE5KREJjZmd5ZDZrURILR2JMOVdkU2ZjX0k"
+    }
+  },
+  "_afdUGqQj-M": {
+    "snippet": {
+      "publishedAt": "2024-06-16T22:06:57Z",
+      "channelId": "UCexe3MkbXQHNJDBcfgyd6kQ",
+      "title": "\u3010Dokapon Kingdom: Connect\u3011It's Tem's time to shine for sure!!\u3010Harima Tem | bondlive EN\u3011#shorts"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T23:02:01Z",
+      "actualEndTime": "2024-06-19T01:47:03Z",
+      "scheduledStartTime": "2024-06-18T23:00:00Z"
     }
   }
 }

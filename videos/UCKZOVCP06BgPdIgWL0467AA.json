@@ -1242,8 +1242,22 @@
       "title": "\u3010VAMPIRE SURVIVORS\u3011This is the skin of a killer\u3010CADENCE NINE\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-18T12:00:00Z",
-      "activeLiveChatId": "Cg0KC1MyLUZNZkg2UDNjKicKGFVDS1pPVkNQMDZCZ1BkSWdXTDA0NjdBQRILUzItRk1mSDZQM2M"
+      "actualStartTime": "2024-06-18T12:00:53Z",
+      "actualEndTime": "2024-06-18T13:57:55Z",
+      "scheduledStartTime": "2024-06-18T12:00:00Z"
+    }
+  },
+  "Aw19zivUHqU": {
+    "snippet": {
+      "publishedAt": "2024-06-18T14:13:05Z",
+      "channelId": "UCKZOVCP06BgPdIgWL0467AA",
+      "title": "\u3010HONKAI STAR RAIL\u3011FIREFLY or UNINSTALL\u3010CADENCE NINE\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T11:59:56Z",
+      "actualEndTime": "2024-06-19T13:48:22Z",
+      "scheduledStartTime": "2024-06-19T12:00:00Z",
+      "activeLiveChatId": "Cg0KC0F3MTl6aXZVSHFVKicKGFVDS1pPVkNQMDZCZ1BkSWdXTDA0NjdBQRILQXcxOXppdlVIcVU"
     }
   }
 }

@@ -539,5 +539,41 @@
       "actualEndTime": "2024-06-14T16:07:13Z",
       "scheduledStartTime": "2024-06-14T14:00:00Z"
     }
+  },
+  "T9jNtgZzu-c": {
+    "snippet": {
+      "publishedAt": "2024-06-17T11:15:07Z",
+      "channelId": "UCoNhz4OqyxdEuufmEz8eoyA",
+      "title": "WHEN I CATCH YOU [REDACTED]"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-17T13:59:32Z",
+      "actualEndTime": "2024-06-17T16:31:07Z",
+      "scheduledStartTime": "2024-06-17T14:00:00Z"
+    }
+  },
+  "e3naqzFn_to": {
+    "snippet": {
+      "publishedAt": "2024-06-18T13:02:38Z",
+      "channelId": "UCoNhz4OqyxdEuufmEz8eoyA",
+      "title": "idk idk idk"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T13:59:53Z",
+      "actualEndTime": "2024-06-18T17:37:43Z",
+      "scheduledStartTime": "2024-06-18T14:00:00Z"
+    }
+  },
+  "DPBzH6zRkpg": {
+    "snippet": {
+      "publishedAt": "2024-06-19T11:24:58Z",
+      "channelId": "UCoNhz4OqyxdEuufmEz8eoyA",
+      "title": "2.3 UPDATE STORY STORY STORY | Honkai: Star Rail"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T13:59:18Z",
+      "scheduledStartTime": "2024-06-19T14:00:00Z",
+      "activeLiveChatId": "Cg0KC0RQQnpINnpSa3BnKicKGFVDb05oejRPcXl4ZEV1dWZtRXo4ZW95QRILRFBCekg2elJrcGc"
+    }
   }
 }

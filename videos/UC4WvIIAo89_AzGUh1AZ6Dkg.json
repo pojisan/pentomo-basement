@@ -7643,5 +7643,41 @@
       "actualEndTime": "2024-06-15T02:36:15Z",
       "scheduledStartTime": "2024-06-15T02:00:00Z"
     }
+  },
+  "7e0jxuvMg5o": {
+    "snippet": {
+      "publishedAt": "2024-06-17T06:51:30Z",
+      "channelId": "UC4WvIIAo89_AzGUh1AZ6Dkg",
+      "title": "\u3010GRAND THEFT AUTO V\u3011press f to accelerate"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-17T23:06:20Z",
+      "actualEndTime": "2024-06-18T04:21:42Z",
+      "scheduledStartTime": "2024-06-17T23:00:00Z"
+    }
+  },
+  "IuRK8pmqeBw": {
+    "snippet": {
+      "publishedAt": "2024-06-19T02:11:17Z",
+      "channelId": "UC4WvIIAo89_AzGUh1AZ6Dkg",
+      "title": "\u3010#RosePeto\u3011 RADIO TALK SHOW \ud83d\udc27\ud83c\udf39 WITH GUEST (FINANA)"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-20T01:00:00Z",
+      "activeLiveChatId": "Cg0KC0l1Uks4cG1xZUJ3KicKGFVDNFd2SUlBbzg5X0F6R1VoMUFaNkRrZxILSXVSSzhwbXFlQnc"
+    }
+  },
+  "33y9_ZhJmxE": {
+    "snippet": {
+      "publishedAt": "2024-06-19T05:55:30Z",
+      "channelId": "UC4WvIIAo89_AzGUh1AZ6Dkg",
+      "title": "\u3010#\u306b\u3058GTA\u3011\u5929\u624d\u306e\u30ed\u30bc\u30df\u69d8\u304c\u3064\u3044\u306b\u6765\u307e\u3057\u305f\u308f\u3088\uff01FIRST GTA RP!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T10:02:21Z",
+      "actualEndTime": "2024-06-19T14:07:24Z",
+      "scheduledStartTime": "2024-06-19T10:00:00Z",
+      "activeLiveChatId": "Cg0KCzMzeTlfWmhKbXhFKicKGFVDNFd2SUlBbzg5X0F6R1VoMUFaNkRrZxILMzN5OV9aaEpteEU"
+    }
   }
 }

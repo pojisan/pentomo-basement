@@ -9435,11 +9435,23 @@
     "snippet": {
       "publishedAt": "2024-06-16T03:24:18Z",
       "channelId": "UCJ46YTYBQVXsfsp8-HryoUA",
-      "title": "i'm back\u3010Phase-Connect\u3011"
+      "title": "Exploring wherever the internet takes us\u3010Phase-Connect\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-19T01:00:00Z",
-      "activeLiveChatId": "Cg0KCzJybWVGXzFEOENnKicKGFVDSjQ2WVRZQlFWWHNmc3A4LUhyeW9VQRILMnJtZUZfMUQ4Q2c"
+      "actualStartTime": "2024-06-19T01:03:39Z",
+      "actualEndTime": "2024-06-19T04:51:24Z",
+      "scheduledStartTime": "2024-06-19T01:00:00Z"
+    }
+  },
+  "iwcO164geLs": {
+    "snippet": {
+      "publishedAt": "2024-06-19T06:35:04Z",
+      "channelId": "UCJ46YTYBQVXsfsp8-HryoUA",
+      "title": "tomorrow\u3010Phase-Connect\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-20T01:00:00Z",
+      "activeLiveChatId": "Cg0KC2l3Y08xNjRnZUxzKicKGFVDSjQ2WVRZQlFWWHNmc3A4LUhyeW9VQRILaXdjTzE2NGdlTHM"
     }
   }
 }

@@ -2793,7 +2793,7 @@
     "snippet": {
       "publishedAt": "2023-03-16T05:47:27Z",
       "channelId": "UCuaDidGk4HNLOnQE9wzMMeQ",
-      "title": "\u3010FREE CHAT & SCHEDULE\u2728\u3011"
+      "title": "\u3010FREE CHAT & SCHEDULE\u2728\u3011 ON BREAK UNTIL JUNE 27TH, 2024"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-05-09T04:15:00Z",
@@ -8049,9 +8049,9 @@
       "title": "\u3010Cover\u3011 \u4eba\u30de\u30cb\u30a2 (HITOMANIA) \uff0f \u539f\u53e3\u6c99\u8f14 \u3010Isla Coleman\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-18T04:00:00Z",
-      "activeLiveChatId": "Cg0KC2pRbkxzVW5sVnVVKicKGFVDdWFEaWRHazRITkxPblFFOXd6TU1lURILalFuTHNVbmxWdVU",
-      "premiere": true
+      "actualStartTime": "2024-06-18T04:00:06Z",
+      "actualEndTime": "2024-06-18T04:04:14Z",
+      "scheduledStartTime": "2024-06-18T04:00:00Z"
     }
   },
   "BkYe8fL0Xwg": {
@@ -8061,8 +8061,41 @@
       "title": "*whispers into your ear* NIHONGO JOUZU DESU NE...~ \u3010Shashingo\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-17T04:15:00Z",
-      "activeLiveChatId": "Cg0KC0JrWWU4ZkwwWHdnKicKGFVDdWFEaWRHazRITkxPblFFOXd6TU1lURILQmtZZThmTDBYd2c"
+      "actualStartTime": "2024-06-17T04:16:27Z",
+      "actualEndTime": "2024-06-17T07:01:08Z",
+      "scheduledStartTime": "2024-06-17T04:16:16Z"
+    }
+  },
+  "H1xTuV2MRxo": {
+    "snippet": {
+      "publishedAt": "2024-06-17T12:32:41Z",
+      "channelId": "UCuaDidGk4HNLOnQE9wzMMeQ",
+      "title": "\u3010MEMBERS ONLY\u3011 membas only? \u3010yes membas only\u3011",
+      "private": true
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-17T14:02:18Z",
+      "scheduledStartTime": "2024-06-17T14:01:41Z",
+      "activeLiveChatId": "Cg0KC0gxeFR1VjJNUnhvKicKGFVDdWFEaWRHazRITkxPblFFOXd6TU1lURILSDF4VHVWMk1SeG8"
+    }
+  },
+  "b1Zh-OKBGik": {
+    "snippet": {
+      "publishedAt": "2024-06-17T14:53:28Z",
+      "channelId": "UCuaDidGk4HNLOnQE9wzMMeQ",
+      "title": "PRINCESS DEPARTURE!! SEE YOU SOON!!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T04:16:13Z",
+      "actualEndTime": "2024-06-18T07:19:22Z",
+      "scheduledStartTime": "2024-06-18T04:15:58Z"
+    }
+  },
+  "iQ1yhg1iWFM": {
+    "snippet": {
+      "publishedAt": "2024-06-19T03:00:34Z",
+      "channelId": "UCuaDidGk4HNLOnQE9wzMMeQ",
+      "title": "\u300e\u4eba\u30de\u30cb\u30a2/HITOMANIA\u300f cover #shorts #vtuber #vsinger #\u6b4c\u3063\u3066\u307f\u305f"
     }
   }
 }

@@ -3802,8 +3802,9 @@
       "title": "Orb Gaming"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-17T15:00:00Z",
-      "activeLiveChatId": "Cg0KC3NIZzJ4c2tVUGlzKicKGFVDa2lVQnlCQ0YxYU9pUmQxNnhBbFBNZxILc0hnMnhza1VQaXM"
+      "actualStartTime": "2024-06-17T14:56:42Z",
+      "actualEndTime": "2024-06-17T19:30:59Z",
+      "scheduledStartTime": "2024-06-17T15:00:00Z"
     }
   },
   "cWLwLBDta2o": {
@@ -3813,8 +3814,9 @@
       "title": "Shootin' my Shot."
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-18T17:00:00Z",
-      "activeLiveChatId": "Cg0KC2NXTHdMQkR0YTJvKicKGFVDa2lVQnlCQ0YxYU9pUmQxNnhBbFBNZxILY1dMd0xCRHRhMm8"
+      "actualStartTime": "2024-06-18T17:15:24Z",
+      "actualEndTime": "2024-06-18T20:41:43Z",
+      "scheduledStartTime": "2024-06-18T17:00:00Z"
     }
   },
   "-6eBp55lb9I": {
@@ -3866,6 +3868,18 @@
       "publishedAt": "2024-06-16T22:00:07Z",
       "channelId": "UCkiUByBCF1aOiRd16xAlPMg",
       "title": "Her face is good for ONE thing..."
+    }
+  },
+  "w59VlVhW9hM": {
+    "snippet": {
+      "publishedAt": "2024-06-18T20:40:38Z",
+      "channelId": "UCkiUByBCF1aOiRd16xAlPMg",
+      "title": "Is this an Addict Honeypot?"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T20:42:30Z",
+      "actualEndTime": "2024-06-19T01:30:27Z",
+      "scheduledStartTime": "2024-06-18T20:40:00Z"
     }
   }
 }

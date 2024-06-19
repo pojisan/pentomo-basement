@@ -1078,8 +1078,9 @@
       "title": "\u3010GAME STREAM\u30fb\u30b2\u30fc\u30e0\u914d\u4fe1\u3011NIKKE / Genshin / WuWa Dailies\u30fb\u30c7\u30a4\u30ea\u30fc\u3057\u306a\u304c\u3089\u96d1\u8ac7\u3057\u3088\u3046\uff01"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-18T11:00:00Z",
-      "activeLiveChatId": "Cg0KC2NuT0Y5MkFQRnUwKicKGFVDSFhteVRaM1VGYmh6cGZWZ1ZscmRndxILY25PRjkyQVBGdTA"
+      "actualStartTime": "2024-06-18T10:51:13Z",
+      "actualEndTime": "2024-06-18T12:55:19Z",
+      "scheduledStartTime": "2024-06-18T11:00:00Z"
     }
   },
   "243iAHo-Ay4": {
@@ -1089,8 +1090,9 @@
       "title": "\u3010Singing Stream\u30fb\u6b4c\u67a0\u3011I'm Going to Sing Anime Songs Until I'm Satisfied\u30fb\u30a2\u30cb\u30bd\u30f3\u540d\u66f2\uff01"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-17T04:00:00Z",
-      "activeLiveChatId": "Cg0KCzI0M2lBSG8tQXk0KicKGFVDSFhteVRaM1VGYmh6cGZWZ1ZscmRndxILMjQzaUFIby1BeTQ"
+      "actualStartTime": "2024-06-17T03:49:57Z",
+      "actualEndTime": "2024-06-17T07:31:51Z",
+      "scheduledStartTime": "2024-06-17T04:00:00Z"
     }
   }
 }

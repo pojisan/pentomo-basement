@@ -207,7 +207,7 @@
     "snippet": {
       "publishedAt": "2024-03-25T07:19:35Z",
       "channelId": "UC_cxiOVYi9TH3iPvam9f5yA",
-      "title": "\u2727.* Weekly Schedule (6/10 - 6/16) + Free Chat \u2727.*"
+      "title": "\u2727.* Weekly Schedule (6/17 - 6/23) + Free Chat \u2727.*"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2026-04-01T00:00:00Z",
@@ -890,11 +890,48 @@
     "snippet": {
       "publishedAt": "2024-06-16T18:08:45Z",
       "channelId": "UC_cxiOVYi9TH3iPvam9f5yA",
-      "title": "[PRACTICE UNARCHIVED KARAOKE] Lets Practice Singing!!! - Ciccino Katterina V&U"
+      "title": "[PRACTICE UNARCHIVED KARAOKE] Lets Practice Singing!!! - Ciccino Katterina V&U",
+      "private": true
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-17T02:00:00Z",
+      "actualStartTime": "2024-06-18T02:02:24Z",
+      "scheduledStartTime": "2024-06-18T02:00:00Z",
       "activeLiveChatId": "Cg0KC2taUTNxVFZzUW9rKicKGFVDX2N4aU9WWWk5VEgzaVB2YW05ZjV5QRILa1pRM3FUVnNRb2s"
+    }
+  },
+  "bqvtLprxhLg": {
+    "snippet": {
+      "publishedAt": "2024-06-17T16:36:55Z",
+      "channelId": "UC_cxiOVYi9TH3iPvam9f5yA",
+      "title": "[MINECRAFT VSMP] Grand Opening and Building Dog Army! - Ciccino Katterina V&U"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-17T21:01:15Z",
+      "actualEndTime": "2024-06-17T22:48:48Z",
+      "scheduledStartTime": "2024-06-17T21:00:00Z"
+    }
+  },
+  "UVZ9TgUDQmI": {
+    "snippet": {
+      "publishedAt": "2024-06-18T18:07:20Z",
+      "channelId": "UC_cxiOVYi9TH3iPvam9f5yA",
+      "title": "[MINECRAFT] Building a Costco - Ciccino Katterina V&U"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T03:15:41Z",
+      "actualEndTime": "2024-06-19T04:22:05Z",
+      "scheduledStartTime": "2024-06-19T03:00:00Z"
+    }
+  },
+  "M9mUoR2FqqA": {
+    "snippet": {
+      "publishedAt": "2024-06-18T18:16:33Z",
+      "channelId": "UC_cxiOVYi9TH3iPvam9f5yA",
+      "title": "[TERRARIA CALAMITY PART 4] Wall Of Flesh? Or Brain of Cthulhu? - Ciccino Katterina V&U"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-20T03:00:00Z",
+      "activeLiveChatId": "Cg0KC005bVVvUjJGcXFBKicKGFVDX2N4aU9WWWk5VEgzaVB2YW05ZjV5QRILTTltVW9SMkZxcUE"
     }
   }
 }

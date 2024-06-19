@@ -569,8 +569,9 @@
       "title": "MINECRAFT MARATHON (+VSMP)"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-17T13:00:00Z",
-      "activeLiveChatId": "Cg0KC1l2cExWZHhCLVdFKicKGFVDYjhkTHZEdm1aLWQ5MktFeV85b1dvZxILWXZwTFZkeEItV0U"
+      "actualStartTime": "2024-06-17T14:17:52Z",
+      "actualEndTime": "2024-06-18T02:07:22Z",
+      "scheduledStartTime": "2024-06-17T13:00:00Z"
     }
   },
   "cC6xEqSA12E": {
@@ -588,7 +589,8 @@
     "snippet": {
       "publishedAt": "2024-06-16T20:47:08Z",
       "channelId": "UCb8dLvDvmZ-d92KEy_9oWog",
-      "title": "PLAYING MINECRAFT WITH A BUNCH OF VTUBERS"
+      "title": "PLAYING MINECRAFT WITH A BUNCH OF VTUBERS",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-18T19:00:00Z",
@@ -615,6 +617,18 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-19T19:00:00Z",
       "activeLiveChatId": "Cg0KC1l5TThIN1kzNktNKicKGFVDYjhkTHZEdm1aLWQ5MktFeV85b1dvZxILWXlNOEg3WTM2S00"
+    }
+  },
+  "tLjomTszbfs": {
+    "snippet": {
+      "publishedAt": "2024-06-18T02:07:47Z",
+      "channelId": "UCb8dLvDvmZ-d92KEy_9oWog",
+      "title": "MINECRAFT MARATHON (+VSMP)"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T02:09:47Z",
+      "actualEndTime": "2024-06-18T04:58:13Z",
+      "scheduledStartTime": "2024-06-18T02:10:00Z"
     }
   }
 }

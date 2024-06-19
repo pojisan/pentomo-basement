@@ -1035,8 +1035,31 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-16T20:30:19Z",
-      "scheduledStartTime": "2024-06-16T20:30:00Z",
-      "activeLiveChatId": "Cg0KC25wYl9zdFNFQkZZKicKGFVDWGhSZDRLa3B6WXNQbTVoRlRQVnNxdxILbnBiX3N0U0VCRlk"
+      "actualEndTime": "2024-06-17T00:32:25Z",
+      "scheduledStartTime": "2024-06-16T20:30:00Z"
+    }
+  },
+  "uu_8ZDmxcZs": {
+    "snippet": {
+      "publishedAt": "2024-06-18T19:39:32Z",
+      "channelId": "UCXhRd4KkpzYsPm5hFTPVsqw",
+      "title": "\u3010GHOST OF TSUSHIMA: Part 10\u3011was honor worth it?\u3010V&U | GEN4\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T20:45:21Z",
+      "actualEndTime": "2024-06-18T23:54:42Z",
+      "scheduledStartTime": "2024-06-18T20:45:00Z"
+    }
+  },
+  "J6czqR7YHQU": {
+    "snippet": {
+      "publishedAt": "2024-06-19T13:10:18Z",
+      "channelId": "UCXhRd4KkpzYsPm5hFTPVsqw",
+      "title": "\u3010POKEMON COLOSSEUM: Part 2\u3011Mrs. Steal Yo Pokemon\u3010V&U | GEN4\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-19T19:30:00Z",
+      "activeLiveChatId": "Cg0KC0o2Y3pxUjdZSFFVKicKGFVDWGhSZDRLa3B6WXNQbTVoRlRQVnNxdxILSjZjenFSN1lIUVU"
     }
   }
 }

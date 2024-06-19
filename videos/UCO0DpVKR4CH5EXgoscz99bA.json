@@ -7315,9 +7315,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-16T23:00:06Z",
-      "scheduledStartTime": "2024-06-16T23:00:00Z",
-      "activeLiveChatId": "Cg0KC1F0QW9tWWx5UW1VKicKGFVDTzBEcFZLUjRDSDVFWGdvc2N6OTliQRILUXRBb21ZbHlRbVU",
-      "premiere": true
+      "actualEndTime": "2024-06-16T23:05:31Z",
+      "scheduledStartTime": "2024-06-16T23:00:00Z"
     }
   },
   "RDftW7WnxU0": {
@@ -7381,6 +7380,71 @@
       "publishedAt": "2024-06-16T23:00:17Z",
       "channelId": "UCO0DpVKR4CH5EXgoscz99bA",
       "title": "Amazing Vtuber Mouth Tracking"
+    }
+  },
+  "F8VVeF0cF-4": {
+    "snippet": {
+      "publishedAt": "2024-06-17T11:56:20Z",
+      "channelId": "UCO0DpVKR4CH5EXgoscz99bA",
+      "title": "Trina learns Chinese!~ I'm sick btw"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-17T11:59:35Z",
+      "actualEndTime": "2024-06-17T15:41:27Z"
+    }
+  },
+  "Poqz2DfV4oc": {
+    "snippet": {
+      "publishedAt": "2024-06-17T23:00:13Z",
+      "channelId": "UCO0DpVKR4CH5EXgoscz99bA",
+      "title": "Minigame Skill Issue"
+    }
+  },
+  "WsQukeoGJl4": {
+    "snippet": {
+      "publishedAt": "2024-06-18T23:00:18Z",
+      "channelId": "UCO0DpVKR4CH5EXgoscz99bA",
+      "title": "Minigame Winner!"
+    }
+  },
+  "GSH1XNVLKO0": {
+    "snippet": {
+      "publishedAt": "2024-06-18T22:27:48Z",
+      "channelId": "UCO0DpVKR4CH5EXgoscz99bA",
+      "title": "This is Minecraft Collab! (I'm still stick by the way)"
+    },
+    "liveStreamingDetails": {
+      "activeLiveChatId": "Cg0KC0dTSDFYTlZMS08wKicKGFVDTzBEcFZLUjRDSDVFWGdvc2N6OTliQRILR1NIMVhOVkxLTzA"
+    }
+  },
+  "yqRg5O91qXs": {
+    "snippet": {
+      "publishedAt": "2024-06-18T23:03:34Z",
+      "channelId": "UCO0DpVKR4CH5EXgoscz99bA",
+      "title": "Minecraft Collab with Friends (still sick btw)"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T23:04:24Z",
+      "actualEndTime": "2024-06-19T02:11:07Z",
+      "scheduledStartTime": "2024-06-18T23:03:33Z"
+    }
+  },
+  "g4YruH-lDHE": {
+    "snippet": {
+      "publishedAt": "2024-06-19T04:00:31Z",
+      "channelId": "UCO0DpVKR4CH5EXgoscz99bA",
+      "title": "Ohiruyasumi - Sakura Trick - English Cover (@AdmiralTrina )"
+    }
+  },
+  "zxjVO7Eh0f8": {
+    "snippet": {
+      "publishedAt": "2024-06-19T12:54:27Z",
+      "channelId": "UCO0DpVKR4CH5EXgoscz99bA",
+      "title": "Otaku no Video Discord Watch Party (still sick btw)"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-20T23:00:43Z",
+      "activeLiveChatId": "Cg0KC3p4alZPN0VoMGY4KicKGFVDTzBEcFZLUjRDSDVFWGdvc2N6OTliQRILenhqVk83RWgwZjg"
     }
   }
 }

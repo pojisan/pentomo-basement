@@ -7291,7 +7291,7 @@
       "title": "Chat INTERRUPTS me on A Difficult Game About Climbing! If I fail, I exercise!\u3010 Birthday Week! \u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-22T01:00:00Z",
+      "scheduledStartTime": "2024-06-24T01:00:00Z",
       "activeLiveChatId": "Cg0KC1o5SFVReVNyVTNVKicKGFVDeF9BNmZuczlxS2p5YnUtNmswdXIxZxILWjlIVVF5U3JVM1U"
     }
   },
@@ -7350,8 +7350,42 @@
       "title": "\u3010HANDCAM STREAM \u3011My FIRST TIME attempting embroidery~! Hopefully this will be comfy!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-17T05:00:00Z",
-      "activeLiveChatId": "Cg0KCzZWYjc3bWpraGRrKicKGFVDeF9BNmZuczlxS2p5YnUtNmswdXIxZxILNlZiNzdtamtoZGs"
+      "actualStartTime": "2024-06-17T05:00:21Z",
+      "actualEndTime": "2024-06-17T10:35:18Z",
+      "scheduledStartTime": "2024-06-17T05:00:00Z"
+    }
+  },
+  "jl3O-Onz18w": {
+    "snippet": {
+      "publishedAt": "2024-06-18T12:26:25Z",
+      "channelId": "UCx_A6fns9qKjybu-6k0ur1g",
+      "title": "Let's Learn Japanese Together! \u3010Shashingo\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-23T05:00:00Z",
+      "activeLiveChatId": "Cg0KC2psM08tT256MTh3KicKGFVDeF9BNmZuczlxS2p5YnUtNmswdXIxZxILamwzTy1PbnoxOHc"
+    }
+  },
+  "KMgvrgwe6FE": {
+    "snippet": {
+      "publishedAt": "2024-06-18T12:21:20Z",
+      "channelId": "UCx_A6fns9qKjybu-6k0ur1g",
+      "title": "\u3010HANDCAM STREAM \u3011Embroidery is harder than it looks, but it's fun!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-22T05:00:00Z",
+      "activeLiveChatId": "Cg0KC0tNZ3ZyZ3dlNkZFKicKGFVDeF9BNmZuczlxS2p5YnUtNmswdXIxZxILS01ndnJnd2U2RkU"
+    }
+  },
+  "mPJnFdP98K4": {
+    "snippet": {
+      "publishedAt": "2024-06-18T12:33:26Z",
+      "channelId": "UCx_A6fns9qKjybu-6k0ur1g",
+      "title": "WE ARE GOING TO CONQUER UNCLAIM LAND! w/ Kokone & Umi\u3010Valheim (NON POV)\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-21T01:00:00Z",
+      "activeLiveChatId": "Cg0KC21QSm5GZFA5OEs0KicKGFVDeF9BNmZuczlxS2p5YnUtNmswdXIxZxILbVBKbkZkUDk4SzQ"
     }
   }
 }

@@ -488,12 +488,12 @@
     "snippet": {
       "publishedAt": "2024-06-07T06:21:02Z",
       "channelId": "UCuDmUl3WY41FqGI_bUr62PA",
-      "title": "\u3010DON'T SCREAM\u3011No grites TATA no GRITEEES con @TaigaToragami \u3010idolES\u3011\ud83c\udf80",
-      "private": true
+      "title": "\u3010DON'T SCREAM\u3011No grites TATA no GRITEEES con @TaigaToragami \u3010idolES\u3011\ud83c\udf80"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-09T19:00:00Z",
-      "activeLiveChatId": "Cg0KC1dhSXpnaC16bFE0KicKGFVDdURtVWwzV1k0MUZxR0lfYlVyNjJQQRILV2FJemdoLXpsUTQ"
+      "actualStartTime": "2024-06-18T22:58:01Z",
+      "actualEndTime": "2024-06-19T01:08:01Z",
+      "scheduledStartTime": "2024-06-18T23:00:00Z"
     }
   },
   "D-wBrk0ox_c": {
@@ -542,6 +542,29 @@
       "actualStartTime": "2024-06-15T19:31:42Z",
       "actualEndTime": "2024-06-16T01:07:13Z",
       "scheduledStartTime": "2024-06-15T19:30:00Z"
+    }
+  },
+  "QXk8EW4jo_Q": {
+    "snippet": {
+      "publishedAt": "2024-06-17T22:37:37Z",
+      "channelId": "UCuDmUl3WY41FqGI_bUr62PA",
+      "title": "NINTENDO DIRECT CON LALA\u3010idolES\u3011 \ud83c\udf80"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T13:39:15Z",
+      "actualEndTime": "2024-06-18T15:00:42Z",
+      "scheduledStartTime": "2024-06-18T14:00:00Z"
+    }
+  },
+  "tIvxTrOJVeo": {
+    "snippet": {
+      "publishedAt": "2024-06-19T02:41:12Z",
+      "channelId": "UCuDmUl3WY41FqGI_bUr62PA",
+      "title": "\u3010Duolingo\u3011 NOOO DUOOO, MI MASCOTA NOO \u3010idolES\u3011 \ud83c\udf80"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-19T21:00:00Z",
+      "activeLiveChatId": "Cg0KC3RJdnhUck9KVmVvKicKGFVDdURtVWwzV1k0MUZxR0lfYlVyNjJQQRILdEl2eFRyT0pWZW8"
     }
   }
 }

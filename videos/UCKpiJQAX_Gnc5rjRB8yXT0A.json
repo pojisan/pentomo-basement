@@ -56,7 +56,7 @@
     "snippet": {
       "publishedAt": "2024-05-14T11:37:39Z",
       "channelId": "UCKpiJQAX_Gnc5rjRB8yXT0A",
-      "title": "SCHEDULE FOR 6.09 - 6.15"
+      "title": "SCHEDULE FOR 6.16 - 6.22"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-30T14:00:00Z"
@@ -273,6 +273,40 @@
       "publishedAt": "2024-06-11T01:00:08Z",
       "channelId": "UCKpiJQAX_Gnc5rjRB8yXT0A",
       "title": "Honkai: Star Rail - If I Can Stop One Heart From Breaking (Rock Ballad Arrange.)"
+    }
+  },
+  "R_DvWE3hWfE": {
+    "snippet": {
+      "publishedAt": "2024-06-17T03:49:43Z",
+      "channelId": "UCKpiJQAX_Gnc5rjRB8yXT0A",
+      "title": "\u3010Hades 2\u3011We've Diving Back Into Hell!\u3010OshiLink EN | Audica Sevens\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-17T14:00:08Z",
+      "actualEndTime": "2024-06-17T17:25:30Z",
+      "scheduledStartTime": "2024-06-17T14:00:00Z"
+    }
+  },
+  "XrOiAqopTCQ": {
+    "snippet": {
+      "publishedAt": "2024-06-17T03:55:06Z",
+      "channelId": "UCKpiJQAX_Gnc5rjRB8yXT0A",
+      "title": "\u3010Little Nightmares\u3011Beginnings of True Nightmares\u3010OshiLink EN | Audica Sevens\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-21T14:00:00Z"
+    }
+  },
+  "fkn5MOduSgQ": {
+    "snippet": {
+      "publishedAt": "2024-06-17T03:52:26Z",
+      "channelId": "UCKpiJQAX_Gnc5rjRB8yXT0A",
+      "title": "\u3010Biped\u3011!! Collab with @iva_hellock \u3010OshiLink EN | Audica Sevens\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T13:01:43Z",
+      "scheduledStartTime": "2024-06-19T13:00:00Z",
+      "activeLiveChatId": "Cg0KC2ZrbjVNT2R1U2dRKicKGFVDS3BpSlFBWF9HbmM1cmpSQjh5WFQwQRILZmtuNU1PZHVTZ1E"
     }
   }
 }

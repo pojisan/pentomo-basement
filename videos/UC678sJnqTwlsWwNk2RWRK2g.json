@@ -716,8 +716,9 @@
       "title": "\u3010Stardew Valley\u3011Part 8: The Mayor's Maze\u3010Vilhelm Vanderbos | globie Gen 2 | Equinnox\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-17T12:30:00Z",
-      "activeLiveChatId": "Cg0KC0pGWV9sMlE0LUtVKicKGFVDNjc4c0pucVR3bHNXd05rMlJXUksyZxILSkZZX2wyUTQtS1U"
+      "actualStartTime": "2024-06-17T12:29:13Z",
+      "actualEndTime": "2024-06-17T16:26:45Z",
+      "scheduledStartTime": "2024-06-17T12:30:00Z"
     }
   },
   "-S13ZUiNONo": {
@@ -746,11 +747,19 @@
     "snippet": {
       "publishedAt": "2024-06-16T09:12:23Z",
       "channelId": "UC678sJnqTwlsWwNk2RWRK2g",
-      "title": "\u3010Art Stream\u3011Noble Ow's Drawing Room\u3010Vilhelm Vanderbos | globie Gen 2 | Equinnox\u3011"
+      "title": "\u3010Art Stream\u3011Noble Owl's Drawing Room\u3010Vilhelm Vanderbos | globie Gen 2 | Equinnox\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T12:27:29Z",
       "scheduledStartTime": "2024-06-19T12:30:00Z",
       "activeLiveChatId": "Cg0KC29aMmt1dmRwZ3VFKicKGFVDNjc4c0pucVR3bHNXd05rMlJXUksyZxILb1oya3V2ZHBndUU"
+    }
+  },
+  "PY7-Y0vzpzk": {
+    "snippet": {
+      "publishedAt": "2024-06-18T16:53:17Z",
+      "channelId": "UC678sJnqTwlsWwNk2RWRK2g",
+      "title": "Suddenly, a ferocious bear appeared! #vtuber #malevtuber #duolingo #multilingual"
     }
   }
 }

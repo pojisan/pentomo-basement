@@ -7977,8 +7977,32 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-16T21:00:18Z",
-      "scheduledStartTime": "2024-06-16T21:00:00Z",
-      "activeLiveChatId": "Cg0KCzhmdEo5Yl9fX0owKicKGFVDTXdHSFIwQlRadUxzbWpZX05UNVB3ZxILOGZ0SjliX19fSjA"
+      "actualEndTime": "2024-06-17T01:24:45Z",
+      "scheduledStartTime": "2024-06-16T21:00:00Z"
+    }
+  },
+  "INzUhj9SRX8": {
+    "snippet": {
+      "publishedAt": "2024-06-17T10:58:24Z",
+      "channelId": "UCMwGHR0BTZuLsmjY_NT5Pwg",
+      "title": "\u3010Minecraft\u3011 Into the UnknOWNNNNNNNN #MythOneblock"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-17T21:05:31Z",
+      "actualEndTime": "2024-06-18T00:28:50Z",
+      "scheduledStartTime": "2024-06-17T21:00:00Z"
+    }
+  },
+  "oS_Ub2jch6k": {
+    "snippet": {
+      "publishedAt": "2024-06-18T02:27:57Z",
+      "channelId": "UCMwGHR0BTZuLsmjY_NT5Pwg",
+      "title": "\u3010Elden Ring\u3011 TODAY \u3010SPOILER WARNING\u3011\u3010#25\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T21:00:41Z",
+      "actualEndTime": "2024-06-19T01:52:17Z",
+      "scheduledStartTime": "2024-06-18T21:00:00Z"
     }
   }
 }

@@ -1196,8 +1196,27 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-16T22:26:36Z",
-      "scheduledStartTime": "2024-06-16T22:30:00Z",
-      "activeLiveChatId": "Cg0KC0JUczQyTzl0X2ZjKicKGFVDVlBCR21sc0M4Uy1UTmFfSUVWY3oxQRILQlRzNDJPOXRfZmM"
+      "actualEndTime": "2024-06-17T01:27:28Z",
+      "scheduledStartTime": "2024-06-16T22:30:00Z"
+    }
+  },
+  "tyr4d9CCwHw": {
+    "snippet": {
+      "publishedAt": "2024-06-18T02:46:06Z",
+      "channelId": "UCVPBGmlsC8S-TNa_IEVcz1A",
+      "title": "\ud83d\udc8b\u3010GUERILLA KISS & TELL\u3011 #4 Manifesting Abundance\u3010Yume+ | Raein Clowd\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T03:42:37Z",
+      "actualEndTime": "2024-06-18T07:12:30Z",
+      "scheduledStartTime": "2024-06-18T03:45:00Z"
+    }
+  },
+  "CsuRTHl8BKk": {
+    "snippet": {
+      "publishedAt": "2024-06-19T05:05:26Z",
+      "channelId": "UCVPBGmlsC8S-TNa_IEVcz1A",
+      "title": "Confident Sexuality & Cover Song #vtuber"
     }
   }
 }

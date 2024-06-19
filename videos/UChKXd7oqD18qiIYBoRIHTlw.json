@@ -3748,5 +3748,41 @@
       "actualEndTime": "2024-06-16T18:06:13Z",
       "scheduledStartTime": "2024-06-16T11:00:00Z"
     }
+  },
+  "dpFTERRtf4E": {
+    "snippet": {
+      "publishedAt": "2024-06-17T10:20:01Z",
+      "channelId": "UChKXd7oqD18qiIYBoRIHTlw",
+      "title": "\u3010#\u306b\u3058GTA\u3011\u30cf\u30c3\u30d4\u30fc\uff1f\u4ea4\u901a\u3067\u5e02\u6c11\u3092\u5e78\u305b\u306b  TAXI DRIVER\u3010NIJISANJI EN | Meloco Kyoran\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-17T11:35:26Z",
+      "actualEndTime": "2024-06-17T18:10:59Z",
+      "scheduledStartTime": "2024-06-17T11:30:00Z"
+    }
+  },
+  "lfX3An9LAMM": {
+    "snippet": {
+      "publishedAt": "2024-06-18T09:46:31Z",
+      "channelId": "UChKXd7oqD18qiIYBoRIHTlw",
+      "title": "\u3010#\u306b\u3058GTA\u3011\u3082\u3046\u3001\u623b\u308c\u306a\u3044\u3002 CAN'T GO BACK ANYMORE\u3010NIJISANJI EN | Meloco Kyoran\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T11:37:19Z",
+      "actualEndTime": "2024-06-18T18:07:00Z",
+      "scheduledStartTime": "2024-06-18T11:30:00Z"
+    }
+  },
+  "E-qy-8Cv3pk": {
+    "snippet": {
+      "publishedAt": "2024-06-19T08:29:31Z",
+      "channelId": "UChKXd7oqD18qiIYBoRIHTlw",
+      "title": "\u3010#\u306b\u3058GTA\u3011\u7b2c\u4e8c\u7ae0  Chapter 2\u3010NIJISANJI EN | Meloco Kyoran\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T10:10:59Z",
+      "scheduledStartTime": "2024-06-19T10:00:00Z",
+      "activeLiveChatId": "Cg0KC0UtcXktOEN2M3BrKicKGFVDaEtYZDdvcUQxOHFpSVlCb1JJSFRsdxILRS1xeS04Q3YzcGs"
+    }
   }
 }

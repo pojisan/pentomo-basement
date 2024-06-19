@@ -1038,7 +1038,7 @@
       "title": "\u3010SCHEDULE\u3011This week with your local Intergalactic Princess \ud83d\ude80\ud83d\udc97"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2025-05-27T18:00:00Z",
+      "scheduledStartTime": "2025-06-17T18:00:00Z",
       "activeLiveChatId": "Cg0KC241RDVHdlh6WG1ZKicKGFVDMEpGdDVKamw1YV9fek9hWkxxazdQZxILbjVENUd2WHpYbVk"
     }
   },
@@ -2077,12 +2077,12 @@
     "snippet": {
       "publishedAt": "2024-06-06T22:24:28Z",
       "channelId": "UC0JFt5Jjl5a__zOaZLqk7Pg",
-      "title": "\u3010Fruit Mountain + Zatsu\u3011 3D Relaxed Fruit Game",
-      "private": true
+      "title": "\u3010Fruit Mountain + Zatsu\u3011 3D Relaxed Fruit Game and Yapping"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-09T18:00:00Z",
-      "activeLiveChatId": "Cg0KC2RMd1J0ZTZJc1EwKicKGFVDMEpGdDVKamw1YV9fek9hWkxxazdQZxILZEx3UnRlNklzUTA"
+      "actualStartTime": "2024-06-17T18:03:35Z",
+      "actualEndTime": "2024-06-17T20:06:20Z",
+      "scheduledStartTime": "2024-06-17T18:00:00Z"
     }
   },
   "860G3iYLkBk": {
@@ -2162,6 +2162,51 @@
       "actualStartTime": "2024-06-15T18:30:27Z",
       "actualEndTime": "2024-06-15T22:19:24Z",
       "scheduledStartTime": "2024-06-15T18:30:00Z"
+    }
+  },
+  "EMC4nXGKSA8": {
+    "snippet": {
+      "publishedAt": "2024-06-17T02:23:37Z",
+      "channelId": "UC0JFt5Jjl5a__zOaZLqk7Pg",
+      "title": "\u3010Minecraft VSMP OPENING\u3011 JOINING THE VSMP!!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-17T20:58:40Z",
+      "actualEndTime": "2024-06-17T23:31:53Z",
+      "scheduledStartTime": "2024-06-17T21:00:00Z"
+    }
+  },
+  "Q3j-HYQR7-M": {
+    "snippet": {
+      "publishedAt": "2024-06-19T12:05:57Z",
+      "channelId": "UC0JFt5Jjl5a__zOaZLqk7Pg",
+      "title": "\u3010Minecraft VSMP EP1\u3011ON THAT GRIND WITH @ZumiDokumi"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-19T18:00:00Z",
+      "activeLiveChatId": "Cg0KC1Ezai1IWVFSNy1NKicKGFVDMEpGdDVKamw1YV9fek9hWkxxazdQZxILUTNqLUhZUVI3LU0"
+    }
+  },
+  "14xis3TZN_E": {
+    "snippet": {
+      "publishedAt": "2024-06-19T12:23:58Z",
+      "channelId": "UC0JFt5Jjl5a__zOaZLqk7Pg",
+      "title": "\u3010Golf with Your Friends\u3011 Toxic Princess Imminent"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-22T19:00:00Z",
+      "activeLiveChatId": "Cg0KCzE0eGlzM1RaTl9FKicKGFVDMEpGdDVKamw1YV9fek9hWkxxazdQZxILMTR4aXMzVFpOX0U"
+    }
+  },
+  "YJZfL5FdAKY": {
+    "snippet": {
+      "publishedAt": "2024-06-19T12:20:12Z",
+      "channelId": "UC0JFt5Jjl5a__zOaZLqk7Pg",
+      "title": "\u3010Cooking Simulator\u3011 Princess Cooks you delightful meal in real time"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-20T18:00:00Z",
+      "activeLiveChatId": "Cg0KC1lKWmZMNUZkQUtZKicKGFVDMEpGdDVKamw1YV9fek9hWkxxazdQZxILWUpaZkw1RmRBS1k"
     }
   }
 }

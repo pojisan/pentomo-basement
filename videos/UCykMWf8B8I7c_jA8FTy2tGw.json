@@ -11071,8 +11071,9 @@
       "title": "\u3010Ys Book I & II\u3011Book I Owari...?"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-17T19:00:00Z",
-      "activeLiveChatId": "Cg0KC2d4OV8zN2NUcmVNKicKGFVDeWtNV2Y4QjhJN2NfakE4RlR5MnRHdxILZ3g5XzM3Y1RyZU0"
+      "actualStartTime": "2024-06-17T19:00:13Z",
+      "actualEndTime": "2024-06-17T22:28:27Z",
+      "scheduledStartTime": "2024-06-17T19:00:00Z"
     }
   },
   "V7aEHHwRmpM": {
@@ -11084,6 +11085,62 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-19T19:00:00Z",
       "activeLiveChatId": "Cg0KC1Y3YUVISHdSbXBNKicKGFVDeWtNV2Y4QjhJN2NfakE4RlR5MnRHdxILVjdhRUhId1JtcE0"
+    }
+  },
+  "c3cvp-_0I4o": {
+    "snippet": {
+      "publishedAt": "2024-06-17T00:24:05Z",
+      "channelId": "UCykMWf8B8I7c_jA8FTy2tGw",
+      "title": "\u3010Metal Gear Ghost Babel\u3011Apparently I Didn't Defeat Metal Gear Yet"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-20T19:00:00Z",
+      "activeLiveChatId": "Cg0KC2MzY3ZwLV8wSTRvKicKGFVDeWtNV2Y4QjhJN2NfakE4RlR5MnRHdxILYzNjdnAtXzBJNG8"
+    }
+  },
+  "j29UO7f4v1E": {
+    "snippet": {
+      "publishedAt": "2024-06-17T00:21:28Z",
+      "channelId": "UCykMWf8B8I7c_jA8FTy2tGw",
+      "title": "\u3010Sonic Advance\u3011Dunno How I Feel About This One..."
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T19:00:07Z",
+      "actualEndTime": "2024-06-18T22:50:49Z",
+      "scheduledStartTime": "2024-06-18T19:00:00Z"
+    }
+  },
+  "k9M6_0Cn4wQ": {
+    "snippet": {
+      "publishedAt": "2024-06-17T00:40:45Z",
+      "channelId": "UCykMWf8B8I7c_jA8FTy2tGw",
+      "title": "\u3010ASMR\u3011Evil Witch Experiments On You"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-20T16:00:00Z",
+      "activeLiveChatId": "Cg0KC2s5TTZfMENuNHdRKicKGFVDeWtNV2Y4QjhJN2NfakE4RlR5MnRHdxILazlNNl8wQ240d1E"
+    }
+  },
+  "I1kZ-2TY3ss": {
+    "snippet": {
+      "publishedAt": "2024-06-17T00:52:11Z",
+      "channelId": "UCykMWf8B8I7c_jA8FTy2tGw",
+      "title": "\u3010Solomon's Key\u3011Buzzles To Boggle The Mind..."
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-21T19:00:00Z",
+      "activeLiveChatId": "Cg0KC0kxa1otMlRZM3NzKicKGFVDeWtNV2Y4QjhJN2NfakE4RlR5MnRHdxILSTFrWi0yVFkzc3M"
+    }
+  },
+  "-1eiST-REh8": {
+    "snippet": {
+      "publishedAt": "2024-06-17T01:30:51Z",
+      "channelId": "UCykMWf8B8I7c_jA8FTy2tGw",
+      "title": "\u3010Chatting\u3011CATching Up With My Buckos! (Also I'm A Cat)"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-22T19:00:00Z",
+      "activeLiveChatId": "Cg0KCy0xZWlTVC1SRWg4KicKGFVDeWtNV2Y4QjhJN2NfakE4RlR5MnRHdxILLTFlaVNULVJFaDg"
     }
   }
 }

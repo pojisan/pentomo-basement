@@ -63,7 +63,7 @@
     "snippet": {
       "publishedAt": "2024-04-15T16:24:10Z",
       "channelId": "UC2Ne6dDcFxnM2hCBLii3IUg",
-      "title": "\u3010STREAM SCHEDULE\u3011June 10rd - June 16th \u3010Dr.NOVA(e) | V4Mirai | ENVtuber\u3011"
+      "title": "\u3010STREAM SCHEDULE\u3011June 17rd - June 23th \u3010Dr.NOVA(e) | V4Mirai | ENVtuber\u3011"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-10-31T03:00:00Z",
@@ -658,6 +658,41 @@
       "actualStartTime": "2024-06-14T20:46:05Z",
       "actualEndTime": "2024-06-14T22:41:43Z",
       "scheduledStartTime": "2024-06-14T20:45:00Z"
+    }
+  },
+  "e1BBJc0VpXM": {
+    "snippet": {
+      "publishedAt": "2024-06-17T16:16:45Z",
+      "channelId": "UC2Ne6dDcFxnM2hCBLii3IUg",
+      "title": "\u3010ZATSU\u3011Chatting in the dumpster\u3010Dr.NOVA(e) | V4Mirai | ENVtuber\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-17T19:00:25Z",
+      "actualEndTime": "2024-06-17T20:37:08Z",
+      "scheduledStartTime": "2024-06-17T19:00:00Z"
+    }
+  },
+  "nXlzgm4B5gk": {
+    "snippet": {
+      "publishedAt": "2024-06-17T16:21:06Z",
+      "channelId": "UC2Ne6dDcFxnM2hCBLii3IUg",
+      "title": "\u3010MEMBERS ONLY\u3011Low Budget Horror Movie Night~\u3010Dr.NOVA(e) | V4Mirai | ENVtuber\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T22:00:24Z",
+      "actualEndTime": "2024-06-19T00:16:12Z",
+      "scheduledStartTime": "2024-06-18T22:00:00Z"
+    }
+  },
+  "YDotIXUmLX0": {
+    "snippet": {
+      "publishedAt": "2024-06-18T06:26:12Z",
+      "channelId": "UC2Ne6dDcFxnM2hCBLii3IUg",
+      "title": "\u3010BALDI'S BASIC\u3011i hate math. useless number magic\u3010Dr.NOVA(e) | V4Mirai | ENVtuber\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-20T21:00:00Z",
+      "activeLiveChatId": "Cg0KC1lEb3RJWFVtTFgwKicKGFVDMk5lNmREY0Z4bk0yaENCTGlpM0lVZxILWURvdElYVW1MWDA"
     }
   }
 }

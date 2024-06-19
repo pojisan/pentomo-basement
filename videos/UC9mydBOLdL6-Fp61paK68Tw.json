@@ -1290,8 +1290,21 @@
       "title": "This Detective will go down in History!\u3010Duck Detective: The Secret Salami\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-17T13:00:00Z",
-      "activeLiveChatId": "Cg0KC3A5MTVHM1NOV1dRKicKGFVDOW15ZEJPTGRMNi1GcDYxcGFLNjhUdxILcDkxNUczU05XV1E"
+      "actualStartTime": "2024-06-17T13:00:51Z",
+      "actualEndTime": "2024-06-17T15:40:07Z",
+      "scheduledStartTime": "2024-06-17T13:00:00Z"
+    }
+  },
+  "XOo6cx8P4Hg": {
+    "snippet": {
+      "publishedAt": "2024-06-17T22:05:44Z",
+      "channelId": "UC9mydBOLdL6-Fp61paK68Tw",
+      "title": "Preparing to SLAY the Ender Dragon!\u3010Minecraft\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T18:00:40Z",
+      "actualEndTime": "2024-06-18T21:22:54Z",
+      "scheduledStartTime": "2024-06-18T18:00:00Z"
     }
   }
 }

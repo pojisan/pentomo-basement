@@ -753,8 +753,9 @@
       "title": "\u3010New Model Reveal\u3011HELLOHELLOHELLOHELLO"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-18T20:00:00Z",
-      "activeLiveChatId": "Cg0KCzd2dS1ST2dTYVRrKicKGFVDc0ZnZGF6TWVRdGY4bEh2SVNCMURMURILN3Z1LVJPZ1NhVGs"
+      "actualStartTime": "2024-06-18T20:01:16Z",
+      "actualEndTime": "2024-06-18T20:25:25Z",
+      "scheduledStartTime": "2024-06-18T20:01:06Z"
     }
   },
   "d4EGZDRPt3w": {
@@ -762,6 +763,29 @@
       "publishedAt": "2024-06-16T01:52:28Z",
       "channelId": "UCsFgdazMeQtf8lHvISB1DLQ",
       "title": "KYORESU NEW MODEL REVEAL??? #vtuber"
+    }
+  },
+  "Q3LN4fENy9s": {
+    "snippet": {
+      "publishedAt": "2024-06-18T19:32:51Z",
+      "channelId": "UCsFgdazMeQtf8lHvISB1DLQ",
+      "title": "\u3010Subway Surfers\u3011is this the true zoomer experience #shorts"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T21:08:05Z",
+      "actualEndTime": "2024-06-18T22:09:27Z",
+      "scheduledStartTime": "2024-06-18T21:07:54Z"
+    }
+  },
+  "b77aagfY44g": {
+    "snippet": {
+      "publishedAt": "2024-06-19T14:43:49Z",
+      "channelId": "UCsFgdazMeQtf8lHvISB1DLQ",
+      "title": "\u3010Unarchived\u3011I'm thinking Miku-Miku ooeeoo!!\ud83e\ude75\u3010Hatsune Miku: Project Diva MegaMIX\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-21T19:00:00Z",
+      "activeLiveChatId": "Cg0KC2I3N2FhZ2ZZNDRnKicKGFVDc0ZnZGF6TWVRdGY4bEh2SVNCMURMURILYjc3YWFnZlk0NGc"
     }
   }
 }

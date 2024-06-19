@@ -4002,8 +4002,20 @@
       "title": "\u3010JUST CHATTING\u3011 \u3010NIJISANJI EN | Ren Zotto\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-17T03:00:00Z",
-      "activeLiveChatId": "Cg0KC2lVaVNDTXBCdzVrKicKGFVDS3U1OWdUWl9yZEVtZXJkeDVyVjRZZxILaVVpU0NNcEJ3NWs"
+      "actualStartTime": "2024-06-17T03:06:29Z",
+      "actualEndTime": "2024-06-17T05:33:48Z",
+      "scheduledStartTime": "2024-06-17T03:00:00Z"
+    }
+  },
+  "JRxVZBfb8SI": {
+    "snippet": {
+      "publishedAt": "2024-06-19T11:31:29Z",
+      "channelId": "UCKu59gTZ_rdEmerdx5rV4Yg",
+      "title": "TAKING DOWN THE BOSS!! \u3010ELDEN RING\u3011 \u3010NIJISANJI EN | Ren Zotto\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-20T02:00:00Z",
+      "activeLiveChatId": "Cg0KC0pSeFZaQmZiOFNJKicKGFVDS3U1OWdUWl9yZEVtZXJkeDVyVjRZZxILSlJ4VlpCZmI4U0k"
     }
   }
 }

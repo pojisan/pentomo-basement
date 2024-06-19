@@ -1600,5 +1600,28 @@
       "actualEndTime": "2024-06-15T17:46:12Z",
       "scheduledStartTime": "2024-06-15T16:10:00Z"
     }
+  },
+  "DdsFg5YTbvo": {
+    "snippet": {
+      "publishedAt": "2024-06-19T10:27:20Z",
+      "channelId": "UC6lZLAOgSYgJ6ZkW2ZTI75Q",
+      "title": "\u3010\ud83d\udd34Effy 1st Debut  Anniversary \u3011It's been 365 days since we met!!! \ud83d\udc8c"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-21T12:00:00Z",
+      "activeLiveChatId": "Cg0KC0Rkc0ZnNVlUYnZvKicKGFVDNmxaTEFPZ1NZZ0o2WmtXMlpUSTc1URILRGRzRmc1WVRidm8"
+    }
+  },
+  "uyxgK8EKmHI": {
+    "snippet": {
+      "publishedAt": "2024-06-19T10:06:17Z",
+      "channelId": "UC6lZLAOgSYgJ6ZkW2ZTI75Q",
+      "title": "\u3010Original Song\u3011Crack it - Acoustic Version\u300cEffy\u300d"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-21T11:30:00Z",
+      "activeLiveChatId": "Cg0KC3V5eGdLOEVLbUhJKicKGFVDNmxaTEFPZ1NZZ0o2WmtXMlpUSTc1URILdXl4Z0s4RUttSEk",
+      "premiere": true
+    }
   }
 }

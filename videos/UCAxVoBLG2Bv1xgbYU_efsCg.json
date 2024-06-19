@@ -357,11 +357,72 @@
     "snippet": {
       "publishedAt": "2024-06-15T05:18:05Z",
       "channelId": "UCAxVoBLG2Bv1xgbYU_efsCg",
-      "title": "Twitter Space"
+      "title": "Twitter Space",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-06-15T05:20:00Z",
       "activeLiveChatId": "Cg0KC3d5bVhfaG15UURNKicKGFVDQXhWb0JMRzJCdjF4Z2JZVV9lZnNDZxILd3ltWF9obXlRRE0"
+    }
+  },
+  "1WcYTtA2hT8": {
+    "snippet": {
+      "publishedAt": "2024-06-17T02:17:30Z",
+      "channelId": "UCAxVoBLG2Bv1xgbYU_efsCg",
+      "title": "Needing a Little Break Today~ [Weekly Yap Up]"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-17T02:31:07Z",
+      "actualEndTime": "2024-06-17T05:17:52Z",
+      "scheduledStartTime": "2024-06-17T02:30:00Z"
+    }
+  },
+  "lgoku194ckk": {
+    "snippet": {
+      "publishedAt": "2024-06-17T05:57:05Z",
+      "channelId": "UCAxVoBLG2Bv1xgbYU_efsCg",
+      "title": "GRAND OPENING CEREMONY! [PIXEL VSMP]"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-17T20:58:00Z",
+      "actualEndTime": "2024-06-18T03:10:27Z",
+      "scheduledStartTime": "2024-06-17T21:00:00Z"
+    }
+  },
+  "IMOYOC7v7KA": {
+    "snippet": {
+      "publishedAt": "2024-06-18T06:27:01Z",
+      "channelId": "UCAxVoBLG2Bv1xgbYU_efsCg",
+      "title": "Wastin' Away Again In Uraniumville [Fallout: New Vegas #3]"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T23:59:12Z",
+      "actualEndTime": "2024-06-19T02:03:19Z",
+      "scheduledStartTime": "2024-06-19T00:00:00Z"
+    }
+  },
+  "LW1gFVvR1IU": {
+    "snippet": {
+      "publishedAt": "2024-06-18T13:58:20Z",
+      "channelId": "UCAxVoBLG2Bv1xgbYU_efsCg",
+      "title": "Let's Watch the Nintendo Direct Together~"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T14:00:41Z",
+      "actualEndTime": "2024-06-18T15:03:57Z",
+      "scheduledStartTime": "2024-06-18T14:00:00Z"
+    }
+  },
+  "coy90D9VZAE": {
+    "snippet": {
+      "publishedAt": "2024-06-18T23:52:09Z",
+      "channelId": "UCAxVoBLG2Bv1xgbYU_efsCg",
+      "title": "POV: You are a Mangrove Tree [PIXEL VSMP]"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T02:05:03Z",
+      "actualEndTime": "2024-06-19T06:54:21Z",
+      "scheduledStartTime": "2024-06-19T02:00:00Z"
     }
   }
 }

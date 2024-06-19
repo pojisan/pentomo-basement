@@ -4645,8 +4645,34 @@
       "title": "\u3010Party Animals\u3011Gang At War With Promise"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-17T01:00:00Z",
-      "activeLiveChatId": "Cg0KC181bFRKMUd5VWpvKicKGFVDbWJzOFQ2TVdxVUhQMXRJUXZTZ0tyZxILXzVsVEoxR3lVam8"
+      "actualStartTime": "2024-06-17T01:04:05Z",
+      "actualEndTime": "2024-06-17T01:57:52Z",
+      "scheduledStartTime": "2024-06-17T01:05:00Z"
+    }
+  },
+  "htGu1q3lLpM": {
+    "snippet": {
+      "publishedAt": "2024-06-18T01:08:27Z",
+      "channelId": "UCmbs8T6MWqUHP1tIQvSgKrg",
+      "title": "\u3010Unarchived\u3011Today Is Gonna Be The Day... #shorts",
+      "private": true
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T02:52:58Z",
+      "scheduledStartTime": "2024-06-18T02:50:00Z",
+      "activeLiveChatId": "Cg0KC2h0R3UxcTNsTHBNKicKGFVDbWJzOFQ2TVdxVUhQMXRJUXZTZ0tyZxILaHRHdTFxM2xMcE0"
+    }
+  },
+  "0mbr6HbgH9E": {
+    "snippet": {
+      "publishedAt": "2024-06-18T23:48:08Z",
+      "channelId": "UCmbs8T6MWqUHP1tIQvSgKrg",
+      "title": "\u3010Fortnite\u3011What's Fortnight With @HakosBaelz"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T03:00:29Z",
+      "actualEndTime": "2024-06-19T04:48:23Z",
+      "scheduledStartTime": "2024-06-19T03:00:00Z"
     }
   }
 }

@@ -39,7 +39,7 @@
     "snippet": {
       "publishedAt": "2024-04-15T16:41:48Z",
       "channelId": "UC9SWIzHP07PL1y6cU8wkDwA",
-      "title": "\u301006/09 - 06/15\u3011Weekly Schedule~!! \u3010Yume+ | Mero Umiko\u3011"
+      "title": "\u301006/16 - 06/22\u3011Weekly Schedule~!! \u3010Yume+ | Mero Umiko\u3011"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-04-15T16:40:00Z",
@@ -968,8 +968,53 @@
       "title": "\u3010We Are OFK\u3011 Another pretty adventure for us to go on~!! \u3010Yume+ | Mero Umiko\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-17T22:00:00Z",
-      "activeLiveChatId": "Cg0KC25tSDQ0ZldRSzZrKicKGFVDOVNXSXpIUDA3UEwxeTZjVTh3a0R3QRILbm1INDRmV1FLNms"
+      "actualStartTime": "2024-06-17T21:59:38Z",
+      "actualEndTime": "2024-06-18T04:07:19Z",
+      "scheduledStartTime": "2024-06-17T22:00:00Z"
+    }
+  },
+  "EAVCibP0n6A": {
+    "snippet": {
+      "publishedAt": "2024-06-17T05:31:31Z",
+      "channelId": "UC9SWIzHP07PL1y6cU8wkDwA",
+      "title": "\u3010Bear & Breakfast\u3011bwuuuh\u3010Yume+ | Mero Umiko\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-19T23:00:00Z",
+      "activeLiveChatId": "Cg0KC0VBVkNpYlAwbjZBKicKGFVDOVNXSXpIUDA3UEwxeTZjVTh3a0R3QRILRUFWQ2liUDBuNkE"
+    }
+  },
+  "uJz503gJih8": {
+    "snippet": {
+      "publishedAt": "2024-06-17T05:23:15Z",
+      "channelId": "UC9SWIzHP07PL1y6cU8wkDwA",
+      "title": "\u3010Yuppie Psycho\u3011DADDY?! FINALLY?!?!?!?\u3010Yume+ | Mero Umiko\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-21T00:00:00Z",
+      "activeLiveChatId": "Cg0KC3VKejUwM2dKaWg4KicKGFVDOVNXSXpIUDA3UEwxeTZjVTh3a0R3QRILdUp6NTAzZ0ppaDg"
+    }
+  },
+  "uRVDPRCS2Ys": {
+    "snippet": {
+      "publishedAt": "2024-06-17T05:50:50Z",
+      "channelId": "UC9SWIzHP07PL1y6cU8wkDwA",
+      "title": "\u3010Gunpla Building\u3011 IT'S PINK \u3010Yume+ | Mero Umiko\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-21T20:00:00Z",
+      "activeLiveChatId": "Cg0KC3VSVkRQUkNTMllzKicKGFVDOVNXSXpIUDA3UEwxeTZjVTh3a0R3QRILdVJWRFBSQ1MyWXM"
+    }
+  },
+  "Cq_F2Zbnsc8": {
+    "snippet": {
+      "publishedAt": "2024-06-17T05:52:09Z",
+      "channelId": "UC9SWIzHP07PL1y6cU8wkDwA",
+      "title": "\u3010Octopath Traveler\u3011Getting More Travelers~!!\u3010Yume+ | Mero Umiko\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-22T20:00:00Z",
+      "activeLiveChatId": "Cg0KC0NxX0YyWmJuc2M4KicKGFVDOVNXSXpIUDA3UEwxeTZjVTh3a0R3QRILQ3FfRjJaYm5zYzg"
     }
   }
 }

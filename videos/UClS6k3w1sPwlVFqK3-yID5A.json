@@ -4726,5 +4726,29 @@
       "actualEndTime": "2024-06-16T17:50:18Z",
       "scheduledStartTime": "2024-06-16T13:00:00Z"
     }
+  },
+  "4uftCnD-ygs": {
+    "snippet": {
+      "publishedAt": "2024-06-17T09:34:25Z",
+      "channelId": "UClS6k3w1sPwlVFqK3-yID5A",
+      "title": "[#\u306b\u3058GTA] 3\u65e5\u76ee \u4eca\u65e5\u3082\u306b\u3083\u306b\u3083"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-17T10:40:38Z",
+      "actualEndTime": "2024-06-17T15:44:53Z",
+      "scheduledStartTime": "2024-06-17T10:30:00Z"
+    }
+  },
+  "vKbObpr5p84": {
+    "snippet": {
+      "publishedAt": "2024-06-18T08:47:15Z",
+      "channelId": "UClS6k3w1sPwlVFqK3-yID5A",
+      "title": "[#\u306b\u3058GTA] 4\u65e5\u76ee \u227d^\u2022\u2a4a\u2022^\u227c"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T12:19:00Z",
+      "actualEndTime": "2024-06-18T16:54:17Z",
+      "scheduledStartTime": "2024-06-18T12:00:00Z"
+    }
   }
 }

@@ -7450,8 +7450,9 @@
       "title": "\ud835\udcf3\ud835\udcf9\ud835\udcf8\ud835\udcf9 \ud835\udcfd\ud835\udcf1\ud835\udcea\ud835\udcfd \ud835\udd00\ud835\udcf2\ud835\udcf5\ud835\udcf5 \ud835\udcf6\ud835\udcea\ud835\udcf4\ud835\udcee \ud835\udd02\ud835\udcf8\ud835\udcfe\ud835\udcfb \ud835\udcf1\ud835\udcee\ud835\udcea\ud835\udcfb\ud835\udcfd \ud835\udceb\ud835\udcee\ud835\udcea\ud835\udcfd"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-17T00:30:00Z",
-      "activeLiveChatId": "Cg0KC0ppUVFzc2VKV0NrKicKGFVDQ0E0akpZNVByVGZJRkpJY2JJX05oURILSmlRUXNzZUpXQ2s"
+      "actualStartTime": "2024-06-17T00:39:56Z",
+      "actualEndTime": "2024-06-17T02:51:59Z",
+      "scheduledStartTime": "2024-06-17T00:30:00Z"
     }
   },
   "Hdq8d2KSdvo": {
@@ -7471,6 +7472,18 @@
       "publishedAt": "2024-06-16T01:30:03Z",
       "channelId": "UCCA4jJY5PrTfIFJIcbI_NhQ",
       "title": "I like you so much\ud83e\udde1 #shorts #qwer #\uace0\ubbfc\uc911\ub3c5\ucc4c\ub9b0\uc9c0 #challenge #T.B.H"
+    }
+  },
+  "7U9HmtWRfmY": {
+    "snippet": {
+      "publishedAt": "2024-06-19T05:42:50Z",
+      "channelId": "UCCA4jJY5PrTfIFJIcbI_NhQ",
+      "title": "\u3010ASMR\u3011 Guerilla handcam pirate ship making stream (no talking)"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T05:46:43Z",
+      "actualEndTime": "2024-06-19T06:58:40Z",
+      "scheduledStartTime": "2024-06-19T05:45:00Z"
     }
   }
 }

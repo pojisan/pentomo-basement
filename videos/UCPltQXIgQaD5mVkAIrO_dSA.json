@@ -321,8 +321,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-16T23:01:28Z",
-      "scheduledStartTime": "2024-06-16T23:00:00Z",
-      "activeLiveChatId": "Cg0KC3Bza0VTUjJ3dDJVKicKGFVDUGx0UVhJZ1FhRDVtVmtBSXJPX2RTQRILcHNrRVNSMnd0MlU"
+      "actualEndTime": "2024-06-17T02:22:00Z",
+      "scheduledStartTime": "2024-06-16T23:00:00Z"
     }
   },
   "d3BBSjEJbls": {
@@ -362,10 +362,12 @@
     "snippet": {
       "publishedAt": "2024-06-14T11:49:03Z",
       "channelId": "UCPltQXIgQaD5mVkAIrO_dSA",
-      "title": "\u3010Yakuza 0\u3011here it goes again\u300e Rina Astera | OshiLinkEN\u300f"
+      "title": "\u3010Yakuza 0\u3011here it goes again\u300e Rina Astera | OshiLinkEN\u300f",
+      "private": true
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-19T01:00:00Z"
+      "scheduledStartTime": "2025-06-19T01:00:00Z",
+      "activeLiveChatId": "Cg0KCzJ5OWVNRVE5cVBrKicKGFVDUGx0UVhJZ1FhRDVtVmtBSXJPX2RTQRILMnk5ZU1FUTlxUGs"
     }
   },
   "YpTBuCeyowI": {
@@ -375,7 +377,8 @@
       "title": "\u3010Slime Rancher\u3011BY STRONG DEMAND\u300e Rina Astera | OshiLinkEN\u300f"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-20T01:00:00Z"
+      "scheduledStartTime": "2024-06-20T01:00:00Z",
+      "activeLiveChatId": "Cg0KC1lwVEJ1Q2V5b3dJKicKGFVDUGx0UVhJZ1FhRDVtVmtBSXJPX2RTQRILWXBUQnVDZXlvd0k"
     }
   },
   "JLfnvO24kPI": {
@@ -396,6 +399,25 @@
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-21T13:00:00Z"
+    }
+  },
+  "d1xRLFAzTf8": {
+    "snippet": {
+      "publishedAt": "2024-06-07T18:52:22Z",
+      "channelId": "UCPltQXIgQaD5mVkAIrO_dSA",
+      "title": "Stellar Stellar - Cover by \u300e Rina Astera | OshiLinkEN\u300f\u3010\u6b4c\u3063\u3066\u307f\u305f\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-20T20:00:00Z",
+      "activeLiveChatId": "Cg0KC2QxeFJMRkF6VGY4KicKGFVDUGx0UVhJZ1FhRDVtVmtBSXJPX2RTQRILZDF4UkxGQXpUZjg",
+      "premiere": true
+    }
+  },
+  "NUBBgntcqWI": {
+    "snippet": {
+      "publishedAt": "2024-06-18T01:22:47Z",
+      "channelId": "UCPltQXIgQaD5mVkAIrO_dSA",
+      "title": "How do you make a VTuber song?"
     }
   }
 }

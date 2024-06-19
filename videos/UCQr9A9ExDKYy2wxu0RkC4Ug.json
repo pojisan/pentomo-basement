@@ -146,8 +146,9 @@
       "title": "\u3010OVERWATCH2\u3011Can I marry pink Mercy pls? | #EmiBLive"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-17T23:30:00Z",
-      "activeLiveChatId": "Cg0KC1V2VzdjYXluaU1FKicKGFVDUXI5QTlFeERLWXkyd3h1MFJrQzRVZxILVXZXN2NheW5pTUU"
+      "actualStartTime": "2024-06-17T23:31:40Z",
+      "actualEndTime": "2024-06-18T03:01:07Z",
+      "scheduledStartTime": "2024-06-17T23:31:34Z"
     }
   },
   "IlNcpRjW9hI": {
@@ -157,8 +158,9 @@
       "title": "\u3010POPPY PLAYTIME\u3011Erm, he's right behind me isn't he? | #EmiBLive"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-18T23:30:00Z",
-      "activeLiveChatId": "Cg0KC0lsTmNwUmpXOWhJKicKGFVDUXI5QTlFeERLWXkyd3h1MFJrQzRVZxILSWxOY3BSalc5aEk"
+      "actualStartTime": "2024-06-18T23:31:20Z",
+      "actualEndTime": "2024-06-19T03:02:28Z",
+      "scheduledStartTime": "2024-06-18T23:31:11Z"
     }
   },
   "q9Pbl-NZ9tw": {
@@ -168,8 +170,33 @@
       "title": "\u3010UNARCHIVED KARAOKE\u3011My first time singing for you all! | #EmiBLive"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-20T15:30:00Z",
+      "scheduledStartTime": "2024-06-20T16:30:00Z",
       "activeLiveChatId": "Cg0KC3E5UGJsLU5aOXR3KicKGFVDUXI5QTlFeERLWXkyd3h1MFJrQzRVZxILcTlQYmwtTlo5dHc"
+    }
+  },
+  "-XPGDCOa4bM": {
+    "snippet": {
+      "publishedAt": "2024-06-17T22:16:06Z",
+      "channelId": "UCQr9A9ExDKYy2wxu0RkC4Ug",
+      "title": "\u3010LORE\u3011Assassin to Lazy Gamer | Emilene Briar"
+    }
+  },
+  "NkF4BujyiBc": {
+    "snippet": {
+      "publishedAt": "2024-06-18T19:46:16Z",
+      "channelId": "UCQr9A9ExDKYy2wxu0RkC4Ug",
+      "title": "I cannot teleport if my life depends on it #overwatch2 #vtuber #vtuberclips #envtuber #shorts"
+    }
+  },
+  "4GfndsK92cc": {
+    "snippet": {
+      "publishedAt": "2024-06-19T06:36:09Z",
+      "channelId": "UCQr9A9ExDKYy2wxu0RkC4Ug",
+      "title": "\u3010PHASMOPHOBIA\u3011Which one of us will survive the investigations..? | Wonder Pop Collab #EmiBLive"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-22T02:00:00Z",
+      "activeLiveChatId": "Cg0KCzRHZm5kc0s5MmNjKicKGFVDUXI5QTlFeERLWXkyd3h1MFJrQzRVZxILNEdmbmRzSzkyY2M"
     }
   }
 }

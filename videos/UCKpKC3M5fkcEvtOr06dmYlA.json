@@ -2499,7 +2499,7 @@
       "private": true
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-16T01:00:00Z",
+      "scheduledStartTime": "2024-06-19T12:00:00Z",
       "activeLiveChatId": "Cg0KC3FiZHlSYUlRN0pVKicKGFVDS3BLQzNNNWZrY0V2dE9yMDZkbVlsQRILcWJkeVJhSVE3SlU"
     }
   },
@@ -2514,6 +2514,18 @@
       "actualEndTime": "2024-06-16T05:37:11Z",
       "scheduledStartTime": "2024-06-16T04:00:00Z",
       "activeLiveChatId": "Cg0KC1RaTnZMVzZuQnpVKicKGFVDS3BLQzNNNWZrY0V2dE9yMDZkbVlsQRILVFpOdkxXNm5CelU"
+    }
+  },
+  "CPRDz2vNqfM": {
+    "snippet": {
+      "publishedAt": "2024-06-18T06:49:19Z",
+      "channelId": "UCKpKC3M5fkcEvtOr06dmYlA",
+      "title": "\u3010MINECRAFT HERO SERVER\u3011THE ADVENTURE IS ONGOING\u3010NIJISANJI EN | Yu Q. Wilson\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T12:12:03Z",
+      "actualEndTime": "2024-06-18T13:55:40Z",
+      "scheduledStartTime": "2024-06-18T12:00:00Z"
     }
   }
 }

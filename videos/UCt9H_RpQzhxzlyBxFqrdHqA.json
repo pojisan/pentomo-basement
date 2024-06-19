@@ -4332,6 +4332,8 @@
       "title": "\u3010WATCHALONG: HACHI - A DOG'S TALE\u3011the story of dedicated doggos \ud83d\udc3e\u3010MEMBERS ONLY\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-17T00:55:34Z",
+      "actualEndTime": "2024-06-17T04:06:27Z",
       "scheduledStartTime": "2024-06-17T01:00:00Z",
       "activeLiveChatId": "Cg0KC3JRXzlvM245NkpRKicKGFVDdDlIX1JwUXpoeHpseUJ4RnFyZEhxQRILclFfOW8zbjk2SlE"
     }
@@ -4343,7 +4345,53 @@
       "title": "\u3010FUWAMOCO MORNING\u3011episode 100 \ud83d\udc3e #FWMCMORNING"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-17T14:55:15Z",
+      "actualEndTime": "2024-06-17T15:58:12Z",
       "scheduledStartTime": "2024-06-17T15:00:00Z"
+    }
+  },
+  "B0sah9if6hE": {
+    "snippet": {
+      "publishedAt": "2024-06-17T18:40:56Z",
+      "channelId": "UCt9H_RpQzhxzlyBxFqrdHqA",
+      "title": "\u3010ICE CLIMBER\u3011fluffy and fuzzy retro ice cubes \ud83d\udc3e #shorts \u3010\u7e26\u578b\u914d\u4fe1 VERTICAL\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T00:55:15Z",
+      "actualEndTime": "2024-06-19T03:22:35Z",
+      "scheduledStartTime": "2024-06-19T01:00:00Z"
+    }
+  },
+  "7P-gFXya5U8": {
+    "snippet": {
+      "publishedAt": "2024-06-17T18:35:54Z",
+      "channelId": "UCt9H_RpQzhxzlyBxFqrdHqA",
+      "title": "\u3010FUWAMOCO MORNING\u3011episode 101 \ud83d\udc3e #FWMCMORNING"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T14:55:33Z",
+      "scheduledStartTime": "2024-06-19T15:00:00Z",
+      "activeLiveChatId": "Cg0KCzdQLWdGWHlhNVU4KicKGFVDdDlIX1JwUXpoeHpseUJ4RnFyZEhxQRILN1AtZ0ZYeWE1VTg"
+    }
+  },
+  "JxkXIozpz80": {
+    "snippet": {
+      "publishedAt": "2024-06-17T18:42:46Z",
+      "channelId": "UCt9H_RpQzhxzlyBxFqrdHqA",
+      "title": "\u3010FUWAMOCO MORNING\u3011episode 102 \ud83d\udc3e #FWMCMORNING"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-21T15:00:00Z"
+    }
+  },
+  "5silKaoaQ88": {
+    "snippet": {
+      "publishedAt": "2024-06-17T18:42:04Z",
+      "channelId": "UCt9H_RpQzhxzlyBxFqrdHqA",
+      "title": "\u3010KEEP TALKING AND NOBODY EXPLODES\u3011it's BAUver \ud83d\udc3e\u3010FUWAMOCO\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-21T23:00:00Z"
     }
   }
 }

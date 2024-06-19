@@ -3213,8 +3213,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-16T23:59:45Z",
-      "scheduledStartTime": "2024-06-17T00:00:00Z",
-      "activeLiveChatId": "Cg0KC3JSUVhjckxzNGFZKicKGFVDaXl6b3JETnc2dEpXR0VWSXRINFNtZxILclJRWGNyTHM0YVk"
+      "actualEndTime": "2024-06-17T00:30:07Z",
+      "scheduledStartTime": "2024-06-17T00:00:00Z"
     }
   },
   "NTvc65vHgzQ": {
@@ -3224,8 +3224,33 @@
       "title": "THERE'S A LOTL TO TALK ABOUT!! WOOPYO! \u3010COUNTDOW TO SEASON 2\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-17T05:00:00Z",
-      "activeLiveChatId": "Cg0KC05UdmM2NXZIZ3pRKicKGFVDaXl6b3JETnc2dEpXR0VWSXRINFNtZxILTlR2YzY1dkhnelE"
+      "actualStartTime": "2024-06-17T05:00:26Z",
+      "actualEndTime": "2024-06-17T07:25:19Z",
+      "scheduledStartTime": "2024-06-17T05:00:00Z"
+    }
+  },
+  "ZmCzH1ScCEw": {
+    "snippet": {
+      "publishedAt": "2024-06-18T07:04:35Z",
+      "channelId": "UCiyzorDNw6tJWGEVItH4Smg",
+      "title": "SILLY DOODLING WITH  @ArisuOshiro \u3010ART\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T19:00:15Z",
+      "actualEndTime": "2024-06-18T21:26:00Z",
+      "scheduledStartTime": "2024-06-18T19:00:00Z"
+    }
+  },
+  "HDbEyxb1jgE": {
+    "snippet": {
+      "publishedAt": "2024-06-18T21:19:26Z",
+      "channelId": "UCiyzorDNw6tJWGEVItH4Smg",
+      "title": "lottie in minecraft, what will she do?\u3010MINECRAFT\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T23:02:24Z",
+      "actualEndTime": "2024-06-19T02:34:42Z",
+      "scheduledStartTime": "2024-06-18T23:00:00Z"
     }
   }
 }

@@ -233,8 +233,30 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-17T00:14:12Z",
-      "scheduledStartTime": "2024-06-17T00:00:00Z",
-      "activeLiveChatId": "Cg0KC0YxeHJwcG1GYnZVKicKGFVDaTdUd29tdFMzWnlmakFNNVRXRU1TURILRjF4cnBwbUZidlU"
+      "actualEndTime": "2024-06-17T04:13:37Z",
+      "scheduledStartTime": "2024-06-17T00:00:00Z"
+    }
+  },
+  "urVgSGxbWZo": {
+    "snippet": {
+      "publishedAt": "2024-06-17T07:03:42Z",
+      "channelId": "UCi7TwomtS3ZyfjAM5TWEMSQ",
+      "title": "\u3010One Shot\u3011Can only do it once, or maybe..? \ud83d\udc10\ud83c\udf7cPT 4\u3010VAllure\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-20T00:00:00Z",
+      "activeLiveChatId": "Cg0KC3VyVmdTR3hiV1pvKicKGFVDaTdUd29tdFMzWnlmakFNNVRXRU1TURILdXJWZ1NHeGJXWm8"
+    }
+  },
+  "Qf_BUAFeGgw": {
+    "snippet": {
+      "publishedAt": "2024-06-17T07:02:14Z",
+      "channelId": "UCi7TwomtS3ZyfjAM5TWEMSQ",
+      "title": "\u3010Fall Guys\u3011Only the best of the best \ud83d\udc10\ud83c\udf7c  Collab w/ Shibi\u3010VAllure\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-19T20:00:00Z",
+      "activeLiveChatId": "Cg0KC1FmX0JVQUZlR2d3KicKGFVDaTdUd29tdFMzWnlmakFNNVRXRU1TURILUWZfQlVBRmVHZ3c"
     }
   }
 }
