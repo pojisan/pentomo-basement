@@ -1436,6 +1436,18 @@
       "activeLiveChatId": "Cg0KC0FSall1RWx1UEg4KicKGFVDd21HXzd5NnBUb1JXSEo5VHdGZFoxURILQVJqWXVFbHVQSDg"
     }
   },
+  "Ae9AJYPRnDM": {
+    "snippet": {
+      "publishedAt": "2024-06-19T16:59:26Z",
+      "channelId": "UCVPBGmlsC8S-TNa_IEVcz1A",
+      "title": "\ud83c\udf51\u3010PRINCESS PEACH SHOWTIME\u3011#4 PRETTY PINK PRINCESS TIME\u3010Yume+ | Raein Clowd\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T17:02:29Z",
+      "scheduledStartTime": "2024-06-19T17:00:00Z",
+      "activeLiveChatId": "Cg0KC0FlOUFKWVBSbkRNKicKGFVDVlBCR21sc0M4Uy1UTmFfSUVWY3oxQRILQWU5QUpZUFJuRE0"
+    }
+  },
   "AhL1Rek8qG0": {
     "snippet": {
       "publishedAt": "2024-06-17T17:46:32Z",
@@ -1565,17 +1577,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-10-13T19:00:00Z",
       "activeLiveChatId": "Cg0KC0M0MVJubWFSOGZNKicKGFVDSW8zM2IwaGYyX21kcXRBWnZLbGF5URILQzQxUm5tYVI4Zk0"
-    }
-  },
-  "CJR7a3SPF08": {
-    "snippet": {
-      "publishedAt": "2024-06-19T15:56:00Z",
-      "channelId": "UCVPBGmlsC8S-TNa_IEVcz1A",
-      "title": "\ud83c\udf51\u3010PRINCESS PEACH SHOWTIME\u3011#4 PRETTY PINK PRINCESS TIME\u3010Yume+ | Raein Clowd\u3011"
-    },
-    "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-19T17:00:00Z",
-      "activeLiveChatId": "Cg0KC0NKUjdhM1NQRjA4KicKGFVDVlBCR21sc0M4Uy1UTmFfSUVWY3oxQRILQ0pSN2EzU1BGMDg"
     }
   },
   "COTh3oGeS7A": {
@@ -3237,6 +3238,7 @@
       "title": "\u3010Apex Legends Collab!!\u3011THE RETURN RAAAA\u3010Sarugaku Leon Jr. | Globie\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T16:58:32Z",
       "scheduledStartTime": "2024-06-19T17:00:00Z",
       "activeLiveChatId": "Cg0KC05NM2hnamtfNVBZKicKGFVDLUxBbkZMWFU5QnVzRnY3bjhsRmo4ZxILTk0zaGdqa181UFk"
     }
@@ -5379,6 +5381,17 @@
       "activeLiveChatId": "Cg0KC2JkNl9wakt2U3RzKicKGFVDelJSdndmZlJBNTdsWW9Zd0Nzbko3QRILYmQ2X3BqS3ZTdHM"
     }
   },
+  "bfrzCNm5nzE": {
+    "snippet": {
+      "publishedAt": "2024-06-03T17:39:55Z",
+      "channelId": "UC-hMwvRuMsQrfgu0DPKLV2A",
+      "title": "Rating MAL's Top 50 Anime For You!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-22T16:00:00Z",
+      "activeLiveChatId": "Cg0KC2JmcnpDTm01bnpFKicKGFVDLWhNd3ZSdU1zUXJmZ3UwRFBLTFYyQRILYmZyekNObTVuekU"
+    }
+  },
   "bhoFtV19Nwk": {
     "snippet": {
       "publishedAt": "2024-06-16T20:43:46Z",
@@ -6094,6 +6107,17 @@
       "activeLiveChatId": "Cg0KC2hhXzJ5a2J0U1VrKicKGFVDd21HXzd5NnBUb1JXSEo5VHdGZFoxURILaGFfMnlrYnRTVWs"
     }
   },
+  "hadesmythos": {
+    "snippet": {
+      "channelId": "hadesmythos",
+      "title": "\u2726\ud83d\udd25PRINCESS TIERLIST, ELDEN RING, RE VILLAGE? MORE STUFF? WHO KNOWS HONESTLY\ud83d\udd25\u2726 \u300e|!UWU |!Daki |!throne |!discord |!treat |!donate\u300f",
+      "channelTitle": "HadesMythos"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T16:52:37Z",
+      "twitch": true
+    }
+  },
   "hi88GfuA45Y": {
     "snippet": {
       "publishedAt": "2024-06-16T01:53:10Z",
@@ -6790,6 +6814,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2026-05-30T14:45:00Z",
       "activeLiveChatId": "Cg0KC21fSlMxY2N2RWs4KicKGFVDX3Q3d3RTY1ZMazg1SWFEOWpZU1JBQRILbV9KUzFjY3ZFazg"
+    }
+  },
+  "margo": {
+    "snippet": {
+      "channelId": "margo",
+      "title": "\u3010BIRTHDAY DONOTHON DAY 1\u30113.0 + Epic Margo Birthday Jamboree!!!!!!! \ud83c\udf30 !patreon !asmr",
+      "channelTitle": "margo"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T17:02:22Z",
+      "twitch": true
     }
   },
   "mfoHpYA39oc": {
@@ -7741,6 +7776,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-08-30T04:35:00Z",
       "activeLiveChatId": "Cg0KC3NrVENLZ003YmlJKicKGFVDazB2dXd3c21fVVFISElPZ0d2eFUtQRILc2tUQ0tnTTdiaUk"
+    }
+  },
+  "slwiNJLTYHA": {
+    "snippet": {
+      "publishedAt": "2024-06-19T14:52:33Z",
+      "channelId": "UCMmy_EmxnYQ8aar8fNZrumw",
+      "title": "\u3010The Abduction\u3011kidnapping @AkamiChiyoCh"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-22T15:00:00Z",
+      "activeLiveChatId": "Cg0KC3Nsd2lOSkxUWUhBKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILc2x3aU5KTFRZSEE"
     }
   },
   "su2wbOAvLjI": {

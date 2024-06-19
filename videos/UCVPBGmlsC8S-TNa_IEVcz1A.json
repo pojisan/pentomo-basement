@@ -1223,11 +1223,24 @@
     "snippet": {
       "publishedAt": "2024-06-19T15:56:00Z",
       "channelId": "UCVPBGmlsC8S-TNa_IEVcz1A",
-      "title": "\ud83c\udf51\u3010PRINCESS PEACH SHOWTIME\u3011#4 PRETTY PINK PRINCESS TIME\u3010Yume+ | Raein Clowd\u3011"
+      "title": "\ud83c\udf51\u3010PRINCESS PEACH SHOWTIME\u3011#4 PRETTY PINK PRINCESS TIME\u3010Yume+ | Raein Clowd\u3011",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-19T17:00:00Z",
       "activeLiveChatId": "Cg0KC0NKUjdhM1NQRjA4KicKGFVDVlBCR21sc0M4Uy1UTmFfSUVWY3oxQRILQ0pSN2EzU1BGMDg"
+    }
+  },
+  "Ae9AJYPRnDM": {
+    "snippet": {
+      "publishedAt": "2024-06-19T16:59:26Z",
+      "channelId": "UCVPBGmlsC8S-TNa_IEVcz1A",
+      "title": "\ud83c\udf51\u3010PRINCESS PEACH SHOWTIME\u3011#4 PRETTY PINK PRINCESS TIME\u3010Yume+ | Raein Clowd\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T17:02:29Z",
+      "scheduledStartTime": "2024-06-19T17:00:00Z",
+      "activeLiveChatId": "Cg0KC0FlOUFKWVBSbkRNKicKGFVDVlBCR21sc0M4Uy1UTmFfSUVWY3oxQRILQWU5QUpZUFJuRE0"
     }
   }
 }
