@@ -64,6 +64,17 @@
       "activeLiveChatId": "Cg0KCy02ZUJwNTVsYjlJKicKGFVDa2lVQnlCQ0YxYU9pUmQxNnhBbFBNZxILLTZlQnA1NWxiOUk"
     }
   },
+  "-78bx8zrcyQ": {
+    "snippet": {
+      "publishedAt": "2024-06-19T10:53:28Z",
+      "channelId": "UCucJYLJSEFRRfV2CA_JGHIQ",
+      "title": "\u3010\u98f2\u9152\u96d1\u8ac7\u3011\u3059\u3000\u3054\u3000\u3044\u3000\u7121\u3000\u7b56\u3010#\u5deb\u30ed\u30ad/Phase Connect\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-19T14:00:00Z",
+      "activeLiveChatId": "Cg0KCy03OGJ4OHpyY3lRKicKGFVDdWNKWUxKU0VGUlJmVjJDQV9KR0hJURILLTc4Yng4enJjeVE"
+    }
+  },
   "-JcCsS_CVzk": {
     "snippet": {
       "publishedAt": "2024-05-08T01:00:49Z",
@@ -2588,6 +2599,7 @@
       "title": "\u3010#\u306b\u3058GTA \u3011Host....?"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T11:02:00Z",
       "scheduledStartTime": "2024-06-19T11:00:00Z",
       "activeLiveChatId": "Cg0KC0pQZnYzcUwwVDNFKicKGFVDRzByekJaVl9RTVA0TXRXZzZJamhFQRILSlBmdjNxTDBUM0U"
     }
@@ -3379,18 +3391,6 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC1AtUS1lTXJpNFFvKicKGFVDM0FZdG1NTmRKY3pDdlFOb1B5LWdqdxILUC1RLWVNcmk0UW8"
-    }
-  },
-  "P-uasrS-uEA": {
-    "snippet": {
-      "publishedAt": "2024-06-19T10:41:06Z",
-      "channelId": "UCqjTqdVlvIipZXIKeCkHKUA",
-      "title": "\u3010 #\u306b\u3058GTA \u3011\u6e21\u4e16\u4eba\u30aa\u30ea\u30d0\u30fc\u30fb\u30a8\u30d0\u30f3\u30b9\u304c\u30ef\u30eb\u306e\u9053\u3067\u5730\u9053\u306b\u50cd\u304f\u3088\u3046\u3067\u3059\uff034\u3010\u30aa\u30ea\u30d0\u30fc\u30fb\u30a8\u30d0\u30f3\u30b9/\u306b\u3058\u3055\u3093\u3058\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-19T10:50:56Z",
-      "scheduledStartTime": "2024-06-19T10:50:00Z",
-      "activeLiveChatId": "Cg0KC1AtdWFzclMtdUVBKicKGFVDcWpUcWRWbHZJaXBaWElLZUNrSEtVQRILUC11YXNyUy11RUE"
     }
   },
   "P5-fnLu1J1w": {
@@ -4349,6 +4349,7 @@
       "title": "\u3010#\u306b\u3058GTA  \u3011BECOMING A HOST / \u30de\u30d5\u30a3\u30a2\u306e\u30db\u30b9\u30c8\u306b\u306a\u308b \u3010NIJISANJI EN | Luca Kaneshiro\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T11:02:50Z",
       "scheduledStartTime": "2024-06-19T11:00:00Z",
       "activeLiveChatId": "Cg0KC1ZaX3FfTF95M3BFKicKGFVDN0diN1Vhd2UyMFF5RmliaExsMWx6QRILVlpfcV9MX3kzcEU"
     }
@@ -5412,6 +5413,7 @@
       "title": "\u3010#\u306b\u3058GTA\u3011 the beginning of the end \u3010NIJISANJI GTA\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T11:02:14Z",
       "scheduledStartTime": "2024-06-19T10:00:00Z",
       "activeLiveChatId": "Cg0KC2RIdkd6RHUwOUY0KicKGFVDel9aUnc2YWs0Rm95OHpaeTBrRXByURILZEh2R3pEdTA5RjQ"
     }
@@ -6107,6 +6109,17 @@
       "activeLiveChatId": "Cg0KC2llQzA3ejFLaV84KicKGFVDSHQ0RjMtLUhxMHNOWFA2REVkbFNtZxILaWVDMDd6MUtpXzg"
     }
   },
+  "inumaromugi": {
+    "snippet": {
+      "channelId": "inumaromugi",
+      "title": "\u3010Eri\u3011cloud ferret radio~||\u2726 \u207a.",
+      "channelTitle": "InumaroMugi"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T10:58:45Z",
+      "twitch": true
+    }
+  },
   "iwcO164geLs": {
     "snippet": {
       "publishedAt": "2024-06-19T06:35:04Z",
@@ -6517,6 +6530,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-12-31T15:45:00Z",
       "activeLiveChatId": "Cg0KC2xydm9FbUZfZDkwKicKGFVDMWVYX01Wck4wRUJLZHBrbjliLWpodxILbHJ2b0VtRl9kOTA"
+    }
+  },
+  "lteASZkiJlA": {
+    "snippet": {
+      "publishedAt": "2024-06-17T11:11:01Z",
+      "channelId": "UCLKUX65DUynX3azXjBFh2CA",
+      "title": "\u3010 WUTHERING WAVES \u3011BEEN A WHILE, WUWA!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-20T01:00:00Z",
+      "activeLiveChatId": "Cg0KC2x0ZUFTWmtpSmxBKicKGFVDTEtVWDY1RFV5blgzYXpYakJGaDJDQRILbHRlQVNaa2lKbEE"
     }
   },
   "lymzkbD9NVI": {
@@ -7444,6 +7468,17 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC3J2V3dhdWxKNlJBKicKGFVDdS1yVjJnUHRKLUNzR3hlNzF6X0JyURILcnZXd2F1bEo2UkE"
+    }
+  },
+  "ryQId_Rkxp8": {
+    "snippet": {
+      "publishedAt": "2024-06-19T10:58:59Z",
+      "channelId": "UCRIeS3g-awIQuPAPnApHbCA",
+      "title": "\u3010PKMN SOULLINK: X AND Y\u3011FOSSILS AND FRUSTRATION  #pkmnpride2024"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-20T04:00:00Z",
+      "activeLiveChatId": "Cg0KC3J5UUlkX1JreHA4KicKGFVDUkllUzNnLWF3SVF1UEFQbkFwSGJDQRILcnlRSWRfUmt4cDg"
     }
   },
   "s6PNhDB0yzU": {
@@ -8456,7 +8491,7 @@
   "zeusmythosvt": {
     "snippet": {
       "channelId": "zeusmythosvt",
-      "title": "\u300c \ud83c\udf29\ufe0f HALF ANNIV UNCAPPED SUBATHON \ud83c\udf29\ufe0f \u300d  DAY 5: DUO HUNTERS TIME DUO HUNTERS TIME YIPEE \u26a1 !fish !discord !throne !lurk !daki !uwu !GS",
+      "title": "\u300c \ud83c\udf29\ufe0f HALF ANNIV UNCAPPED SUBATHON \ud83c\udf29\ufe0f \u300d  DAY 5: CLEARING STUFF IN WORLD FOR ICEBORNE LATER \u26a1 !fish !discord !throne !lurk !daki !uwu !GS",
       "channelTitle": "ZeusMythosVT"
     },
     "liveStreamingDetails": {
