@@ -71,7 +71,7 @@
       "title": "\u3010Fall Guys Collab w/Azura!\u3011My worst enemy: PLATFORMING \u3010VAllure\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-19T16:15:00Z",
+      "scheduledStartTime": "2024-06-19T20:00:00Z",
       "activeLiveChatId": "Cg0KCy1CbDJ3VDR3N0drKicKGFVDdll6d0VrQ1EyN2dQYWo1NHdCc1ZPZxILLUJsMndUNHc3R2s"
     }
   },
@@ -1972,7 +1972,7 @@
       "title": "\u3010The Expanse\u3011First Ones"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-19T20:00:00Z",
+      "scheduledStartTime": "2024-06-19T20:45:00Z",
       "activeLiveChatId": "Cg0KC0YxNGk3a3pjeFprKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILRjE0aTdremN4Wms"
     }
   },
@@ -3256,6 +3256,7 @@
       "title": "\u3010DEAD BY DAYLIGHT\u3011Let's loop and have a good day"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T19:39:37Z",
       "scheduledStartTime": "2024-06-19T19:45:00Z",
       "activeLiveChatId": "Cg0KC05IS0NKZmI2RmxFKicKGFVDQjdxeW5KOXFwMGNOV1JGZUJhd0I0QRILTkhLQ0pmYjZGbEU"
     }
@@ -6099,6 +6100,17 @@
       "twitch": true
     }
   },
+  "haruna": {
+    "snippet": {
+      "channelId": "haruna",
+      "title": "shoert time PEX",
+      "channelTitle": "haruna"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T19:34:11Z",
+      "twitch": true
+    }
+  },
   "hi88GfuA45Y": {
     "snippet": {
       "publishedAt": "2024-06-16T01:53:10Z",
@@ -6839,7 +6851,7 @@
       "channelTitle": "mumuguru"
     },
     "liveStreamingDetails": {
-      "actualStartTime": "2024-06-19T18:04:13Z",
+      "actualStartTime": "2024-06-19T19:40:28Z",
       "twitch": true
     }
   },
@@ -7769,6 +7781,17 @@
       "activeLiveChatId": "Cg0KC3Nsd2lOSkxUWUhBKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILc2x3aU5KTFRZSEE"
     }
   },
+  "starryyozzy": {
+    "snippet": {
+      "channelId": "starryyozzy",
+      "title": "{OPEN LOBBIES} Lets loop and have fun yeah!!! !candle !ADVGG  !fish !VITE !s4gs! #SHIRTMYSURVIVOR (plz)",
+      "channelTitle": "StarryYozzy"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T19:39:36Z",
+      "twitch": true
+    }
+  },
   "su2wbOAvLjI": {
     "snippet": {
       "publishedAt": "2023-11-20T14:49:46Z",
@@ -8386,6 +8409,17 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC3hoejNaZUhYaVI4KicKGFVDZWpiaWNvUm5RakNPZEFQQXY1SlB3ZxILeGh6M1plSFhpUjg"
+    }
+  },
+  "xiulanlong": {
+    "snippet": {
+      "channelId": "xiulanlong",
+      "title": "[VTUBER] PREPPIN FOR DLCDLCDLC (\u25cd\u2022\u1d17\u2022\u25cd) !cover !discord !merch",
+      "channelTitle": "XiulanLong"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T19:40:41Z",
+      "twitch": true
     }
   },
   "xr_PtSDzNT0": {
