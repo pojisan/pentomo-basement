@@ -761,6 +761,7 @@
       "title": "\u3010BODYCAM\u3011FBI open up\u3010Dokibird\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T00:01:10Z",
       "scheduledStartTime": "2024-06-19T00:00:00Z",
       "activeLiveChatId": "Cg0KCzRTcWNseVd2bi04KicKGFVDb21JblcxME1rSEpzLV92aTRySFFDURILNFNxY2x5V3ZuLTg"
     }
@@ -962,7 +963,7 @@
     "snippet": {
       "publishedAt": "2024-06-17T10:30:32Z",
       "channelId": "UC_t7wtScVLk85IaD9jYSRAA",
-      "title": "\u3010Zatsudan\u3011It's been 1 month since debut! Time sure does fly!\u3010Yume+ | Aimee\u3011"
+      "title": "\u3010Zatsudan\u30111 Month Debut Anniversary! Time sure does fly!\u3010Yume+ | Aimee\u3011"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-19T00:00:00Z",
@@ -1289,6 +1290,7 @@
       "title": "[Members Only] Gamers"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T23:59:25Z",
       "scheduledStartTime": "2024-06-19T00:00:00Z",
       "activeLiveChatId": "Cg0KCzl2WWNkX1JZYUVzKicKGFVDMmdQYk9qb19OTTJRZXJvQXJXOFllZxILOXZZY2RfUllhRXM"
     }
@@ -2321,6 +2323,7 @@
       "title": "\u3010PORTAL\u3011Welcome to Aperture Science!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T00:01:18Z",
       "scheduledStartTime": "2024-06-19T00:00:00Z",
       "activeLiveChatId": "Cg0KC0g5RVBqUWN1WFcwKicKGFVDa0o2NFcwSjdSMHpDU0FzWmZSSWhWURILSDlFUGpRY3VYVzA"
     }
@@ -2475,6 +2478,7 @@
       "title": "Wastin' Away Again In Uraniumville [Fallout: New Vegas #3]"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T23:59:12Z",
       "scheduledStartTime": "2024-06-19T00:00:00Z",
       "activeLiveChatId": "Cg0KC0lNT1lPQzd2N0tBKicKGFVDQXhWb0JMRzJCdjF4Z2JZVV9lZnNDZxILSU1PWU9DN3Y3S0E"
     }
@@ -3862,6 +3866,7 @@
       "title": "\u3010Old School RuneScape\u3011Our Journey Begins! \ud83c\udfbc"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T23:55:19Z",
       "scheduledStartTime": "2024-06-19T00:00:00Z",
       "activeLiveChatId": "Cg0KC1NPTHNUblB6bUFFKicKGFVDX3NGTk0wejBNV205QTZXbEtQdU1NZxILU09Mc1RuUHptQUU"
     }
@@ -4370,7 +4375,7 @@
       "title": "\u3010Chatting\u3011Setting up my new stream room!\u3010Fionna fon Engels \u2661 Project: Verses\u3011"
     },
     "liveStreamingDetails": {
-      "actualStartTime": "2024-06-18T23:50:58Z",
+      "actualStartTime": "2024-06-18T23:51:28Z",
       "scheduledStartTime": "2024-06-19T00:00:00Z",
       "activeLiveChatId": "Cg0KC1ZVdmdoWDhwd2JJKicKGFVDb3ZLd2dBOWVIVXV0SVdDVldTX0FHdxILVlV2Z2hYOHB3Ykk"
     }
@@ -5179,6 +5184,7 @@
       "title": "\u3010Overwatch 2\u3011Solo rank ~  \u3010Yuuki Ame\u30fbbondlive EN\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T23:59:10Z",
       "scheduledStartTime": "2024-06-19T00:00:00Z",
       "activeLiveChatId": "Cg0KC2FaV3huc3RhMVdvKicKGFVDSFZZZDJGdGVrNUhpZWdSanQyWDkyZxILYVpXeG5zdGExV28"
     }
@@ -6315,6 +6321,17 @@
       "activeLiveChatId": "Cg0KC2pibm9TckRKNDFJKicKGFVDdS1KOHVJWHVMWmgxNmdHLWNUMW5hdxILamJub1NyREo0MUk"
     }
   },
+  "jeanfaymas": {
+    "snippet": {
+      "channelId": "jeanfaymas",
+      "title": "LAST STREAM BEFORE S3D DEBUT!? \u2726 !s3d !merch !vershion",
+      "channelTitle": "JeanFaymas"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T00:00:47Z",
+      "twitch": true
+    }
+  },
   "jl3O-Onz18w": {
     "snippet": {
       "publishedAt": "2024-06-18T12:26:25Z",
@@ -6474,6 +6491,7 @@
       "title": "\u3010MEMBERS ONLY!\u3011Let's Write A Song For 1 Year!\u3010V4Mirai | Serina Maiko | ENVtuber\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T00:00:31Z",
       "scheduledStartTime": "2024-06-19T00:00:00Z",
       "activeLiveChatId": "Cg0KC2tuNGpaNnAzaENzKicKGFVDdjFUaHlFNEtWWW5uVlk4R0xmdG5vQRILa240alo2cDNoQ3M"
     }
@@ -6662,6 +6680,17 @@
       "activeLiveChatId": "Cg0KC2xydm9FbUZfZDkwKicKGFVDMWVYX01Wck4wRUJLZHBrbjliLWpodxILbHJ2b0VtRl9kOTA"
     }
   },
+  "lumioralumen": {
+    "snippet": {
+      "channelId": "lumioralumen",
+      "title": "Sonic Character.AI? What could go wrong--",
+      "channelTitle": "LumioraLumen"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T23:59:51Z",
+      "twitch": true
+    }
+  },
   "lymzkbD9NVI": {
     "snippet": {
       "publishedAt": "2024-05-31T02:09:32Z",
@@ -6700,6 +6729,7 @@
       "title": "\u3010RUNIE RUSEDAY #27\u3011HOUSE KEEPING"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T23:58:23Z",
       "scheduledStartTime": "2024-06-19T00:00:00Z",
       "activeLiveChatId": "Cg0KC21FQzVLYjAtdkdVKicKGFVDb0FRc2MtRFEwTWpmVHAwNTlvdFFBdxILbUVDNUtiMC12R1U"
     }
@@ -7826,6 +7856,7 @@
       "title": "Playing In A Server Filled With Cuties...\u3010Minecraft VSMP\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-18T23:55:27Z",
       "scheduledStartTime": "2024-06-19T00:00:00Z",
       "activeLiveChatId": "Cg0KC3RWYUNvV0NoOHg4KicKGFVDbzl3QnowRmtKd2lMZWFnQjh0V1hDZxILdFZhQ29XQ2g4eDg"
     }
@@ -7950,18 +7981,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-20T00:00:00Z",
       "activeLiveChatId": "Cg0KC3VyVmdTR3hiV1pvKicKGFVDaTdUd29tdFMzWnlmakFNNVRXRU1TURILdXJWZ1NHeGJXWm8"
-    }
-  },
-  "uu_8ZDmxcZs": {
-    "snippet": {
-      "publishedAt": "2024-06-18T19:39:32Z",
-      "channelId": "UCXhRd4KkpzYsPm5hFTPVsqw",
-      "title": "\u3010GHOST OF TSUSHIMA: Part 10\u3011was honor worth it?\u3010V&U | GEN4\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-18T20:45:21Z",
-      "scheduledStartTime": "2024-06-18T20:45:00Z",
-      "activeLiveChatId": "Cg0KC3V1XzhaRG14Y1pzKicKGFVDWGhSZDRLa3B6WXNQbTVoRlRQVnNxdxILdXVfOFpEbXhjWnM"
     }
   },
   "uzmVxDs6pmU": {
