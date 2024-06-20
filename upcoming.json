@@ -608,7 +608,8 @@
       "title": "\u3010MEGA MAN X3 #1\u3011NEW ERA NEW MIU"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-20T04:00:00Z",
+      "actualStartTime": "2024-06-20T04:01:23Z",
+      "scheduledStartTime": "2024-06-20T04:01:18Z",
       "activeLiveChatId": "Cg0KCzNQLVVWTmtfdjhRKicKGFVDY2hHWVA1dDVWejQ4VVZ4Tk9pZmstURILM1AtVVZOa192OFE"
     }
   },
@@ -1538,6 +1539,7 @@
       "title": "\u3010Sonic Adventure 1\u3011Let's finish this!!!\u3010Yume+ | Aimee\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-20T03:58:10Z",
       "scheduledStartTime": "2024-06-20T04:00:00Z",
       "activeLiveChatId": "Cg0KC0NvZlRVZXNwYVk0KicKGFVDX3Q3d3RTY1ZMazg1SWFEOWpZU1JBQRILQ29mVFVlc3BhWTQ"
     }
@@ -5308,17 +5310,6 @@
       "activeLiveChatId": "Cg0KC2N1VkJQdDhUUjBFKicKGFVDQmdoVUtBX0wwbmEwU2VRNnNuek1NURILY3VWQlB0OFRSMEU"
     }
   },
-  "cynth_ai": {
-    "snippet": {
-      "channelId": "cynth_ai",
-      "title": "Midnight Minecraft Madness\ud83d\ude16",
-      "channelTitle": "cynth_AI"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-20T01:00:28Z",
-      "twitch": true
-    }
-  },
   "d-U2t6BuMNU": {
     "snippet": {
       "publishedAt": "2023-06-12T16:00:17Z",
@@ -6246,6 +6237,7 @@
       "title": "\u3010Garten of BanBan 7\u3011We gotta find the surgeon!!\u3010Cosmia\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-20T04:00:51Z",
       "scheduledStartTime": "2024-06-20T04:00:00Z",
       "activeLiveChatId": "Cg0KC2tLcXJnVkZvU3c4KicKGFVDMmhXRmxxTWV3NjFKeTZBOHp1NUh6URILa0txcmdWRm9Tdzg"
     }
@@ -6455,6 +6447,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-12-31T15:45:00Z",
       "activeLiveChatId": "Cg0KC2xydm9FbUZfZDkwKicKGFVDMWVYX01Wck4wRUJLZHBrbjliLWpodxILbHJ2b0VtRl9kOTA"
+    }
+  },
+  "lululasso": {
+    "snippet": {
+      "channelId": "lululasso",
+      "title": "Vacation Recap Zatsu! Telling ghost hunting stories!",
+      "channelTitle": "lululasso"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-20T03:57:03Z",
+      "twitch": true
     }
   },
   "luluthebard": {
@@ -6735,17 +6738,6 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC25va3NUWDVMUWFFKicKGFVDbWJzOFQ2TVdxVUhQMXRJUXZTZ0tyZxILbm9rc1RYNUxRYUU"
-    }
-  },
-  "notnonanon": {
-    "snippet": {
-      "channelId": "notnonanon",
-      "title": "WORK WITH ME~! Chill Pomodoro stream. 25min Work / 5min Breaks",
-      "channelTitle": "NotNonAnon"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-20T00:58:14Z",
-      "twitch": true
     }
   },
   "nvLDh4mPyIc": {
@@ -7511,6 +7503,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-21T15:00:00Z",
       "activeLiveChatId": "Cg0KC3N1Q2xZSHpfM19nKicKGFVDbHhqM0dsR3BoWlZnZDFTTFloWkttZxILc3VDbFlIel8zX2c"
+    }
+  },
+  "svRqHsgGtW4": {
+    "snippet": {
+      "publishedAt": "2024-06-20T01:11:08Z",
+      "channelId": "UCZO0CirHeWYTUMl-7zPG6Yg",
+      "title": "\u3010HAND CAM\u3011:ITS MY BIRTHDAY PARTY\u3010bondlive EN\u3011#vtuber"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-22T01:00:00Z",
+      "activeLiveChatId": "Cg0KC3N2UnFIc2dHdFc0KicKGFVDWk8wQ2lySGVXWVRVTWwtN3pQRzZZZxILc3ZScUhzZ0d0VzQ"
     }
   },
   "sx3IgB3J3XU": {
