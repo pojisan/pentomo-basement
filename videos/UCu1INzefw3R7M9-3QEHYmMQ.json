@@ -24365,8 +24365,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-20T15:16:08Z",
-      "scheduledStartTime": "2024-06-20T15:15:00Z",
-      "activeLiveChatId": "Cg0KC1pUTExUcWdNTjBzKicKGFVDdTFJTnplZnczUjdNOS0zUUVIWW1NURILWlRMTFRxZ01OMHM"
+      "actualEndTime": "2024-06-20T17:13:28Z",
+      "scheduledStartTime": "2024-06-20T15:15:00Z"
     }
   },
   "Up23zfHYP1g": {
@@ -24477,6 +24477,7 @@
       "title": "I AM INSANE (Content Warning) [Higurashi Voice Acting Readalong]"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-20T17:14:37Z",
       "scheduledStartTime": "2024-06-20T17:00:00Z",
       "activeLiveChatId": "Cg0KC1FrQnFDbC1JZWxzKicKGFVDdTFJTnplZnczUjdNOS0zUUVIWW1NURILUWtCcUNsLUllbHM"
     }
