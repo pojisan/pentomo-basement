@@ -804,8 +804,20 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-20T15:48:49Z",
+      "actualEndTime": "2024-06-20T17:28:54Z",
       "scheduledStartTime": "2024-06-20T15:45:00Z",
       "activeLiveChatId": "Cg0KC1RycGJaRU1kOElVKicKGFVDVUkxcXBqSlNFYmd6ZGx3bXBkVm1NdxILVHJwYlpFTWQ4SVU"
+    }
+  },
+  "gkWUjQxckAE": {
+    "snippet": {
+      "publishedAt": "2024-06-20T17:30:18Z",
+      "channelId": "UCUI1qpjJSEbgzdlwmpdVmMw",
+      "title": "\u3010Ready or Not\u3011I found out that I am in fact not ready!\u3010Twisty Amanozako | NIJISANJI EN\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-21T05:00:00Z",
+      "activeLiveChatId": "Cg0KC2drV1VqUXhja0FFKicKGFVDVUkxcXBqSlNFYmd6ZGx3bXBkVm1NdxILZ2tXVWpReGNrQUU"
     }
   }
 }
