@@ -3257,6 +3257,7 @@
       "title": "\u3010 #\u306b\u3058GTA \u3011\u30d1\u30f3\u5c4b\u3055\u3093\u3067\u306b\u3058\u30b5\u30f3\u30c8\u30b9\u3092\u5de1\u308b\u305e\uff01\u3010\u30ec\u30aa\u30b9\u30fb\u30f4\u30a3\u30f3\u30bb\u30f3\u30c8  \u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-20T10:12:47Z",
       "scheduledStartTime": "2024-06-20T10:15:00Z",
       "activeLiveChatId": "Cg0KC1BKYmQ4TUUxZGNJKicKGFVDLTZyWmdteFpTSWJxNzg2ajNSRDVvdxILUEpiZDhNRTFkY0k"
     }
@@ -4971,17 +4972,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-02-13T15:15:00Z",
       "activeLiveChatId": "Cg0KC2JXckt5NjVJT0FjKicKGFVDVlFFYmpBY0pSZVB4T0RWTTVtV0N2URILYldyS3k2NUlPQWM"
-    }
-  },
-  "bajiru_en": {
-    "snippet": {
-      "channelId": "bajiru_en",
-      "title": "\u3010KARAOKE\u3011must sing quietly...\ud83c\udf31 || !socials !advgg !sl",
-      "channelTitle": "bajiru_EN"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-20T06:58:10Z",
-      "twitch": true
     }
   },
   "bd6_pjKvSts": {
@@ -7781,6 +7771,17 @@
       "activeLiveChatId": "Cg0KC3h2azA0d2dNTGFBKicKGFVDTGp4M2xxSWtZa1BDQkpvcDhjekoyQRILeHZrMDR3Z01MYUE"
     }
   },
+  "xy8wjbRoHLY": {
+    "snippet": {
+      "publishedAt": "2024-06-20T10:11:24Z",
+      "channelId": "UC3K7pmiHsNSx1y0tdx2bbCw",
+      "title": "[ she reads ] i read by the fireplace  [ Phase- Connect ]"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-20T10:30:00Z",
+      "activeLiveChatId": "Cg0KC3h5OHdqYlJvSExZKicKGFVDM0s3cG1pSHNOU3gxeTB0ZHgyYmJDdxILeHk4d2piUm9ITFk"
+    }
+  },
   "y13TJRcnFx0": {
     "snippet": {
       "publishedAt": "2024-05-22T00:54:25Z",
@@ -7915,6 +7916,7 @@
       "title": "\u3010#\u306b\u3058GTA \u3011\u6cd5\u5f8b\u7d76\u5bfe\u9075\u5b88\uff01\u60aa\u4e8b\u306f\u7d76\u5bfe\u8a31\u3055\u306a\u3044\u305e\uff01\uff5cDAY6\u3010 \u30ec\u30a4\u30f3\u30fb\u30d1\u30bf\u30fc\u30bd\u30f3/\u306b\u3058\u3055\u3093\u3058 \u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-20T10:16:20Z",
       "scheduledStartTime": "2024-06-20T10:15:00Z",
       "activeLiveChatId": "Cg0KC3pGd2tSODdjR2hnKicKGFVDUm02bHF0ZHhzX1FvNkhlTC1TUlEtdxILekZ3a1I4N2NHaGc"
     }
@@ -7977,7 +7979,7 @@
   "zeusmythosvt": {
     "snippet": {
       "channelId": "zeusmythosvt",
-      "title": "\u300c \ud83c\udf29\ufe0f HALF ANNIV UNCAPPED SUBATHON \ud83c\udf29\ufe0f \u300d DAY 6: TAKING A BREAK BEFORE THE END OF THE SUBATHON \u26a1 !fish !discord !throne !lurk !daki !uwu !GS",
+      "title": "\u300c \ud83c\udf29\ufe0f HALF ANNIV UNCAPPED SUBATHON \ud83c\udf29\ufe0f \u300d DAY 6: EXPLORING ICEBORNE FOR THE FIRST TIME \u26a1 !fish !discord !throne !lurk !daki !uwu !GS",
       "channelTitle": "ZeusMythosVT"
     },
     "liveStreamingDetails": {
