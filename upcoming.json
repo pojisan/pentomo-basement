@@ -2981,7 +2981,7 @@
     "snippet": {
       "publishedAt": "2024-06-18T18:16:33Z",
       "channelId": "UC_cxiOVYi9TH3iPvam9f5yA",
-      "title": "[TERRARIA CALAMITY PART 4] Wall Of Flesh? Or Brain of Cthulhu? - Ciccino Katterina V&U"
+      "title": "[TERRARIA CALAMITY PART 3] Wall Of Flesh? Or Brain of Cthulhu? - Ciccino Katterina V&U"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-21T03:00:00Z",
@@ -3922,7 +3922,7 @@
     "snippet": {
       "publishedAt": "2024-06-20T03:50:47Z",
       "channelId": "UCH24asiIqsVUQlz8FvXJbcw",
-      "title": "[The Walking Dead Season 2] WE WONT LET CHELM GET HURT! with  @MismaVNU    [V&U | GEN 5]"
+      "title": "[The Walking Dead Season 2] WE WONT LET CLEM GET HURT! with  @MismaVNU    [V&U | GEN 5]"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-20T19:45:00Z",
@@ -5181,6 +5181,7 @@
       "title": "MINECRAFT"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-20T19:06:17Z",
       "scheduledStartTime": "2024-06-20T19:00:00Z",
       "activeLiveChatId": "Cg0KC2NDNnhFcVNBMTJFKicKGFVDYjhkTHZEdm1aLWQ5MktFeV85b1dvZxILY0M2eEVxU0ExMkU"
     }
@@ -6304,6 +6305,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-21T13:30:00Z",
       "activeLiveChatId": "Cg0KC2xfSWU3VWk3MllFKicKGFVDSEd1b0lyOWlEeEcwN3ZJT09YVEk4QRILbF9JZTdVaTcyWUU"
+    }
+  },
+  "leobelpurson": {
+    "snippet": {
+      "channelId": "leobelpurson",
+      "title": "Let's play Bioshoclk (first time)",
+      "channelTitle": "LeobelPurson"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-20T19:03:49Z",
+      "twitch": true
     }
   },
   "liHGu9IBeaI": {
@@ -7531,6 +7543,7 @@
       "title": "EMBER IS GOD"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-20T19:04:32Z",
       "scheduledStartTime": "2024-06-20T19:00:00Z",
       "activeLiveChatId": "Cg0KC3VheG8zMzRlWDZ3KicKGFVDMHdfZHZrSXduWHpNYWs2Z2ZlaW9SURILdWF4bzMzNGVYNnc"
     }
