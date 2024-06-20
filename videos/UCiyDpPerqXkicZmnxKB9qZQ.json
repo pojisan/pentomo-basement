@@ -16024,8 +16024,20 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-20T12:00:33Z",
-      "scheduledStartTime": "2024-06-20T12:00:00Z",
-      "activeLiveChatId": "Cg0KC0dyeVpHTzQ4RC13KicKGFVDaXlEcFBlcnFYa2ljWm1ueEtCOXFaURILR3J5WkdPNDhELXc"
+      "actualEndTime": "2024-06-20T14:24:48Z",
+      "scheduledStartTime": "2024-06-20T12:00:00Z"
+    }
+  },
+  "HhwEjWbq4B8": {
+    "snippet": {
+      "publishedAt": "2024-06-20T11:34:00Z",
+      "channelId": "UCiyDpPerqXkicZmnxKB9qZQ",
+      "title": "[PC] Assassin's Creed (2007) #1"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-20T14:27:03Z",
+      "scheduledStartTime": "2024-06-20T14:35:00Z",
+      "activeLiveChatId": "Cg0KC0hod0VqV2JxNEI4KicKGFVDaXlEcFBlcnFYa2ljWm1ueEtCOXFaURILSGh3RWpXYnE0Qjg"
     }
   }
 }
