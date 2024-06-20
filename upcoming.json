@@ -82,6 +82,7 @@
       "title": "[#\u306b\u3058GTA] \uff16\u65e5\u76ee \u3044\u3089\u3063\u3057\u3083\u3044\u306b\u3083\u305b"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-20T12:11:24Z",
       "scheduledStartTime": "2024-06-20T12:00:00Z",
       "activeLiveChatId": "Cg0KCy1JNkFtcXNza1RjKicKGFVDbFM2azN3MXNQd2xWRnFLMy15SUQ1QRILLUk2QW1xc3NrVGM"
     }
@@ -802,6 +803,7 @@
       "title": "\u3010Singing & Piano\u3011 Song Requests on the Piano! Cloud Jukebox!  #\u6b4c\u67a0"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-20T12:04:26Z",
       "scheduledStartTime": "2024-06-20T12:00:00Z",
       "activeLiveChatId": "Cg0KCzU2TWI0el81S2dnKicKGFVDYnJiRktGaHlIRDRiTUpiRWNYWnoxZxILNTZNYjR6XzVLZ2c"
     }
@@ -952,6 +954,7 @@
       "title": "\u3010 #\u306b\u3058GTA \u3011#3 \u307e\u3058\u3084\u3070\u3044\ud83d\udcf1\u3010\u30ca\u30ea/\u306b\u3058\u3055\u3093\u3058\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-20T12:03:13Z",
       "scheduledStartTime": "2024-06-20T12:00:00Z",
       "activeLiveChatId": "Cg0KCzZDYWRmWlBkNmw4KicKGFVDQ0hIMG5XWVhGWm10RFNfNHR2TXhIURILNkNhZGZaUGQ2bDg"
     }
@@ -6196,6 +6199,17 @@
       "activeLiveChatId": "Cg0KC2tlMTZnRmdhbUdRKicKGFVDSzlsNnJUd1UzaGlTWmlqSU1xNTFHdxILa2UxNmdGZ2FtR1E"
     }
   },
+  "kirispica": {
+    "snippet": {
+      "channelId": "kirispica",
+      "title": "singing & piano! song request time!! \u3010Kirispica | V-Dere\u3011",
+      "channelTitle": "kirispica"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-20T12:03:43Z",
+      "twitch": true
+    }
+  },
   "l3uqelUhGhU": {
     "snippet": {
       "publishedAt": "2024-03-22T18:06:38Z",
@@ -6447,7 +6461,7 @@
   "makofukasame": {
     "snippet": {
       "channelId": "makofukasame",
-      "title": "neat announcement - shork has an agent now (we did not announce this in a rush last night) [vtuber] !vershion !gamersupps",
+      "title": "announcement - shork has an agent now (we did not rush last night) [vtuber] !vershion !gamersupps",
       "channelTitle": "MakoFukasame"
     },
     "liveStreamingDetails": {
