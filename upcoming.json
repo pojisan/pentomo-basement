@@ -1085,18 +1085,6 @@
       "activeLiveChatId": "Cg0KCzdQQ2lqUDNBa2MwKicKGFVDNmtsYVItRVQ2MjdLamZJT28xbDJnURILN1BDaWpQM0FrYzA"
     }
   },
-  "7tDPqcUGsPA": {
-    "snippet": {
-      "publishedAt": "2024-06-19T21:50:37Z",
-      "channelId": "UCQY5mpFtPyWJZHbjaxmHnzw",
-      "title": "\u3010Baldurs Gate 3 ft. Meeta | P.2\u3011BALLS GAY\u3010V&U | GEN4\u3011#baldursgate3"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-19T21:51:35Z",
-      "scheduledStartTime": "2024-06-19T21:50:00Z",
-      "activeLiveChatId": "Cg0KCzd0RFBxY1VHc1BBKicKGFVDUVk1bXBGdFB5V0paSGJqYXhtSG56dxILN3REUHFjVUdzUEE"
-    }
-  },
   "7uCXtV0ibXM": {
     "snippet": {
       "publishedAt": "2024-06-09T16:26:59Z",
@@ -3149,7 +3137,7 @@
       "title": "Hunting Crows"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-20T01:00:00Z",
+      "scheduledStartTime": "2024-06-20T02:00:00Z",
       "activeLiveChatId": "Cg0KC05fN0Z3eFVCYmNZKicKGFVDNXFsQWhyZWM2LTBKLUszem1oTlBQURILTl83Rnd4VUJiY1k"
     }
   },
@@ -5319,7 +5307,7 @@
       "title": "IRITHYLL TIMEEE!!! [Dark Souls 3 Convergence Mod] w/ Jazz"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-20T01:30:00Z",
+      "scheduledStartTime": "2024-06-20T02:00:00Z",
       "activeLiveChatId": "Cg0KC2NaLU85S19RT3VzKicKGFVDSTRQTGZ1aUw5akZPcHNFSUEyMEtqZxILY1otTzlLX1FPdXM"
     }
   },
@@ -7145,6 +7133,7 @@
       "title": "piano and singing and stuff"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-20T01:33:00Z",
       "scheduledStartTime": "2024-06-20T01:30:00Z",
       "activeLiveChatId": "Cg0KC3FKU191MFl3YWc0KicKGFVDR19VUWctUzVGb2Z5czdNMTBIcHlDdxILcUpTX3UwWXdhZzQ"
     }
@@ -8175,6 +8164,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-22T22:00:00Z",
       "activeLiveChatId": "Cg0KC3dpVXVObjAzWjFBKicKGFVDb0FRc2MtRFEwTWpmVHAwNTlvdFFBdxILd2lVdU5uMDNaMUE"
+    }
+  },
+  "wildspice": {
+    "snippet": {
+      "channelId": "wildspice",
+      "title": "Totally Not Live Playing Honkai Star Rail !kofi !zenni #OshiLinkEN",
+      "channelTitle": "WildSpice"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-20T01:34:01Z",
+      "twitch": true
     }
   },
   "wisky64vt": {
