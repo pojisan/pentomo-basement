@@ -2555,8 +2555,20 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-20T14:02:07Z",
+      "actualEndTime": "2024-06-20T18:46:45Z",
       "scheduledStartTime": "2024-06-20T14:00:00Z",
       "activeLiveChatId": "Cg0KC19pc0NIYnZsM05zKicKGFVDc1EwTnFTTmEwR0xkRVBlaTJjY2ZNdxILX2lzQ0hidmwzTnM"
+    }
+  },
+  "KVPxuq-aKTU": {
+    "snippet": {
+      "publishedAt": "2024-06-20T18:49:59Z",
+      "channelId": "UCsQ0NqSNa0GLdEPei2ccfMw",
+      "title": "\u30101st Anniversary Celebration\u3011Happy Fluffles Day!\u3010VOLs\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-23T11:00:00Z",
+      "activeLiveChatId": "Cg0KC0tWUHh1cS1hS1RVKicKGFVDc1EwTnFTTmEwR0xkRVBlaTJjY2ZNdxILS1ZQeHVxLWFLVFU"
     }
   }
 }
