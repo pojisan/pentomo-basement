@@ -496,8 +496,9 @@
       "title": "\u3010 FORTNITE \u3011 MASACRE EXTREMA \u3010 Akugaki Koa | idolES \u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-20T17:00:00Z",
-      "activeLiveChatId": "Cg0KC29SWEp3VWJ4NGtjKicKGFVDNFI2ZGRoQkpwMmJqUUhWTnhnTlFTQRILb1JYSndVYng0a2M"
+      "actualStartTime": "2024-06-20T16:56:17Z",
+      "actualEndTime": "2024-06-20T16:56:59Z",
+      "scheduledStartTime": "2024-06-20T17:00:00Z"
     }
   },
   "SARpf6tWOOY": {
@@ -553,6 +554,18 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-21T23:00:00Z",
       "activeLiveChatId": "Cg0KC0wzaTlhNVRncVBNKicKGFVDNFI2ZGRoQkpwMmJqUUhWTnhnTlFTQRILTDNpOWE1VGdxUE0"
+    }
+  },
+  "SNaq9mIHkyg": {
+    "snippet": {
+      "publishedAt": "2024-06-20T16:58:00Z",
+      "channelId": "UC4R6ddhBJp2bjQHVNxgNQSA",
+      "title": "\u3010 FORTNITE \u3011 MASACRE EXTREMA \u3010 Akugaki Koa | idolES \u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-20T16:59:52Z",
+      "scheduledStartTime": "2024-06-20T17:00:00Z",
+      "activeLiveChatId": "Cg0KC1NOYXE5bUlIa3lnKicKGFVDNFI2ZGRoQkpwMmJqUUhWTnhnTlFTQRILU05hcTltSUhreWc"
     }
   }
 }
