@@ -934,6 +934,17 @@
       "scheduledStartTime": "2026-05-19T13:00:00Z"
     }
   },
+  "6CadfZPd6l8": {
+    "snippet": {
+      "publishedAt": "2024-06-20T10:48:13Z",
+      "channelId": "UCCHH0nWYXFZmtDS_4tvMxHQ",
+      "title": "\u3010 #\u306b\u3058GTA \u3011#3 \u3046\u304a\u3049\u3049\u304a\u3049\u3049\u3049\u3049\u304a\u3049\u3049\u3010\u30ca\u30ea/\u306b\u3058\u3055\u3093\u3058\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-20T12:00:00Z",
+      "activeLiveChatId": "Cg0KCzZDYWRmWlBkNmw4KicKGFVDQ0hIMG5XWVhGWm10RFNfNHR2TXhIURILNkNhZGZaUGQ2bDg"
+    }
+  },
   "6I38NNnQSdQ": {
     "snippet": {
       "publishedAt": "2024-06-16T19:00:53Z",
@@ -6640,7 +6651,8 @@
       "title": "it's not an addiction | VALORANT (ft. usaboushi)"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-20T12:00:00Z",
+      "actualStartTime": "2024-06-20T10:47:57Z",
+      "scheduledStartTime": "2024-06-20T11:00:00Z",
       "activeLiveChatId": "Cg0KC3BTdjVOUzEyUGdJKicKGFVDM1E3aHBFRHgtUDNndlphNVNiYUl3URILcFN2NU5TMTJQZ0k"
     }
   },
