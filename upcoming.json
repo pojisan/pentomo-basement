@@ -2443,18 +2443,6 @@
       "scheduledStartTime": "2024-06-23T03:45:00Z"
     }
   },
-  "JiZ9AC8Xtzk": {
-    "snippet": {
-      "publishedAt": "2024-06-20T01:44:10Z",
-      "channelId": "UC3wo4by_BanDWgHA6ZzNaQw",
-      "title": "\u3010Helldivers 2\u3011How \u2019bout a nice cup of LIBER-TEA? w/@KaylexSkullcastor  @ElaynaDuskfell"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-20T03:03:15Z",
-      "scheduledStartTime": "2024-06-20T03:00:17Z",
-      "activeLiveChatId": "Cg0KC0ppWjlBQzhYdHprKicKGFVDM3dvNGJ5X0JhbkRXZ0hBNlp6TmFRdxILSmlaOUFDOFh0ems"
-    }
-  },
   "JlKInYGDvt0": {
     "snippet": {
       "publishedAt": "2024-01-23T08:48:00Z",
@@ -3910,6 +3898,7 @@
       "title": "\u3010HOLOCURE\u3011AI AM IN THE GAME?? NO WAY???\u3010Ai Shinju\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-20T06:34:16Z",
       "scheduledStartTime": "2024-06-20T06:30:00Z",
       "activeLiveChatId": "Cg0KC1UyUHJhbzF3SXBvKicKGFVDN1RDQ3R2ckV1OHFfUzVPdFJKaC1hURILVTJQcmFvMXdJcG8"
     }
@@ -5050,16 +5039,15 @@
       "activeLiveChatId": "Cg0KC2NYc0pIaHdlcjhVKicKGFVDcW1TWWtYTHdzTDB6RWFyNUdvb1lrZxILY1hzSkhod2VyOFU"
     }
   },
-  "cZ-O9K_QOus": {
+  "cozysoma": {
     "snippet": {
-      "publishedAt": "2024-06-19T02:04:41Z",
-      "channelId": "UCI4PLfuiL9jFOpsEIA20Kjg",
-      "title": "IRITHYLL TIMEEE!!! [Dark Souls 3 Convergence Mod] w/ Jazz"
+      "channelId": "cozysoma",
+      "title": "Intrusive thoughts and M&B with Soma. <3",
+      "channelTitle": "CozySoma"
     },
     "liveStreamingDetails": {
-      "actualStartTime": "2024-06-20T01:59:22Z",
-      "scheduledStartTime": "2024-06-20T02:00:00Z",
-      "activeLiveChatId": "Cg0KC2NaLU85S19RT3VzKicKGFVDSTRQTGZ1aUw5akZPcHNFSUEyMEtqZxILY1otTzlLX1FPdXM"
+      "actualStartTime": "2024-06-20T06:33:01Z",
+      "twitch": true
     }
   },
   "cuVBPt8TR0E": {
