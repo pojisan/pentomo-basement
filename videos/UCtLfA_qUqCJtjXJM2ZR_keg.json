@@ -4238,7 +4238,9 @@
       "title": "\u3010#\u306b\u3058GTA\u3011Day5\uff01\u4ffa\u305f\u3061\u304c\u6700\u5f37\u3060\u308d\u3046\u304c\u3010\u77f3\u795e\u306e\u305e\u307f\uff0f\u306b\u3058\u3055\u3093\u3058\u6240\u5c5e\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-20T10:30:00Z"
+      "actualStartTime": "2024-06-20T10:39:40Z",
+      "scheduledStartTime": "2024-06-20T10:30:00Z",
+      "activeLiveChatId": "Cg0KC2s2bXUxVGpBd1A4KicKGFVDdExmQV9xVXFDSnRqWEpNMlpSX2tlZxILazZtdTFUakF3UDg"
     }
   }
 }
