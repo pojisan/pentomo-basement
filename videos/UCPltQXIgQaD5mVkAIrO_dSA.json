@@ -378,8 +378,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-20T01:00:20Z",
-      "scheduledStartTime": "2024-06-20T01:00:00Z",
-      "activeLiveChatId": "Cg0KC1lwVEJ1Q2V5b3dJKicKGFVDUGx0UVhJZ1FhRDVtVmtBSXJPX2RTQRILWXBUQnVDZXlvd0k"
+      "actualEndTime": "2024-06-20T04:04:49Z",
+      "scheduledStartTime": "2024-06-20T01:00:00Z"
     }
   },
   "JLfnvO24kPI": {
@@ -389,7 +389,8 @@
       "title": "\u3010COVER PARTY\u3011Stellar Stellar Watch Party!!!\u300e Rina Astera | OshiLinkEN\u300f"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-20T19:00:00Z"
+      "scheduledStartTime": "2024-06-20T19:00:00Z",
+      "activeLiveChatId": "Cg0KC0pMZm52TzI0a1BJKicKGFVDUGx0UVhJZ1FhRDVtVmtBSXJPX2RTQRILSkxmbnZPMjRrUEk"
     }
   },
   "nZmTKiSlfzI": {
