@@ -726,6 +726,7 @@
       "title": "VERTICAL\u3010WOBBLEDOGS\u3011:This is what real gaming looks like\u3010bondlive EN\u3011#vtuber #shorts #wobbledogs"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-20T00:58:42Z",
       "scheduledStartTime": "2024-06-20T01:00:00Z",
       "activeLiveChatId": "Cg0KCzRQMUxKSXhlV1lRKicKGFVDWk8wQ2lySGVXWVRVTWwtN3pQRzZZZxILNFAxTEpJeGVXWVE"
     }
@@ -2777,7 +2778,8 @@
       "title": "\u3010RED DEAD REDEMPTION 2\u3011epilogue- beyond cowboy's end #calliolive #hololiveenglish"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-20T01:00:00Z",
+      "actualStartTime": "2024-06-20T01:00:22Z",
+      "scheduledStartTime": "2024-06-20T00:59:28Z",
       "activeLiveChatId": "Cg0KC0tqbU1hTVhOWGlvKicKGFVDTF9xaGd0T3kwZHkxQWdwOHZreVNRZxILS2ptTWFNWE5YaW8"
     }
   },
@@ -3171,6 +3173,7 @@
       "title": "\u3010Blasphemous 2\u3011Grinding Onwards | #2"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-20T01:00:53Z",
       "scheduledStartTime": "2024-06-20T01:00:00Z",
       "activeLiveChatId": "Cg0KC05Ob3hxZ2t6OFdVKicKGFVDbWJzOFQ2TVdxVUhQMXRJUXZTZ0tyZxILTk5veHFna3o4V1U"
     }
@@ -4742,6 +4745,7 @@
       "title": "\u3010Slime Rancher\u3011BY STRONG DEMAND\u300e Rina Astera | OshiLinkEN\u300f"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-20T01:00:20Z",
       "scheduledStartTime": "2024-06-20T01:00:00Z",
       "activeLiveChatId": "Cg0KC1lwVEJ1Q2V5b3dJKicKGFVDUGx0UVhJZ1FhRDVtVmtBSXJPX2RTQRILWXBUQnVDZXlvd0k"
     }
@@ -5195,6 +5199,7 @@
       "title": "\u3010HANDCAM\u3011STREAMING UNTIL I PASS OUT\u3010VyVid | Eva Ananova \u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-20T00:59:50Z",
       "scheduledStartTime": "2024-06-20T01:00:00Z",
       "activeLiveChatId": "Cg0KC2Job0Z0VjE5TndrKicKGFVDVE5wd1d5b0xnZUotdHN4V3E3dWN2dxILYmhvRnRWMTlOd2s"
     }
@@ -5363,6 +5368,17 @@
       "twitch": true
     }
   },
+  "cynth_ai": {
+    "snippet": {
+      "channelId": "cynth_ai",
+      "title": "Midnight Minecraft Madness\ud83d\ude16",
+      "channelTitle": "cynth_AI"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-20T01:00:28Z",
+      "twitch": true
+    }
+  },
   "d-U2t6BuMNU": {
     "snippet": {
       "publishedAt": "2023-06-12T16:00:17Z",
@@ -5392,6 +5408,7 @@
       "title": "Can a Mother and Daughter CONQUER ELDEN RING"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-20T00:56:32Z",
       "scheduledStartTime": "2024-06-20T01:00:00Z",
       "activeLiveChatId": "Cg0KC2Qxekxta2RSbU1RKicKGFVDM1Q3Tnd5UUJBeWx5V180WE9hOXdFURILZDF6TG1rZFJtTVE"
     }
@@ -5403,6 +5420,7 @@
       "title": "COLLAB: Godskin Duo w/@EstellaStarfall"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-20T00:54:55Z",
       "scheduledStartTime": "2024-06-20T01:00:00Z",
       "activeLiveChatId": "Cg0KC2QyRXM2aEw2ZFQ4KicKGFVDZS1fcDZvdW40cDAtZ2RCNEFrZlQxURILZDJFczZoTDZkVDg"
     }
@@ -6123,6 +6141,7 @@
       "title": "Breaking AI Interrogation Game\u3010Phase-Connect\u3011doki doki ai interrogation"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-20T01:01:21Z",
       "scheduledStartTime": "2024-06-20T01:00:00Z",
       "activeLiveChatId": "Cg0KC2l3Y08xNjRnZUxzKicKGFVDSjQ2WVRZQlFWWHNmc3A4LUhyeW9VQRILaXdjTzE2NGdlTHM"
     }
@@ -6453,6 +6472,17 @@
       "activeLiveChatId": "Cg0KC2xQR2hoN0lQWFJRKicKGFVDS250czhTX2hheWpRSU9YdFFLQ1ZJZxILbFBHaGg3SVBYUlE"
     }
   },
+  "lPRMO4-w-QE": {
+    "snippet": {
+      "publishedAt": "2024-06-20T00:53:16Z",
+      "channelId": "UCm6JMVKxg8PvJjl3F7J0tdQ",
+      "title": "chatting + soft(er) singing \ud83c\udfa7 (unarchived) #shorts #shortsfeed #shortslive #vtuber"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-20T01:15:00Z",
+      "activeLiveChatId": "Cg0KC2xQUk1PNC13LVFFKicKGFVDbTZKTVZLeGc4UHZKamwzRjdKMHRkURILbFBSTU80LXctUUU"
+    }
+  },
   "lWLkxIN0jsw": {
     "snippet": {
       "publishedAt": "2021-07-03T16:15:54Z",
@@ -6549,6 +6579,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-20T01:00:00Z",
       "activeLiveChatId": "Cg0KC2x0ZUFTWmtpSmxBKicKGFVDTEtVWDY1RFV5blgzYXpYakJGaDJDQRILbHRlQVNaa2lKbEE"
+    }
+  },
+  "luluthebard": {
+    "snippet": {
+      "channelId": "luluthebard",
+      "title": "ROAD TO CEO STREETS EDITION\\ Can The Deer Confirm Yet?",
+      "channelTitle": "LuLuTheBard"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-20T00:58:47Z",
+      "twitch": true
     }
   },
   "lymzkbD9NVI": {
@@ -6830,6 +6871,17 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC25va3NUWDVMUWFFKicKGFVDbWJzOFQ2TVdxVUhQMXRJUXZTZ0tyZxILbm9rc1RYNUxRYUU"
+    }
+  },
+  "notnonanon": {
+    "snippet": {
+      "channelId": "notnonanon",
+      "title": "WORK WITH ME~! Chill Pomodoro stream. 25min Work / 5min Breaks",
+      "channelTitle": "NotNonAnon"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-20T00:58:14Z",
+      "twitch": true
     }
   },
   "nvLDh4mPyIc": {
@@ -7379,6 +7431,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-01-01T12:00:00Z",
       "activeLiveChatId": "Cg0KC3JWSEx0OS1oa0ZFKicKGFVDWUl6cWJWUDZGTFpyNEt0ZW81Z0pyQRILclZITHQ5LWhrRkU"
+    }
+  },
+  "reiiflynn": {
+    "snippet": {
+      "channelId": "reiiflynn",
+      "title": "SPOOKY NIGHT (CAT FREE)",
+      "channelTitle": "reiiflynn"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-20T00:56:03Z",
+      "twitch": true
     }
   },
   "rgdi8bteQgc": {
@@ -8437,6 +8500,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-22T02:00:00Z",
       "activeLiveChatId": "Cg0KC3pXQ21tTGQxODA0KicKGFVDdVROSFlfYjdFdnFoUk83Q09ib3hzURILeldDbW1MZDE4MDQ"
+    }
+  },
+  "z_raWKjjEqc": {
+    "snippet": {
+      "publishedAt": "2024-06-20T00:53:25Z",
+      "channelId": "UCBURM8S4LH7cRZ0Clea9RDA",
+      "title": "FALLOUT NEW VEGAS ENDURANCE TIME BABYYY\u3010NIJISANJI EN | Reimu Endou\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-20T13:00:00Z",
+      "activeLiveChatId": "Cg0KC3pfcmFXS2pqRXFjKicKGFVDQlVSTThTNExIN2NSWjBDbGVhOVJEQRILel9yYVdLampFcWM"
     }
   },
   "zeusmythosvt": {
