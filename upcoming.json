@@ -964,6 +964,7 @@
       "title": "\u3010\u9cf4\u6f6e/Wuthering Waves\u3011\u5371\u967a\u4efb\u52d9\u306a\u3069\u3010\u767d\u9e7f\u3044\u304a\u308a Phase Connect\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-20T16:37:50Z",
       "scheduledStartTime": "2024-06-20T16:30:00Z",
       "activeLiveChatId": "Cg0KCzZicEJXV3RQeEZrKicKGFVDTjViRDFZWWFwVGhPZWFkRzdZa0JPQRILNmJwQldXdFB4Rms"
     }
@@ -1558,18 +1559,6 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC0RCTlhLTWU2VFJBKicKGFVDNFlYMlp0NjZSNHVZcUxIRmt3UDFhdxILREJOWEtNZTZUUkE"
-    }
-  },
-  "DM7allAi-hw": {
-    "snippet": {
-      "publishedAt": "2024-06-20T14:45:56Z",
-      "channelId": "UCHz3PeU1RRcY9vJDSqsigIA",
-      "title": "[FREETALK] No 3D RingFit So We Talk Instead\u3010MyHolo TV\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-20T15:01:10Z",
-      "scheduledStartTime": "2024-06-20T15:00:00Z",
-      "activeLiveChatId": "Cg0KC0RNN2FsbEFpLWh3KicKGFVDSHozUGVVMVJSY1k5dkpEU3FzaWdJQRILRE03YWxsQWktaHc"
     }
   },
   "DMt6mRxKxn0": {
@@ -7924,6 +7913,17 @@
       "activeLiveChatId": "Cg0KC3hoejNaZUhYaVI4KicKGFVDZWpiaWNvUm5RakNPZEFQQXY1SlB3ZxILeGh6M1plSFhpUjg"
     }
   },
+  "xiulanlong": {
+    "snippet": {
+      "channelId": "xiulanlong",
+      "title": "[VTUBER] I have failed the xiumais- Its not ER but MC....!! (\u25cd\u2022\u1d17\u2022\u25cd) !cover !discord !merch",
+      "channelTitle": "XiulanLong"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-20T16:31:37Z",
+      "twitch": true
+    }
+  },
   "xr_PtSDzNT0": {
     "snippet": {
       "publishedAt": "2024-06-19T03:50:12Z",
@@ -8071,18 +8071,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-21T23:00:00Z",
       "activeLiveChatId": "Cg0KC3l3Wjh1aDRRbzBRKicKGFVDVmpwRlAxX055M1BVb0UyNnI0SVRhdxILeXdaOHVoNFFvMFE"
-    }
-  },
-  "yzpJn0miOKQ": {
-    "snippet": {
-      "publishedAt": "2024-06-20T12:53:37Z",
-      "channelId": "UCVmhg4wcTVpjyCoKDY59mYw",
-      "title": "\u3010MINECRAFT\u3011HELP ME BUILD A BO...I MEAN A HOUSE\u3010 Reina Ronronea | globie\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-20T14:02:54Z",
-      "scheduledStartTime": "2024-06-20T14:00:00Z",
-      "activeLiveChatId": "Cg0KC3l6cEpuMG1pT0tRKicKGFVDVm1oZzR3Y1RWcGp5Q29LRFk1OW1ZdxILeXpwSm4wbWlPS1E"
     }
   },
   "z9WCjOVFq9o": {
