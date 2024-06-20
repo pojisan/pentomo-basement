@@ -737,6 +737,7 @@
       "title": "Let Me In, I Promise I'm Nice [That's Not My Neighbor]"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-20T16:00:49Z",
       "scheduledStartTime": "2024-06-20T16:00:00Z",
       "activeLiveChatId": "Cg0KCzRLTzM0NklLV29BKicKGFVDeGVyUWxFMHQxeVk0YnFlSzVsZE05QRILNEtPMzQ2SUtXb0E"
     }
@@ -3744,18 +3745,6 @@
       "activeLiveChatId": "Cg0KC1JKazl6MXVMS1E4KicKGFVDWmw5MndNaXBqWUZjMVVsbTlZeTY1ZxILUkprOXoxdUxLUTg"
     }
   },
-  "ROBgaShb1h8": {
-    "snippet": {
-      "publishedAt": "2024-06-17T14:22:02Z",
-      "channelId": "UCk0vuwwsm_UQHHIOgGvxU-A",
-      "title": "\u3010Animal Shelter\u3011Finding those babies a home"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-20T12:57:43Z",
-      "scheduledStartTime": "2024-06-20T13:00:00Z",
-      "activeLiveChatId": "Cg0KC1JPQmdhU2hiMWg4KicKGFVDazB2dXd3c21fVVFISElPZ0d2eFUtQRILUk9CZ2FTaGIxaDg"
-    }
-  },
   "RX56nmdEcRE": {
     "snippet": {
       "publishedAt": "2023-08-16T15:36:40Z",
@@ -4141,6 +4130,7 @@
       "title": "\u3010LAUREN THYME\u3011Droid-Radios have a conversation and then fight\u300e Lauren Radios | OshiLink \u300f"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-20T16:01:13Z",
       "scheduledStartTime": "2024-06-20T16:00:00Z",
       "activeLiveChatId": "Cg0KC1VCWjlCZzN5cTNvKicKGFVDLXlHVFZ4Nnc5SlpaSUZQaWRLQ09SZxILVUJaOUJnM3lxM28"
     }
@@ -5761,6 +5751,17 @@
       "activeLiveChatId": "Cg0KC2dySVhOS0duMU5NKicKGFVDSHhVdkFJWEhmRHpwVFcwMnY3UWFyZxILZ3JJWE5LR24xTk0"
     }
   },
+  "gx_aura": {
+    "snippet": {
+      "channelId": "gx_aura",
+      "title": "KH2 WITH CROWD CONTROL COME MESS WITH MY GAME | !ironside !birthdaymerch  [Kingdom Hearts 2]",
+      "channelTitle": "GX_Aura"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-20T15:59:11Z",
+      "twitch": true
+    }
+  },
   "h0jh4T6XnuY": {
     "snippet": {
       "publishedAt": "2024-06-20T10:41:49Z",
@@ -6133,7 +6134,8 @@
       "title": "\u3010Hamtaro: Ham Ham Heartbreak\u3011continuing the greatest game ever made"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-20T16:00:00Z",
+      "actualStartTime": "2024-06-20T15:56:28Z",
+      "scheduledStartTime": "2024-06-20T15:55:31Z",
       "activeLiveChatId": "Cg0KC2piaTE4NTNkU3FZKicKGFVDc3d2ZDZfWVdtZDZyaVJrLThvVC1zQRILamJpMTg1M2RTcVk"
     }
   },
@@ -6310,6 +6312,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-06-24T22:00:00Z",
       "activeLiveChatId": "Cg0KC2tlMTZnRmdhbUdRKicKGFVDSzlsNnJUd1UzaGlTWmlqSU1xNTFHdxILa2UxNmdGZ2FtR1E"
+    }
+  },
+  "kibiexe": {
+    "snippet": {
+      "channelId": "kibiexe",
+      "title": "\ud83e\udd9d\ud83d\udcfc ELDEN RING part 4! I read the stars now [!lnks]",
+      "channelTitle": "kibiexe"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-20T16:00:59Z",
+      "twitch": true
     }
   },
   "l3uqelUhGhU": {
@@ -6524,6 +6537,7 @@
       "title": "Let's merge into one complete artist"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-20T16:01:13Z",
       "scheduledStartTime": "2024-06-20T16:00:00Z",
       "activeLiveChatId": "Cg0KC21WRDdJZVdGLWNFKicKGFVDQm5tZmpwbWhHeGFvNnY1NGZJSU1VQRILbVZEN0llV0YtY0U"
     }
