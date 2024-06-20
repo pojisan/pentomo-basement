@@ -406,5 +406,27 @@
       "actualEndTime": "2024-06-20T15:27:33Z",
       "scheduledStartTime": "2024-06-20T13:00:09Z"
     }
+  },
+  "7gSUv6v0IpM": {
+    "snippet": {
+      "publishedAt": "2024-06-20T18:56:45Z",
+      "channelId": "UC7sqbQ4_5_ELz-Ov-bVBi8A",
+      "title": "\u3010Casual Chat\u3011End of the Week Chat!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-21T18:52:54Z",
+      "activeLiveChatId": "Cg0KCzdnU1V2NnYwSXBNKicKGFVDN3NxYlE0XzVfRUx6LU92LWJWQmk4QRILN2dTVXY2djBJcE0"
+    }
+  },
+  "bhfua0fiYLE": {
+    "snippet": {
+      "publishedAt": "2024-06-20T18:54:27Z",
+      "channelId": "UC7sqbQ4_5_ELz-Ov-bVBi8A",
+      "title": "\u3010Master Duel\u3011Another new deck in preparation for next week!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-21T13:00:54Z",
+      "activeLiveChatId": "Cg0KC2JoZnVhMGZpWUxFKicKGFVDN3NxYlE0XzVfRUx6LU92LWJWQmk4QRILYmhmdWEwZmlZTEU"
+    }
   }
 }
