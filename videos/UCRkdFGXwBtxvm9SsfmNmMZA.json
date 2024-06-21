@@ -823,8 +823,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-21T15:27:01Z",
-      "scheduledStartTime": "2024-06-21T15:00:00Z",
-      "activeLiveChatId": "Cg0KC1JDcGx3TFBNQmo4KicKGFVDUmtkRkdYd0J0eHZtOVNzZm1ObU1aQRILUkNwbHdMUE1Cajg"
+      "actualEndTime": "2024-06-21T17:24:51Z",
+      "scheduledStartTime": "2024-06-21T15:00:00Z"
     }
   },
   "IIXt03Gtdmg": {
@@ -849,6 +849,18 @@
       "actualStartTime": "2024-06-20T17:35:16Z",
       "actualEndTime": "2024-06-20T19:46:10Z",
       "scheduledStartTime": "2024-06-20T17:30:00Z"
+    }
+  },
+  "j6A7ARutYzg": {
+    "snippet": {
+      "publishedAt": "2024-06-21T17:23:35Z",
+      "channelId": "UCRkdFGXwBtxvm9SsfmNmMZA",
+      "title": "Minecraft with all the vtubers in the world YIPEEEE"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-21T17:25:15Z",
+      "scheduledStartTime": "2024-06-21T18:00:00Z",
+      "activeLiveChatId": "Cg0KC2o2QTdBUnV0WXpnKicKGFVDUmtkRkdYd0J0eHZtOVNzZm1ObU1aQRILajZBN0FSdXRZemc"
     }
   }
 }
