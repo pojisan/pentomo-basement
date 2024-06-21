@@ -1091,7 +1091,8 @@
       "title": "\u3010Casual Chat\u3011End of the Week Chat!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-21T18:52:54Z",
+      "actualStartTime": "2024-06-21T16:11:16Z",
+      "scheduledStartTime": "2024-06-21T16:11:08Z",
       "activeLiveChatId": "Cg0KCzdnU1V2NnYwSXBNKicKGFVDN3NxYlE0XzVfRUx6LU92LWJWQmk4QRILN2dTVXY2djBJcE0"
     }
   },
@@ -1665,6 +1666,7 @@
       "title": "FREE OF THE FREE TRIAL | FINAL FANTASY XIV ONLINE [ArashiSpecter]"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-21T16:10:15Z",
       "scheduledStartTime": "2024-06-21T16:00:00Z",
       "activeLiveChatId": "Cg0KC0Rrb1A1NVFYcmgwKicKGFVDbjViUF9oTEw1SEI2Ulc4WDMya3cxQRILRGtvUDU1UVhyaDA"
     }
@@ -2247,18 +2249,6 @@
       "scheduledStartTime": "2024-06-25T00:00:00Z",
       "activeLiveChatId": "Cg0KC0hzU1lLWkFvOUlBKicKGFVDLTFfLWpVdS1sQUxkR245LU1kQko0URILSHNTWUtaQW85SUE",
       "premiere": true
-    }
-  },
-  "I0m3HSRWWE0": {
-    "snippet": {
-      "publishedAt": "2024-06-21T03:12:51Z",
-      "channelId": "UCYX_iGrhBnFt0dyXwSi7U4Q",
-      "title": "\u3010ELDEN RING DLC PREP!?\u3011I NEED TO KILL MOHG AAAAAAAAA"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-21T03:32:00Z",
-      "scheduledStartTime": "2024-06-21T03:45:00Z",
-      "activeLiveChatId": "Cg0KC0kwbTNIU1JXV0UwKicKGFVDWVhfaUdyaEJuRnQwZHlYd1NpN1U0URILSTBtM0hTUldXRTA"
     }
   },
   "I1kZ-2TY3ss": {
@@ -5811,6 +5801,7 @@
       "title": "Trying my best to cook for you!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-21T16:08:06Z",
       "scheduledStartTime": "2024-06-21T16:00:00Z",
       "activeLiveChatId": "Cg0KC2s1Z05rSnRaQm0wKicKGFVDLWhNd3ZSdU1zUXJmZ3UwRFBLTFYyQRILazVnTmtKdFpCbTA"
     }
@@ -5942,6 +5933,17 @@
       "actualStartTime": "2024-06-21T13:30:30Z",
       "scheduledStartTime": "2024-06-21T13:30:00Z",
       "activeLiveChatId": "Cg0KC2xfSWU3VWk3MllFKicKGFVDSEd1b0lyOWlEeEcwN3ZJT09YVEk4QRILbF9JZTdVaTcyWUU"
+    }
+  },
+  "laphipi": {
+    "snippet": {
+      "channelId": "laphipi",
+      "title": "Can these girls freestyle presentations?? w/ @miya_mareena | !socials !dc !merch",
+      "channelTitle": "laphipi"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-21T16:04:20Z",
+      "twitch": true
     }
   },
   "lnXewO5Lsgo": {
@@ -6807,17 +6809,6 @@
       "activeLiveChatId": "Cg0KC3NfNnJ3REY5b1ZRKicKGFVDZHVyZXV4N0JfVi14aE03dFlJbUFTURILc182cndERjlvVlE"
     }
   },
-  "sayu": {
-    "snippet": {
-      "channelId": "sayu",
-      "title": "I NEED TO KILL MOHG FIRST QAQ inting and swording~\u2503!website !merch",
-      "channelTitle": "Sayu"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-21T10:40:55Z",
-      "twitch": true
-    }
-  },
   "sh5uspFUjUg": {
     "snippet": {
       "publishedAt": "2024-06-18T16:35:56Z",
@@ -7392,6 +7383,17 @@
       "activeLiveChatId": "Cg0KC3dYVWNQQVhmQXI4KicKGFVDcnA5TU9LdVl6V0ZBMFg3d0xMaEhrQRILd1hVY1BBWGZBcjg"
     }
   },
+  "wcisOEE58R0": {
+    "snippet": {
+      "publishedAt": "2024-06-21T16:03:46Z",
+      "channelId": "UC3AYtmMNdJczCvQNoPy-gjw",
+      "title": "Talk to your GIRLFRIEND!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-21T21:00:00Z",
+      "activeLiveChatId": "Cg0KC3djaXNPRUU1OFIwKicKGFVDM0FZdG1NTmRKY3pDdlFOb1B5LWdqdxILd2Npc09FRTU4UjA"
+    }
+  },
   "whOoZwV5D7s": {
     "snippet": {
       "publishedAt": "2023-07-25T10:14:37Z",
@@ -7587,6 +7589,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-24T03:00:00Z",
       "activeLiveChatId": "Cg0KC3lGeVBSelF1R3M4KicKGFVDSjRPNlBXQTQ3ZjZYYkNnckxRTnFFURILeUZ5UFJ6UXVHczg"
+    }
+  },
+  "yIMGvBoSepQ": {
+    "snippet": {
+      "publishedAt": "2024-06-21T16:06:39Z",
+      "channelId": "UC2gPbOjo_NM2QeroArW8Yeg",
+      "title": "I ran out of time... [Elden Ring]"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-21T17:00:00Z",
+      "activeLiveChatId": "Cg0KC3lJTUd2Qm9TZXBRKicKGFVDMmdQYk9qb19OTTJRZXJvQXJXOFllZxILeUlNR3ZCb1NlcFE"
     }
   },
   "yMqO4zT_Dw8": {
