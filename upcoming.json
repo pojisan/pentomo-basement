@@ -694,6 +694,7 @@
       "title": "\u3010Devil May Cry 3 - PT.3 \u3011back to this wacky castle\u3010NIJISANJI EN | Victoria Brightshield\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-21T03:15:42Z",
       "scheduledStartTime": "2024-06-21T03:00:00Z",
       "activeLiveChatId": "Cg0KCzQ1Q3V4VnVKNDFVKicKGFVDaFRBOGtIeUlucjJyS1oyYUJ2NVVMdxILNDVDdXhWdUo0MVU"
     }
@@ -2360,6 +2361,17 @@
       "premiere": true
     }
   },
+  "I0m3HSRWWE0": {
+    "snippet": {
+      "publishedAt": "2024-06-21T03:12:51Z",
+      "channelId": "UCYX_iGrhBnFt0dyXwSi7U4Q",
+      "title": "\u3010ELDEN RING DLC PREP!?\u3011I NEED TO KILL MOHG AAAAAAAAA"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-21T03:45:00Z",
+      "activeLiveChatId": "Cg0KC0kwbTNIU1JXV0UwKicKGFVDWVhfaUdyaEJuRnQwZHlYd1NpN1U0URILSTBtM0hTUldXRTA"
+    }
+  },
   "I1kZ-2TY3ss": {
     "snippet": {
       "publishedAt": "2024-06-17T00:52:11Z",
@@ -3949,10 +3961,10 @@
     "snippet": {
       "publishedAt": "2024-06-15T20:34:06Z",
       "channelId": "UCzyzcQtOIF4lnGJ9IxrhaYA",
-      "title": "Twitter Spaces Nintendo Direct Watchalong chat ("
+      "title": "Twitter Spaces eepy"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-18T14:00:00Z",
+      "scheduledStartTime": "2024-06-21T04:00:00Z",
       "activeLiveChatId": "Cg0KC1RyRjgtWV9jeVBrKicKGFVDenl6Y1F0T0lGNGxuR0o5SXhyaGFZQRILVHJGOC1ZX2N5UGs"
     }
   },
@@ -4455,18 +4467,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-22T03:00:00Z",
       "activeLiveChatId": "Cg0KC1lIZlBURkx0Vjk4KicKGFVDRmdYV1pPVVpBMm9ZSE5yNnFEbXNUURILWUhmUFRGTHRWOTg"
-    }
-  },
-  "YIXgvmOfAas": {
-    "snippet": {
-      "publishedAt": "2024-06-18T09:26:02Z",
-      "channelId": "UCkJ64W0J7R0zCSAsZfRIhVQ",
-      "title": "\u3010VALKYRIA CHRONICLES\u3011Two tanks, One squad\u3010PART 10\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-21T00:00:48Z",
-      "scheduledStartTime": "2024-06-21T00:00:00Z",
-      "activeLiveChatId": "Cg0KC1lJWGd2bU9mQWFzKicKGFVDa0o2NFcwSjdSMHpDU0FzWmZSSWhWURILWUlYZ3ZtT2ZBYXM"
     }
   },
   "YLEXrOtZhZg": {
@@ -5019,17 +5019,6 @@
       "activeLiveChatId": "Cg0KC2NYc0pIaHdlcjhVKicKGFVDcW1TWWtYTHdzTDB6RWFyNUdvb1lrZxILY1hzSkhod2VyOFU"
     }
   },
-  "civi_8": {
-    "snippet": {
-      "channelId": "civi_8",
-      "title": "\u2693\ufe0fD-Day of CiVi's return to the Howling Abyss\u2693\ufe0f It's the return of Teemo Thursday!",
-      "channelTitle": "CiVi_8"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-21T02:00:14Z",
-      "twitch": true
-    }
-  },
   "clehpjlnxyk": {
     "snippet": {
       "publishedAt": "2024-06-20T12:16:06Z",
@@ -5037,6 +5026,7 @@
       "title": "\u3010GUILTY GEAR: STRIVE\u3011SMELLER\u3010NIJISANJI EN | Sonny Brisko\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-21T03:15:51Z",
       "scheduledStartTime": "2024-06-21T03:00:00Z",
       "activeLiveChatId": "Cg0KC2NsZWhwamxueHlrKicKGFVDdXVBYl83MlF6SzBNMVVTUE1FbDF5dxILY2xlaHBqbG54eWs"
     }
