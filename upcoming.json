@@ -1210,6 +1210,7 @@
       "title": "\u3010Whatever game\u3011Endurance pt. 2?\u3010VOLs\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-21T14:06:17Z",
       "scheduledStartTime": "2024-06-21T14:15:00Z",
       "activeLiveChatId": "Cg0KCzh3QUUxTmR3ZWwwKicKGFVDc1EwTnFTTmEwR0xkRVBlaTJjY2ZNdxILOHdBRTFOZHdlbDA"
     }
@@ -5508,6 +5509,7 @@
       "title": "I'm starting a VTUBER HOCKEY LEAGUE ?!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-21T14:02:39Z",
       "scheduledStartTime": "2024-06-21T14:00:00Z",
       "activeLiveChatId": "Cg0KC2haX3ZoYm5rNkNZKicKGFVDX2xVeUhUOWd5R2ZmRDE1b05hRlJndxILaFpfdmhibms2Q1k"
     }
@@ -5521,6 +5523,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-21T17:00:00Z",
       "activeLiveChatId": "Cg0KC2hpODhHZnVBNDVZKicKGFVDa2lVQnlCQ0YxYU9pUmQxNnhBbFBNZxILaGk4OEdmdUE0NVk"
+    }
+  },
+  "hiranokokoro": {
+    "snippet": {
+      "channelId": "hiranokokoro",
+      "title": "I'm starting a VTUBER HOCKEY LEAGUE ?! | !socials !discord !doll !adv",
+      "channelTitle": "hiranokokoro"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-21T14:02:02Z",
+      "twitch": true
     }
   },
   "hisWk9dPxxk": {
@@ -5872,17 +5885,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-06-24T22:00:00Z",
       "activeLiveChatId": "Cg0KC2tlMTZnRmdhbUdRKicKGFVDSzlsNnJUd1UzaGlTWmlqSU1xNTFHdxILa2UxNmdGZ2FtR1E"
-    }
-  },
-  "kirispica": {
-    "snippet": {
-      "channelId": "kirispica",
-      "title": "POW!!! BAM!!!! MIKU BOXING!! \u3010Kirispica | V-Dere\u3011",
-      "channelTitle": "kirispica"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-21T12:04:27Z",
-      "twitch": true
     }
   },
   "kjxmKlmrvw0": {
