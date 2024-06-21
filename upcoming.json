@@ -991,7 +991,8 @@
       "title": "\u3010KEEP TALKING AND NOBODY EXPLODES\u3011it's BAUver \ud83d\udc3e\u3010FUWAMOCO\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-21T23:00:00Z"
+      "scheduledStartTime": "2024-06-21T23:00:00Z",
+      "activeLiveChatId": "Cg0KCzVzaWxLYW9hUTg4KicKGFVDdDlIX1JwUXpoeHpseUJ4RnFyZEhxQRILNXNpbEthb2FRODg"
     }
   },
   "60fRnRrzCaQ": {
@@ -1001,6 +1002,7 @@
       "title": "[KINGDOM HEARTS] RIKU HELP IM LOST IN DEEP JUNGLE!!  [V&U | GEN 5]"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-21T22:00:59Z",
       "scheduledStartTime": "2024-06-21T22:00:00Z",
       "activeLiveChatId": "Cg0KCzYwZlJuUnJ6Q2FRKicKGFVDSDI0YXNpSXFzVlVRbHo4RnZYSmJjdxILNjBmUm5ScnpDYVE"
     }
@@ -2261,6 +2263,17 @@
       "activeLiveChatId": "Cg0KC0hqdWMtRDlFaFBFKicKGFVDdll6d0VrQ1EyN2dQYWo1NHdCc1ZPZxILSGp1Yy1EOUVoUEU"
     }
   },
+  "HoPg93XTkQg": {
+    "snippet": {
+      "publishedAt": "2024-06-21T21:58:04Z",
+      "channelId": "UCQYwIUCLqFoin7lHKmePjJw",
+      "title": "\u3010\u65e5\u672c\u8a9e\u96d1\u8ac7\u3011\u306e\u3093\u3073\u308a\u8a71\u3057\u307e\u3057\u3087\u3046\uff5e\u3010NIJISANJI EN | Klara Charmwood\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-22T12:00:00Z",
+      "activeLiveChatId": "Cg0KC0hvUGc5M1hUa1FnKicKGFVDUVl3SVVDTHFGb2luN2xIS21lUGpKdxILSG9QZzkzWFRrUWc"
+    }
+  },
   "Hs9URYX-IzI": {
     "snippet": {
       "publishedAt": "2024-06-16T08:45:50Z",
@@ -2371,6 +2384,18 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-01-02T08:30:00Z",
       "activeLiveChatId": "Cg0KC0owOVkzZ0RpSWs4KicKGFVDYkRISVMwTnBYUk9oWWpzYVhRWDRwQRILSjA5WTNnRGlJazg"
+    }
+  },
+  "J6EsB7sFCLw": {
+    "snippet": {
+      "publishedAt": "2024-06-21T21:53:13Z",
+      "channelId": "UCLdkcTt5vOfGi_myvK-iO0g",
+      "title": "\u3010MINECRAFT SMP\u3011100+ VTUBER SERVER - NETHER RAID!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-21T21:56:08Z",
+      "scheduledStartTime": "2024-06-21T21:55:00Z",
+      "activeLiveChatId": "Cg0KC0o2RXNCN3NGQ0x3KicKGFVDTGRrY1R0NXZPZkdpX215dkstaU8wZxILSjZFc0I3c0ZDTHc"
     }
   },
   "JAUSrqX0hW8": {
@@ -3183,6 +3208,7 @@
       "title": "\u30103\u5468\u5e74\u2606\u3011 celebrating 3 year anni (solo ver)\u3010\u767d\u9e7f\u3044\u304a\u308a Phase Connect\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-21T22:01:49Z",
       "scheduledStartTime": "2024-06-21T22:00:00Z",
       "activeLiveChatId": "Cg0KC09VckZjWG9rR2N3KicKGFVDTjViRDFZWWFwVGhPZWFkRzdZa0JPQRILT1VyRmNYb2tHY3c"
     }
@@ -4483,6 +4509,7 @@
       "title": "\u3010Wario Ware: Smooth Moves\u3011 Hand over your wiimote it's time for Wario Ware!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-21T22:00:09Z",
       "scheduledStartTime": "2024-06-21T22:00:00Z",
       "activeLiveChatId": "Cg0KC1p1WlgxVHpWNnVBKicKGFVDT19hS0tZeG40dHZycVBqY1R6WjZFURILWnVaWDFUelY2dUE"
     }
@@ -4712,6 +4739,17 @@
       "activeLiveChatId": "Cg0KC2FuRmxCNk83RllJKicKGFVDdS1KOHVJWHVMWmgxNmdHLWNUMW5hdxILYW5GbEI2TzdGWUk"
     }
   },
+  "angelinakumalo": {
+    "snippet": {
+      "channelId": "angelinakumalo",
+      "title": "\u2730First Time Playing Portal 2!!\u2730 Cake was real guys (!gamersupps !merch !clip !discord)",
+      "channelTitle": "AngelinaKumalo"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-21T22:01:24Z",
+      "twitch": true
+    }
+  },
   "aresmythos": {
     "snippet": {
       "channelId": "aresmythos",
@@ -4903,6 +4941,7 @@
       "title": "\u3010Stardew Valley\u3011Country Girls Make Do\u3010Yume+ | Mimosa Shirosaki\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-21T22:02:25Z",
       "scheduledStartTime": "2024-06-21T22:00:00Z",
       "activeLiveChatId": "Cg0KC2NYc0pIaHdlcjhVKicKGFVDcW1TWWtYTHdzTDB6RWFyNUdvb1lrZxILY1hzSkhod2VyOFU"
     }
@@ -5519,6 +5558,7 @@
       "title": "FINALE: It's Rita Time!!! | Ch. 17 Xenoblade Chronicles"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-21T21:57:52Z",
       "scheduledStartTime": "2024-06-21T22:00:00Z",
       "activeLiveChatId": "Cg0KC2huTnRmRWUwM21JKicKGFVDQkpGc2FDdmdCYTFhOUJuRWF4dTk3URILaG5OdGZFZTAzbUk"
     }
@@ -5623,6 +5663,7 @@
       "title": "Cryptmaster: A Horror Typing Game?!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-21T22:00:51Z",
       "scheduledStartTime": "2024-06-21T22:00:00Z",
       "activeLiveChatId": "Cg0KC2lRX1JoaTJieHNzKicKGFVDZS1fcDZvdW40cDAtZ2RCNEFrZlQxURILaVFfUmhpMmJ4c3M"
     }
@@ -5841,6 +5882,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-06-24T22:00:00Z",
       "activeLiveChatId": "Cg0KC2tlMTZnRmdhbUdRKicKGFVDSzlsNnJUd1UzaGlTWmlqSU1xNTFHdxILa2UxNmdGZ2FtR1E"
+    }
+  },
+  "kenzokozima": {
+    "snippet": {
+      "channelId": "kenzokozima",
+      "title": "Time to finish up this great game of horror and stress",
+      "channelTitle": "kenzokozima"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-21T22:02:18Z",
+      "twitch": true
     }
   },
   "kibiexe": {
@@ -7260,6 +7312,7 @@
       "title": "\u3010ZATSU\u3011Confess your sins and I'll choose your fate...\u3010Dr.NOVA(e) | V4Mirai | ENVtuber\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-21T22:00:24Z",
       "scheduledStartTime": "2024-06-21T22:00:00Z",
       "activeLiveChatId": "Cg0KC3czTF9LWm1oSzZ3KicKGFVDMk5lNmREY0Z4bk0yaENCTGlpM0lVZxILdzNMX0tabWhLNnc"
     }
@@ -7524,18 +7577,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-24T03:00:00Z",
       "activeLiveChatId": "Cg0KC3lGeVBSelF1R3M4KicKGFVDSjRPNlBXQTQ3ZjZYYkNnckxRTnFFURILeUZ5UFJ6UXVHczg"
-    }
-  },
-  "yIMGvBoSepQ": {
-    "snippet": {
-      "publishedAt": "2024-06-21T16:06:39Z",
-      "channelId": "UC2gPbOjo_NM2QeroArW8Yeg",
-      "title": "I ran out of time... [Elden Ring]"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-21T17:00:03Z",
-      "scheduledStartTime": "2024-06-21T17:00:00Z",
-      "activeLiveChatId": "Cg0KC3lJTUd2Qm9TZXBRKicKGFVDMmdQYk9qb19OTTJRZXJvQXJXOFllZxILeUlNR3ZCb1NlcFE"
     }
   },
   "yMqO4zT_Dw8": {
