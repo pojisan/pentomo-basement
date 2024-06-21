@@ -4792,17 +4792,6 @@
       "activeLiveChatId": "Cg0KC2JXckt5NjVJT0FjKicKGFVDVlFFYmpBY0pSZVB4T0RWTTVtV0N2URILYldyS3k2NUlPQWM"
     }
   },
-  "bajiru_en": {
-    "snippet": {
-      "channelId": "bajiru_en",
-      "title": "\u3010KARAOKE\u3011la la la la? \ud83c\udf31 || !socials !advgg !sl",
-      "channelTitle": "bajiru_EN"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-21T05:54:59Z",
-      "twitch": true
-    }
-  },
   "bbRkX2Q00-Y": {
     "snippet": {
       "publishedAt": "2024-06-21T06:59:22Z",
@@ -5892,7 +5881,7 @@
   "kenbishisaya": {
     "snippet": {
       "channelId": "kenbishisaya",
-      "title": "Studying While Watching @bajiru_en (soft voice, keyboard clicking)",
+      "title": "SINGING...?",
       "channelTitle": "kenbishisaya"
     },
     "liveStreamingDetails": {
@@ -6068,6 +6057,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2026-05-30T14:45:00Z",
       "activeLiveChatId": "Cg0KC21fSlMxY2N2RWs4KicKGFVDX3Q3d3RTY1ZMazg1SWFEOWpZU1JBQRILbV9KUzFjY3ZFazg"
+    }
+  },
+  "makofukasame": {
+    "snippet": {
+      "channelId": "makofukasame",
+      "title": "take refuge from [current release] we're gonna play MGS2 [vtuber] !vershion !gamersupps",
+      "channelTitle": "MakoFukasame"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-21T09:02:28Z",
+      "twitch": true
     }
   },
   "mfoHpYA39oc": {
@@ -6564,6 +6564,7 @@
       "title": "\u3010Bday & Moonetisation!\u301124h of chaos! [ Part 2]\u3010Alicja Da Lontano | Globie Gen 2 Solstia\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-21T09:07:59Z",
       "scheduledStartTime": "2024-06-21T09:00:00Z",
       "activeLiveChatId": "Cg0KC3FaM0ZHbk4xX3dRKicKGFVDcWxndGs5SF8xR29XdHZXOFZpaTM4dxILcVozRkduTjFfd1E"
     }
@@ -7493,18 +7494,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-01-01T08:00:00Z",
       "activeLiveChatId": "Cg0KC3dudDNzQmlfZ3NvKicKGFVDdzBvMmtTdXItaXFtODJHTUtVbVZoURILd250M3NCaV9nc28"
-    }
-  },
-  "wsf-6ks7UmY": {
-    "snippet": {
-      "publishedAt": "2024-06-20T22:38:54Z",
-      "channelId": "UCqlgtk9H_1GoWtvW8Vii38w",
-      "title": "\u3010 Unachieved Bday Karaoke\u3011SINGING BREAK\u3010Alicja Da Lontano | Globie Gen 2 Solstia\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-21T08:03:51Z",
-      "scheduledStartTime": "2024-06-21T08:00:00Z",
-      "activeLiveChatId": "Cg0KC3dzZi02a3M3VW1ZKicKGFVDcWxndGs5SF8xR29XdHZXOFZpaTM4dxILd3NmLTZrczdVbVk"
     }
   },
   "wvthp7V25sM": {
