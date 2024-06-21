@@ -808,6 +808,17 @@
       "activeLiveChatId": "Cg0KCzRHZm5kc0s5MmNjKicKGFVDUXI5QTlFeERLWXkyd3h1MFJrQzRVZxILNEdmbmRzSzkyY2M"
     }
   },
+  "4OMc0LqA5oQ": {
+    "snippet": {
+      "publishedAt": "2024-06-21T18:49:07Z",
+      "channelId": "UCZfQRuwSLty74QAj55BaKlA",
+      "title": "\u3010MenoGame\u3011Little Kitty, Big City\u3010Ibuki Meno\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-22T03:30:00Z",
+      "activeLiveChatId": "Cg0KCzRPTWMwTHFBNW9RKicKGFVDWmZRUnV3U0x0eTc0UUFqNTVCYUtsQRILNE9NYzBMcUE1b1E"
+    }
+  },
   "4W4jF275xqE": {
     "snippet": {
       "publishedAt": "2024-06-21T16:21:05Z",
@@ -2346,7 +2357,7 @@
       "title": "\u3010Solomon's Key\u3011Buzzles To Boggle The Mind..."
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-21T19:00:00Z",
+      "scheduledStartTime": "2024-06-21T19:15:00Z",
       "activeLiveChatId": "Cg0KC0kxa1otMlRZM3NzKicKGFVDeWtNV2Y4QjhJN2NfakE4RlR5MnRHdxILSTFrWi0yVFkzc3M"
     }
   },
@@ -5739,14 +5750,25 @@
       "activeLiveChatId": "Cg0KC2llQzA3ejFLaV84KicKGFVDSHQ0RjMtLUhxMHNOWFA2REVkbFNtZxILaWVDMDd6MUtpXzg"
     }
   },
+  "inislein": {
+    "snippet": {
+      "channelId": "inislein",
+      "title": "Artistism with @denpafish",
+      "channelTitle": "inislein"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-21T18:48:25Z",
+      "twitch": true
+    }
+  },
   "inumaromugi": {
     "snippet": {
       "channelId": "inumaromugi",
-      "title": "\u3010Eri\u3011quiet karaoke on a cold night ||\u2726 \u207a.",
+      "title": "\u3010Eri\u3011omo to my ri  |Omori pt1|\u2726 \u207a.",
       "channelTitle": "InumaroMugi"
     },
     "liveStreamingDetails": {
-      "actualStartTime": "2024-06-21T17:43:25Z",
+      "actualStartTime": "2024-06-21T18:50:38Z",
       "twitch": true
     }
   },
