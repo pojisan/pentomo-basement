@@ -390,8 +390,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-20T19:00:24Z",
-      "scheduledStartTime": "2024-06-20T19:00:00Z",
-      "activeLiveChatId": "Cg0KC0pMZm52TzI0a1BJKicKGFVDUGx0UVhJZ1FhRDVtVmtBSXJPX2RTQRILSkxmbnZPMjRrUEk"
+      "actualEndTime": "2024-06-20T21:33:49Z",
+      "scheduledStartTime": "2024-06-20T19:00:00Z"
     }
   },
   "nZmTKiSlfzI": {
@@ -401,7 +401,8 @@
       "title": "\u3010COLLAB\u3011AsterDroid Hijinks @DeltaLarc \u300eRina Astera | OshiLinkEN\u300f"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-21T13:00:00Z"
+      "scheduledStartTime": "2024-06-21T13:00:00Z",
+      "activeLiveChatId": "Cg0KC25abVRLaVNsZnpJKicKGFVDUGx0UVhJZ1FhRDVtVmtBSXJPX2RTQRILblptVEtpU2xmekk"
     }
   },
   "d1xRLFAzTf8": {
@@ -412,9 +413,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-20T19:30:06Z",
-      "scheduledStartTime": "2024-06-20T19:30:00Z",
-      "activeLiveChatId": "Cg0KC2QxeFJMRkF6VGY4KicKGFVDUGx0UVhJZ1FhRDVtVmtBSXJPX2RTQRILZDF4UkxGQXpUZjg",
-      "premiere": true
+      "actualEndTime": "2024-06-20T19:37:06Z",
+      "scheduledStartTime": "2024-06-20T19:30:00Z"
     }
   },
   "NUBBgntcqWI": {

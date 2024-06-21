@@ -1320,8 +1320,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-20T16:27:15Z",
-      "scheduledStartTime": "2024-06-20T16:30:00Z",
-      "activeLiveChatId": "Cg0KC3lGOVJOaEhWeFdBKicKGFVDMXV6TVo3eF9IZ3VuNXQ4Sjl1RmFudxILeUY5Uk5oSFZ4V0E"
+      "actualEndTime": "2024-06-20T20:21:01Z",
+      "scheduledStartTime": "2024-06-20T16:30:00Z"
     }
   },
   "WsGWCnZYeP0": {
@@ -1331,8 +1331,9 @@
       "title": "ITS TIME | [ELDEN RING DLC SHADOW OF THE ERDTREE]"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-20T21:00:00Z",
-      "activeLiveChatId": "Cg0KC1dzR1dDblpZZVAwKicKGFVDMXV6TVo3eF9IZ3VuNXQ4Sjl1RmFudxILV3NHV0NuWlllUDA"
+      "actualStartTime": "2024-06-20T21:04:34Z",
+      "actualEndTime": "2024-06-21T00:54:49Z",
+      "scheduledStartTime": "2024-06-20T21:00:00Z"
     }
   }
 }

@@ -3366,8 +3366,18 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-20T10:02:23Z",
       "actualEndTime": "2024-06-20T18:32:02Z",
-      "scheduledStartTime": "2024-06-20T10:00:00Z",
-      "activeLiveChatId": "Cg0KC0JqNzRJUkhfRTM0KicKGFVDSzlsNnJUd1UzaGlTWmlqSU1xNTFHdxILQmo3NElSSF9FMzQ"
+      "scheduledStartTime": "2024-06-20T10:00:00Z"
+    }
+  },
+  "LhtRRt0TuCw": {
+    "snippet": {
+      "publishedAt": "2024-06-21T00:51:15Z",
+      "channelId": "UCK9l6rTwU3hiSZijIMq51Gw",
+      "title": "\u3010 #\u306b\u3058GTA \u3011\u30e1\u30c7\u30a3\u30c3\u30af\u30d2\u30fc\u30ed\u30fc\u4e16\u754c\u3092\u6551\u3046\u30fbMedic Hero on duty #3\u3010NIJISANJI EN | Vezalius Bandage\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-21T13:00:00Z",
+      "activeLiveChatId": "Cg0KC0xodFJSdDBUdUN3KicKGFVDSzlsNnJUd1UzaGlTWmlqSU1xNTFHdxILTGh0UlJ0MFR1Q3c"
     }
   }
 }

@@ -890,6 +890,7 @@
       "title": "\u3010HANDCAM\u3011I LOVE BEING A MINER\u3010VyVid | Eva Ananova \u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-21T01:00:03Z",
       "scheduledStartTime": "2024-06-21T01:00:00Z",
       "activeLiveChatId": "Cg0KC3dUSWNpRFpuNEVZKicKGFVDVE5wd1d5b0xnZUotdHN4V3E3dWN2dxILd1RJY2lEWm40RVk"
     }
@@ -903,8 +904,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-20T00:59:50Z",
       "actualEndTime": "2024-06-20T06:31:16Z",
-      "scheduledStartTime": "2024-06-20T01:00:00Z",
-      "activeLiveChatId": "Cg0KC2Job0Z0VjE5TndrKicKGFVDVE5wd1d5b0xnZUotdHN4V3E3dWN2dxILYmhvRnRWMTlOd2s"
+      "scheduledStartTime": "2024-06-20T01:00:00Z"
     }
   },
   "vy0MU6XRq6c": {
@@ -964,6 +964,13 @@
       "publishedAt": "2024-06-20T00:01:39Z",
       "channelId": "UCTNpwWyoLgeJ-tsxWq7ucvw",
       "title": "#VTuber sings \u201cFly Me To The Moon\u201d by Frank Sinatra #shorts"
+    }
+  },
+  "VMmhJjjp3JA": {
+    "snippet": {
+      "publishedAt": "2024-06-21T00:01:36Z",
+      "channelId": "UCTNpwWyoLgeJ-tsxWq7ucvw",
+      "title": "#VTuber sings \u201cTek It (I Watch The Moon)\u201d by Cafun\u00e9 #shorts"
     }
   }
 }

@@ -514,8 +514,9 @@
       "title": "\u3010ELDEN RING\u3011Shadow of the Erdtree! - Let's start the amazing DLC playthrough!!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-20T22:00:00Z",
-      "activeLiveChatId": "Cg0KC1pYOEt3OXR2a05ZKicKGFVDbHhqM0dsR3BoWlZnZDFTTFloWkttZxILWlg4S3c5dHZrTlk"
+      "actualStartTime": "2024-06-20T21:59:50Z",
+      "actualEndTime": "2024-06-21T01:12:59Z",
+      "scheduledStartTime": "2024-06-20T22:00:00Z"
     }
   },
   "qxVWwMDDyWQ": {
@@ -527,8 +528,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-20T16:04:32Z",
       "actualEndTime": "2024-06-20T17:38:08Z",
-      "scheduledStartTime": "2024-06-20T16:00:00Z",
-      "activeLiveChatId": "Cg0KC3F4Vld3TUREeVdRKicKGFVDbHhqM0dsR3BoWlZnZDFTTFloWkttZxILcXhWV3dNRER5V1E"
+      "scheduledStartTime": "2024-06-20T16:00:00Z"
     }
   },
   "suClYHz_3_g": {
@@ -546,7 +546,7 @@
     "snippet": {
       "publishedAt": "2024-06-18T10:04:12Z",
       "channelId": "UClxj3GlGphZVgd1SLYhZKmg",
-      "title": "\u3010ELDEN RING\u3011Shadow of the Erdtree! - First playthrough!"
+      "title": "\u3010MINECRAFT VSMP\u3011Fun adventures in the big VTuber server!"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-22T16:00:00Z",
@@ -557,10 +557,10 @@
     "snippet": {
       "publishedAt": "2024-06-18T10:03:21Z",
       "channelId": "UClxj3GlGphZVgd1SLYhZKmg",
-      "title": "\u3010ELDEN RING\u3011Shadow of the Erdtree! - First Playthrough"
+      "title": "\u3010MINECRAFT VSMP\u3011A duck is lost in Minecraft!!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-22T10:00:00Z",
+      "scheduledStartTime": "2024-06-22T11:00:00Z",
       "activeLiveChatId": "Cg0KCzA5aW1SYjdFMC1nKicKGFVDbHhqM0dsR3BoWlZnZDFTTFloWkttZxILMDlpbVJiN0UwLWc"
     }
   },
@@ -585,6 +585,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-23T16:00:00Z",
       "activeLiveChatId": "Cg0KC2RIb1RoVjVIWTZzKicKGFVDbHhqM0dsR3BoWlZnZDFTTFloWkttZxILZEhvVGhWNUhZNnM"
+    }
+  },
+  "tfZXzSGPwDU": {
+    "snippet": {
+      "publishedAt": "2024-06-21T01:34:33Z",
+      "channelId": "UClxj3GlGphZVgd1SLYhZKmg",
+      "title": "\u3010MINECRAFT VSMP\u3011Please stop chasing me Minecraft mobs!!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-21T18:00:00Z",
+      "activeLiveChatId": "Cg0KC3RmWlh6U0dQd0RVKicKGFVDbHhqM0dsR3BoWlZnZDFTTFloWkttZxILdGZaWHpTR1B3RFU"
     }
   }
 }

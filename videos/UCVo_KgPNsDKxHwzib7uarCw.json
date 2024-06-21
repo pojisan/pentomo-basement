@@ -5114,8 +5114,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-20T18:30:51Z",
-      "scheduledStartTime": "2024-06-20T18:30:00Z",
-      "activeLiveChatId": "Cg0KC0VYdnlJMEx3cWdVKicKGFVDVm9fS2dQTnNES3hId3ppYjd1YXJDdxILRVh2eUkwTHdxZ1U"
+      "actualEndTime": "2024-06-20T21:03:34Z",
+      "scheduledStartTime": "2024-06-20T18:30:00Z"
     }
   },
   "nI-LtVSiVuk": {
@@ -5125,7 +5125,9 @@
       "title": "Enter The EGG! DLC Release! - ELDEN RING Shadow Of The Erdtree"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-20T22:00:00Z",
+      "actualStartTime": "2024-06-20T22:36:20Z",
+      "actualEndTime": "2024-06-21T00:00:27Z",
+      "scheduledStartTime": "2024-06-20T22:20:00Z",
       "activeLiveChatId": "Cg0KC25JLUx0VlNpVnVrKicKGFVDVm9fS2dQTnNES3hId3ppYjd1YXJDdxILbkktTHRWU2lWdWs"
     }
   }

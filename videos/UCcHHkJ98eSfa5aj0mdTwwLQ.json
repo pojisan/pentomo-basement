@@ -646,8 +646,9 @@
       "title": "\u3010TOKYO JUNGLE\u3011it's a doggy dog world out there\u3010Maid Mint Fantome\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-20T23:00:00Z",
-      "activeLiveChatId": "Cg0KC0hGd0lqUjU5LWFJKicKGFVDY0hIa0o5OGVTZmE1YWowbWRUd3dMURILSEZ3SWpSNTktYUk"
+      "actualStartTime": "2024-06-20T23:05:31Z",
+      "actualEndTime": "2024-06-21T01:52:39Z",
+      "scheduledStartTime": "2024-06-20T23:05:00Z"
     }
   }
 }

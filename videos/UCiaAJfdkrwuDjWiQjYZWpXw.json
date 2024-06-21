@@ -335,8 +335,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-20T18:57:29Z",
-      "scheduledStartTime": "2024-06-20T19:00:00Z",
-      "activeLiveChatId": "Cg0KC3NkMFVxQzZjeG5jKicKGFVDaWFBSmZka3J3dURqV2lRallaV3BYdxILc2QwVXFDNmN4bmM"
+      "actualEndTime": "2024-06-20T21:53:25Z",
+      "scheduledStartTime": "2024-06-20T19:00:00Z"
     }
   },
   "vocBIuY2ccw": {
@@ -385,6 +385,19 @@
       "actualStartTime": "2024-06-19T17:47:29Z",
       "actualEndTime": "2024-06-19T19:15:45Z",
       "scheduledStartTime": "2024-06-19T17:45:00Z"
+    }
+  },
+  "0WXU_ngqoX0": {
+    "snippet": {
+      "publishedAt": "2024-06-20T23:27:07Z",
+      "channelId": "UCiaAJfdkrwuDjWiQjYZWpXw",
+      "title": "\u3010GUERILLA\u3011you know what time it is\u3010PixelLink\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-20T23:49:59Z",
+      "actualEndTime": "2024-06-21T01:30:54Z",
+      "scheduledStartTime": "2024-06-20T23:45:00Z",
+      "activeLiveChatId": "Cg0KCzBXWFVfbmdxb1gwKicKGFVDaWFBSmZka3J3dURqV2lRallaV3BYdxILMFdYVV9uZ3FvWDA"
     }
   }
 }
