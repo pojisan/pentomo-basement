@@ -749,6 +749,7 @@
       "title": "\u3010\u865a\u7121\u3011\u30b2\u30fc\u30e0\u3092\u304c\u307e\u3093\u3057\u3066\u4ed5\u4e8b\u3092\u3059\u308b\u4eba\u9593\u3092\u76e3\u8996\u3059\u308b\u3053\u3068\u306b\u559c\u3073\u3092\u611f\u3058\u308b\u4eba\u305f\u3081\u306e\u67a0\u3010\u98ef\u7530\u307d\u3061\u3002Iida Pochi.\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-21T06:04:13Z",
       "scheduledStartTime": "2024-06-21T06:00:00Z",
       "activeLiveChatId": "Cg0KCzRYZjdUNS0ydGZVKicKGFVDMjJCVmxCc1pjNnRhM0Rxejc1TlU2URILNFhmN1Q1LTJ0ZlU"
     }
@@ -1915,6 +1916,7 @@
       "title": "VTUBER REVIEWS YOUR WAIFU / HUSBANDO TASTE!!! Submission link in the description!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-21T06:00:48Z",
       "scheduledStartTime": "2024-06-21T06:00:00Z",
       "activeLiveChatId": "Cg0KC0Y3bThJemtBLUdnKicKGFVDYXhpRGVfVHVNTFhrd1JNVkxtNVZ3URILRjdtOEl6a0EtR2c"
     }
@@ -4107,6 +4109,17 @@
       "activeLiveChatId": "Cg0KC1ZUbVJBaDUwSm1JKicKGFVDdTFJTnplZnczUjdNOS0zUUVIWW1NURILVlRtUkFoNTBKbUk"
     }
   },
+  "VWrfTbPovh8": {
+    "snippet": {
+      "publishedAt": "2024-06-21T06:06:00Z",
+      "channelId": "UCB1s_IdO-r0nUkY2mXeti-A",
+      "title": "\u3010 -`\ud83d\udcac #\u30ea\u30a2\u30af\u30c82\u671f\u751f\u30e9\u30a4\u30d6 \u3011\u4e00\u822c\u30c1\u30b1\u30c3\u30c8&LIVE\u30b0\u30c3\u30ba\u60c5\u5831\u5927\u516c\u958b\uff01\uff1f\u2728\u3010\u7345\u5b50\u795e\u30ec\u30aa\u30ca/Re:AcT\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-21T11:00:00Z",
+      "activeLiveChatId": "Cg0KC1ZXcmZUYlBvdmg4KicKGFVDQjFzX0lkTy1yMG5Va1kybVhldGktQRILVldyZlRiUG92aDg"
+    }
+  },
   "VZMA8E1Y2-Y": {
     "snippet": {
       "publishedAt": "2024-01-07T11:08:55Z",
@@ -4866,6 +4879,17 @@
       "activeLiveChatId": "Cg0KC2JXckt5NjVJT0FjKicKGFVDVlFFYmpBY0pSZVB4T0RWTTVtV0N2URILYldyS3k2NUlPQWM"
     }
   },
+  "bajiru_en": {
+    "snippet": {
+      "channelId": "bajiru_en",
+      "title": "\u3010KARAOKE\u3011la la la la? \ud83c\udf31 || !socials !advgg !sl",
+      "channelTitle": "bajiru_EN"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-21T05:54:59Z",
+      "twitch": true
+    }
+  },
   "bfrzCNm5nzE": {
     "snippet": {
       "publishedAt": "2024-06-03T17:39:55Z",
@@ -4983,6 +5007,17 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-20T20:50:57Z",
+      "twitch": true
+    }
+  },
+  "cozysoma": {
+    "snippet": {
+      "channelId": "cozysoma",
+      "title": "Piracy & Warcrimes (But in space)",
+      "channelTitle": "CozySoma"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-21T05:58:53Z",
       "twitch": true
     }
   },
@@ -5483,18 +5518,6 @@
       "actualStartTime": "2024-06-21T04:51:10Z",
       "scheduledStartTime": "2024-06-21T05:00:00Z",
       "activeLiveChatId": "Cg0KC2drV1VqUXhja0FFKicKGFVDVUkxcXBqSlNFYmd6ZGx3bXBkVm1NdxILZ2tXVWpReGNrQUU"
-    }
-  },
-  "grIXNKGn1NM": {
-    "snippet": {
-      "publishedAt": "2024-06-20T06:38:55Z",
-      "channelId": "UCHxUvAIXHfDzpTW02v7Qarg",
-      "title": "\u3010Elden Ring #5\u3011I'm so behind! Can I make it to Mogh before the DLC drop?? PANIC GRINDING"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-20T21:05:17Z",
-      "scheduledStartTime": "2024-06-20T21:00:00Z",
-      "activeLiveChatId": "Cg0KC2dySVhOS0duMU5NKicKGFVDSHhVdkFJWEhmRHpwVFcwMnY3UWFyZxILZ3JJWE5LR24xTk0"
     }
   },
   "h4426bmybDA": {
@@ -6091,7 +6114,7 @@
   "lululasso": {
     "snippet": {
       "channelId": "lululasso",
-      "title": "Indigo Park Chapter 1: Pissing myself",
+      "title": "Yapping Cowgirl",
       "channelTitle": "lululasso"
     },
     "liveStreamingDetails": {
@@ -6204,6 +6227,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-03-09T13:00:00Z",
       "activeLiveChatId": "Cg0KC21mb0hwWUEzOW9jKicKGFVDYXhpRGVfVHVNTFhrd1JNVkxtNVZ3URILbWZvSHBZQTM5b2M"
+    }
+  },
+  "moeri": {
+    "snippet": {
+      "channelId": "moeri",
+      "title": "well this is awkward",
+      "channelTitle": "moeri"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-21T06:09:05Z",
+      "twitch": true
     }
   },
   "mukyapunch": {
@@ -6507,6 +6541,7 @@
       "title": "\u3010Honor of Kings\u3011trying out diff MOBA\u3010Cyanne Aria | bondlive_EN\u3011#shorts #vtuber #honorofkings #moba"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-21T06:00:34Z",
       "scheduledStartTime": "2024-06-21T06:00:00Z",
       "activeLiveChatId": "Cg0KC3AxbFZmZVpHU08wKicKGFVDbnBjN0hwY2lmVnBpNlJCek5nZTUxdxILcDFsVmZlWkdTTzA"
     }
@@ -6647,6 +6682,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-20T23:00:00Z",
       "activeLiveChatId": "Cg0KC3FDSmZ0Zzhubnp3KicKGFVDVlFFYmpBY0pSZVB4T0RWTTVtV0N2URILcUNKZnRnOG5uenc"
+    }
+  },
+  "qII3CcvB-Ms": {
+    "snippet": {
+      "publishedAt": "2024-06-21T05:54:14Z",
+      "channelId": "UCnNLZWjl4GvVF4s8zBT9_kA",
+      "title": "\u3010Don't Scream\u3011\u53eb\u3070\u306a\u304d\u3083\u826f\u3044\u3060\u3051\uff1f\u6700\u901f\u30af\u30ea\u30a2\u3057\u307e\u3059\u3051\u3069\u3010\u7d62\u4e16\u30e6\u30a6 / Phase Connect\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-22T11:00:00Z",
+      "activeLiveChatId": "Cg0KC3FJSTNDY3ZCLU1zKicKGFVDbk5MWldqbDRHdlZGNHM4ekJUOV9rQRILcUlJM0NjdkItTXM"
     }
   },
   "qP077R7O5ak": {
@@ -6864,17 +6910,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-04-28T09:00:00Z",
       "activeLiveChatId": "Cg0KC3JnZGk4YnRlUWdjKicKGFVDOHpnS2FTOExpeUwyOG1kaFJDMm5CZxILcmdkaThidGVRZ2M"
-    }
-  },
-  "rinapumpkin": {
-    "snippet": {
-      "channelId": "rinapumpkin",
-      "title": "\u0b68\ud83c\udf83 We're Here Pookie \ud83c\udf83\u0b67 MWUAH! \u208a\u02da\u22b9 \u2661",
-      "channelTitle": "RinaPumpkin"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-21T02:30:12Z",
-      "twitch": true
     }
   },
   "rn2SX1mvIyc": {
@@ -7373,6 +7408,17 @@
       "activeLiveChatId": "Cg0KC3ZjM1JPeWNtdlBnKicKGFVDOU5OTXdhZnk5cXV2TldhZkZ1a05EdxILdmMzUk95Y212UGc"
     }
   },
+  "vf42LdBtGrM": {
+    "snippet": {
+      "publishedAt": "2024-06-21T05:50:21Z",
+      "channelId": "UCn7IbVBtkoUaZELqtrb9qNQ",
+      "title": "\u3010 BREAD&FRED\u3011friendship test! with @ElazulRoy \u3010ArashiNebula_HOSHIZORA\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-22T13:00:00Z",
+      "activeLiveChatId": "Cg0KC3ZmNDJMZEJ0R3JNKicKGFVDbjdJYlZCdGtvVWFaRUxxdHJiOXFOURILdmY0MkxkQnRHck0"
+    }
+  },
   "vgyslJ7BvxQ": {
     "snippet": {
       "publishedAt": "2023-12-25T13:50:52Z",
@@ -7392,17 +7438,6 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC3ZoSklNcFFBV3dRKicKGFVDRkhkRUFIUGJGVWpnSjFSYU9fQXc2dxILdmhKSU1wUUFXd1E"
-    }
-  },
-  "victoria_valerie": {
-    "snippet": {
-      "channelId": "victoria_valerie",
-      "title": "Why are you still awake?",
-      "channelTitle": "victoria_valerie"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-21T02:55:46Z",
-      "twitch": true
     }
   },
   "vkbWRdIDVNI": {
