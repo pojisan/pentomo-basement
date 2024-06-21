@@ -180,8 +180,7 @@
       "private": true
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-12T13:00:00Z",
-      "activeLiveChatId": "Cg0KC3BHZ3BoRUVRTk5JKicKGFVDS3BpSlFBWF9HbmM1cmpSQjh5WFQwQRILcEdncGhFRVFOTkk"
+      "scheduledStartTime": "2024-07-16T13:00:00Z"
     }
   },
   "HVqOrQF6Rjw": {
@@ -305,8 +304,15 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-19T13:01:43Z",
-      "scheduledStartTime": "2024-06-19T13:00:00Z",
-      "activeLiveChatId": "Cg0KC2ZrbjVNT2R1U2dRKicKGFVDS3BpSlFBWF9HbmM1cmpSQjh5WFQwQRILZmtuNU1PZHVTZ1E"
+      "actualEndTime": "2024-06-19T16:20:46Z",
+      "scheduledStartTime": "2024-06-19T13:00:00Z"
+    }
+  },
+  "8OeDOc2eR70": {
+    "snippet": {
+      "publishedAt": "2024-06-20T00:00:03Z",
+      "channelId": "UCKpiJQAX_Gnc5rjRB8yXT0A",
+      "title": "possessed vtuber on karaoke stream"
     }
   }
 }

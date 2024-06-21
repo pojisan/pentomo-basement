@@ -572,8 +572,20 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-19T13:59:18Z",
-      "scheduledStartTime": "2024-06-19T14:00:00Z",
-      "activeLiveChatId": "Cg0KC0RQQnpINnpSa3BnKicKGFVDb05oejRPcXl4ZEV1dWZtRXo4ZW95QRILRFBCekg2elJrcGc"
+      "actualEndTime": "2024-06-19T18:02:42Z",
+      "scheduledStartTime": "2024-06-19T14:00:00Z"
+    }
+  },
+  "hl-3tS_crI4": {
+    "snippet": {
+      "publishedAt": "2024-06-20T13:29:37Z",
+      "channelId": "UCoNhz4OqyxdEuufmEz8eoyA",
+      "title": "checking out things here and there | Honkai: Star Rail"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-20T13:59:49Z",
+      "actualEndTime": "2024-06-20T16:11:45Z",
+      "scheduledStartTime": "2024-06-20T14:00:00Z"
     }
   }
 }

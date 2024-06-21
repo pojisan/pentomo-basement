@@ -7663,8 +7663,9 @@
       "title": "\u3010#RosePeto\u3011 RADIO TALK SHOW \ud83d\udc27\ud83c\udf39 WITH GUEST (FINANA)"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-20T01:00:00Z",
-      "activeLiveChatId": "Cg0KC0l1Uks4cG1xZUJ3KicKGFVDNFd2SUlBbzg5X0F6R1VoMUFaNkRrZxILSXVSSzhwbXFlQnc"
+      "actualStartTime": "2024-06-20T01:12:20Z",
+      "actualEndTime": "2024-06-20T03:06:09Z",
+      "scheduledStartTime": "2024-06-20T01:00:00Z"
     }
   },
   "33y9_ZhJmxE": {
@@ -7676,8 +7677,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-19T10:02:21Z",
       "actualEndTime": "2024-06-19T14:07:24Z",
-      "scheduledStartTime": "2024-06-19T10:00:00Z",
-      "activeLiveChatId": "Cg0KCzMzeTlfWmhKbXhFKicKGFVDNFd2SUlBbzg5X0F6R1VoMUFaNkRrZxILMzN5OV9aaEpteEU"
+      "scheduledStartTime": "2024-06-19T10:00:00Z"
     }
   }
 }

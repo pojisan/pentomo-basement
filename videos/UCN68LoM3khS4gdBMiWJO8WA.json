@@ -6018,8 +6018,21 @@
       "title": "\u3010PANICORE\u3011 TRYING NOT TO SCREAM w/ NIJI EN! \u3010NIJISANJI EN | Aia Amare \u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-19T22:00:00Z",
-      "activeLiveChatId": "Cg0KCzZjMFUzMFZqOVVrKicKGFVDTjY4TG9NM2toUzRnZEJNaVdKTzhXQRILNmMwVTMwVmo5VWs"
+      "actualStartTime": "2024-06-19T22:17:27Z",
+      "actualEndTime": "2024-06-20T02:08:22Z",
+      "scheduledStartTime": "2024-06-19T22:00:00Z"
+    }
+  },
+  "GMYjc4_rVsk": {
+    "snippet": {
+      "publishedAt": "2024-06-20T07:21:42Z",
+      "channelId": "UCN68LoM3khS4gdBMiWJO8WA",
+      "title": "\u3010DRAWING ZATSUDAN\u3011 Let's Draw Twisty!\ud83c\udf2a\ufe0f\ud83e\udea1 \u3010NIJISANJI EN | Aia Amare \u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-20T21:09:58Z",
+      "actualEndTime": "2024-06-21T01:03:51Z",
+      "scheduledStartTime": "2024-06-20T21:00:00Z"
     }
   }
 }

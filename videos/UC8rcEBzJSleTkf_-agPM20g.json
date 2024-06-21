@@ -5312,8 +5312,20 @@
       "title": "\u3010HoloEarth\u3011Jumping Into HoloEarth! w/ @HakosBaelz and @KureijiOllie"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-20T03:00:00Z",
-      "activeLiveChatId": "Cg0KCzZ4TVd6bUgzRHVzKicKGFVDOHJjRUJ6SlNsZVRrZl8tYWdQTTIwZxILNnhNV3ptSDNEdXM"
+      "actualStartTime": "2024-06-20T03:04:40Z",
+      "actualEndTime": "2024-06-20T06:09:03Z",
+      "scheduledStartTime": "2024-06-20T03:00:00Z"
+    }
+  },
+  "gGHDLduBqUs": {
+    "snippet": {
+      "publishedAt": "2024-06-20T14:08:03Z",
+      "channelId": "UC8rcEBzJSleTkf_-agPM20g",
+      "title": "\u3010KARAOKE / \u6b4c\u67a0\u3011UnArChIvEd Karaoke\u266a #shorts"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-21T03:00:00Z",
+      "activeLiveChatId": "Cg0KC2dHSERMZHVCcVVzKicKGFVDOHJjRUJ6SlNsZVRrZl8tYWdQTTIwZxILZ0dIRExkdUJxVXM"
     }
   }
 }

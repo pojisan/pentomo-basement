@@ -10344,7 +10344,8 @@
       "title": "rolling, hating #welovekatamari"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-21T02:00:00Z",
+      "actualStartTime": "2024-06-21T02:00:15Z",
+      "scheduledStartTime": "2024-06-21T01:59:59Z",
       "activeLiveChatId": "Cg0KC1RuZWpES2NuNV93KicKGFVDb0F3M1NNTF8wOWRGLTd5aFFVOHdGURILVG5lakRLY241X3c"
     }
   },
@@ -10355,8 +10356,9 @@
       "title": "second time?! playing #eldenring"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-20T02:00:00Z",
-      "activeLiveChatId": "Cg0KC3FLMDYxVHpNaGVnKicKGFVDb0F3M1NNTF8wOWRGLTd5aFFVOHdGURILcUswNjFUek1oZWc"
+      "actualStartTime": "2024-06-20T02:04:19Z",
+      "actualEndTime": "2024-06-20T07:22:52Z",
+      "scheduledStartTime": "2024-06-20T02:04:05Z"
     }
   },
   "LBUDvhAlOjg": {

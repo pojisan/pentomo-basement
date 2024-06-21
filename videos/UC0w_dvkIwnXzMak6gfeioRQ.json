@@ -2484,7 +2484,7 @@
     "snippet": {
       "publishedAt": "2024-06-18T17:45:20Z",
       "channelId": "UC0w_dvkIwnXzMak6gfeioRQ",
-      "title": "Getting pwned | Elden Ring | Part 11"
+      "title": "Ranni's Quest! | Elden Ring | Part 11"
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-18T19:01:25Z",
@@ -2499,8 +2499,9 @@
       "title": "EMBER IS GOD"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-20T19:00:00Z",
-      "activeLiveChatId": "Cg0KC3VheG8zMzRlWDZ3KicKGFVDMHdfZHZrSXduWHpNYWs2Z2ZlaW9SURILdWF4bzMzNGVYNnc"
+      "actualStartTime": "2024-06-20T19:04:32Z",
+      "actualEndTime": "2024-06-20T23:25:44Z",
+      "scheduledStartTime": "2024-06-20T19:00:00Z"
     }
   },
   "uzmVxDs6pmU": {
@@ -2510,8 +2511,9 @@
       "title": "Scawy | Crow Country"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-19T19:00:00Z",
-      "activeLiveChatId": "Cg0KC3V6bVZ4RHM2cG1VKicKGFVDMHdfZHZrSXduWHpNYWs2Z2ZlaW9SURILdXptVnhEczZwbVU"
+      "actualStartTime": "2024-06-19T19:02:26Z",
+      "actualEndTime": "2024-06-19T23:07:10Z",
+      "scheduledStartTime": "2024-06-19T19:00:00Z"
     }
   }
 }

@@ -135,8 +135,9 @@
       "title": "\u3010HAND CAM\u3011Watch me eat this whole box of snacks, I'm hungry | #EmiBLive"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-19T18:00:00Z",
-      "activeLiveChatId": "Cg0KC2s1bnJJWUtRcW5ZKicKGFVDUXI5QTlFeERLWXkyd3h1MFJrQzRVZxILazVucklZS1Fxblk"
+      "actualStartTime": "2024-06-19T18:01:07Z",
+      "actualEndTime": "2024-06-19T20:14:06Z",
+      "scheduledStartTime": "2024-06-19T18:00:58Z"
     }
   },
   "UvW7cayniME": {
@@ -170,8 +171,9 @@
       "title": "\u3010UNARCHIVED KARAOKE\u3011My first time singing for you all! | #EmiBLive"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-20T16:30:00Z",
-      "activeLiveChatId": "Cg0KC3E5UGJsLU5aOXR3KicKGFVDUXI5QTlFeERLWXkyd3h1MFJrQzRVZxILcTlQYmwtTlo5dHc"
+      "actualStartTime": "2024-06-20T16:31:00Z",
+      "actualEndTime": "2024-06-20T18:50:53Z",
+      "scheduledStartTime": "2024-06-20T16:30:51Z"
     }
   },
   "-XPGDCOa4bM": {
@@ -197,6 +199,24 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-22T02:00:00Z",
       "activeLiveChatId": "Cg0KCzRHZm5kc0s5MmNjKicKGFVDUXI5QTlFeERLWXkyd3h1MFJrQzRVZxILNEdmbmRzSzkyY2M"
+    }
+  },
+  "vDo3gT1YSb8": {
+    "snippet": {
+      "publishedAt": "2024-06-20T00:47:51Z",
+      "channelId": "UCQr9A9ExDKYy2wxu0RkC4Ug",
+      "title": "Emi beats #poppyplaytime first try! #vtuber #vtuberclips #horrorgaming #envtuber"
+    }
+  },
+  "9FPUjw4gAFI": {
+    "snippet": {
+      "publishedAt": "2024-06-20T22:44:33Z",
+      "channelId": "UCQr9A9ExDKYy2wxu0RkC4Ug",
+      "title": "\u3010ZATSU\u3011Debut week is over! Let's review what happened! | #EmiBLive"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-22T17:00:00Z",
+      "activeLiveChatId": "Cg0KCzlGUFVqdzRnQUZJKicKGFVDUXI5QTlFeERLWXkyd3h1MFJrQzRVZxILOUZQVWp3NGdBRkk"
     }
   }
 }

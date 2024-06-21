@@ -496,8 +496,9 @@
       "title": "\u3010 FORTNITE \u3011 MASACRE EXTREMA \u3010 Akugaki Koa | idolES \u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-20T17:00:00Z",
-      "activeLiveChatId": "Cg0KC29SWEp3VWJ4NGtjKicKGFVDNFI2ZGRoQkpwMmJqUUhWTnhnTlFTQRILb1JYSndVYng0a2M"
+      "actualStartTime": "2024-06-20T16:56:17Z",
+      "actualEndTime": "2024-06-20T16:56:59Z",
+      "scheduledStartTime": "2024-06-20T17:00:00Z"
     }
   },
   "SARpf6tWOOY": {
@@ -507,7 +508,7 @@
       "title": "\u3010 Cats Organized Neatly \u3011a ordeNYAr! \u219d\u3010 Akugaki Koa | idolES \u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-19T23:00:00Z",
+      "scheduledStartTime": "2024-06-22T17:00:00Z",
       "activeLiveChatId": "Cg0KC1NBUnBmNnRXT09ZKicKGFVDNFI2ZGRoQkpwMmJqUUhWTnhnTlFTQRILU0FScGY2dFdPT1k"
     }
   },
@@ -518,7 +519,8 @@
       "title": "\u3010 THE CONVENIENCE STORE \u3011 bored at night? \u219d let's get a baito! (ENG STREAM) \u3010 Akugaki Koa | idolES \u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-20T23:00:00Z",
+      "actualStartTime": "2024-06-21T01:26:28Z",
+      "scheduledStartTime": "2024-06-21T01:30:00Z",
       "activeLiveChatId": "Cg0KCzREZDFJWVdKNmdZKicKGFVDNFI2ZGRoQkpwMmJqUUhWTnhnTlFTQRILNERkMUlZV0o2Z1k"
     }
   },
@@ -553,6 +555,18 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-21T23:00:00Z",
       "activeLiveChatId": "Cg0KC0wzaTlhNVRncVBNKicKGFVDNFI2ZGRoQkpwMmJqUUhWTnhnTlFTQRILTDNpOWE1VGdxUE0"
+    }
+  },
+  "SNaq9mIHkyg": {
+    "snippet": {
+      "publishedAt": "2024-06-20T16:58:00Z",
+      "channelId": "UC4R6ddhBJp2bjQHVNxgNQSA",
+      "title": "\u3010 FORTNITE \u3011 MASACRE EXTREMA \u3010 Akugaki Koa | idolES \u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-20T16:59:52Z",
+      "actualEndTime": "2024-06-20T19:38:53Z",
+      "scheduledStartTime": "2024-06-20T17:00:00Z"
     }
   }
 }

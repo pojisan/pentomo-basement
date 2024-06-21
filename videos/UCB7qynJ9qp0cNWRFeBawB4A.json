@@ -1446,5 +1446,17 @@
       "actualEndTime": "2024-06-13T23:26:34Z",
       "scheduledStartTime": "2024-06-13T19:45:00Z"
     }
+  },
+  "NHKCJfb6FlE": {
+    "snippet": {
+      "publishedAt": "2024-06-19T17:38:44Z",
+      "channelId": "UCB7qynJ9qp0cNWRFeBawB4A",
+      "title": "\u3010DEAD BY DAYLIGHT\u3011Let's loop and have a good day"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T19:39:37Z",
+      "actualEndTime": "2024-06-19T22:25:27Z",
+      "scheduledStartTime": "2024-06-19T19:45:00Z"
+    }
   }
 }

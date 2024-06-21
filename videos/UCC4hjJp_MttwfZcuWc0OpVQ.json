@@ -389,7 +389,8 @@
     "snippet": {
       "publishedAt": "2024-02-22T05:15:47Z",
       "channelId": "UCC4hjJp_MttwfZcuWc0OpVQ",
-      "title": "\ud83d\udc32\u2601\ufe0f Free chat!!"
+      "title": "\ud83d\udc32\u2601\ufe0f Free chat!!",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2026-03-01T05:10:00Z",
@@ -2567,6 +2568,18 @@
       "actualStartTime": "2024-06-15T00:30:26Z",
       "actualEndTime": "2024-06-15T00:36:02Z",
       "scheduledStartTime": "2024-06-15T00:30:00Z"
+    }
+  },
+  "w9z3eU29K-U": {
+    "snippet": {
+      "publishedAt": "2024-06-19T21:55:25Z",
+      "channelId": "UCC4hjJp_MttwfZcuWc0OpVQ",
+      "title": "\u3010PODCAST AFTERPARTY\u3011Let's talk about it!!!!!! ft. @JunaUnagi  \u3010idolEN | Kai Saikota\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-20T22:00:29Z",
+      "actualEndTime": "2024-06-20T23:13:40Z",
+      "scheduledStartTime": "2024-06-20T22:00:00Z"
     }
   }
 }

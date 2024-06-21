@@ -3781,8 +3781,20 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-19T10:10:59Z",
-      "scheduledStartTime": "2024-06-19T10:00:00Z",
-      "activeLiveChatId": "Cg0KC0UtcXktOEN2M3BrKicKGFVDaEtYZDdvcUQxOHFpSVlCb1JJSFRsdxILRS1xeS04Q3YzcGs"
+      "actualEndTime": "2024-06-19T19:49:28Z",
+      "scheduledStartTime": "2024-06-19T10:00:00Z"
+    }
+  },
+  "s_vJOmYTjNo": {
+    "snippet": {
+      "publishedAt": "2024-06-20T11:54:49Z",
+      "channelId": "UChKXd7oqD18qiIYBoRIHTlw",
+      "title": "\u3010#\u306b\u3058GTA\u3011\u767d\u5e02\u6c11\u30c0\u30e8\u30fc  Innocent day?\u3010NIJISANJI EN | Meloco Kyoran\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-20T12:21:50Z",
+      "actualEndTime": "2024-06-20T18:49:31Z",
+      "scheduledStartTime": "2024-06-20T12:15:00Z"
     }
   }
 }

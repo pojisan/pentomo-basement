@@ -1924,8 +1924,30 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-19T12:02:50Z",
-      "scheduledStartTime": "2024-06-19T12:00:00Z",
-      "activeLiveChatId": "Cg0KC0J6SEtnTTktV3FRKicKGFVDMVpSWG9UUVV3WnRLbnBPZkp3R05QdxILQnpIS2dNOS1XcVE"
+      "actualEndTime": "2024-06-19T16:04:01Z",
+      "scheduledStartTime": "2024-06-19T12:00:00Z"
+    }
+  },
+  "p0cQUuJfUh4": {
+    "snippet": {
+      "publishedAt": "2024-06-20T22:20:06Z",
+      "channelId": "UC1ZRXoTQUwZtKnpOfJwGNPw",
+      "title": "I'M THE BIGGEST LITTLE NIGHTMARE"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-21T12:00:00Z",
+      "activeLiveChatId": "Cg0KC3AwY1FVdUpmVWg0KicKGFVDMVpSWG9UUVV3WnRLbnBPZkp3R05QdxILcDBjUVV1SmZVaDQ"
+    }
+  },
+  "-6ok1tClpeg": {
+    "snippet": {
+      "publishedAt": "2024-06-20T22:35:58Z",
+      "channelId": "UC1ZRXoTQUwZtKnpOfJwGNPw",
+      "title": "AVALLUM ARE PARTY ANIMALS!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-21T19:00:00Z",
+      "activeLiveChatId": "Cg0KCy02b2sxdENscGVnKicKGFVDMVpSWG9UUVV3WnRLbnBPZkp3R05QdxILLTZvazF0Q2xwZWc"
     }
   }
 }

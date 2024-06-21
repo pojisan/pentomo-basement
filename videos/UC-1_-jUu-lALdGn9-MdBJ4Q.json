@@ -3364,8 +3364,21 @@
       "title": "Chatting & Starting PixelStart AC Character Sketches"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-19T18:00:00Z",
-      "activeLiveChatId": "Cg0KC2Z1Wi13QWtmNFRZKicKGFVDLTFfLWpVdS1sQUxkR245LU1kQko0URILZnVaLXdBa2Y0VFk"
+      "actualStartTime": "2024-06-19T18:00:18Z",
+      "actualEndTime": "2024-06-19T21:28:09Z",
+      "scheduledStartTime": "2024-06-19T18:00:00Z"
+    }
+  },
+  "HsSYKZAo9IA": {
+    "snippet": {
+      "publishedAt": "2024-06-19T23:56:14Z",
+      "channelId": "UC-1_-jUu-lALdGn9-MdBJ4Q",
+      "title": "1 year of Chiaki | Clip Compilation"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-25T00:00:00Z",
+      "activeLiveChatId": "Cg0KC0hzU1lLWkFvOUlBKicKGFVDLTFfLWpVdS1sQUxkR245LU1kQko0URILSHNTWUtaQW85SUE",
+      "premiere": true
     }
   }
 }

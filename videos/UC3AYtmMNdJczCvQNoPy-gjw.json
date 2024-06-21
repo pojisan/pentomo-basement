@@ -4454,8 +4454,9 @@
       "title": "You have time for me, right?~"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-19T21:00:00Z",
-      "activeLiveChatId": "Cg0KC0d0dWFOQzZTS1pnKicKGFVDM0FZdG1NTmRKY3pDdlFOb1B5LWdqdxILR3R1YU5DNlNLWmc"
+      "actualStartTime": "2024-06-19T21:01:02Z",
+      "actualEndTime": "2024-06-20T00:05:07Z",
+      "scheduledStartTime": "2024-06-19T21:00:00Z"
     }
   },
   "nfFPiHky7Do": {
@@ -4465,8 +4466,9 @@
       "title": "Talk to Your Girlfriend!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-21T21:00:00Z",
-      "activeLiveChatId": "Cg0KC25mRlBpSGt5N0RvKicKGFVDM0FZdG1NTmRKY3pDdlFOb1B5LWdqdxILbmZGUGlIa3k3RG8"
+      "actualStartTime": "2024-06-20T21:00:35Z",
+      "actualEndTime": "2024-06-20T21:06:25Z",
+      "scheduledStartTime": "2024-06-21T21:00:00Z"
     }
   },
   "RqqUa-Nu_Bk": {
@@ -4518,6 +4520,32 @@
       "actualStartTime": "2024-06-18T21:02:17Z",
       "actualEndTime": "2024-06-18T21:55:39Z",
       "scheduledStartTime": "2024-06-18T21:00:00Z"
+    }
+  },
+  "elh7_50zZXQ": {
+    "snippet": {
+      "publishedAt": "2024-06-19T19:00:19Z",
+      "channelId": "UC3AYtmMNdJczCvQNoPy-gjw",
+      "title": "Ultimate REVENGE #vtuber #vtuberclip"
+    }
+  },
+  "pu5_3DkiRvs": {
+    "snippet": {
+      "publishedAt": "2024-06-20T19:00:31Z",
+      "channelId": "UC3AYtmMNdJczCvQNoPy-gjw",
+      "title": "Embarassing Nickname... #vtuber #vtuberclip"
+    }
+  },
+  "bfW0Gp04TYI": {
+    "snippet": {
+      "publishedAt": "2024-06-20T20:01:54Z",
+      "channelId": "UC3AYtmMNdJczCvQNoPy-gjw",
+      "title": "Who are you talking to? \u2665 ASMR f4m"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-20T21:01:09Z",
+      "actualEndTime": "2024-06-20T21:29:32Z",
+      "scheduledStartTime": "2024-06-20T21:00:00Z"
     }
   }
 }

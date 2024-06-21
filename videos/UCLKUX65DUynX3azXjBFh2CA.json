@@ -1806,8 +1806,9 @@
       "title": "\u3010 WUTHERING WAVES \u3011BEEN A WHILE, WUWA!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-20T01:00:00Z",
-      "activeLiveChatId": "Cg0KC2x0ZUFTWmtpSmxBKicKGFVDTEtVWDY1RFV5blgzYXpYakJGaDJDQRILbHRlQVNaa2lKbEE"
+      "actualStartTime": "2024-06-20T01:19:02Z",
+      "actualEndTime": "2024-06-20T03:47:36Z",
+      "scheduledStartTime": "2024-06-20T01:00:00Z"
     }
   }
 }

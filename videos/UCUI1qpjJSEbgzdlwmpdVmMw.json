@@ -699,8 +699,9 @@
       "title": "\u3010MEMBERS ONLY\u3011DIVERGENT WATCHALONG :D\u3010Twisty Amanozako | NIJISANJI EN\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-20T01:00:00Z",
-      "activeLiveChatId": "Cg0KC1JqT21kcnlZY1V3KicKGFVDVUkxcXBqSlNFYmd6ZGx3bXBkVm1NdxILUmpPbWRyeVljVXc"
+      "actualStartTime": "2024-06-20T01:03:10Z",
+      "actualEndTime": "2024-06-20T03:44:06Z",
+      "scheduledStartTime": "2024-06-20T01:00:00Z"
     }
   },
   "TwBvfetL_H4": {
@@ -779,8 +780,43 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-19T10:30:40Z",
-      "scheduledStartTime": "2024-06-19T10:25:00Z",
-      "activeLiveChatId": "Cg0KC2FFaHlSSGRHYlQ0KicKGFVDVUkxcXBqSlNFYmd6ZGx3bXBkVm1NdxILYUVoeVJIZEdiVDQ"
+      "actualEndTime": "2024-06-19T15:02:58Z",
+      "scheduledStartTime": "2024-06-19T10:25:00Z"
+    }
+  },
+  "2qMoe2Q9mRE": {
+    "snippet": {
+      "publishedAt": "2024-06-20T13:46:56Z",
+      "channelId": "UCUI1qpjJSEbgzdlwmpdVmMw",
+      "title": "\u3010Call of Duty: Black Ops III\u3011like a chicken with a fox\u3010Twisty Amanozako | NIJISANJI EN\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-20T14:00:29Z",
+      "actualEndTime": "2024-06-20T15:44:03Z",
+      "scheduledStartTime": "2024-06-20T14:00:00Z"
+    }
+  },
+  "TrpbZEMd8IU": {
+    "snippet": {
+      "publishedAt": "2024-06-20T15:43:06Z",
+      "channelId": "UCUI1qpjJSEbgzdlwmpdVmMw",
+      "title": "\u3010Ready or Not\u3011I am ready (or not)\u3010Twisty Amanozako | NIJISANJI EN\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-20T15:48:49Z",
+      "actualEndTime": "2024-06-20T17:28:54Z",
+      "scheduledStartTime": "2024-06-20T15:45:00Z"
+    }
+  },
+  "gkWUjQxckAE": {
+    "snippet": {
+      "publishedAt": "2024-06-20T17:30:18Z",
+      "channelId": "UCUI1qpjJSEbgzdlwmpdVmMw",
+      "title": "\u3010Ready or Not\u3011I found out that I am in fact not ready!\u3010Twisty Amanozako | NIJISANJI EN\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-21T05:00:00Z",
+      "activeLiveChatId": "Cg0KC2drV1VqUXhja0FFKicKGFVDVUkxcXBqSlNFYmd6ZGx3bXBkVm1NdxILZ2tXVWpReGNrQUU"
     }
   }
 }

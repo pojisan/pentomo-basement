@@ -745,5 +745,28 @@
       "actualEndTime": "2024-06-16T20:39:44Z",
       "scheduledStartTime": "2024-06-16T16:30:00Z"
     }
+  },
+  "mVD7IeWF-cE": {
+    "snippet": {
+      "publishedAt": "2024-06-20T09:21:37Z",
+      "channelId": "UCBnmfjpmhGxao6v54fIIMUA",
+      "title": "Let's merge into one complete artist"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-20T16:01:13Z",
+      "actualEndTime": "2024-06-20T21:58:33Z",
+      "scheduledStartTime": "2024-06-20T16:00:00Z"
+    }
+  },
+  "E_NnRpqr6h4": {
+    "snippet": {
+      "publishedAt": "2024-06-20T09:20:24Z",
+      "channelId": "UCBnmfjpmhGxao6v54fIIMUA",
+      "title": "\u3016 Membership \u3017 What's the Nikki cooking?"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-21T16:00:00Z",
+      "activeLiveChatId": "Cg0KC0VfTm5ScHFyNmg0KicKGFVDQm5tZmpwbWhHeGFvNnY1NGZJSU1VQRILRV9OblJwcXI2aDQ"
+    }
   }
 }

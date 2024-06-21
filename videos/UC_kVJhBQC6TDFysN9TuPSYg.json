@@ -1590,8 +1590,9 @@
       "title": "\u3010BOKURA\u3011We see different stuff! ft @MikiHitsugi\u3010globie 1st Gen\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-20T13:00:00Z",
-      "activeLiveChatId": "Cg0KC1BUNkxzeHNfQVlvKicKGFVDX2tWSmhCUUM2VERGeXNOOVR1UFNZZxILUFQ2THN4c19BWW8"
+      "actualStartTime": "2024-06-20T13:29:29Z",
+      "actualEndTime": "2024-06-20T17:16:37Z",
+      "scheduledStartTime": "2024-06-20T13:00:00Z"
     }
   },
   "wgUyB8FDdsM": {
@@ -1647,6 +1648,13 @@
       "publishedAt": "2024-06-17T16:47:22Z",
       "channelId": "UC_kVJhBQC6TDFysN9TuPSYg",
       "title": "4 in a row... HUh?! ft. @ReinaRonronea"
+    }
+  },
+  "YXKPgRQfdUY": {
+    "snippet": {
+      "publishedAt": "2024-06-20T19:32:36Z",
+      "channelId": "UC_kVJhBQC6TDFysN9TuPSYg",
+      "title": "Hu's Self Rizz Master"
     }
   }
 }

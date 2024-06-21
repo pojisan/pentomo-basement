@@ -8569,7 +8569,8 @@
     "snippet": {
       "publishedAt": "2024-06-19T04:14:31Z",
       "channelId": "UCBURM8S4LH7cRZ0Clea9RDA",
-      "title": "\u3010PANICORE\u3011EVERYONE. DO.NOT.PANIIIIIIIIIC\u3010NIJISANJI EN | Reimu Endou\u3011"
+      "title": "\u3010PANICORE\u3011EVERYONE. DO.NOT.PANIIIIIIIIIC\u3010NIJISANJI EN | Reimu Endou\u3011",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-19T22:00:00Z",
@@ -8584,8 +8585,21 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-19T14:19:15Z",
-      "scheduledStartTime": "2024-06-19T14:00:00Z",
-      "activeLiveChatId": "Cg0KC0syMWJ1Qkhldzh3KicKGFVDQlVSTThTNExIN2NSWjBDbGVhOVJEQRILSzIxYnVCSGV3OHc"
+      "actualEndTime": "2024-06-19T19:50:25Z",
+      "scheduledStartTime": "2024-06-19T14:00:00Z"
+    }
+  },
+  "z_raWKjjEqc": {
+    "snippet": {
+      "publishedAt": "2024-06-20T00:53:25Z",
+      "channelId": "UCBURM8S4LH7cRZ0Clea9RDA",
+      "title": "FALLOUT NEW VEGAS ENDURANCE TIME BABYYY\u3010NIJISANJI EN | Reimu Endou\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-20T13:19:41Z",
+      "actualEndTime": "2024-06-21T01:01:21Z",
+      "scheduledStartTime": "2024-06-20T13:00:00Z",
+      "activeLiveChatId": "Cg0KC3pfcmFXS2pqRXFjKicKGFVDQlVSTThTNExIN2NSWjBDbGVhOVJEQRILel9yYVdLampFcWM"
     }
   }
 }

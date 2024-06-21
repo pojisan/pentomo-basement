@@ -9447,11 +9447,24 @@
     "snippet": {
       "publishedAt": "2024-06-19T06:35:04Z",
       "channelId": "UCJ46YTYBQVXsfsp8-HryoUA",
-      "title": "tomorrow\u3010Phase-Connect\u3011"
+      "title": "Breaking AI Interrogation Game\u3010Phase-Connect\u3011doki doki ai interrogation"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-20T01:00:00Z",
-      "activeLiveChatId": "Cg0KC2l3Y08xNjRnZUxzKicKGFVDSjQ2WVRZQlFWWHNmc3A4LUhyeW9VQRILaXdjTzE2NGdlTHM"
+      "actualStartTime": "2024-06-20T01:01:21Z",
+      "actualEndTime": "2024-06-20T03:42:28Z",
+      "scheduledStartTime": "2024-06-20T01:00:00Z"
+    }
+  },
+  "ghiILukCg4k": {
+    "snippet": {
+      "publishedAt": "2024-06-20T22:19:17Z",
+      "channelId": "UCJ46YTYBQVXsfsp8-HryoUA",
+      "title": "\ud83d\udd34LIVE NOW collab on @PhaseConnect channel",
+      "private": true
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-21T02:00:00Z",
+      "activeLiveChatId": "Cg0KC2doaUlMdWtDZzRrKicKGFVDSjQ2WVRZQlFWWHNmc3A4LUhyeW9VQRILZ2hpSUx1a0NnNGs"
     }
   }
 }

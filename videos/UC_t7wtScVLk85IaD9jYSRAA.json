@@ -469,8 +469,9 @@
       "title": "\u3010Sonic Adventure 1\u3011Let's finish this!!!\u3010Yume+ | Aimee\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-20T04:00:00Z",
-      "activeLiveChatId": "Cg0KC0NvZlRVZXNwYVk0KicKGFVDX3Q3d3RTY1ZMazg1SWFEOWpZU1JBQRILQ29mVFVlc3BhWTQ"
+      "actualStartTime": "2024-06-20T03:58:10Z",
+      "actualEndTime": "2024-06-20T08:46:37Z",
+      "scheduledStartTime": "2024-06-20T04:00:00Z"
     }
   },
   "eB_8_sKL4qM": {
@@ -493,6 +494,13 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-23T01:30:00Z",
       "activeLiveChatId": "Cg0KC0JkNDRRYmNlSE00KicKGFVDX3Q3d3RTY1ZMazg1SWFEOWpZU1JBQRILQmQ0NFFiY2VITTQ"
+    }
+  },
+  "ol2BRHAmm8M": {
+    "snippet": {
+      "publishedAt": "2024-06-19T23:00:21Z",
+      "channelId": "UC_t7wtScVLk85IaD9jYSRAA",
+      "title": "\ud83d\udc40@MimosaShirosaki  #vtuber #yumeplus #yumeremedy #envtuber #envtuberclip"
     }
   }
 }

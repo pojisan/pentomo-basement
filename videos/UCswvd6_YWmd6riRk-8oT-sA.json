@@ -10498,8 +10498,9 @@
       "title": "\u3010Hamtaro: Ham Ham Heartbreak\u3011continuing the greatest game ever made"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-20T16:00:00Z",
-      "activeLiveChatId": "Cg0KC2piaTE4NTNkU3FZKicKGFVDc3d2ZDZfWVdtZDZyaVJrLThvVC1zQRILamJpMTg1M2RTcVk"
+      "actualStartTime": "2024-06-20T15:56:28Z",
+      "actualEndTime": "2024-06-20T18:59:18Z",
+      "scheduledStartTime": "2024-06-20T15:55:31Z"
     }
   },
   "eRv5K-HZfCM": {
@@ -10512,6 +10513,17 @@
       "scheduledStartTime": "2024-06-25T23:00:00Z",
       "activeLiveChatId": "Cg0KC2VSdjVLLUhaZkNNKicKGFVDc3d2ZDZfWVdtZDZyaVJrLThvVC1zQRILZVJ2NUstSFpmQ00",
       "premiere": true
+    }
+  },
+  "tjZs1N4blhA": {
+    "snippet": {
+      "publishedAt": "2024-06-21T01:27:47Z",
+      "channelId": "UCswvd6_YWmd6riRk-8oT-sA",
+      "title": "\u3010ANNIVERSARY + NEW OUTFIT REVEAL!\u3011HAPPY ANNIVERSARY TO MEEEEE!!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-25T23:15:00Z",
+      "activeLiveChatId": "Cg0KC3RqWnMxTjRibGhBKicKGFVDc3d2ZDZfWVdtZDZyaVJrLThvVC1zQRILdGpaczFONGJsaEE"
     }
   }
 }

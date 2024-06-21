@@ -1600,8 +1600,20 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-19T13:59:40Z",
-      "scheduledStartTime": "2024-06-19T14:00:00Z",
-      "activeLiveChatId": "Cg0KC3hQVnJsa1NSMkRvKicKGFVDVm1oZzR3Y1RWcGp5Q29LRFk1OW1ZdxILeFBWcmxrU1IyRG8"
+      "actualEndTime": "2024-06-19T16:34:33Z",
+      "scheduledStartTime": "2024-06-19T14:00:00Z"
+    }
+  },
+  "yzpJn0miOKQ": {
+    "snippet": {
+      "publishedAt": "2024-06-20T12:53:37Z",
+      "channelId": "UCVmhg4wcTVpjyCoKDY59mYw",
+      "title": "\u3010MINECRAFT\u3011HELP ME BUILD A BO...I MEAN A HOUSE\u3010 Reina Ronronea | globie\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-20T14:02:54Z",
+      "actualEndTime": "2024-06-20T16:36:10Z",
+      "scheduledStartTime": "2024-06-20T14:00:00Z"
     }
   }
 }

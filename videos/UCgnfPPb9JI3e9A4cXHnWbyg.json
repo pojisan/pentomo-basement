@@ -3135,8 +3135,9 @@
       "title": "\u3010Hollow Knight\u3011Keep At it! You're Almost There! Ep. 06"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-20T02:00:00Z",
-      "activeLiveChatId": "Cg0KC3JVRmhVZmZNNjRZKicKGFVDZ25mUFBiOUpJM2U5QTRjWEhuV2J5ZxILclVGaFVmZk02NFk"
+      "actualStartTime": "2024-06-20T01:59:44Z",
+      "actualEndTime": "2024-06-20T07:56:13Z",
+      "scheduledStartTime": "2024-06-20T02:00:00Z"
     }
   }
 }

@@ -16012,8 +16012,32 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-19T12:00:48Z",
-      "scheduledStartTime": "2024-06-19T12:00:00Z",
-      "activeLiveChatId": "Cg0KC0hHQ3NibDQ1c1c0KicKGFVDaXlEcFBlcnFYa2ljWm1ueEtCOXFaURILSEdDc2JsNDVzVzQ"
+      "actualEndTime": "2024-06-19T16:00:23Z",
+      "scheduledStartTime": "2024-06-19T12:00:00Z"
+    }
+  },
+  "GryZGO48D-w": {
+    "snippet": {
+      "publishedAt": "2024-06-20T11:07:32Z",
+      "channelId": "UCiyDpPerqXkicZmnxKB9qZQ",
+      "title": "[PC] Metal Gear Solid V: The Phantom Pain (2015) #12"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-20T12:00:33Z",
+      "actualEndTime": "2024-06-20T14:24:48Z",
+      "scheduledStartTime": "2024-06-20T12:00:00Z"
+    }
+  },
+  "HhwEjWbq4B8": {
+    "snippet": {
+      "publishedAt": "2024-06-20T11:34:00Z",
+      "channelId": "UCiyDpPerqXkicZmnxKB9qZQ",
+      "title": "[PC] Assassin's Creed (2007) #1"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-20T14:27:03Z",
+      "actualEndTime": "2024-06-20T16:13:53Z",
+      "scheduledStartTime": "2024-06-20T14:35:00Z"
     }
   }
 }

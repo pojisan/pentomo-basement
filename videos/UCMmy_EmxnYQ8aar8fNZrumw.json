@@ -1276,8 +1276,9 @@
       "title": "\u3010Dead Island\u3011so many silly unded people"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-20T15:00:00Z",
-      "activeLiveChatId": "Cg0KCzN4SkVQTng2dEtBKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILM3hKRVBOeDZ0S0E"
+      "actualStartTime": "2024-06-20T17:04:05Z",
+      "actualEndTime": "2024-06-20T21:27:31Z",
+      "scheduledStartTime": "2024-06-20T17:00:00Z"
     }
   },
   "F14i7kzcxZk": {
@@ -1287,7 +1288,7 @@
       "title": "\u3010The Expanse\u3011First Ones"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-19T20:00:00Z",
+      "scheduledStartTime": "2024-06-22T15:00:00Z",
       "activeLiveChatId": "Cg0KC0YxNGk3a3pjeFprKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILRjE0aTdremN4Wms"
     }
   },
@@ -1299,8 +1300,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-19T14:48:14Z",
-      "scheduledStartTime": "2024-06-19T14:00:00Z",
-      "activeLiveChatId": "Cg0KC2xyaGJnbFpVSkNzKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILbHJoYmdsWlVKQ3M"
+      "actualEndTime": "2024-06-19T17:50:53Z",
+      "scheduledStartTime": "2024-06-19T14:00:00Z"
     }
   },
   "_UKnuGwa2Ho": {
@@ -1335,6 +1336,29 @@
       "actualStartTime": "2024-06-18T19:07:21Z",
       "actualEndTime": "2024-06-18T22:11:12Z",
       "scheduledStartTime": "2024-06-18T19:00:00Z"
+    }
+  },
+  "slwiNJLTYHA": {
+    "snippet": {
+      "publishedAt": "2024-06-19T14:52:33Z",
+      "channelId": "UCMmy_EmxnYQ8aar8fNZrumw",
+      "title": "\u3010The Abduction\u3011kidnapping @AkamiChiyoCh"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-22T15:00:00Z",
+      "activeLiveChatId": "Cg0KC3Nsd2lOSkxUWUhBKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILc2x3aU5KTFRZSEE"
+    }
+  },
+  "4G1lBEUHd1A": {
+    "snippet": {
+      "publishedAt": "2024-06-20T09:06:54Z",
+      "channelId": "UCMmy_EmxnYQ8aar8fNZrumw",
+      "title": "\u3010The Abduction\u3011kidnapping @ArialYuriko"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-20T12:00:26Z",
+      "actualEndTime": "2024-06-20T14:40:56Z",
+      "scheduledStartTime": "2024-06-20T12:00:00Z"
     }
   }
 }

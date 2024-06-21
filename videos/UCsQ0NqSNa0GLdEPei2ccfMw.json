@@ -2544,8 +2544,30 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-19T12:36:55Z",
       "actualEndTime": "2024-06-19T14:39:27Z",
-      "scheduledStartTime": "2024-06-19T12:45:00Z",
-      "activeLiveChatId": "Cg0KC093UlN1LXZFbVdFKicKGFVDc1EwTnFTTmEwR0xkRVBlaTJjY2ZNdxILT3dSU3UtdkVtV0U"
+      "scheduledStartTime": "2024-06-19T12:45:00Z"
+    }
+  },
+  "_isCHbvl3Ns": {
+    "snippet": {
+      "publishedAt": "2024-06-20T13:57:01Z",
+      "channelId": "UCsQ0NqSNa0GLdEPei2ccfMw",
+      "title": "\u3010Whatever game\u3011Endurance?\u3010VOLs\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-20T14:02:07Z",
+      "actualEndTime": "2024-06-20T18:46:45Z",
+      "scheduledStartTime": "2024-06-20T14:00:00Z"
+    }
+  },
+  "KVPxuq-aKTU": {
+    "snippet": {
+      "publishedAt": "2024-06-20T18:49:59Z",
+      "channelId": "UCsQ0NqSNa0GLdEPei2ccfMw",
+      "title": "\u30101st Anniversary Celebration\u3011Happy Fluffles Day!\u3010VOLs\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-23T11:00:00Z",
+      "activeLiveChatId": "Cg0KC0tWUHh1cS1hS1RVKicKGFVDc1EwTnFTTmEwR0xkRVBlaTJjY2ZNdxILS1ZQeHVxLWFLVFU"
     }
   }
 }

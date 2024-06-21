@@ -1144,7 +1144,8 @@
     "snippet": {
       "publishedAt": "2024-06-17T08:44:09Z",
       "channelId": "UCnpc7HpcifVpi6RBzNge51w",
-      "title": "\u3010Duck Detective: Salami Bandit\u3011QUACK\u3010Cyanne Aria | bondlive_EN\u3011#shorts #vtuber #duck"
+      "title": "\u3010Duck Detective: Salami Bandit\u3011QUACK\u3010Cyanne Aria | bondlive_EN\u3011#shorts #vtuber #duck",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-20T06:00:00Z",
@@ -1187,6 +1188,25 @@
       "publishedAt": "2024-06-18T16:00:02Z",
       "channelId": "UCnpc7HpcifVpi6RBzNge51w",
       "title": "\u3010You kinda smell\u3011\u3010Cyanne Aria | bondlive_EN\u3011#shorts #vtuber #mlbb #mobilelegends"
+    }
+  },
+  "XNA3zEW0D-c": {
+    "snippet": {
+      "publishedAt": "2024-06-19T21:00:29Z",
+      "channelId": "UCnpc7HpcifVpi6RBzNge51w",
+      "title": "\u3010VARK SHORTS\u3011\u3010Cyanne Aria | bondlive_EN\u3011#shorts #vtuber #varkshorts"
+    }
+  },
+  "NHYtTZeoloo": {
+    "snippet": {
+      "publishedAt": "2024-06-17T08:47:40Z",
+      "channelId": "UCnpc7HpcifVpi6RBzNge51w",
+      "title": "\u3010Duck Detective\u3011Quack Quack\u3010Cyanne Aria | bondlive_EN\u3011 #vtuber"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-20T06:01:04Z",
+      "actualEndTime": "2024-06-20T09:19:03Z",
+      "scheduledStartTime": "2024-06-20T06:00:00Z"
     }
   }
 }

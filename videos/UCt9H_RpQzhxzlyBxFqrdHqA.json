@@ -4370,8 +4370,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-19T14:55:33Z",
-      "scheduledStartTime": "2024-06-19T15:00:00Z",
-      "activeLiveChatId": "Cg0KCzdQLWdGWHlhNVU4KicKGFVDdDlIX1JwUXpoeHpseUJ4RnFyZEhxQRILN1AtZ0ZYeWE1VTg"
+      "actualEndTime": "2024-06-19T15:36:31Z",
+      "scheduledStartTime": "2024-06-19T15:00:00Z"
     }
   },
   "JxkXIozpz80": {
@@ -4392,6 +4392,16 @@
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-21T23:00:00Z"
+    }
+  },
+  "XRoI0joFF54": {
+    "snippet": {
+      "publishedAt": "2024-06-20T22:14:36Z",
+      "channelId": "UCt9H_RpQzhxzlyBxFqrdHqA",
+      "title": "\u3010SUIKA GAME \u30b9\u30a4\u30ab\u30b2\u30fc\u30e0\u3011watermelon is justice \ud83c\udf49\ud83d\udc3e #shorts \u3010\u7e26\u578b\u914d\u4fe1 VERTICAL\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-23T07:00:00Z"
     }
   }
 }

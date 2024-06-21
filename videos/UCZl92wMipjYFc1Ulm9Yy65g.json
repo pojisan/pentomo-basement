@@ -2995,8 +2995,9 @@
       "title": "\u3010Collab\u3011 2 Truths 1 Lie w/ @KayaNishikino  \u3010Yuno Hanaki\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-19T23:00:00Z",
-      "activeLiveChatId": "Cg0KC3FzRXBuNC02a2tjKicKGFVDWmw5MndNaXBqWUZjMVVsbTlZeTY1ZxILcXNFcG40LTZra2M"
+      "actualStartTime": "2024-06-19T23:04:02Z",
+      "actualEndTime": "2024-06-20T02:25:06Z",
+      "scheduledStartTime": "2024-06-19T23:00:00Z"
     }
   },
   "vSjTFMoV7qw": {
@@ -3006,6 +3007,8 @@
       "title": "\u3010The Shape of Things\u3011 finding the shapes + DLCing!! \u3010Yuno Hanaki\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-20T23:03:46Z",
+      "actualEndTime": "2024-06-21T02:17:13Z",
       "scheduledStartTime": "2024-06-20T23:00:00Z",
       "activeLiveChatId": "Cg0KC3ZTalRGTW9WN3F3KicKGFVDWmw5MndNaXBqWUZjMVVsbTlZeTY1ZxILdlNqVEZNb1Y3cXc"
     }

@@ -634,8 +634,21 @@
       "title": "\u3010DEAL OR NO DEAL\u3011WE'RE GOING TO VEGAS WITH THIS ONE HOWIE\u3010Maid Mint Fantome\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-19T23:00:00Z",
-      "activeLiveChatId": "Cg0KC2p1WjkyQWtjRjFnKicKGFVDY0hIa0o5OGVTZmE1YWowbWRUd3dMURILanVaOTJBa2NGMWc"
+      "actualStartTime": "2024-06-19T23:02:17Z",
+      "actualEndTime": "2024-06-20T01:58:45Z",
+      "scheduledStartTime": "2024-06-19T23:00:00Z"
+    }
+  },
+  "HFwIjR59-aI": {
+    "snippet": {
+      "publishedAt": "2024-06-20T16:26:59Z",
+      "channelId": "UCcHHkJ98eSfa5aj0mdTwwLQ",
+      "title": "\u3010TOKYO JUNGLE\u3011it's a doggy dog world out there\u3010Maid Mint Fantome\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-20T23:05:31Z",
+      "actualEndTime": "2024-06-21T01:52:39Z",
+      "scheduledStartTime": "2024-06-20T23:05:00Z"
     }
   }
 }

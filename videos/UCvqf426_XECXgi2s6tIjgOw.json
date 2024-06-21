@@ -2659,8 +2659,27 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-19T14:04:10Z",
-      "scheduledStartTime": "2024-06-19T14:00:00Z",
-      "activeLiveChatId": "Cg0KC0ZpbEg5WTVzbzFzKicKGFVDdnFmNDI2X1hFQ1hnaTJzNnRJamdPdxILRmlsSDlZNXNvMXM"
+      "actualEndTime": "2024-06-19T17:09:13Z",
+      "scheduledStartTime": "2024-06-19T14:00:00Z"
+    }
+  },
+  "4iNQesNLclo": {
+    "snippet": {
+      "publishedAt": "2024-06-20T12:15:41Z",
+      "channelId": "UCvqf426_XECXgi2s6tIjgOw",
+      "title": "THE VOYAGE TO GINGER ISLAND!! Let's Explore the New Map!!\u3010Stardew Valley - Summer Year 2\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-20T14:01:26Z",
+      "actualEndTime": "2024-06-20T17:02:11Z",
+      "scheduledStartTime": "2024-06-20T14:00:00Z"
+    }
+  },
+  "XoTUy5sUM4M": {
+    "snippet": {
+      "publishedAt": "2024-06-20T22:00:19Z",
+      "channelId": "UCvqf426_XECXgi2s6tIjgOw",
+      "title": "This VTuber HATES Timezones #shorts"
     }
   }
 }

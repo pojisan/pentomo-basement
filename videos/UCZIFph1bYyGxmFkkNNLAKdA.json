@@ -14845,8 +14845,9 @@
       "title": "I take ONE day off"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-19T20:00:00Z",
-      "activeLiveChatId": "Cg0KC1RDVWNmWWxGNWYwKicKGFVDWklGcGgxYll5R3htRmtrTk5MQUtkQRILVENVY2ZZbEY1ZjA"
+      "actualStartTime": "2024-06-19T20:43:06Z",
+      "actualEndTime": "2024-06-19T23:04:18Z",
+      "scheduledStartTime": "2024-06-19T20:30:00Z"
     }
   },
   "sGb8RiCY8ss": {
@@ -14856,8 +14857,35 @@
       "title": "NOW I'm at this part...I think\u3010FFXIV Heavensward 3.5 MSQ\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-20T00:00:00Z",
-      "activeLiveChatId": "Cg0KC3NHYjhSaUNZOHNzKicKGFVDWklGcGgxYll5R3htRmtrTk5MQUtkQRILc0diOFJpQ1k4c3M"
+      "actualStartTime": "2024-06-20T00:07:52Z",
+      "actualEndTime": "2024-06-20T06:29:38Z",
+      "scheduledStartTime": "2024-06-20T00:00:00Z"
+    }
+  },
+  "iFqL958A_bQ": {
+    "snippet": {
+      "publishedAt": "2024-06-20T09:21:45Z",
+      "channelId": "UCZIFph1bYyGxmFkkNNLAKdA",
+      "title": "Claymore! full event with live English voice acting  \u3010GODDESS OF VICTORY: NIKKE\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-20T22:03:02Z",
+      "actualEndTime": "2024-06-20T22:10:02Z",
+      "scheduledStartTime": "2024-06-20T22:00:00Z",
+      "activeLiveChatId": "Cg0KC2lGcUw5NThBX2JRKicKGFVDWklGcGgxYll5R3htRmtrTk5MQUtkQRILaUZxTDk1OEFfYlE"
+    }
+  },
+  "VktoB6Tp5cY": {
+    "snippet": {
+      "publishedAt": "2024-06-20T22:10:05Z",
+      "channelId": "UCZIFph1bYyGxmFkkNNLAKdA",
+      "title": "Claymore! full event with live English voice acting  \u3010GODDESS OF VICTORY: NIKKE\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-20T22:10:12Z",
+      "actualEndTime": "2024-06-20T22:20:32Z",
+      "scheduledStartTime": "2024-06-20T22:10:14Z",
+      "activeLiveChatId": "Cg0KC1ZrdG9CNlRwNWNZKicKGFVDWklGcGgxYll5R3htRmtrTk5MQUtkQRILVmt0b0I2VHA1Y1k"
     }
   }
 }

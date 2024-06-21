@@ -2183,8 +2183,9 @@
       "title": "\u3010Minecraft VSMP EP1\u3011ON THAT GRIND WITH @ZumiDokumi"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-19T18:00:00Z",
-      "activeLiveChatId": "Cg0KC1Ezai1IWVFSNy1NKicKGFVDMEpGdDVKamw1YV9fek9hWkxxazdQZxILUTNqLUhZUVI3LU0"
+      "actualStartTime": "2024-06-19T18:02:08Z",
+      "actualEndTime": "2024-06-19T20:24:57Z",
+      "scheduledStartTime": "2024-06-19T18:00:00Z"
     }
   },
   "14xis3TZN_E": {
@@ -2205,8 +2206,9 @@
       "title": "\u3010Cooking Simulator\u3011 Princess Cooks you delightful meal in real time"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-20T18:00:00Z",
-      "activeLiveChatId": "Cg0KC1lKWmZMNUZkQUtZKicKGFVDMEpGdDVKamw1YV9fek9hWkxxazdQZxILWUpaZkw1RmRBS1k"
+      "actualStartTime": "2024-06-20T18:02:38Z",
+      "actualEndTime": "2024-06-20T20:04:51Z",
+      "scheduledStartTime": "2024-06-20T18:00:00Z"
     }
   }
 }

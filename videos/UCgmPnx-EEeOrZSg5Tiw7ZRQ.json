@@ -8901,6 +8901,8 @@
       "title": "\u226aMidnight Monday Radio\u226b Episode 7 #shorts"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-19T15:03:20Z",
+      "actualEndTime": "2024-06-19T17:50:41Z",
       "scheduledStartTime": "2024-06-19T15:00:00Z",
       "activeLiveChatId": "Cg0KC25GU09GTkUwVGVVKicKGFVDZ21QbngtRUVlT3JaU2c1VGl3N1pSURILbkZTT0ZORTBUZVU"
     }
@@ -8912,8 +8914,9 @@
       "title": "\u226aHoloEarth\u226b FIRST LOOK! w/ @IRyS & @KureijiOllie"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-20T03:00:00Z",
-      "activeLiveChatId": "Cg0KC2VZanhPQ0liSEI4KicKGFVDZ21QbngtRUVlT3JaU2c1VGl3N1pSURILZVlqeE9DSWJIQjg"
+      "actualStartTime": "2024-06-20T03:03:05Z",
+      "actualEndTime": "2024-06-20T06:08:01Z",
+      "scheduledStartTime": "2024-06-20T03:00:00Z"
     }
   }
 }
