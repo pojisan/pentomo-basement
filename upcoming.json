@@ -77,18 +77,6 @@
       "activeLiveChatId": "Cg0KCy01V1lYOUpKQ3A0KicKGFVDN1RDQ3R2ckV1OHFfUzVPdFJKaC1hURILLTVXWVg5SkpDcDQ"
     }
   },
-  "-6ok1tClpeg": {
-    "snippet": {
-      "publishedAt": "2024-06-20T22:35:58Z",
-      "channelId": "UC1ZRXoTQUwZtKnpOfJwGNPw",
-      "title": "AVALLUM ARE PARTY ANIMALS!"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-21T19:01:09Z",
-      "scheduledStartTime": "2024-06-21T19:00:00Z",
-      "activeLiveChatId": "Cg0KCy02b2sxdENscGVnKicKGFVDMVpSWG9UUVV3WnRLbnBPZkp3R05QdxILLTZvazF0Q2xwZWc"
-    }
-  },
   "-JcCsS_CVzk": {
     "snippet": {
       "publishedAt": "2024-05-08T01:00:49Z",
@@ -477,6 +465,7 @@
       "title": "\u30103D REVEAL\u3011I'M NOT FLAT ANYMORE!!!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-21T22:09:08Z",
       "scheduledStartTime": "2024-06-21T22:00:00Z",
       "activeLiveChatId": "Cg0KCzFOcmJPNEdVMlRrKicKGFVDdzFLTmpWcWZySlNmY0ZkNnpsY1N6QRILMU5yYk80R1UyVGs"
     }
@@ -1470,6 +1459,17 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC0JSWEVsdGs1VU9FKicKGFVDUm02bHF0ZHhzX1FvNkhlTC1TUlEtdxILQlJYRWx0azVVT0U"
+    }
+  },
+  "BWHDKkDzibQ": {
+    "snippet": {
+      "publishedAt": "2024-06-21T22:06:12Z",
+      "channelId": "UCB-8nNthtuVIZniqXNyrhKQ",
+      "title": "\u3010Kokone's Boutique ep.14\u3011Dressing up Staff Patrik!! Or better known as eggman?"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-22T00:00:00Z",
+      "activeLiveChatId": "Cg0KC0JXSERLa0R6aWJRKicKGFVDQi04bk50aHR1VklabmlxWE55cmhLURILQldIREtrRHppYlE"
     }
   },
   "Bd44QbceHM4": {
@@ -4750,6 +4750,17 @@
       "twitch": true
     }
   },
+  "apolloalto": {
+    "snippet": {
+      "channelId": "apolloalto",
+      "title": "Let's See How This Goes !discord !socials !commands",
+      "channelTitle": "ApolloAlto"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-21T22:04:17Z",
+      "twitch": true
+    }
+  },
   "aresmythos": {
     "snippet": {
       "channelId": "aresmythos",
@@ -6183,6 +6194,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-24T15:00:00Z",
       "activeLiveChatId": "Cg0KC25nWnR5aXNoRXlBKicKGFVDdTFJTnplZnczUjdNOS0zUUVIWW1NURILbmdadHlpc2hFeUE"
+    }
+  },
+  "niasuzune": {
+    "snippet": {
+      "channelId": "niasuzune",
+      "title": "\u30103D REVEAL\u3011I'M NOT FLAT ANYMORE!!! | !merch !discord",
+      "channelTitle": "NiaSuzune"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-21T22:08:32Z",
+      "twitch": true
     }
   },
   "nmgozRRcQSs": {
@@ -7725,6 +7747,7 @@
       "title": "\u3016Minecraft VSMP\u3017\"early\" \"morning\" Minecraft!~\u3016Cyon \u2765 V&U\u3017"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-21T22:05:53Z",
       "scheduledStartTime": "2024-06-21T22:00:00Z",
       "activeLiveChatId": "Cg0KC3prWnlnQ0U3cW1rKicKGFVDUmxRenVWZVl4VERQb2JQTjFqYVZrURILemtaeWdDRTdxbWs"
     }
