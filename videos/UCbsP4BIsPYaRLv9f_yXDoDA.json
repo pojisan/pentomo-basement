@@ -603,8 +603,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-21T12:53:17Z",
       "actualEndTime": "2024-06-21T15:10:41Z",
-      "scheduledStartTime": "2024-06-21T13:00:00Z",
-      "activeLiveChatId": "Cg0KC0w0ZU1VN1hEUURvKicKGFVDYnNQNEJJc1BZYVJMdjlmX3lYRG9EQRILTDRlTVU3WERRRG8"
+      "scheduledStartTime": "2024-06-21T13:00:00Z"
     }
   },
   "_uRkAOOupwQ": {
@@ -616,6 +615,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-23T06:30:00Z",
       "activeLiveChatId": "Cg0KC191UmtBT091cHdRKicKGFVDYnNQNEJJc1BZYVJMdjlmX3lYRG9EQRILX3VSa0FPT3Vwd1E"
+    }
+  },
+  "-PNad3wBk04": {
+    "snippet": {
+      "publishedAt": "2024-06-20T09:45:18Z",
+      "channelId": "UCbsP4BIsPYaRLv9f_yXDoDA",
+      "title": "\u3010GUERILLA FORTNITE\u3011listen...i love this game\u3010Komiyama Ambros | globie\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-22T10:00:00Z",
+      "activeLiveChatId": "Cg0KCy1QTmFkM3dCazA0KicKGFVDYnNQNEJJc1BZYVJMdjlmX3lYRG9EQRILLVBOYWQzd0JrMDQ"
     }
   }
 }

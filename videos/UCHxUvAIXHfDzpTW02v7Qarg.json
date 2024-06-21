@@ -1562,8 +1562,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-21T14:00:00Z",
       "actualEndTime": "2024-06-21T15:50:46Z",
-      "scheduledStartTime": "2024-06-21T14:00:00Z",
-      "activeLiveChatId": "Cg0KC0JKRnYxeUVEV1RvKicKGFVDSHhVdkFJWEhmRHpwVFcwMnY3UWFyZxILQkpGdjF5RURXVG8"
+      "scheduledStartTime": "2024-06-21T14:00:00Z"
     }
   },
   "bbRkX2Q00-Y": {
@@ -1575,6 +1574,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-21T21:00:00Z",
       "activeLiveChatId": "Cg0KC2JiUmtYMlEwMC1ZKicKGFVDSHhVdkFJWEhmRHpwVFcwMnY3UWFyZxILYmJSa1gyUTAwLVk"
+    }
+  },
+  "Rwioio3EmO8": {
+    "snippet": {
+      "publishedAt": "2024-06-21T17:00:12Z",
+      "channelId": "UCHxUvAIXHfDzpTW02v7Qarg",
+      "title": "\u30103DIO ASMR\u3011Maximum Relaxation at the Beach Side \u2661 Tingles/Gentle Whispers/Comfort/Ambience/\u7761\u7720\u5c0e\u5165/\u56c1\u304d"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-23T03:00:00Z",
+      "activeLiveChatId": "Cg0KC1J3aW9pbzNFbU84KicKGFVDSHhVdkFJWEhmRHpwVFcwMnY3UWFyZxILUndpb2lvM0VtTzg"
     }
   }
 }
