@@ -341,6 +341,7 @@
       "title": "\u3010ELDEN RING\u3011SHADOW OF THE ERD TREE IS FINALLY HERE  [NIJISANJI EN | Vantacrow Bringer]"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-21T17:06:45Z",
       "scheduledStartTime": "2024-06-21T17:00:00Z",
       "activeLiveChatId": "Cg0KCzEwVHp1bEdBUlJjKicKGFVDcFlmNkM5UXNQX0JSZjk3dkx1WGxJQRILMTBUenVsR0FSUmM"
     }
@@ -4317,18 +4318,6 @@
       "activeLiveChatId": "Cg0KC1htV3o1ZXFjVFlZKicKGFVDNGFtTVdxdEFmb1RZVUdxenkxX1o1URILWG1XejVlcWNUWVk"
     }
   },
-  "XrOiAqopTCQ": {
-    "snippet": {
-      "publishedAt": "2024-06-17T03:55:06Z",
-      "channelId": "UCKpiJQAX_Gnc5rjRB8yXT0A",
-      "title": "\u3010Little Nightmares\u3011Beginnings of True Nightmares\u3010OshiLink EN | Audica Sevens\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-21T14:58:53Z",
-      "scheduledStartTime": "2024-06-21T15:00:00Z",
-      "activeLiveChatId": "Cg0KC1hyT2lBcW9wVENRKicKGFVDS3BpSlFBWF9HbmM1cmpSQjh5WFQwQRILWHJPaUFxb3BUQ1E"
-    }
-  },
   "XrylmPw8zxA": {
     "snippet": {
       "publishedAt": "2024-03-01T00:08:43Z",
@@ -5670,6 +5659,17 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC2llQzA3ejFLaV84KicKGFVDSHQ0RjMtLUhxMHNOWFA2REVkbFNtZxILaWVDMDd6MUtpXzg"
+    }
+  },
+  "inumaromugi": {
+    "snippet": {
+      "channelId": "inumaromugi",
+      "title": "\u3010Eri\u3011quiet karaoke on a cold night ||\u2726 \u207a.",
+      "channelTitle": "InumaroMugi"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-21T17:09:01Z",
+      "twitch": true
     }
   },
   "iwvJ168gd5s": {
