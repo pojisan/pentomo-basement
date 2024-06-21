@@ -1537,8 +1537,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-21T00:57:08Z",
-      "scheduledStartTime": "2024-06-21T01:00:00Z",
-      "activeLiveChatId": "Cg0KC2I2LVpVQUxiZEFNKicKGFVDUG1faHRSUWp6aGdGaWtjT19MVHZUQRILYjYtWlVBTGJkQU0"
+      "actualEndTime": "2024-06-21T02:41:23Z",
+      "scheduledStartTime": "2024-06-21T01:00:00Z"
     }
   },
   "L9KTzstnSsc": {
@@ -1546,6 +1546,18 @@
       "publishedAt": "2024-06-20T18:00:10Z",
       "channelId": "UCPm_htRQjzhgFikcO_LTvTA",
       "title": "You Have Bigger..."
+    }
+  },
+  "-1wXv9_TMwc": {
+    "snippet": {
+      "publishedAt": "2024-06-21T18:02:09Z",
+      "channelId": "UCPm_htRQjzhgFikcO_LTvTA",
+      "title": "\u3010MINECRAFT VSMP\u3011SO MANY CUTE VTUBERS EVERYWHERE"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-21T19:39:18Z",
+      "scheduledStartTime": "2024-06-21T19:30:00Z",
+      "activeLiveChatId": "Cg0KCy0xd1h2OV9UTXdjKicKGFVDUG1faHRSUWp6aGdGaWtjT19MVHZUQRILLTF3WHY5X1RNd2M"
     }
   }
 }

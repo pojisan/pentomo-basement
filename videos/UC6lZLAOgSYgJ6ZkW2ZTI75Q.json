@@ -1608,8 +1608,9 @@
       "title": "\u3010\ud83d\udd34Effy 1st Debut  Anniversary \u3011It's been 365 days since we met!!! \ud83d\udc8c"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-21T12:00:00Z",
-      "activeLiveChatId": "Cg0KC0Rkc0ZnNVlUYnZvKicKGFVDNmxaTEFPZ1NZZ0o2WmtXMlpUSTc1URILRGRzRmc1WVRidm8"
+      "actualStartTime": "2024-06-21T12:02:25Z",
+      "actualEndTime": "2024-06-21T14:43:09Z",
+      "scheduledStartTime": "2024-06-21T12:00:00Z"
     }
   },
   "uyxgK8EKmHI": {
@@ -1619,9 +1620,9 @@
       "title": "\u3010Original Song\u3011Crack it - Acoustic Version\u300cEffy\u300d"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-21T11:30:00Z",
-      "activeLiveChatId": "Cg0KC3V5eGdLOEVLbUhJKicKGFVDNmxaTEFPZ1NZZ0o2WmtXMlpUSTc1URILdXl4Z0s4RUttSEk",
-      "premiere": true
+      "actualStartTime": "2024-06-21T11:30:06Z",
+      "actualEndTime": "2024-06-21T11:35:15Z",
+      "scheduledStartTime": "2024-06-21T11:30:00Z"
     }
   }
 }

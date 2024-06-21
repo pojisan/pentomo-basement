@@ -1276,8 +1276,19 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-20T21:54:38Z",
-      "scheduledStartTime": "2024-06-20T22:00:00Z",
-      "activeLiveChatId": "Cg0KC3l0QXlVY2dYRFZZKicKGFVDVlBCR21sc0M4Uy1UTmFfSUVWY3oxQRILeXRBeVVjZ1hEVlk"
+      "actualEndTime": "2024-06-21T07:01:54Z",
+      "scheduledStartTime": "2024-06-20T22:00:00Z"
+    }
+  },
+  "-jmurFfwXfo": {
+    "snippet": {
+      "publishedAt": "2024-06-21T20:11:54Z",
+      "channelId": "UCVPBGmlsC8S-TNa_IEVcz1A",
+      "title": "\ud83d\udc8e\u3010FINAL FANTASY XIV:COLLAB\u3011EXPLORING WEYARD WITH AN ANGEL SWEETCAKE\u3010Yume+ | Raein Clowd"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-21T21:00:00Z",
+      "activeLiveChatId": "Cg0KCy1qbXVyRmZ3WGZvKicKGFVDVlBCR21sc0M4Uy1UTmFfSUVWY3oxQRILLWptdXJGZndYZm8"
     }
   }
 }

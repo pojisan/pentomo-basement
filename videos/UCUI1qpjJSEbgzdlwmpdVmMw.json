@@ -744,7 +744,7 @@
       "title": "\u3010Minecraft\u3011What are we doing\u250aSurvival Let's Play #10\u3010Twisty Amanozako | NIJISANJI EN\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-28T23:00:00Z",
+      "scheduledStartTime": "2024-06-21T23:00:00Z",
       "activeLiveChatId": "Cg0KC1A4QW1CR29FR3JjKicKGFVDVUkxcXBqSlNFYmd6ZGx3bXBkVm1NdxILUDhBbUJHb0VHcmM"
     }
   },
@@ -815,8 +815,28 @@
       "title": "\u3010Ready or Not\u3011I found out that I am in fact not ready!\u3010Twisty Amanozako | NIJISANJI EN\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-21T05:00:00Z",
-      "activeLiveChatId": "Cg0KC2drV1VqUXhja0FFKicKGFVDVUkxcXBqSlNFYmd6ZGx3bXBkVm1NdxILZ2tXVWpReGNrQUU"
+      "actualStartTime": "2024-06-21T04:51:10Z",
+      "actualEndTime": "2024-06-21T07:39:04Z",
+      "scheduledStartTime": "2024-06-21T05:00:00Z"
+    }
+  },
+  "vk6LaaOBJ94": {
+    "snippet": {
+      "publishedAt": "2024-06-21T07:43:24Z",
+      "channelId": "UCUI1qpjJSEbgzdlwmpdVmMw",
+      "title": "\u3010Call of Duty: Black Ops III\u3011is go dte tu mo mhuirnin slan\u3010Twisty Amanozako | NIJISANJI EN\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-21T08:42:14Z",
+      "actualEndTime": "2024-06-21T10:45:19Z",
+      "scheduledStartTime": "2024-06-21T20:45:00Z"
+    }
+  },
+  "vJls4kxRdsM": {
+    "snippet": {
+      "publishedAt": "2024-06-21T05:10:16Z",
+      "channelId": "UCUI1qpjJSEbgzdlwmpdVmMw",
+      "title": "\u3010Touch of Hope | Yui Makino \u3011Twisty Amanozako ver. \u2661.*"
     }
   }
 }

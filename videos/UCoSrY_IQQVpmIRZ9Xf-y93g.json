@@ -5491,21 +5491,20 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-21T01:59:40Z",
-      "scheduledStartTime": "2024-06-21T02:00:00Z",
-      "activeLiveChatId": "Cg0KC0pVdmRuS3VCTURRKicKGFVDb1NyWV9JUVFWcG1JUlo5WGYteTkzZxILSlV2ZG5LdUJNRFE"
+      "actualEndTime": "2024-06-21T05:17:00Z",
+      "scheduledStartTime": "2024-06-21T02:00:00Z"
     }
   },
   "OGj0xMWReQM": {
     "snippet": {
       "publishedAt": "2024-06-20T22:56:05Z",
       "channelId": "UCoSrY_IQQVpmIRZ9Xf-y93g",
-      "title": "? ? ?"
+      "title": "\u7c9b\u8056!! \u30ed\u30ea\u795e\u30ec\u30af\u30a4\u30a8\u30e0\u2606 / Gawr Gura Cover"
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-21T01:50:07Z",
-      "scheduledStartTime": "2024-06-21T01:50:00Z",
-      "activeLiveChatId": "Cg0KC09HajB4TVdSZVFNKicKGFVDb1NyWV9JUVFWcG1JUlo5WGYteTkzZxILT0dqMHhNV1JlUU0",
-      "premiere": true
+      "actualEndTime": "2024-06-21T01:56:39Z",
+      "scheduledStartTime": "2024-06-21T01:50:00Z"
     }
   }
 }

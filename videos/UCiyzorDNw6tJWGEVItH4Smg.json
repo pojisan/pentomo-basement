@@ -3261,8 +3261,20 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-21T00:03:03Z",
-      "scheduledStartTime": "2024-06-21T00:00:00Z",
-      "activeLiveChatId": "Cg0KCzFEM0NmVVFoV0QwKicKGFVDaXl6b3JETnc2dEpXR0VWSXRINFNtZxILMUQzQ2ZVUWhXRDA"
+      "actualEndTime": "2024-06-21T03:07:49Z",
+      "scheduledStartTime": "2024-06-21T00:00:00Z"
+    }
+  },
+  "2ZXAQ1hj_D0": {
+    "snippet": {
+      "publishedAt": "2024-06-21T16:59:13Z",
+      "channelId": "UCiyzorDNw6tJWGEVItH4Smg",
+      "title": "LOTTIECRAFT IN THE VSMP!\u3010MINECRAFT\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-21T20:59:58Z",
+      "scheduledStartTime": "2024-06-21T21:00:00Z",
+      "activeLiveChatId": "Cg0KCzJaWEFRMWhqX0QwKicKGFVDaXl6b3JETnc2dEpXR0VWSXRINFNtZxILMlpYQVExaGpfRDA"
     }
   }
 }

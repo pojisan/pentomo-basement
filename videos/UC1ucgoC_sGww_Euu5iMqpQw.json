@@ -3423,8 +3423,9 @@
       "title": "\u3010Chit chat\u3011\u4e45\u3057\u3076\u308a\uff01\uff01\uff01\u8a71\u305d\uff01\uff01\uff01/Let's talk with me!!\u3010VTuber/Ririsya\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-21T12:00:00Z",
-      "activeLiveChatId": "Cg0KC3pKMzlRU0Z1cTU0KicKGFVDMXVjZ29DX3NHd3dfRXV1NWlNcXBRdxILekozOVFTRnVxNTQ"
+      "actualStartTime": "2024-06-21T12:03:04Z",
+      "actualEndTime": "2024-06-21T13:23:04Z",
+      "scheduledStartTime": "2024-06-21T12:00:00Z"
     }
   }
 }

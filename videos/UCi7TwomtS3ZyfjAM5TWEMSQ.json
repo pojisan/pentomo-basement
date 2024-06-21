@@ -269,8 +269,19 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-21T00:07:09Z",
-      "scheduledStartTime": "2024-06-21T00:00:00Z",
-      "activeLiveChatId": "Cg0KC3ZnQkxlQ3FQTjJFKicKGFVDaTdUd29tdFMzWnlmakFNNVRXRU1TURILdmdCTGVDcVBOMkU"
+      "actualEndTime": "2024-06-21T04:10:30Z",
+      "scheduledStartTime": "2024-06-21T00:00:00Z"
+    }
+  },
+  "kjxmKlmrvw0": {
+    "snippet": {
+      "publishedAt": "2024-06-17T07:12:03Z",
+      "channelId": "UCi7TwomtS3ZyfjAM5TWEMSQ",
+      "title": "\u3010Soft Sounds\u3011Comfort & Praises for you~ \ud83d\udc10\ud83c\udf7c\u3010VAllure\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-22T00:00:00Z",
+      "activeLiveChatId": "Cg0KC2tqeG1LbG1ydncwKicKGFVDaTdUd29tdFMzWnlmakFNNVRXRU1TURILa2p4bUtsbXJ2dzA"
     }
   }
 }

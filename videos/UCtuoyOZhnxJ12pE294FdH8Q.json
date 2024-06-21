@@ -2644,8 +2644,18 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-20T21:02:06Z",
       "actualEndTime": "2024-06-21T00:59:53Z",
-      "scheduledStartTime": "2024-06-20T21:00:00Z",
-      "activeLiveChatId": "Cg0KC1ZmVXgyUnJ6Ym4wKicKGFVDdHVveU9aaG54SjEycEUyOTRGZEg4URILVmZVeDJScnpibjA"
+      "scheduledStartTime": "2024-06-20T21:00:00Z"
+    }
+  },
+  "zvDsjp7fcnc": {
+    "snippet": {
+      "publishedAt": "2024-06-21T20:09:14Z",
+      "channelId": "UCtuoyOZhnxJ12pE294FdH8Q",
+      "title": "Summer Onsen together?"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-22T01:00:00Z",
+      "activeLiveChatId": "Cg0KC3p2RHNqcDdmY25jKicKGFVDdHVveU9aaG54SjEycEUyOTRGZEg4URILenZEc2pwN2ZjbmM"
     }
   }
 }

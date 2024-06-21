@@ -9238,8 +9238,9 @@
       "title": "SHADOW OF THE ERDTREE DLC LAUNCH DAY \ud83d\udc97\u3010 ELDEN RING \u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-21T02:30:00Z",
-      "activeLiveChatId": "Cg0KC0Fna1JIVlgwSmI0KicKGFVDWWFkWlI5bVJpZ254NFJLdlBvdzQ0ZxILQWdrUkhWWDBKYjQ"
+      "actualStartTime": "2024-06-21T02:36:51Z",
+      "actualEndTime": "2024-06-21T10:39:05Z",
+      "scheduledStartTime": "2024-06-21T02:30:00Z"
     }
   },
   "NjAWUJQUSRU": {
@@ -9251,6 +9252,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-24T02:30:00Z",
       "activeLiveChatId": "Cg0KC05qQVdVSlFVU1JVKicKGFVDWWFkWlI5bVJpZ254NFJLdlBvdzQ0ZxILTmpBV1VKUVVTUlU"
+    }
+  },
+  "RhP-DOPm2_Q": {
+    "snippet": {
+      "publishedAt": "2024-06-21T20:59:10Z",
+      "channelId": "UCYadZR9mRignx4RKvPow44g",
+      "title": "FIRST TIME Warzone TRIO!! \ud83d\udc97 | FPS TIME!\u3010 Call of Duty: WARZONE \u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-22T02:00:00Z",
+      "activeLiveChatId": "Cg0KC1JoUC1ET1BtMl9RKicKGFVDWWFkWlI5bVJpZ254NFJLdlBvdzQ0ZxILUmhQLURPUG0yX1E"
     }
   }
 }

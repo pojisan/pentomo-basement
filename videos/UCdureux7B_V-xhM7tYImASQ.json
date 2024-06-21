@@ -3764,8 +3764,18 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-20T22:20:08Z",
       "actualEndTime": "2024-06-21T01:00:56Z",
-      "scheduledStartTime": "2024-06-20T22:30:00Z",
-      "activeLiveChatId": "Cg0KCzZQMWtWcENuS0NzKicKGFVDZHVyZXV4N0JfVi14aE03dFlJbUFTURILNlAxa1ZwQ25LQ3M"
+      "scheduledStartTime": "2024-06-20T22:30:00Z"
+    }
+  },
+  "s_6rwDF9oVQ": {
+    "snippet": {
+      "publishedAt": "2024-06-21T08:15:04Z",
+      "channelId": "UCdureux7B_V-xhM7tYImASQ",
+      "title": "ENCORE 1 MONTH ANNI KARAOKE RELAY!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-21T23:00:00Z",
+      "activeLiveChatId": "Cg0KC3NfNnJ3REY5b1ZRKicKGFVDZHVyZXV4N0JfVi14aE03dFlJbUFTURILc182cndERjlvVlE"
     }
   }
 }

@@ -5185,8 +5185,21 @@
       "title": "\u3010\u98f2\u9152\u30b3\u30e9\u30dc\u3011\u30ed\u30ad\u3061\u3083\u3093@kannagiloki \u3068\u98f2\u9152\u3057\u306a\u304c\u3089\u96d1\u8ac7\u3059\u308b\u3088\u3010\u767d\u9e7f\u3044\u304a\u308a Phase Connect\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-21T17:30:29Z",
+      "actualEndTime": "2024-06-21T20:49:36Z",
       "scheduledStartTime": "2024-06-21T17:30:00Z",
       "activeLiveChatId": "Cg0KC3Z2dlMzdGk3M19zKicKGFVDTjViRDFZWWFwVGhPZWFkRzdZa0JPQRILdnZ2UzN0aTczX3M"
+    }
+  },
+  "S8yaQeA8w3o": {
+    "snippet": {
+      "publishedAt": "2024-06-21T04:06:37Z",
+      "channelId": "UCN5bD1YYapThOeadG7YkBOA",
+      "title": "\u3010\u732b\u9e7f\u306e\u7f8e\u5473\u3057\u3044\u30e9\u30b8\u30aa\u301113\u98df\u76ee \u6885\u96e8\u306b\u98df\u3079\u305f\u3044\u3082\u306e\u3068\u65ec\u306e\u679c\u7269\u306b\u3064\u3044\u3066@ShisuiMichiru \u3068\u8a71\u3057\u307e\u3059\u3010\u767d\u9e7f\u3044\u304a\u308a Phase Connect\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-28T00:00:00Z",
+      "activeLiveChatId": "Cg0KC1M4eWFRZUE4dzNvKicKGFVDTjViRDFZWWFwVGhPZWFkRzdZa0JPQRILUzh5YVFlQTh3M28"
     }
   }
 }

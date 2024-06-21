@@ -781,11 +781,24 @@
     "snippet": {
       "publishedAt": "2024-06-19T14:43:49Z",
       "channelId": "UCsFgdazMeQtf8lHvISB1DLQ",
-      "title": "\u3010Unarchived\u3011I'm thinking Miku-Miku ooeeoo!!\ud83e\ude75\u3010Hatsune Miku: Project Diva MegaMIX\u3011"
+      "title": "\u3010Unarchived\u3011I'm thinking Miku-Miku ooeeoo!!\ud83e\ude75\u3010Hatsune Miku: Project Diva MegaMIX\u3011",
+      "private": true
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-21T19:00:00Z",
+      "actualStartTime": "2024-06-21T19:00:33Z",
+      "scheduledStartTime": "2024-06-21T19:00:21Z",
       "activeLiveChatId": "Cg0KC2I3N2FhZ2ZZNDRnKicKGFVDc0ZnZGF6TWVRdGY4bEh2SVNCMURMURILYjc3YWFnZlk0NGc"
+    }
+  },
+  "C2DW-3o6JJk": {
+    "snippet": {
+      "publishedAt": "2024-06-21T13:16:12Z",
+      "channelId": "UCsFgdazMeQtf8lHvISB1DLQ",
+      "title": "Reviewing EXTREMELY QUESTIONABLE old ads"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-22T22:00:00Z",
+      "activeLiveChatId": "Cg0KC0MyRFctM282SkprKicKGFVDc0ZnZGF6TWVRdGY4bEh2SVNCMURMURILQzJEVy0zbzZKSms"
     }
   }
 }

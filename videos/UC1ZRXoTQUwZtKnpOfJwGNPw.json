@@ -1935,8 +1935,9 @@
       "title": "I'M THE BIGGEST LITTLE NIGHTMARE"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-21T12:00:00Z",
-      "activeLiveChatId": "Cg0KC3AwY1FVdUpmVWg0KicKGFVDMVpSWG9UUVV3WnRLbnBPZkp3R05QdxILcDBjUVV1SmZVaDQ"
+      "actualStartTime": "2024-06-21T12:02:11Z",
+      "actualEndTime": "2024-06-21T16:57:16Z",
+      "scheduledStartTime": "2024-06-21T12:00:00Z"
     }
   },
   "-6ok1tClpeg": {
@@ -1946,6 +1947,7 @@
       "title": "AVALLUM ARE PARTY ANIMALS!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-21T19:01:09Z",
       "scheduledStartTime": "2024-06-21T19:00:00Z",
       "activeLiveChatId": "Cg0KCy02b2sxdENscGVnKicKGFVDMVpSWG9UUVV3WnRLbnBPZkp3R05QdxILLTZvazF0Q2xwZWc"
     }

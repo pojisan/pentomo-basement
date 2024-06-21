@@ -414,8 +414,9 @@
       "title": "\u3010Casual Chat\u3011End of the Week Chat!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-21T18:52:54Z",
-      "activeLiveChatId": "Cg0KCzdnU1V2NnYwSXBNKicKGFVDN3NxYlE0XzVfRUx6LU92LWJWQmk4QRILN2dTVXY2djBJcE0"
+      "actualStartTime": "2024-06-21T16:11:46Z",
+      "actualEndTime": "2024-06-21T19:20:32Z",
+      "scheduledStartTime": "2024-06-21T16:11:08Z"
     }
   },
   "bhfua0fiYLE": {
@@ -425,8 +426,9 @@
       "title": "\u3010Master Duel\u3011Another new deck in preparation for next week!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-21T13:00:54Z",
-      "activeLiveChatId": "Cg0KC2JoZnVhMGZpWUxFKicKGFVDN3NxYlE0XzVfRUx6LU92LWJWQmk4QRILYmhmdWEwZmlZTEU"
+      "actualStartTime": "2024-06-21T13:00:30Z",
+      "actualEndTime": "2024-06-21T15:55:38Z",
+      "scheduledStartTime": "2024-06-21T13:00:22Z"
     }
   }
 }

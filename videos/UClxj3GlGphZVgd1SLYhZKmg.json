@@ -538,6 +538,8 @@
       "title": "\u3010ELDEN RING\u3011Shadow of the Erdtree! - First playthrough!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-21T15:01:12Z",
+      "actualEndTime": "2024-06-21T18:00:57Z",
       "scheduledStartTime": "2024-06-21T15:00:00Z",
       "activeLiveChatId": "Cg0KC3N1Q2xZSHpfM19nKicKGFVDbHhqM0dsR3BoWlZnZDFTTFloWkttZxILc3VDbFlIel8zX2c"
     }
@@ -594,8 +596,31 @@
       "title": "\u3010MINECRAFT VSMP\u3011Please stop chasing me Minecraft mobs!!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-21T18:04:47Z",
       "scheduledStartTime": "2024-06-21T18:00:00Z",
       "activeLiveChatId": "Cg0KC3RmWlh6U0dQd0RVKicKGFVDbHhqM0dsR3BoWlZnZDFTTFloWkttZxILdGZaWHpTR1B3RFU"
+    }
+  },
+  "OQkPJWVLCto": {
+    "snippet": {
+      "publishedAt": "2024-06-21T09:34:15Z",
+      "channelId": "UClxj3GlGphZVgd1SLYhZKmg",
+      "title": "\u3010ASMR\u3011Cute Girl Helping You Relax with Book & Writing Triggers \u2661  Whispering ~ Page Turning \u2661"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-23T21:00:00Z",
+      "activeLiveChatId": "Cg0KC09Ra1BKV1ZMQ3RvKicKGFVDbHhqM0dsR3BoWlZnZDFTTFloWkttZxILT1FrUEpXVkxDdG8"
+    }
+  },
+  "yMqO4zT_Dw8": {
+    "snippet": {
+      "publishedAt": "2024-06-21T10:17:35Z",
+      "channelId": "UClxj3GlGphZVgd1SLYhZKmg",
+      "title": "\u30101ST KARAOKE\u3011Can the Duck Sing?! - 10K Celebration!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-24T16:00:00Z",
+      "activeLiveChatId": "Cg0KC3lNcU80elRfRHc4KicKGFVDbHhqM0dsR3BoWlZnZDFTTFloWkttZxILeU1xTzR6VF9Edzg"
     }
   }
 }

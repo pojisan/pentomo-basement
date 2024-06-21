@@ -293,7 +293,10 @@
       "title": "\u3010Little Nightmares\u3011Beginnings of True Nightmares\u3010OshiLink EN | Audica Sevens\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-21T14:00:00Z"
+      "actualStartTime": "2024-06-21T14:58:53Z",
+      "actualEndTime": "2024-06-21T17:09:19Z",
+      "scheduledStartTime": "2024-06-21T15:00:00Z",
+      "activeLiveChatId": "Cg0KC1hyT2lBcW9wVENRKicKGFVDS3BpSlFBWF9HbmM1cmpSQjh5WFQwQRILWHJPaUFxb3BUQ1E"
     }
   },
   "fkn5MOduSgQ": {
@@ -313,6 +316,26 @@
       "publishedAt": "2024-06-20T00:00:03Z",
       "channelId": "UCKpiJQAX_Gnc5rjRB8yXT0A",
       "title": "possessed vtuber on karaoke stream"
+    }
+  },
+  "4jDJ7Z99bFY": {
+    "snippet": {
+      "publishedAt": "2024-06-21T03:38:35Z",
+      "channelId": "UCKpiJQAX_Gnc5rjRB8yXT0A",
+      "title": "\u3010Hades 2\u3011I've a Confession to Make\u3010OshiLink EN | Audica Sevens\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-24T13:00:00Z"
+    }
+  },
+  "422t70r-vqI": {
+    "snippet": {
+      "publishedAt": "2024-06-21T12:51:42Z",
+      "channelId": "UCKpiJQAX_Gnc5rjRB8yXT0A",
+      "title": "\u3010Ghost Exorcism Inc\u3011Ghost Hunting with Wifey @RinaAstera \u3010OshiLink EN | Audica Sevens\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-27T14:00:00Z"
     }
   }
 }
