@@ -633,8 +633,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-20T23:01:28Z",
-      "scheduledStartTime": "2024-06-20T23:00:00Z",
-      "activeLiveChatId": "Cg0KC3pMRmVQcVBXbFdRKicKGFVDcWxndGs5SF8xR29XdHZXOFZpaTM4dxILekxGZVBxUFdsV1E"
+      "actualEndTime": "2024-06-21T08:02:47Z",
+      "scheduledStartTime": "2024-06-20T23:00:00Z"
     }
   },
   "9hoeLmL1zPw": {
@@ -663,6 +663,7 @@
       "title": "\u3010 Unachieved Bday Karaoke\u3011SINGING BREAK\u3010Alicja Da Lontano | Globie Gen 2 Solstia\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-21T08:03:51Z",
       "scheduledStartTime": "2024-06-21T08:00:00Z",
       "activeLiveChatId": "Cg0KC3dzZi02a3M3VW1ZKicKGFVDcWxndGs5SF8xR29XdHZXOFZpaTM4dxILd3NmLTZrczdVbVk"
     }
