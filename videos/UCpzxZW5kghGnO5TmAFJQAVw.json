@@ -6503,8 +6503,19 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-21T03:06:01Z",
-      "scheduledStartTime": "2024-06-21T03:00:00Z",
-      "activeLiveChatId": "Cg0KC0VEQU4zNFZCRjN3KicKGFVDcHp4Wlc1a2doR25PNVRtQUZKUUFWdxILRURBTjM0VkJGM3c"
+      "actualEndTime": "2024-06-21T13:41:38Z",
+      "scheduledStartTime": "2024-06-21T03:00:00Z"
+    }
+  },
+  "rmsVk-mV8qU": {
+    "snippet": {
+      "publishedAt": "2024-06-21T13:44:20Z",
+      "channelId": "UCpzxZW5kghGnO5TmAFJQAVw",
+      "title": "LEAGUE OF LEGENDS CHALLENGER GRIND PART 12"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-22T03:00:00Z",
+      "activeLiveChatId": "Cg0KC3Jtc1ZrLW1WOHFVKicKGFVDcHp4Wlc1a2doR25PNVRtQUZKUUFWdxILcm1zVmstbVY4cVU"
     }
   }
 }
