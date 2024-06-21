@@ -1285,18 +1285,6 @@
       "activeLiveChatId": "Cg0KCzhoTXJ6TnhRV3RZKicKGFVDX2N4aU9WWWk5VEgzaVB2YW05ZjV5QRILOGhNcnpOeFFXdFk"
     }
   },
-  "8hpVcvxmAJQ": {
-    "snippet": {
-      "publishedAt": "2024-06-21T09:43:51Z",
-      "channelId": "UCupmjRr7kPgzXKh-cPxxGbg",
-      "title": "I'M ALIVE!!!! \ud83d\udd25\ud83d\udd25 and it's so hot!!! \ud83d\udca6"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-21T15:36:54Z",
-      "scheduledStartTime": "2024-06-21T15:00:00Z",
-      "activeLiveChatId": "Cg0KCzhocFZjdnhtQUpRKicKGFVDdXBtalJyN2tQZ3pYS2gtY1B4eEdiZxILOGhwVmN2eG1BSlE"
-    }
-  },
   "8vrLrc6iLfM": {
     "snippet": {
       "publishedAt": "2024-04-07T20:50:02Z",
@@ -1403,6 +1391,7 @@
       "title": "MINECRAFT (VSMP)"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-21T19:02:12Z",
       "scheduledStartTime": "2024-06-21T19:00:00Z",
       "activeLiveChatId": "Cg0KC0E2REZmZGtDNmk0KicKGFVDYjhkTHZEdm1aLWQ5MktFeV85b1dvZxILQTZERmZka0M2aTQ"
     }
@@ -2732,7 +2721,7 @@
     "snippet": {
       "publishedAt": "2024-06-18T15:46:35Z",
       "channelId": "UC4R6ddhBJp2bjQHVNxgNQSA",
-      "title": "\u3010 RE7 BIOHAZARD #5 (FINAL?) \u3011 \u3010 Akugaki Koa | idolES \u3011"
+      "title": "\u3010 RE7 BIOHAZARD #5 (FINAL?) \u3011 Fantasmas...? Me apunto! \u219d \u3010 Akugaki Koa | idolES \u3011"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-21T23:00:00Z",
@@ -5777,7 +5766,7 @@
   "inumaromugi": {
     "snippet": {
       "channelId": "inumaromugi",
-      "title": "\u3010Eri\u3011omo to my ri  |Omori pt1|\u2726 \u207a.",
+      "title": "\u3010Eri\u3011deltarune?!!  | Deltarune pt1|\u2726 \u207a.",
       "channelTitle": "InumaroMugi"
     },
     "liveStreamingDetails": {
@@ -6075,6 +6064,17 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-21T16:04:20Z",
+      "twitch": true
+    }
+  },
+  "leobelpurson": {
+    "snippet": {
+      "channelId": "leobelpurson",
+      "title": "Let's play Bioshock (Take 2)",
+      "channelTitle": "LeobelPurson"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-21T19:06:25Z",
       "twitch": true
     }
   },
@@ -6944,6 +6944,7 @@
       "title": "\u3010VSMP\u3011MINECRAFT & CUTE GIRLS :D"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-21T19:06:06Z",
       "scheduledStartTime": "2024-06-21T19:00:00Z",
       "activeLiveChatId": "Cg0KC3NpQ1BDaEt6U2VNKicKGFVDeGF6aWR0N3FRTU5WVzczd2twc3dPQRILc2lDUENoS3pTZU0"
     }
@@ -7698,6 +7699,18 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-24T03:00:00Z",
       "activeLiveChatId": "Cg0KC3lGeVBSelF1R3M4KicKGFVDSjRPNlBXQTQ3ZjZYYkNnckxRTnFFURILeUZ5UFJ6UXVHczg"
+    }
+  },
+  "yI0omHFSwj0": {
+    "snippet": {
+      "publishedAt": "2024-06-11T03:39:17Z",
+      "channelId": "UC5aALuwwcRa7WzWHK93AYeg",
+      "title": "\u3010POOOOL\u3011let's have a comfy time!! (100% comfy not clickbait) #shortslive #shorts"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-21T19:01:07Z",
+      "scheduledStartTime": "2024-06-21T19:00:00Z",
+      "activeLiveChatId": "Cg0KC3lJMG9tSEZTd2owKicKGFVDNWFBTHV3d2NSYTdXeldISzkzQVllZxILeUkwb21IRlN3ajA"
     }
   },
   "yIMGvBoSepQ": {
