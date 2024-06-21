@@ -3378,8 +3378,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-21T13:04:00Z",
       "actualEndTime": "2024-06-21T20:08:54Z",
-      "scheduledStartTime": "2024-06-21T13:00:00Z",
-      "activeLiveChatId": "Cg0KC0xodFJSdDBUdUN3KicKGFVDSzlsNnJUd1UzaGlTWmlqSU1xNTFHdxILTGh0UlJ0MFR1Q3c"
+      "scheduledStartTime": "2024-06-21T13:00:00Z"
     }
   },
   "xsZUoFxk5mU": {
@@ -3392,6 +3391,17 @@
       "scheduledStartTime": "2024-06-22T14:00:00Z",
       "activeLiveChatId": "Cg0KC3hzWlVvRnhrNW1VKicKGFVDSzlsNnJUd1UzaGlTWmlqSU1xNTFHdxILeHNaVW9GeGs1bVU",
       "premiere": true
+    }
+  },
+  "1vKT1-Qw-3o": {
+    "snippet": {
+      "publishedAt": "2024-06-21T22:56:31Z",
+      "channelId": "UCK9l6rTwU3hiSZijIMq51Gw",
+      "title": "\u3010Friendship Quiz\u3011Do Krisis know each other?? Revenge #Krisis1Year\u3010NIJISANJI EN | Vezalius Bandage\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-22T14:15:00Z",
+      "activeLiveChatId": "Cg0KCzF2S1QxLVF3LTNvKicKGFVDSzlsNnJUd1UzaGlTWmlqSU1xNTFHdxILMXZLVDEtUXctM28"
     }
   }
 }
