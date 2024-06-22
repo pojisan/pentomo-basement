@@ -1648,8 +1648,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-22T06:29:43Z",
       "actualEndTime": "2024-06-22T07:01:23Z",
-      "scheduledStartTime": "2024-06-22T06:30:00Z",
-      "activeLiveChatId": "Cg0KC29EbE00R0o4WVpvKicKGFVDR1h3djJ6WU94ZVdpTk55UGlMQ0JDURILb0RsTTRHSjhZWm8"
+      "scheduledStartTime": "2024-06-22T06:30:00Z"
     }
   },
   "MWFG0rcMvg8": {
@@ -1697,6 +1696,17 @@
       "actualStartTime": "2024-06-20T15:02:11Z",
       "actualEndTime": "2024-06-20T16:59:41Z",
       "scheduledStartTime": "2024-06-20T15:00:00Z"
+    }
+  },
+  "1OssvSSFqDQ": {
+    "snippet": {
+      "publishedAt": "2024-06-22T10:56:31Z",
+      "channelId": "UCGXwv2zYOxeWiNNyPiLCBCQ",
+      "title": "\u3010\u521d\u4ee3\u30de\u30ea\u30aa/\u624b\u5143\u30ab\u30e1\u30e9\u3011\u5b8c\u5168\u521d\u898b\u203c12\u6642\u9593\u8010\u4e45\u2049\u3053\u306e\u65e5\u306e\u305f\u3081\u306b\u30d5\u30a1\u30df\u30b3\u30f3\u306e\u30b3\u30f3\u30c8\u30ed\u30fc\u30e9\u30fc\u8cfc\u5165\u3057\u305f\u30ac\u30c1\u52e2\u3067\u3059\ud83c\udf1f\u3010\u604b\u8863\u3081\u3082\u308a / Phase Connect\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-23T07:00:00Z",
+      "activeLiveChatId": "Cg0KCzFPc3N2U1NGcURRKicKGFVDR1h3djJ6WU94ZVdpTk55UGlMQ0JDURILMU9zc3ZTU0ZxRFE"
     }
   }
 }
