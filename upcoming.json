@@ -5478,17 +5478,6 @@
       "twitch": true
     }
   },
-  "luluthebard": {
-    "snippet": {
-      "channelId": "luluthebard",
-      "title": "THE ROAD TO CEO MELEE EDITION | Taco Bell & Schmovement",
-      "channelTitle": "LuLuTheBard"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-22T03:24:22Z",
-      "twitch": true
-    }
-  },
   "lymzkbD9NVI": {
     "snippet": {
       "publishedAt": "2024-05-31T02:09:32Z",
@@ -5937,6 +5926,17 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-22T02:49:22Z",
+      "twitch": true
+    }
+  },
+  "poseidonmythos": {
+    "snippet": {
+      "channelId": "poseidonmythos",
+      "title": "\u2500\ud83d\udd31 VERY RARE LATE NIGHT STREAM! \ud83d\udd31 idk what im doing so come hang out! \u250a !merch !gsupps !throne !discord !socials",
+      "channelTitle": "PoseidonMythos"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-22T06:40:35Z",
       "twitch": true
     }
   },
