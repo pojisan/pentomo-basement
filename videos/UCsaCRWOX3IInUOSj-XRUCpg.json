@@ -2925,6 +2925,7 @@
       "title": "[Gaming] Let's Chat with Yagami Noah\uff5cVTuber /GTA5 in Street Junkies #\u30b9\u30c8\u30b8\u30e3\u30f3\u3010GTA5\u3011\u65e5\u672c\u8a9e/PC"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-22T12:46:34Z",
       "scheduledStartTime": "2024-06-22T12:30:00Z",
       "activeLiveChatId": "Cg0KC05xZ0tJSG1NazRRKicKGFVDc2FDUldPWDNJSW5VT1NqLVhSVUNwZxILTnFnS0lIbU1rNFE"
     }
@@ -2937,8 +2938,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-22T11:03:15Z",
-      "scheduledStartTime": "2024-06-22T11:00:00Z",
-      "activeLiveChatId": "Cg0KC3d4UEJtUGFZazZjKicKGFVDc2FDUldPWDNJSW5VT1NqLVhSVUNwZxILd3hQQm1QYVlrNmM"
+      "actualEndTime": "2024-06-22T12:45:11Z",
+      "scheduledStartTime": "2024-06-22T11:00:00Z"
     }
   }
 }
