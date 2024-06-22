@@ -892,7 +892,8 @@
     "snippet": {
       "publishedAt": "2024-06-15T20:34:06Z",
       "channelId": "UCzyzcQtOIF4lnGJ9IxrhaYA",
-      "title": "Twitter Spaces eepy"
+      "title": "Twitter Spaces eepy",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-21T04:00:00Z",
@@ -904,6 +905,17 @@
       "publishedAt": "2024-06-20T13:52:57Z",
       "channelId": "UCzyzcQtOIF4lnGJ9IxrhaYA",
       "title": "I MISS YOU \ud83d\ude2d #vtuber #wolverine"
+    }
+  },
+  "sSRQ0diLheg": {
+    "snippet": {
+      "publishedAt": "2024-06-22T16:50:24Z",
+      "channelId": "UCzyzcQtOIF4lnGJ9IxrhaYA",
+      "title": "COME SAY HI TO ME, I MISSED YOU!\u3010RETURN STREAM\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-22T19:30:00Z",
+      "activeLiveChatId": "Cg0KC3NTUlEwZGlMaGVnKicKGFVDenl6Y1F0T0lGNGxuR0o5SXhyaGFZQRILc1NSUTBkaUxoZWc"
     }
   }
 }
