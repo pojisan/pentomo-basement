@@ -33,9 +33,18 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-22T03:40:18Z",
-      "scheduledStartTime": "2024-06-22T03:40:00Z",
-      "activeLiveChatId": "Cg0KC3paWFdfaVhJcnNzKicKGFVDVzV1aHJHMWVDQllkaXRtaEwwWWtqdxILelpYV19pWElyc3M",
-      "premiere": true
+      "actualEndTime": "2024-06-22T03:44:24Z",
+      "scheduledStartTime": "2024-06-22T03:40:00Z"
+    }
+  },
+  "j89Phi0oom8": {
+    "snippet": {
+      "publishedAt": "2024-06-22T01:22:50Z",
+      "channelId": "UCW5uhrG1eCBYditmhL0Ykjw",
+      "title": "FIRST COLLAB #holoJustice"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-23T04:30:00Z"
     }
   }
 }
