@@ -98,18 +98,6 @@
       "activeLiveChatId": "Cg0KCy1QTmFkM3dCazA0KicKGFVDYnNQNEJJc1BZYVJMdjlmX3lYRG9EQRILLVBOYWQzd0JrMDQ"
     }
   },
-  "-QIAg-aVKXY": {
-    "snippet": {
-      "publishedAt": "2024-06-22T02:39:05Z",
-      "channelId": "UCRtugKQIPPfZmVZ6vLiOsdQ",
-      "title": "[\ud83d\udd34FALLOUT: NEW VEGAS] Bratty slime killed all the NPCs so now what"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-22T02:49:30Z",
-      "scheduledStartTime": "2024-06-22T02:45:00Z",
-      "activeLiveChatId": "Cg0KCy1RSUFnLWFWS1hZKicKGFVDUnR1Z0tRSVBQZlptVlo2dkxpT3NkURILLVFJQWctYVZLWFk"
-    }
-  },
   "-S13ZUiNONo": {
     "snippet": {
       "publishedAt": "2024-06-16T09:44:58Z",
@@ -720,18 +708,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-10-17T01:20:00Z",
       "activeLiveChatId": "Cg0KCzRBc2w1a09YYldBKicKGFVDdHVveU9aaG54SjEycEUyOTRGZEg4URILNEFzbDVrT1hiV0E"
-    }
-  },
-  "4Bl42S-VLxA": {
-    "snippet": {
-      "publishedAt": "2024-06-22T00:56:45Z",
-      "channelId": "UCkWnwVAYGshTEVDPZ451kBQ",
-      "title": "\u30103DIO ASMR\u3011let me take care of you \ud83d\udc96"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-22T01:53:39Z",
-      "scheduledStartTime": "2024-06-22T02:00:00Z",
-      "activeLiveChatId": "Cg0KCzRCbDQyUy1WTHhBKicKGFVDa1dud1ZBWUdzaFRFVkRQWjQ1MWtCURILNEJsNDJTLVZMeEE"
     }
   },
   "4GfndsK92cc": {
@@ -5010,17 +4986,6 @@
       "activeLiveChatId": "Cg0KC2ViZWhXakVBd2I0KicKGFVDbjJMc29zdTgyeUU5UFVtVkxGQlpCURILZWJlaFdqRUF3YjQ"
     }
   },
-  "essie_ch": {
-    "snippet": {
-      "channelId": "essie_ch",
-      "title": "\u30103DIO ASMR\u3011let me take care of you \ud83d\udc96",
-      "channelTitle": "essie_ch"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-22T01:52:59Z",
-      "twitch": true
-    }
-  },
   "fETbo5HWkFA": {
     "snippet": {
       "publishedAt": "2024-06-17T01:43:46Z",
@@ -5703,6 +5668,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-12-31T15:45:00Z",
       "activeLiveChatId": "Cg0KC2xydm9FbUZfZDkwKicKGFVDMWVYX01Wck4wRUJLZHBrbjliLWpodxILbHJ2b0VtRl9kOTA"
+    }
+  },
+  "luluthebard": {
+    "snippet": {
+      "channelId": "luluthebard",
+      "title": "THE ROAD TO CEO MELEE EDITION | Taco Bell & Schmovement",
+      "channelTitle": "LuLuTheBard"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-22T03:24:22Z",
+      "twitch": true
     }
   },
   "lumioralumen": {
