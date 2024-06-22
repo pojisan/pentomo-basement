@@ -1394,18 +1394,6 @@
       "activeLiveChatId": "Cg0KC0NYdWZZaVpyYS1BKicKGFVDT1hkV0VKZTVTTm5Lb0JlQ201WjA5URILQ1h1ZllpWnJhLUE"
     }
   },
-  "CcpdM1kcNH8": {
-    "snippet": {
-      "publishedAt": "2024-06-22T01:22:40Z",
-      "channelId": "UCKzKgU-xlncdEG5WouqTfyg",
-      "title": "\u3010Choose Your Own Adventure LIVE RP\u3011Sassy Witch Equips You for your Quest"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-22T01:45:59Z",
-      "scheduledStartTime": "2024-06-22T01:45:00Z",
-      "activeLiveChatId": "Cg0KC0NjcGRNMWtjTkg4KicKGFVDS3pLZ1UteGxuY2RFRzVXb3VxVGZ5ZxILQ2NwZE0xa2NOSDg"
-    }
-  },
   "Cq_F2Zbnsc8": {
     "snippet": {
       "publishedAt": "2024-06-17T05:52:09Z",
@@ -2726,6 +2714,18 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-04-01T10:00:00Z",
       "activeLiveChatId": "Cg0KC05fYnZQZUFDR3FBKicKGFVDeUtzZy01N1hDOXB5SGJQN3Yza0NQURILTl9idlBlQUNHcUE"
+    }
+  },
+  "NawekVVPjG4": {
+    "snippet": {
+      "publishedAt": "2024-06-22T05:55:47Z",
+      "channelId": "UCFwcEIsjvi9XEvpGx6iwHpw",
+      "title": "\ud83d\udee4\ufe0f"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-23T00:00:00Z",
+      "activeLiveChatId": "Cg0KC05hd2VrVlZQakc0KicKGFVDRndjRUlzanZpOVhFdnBHeDZpd0hwdxILTmF3ZWtWVlBqRzQ",
+      "premiere": true
     }
   },
   "NjAWUJQUSRU": {
@@ -4652,18 +4652,6 @@
       "activeLiveChatId": "Cg0KC2RnQjZUXzZSTkk4KicKGFVDUTNzX2tRWWYzUHVxT0t1OTBIcklxdxILZGdCNlRfNlJOSTg"
     }
   },
-  "djvqNHzmLvg": {
-    "snippet": {
-      "publishedAt": "2024-06-16T10:02:34Z",
-      "channelId": "UCILQl5gRBMvwd-97-M5pLYQ",
-      "title": "\u3010LIVE\u3011What if \"Deepwater Horizon\" & \"The Thing\" had a baby"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-22T02:02:32Z",
-      "scheduledStartTime": "2024-06-22T02:00:00Z",
-      "activeLiveChatId": "Cg0KC2RqdnFOSHptTHZnKicKGFVDSUxRbDVnUkJNdndkLTk3LU01cExZURILZGp2cU5Iem1Mdmc"
-    }
-  },
   "dkG3ZyfY4OI": {
     "snippet": {
       "publishedAt": "2024-05-25T20:37:51Z",
@@ -5570,17 +5558,6 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-21T17:01:50Z",
-      "twitch": true
-    }
-  },
-  "metorial": {
-    "snippet": {
-      "channelId": "metorial",
-      "title": "Oil Rig Horror \u27e1 !discord \u27e1 !cc \u27e1 !lurk \u27e1 !socials",
-      "channelTitle": "Metorial"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-22T02:02:10Z",
       "twitch": true
     }
   },
