@@ -3792,12 +3792,25 @@
     "snippet": {
       "publishedAt": "2024-06-22T17:46:48Z",
       "channelId": "UCTFCSCPvqjXEs3zq91aeOVg",
-      "title": "Pan my beloved"
+      "title": "Pan my beloved",
+      "private": true
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-22T17:59:36Z",
       "scheduledStartTime": "2024-06-22T18:00:00Z",
       "activeLiveChatId": "Cg0KC1VvT1RyODByZTk4KicKGFVDVEZDU0NQdnFqWEVzM3pxOTFhZU9WZxILVW9PVHI4MHJlOTg"
+    }
+  },
+  "El1HyI5dzVg": {
+    "snippet": {
+      "publishedAt": "2024-06-22T18:04:22Z",
+      "channelId": "UCTFCSCPvqjXEs3zq91aeOVg",
+      "title": "Pan my beloved"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-22T18:05:21Z",
+      "scheduledStartTime": "2024-06-22T18:05:00Z",
+      "activeLiveChatId": "Cg0KC0VsMUh5STVkelZnKicKGFVDVEZDU0NQdnFqWEVzM3pxOTFhZU9WZxILRWwxSHlJNWR6Vmc"
     }
   }
 }
