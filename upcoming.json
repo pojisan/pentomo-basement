@@ -344,6 +344,7 @@
       "title": "\u3010DEBUT\u3011GG STANDS FOR GIGI! \ud83d\udc67  #hololiveEnglish #holoJustice"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-22T03:43:14Z",
       "scheduledStartTime": "2024-06-22T03:45:00Z",
       "activeLiveChatId": "Cg0KCzE1YXVmWHdCSUt3KicKGFVDREhBQmlqdlBCbkptN0YtS2xOTUUzdxILMTVhdWZYd0JJS3c"
     }
@@ -742,6 +743,7 @@
       "title": "\u3010MenoGame\u3011Little Kitty, Big City\u3010Ibuki Meno\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-22T03:41:40Z",
       "scheduledStartTime": "2024-06-22T03:30:00Z",
       "activeLiveChatId": "Cg0KCzRPTWMwTHFBNW9RKicKGFVDWmZRUnV3U0x0eTc0UUFqNTVCYUtsQRILNE9NYzBMcUE1b1E"
     }
@@ -764,7 +766,7 @@
       "title": "\u3010Hades 2\u3011I've a Confession to Make\u3010OshiLink EN | Audica Sevens\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-24T13:00:00Z"
+      "scheduledStartTime": "2024-06-23T14:00:00Z"
     }
   },
   "4nfPB4RQabw": {
@@ -990,6 +992,7 @@
       "title": "\u30107days to die 1.0 \u3011\u5148\u884c\u4f53\u9a13\uff01\uff11\uff12\u5e74\u9593\u65e9\u671f\u30a2\u30af\u30bb\u30b9\u3060\u3063\u305f\u30b2\u30fc\u30e0\u304c\u3068\u3046\u3068\u3046\u6b63\u5f0f\u7248\u306b\u2026\uff01\u3010\u98ef\u7530\u307d\u3061\u3002Iida Pochi.\u3011\uff037dtd streamer weekend!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-22T03:48:24Z",
       "scheduledStartTime": "2024-06-22T03:00:00Z",
       "activeLiveChatId": "Cg0KCzZtQ1RJNkRFcS1JKicKGFVDMjJCVmxCc1pjNnRhM0Rxejc1TlU2URILNm1DVEk2REVxLUk"
     }
@@ -1715,6 +1718,7 @@
       "title": "Una noche tranquila \u30c1\u30eb\u6b4c\u67a0\u6765\u3066\uff5e\uff5e\uff5e"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-22T03:47:49Z",
       "scheduledStartTime": "2024-06-22T04:45:00Z",
       "activeLiveChatId": "Cg0KC0VvT0w2MG9OazdRKicKGFVDcDRHODNSTUJETjBFZ1pGU1VESzd6dxILRW9PTDYwb05rN1E"
     }
@@ -2852,18 +2856,6 @@
       "actualStartTime": "2024-06-22T01:07:23Z",
       "scheduledStartTime": "2024-06-22T01:05:00Z",
       "activeLiveChatId": "Cg0KC05iRk5sbGFaTXJFKicKGFVDTV9NYi1aQzNqTWczcDMyak42djRjQRILTmJGTmxsYVpNckU"
-    }
-  },
-  "NdlSHUEVCj8": {
-    "snippet": {
-      "publishedAt": "2024-06-19T01:22:43Z",
-      "channelId": "UCW5uhrG1eCBYditmhL0Ykjw",
-      "title": "\u3010DEBUT\u3011Ello Ello Ello~! \ud83d\udc84 #hololiveEnglish #holoJustice"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-22T02:59:47Z",
-      "scheduledStartTime": "2024-06-22T03:00:00Z",
-      "activeLiveChatId": "Cg0KC05kbFNIVUVWQ2o4KicKGFVDVzV1aHJHMWVDQllkaXRtaEwwWWtqdxILTmRsU0hVRVZDajg"
     }
   },
   "NjAWUJQUSRU": {
@@ -5266,17 +5258,6 @@
       "activeLiveChatId": "Cg0KC2hpc1drOWRQeHhrKicKGFVDVmpwRlAxX055M1BVb0UyNnI0SVRhdxILaGlzV2s5ZFB4eGs"
     }
   },
-  "hiyorisinn": {
-    "snippet": {
-      "channelId": "hiyorisinn",
-      "title": "finishing the V1 story!! (xenosaga tomorrow) / !streamloots !asmr",
-      "channelTitle": "HiyorisInn"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-21T20:53:00Z",
-      "twitch": true
-    }
-  },
   "hjbV8e1nYjM": {
     "snippet": {
       "publishedAt": "2024-06-21T03:27:06Z",
@@ -6527,6 +6508,16 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-22T15:00:00Z",
       "activeLiveChatId": "Cg0KC3Nsd2lOSkxUWUhBKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILc2x3aU5KTFRZSEE"
+    }
+  },
+  "sm0QvZQjaWU": {
+    "snippet": {
+      "publishedAt": "2024-06-22T03:50:14Z",
+      "channelId": "UCKpiJQAX_Gnc5rjRB8yXT0A",
+      "title": "\u3010Little Nightmares\u3011Is This The End?\u3010OshiLink EN | Audica Sevens\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-24T13:00:00Z"
     }
   },
   "snGmi9wLRkQ": {
