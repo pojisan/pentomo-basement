@@ -4905,17 +4905,6 @@
       "activeLiveChatId": "Cg0KC2hZWl9sZ3R1YWVrKicKGFVDcjhOWjlqT3JyVmNJUm5hSFpDakpVZxILaFlaX2xndHVhZWs"
     }
   },
-  "haruna": {
-    "snippet": {
-      "channelId": "haruna",
-      "title": "shoert time PEX",
-      "channelTitle": "haruna"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-22T20:05:32Z",
-      "twitch": true
-    }
-  },
   "hisWk9dPxxk": {
     "snippet": {
       "publishedAt": "2024-05-11T01:49:10Z",
@@ -5165,7 +5154,8 @@
       "title": "Reacting to Old Nico Nico Douga videos! (RIP)"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-22T21:30:00Z",
+      "actualStartTime": "2024-06-22T21:32:04Z",
+      "scheduledStartTime": "2024-06-22T21:31:06Z",
       "activeLiveChatId": "Cg0KC2puQ2p3WFlSS0l3KicKGFVDYTdmaFR6LVZTRUlhR3Q4ajZqYWI2QRILam5DandYWVJLSXc"
     }
   },
