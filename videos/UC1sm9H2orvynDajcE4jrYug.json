@@ -744,8 +744,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-22T07:31:35Z",
       "actualEndTime": "2024-06-22T18:48:02Z",
-      "scheduledStartTime": "2024-06-22T07:30:00Z",
-      "activeLiveChatId": "Cg0KC082YmtPOVFIT3hvKicKGFVDMXNtOUgyb3J2eW5EYWpjRTRqcll1ZxILTzZia085UUhPeG8"
+      "scheduledStartTime": "2024-06-22T07:30:00Z"
     }
   },
   "E88jneNLbbs": {
@@ -757,8 +756,18 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-22T18:53:46Z",
       "actualEndTime": "2024-06-22T20:39:13Z",
-      "scheduledStartTime": "2024-06-22T18:50:00Z",
-      "activeLiveChatId": "Cg0KC0U4OGpuZU5MYmJzKicKGFVDMXNtOUgyb3J2eW5EYWpjRTRqcll1ZxILRTg4am5lTkxiYnM"
+      "scheduledStartTime": "2024-06-22T18:50:00Z"
+    }
+  },
+  "TbTSEQFCABY": {
+    "snippet": {
+      "publishedAt": "2024-06-22T20:40:18Z",
+      "channelId": "UC1sm9H2orvynDajcE4jrYug",
+      "title": "\u301024 HOUR LE WOMANS\u3011PART 4 - FINAL STRETCH!\u3010globie | Kiri Kilovolt\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-23T09:00:00Z",
+      "activeLiveChatId": "Cg0KC1RiVFNFUUZDQUJZKicKGFVDMXNtOUgyb3J2eW5EYWpjRTRqcll1ZxILVGJUU0VRRkNBQlk"
     }
   }
 }
