@@ -1204,7 +1204,7 @@
       "title": "steb"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-22T02:00:00Z",
+      "scheduledStartTime": "2024-06-22T23:00:00Z",
       "activeLiveChatId": "Cg0KC0FmU1hEaFdlczZRKicKGFVDdVROSFlfYjdFdnFoUk83Q09ib3hzURILQWZTWERoV2VzNlE"
     }
   },
@@ -1604,6 +1604,7 @@
       "title": "\u3010The Expanse\u3011First Ones"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-22T18:23:20Z",
       "scheduledStartTime": "2024-06-22T18:00:00Z",
       "activeLiveChatId": "Cg0KC0YxNGk3a3pjeFprKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILRjE0aTdremN4Wms"
     }
@@ -4352,18 +4353,6 @@
       "activeLiveChatId": "Cg0KC2EwYlhzbjU2WlhJKicKGFVDTGRrY1R0NXZPZkdpX215dkstaU8wZxILYTBiWHNuNTZaWEk"
     }
   },
-  "a7YQnP2wB3U": {
-    "snippet": {
-      "publishedAt": "2024-06-22T13:39:46Z",
-      "channelId": "UClS6k3w1sPwlVFqK3-yID5A",
-      "title": "[#\u306b\u3058GTA] 8\u65e5\u76ee \u4eca\u65e5\u306f\u5192\u967a"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-22T14:40:25Z",
-      "scheduledStartTime": "2024-06-22T14:30:00Z",
-      "activeLiveChatId": "Cg0KC2E3WVFuUDJ3QjNVKicKGFVDbFM2azN3MXNQd2xWRnFLMy15SUQ1QRILYTdZUW5QMndCM1U"
-    }
-  },
   "a7viiXWFInA": {
     "snippet": {
       "publishedAt": "2023-02-10T06:56:53Z",
@@ -4394,18 +4383,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2026-04-01T00:00:00Z",
       "activeLiveChatId": "Cg0KC2FKYzRocTBLMkswKicKGFVDX2N4aU9WWWk5VEgzaVB2YW05ZjV5QRILYUpjNGhxMEsySzA"
-    }
-  },
-  "aKYoSxvfCGY": {
-    "snippet": {
-      "publishedAt": "2024-06-22T17:00:09Z",
-      "channelId": "UCLdkcTt5vOfGi_myvK-iO0g",
-      "title": "\u3010RANT ZATSU\u3011I LOVE MUSHOKU TENSEI!"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-22T17:14:48Z",
-      "scheduledStartTime": "2024-06-22T17:00:00Z",
-      "activeLiveChatId": "Cg0KC2FLWW9TeHZmQ0dZKicKGFVDTGRrY1R0NXZPZkdpX215dkstaU8wZxILYUtZb1N4dmZDR1k"
     }
   },
   "aNkiBAcgO30": {
@@ -5287,17 +5264,6 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC2llQzA3ejFLaV84KicKGFVDSHQ0RjMtLUhxMHNOWFA2REVkbFNtZxILaWVDMDd6MUtpXzg"
-    }
-  },
-  "iorihakushika": {
-    "snippet": {
-      "channelId": "iorihakushika",
-      "title": "\u3010Karaoke\u3011\u3093\u3041\uff01 EN/JP\u3010\u767d\u9e7f\u3044\u304a\u308a Phase Connect\u3011 #\u767d\u9e7f\u3044\u304a\u308a\u306e\u8abf\u67fb\u8a18\u9332",
-      "channelTitle": "iorihakushika"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-22T16:30:18Z",
-      "twitch": true
     }
   },
   "iwvJ168gd5s": {
@@ -6694,18 +6660,6 @@
       "activeLiveChatId": "Cg0KC3VZYjM1V1QxZXE0KicKGFVDeUtzZy01N1hDOXB5SGJQN3Yza0NQURILdVliMzVXVDFlcTQ"
     }
   },
-  "ua3pcliDJlQ": {
-    "snippet": {
-      "publishedAt": "2024-06-22T04:38:31Z",
-      "channelId": "UC1ZRXoTQUwZtKnpOfJwGNPw",
-      "title": "WE HIT 25,000 Netherlings!!! [Celebration Drinks Zatsu!]"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-22T16:02:33Z",
-      "scheduledStartTime": "2024-06-22T16:00:00Z",
-      "activeLiveChatId": "Cg0KC3VhM3BjbGlESmxRKicKGFVDMVpSWG9UUVV3WnRLbnBPZkp3R05QdxILdWEzcGNsaURKbFE"
-    }
-  },
   "uf13C3rtbEw": {
     "snippet": {
       "publishedAt": "2024-06-22T12:31:05Z",
@@ -7113,6 +7067,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-29T16:00:00Z",
       "activeLiveChatId": "Cg0KC3lNcU80elRfRHc4KicKGFVDbHhqM0dsR3BoWlZnZDFTTFloWkttZxILeU1xTzR6VF9Edzg"
+    }
+  },
+  "yNl1DgpqS7Q": {
+    "snippet": {
+      "publishedAt": "2024-06-22T18:26:02Z",
+      "channelId": "UC3K7pmiHsNSx1y0tdx2bbCw",
+      "title": "[ BREASTCLUB ] girl talk ! [ Phase-Connect ]"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-23T18:00:00Z",
+      "activeLiveChatId": "Cg0KC3lObDFEZ3BxUzdRKicKGFVDM0s3cG1pSHNOU3gxeTB0ZHgyYmJDdxILeU5sMURncHFTN1E"
     }
   },
   "yVDqVIfj5MA": {
