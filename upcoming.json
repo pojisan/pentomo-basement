@@ -4546,17 +4546,6 @@
       "activeLiveChatId": "Cg0KC2JXckt5NjVJT0FjKicKGFVDVlFFYmpBY0pSZVB4T0RWTTVtV0N2URILYldyS3k2NUlPQWM"
     }
   },
-  "bfrzCNm5nzE": {
-    "snippet": {
-      "publishedAt": "2024-06-03T17:39:55Z",
-      "channelId": "UC-hMwvRuMsQrfgu0DPKLV2A",
-      "title": "Rating MAL's Top 50 Anime For You!"
-    },
-    "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-22T16:00:00Z",
-      "activeLiveChatId": "Cg0KC2JmcnpDTm01bnpFKicKGFVDLWhNd3ZSdU1zUXJmZ3UwRFBLTFYyQRILYmZyekNObTVuekU"
-    }
-  },
   "blLWBuPq8j0": {
     "snippet": {
       "publishedAt": "2024-01-23T17:27:26Z",
@@ -6010,6 +5999,7 @@
       "title": "#04\u3010 #\u306b\u3058GTA \u3011\u4f4f\u6240\u4e0d\u5b9a\u8077\u696d\u7121\u8077\u3001\u4eca\u65e5\u3082\u5143\u6c17\u306b\u3044\u3063\u3066\u307f\u3088\u30fc\u30fc\uff01\uff01\u3010 \u93d1\u6728\u308d\u3053\uffe4\u306b\u3058\u3055\u3093\u3058 \u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-22T14:26:33Z",
       "scheduledStartTime": "2024-06-22T14:15:00Z",
       "activeLiveChatId": "Cg0KC3BPRUpocUZwd0xVKicKGFVDbHJRN3hoUkJ4U192Xy1XdXVkR0ttQRILcE9FSmhxRnB3TFU"
     }
@@ -6566,6 +6556,7 @@
       "title": "\u3010 #\u306b\u3058GTA \u3011\u30e9\u30fc\u30e1\u30f3\u306e\u5f37\u3055\u3010\u3067\u3059\u308f\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-22T14:30:43Z",
       "scheduledStartTime": "2024-06-22T14:30:00Z",
       "activeLiveChatId": "Cg0KC3RmS1ZOd2JzX0xJKicKGFVDZ0lmTHBRdmVsbG9EaThJMFljYndwZxILdGZLVk53YnNfTEk"
     }
@@ -7062,7 +7053,7 @@
       "title": "\u30101ST KARAOKE\u3011Can the Duck Sing?! - 10K Celebration!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-24T16:00:00Z",
+      "scheduledStartTime": "2024-06-29T16:00:00Z",
       "activeLiveChatId": "Cg0KC3lNcU80elRfRHc4KicKGFVDbHhqM0dsR3BoWlZnZDFTTFloWkttZxILeU1xTzR6VF9Edzg"
     }
   },
