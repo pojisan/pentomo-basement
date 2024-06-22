@@ -304,8 +304,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-22T20:32:08Z",
-      "scheduledStartTime": "2024-06-22T20:00:00Z",
-      "activeLiveChatId": "Cg0KCzRyMlNMUlE1RU1RKicKGFVDaTdUd29tdFMzWnlmakFNNVRXRU1TURILNHIyU0xSUTVFTVE"
+      "actualEndTime": "2024-06-22T22:15:40Z",
+      "scheduledStartTime": "2024-06-22T20:00:00Z"
     }
   },
   "tNm5I16S3VY": {
@@ -315,6 +315,7 @@
       "title": "\u3010MONETIZATION CELEBRATION\u3011Doodling Superchats + Handcam \ud83d\udc10\ud83c\udf7c\u3010VAllure\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-22T22:18:05Z",
       "scheduledStartTime": "2024-06-22T22:00:00Z",
       "activeLiveChatId": "Cg0KC3RObTVJMTZTM1ZZKicKGFVDaTdUd29tdFMzWnlmakFNNVRXRU1TURILdE5tNUkxNlMzVlk"
     }
