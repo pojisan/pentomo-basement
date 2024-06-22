@@ -680,6 +680,7 @@
       "title": "[BIRTHDAY DONOTHON] I NEED WOOD"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-22T22:44:32Z",
       "scheduledStartTime": "2024-06-22T22:40:00Z",
       "activeLiveChatId": "Cg0KCzUzYzdhRGg4OVpvKicKGFVDM1Q3Tnd5UUJBeWx5V180WE9hOXdFURILNTNjN2FEaDg5Wm8"
     }
@@ -2270,18 +2271,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-12-31T16:30:00Z",
       "activeLiveChatId": "Cg0KC0xCeWlnUGFBMm5rKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILTEJ5aWdQYUEybms"
-    }
-  },
-  "LRl3dEd8aNo": {
-    "snippet": {
-      "publishedAt": "2024-06-22T16:41:06Z",
-      "channelId": "UC4WvIIAo89_AzGUh1AZ6Dkg",
-      "title": "wosemi. #shorts"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-22T21:01:27Z",
-      "scheduledStartTime": "2024-06-22T21:00:00Z",
-      "activeLiveChatId": "Cg0KC0xSbDNkRWQ4YU5vKicKGFVDNFd2SUlBbzg5X0F6R1VoMUFaNkRrZxILTFJsM2RFZDhhTm8"
     }
   },
   "LTstMf1gROM": {
@@ -4797,17 +4786,6 @@
       "activeLiveChatId": "Cg0KC2hpc1drOWRQeHhrKicKGFVDVmpwRlAxX055M1BVb0UyNnI0SVRhdxILaGlzV2s5ZFB4eGs"
     }
   },
-  "hiyorisinn": {
-    "snippet": {
-      "channelId": "hiyorisinn",
-      "title": "NEW MERCH IS HERE!!! (also continuing xenosaga 2!!) / !streamloots !asmr",
-      "channelTitle": "HiyorisInn"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-22T17:52:24Z",
-      "twitch": true
-    }
-  },
   "hjbV8e1nYjM": {
     "snippet": {
       "publishedAt": "2024-06-21T03:27:06Z",
@@ -6018,6 +5996,17 @@
       "actualStartTime": "2024-06-22T22:00:18Z",
       "scheduledStartTime": "2024-06-22T22:00:00Z",
       "activeLiveChatId": "Cg0KC3NoNXVzcEZValVnKicKGFVDYi04RmtnLW1TVTJSbWxQOEZkcHlNdxILc2g1dXNwRlVqVWc"
+    }
+  },
+  "shirozevalia": {
+    "snippet": {
+      "channelId": "shirozevalia",
+      "title": "Shiro Torture session with Crowd Control and Fallout! !ssr !dote",
+      "channelTitle": "ShiroZevalia"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-22T22:51:03Z",
+      "twitch": true
     }
   },
   "shiwGgmvc9U": {
