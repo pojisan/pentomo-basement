@@ -4741,18 +4741,6 @@
       "activeLiveChatId": "Cg0KC2U2OXA0a0ozQVhvKicKGFVDWER5dGxKVTZSTDhENjhWclBaR3lJQRILZTY5cDRrSjNBWG8"
     }
   },
-  "eB_8_sKL4qM": {
-    "snippet": {
-      "publishedAt": "2024-06-17T13:24:20Z",
-      "channelId": "UC_t7wtScVLk85IaD9jYSRAA",
-      "title": "\u3010Karaoke\u3011Singing my favourite game songs!\u3010Yume+ | Aimee\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-22T03:01:32Z",
-      "scheduledStartTime": "2024-06-22T03:00:00Z",
-      "activeLiveChatId": "Cg0KC2VCXzhfc0tMNHFNKicKGFVDX3Q3d3RTY1ZMazg1SWFEOWpZU1JBQRILZUJfOF9zS0w0cU0"
-    }
-  },
   "eHv8k8A6Cf0": {
     "snippet": {
       "publishedAt": "2024-05-27T16:43:14Z",
@@ -6368,6 +6356,17 @@
       "actualStartTime": "2024-06-22T02:04:22Z",
       "scheduledStartTime": "2024-06-22T02:00:00Z",
       "activeLiveChatId": "Cg0KC3NuR21pOXdMUmtRKicKGFVDSXpaRGlpbGNQdjB3aW1fTWJ1aXpGQRILc25HbWk5d0xSa1E"
+    }
+  },
+  "snoozy": {
+    "snippet": {
+      "channelId": "snoozy",
+      "title": "IVE CHOSEN TO BE EVIL\u3010SVA\u3011!gg !contest",
+      "channelTitle": "snoozy"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-22T06:20:57Z",
+      "twitch": true
     }
   },
   "soDpjvdcqLI": {
