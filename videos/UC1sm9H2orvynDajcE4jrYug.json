@@ -712,6 +712,7 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-21T19:36:31Z",
+      "actualEndTime": "2024-06-22T07:27:59Z",
       "scheduledStartTime": "2024-06-21T18:00:00Z",
       "activeLiveChatId": "Cg0KC1ZzMklCNHRJcDhNKicKGFVDMXNtOUgyb3J2eW5EYWpjRTRqcll1ZxILVnMySUI0dElwOE0"
     }
@@ -733,6 +734,17 @@
       "publishedAt": "2024-06-20T11:00:25Z",
       "channelId": "UC1sm9H2orvynDajcE4jrYug",
       "title": "CALLING you OUT!"
+    }
+  },
+  "O6bkO9QHOxo": {
+    "snippet": {
+      "publishedAt": "2024-06-22T07:28:38Z",
+      "channelId": "UC1sm9H2orvynDajcE4jrYug",
+      "title": "\u301024 HOUR LE WOMANS\u3011PART 2 - I'M GAMING?!\u3010globie | Kiri Kilovolt\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-22T07:30:00Z",
+      "activeLiveChatId": "Cg0KC082YmtPOVFIT3hvKicKGFVDMXNtOUgyb3J2eW5EYWpjRTRqcll1ZxILTzZia085UUhPeG8"
     }
   }
 }
