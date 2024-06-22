@@ -2358,18 +2358,6 @@
       "activeLiveChatId": "Cg0KC0tQSjk5bmFzMjF3KicKGFVDcW1TWWtYTHdzTDB6RWFyNUdvb1lrZxILS1BKOTluYXMyMXc"
     }
   },
-  "KR5PQCoccCc": {
-    "snippet": {
-      "publishedAt": "2024-06-22T08:57:58Z",
-      "channelId": "UC1cExET9xoWSO9iSnRsW_1Q",
-      "title": "\u30103\u5468\u5e74\u8a18\u5ff5\u3011\u3053\u306e3\u5e74\u3092\u632f\u308a\u8fd4\u308b\u7d2b\u7fe0\u307f\u3061\u308b"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-22T13:02:11Z",
-      "scheduledStartTime": "2024-06-22T13:00:00Z",
-      "activeLiveChatId": "Cg0KC0tSNVBRQ29jY0NjKicKGFVDMWNFeEVUOXhvV1NPOWlTblJzV18xURILS1I1UFFDb2NjQ2M"
-    }
-  },
   "KRGKnZxDVI8": {
     "snippet": {
       "publishedAt": "2024-04-30T22:52:44Z",
@@ -3341,6 +3329,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-08-16T14:45:00Z",
       "activeLiveChatId": "Cg0KC1JYNTZubWRFY1JFKicKGFVDQjFzX0lkTy1yMG5Va1kybVhldGktQRILUlg1Nm5tZEVjUkU"
+    }
+  },
+  "RaSycdJNANk": {
+    "snippet": {
+      "publishedAt": "2024-06-22T15:19:55Z",
+      "channelId": "UCKu59gTZ_rdEmerdx5rV4Yg",
+      "title": "\u3010LIVE BASS GUITAR PLAYING\u3011 \u3010NIJISANJI EN | Ren Zotto\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-23T03:00:00Z",
+      "activeLiveChatId": "Cg0KC1JhU3ljZEpOQU5rKicKGFVDS3U1OWdUWl9yZEVtZXJkeDVyVjRZZxILUmFTeWNkSk5BTms"
     }
   },
   "RqqUa-Nu_Bk": {
@@ -6036,7 +6035,8 @@
       "title": "[DEBUT STREAM] It's wind-up time!! #hololiveEnglish #holoJustice"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-23T03:00:00Z"
+      "scheduledStartTime": "2024-06-23T03:00:00Z",
+      "activeLiveChatId": "Cg0KC3BfWlFzLWtnVUtJKicKGFVDdk41aDFTaFp0YzdubHkzcGV6UmF5ZxILcF9aUXMta2dVS0k"
     }
   },
   "paXSHfUvX1g": {
@@ -6284,6 +6284,17 @@
       "twitch": true
     }
   },
+  "riyu_thelamb": {
+    "snippet": {
+      "channelId": "riyu_thelamb",
+      "title": "BEEGG COLLAB\u3010PROJECT VERSES\u3011",
+      "channelTitle": "riyu_thelamb"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-22T15:16:48Z",
+      "twitch": true
+    }
+  },
   "rn2SX1mvIyc": {
     "snippet": {
       "publishedAt": "2023-01-17T06:13:35Z",
@@ -6313,6 +6324,17 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC3J0aXhzNm1BRXJFKicKGFVDVlFFYmpBY0pSZVB4T0RWTTVtV0N2URILcnRpeHM2bUFFckU"
+    }
+  },
+  "rurumi": {
+    "snippet": {
+      "channelId": "rurumi",
+      "title": "THE FUNNI HENTAI HORROR IS BACK ??!!!!",
+      "channelTitle": "Rurumi"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-22T15:13:38Z",
+      "twitch": true
     }
   },
   "rvWwaulJ6RA": {
@@ -6549,6 +6571,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2026-04-30T06:00:00Z",
       "activeLiveChatId": "Cg0KC3RPeWpnYWU4UmZrKicKGFVDVEpDb0hFdDVjMjdyY2VxMnNoNjlrZxILdE95amdhZThSZms"
+    }
+  },
+  "tarawavt": {
+    "snippet": {
+      "channelId": "tarawavt",
+      "title": "Weekends with Wawa: Getting Older Edition",
+      "channelTitle": "TarawaVT"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-22T15:12:17Z",
+      "twitch": true
     }
   },
   "tfKVNwbs_LI": {
