@@ -1009,8 +1009,21 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-22T20:05:18Z",
+      "actualEndTime": "2024-06-22T22:28:42Z",
       "scheduledStartTime": "2024-06-22T20:00:00Z",
       "activeLiveChatId": "Cg0KC25GZlNZaXhRaGpjKicKGFVDeGJORVc3eHlrVEM3aEU1Rllnd3JPdxILbkZmU1lpeFFoamM"
+    }
+  },
+  "-2eLWTZl2zE": {
+    "snippet": {
+      "publishedAt": "2024-06-22T22:29:18Z",
+      "channelId": "UCxbNEW7xykTC7hE5FYgwrOw",
+      "title": "\u3010KARAOKE\u3011Unarchived Chill Karaoke\u3010bondliveEN | Ivaela Daemoni\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-22T22:29:46Z",
+      "scheduledStartTime": "2024-06-22T22:30:00Z",
+      "activeLiveChatId": "Cg0KCy0yZUxXVFpsMnpFKicKGFVDeGJORVc3eHlrVEM3aEU1Rllnd3JPdxILLTJlTFdUWmwyekU"
     }
   }
 }
