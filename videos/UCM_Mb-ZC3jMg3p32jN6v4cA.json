@@ -5363,8 +5363,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-22T01:00:26Z",
-      "scheduledStartTime": "2024-06-22T01:00:00Z",
-      "activeLiveChatId": "Cg0KC2ZFVGJvNUhXa0ZBKicKGFVDTV9NYi1aQzNqTWczcDMyak42djRjQRILZkVUYm81SFdrRkE"
+      "actualEndTime": "2024-06-22T04:06:04Z",
+      "scheduledStartTime": "2024-06-22T01:00:00Z"
     }
   },
   "-r_LQqZ9yFg": {
@@ -5394,7 +5394,8 @@
     "snippet": {
       "publishedAt": "2024-06-22T01:06:22Z",
       "channelId": "UCM_Mb-ZC3jMg3p32jN6v4cA",
-      "title": "\ud83d\udd34VERTICAL STREAM - GENSHIN IMPACT 4.7 ARCHON QUEST! #shorts"
+      "title": "\ud83d\udd34VERTICAL STREAM - GENSHIN IMPACT 4.7 ARCHON QUEST! #shorts",
+      "private": true
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-22T01:07:23Z",
