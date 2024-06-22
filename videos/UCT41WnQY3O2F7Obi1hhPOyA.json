@@ -5383,8 +5383,21 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-22T00:53:13Z",
+      "actualEndTime": "2024-06-22T01:36:30Z",
       "scheduledStartTime": "2024-06-22T01:00:00Z",
       "activeLiveChatId": "Cg0KC3FOSnA0MGU2eDJFKicKGFVDVDQxV25RWTNPMkY3T2JpMWhoUE95QRILcU5KcDQwZTZ4MkU"
+    }
+  },
+  "uaDfia8qNiQ": {
+    "snippet": {
+      "publishedAt": "2024-06-22T01:37:29Z",
+      "channelId": "UCT41WnQY3O2F7Obi1hhPOyA",
+      "title": "\u3010F.E.A.R Extraction Point\u3011No Retreat, No Surrender"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-22T01:37:59Z",
+      "scheduledStartTime": "2024-06-22T01:37:27Z",
+      "activeLiveChatId": "Cg0KC3VhRGZpYThxTmlRKicKGFVDVDQxV25RWTNPMkY3T2JpMWhoUE95QRILdWFEZmlhOHFOaVE"
     }
   }
 }
