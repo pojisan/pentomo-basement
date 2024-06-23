@@ -3328,5 +3328,16 @@
       "actualEndTime": "2024-06-21T04:25:29Z",
       "scheduledStartTime": "2024-06-20T23:00:00Z"
     }
+  },
+  "fZ-E1egyBhI": {
+    "snippet": {
+      "publishedAt": "2024-06-23T20:46:21Z",
+      "channelId": "UCk2k1y-d24nFyVCvyxnAaYA",
+      "title": "minecraft!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-23T23:00:00Z",
+      "activeLiveChatId": "Cg0KC2ZaLUUxZWd5QmhJKicKGFVDazJrMXktZDI0bkZ5VkN2eXhuQWFZQRILZlotRTFlZ3lCaEk"
+    }
   }
 }
