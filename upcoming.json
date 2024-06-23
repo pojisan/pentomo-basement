@@ -2675,6 +2675,7 @@
       "title": "sneakily exploring the VSMP for the first time...\u3010MINECRAFT\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T02:04:44Z",
       "scheduledStartTime": "2024-06-23T02:00:00Z",
       "activeLiveChatId": "Cg0KC09lemptWkVDSlBVKicKGFVDenl6Y1F0T0lGNGxuR0o5SXhyaGFZQRILT2V6am1aRUNKUFU"
     }
@@ -3983,6 +3984,7 @@
       "title": "\u3010LIVE\u3011Build a Keyboard with Me!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T02:07:15Z",
       "scheduledStartTime": "2024-06-23T02:00:00Z",
       "activeLiveChatId": "Cg0KC2FXSEZVeEtCb01BKicKGFVDSUxRbDVnUkJNdndkLTk3LU01cExZURILYVdIRlV4S0JvTUE"
     }
@@ -4622,7 +4624,7 @@
       "title": "\u3010Dave the Diver\u3011Befriending mermaids"
     },
     "liveStreamingDetails": {
-      "actualStartTime": "2024-06-23T02:01:13Z",
+      "actualStartTime": "2024-06-23T02:01:44Z",
       "scheduledStartTime": "2024-06-23T02:00:00Z",
       "activeLiveChatId": "Cg0KC2dZZWdyVkxxU080KicKGFVDamNiN1B2UEhtajNNTlV5c1ZVZUpjZxILZ1llZ3JWTHFTTzQ"
     }
@@ -4874,6 +4876,7 @@
       "title": "\u3010LEFT 4 DEAD 2\u3011This zuttom collab will be the most hilarious lmao\u3010NIJISANJI EN | Reimu Endou\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T02:03:30Z",
       "scheduledStartTime": "2024-06-23T02:00:00Z",
       "activeLiveChatId": "Cg0KC2pMaG9SdUl3cG8wKicKGFVDQlVSTThTNExIN2NSWjBDbGVhOVJEQRILakxob1J1SXdwbzA"
     }
@@ -4951,6 +4954,7 @@
       "title": "\u3010MODDED MINECRAFT\u3011THE FOG REBOOT (scary mods!)\u3010V&U | GEN4\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T02:02:15Z",
       "scheduledStartTime": "2024-06-23T02:00:00Z",
       "activeLiveChatId": "Cg0KC2p2Qll5djdKU0pRKicKGFVDY0FuOFdYc29xdzl4OERBa3pZUU5RURILanZCWXl2N0pTSlE"
     }
@@ -5029,6 +5033,17 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-22T21:39:00Z",
+      "twitch": true
+    }
+  },
+  "kyubalt": {
+    "snippet": {
+      "channelId": "kyubalt",
+      "title": "\u3010  ring: legend of nibelungen \u3011 i love 2 point and click - !essay + !neocities + !discord",
+      "channelTitle": "kyubalt"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T02:03:23Z",
       "twitch": true
     }
   },
@@ -5224,6 +5239,17 @@
       "twitch": true
     }
   },
+  "metorial": {
+    "snippet": {
+      "channelId": "metorial",
+      "title": "Build a Keyboard with Metorial! \u27e1 !discord \u27e1 !cc \u27e1 !lurk \u27e1 !socials",
+      "channelTitle": "Metorial"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T02:06:53Z",
+      "twitch": true
+    }
+  },
   "mfoHpYA39oc": {
     "snippet": {
       "publishedAt": "2024-03-10T12:20:05Z",
@@ -5289,18 +5315,6 @@
       "actualStartTime": "2024-06-23T01:01:56Z",
       "scheduledStartTime": "2024-06-23T01:00:00Z",
       "activeLiveChatId": "Cg0KC242SGRrcV9BWVZnKicKGFVDYl9hbmdmRjhpbzEtMURydks1azVMQRILbjZIZGtxX0FZVmc"
-    }
-  },
-  "nH7ManYKfBY": {
-    "snippet": {
-      "publishedAt": "2024-06-22T06:28:44Z",
-      "channelId": "UCN68LoM3khS4gdBMiWJO8WA",
-      "title": "\u3010MINECRAFT\u3011 TRAPPING YOU IN MY DUNGEON\ud83e\udd0d \u3010NIJISANJI EN | Aia Amare \u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-22T21:06:40Z",
-      "scheduledStartTime": "2024-06-22T21:00:00Z",
-      "activeLiveChatId": "Cg0KC25IN01hbllLZkJZKicKGFVDTjY4TG9NM2toUzRnZEJNaVdKTzhXQRILbkg3TWFuWUtmQlk"
     }
   },
   "nIUOYMS8yiE": {
@@ -5537,6 +5551,7 @@
       "title": "VTUBER PLAYS MODDED MINECRAFT #shorts #shortslive #shortsfeed #vtuber"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T02:03:00Z",
       "scheduledStartTime": "2024-06-23T02:00:00Z",
       "activeLiveChatId": "Cg0KC3BHNzlXN3BYMHlRKicKGFVDY0FuOFdYc29xdzl4OERBa3pZUU5RURILcEc3OVc3cFgweVE"
     }
@@ -5750,6 +5765,7 @@
       "title": "\u3010LEFT 4 DEAD 2\u3011w/ zuttomo !! \u3010NIJISANJI  EN | Enna Alouette\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T02:04:44Z",
       "scheduledStartTime": "2024-06-23T01:00:00Z",
       "activeLiveChatId": "Cg0KC3IwLS1qYm4zU1V3KicKGFVDUjZxaHNMcG42MldWeENCSzFka0xvdxILcjAtLWpibjNTVXc"
     }
@@ -6193,6 +6209,7 @@
       "title": "\u3010LEFT 4 DEAD 2\u3011pew pew pew with zombies  \u2606\u2b52NIJISANJI EN \u2727 Millie Parfait \u2606\u2b52"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T02:05:36Z",
       "scheduledStartTime": "2024-06-23T01:00:00Z",
       "activeLiveChatId": "Cg0KC3VmMTNDM3J0YkV3KicKGFVDNDdyTm1rRGNOZ2JPY00tMkJ3ekpUURILdWYxM0MzcnRiRXc"
     }
@@ -6385,17 +6402,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-07-28T12:00:00Z",
       "activeLiveChatId": "Cg0KC3doT29ad1Y1RDdzKicKGFVDYmkzTU01LVFQNE1ZMVlrV2Z2NFVKQRILd2hPb1p3VjVEN3M"
-    }
-  },
-  "wisky64vt": {
-    "snippet": {
-      "channelId": "wisky64vt",
-      "title": "Tempter! Temper! \ud83d\udca5WisKy is playing World of Warships",
-      "channelTitle": "WisKy64VT"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-23T00:01:17Z",
-      "twitch": true
     }
   },
   "wjDz5GbSQxo": {
