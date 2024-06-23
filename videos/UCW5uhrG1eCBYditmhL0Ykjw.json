@@ -58,15 +58,15 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-23T19:05:36Z",
       "actualEndTime": "2024-06-23T20:09:47Z",
-      "scheduledStartTime": "2024-06-23T19:00:00Z",
-      "activeLiveChatId": "Cg0KCzVDTTJkT044eGhZKicKGFVDVzV1aHJHMWVDQllkaXRtaEwwWWtqdxILNUNNMmRPTjh4aFk"
+      "scheduledStartTime": "2024-06-23T19:00:00Z"
     }
   },
   "7AON-46cnOQ": {
     "snippet": {
       "publishedAt": "2024-06-23T18:10:36Z",
       "channelId": "UCW5uhrG1eCBYditmhL0Ykjw",
-      "title": "\u3010UNARCHIVED KARAOKE\u3011Sing Song Innit~! \ud83d\udc84 #hololiveEnglish #holoJustice"
+      "title": "\u3010UNARCHIVED KARAOKE\u3011Sing Song Innit~! \ud83d\udc84 #hololiveEnglish #holoJustice",
+      "private": true
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-23T20:11:34Z",
