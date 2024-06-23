@@ -6178,8 +6178,20 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-23T02:04:44Z",
+      "actualEndTime": "2024-06-23T05:36:30Z",
       "scheduledStartTime": "2024-06-23T01:00:00Z",
       "activeLiveChatId": "Cg0KC3IwLS1qYm4zU1V3KicKGFVDUjZxaHNMcG42MldWeENCSzFka0xvdxILcjAtLWpibjNTVXc"
+    }
+  },
+  "uF3SqFeQBow": {
+    "snippet": {
+      "publishedAt": "2024-06-23T05:38:28Z",
+      "channelId": "UCR6qhsLpn62WVxCBK1dkLow",
+      "title": "\u3010ELDEN RING (PART 3)\u3011 Raya Lucaria Academy \u3010NIJISANJI  EN | Enna Alouette\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-23T14:30:00Z",
+      "activeLiveChatId": "Cg0KC3VGM1NxRmVRQm93KicKGFVDUjZxaHNMcG42MldWeENCSzFka0xvdxILdUYzU3FGZVFCb3c"
     }
   }
 }
