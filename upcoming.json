@@ -1219,7 +1219,7 @@
       "title": "\u3010Octopath Traveler\u3011Getting More Travelers~!!\u3010Yume+ | Mero Umiko\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-23T17:00:00Z",
+      "scheduledStartTime": "2024-06-28T02:00:00Z",
       "activeLiveChatId": "Cg0KC0NxX0YyWmJuc2M4KicKGFVDOVNXSXpIUDA3UEwxeTZjVTh3a0R3QRILQ3FfRjJaYm5zYzg"
     }
   },
@@ -3798,6 +3798,17 @@
       "scheduledStartTime": "2024-06-20T18:00:00Z"
     }
   },
+  "Ze00tlwTQRc": {
+    "snippet": {
+      "publishedAt": "2024-06-23T06:01:20Z",
+      "channelId": "UCl69AEx4MdqMZH7Jtsm7Tig",
+      "title": "\u3010Art Stream\u3011Ciaora! It's time for some art!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-23T11:00:00Z",
+      "activeLiveChatId": "Cg0KC1plMDB0bHdUUVJjKicKGFVDbDY5QUV4NE1kcU1aSDdKdHNtN1RpZxILWmUwMHRsd1RRUmM"
+    }
+  },
   "Zfdd2ouM1FM": {
     "snippet": {
       "publishedAt": "2022-09-28T18:32:38Z",
@@ -4773,7 +4784,7 @@
       "title": "Late night crafting!\u3010MINECRAFT VSMP\u3011"
     },
     "liveStreamingDetails": {
-      "actualStartTime": "2024-06-23T06:01:06Z",
+      "actualStartTime": "2024-06-23T06:01:22Z",
       "scheduledStartTime": "2024-06-23T06:00:00Z",
       "activeLiveChatId": "Cg0KC2k3Q1cxbUlxM3drKicKGFVDdHVveU9aaG54SjEycEUyOTRGZEg4URILaTdDVzFtSXEzd2s"
     }
@@ -4964,7 +4975,7 @@
   "kyubalt": {
     "snippet": {
       "channelId": "kyubalt",
-      "title": "\u3010  ring: legend of nibelungen \u3011 i love 2 point and click - !essay + !neocities + !discord",
+      "title": "\u3010  dragon quest x \u3011 i love 2 gamba - !essay + !neocities + !discord",
       "channelTitle": "kyubalt"
     },
     "liveStreamingDetails": {
@@ -5078,17 +5089,6 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-23T04:06:22Z",
-      "twitch": true
-    }
-  },
-  "luluthebard": {
-    "snippet": {
-      "channelId": "luluthebard",
-      "title": "Can Goat Lead Deer Up The Mountain? ft @billie_thy_kidd",
-      "channelTitle": "LuLuTheBard"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-23T03:35:26Z",
       "twitch": true
     }
   },
@@ -5637,18 +5637,6 @@
       "activeLiveChatId": "Cg0KC3FsUmVodjFVU3ZRKicKGFVDdS1yVjJnUHRKLUNzR3hlNzF6X0JyURILcWxSZWh2MVVTdlE"
     }
   },
-  "qzm-zR-VfZo": {
-    "snippet": {
-      "publishedAt": "2024-06-17T05:42:14Z",
-      "channelId": "UC1tRqQTI3Bchs8XvUnj8yvQ",
-      "title": "Anor Londo Archers...\u3010 DARK SOULS REMASTERED || PART 9 \u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-23T03:31:03Z",
-      "scheduledStartTime": "2024-06-23T03:30:00Z",
-      "activeLiveChatId": "Cg0KC3F6bS16Ui1WZlpvKicKGFVDMXRScVFUSTNCY2hzOFh2VW5qOHl2URILcXptLXpSLVZmWm8"
-    }
-  },
   "r4G8YJwjs6s": {
     "snippet": {
       "publishedAt": "2024-06-17T07:01:21Z",
@@ -5883,6 +5871,17 @@
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-24T13:00:00Z"
+    }
+  },
+  "snoozy": {
+    "snippet": {
+      "channelId": "snoozy",
+      "title": "lets have Adult Fun Time\u3010SVA\u3011!gg !contest",
+      "channelTitle": "snoozy"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T06:03:20Z",
+      "twitch": true
     }
   },
   "soDpjvdcqLI": {
