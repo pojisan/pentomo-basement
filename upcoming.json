@@ -213,6 +213,7 @@
       "title": "DESIGNING MY OWN MASCOT PERSONA! ...I am NOT an Artist..."
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T22:00:52Z",
       "scheduledStartTime": "2024-06-23T22:00:00Z",
       "activeLiveChatId": "Cg0KCzBTOG5vaHQ5dVhzKicKGFVDeGVyUWxFMHQxeVk0YnFlSzVsZE05QRILMFM4bm9odDl1WHM"
     }
@@ -1048,6 +1049,7 @@
       "title": "\ud83d\udc80DARK SOULS 2 DLC MAKES MY BRAIN HURT"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T22:00:02Z",
       "scheduledStartTime": "2024-06-23T22:00:00Z",
       "activeLiveChatId": "Cg0KCzhjX09zYlU1cFpJKicKGFVDOU5OTXdhZnk5cXV2TldhZkZ1a05EdxILOGNfT3NiVTVwWkk"
     }
@@ -1338,6 +1340,7 @@
       "title": "[BOOK CLUB] BL BOOKCLUB!! Time to be unhinged about boys in love! [V&U | GEN 5]"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T22:00:10Z",
       "scheduledStartTime": "2024-06-23T22:00:00Z",
       "activeLiveChatId": "Cg0KC0M3V0FiM042YW93KicKGFVDSDI0YXNpSXFzVlVRbHo4RnZYSmJjdxILQzdXQWIzTjZhb3c"
     }
@@ -4878,30 +4881,6 @@
       "activeLiveChatId": "Cg0KC2V6WVZFOEVCRGhzKicKGFVDbHJRN3hoUkJ4U192Xy1XdXVkR0ttQRILZXpZVkU4RUJEaHM"
     }
   },
-  "f3acoeSCtLg": {
-    "snippet": {
-      "publishedAt": "2024-06-23T17:07:28Z",
-      "channelId": "UCzyzcQtOIF4lnGJ9IxrhaYA",
-      "title": "5K SUBS: CAN I SING WHILE EATING GHOST PEPPER!?\u3010ARCHIVED KARAOKE\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-23T19:07:08Z",
-      "scheduledStartTime": "2024-06-23T19:00:00Z",
-      "activeLiveChatId": "Cg0KC2YzYWNvZVNDdExnKicKGFVDenl6Y1F0T0lGNGxuR0o5SXhyaGFZQRILZjNhY29lU0N0TGc"
-    }
-  },
-  "f6BF6cXIDL0": {
-    "snippet": {
-      "publishedAt": "2024-06-23T21:12:21Z",
-      "channelId": "UCH24asiIqsVUQlz8FvXJbcw",
-      "title": "[Zatsu] I JUST WANNA TALK  [V&U | GEN 5]"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-23T21:16:26Z",
-      "scheduledStartTime": "2024-06-23T21:10:00Z",
-      "activeLiveChatId": "Cg0KC2Y2QkY2Y1hJREwwKicKGFVDSDI0YXNpSXFzVlVRbHo4RnZYSmJjdxILZjZCRjZjWElETDA"
-    }
-  },
   "fNGpppfceP0": {
     "snippet": {
       "publishedAt": "2024-06-23T09:57:31Z",
@@ -5404,17 +5383,6 @@
       "activeLiveChatId": "Cg0KC2tlMTZnRmdhbUdRKicKGFVDSzlsNnJUd1UzaGlTWmlqSU1xNTFHdxILa2UxNmdGZ2FtR1E"
     }
   },
-  "kibiexe": {
-    "snippet": {
-      "channelId": "kibiexe",
-      "title": "\ud83e\udd9d\ud83d\udcfc RENNALA CAN SUCK MY STAFF [!links]",
-      "channelTitle": "kibiexe"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-23T10:01:46Z",
-      "twitch": true
-    }
-  },
   "koNSXF-bpwI": {
     "snippet": {
       "publishedAt": "2024-06-23T12:47:10Z",
@@ -5886,6 +5854,17 @@
       "activeLiveChatId": "Cg0KC3BsZTBVWmdjbEJ3KicKGFVDalhKWVBzS3hvSnljLTFSUEI2ZFN5dxILcGxlMFVaZ2NsQnc"
     }
   },
+  "poseidonmythos": {
+    "snippet": {
+      "channelId": "poseidonmythos",
+      "title": "\u2500\ud83d\udd31 FIRST TIME ELDEN RING! \ud83d\udd31 I DONT KNOW WHAT IM DOING \u250a !merch !gsupps !throne !discord !socials",
+      "channelTitle": "PoseidonMythos"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T22:00:01Z",
+      "twitch": true
+    }
+  },
   "q2Gb5JMp0k8": {
     "snippet": {
       "publishedAt": "2024-01-21T14:20:06Z",
@@ -6106,6 +6085,7 @@
       "title": "Time to start over... Again\u3010Minecraft VSMP\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T21:57:23Z",
       "scheduledStartTime": "2024-06-23T22:00:00Z",
       "activeLiveChatId": "Cg0KC3JxN0ZELUsxREFRKicKGFVDbzl3QnowRmtKd2lMZWFnQjh0V1hDZxILcnE3RkQtSzFEQVE"
     }
@@ -6151,17 +6131,6 @@
       "activeLiveChatId": "Cg0KC3M4WUJLZVdxMWZNKicKGFVDMFpUVnhDSGtaYW5UNWRuUDJGWkQ0URILczhZQktlV3ExZk0"
     }
   },
-  "sJ4mUkfm6pk": {
-    "snippet": {
-      "publishedAt": "2024-06-18T04:14:24Z",
-      "channelId": "UCN5bD1YYapThOeadG7YkBOA",
-      "title": "\u3010\u3093\u3041\uff01\u3011waaaaaaaaaaaaaaaaaaaaa (on TWITCH)\u3010\u767d\u9e7f\u3044\u304a\u308a Phase Connect\u3011"
-    },
-    "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-22T16:30:00Z",
-      "activeLiveChatId": "Cg0KC3NKNG1Va2ZtNnBrKicKGFVDTjViRDFZWWFwVGhPZWFkRzdZa0JPQRILc0o0bVVrZm02cGs"
-    }
-  },
   "sNe2RUrpk0o": {
     "snippet": {
       "publishedAt": "2024-05-24T16:19:19Z",
@@ -6190,6 +6159,7 @@
       "title": "\u3010 1 Million 48HR Donothon Party! \u3011LET'S CELEBRATE 1 MILLION~ !\u3010Alias Anono | V4Mirai | ENVtuber\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T22:01:18Z",
       "scheduledStartTime": "2024-06-23T22:00:00Z",
       "activeLiveChatId": "Cg0KC3NWSTJuVkZhcDljKicKGFVDRVk5Q25TSDBuMFFLbVkyUS1PSDdadxILc1ZJMm5WRmFwOWM"
     }
