@@ -125,8 +125,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-23T01:01:56Z",
       "actualEndTime": "2024-06-23T04:17:23Z",
-      "scheduledStartTime": "2024-06-23T01:00:00Z",
-      "activeLiveChatId": "Cg0KC242SGRrcV9BWVZnKicKGFVDYl9hbmdmRjhpbzEtMURydks1azVMQRILbjZIZGtxX0FZVmc"
+      "scheduledStartTime": "2024-06-23T01:00:00Z"
     }
   },
   "WwLogp9u-U0": {
@@ -139,6 +138,17 @@
       "actualStartTime": "2024-06-18T06:43:06Z",
       "actualEndTime": "2024-06-18T08:04:45Z",
       "scheduledStartTime": "2024-06-18T05:56:11Z"
+    }
+  },
+  "n9p0cAcHRXs": {
+    "snippet": {
+      "publishedAt": "2024-06-23T04:15:30Z",
+      "channelId": "UCb_angfF8io1-1DrvK5k5LA",
+      "title": "\u3010POK\u00c9MON VIOLET\u3011more like pokemon VIOLENT!!!!!!!!! RAHHH"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-24T03:00:00Z",
+      "activeLiveChatId": "Cg0KC245cDBjQWNIUlhzKicKGFVDYl9hbmdmRjhpbzEtMURydks1azVMQRILbjlwMGNBY0hSWHM"
     }
   }
 }

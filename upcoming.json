@@ -308,6 +308,7 @@
       "title": "\u3010\u521d\u4ee3\u30de\u30ea\u30aa\u3011\u5b8c\u5168\u521d\u898b\u203c12\u6642\u9593\u8010\u4e45\u2049\u30b2\u30fc\u30e0\u3088\u308f\u3088\u308f\u5996\u7cbe\u304c\u521d\u306e\u30ec\u30c8\u30ed\u30b2\u30fc\u306b\u3061\u3083\u308c\u3093\u3058\u3063\uff01\u3010\u604b\u8863\u3081\u3082\u308a / Phase Connect\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T05:02:09Z",
       "scheduledStartTime": "2024-06-23T05:00:00Z",
       "activeLiveChatId": "Cg0KCzFPc3N2U1NGcURRKicKGFVDR1h3djJ6WU94ZVdpTk55UGlMQ0JDURILMU9zc3ZTU0ZxRFE"
     }
@@ -2992,18 +2993,6 @@
       "activeLiveChatId": "Cg0KC1JxcVVhLU51X0JrKicKGFVDM0FZdG1NTmRKY3pDdlFOb1B5LWdqdxILUnFxVWEtTnVfQms"
     }
   },
-  "Rwioio3EmO8": {
-    "snippet": {
-      "publishedAt": "2024-06-21T17:00:12Z",
-      "channelId": "UCHxUvAIXHfDzpTW02v7Qarg",
-      "title": "\u30103DIO ASMR\u3011Maximum Relaxation by the Beach Side \u2661 Tingly Triggers/Gentle Whispers/Comfort/\u7761\u7720\u5c0e\u5165/\u56c1\u304d"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-23T03:24:19Z",
-      "scheduledStartTime": "2024-06-23T03:00:00Z",
-      "activeLiveChatId": "Cg0KC1J3aW9pbzNFbU84KicKGFVDSHhVdkFJWEhmRHpwVFcwMnY3UWFyZxILUndpb2lvM0VtTzg"
-    }
-  },
   "RxHtpP21aPE": {
     "snippet": {
       "publishedAt": "2024-01-01T16:03:53Z",
@@ -3715,6 +3704,7 @@
       "title": "\u3010ART STREAM!\u3011LET'S DRAW POKEMON AGAIN!  #pkmnpride2024"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T04:58:27Z",
       "scheduledStartTime": "2024-06-23T05:00:00Z",
       "activeLiveChatId": "Cg0KC1owNGh3LWZ5bXBjKicKGFVDUkllUzNnLWF3SVF1UEFQbkFwSGJDQRILWjA0aHctZnltcGM"
     }
@@ -3988,17 +3978,6 @@
       "actualStartTime": "2024-06-23T02:07:15Z",
       "scheduledStartTime": "2024-06-23T02:00:00Z",
       "activeLiveChatId": "Cg0KC2FXSEZVeEtCb01BKicKGFVDSUxRbDVnUkJNdndkLTk3LU01cExZURILYVdIRlV4S0JvTUE"
-    }
-  },
-  "angelinakumalo": {
-    "snippet": {
-      "channelId": "angelinakumalo",
-      "title": "\u2730First Time Playing Portal 2!!\u2730 The British Guy was Evil :^( (!gamersupps !merch !clip !discord)",
-      "channelTitle": "AngelinaKumalo"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-22T22:01:47Z",
-      "twitch": true
     }
   },
   "aresmythos": {
@@ -4341,7 +4320,7 @@
       "title": "[UNARCHIVED KARAOKE] LET ME SING!!! RRRAAAHHHH !![V&U | GEN 5]"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-23T04:00:00Z",
+      "scheduledStartTime": "2024-08-29T04:00:00Z",
       "activeLiveChatId": "Cg0KC2Rza203ZHNTb2tJKicKGFVDSDI0YXNpSXFzVlVRbHo4RnZYSmJjdxILZHNrbTdkc1Nva0k"
     }
   },
@@ -4902,6 +4881,7 @@
       "title": "Let's Learn Japanese Together! \u3010Shashingo\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T05:01:05Z",
       "scheduledStartTime": "2024-06-23T05:00:00Z",
       "activeLiveChatId": "Cg0KC2psM08tT256MTh3KicKGFVDeF9BNmZuczlxS2p5YnUtNmswdXIxZxILamwzTy1PbnoxOHc"
     }
@@ -5275,6 +5255,17 @@
       "activeLiveChatId": "Cg0KC241RDVHdlh6WG1ZKicKGFVDMEpGdDVKamw1YV9fek9hWkxxazdQZxILbjVENUd2WHpYbVk"
     }
   },
+  "n9p0cAcHRXs": {
+    "snippet": {
+      "publishedAt": "2024-06-23T04:15:30Z",
+      "channelId": "UCb_angfF8io1-1DrvK5k5LA",
+      "title": "\u3010POK\u00c9MON VIOLET\u3011more like pokemon VIOLENT!!!!!!!!! RAHHH"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-24T03:00:00Z",
+      "activeLiveChatId": "Cg0KC245cDBjQWNIUlhzKicKGFVDYl9hbmdmRjhpbzEtMURydks1azVMQRILbjlwMGNBY0hSWHM"
+    }
+  },
   "nKWwhbUYrB8": {
     "snippet": {
       "publishedAt": "2024-06-16T21:56:45Z",
@@ -5359,6 +5350,17 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC25va3NUWDVMUWFFKicKGFVDbWJzOFQ2TVdxVUhQMXRJUXZTZ0tyZxILbm9rc1RYNUxRYUU"
+    }
+  },
+  "notnonanon": {
+    "snippet": {
+      "channelId": "notnonanon",
+      "title": "Let's chill and learn Japanese together!",
+      "channelTitle": "NotNonAnon"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T05:00:26Z",
+      "twitch": true
     }
   },
   "nvLDh4mPyIc": {
@@ -5874,17 +5876,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-04-27T06:00:00Z",
       "activeLiveChatId": "Cg0KC3NWY29UVFNvZ2dvKicKGFVDcW1TWWtYTHdzTDB6RWFyNUdvb1lrZxILc1Zjb1RUU29nZ28"
-    }
-  },
-  "shirozevalia": {
-    "snippet": {
-      "channelId": "shirozevalia",
-      "title": "Unite fun with chat! !dote",
-      "channelTitle": "ShiroZevalia"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-23T02:50:27Z",
-      "twitch": true
     }
   },
   "shiwGgmvc9U": {

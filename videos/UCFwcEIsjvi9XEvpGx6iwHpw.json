@@ -1593,13 +1593,12 @@
     "snippet": {
       "publishedAt": "2024-06-22T05:55:47Z",
       "channelId": "UCFwcEIsjvi9XEvpGx6iwHpw",
-      "title": "\ud83d\udee4\ufe0f"
+      "title": "\u5c11\u5973\u30ec\u30a4 (Shoujo Rei) / ver. Lucien Lunaris"
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-23T00:00:06Z",
-      "scheduledStartTime": "2024-06-23T00:00:00Z",
-      "activeLiveChatId": "Cg0KC05hd2VrVlZQakc0KicKGFVDRndjRUlzanZpOVhFdnBHeDZpd0hwdxILTmF3ZWtWVlBqRzQ",
-      "premiere": true
+      "actualEndTime": "2024-06-23T00:06:57Z",
+      "scheduledStartTime": "2024-06-23T00:00:00Z"
     }
   },
   "O7ce0Ex9UYU": {
@@ -1611,8 +1610,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-23T00:07:49Z",
       "actualEndTime": "2024-06-23T00:59:31Z",
-      "scheduledStartTime": "2024-06-23T00:06:00Z",
-      "activeLiveChatId": "Cg0KC083Y2UwRXg5VVlVKicKGFVDRndjRUlzanZpOVhFdnBHeDZpd0hwdxILTzdjZTBFeDlVWVU"
+      "scheduledStartTime": "2024-06-23T00:06:00Z"
     }
   }
 }
