@@ -1538,6 +1538,7 @@
       "title": "\u3010#TGS\u30de\u30a4\u30af\u30e9\u3011\u96c6\u3081\u308b\u305e\uff01\uff01\uff01\uff01\u9014\u4e2d\u3067\u3001\u306a\u3054\u307f\u3061\u3083\u3093\u3001\u30ed\u30ad\u3061\u3083\u3093\u3001\u3042\u305a\u3055\u3061\u3083\u3093\u3068\u5408\u6d41\u4e88\u5b9a\uff01#2\u3010\u5009\u5922\u3074\u3053 / Phase Connect\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T12:00:37Z",
       "scheduledStartTime": "2024-06-23T12:00:00Z",
       "activeLiveChatId": "Cg0KC0VMb0ZZOER4WTJzKicKGFVDdFdIMHRWQWNVY1NtNHY5Nkg1Y0FxURILRUxvRlk4RHhZMnM"
     }
@@ -1809,9 +1810,10 @@
     "snippet": {
       "publishedAt": "2024-06-18T22:27:48Z",
       "channelId": "UCO0DpVKR4CH5EXgoscz99bA",
-      "title": "This is Minecraft Collab! (I'm still stick by the way)"
+      "title": "Playing songs~ Graduation songs themed~"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T11:59:38Z",
       "activeLiveChatId": "Cg0KC0dTSDFYTlZMS08wKicKGFVDTzBEcFZLUjRDSDVFWGdvc2N6OTliQRILR1NIMVhOVkxLTzA"
     }
   },
@@ -2415,6 +2417,7 @@
       "title": "\u3010#\u306b\u3058GTA\u3011\u00b0\u02d6\u2727\u4e00\u8db3\u5148\u306b\u6700\u7d42\u65e5\u2727\u02d6\u00b0\u3010\u5148\u6597\u5be7/\u306b\u3058\u3055\u3093\u3058\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T12:00:14Z",
       "scheduledStartTime": "2024-06-23T12:00:00Z",
       "activeLiveChatId": "Cg0KC0xpZkRCdGxHaTRvKicKGFVDZTIyQmN3ZF9HQ3BUakx4bjgzemw3QRILTGlmREJ0bEdpNG8"
     }
@@ -3758,6 +3761,7 @@
       "title": "I bought Kaori's melodica from Your Lie in April! Let's play a Yamaha P-32D Pianica!\u3010ZATSUDAN\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T12:02:25Z",
       "scheduledStartTime": "2024-06-23T12:00:00Z",
       "activeLiveChatId": "Cg0KC1hFR0VHRHIwb0tjKicKGFVDYnJiRktGaHlIRDRiTUpiRWNYWnoxZxILWEVHRUdEcjBvS2M"
     }
@@ -5242,6 +5246,17 @@
       "twitch": true
     }
   },
+  "kirispica": {
+    "snippet": {
+      "channelId": "kirispica",
+      "title": "I bought Kaori's melodica from Your Lie in April! Let's play a Yamaha P-32D Pianica! \u3010Kirispica | V-Dere\u3011",
+      "channelTitle": "kirispica"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T12:01:29Z",
+      "twitch": true
+    }
+  },
   "l3uqelUhGhU": {
     "snippet": {
       "publishedAt": "2024-03-22T18:06:38Z",
@@ -6178,7 +6193,7 @@
       "title": "accompany me while i make my own clothes PLS \ud83c\udf80| DAY/BREAK #VTuber"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-23T12:00:00Z",
+      "scheduledStartTime": "2024-06-23T14:00:00Z",
       "activeLiveChatId": "Cg0KC3RGZ0FORTRkRGhnKicKGFVDWThKSUcwU1RNdldCa3k2T0tXaDlOURILdEZnQU5FNGREaGc"
     }
   },
