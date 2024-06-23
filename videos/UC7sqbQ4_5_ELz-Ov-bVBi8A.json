@@ -462,7 +462,8 @@
       "title": "\u3010QnA\u3011Answering YOUR Questions!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-23T16:00:38Z",
+      "actualStartTime": "2024-06-23T15:59:17Z",
+      "scheduledStartTime": "2024-06-23T15:59:06Z",
       "activeLiveChatId": "Cg0KC1hVcmxoMEd0VFhVKicKGFVDN3NxYlE0XzVfRUx6LU92LWJWQmk4QRILWFVybGgwR3RUWFU"
     }
   },
@@ -474,8 +475,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-23T13:00:14Z",
-      "scheduledStartTime": "2024-06-23T13:00:04Z",
-      "activeLiveChatId": "Cg0KC2NuQjRKcl9TOWFzKicKGFVDN3NxYlE0XzVfRUx6LU92LWJWQmk4QRILY25CNEpyX1M5YXM"
+      "actualEndTime": "2024-06-23T15:53:21Z",
+      "scheduledStartTime": "2024-06-23T13:00:04Z"
     }
   }
 }
