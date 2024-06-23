@@ -2383,5 +2383,16 @@
       "actualEndTime": "2024-06-23T00:47:37Z",
       "scheduledStartTime": "2024-06-22T21:00:00Z"
     }
+  },
+  "spiWA15ljdk": {
+    "snippet": {
+      "publishedAt": "2024-06-23T14:59:26Z",
+      "channelId": "UCH8mDMzaR5MGFdCF4WdsGDA",
+      "title": "\u3010Kingdom Hearts Final Mix\u3011Guerilla Stream!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-23T16:00:00Z",
+      "activeLiveChatId": "Cg0KC3NwaVdBMTVsamRrKicKGFVDSDhtRE16YVI1TUdGZENGNFdkc0dEQRILc3BpV0ExNWxqZGs"
+    }
   }
 }
