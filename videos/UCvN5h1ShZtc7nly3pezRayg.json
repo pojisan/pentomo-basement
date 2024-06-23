@@ -7,6 +7,7 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-23T02:59:34Z",
+      "actualEndTime": "2024-06-23T03:40:46Z",
       "scheduledStartTime": "2024-06-23T03:00:00Z",
       "activeLiveChatId": "Cg0KC3BfWlFzLWtnVUtJKicKGFVDdk41aDFTaFp0YzdubHkzcGV6UmF5ZxILcF9aUXMta2dVS0k"
     }
@@ -33,6 +34,19 @@
       "publishedAt": "2024-06-20T15:00:37Z",
       "channelId": "UCvN5h1ShZtc7nly3pezRayg",
       "title": "I came up with a new melody. Would you like to listen? \ud83c\udf75 #holoJustice"
+    }
+  },
+  "twto2g0FwTQ": {
+    "snippet": {
+      "publishedAt": "2024-06-23T03:40:06Z",
+      "channelId": "UCvN5h1ShZtc7nly3pezRayg",
+      "title": "{COVER} Forgotten Words | \u5fd8\u308c\u3058\u306e\u8a00\u306e\u8449    #\u6b4c\u3063\u3066\u307f\u305f #cover"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T03:40:06Z",
+      "scheduledStartTime": "2024-06-23T03:40:00Z",
+      "activeLiveChatId": "Cg0KC3R3dG8yZzBGd1RRKicKGFVDdk41aDFTaFp0YzdubHkzcGV6UmF5ZxILdHd0bzJnMEZ3VFE",
+      "premiere": true
     }
   }
 }
