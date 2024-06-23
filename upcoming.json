@@ -3450,6 +3450,7 @@
       "title": "\u30107days to die 1.0 \u3011\u5148\u884c\u30d7\u30ec\u30a4\uff01\uff11\uff12\u5e74\u9593\u65e9\u671f\u30a2\u30af\u30bb\u30b9\u3060\u3063\u305f\u30b2\u30fc\u30e0\u304c\u3068\u3046\u3068\u3046\u6b63\u5f0f\u7248\u306b\u2026\uff01\uff17\u65e5\u76ee\u30db\u30fc\u30c9\uff5e\u3010\u98ef\u7530\u307d\u3061\u3002Iida Pochi.\u3011\uff037dtd streamer weekend!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T04:04:45Z",
       "scheduledStartTime": "2024-06-23T04:00:00Z",
       "activeLiveChatId": "Cg0KC1dMbU9vX0hqdzBrKicKGFVDMjJCVmxCc1pjNnRhM0Rxejc1TlU2URILV0xtT29fSGp3MGs"
     }
@@ -4570,7 +4571,8 @@
       "title": "\u3010MINECRAFT\u3011mwemwemwemwemwemwe"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-23T04:00:00Z",
+      "actualStartTime": "2024-06-23T04:09:05Z",
+      "scheduledStartTime": "2024-06-23T04:09:00Z",
       "activeLiveChatId": "Cg0KC2ZqdTZmRXVpSzRzKicKGFVDY2hHWVA1dDVWejQ4VVZ4Tk9pZmstURILZmp1NmZFdWlLNHM"
     }
   },
@@ -4648,6 +4650,7 @@
       "title": "\u3010 MINECRAFT: PIXEL ART \u3011Making Reina Sun! \ud83d\udc97"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T04:06:31Z",
       "scheduledStartTime": "2024-06-23T04:00:00Z",
       "activeLiveChatId": "Cg0KC2dnU3JCeTNfbi1NKicKGFVDWWFkWlI5bVJpZ254NFJLdlBvdzQ0ZxILZ2dTckJ5M19uLU0"
     }
@@ -4890,7 +4893,8 @@
       "title": "Ello! Hi! Hallo! Ciao! - Justice\u2019s 1st Collab! #holoJustice"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-23T04:30:00Z"
+      "scheduledStartTime": "2024-06-23T04:30:00Z",
+      "activeLiveChatId": "Cg0KC2o4OVBoaTBvb204KicKGFVDVzV1aHJHMWVDQllkaXRtaEwwWWtqdxILajg5UGhpMG9vbTg"
     }
   },
   "jLhoRuIwpo0": {
@@ -4970,18 +4974,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-23T16:00:00Z",
       "activeLiveChatId": "Cg0KC2pzalE5QlZ1QU5NKicKGFVDWElLQkxnNGZBVnRlN2pEYWZXUlJnURILanNqUTlCVnVBTk0"
-    }
-  },
-  "jvBYyv7JSJQ": {
-    "snippet": {
-      "publishedAt": "2024-06-22T21:04:52Z",
-      "channelId": "UCcAn8WXsoqw9x8DAkzYQNQQ",
-      "title": "\u3010MODDED MINECRAFT\u3011THE FOG REBOOT (scary mods!)\u3010V&U | GEN4\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-23T02:02:15Z",
-      "scheduledStartTime": "2024-06-23T02:00:00Z",
-      "activeLiveChatId": "Cg0KC2p2Qll5djdKU0pRKicKGFVDY0FuOFdYc29xdzl4OERBa3pZUU5RURILanZCWXl2N0pTSlE"
     }
   },
   "jvYUVIKZMRQ": {
@@ -5101,6 +5093,18 @@
       "activeLiveChatId": "Cg0KC2xZNExqUEtwTWgwKicKGFVDYkxGdVNyQVFLa3VzcmpUdkNPNWdYURILbFk0TGpQS3BNaDA"
     }
   },
+  "le5TFpA68VU": {
+    "snippet": {
+      "publishedAt": "2024-06-08T17:31:05Z",
+      "channelId": "UCPK3S9ij0DXINmTjQ4KhQVA",
+      "title": "\u3010 Minecraft \u3011GUERILLA EXPLORYAPPING!! \u26cf\ufe0f #vsmp"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T04:05:28Z",
+      "scheduledStartTime": "2024-06-23T04:00:00Z",
+      "activeLiveChatId": "Cg0KC2xlNVRGcEE2OFZVKicKGFVDUEszUzlpajBEWElObVRqUTRLaFFWQRILbGU1VEZwQTY4VlU"
+    }
+  },
   "lgJo3UyqBJs": {
     "snippet": {
       "publishedAt": "2024-06-22T19:28:36Z",
@@ -5144,6 +5148,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-12-31T15:45:00Z",
       "activeLiveChatId": "Cg0KC2xydm9FbUZfZDkwKicKGFVDMWVYX01Wck4wRUJLZHBrbjliLWpodxILbHJ2b0VtRl9kOTA"
+    }
+  },
+  "lululasso": {
+    "snippet": {
+      "channelId": "lululasso",
+      "title": "Cowgirl plays Lego Star Wars 3: Clone Wars",
+      "channelTitle": "lululasso"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T04:06:22Z",
+      "twitch": true
     }
   },
   "luluthebard": {
@@ -5239,17 +5254,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-26T00:00:00Z",
       "activeLiveChatId": "Cg0KC21hSUVsNFpfbzA4KicKGFVDdTFJTnplZnczUjdNOS0zUUVIWW1NURILbWFJRWw0Wl9vMDg"
-    }
-  },
-  "matarakan": {
-    "snippet": {
-      "channelId": "matarakan",
-      "title": "POST GAME YAPPING !podcast !mint !blanket",
-      "channelTitle": "MataraKan"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-22T22:07:20Z",
-      "twitch": true
     }
   },
   "meica05": {
@@ -5532,18 +5536,6 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC3A2N0FlTk02bzEwKicKGFVDOENLR1N2cDliUmZtdFd5ZlY1TDlKdxILcDY3QWVOTTZvMTA"
-    }
-  },
-  "pG79W7pX0yQ": {
-    "snippet": {
-      "publishedAt": "2024-06-22T21:03:22Z",
-      "channelId": "UCcAn8WXsoqw9x8DAkzYQNQQ",
-      "title": "VTUBER PLAYS MODDED MINECRAFT #shorts #shortslive #shortsfeed #vtuber"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-23T02:03:00Z",
-      "scheduledStartTime": "2024-06-23T02:00:00Z",
-      "activeLiveChatId": "Cg0KC3BHNzlXN3BYMHlRKicKGFVDY0FuOFdYc29xdzl4OERBa3pZUU5RURILcEc3OVc3cFgweVE"
     }
   },
   "pLD_M93GLXA": {
@@ -6676,18 +6668,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-01-01T05:00:00Z",
       "activeLiveChatId": "Cg0KC3poeVR0MkhTS3M4KicKGFVDVlBCR21sc0M4Uy1UTmFfSUVWY3oxQRILemh5VHQySFNLczg"
-    }
-  },
-  "zrTcQH9f6aI": {
-    "snippet": {
-      "publishedAt": "2024-06-22T19:58:50Z",
-      "channelId": "UC9NNMwafy9quvNWafFukNDw",
-      "title": "\ud83d\udde1\ufe0fELDEN RING DLC ISN'T THAT HARD.... (coping, seething, malding, crying, lagging, sicky)"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-22T22:00:07Z",
-      "scheduledStartTime": "2024-06-22T22:00:00Z",
-      "activeLiveChatId": "Cg0KC3pyVGNRSDlmNmFJKicKGFVDOU5OTXdhZnk5cXV2TldhZkZ1a05EdxILenJUY1FIOWY2YUk"
     }
   }
 }
