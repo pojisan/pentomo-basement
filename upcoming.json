@@ -1200,7 +1200,7 @@
       "title": "[BOOK CLUB] BL BOOKCLUB!! Time to be unhinged about boys in love! [V&U | GEN 5]"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-23T01:00:00Z",
+      "scheduledStartTime": "2024-06-23T22:00:00Z",
       "activeLiveChatId": "Cg0KC0M3V0FiM042YW93KicKGFVDSDI0YXNpSXFzVlVRbHo4RnZYSmJjdxILQzdXQWIzTjZhb3c"
     }
   },
@@ -2451,6 +2451,7 @@
       "title": "ELDEN RING SHADOW OF THE ERDTREE... Time to do some IMPALING!!! \ud83d\udd25 Part 1"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T00:02:38Z",
       "scheduledStartTime": "2024-06-23T00:00:00Z",
       "activeLiveChatId": "Cg0KC01hODVwTW81ME93KicKGFVDcHp4Wlc1a2doR25PNVRtQUZKUUFWdxILTWE4NXBNbzUwT3c"
     }
@@ -2534,6 +2535,7 @@
       "title": "\u3010Katamari\u3011ROLLIN' & DRINKIN'\u3010Fionna fon Engels \u2661 Project: Verses\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T00:05:33Z",
       "scheduledStartTime": "2024-06-23T00:00:00Z",
       "activeLiveChatId": "Cg0KC05JWGRUUEIxVjk0KicKGFVDb3ZLd2dBOWVIVXV0SVdDVldTX0FHdxILTklYZFRQQjFWOTQ"
     }
@@ -2640,9 +2642,10 @@
     "snippet": {
       "publishedAt": "2024-06-22T06:57:22Z",
       "channelId": "UCFwcEIsjvi9XEvpGx6iwHpw",
-      "title": "I'm back"
+      "title": "\u5c11\u5973\u30ec\u30a4/ Shoujo Rei AFTER PARTY COVER CELEBRATION STREAM"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T00:07:49Z",
       "scheduledStartTime": "2024-06-23T00:06:00Z",
       "activeLiveChatId": "Cg0KC083Y2UwRXg5VVlVKicKGFVDRndjRUlzanZpOVhFdnBHeDZpd0hwdxILTzdjZTBFeDlVWVU"
     }
@@ -4145,7 +4148,7 @@
       "title": "\u3010#DOKIBOUNTYHUNTER\u3011New Skin Suit Reveal\u3010Dokibird\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-23T00:00:00Z",
+      "scheduledStartTime": "2024-06-24T00:00:00Z",
       "activeLiveChatId": "Cg0KC2JQbm5hTS1MaXo0KicKGFVDb21JblcxME1rSEpzLV92aTRySFFDURILYlBubmFNLUxpejQ"
     }
   },
@@ -4568,6 +4571,17 @@
       "activeLiveChatId": "Cg0KC2ZobXZwem10Q2ZrKicKGFVDeUY3U2VJeVdsVXpua19zZ19YakM4URILZmhtdnB6bXRDZms"
     }
   },
+  "fionnafonengels": {
+    "snippet": {
+      "channelId": "fionnafonengels",
+      "title": "ROLLIN' & DRINKIN'\u3010Fionna fon Engels \u2661 Project: Verses\u3011",
+      "channelTitle": "FionnafonEngels"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T00:04:57Z",
+      "twitch": true
+    }
+  },
   "fju6fEuiK4s": {
     "snippet": {
       "publishedAt": "2024-06-22T20:06:21Z",
@@ -4949,18 +4963,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-23T05:00:00Z",
       "activeLiveChatId": "Cg0KC2psM08tT256MTh3KicKGFVDeF9BNmZuczlxS2p5YnUtNmswdXIxZxILamwzTy1PbnoxOHc"
-    }
-  },
-  "jnCjwXYRKIw": {
-    "snippet": {
-      "publishedAt": "2024-06-17T20:52:57Z",
-      "channelId": "UCa7fhTz-VSEIaGt8j6jab6A",
-      "title": "Reacting to Old Nico Nico Douga videos! (RIP)"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-22T21:32:04Z",
-      "scheduledStartTime": "2024-06-22T21:31:06Z",
-      "activeLiveChatId": "Cg0KC2puQ2p3WFlSS0l3KicKGFVDYTdmaFR6LVZTRUlhR3Q4ajZqYWI2QRILam5DandYWVJLSXc"
     }
   },
   "jo-0mcWOULg": {
@@ -6414,6 +6416,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-07-28T12:00:00Z",
       "activeLiveChatId": "Cg0KC3doT29ad1Y1RDdzKicKGFVDYmkzTU01LVFQNE1ZMVlrV2Z2NFVKQRILd2hPb1p3VjVEN3M"
+    }
+  },
+  "wisky64vt": {
+    "snippet": {
+      "channelId": "wisky64vt",
+      "title": "Tempter! Temper! \ud83d\udca5WisKy is playing World of Warships",
+      "channelTitle": "WisKy64VT"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T00:01:17Z",
+      "twitch": true
     }
   },
   "wjDz5GbSQxo": {
