@@ -7171,7 +7171,8 @@
     "snippet": {
       "publishedAt": "2024-05-28T18:35:53Z",
       "channelId": "UCJ4O6PWA47f6XbCgrLQNqEQ",
-      "title": "POOLS. (real)"
+      "title": "POOLS. (real)",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-23T03:00:00Z",
@@ -7185,6 +7186,7 @@
       "title": "BIBBIDEBA (\u30d3\u30d3\u30c7\u30d0) / Hoshimachi Suisei \u2726 cover by Himemiya Rie"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T03:00:06Z",
       "scheduledStartTime": "2024-06-23T03:00:00Z",
       "activeLiveChatId": "Cg0KC05OV3NtOXdZYUNvKicKGFVDSjRPNlBXQTQ3ZjZYYkNnckxRTnFFURILTk5Xc205d1lhQ28",
       "premiere": true
