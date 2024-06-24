@@ -999,6 +999,7 @@
       "title": "\u3010VALORANT\u3011Queen Go PEW PEW~! \ud83d\udc84 #hololiveEnglish #holoJustice"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-24T18:00:35Z",
       "scheduledStartTime": "2024-06-24T18:00:00Z",
       "activeLiveChatId": "Cg0KCzZ5bzN2TGxxcHJzKicKGFVDVzV1aHJHMWVDQllkaXRtaEwwWWtqdxILNnlvM3ZMbHFwcnM"
     }
@@ -3627,6 +3628,7 @@
       "title": "\u3010Atelier Rorona\u3011sterky\u3010Yume+ | Mero Umiko\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-24T18:01:03Z",
       "scheduledStartTime": "2024-06-24T15:00:00Z",
       "activeLiveChatId": "Cg0KC1Fid2x5ZlNFcWRjKicKGFVDOVNXSXpIUDA3UEwxeTZjVTh3a0R3QRILUWJ3bHlmU0VxZGM"
     }
@@ -4053,6 +4055,7 @@
       "title": "\u3010HALO\u3011Better than the TV Show\u3010globie 2nd Gen - Equinnox\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-24T17:58:57Z",
       "scheduledStartTime": "2024-06-24T18:00:00Z",
       "activeLiveChatId": "Cg0KC1VMOTFiMG1TRS1rKicKGFVDRkhkRUFIUGJGVWpnSjFSYU9fQXc2dxILVUw5MWIwbVNFLWs"
     }
@@ -6194,6 +6197,17 @@
       "activeLiveChatId": "Cg0KC2tlMTZnRmdhbUdRKicKGFVDSzlsNnJUd1UzaGlTWmlqSU1xNTFHdxILa2UxNmdGZ2FtR1E"
     }
   },
+  "kibiexe": {
+    "snippet": {
+      "channelId": "kibiexe",
+      "title": "\ud83e\udd9d\ud83d\udcfc I AM ADDICTED PLEASE CONTACT A PROFESSIONAL [!links]",
+      "channelTitle": "kibiexe"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-24T17:52:52Z",
+      "twitch": true
+    }
+  },
   "koNSXF-bpwI": {
     "snippet": {
       "publishedAt": "2024-06-23T12:47:10Z",
@@ -6416,6 +6430,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-26T00:00:00Z",
       "activeLiveChatId": "Cg0KC21hSUVsNFpfbzA4KicKGFVDdTFJTnplZnczUjdNOS0zUUVIWW1NURILbWFJRWw0Wl9vMDg"
+    }
+  },
+  "matarakan": {
+    "snippet": {
+      "channelId": "matarakan",
+      "title": "ODST WITH BRICKY 2PM EST !podcast !mint !blanket",
+      "channelTitle": "MataraKan"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-24T17:55:19Z",
+      "twitch": true
     }
   },
   "mfoHpYA39oc": {
