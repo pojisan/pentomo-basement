@@ -660,8 +660,27 @@
       "title": "\u3010Batman: Arkham Asylum\u3011Sneaking around"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-25T01:00:00Z",
-      "activeLiveChatId": "Cg0KC2VqRG03SUhTR2VrKicKGFVDamNiN1B2UEhtajNNTlV5c1ZVZUpjZxILZWpEbTdJSFNHZWs"
+      "scheduledStartTime": "2024-06-25T01:00:00Z"
+    }
+  },
+  "41pF_8TwCWo": {
+    "snippet": {
+      "publishedAt": "2024-06-24T15:28:18Z",
+      "channelId": "UCjcb7PvPHmj3MNUysVUeJcg",
+      "title": "A song for you #shortsfeed"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-30T02:00:00Z"
+    }
+  },
+  "uoayQWllgFk": {
+    "snippet": {
+      "publishedAt": "2024-06-24T15:26:02Z",
+      "channelId": "UCjcb7PvPHmj3MNUysVUeJcg",
+      "title": "Guide to surviving Australia"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-26T02:00:00Z"
     }
   }
 }
