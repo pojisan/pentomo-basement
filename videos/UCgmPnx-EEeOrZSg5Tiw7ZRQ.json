@@ -8945,7 +8945,8 @@
       "title": "\u226aSEKIRO: SHADOWS DIE TWICE\u226b DAD DEAD. WHO'S NEXT. #4\u3010SPOILER WARNING\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-25T01:00:00Z"
+      "scheduledStartTime": "2024-06-25T01:00:00Z",
+      "activeLiveChatId": "Cg0KCzh1aTcybGw1TmVVKicKGFVDZ21QbngtRUVlT3JaU2c1VGl3N1pSURILOHVpNzJsbDVOZVU"
     }
   },
   "AEOEkyCMy2Y": {
@@ -8956,6 +8957,7 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-24T15:00:20Z",
+      "actualEndTime": "2024-06-24T16:37:59Z",
       "scheduledStartTime": "2024-06-24T15:00:00Z",
       "activeLiveChatId": "Cg0KC0FFT0VreUNNeTJZKicKGFVDZ21QbngtRUVlT3JaU2c1VGl3N1pSURILQUVPRWt5Q015Mlk"
     }
