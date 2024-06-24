@@ -2717,8 +2717,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-24T16:06:24Z",
-      "scheduledStartTime": "2024-06-24T16:00:00Z",
-      "activeLiveChatId": "Cg0KCzZMX2piV3RKVlNrKicKGFVDUVk1bXBGdFB5V0paSGJqYXhtSG56dxILNkxfamJXdEpWU2s"
+      "actualEndTime": "2024-06-24T18:24:56Z",
+      "scheduledStartTime": "2024-06-24T16:00:00Z"
     }
   },
   "AtmM8Lyd3VA": {
@@ -2736,7 +2736,8 @@
     "snippet": {
       "publishedAt": "2024-06-24T16:02:39Z",
       "channelId": "UCQY5mpFtPyWJZHbjaxmHnzw",
-      "title": "\u3010Minecraft\u3011Testing VSMP server!\u3010V&U | GEN4\u3011#minecraft #shortsfeed #shorts #shortslive #shortsgaming"
+      "title": "\u3010Minecraft\u3011Testing VSMP server!\u3010V&U | GEN4\u3011#minecraft #shortsfeed #shorts #shortslive #shortsgaming",
+      "private": true
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-24T16:15:09Z",
