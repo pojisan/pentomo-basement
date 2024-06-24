@@ -2881,7 +2881,8 @@
     "snippet": {
       "publishedAt": "2024-06-13T22:49:58Z",
       "channelId": "UCv1ThyE4KVYnnVY8GLftnoA",
-      "title": "\u30103D RingFit Adventure\u3011It's Been Too Long...\u3010V4Mirai | Serina Maiko | ENVtuber\u3011"
+      "title": "\u30103D RingFit Adventure\u3011It's Been Too Long...\u3010V4Mirai | Serina Maiko | ENVtuber\u3011",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-22T00:00:00Z",
@@ -2928,11 +2929,24 @@
     "snippet": {
       "publishedAt": "2024-06-18T00:29:15Z",
       "channelId": "UCv1ThyE4KVYnnVY8GLftnoA",
-      "title": "\u3010HANDCAM\u3011Making Friendship Bracelets For V4Mirai! pt.2\u3010V4Mirai | Serina Maiko | ENVtuber\u3011"
+      "title": "\u3010HANDCAM\u3011Making Friendship Bracelets For V4Mirai! pt.2\u3010V4Mirai | Serina Maiko | ENVtuber\u3011",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-26T00:00:00Z",
       "activeLiveChatId": "Cg0KC0JPZnhlTk4zLVJrKicKGFVDdjFUaHlFNEtWWW5uVlk4R0xmdG5vQRILQk9meGVOTjMtUms"
+    }
+  },
+  "5JgD_jxw60M": {
+    "snippet": {
+      "publishedAt": "2024-06-23T05:47:12Z",
+      "channelId": "UCv1ThyE4KVYnnVY8GLftnoA",
+      "title": "\u3010KARAOKE\u3011\ud83c\udfb6 (Mostly) 80s Hits! \ud83c\udfb6\u3010V4Mirai | Serina Maiko | ENVtuber\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-24T00:00:48Z",
+      "scheduledStartTime": "2024-06-24T00:00:00Z",
+      "activeLiveChatId": "Cg0KCzVKZ0Rfanh3NjBNKicKGFVDdjFUaHlFNEtWWW5uVlk4R0xmdG5vQRILNUpnRF9qeHc2ME0"
     }
   }
 }

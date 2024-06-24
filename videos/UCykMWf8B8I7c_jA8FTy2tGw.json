@@ -11131,8 +11131,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-21T19:20:03Z",
-      "scheduledStartTime": "2024-06-21T19:15:00Z",
-      "activeLiveChatId": "Cg0KC0kxa1otMlRZM3NzKicKGFVDeWtNV2Y4QjhJN2NfakE4RlR5MnRHdxILSTFrWi0yVFkzc3M"
+      "actualEndTime": "2024-06-21T23:03:50Z",
+      "scheduledStartTime": "2024-06-21T19:15:00Z"
     }
   },
   "-1eiST-REh8": {
@@ -11142,8 +11142,76 @@
       "title": "\u3010Chatting\u3011CATching Up With My Buckos! (Also I'm A Cat)"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-22T19:00:00Z",
-      "activeLiveChatId": "Cg0KCy0xZWlTVC1SRWg4KicKGFVDeWtNV2Y4QjhJN2NfakE4RlR5MnRHdxILLTFlaVNULVJFaDg"
+      "actualStartTime": "2024-06-22T19:00:30Z",
+      "actualEndTime": "2024-06-22T22:15:03Z",
+      "scheduledStartTime": "2024-06-22T19:00:00Z"
+    }
+  },
+  "ZhqzMdT3rx4": {
+    "snippet": {
+      "publishedAt": "2024-06-23T16:35:10Z",
+      "channelId": "UCykMWf8B8I7c_jA8FTy2tGw",
+      "title": "\u3010Metal Gear Ghost Babel\u3011Finale FOR REAL For Real"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-24T19:00:00Z",
+      "activeLiveChatId": "Cg0KC1pocXpNZFQzcng0KicKGFVDeWtNV2Y4QjhJN2NfakE4RlR5MnRHdxILWmhxek1kVDNyeDQ"
+    }
+  },
+  "LgtaksVaKJs": {
+    "snippet": {
+      "publishedAt": "2024-06-23T16:59:01Z",
+      "channelId": "UCykMWf8B8I7c_jA8FTy2tGw",
+      "title": "\u3010Sonic Advance 2\u3011The Advanced Adventures Continue!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-27T19:00:00Z",
+      "activeLiveChatId": "Cg0KC0xndGFrc1ZhS0pzKicKGFVDeWtNV2Y4QjhJN2NfakE4RlR5MnRHdxILTGd0YWtzVmFLSnM"
+    }
+  },
+  "Wk3T5lueEUg": {
+    "snippet": {
+      "publishedAt": "2024-06-23T16:50:45Z",
+      "channelId": "UCykMWf8B8I7c_jA8FTy2tGw",
+      "title": "\u3010Castlevania Chronicles\u3011Going Back To The VERY Beginning!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-26T19:00:00Z",
+      "activeLiveChatId": "Cg0KC1drM1Q1bHVlRVVnKicKGFVDeWtNV2Y4QjhJN2NfakE4RlR5MnRHdxILV2szVDVsdWVFVWc"
+    }
+  },
+  "okjUMfzocwo": {
+    "snippet": {
+      "publishedAt": "2024-06-23T17:10:33Z",
+      "channelId": "UCykMWf8B8I7c_jA8FTy2tGw",
+      "title": "\u3010Unarchived Karaoke\u3011Ringing In The Summer Season!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-28T19:00:00Z",
+      "activeLiveChatId": "Cg0KC29ralVNZnpvY3dvKicKGFVDeWtNV2Y4QjhJN2NfakE4RlR5MnRHdxILb2tqVU1mem9jd28"
+    }
+  },
+  "sokVI-xb4Xw": {
+    "snippet": {
+      "publishedAt": "2024-06-23T17:11:40Z",
+      "channelId": "UCykMWf8B8I7c_jA8FTy2tGw",
+      "title": "\u3010Members Only\u3011DOOM w/ Buckos!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-30T19:00:00Z",
+      "activeLiveChatId": "Cg0KC3Nva1ZJLXhiNFh3KicKGFVDeWtNV2Y4QjhJN2NfakE4RlR5MnRHdxILc29rVkkteGI0WHc"
+    }
+  },
+  "ZsR3q5J01vc": {
+    "snippet": {
+      "publishedAt": "2024-06-23T17:23:26Z",
+      "channelId": "UCykMWf8B8I7c_jA8FTy2tGw",
+      "title": "\u3010Solomon's Key\u3011I Fixed My Master System"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T22:06:28Z",
+      "actualEndTime": "2024-06-24T00:04:30Z",
+      "scheduledStartTime": "2024-06-23T22:00:00Z"
     }
   }
 }

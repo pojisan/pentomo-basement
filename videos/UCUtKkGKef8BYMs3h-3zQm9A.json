@@ -7880,8 +7880,31 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-21T13:03:33Z",
       "actualEndTime": "2024-06-21T20:07:39Z",
-      "scheduledStartTime": "2024-06-21T13:00:00Z",
-      "activeLiveChatId": "Cg0KC2J1ZmtrVmZoc1hjKicKGFVDVXRLa0dLZWY4QllNczNoLTN6UW05QRILYnVma2tWZmhzWGM"
+      "scheduledStartTime": "2024-06-21T13:00:00Z"
+    }
+  },
+  "HXuc9RMrrZ8": {
+    "snippet": {
+      "publishedAt": "2024-06-22T12:21:21Z",
+      "channelId": "UCUtKkGKef8BYMs3h-3zQm9A",
+      "title": "\ud83c\udfcd\ufe0f\u3010#\u306b\u3058GTA\u3011 Day8 \u30fb\ud68c\uc0c9\uc758 \uc138\uacc4\ub85c \u7070\u8272\u306e\u4e16\u754c\u3078  \u3010KR/JP\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-22T13:01:17Z",
+      "actualEndTime": "2024-06-22T20:10:07Z",
+      "scheduledStartTime": "2024-06-22T13:00:00Z"
+    }
+  },
+  "RXACgC9lUeA": {
+    "snippet": {
+      "publishedAt": "2024-06-23T10:25:20Z",
+      "channelId": "UCUtKkGKef8BYMs3h-3zQm9A",
+      "title": "\ud83d\ude91\u3010#\u306b\u3058GTA\u3011 Day9 \u30fb\uadf8\uc800 \ud55c \uba85\uc758 \uc758\uc0ac \u305f\u3060\u4e00\u4eba\u306e\u533b\u8005 \u3010KR/JP\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T11:04:25Z",
+      "actualEndTime": "2024-06-23T20:06:54Z",
+      "scheduledStartTime": "2024-06-23T11:00:00Z"
     }
   }
 }

@@ -8244,11 +8244,11 @@
     "snippet": {
       "publishedAt": "2024-05-17T05:10:43Z",
       "channelId": "UCBURM8S4LH7cRZ0Clea9RDA",
-      "title": "\u3010FINAL FANTASY XVI: THE RISING TIDE\u3011Dion tadaima \ud83e\udd79\u3010NIJISANJI EN | Reimu Endou\u3011",
-      "private": true
+      "title": "\u3010FINAL FANTASY XVI: THE RISING TIDE\u3011Dion tadaima \ud83e\udd79\u3010NIJISANJI EN | Reimu Endou\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-10T14:00:00Z",
+      "actualStartTime": "2024-06-24T00:00:55Z",
+      "scheduledStartTime": "2024-06-24T00:00:00Z",
       "activeLiveChatId": "Cg0KCzNGeDcxdnZTN1RRKicKGFVDQlVSTThTNExIN2NSWjBDbGVhOVJEQRILM0Z4NzF2dlM3VFE"
     }
   },
@@ -8599,6 +8599,41 @@
       "actualStartTime": "2024-06-20T13:19:41Z",
       "actualEndTime": "2024-06-21T01:01:21Z",
       "scheduledStartTime": "2024-06-20T13:00:00Z"
+    }
+  },
+  "jLhoRuIwpo0": {
+    "snippet": {
+      "publishedAt": "2024-06-22T01:46:56Z",
+      "channelId": "UCBURM8S4LH7cRZ0Clea9RDA",
+      "title": "\u3010LEFT 4 DEAD 2\u3011This zuttom collab will be the most hilarious lmao\u3010NIJISANJI EN | Reimu Endou\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T02:03:30Z",
+      "actualEndTime": "2024-06-23T05:08:27Z",
+      "scheduledStartTime": "2024-06-23T02:00:00Z"
+    }
+  },
+  "WOOMs1YapSA": {
+    "snippet": {
+      "publishedAt": "2024-06-22T01:44:56Z",
+      "channelId": "UCBURM8S4LH7cRZ0Clea9RDA",
+      "title": "3D AT HOME IS HERE LOVES !!!! \ud83d\udc7b\u3010NIJISANJI EN | Reimu Endou\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-22T16:16:41Z",
+      "actualEndTime": "2024-06-22T18:32:53Z",
+      "scheduledStartTime": "2024-06-22T16:00:00Z"
+    }
+  },
+  "47B99361SuA": {
+    "snippet": {
+      "publishedAt": "2024-06-23T23:51:08Z",
+      "channelId": "UCBURM8S4LH7cRZ0Clea9RDA",
+      "title": "\u3010BLOODBORNE\u3011ENDURANCE ??? I fear for my mental health\u3010NIJISANJI EN | Reimu Endou\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-24T14:00:00Z",
+      "activeLiveChatId": "Cg0KCzQ3Qjk5MzYxU3VBKicKGFVDQlVSTThTNExIN2NSWjBDbGVhOVJEQRILNDdCOTkzNjFTdUE"
     }
   }
 }

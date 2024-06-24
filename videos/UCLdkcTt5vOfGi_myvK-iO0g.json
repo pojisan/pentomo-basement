@@ -2475,7 +2475,7 @@
       "title": "\u3010DIGITAL ART CHALLENGE\u3011NIER OC LESSGO!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-22T01:00:00Z",
+      "scheduledStartTime": "2024-06-26T01:00:00Z",
       "activeLiveChatId": "Cg0KC0Rhbzdwc2N1a2VJKicKGFVDTGRrY1R0NXZPZkdpX215dkstaU8wZxILRGFvN3BzY3VrZUk"
     }
   },
@@ -2487,8 +2487,27 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-21T21:56:08Z",
-      "scheduledStartTime": "2024-06-21T21:55:00Z",
-      "activeLiveChatId": "Cg0KC0o2RXNCN3NGQ0x3KicKGFVDTGRrY1R0NXZPZkdpX215dkstaU8wZxILSjZFc0I3c0ZDTHc"
+      "actualEndTime": "2024-06-22T01:52:29Z",
+      "scheduledStartTime": "2024-06-21T21:55:00Z"
+    }
+  },
+  "aKYoSxvfCGY": {
+    "snippet": {
+      "publishedAt": "2024-06-22T17:00:09Z",
+      "channelId": "UCLdkcTt5vOfGi_myvK-iO0g",
+      "title": "\u3010RANT ZATSU\u3011I LOVE MUSHOKU TENSEI!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-22T17:14:48Z",
+      "actualEndTime": "2024-06-22T18:28:06Z",
+      "scheduledStartTime": "2024-06-22T17:00:00Z"
+    }
+  },
+  "B3xDDhCPnVQ": {
+    "snippet": {
+      "publishedAt": "2024-06-23T23:00:10Z",
+      "channelId": "UCLdkcTt5vOfGi_myvK-iO0g",
+      "title": "\"the worst she can say is no\" #vtuber #shorts #streamer #funny"
     }
   }
 }

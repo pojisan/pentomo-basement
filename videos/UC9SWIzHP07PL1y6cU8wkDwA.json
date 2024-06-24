@@ -39,7 +39,7 @@
     "snippet": {
       "publishedAt": "2024-04-15T16:41:48Z",
       "channelId": "UC9SWIzHP07PL1y6cU8wkDwA",
-      "title": "\u301006/16 - 06/22\u3011Weekly Schedule~!! \u3010Yume+ | Mero Umiko\u3011"
+      "title": "\u301006/23 - 06/29\u3011Weekly Schedule~!! \u3010Yume+ | Mero Umiko\u3011"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-04-15T16:40:00Z",
@@ -992,8 +992,9 @@
       "title": "\u3010Yuppie Psycho\u3011DADDY?! FINALLY?!?!?!?\u3010Yume+ | Mero Umiko\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-25T00:00:00Z",
-      "activeLiveChatId": "Cg0KC3VKejUwM2dKaWg4KicKGFVDOVNXSXpIUDA3UEwxeTZjVTh3a0R3QRILdUp6NTAzZ0ppaDg"
+      "actualStartTime": "2024-06-23T16:59:53Z",
+      "actualEndTime": "2024-06-23T19:06:54Z",
+      "scheduledStartTime": "2024-06-23T17:00:00Z"
     }
   },
   "uRVDPRCS2Ys": {
@@ -1004,8 +1005,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-21T20:00:50Z",
-      "scheduledStartTime": "2024-06-21T20:00:00Z",
-      "activeLiveChatId": "Cg0KC3VSVkRQUkNTMllzKicKGFVDOVNXSXpIUDA3UEwxeTZjVTh3a0R3QRILdVJWRFBSQ1MyWXM"
+      "actualEndTime": "2024-06-22T02:28:36Z",
+      "scheduledStartTime": "2024-06-21T20:00:00Z"
     }
   },
   "Cq_F2Zbnsc8": {
@@ -1015,8 +1016,41 @@
       "title": "\u3010Octopath Traveler\u3011Getting More Travelers~!!\u3010Yume+ | Mero Umiko\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-23T17:00:00Z",
+      "scheduledStartTime": "2024-06-28T02:00:00Z",
       "activeLiveChatId": "Cg0KC0NxX0YyWmJuc2M4KicKGFVDOVNXSXpIUDA3UEwxeTZjVTh3a0R3QRILQ3FfRjJaYm5zYzg"
+    }
+  },
+  "QbwlyfSEqdc": {
+    "snippet": {
+      "publishedAt": "2024-06-23T06:53:45Z",
+      "channelId": "UC9SWIzHP07PL1y6cU8wkDwA",
+      "title": "\u3010Atelier Rorona\u3011sterky\u3010Yume+ | Mero Umiko\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-24T15:00:00Z",
+      "activeLiveChatId": "Cg0KC1Fid2x5ZlNFcWRjKicKGFVDOVNXSXpIUDA3UEwxeTZjVTh3a0R3QRILUWJ3bHlmU0VxZGM"
+    }
+  },
+  "XR0HewIgiMU": {
+    "snippet": {
+      "publishedAt": "2024-06-23T06:51:08Z",
+      "channelId": "UC9SWIzHP07PL1y6cU8wkDwA",
+      "title": "\u3010Melatonin\u3011 help im not a rhythm gamer \u3010Yume+ | Mero Umiko\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-24T02:00:00Z",
+      "activeLiveChatId": "Cg0KC1hSMEhld0lnaU1VKicKGFVDOVNXSXpIUDA3UEwxeTZjVTh3a0R3QRILWFIwSGV3SWdpTVU"
+    }
+  },
+  "GPDe5JHmZdM": {
+    "snippet": {
+      "publishedAt": "2024-06-23T07:06:27Z",
+      "channelId": "UC9SWIzHP07PL1y6cU8wkDwA",
+      "title": "\u3010League of Legends\u3011why\u3010Yume+ | Mero Umiko\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-25T02:00:00Z",
+      "activeLiveChatId": "Cg0KC0dQRGU1SkhtWmRNKicKGFVDOVNXSXpIUDA3UEwxeTZjVTh3a0R3QRILR1BEZTVKSG1aZE0"
     }
   }
 }

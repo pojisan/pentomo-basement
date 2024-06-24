@@ -356,7 +356,7 @@
     "snippet": {
       "publishedAt": "2024-03-12T04:02:35Z",
       "channelId": "UCVPBGmlsC8S-TNa_IEVcz1A",
-      "title": "\ud83d\udd4a\ufe0f Forecast for Week of 6/16-6/22\u3010Yume+ | Raein Clowd\u3011"
+      "title": "\ud83d\udd4a\ufe0f Forecast for Week of 6/23-6/29\u3010Yume+ | Raein Clowd\u3011"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-01-01T05:00:00Z",
@@ -1284,12 +1284,35 @@
     "snippet": {
       "publishedAt": "2024-06-21T20:11:54Z",
       "channelId": "UCVPBGmlsC8S-TNa_IEVcz1A",
-      "title": "\ud83d\udc8e\u3010FINAL FANTASY XIV:COLLAB\u3011EXPLORING WEYARD WITH AN ANGEL SWEETCAKE\u3010Yume+ | Raein Clowd"
+      "title": "\ud83d\udc8e\u3010FINAL FANTASY XIV:COLLAB\u3011EXPLORING EORZEA WITH AN ANGEL SWEETCAKE\u3010Yume+ | Raein Clowd"
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-21T21:02:11Z",
-      "scheduledStartTime": "2024-06-21T21:00:00Z",
-      "activeLiveChatId": "Cg0KCy1qbXVyRmZ3WGZvKicKGFVDVlBCR21sc0M4Uy1UTmFfSUVWY3oxQRILLWptdXJGZndYZm8"
+      "actualEndTime": "2024-06-21T23:03:47Z",
+      "scheduledStartTime": "2024-06-21T21:00:00Z"
+    }
+  },
+  "_i7ecHRhtQc": {
+    "snippet": {
+      "publishedAt": "2024-06-22T17:03:16Z",
+      "channelId": "UCVPBGmlsC8S-TNa_IEVcz1A",
+      "title": "\ud83d\uddbc\ufe0f\ud83d\udd12\u3010COLLAB: ART HEIST & CHATTING\u3011W/ CYON HART\u3010Yume+ | Raein Clowd\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-22T20:11:26Z",
+      "actualEndTime": "2024-06-22T22:24:27Z",
+      "scheduledStartTime": "2024-06-22T20:00:00Z"
+    }
+  },
+  "FJZbMXyRVPo": {
+    "snippet": {
+      "publishedAt": "2024-06-23T03:04:05Z",
+      "channelId": "UCVPBGmlsC8S-TNa_IEVcz1A",
+      "title": "\u2600\ufe0f\u3010GOLDEN SUN: TLA\u3011#12 QUAKERS\u3010Yume+ | Raein Clowd\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-23T15:00:00Z",
+      "activeLiveChatId": "Cg0KC0ZKWmJNWHlSVlBvKicKGFVDVlBCR21sc0M4Uy1UTmFfSUVWY3oxQRILRkpaYk1YeVJWUG8"
     }
   }
 }

@@ -712,19 +712,18 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-21T19:36:31Z",
-      "scheduledStartTime": "2024-06-21T18:00:00Z",
-      "activeLiveChatId": "Cg0KC1ZzMklCNHRJcDhNKicKGFVDMXNtOUgyb3J2eW5EYWpjRTRqcll1ZxILVnMySUI0dElwOE0"
+      "actualEndTime": "2024-06-22T07:27:59Z",
+      "scheduledStartTime": "2024-06-21T18:00:00Z"
     }
   },
   "Vz-owaqvxCk": {
     "snippet": {
       "publishedAt": "2024-06-19T20:32:34Z",
       "channelId": "UC1sm9H2orvynDajcE4jrYug",
-      "title": "\u3010STAR SPRINT!!!\u3011EP.6 - WHO'S BEING INTERVIEWED?\u3010globie | Kiri Kilovolt\u3011",
-      "private": true
+      "title": "\u3010STAR SPRINT!!!\u3011EP.6 ft. @Evanit0 - WHO'S BEING INTERVIEWED?\u3010globie | Kiri Kilovolt\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-23T18:00:00Z",
+      "scheduledStartTime": "2024-06-25T18:00:00Z",
       "activeLiveChatId": "Cg0KC1Z6LW93YXF2eENrKicKGFVDMXNtOUgyb3J2eW5EYWpjRTRqcll1ZxILVnotb3dhcXZ4Q2s"
     }
   },
@@ -733,6 +732,53 @@
       "publishedAt": "2024-06-20T11:00:25Z",
       "channelId": "UC1sm9H2orvynDajcE4jrYug",
       "title": "CALLING you OUT!"
+    }
+  },
+  "O6bkO9QHOxo": {
+    "snippet": {
+      "publishedAt": "2024-06-22T07:28:38Z",
+      "channelId": "UC1sm9H2orvynDajcE4jrYug",
+      "title": "\u301024 HOUR LE WOMANS\u3011PART 2 - I'M GAMING?!\u3010globie | Kiri Kilovolt\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-22T07:31:35Z",
+      "actualEndTime": "2024-06-22T18:48:02Z",
+      "scheduledStartTime": "2024-06-22T07:30:00Z"
+    }
+  },
+  "E88jneNLbbs": {
+    "snippet": {
+      "publishedAt": "2024-06-22T18:49:23Z",
+      "channelId": "UC1sm9H2orvynDajcE4jrYug",
+      "title": "\u301024 HOUR LE WOMANS\u3011PART 3 - PODIUM MAYBE POG?!\u3010globie | Kiri Kilovolt\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-22T18:53:46Z",
+      "actualEndTime": "2024-06-22T20:39:13Z",
+      "scheduledStartTime": "2024-06-22T18:50:00Z"
+    }
+  },
+  "TbTSEQFCABY": {
+    "snippet": {
+      "publishedAt": "2024-06-22T20:40:18Z",
+      "channelId": "UC1sm9H2orvynDajcE4jrYug",
+      "title": "\u301024 HOUR LE WOMANS\u3011PART 4 - FINAL STRETCH!\u3010globie | Kiri Kilovolt\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T09:17:17Z",
+      "actualEndTime": "2024-06-23T16:05:14Z",
+      "scheduledStartTime": "2024-06-23T09:15:00Z"
+    }
+  },
+  "FwsOtP1k5F4": {
+    "snippet": {
+      "publishedAt": "2024-06-23T22:59:58Z",
+      "channelId": "UC1sm9H2orvynDajcE4jrYug",
+      "title": "\u3010STAR SPRINT!!!\u3011EP.7 - SHE CAN FIX ME...SURELY \u3010globie | Kiri Kilovolt\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-27T18:00:00Z",
+      "activeLiveChatId": "Cg0KC0Z3c090UDFrNUY0KicKGFVDMXNtOUgyb3J2eW5EYWpjRTRqcll1ZxILRndzT3RQMWs1RjQ"
     }
   }
 }

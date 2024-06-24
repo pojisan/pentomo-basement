@@ -8013,8 +8013,33 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-21T21:00:30Z",
-      "scheduledStartTime": "2024-06-21T21:00:00Z",
-      "activeLiveChatId": "Cg0KCy11TDkyWnhhZXBNKicKGFVDTXdHSFIwQlRadUxzbWpZX05UNVB3ZxILLXVMOTJaeGFlcE0"
+      "actualEndTime": "2024-06-22T01:42:11Z",
+      "scheduledStartTime": "2024-06-21T21:00:00Z"
+    }
+  },
+  "dWV25Z4N9ds": {
+    "snippet": {
+      "publishedAt": "2024-06-22T09:30:55Z",
+      "channelId": "UCMwGHR0BTZuLsmjY_NT5Pwg",
+      "title": "\u3010CHAT\u3011 Conquer All Homework....At What Cost..."
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-22T21:01:29Z",
+      "actualEndTime": "2024-06-22T23:45:17Z",
+      "scheduledStartTime": "2024-06-22T21:00:00Z"
+    }
+  },
+  "-uhbEwaOLJ0": {
+    "snippet": {
+      "publishedAt": "2024-06-23T04:42:55Z",
+      "channelId": "UCMwGHR0BTZuLsmjY_NT5Pwg",
+      "title": "\u3010Elden Ring: Shadow of the Erdtree\u3011 THE ADVENTURE IS OUT THERE (ty Past Ina) \u3010SPOILER WARNING\u3011\u3010#2\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T21:00:06Z",
+      "actualEndTime": "2024-06-24T00:27:43Z",
+      "scheduledStartTime": "2024-06-23T21:00:00Z",
+      "activeLiveChatId": "Cg0KCy11aGJFd2FPTEowKicKGFVDTXdHSFIwQlRadUxzbWpZX05UNVB3ZxILLXVoYkV3YU9MSjA"
     }
   }
 }

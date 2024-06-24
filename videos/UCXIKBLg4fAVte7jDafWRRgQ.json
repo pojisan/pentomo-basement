@@ -2582,6 +2582,7 @@
       "title": "ECHO LYNE 2024 BIRTHDAY DONOTHON PART 3 \ud83c\udf89"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T21:20:31Z",
       "scheduledStartTime": "2024-06-23T21:15:00Z",
       "activeLiveChatId": "Cg0KC2ZadGFMaXdLMzk4KicKGFVDWElLQkxnNGZBVnRlN2pEYWZXUlJnURILZlp0YUxpd0szOTg"
     }
@@ -2593,8 +2594,9 @@
       "title": "ECHO LYNE 2024 BIRTHDAY DONOTHON PART 2 \ud83c\udf89"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-23T16:00:00Z",
-      "activeLiveChatId": "Cg0KC2pzalE5QlZ1QU5NKicKGFVDWElLQkxnNGZBVnRlN2pEYWZXUlJnURILanNqUTlCVnVBTk0"
+      "actualStartTime": "2024-06-23T15:59:31Z",
+      "actualEndTime": "2024-06-23T20:46:52Z",
+      "scheduledStartTime": "2024-06-23T16:00:00Z"
     }
   },
   "nIUOYMS8yiE": {
@@ -2604,8 +2606,21 @@
       "title": "ECHO LYNE 2024 BIRTHDAY DONOTHON PART 1 \ud83c\udf89"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-22T18:00:00Z",
-      "activeLiveChatId": "Cg0KC25JVU9ZTVM4eWlFKicKGFVDWElLQkxnNGZBVnRlN2pEYWZXUlJnURILbklVT1lNUzh5aUU"
+      "actualStartTime": "2024-06-22T18:02:04Z",
+      "actualEndTime": "2024-06-23T04:17:21Z",
+      "scheduledStartTime": "2024-06-22T18:00:00Z"
+    }
+  },
+  "bcxG2UE2hq4": {
+    "snippet": {
+      "publishedAt": "2024-06-23T05:10:33Z",
+      "channelId": "UCXIKBLg4fAVte7jDafWRRgQ",
+      "title": "\u3010COVER\u3011Ring of Fortune\u3010ECHO LYNE | V&U\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T21:00:06Z",
+      "actualEndTime": "2024-06-23T21:07:24Z",
+      "scheduledStartTime": "2024-06-23T21:00:00Z"
     }
   }
 }

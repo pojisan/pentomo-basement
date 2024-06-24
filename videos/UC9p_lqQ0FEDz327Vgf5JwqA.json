@@ -3363,8 +3363,21 @@
       "title": "\u3010ELDEN RING: SHADOW OF THE ERDTREE DLC - #2\u3011Banished to the SHADOW REALM (Motivated Run)"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-21T23:00:00Z",
-      "activeLiveChatId": "Cg0KC044Rjh4NERsdm9zKicKGFVDOXBfbHFRMEZFRHozMjdWZ2Y1SndxQRILTjhGOHg0RGx2b3M"
+      "actualStartTime": "2024-06-21T22:58:00Z",
+      "actualEndTime": "2024-06-22T01:54:21Z",
+      "scheduledStartTime": "2024-06-21T23:00:00Z"
+    }
+  },
+  "TikPGkhf3Lc": {
+    "snippet": {
+      "publishedAt": "2024-06-23T12:41:00Z",
+      "channelId": "UC9p_lqQ0FEDz327Vgf5JwqA",
+      "title": "\u3010ELDEN RING: SHADOW OF THE ERDTREE DLC - #3\u3011A kalm, comfy stream (Motivated Run)"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T22:55:49Z",
+      "scheduledStartTime": "2024-06-23T23:00:00Z",
+      "activeLiveChatId": "Cg0KC1Rpa1BHa2hmM0xjKicKGFVDOXBfbHFRMEZFRHozMjdWZ2Y1SndxQRILVGlrUEdraGYzTGM"
     }
   }
 }

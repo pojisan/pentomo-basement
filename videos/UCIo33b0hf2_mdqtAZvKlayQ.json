@@ -2473,8 +2473,20 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-21T18:00:35Z",
-      "scheduledStartTime": "2024-06-21T18:00:00Z",
-      "activeLiveChatId": "Cg0KCzB2VlNPMm1mR1kwKicKGFVDSW8zM2IwaGYyX21kcXRBWnZLbGF5URILMHZWU08ybWZHWTA"
+      "actualEndTime": "2024-06-22T00:13:11Z",
+      "scheduledStartTime": "2024-06-21T18:00:00Z"
+    }
+  },
+  "7VHpKC_LHe8": {
+    "snippet": {
+      "publishedAt": "2024-06-22T16:53:27Z",
+      "channelId": "UCIo33b0hf2_mdqtAZvKlayQ",
+      "title": "First fighting game!!\u3010TEKKEN 8\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-22T17:00:02Z",
+      "actualEndTime": "2024-06-22T19:17:32Z",
+      "scheduledStartTime": "2024-06-22T17:00:00Z"
     }
   }
 }

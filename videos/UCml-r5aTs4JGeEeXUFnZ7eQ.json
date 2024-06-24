@@ -581,11 +581,36 @@
     "snippet": {
       "publishedAt": "2024-06-21T21:21:30Z",
       "channelId": "UCml-r5aTs4JGeEeXUFnZ7eQ",
-      "title": "\u3010MELODITE GAME NIGHT\u3011Graphic Design is not my passion"
+      "title": "\u3010MELODITE GAME NIGHT\u3011Gaming until the #holoJustice debuts!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-21T23:00:00Z",
-      "activeLiveChatId": "Cg0KC1FCT0dOSGc5WEtZKicKGFVDbWwtcjVhVHM0SkdlRWVYVUZuWjdlURILUUJPR05IZzlYS1k"
+      "actualStartTime": "2024-06-21T22:57:51Z",
+      "actualEndTime": "2024-06-22T04:42:34Z",
+      "scheduledStartTime": "2024-06-21T22:57:29Z"
+    }
+  },
+  "5iGMPUmifMU": {
+    "snippet": {
+      "publishedAt": "2024-06-23T02:56:31Z",
+      "channelId": "UCml-r5aTs4JGeEeXUFnZ7eQ",
+      "title": "#holoJustice Debut Watch Party!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T02:57:07Z",
+      "actualEndTime": "2024-06-23T05:41:36Z",
+      "scheduledStartTime": "2024-06-23T02:56:32Z"
+    }
+  },
+  "QRAaI39uC0g": {
+    "snippet": {
+      "publishedAt": "2024-06-23T05:54:40Z",
+      "channelId": "UCml-r5aTs4JGeEeXUFnZ7eQ",
+      "title": "\u3010Sunday Afternoon TeaTime\u3011Aoife of AstraLineTV has entered the fray!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T22:53:04Z",
+      "scheduledStartTime": "2024-06-23T22:52:39Z",
+      "activeLiveChatId": "Cg0KC1FSQWFJMzl1QzBnKicKGFVDbWwtcjVhVHM0SkdlRWVYVUZuWjdlURILUVJBYUkzOXVDMGc"
     }
   }
 }

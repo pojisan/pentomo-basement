@@ -699,8 +699,9 @@
       "title": "HELP I'm stuck in ART HELL and I can't get out (it's my own fault)\u3010Bonnie Barkswell / globie\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-22T20:00:00Z",
-      "activeLiveChatId": "Cg0KCzM2UHdWaFEzUldvKicKGFVDcXczcGRQRUtLVk9JN1NGWG9teUtMQRILMzZQd1ZoUTNSV28"
+      "actualStartTime": "2024-06-22T19:59:12Z",
+      "actualEndTime": "2024-06-22T22:34:46Z",
+      "scheduledStartTime": "2024-06-22T20:00:00Z"
     }
   },
   "f3yqMdnPjMk": {
@@ -711,8 +712,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-21T19:58:59Z",
-      "scheduledStartTime": "2024-06-21T20:00:00Z",
-      "activeLiveChatId": "Cg0KC2YzeXFNZG5Qak1rKicKGFVDcXczcGRQRUtLVk9JN1NGWG9teUtMQRILZjN5cU1kblBqTWs"
+      "actualEndTime": "2024-06-21T23:16:13Z",
+      "scheduledStartTime": "2024-06-21T20:00:00Z"
     }
   },
   "8KEX5DrqIk8": {
@@ -732,6 +733,13 @@
       "publishedAt": "2024-06-20T11:00:06Z",
       "channelId": "UCqw3pdPEKKVOI7SFXomyKLA",
       "title": "The REAL reason this VTuber wears PROTECTION?! (chat is NASTY!!) \ud83e\udd7d\u3010Bonnie Barkswell / globie\u3011"
+    }
+  },
+  "2g40Bu1m0rM": {
+    "snippet": {
+      "publishedAt": "2024-06-22T11:00:01Z",
+      "channelId": "UCqw3pdPEKKVOI7SFXomyKLA",
+      "title": "How SHORT is this VTuber!? \ud83e\uddcd\u200d\u2640\ufe0f\u3010Bonnie Barkswell / globie\u3011"
     }
   }
 }

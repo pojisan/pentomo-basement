@@ -1068,5 +1068,30 @@
       "actualEndTime": "2024-06-21T02:37:00Z",
       "scheduledStartTime": "2024-06-21T00:20:00Z"
     }
+  },
+  "_M_7HjaX_b8": {
+    "snippet": {
+      "publishedAt": "2024-06-22T00:41:27Z",
+      "channelId": "UCm6JMVKxg8PvJjl3F7J0tdQ",
+      "title": "beach episode time. \ud83c\udfd6\ufe0f let's chat! #shorts #shortsfeed #shortslive #vtuber"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-22T01:06:37Z",
+      "actualEndTime": "2024-06-22T02:00:35Z",
+      "scheduledStartTime": "2024-06-22T01:00:00Z"
+    }
+  },
+  "mQo79ndGi3g": {
+    "snippet": {
+      "publishedAt": "2024-06-22T01:42:55Z",
+      "channelId": "UCm6JMVKxg8PvJjl3F7J0tdQ",
+      "title": "beach episode karaoke (unarchived) \ud83c\udfd6\ufe0f #shorts #shortsfeed #shortslive #vtuber",
+      "private": true
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-22T02:01:41Z",
+      "scheduledStartTime": "2024-06-22T02:00:00Z",
+      "activeLiveChatId": "Cg0KC21Rbzc5bmRHaTNnKicKGFVDbTZKTVZLeGc4UHZKamwzRjdKMHRkURILbVFvNzluZEdpM2c"
+    }
   }
 }

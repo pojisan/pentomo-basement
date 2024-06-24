@@ -2195,8 +2195,9 @@
       "title": "\u3010Golf with Your Friends\u3011 Toxic Princess Imminent"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-22T19:00:00Z",
-      "activeLiveChatId": "Cg0KCzE0eGlzM1RaTl9FKicKGFVDMEpGdDVKamw1YV9fek9hWkxxazdQZxILMTR4aXMzVFpOX0U"
+      "actualStartTime": "2024-06-22T18:59:20Z",
+      "actualEndTime": "2024-06-22T20:46:09Z",
+      "scheduledStartTime": "2024-06-22T19:00:00Z"
     }
   },
   "YJZfL5FdAKY": {
@@ -2219,8 +2220,20 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-21T19:30:12Z",
-      "scheduledStartTime": "2024-06-21T19:30:00Z",
-      "activeLiveChatId": "Cg0KC0RVX2J2WnlaSHhzKicKGFVDMEpGdDVKamw1YV9fek9hWkxxazdQZxILRFVfYnZaeVpIeHM"
+      "actualEndTime": "2024-06-22T00:15:51Z",
+      "scheduledStartTime": "2024-06-21T19:30:00Z"
+    }
+  },
+  "yHHPJ_71F90": {
+    "snippet": {
+      "publishedAt": "2024-06-23T13:49:57Z",
+      "channelId": "UC0JFt5Jjl5a__zOaZLqk7Pg",
+      "title": "\u3010LIMBO\u3011 Escaping Limbo"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T18:01:47Z",
+      "actualEndTime": "2024-06-23T21:30:33Z",
+      "scheduledStartTime": "2024-06-23T18:00:00Z"
     }
   }
 }

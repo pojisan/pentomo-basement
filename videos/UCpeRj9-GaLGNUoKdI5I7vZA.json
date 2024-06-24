@@ -6708,8 +6708,9 @@
       "title": "\u3010Hardcore Minecraft\u3011 DAY 34 - How long can I survive? \ud83d\udc40"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-22T00:00:00Z",
-      "activeLiveChatId": "Cg0KC0NkdUVQQlpQVkk0KicKGFVDcGVSajktR2FMR05Vb0tkSTVJN3ZaQRILQ2R1RVBCWlBWSTQ"
+      "actualStartTime": "2024-06-22T00:00:39Z",
+      "actualEndTime": "2024-06-22T04:04:23Z",
+      "scheduledStartTime": "2024-06-22T00:00:00Z"
     }
   }
 }

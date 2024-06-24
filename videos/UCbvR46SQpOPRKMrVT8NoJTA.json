@@ -1613,8 +1613,40 @@
       "title": "\u3010SEGA BASS FISHING\u3011Bass Pro Shop Sponsor Me \ud83c\udfa3"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-21T22:00:00Z",
-      "activeLiveChatId": "Cg0KC09TNllYWFBUR3VrKicKGFVDYnZSNDZTUXBPUFJLTXJWVDhOb0pUQRILT1M2WVhYUFRHdWs"
+      "actualStartTime": "2024-06-21T23:24:04Z",
+      "actualEndTime": "2024-06-22T01:33:26Z",
+      "scheduledStartTime": "2024-06-21T23:00:00Z"
+    }
+  },
+  "Nzu38Og68NQ": {
+    "snippet": {
+      "publishedAt": "2024-06-22T17:53:17Z",
+      "channelId": "UCbvR46SQpOPRKMrVT8NoJTA",
+      "title": "\u3010HAVEN COLLAB\u3011Touching Balls with Haven \ud83c\udf51"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-22T18:52:35Z",
+      "actualEndTime": "2024-06-22T20:53:22Z",
+      "scheduledStartTime": "2024-06-22T19:00:00Z"
+    }
+  },
+  "NNI30fEcCh4": {
+    "snippet": {
+      "publishedAt": "2024-06-23T01:00:12Z",
+      "channelId": "UCbvR46SQpOPRKMrVT8NoJTA",
+      "title": "Dinosaurs Are Essential in Games #shorts"
+    }
+  },
+  "U4polRfZIsA": {
+    "snippet": {
+      "publishedAt": "2024-06-23T21:35:54Z",
+      "channelId": "UCbvR46SQpOPRKMrVT8NoJTA",
+      "title": "\u3010VSMP\u3011The mines call to me..."
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T21:50:24Z",
+      "actualEndTime": "2024-06-24T00:35:24Z",
+      "scheduledStartTime": "2024-06-23T22:15:00Z"
     }
   }
 }

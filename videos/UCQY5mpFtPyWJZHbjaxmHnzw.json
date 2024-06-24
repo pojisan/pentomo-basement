@@ -2561,8 +2561,9 @@
       "title": "\u3010HELLo Land Maid Caf\u00e9\u3011Welcome! \ud83d\udc9e\u3010V&U | GEN4\u3011#zatsudan"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-23T19:50:00Z",
-      "activeLiveChatId": "Cg0KCzBiV04wWVJWdzBJKicKGFVDUVk1bXBGdFB5V0paSGJqYXhtSG56dxILMGJXTjBZUlZ3MEk"
+      "actualStartTime": "2024-06-22T17:23:58Z",
+      "actualEndTime": "2024-06-22T20:08:24Z",
+      "scheduledStartTime": "2024-06-22T17:20:00Z"
     }
   },
   "wUbUPhmMZ5I": {
@@ -2686,8 +2687,26 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-21T19:34:25Z",
       "actualEndTime": "2024-06-21T21:50:47Z",
-      "scheduledStartTime": "2024-06-21T19:30:00Z",
-      "activeLiveChatId": "Cg0KC0hncUhhRkQ3NnY0KicKGFVDUVk1bXBGdFB5V0paSGJqYXhtSG56dxILSGdxSGFGRDc2djQ"
+      "scheduledStartTime": "2024-06-21T19:30:00Z"
+    }
+  },
+  "_FCjo0gEBVk": {
+    "snippet": {
+      "publishedAt": "2024-06-22T17:20:38Z",
+      "channelId": "UCQY5mpFtPyWJZHbjaxmHnzw",
+      "title": "\u3010HELLo Land Maid Caf\u00e9\u3011Welcome! \ud83d\udc9e\u3010V&U | GEN4\u3011#zatsudan #shortslive #shortsfeed #shorts"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-22T17:24:17Z",
+      "actualEndTime": "2024-06-22T20:05:49Z",
+      "scheduledStartTime": "2024-06-22T17:20:00Z"
+    }
+  },
+  "AbtaL46dHIo": {
+    "snippet": {
+      "publishedAt": "2024-06-23T07:31:19Z",
+      "channelId": "UCQY5mpFtPyWJZHbjaxmHnzw",
+      "title": "BURN THE WITCH \ud83d\udd25- D.K Graves #shorts"
     }
   }
 }

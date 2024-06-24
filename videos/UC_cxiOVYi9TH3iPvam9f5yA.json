@@ -927,11 +927,12 @@
     "snippet": {
       "publishedAt": "2024-06-18T18:16:33Z",
       "channelId": "UC_cxiOVYi9TH3iPvam9f5yA",
-      "title": "[TERRARIA CALAMITY PART 3] Wall Of Flesh? Or Brain of Cthulhu? - Ciccino Katterina V&U"
+      "title": "[MINECRAFT VSMP] More Costco Construction- Ciccino Katterina V&U"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-22T03:00:00Z",
-      "activeLiveChatId": "Cg0KC005bVVvUjJGcXFBKicKGFVDX2N4aU9WWWk5VEgzaVB2YW05ZjV5QRILTTltVW9SMkZxcUE"
+      "actualStartTime": "2024-06-22T03:17:29Z",
+      "actualEndTime": "2024-06-22T05:19:33Z",
+      "scheduledStartTime": "2024-06-22T03:00:00Z"
     }
   },
   "td5vI-2Z9NQ": {
@@ -962,8 +963,14 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-21T18:07:26Z",
       "actualEndTime": "2024-06-21T20:57:48Z",
-      "scheduledStartTime": "2024-06-21T18:30:00Z",
-      "activeLiveChatId": "Cg0KCzhoTXJ6TnhRV3RZKicKGFVDX2N4aU9WWWk5VEgzaVB2YW05ZjV5QRILOGhNcnpOeFFXdFk"
+      "scheduledStartTime": "2024-06-21T18:30:00Z"
+    }
+  },
+  "b8pYfKxtHRk": {
+    "snippet": {
+      "publishedAt": "2024-06-23T04:03:45Z",
+      "channelId": "UC_cxiOVYi9TH3iPvam9f5yA",
+      "title": "How To Survive Elevator Awkwardness and Never Have It Happen Again"
     }
   }
 }

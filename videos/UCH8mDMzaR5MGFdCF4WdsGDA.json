@@ -2371,5 +2371,29 @@
       "actualEndTime": "2024-06-20T23:05:24Z",
       "scheduledStartTime": "2024-06-20T20:00:00Z"
     }
+  },
+  "AVjDtbbiQYM": {
+    "snippet": {
+      "publishedAt": "2024-06-22T20:40:01Z",
+      "channelId": "UCH8mDMzaR5MGFdCF4WdsGDA",
+      "title": "\u3010Kingdom Hearts Final Mix\u3011Io's Hyoneys are Io's power!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-22T21:03:37Z",
+      "actualEndTime": "2024-06-23T00:47:37Z",
+      "scheduledStartTime": "2024-06-22T21:00:00Z"
+    }
+  },
+  "spiWA15ljdk": {
+    "snippet": {
+      "publishedAt": "2024-06-23T14:59:26Z",
+      "channelId": "UCH8mDMzaR5MGFdCF4WdsGDA",
+      "title": "\u3010Kingdom Hearts Final Mix\u3011Guerilla Stream!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T16:06:03Z",
+      "actualEndTime": "2024-06-23T18:53:02Z",
+      "scheduledStartTime": "2024-06-23T16:00:00Z"
+    }
   }
 }

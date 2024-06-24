@@ -6,6 +6,8 @@
       "title": "[DEBUT STREAM] It's wind-up time!! #hololiveEnglish #holoJustice"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T02:59:34Z",
+      "actualEndTime": "2024-06-23T03:40:46Z",
       "scheduledStartTime": "2024-06-23T03:00:00Z"
     }
   },
@@ -31,6 +33,30 @@
       "publishedAt": "2024-06-20T15:00:37Z",
       "channelId": "UCvN5h1ShZtc7nly3pezRayg",
       "title": "I came up with a new melody. Would you like to listen? \ud83c\udf75 #holoJustice"
+    }
+  },
+  "twto2g0FwTQ": {
+    "snippet": {
+      "publishedAt": "2024-06-23T03:40:06Z",
+      "channelId": "UCvN5h1ShZtc7nly3pezRayg",
+      "title": "{COVER} Forgotten Words | \u5fd8\u308c\u3058\u306e\u8a00\u306e\u8449    #\u6b4c\u3063\u3066\u307f\u305f #cover"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T03:40:06Z",
+      "actualEndTime": "2024-06-23T03:45:01Z",
+      "scheduledStartTime": "2024-06-23T03:40:00Z"
+    }
+  },
+  "c-jVt5szrMg": {
+    "snippet": {
+      "publishedAt": "2024-06-23T17:53:54Z",
+      "channelId": "UCvN5h1ShZtc7nly3pezRayg",
+      "title": "[SKYRIM] Fixing Skyrim's thievery problem! For Justice!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T20:00:47Z",
+      "actualEndTime": "2024-06-23T22:38:08Z",
+      "scheduledStartTime": "2024-06-23T20:00:00Z"
     }
   }
 }

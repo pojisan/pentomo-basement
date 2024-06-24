@@ -1209,8 +1209,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-21T22:00:59Z",
-      "scheduledStartTime": "2024-06-21T22:00:00Z",
-      "activeLiveChatId": "Cg0KCzYwZlJuUnJ6Q2FRKicKGFVDSDI0YXNpSXFzVlVRbHo4RnZYSmJjdxILNjBmUm5ScnpDYVE"
+      "actualEndTime": "2024-06-22T00:44:34Z",
+      "scheduledStartTime": "2024-06-21T22:00:00Z"
     }
   },
   "Ltx1E-FMfjs": {
@@ -1223,6 +1223,66 @@
       "actualStartTime": "2024-06-21T17:53:10Z",
       "actualEndTime": "2024-06-21T21:05:19Z",
       "scheduledStartTime": "2024-06-21T18:15:00Z"
+    }
+  },
+  "dskm7dsSokI": {
+    "snippet": {
+      "publishedAt": "2024-06-22T04:15:46Z",
+      "channelId": "UCH24asiIqsVUQlz8FvXJbcw",
+      "title": "[UNARCHIVED KARAOKE] LET ME SING!!! RRRAAAHHHH !![V&U | GEN 5]"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-08-29T04:00:00Z",
+      "activeLiveChatId": "Cg0KC2Rza203ZHNTb2tJKicKGFVDSDI0YXNpSXFzVlVRbHo4RnZYSmJjdxILZHNrbTdkc1Nva0k"
+    }
+  },
+  "C7WAb3N6aow": {
+    "snippet": {
+      "publishedAt": "2024-06-22T04:14:00Z",
+      "channelId": "UCH24asiIqsVUQlz8FvXJbcw",
+      "title": "[BOOK CLUB] BL BOOKCLUB!! Time to be unhinged about boys in love! [V&U | GEN 5]"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T22:00:10Z",
+      "actualEndTime": "2024-06-23T23:33:48Z",
+      "scheduledStartTime": "2024-06-23T22:00:00Z"
+    }
+  },
+  "aisLltPDITQ": {
+    "snippet": {
+      "publishedAt": "2024-06-23T17:24:15Z",
+      "channelId": "UCH24asiIqsVUQlz8FvXJbcw",
+      "title": "[SUN HAVEN]  CUTE GIRLS ON A CUTE FARM!! with @SpectraVNU  [V&U | GEN 5]"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T18:02:22Z",
+      "actualEndTime": "2024-06-23T20:57:01Z",
+      "scheduledStartTime": "2024-06-23T18:00:00Z"
+    }
+  },
+  "i9u-PfQiPag": {
+    "snippet": {
+      "publishedAt": "2024-06-23T20:56:10Z",
+      "channelId": "UCH24asiIqsVUQlz8FvXJbcw",
+      "title": "[Zatsu] I JUST WANNA TALK  [V&U | GEN 5]",
+      "private": true
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T20:59:20Z",
+      "scheduledStartTime": "2024-06-23T21:00:00Z",
+      "activeLiveChatId": "Cg0KC2k5dS1QZlFpUGFnKicKGFVDSDI0YXNpSXFzVlVRbHo4RnZYSmJjdxILaTl1LVBmUWlQYWc"
+    }
+  },
+  "f6BF6cXIDL0": {
+    "snippet": {
+      "publishedAt": "2024-06-23T21:12:21Z",
+      "channelId": "UCH24asiIqsVUQlz8FvXJbcw",
+      "title": "[Zatsu] I JUST WANNA TALK  [V&U | GEN 5]"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T21:16:26Z",
+      "actualEndTime": "2024-06-23T21:56:26Z",
+      "scheduledStartTime": "2024-06-23T21:10:00Z"
     }
   }
 }

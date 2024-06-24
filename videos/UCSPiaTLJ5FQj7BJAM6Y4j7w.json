@@ -18,6 +18,7 @@
       "title": "ASMR toy haul! Let me test them on you"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-24T00:00:55Z",
       "scheduledStartTime": "2024-06-24T00:00:00Z",
       "activeLiveChatId": "Cg0KC0RRZHM4aWsxZTN3KicKGFVDU1BpYVRMSjVGUWo3QkpBTTZZNGo3dxILRFFkczhpazFlM3c"
     }
@@ -2075,11 +2076,12 @@
     "snippet": {
       "publishedAt": "2024-06-21T19:19:37Z",
       "channelId": "UCSPiaTLJ5FQj7BJAM6Y4j7w",
-      "title": "\u3010 Comfy Morning \u3011why do pancakes go to therapy?\u2600\ufe0f"
+      "title": "\u3010 Comfy Morning \u3011i dont like salads... girl eats a salad live"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-22T15:00:00Z",
-      "activeLiveChatId": "Cg0KC0FILUlOeENrSDQwKicKGFVDU1BpYVRMSjVGUWo3QkpBTTZZNGo3dxILQUgtSU54Q2tINDA"
+      "actualStartTime": "2024-06-22T15:00:15Z",
+      "actualEndTime": "2024-06-22T16:09:27Z",
+      "scheduledStartTime": "2024-06-22T15:00:00Z"
     }
   }
 }

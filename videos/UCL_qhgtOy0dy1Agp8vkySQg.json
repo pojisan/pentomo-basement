@@ -12271,8 +12271,9 @@
       "title": "\u3010Elden Ring\u3011Adam Sandler Returns (PLUS NEW DEBUT WATCH PARTY) #hololiveenglish #calliolive"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-22T00:00:00Z",
-      "activeLiveChatId": "Cg0KC0hzOVVSWVgtSXpJKicKGFVDTF9xaGd0T3kwZHkxQWdwOHZreVNRZxILSHM5VVJZWC1Jekk"
+      "actualStartTime": "2024-06-22T00:01:02Z",
+      "actualEndTime": "2024-06-22T05:24:07Z",
+      "scheduledStartTime": "2024-06-22T00:00:28Z"
     }
   },
   "ypmYHjmsN7w": {
@@ -12347,11 +12348,12 @@
     "snippet": {
       "publishedAt": "2024-06-20T12:30:54Z",
       "channelId": "UCL_qhgtOy0dy1Agp8vkySQg",
-      "title": "\u3010Elden Ring: Shadow of the Erdtree\u3011we are so back, dead beats (SPOILERS) Part 1"
+      "title": "\u3010Elden Ring: Shadow of the Erdtree\u3011we are so back dead beats (SPOILERS) Part 1 (Debut Watching Too!)"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-24T03:00:00Z",
-      "activeLiveChatId": "Cg0KCzVHZU15ZV84TTh3KicKGFVDTF9xaGd0T3kwZHkxQWdwOHZreVNRZxILNUdlTXllXzhNOHc"
+      "actualStartTime": "2024-06-22T22:59:33Z",
+      "actualEndTime": "2024-06-23T04:26:07Z",
+      "scheduledStartTime": "2024-06-22T22:59:01Z"
     }
   },
   "oAQYVZrx5FM": {
@@ -12361,7 +12363,7 @@
       "title": "\u3010HOLOMYTH MINECRAFT\u30115 refined ladies, 1 ender dragon! (finale) #hololiveenglish"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-22T22:00:00Z",
+      "scheduledStartTime": "2024-06-24T22:00:00Z",
       "activeLiveChatId": "Cg0KC29BUVlWWnJ4NUZNKicKGFVDTF9xaGd0T3kwZHkxQWdwOHZreVNRZxILb0FRWVZacng1Rk0"
     }
   },
@@ -12374,6 +12376,28 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-26T00:00:00Z",
       "activeLiveChatId": "Cg0KC09EVzA5UExDd0NjKicKGFVDTF9xaGd0T3kwZHkxQWdwOHZreVNRZxILT0RXMDlQTEN3Q2M"
+    }
+  },
+  "RR11tZ-AeI0": {
+    "snippet": {
+      "publishedAt": "2024-06-22T10:19:36Z",
+      "channelId": "UCL_qhgtOy0dy1Agp8vkySQg",
+      "title": "\u3010WATCH PARTY\u3011SUICIDE SQUAD ISEKAI! Episodes 1 - 3! #calliolive"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-27T06:00:00Z",
+      "activeLiveChatId": "Cg0KC1JSMTF0Wi1BZUkwKicKGFVDTF9xaGd0T3kwZHkxQWdwOHZreVNRZxILUlIxMXRaLUFlSTA"
+    }
+  },
+  "BIDHfaYBU0Q": {
+    "snippet": {
+      "publishedAt": "2024-06-23T04:28:39Z",
+      "channelId": "UCL_qhgtOy0dy1Agp8vkySQg",
+      "title": "\u3010Elden Ring: Shadow of the Erdtree\u3011you don't have the right, o you don't have the right (SPOILERS)"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-24T03:00:00Z",
+      "activeLiveChatId": "Cg0KC0JJREhmYVlCVTBRKicKGFVDTF9xaGd0T3kwZHkxQWdwOHZreVNRZxILQklESGZhWUJVMFE"
     }
   }
 }

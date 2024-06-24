@@ -3838,15 +3838,17 @@
       "title": "Drawing with my WIMPY IDIOT sister!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-22T17:00:00Z",
-      "activeLiveChatId": "Cg0KC09uQ1pTdEZmcGlFKicKGFVDa2lVQnlCQ0YxYU9pUmQxNnhBbFBNZxILT25DWlN0RmZwaUU"
+      "actualStartTime": "2024-06-22T18:09:59Z",
+      "actualEndTime": "2024-06-22T21:44:04Z",
+      "scheduledStartTime": "2024-06-22T18:00:00Z"
     }
   },
   "yowrtZTQ4Gg": {
     "snippet": {
       "publishedAt": "2024-06-16T02:01:59Z",
       "channelId": "UCkiUByBCF1aOiRd16xAlPMg",
-      "title": "COME NEREVAR COME"
+      "title": "COME NEREVAR COME",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-23T17:00:00Z",
@@ -3889,6 +3891,13 @@
       "publishedAt": "2024-06-20T22:59:17Z",
       "channelId": "UCkiUByBCF1aOiRd16xAlPMg",
       "title": "Crusty Ears"
+    }
+  },
+  "n5RLgOwY9_E": {
+    "snippet": {
+      "publishedAt": "2024-06-22T17:08:39Z",
+      "channelId": "UCkiUByBCF1aOiRd16xAlPMg",
+      "title": "\"Are you a Man?\""
     }
   }
 }

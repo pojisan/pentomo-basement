@@ -5141,8 +5141,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-21T22:01:49Z",
-      "scheduledStartTime": "2024-06-21T22:00:00Z",
-      "activeLiveChatId": "Cg0KC09VckZjWG9rR2N3KicKGFVDTjViRDFZWWFwVGhPZWFkRzdZa0JPQRILT1VyRmNYb2tHY3c"
+      "actualEndTime": "2024-06-22T01:04:43Z",
+      "scheduledStartTime": "2024-06-21T22:00:00Z"
     }
   },
   "6bpBWWtPxFk": {
@@ -5161,9 +5161,11 @@
     "snippet": {
       "publishedAt": "2024-06-18T04:17:23Z",
       "channelId": "UCN5bD1YYapThOeadG7YkBOA",
-      "title": "\u3010herds\u306e\u77e5\u3089\u306a\u3044\u4e16\u754c\u3011why Japanese are OBSESSED with POPCORN BUCKETS\u3010\u767d\u9e7f\u3044\u304a\u308a Phase Connect\u3011"
+      "title": "why Japanese are OBSESSED with POPCORN BUCKETS\u3010\u767d\u9e7f\u3044\u304a\u308a Phase Connect\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T22:01:48Z",
+      "actualEndTime": "2024-06-24T00:00:16Z",
       "scheduledStartTime": "2024-06-23T22:00:00Z",
       "activeLiveChatId": "Cg0KCzVtVUk4MkhidkprKicKGFVDTjViRDFZWWFwVGhPZWFkRzdZa0JPQRILNW1VSTgySGJ2Sms"
     }
@@ -5172,7 +5174,8 @@
     "snippet": {
       "publishedAt": "2024-06-18T04:14:24Z",
       "channelId": "UCN5bD1YYapThOeadG7YkBOA",
-      "title": "\u3010\u3093\u3041\uff01\u3011waaaaaaaaaaaaaaaaaaaaa (on TWITCH)\u3010\u767d\u9e7f\u3044\u304a\u308a Phase Connect\u3011"
+      "title": "\u3010\u3093\u3041\uff01\u3011waaaaaaaaaaaaaaaaaaaaa (on TWITCH)\u3010\u767d\u9e7f\u3044\u304a\u308a Phase Connect\u3011",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-22T16:30:00Z",
@@ -5188,8 +5191,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-21T17:30:29Z",
       "actualEndTime": "2024-06-21T20:49:36Z",
-      "scheduledStartTime": "2024-06-21T17:30:00Z",
-      "activeLiveChatId": "Cg0KC3Z2dlMzdGk3M19zKicKGFVDTjViRDFZWWFwVGhPZWFkRzdZa0JPQRILdnZ2UzN0aTczX3M"
+      "scheduledStartTime": "2024-06-21T17:30:00Z"
     }
   },
   "S8yaQeA8w3o": {

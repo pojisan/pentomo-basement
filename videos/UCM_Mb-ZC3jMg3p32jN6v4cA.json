@@ -5362,8 +5362,9 @@
       "title": "GENSHIN IMPACT 4.7 ARCHON QUEST | DAINSLEIF, YOU DIDN'T FORGET ABOUT ME \ud83e\udd79"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-22T01:00:00Z",
-      "activeLiveChatId": "Cg0KC2ZFVGJvNUhXa0ZBKicKGFVDTV9NYi1aQzNqTWczcDMyak42djRjQRILZkVUYm81SFdrRkE"
+      "actualStartTime": "2024-06-22T01:00:26Z",
+      "actualEndTime": "2024-06-22T04:06:04Z",
+      "scheduledStartTime": "2024-06-22T01:00:00Z"
     }
   },
   "-r_LQqZ9yFg": {
@@ -5373,8 +5374,9 @@
       "title": "Thank you for spending 3 years with me \ud83d\udc9c\ud83d\udc9b\ud83d\udc99"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-22T17:00:00Z",
-      "activeLiveChatId": "Cg0KCy1yX0xRcVo5eUZnKicKGFVDTV9NYi1aQzNqTWczcDMyak42djRjQRILLXJfTFFxWjl5Rmc"
+      "actualStartTime": "2024-06-22T17:02:09Z",
+      "actualEndTime": "2024-06-22T20:37:15Z",
+      "scheduledStartTime": "2024-06-22T17:00:00Z"
     }
   },
   "TMz475wXxTM": {
@@ -5387,6 +5389,32 @@
       "actualStartTime": "2024-06-19T01:01:43Z",
       "actualEndTime": "2024-06-19T04:57:00Z",
       "scheduledStartTime": "2024-06-19T01:00:00Z"
+    }
+  },
+  "NbFNllaZMrE": {
+    "snippet": {
+      "publishedAt": "2024-06-22T01:06:22Z",
+      "channelId": "UCM_Mb-ZC3jMg3p32jN6v4cA",
+      "title": "\ud83d\udd34VERTICAL STREAM - GENSHIN IMPACT 4.7 ARCHON QUEST! #shorts",
+      "private": true
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-22T01:07:23Z",
+      "scheduledStartTime": "2024-06-22T01:05:00Z",
+      "activeLiveChatId": "Cg0KC05iRk5sbGFaTXJFKicKGFVDTV9NYi1aQzNqTWczcDMyak42djRjQRILTmJGTmxsYVpNckU"
+    }
+  },
+  "YmW9waseOts": {
+    "snippet": {
+      "publishedAt": "2024-06-22T20:27:51Z",
+      "channelId": "UCM_Mb-ZC3jMg3p32jN6v4cA",
+      "title": "BIG FALL GUYS COLLAB OOOOO | Unarchived =w="
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-22T20:59:15Z",
+      "actualEndTime": "2024-06-22T22:27:53Z",
+      "scheduledStartTime": "2024-06-22T21:00:00Z",
+      "activeLiveChatId": "Cg0KC1ltVzl3YXNlT3RzKicKGFVDTV9NYi1aQzNqTWczcDMyak42djRjQRILWW1XOXdhc2VPdHM"
     }
   }
 }

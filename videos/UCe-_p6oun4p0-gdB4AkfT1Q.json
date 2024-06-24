@@ -769,8 +769,9 @@
       "title": "Skyrim except I'm a Monk part 2?!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-22T22:00:00Z",
-      "activeLiveChatId": "Cg0KC3pHZWZEaWdNZTI0KicKGFVDZS1fcDZvdW40cDAtZ2RCNEFrZlQxURILekdlZkRpZ01lMjQ"
+      "actualStartTime": "2024-06-22T22:01:01Z",
+      "actualEndTime": "2024-06-23T04:35:39Z",
+      "scheduledStartTime": "2024-06-22T22:00:00Z"
     }
   },
   "iQ_Rhi2bxss": {
@@ -781,8 +782,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-21T22:00:51Z",
-      "scheduledStartTime": "2024-06-21T22:00:00Z",
-      "activeLiveChatId": "Cg0KC2lRX1JoaTJieHNzKicKGFVDZS1fcDZvdW40cDAtZ2RCNEFrZlQxURILaVFfUmhpMmJ4c3M"
+      "actualEndTime": "2024-06-22T02:11:00Z",
+      "scheduledStartTime": "2024-06-21T22:00:00Z"
     }
   }
 }

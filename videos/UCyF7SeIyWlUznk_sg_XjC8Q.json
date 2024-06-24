@@ -1270,8 +1270,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-21T16:15:16Z",
-      "scheduledStartTime": "2024-06-21T16:00:00Z",
-      "activeLiveChatId": "Cg0KCzZMVHc4WFhJTk9nKicKGFVDeUY3U2VJeVdsVXpua19zZ19YakM4URILNkxUdzhYWElOT2c"
+      "actualEndTime": "2024-06-21T22:14:38Z",
+      "scheduledStartTime": "2024-06-21T16:00:00Z"
     }
   },
   "EC0xnFzwpc4": {
@@ -1312,8 +1312,32 @@
       "title": "SNITCHES GET STITCHES\u3010MEMBERS ONLY\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-22T20:48:53Z",
+      "actualEndTime": "2024-06-23T01:37:17Z",
       "scheduledStartTime": "2024-06-22T20:30:00Z",
       "activeLiveChatId": "Cg0KC1FyT0R1OTlkY0o4KicKGFVDeUY3U2VJeVdsVXpua19zZ19YakM4URILUXJPRHU5OWRjSjg"
+    }
+  },
+  "D9NzfAm4PaY": {
+    "snippet": {
+      "publishedAt": "2024-06-23T02:46:09Z",
+      "channelId": "UCyF7SeIyWlUznk_sg_XjC8Q",
+      "title": "yay! i don't have a driver's license! \u3010EUROTRUCK SIMULATOR 2\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-26T16:00:00Z",
+      "activeLiveChatId": "Cg0KC0Q5TnpmQW00UGFZKicKGFVDeUY3U2VJeVdsVXpua19zZ19YakM4URILRDlOemZBbTRQYVk"
+    }
+  },
+  "Ae10IkbzIIc": {
+    "snippet": {
+      "publishedAt": "2024-06-23T02:43:35Z",
+      "channelId": "UCyF7SeIyWlUznk_sg_XjC8Q",
+      "title": "WE'VE FRICKED THEM ALL \ud83d\udca6"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-25T20:30:00Z",
+      "activeLiveChatId": "Cg0KC0FlMTBJa2J6SUljKicKGFVDeUY3U2VJeVdsVXpua19zZ19YakM4URILQWUxMElrYnpJSWM"
     }
   }
 }

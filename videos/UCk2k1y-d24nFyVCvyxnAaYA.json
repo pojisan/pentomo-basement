@@ -3328,5 +3328,28 @@
       "actualEndTime": "2024-06-21T04:25:29Z",
       "scheduledStartTime": "2024-06-20T23:00:00Z"
     }
+  },
+  "fZ-E1egyBhI": {
+    "snippet": {
+      "publishedAt": "2024-06-23T20:46:21Z",
+      "channelId": "UCk2k1y-d24nFyVCvyxnAaYA",
+      "title": "i spent a whole week playing minecraft"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T22:54:26Z",
+      "scheduledStartTime": "2024-06-23T23:00:00Z",
+      "activeLiveChatId": "Cg0KC2ZaLUUxZWd5QmhJKicKGFVDazJrMXktZDI0bkZ5VkN2eXhuQWFZQRILZlotRTFlZ3lCaEk"
+    }
+  },
+  "7FdGF4FHDNU": {
+    "snippet": {
+      "publishedAt": "2024-06-23T21:21:52Z",
+      "channelId": "UCk2k1y-d24nFyVCvyxnAaYA",
+      "title": "I SURVIVED!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-24T23:00:00Z",
+      "activeLiveChatId": "Cg0KCzdGZEdGNEZIRE5VKicKGFVDazJrMXktZDI0bkZ5VkN2eXhuQWFZQRILN0ZkR0Y0RkhETlU"
+    }
   }
 }

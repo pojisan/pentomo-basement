@@ -3784,8 +3784,33 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-21T19:55:48Z",
-      "scheduledStartTime": "2024-06-21T20:00:00Z",
-      "activeLiveChatId": "Cg0KC2c4cmlkZS1lTjIwKicKGFVDVEZDU0NQdnFqWEVzM3pxOTFhZU9WZxILZzhyaWRlLWVOMjA"
+      "actualEndTime": "2024-06-21T23:27:07Z",
+      "scheduledStartTime": "2024-06-21T20:00:00Z"
+    }
+  },
+  "UoOTr80re98": {
+    "snippet": {
+      "publishedAt": "2024-06-22T17:46:48Z",
+      "channelId": "UCTFCSCPvqjXEs3zq91aeOVg",
+      "title": "Pan my beloved",
+      "private": true
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-22T17:59:36Z",
+      "scheduledStartTime": "2024-06-22T18:00:00Z",
+      "activeLiveChatId": "Cg0KC1VvT1RyODByZTk4KicKGFVDVEZDU0NQdnFqWEVzM3pxOTFhZU9WZxILVW9PVHI4MHJlOTg"
+    }
+  },
+  "El1HyI5dzVg": {
+    "snippet": {
+      "publishedAt": "2024-06-22T18:04:22Z",
+      "channelId": "UCTFCSCPvqjXEs3zq91aeOVg",
+      "title": "Pan my beloved"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-22T18:05:21Z",
+      "actualEndTime": "2024-06-22T23:17:24Z",
+      "scheduledStartTime": "2024-06-22T18:05:00Z"
     }
   }
 }

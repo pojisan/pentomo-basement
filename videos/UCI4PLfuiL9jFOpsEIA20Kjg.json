@@ -7852,8 +7852,9 @@
       "title": "IT WAS ME BARRY! or... or maybe it wasnt... [Dark Souls 2 SotFS] Player/Equipment Stat Randomizer"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-22T19:00:00Z",
-      "activeLiveChatId": "Cg0KC3hyX1B0U0R6TlQwKicKGFVDSTRQTGZ1aUw5akZPcHNFSUEyMEtqZxILeHJfUHRTRHpOVDA"
+      "actualStartTime": "2024-06-22T19:29:20Z",
+      "actualEndTime": "2024-06-23T05:40:00Z",
+      "scheduledStartTime": "2024-06-22T19:30:00Z"
     }
   },
   "saxE8UeRKVw": {
@@ -7866,6 +7867,18 @@
       "actualStartTime": "2024-06-20T18:08:17Z",
       "actualEndTime": "2024-06-20T22:46:03Z",
       "scheduledStartTime": "2024-06-20T18:00:00Z"
+    }
+  },
+  "9btQnt0GDFE": {
+    "snippet": {
+      "publishedAt": "2024-06-22T09:04:04Z",
+      "channelId": "UCI4PLfuiL9jFOpsEIA20Kjg",
+      "title": "I cant sleep so imma work on stuff [Work Stream]"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-22T09:15:56Z",
+      "actualEndTime": "2024-06-22T11:21:32Z",
+      "scheduledStartTime": "2024-06-22T09:15:00Z"
     }
   }
 }

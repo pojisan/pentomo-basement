@@ -1136,8 +1136,21 @@
       "title": "You're so CUTE when you try to run!\u3010Dead By Daylight\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-22T00:00:00Z",
-      "activeLiveChatId": "Cg0KC3k5WlNrVUQzb1VBKicKGFVDbzl3QnowRmtKd2lMZWFnQjh0V1hDZxILeTlaU2tVRDNvVUE"
+      "actualStartTime": "2024-06-21T23:55:46Z",
+      "actualEndTime": "2024-06-22T01:55:39Z",
+      "scheduledStartTime": "2024-06-22T00:00:00Z"
+    }
+  },
+  "rq7FD-K1DAQ": {
+    "snippet": {
+      "publishedAt": "2024-06-23T20:03:52Z",
+      "channelId": "UCo9wBz0FkJwiLeagB8tWXCg",
+      "title": "Time to start over... Again\u3010Minecraft VSMP\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T21:57:23Z",
+      "actualEndTime": "2024-06-24T00:54:53Z",
+      "scheduledStartTime": "2024-06-23T22:00:00Z"
     }
   }
 }

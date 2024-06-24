@@ -711,8 +711,9 @@
       "title": "\u3010School Labyrinth\u3011Kid for a day :D @KlaraCharmwood @RyomaBarrenwort\u3010Twisty Amanozako | NIJISANJI EN\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-22T02:00:00Z",
-      "activeLiveChatId": "Cg0KC1R3QnZmZXRMX0g0KicKGFVDVUkxcXBqSlNFYmd6ZGx3bXBkVm1NdxILVHdCdmZldExfSDQ"
+      "actualStartTime": "2024-06-22T02:04:25Z",
+      "actualEndTime": "2024-06-22T04:11:12Z",
+      "scheduledStartTime": "2024-06-22T02:00:00Z"
     }
   },
   "1rq_zHf0uYM": {
@@ -722,8 +723,9 @@
       "title": "\u3010The Mortuary Assistant\u3011Third Times the Charm! \u26b0\ufe0f\u2661.* \u3010Twisty Amanozako | NIJISANJI EN\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-22T23:00:00Z",
-      "activeLiveChatId": "Cg0KCzFycV96SGYwdVlNKicKGFVDVUkxcXBqSlNFYmd6ZGx3bXBkVm1NdxILMXJxX3pIZjB1WU0"
+      "actualStartTime": "2024-06-23T06:46:11Z",
+      "actualEndTime": "2024-06-23T10:12:37Z",
+      "scheduledStartTime": "2024-06-23T06:45:00Z"
     }
   },
   "7KAepsIfpKE": {
@@ -744,7 +746,7 @@
       "title": "\u3010Minecraft\u3011What are we doing\u250aSurvival Let's Play #10\u3010Twisty Amanozako | NIJISANJI EN\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-21T23:00:00Z",
+      "scheduledStartTime": "2024-06-29T06:45:00Z",
       "activeLiveChatId": "Cg0KC1A4QW1CR29FR3JjKicKGFVDVUkxcXBqSlNFYmd6ZGx3bXBkVm1NdxILUDhBbUJHb0VHcmM"
     }
   },
@@ -837,6 +839,30 @@
       "publishedAt": "2024-06-21T05:10:16Z",
       "channelId": "UCUI1qpjJSEbgzdlwmpdVmMw",
       "title": "\u3010Touch of Hope | Yui Makino \u3011Twisty Amanozako ver. \u2661.*"
+    }
+  },
+  "WZc5u9jMQ-U": {
+    "snippet": {
+      "publishedAt": "2024-06-22T04:43:31Z",
+      "channelId": "UCUI1qpjJSEbgzdlwmpdVmMw",
+      "title": "\u3010Call of Duty: Black Ops III\u3011level 30 god\u3010Twisty Amanozako | NIJISANJI EN\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-22T04:58:06Z",
+      "actualEndTime": "2024-06-22T07:28:51Z",
+      "scheduledStartTime": "2024-06-22T05:00:00Z"
+    }
+  },
+  "fOB3bM164Tc": {
+    "snippet": {
+      "publishedAt": "2024-06-22T13:17:44Z",
+      "channelId": "UCUI1qpjJSEbgzdlwmpdVmMw",
+      "title": "\u3010League of Legends\u3011GOMEN!!\u3010Twisty Amanozako | NIJISANJI EN\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-22T13:58:30Z",
+      "actualEndTime": "2024-06-22T16:27:12Z",
+      "scheduledStartTime": "2024-06-22T13:45:00Z"
     }
   }
 }

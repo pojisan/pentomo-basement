@@ -9474,8 +9474,21 @@
       "title": "AMA: I Survived 3 Years in a Vtuber Company\u3010Phase-Connect\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-22T01:00:00Z",
-      "activeLiveChatId": "Cg0KC2FrZDlvUnJMSHk0KicKGFVDSjQ2WVRZQlFWWHNmc3A4LUhyeW9VQRILYWtkOW9SckxIeTQ"
+      "actualStartTime": "2024-06-22T01:01:49Z",
+      "actualEndTime": "2024-06-22T04:42:27Z",
+      "scheduledStartTime": "2024-06-22T01:00:00Z"
+    }
+  },
+  "KP3aMODJB48": {
+    "snippet": {
+      "publishedAt": "2024-06-22T21:03:42Z",
+      "channelId": "UCJ46YTYBQVXsfsp8-HryoUA",
+      "title": "Chained Together w/ @TenmaMaemi @eimiisami @FujikuraUruka"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T01:00:32Z",
+      "actualEndTime": "2024-06-23T03:18:26Z",
+      "scheduledStartTime": "2024-06-23T01:00:00Z"
     }
   }
 }

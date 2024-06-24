@@ -1536,11 +1536,36 @@
     "snippet": {
       "publishedAt": "2024-06-21T05:54:14Z",
       "channelId": "UCnNLZWjl4GvVF4s8zBT9_kA",
-      "title": "\u3010Don't Scream\u3011\u53eb\u3070\u306a\u304d\u3083\u826f\u3044\u3060\u3051\uff1f\u6700\u901f\u30af\u30ea\u30a2\u3057\u307e\u3059\u3051\u3069\u3010\u7d62\u4e16\u30e6\u30a6 / Phase Connect\u3011"
+      "title": "\u3010Don't Scream/\uff18\u756a\u306e\u308a\u3070\u3011\u53eb\u3070\u306a\u304d\u3083\u826f\u3044\u3060\u3051\uff1f\u6700\u901f\u30af\u30ea\u30a2\u3057\u307e\u3059\u3051\u3069\u3010\u7d62\u4e16\u30e6\u30a6 / Phase Connect\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-22T11:00:00Z",
-      "activeLiveChatId": "Cg0KC3FJSTNDY3ZCLU1zKicKGFVDbk5MWldqbDRHdlZGNHM4ekJUOV9rQRILcUlJM0NjdkItTXM"
+      "actualStartTime": "2024-06-22T10:57:55Z",
+      "actualEndTime": "2024-06-22T13:37:41Z",
+      "scheduledStartTime": "2024-06-22T11:00:00Z"
+    }
+  },
+  "ermHBsJxDfI": {
+    "snippet": {
+      "publishedAt": "2024-06-23T08:20:02Z",
+      "channelId": "UCnNLZWjl4GvVF4s8zBT9_kA",
+      "title": "\u3010Hand Cam / \u624b\u5143\u30ab\u30e1\u30e9\u3011\u7c98\u571f\u3067\u3042\u305d\u307c\u3046\uff01\uff08\u98fd\u304d\u305f\u3089\u30a2\u30a4\u30ed\u30f3\u30d3\u30fc\u30ba\u3059\u308b\uff09\u3010\u7d62\u4e16\u30e6\u30a6 / PhaseConnect\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T09:30:22Z",
+      "actualEndTime": "2024-06-23T12:54:42Z",
+      "scheduledStartTime": "2024-06-23T09:30:00Z"
+    }
+  },
+  "w65-1qexiAo": {
+    "snippet": {
+      "publishedAt": "2024-06-23T22:15:34Z",
+      "channelId": "UCnNLZWjl4GvVF4s8zBT9_kA",
+      "title": "\u30106/24 \u671d\u6d3b\u96d1\u8ac7\u3011\u6885\u96e8\u3067\u3059\u304b\uff1f\u305d\u3046\u306a\u3093\u3067\u3059\u304b\uff1f\u6c17\u5727\u306b\u8ca0\u3051\u3066\u307e\u305b\u3093\u304b\uff1f\u3010\u7d62\u4e16\u30e6\u30a6 / PhaseConnect\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T22:28:32Z",
+      "actualEndTime": "2024-06-24T00:26:22Z",
+      "scheduledStartTime": "2024-06-23T22:30:00Z"
     }
   }
 }

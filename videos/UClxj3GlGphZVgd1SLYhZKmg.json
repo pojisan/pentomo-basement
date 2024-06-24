@@ -540,8 +540,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-21T15:01:12Z",
       "actualEndTime": "2024-06-21T18:00:57Z",
-      "scheduledStartTime": "2024-06-21T15:00:00Z",
-      "activeLiveChatId": "Cg0KC3N1Q2xZSHpfM19nKicKGFVDbHhqM0dsR3BoWlZnZDFTTFloWkttZxILc3VDbFlIel8zX2c"
+      "scheduledStartTime": "2024-06-21T15:00:00Z"
     }
   },
   "iwvJ168gd5s": {
@@ -551,8 +550,9 @@
       "title": "\u3010MINECRAFT VSMP\u3011Fun adventures in the big VTuber server!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-22T16:00:00Z",
-      "activeLiveChatId": "Cg0KC2l3dkoxNjhnZDVzKicKGFVDbHhqM0dsR3BoWlZnZDFTTFloWkttZxILaXd2SjE2OGdkNXM"
+      "actualStartTime": "2024-06-22T16:05:07Z",
+      "actualEndTime": "2024-06-22T20:25:02Z",
+      "scheduledStartTime": "2024-06-22T16:00:00Z"
     }
   },
   "09imRb7E0-g": {
@@ -562,8 +562,9 @@
       "title": "\u3010MINECRAFT VSMP\u3011A duck is lost in Minecraft!!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-22T11:00:00Z",
-      "activeLiveChatId": "Cg0KCzA5aW1SYjdFMC1nKicKGFVDbHhqM0dsR3BoWlZnZDFTTFloWkttZxILMDlpbVJiN0UwLWc"
+      "actualStartTime": "2024-06-22T11:12:23Z",
+      "actualEndTime": "2024-06-22T14:05:09Z",
+      "scheduledStartTime": "2024-06-22T11:15:00Z"
     }
   },
   "YHSZvrUZ5iI": {
@@ -585,8 +586,9 @@
       "title": "\u3010ELDEN RING\u3011Shadow of the Erdtree! - First Playthrough"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-23T16:00:00Z",
-      "activeLiveChatId": "Cg0KC2RIb1RoVjVIWTZzKicKGFVDbHhqM0dsR3BoWlZnZDFTTFloWkttZxILZEhvVGhWNUhZNnM"
+      "actualStartTime": "2024-06-23T16:00:51Z",
+      "actualEndTime": "2024-06-23T19:22:46Z",
+      "scheduledStartTime": "2024-06-23T16:00:00Z"
     }
   },
   "tfZXzSGPwDU": {
@@ -608,8 +610,9 @@
       "title": "\u3010ASMR\u3011Cute Girl Helping You Relax with Book & Writing Triggers \u2661  Whispering ~ Page Turning \u2661"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-23T21:00:00Z",
-      "activeLiveChatId": "Cg0KC09Ra1BKV1ZMQ3RvKicKGFVDbHhqM0dsR3BoWlZnZDFTTFloWkttZxILT1FrUEpXVkxDdG8"
+      "actualStartTime": "2024-06-23T21:09:56Z",
+      "actualEndTime": "2024-06-23T22:41:35Z",
+      "scheduledStartTime": "2024-06-23T21:00:00Z"
     }
   },
   "yMqO4zT_Dw8": {
@@ -619,8 +622,63 @@
       "title": "\u30101ST KARAOKE\u3011Can the Duck Sing?! - 10K Celebration!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-24T16:00:00Z",
+      "scheduledStartTime": "2024-06-29T16:00:00Z",
       "activeLiveChatId": "Cg0KC3lNcU80elRfRHc4KicKGFVDbHhqM0dsR3BoWlZnZDFTTFloWkttZxILeU1xTzR6VF9Edzg"
+    }
+  },
+  "8UE7u9C3WXc": {
+    "snippet": {
+      "publishedAt": "2024-06-23T09:39:39Z",
+      "channelId": "UClxj3GlGphZVgd1SLYhZKmg",
+      "title": "\u3010ELDEN RING\u3011Duck gets lost in the Shadow Lands! - Shadow of the Erdtree!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-24T16:00:00Z",
+      "activeLiveChatId": "Cg0KCzhVRTd1OUMzV1hjKicKGFVDbHhqM0dsR3BoWlZnZDFTTFloWkttZxILOFVFN3U5QzNXWGM"
+    }
+  },
+  "xvRLXoAcqcg": {
+    "snippet": {
+      "publishedAt": "2024-06-23T09:40:41Z",
+      "channelId": "UClxj3GlGphZVgd1SLYhZKmg",
+      "title": "\u3010MINECRAFT VSMP\u3011Cozy and chaotic times in the big VTuber server!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-25T16:00:00Z",
+      "activeLiveChatId": "Cg0KC3h2UkxYb0FjcWNnKicKGFVDbHhqM0dsR3BoWlZnZDFTTFloWkttZxILeHZSTFhvQWNxY2c"
+    }
+  },
+  "YMf_b41VDIM": {
+    "snippet": {
+      "publishedAt": "2024-06-23T11:29:46Z",
+      "channelId": "UClxj3GlGphZVgd1SLYhZKmg",
+      "title": "\u3010GUILTY GEAR STRIVE\u3011Practicing with my main Baiken! And viewer battles!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-28T16:00:00Z",
+      "activeLiveChatId": "Cg0KC1lNZl9iNDFWRElNKicKGFVDbHhqM0dsR3BoWlZnZDFTTFloWkttZxILWU1mX2I0MVZESU0"
+    }
+  },
+  "egiSPIKAge0": {
+    "snippet": {
+      "publishedAt": "2024-06-23T11:28:22Z",
+      "channelId": "UClxj3GlGphZVgd1SLYhZKmg",
+      "title": "\u30103DIO ASMR\u3011Minecraft Gaming ASMR with a Cute Duck \u2661 Whispering ~ Block Breaking \u2661"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-27T20:00:00Z",
+      "activeLiveChatId": "Cg0KC2VnaVNQSUtBZ2UwKicKGFVDbHhqM0dsR3BoWlZnZDFTTFloWkttZxILZWdpU1BJS0FnZTA"
+    }
+  },
+  "X7lSRwI1tIM": {
+    "snippet": {
+      "publishedAt": "2024-06-23T11:32:02Z",
+      "channelId": "UClxj3GlGphZVgd1SLYhZKmg",
+      "title": "\u3010LETHAL COMPANY\u3011Girls trapped on an ALIEN planet!!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-26T17:00:00Z",
+      "activeLiveChatId": "Cg0KC1g3bFNSd0kxdElNKicKGFVDbHhqM0dsR3BoWlZnZDFTTFloWkttZxILWDdsU1J3STF0SU0"
     }
   }
 }

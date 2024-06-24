@@ -122,8 +122,9 @@
       "title": "\u3010\u2665 \u2661H U N I E \u2661 \u2665 \u3011Moe ... Moe ... NYA~N!!!!!!!!!!!!!!!!!!!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-22T22:00:00Z",
-      "activeLiveChatId": "Cg0KC3dpVXVObjAzWjFBKicKGFVDb0FRc2MtRFEwTWpmVHAwNTlvdFFBdxILd2lVdU5uMDNaMUE"
+      "actualStartTime": "2024-06-22T21:59:33Z",
+      "actualEndTime": "2024-06-22T23:36:18Z",
+      "scheduledStartTime": "2024-06-22T22:00:00Z"
     }
   },
   "a__Nxrvu-SA": {
@@ -1607,7 +1608,8 @@
     "snippet": {
       "publishedAt": "2024-06-16T19:05:19Z",
       "channelId": "UCoAQsc-DQ0MjfTp059otQAw",
-      "title": "\u3010Yu-Gi-Oh! Master Duel\u3011What's better than one evil woman? TWO !!!"
+      "title": "\u3010Yu-Gi-Oh! Master Duel\u3011What's better than one evil woman? TWO !!!",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-21T00:00:00Z",
@@ -1645,6 +1647,7 @@
       "title": "6.23 HAPPY BIRTHDAY, RICCHAN !!!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-24T00:04:31Z",
       "scheduledStartTime": "2024-06-24T00:00:00Z",
       "activeLiveChatId": "Cg0KC1NKYzZna2w5NHJNKicKGFVDb0FRc2MtRFEwTWpmVHAwNTlvdFFBdxILU0pjNmdrbDk0ck0"
     }
@@ -1654,6 +1657,13 @@
       "publishedAt": "2024-06-21T19:00:34Z",
       "channelId": "UCoAQsc-DQ0MjfTp059otQAw",
       "title": "And THAT'S why they call me RIZZY RUSE !!"
+    }
+  },
+  "P7lcvkG9sk8": {
+    "snippet": {
+      "publishedAt": "2024-06-23T19:00:10Z",
+      "channelId": "UCoAQsc-DQ0MjfTp059otQAw",
+      "title": "FACT: There are NO female perverts!!!"
     }
   }
 }

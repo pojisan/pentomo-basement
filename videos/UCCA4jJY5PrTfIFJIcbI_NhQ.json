@@ -7506,8 +7506,9 @@
       "title": "ENCORE Karaoke Relay\ud83e\udde1 Let's celebrate 1 month of Encore together!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-21T23:45:00Z",
-      "activeLiveChatId": "Cg0KC0ZPeU5udzNHcFVjKicKGFVDQ0E0akpZNVByVGZJRkpJY2JJX05oURILRk95Tm53M0dwVWM"
+      "actualStartTime": "2024-06-21T23:41:02Z",
+      "actualEndTime": "2024-06-22T00:21:17Z",
+      "scheduledStartTime": "2024-06-21T23:45:00Z"
     }
   },
   "pgOcdxUOiJE": {
@@ -7519,6 +7520,13 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-24T02:00:00Z",
       "activeLiveChatId": "Cg0KC3BnT2NkeFVPaUpFKicKGFVDQ0E0akpZNVByVGZJRkpJY2JJX05oURILcGdPY2R4VU9pSkU"
+    }
+  },
+  "OKCaow5IegQ": {
+    "snippet": {
+      "publishedAt": "2024-06-23T01:00:17Z",
+      "channelId": "UCCA4jJY5PrTfIFJIcbI_NhQ",
+      "title": "This is MY SONG?! #nikke #vtuber #vsinger"
     }
   }
 }

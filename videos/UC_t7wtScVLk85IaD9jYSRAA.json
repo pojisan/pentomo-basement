@@ -139,7 +139,7 @@
     "snippet": {
       "publishedAt": "2024-05-17T14:31:29Z",
       "channelId": "UC_t7wtScVLk85IaD9jYSRAA",
-      "title": "\u3010SCHEDULE\u3011JUN 17TH - JUN 23RD\u3010Yume+ | Aimee\u3011"
+      "title": "\u3010SCHEDULE\u3011JUN 24TH - JUN 30TH\u3010Yume+ | Aimee\u3011"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2026-05-30T14:45:00Z",
@@ -481,8 +481,9 @@
       "title": "\u3010Karaoke\u3011Singing my favourite game songs!\u3010Yume+ | Aimee\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-22T01:30:00Z",
-      "activeLiveChatId": "Cg0KC2VCXzhfc0tMNHFNKicKGFVDX3Q3d3RTY1ZMazg1SWFEOWpZU1JBQRILZUJfOF9zS0w0cU0"
+      "actualStartTime": "2024-06-22T03:01:32Z",
+      "actualEndTime": "2024-06-22T06:15:40Z",
+      "scheduledStartTime": "2024-06-22T03:00:00Z"
     }
   },
   "Bd44QbceHM4": {
@@ -492,8 +493,9 @@
       "title": "\u3010AI Chat\u3011Feeding into my delusions and talking to the Ultimate Life Form\u3010Yume+ | Aimee\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-23T01:30:00Z",
-      "activeLiveChatId": "Cg0KC0JkNDRRYmNlSE00KicKGFVDX3Q3d3RTY1ZMazg1SWFEOWpZU1JBQRILQmQ0NFFiY2VITTQ"
+      "actualStartTime": "2024-06-23T01:31:06Z",
+      "actualEndTime": "2024-06-23T06:11:52Z",
+      "scheduledStartTime": "2024-06-23T01:30:00Z"
     }
   },
   "ol2BRHAmm8M": {
@@ -513,6 +515,18 @@
       "actualStartTime": "2024-06-21T09:33:35Z",
       "actualEndTime": "2024-06-21T14:12:01Z",
       "scheduledStartTime": "2024-06-21T09:30:00Z"
+    }
+  },
+  "WNguo8rLq_I": {
+    "snippet": {
+      "publishedAt": "2024-06-23T15:45:15Z",
+      "channelId": "UC_t7wtScVLk85IaD9jYSRAA",
+      "title": "\u3010AI: The Somnium Files\u3011Murder mystery? AI Assistant?\u3010Yume+ | Aimee\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-24T00:59:54Z",
+      "scheduledStartTime": "2024-06-24T01:00:00Z",
+      "activeLiveChatId": "Cg0KC1dOZ3VvOHJMcV9JKicKGFVDX3Q3d3RTY1ZMazg1SWFEOWpZU1JBQRILV05ndW84ckxxX0k"
     }
   }
 }

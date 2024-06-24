@@ -1822,8 +1822,20 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-21T20:58:25Z",
-      "scheduledStartTime": "2024-06-21T21:00:00Z",
-      "activeLiveChatId": "Cg0KC0tBNGxIYzJLclp3KicKGFVDLUxBbkZMWFU5QnVzRnY3bjhsRmo4ZxILS0E0bEhjMktyWnc"
+      "actualEndTime": "2024-06-21T22:59:38Z",
+      "scheduledStartTime": "2024-06-21T21:00:00Z"
+    }
+  },
+  "wp_rPoWIJhY": {
+    "snippet": {
+      "publishedAt": "2024-06-23T11:47:48Z",
+      "channelId": "UC-LAnFLXU9BusFv7n8lFj8g",
+      "title": "\u3010POKER CHASE COLLAB\u3011Ive never play this game RNG PLS\u3010Sarugaku Leon Jr. | Globie\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T19:02:44Z",
+      "actualEndTime": "2024-06-23T21:48:51Z",
+      "scheduledStartTime": "2024-06-23T19:00:00Z"
     }
   }
 }

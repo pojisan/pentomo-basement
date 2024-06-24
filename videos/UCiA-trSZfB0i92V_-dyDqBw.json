@@ -4719,8 +4719,9 @@
       "title": "\u3010 \u304a\u6b4c!!\u3011J-pop\u591a\u3081!! \u597d\u304d\u306a\u6b4c\u3044\u3063\u3071\u3044\u6b4c\u3046\uff01\uff01\u3010\u5009\u6301\u3081\u308b\u3068/\u306b\u3058\u3055\u3093\u3058\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-22T07:30:00Z",
-      "activeLiveChatId": "Cg0KC2pMc2paTGZTdVlvKicKGFVDaUEtdHJTWmZCMGk5MlZfLWR5RHFCdxILakxzalpMZlN1WW8"
+      "actualStartTime": "2024-06-22T07:30:11Z",
+      "actualEndTime": "2024-06-22T08:44:03Z",
+      "scheduledStartTime": "2024-06-22T07:30:00Z"
     }
   },
   "xy6_AWaNQYc": {
@@ -4728,6 +4729,30 @@
       "publishedAt": "2024-06-21T11:00:56Z",
       "channelId": "UCiA-trSZfB0i92V_-dyDqBw",
       "title": "\u3010\u6b4c\u3063\u3066\u307f\u305f\u3011\u53ef\u611b\u3044\u3042\u306e\u5b50\u304c\u6c17\u306b\u3090\u3089\u306a\u3044 / \u306a\u308b\u307f\u3084 \u3010\u5009\u6301\u3081\u308b\u3068 / \u306b\u3058\u3055\u3093\u3058\u3011"
+    }
+  },
+  "nFFPxamEe5U": {
+    "snippet": {
+      "publishedAt": "2024-06-22T14:40:32Z",
+      "channelId": "UCiA-trSZfB0i92V_-dyDqBw",
+      "title": "\u3010 #\u306b\u3058GTA \u30117\u65e5\u76ee!! \u8857\u306e\u5e73\u548c\u306f\u304a\u308c\u3089\u304c\u5b88\u308b\uff01\u3010\u5009\u6301\u3081\u308b\u3068/\u306b\u3058\u3055\u3093\u3058\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-22T14:52:37Z",
+      "actualEndTime": "2024-06-22T20:28:03Z",
+      "scheduledStartTime": "2024-06-22T14:50:00Z"
+    }
+  },
+  "dZV5Q3UU1gQ": {
+    "snippet": {
+      "publishedAt": "2024-06-23T09:59:18Z",
+      "channelId": "UCiA-trSZfB0i92V_-dyDqBw",
+      "title": "\u3010 #\u306b\u3058GTA \u30118\u65e5\u76ee!! \u4ef2\u9593\u3068\u3044\u3063\u3057\u3087\u306b\u5f37\u304f\u306a\u308b!!\u3010\u5009\u6301\u3081\u308b\u3068/\u306b\u3058\u3055\u3093\u3058\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T10:15:05Z",
+      "actualEndTime": "2024-06-23T15:35:41Z",
+      "scheduledStartTime": "2024-06-23T10:15:00Z"
     }
   }
 }

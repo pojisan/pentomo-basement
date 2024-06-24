@@ -7362,8 +7362,9 @@
       "title": "Let's Learn Japanese Together! \u3010Shashingo\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-23T05:00:00Z",
-      "activeLiveChatId": "Cg0KC2psM08tT256MTh3KicKGFVDeF9BNmZuczlxS2p5YnUtNmswdXIxZxILamwzTy1PbnoxOHc"
+      "actualStartTime": "2024-06-23T05:01:05Z",
+      "actualEndTime": "2024-06-23T09:13:42Z",
+      "scheduledStartTime": "2024-06-23T05:00:00Z"
     }
   },
   "KMgvrgwe6FE": {
@@ -7373,8 +7374,9 @@
       "title": "\u3010HANDCAM STREAM \u3011Embroidery is harder than it looks, but it's fun!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-22T05:00:00Z",
-      "activeLiveChatId": "Cg0KC0tNZ3ZyZ3dlNkZFKicKGFVDeF9BNmZuczlxS2p5YnUtNmswdXIxZxILS01ndnJnd2U2RkU"
+      "actualStartTime": "2024-06-22T05:01:18Z",
+      "actualEndTime": "2024-06-22T11:01:28Z",
+      "scheduledStartTime": "2024-06-22T05:00:00Z"
     }
   },
   "mPJnFdP98K4": {
@@ -7387,6 +7389,13 @@
       "actualStartTime": "2024-06-21T01:01:16Z",
       "actualEndTime": "2024-06-21T06:33:35Z",
       "scheduledStartTime": "2024-06-21T01:00:00Z"
+    }
+  },
+  "RrLDffsb0eU": {
+    "snippet": {
+      "publishedAt": "2024-06-22T01:58:34Z",
+      "channelId": "UCx_A6fns9qKjybu-6k0ur1g",
+      "title": "DO YOU LIKE FEET?!?"
     }
   }
 }

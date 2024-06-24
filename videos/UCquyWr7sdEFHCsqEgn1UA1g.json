@@ -1211,9 +1211,11 @@
     "snippet": {
       "publishedAt": "2024-06-16T20:21:00Z",
       "channelId": "UCquyWr7sdEFHCsqEgn1UA1g",
-      "title": "MiniVerse Mini Spa - Opening and Building! | HANDCAM"
+      "title": "MiniVerse Mini Spa - Opening and Building! | HANDCAM",
+      "private": true
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-22T15:59:55Z",
       "scheduledStartTime": "2024-06-22T16:00:00Z",
       "activeLiveChatId": "Cg0KCzdBbmZfNE9ITVhNKicKGFVDcXV5V3I3c2RFRkhDc3FFZ24xVUExZxILN0FuZl80T0hNWE0"
     }

@@ -56,10 +56,10 @@
     "snippet": {
       "publishedAt": "2024-05-14T11:37:39Z",
       "channelId": "UCKpiJQAX_Gnc5rjRB8yXT0A",
-      "title": "SCHEDULE FOR 6.16 - 6.22"
+      "title": "SCHEDULE FOR 6.23 - 6.29"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-30T14:00:00Z"
+      "scheduledStartTime": "2024-07-31T14:00:00Z"
     }
   },
   "DfqFV3-sbX4": {
@@ -295,8 +295,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-21T14:58:53Z",
       "actualEndTime": "2024-06-21T17:09:19Z",
-      "scheduledStartTime": "2024-06-21T15:00:00Z",
-      "activeLiveChatId": "Cg0KC1hyT2lBcW9wVENRKicKGFVDS3BpSlFBWF9HbmM1cmpSQjh5WFQwQRILWHJPaUFxb3BUQ1E"
+      "scheduledStartTime": "2024-06-21T15:00:00Z"
     }
   },
   "fkn5MOduSgQ": {
@@ -322,10 +321,11 @@
     "snippet": {
       "publishedAt": "2024-06-21T03:38:35Z",
       "channelId": "UCKpiJQAX_Gnc5rjRB8yXT0A",
-      "title": "\u3010Hades 2\u3011I've a Confession to Make\u3010OshiLink EN | Audica Sevens\u3011"
+      "title": "\u3010Hades 2\u3011I've a Confession to Make\u3010OshiLink EN | Audica Sevens\u3011",
+      "private": true
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-24T13:00:00Z"
+      "scheduledStartTime": "2024-06-23T14:00:00Z"
     }
   },
   "422t70r-vqI": {
@@ -335,7 +335,17 @@
       "title": "\u3010Ghost Exorcism Inc\u3011Ghost Hunting with Wifey @RinaAstera \u3010OshiLink EN | Audica Sevens\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-27T14:00:00Z"
+      "scheduledStartTime": "2024-06-27T13:00:00Z"
+    }
+  },
+  "sm0QvZQjaWU": {
+    "snippet": {
+      "publishedAt": "2024-06-22T03:50:14Z",
+      "channelId": "UCKpiJQAX_Gnc5rjRB8yXT0A",
+      "title": "\u3010Little Nightmares\u3011Is This The End?\u3010OshiLink EN | Audica Sevens\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-24T13:00:00Z"
     }
   }
 }

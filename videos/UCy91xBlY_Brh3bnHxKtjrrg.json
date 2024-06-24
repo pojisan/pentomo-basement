@@ -4459,5 +4459,29 @@
       "actualEndTime": "2024-06-20T16:05:20Z",
       "scheduledStartTime": "2024-06-20T14:00:00Z"
     }
+  },
+  "4hHuzXenVuY": {
+    "snippet": {
+      "publishedAt": "2024-06-22T05:52:32Z",
+      "channelId": "UCy91xBlY_Brh3bnHxKtjrrg",
+      "title": "DOPPIO VS. VER: Yu-Gi-Oh! Master Duel!\u3010NIJISANJI EN | Doppio Dropscythe\u3011",
+      "private": true
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-22T14:00:00Z",
+      "activeLiveChatId": "Cg0KCzRoSHV6WGVuVnVZKicKGFVDeTkxeEJsWV9CcmgzYm5IeEt0anJyZxILNGhIdXpYZW5WdVk"
+    }
+  },
+  "nZGjZNGxPD0": {
+    "snippet": {
+      "publishedAt": "2024-06-23T02:16:38Z",
+      "channelId": "UCy91xBlY_Brh3bnHxKtjrrg",
+      "title": "NIJISANJI BOYS IN THE RING AGAIN! [Super Smash Bros. ULTIMATE]\u3010NIJISANJI EN | Doppio Dropscythe\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T14:27:53Z",
+      "actualEndTime": "2024-06-23T18:03:36Z",
+      "scheduledStartTime": "2024-06-23T14:20:00Z"
+    }
   }
 }

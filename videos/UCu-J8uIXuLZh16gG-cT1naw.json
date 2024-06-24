@@ -8856,19 +8856,33 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-21T19:59:57Z",
-      "scheduledStartTime": "2024-06-21T20:00:00Z",
-      "activeLiveChatId": "Cg0KCzJkSDMtUUhTLUtjKicKGFVDdS1KOHVJWHVMWmgxNmdHLWNUMW5hdxILMmRIMy1RSFMtS2M"
+      "actualEndTime": "2024-06-22T00:59:24Z",
+      "scheduledStartTime": "2024-06-21T20:00:00Z"
     }
   },
   "anFlB6O7FYI": {
     "snippet": {
       "publishedAt": "2024-06-21T05:18:51Z",
       "channelId": "UCu-J8uIXuLZh16gG-cT1naw",
-      "title": "\u3010UNARCHIVED ENGLISH GROUP BIRTHDAY KARAOKE\u3011THIS IS GONNA BE SCUFFED ASF"
+      "title": "\u3010UNARCHIVED ENGLISH GROUP BIRTHDAY KARAOKE\u3011THIS IS GONNA BE SCUFFED ASF",
+      "private": true
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-22T01:06:43Z",
       "scheduledStartTime": "2024-06-22T01:00:00Z",
       "activeLiveChatId": "Cg0KC2FuRmxCNk83RllJKicKGFVDdS1KOHVJWHVMWmgxNmdHLWNUMW5hdxILYW5GbEI2TzdGWUk"
+    }
+  },
+  "vagDGL_D8sE": {
+    "snippet": {
+      "publishedAt": "2024-06-22T23:36:26Z",
+      "channelId": "UCu-J8uIXuLZh16gG-cT1naw",
+      "title": "\u3010VALORANT & OW2\u3011 FOCUSING ON AIM SERIOUSLY THIS TIME"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-22T23:56:37Z",
+      "actualEndTime": "2024-06-23T08:33:41Z",
+      "scheduledStartTime": "2024-06-22T23:45:00Z"
     }
   }
 }

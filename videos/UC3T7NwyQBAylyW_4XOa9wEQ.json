@@ -462,8 +462,9 @@
       "title": "Trying the ELDEN RING DLC for the FIRST TIME"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-22T01:00:00Z",
-      "activeLiveChatId": "Cg0KC3R6SzJ2bHREZm9VKicKGFVDM1Q3Tnd5UUJBeWx5V180WE9hOXdFURILdHpLMnZsdERmb1U"
+      "actualStartTime": "2024-06-22T00:59:05Z",
+      "actualEndTime": "2024-06-22T04:28:55Z",
+      "scheduledStartTime": "2024-06-22T01:00:00Z"
     }
   },
   "61ewjTcidQM": {
@@ -473,6 +474,7 @@
       "title": "12 HOUR BIRTHDAY PARTY !! - my first birthday"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T18:02:29Z",
       "scheduledStartTime": "2024-06-23T18:00:00Z",
       "activeLiveChatId": "Cg0KCzYxZXdqVGNpZFFNKicKGFVDM1Q3Tnd5UUJBeWx5V180WE9hOXdFURILNjFld2pUY2lkUU0"
     }
@@ -497,8 +499,32 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-21T15:20:17Z",
-      "scheduledStartTime": "2024-06-21T15:00:00Z",
-      "activeLiveChatId": "Cg0KC0hZV3lPV3E4ZzFZKicKGFVDM1Q3Tnd5UUJBeWx5V180WE9hOXdFURILSFlXeU9XcThnMVk"
+      "actualEndTime": "2024-06-21T22:18:36Z",
+      "scheduledStartTime": "2024-06-21T15:00:00Z"
+    }
+  },
+  "9wIsHb3i5uk": {
+    "snippet": {
+      "publishedAt": "2024-06-22T05:59:06Z",
+      "channelId": "UC3T7NwyQBAylyW_4XOa9wEQ",
+      "title": "I been humbled... ELDEN RING DLC SPOILER FREE"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T01:02:52Z",
+      "actualEndTime": "2024-06-23T04:48:00Z",
+      "scheduledStartTime": "2024-06-23T01:00:00Z"
+    }
+  },
+  "53c7aDh89Zo": {
+    "snippet": {
+      "publishedAt": "2024-06-22T22:39:38Z",
+      "channelId": "UC3T7NwyQBAylyW_4XOa9wEQ",
+      "title": "[BIRTHDAY DONOTHON] I NEED WOOD"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-22T22:44:32Z",
+      "actualEndTime": "2024-06-23T00:21:13Z",
+      "scheduledStartTime": "2024-06-22T22:40:00Z"
     }
   }
 }

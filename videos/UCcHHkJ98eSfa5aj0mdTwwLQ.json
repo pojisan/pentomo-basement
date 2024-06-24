@@ -658,8 +658,28 @@
       "title": "\u3010HOSPITAL 666 COLLAB w/ @Dokibird \u3011just two idiots running around\u3010Maid Mint Fantome\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-22T00:00:00Z",
-      "activeLiveChatId": "Cg0KC3FyYUtoeGN1djZjKicKGFVDY0hIa0o5OGVTZmE1YWowbWRUd3dMURILcXJhS2h4Y3V2NmM"
+      "actualStartTime": "2024-06-22T00:02:57Z",
+      "actualEndTime": "2024-06-22T04:11:56Z",
+      "scheduledStartTime": "2024-06-22T00:00:00Z"
+    }
+  },
+  "7inNrLv8DcA": {
+    "snippet": {
+      "publishedAt": "2024-06-22T05:00:00Z",
+      "channelId": "UCcHHkJ98eSfa5aj0mdTwwLQ",
+      "title": "\u3010METAL GEAR SOLID pt1\u3011I'm just a ghost who loves metal gear solid the mostest\u3010Maid Mint Fantome\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-22T19:01:13Z",
+      "actualEndTime": "2024-06-22T23:32:51Z",
+      "scheduledStartTime": "2024-06-22T19:00:00Z"
+    }
+  },
+  "UfqZBbKJ4Fc": {
+    "snippet": {
+      "publishedAt": "2024-06-23T23:54:15Z",
+      "channelId": "UCcHHkJ98eSfa5aj0mdTwwLQ",
+      "title": "I give my life, not for honor, but for you... Snake Eater!"
     }
   }
 }

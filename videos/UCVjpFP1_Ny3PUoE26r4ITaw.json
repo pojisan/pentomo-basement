@@ -785,8 +785,9 @@
       "title": "\u3010KARAOKE\u3011Back to surprises! MORE Singing \u3010VyVid | Bunana \u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-21T23:00:00Z",
-      "activeLiveChatId": "Cg0KC3l3Wjh1aDRRbzBRKicKGFVDVmpwRlAxX055M1BVb0UyNnI0SVRhdxILeXdaOHVoNFFvMFE"
+      "actualStartTime": "2024-06-21T22:56:39Z",
+      "actualEndTime": "2024-06-22T02:05:41Z",
+      "scheduledStartTime": "2024-06-21T23:00:00Z"
     }
   },
   "dp9Xymn7RLI": {
@@ -796,6 +797,7 @@
       "title": "\u3010Handcam Zatsu\u30111000 pieces puzzle ... Will I make it?\u3010VyVid | Bunana \u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T22:59:21Z",
       "scheduledStartTime": "2024-06-23T23:00:00Z",
       "activeLiveChatId": "Cg0KC2RwOVh5bW43UkxJKicKGFVDVmpwRlAxX055M1BVb0UyNnI0SVRhdxILZHA5WHltbjdSTEk"
     }
@@ -871,6 +873,27 @@
       "publishedAt": "2024-06-21T20:36:37Z",
       "channelId": "UCVjpFP1_Ny3PUoE26r4ITaw",
       "title": "I will now cringe to death #vtuber #shorts"
+    }
+  },
+  "fXcusLSTKds": {
+    "snippet": {
+      "publishedAt": "2024-06-22T15:22:29Z",
+      "channelId": "UCVjpFP1_Ny3PUoE26r4ITaw",
+      "title": "#VTuber sings \"Magnetic\" by ILLIT #shorts"
+    }
+  },
+  "Hhg1cExOE5Q": {
+    "snippet": {
+      "publishedAt": "2024-06-22T17:00:08Z",
+      "channelId": "UCVjpFP1_Ny3PUoE26r4ITaw",
+      "title": "#Vtuber accidentally scam Temu #shorts"
+    }
+  },
+  "kMri3MhPvTY": {
+    "snippet": {
+      "publishedAt": "2024-06-23T17:00:26Z",
+      "channelId": "UCVjpFP1_Ny3PUoE26r4ITaw",
+      "title": "#VTuber sings the brain rot anthem - \"Rizzler\" #shorts"
     }
   }
 }

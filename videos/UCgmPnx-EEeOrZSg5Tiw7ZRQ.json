@@ -8933,9 +8933,64 @@
       "title": "\u3010Spoiler Warning\u3011The Yakuza 0 Experience | Hakos Baelz Highlights!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-22T01:00:00Z",
-      "activeLiveChatId": "Cg0KC3dwUlVZSldxYVlnKicKGFVDZ21QbngtRUVlT3JaU2c1VGl3N1pSURILd3BSVVlKV3FhWWc",
-      "premiere": true
+      "actualStartTime": "2024-06-22T01:00:07Z",
+      "actualEndTime": "2024-06-22T01:25:10Z",
+      "scheduledStartTime": "2024-06-22T01:00:00Z"
+    }
+  },
+  "8ui72ll5NeU": {
+    "snippet": {
+      "publishedAt": "2024-06-23T08:39:44Z",
+      "channelId": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+      "title": "\u226aSEKIRO: SHADOWS DIE TWICE\u226b DAD DEAD. WHO'S NEXT. #4\u3010SPOILER WARNING\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-25T01:00:00Z"
+    }
+  },
+  "AEOEkyCMy2Y": {
+    "snippet": {
+      "publishedAt": "2024-06-23T08:37:44Z",
+      "channelId": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+      "title": "\u226aMidnight Monday Radio\u226b Episode 8 #shorts"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-24T15:00:00Z",
+      "activeLiveChatId": "Cg0KC0FFT0VreUNNeTJZKicKGFVDZ21QbngtRUVlT3JaU2c1VGl3N1pSURILQUVPRWt5Q015Mlk"
+    }
+  },
+  "9YO6-YEa-ww": {
+    "snippet": {
+      "publishedAt": "2024-06-23T08:36:43Z",
+      "channelId": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+      "title": "\u226aFit Boxing feat. HATSUNE MIKU\u226b 3D PUNCH!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-24T01:00:52Z",
+      "scheduledStartTime": "2024-06-24T01:00:00Z",
+      "activeLiveChatId": "Cg0KCzlZTzYtWUVhLXd3KicKGFVDZ21QbngtRUVlT3JaU2c1VGl3N1pSURILOVlPNi1ZRWEtd3c"
+    }
+  },
+  "Z-1AsFqNUfg": {
+    "snippet": {
+      "publishedAt": "2024-06-23T12:29:48Z",
+      "channelId": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+      "title": "\u226aYakuza Kiwami 2\u226b I don't remember anything #4 \u3010SPOILER WARNING\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-27T01:00:00Z",
+      "activeLiveChatId": "Cg0KC1otMUFzRnFOVWZnKicKGFVDZ21QbngtRUVlT3JaU2c1VGl3N1pSURILWi0xQXNGcU5VZmc"
+    }
+  },
+  "PGDS2jUxyQ0": {
+    "snippet": {
+      "publishedAt": "2024-06-23T12:42:37Z",
+      "channelId": "UCgmPnx-EEeOrZSg5Tiw7ZRQ",
+      "title": "\u226aLETHAL COMPANY\u226b InkyaZ Inc. \u5fa9\u6d3b\uff01 w/ @minamitette & @marutake7441"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-28T08:00:00Z",
+      "activeLiveChatId": "Cg0KC1BHRFMyalV4eVEwKicKGFVDZ21QbngtRUVlT3JaU2c1VGl3N1pSURILUEdEUzJqVXh5UTA"
     }
   }
 }

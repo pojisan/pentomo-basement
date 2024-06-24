@@ -986,7 +986,7 @@
     "snippet": {
       "publishedAt": "2024-01-01T18:57:01Z",
       "channelId": "UCK6oCMib62eYAIPrlrYRVrw",
-      "title": "\u3010SCHEDULE\u3011 JUNE 17th - 23rd + offline chat ~"
+      "title": "\u3010SCHEDULE\u3011 JUNE 24th - 30th + offline chat ~"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-01-01T18:55:00Z",
@@ -2301,9 +2301,11 @@
     "snippet": {
       "publishedAt": "2024-06-21T11:06:51Z",
       "channelId": "UCK6oCMib62eYAIPrlrYRVrw",
-      "title": "SHARK GIRL HOURS"
+      "title": "SHARK GIRL HOURS",
+      "private": true
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-22T13:49:06Z",
       "scheduledStartTime": "2024-06-22T14:00:00Z",
       "activeLiveChatId": "Cg0KC0toUkhJZExvTFp3KicKGFVDSzZvQ01pYjYyZVlBSVBybHJZUlZydxILS2hSSElkTG9MWnc"
     }

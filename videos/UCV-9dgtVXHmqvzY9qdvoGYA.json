@@ -9106,8 +9106,9 @@
       "title": "\u3010Members\u3011ROOM REVIEW!!! (vol. 2)"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-23T13:00:00Z",
-      "activeLiveChatId": "Cg0KC2RlYnZXSGcxRGdFKicKGFVDVi05ZGd0VlhIbXF2elk5cWR2b0dZQRILZGVidldIZzFEZ0U"
+      "actualStartTime": "2024-06-23T13:00:21Z",
+      "actualEndTime": "2024-06-23T15:13:19Z",
+      "scheduledStartTime": "2024-06-23T13:00:00Z"
     }
   }
 }

@@ -2690,8 +2690,44 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-21T18:02:00Z",
-      "scheduledStartTime": "2024-06-21T18:00:00Z",
-      "activeLiveChatId": "Cg0KC0xLVjdob1NBYTU4KicKGFVDdnFmNDI2X1hFQ1hnaTJzNnRJamdPdxILTEtWN2hvU0FhNTg"
+      "actualEndTime": "2024-06-21T23:12:31Z",
+      "scheduledStartTime": "2024-06-21T18:00:00Z"
+    }
+  },
+  "M5JXLa1vWS8": {
+    "snippet": {
+      "publishedAt": "2024-06-22T17:07:16Z",
+      "channelId": "UCvqf426_XECXgi2s6tIjgOw",
+      "title": "Earlygame Progression on the VSMP! Starter Base Arc & SPECIAL ANNOUNCEMENT!\u3010Minecraft VSMP\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-22T18:16:35Z",
+      "actualEndTime": "2024-06-22T21:46:50Z",
+      "scheduledStartTime": "2024-06-22T18:15:00Z"
+    }
+  },
+  "v3bD-KCD0rw": {
+    "snippet": {
+      "publishedAt": "2024-06-23T15:10:09Z",
+      "channelId": "UCvqf426_XECXgi2s6tIjgOw",
+      "title": "VSMP GUERILLA MINECRAFT! Friendship Arc...?!\u3010Minecraft VSMP\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T15:20:13Z",
+      "actualEndTime": "2024-06-23T17:08:03Z",
+      "scheduledStartTime": "2024-06-23T15:20:00Z"
+    }
+  },
+  "el8UiSSeS2E": {
+    "snippet": {
+      "publishedAt": "2024-06-23T17:55:05Z",
+      "channelId": "UCvqf426_XECXgi2s6tIjgOw",
+      "title": "Farming Adventures with my Kouhai!\u3010Sun Haven with @CerenityVNU \u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T18:02:23Z",
+      "actualEndTime": "2024-06-23T20:52:34Z",
+      "scheduledStartTime": "2024-06-23T18:00:00Z"
     }
   }
 }

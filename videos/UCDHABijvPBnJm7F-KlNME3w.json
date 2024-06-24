@@ -17,6 +17,8 @@
       "title": "\u3010DEBUT\u3011GG STANDS FOR GIGI! \ud83d\udc67  #hololiveEnglish #holoJustice"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-22T03:43:14Z",
+      "actualEndTime": "2024-06-22T04:26:14Z",
       "scheduledStartTime": "2024-06-22T03:45:00Z"
     }
   },
@@ -32,6 +34,31 @@
       "publishedAt": "2024-06-20T15:00:28Z",
       "channelId": "UCDHABijvPBnJm7F-KlNME3w",
       "title": "Huh? But it was funny! Don't get mad at me! \ud83d\udc67 #holoJustice"
+    }
+  },
+  "bmT_cEfOTJE": {
+    "snippet": {
+      "publishedAt": "2024-06-22T04:25:15Z",
+      "channelId": "UCDHABijvPBnJm7F-KlNME3w",
+      "title": "\u3010MV\u3011Hitomania / \u4eba\u30de\u30cb\u30a2 - Gigi Murin (Cover)"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-22T04:25:15Z",
+      "actualEndTime": "2024-06-22T04:29:23Z",
+      "scheduledStartTime": "2024-06-22T04:25:00Z"
+    }
+  },
+  "pAwWmc6o_wE": {
+    "snippet": {
+      "publishedAt": "2024-06-23T08:29:58Z",
+      "channelId": "UCDHABijvPBnJm7F-KlNME3w",
+      "title": "\u3010CRAZY TAXI\u3011asleep at the wheel"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-23T20:59:44Z",
+      "actualEndTime": "2024-06-23T23:29:23Z",
+      "scheduledStartTime": "2024-06-23T21:00:00Z",
+      "activeLiveChatId": "Cg0KC3BBd1dtYzZvX3dFKicKGFVDREhBQmlqdlBCbkptN0YtS2xOTUUzdxILcEF3V21jNm9fd0U"
     }
   }
 }
