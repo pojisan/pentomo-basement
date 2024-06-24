@@ -478,5 +478,27 @@
       "actualEndTime": "2024-06-23T15:53:21Z",
       "scheduledStartTime": "2024-06-23T13:00:04Z"
     }
+  },
+  "PxfGgRruuG4": {
+    "snippet": {
+      "publishedAt": "2024-06-24T03:38:54Z",
+      "channelId": "UC7sqbQ4_5_ELz-Ov-bVBi8A",
+      "title": "\u3010Master Duel\u3011More ranked and maybe the new event too!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-24T16:00:54Z",
+      "activeLiveChatId": "Cg0KC1B4ZkdnUnJ1dUc0KicKGFVDN3NxYlE0XzVfRUx6LU92LWJWQmk4QRILUHhmR2dScnV1RzQ"
+    }
+  },
+  "iEpgZHCesW0": {
+    "snippet": {
+      "publishedAt": "2024-06-24T03:34:18Z",
+      "channelId": "UC7sqbQ4_5_ELz-Ov-bVBi8A",
+      "title": "\u3010Casual Chat\u3011We get to settle our old rewards now!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-24T13:00:54Z",
+      "activeLiveChatId": "Cg0KC2lFcGdaSENlc1cwKicKGFVDN3NxYlE0XzVfRUx6LU92LWJWQmk4QRILaUVwZ1pIQ2VzVzA"
+    }
   }
 }
