@@ -4275,7 +4275,9 @@
       "title": "\u3010#\u306b\u3058GTA\u3011\u6700\u7d42\u65e5\uff01\u30af\u30bd\u304a\u4e16\u8a71\u306b\u306a\u308a\u307e\u3057\u305f\uff01\uff01\uff01\u3010\u77f3\u795e\u306e\u305e\u307f\uff0f\u306b\u3058\u3055\u3093\u3058\u6240\u5c5e\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-24T13:15:00Z"
+      "actualStartTime": "2024-06-24T13:19:08Z",
+      "scheduledStartTime": "2024-06-24T13:15:00Z",
+      "activeLiveChatId": "Cg0KC2dSdFZ6dG9jeEw0KicKGFVDdExmQV9xVXFDSnRqWEpNMlpSX2tlZxILZ1J0Vnp0b2N4TDQ"
     }
   }
 }
