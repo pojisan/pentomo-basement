@@ -9823,13 +9823,12 @@
     "snippet": {
       "publishedAt": "2024-06-23T22:19:18Z",
       "channelId": "UCFgXWZOUZA2oYHNr6qDmsTQ",
-      "title": "elden ring grinding so i can play the dlc :,3c",
-      "private": true
+      "title": "elden ring grinding so i can play the dlc :,3c"
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-24T03:09:36Z",
-      "scheduledStartTime": "2024-06-24T03:00:00Z",
-      "activeLiveChatId": "Cg0KC3RfX2h2ZTFabFVzKicKGFVDRmdYV1pPVVpBMm9ZSE5yNnFEbXNUURILdF9faHZlMVpsVXM"
+      "actualEndTime": "2024-06-24T05:57:05Z",
+      "scheduledStartTime": "2024-06-24T03:00:00Z"
     }
   },
   "wdi3knfJD7M": {
@@ -9841,8 +9840,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-24T06:00:50Z",
       "actualEndTime": "2024-06-24T09:01:01Z",
-      "scheduledStartTime": "2024-06-24T06:00:00Z",
-      "activeLiveChatId": "Cg0KC3dkaTNrbmZKRDdNKicKGFVDRmdYV1pPVVpBMm9ZSE5yNnFEbXNUURILd2RpM2tuZkpEN00"
+      "scheduledStartTime": "2024-06-24T06:00:00Z"
     }
   }
 }

@@ -8396,8 +8396,18 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-23T23:05:01Z",
       "actualEndTime": "2024-06-24T08:09:03Z",
-      "scheduledStartTime": "2024-06-23T23:00:00Z",
-      "activeLiveChatId": "Cg0KC0U5cFlHeGg3cG1VKicKGFVDSWVTVVRPVGtGOUhzN3EzU0djTy1PdxILRTlwWUd4aDdwbVU"
+      "scheduledStartTime": "2024-06-23T23:00:00Z"
+    }
+  },
+  "-afFgLUkCao": {
+    "snippet": {
+      "publishedAt": "2024-06-20T22:14:22Z",
+      "channelId": "UCIeSUTOTkF9Hs7q3SGcO-Ow",
+      "title": "\u3010HONKAI: STAR RAIL\u3011 2.3 TIME! FIREFLY WILL COME HOME NO MATTER WHAT. \u3010NIJISANJI EN | Elira Pendora\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-24T20:00:00Z",
+      "activeLiveChatId": "Cg0KCy1hZkZnTFVrQ2FvKicKGFVDSWVTVVRPVGtGOUhzN3EzU0djTy1PdxILLWFmRmdMVWtDYW8"
     }
   }
 }
