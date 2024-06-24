@@ -4236,7 +4236,7 @@
       "title": "\u3010 #\u306b\u3058GTA \u3011\u6700\u5f8c\u306e\u65e5\u3082\u601d\u3046\u5b58\u5206\u697d\u3057\u3080\u305e\uff01\uff01\uff01\uff01\u3010NIJISANJI  EN | Maria Marionette\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-24T11:00:00Z",
+      "scheduledStartTime": "2024-06-24T10:45:00Z",
       "activeLiveChatId": "Cg0KC1h0a3BqRzhzTTJvKicKGFVDd2FTOF9TN2tNaUtBM2l6bFRXSGJRZxILWHRrcGpHOHNNMm8"
     }
   },
@@ -4892,17 +4892,6 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-24T02:06:40Z",
-      "twitch": true
-    }
-  },
-  "cozysoma": {
-    "snippet": {
-      "channelId": "cozysoma",
-      "title": "L'aigle mod & chill vibes",
-      "channelTitle": "CozySoma"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-24T05:59:45Z",
       "twitch": true
     }
   },
@@ -6355,6 +6344,17 @@
       "activeLiveChatId": "Cg0KC3FWSkhQR3NKcmJnKicKGFVDUkllUzNnLWF3SVF1UEFQbkFwSGJDQRILcVZKSFBHc0pyYmc"
     }
   },
+  "qYvGCQlsJNs": {
+    "snippet": {
+      "publishedAt": "2024-06-24T10:37:38Z",
+      "channelId": "UCRtugKQIPPfZmVZ6vLiOsdQ",
+      "title": "[\ud83d\udd34MURKY DIVERS] Secretly rizzing my collab mates until one of them agrees to KISS me"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-25T22:00:00Z",
+      "activeLiveChatId": "Cg0KC3FZdkdDUWxzSk5zKicKGFVDUnR1Z0tRSVBQZlptVlo2dkxpT3NkURILcVl2R0NRbHNKTnM"
+    }
+  },
   "qZNXXmpwNn0": {
     "snippet": {
       "publishedAt": "2024-05-14T11:37:39Z",
@@ -6845,6 +6845,7 @@
       "title": "\ud83d\ude91\u3010#\u306b\u3058GTA\u3011 Day10 \u30fb\ub9c8\uc9c0\ub9c9\uae4c\uc9c0, \ud55c\uba85\uc774\ub77c\ub3c4 \ub354  \u6700\u5f8c\u307e\u3067\u3001\u4e00\u4eba\u3067\u3082\u591a\u304f \u3010KR/JP\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-24T10:39:05Z",
       "scheduledStartTime": "2024-06-24T10:30:00Z",
       "activeLiveChatId": "Cg0KC3U1QXVxWUpibThVKicKGFVDVXRLa0dLZWY4QllNczNoLTN6UW05QRILdTVBdXFZSmJtOFU"
     }
@@ -6900,6 +6901,7 @@
       "title": "\u3010#\u306b\u3058GTA\u3011\u5b9d\u7269\u3010NIJISANJI EN | Meloco Kyoran\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-24T10:33:35Z",
       "scheduledStartTime": "2024-06-24T10:30:00Z",
       "activeLiveChatId": "Cg0KC3VvVDFVamxQXzJNKicKGFVDaEtYZDdvcUQxOHFpSVlCb1JJSFRsdxILdW9UMVVqbFBfMk0"
     }
