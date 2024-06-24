@@ -3552,8 +3552,20 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-24T18:02:54Z",
-      "scheduledStartTime": "2024-06-24T18:02:51Z",
-      "activeLiveChatId": "Cg0KC3l1TG5fbWlPWmE4KicKGFVDVXI4TzZaOEp5QWc4M0tKYmNfdV9iURILeXVMbl9taU9aYTg"
+      "actualEndTime": "2024-06-24T19:14:45Z",
+      "scheduledStartTime": "2024-06-24T18:02:51Z"
+    }
+  },
+  "Rn371HZX_lw": {
+    "snippet": {
+      "publishedAt": "2024-06-24T19:14:47Z",
+      "channelId": "UCUr8O6Z8JyAg83KJbc_u_bQ",
+      "title": "guerilla fortnite\u2665 !candle !merch !throne"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-24T19:14:56Z",
+      "scheduledStartTime": "2024-06-24T19:14:57Z",
+      "activeLiveChatId": "Cg0KC1JuMzcxSFpYX2x3KicKGFVDVXI4TzZaOEp5QWc4M0tKYmNfdV9iURILUm4zNzFIWlhfbHc"
     }
   }
 }
