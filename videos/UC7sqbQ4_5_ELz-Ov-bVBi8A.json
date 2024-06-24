@@ -486,7 +486,8 @@
       "title": "\u3010Master Duel\u3011More ranked and maybe the new event too!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-24T16:00:54Z",
+      "actualStartTime": "2024-06-24T16:00:14Z",
+      "scheduledStartTime": "2024-06-24T16:00:05Z",
       "activeLiveChatId": "Cg0KC1B4ZkdnUnJ1dUc0KicKGFVDN3NxYlE0XzVfRUx6LU92LWJWQmk4QRILUHhmR2dScnV1RzQ"
     }
   },
@@ -498,6 +499,7 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-24T13:00:22Z",
+      "actualEndTime": "2024-06-24T15:57:32Z",
       "scheduledStartTime": "2024-06-24T13:00:11Z",
       "activeLiveChatId": "Cg0KC2lFcGdaSENlc1cwKicKGFVDN3NxYlE0XzVfRUx6LU92LWJWQmk4QRILaUVwZ1pIQ2VzVzA"
     }
