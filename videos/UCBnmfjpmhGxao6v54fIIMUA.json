@@ -769,5 +769,16 @@
       "actualEndTime": "2024-06-21T17:35:33Z",
       "scheduledStartTime": "2024-06-21T16:00:00Z"
     }
+  },
+  "k-wf3zni6zk": {
+    "snippet": {
+      "publishedAt": "2024-06-24T15:12:24Z",
+      "channelId": "UCBnmfjpmhGxao6v54fIIMUA",
+      "title": "Announcing Exciting Things!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-24T17:30:00Z",
+      "activeLiveChatId": "Cg0KC2std2Yzem5pNnprKicKGFVDQm5tZmpwbWhHeGFvNnY1NGZJSU1VQRILay13ZjN6bmk2ems"
+    }
   }
 }

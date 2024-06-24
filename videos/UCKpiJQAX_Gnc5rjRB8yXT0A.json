@@ -335,7 +335,8 @@
       "title": "\u3010Ghost Exorcism Inc\u3011Ghost Hunting with Wifey @RinaAstera \u3010OshiLink EN | Audica Sevens\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-27T13:00:00Z"
+      "scheduledStartTime": "2024-06-27T13:00:00Z",
+      "activeLiveChatId": "Cg0KCzQyMnQ3MHItdnFJKicKGFVDS3BpSlFBWF9HbmM1cmpSQjh5WFQwQRILNDIydDcwci12cUk"
     }
   },
   "sm0QvZQjaWU": {
@@ -346,8 +347,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-24T12:59:24Z",
-      "scheduledStartTime": "2024-06-24T13:00:00Z",
-      "activeLiveChatId": "Cg0KC3NtMFF2WlFqYVdVKicKGFVDS3BpSlFBWF9HbmM1cmpSQjh5WFQwQRILc20wUXZaUWphV1U"
+      "actualEndTime": "2024-06-24T15:18:02Z",
+      "scheduledStartTime": "2024-06-24T13:00:00Z"
     }
   }
 }
