@@ -4199,18 +4199,6 @@
       "activeLiveChatId": "Cg0KC1duNVNYUjRUOUVFKicKGFVDazQtTFVtekZNRVRMdDRTbjFKODJDdxILV241U1hSNFQ5RUU"
     }
   },
-  "Wr0uQH6Mh0Q": {
-    "snippet": {
-      "publishedAt": "2024-06-21T03:27:37Z",
-      "channelId": "UCgmFrRcyH7d1zR9sIVQhFow",
-      "title": "\u3010#\u306b\u3058\u3055\u3093\u3058\u65c5\u4eba\u676f\u3011\u751f\u5f92\u3044\u304d\u307e\u3059\u3002\u3010\u306b\u3058\u3055\u3093\u3058\uff0f\u30ed\u30fc\u30ec\u30f3\u30fb\u30a4\u30ed\u30a2\u30b9\uff0f\u897f\u5712\u30c1\u30b0\u30b5\u3011\u3010\u539f\u795e\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-24T12:05:51Z",
-      "scheduledStartTime": "2024-06-24T12:00:00Z",
-      "activeLiveChatId": "Cg0KC1dyMHVRSDZNaDBRKicKGFVDZ21GclJjeUg3ZDF6UjlzSVZRaEZvdxILV3IwdVFINk1oMFE"
-    }
-  },
   "WsHhNdUnF_s": {
     "snippet": {
       "publishedAt": "2024-06-19T05:40:24Z",
@@ -4318,6 +4306,18 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-21T07:00:00Z",
       "activeLiveChatId": "Cg0KC1hMUklvbi0tZ1hvKicKGFVDVlFFYmpBY0pSZVB4T0RWTTVtV0N2URILWExSSW9uLS1nWG8"
+    }
+  },
+  "XNns6_8Jllg": {
+    "snippet": {
+      "publishedAt": "2024-06-24T13:42:11Z",
+      "channelId": "UCgIfLpQvelloDi8I0Ycbwpg",
+      "title": "\u3010 #\u306b\u3058GTA \u3011\u6700\u7d42\u65e5\u30e9\u30fc\u30e1\u30f3\ud83c\udf5c\u3010\u3067\u3059\u308f\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-24T13:51:06Z",
+      "scheduledStartTime": "2024-06-24T13:40:00Z",
+      "activeLiveChatId": "Cg0KC1hObnM2XzhKbGxnKicKGFVDZ0lmTHBRdmVsbG9EaThJMFljYndwZxILWE5uczZfOEpsbGc"
     }
   },
   "XQdj0cbPgHg": {
@@ -4667,6 +4667,7 @@
       "title": "\u3010RESIDENT EVIL 4\u3011I'm coming.\u3010VTUBER ID\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-24T13:47:56Z",
       "scheduledStartTime": "2024-06-24T13:50:00Z",
       "activeLiveChatId": "Cg0KC19tejhZd1lFekxjKicKGFVDUXBELVVoSGRoRkwxRFRKeGhKcHV5QRILX216OFl3WUV6TGM"
     }
@@ -4802,16 +4803,15 @@
       "activeLiveChatId": "Cg0KC2FZVkxzV0dSVDh3KicKGFVDUTNzX2tRWWYzUHVxT0t1OTBIcklxdxILYVlWTHNXR1JUOHc"
     }
   },
-  "aiC5W0zWpEw": {
+  "arurivtuber": {
     "snippet": {
-      "publishedAt": "2024-06-21T07:05:16Z",
-      "channelId": "UCtHY-tP0dyykhTRMmnfPs_g",
-      "title": "\u3010#\u306b\u3058\u3055\u3093\u3058\u65c5\u4eba\u676f\u3011\u539f\u795e\u3063\u3066\u306e\u306f\u3055\u3041\uff01\uff01\u6700\u9ad8\u306a\u3093\u3060\u305c\u56db\u5b63\u51ea\u30a3\uff01\uff01\uff01\u7740\u3044\u3066\u304d\u306a\uff01\uff01\uff01\uff01\u3010\u6d77\u59b9\u56db\u8449/\u56db\u5b63\u51ea\u30a2\u30ad\u30e9/\u306b\u3058\u3055\u3093\u3058\u3011\u3010\u539f\u795e\u3011"
+      "channelId": "arurivtuber",
+      "title": "\ud83d\udd34 CREEPY REDDIT HORROR STORIES \u2726 !donathon DAY 128 | !socials !discord !yt !stickers !tips !sponsors",
+      "channelTitle": "AruriVtuber"
     },
     "liveStreamingDetails": {
-      "actualStartTime": "2024-06-24T12:01:34Z",
-      "scheduledStartTime": "2024-06-24T12:00:00Z",
-      "activeLiveChatId": "Cg0KC2FpQzVXMHpXcEV3KicKGFVDdEhZLXRQMGR5eWtoVFJNbW5mUHNfZxILYWlDNVcweldwRXc"
+      "actualStartTime": "2024-06-24T13:43:13Z",
+      "twitch": true
     }
   },
   "auCkpoNM1yE": {
@@ -5292,18 +5292,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-27T20:00:00Z",
       "activeLiveChatId": "Cg0KC2VnaVNQSUtBZ2UwKicKGFVDbHhqM0dsR3BoWlZnZDFTTFloWkttZxILZWdpU1BJS0FnZTA"
-    }
-  },
-  "ezYVE8EBDhs": {
-    "snippet": {
-      "publishedAt": "2024-06-21T06:08:04Z",
-      "channelId": "UClrQ7xhRBxS_v_-WuudGKmA",
-      "title": "\u3010 #\u306b\u3058\u3055\u3093\u3058\u65c5\u4eba\u676f\u3011\u5171\u95d8\uff01\u306b\u3058\u3055\u3093\u3058\u306e\u72ac\u306b\u65c5\u4eba\u306e\u3084\u308a\u65b9\u3092\u6559\u3048\u3066\u3082\u3089\u304a\u3046\uff01\uff01\u3010 \u93d1\u6728\u308d\u3053\uffe4\u681e\u8449\u308b\u308a\uffe4\u306b\u3058\u3055\u3093\u3058 \u3011\u3010\u539f\u795e\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-24T12:00:20Z",
-      "scheduledStartTime": "2024-06-24T12:00:00Z",
-      "activeLiveChatId": "Cg0KC2V6WVZFOEVCRGhzKicKGFVDbHJRN3hoUkJ4U192Xy1XdXVkR0ttQRILZXpZVkU4RUJEaHM"
     }
   },
   "fDG6jbtbRWk": {
