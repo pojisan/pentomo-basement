@@ -345,7 +345,9 @@
       "title": "\u3010Little Nightmares\u3011Is This The End?\u3010OshiLink EN | Audica Sevens\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-24T13:00:00Z"
+      "actualStartTime": "2024-06-24T12:59:24Z",
+      "scheduledStartTime": "2024-06-24T13:00:00Z",
+      "activeLiveChatId": "Cg0KC3NtMFF2WlFqYVdVKicKGFVDS3BpSlFBWF9HbmM1cmpSQjh5WFQwQRILc20wUXZaUWphV1U"
     }
   }
 }
