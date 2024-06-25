@@ -1275,11 +1275,24 @@
     "snippet": {
       "publishedAt": "2024-06-24T04:03:25Z",
       "channelId": "UCKZOVCP06BgPdIgWL0467AA",
-      "title": "\u3010MINECRAFT\u3011Mine Mine Mine\u3010CADENCE NINE\u3011"
+      "title": "\u3010MINECRAFT\u3011Mine Mine Mine\u3010CADENCE NINE\u3011",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-25T12:00:00Z",
       "activeLiveChatId": "Cg0KCzFNRzFvQkFZSDh3KicKGFVDS1pPVkNQMDZCZ1BkSWdXTDA0NjdBQRILMU1HMW9CQVlIOHc"
+    }
+  },
+  "7eL4wsZPDXg": {
+    "snippet": {
+      "publishedAt": "2024-06-25T12:04:48Z",
+      "channelId": "UCKZOVCP06BgPdIgWL0467AA",
+      "title": "\u3010MINECRAFT\u3011Mine Mine Mine\u3010CADENCE NINE\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-25T12:06:14Z",
+      "scheduledStartTime": "2024-06-25T12:05:00Z",
+      "activeLiveChatId": "Cg0KCzdlTDR3c1pQRFhnKicKGFVDS1pPVkNQMDZCZ1BkSWdXTDA0NjdBQRILN2VMNHdzWlBEWGc"
     }
   }
 }
