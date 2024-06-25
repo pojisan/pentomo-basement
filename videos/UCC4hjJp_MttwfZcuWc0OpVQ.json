@@ -389,8 +389,7 @@
     "snippet": {
       "publishedAt": "2024-02-22T05:15:47Z",
       "channelId": "UCC4hjJp_MttwfZcuWc0OpVQ",
-      "title": "\ud83d\udc32\u2601\ufe0f Free chat!!",
-      "private": true
+      "title": "Schedule this week!! \ud83d\udc32\u2601\ufe0f"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2026-03-01T05:10:00Z",
@@ -2589,8 +2588,9 @@
       "title": "\u3010ANIMAL CROSSING\u3011bellsmaxxing\u3010idolEN | Kai Saikota\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-24T22:00:00Z",
-      "activeLiveChatId": "Cg0KC0xTblFfdEREZExNKicKGFVDQzRoakpwX010dHdmWmN1V2MwT3BWURILTFNuUV90RERkTE0"
+      "actualStartTime": "2024-06-24T22:03:59Z",
+      "actualEndTime": "2024-06-25T00:09:40Z",
+      "scheduledStartTime": "2024-06-24T22:00:00Z"
     }
   },
   "wiM8OaLhdwA": {
@@ -2601,8 +2601,18 @@
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-27T00:30:00Z",
-      "activeLiveChatId": "Cg0KC3dpTThPYUxoZHdBKicKGFVDQzRoakpwX010dHdmWmN1V2MwT3BWURILd2lNOE9hTGhkd0E",
-      "premiere": true
+      "activeLiveChatId": "Cg0KC3dpTThPYUxoZHdBKicKGFVDQzRoakpwX010dHdmWmN1V2MwT3BWURILd2lNOE9hTGhkd0E"
+    }
+  },
+  "a-4OvR55pI4": {
+    "snippet": {
+      "publishedAt": "2024-06-25T00:22:48Z",
+      "channelId": "UCC4hjJp_MttwfZcuWc0OpVQ",
+      "title": "tough girl like me won't cry at this sad game!! definitely not!!!\u3010idolEN | Kai Saikota\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-25T22:00:00Z",
+      "activeLiveChatId": "Cg0KC2EtNE92UjU1cEk0KicKGFVDQzRoakpwX010dHdmWmN1V2MwT3BWURILYS00T3ZSNTVwSTQ"
     }
   }
 }

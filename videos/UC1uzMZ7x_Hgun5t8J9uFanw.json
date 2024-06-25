@@ -1355,8 +1355,9 @@
       "title": "I WENT TO A REN FAIRE FOR THE FIRST TIME! LOOK AT ALL THE THINGS I BOUGHT"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-24T23:00:00Z",
-      "activeLiveChatId": "Cg0KC3QzWnRuOXhRc1RRKicKGFVDMXV6TVo3eF9IZ3VuNXQ4Sjl1RmFudxILdDNadG45eFFzVFE"
+      "actualStartTime": "2024-06-24T23:02:29Z",
+      "actualEndTime": "2024-06-25T00:33:08Z",
+      "scheduledStartTime": "2024-06-24T23:00:00Z"
     }
   },
   "7f3RyBJZ8XY": {
@@ -1366,6 +1367,7 @@
       "title": "ITS TIME TO EXPLORE (i died again) | VSMP"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-25T00:35:10Z",
       "scheduledStartTime": "2024-06-25T00:30:00Z",
       "activeLiveChatId": "Cg0KCzdmM1J5QkpaOFhZKicKGFVDMXV6TVo3eF9IZ3VuNXQ4Sjl1RmFudxILN2YzUnlCSlo4WFk"
     }

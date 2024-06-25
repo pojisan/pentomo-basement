@@ -1481,8 +1481,9 @@
       "title": "\u3010Weekly Zatsudan\u3011 I messed up, we gotta go bald..."
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-24T22:00:00Z",
-      "activeLiveChatId": "Cg0KC0o5ZUpNRGVBRjlNKicKGFVDc1FxazRjbjhwbGpVZWFkWWJVVmd5ZxILSjllSk1EZUFGOU0"
+      "actualStartTime": "2024-06-24T22:01:53Z",
+      "actualEndTime": "2024-06-25T00:08:56Z",
+      "scheduledStartTime": "2024-06-24T22:00:00Z"
     }
   }
 }

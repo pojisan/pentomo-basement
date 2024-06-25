@@ -23168,8 +23168,15 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-24T18:55:24Z",
-      "scheduledStartTime": "2024-06-24T18:53:23Z",
-      "activeLiveChatId": "Cg0KC2FMa0xpTU9tZ3dZKicKGFVDNkVnalVaU1lTQVFlOUNERnhINzE1dxILYUxrTGlNT21nd1k"
+      "actualEndTime": "2024-06-24T21:08:19Z",
+      "scheduledStartTime": "2024-06-24T18:53:23Z"
+    }
+  },
+  "alpvr0LevXM": {
+    "snippet": {
+      "publishedAt": "2024-06-24T23:39:44Z",
+      "channelId": "UC6EgjUZSYSAQe9CDFxH715w",
+      "title": "\u7f6e\u3051\u306a\u3044\u30d0\u30a4\u30b8\u30e3\u30f3\u5171\u548c\u56fd\u3063\u3066\u4f55\uff1f\uff1f\uff1f\uff1f\u4e45\u3005\u306e3600\u70b9\u4ee3\u3002\u3042\u3068\u3082\u3046\u5c11\u3057\u306a\u306e\u304b\u306a\uff1f\uff1f\uff1f#\u30b9\u30a4\u30ab\u30b2\u30fc\u30e0 #\u5207\u308a\u629c\u304d #vtuber"
     }
   }
 }

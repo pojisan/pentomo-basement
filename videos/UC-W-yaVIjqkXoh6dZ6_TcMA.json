@@ -612,8 +612,9 @@
       "title": "\u3010JUST CHATTING\u3011... VTUBER GOES BACK TO--"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-24T21:00:00Z",
-      "activeLiveChatId": "Cg0KCzNUSU1KLWk4Y2FJKicKGFVDLVcteWFWSWpxa1hvaDZkWjZfVGNNQRILM1RJTUotaThjYUk"
+      "actualStartTime": "2024-06-24T21:00:52Z",
+      "actualEndTime": "2024-06-24T23:24:15Z",
+      "scheduledStartTime": "2024-06-24T21:00:00Z"
     }
   }
 }
