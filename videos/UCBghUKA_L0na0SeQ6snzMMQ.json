@@ -348,12 +348,12 @@
     "snippet": {
       "publishedAt": "2024-06-18T02:47:36Z",
       "channelId": "UCBghUKA_L0na0SeQ6snzMMQ",
-      "title": "Fireball vs. THE FINAL CELESTE B SIDES",
-      "private": true
+      "title": "Fireball vs. THE FINAL CELESTE B SIDES"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-20T04:30:00Z",
-      "activeLiveChatId": "Cg0KC2t4WEFMVHNITFdZKicKGFVDQmdoVUtBX0wwbmEwU2VRNnNuek1NURILa3hYQUxUc0hMV1k"
+      "actualStartTime": "2024-06-25T00:01:55Z",
+      "actualEndTime": "2024-06-25T03:04:22Z",
+      "scheduledStartTime": "2024-06-25T00:00:00Z"
     }
   },
   "Q-fZw7SJAt0": {
@@ -366,6 +366,50 @@
       "actualStartTime": "2024-06-22T00:20:33Z",
       "actualEndTime": "2024-06-22T01:03:47Z",
       "scheduledStartTime": "2024-06-22T00:20:00Z"
+    }
+  },
+  "b824_meCgxM": {
+    "snippet": {
+      "publishedAt": "2024-06-24T22:29:44Z",
+      "channelId": "UCBghUKA_L0na0SeQ6snzMMQ",
+      "title": "Fireball vs OUTER WILDS [First Ever Playthrough]"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-30T22:00:00Z",
+      "activeLiveChatId": "Cg0KC2I4MjRfbWVDZ3hNKicKGFVDQmdoVUtBX0wwbmEwU2VRNnNuek1NURILYjgyNF9tZUNneE0"
+    }
+  },
+  "ZTLnWiPnjnA": {
+    "snippet": {
+      "publishedAt": "2024-06-24T22:27:01Z",
+      "channelId": "UCBghUKA_L0na0SeQ6snzMMQ",
+      "title": "FIREBALL BEATS CELESTE?!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-28T21:00:00Z",
+      "activeLiveChatId": "Cg0KC1pUTG5XaVBuam5BKicKGFVDQmdoVUtBX0wwbmEwU2VRNnNuek1NURILWlRMbldpUG5qbkE"
+    }
+  },
+  "sOMOlLlQCbc": {
+    "snippet": {
+      "publishedAt": "2024-06-24T22:25:58Z",
+      "channelId": "UCBghUKA_L0na0SeQ6snzMMQ",
+      "title": "The Weirdest QnA I've ever done...."
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-26T21:00:00Z",
+      "activeLiveChatId": "Cg0KC3NPTU9sTGxRQ2JjKicKGFVDQmdoVUtBX0wwbmEwU2VRNnNuek1NURILc09NT2xMbFFDYmM"
+    }
+  },
+  "cA7H9FxEzOc": {
+    "snippet": {
+      "publishedAt": "2024-06-24T22:22:35Z",
+      "channelId": "UCBghUKA_L0na0SeQ6snzMMQ",
+      "title": "Throwing my senpai headfirst into difficult games w/ @KaiSaikota"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-26T01:00:00Z",
+      "activeLiveChatId": "Cg0KC2NBN0g5RnhFek9jKicKGFVDQmdoVUtBX0wwbmEwU2VRNnNuek1NURILY0E3SDlGeEV6T2M"
     }
   }
 }
