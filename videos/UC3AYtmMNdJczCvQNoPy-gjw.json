@@ -4626,7 +4626,8 @@
     "snippet": {
       "publishedAt": "2024-06-24T20:09:08Z",
       "channelId": "UC3AYtmMNdJczCvQNoPy-gjw",
-      "title": "DRUNK German Party Songs Karaoke"
+      "title": "DRUNK German Party Songs Karaoke",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-26T21:00:00Z",
@@ -4640,6 +4641,7 @@
       "title": "Your girlfriend complains it's to F$%king hot \u2665 ASMR f4a"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-25T21:05:17Z",
       "scheduledStartTime": "2024-06-25T21:00:00Z",
       "activeLiveChatId": "Cg0KC0RWaTNVQXZEMHNrKicKGFVDM0FZdG1NTmRKY3pDdlFOb1B5LWdqdxILRFZpM1VBdkQwc2s"
     }
