@@ -5506,5 +5506,28 @@
       "actualEndTime": "2024-06-21T01:56:39Z",
       "scheduledStartTime": "2024-06-21T01:50:00Z"
     }
+  },
+  "1irUIiD3z80": {
+    "snippet": {
+      "publishedAt": "2024-06-25T12:55:51Z",
+      "channelId": "UCoSrY_IQQVpmIRZ9Xf-y93g",
+      "title": "\u3010DARK SOULS: REMASTERED\u3011help"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-26T00:00:00Z",
+      "activeLiveChatId": "Cg0KCzFpclVJaUQzejgwKicKGFVDb1NyWV9JUVFWcG1JUlo5WGYteTkzZxILMWlyVUlpRDN6ODA"
+    }
+  },
+  "YjzQm_34aVw": {
+    "snippet": {
+      "publishedAt": "2024-05-23T03:34:45Z",
+      "channelId": "UCoSrY_IQQVpmIRZ9Xf-y93g",
+      "title": "\u3010Gawr Gura\u3011GIVE UP \u4eca\u4e16 \u58ca\u3010DYES IWASAKI(FAKE TYPE.)\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-26T11:00:00Z",
+      "activeLiveChatId": "Cg0KC1lqelFtXzM0YVZ3KicKGFVDb1NyWV9JUVFWcG1JUlo5WGYteTkzZxILWWp6UW1fMzRhVnc",
+      "premiere": true
+    }
   }
 }
