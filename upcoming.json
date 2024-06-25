@@ -1186,6 +1186,7 @@
       "title": "\u3010\u3074\u306a\u68ee\u3011 \u7652\u3057\u306e\u6642\u9593\u3060 \u3010\u306b\u3058\u3055\u3093\u3058 | \u30bb\u30d5\u30a3\u30ca\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-25T08:00:47Z",
       "scheduledStartTime": "2024-06-25T08:00:00Z",
       "activeLiveChatId": "Cg0KCzh6UDF3ajNSV3p3KicKGFVDZUdlbmRMOENPNVJrZmZCNklGd0hvdxILOHpQMXdqM1JXenc"
     }
@@ -4752,6 +4753,17 @@
       "activeLiveChatId": "Cg0KC1o4eF9lWmgwLXE0KicKGFVDQlVSTThTNExIN2NSWjBDbGVhOVJEQRILWjh4X2VaaDAtcTQ"
     }
   },
+  "ZGZe-CJXF-M": {
+    "snippet": {
+      "publishedAt": "2024-06-25T07:58:07Z",
+      "channelId": "UCKabX-FnaBztcxmgex2-fYA",
+      "title": "\u3010Warhammer 40,000: Darktide\u3011 Yuz gits just needs more dakka"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-26T03:00:59Z",
+      "activeLiveChatId": "Cg0KC1pHWmUtQ0pYRi1NKicKGFVDS2FiWC1GbmFCenRjeG1nZXgyLWZZQRILWkdaZS1DSlhGLU0"
+    }
+  },
   "ZNBZOrjuxkU": {
     "snippet": {
       "publishedAt": "2024-06-23T12:59:38Z",
@@ -6457,18 +6469,6 @@
       "activeLiveChatId": "Cg0KC203bGRsVEkzamlrKicKGFVDMHdfZHZrSXduWHpNYWs2Z2ZlaW9SURILbTdsZGxUSTNqaWs"
     }
   },
-  "m9sOwU-vez8": {
-    "snippet": {
-      "publishedAt": "2024-06-25T07:03:22Z",
-      "channelId": "UCpYf6C9QsP_BRf97vLuXlIA",
-      "title": "\u3010ELDEN RING #4\u3011MESMERRRRRRRRRRRRRRRRRRRRRR   [NIJISANJI EN | Vantacrow Bringer]"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-25T07:04:31Z",
-      "scheduledStartTime": "2024-06-25T07:05:00Z",
-      "activeLiveChatId": "Cg0KC205c093VS12ZXo4KicKGFVDcFlmNkM5UXNQX0JSZjk3dkx1WGxJQRILbTlzT3dVLXZlejg"
-    }
-  },
   "mBMP-cpNO1Q": {
     "snippet": {
       "publishedAt": "2023-02-24T08:14:33Z",
@@ -7142,6 +7142,7 @@
       "title": "REBROADCAST =\u3010UNARCHIVED KARAOKE\u3011Sing Song Innit~! \ud83d\udc84 #hololiveEnglish #holoJustice"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-25T07:59:44Z",
       "scheduledStartTime": "2024-06-25T08:00:00Z",
       "activeLiveChatId": "Cg0KC3JZbEI4Mk95RUdVKicKGFVDVzV1aHJHMWVDQllkaXRtaEwwWWtqdxILcllsQjgyT3lFR1U"
     }
