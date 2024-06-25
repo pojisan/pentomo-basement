@@ -3726,18 +3726,6 @@
       "activeLiveChatId": "Cg0KC1B5eU85akx4cm80KicKGFVDUTNzX2tRWWYzUHVxT0t1OTBIcklxdxILUHl5TzlqTHhybzQ"
     }
   },
-  "PzrdX0I814s": {
-    "snippet": {
-      "publishedAt": "2024-06-25T15:33:47Z",
-      "channelId": "UCW5uhrG1eCBYditmhL0Ykjw",
-      "title": "\u3010UNARCHIVED KARAOKE\u3011Kiss From A Rose?~! \ud83d\udc84 #hololiveEnglish #holoJustice"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-25T17:59:56Z",
-      "scheduledStartTime": "2024-06-25T18:00:00Z",
-      "activeLiveChatId": "Cg0KC1B6cmRYMEk4MTRzKicKGFVDVzV1aHJHMWVDQllkaXRtaEwwWWtqdxILUHpyZFgwSTgxNHM"
-    }
-  },
   "Q0Off4H2ikQ": {
     "snippet": {
       "publishedAt": "2022-02-08T17:37:22Z",
@@ -5759,6 +5747,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-28T02:00:00Z",
       "activeLiveChatId": "Cg0KC2R0UVphWE55dW53KicKGFVDb0F3M1NNTF8wOWRGLTd5aFFVOHdGURILZHRRWmFYTnl1bnc"
+    }
+  },
+  "dvVg0xP6hmA": {
+    "snippet": {
+      "publishedAt": "2024-06-25T20:45:08Z",
+      "channelId": "UCM_Mb-ZC3jMg3p32jN6v4cA",
+      "title": "DID I FORGET HOW TO FIGHT FOR DEMOCRACY?? | Helldivers 2"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-29T01:00:00Z",
+      "activeLiveChatId": "Cg0KC2R2VmcweFA2aG1BKicKGFVDTV9NYi1aQzNqTWczcDMyak42djRjQRILZHZWZzB4UDZobUE"
     }
   },
   "dwPADgo8YSY": {
@@ -8449,16 +8448,15 @@
       "activeLiveChatId": "Cg0KC3hoejNaZUhYaVI4KicKGFVDZWpiaWNvUm5RakNPZEFQQXY1SlB3ZxILeGh6M1plSFhpUjg"
     }
   },
-  "xvRLXoAcqcg": {
+  "xiulanlong": {
     "snippet": {
-      "publishedAt": "2024-06-23T09:40:41Z",
-      "channelId": "UClxj3GlGphZVgd1SLYhZKmg",
-      "title": "\u3010MINECRAFT VSMP\u3011Cozy and chaotic times in the big VTuber server!"
+      "channelId": "xiulanlong",
+      "title": "[VTUBER] NO MORE WORK = DRINK = ALT F4?!! (\u25cd\u2022\u1d17\u2022\u25cd) !cover !discord !merch",
+      "channelTitle": "XiulanLong"
     },
     "liveStreamingDetails": {
-      "actualStartTime": "2024-06-25T15:59:34Z",
-      "scheduledStartTime": "2024-06-25T16:00:00Z",
-      "activeLiveChatId": "Cg0KC3h2UkxYb0FjcWNnKicKGFVDbHhqM0dsR3BoWlZnZDFTTFloWkttZxILeHZSTFhvQWNxY2c"
+      "actualStartTime": "2024-06-25T20:48:34Z",
+      "twitch": true
     }
   },
   "xvk04wgMLaA": {
