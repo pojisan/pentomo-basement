@@ -1188,7 +1188,9 @@
       "title": "\u3010\u96d1\u8ac7\u3011\u3075\u308a\u304b\u3048\u308a\u3063\uff01\uff5e3D\u304a\u62ab\u9732\u76ee\u3068GTA\u3068\u9ebb\u96c0\u3068\u305f\u304f\u3055\u3093\u306a\u4ef6\u306b\u3064\u3044\u3066\uff5e\u3010\u77f3\u795e\u306e\u305e\u307f\uff0f\u306b\u3058\u3055\u3093\u3058\u6240\u5c5e\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-25T12:15:00Z"
+      "actualStartTime": "2024-06-25T12:21:11Z",
+      "scheduledStartTime": "2024-06-25T12:15:00Z",
+      "activeLiveChatId": "Cg0KCzhXVGVHV09lQWpFKicKGFVDdExmQV9xVXFDSnRqWEpNMlpSX2tlZxILOFdUZUdXT2VBakU"
     }
   },
   "8WrujVvshBU": {
@@ -1869,18 +1871,6 @@
       "activeLiveChatId": "Cg0KC0U1cFVveU1wZmxzKicKGFVDOUswNldqa2pYVW9xX09LQ0pYUzRkURILRTVwVW95TXBmbHM"
     }
   },
-  "E8KA442WeHE": {
-    "snippet": {
-      "publishedAt": "2024-06-23T09:04:49Z",
-      "channelId": "UCMmy_EmxnYQ8aar8fNZrumw",
-      "title": "\u3010Watch Dogs\u3011watch cats"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-25T08:17:05Z",
-      "scheduledStartTime": "2024-06-25T08:00:00Z",
-      "activeLiveChatId": "Cg0KC0U4S0E0NDJXZUhFKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILRThLQTQ0MldlSEU"
-    }
-  },
   "ECM3LeeBQ4M": {
     "snippet": {
       "publishedAt": "2024-06-23T10:03:39Z",
@@ -2306,6 +2296,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-07-10T09:55:00Z",
       "activeLiveChatId": "Cg0KC0daM1c2Z3ZITXVnKicKGFVDNmxaTEFPZ1NZZ0o2WmtXMlpUSTc1URILR1ozVzZndkhNdWc"
+    }
+  },
+  "GcC-tIQo7fA": {
+    "snippet": {
+      "publishedAt": "2024-06-25T12:11:22Z",
+      "channelId": "UCgIfLpQvelloDi8I0Ycbwpg",
+      "title": "\u3010\u6df1\u591c\u30db\u30e9\u30b2FNAF\u3011\u3048\u30fc\u3063\u3068\u3001\u7a3c\u3052\u308b\u30d4\u30b6\u30d0\u30a4\u30c8\u306a\u3093\u3067\u3059\u308f\u3088\u306d\uff1f\u3010Five Nights at Freddy's2\u3067\u3059\u308f\uff5e\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-25T14:00:00Z",
+      "activeLiveChatId": "Cg0KC0djQy10SVFvN2ZBKicKGFVDZ0lmTHBRdmVsbG9EaThJMFljYndwZxILR2NDLXRJUW83ZkE"
     }
   },
   "Gm2lg7k_8h4": {
@@ -3522,6 +3523,7 @@
       "title": "\u30107Days to Die\u3011\u6b63\u5f0f\u7248\u306b\u304a\u89e6\u308a\u3059\u308b\u7d2b\u7fe0\u307f\u3061\u308b"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-25T12:13:34Z",
       "scheduledStartTime": "2024-06-25T12:00:00Z",
       "activeLiveChatId": "Cg0KC09RbTR0c2NFd1prKicKGFVDMWNFeEVUOXhvV1NPOWlTblJzV18xURILT1FtNHRzY0V3Wms"
     }
@@ -5257,6 +5259,7 @@
       "title": "\u3010ANGELS OF DEATH #4\u3011One final chapter\u3010NIJISANJI EN | Ike Eveland\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-25T12:14:19Z",
       "scheduledStartTime": "2024-06-25T12:00:00Z",
       "activeLiveChatId": "Cg0KC2FpRGluNFo5QVRBKicKGFVDNHlOSUtHdnktWVVyd1l1cFZkTERYQRILYWlEaW40WjlBVEE"
     }
@@ -5410,6 +5413,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-11-15T23:00:00Z",
       "activeLiveChatId": "Cg0KC2J4d2U1Vkx4N3hRKicKGFVDcjhOWjlqT3JyVmNJUm5hSFpDakpVZxILYnh3ZTVWTHg3eFE"
+    }
+  },
+  "bz5tWhCGc0I": {
+    "snippet": {
+      "publishedAt": "2024-06-25T12:10:37Z",
+      "channelId": "UCkJ64W0J7R0zCSAsZfRIhVQ",
+      "title": "[ZATSUDAN] A regular zatsudan? In this economy?"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-26T00:00:00Z",
+      "activeLiveChatId": "Cg0KC2J6NXRXaENHYzBJKicKGFVDa0o2NFcwSjdSMHpDU0FzWmZSSWhWURILYno1dFdoQ0djMEk"
     }
   },
   "bzOEx6ohOxo": {
@@ -6562,18 +6576,6 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC2xQR2hoN0lQWFJRKicKGFVDS250czhTX2hheWpRSU9YdFFLQ1ZJZxILbFBHaGg3SVBYUlE"
-    }
-  },
-  "lQNk7XclPds": {
-    "snippet": {
-      "publishedAt": "2024-06-24T07:17:50Z",
-      "channelId": "UCnpc7HpcifVpi6RBzNge51w",
-      "title": "\u3010Starbound\u3011I nomnom dirt\u3010Cyanne Aria | bondlive_EN\u3011#shorts #vtuber #starbound"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-25T06:00:09Z",
-      "scheduledStartTime": "2024-06-25T06:00:00Z",
-      "activeLiveChatId": "Cg0KC2xRTms3WGNsUGRzKicKGFVDbnBjN0hwY2lmVnBpNlJCek5nZTUxdxILbFFOazdYY2xQZHM"
     }
   },
   "lRjBARJBGyE": {
