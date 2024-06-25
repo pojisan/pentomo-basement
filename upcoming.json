@@ -840,6 +840,17 @@
       "activeLiveChatId": "Cg0KCzRXNGpGMjc1eHFFKicKGFVDNkVnalVaU1lTQVFlOUNERnhINzE1dxILNFc0akYyNzV4cUU"
     }
   },
+  "4ZoKKOYP9S0": {
+    "snippet": {
+      "publishedAt": "2024-06-25T20:01:58Z",
+      "channelId": "UCKJexadCeNo3lu0U20skmNg",
+      "title": "[CYA] We're Getting Married"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-25T22:30:00Z",
+      "activeLiveChatId": "Cg0KCzRab0tLT1lQOVMwKicKGFVDS0pleGFkQ2VObzNsdTBVMjBza21OZxILNFpvS0tPWVA5UzA"
+    }
+  },
   "4lJcflgbMig": {
     "snippet": {
       "publishedAt": "2024-06-25T16:09:58Z",
@@ -5329,6 +5340,17 @@
       "twitch": true
     }
   },
+  "apollomythos": {
+    "snippet": {
+      "channelId": "apollomythos",
+      "title": "18+ \u2600\ufe0f\u2600\ufe0f Just chaatting + Gaming and reacting\u2600\ufe0f  (SOUND ALERTS R ON) \u3010!discord\u3011\u3010!mythos\u3011\u3010!raid\u3011\u3010!Donate\u3011",
+      "channelTitle": "ApolloMythos"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-25T20:03:35Z",
+      "twitch": true
+    }
+  },
   "auCkpoNM1yE": {
     "snippet": {
       "publishedAt": "2024-03-24T19:34:20Z",
@@ -6077,18 +6099,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-29T10:30:00Z",
       "activeLiveChatId": "Cg0KC2dTZDdvUThyNUxZKicKGFVDTzR6TWFZQkV6ZFlJU2Zlb082aXBfURILZ1NkN29ROHI1TFk"
-    }
-  },
-  "gYPCPxB_UEU": {
-    "snippet": {
-      "publishedAt": "2024-06-25T07:04:08Z",
-      "channelId": "UC1sm9H2orvynDajcE4jrYug",
-      "title": "\u3010ZOOKEEPER SIMULATOR\u3011LET'S RAISE MONEY FOR CHARITY! COLLAB\u3010globie | Kiri Kilovolt\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-25T17:55:15Z",
-      "scheduledStartTime": "2024-06-25T18:00:00Z",
-      "activeLiveChatId": "Cg0KC2dZUENQeEJfVUVVKicKGFVDMXNtOUgyb3J2eW5EYWpjRTRqcll1ZxILZ1lQQ1B4Ql9VRVU"
     }
   },
   "gdlpkdrgLy0": {
@@ -7049,6 +7059,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-26T01:00:00Z",
       "activeLiveChatId": "Cg0KC25kQ1BEbWJSd3VRKicKGFVDa2pQX3c2MDdCLW40a1dKclpBc0hNURILbmRDUERtYlJ3dVE"
+    }
+  },
+  "niasuzune": {
+    "snippet": {
+      "channelId": "niasuzune",
+      "title": "DRUNK WARZONE!? ft @keiishima and @meliaweiss | !merch !discord",
+      "channelTitle": "NiaSuzune"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-25T20:09:12Z",
+      "twitch": true
     }
   },
   "ninaninin": {
@@ -8611,6 +8632,7 @@
       "title": "\u3010WARZONE\u3011DRUNK WARZONE!?"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-25T20:09:48Z",
       "scheduledStartTime": "2024-06-25T20:00:00Z",
       "activeLiveChatId": "Cg0KC3lxNHhwQmpmZ01jKicKGFVDdzFLTmpWcWZySlNmY0ZkNnpsY1N6QRILeXE0eHBCamZnTWM"
     }
