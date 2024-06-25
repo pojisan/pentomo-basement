@@ -720,7 +720,8 @@
     "snippet": {
       "publishedAt": "2024-06-19T20:32:34Z",
       "channelId": "UC1sm9H2orvynDajcE4jrYug",
-      "title": "\u3010STAR SPRINT!!!\u3011EP.6 ft. @Evanit0 - WHO'S BEING INTERVIEWED?\u3010globie | Kiri Kilovolt\u3011"
+      "title": "\u3010STAR SPRINT!!!\u3011EP.6 ft. @Evanit0 - WHO'S BEING INTERVIEWED?\u3010globie | Kiri Kilovolt\u3011",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-26T18:00:00Z",
@@ -774,7 +775,8 @@
     "snippet": {
       "publishedAt": "2024-06-23T22:59:58Z",
       "channelId": "UC1sm9H2orvynDajcE4jrYug",
-      "title": "\u3010STAR SPRINT!!!\u3011EP.7 - SHE CAN FIX ME...SURELY \u3010globie | Kiri Kilovolt\u3011"
+      "title": "\u3010STAR SPRINT!!!\u3011EP.7 - SHE CAN FIX ME...SURELY \u3010globie | Kiri Kilovolt\u3011",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-27T18:00:00Z",
@@ -788,6 +790,7 @@
       "title": "\u3010ZOOKEEPER SIMULATOR\u3011LET'S RAISE MONEY FOR CHARITY! COLLAB\u3010globie | Kiri Kilovolt\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-25T17:55:15Z",
       "scheduledStartTime": "2024-06-25T18:00:00Z",
       "activeLiveChatId": "Cg0KC2dZUENQeEJfVUVVKicKGFVDMXNtOUgyb3J2eW5EYWpjRTRqcll1ZxILZ1lQQ1B4Ql9VRVU"
     }
