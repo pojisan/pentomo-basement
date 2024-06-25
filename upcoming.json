@@ -1415,6 +1415,7 @@
       "title": "WE'VE FRICKED THEM ALL \ud83d\udca6"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-25T21:59:17Z",
       "scheduledStartTime": "2024-06-25T21:30:00Z",
       "activeLiveChatId": "Cg0KC0FlMTBJa2J6SUljKicKGFVDeUY3U2VJeVdsVXpua19zZ19YakM4URILQWUxMElrYnpJSWM"
     }
@@ -5138,7 +5139,7 @@
     "snippet": {
       "publishedAt": "2024-06-25T00:22:48Z",
       "channelId": "UCC4hjJp_MttwfZcuWc0OpVQ",
-      "title": "\u3010What Remains of Edith Finch\u3011Tough girl like me won't cry at this sad game!!\u3010idolEN | Kai Saikota\u3011"
+      "title": "\u3010What Remains of Edith Finch\u3011I WON'T CRY NUH-UH!!\u3010idolEN | Kai Saikota\u3011"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-25T22:00:00Z",
@@ -5287,6 +5288,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-30T13:00:00Z",
       "activeLiveChatId": "Cg0KC2FtZkdTd01uX1FrKicKGFVDazB2dXd3c21fVVFISElPZ0d2eFUtQRILYW1mR1N3TW5fUWs"
+    }
+  },
+  "angelinakumalo": {
+    "snippet": {
+      "channelId": "angelinakumalo",
+      "title": "\u2730Two brain rotted zoomers try to solve puzzles\u2730 @suikaart (!gamersupps !merch !clip !discord)",
+      "channelTitle": "AngelinaKumalo"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-25T22:00:09Z",
+      "twitch": true
     }
   },
   "apollomythos": {
@@ -6444,6 +6456,17 @@
       "activeLiveChatId": "Cg0KC2pNaDlDcldwQllFKicKGFVDbk5MWldqbDRHdlZGNHM4ekJUOV9rQRILak1oOUNyV3BCWUU"
     }
   },
+  "jOfjG-pJx3w": {
+    "snippet": {
+      "publishedAt": "2024-06-25T21:56:37Z",
+      "channelId": "UCoAw3SML_09dF-7yhQU8wFQ",
+      "title": "temp title since i have no idea what's gonna happen #ffxiv #dawntrail"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-29T21:00:00Z",
+      "activeLiveChatId": "Cg0KC2pPZmpHLXBKeDN3KicKGFVDb0F3M1NNTF8wOWRGLTd5aFFVOHdGURILak9makctcEp4M3c"
+    }
+  },
   "jPfNhZJ_rlw": {
     "snippet": {
       "publishedAt": "2024-06-25T08:05:49Z",
@@ -6722,17 +6745,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-29T01:00:00Z",
       "activeLiveChatId": "Cg0KC2xkLVlLZk5hOUNrKicKGFVDM1Q3Tnd5UUJBeWx5V180WE9hOXdFURILbGQtWUtmTmE5Q2s"
-    }
-  },
-  "leobelpurson": {
-    "snippet": {
-      "channelId": "leobelpurson",
-      "title": "Lets plays some Bioshock remastered",
-      "channelTitle": "LeobelPurson"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-25T18:58:36Z",
-      "twitch": true
     }
   },
   "lgJo3UyqBJs": {
@@ -8130,6 +8142,7 @@
       "title": "We'll face our future together!! | Xenoblade Chronicles Future Connected"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-25T21:59:26Z",
       "scheduledStartTime": "2024-06-25T22:00:00Z",
       "activeLiveChatId": "Cg0KC3dXT3ZBYlAzMHRFKicKGFVDQkpGc2FDdmdCYTFhOUJuRWF4dTk3URILd1dPdkFiUDMwdEU"
     }
