@@ -1373,8 +1373,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-25T18:05:07Z",
-      "scheduledStartTime": "2024-06-25T17:00:00Z",
-      "activeLiveChatId": "Cg0KC255aWt1NGo1elFvKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILbnlpa3U0ajV6UW8"
+      "actualEndTime": "2024-06-25T20:24:10Z",
+      "scheduledStartTime": "2024-06-25T17:00:00Z"
     }
   },
   "SqJlA4LEpIU": {
@@ -1444,6 +1444,17 @@
       "actualStartTime": "2024-06-23T12:11:54Z",
       "actualEndTime": "2024-06-23T13:48:22Z",
       "scheduledStartTime": "2024-06-23T12:00:00Z"
+    }
+  },
+  "yxiCdifz46c": {
+    "snippet": {
+      "publishedAt": "2024-06-25T20:28:04Z",
+      "channelId": "UCMmy_EmxnYQ8aar8fNZrumw",
+      "title": "\u3010The Abduction\u3011kidnapping @ShabelTonya@RubyRuneheart"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-26T08:00:00Z",
+      "activeLiveChatId": "Cg0KC3l4aUNkaWZ6NDZjKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILeXhpQ2RpZno0NmM"
     }
   }
 }
