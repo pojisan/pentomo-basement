@@ -834,7 +834,8 @@
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-07-15T02:30:00Z",
-      "activeLiveChatId": "Cg0KCzVNNS1oZEk4bDZNKicKGFVDdTFJTnplZnczUjdNOS0zUUVIWW1NURILNU01LWhkSThsNk0"
+      "activeLiveChatId": "Cg0KCzVNNS1oZEk4bDZNKicKGFVDdTFJTnplZnczUjdNOS0zUUVIWW1NURILNU01LWhkSThsNk0",
+      "premiere": true
     }
   },
   "5V_VDqRKnBA": {
@@ -3483,7 +3484,8 @@
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-07-08T02:30:00Z",
-      "activeLiveChatId": "Cg0KC1BQcEx1cXZzUmJrKicKGFVDdTFJTnplZnczUjdNOS0zUUVIWW1NURILUFBwTHVxdnNSYms"
+      "activeLiveChatId": "Cg0KC1BQcEx1cXZzUmJrKicKGFVDdTFJTnplZnczUjdNOS0zUUVIWW1NURILUFBwTHVxdnNSYms",
+      "premiere": true
     }
   },
   "PRufw2owVh4": {
@@ -3723,18 +3725,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-25T09:00:00Z",
       "activeLiveChatId": "Cg0KC1JjNGJ0Z3liQmhjKicKGFVDR1h3djJ6WU94ZVdpTk55UGlMQ0JDURILUmM0YnRneWJCaGM"
-    }
-  },
-  "RtrEWa7ffKs": {
-    "snippet": {
-      "publishedAt": "2024-06-24T15:18:32Z",
-      "channelId": "UC2Ne6dDcFxnM2hCBLii3IUg",
-      "title": "\u3010MINECRAFT VSMP\u3011Exploring the world of cute girls~\u3010Dr.NOVA(e) | V4Mirai | ENVtuber\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-24T21:00:37Z",
-      "scheduledStartTime": "2024-06-24T21:00:00Z",
-      "activeLiveChatId": "Cg0KC1J0ckVXYTdmZktzKicKGFVDMk5lNmREY0Z4bk0yaENCTGlpM0lVZxILUnRyRVdhN2ZmS3M"
     }
   },
   "RxHtpP21aPE": {
@@ -4671,6 +4661,17 @@
       "activeLiveChatId": "Cg0KC1o4eF9lWmgwLXE0KicKGFVDQlVSTThTNExIN2NSWjBDbGVhOVJEQRILWjh4X2VaaDAtcTQ"
     }
   },
+  "ZAPdFzuh8L8": {
+    "snippet": {
+      "publishedAt": "2024-06-25T00:42:04Z",
+      "channelId": "UCiBMH1d7ew_3bi2A_zZGsmw",
+      "title": "\u3010Animal Crossing\u3011 Cute game + Chill talk\u3010idolES | Taiga Toragami\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-25T02:00:00Z",
+      "activeLiveChatId": "Cg0KC1pBUGRGenVoOEw4KicKGFVDaUJNSDFkN2V3XzNiaTJBX3paR3NtdxILWkFQZEZ6dWg4TDg"
+    }
+  },
   "ZNBZOrjuxkU": {
     "snippet": {
       "publishedAt": "2024-06-23T12:59:38Z",
@@ -4913,7 +4914,8 @@
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-07-01T02:30:00Z",
-      "activeLiveChatId": "Cg0KC2FQS2pJQlBXVUkwKicKGFVDdTFJTnplZnczUjdNOS0zUUVIWW1NURILYVBLaklCUFdVSTA"
+      "activeLiveChatId": "Cg0KC2FQS2pJQlBXVUkwKicKGFVDdTFJTnplZnczUjdNOS0zUUVIWW1NURILYVBLaklCUFdVSTA",
+      "premiere": true
     }
   },
   "aYVLsWGRT8w": {
@@ -5378,7 +5380,8 @@
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-25T23:00:00Z",
-      "activeLiveChatId": "Cg0KC2VSdjVLLUhaZkNNKicKGFVDc3d2ZDZfWVdtZDZyaVJrLThvVC1zQRILZVJ2NUstSFpmQ00"
+      "activeLiveChatId": "Cg0KC2VSdjVLLUhaZkNNKicKGFVDc3d2ZDZfWVdtZDZyaVJrLThvVC1zQRILZVJ2NUstSFpmQ00",
+      "premiere": true
     }
   },
   "eT1T1-BP85k": {
@@ -6705,7 +6708,7 @@
       "channelTitle": "PoseidonMythos"
     },
     "liveStreamingDetails": {
-      "actualStartTime": "2024-06-24T22:30:10Z",
+      "actualStartTime": "2024-06-25T00:46:18Z",
       "twitch": true
     }
   },
@@ -7520,18 +7523,6 @@
       "activeLiveChatId": "Cg0KC3ZHVGtFS2gwdVJNKicKGFVDVEZDU0NQdnFqWEVzM3pxOTFhZU9WZxILdkdUa0VLaDB1Uk0"
     }
   },
-  "vI6c75SRsHw": {
-    "snippet": {
-      "publishedAt": "2024-06-24T21:35:12Z",
-      "channelId": "UCtuoyOZhnxJ12pE294FdH8Q",
-      "title": "all my stuff is gone...\u3010MINECRAFT VSMP\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-24T22:06:42Z",
-      "scheduledStartTime": "2024-06-24T22:05:00Z",
-      "activeLiveChatId": "Cg0KC3ZJNmM3NVNSc0h3KicKGFVDdHVveU9aaG54SjEycEUyOTRGZEg4URILdkk2Yzc1U1JzSHc"
-    }
-  },
   "v_qwowms8-Y": {
     "snippet": {
       "publishedAt": "2024-06-24T10:19:50Z",
@@ -7743,7 +7734,8 @@
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-27T00:30:00Z",
-      "activeLiveChatId": "Cg0KC3dpTThPYUxoZHdBKicKGFVDQzRoakpwX010dHdmWmN1V2MwT3BWURILd2lNOE9hTGhkd0E"
+      "activeLiveChatId": "Cg0KC3dpTThPYUxoZHdBKicKGFVDQzRoakpwX010dHdmWmN1V2MwT3BWURILd2lNOE9hTGhkd0E",
+      "premiere": true
     }
   },
   "wildspice": {
