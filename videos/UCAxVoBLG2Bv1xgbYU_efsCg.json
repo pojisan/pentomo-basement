@@ -555,6 +555,7 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-24T23:59:24Z",
+      "actualEndTime": "2024-06-25T02:27:38Z",
       "scheduledStartTime": "2024-06-25T00:00:00Z",
       "activeLiveChatId": "Cg0KC25kSVJuRnh5NVhNKicKGFVDQXhWb0JMRzJCdjF4Z2JZVV9lZnNDZxILbmRJUm5GeHk1WE0"
     }
@@ -564,6 +565,18 @@
       "publishedAt": "2024-06-24T21:30:06Z",
       "channelId": "UCAxVoBLG2Bv1xgbYU_efsCg",
       "title": "The VTuber Master Plan #VSMP  #daiyafortuna  #minecraft #vtuberclips"
+    }
+  },
+  "hcNWDzyfKLA": {
+    "snippet": {
+      "publishedAt": "2024-06-25T02:26:37Z",
+      "channelId": "UCAxVoBLG2Bv1xgbYU_efsCg",
+      "title": "MINE TIME MINE TIME [PIXEL VSMP]"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-25T02:29:13Z",
+      "scheduledStartTime": "2024-06-25T02:25:00Z",
+      "activeLiveChatId": "Cg0KC2hjTldEenlmS0xBKicKGFVDQXhWb0JMRzJCdjF4Z2JZVV9lZnNDZxILaGNOV0R6eWZLTEE"
     }
   }
 }
