@@ -772,8 +772,20 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-25T17:35:18Z",
-      "scheduledStartTime": "2024-06-25T17:30:00Z",
-      "activeLiveChatId": "Cg0KC3JEeHdhdFNvelg0KicKGFVDNjc4c0pucVR3bHNXd05rMlJXUksyZxILckR4d2F0U296WDQ"
+      "actualEndTime": "2024-06-25T19:22:05Z",
+      "scheduledStartTime": "2024-06-25T17:30:00Z"
+    }
+  },
+  "ckfPoGgGJ9w": {
+    "snippet": {
+      "publishedAt": "2024-06-25T19:23:26Z",
+      "channelId": "UC678sJnqTwlsWwNk2RWRK2g",
+      "title": "\u3010ZooKeeper Simulator\u3011Charity Collab Stream!\u3010Vilhelm Vanderbos | globie Gen 2 | Equinnox\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-25T19:24:51Z",
+      "scheduledStartTime": "2024-06-25T19:25:00Z",
+      "activeLiveChatId": "Cg0KC2NrZlBvR2dHSjl3KicKGFVDNjc4c0pucVR3bHNXd05rMlJXUksyZxILY2tmUG9HZ0dKOXc"
     }
   }
 }
