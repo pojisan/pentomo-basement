@@ -1313,6 +1313,7 @@
       "title": "\u3010Watch Dogs\u3011IM IN YOUR IP"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T13:37:46Z",
       "scheduledStartTime": "2024-06-22T08:00:00Z",
       "activeLiveChatId": "Cg0KC19VS251R3dhMkhvKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILX1VLbnVHd2EySG8"
     }
@@ -1408,8 +1409,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-26T12:06:10Z",
-      "scheduledStartTime": "2024-06-26T12:00:00Z",
-      "activeLiveChatId": "Cg0KC0RwUW01dVZvTDFJKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILRHBRbTV1Vm9MMUk"
+      "actualEndTime": "2024-06-26T13:33:56Z",
+      "scheduledStartTime": "2024-06-26T12:00:00Z"
     }
   },
   "R8TGFwczh0Y": {
