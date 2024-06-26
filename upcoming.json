@@ -10,6 +10,17 @@
       "activeLiveChatId": "Cg0KCy0tNlh0VkdSbTNFKicKGFVDcGVSajktR2FMR05Vb0tkSTVJN3ZaQRILLS02WHRWR1JtM0U"
     }
   },
+  "--XCVbOp4pc": {
+    "snippet": {
+      "publishedAt": "2024-06-26T19:56:21Z",
+      "channelId": "UCA4bOB1Jnw5-lbuoSCfxc-w",
+      "title": "Vtuber Plays Digimon TGG"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-27T00:00:00Z",
+      "activeLiveChatId": "Cg0KCy0tWENWYk9wNHBjKicKGFVDQTRiT0IxSm53NS1sYnVvU0NmeGMtdxILLS1YQ1ZiT3A0cGM"
+    }
+  },
   "-4W8xH-AuAA": {
     "snippet": {
       "publishedAt": "2024-02-12T09:31:27Z",
@@ -417,6 +428,7 @@
       "title": "I'm going down to South Park..."
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T19:55:28Z",
       "scheduledStartTime": "2024-06-26T20:00:00Z",
       "activeLiveChatId": "Cg0KCzFMekwwcF9QdmVRKicKGFVDOXhSN3VOMHg1YTZDSDNVb3BxN2N6QRILMUx6TDBwX1B2ZVE"
     }
@@ -571,18 +583,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-28T03:00:00Z",
       "activeLiveChatId": "Cg0KCzJVRjhjckV0RUtvKicKGFVDMXRScVFUSTNCY2hzOFh2VW5qOHl2URILMlVGOGNyRXRFS28"
-    }
-  },
-  "2V6X4pVrkwk": {
-    "snippet": {
-      "publishedAt": "2024-06-26T04:51:02Z",
-      "channelId": "UCcHHkJ98eSfa5aj0mdTwwLQ",
-      "title": "\u3010KARAOKE!!!\u3011singing to break the blues!!!!!!\u3010Maid Mint Fantome\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-26T17:24:40Z",
-      "scheduledStartTime": "2024-06-26T17:15:00Z",
-      "activeLiveChatId": "Cg0KCzJWNlg0cFZya3drKicKGFVDY0hIa0o5OGVTZmE1YWowbWRUd3dMURILMlY2WDRwVnJrd2s"
     }
   },
   "2W9uhZ-beTM": {
@@ -1481,6 +1481,7 @@
       "title": "\u3010Karaoke\u3011 Autoplay Setlist~!! \u3010Yume+ | Mero Umiko\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T20:00:11Z",
       "scheduledStartTime": "2024-06-26T20:00:00Z",
       "activeLiveChatId": "Cg0KC0M0ZEQ4bVVsR1I4KicKGFVDOVNXSXpIUDA3UEwxeTZjVTh3a0R3QRILQzRkRDhtVWxHUjg"
     }
@@ -3156,6 +3157,7 @@
       "title": "\u3010Live2D rig\u3011Woof Woof Time to rig a Barkaneer!\u3010Alicja Da Lontano | Globie Gen 2 Solstia\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T19:57:33Z",
       "scheduledStartTime": "2024-06-26T20:00:00Z",
       "activeLiveChatId": "Cg0KC01zRi10b2kxRnJZKicKGFVDcWxndGs5SF8xR29XdHZXOFZpaTM4dxILTXNGLXRvaTFGclk"
     }
@@ -3525,6 +3527,7 @@
       "title": "\u3010Reading Fanfiction\u3011My Immortal pt 2 (goffs only)\u3010VAllure\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T20:00:21Z",
       "scheduledStartTime": "2024-06-26T20:00:00Z",
       "activeLiveChatId": "Cg0KC1BBNThsb1Vyald3KicKGFVDdll6d0VrQ1EyN2dQYWo1NHdCc1ZPZxILUEE1OGxvVXJqV3c"
     }
@@ -5468,17 +5471,6 @@
       "activeLiveChatId": "Cg0KC2NyMXlWYll0YVlvKicKGFVDTjViRDFZWWFwVGhPZWFkRzdZa0JPQRILY3IxeVZiWXRhWW8"
     }
   },
-  "cynth_ai": {
-    "snippet": {
-      "channelId": "cynth_ai",
-      "title": "VTUBER SUMMER SLAM CHARITY STREAM | Team Sunny | Minecraft | !Charity !Lurk",
-      "channelTitle": "cynth_AI"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-26T16:03:42Z",
-      "twitch": true
-    }
-  },
   "d-U2t6BuMNU": {
     "snippet": {
       "publishedAt": "2023-06-12T16:00:17Z",
@@ -5592,6 +5584,7 @@
       "title": "\u3010Dragons Dogma 2\u3011IM SO BAD\u3010bondliveEN | Ivaela Daemoni\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T20:01:31Z",
       "scheduledStartTime": "2024-06-26T20:00:00Z",
       "activeLiveChatId": "Cg0KC2RrRzNaeWZZNE9JKicKGFVDeGJORVc3eHlrVEM3aEU1Rllnd3JPdxILZGtHM1p5Zlk0T0k"
     }
@@ -6460,6 +6453,17 @@
       "activeLiveChatId": "Cg0KC2s2Um5HZUNGdjZFKicKGFVDY1BjLTVPckxialZCZ1EtemlFV1BTURILazZSbkdlQ0Z2NkU"
     }
   },
+  "kEOd8Np9kOM": {
+    "snippet": {
+      "publishedAt": "2024-06-26T19:56:35Z",
+      "channelId": "UCdureux7B_V-xhM7tYImASQ",
+      "title": "MINECRAFTING w/ @PipkinPippa"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-26T22:00:00Z",
+      "activeLiveChatId": "Cg0KC2tFT2Q4TnA5a09NKicKGFVDZHVyZXV4N0JfVi14aE03dFlJbUFTURILa0VPZDhOcDlrT00"
+    }
+  },
   "kLgULS_I3Z0": {
     "snippet": {
       "publishedAt": "2024-06-13T22:49:58Z",
@@ -6919,6 +6923,17 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC29HWmlJNEMtd01FKicKGFVDaUEtdHJTWmZCMGk5MlZfLWR5RHFCdxILb0daaUk0Qy13TUU"
+    }
+  },
+  "oIjCpHkfTks": {
+    "snippet": {
+      "publishedAt": "2024-06-26T19:53:26Z",
+      "channelId": "UCk2k1y-d24nFyVCvyxnAaYA",
+      "title": "i forced my friends to play MINECRAFT"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-26T23:00:00Z",
+      "activeLiveChatId": "Cg0KC29JakNwSGtmVGtzKicKGFVDazJrMXktZDI0bkZ5VkN2eXhuQWFZQRILb0lqQ3BIa2ZUa3M"
     }
   },
   "oXxS8AwgTUw": {
