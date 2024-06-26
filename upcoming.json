@@ -4082,6 +4082,7 @@
       "title": "\u3010Apex Legends\u3011 NEW PATCH! Apex Basement w/ Claude & Aster senpais \u3010NIJISANJI EN | Ryoma Barrenwort\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T01:31:21Z",
       "scheduledStartTime": "2024-06-26T01:30:00Z",
       "activeLiveChatId": "Cg0KC1NfVm56dVNydnNzKicKGFVDSXpaRGlpbGNQdjB3aW1fTWJ1aXpGQRILU19Wbnp1U3J2c3M"
     }
@@ -5687,6 +5688,17 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC2NVRVZTRjVsOERRKicKGFVDS0RJTFE5d2p2ZzhiNUxxMFI2Qm56URILY1VFVlNGNWw4RFE"
+    }
+  },
+  "clioaite": {
+    "snippet": {
+      "channelId": "clioaite",
+      "title": "RETURN TO STRATEGY !merch !gamersupps",
+      "channelTitle": "ClioAite"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T01:23:29Z",
+      "twitch": true
     }
   },
   "cr1yVbYtaYo": {
@@ -7367,18 +7379,6 @@
       "activeLiveChatId": "Cg0KC3A2N0FlTk02bzEwKicKGFVDOENLR1N2cDliUmZtdFd5ZlY1TDlKdxILcDY3QWVOTTZvMTA"
     }
   },
-  "pENBFpg-gFU": {
-    "snippet": {
-      "publishedAt": "2024-06-25T20:10:30Z",
-      "channelId": "UCt2Z49e6nxKBAKysfF6ZcrA",
-      "title": "Let's Create An Outfit Of One Of My Favorite\u2728 VTUBERS!\u2728\u2502ART STREAM"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-25T22:03:44Z",
-      "scheduledStartTime": "2024-06-25T22:00:00Z",
-      "activeLiveChatId": "Cg0KC3BFTkJGcGctZ0ZVKicKGFVDdDJaNDllNm54S0JBS3lzZkY2WmNyQRILcEVOQkZwZy1nRlU"
-    }
-  },
   "pGLTCScUJdY": {
     "snippet": {
       "publishedAt": "2024-06-25T14:04:57Z",
@@ -8199,7 +8199,8 @@
       "title": "Guide to surviving Australia"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-26T02:00:00Z"
+      "scheduledStartTime": "2024-06-26T02:00:00Z",
+      "activeLiveChatId": "Cg0KC3VvYXlRV2xsZ0ZrKicKGFVDamNiN1B2UEhtajNNTlV5c1ZVZUpjZxILdW9heVFXbGxnRms"
     }
   },
   "uztiiL8ALQI": {
