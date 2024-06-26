@@ -9122,5 +9122,27 @@
       "actualEndTime": "2024-06-24T14:00:41Z",
       "scheduledStartTime": "2024-06-24T11:30:00Z"
     }
+  },
+  "JfEhW6CH9N0": {
+    "snippet": {
+      "publishedAt": "2024-06-26T05:37:57Z",
+      "channelId": "UCV-9dgtVXHmqvzY9qdvoGYA",
+      "title": "DEEP DIVE: Attempting to explain Tsubasa Chronicles"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-28T11:00:00Z",
+      "activeLiveChatId": "Cg0KC0pmRWhXNkNIOU4wKicKGFVDVi05ZGd0VlhIbXF2elk5cWR2b0dZQRILSmZFaFc2Q0g5TjA"
+    }
+  },
+  "F2h6JfzIbeI": {
+    "snippet": {
+      "publishedAt": "2024-06-26T05:36:36Z",
+      "channelId": "UCV-9dgtVXHmqvzY9qdvoGYA",
+      "title": "RUSH WITH ME\u3010Hi-Fi Rush\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-26T11:00:00Z",
+      "activeLiveChatId": "Cg0KC0YyaDZKZnpJYmVJKicKGFVDVi05ZGd0VlhIbXF2elk5cWR2b0dZQRILRjJoNkpmekliZUk"
+    }
   }
 }
