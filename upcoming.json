@@ -656,7 +656,7 @@
       "title": "Chat INTERRUPTS me on A Difficult Game About Climbing! If I fail, I exercise! (FR THIS TIME!)"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-29T01:00:00Z",
+      "scheduledStartTime": "2024-06-29T03:00:00Z",
       "activeLiveChatId": "Cg0KCzMxRS1IeUY4eVFnKicKGFVDeF9BNmZuczlxS2p5YnUtNmswdXIxZxILMzFFLUh5Rjh5UWc"
     }
   },
@@ -1354,6 +1354,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-28T23:00:00Z",
       "activeLiveChatId": "Cg0KCzlGbERMUmF4dXprKicKGFVDWmw5MndNaXBqWUZjMVVsbTlZeTY1ZxILOUZsRExSYXh1ems"
+    }
+  },
+  "9Y2Dv1Ud04k": {
+    "snippet": {
+      "publishedAt": "2024-06-26T00:30:06Z",
+      "channelId": "UCC4hjJp_MttwfZcuWc0OpVQ",
+      "title": "\u3010Minecraft VSMP\u3011FIRST TIME HERE!!\u3010idolEN | Kai Saikota\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-26T22:00:00Z",
+      "activeLiveChatId": "Cg0KCzlZMkR2MVVkMDRrKicKGFVDQzRoakpwX010dHdmWmN1V2MwT3BWURILOVkyRHYxVWQwNGs"
     }
   },
   "9iyEVa0FUUI": {
@@ -3772,18 +3783,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-26T01:00:00Z",
       "activeLiveChatId": "Cg0KC1BuN2RXSFQ1UkFJKicKGFVDQUZieUVqOXBlc0N4bzY5b3pFaGk5URILUG43ZFdIVDVSQUk"
-    }
-  },
-  "PnAYQzcFlSE": {
-    "snippet": {
-      "publishedAt": "2024-06-25T22:15:40Z",
-      "channelId": "UCO_aKKYxn4tvrqPjcTzZ6EQ",
-      "title": "\u3010Nintendo Switch Sports\u3011 Screw the rules I have green hair #mocopi"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-25T22:23:07Z",
-      "scheduledStartTime": "2024-06-25T22:20:00Z",
-      "activeLiveChatId": "Cg0KC1BuQVlRemNGbFNFKicKGFVDT19hS0tZeG40dHZycVBqY1R6WjZFURILUG5BWVF6Y0ZsU0U"
     }
   },
   "PuzsVzbUdmQ": {
@@ -6854,7 +6853,8 @@
       "title": "\u3010Hades II\u3011i've been runnin all my life #hololiveEnglish #holoJustice"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-26T21:00:00Z"
+      "scheduledStartTime": "2024-06-26T21:00:00Z",
+      "activeLiveChatId": "Cg0KC2tzVmRjZnNadjJJKicKGFVDREhBQmlqdlBCbkptN0YtS2xOTUUzdxILa3NWZGNmc1p2Mkk"
     }
   },
   "l3uqelUhGhU": {
@@ -7126,6 +7126,17 @@
       "twitch": true
     }
   },
+  "menmakiii": {
+    "snippet": {
+      "channelId": "menmakiii",
+      "title": "UNDERWATER SPOOKY !advgg !merch",
+      "channelTitle": "menmakiii"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T00:24:52Z",
+      "twitch": true
+    }
+  },
   "mfoHpYA39oc": {
     "snippet": {
       "publishedAt": "2024-03-10T12:20:05Z",
@@ -7263,6 +7274,7 @@
       "title": "\u3010Going Under\u3011Will we finish the game? Let's see!\u3010Alicja Da Lontano | Globie Gen 2 Solstia\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T00:28:13Z",
       "scheduledStartTime": "2024-06-26T00:30:00Z",
       "activeLiveChatId": "Cg0KC255cDg1VVJMcUV3KicKGFVDcWxndGs5SF8xR29XdHZXOFZpaTM4dxILbnlwODVVUkxxRXc"
     }
