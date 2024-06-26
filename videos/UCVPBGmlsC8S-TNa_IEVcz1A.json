@@ -1308,7 +1308,8 @@
     "snippet": {
       "publishedAt": "2024-06-23T03:04:05Z",
       "channelId": "UCVPBGmlsC8S-TNa_IEVcz1A",
-      "title": "\u2600\ufe0f\u3010GOLDEN SUN: TLA\u3011#12 QUAKERS\u3010Yume+ | Raein Clowd\u3011"
+      "title": "\u2600\ufe0f\u3010GOLDEN SUN: TLA\u3011#12 QUAKERS\u3010Yume+ | Raein Clowd\u3011",
+      "private": true
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-26T00:00:48Z",
@@ -1324,8 +1325,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-26T00:02:57Z",
-      "scheduledStartTime": "2024-06-26T00:00:00Z",
-      "activeLiveChatId": "Cg0KC1pFMFU1ME04YXg0KicKGFVDVlBCR21sc0M4Uy1UTmFfSUVWY3oxQRILWkUwVTUwTThheDQ"
+      "actualEndTime": "2024-06-26T02:12:35Z",
+      "scheduledStartTime": "2024-06-26T00:00:00Z"
     }
   }
 }
