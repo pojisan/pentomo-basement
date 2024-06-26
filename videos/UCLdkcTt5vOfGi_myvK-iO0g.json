@@ -2476,8 +2476,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-26T00:01:16Z",
-      "scheduledStartTime": "2024-06-26T00:00:00Z",
-      "activeLiveChatId": "Cg0KC0Rhbzdwc2N1a2VJKicKGFVDTGRrY1R0NXZPZkdpX215dkstaU8wZxILRGFvN3BzY3VrZUk"
+      "actualEndTime": "2024-06-26T01:05:37Z",
+      "scheduledStartTime": "2024-06-26T00:00:00Z"
     }
   },
   "J6EsB7sFCLw": {
@@ -2518,6 +2518,7 @@
       "title": "\u3010MINECRAFT SMP\u3011LOOKIN' FOR CUTIES!!! \u2b50 100+ VTUBER SERVER \u2b50"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T01:08:02Z",
       "scheduledStartTime": "2024-06-26T01:00:00Z",
       "activeLiveChatId": "Cg0KC2FINjNiazlZalpNKicKGFVDTGRrY1R0NXZPZkdpX215dkstaU8wZxILYUg2M2JrOVlqWk0"
     }
