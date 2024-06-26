@@ -2383,6 +2383,7 @@
       "title": "This Vtuber can play violin??"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T02:40:38Z",
       "scheduledStartTime": "2024-06-26T02:30:00Z",
       "activeLiveChatId": "Cg0KC0g5NFNqaFFjZTNBKicKGFVDalhKWVBzS3hvSnljLTFSUEI2ZFN5dxILSDk0U2poUWNlM0E"
     }
@@ -3372,9 +3373,10 @@
     "snippet": {
       "publishedAt": "2024-06-21T00:59:29Z",
       "channelId": "UCYadZR9mRignx4RKvPow44g",
-      "title": "ULTRA LOW INTELLIGENCE RUN \ud83d\udc97 | FPS TIME!\u3010 FALLOUT NEW VEGAS \u3011"
+      "title": "\ud83d\udd34 LIVE - ULTRA LOW INTELLIGENCE RUN \ud83d\udc97 | FPS TIME!\u3010 FALLOUT NEW VEGAS \u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T02:35:59Z",
       "scheduledStartTime": "2024-06-26T02:30:00Z",
       "activeLiveChatId": "Cg0KC05qQVdVSlFVU1JVKicKGFVDWWFkWlI5bVJpZ254NFJLdlBvdzQ0ZxILTmpBV1VKUVVTUlU"
     }
@@ -5737,17 +5739,6 @@
       "activeLiveChatId": "Cg0KC2RaZ3BGLW5Qc1VzKicKGFVDRVk5Q25TSDBuMFFLbVkyUS1PSDdadxILZFpncEYtblBzVXM"
     }
   },
-  "dee_the_sphinx": {
-    "snippet": {
-      "channelId": "dee_the_sphinx",
-      "title": "\ud83d\udd06SCUFFATHON DAY 2: STREAMER'S COURT \ud83d\udd06The council will deecide your fate. \ud83d\udd06 !Trailer [Vtuber] \ud83d\udd06!discord [Vtuber]",
-      "channelTitle": "Dee_the_Sphinx"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-26T00:03:24Z",
-      "twitch": true
-    }
-  },
   "discordia_ch": {
     "snippet": {
       "channelId": "discordia_ch",
@@ -5990,6 +5981,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-26T13:00:00Z",
       "activeLiveChatId": "Cg0KC2YxUFUzSXdtQkxFKicKGFVDRHFJMmpPejB3ZXVtRThzN3BhRWs2ZxILZjFQVTNJd21CTEU"
+    }
+  },
+  "f761gseTHaQ": {
+    "snippet": {
+      "publishedAt": "2024-06-26T02:32:22Z",
+      "channelId": "UC1ZRXoTQUwZtKnpOfJwGNPw",
+      "title": "INCUMARKED IS EXPANDING!? TIME TO CRUSH THE COMPETITION"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-26T10:00:00Z",
+      "activeLiveChatId": "Cg0KC2Y3NjFnc2VUSGFRKicKGFVDMVpSWG9UUVV3WnRLbnBPZkp3R05QdxILZjc2MWdzZVRIYVE"
     }
   },
   "fG4Ap63NpJA": {
