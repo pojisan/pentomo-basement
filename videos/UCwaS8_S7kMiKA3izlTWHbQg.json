@@ -7293,8 +7293,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-26T13:00:07Z",
-      "scheduledStartTime": "2024-06-26T13:00:00Z",
-      "activeLiveChatId": "Cg0KCzRsSmNmbGdiTWlnKicKGFVDd2FTOF9TN2tNaUtBM2l6bFRXSGJRZxILNGxKY2ZsZ2JNaWc"
+      "actualEndTime": "2024-06-26T16:22:19Z",
+      "scheduledStartTime": "2024-06-26T13:00:00Z"
     }
   },
   "THT8ZuLoDfg": {
@@ -7302,6 +7302,17 @@
       "publishedAt": "2024-06-26T01:53:13Z",
       "channelId": "UCwaS8_S7kMiKA3izlTWHbQg",
       "title": "\u30d7\u30ea\u30f3\u3068\u30de\u30d5\u30a3\u30f3\u306e\u30dd\u30e0\u30dd\u30e0\u30d3\u30fc\u30c8\u2728#mariamarionette"
+    }
+  },
+  "OmGK3vQ3Z00": {
+    "snippet": {
+      "publishedAt": "2024-06-26T16:31:00Z",
+      "channelId": "UCwaS8_S7kMiKA3izlTWHbQg",
+      "title": "Mind If I BUG You A Little? - Bug Fables \u3010Maria Marionette | NIJISANJI EN\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-27T08:00:00Z",
+      "activeLiveChatId": "Cg0KC09tR0szdlEzWjAwKicKGFVDd2FTOF9TN2tNaUtBM2l6bFRXSGJRZxILT21HSzN2UTNaMDA"
     }
   }
 }
