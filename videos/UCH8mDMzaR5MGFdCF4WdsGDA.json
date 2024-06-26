@@ -2395,5 +2395,27 @@
       "actualEndTime": "2024-06-23T18:53:02Z",
       "scheduledStartTime": "2024-06-23T16:00:00Z"
     }
+  },
+  "afTUr3JdkQ0": {
+    "snippet": {
+      "publishedAt": "2024-06-26T17:13:56Z",
+      "channelId": "UCH8mDMzaR5MGFdCF4WdsGDA",
+      "title": "\u3010Kingdom Hearts Final Mix\u3011Guerilla Stream!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-26T18:00:00Z",
+      "activeLiveChatId": "Cg0KC2FmVFVyM0pka1EwKicKGFVDSDhtRE16YVI1TUdGZENGNFdkc0dEQRILYWZUVXIzSmRrUTA"
+    }
+  },
+  "_BBSCGWTssM": {
+    "snippet": {
+      "publishedAt": "2024-06-26T17:13:17Z",
+      "channelId": "UCH8mDMzaR5MGFdCF4WdsGDA",
+      "title": "\u3010Sunset Routes\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-27T01:00:00Z",
+      "activeLiveChatId": "Cg0KC19CQlNDR1dUc3NNKicKGFVDSDhtRE16YVI1TUdGZENGNFdkc0dEQRILX0JCU0NHV1Rzc00"
+    }
   }
 }
