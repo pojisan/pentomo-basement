@@ -1301,6 +1301,7 @@
       "title": "\u3010Minecraft VSMP\u3011FIRST TIME HERE!!\u3010idolEN | Kai Saikota\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T22:01:59Z",
       "scheduledStartTime": "2024-06-26T22:00:00Z",
       "activeLiveChatId": "Cg0KCzlZMkR2MVVkMDRrKicKGFVDQzRoakpwX010dHdmWmN1V2MwT3BWURILOVkyRHYxVWQwNGs"
     }
@@ -2049,7 +2050,7 @@
       "title": "[VTUBER SUMMER SLAM!] Singing Summer Tunes for Charity! #VTSS2024"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-26T22:00:00Z",
+      "scheduledStartTime": "2024-06-26T22:15:00Z",
       "activeLiveChatId": "Cg0KC0ZUT0JSY0daX3RjKicKGFVDS0pleGFkQ2VObzNsdTBVMjBza21OZxILRlRPQlJjR1pfdGM"
     }
   },
@@ -7261,18 +7262,6 @@
       "activeLiveChatId": "Cg0KC3JENUJSUDhJcDZFKicKGFVDaWFBSmZka3J3dURqV2lRallaV3BYdxILckQ1QlJQOElwNkU"
     }
   },
-  "rPJcwTFi0vc": {
-    "snippet": {
-      "publishedAt": "2024-06-26T20:21:39Z",
-      "channelId": "UC3FWSdh_KtELaee8t400JbA",
-      "title": "\u3010CHAT/\u96d1\u8ac7\u3011euro football gacha guerilla lol\u3010Pippa Pebblesworth | globie\u3011#shorts #shortsfeed"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-26T20:30:12Z",
-      "scheduledStartTime": "2024-06-26T20:30:00Z",
-      "activeLiveChatId": "Cg0KC3JQSmN3VEZpMHZjKicKGFVDM0ZXU2RoX0t0RUxhZWU4dDQwMEpiQRILclBKY3dURmkwdmM"
-    }
-  },
   "rUxhpRC4IuU": {
     "snippet": {
       "publishedAt": "2024-06-22T16:34:23Z",
@@ -7629,6 +7618,17 @@
       "activeLiveChatId": "Cg0KC3RPeWpnYWU4UmZrKicKGFVDVEpDb0hFdDVjMjdyY2VxMnNoNjlrZxILdE95amdhZThSZms"
     }
   },
+  "tea_the_khajiit": {
+    "snippet": {
+      "channelId": "tea_the_khajiit",
+      "title": "\u2728DROPS\u2728CHARITY STREAM! RAISING MONEY FOR GAMERS OUTREACH #VTUBERSUMMERSLAM",
+      "channelTitle": "Tea_The_Khajiit"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T22:09:39Z",
+      "twitch": true
+    }
+  },
   "thKmAPsyAPE": {
     "snippet": {
       "publishedAt": "2023-12-04T08:00:13Z",
@@ -7669,7 +7669,7 @@
       "title": "Skyrim except I'm a Monk part 3?!"
     },
     "liveStreamingDetails": {
-      "actualStartTime": "2024-06-26T22:01:27Z",
+      "actualStartTime": "2024-06-26T22:01:40Z",
       "scheduledStartTime": "2024-06-26T22:00:00Z",
       "activeLiveChatId": "Cg0KC3R0Njc0QXBuMmEwKicKGFVDZS1fcDZvdW40cDAtZ2RCNEFrZlQxURILdHQ2NzRBcG4yYTA"
     }
