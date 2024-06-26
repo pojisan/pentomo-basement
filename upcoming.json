@@ -125,6 +125,7 @@
       "title": "\u3010\u632f\u308a\u8fd4\u308a\u914d\u4fe1\u250a\ufe0e #ViViDFES   #\u590f\u3092\u5f85\u3064V\u6b4c\u67a0\u30ea\u30ec\u30fc\u3011\u30e9\u30a4\u30d6\u4e00\u7dd2\u306b\u307f\u3066\u307f\u3088\u3063\u304b\uff01/ #chatting \u3010 #\u30ce\u30a2\u30dd\u30e9\u30ea\u30b9 \u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T13:15:23Z",
       "scheduledStartTime": "2024-06-26T13:00:00Z",
       "activeLiveChatId": "Cg0KCy1WV1pGWGowSHpRKicKGFVDSXUxclJpUUxlVVU4ZTFzYU42STBlZxILLVZXWkZYajBIelE"
     }
@@ -2839,6 +2840,17 @@
       "actualStartTime": "2024-06-26T12:29:21Z",
       "scheduledStartTime": "2024-06-26T12:30:00Z",
       "activeLiveChatId": "Cg0KC0wtdUQ3dTBuaFJnKicKGFVDbjdJYlZCdGtvVWFaRUxxdHJiOXFOURILTC11RDd1MG5oUmc"
+    }
+  },
+  "L-vFsFdOAwk": {
+    "snippet": {
+      "publishedAt": "2024-06-26T13:15:15Z",
+      "channelId": "UC6lZLAOgSYgJ6ZkW2ZTI75Q",
+      "title": "\u3010\ud83d\udd34Karaoke\u3011A very normal singing stream  #\u7e26\u578b\u6b4c\u67a0 #Vertical"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-27T12:00:00Z",
+      "activeLiveChatId": "Cg0KC0wtdkZzRmRPQXdrKicKGFVDNmxaTEFPZ1NZZ0o2WmtXMlpUSTc1URILTC12RnNGZE9Bd2s"
     }
   },
   "L7wD0f3wLDs": {
@@ -5792,6 +5804,17 @@
       "twitch": true
     }
   },
+  "erislefaire": {
+    "snippet": {
+      "channelId": "erislefaire",
+      "title": "Surprise Dragon Age 2 feat @MelodiaVT| !kofi !discord |",
+      "channelTitle": "ErisLefaire"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T13:12:38Z",
+      "twitch": true
+    }
+  },
   "eulNaT_7F2w": {
     "snippet": {
       "publishedAt": "2024-06-24T22:30:09Z",
@@ -7791,7 +7814,7 @@
     "snippet": {
       "publishedAt": "2024-06-09T16:32:21Z",
       "channelId": "UCK6oCMib62eYAIPrlrYRVrw",
-      "title": "\u3010Idol Showdown\u3011FIGHTING GAME TRAINING ARC CONTINUES !! Who will I main ?!  [+ Controller Handcam]"
+      "title": "\u3010Minecraft VSMP\u3011Building Showcase Prep !!!"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-26T14:00:00Z",
