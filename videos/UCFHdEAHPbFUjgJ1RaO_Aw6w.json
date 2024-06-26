@@ -1012,8 +1012,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-26T15:56:38Z",
       "actualEndTime": "2024-06-26T19:20:06Z",
-      "scheduledStartTime": "2024-06-26T16:00:00Z",
-      "activeLiveChatId": "Cg0KCzJkWWhPc2tEZ0EwKicKGFVDRkhkRUFIUGJGVWpnSjFSYU9fQXc2dxILMmRZaE9za0RnQTA"
+      "scheduledStartTime": "2024-06-26T16:00:00Z"
     }
   },
   "WW_4Qb431Vo": {
@@ -1067,6 +1066,29 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-27T18:00:00Z",
       "activeLiveChatId": "Cg0KCzMwWGc0TW9LcjRBKicKGFVDRkhkRUFIUGJGVWpnSjFSYU9fQXc2dxILMzBYZzRNb0tyNEE"
+    }
+  },
+  "HpVkL_dfGn0": {
+    "snippet": {
+      "publishedAt": "2024-06-26T22:46:42Z",
+      "channelId": "UCFHdEAHPbFUjgJ1RaO_Aw6w",
+      "title": "Vance Debut Highlights"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-29T18:00:00Z",
+      "activeLiveChatId": "Cg0KC0hwVmtMX2RmR24wKicKGFVDRkhkRUFIUGJGVWpnSjFSYU9fQXc2dxILSHBWa0xfZGZHbjA",
+      "premiere": true
+    }
+  },
+  "_9lgbRpnKEU": {
+    "snippet": {
+      "publishedAt": "2024-06-23T19:00:57Z",
+      "channelId": "UCFHdEAHPbFUjgJ1RaO_Aw6w",
+      "title": "\u3010Portal 2\u3011Me, the Homie @AlicjaDaLontano  and Portals\u3010globie 2nd Gen - Equinnox\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-28T18:00:00Z",
+      "activeLiveChatId": "Cg0KC185bGdiUnBuS0VVKicKGFVDRkhkRUFIUGJGVWpnSjFSYU9fQXc2dxILXzlsZ2JScG5LRVU"
     }
   }
 }

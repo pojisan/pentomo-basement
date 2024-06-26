@@ -1351,8 +1351,19 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-26T15:56:33Z",
       "actualEndTime": "2024-06-26T20:19:25Z",
-      "scheduledStartTime": "2024-06-26T16:00:00Z",
-      "activeLiveChatId": "Cg0KC015TzZNbXlXUnp3KicKGFVDVlBCR21sc0M4Uy1UTmFfSUVWY3oxQRILTXlPNk1teVdSenc"
+      "scheduledStartTime": "2024-06-26T16:00:00Z"
+    }
+  },
+  "l0UCfK0HCPo": {
+    "snippet": {
+      "publishedAt": "2024-06-26T20:17:31Z",
+      "channelId": "UCVPBGmlsC8S-TNa_IEVcz1A",
+      "title": "\ud83d\udd2a\u3010WUTHERING WAVES\u3011#4 PASSIONATE SCAR TIME\u3010Yume+ | Raein Clowd\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T22:58:52Z",
+      "scheduledStartTime": "2024-06-26T23:00:00Z",
+      "activeLiveChatId": "Cg0KC2wwVUNmSzBIQ1BvKicKGFVDVlBCR21sc0M4Uy1UTmFfSUVWY3oxQRILbDBVQ2ZLMEhDUG8"
     }
   }
 }
