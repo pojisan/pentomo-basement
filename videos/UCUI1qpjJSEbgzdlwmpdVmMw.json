@@ -911,8 +911,30 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-26T06:58:07Z",
-      "scheduledStartTime": "2024-06-26T07:00:00Z",
-      "activeLiveChatId": "Cg0KC3Ruak5yeV9VczZVKicKGFVDVUkxcXBqSlNFYmd6ZGx3bXBkVm1NdxILdG5qTnJ5X1VzNlU"
+      "actualEndTime": "2024-06-26T10:55:13Z",
+      "scheduledStartTime": "2024-06-26T07:00:00Z"
+    }
+  },
+  "4L3SCGAOcEM": {
+    "snippet": {
+      "publishedAt": "2024-06-26T10:52:45Z",
+      "channelId": "UCUI1qpjJSEbgzdlwmpdVmMw",
+      "title": "\u3010Call of Duty: Black Ops III\u3011round 25 omw\u3010Twisty Amanozako | NIJISANJI EN\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-26T11:15:00Z",
+      "activeLiveChatId": "Cg0KCzRMM1NDR0FPY0VNKicKGFVDVUkxcXBqSlNFYmd6ZGx3bXBkVm1NdxILNEwzU0NHQU9jRU0"
+    }
+  },
+  "yziRexwX4_Q": {
+    "snippet": {
+      "publishedAt": "2024-06-26T10:51:34Z",
+      "channelId": "UCUI1qpjJSEbgzdlwmpdVmMw",
+      "title": "\u3010Minecraft HARCORE\u3011HOUSE KUN ONEGAI\u3010Twisty Amanozako | NIJISANJI EN\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-09-27T10:50:00Z",
+      "activeLiveChatId": "Cg0KC3l6aVJleHdYNF9RKicKGFVDVUkxcXBqSlNFYmd6ZGx3bXBkVm1NdxILeXppUmV4d1g0X1E"
     }
   }
 }
