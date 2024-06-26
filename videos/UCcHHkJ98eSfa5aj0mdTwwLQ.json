@@ -702,8 +702,20 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-25T19:01:32Z",
+      "actualEndTime": "2024-06-26T04:47:38Z",
       "scheduledStartTime": "2024-06-25T19:00:00Z",
       "activeLiveChatId": "Cg0KC0cxczNUOFV4SXhzKicKGFVDY0hIa0o5OGVTZmE1YWowbWRUd3dMURILRzFzM1Q4VXhJeHM"
+    }
+  },
+  "2V6X4pVrkwk": {
+    "snippet": {
+      "publishedAt": "2024-06-26T04:51:02Z",
+      "channelId": "UCcHHkJ98eSfa5aj0mdTwwLQ",
+      "title": "\u3010KARAOKE!!!\u3011singing to break the blues!!!!!!\u3010Maid Mint Fantome\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-26T17:00:00Z",
+      "activeLiveChatId": "Cg0KCzJWNlg0cFZya3drKicKGFVDY0hIa0o5OGVTZmE1YWowbWRUd3dMURILMlY2WDRwVnJrd2s"
     }
   }
 }
