@@ -3341,6 +3341,7 @@
       "title": "I'm trying my best...."
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T14:00:33Z",
       "scheduledStartTime": "2024-06-26T14:00:00Z",
       "activeLiveChatId": "Cg0KC05neXdCYWI1UFpvKicKGFVDb05oejRPcXl4ZEV1dWZtRXo4ZW95QRILTmd5d0JhYjVQWm8"
     }
@@ -5501,6 +5502,17 @@
       "activeLiveChatId": "Cg0KC2NKNi1KMGJ1bDZrKicKGFVDSjRPNlBXQTQ3ZjZYYkNnckxRTnFFURILY0o2LUowYnVsNms"
     }
   },
+  "cO6u4jK-RIE": {
+    "snippet": {
+      "publishedAt": "2024-06-26T14:00:00Z",
+      "channelId": "UCUtKkGKef8BYMs3h-3zQm9A",
+      "title": "\ud83c\udf0a\u3010\uc7a1\ub2f4/\u96d1\u8ac7\u3011 GTA \ud6c4\uae30, \uc774\ub7f0\uc800\ub7f0 \uc774\uc57c\uae30 GTA\u306e\u611f\u60f3\u3001\u8272\u3005\u8a71\u3057\u305f\u3044 \u3010KR/JP\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-26T14:30:00Z",
+      "activeLiveChatId": "Cg0KC2NPNnU0akstUklFKicKGFVDVXRLa0dLZWY4QllNczNoLTN6UW05QRILY082dTRqSy1SSUU"
+    }
+  },
   "cUEVSF5l8DQ": {
     "snippet": {
       "publishedAt": "2024-03-22T17:31:32Z",
@@ -6848,6 +6860,17 @@
       "activeLiveChatId": "Cg0KC21mb0hwWUEzOW9jKicKGFVDYXhpRGVfVHVNTFhrd1JNVkxtNVZ3URILbWZvSHBZQTM5b2M"
     }
   },
+  "miya_mareena": {
+    "snippet": {
+      "channelId": "miya_mareena",
+      "title": "Shark Girl - #VSMP VTuber Server [ !gg, !redebut]",
+      "channelTitle": "miya_mareena"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T14:00:43Z",
+      "twitch": true
+    }
+  },
   "my8j0zjYaoI": {
     "snippet": {
       "publishedAt": "2024-06-25T15:12:45Z",
@@ -6912,17 +6935,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-26T18:00:00Z",
       "activeLiveChatId": "Cg0KC25aUnpaWDVHVHJzKicKGFVDVmpwRlAxX055M1BVb0UyNnI0SVRhdxILblpSelpYNUdUcnM"
-    }
-  },
-  "ninete_en": {
-    "snippet": {
-      "channelId": "ninete_en",
-      "title": "\u3010Drops\u2705\u3011 Day58\uff1a\u3059\u307f\u307e\u305b\u3093\u3002LW\u3055\u3093\u306f\u65b9\u5411\u6027\u306e\u9055\u3044\u3067\u89e3\u6563\u3067\u3002",
-      "channelTitle": "\u30ca\u30a4\u30f3\u30c6\u30a3\u30fc\u30f3"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-26T10:29:49Z",
-      "twitch": true
     }
   },
   "nlTgKbQLlPw": {
@@ -7589,6 +7601,7 @@
       "title": "THE BEST DETECTIVES IN THE WORLD ARE HERE! DO NOT FEAR\u3010Doki Doki AI Interrogation\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T14:01:11Z",
       "scheduledStartTime": "2024-06-26T14:00:00Z",
       "activeLiveChatId": "Cg0KC3NnSDgtajJfNVUwKicKGFVDRndjRUlzanZpOVhFdnBHeDZpd0hwdxILc2dIOC1qMl81VTA"
     }
@@ -7829,6 +7842,7 @@
       "title": "\u3010Minecraft VSMP\u3011Building Showcase Prep !!!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T14:01:19Z",
       "scheduledStartTime": "2024-06-26T14:00:00Z",
       "activeLiveChatId": "Cg0KC3VfLUp3S1dVMkZvKicKGFVDSzZvQ01pYjYyZVlBSVBybHJZUlZydxILdV8tSndLV1UyRm8"
     }
