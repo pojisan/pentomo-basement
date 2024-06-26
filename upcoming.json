@@ -1327,6 +1327,7 @@
       "title": "\u3010Among Us\u3011VAllure VS Yume+ !!\u3010Yume+ | Mimosa Shirosaki\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T00:00:55Z",
       "scheduledStartTime": "2024-06-26T00:00:00Z",
       "activeLiveChatId": "Cg0KCzhvUElJZjNfNTZFKicKGFVDcW1TWWtYTHdzTDB6RWFyNUdvb1lrZxILOG9QSUlmM181NkU"
     }
@@ -1543,7 +1544,8 @@
       "title": "\u3010FIVE NIGHTS AT FREDDY'S\u3011why is there no paws menu \ud83d\udc3e\u3010FUWAMOCO\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-26T01:00:00Z"
+      "scheduledStartTime": "2024-06-26T01:00:00Z",
+      "activeLiveChatId": "Cg0KC0JuZkFlZWRTZkFZKicKGFVDdDlIX1JwUXpoeHpseUJ4RnFyZEhxQRILQm5mQWVlZFNmQVk"
     }
   },
   "BtGOMDy_7OY": {
@@ -1725,6 +1727,7 @@
       "title": "BUILDING THE GREAT WALL OF AVALLUM\u3010Minecraft\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T00:01:19Z",
       "scheduledStartTime": "2024-06-26T00:00:00Z",
       "activeLiveChatId": "Cg0KC0Q0d0VSa0VtUTBnKicKGFVDRndjRUlzanZpOVhFdnBHeDZpd0hwdxILRDR3RVJrRW1RMGc"
     }
@@ -1810,6 +1813,7 @@
       "title": "\u3010DIGITAL ART CHALLENGE\u3011NIER OC LESSGO!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T00:01:16Z",
       "scheduledStartTime": "2024-06-26T00:00:00Z",
       "activeLiveChatId": "Cg0KC0Rhbzdwc2N1a2VJKicKGFVDTGRrY1R0NXZPZkdpX215dkstaU8wZxILRGFvN3BzY3VrZUk"
     }
@@ -1952,6 +1956,7 @@
       "title": "1 Month Anniversary?! Already!? ((Q+A and Blackjack HANDCAM))"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-25T23:58:46Z",
       "scheduledStartTime": "2024-06-26T00:00:00Z",
       "activeLiveChatId": "Cg0KC0VDdVNuZG1oQ0ZzKicKGFVDQXhWb0JMRzJCdjF4Z2JZVV9lZnNDZxILRUN1U25kbWhDRnM"
     }
@@ -2113,7 +2118,7 @@
       "title": "\u2600\ufe0f\u3010GOLDEN SUN: TLA\u3011#12 QUAKERS\u3010Yume+ | Raein Clowd\u3011"
     },
     "liveStreamingDetails": {
-      "actualStartTime": "2024-06-25T23:03:29Z",
+      "actualStartTime": "2024-06-26T00:00:48Z",
       "scheduledStartTime": "2024-06-23T15:00:00Z",
       "activeLiveChatId": "Cg0KC0ZKWmJNWHlSVlBvKicKGFVDVlBCR21sc0M4Uy1UTmFfSUVWY3oxQRILRkpaYk1YeVJWUG8"
     }
@@ -3556,7 +3561,8 @@
       "title": "\u3010RED DEAD REDEMPTION 2\u3011see ya, midwest cowboy... (epilogue finale) #calliolive #hololiveenglish"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-26T00:00:00Z",
+      "actualStartTime": "2024-06-26T00:00:50Z",
+      "scheduledStartTime": "2024-06-26T00:00:08Z",
       "activeLiveChatId": "Cg0KC09EVzA5UExDd0NjKicKGFVDTF9xaGd0T3kwZHkxQWdwOHZreVNRZxILT0RXMDlQTEN3Q2M"
     }
   },
@@ -5616,6 +5622,7 @@
       "title": "[ZATSUDAN] A regular zatsudan? In this economy?"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T00:01:12Z",
       "scheduledStartTime": "2024-06-26T00:00:00Z",
       "activeLiveChatId": "Cg0KC2J6NXRXaENHYzBJKicKGFVDa0o2NFcwSjdSMHpDU0FzWmZSSWhWURILYno1dFdoQ0djMEk"
     }
@@ -5718,6 +5725,17 @@
       "activeLiveChatId": "Cg0KC2NyMXlWYll0YVlvKicKGFVDTjViRDFZWWFwVGhPZWFkRzdZa0JPQRILY3IxeVZiWXRhWW8"
     }
   },
+  "cynth_ai": {
+    "snippet": {
+      "channelId": "cynth_ai",
+      "title": "CHARITY STREAM | Chained Together with @reiiflynn @apolloalto @shirozevalia | !Charity",
+      "channelTitle": "cynth_AI"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-25T23:53:09Z",
+      "twitch": true
+    }
+  },
   "d-U2t6BuMNU": {
     "snippet": {
       "publishedAt": "2023-06-12T16:00:17Z",
@@ -5810,6 +5828,7 @@
       "title": "\u3010Paper Mario: Thousand Year Door\u3011Surely I Can't Sleep Stomp my way through Ch. 4 Too?!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T00:00:31Z",
       "scheduledStartTime": "2024-06-26T00:00:00Z",
       "activeLiveChatId": "Cg0KC2RrM29Ib0xGWi1FKicKGFVDS3pLZ1UteGxuY2RFRzVXb3VxVGZ5ZxILZGszb0hvTEZaLUU"
     }
@@ -6084,6 +6103,7 @@
       "title": "\u3010PROJECT ZOMBOID\u3011 w/ NIJI EN YIPEE \u3010NIJISANJI  EN | Enna Alouette\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T00:01:13Z",
       "scheduledStartTime": "2024-06-26T00:00:00Z",
       "activeLiveChatId": "Cg0KC2ZSYmN4OHJtM2E4KicKGFVDUjZxaHNMcG42MldWeENCSzFka0xvdxILZlJiY3g4cm0zYTg"
     }
@@ -6405,6 +6425,7 @@
       "title": "\u3010Drawing\u3011I need help\u3010Yurikago Kokone | V&U\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-25T23:59:17Z",
       "scheduledStartTime": "2024-06-26T00:00:00Z",
       "activeLiveChatId": "Cg0KC2hzR0tMalhHZllFKicKGFVDQi04bk50aHR1VklabmlxWE55cmhLURILaHNHS0xqWEdmWUU"
     }
@@ -6416,6 +6437,7 @@
       "title": "\u3010Old School RuneScape\u3011Wake up Jailbirds it's time to hit lvl 80 prayer\ud83c\udfbc"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-25T23:55:54Z",
       "scheduledStartTime": "2024-06-26T00:00:00Z",
       "activeLiveChatId": "Cg0KC2hzdGJiRlktMnQwKicKGFVDX3NGTk0wejBNV205QTZXbEtQdU1NZxILaHN0YmJGWS0ydDA"
     }
@@ -6678,6 +6700,17 @@
       "activeLiveChatId": "Cg0KC2pibm9TckRKNDFJKicKGFVDdS1KOHVJWHVMWmgxNmdHLWNUMW5hdxILamJub1NyREo0MUk"
     }
   },
+  "jeanfaymas": {
+    "snippet": {
+      "channelId": "jeanfaymas",
+      "title": "NEW 3D | metr-ohno i'm bad at shooters \u2726 !merch !vershion",
+      "channelTitle": "JeanFaymas"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T00:00:09Z",
+      "twitch": true
+    }
+  },
   "jvYUVIKZMRQ": {
     "snippet": {
       "publishedAt": "2023-04-07T20:23:45Z",
@@ -6933,6 +6966,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-12-31T15:45:00Z",
       "activeLiveChatId": "Cg0KC2xydm9FbUZfZDkwKicKGFVDMWVYX01Wck4wRUJLZHBrbjliLWpodxILbHJ2b0VtRl9kOTA"
+    }
+  },
+  "lumioralumen": {
+    "snippet": {
+      "channelId": "lumioralumen",
+      "title": "Amnesia Time Lesgo!",
+      "channelTitle": "LumioraLumen"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T00:01:27Z",
+      "twitch": true
     }
   },
   "lymzkbD9NVI": {
@@ -7366,6 +7410,17 @@
       "activeLiveChatId": "Cg0KC3BsZTBVWmdjbEJ3KicKGFVDalhKWVBzS3hvSnljLTFSUEI2ZFN5dxILcGxlMFVaZ2NsQnc"
     }
   },
+  "pp3RaSHzh1k": {
+    "snippet": {
+      "publishedAt": "2024-06-25T23:59:37Z",
+      "channelId": "UCO0DpVKR4CH5EXgoscz99bA",
+      "title": "Taking a Chinese English College Listening Test"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T00:00:57Z",
+      "activeLiveChatId": "Cg0KC3BwM1JhU0h6aDFrKicKGFVDTzBEcFZLUjRDSDVFWGdvc2N6OTliQRILcHAzUmFTSHpoMWs"
+    }
+  },
   "pzQ7-Or2Y58": {
     "snippet": {
       "publishedAt": "2024-06-24T18:38:20Z",
@@ -7373,6 +7428,7 @@
       "title": "\u3010Among Us Collab with Yume+!\u3011heh... amogus\u3010VAllure\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T00:00:54Z",
       "scheduledStartTime": "2024-06-26T00:00:00Z",
       "activeLiveChatId": "Cg0KC3B6UTctT3IyWTU4KicKGFVDdll6d0VrQ1EyN2dQYWo1NHdCc1ZPZxILcHpRNy1PcjJZNTg"
     }
