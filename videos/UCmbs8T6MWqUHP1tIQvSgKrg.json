@@ -4707,8 +4707,18 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-26T03:06:43Z",
-      "scheduledStartTime": "2024-06-26T03:00:00Z",
-      "activeLiveChatId": "Cg0KC2F4MUE1N2t3NVZRKicKGFVDbWJzOFQ2TVdxVUhQMXRJUXZTZ0tyZxILYXgxQTU3a3c1VlE"
+      "actualEndTime": "2024-06-26T08:52:35Z",
+      "scheduledStartTime": "2024-06-26T03:00:00Z"
+    }
+  },
+  "K2i2rqBcqZs": {
+    "snippet": {
+      "publishedAt": "2024-06-26T08:59:49Z",
+      "channelId": "UCmbs8T6MWqUHP1tIQvSgKrg",
+      "title": "\u3010Pacific Drive\u3011Hang Behind Me | #3"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-27T03:00:00Z"
     }
   }
 }
