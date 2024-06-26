@@ -771,6 +771,7 @@
       "title": "\u3010ART STREAM!\u3011LET'S DRAW POKEMON AGAIN!  #pkmnpride2024"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T03:59:39Z",
       "scheduledStartTime": "2024-06-26T04:00:00Z",
       "activeLiveChatId": "Cg0KCzN1eUlyTExGR0w4KicKGFVDUkllUzNnLWF3SVF1UEFQbkFwSGJDQRILM3V5SXJMTEZHTDg"
     }
@@ -784,18 +785,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-12-06T01:00:00Z",
       "activeLiveChatId": "Cg0KCzN2YXRvNkF3VTRJKicKGFVDS0FEX05NTjFCM2k3MkpfNG1Md0ZCURILM3ZhdG82QXdVNEk"
-    }
-  },
-  "4-9FCFuf7Ig": {
-    "snippet": {
-      "publishedAt": "2024-06-25T18:29:09Z",
-      "channelId": "UC1uzMZ7x_Hgun5t8J9uFanw",
-      "title": "R E L L A N A :( (ft. a punishment) | ER Shadow Of The Erdtree"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-25T23:09:26Z",
-      "scheduledStartTime": "2024-06-25T23:15:00Z",
-      "activeLiveChatId": "Cg0KCzQtOUZDRnVmN0lnKicKGFVDMXV6TVo3eF9IZ3VuNXQ4Sjl1RmFudxILNC05RkNGdWY3SWc"
     }
   },
   "41pF_8TwCWo": {
@@ -1641,18 +1630,6 @@
       "activeLiveChatId": "Cg0KC0QtdklOUWtNWXY0KicKGFVDb3ZLd2dBOWVIVXV0SVdDVldTX0FHdxILRC12SU5Ra01ZdjQ"
     }
   },
-  "D4wERkEmQ0g": {
-    "snippet": {
-      "publishedAt": "2024-06-25T15:57:56Z",
-      "channelId": "UCFwcEIsjvi9XEvpGx6iwHpw",
-      "title": "BUILDING THE GREAT WALL OF AVALLUM\u3010Minecraft\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-26T00:01:19Z",
-      "scheduledStartTime": "2024-06-26T00:00:00Z",
-      "activeLiveChatId": "Cg0KC0Q0d0VSa0VtUTBnKicKGFVDRndjRUlzanZpOVhFdnBHeDZpd0hwdxILRDR3RVJrRW1RMGc"
-    }
-  },
   "D9NzfAm4PaY": {
     "snippet": {
       "publishedAt": "2024-06-23T02:46:09Z",
@@ -1844,18 +1821,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-28T12:45:00Z",
       "activeLiveChatId": "Cg0KC0VDTTNMZWVCUTRNKicKGFVDMWVYX01Wck4wRUJLZHBrbjliLWpodxILRUNNM0xlZUJRNE0"
-    }
-  },
-  "ECuSndmhCFs": {
-    "snippet": {
-      "publishedAt": "2024-06-25T07:43:59Z",
-      "channelId": "UCAxVoBLG2Bv1xgbYU_efsCg",
-      "title": "1 Month Anniversary?! Already!? ((Q+A and Blackjack HANDCAM))"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-25T23:58:46Z",
-      "scheduledStartTime": "2024-06-26T00:00:00Z",
-      "activeLiveChatId": "Cg0KC0VDdVNuZG1oQ0ZzKicKGFVDQXhWb0JMRzJCdjF4Z2JZVV9lZnNDZxILRUN1U25kbWhDRnM"
     }
   },
   "ES_BPDdwz7I": {
@@ -2176,18 +2141,6 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC0dJcWJtNldXRGpFKicKGFVDX2tWSmhCUUM2VERGeXNOOVR1UFNZZxILR0lxYm02V1dEakU"
-    }
-  },
-  "GJedEI-wYKc": {
-    "snippet": {
-      "publishedAt": "2024-06-26T01:09:42Z",
-      "channelId": "UCPm_htRQjzhgFikcO_LTvTA",
-      "title": "\u3010MINECRAFT VSMP\u3011Okay Maybe I Do Have A Problem W/ Vicki"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-26T01:34:47Z",
-      "scheduledStartTime": "2024-06-26T01:30:00Z",
-      "activeLiveChatId": "Cg0KC0dKZWRFSS13WUtjKicKGFVDUG1faHRSUWp6aGdGaWtjT19MVHZUQRILR0plZEVJLXdZS2M"
     }
   },
   "GMlTCFm6kzY": {
@@ -6807,6 +6760,17 @@
       "activeLiveChatId": "Cg0KC2xydm9FbUZfZDkwKicKGFVDMWVYX01Wck4wRUJLZHBrbjliLWpodxILbHJ2b0VtRl9kOTA"
     }
   },
+  "lululasso": {
+    "snippet": {
+      "channelId": "lululasso",
+      "title": "Cowgirl Summer Chat! YEEHAWWWw",
+      "channelTitle": "lululasso"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T04:00:12Z",
+      "twitch": true
+    }
+  },
   "luluthebard": {
     "snippet": {
       "channelId": "luluthebard",
@@ -7059,7 +7023,7 @@
   "noro2d": {
     "snippet": {
       "channelId": "noro2d",
-      "title": "PAPA'S COOKING",
+      "title": "EATING AND CHATTING",
       "channelTitle": "NORO2D"
     },
     "liveStreamingDetails": {
@@ -7936,6 +7900,7 @@
       "title": "\u3010ASMR | 3DIO\u3011positive affirmations and comfy triggers for sleep!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T03:59:26Z",
       "scheduledStartTime": "2024-06-26T04:00:00Z",
       "activeLiveChatId": "Cg0KC3VvOExsdVdJNjZJKicKGFVDMW9nbUxWZE1yVTRIdUxCVVl0empWURILdW84TGx1V0k2Nkk"
     }
@@ -8304,6 +8269,7 @@
       "title": "\ud83d\udce2UNARCHIVED KARAOKE~"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T04:00:34Z",
       "scheduledStartTime": "2024-06-26T04:00:00Z",
       "activeLiveChatId": "Cg0KC3hjZGxUSDJGWkVvKicKGFVDeWwxejNqbzNYSFIxcmlMRktHNVVBZxILeGNkbFRIMkZaRW8"
     }
