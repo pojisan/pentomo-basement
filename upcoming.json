@@ -367,6 +367,17 @@
       "activeLiveChatId": "Cg0KCzE5N09FcGpqOFJJKicKGFVDZ21QbngtRUVlT3JaU2c1VGl3N1pSURILMTk3T0Vwamo4Ukk"
     }
   },
+  "19E9KvikjJw": {
+    "snippet": {
+      "publishedAt": "2024-06-26T12:09:49Z",
+      "channelId": "UCILQl5gRBMvwd-97-M5pLYQ",
+      "title": "\ud83d\udd34 Is Outer Wilds a game like The Forgotten City?\u3010LIVE\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-30T01:00:00Z",
+      "activeLiveChatId": "Cg0KCzE5RTlLdmlrakp3KicKGFVDSUxRbDVnUkJNdndkLTk3LU01cExZURILMTlFOUt2aWtqSnc"
+    }
+  },
   "1AMHxYWgZlI": {
     "snippet": {
       "publishedAt": "2024-06-24T18:13:25Z",
@@ -1793,6 +1804,7 @@
       "title": "\u3010The Expanse\u3011 Impossible Objects"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T12:06:10Z",
       "scheduledStartTime": "2024-06-26T12:00:00Z",
       "activeLiveChatId": "Cg0KC0RwUW01dVZvTDFJKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILRHBRbTV1Vm9MMUk"
     }
@@ -5036,18 +5048,6 @@
       "scheduledStartTime": "2024-08-24T04:00:00Z"
     }
   },
-  "_7uLdBbn9V0": {
-    "snippet": {
-      "publishedAt": "2024-06-26T07:39:31Z",
-      "channelId": "UC-LAnFLXU9BusFv7n8lFj8g",
-      "title": "\u3010Apex Legends Collab!!\u3011QUADDSSSSSSSSSSSS\u3010Sarugaku Leon Jr. | Globie\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-26T09:04:12Z",
-      "scheduledStartTime": "2024-06-26T09:00:00Z",
-      "activeLiveChatId": "Cg0KC183dUxkQmJuOVYwKicKGFVDLUxBbkZMWFU5QnVzRnY3bjhsRmo4ZxILXzd1TGRCYm45VjA"
-    }
-  },
   "_8RcgIk5QxY": {
     "snippet": {
       "publishedAt": "2024-06-19T06:54:00Z",
@@ -6516,6 +6516,17 @@
       "twitch": true
     }
   },
+  "kirispica": {
+    "snippet": {
+      "channelId": "kirispica",
+      "title": "Spica in VSMP Minecraft!!! \u3010Kirispica | V-Dere\u3011",
+      "channelTitle": "kirispica"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T12:01:51Z",
+      "twitch": true
+    }
+  },
   "ksVdcfsZv2I": {
     "snippet": {
       "publishedAt": "2024-06-25T03:27:21Z",
@@ -7515,6 +7526,17 @@
       "twitch": true
     }
   },
+  "sgH8-j2_5U0": {
+    "snippet": {
+      "publishedAt": "2024-06-26T12:08:16Z",
+      "channelId": "UCFwcEIsjvi9XEvpGx6iwHpw",
+      "title": "THE BEST DETECTIVES IN THE WORLD ARE HERE! DO NOT FEAR\u3010Doki Doki AI Interrogation\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-26T14:00:00Z",
+      "activeLiveChatId": "Cg0KC3NnSDgtajJfNVUwKicKGFVDRndjRUlzanZpOVhFdnBHeDZpd0hwdxILc2dIOC1qMl81VTA"
+    }
+  },
   "shiwGgmvc9U": {
     "snippet": {
       "publishedAt": "2024-06-12T01:17:12Z",
@@ -7848,6 +7870,7 @@
       "title": "\u3010VSMP MINECRAFT\u3011 proximity voice chat in Pixellink Minecraft Server!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T12:02:36Z",
       "scheduledStartTime": "2024-06-26T12:00:00Z",
       "activeLiveChatId": "Cg0KC3ZfcXdvd21zOC1ZKicKGFVDYnJiRktGaHlIRDRiTUpiRWNYWnoxZxILdl9xd293bXM4LVk"
     }
