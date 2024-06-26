@@ -4706,7 +4706,9 @@
       "title": "\u3010Viewfinder\u3011Open Your Eyes"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-26T03:00:00Z"
+      "actualStartTime": "2024-06-26T03:06:43Z",
+      "scheduledStartTime": "2024-06-26T03:00:00Z",
+      "activeLiveChatId": "Cg0KC2F4MUE1N2t3NVZRKicKGFVDbWJzOFQ2TVdxVUhQMXRJUXZTZ0tyZxILYXgxQTU3a3c1VlE"
     }
   }
 }
