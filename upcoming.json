@@ -1047,6 +1047,7 @@
       "title": "[PC] Carmageddon 2 (1998) #16"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T11:59:29Z",
       "scheduledStartTime": "2024-06-27T12:00:00Z",
       "activeLiveChatId": "Cg0KCzdvNEZpZVZ6N0RnKicKGFVDaXlEcFBlcnFYa2ljWm1ueEtCOXFaURILN280RmllVno3RGc"
     }
@@ -2615,6 +2616,7 @@
       "title": "\u3010\ud83d\udd34Karaoke\u3011A very normal singing stream  #\u7e26\u578b\u6b4c\u67a0 #Vertical"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T12:00:54Z",
       "scheduledStartTime": "2024-06-27T12:00:00Z",
       "activeLiveChatId": "Cg0KC0wtdkZzRmRPQXdrKicKGFVDNmxaTEFPZ1NZZ0o2WmtXMlpUSTc1URILTC12RnNGZE9Bd2s"
     }
@@ -2977,7 +2979,7 @@
       "title": "\u3010Eternal Return\u3011CHARLOTTE MAIN! Playing with Charlings! \ud83d\udd78\ufe0f \u3010VOLs\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-27T12:00:00Z",
+      "scheduledStartTime": "2024-06-27T12:15:00Z",
       "activeLiveChatId": "Cg0KC05GU25uN3RtQUc4KicKGFVDa3dCUjllNXJDSTJnbW1sUXktYnpmURILTkZTbm43dG1BRzg"
     }
   },
@@ -5279,9 +5281,10 @@
     "snippet": {
       "publishedAt": "2024-06-26T11:32:01Z",
       "channelId": "UCbrbFKFhyHD4bMJbEcXZz1g",
-      "title": "\u3010Singing & Piano\u3011 Song Requests on the Piano! Virtual Busking!  #\u6b4c\u67a0"
+      "title": "\u3010Singing & Piano\u3011 Song Requests on the Piano! (Cloud under the weather!)  #\u6b4c\u67a0"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T12:02:33Z",
       "scheduledStartTime": "2024-06-27T12:00:00Z",
       "activeLiveChatId": "Cg0KC2ZWTVpzeWRUajZnKicKGFVDYnJiRktGaHlIRDRiTUpiRWNYWnoxZxILZlZNWnN5ZFRqNmc"
     }
@@ -5430,7 +5433,7 @@
     "snippet": {
       "publishedAt": "2024-06-27T11:16:02Z",
       "channelId": "UCUI1qpjJSEbgzdlwmpdVmMw",
-      "title": "\u3010League of Legends\u3011TO CHALLENGER\u3010Twisty Amanozako | NIJISANJI EN\u3011"
+      "title": "\u3010League of Legends\u3011TO CHALLENGER with astra\u3010Twisty Amanozako | NIJISANJI EN\u3011"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-27T12:00:00Z",
@@ -5942,6 +5945,17 @@
       "activeLiveChatId": "Cg0KC2tlMTZnRmdhbUdRKicKGFVDSzlsNnJUd1UzaGlTWmlqSU1xNTFHdxILa2UxNmdGZ2FtR1E"
     }
   },
+  "kirispica": {
+    "snippet": {
+      "channelId": "kirispica",
+      "title": "cozy singing and piano!!! \u3010Kirispica | V-Dere\u3011",
+      "channelTitle": "kirispica"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T12:02:25Z",
+      "twitch": true
+    }
+  },
   "kpcW83biiHo": {
     "snippet": {
       "publishedAt": "2024-06-27T00:50:56Z",
@@ -6121,6 +6135,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-28T01:00:00Z",
       "activeLiveChatId": "Cg0KC21CdGhWeVU3bldZKicKGFVDYXNadnNrRkNfU0hzNkxYeDJfMjZjURILbUJ0aFZ5VTduV1k"
+    }
+  },
+  "mGClWD25TLw": {
+    "snippet": {
+      "publishedAt": "2024-06-27T11:54:48Z",
+      "channelId": "UCkwBR9e5rCI2gmmlQy-bzfQ",
+      "title": "\u3010Palworld\u3011PINK CHILLET UOOOOH \ud83d\udca2\ud83d\udca2 \ud83d\udd78\ufe0f \u3010VOLs\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-30T12:00:00Z",
+      "activeLiveChatId": "Cg0KC21HQ2xXRDI1VEx3KicKGFVDa3dCUjllNXJDSTJnbW1sUXktYnpmURILbUdDbFdEMjVUTHc"
     }
   },
   "mMglUjYOQYw": {
@@ -6388,18 +6413,6 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC3A2N0FlTk02bzEwKicKGFVDOENLR1N2cDliUmZtdFd5ZlY1TDlKdxILcDY3QWVOTTZvMTA"
-    }
-  },
-  "pGLTCScUJdY": {
-    "snippet": {
-      "publishedAt": "2024-06-25T14:04:57Z",
-      "channelId": "UC1JnagrqjTzERqfpNtRfx1A",
-      "title": "\u3010PARASOCIAL\u3011Parasocial? Me? Never!\u3010Yumi The Witch | V4Mirai | ENVtuber\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-27T08:31:57Z",
-      "scheduledStartTime": "2024-06-27T08:30:00Z",
-      "activeLiveChatId": "Cg0KC3BHTFRDU2NVSmRZKicKGFVDMUpuYWdycWpUekVScWZwTnRSZngxQRILcEdMVENTY1VKZFk"
     }
   },
   "pLp4soUOZg4": {
@@ -6849,6 +6862,7 @@
       "title": "\u3010MINECRAFT VSMP\u3011I guess I could show you around..."
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T12:01:38Z",
       "scheduledStartTime": "2024-06-27T12:00:00Z",
       "activeLiveChatId": "Cg0KC3NmOEtVT3cxYUFRKicKGFVDaTZxMHo4TjFOTllnV1BzTTFPSzI1URILc2Y4S1VPdzFhQVE"
     }
