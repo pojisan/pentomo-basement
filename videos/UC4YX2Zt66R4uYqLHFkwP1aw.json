@@ -1288,8 +1288,20 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-27T04:47:49Z",
-      "scheduledStartTime": "2024-06-27T04:45:00Z",
-      "activeLiveChatId": "Cg0KC1o1UGJEcU9JVjE0KicKGFVDNFlYMlp0NjZSNHVZcUxIRmt3UDFhdxILWjVQYkRxT0lWMTQ"
+      "actualEndTime": "2024-06-27T05:07:12Z",
+      "scheduledStartTime": "2024-06-27T04:45:00Z"
+    }
+  },
+  "B1BW4V-w8wk": {
+    "snippet": {
+      "publishedAt": "2024-06-27T05:08:29Z",
+      "channelId": "UC4YX2Zt66R4uYqLHFkwP1aw",
+      "title": "\u3010ART\u3011pew pew ima shoot ya gyatt"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T05:08:41Z",
+      "scheduledStartTime": "2024-06-27T05:08:39Z",
+      "activeLiveChatId": "Cg0KC0IxQlc0Vi13OHdrKicKGFVDNFlYMlp0NjZSNHVZcUxIRmt3UDFhdxILQjFCVzRWLXc4d2s"
     }
   }
 }
