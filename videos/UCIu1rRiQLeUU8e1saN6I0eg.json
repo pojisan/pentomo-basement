@@ -5143,8 +5143,21 @@
       "title": "\u3010KARAOKE \u250a\ufe0e#\u6b4c\u67a0\u3011\u611f\u60c5\u3081\u3044\u3063\u3071\u3044\u8fbc\u3081\u305f\u6b4c\u3092 #singing \u3010#\u30ce\u30a2\u30dd\u30e9\u30ea\u30b9\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T13:08:09Z",
+      "actualEndTime": "2024-06-27T13:08:10Z",
       "scheduledStartTime": "2024-06-27T13:00:00Z",
       "activeLiveChatId": "Cg0KC0x4MUtSWHpYREUwKicKGFVDSXUxclJpUUxlVVU4ZTFzYU42STBlZxILTHgxS1JYelhERTA"
+    }
+  },
+  "6X9WVJ_DF4k": {
+    "snippet": {
+      "publishedAt": "2024-06-27T13:11:03Z",
+      "channelId": "UCIu1rRiQLeUU8e1saN6I0eg",
+      "title": "\u3010KARAOKE \u250a\ufe0e#\u6b4c\u67a0\u3011\u611f\u60c5\u3081\u3044\u3063\u3071\u3044\u8fbc\u3081\u305f\u6b4c\u3092 #singing \u3010#\u30ce\u30a2\u30dd\u30e9\u30ea\u30b9\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-27T13:10:00Z",
+      "activeLiveChatId": "Cg0KCzZYOVdWSl9ERjRrKicKGFVDSXUxclJpUUxlVVU4ZTFzYU42STBlZxILNlg5V1ZKX0RGNGs"
     }
   }
 }
