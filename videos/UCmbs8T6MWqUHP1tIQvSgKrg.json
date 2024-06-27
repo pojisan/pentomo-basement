@@ -4718,7 +4718,9 @@
       "title": "\u3010Pacific Drive\u3011Hang Behind Me | #3"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-27T03:00:00Z"
+      "actualStartTime": "2024-06-27T03:10:25Z",
+      "scheduledStartTime": "2024-06-27T03:00:00Z",
+      "activeLiveChatId": "Cg0KC0syaTJycUJjcVpzKicKGFVDbWJzOFQ2TVdxVUhQMXRJUXZTZ0tyZxILSzJpMnJxQmNxWnM"
     }
   }
 }

@@ -1362,8 +1362,19 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-26T22:58:52Z",
-      "scheduledStartTime": "2024-06-26T23:00:00Z",
-      "activeLiveChatId": "Cg0KC2wwVUNmSzBIQ1BvKicKGFVDVlBCR21sc0M4Uy1UTmFfSUVWY3oxQRILbDBVQ2ZLMEhDUG8"
+      "actualEndTime": "2024-06-27T03:03:41Z",
+      "scheduledStartTime": "2024-06-26T23:00:00Z"
+    }
+  },
+  "JNKMDV1qz2M": {
+    "snippet": {
+      "publishedAt": "2024-06-27T03:05:36Z",
+      "channelId": "UCVPBGmlsC8S-TNa_IEVcz1A",
+      "title": "\ud83e\udd84\u3010UNICORN OVERLORD\u3011#3 ALAIN'S HAREM\u3010Yume+ | Raein Clowd\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-27T23:00:00Z",
+      "activeLiveChatId": "Cg0KC0pOS01EVjFxejJNKicKGFVDVlBCR21sc0M4Uy1UTmFfSUVWY3oxQRILSk5LTURWMXF6Mk0"
     }
   }
 }
