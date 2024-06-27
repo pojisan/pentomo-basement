@@ -4057,6 +4057,7 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-27T04:49:40Z",
+      "actualEndTime": "2024-06-27T16:27:44Z",
       "scheduledStartTime": "2024-06-27T04:45:00Z",
       "activeLiveChatId": "Cg0KC1hVTGs3aWkwVWlzKicKGFVDcFlmNkM5UXNQX0JSZjk3dkx1WGxJQRILWFVMazdpaTBVaXM"
     }
@@ -4071,6 +4072,18 @@
       "actualStartTime": "2024-06-26T21:05:19Z",
       "actualEndTime": "2024-06-27T04:22:14Z",
       "scheduledStartTime": "2024-06-26T21:00:00Z"
+    }
+  },
+  "3ShgXr__5_o": {
+    "snippet": {
+      "publishedAt": "2024-06-27T16:25:30Z",
+      "channelId": "UCpYf6C9QsP_BRf97vLuXlIA",
+      "title": "\u3010ELDEN RING #6\u3011WE DO INDEED BALL TO THE END [NIJISANJI EN | Vantacrow Bringer]"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T16:29:44Z",
+      "scheduledStartTime": "2024-06-27T16:30:00Z",
+      "activeLiveChatId": "Cg0KCzNTaGdYcl9fNV9vKicKGFVDcFlmNkM5UXNQX0JSZjk3dkx1WGxJQRILM1NoZ1hyX181X28"
     }
   }
 }
