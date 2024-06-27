@@ -907,18 +907,6 @@
       "activeLiveChatId": "Cg0KCzVlazNYZXJZaFNRKicKGFVDb0FRc2MtRFEwTWpmVHAwNTlvdFFBdxILNWVrM1hlclloU1E"
     }
   },
-  "5iUVEy1bipU": {
-    "snippet": {
-      "publishedAt": "2024-06-26T22:14:50Z",
-      "channelId": "UCbvR46SQpOPRKMrVT8NoJTA",
-      "title": "\u3010VSMP\u3011Day of Reckoning..."
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-26T22:43:42Z",
-      "scheduledStartTime": "2024-06-26T23:00:00Z",
-      "activeLiveChatId": "Cg0KCzVpVVZFeTFiaXBVKicKGFVDYnZSNDZTUXBPUFJLTXJWVDhOb0pUQRILNWlVVkV5MWJpcFU"
-    }
-  },
   "5rJScK0wKFM": {
     "snippet": {
       "publishedAt": "2022-04-07T08:09:42Z",
@@ -1230,18 +1218,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-08-01T22:00:00Z",
       "activeLiveChatId": "Cg0KCzh2ckxyYzZpTGZNKicKGFVDYlpabHFBU1U2Njgtd3lXMUsya1lCdxILOHZyTHJjNmlMZk0"
-    }
-  },
-  "99UTF6tXjAE": {
-    "snippet": {
-      "publishedAt": "2024-06-25T01:23:28Z",
-      "channelId": "UCIId2bA3BsBeBB80bdwNs4Q",
-      "title": "\u3010VALORANT\u3011Iron 2 gameplay I know I know PRO MOVES\u3010Yume Plus | Rhea Nevermore\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-26T22:01:12Z",
-      "scheduledStartTime": "2024-06-26T22:00:00Z",
-      "activeLiveChatId": "Cg0KCzk5VVRGNnRYakFFKicKGFVDSUlkMmJBM0JzQmVCQjgwYmR3TnM0URILOTlVVEY2dFhqQUU"
     }
   },
   "9FlDLRaxuzk": {
@@ -4842,7 +4818,7 @@
       "title": "\u3010Yakuza 0\u3011 I will protect you from unseiso!\u3010idolES | Taiga Toragami\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-27T02:30:00Z",
+      "scheduledStartTime": "2024-06-27T03:00:00Z",
       "activeLiveChatId": "Cg0KC1pyMXV0WjZJRFY4KicKGFVDaUJNSDFkN2V3XzNiaTJBX3paR3NtdxILWnIxdXRaNklEVjg"
     }
   },
@@ -6215,6 +6191,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-12-01T11:00:00Z",
       "activeLiveChatId": "Cg0KC2pibm9TckRKNDFJKicKGFVDdS1KOHVJWHVMWmgxNmdHLWNUMW5hdxILamJub1NyREo0MUk"
+    }
+  },
+  "jeanfaymas": {
+    "snippet": {
+      "channelId": "jeanfaymas",
+      "title": "HL ALYX (first time play-through) \u2726 !merch !vershion",
+      "channelTitle": "JeanFaymas"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T01:35:45Z",
+      "twitch": true
     }
   },
   "jvYUVIKZMRQ": {
