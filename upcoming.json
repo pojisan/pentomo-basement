@@ -1036,6 +1036,7 @@
       "title": "\u3010VALKYRIA CHRONICLES\u3011It's a terrible day for rain \u3010PART 11\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T23:02:50Z",
       "scheduledStartTime": "2024-06-27T23:00:00Z",
       "activeLiveChatId": "Cg0KCzdpaENqSm81c0VvKicKGFVDa0o2NFcwSjdSMHpDU0FzWmZSSWhWURILN2loQ2pKbzVzRW8"
     }
@@ -2451,6 +2452,7 @@
       "title": "\ud83e\udd84\u3010UNICORN OVERLORD\u3011#3 ALAIN'S HAREM\u3010Yume+ | Raein Clowd\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T22:55:49Z",
       "scheduledStartTime": "2024-06-27T23:00:00Z",
       "activeLiveChatId": "Cg0KC0pOS01EVjFxejJNKicKGFVDVlBCR21sc0M4Uy1UTmFfSUVWY3oxQRILSk5LTURWMXF6Mk0"
     }
@@ -2984,6 +2986,7 @@
       "title": "\u3010Zatsu\u3011There's no power \u26a1\u3010VyVid | Bunana \u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T22:55:14Z",
       "scheduledStartTime": "2024-06-27T23:00:00Z",
       "activeLiveChatId": "Cg0KC05KVGt3d0xoSUowKicKGFVDVmpwRlAxX055M1BVb0UyNnI0SVRhdxILTkpUa3d3TGhJSjA"
     }
@@ -3331,6 +3334,7 @@
       "title": "VTUBER GENTLE PARENTS YOU"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T23:02:10Z",
       "scheduledStartTime": "2024-06-27T23:00:00Z",
       "activeLiveChatId": "Cg0KC1BYUUotRHA4THJRKicKGFVDZzdzVy1oMVBVb3dkaVI1SzRIbEJldxILUFhRSi1EcDhMclE"
     }
@@ -3473,6 +3477,7 @@
       "title": "\u3010PLAY with MEMBERS\u3011Gaming with my beloved Guildmates!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T23:02:19Z",
       "scheduledStartTime": "2024-06-27T23:00:46Z",
       "activeLiveChatId": "Cg0KC1FOWVJNUjBuejdrKicKGFVDeTJtRk5OMUxvQXphcGNOWTk0OGd4dxILUU5ZUk1SMG56N2s"
     }
@@ -3531,18 +3536,6 @@
       "actualStartTime": "2024-06-27T22:18:08Z",
       "scheduledStartTime": "2024-06-27T22:00:00Z",
       "activeLiveChatId": "Cg0KC1F6dVR4ZW91aDE4KicKGFVDbzdUUmozY1MtZl8xRDlaRG11VHNqdxILUXp1VHhlb3VoMTg"
-    }
-  },
-  "R0nIFljNemQ": {
-    "snippet": {
-      "publishedAt": "2024-06-27T21:23:49Z",
-      "channelId": "UCoOEer2c2pn2LqPX6skNWtA",
-      "title": "SUPERVIVE - LEAGUE OF LEGENDS MEETS FORTNITE BATTLE ROYALE?? BETA TEST"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-27T21:27:07Z",
-      "scheduledStartTime": "2024-06-27T21:30:00Z",
-      "activeLiveChatId": "Cg0KC1IwbklGbGpOZW1RKicKGFVDb09FZXIyYzJwbjJMcVBYNnNrTld0QRILUjBuSUZsak5lbVE"
     }
   },
   "R1LTX5XedR8": {
@@ -4199,7 +4192,8 @@
       "title": "discord watch party Gosei Sentai Dairanger.~"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-27T23:00:07Z",
+      "actualStartTime": "2024-06-27T23:01:14Z",
+      "scheduledStartTime": "2024-06-27T23:00:49Z",
       "activeLiveChatId": "Cg0KC1c0VFVIQmVJLXYwKicKGFVDTzBEcFZLUjRDSDVFWGdvc2N6OTliQRILVzRUVUhCZUktdjA"
     }
   },
@@ -4436,6 +4430,7 @@
       "title": "[GHOST OF TSUSHIMA DIRECTOR'S CUT PT 45] FIRST BLIND PLAYTHROUGH! [Yae Yugiri | V4Mirai]"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T23:01:39Z",
       "scheduledStartTime": "2024-06-27T23:00:00Z",
       "activeLiveChatId": "Cg0KC1h1RGtjb2VHZzM0KicKGFVDYkRISVMwTnBYUk9oWWpzYVhRWDRwQRILWHVEa2NvZUdnMzQ"
     }
@@ -5226,6 +5221,17 @@
       "activeLiveChatId": "Cg0KC2RaZ3BGLW5Qc1VzKicKGFVDRVk5Q25TSDBuMFFLbVkyUS1PSDdadxILZFpncEYtblBzVXM"
     }
   },
+  "dee_the_sphinx": {
+    "snippet": {
+      "channelId": "dee_the_sphinx",
+      "title": "\ud83d\udd06SCUFFATHON DAY 4: HAND CAM CRAFTING!!!",
+      "channelTitle": "Dee_the_Sphinx"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T23:04:31Z",
+      "twitch": true
+    }
+  },
   "dskm7dsSokI": {
     "snippet": {
       "publishedAt": "2024-06-22T04:15:46Z",
@@ -5850,6 +5856,17 @@
       "activeLiveChatId": "Cg0KC2lRVmpoN0Nlc0VRKicKGFVDYl9hbmdmRjhpbzEtMURydks1azVMQRILaVFWamg3Q2VzRVE"
     }
   },
+  "iY_cKBR4JOc": {
+    "snippet": {
+      "publishedAt": "2024-06-27T17:12:56Z",
+      "channelId": "UCupmjRr7kPgzXKh-cPxxGbg",
+      "title": "\u3010SPYRO: REIGNITED TRILOGY\u3011YEAR OF THE DRAGON \ud83d\udd25 #10"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-28T15:00:00Z",
+      "activeLiveChatId": "Cg0KC2lZX2NLQlI0Sk9jKicKGFVDdXBtalJyN2tQZ3pYS2gtY1B4eEdiZxILaVlfY0tCUjRKT2M"
+    }
+  },
   "ieC07z1Ki_8": {
     "snippet": {
       "publishedAt": "2024-06-17T20:14:40Z",
@@ -5880,6 +5897,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-28T02:00:00Z",
       "activeLiveChatId": "Cg0KC2l4bDBkci1Jcl9RKicKGFVDRmdYV1pPVVpBMm9ZSE5yNnFEbXNUURILaXhsMGRyLUlyX1E"
+    }
+  },
+  "j3X1BVGg748": {
+    "snippet": {
+      "publishedAt": "2024-06-27T17:19:50Z",
+      "channelId": "UCupmjRr7kPgzXKh-cPxxGbg",
+      "title": "\u3010SPYRO: REIGNITED TRILOGY\u3011I'll Show YOU a Dragon! \ud83d\udd25 #11"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-30T15:00:00Z",
+      "activeLiveChatId": "Cg0KC2ozWDFCVkdnNzQ4KicKGFVDdXBtalJyN2tQZ3pYS2gtY1B4eEdiZxILajNYMUJWR2c3NDg"
     }
   },
   "j7dsRn97ii0": {
@@ -6613,6 +6641,7 @@
       "title": "MINECRAFT :D"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T23:00:17Z",
       "scheduledStartTime": "2024-06-27T23:00:00Z",
       "activeLiveChatId": "Cg0KC3BYYUpWQ3hwSW5jKicKGFVDMXV6TVo3eF9IZ3VuNXQ4Sjl1RmFudxILcFhhSlZDeHBJbmM"
     }
