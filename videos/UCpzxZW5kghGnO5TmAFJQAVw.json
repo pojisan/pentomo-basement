@@ -6576,8 +6576,19 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-27T02:26:42Z",
-      "scheduledStartTime": "2024-06-27T02:00:00Z",
-      "activeLiveChatId": "Cg0KC2NUcG85UDhGX1FrKicKGFVDcHp4Wlc1a2doR25PNVRtQUZKUUFWdxILY1RwbzlQOEZfUWs"
+      "actualEndTime": "2024-06-27T08:04:29Z",
+      "scheduledStartTime": "2024-06-27T02:00:00Z"
+    }
+  },
+  "gbwlRE_vgQY": {
+    "snippet": {
+      "publishedAt": "2024-06-27T08:07:18Z",
+      "channelId": "UCpzxZW5kghGnO5TmAFJQAVw",
+      "title": "ELDEN RING SHADOW OF THE ERDTREE... Adventure awaits HUZAHHH!!! \ud83d\udd25 Part 4"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-28T02:00:00Z",
+      "activeLiveChatId": "Cg0KC2did2xSRV92Z1FZKicKGFVDcHp4Wlc1a2doR25PNVRtQUZKUUFWdxILZ2J3bFJFX3ZnUVk"
     }
   }
 }
