@@ -2686,6 +2686,7 @@
       "title": "\u3010Sonic Advance 2\u3011The Advanced Adventures Continue!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T18:59:55Z",
       "scheduledStartTime": "2024-06-27T19:00:00Z",
       "activeLiveChatId": "Cg0KC0xndGFrc1ZhS0pzKicKGFVDeWtNV2Y4QjhJN2NfakE4RlR5MnRHdxILTGd0YWtzVmFLSnM"
     }
@@ -3570,6 +3571,7 @@
       "title": "\u3010ELDEN RING\u3011\ud83c\udfba\u2218\u02d9\u25cb\u02da.\u2022 DLC time! *spoilers*"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T19:00:12Z",
       "scheduledStartTime": "2024-06-27T19:00:00Z",
       "activeLiveChatId": "Cg0KC1JTdmlkbGkwNmdzKicKGFVDeWwxejNqbzNYSFIxcmlMRktHNVVBZxILUlN2aWRsaTA2Z3M"
     }
@@ -4042,6 +4044,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-07-01T00:00:00Z",
       "activeLiveChatId": "Cg0KC1ZlYzltdE5yVVJjKicKGFVDOThpUk12UnFVeFJENkdQNE50UnNrdxILVmVjOW10TnJVUmM"
+    }
+  },
+  "Vh7cQ2BfvjQ": {
+    "snippet": {
+      "publishedAt": "2024-06-27T18:54:06Z",
+      "channelId": "UCQYwIUCLqFoin7lHKmePjJw",
+      "title": "\u3010ZATSUDAN\u3011Chill Zatsudan with Cutest Penguin, Lady Petra!\u3010NIJISANJ EN | Klara Charmwood\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-28T12:00:00Z",
+      "activeLiveChatId": "Cg0KC1ZoN2NRMkJmdmpRKicKGFVDUVl3SVVDTHFGb2luN2xIS21lUGpKdxILVmg3Y1EyQmZ2alE"
     }
   },
   "VqVpFAZhLSE": {
@@ -4775,6 +4788,17 @@
       "activeLiveChatId": "Cg0KC2FtZkdTd01uX1FrKicKGFVDazB2dXd3c21fVVFISElPZ0d2eFUtQRILYW1mR1N3TW5fUWs"
     }
   },
+  "apolloalto": {
+    "snippet": {
+      "channelId": "apolloalto",
+      "title": "[Drops Enabled] MO BAttle Royale! !discord !socials !charity",
+      "channelTitle": "ApolloAlto"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T18:57:26Z",
+      "twitch": true
+    }
+  },
   "aresmythos": {
     "snippet": {
       "channelId": "aresmythos",
@@ -5497,6 +5521,17 @@
       "activeLiveChatId": "Cg0KC2hZWl9sZ3R1YWVrKicKGFVDcjhOWjlqT3JyVmNJUm5hSFpDakpVZxILaFlaX2xndHVhZWs"
     }
   },
+  "haruna": {
+    "snippet": {
+      "channelId": "haruna",
+      "title": "my voice is nonexistent srry",
+      "channelTitle": "haruna"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T19:00:49Z",
+      "twitch": true
+    }
+  },
   "hfmVsUCVz58": {
     "snippet": {
       "publishedAt": "2024-06-24T17:11:16Z",
@@ -5610,6 +5645,7 @@
       "title": "CONSUMED BY DARKNESS!... (First Dark Souls playthrough)"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T19:00:05Z",
       "scheduledStartTime": "2024-06-27T19:00:00Z",
       "activeLiveChatId": "Cg0KC2h6VXlCVTRNLUdRKicKGFVDOXhSN3VOMHg1YTZDSDNVb3BxN2N6QRILaHpVeUJVNE0tR1E"
     }
