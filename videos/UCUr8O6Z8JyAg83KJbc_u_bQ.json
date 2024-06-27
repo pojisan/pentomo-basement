@@ -3647,8 +3647,32 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-27T16:06:42Z",
       "actualEndTime": "2024-06-27T16:50:47Z",
-      "scheduledStartTime": "2024-06-27T16:06:40Z",
-      "activeLiveChatId": "Cg0KC21KcUF2eENFUG1BKicKGFVDVXI4TzZaOEp5QWc4M0tKYmNfdV9iURILbUpxQXZ4Q0VQbUE"
+      "scheduledStartTime": "2024-06-27T16:06:40Z"
+    }
+  },
+  "QIYClACMirM": {
+    "snippet": {
+      "publishedAt": "2024-06-27T16:59:24Z",
+      "channelId": "UCUr8O6Z8JyAg83KJbc_u_bQ",
+      "title": "im a noob at fortnite."
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T17:00:04Z",
+      "scheduledStartTime": "2024-06-27T16:59:33Z",
+      "activeLiveChatId": "Cg0KC1FJWUNsQUNNaXJNKicKGFVDVXI4TzZaOEp5QWc4M0tKYmNfdV9iURILUUlZQ2xBQ01pck0"
+    }
+  },
+  "rcjpHVl47UQ": {
+    "snippet": {
+      "publishedAt": "2024-06-27T17:01:38Z",
+      "channelId": "UCUr8O6Z8JyAg83KJbc_u_bQ",
+      "title": "im a noob at fortnite."
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T16:51:02Z",
+      "actualEndTime": "2024-06-27T16:59:23Z",
+      "scheduledStartTime": "2024-06-27T16:51:00Z",
+      "activeLiveChatId": "Cg0KC3JjanBIVmw0N1VRKicKGFVDVXI4TzZaOEp5QWc4M0tKYmNfdV9iURILcmNqcEhWbDQ3VVE"
     }
   }
 }
