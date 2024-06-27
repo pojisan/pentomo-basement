@@ -28,6 +28,7 @@
       "title": "\u3010ASMR\u3011\u53f0\u30d1\u30f3\u56de\u907f\uff01\u30b7\u30eb\u30d0\u30fc\u306b\u884c\u304f\u3010phase connect\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T04:02:25Z",
       "scheduledStartTime": "2024-06-27T04:00:00Z",
       "activeLiveChatId": "Cg0KCy00WGNRbWw0dk5rKicKGFVDQjdzU1VOd2hfZFhFN1pMM0RzR0RwdxILLTRYY1FtbDR2Tms"
     }
@@ -84,18 +85,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-12-13T18:55:00Z",
       "activeLiveChatId": "Cg0KCy1PZm5wM2NZSFZZKicKGFVDYTJlM2MwU0RBNWFlRlRST0lQejllQRILLU9mbnAzY1lIVlk"
-    }
-  },
-  "-RNNbdYfmzc": {
-    "snippet": {
-      "publishedAt": "2024-06-22T21:02:29Z",
-      "channelId": "UCQr9A9ExDKYy2wxu0RkC4Ug",
-      "title": "\u3010UNDERTALE\u3011So far under who knows if we'll get out | #EmiBLive"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-26T23:00:54Z",
-      "scheduledStartTime": "2024-06-26T23:00:47Z",
-      "activeLiveChatId": "Cg0KCy1STk5iZFlmbXpjKicKGFVDUXI5QTlFeERLWXkyd3h1MFJrQzRVZxILLVJOTmJkWWZtemM"
     }
   },
   "-TVGNELRdjo": {
@@ -1672,6 +1661,17 @@
       "activeLiveChatId": "Cg0KC0RwTnhtQmFNQjhZKicKGFVDb21JblcxME1rSEpzLV92aTRySFFDURILRHBOeG1CYU1COFk"
     }
   },
+  "DtXXHXGRE8Q": {
+    "snippet": {
+      "publishedAt": "2024-06-27T04:15:39Z",
+      "channelId": "UCRm6lqtdxs_Qo6HeL-SRQ-w",
+      "title": "\u3010\u30d1\u30c1\u30b9\u30ed\u5bfe\u6c7a\u3011\u308c\u3093\u3058\u308d\u3046\u3055\u3093\u3068\u795e\u3005\u306e\u51f1\u65cb\u3067\u5dee\u679a\u52dd\u8ca0\u3010\u30ec\u30a4\u30f3\u30fb\u30d1\u30bf\u30fc\u30bd\u30f3/\u306b\u3058\u3055\u3093\u3058\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-27T09:00:00Z",
+      "activeLiveChatId": "Cg0KC0R0WFhIWEdSRThRKicKGFVDUm02bHF0ZHhzX1FvNkhlTC1TUlEtdxILRHRYWEhYR1JFOFE"
+    }
+  },
   "DtZ5fQDRxBI": {
     "snippet": {
       "publishedAt": "2024-06-24T23:47:22Z",
@@ -1744,7 +1744,7 @@
       "title": "lets play destiny 2 dlc! (let me get my motion sickness medication 3x)"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-27T04:00:00Z",
+      "scheduledStartTime": "2024-06-27T04:15:00Z",
       "activeLiveChatId": "Cg0KC0VVUGhjai1nUGlRKicKGFVDRmdYV1pPVVpBMm9ZSE5yNnFEbXNUURILRVVQaGNqLWdQaVE"
     }
   },
@@ -2174,18 +2174,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-28T19:00:00Z",
       "activeLiveChatId": "Cg0KC0g1REdtbWtSUVJVKicKGFVDdURtVWwzV1k0MUZxR0lfYlVyNjJQQRILSDVER21ta1JRUlU"
-    }
-  },
-  "H8Jd5zEo5eA": {
-    "snippet": {
-      "publishedAt": "2024-06-26T13:41:56Z",
-      "channelId": "UCdh-YF2gTzqDNu0VU9lwPPw",
-      "title": "\u3010CHAINED TOGETHER\u3011krisisis bonding exercise\u3010NIJISANJI EN | Claude Clawmark\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-26T21:07:34Z",
-      "scheduledStartTime": "2024-06-26T21:00:00Z",
-      "activeLiveChatId": "Cg0KC0g4SmQ1ekVvNWVBKicKGFVDZGgtWUYyZ1R6cUROdTBWVTlsd1BQdxILSDhKZDV6RW81ZUE"
     }
   },
   "HGr-svPkz40": {
@@ -3992,6 +3980,7 @@
       "title": "\u3010New! Pokemon Snap\u3011Nearing the end!\u3010Cosmia\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T04:02:14Z",
       "scheduledStartTime": "2024-06-27T04:00:00Z",
       "activeLiveChatId": "Cg0KC1U1bGNnLWNLV0w0KicKGFVDMmhXRmxxTWV3NjFKeTZBOHp1NUh6URILVTVsY2ctY0tXTDQ"
     }
@@ -4894,7 +4883,7 @@
     "snippet": {
       "publishedAt": "2024-06-27T02:05:17Z",
       "channelId": "UCFVXw8NMPp-LLiJxG81Lmdw",
-      "title": "[Minecraft] AXOLOTL KINGDOM cont. #shizubrooklive"
+      "title": "[Character A.I] SUKUNA... WHAT??? #shizubrooklive"
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-27T03:00:40Z",
@@ -6479,17 +6468,6 @@
       "activeLiveChatId": "Cg0KC21fSlMxY2N2RWs4KicKGFVDX3Q3d3RTY1ZMazg1SWFEOWpZU1JBQRILbV9KUzFjY3ZFazg"
     }
   },
-  "meica05": {
-    "snippet": {
-      "channelId": "meica05",
-      "title": "\ud83d\udfe2  \u3010ES/JP\u3011JUGANDO OVERWACHO CON MIS CHIKIS \ud83d\ude3c | !redes !video \ud83c\udf31",
-      "channelTitle": "Meica05"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-27T01:01:20Z",
-      "twitch": true
-    }
-  },
   "metorial": {
     "snippet": {
       "channelId": "metorial",
@@ -7061,18 +7039,6 @@
       "activeLiveChatId": "Cg0KC3JuU2c3MlYzaXQ0KicKGFVDcFlmNkM5UXNQX0JSZjk3dkx1WGxJQRILcm5TZzcyVjNpdDQ"
     }
   },
-  "rnlPlnV78T0": {
-    "snippet": {
-      "publishedAt": "2024-06-24T17:31:24Z",
-      "channelId": "UCG56XWZebO3THWL6GqdL6gA",
-      "title": "\u3010GTA V\u3011 We have unfinished business in Los Santos... \u3010\u2661 lucid | Boomi Mamana\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-27T00:11:01Z",
-      "scheduledStartTime": "2024-06-27T00:00:00Z",
-      "activeLiveChatId": "Cg0KC3JubFBsblY3OFQwKicKGFVDRzU2WFdaZWJPM1RIV0w2R3FkTDZnQRILcm5sUGxuVjc4VDA"
-    }
-  },
   "rtixs6mAErE": {
     "snippet": {
       "publishedAt": "2022-07-13T14:54:17Z",
@@ -7379,7 +7345,7 @@
     "snippet": {
       "publishedAt": "2024-06-27T02:32:22Z",
       "channelId": "UCT41WnQY3O2F7Obi1hhPOyA",
-      "title": "\u3010Crime Boss Rocky City/Grounded\u3011 Trying my skill as an evil elf"
+      "title": "\u3010Crime Boss Rocky City\u3011 Trying my skill as an evil elf"
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-27T03:25:42Z",
