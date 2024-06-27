@@ -879,7 +879,8 @@
       "title": "\u3010THE GAME OF SISYPHUS\u3011fluffy FUWAWA vs fuzzy mococo \ud83d\udc3e#shorts \u3010FUWAWA POV \u7e26\u578b\u914d\u4fe1 VERTICAL\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-27T01:00:00Z"
+      "scheduledStartTime": "2024-06-27T01:00:00Z",
+      "activeLiveChatId": "Cg0KCzVhbG83dHZFNXBzKicKGFVDdDlIX1JwUXpoeHpseUJ4RnFyZEhxQRILNWFsbzd0dkU1cHM"
     }
   },
   "5b4Ve_hd57Y": {
@@ -4467,6 +4468,7 @@
       "title": "\u3010Yugioh Master Duel\u3011Card Decks from 2010?! Time Travel Event & Pulling Gacha"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T00:00:27Z",
       "scheduledStartTime": "2024-06-27T00:00:00Z",
       "activeLiveChatId": "Cg0KC1g5Ri1heE5IdGc0KicKGFVDS3pLZ1UteGxuY2RFRzVXb3VxVGZ5ZxILWDlGLWF4Tkh0ZzQ"
     }
@@ -5905,7 +5907,8 @@
       "title": "\u3010THE GAME OF SISYPHUS\u3011fuzzy MOCOCO vs fluffy fuwawa \ud83d\udc3e#shorts \u3010MOCOCO POV \u7e26\u578b\u914d\u4fe1 VERTICAL\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-27T01:00:00Z"
+      "scheduledStartTime": "2024-06-27T01:00:00Z",
+      "activeLiveChatId": "Cg0KC2hiSVhqOTk4aV9ZKicKGFVDdDlIX1JwUXpoeHpseUJ4RnFyZEhxQRILaGJJWGo5OThpX1k"
     }
   },
   "hfmVsUCVz58": {
@@ -7234,6 +7237,17 @@
       "activeLiveChatId": "Cg0KC3JnZGk4YnRlUWdjKicKGFVDOHpnS2FTOExpeUwyOG1kaFJDMm5CZxILcmdkaThidGVRZ2M"
     }
   },
+  "rixxybrightful": {
+    "snippet": {
+      "channelId": "rixxybrightful",
+      "title": "ChatGPT Choose Your Own Adventure!",
+      "channelTitle": "rixxybrightful"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T23:56:36Z",
+      "twitch": true
+    }
+  },
   "rn2SX1mvIyc": {
     "snippet": {
       "publishedAt": "2023-01-17T06:13:35Z",
@@ -7645,18 +7659,6 @@
       "activeLiveChatId": "Cg0KC3VmUEZoY3NxNDNzKicKGFVDSUxRbDVnUkJNdndkLTk3LU01cExZURILdWZQRmhjc3E0M3M"
     }
   },
-  "uhcw4D67HFk": {
-    "snippet": {
-      "publishedAt": "2024-06-26T13:43:14Z",
-      "channelId": "UCkJ64W0J7R0zCSAsZfRIhVQ",
-      "title": "[#VTUBERSS2024] Karting for a Kause! | Gamer's Outreach VTuber Summer Slam 2024"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-26T21:59:09Z",
-      "scheduledStartTime": "2024-06-26T22:00:00Z",
-      "activeLiveChatId": "Cg0KC3VoY3c0RDY3SEZrKicKGFVDa0o2NFcwSjdSMHpDU0FzWmZSSWhWURILdWhjdzRENjdIRms"
-    }
-  },
   "uztiiL8ALQI": {
     "snippet": {
       "publishedAt": "2024-06-24T13:05:01Z",
@@ -7914,6 +7916,17 @@
       "premiere": true
     }
   },
+  "wisky64vt": {
+    "snippet": {
+      "channelId": "wisky64vt",
+      "title": "Tempter! Temper! \ud83d\udca5WisKy is playing World of Warships",
+      "channelTitle": "WisKy64VT"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T00:00:19Z",
+      "twitch": true
+    }
+  },
   "wjDz5GbSQxo": {
     "snippet": {
       "publishedAt": "2022-02-08T03:42:18Z",
@@ -7986,6 +7999,7 @@
       "title": "Hobby Hunting! To Find a Hubby..."
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T23:59:10Z",
       "scheduledStartTime": "2024-06-27T00:00:00Z",
       "activeLiveChatId": "Cg0KC3hfSTdsdzMwdzd3KicKGFVDOThpUk12UnFVeFJENkdQNE50UnNrdxILeF9JN2x3MzB3N3c"
     }
