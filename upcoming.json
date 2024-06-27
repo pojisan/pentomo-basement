@@ -5282,18 +5282,6 @@
       "activeLiveChatId": "Cg0KC2Q5UEx5d2xkN1ZzKicKGFVDb21JblcxME1rSEpzLV92aTRySFFDURILZDlQTHl3bGQ3VnM"
     }
   },
-  "dSWLtxuPxD8": {
-    "snippet": {
-      "publishedAt": "2024-06-27T01:41:27Z",
-      "channelId": "UCzyzcQtOIF4lnGJ9IxrhaYA",
-      "title": "DYING WITH HIYO IN THE NETHER\u3010MINECRAFT #vsmp\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-27T02:03:13Z",
-      "scheduledStartTime": "2024-06-27T02:15:00Z",
-      "activeLiveChatId": "Cg0KC2RTV0x0eHVQeEQ4KicKGFVDenl6Y1F0T0lGNGxuR0o5SXhyaGFZQRILZFNXTHR4dVB4RDg"
-    }
-  },
   "dWkXrtvvLig": {
     "snippet": {
       "publishedAt": "2024-06-26T14:11:15Z",
@@ -5344,6 +5332,7 @@
       "title": "\u3010PKMN SOULLINK: X AND Y\u3011HERE WE GO AGAIN  #pkmnpride2024"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T04:00:38Z",
       "scheduledStartTime": "2024-06-27T04:00:00Z",
       "activeLiveChatId": "Cg0KC2RjU2pnQVVJOWg4KicKGFVDUkllUzNnLWF3SVF1UEFQbkFwSGJDQRILZGNTamdBVUk5aDg"
     }
@@ -6046,18 +6035,6 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC2o3ZHNSbjk3aWkwKicKGFVDbjViUF9oTEw1SEI2Ulc4WDMya3cxQRILajdkc1JuOTdpaTA"
-    }
-  },
-  "jJBWzHVkIvw": {
-    "snippet": {
-      "publishedAt": "2024-06-26T14:06:08Z",
-      "channelId": "UC64DMAYXo4nwTFfvNQzkSwQ",
-      "title": "\u3010ELDEN RING #26\u3011time for the next boss~!!\u3010PixelLink\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-26T23:00:41Z",
-      "scheduledStartTime": "2024-06-26T23:00:00Z",
-      "activeLiveChatId": "Cg0KC2pKQld6SFZrSXZ3KicKGFVDNjRETUFZWG80bndURmZ2TlF6a1N3URILakpCV3pIVmtJdnc"
     }
   },
   "jMh9CrWpBYE": {
@@ -7191,6 +7168,17 @@
       "activeLiveChatId": "Cg0KC3NWY29UVFNvZ2dvKicKGFVDcW1TWWtYTHdzTDB6RWFyNUdvb1lrZxILc1Zjb1RUU29nZ28"
     }
   },
+  "shimadatiger": {
+    "snippet": {
+      "channelId": "shimadatiger",
+      "title": "[LIVE 3DIO ASMR] Comfy sleepytime ASMR with a tomboy tiger! (!newvideo)",
+      "channelTitle": "ShimadaTiger"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T04:00:29Z",
+      "twitch": true
+    }
+  },
   "shirozevalia": {
     "snippet": {
       "channelId": "shirozevalia",
@@ -7241,6 +7229,7 @@
       "title": "\u3010Sonic Adventure 2\u3011Finally rolling around at the speed of sound!!\u3010Yume+ | Aimee\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T03:56:15Z",
       "scheduledStartTime": "2024-06-27T04:00:00Z",
       "activeLiveChatId": "Cg0KC3NvZHh4X2M3ZWU4KicKGFVDX3Q3d3RTY1ZMazg1SWFEOWpZU1JBQRILc29keHhfYzdlZTg"
     }
