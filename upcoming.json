@@ -417,6 +417,7 @@
       "title": "\u3010LEAGUE OF LEGENDS\u3011No game? Just LoL!\u3010globie 1st Gen\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T15:56:54Z",
       "scheduledStartTime": "2024-06-27T16:00:00Z",
       "activeLiveChatId": "Cg0KCzFjVnRKX25mYnVJKicKGFVDX2tWSmhCUUM2VERGeXNOOVR1UFNZZxILMWNWdEpfbmZidUk"
     }
@@ -735,6 +736,7 @@
       "title": "\u3010Apex Legends\u3011THE RANKED EXPERIENCE\u3010Sarugaku Leon Jr. | Globie\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T15:56:17Z",
       "scheduledStartTime": "2024-06-27T16:00:00Z",
       "activeLiveChatId": "Cg0KCzR0bFpYOU02RjRFKicKGFVDLUxBbkZMWFU5QnVzRnY3bjhsRmo4ZxILNHRsWlg5TTZGNEU"
     }
@@ -5201,17 +5203,6 @@
       "activeLiveChatId": "Cg0KC2VnaVNQSUtBZ2UwKicKGFVDbHhqM0dsR3BoWlZnZDFTTFloWkttZxILZWdpU1BJS0FnZTA"
     }
   },
-  "enominya_andi": {
-    "snippet": {
-      "channelId": "enominya_andi",
-      "title": "Penacony Farewell? IM DOING THE LAST STORY! Meow Meow",
-      "channelTitle": "Enominya_Andi"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-27T11:02:31Z",
-      "twitch": true
-    }
-  },
   "erislefaire": {
     "snippet": {
       "channelId": "erislefaire",
@@ -5439,6 +5430,17 @@
       "actualStartTime": "2024-06-27T12:04:27Z",
       "scheduledStartTime": "2024-06-27T12:00:00Z",
       "activeLiveChatId": "Cg0KC2dpdnplQWE4aXdjKicKGFVDVUkxcXBqSlNFYmd6ZGx3bXBkVm1NdxILZ2l2emVBYThpd2M"
+    }
+  },
+  "gx_aura": {
+    "snippet": {
+      "channelId": "gx_aura",
+      "title": "IT'S TIME TO D-D-D-D-DUEL| !ironside  [Yu-Gi-Oh Master Duel]",
+      "channelTitle": "GX_Aura"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T15:59:15Z",
+      "twitch": true
     }
   },
   "h4426bmybDA": {
