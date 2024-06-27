@@ -1551,6 +1551,7 @@
       "title": "\u3010SALLY FACE EP 5: MEMORIES AND DREAMS\u3011WAS THE CULT EVER DEFEATED?"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T03:20:05Z",
       "scheduledStartTime": "2024-06-27T03:00:00Z",
       "activeLiveChatId": "Cg0KC0N4RHFhNEk4YmdJKicKGFVDNjh3NHo2V2l2ZW8zYmkzck4xR290QRILQ3hEcWE0SThiZ0k"
     }
@@ -1755,7 +1756,7 @@
       "title": "lets play destiny 2 dlc! (let me get my motion sickness medication 3x)"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-27T06:00:00Z",
+      "scheduledStartTime": "2024-06-27T04:00:00Z",
       "activeLiveChatId": "Cg0KC0VVUGhjai1nUGlRKicKGFVDRmdYV1pPVVpBMm9ZSE5yNnFEbXNUURILRVVQaGNqLWdQaVE"
     }
   },
@@ -4057,6 +4058,7 @@
       "title": "\ud83d\udea8 [VSMP] crazy, maybe a little insane\ud83d\udea8"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T03:12:52Z",
       "scheduledStartTime": "2024-06-27T03:00:00Z",
       "activeLiveChatId": "Cg0KC1VfZUZfbms4YlNNKicKGFVDUGFOSTJWVURjMkwwQ1VYVEp6dG80QRILVV9lRl9uazhiU00"
     }
@@ -5597,6 +5599,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2026-01-31T14:00:00Z",
       "activeLiveChatId": "Cg0KC2ZWaUd5UkI0SnVNKicKGFVDdWNKWUxKU0VGUlJmVjJDQV9KR0hJURILZlZpR3lSQjRKdU0"
+    }
+  },
+  "faye_18vt": {
+    "snippet": {
+      "channelId": "faye_18vt",
+      "title": "Trainer FAye Chooses You! POKEMON UNBOUND \ud83d\udc99\u2708\ufe0f\u3010VFLEET\u3011",
+      "channelTitle": "FAye_18VT"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T03:11:40Z",
+      "twitch": true
     }
   },
   "fdka1BSqnXY": {
