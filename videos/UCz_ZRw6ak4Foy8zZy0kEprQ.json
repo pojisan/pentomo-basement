@@ -4342,11 +4342,24 @@
     "snippet": {
       "publishedAt": "2024-06-27T06:59:40Z",
       "channelId": "UCz_ZRw6ak4Foy8zZy0kEprQ",
-      "title": "hex haywire plays that's not my neighbor"
+      "title": "hex haywire plays that's not my neighbor",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-27T15:45:00Z",
       "activeLiveChatId": "Cg0KCzZKNEMzN0UyWGxnKicKGFVDel9aUnc2YWs0Rm95OHpaeTBrRXByURILNko0QzM3RTJYbGc"
+    }
+  },
+  "ydvgx77FMss": {
+    "snippet": {
+      "publishedAt": "2024-06-27T16:05:54Z",
+      "channelId": "UCz_ZRw6ak4Foy8zZy0kEprQ",
+      "title": "hex haywire plays that's not my neighbor"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T16:11:34Z",
+      "scheduledStartTime": "2024-06-27T16:05:00Z",
+      "activeLiveChatId": "Cg0KC3lkdmd4NzdGTXNzKicKGFVDel9aUnc2YWs0Rm95OHpaeTBrRXByURILeWR2Z3g3N0ZNc3M"
     }
   }
 }
