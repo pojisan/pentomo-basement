@@ -6077,5 +6077,17 @@
       "actualEndTime": "2024-06-25T18:53:35Z",
       "scheduledStartTime": "2024-06-25T18:00:00Z"
     }
+  },
+  "q0C9lnRcopc": {
+    "snippet": {
+      "publishedAt": "2024-06-24T17:42:16Z",
+      "channelId": "UCx_zwZuGIS4jxO07kFk8G6Q",
+      "title": "The Loomis Theatrical Release"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-27T15:00:00Z",
+      "activeLiveChatId": "Cg0KC3EwQzlsblJjb3BjKicKGFVDeF96d1p1R0lTNGp4TzA3a0ZrOEc2URILcTBDOWxuUmNvcGM",
+      "premiere": true
+    }
   }
 }
