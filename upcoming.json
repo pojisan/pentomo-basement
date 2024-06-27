@@ -1615,6 +1615,7 @@
       "title": "\u3010Roleplay\u3011A Picnic in the park together RP \ud83d\udc10\ud83c\udf7c\u3010VAllure\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T00:05:29Z",
       "scheduledStartTime": "2024-06-27T00:00:00Z",
       "activeLiveChatId": "Cg0KC0N3ZTMyenJyblVvKicKGFVDaTdUd29tdFMzWnlmakFNNVRXRU1TURILQ3dlMzJ6cnJuVW8"
     }
@@ -5100,6 +5101,17 @@
       "activeLiveChatId": "Cg0KC2FtZkdTd01uX1FrKicKGFVDazB2dXd3c21fVVFISElPZ0d2eFUtQRILYW1mR1N3TW5fUWs"
     }
   },
+  "angycatto_vols": {
+    "snippet": {
+      "channelId": "angycatto_vols",
+      "title": "\ud83d\udd34Gumoni~! Worky and then gaming! !socials",
+      "channelTitle": "angycatto_vols"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T00:02:46Z",
+      "twitch": true
+    }
+  },
   "apolloalto": {
     "snippet": {
       "channelId": "apolloalto",
@@ -5108,6 +5120,17 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-26T22:30:35Z",
+      "twitch": true
+    }
+  },
+  "aresmythos": {
+    "snippet": {
+      "channelId": "aresmythos",
+      "title": "\u2694\ufe0fChatting --> Elden Ring DLC\u2694\ufe0f | NO SPOILERS/BACKSEATING OR ELSE! | !gg !merch !socials !throne",
+      "channelTitle": "AresMythos"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T00:06:48Z",
       "twitch": true
     }
   },
@@ -5204,6 +5227,7 @@
       "title": "DON'T LET THE SCARY DOPPELGANGERS KILL ME [That's not my Neighbor]\u3010NIJISANJI EN | Doppio Dropscythe\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T00:03:57Z",
       "scheduledStartTime": "2024-06-27T00:00:00Z",
       "activeLiveChatId": "Cg0KC2JoSWlINXBfSlEwKicKGFVDeTkxeEJsWV9CcmgzYm5IeEt0anJyZxILYmhJaUg1cF9KUTA"
     }
@@ -5812,17 +5836,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-29T10:30:00Z",
       "activeLiveChatId": "Cg0KC2dTZDdvUThyNUxZKicKGFVDTzR6TWFZQkV6ZFlJU2Zlb082aXBfURILZ1NkN29ROHI1TFk"
-    }
-  },
-  "gohPfgRTGZk": {
-    "snippet": {
-      "publishedAt": "2024-06-26T15:26:18Z",
-      "channelId": "UCi6q0z8N1NNYgWPsM1OK25Q",
-      "title": "\u3010X SPACE FREE CHAT\u3011Singing in the shower!!!"
-    },
-    "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-26T19:00:00Z",
-      "activeLiveChatId": "Cg0KC2dvaFBmZ1JUR1prKicKGFVDaTZxMHo4TjFOTllnV1BzTTFPSzI1URILZ29oUGZnUlRHWms"
     }
   },
   "h4426bmybDA": {
@@ -6547,17 +6560,6 @@
       "activeLiveChatId": "Cg0KC2xydm9FbUZfZDkwKicKGFVDMWVYX01Wck4wRUJLZHBrbjliLWpodxILbHJ2b0VtRl9kOTA"
     }
   },
-  "lumioralumen": {
-    "snippet": {
-      "channelId": "lumioralumen",
-      "title": "This or That & Would You Rather~?",
-      "channelTitle": "LumioraLumen"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-26T21:59:40Z",
-      "twitch": true
-    }
-  },
   "lymzkbD9NVI": {
     "snippet": {
       "publishedAt": "2024-05-31T02:09:32Z",
@@ -7276,6 +7278,7 @@
       "title": "\u3010GTA V\u3011 We have unfinished business in Los Santos... \u3010\u2661 lucid | Boomi Mamana\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T00:11:01Z",
       "scheduledStartTime": "2024-06-27T00:00:00Z",
       "activeLiveChatId": "Cg0KC3JubFBsblY3OFQwKicKGFVDRzU2WFdaZWJPM1RIV0w2R3FkTDZnQRILcm5sUGxuVjc4VDA"
     }
