@@ -2600,7 +2600,8 @@
       "title": "\u53ef\u611b\u304f\u3066\u3054\u3081\u3093 // Sorry I'm So Cute!\u3010Kai Saikota Cover\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-27T03:30:00Z",
+      "actualStartTime": "2024-06-27T01:10:21Z",
+      "scheduledStartTime": "2024-06-27T01:10:00Z",
       "activeLiveChatId": "Cg0KC3dpTThPYUxoZHdBKicKGFVDQzRoakpwX010dHdmWmN1V2MwT3BWURILd2lNOE9hTGhkd0E",
       "premiere": true
     }
@@ -2625,6 +2626,7 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-26T22:01:59Z",
+      "actualEndTime": "2024-06-27T01:09:54Z",
       "scheduledStartTime": "2024-06-26T22:00:00Z",
       "activeLiveChatId": "Cg0KCzlZMkR2MVVkMDRrKicKGFVDQzRoakpwX010dHdmWmN1V2MwT3BWURILOVkyRHYxVWQwNGs"
     }
