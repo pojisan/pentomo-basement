@@ -6642,5 +6642,16 @@
       "actualEndTime": "2024-06-28T01:20:33Z",
       "scheduledStartTime": "2024-06-27T23:00:00Z"
     }
+  },
+  "iSE0fcp6nLY": {
+    "snippet": {
+      "publishedAt": "2024-06-28T11:58:22Z",
+      "channelId": "UCkJ64W0J7R0zCSAsZfRIhVQ",
+      "title": "[KARAOKE] Anything goes! Just singing whatever!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-28T23:00:00Z",
+      "activeLiveChatId": "Cg0KC2lTRTBmY3A2bkxZKicKGFVDa0o2NFcwSjdSMHpDU0FzWmZSSWhWURILaVNFMGZjcDZuTFk"
+    }
   }
 }
