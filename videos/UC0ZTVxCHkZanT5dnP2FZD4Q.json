@@ -10585,8 +10585,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-28T13:08:23Z",
-      "scheduledStartTime": "2024-06-28T13:00:00Z",
-      "activeLiveChatId": "Cg0KC3M4WUJLZVdxMWZNKicKGFVDMFpUVnhDSGtaYW5UNWRuUDJGWkQ0URILczhZQktlV3ExZk0"
+      "actualEndTime": "2024-06-28T13:55:16Z",
+      "scheduledStartTime": "2024-06-28T13:00:00Z"
     }
   },
   "Gx3cAK89KRk": {
@@ -10629,6 +10629,18 @@
       "publishedAt": "2024-06-28T07:06:09Z",
       "channelId": "UC0ZTVxCHkZanT5dnP2FZD4Q",
       "title": "Thank you Miyazaki #eldenring"
+    }
+  },
+  "0hOC5PNylHw": {
+    "snippet": {
+      "publishedAt": "2024-06-28T13:54:58Z",
+      "channelId": "UC0ZTVxCHkZanT5dnP2FZD4Q",
+      "title": "\u3010Afterparty!\u3011Is this 2D or 3D? Can you tell?"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T13:58:12Z",
+      "scheduledStartTime": "2024-06-28T14:00:00Z",
+      "activeLiveChatId": "Cg0KCzBoT0M1UE55bEh3KicKGFVDMFpUVnhDSGtaYW5UNWRuUDJGWkQ0URILMGhPQzVQTnlsSHc"
     }
   }
 }

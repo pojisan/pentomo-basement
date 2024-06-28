@@ -238,6 +238,18 @@
       "activeLiveChatId": "Cg0KCzBlSHFUNG9TU3JRKicKGFVDWmZRUnV3U0x0eTc0UUFqNTVCYUtsQRILMGVIcVQ0b1NTclE"
     }
   },
+  "0hOC5PNylHw": {
+    "snippet": {
+      "publishedAt": "2024-06-28T13:54:58Z",
+      "channelId": "UC0ZTVxCHkZanT5dnP2FZD4Q",
+      "title": "\u3010Afterparty!\u3011Is this 2D or 3D? Can you tell?"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T13:58:12Z",
+      "scheduledStartTime": "2024-06-28T14:00:00Z",
+      "activeLiveChatId": "Cg0KCzBoT0M1UE55bEh3KicKGFVDMFpUVnhDSGtaYW5UNWRuUDJGWkQ0URILMGhPQzVQTnlsSHc"
+    }
+  },
   "0nCfnSyRn_o": {
     "snippet": {
       "publishedAt": "2024-04-29T17:41:30Z",
@@ -1326,18 +1338,6 @@
       "activeLiveChatId": "Cg0KC0JUSGItY2Nlck9BKicKGFVDNFlYMlp0NjZSNHVZcUxIRmt3UDFhdxILQlRIYi1jY2VyT0E"
     }
   },
-  "BaTE0WbKggw": {
-    "snippet": {
-      "publishedAt": "2024-06-28T13:05:47Z",
-      "channelId": "UCUr8O6Z8JyAg83KJbc_u_bQ",
-      "title": "METAL GEAR SOLID"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-28T13:05:57Z",
-      "scheduledStartTime": "2024-06-28T13:05:56Z",
-      "activeLiveChatId": "Cg0KC0JhVEUwV2JLZ2d3KicKGFVDVXI4TzZaOEp5QWc4M0tKYmNfdV9iURILQmFURTBXYktnZ3c"
-    }
-  },
   "C-n0AGqGYpc": {
     "snippet": {
       "publishedAt": "2024-06-28T09:35:28Z",
@@ -1701,6 +1701,7 @@
       "title": "\u3010BIOHAZARD RE:2\u3011\u306f\u3058\u3081\u3066\u306e\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c9 RE:2 \u3010#\u5deb\u30ed\u30ad/Phase Connect\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T14:00:51Z",
       "scheduledStartTime": "2024-06-28T14:00:00Z",
       "activeLiveChatId": "Cg0KC0VpTEFHR0FyWkhJKicKGFVDdWNKWUxKU0VGUlJmVjJDQV9KR0hJURILRWlMQUdHQXJaSEk"
     }
@@ -4592,6 +4593,7 @@
       "title": "[\u521d\u97f3\u30df\u30af Project DIVA MEGA39's] !!!!!!!!!!!!! (\u521d\u5fc3\u8005)"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T14:00:56Z",
       "scheduledStartTime": "2024-06-28T14:00:00Z",
       "activeLiveChatId": "Cg0KC2FWbnF1a244dXB3KicKGFVDbFM2azN3MXNQd2xWRnFLMy15SUQ1QRILYVZucXVrbjh1cHc"
     }
@@ -4628,6 +4630,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-30T13:00:00Z",
       "activeLiveChatId": "Cg0KC2FtZkdTd01uX1FrKicKGFVDazB2dXd3c21fVVFISElPZ0d2eFUtQRILYW1mR1N3TW5fUWs"
+    }
+  },
+  "apollomythos": {
+    "snippet": {
+      "channelId": "apollomythos",
+      "title": "18+ \u2600\ufe0fMonster Hunter\u2600\ufe0f Certified Monster Fudger w Blushy (SOUND ALERTS R ON) \u3010!discord\u3011\u3010!mythos\u3011\u3010!raid\u3011\u3010!Donate\u3011",
+      "channelTitle": "ApolloMythos"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T14:00:32Z",
+      "twitch": true
     }
   },
   "arurivtuber": {
@@ -4834,17 +4847,6 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-28T10:56:18Z",
-      "twitch": true
-    }
-  },
-  "clioaite": {
-    "snippet": {
-      "channelId": "clioaite",
-      "title": "Finishing the Fight on Friday !merch !gamersupps",
-      "channelTitle": "ClioAite"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-28T01:02:40Z",
       "twitch": true
     }
   },
@@ -5614,9 +5616,10 @@
     "snippet": {
       "publishedAt": "2024-06-25T08:05:49Z",
       "channelId": "UCB7sSUNwh_dXE7ZL3DsGDpw",
-      "title": "\u3010\u6b4c\u67a0\u3011\u7761\u7720\u5c0e\u5165karaoke\u3010phase connect\u3011"
+      "title": "\u3010\u6b4c\u67a0\u3011\u521d\u898b\u6b53\u8fce\uff01\u7761\u7720\u5c0e\u5165karaoke\u3010phase connect\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T13:59:51Z",
       "scheduledStartTime": "2024-06-28T14:00:00Z",
       "activeLiveChatId": "Cg0KC2pQZk5oWkpfcmx3KicKGFVDQjdzU1VOd2hfZFhFN1pMM0RzR0RwdxILalBmTmhaSl9ybHc"
     }
@@ -6020,17 +6023,6 @@
       "twitch": true
     }
   },
-  "miyuyus": {
-    "snippet": {
-      "channelId": "miyuyus",
-      "title": "METAL GEAR SOLID",
-      "channelTitle": "miyuyus"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-28T13:05:48Z",
-      "twitch": true
-    }
-  },
   "mxAjoDExNQ4": {
     "snippet": {
       "publishedAt": "2024-06-27T05:59:34Z",
@@ -6079,7 +6071,7 @@
     "snippet": {
       "publishedAt": "2024-06-26T22:40:36Z",
       "channelId": "UClxj3GlGphZVgd1SLYhZKmg",
-      "title": "\u30103DIO ASMR\u3011Heartbeats and Pampering from a Shy Girl \u2661 Tingles ~ ASMR RP ~ Relaxation \u2661"
+      "title": "\u30103DIO ASMR\u3011Heartbeats and Pampering from a Shy Girl \u2661 Tingles ~ ASMR Roleplay ~ Relaxation \u2661"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-30T16:00:00Z",
@@ -6560,17 +6552,6 @@
       "activeLiveChatId": "Cg0KC3JnZGk4YnRlUWdjKicKGFVDOHpnS2FTOExpeUwyOG1kaFJDMm5CZxILcmdkaThidGVRZ2M"
     }
   },
-  "riyu_thelamb": {
-    "snippet": {
-      "channelId": "riyu_thelamb",
-      "title": "I THINK MY SAVE IS SAVED\u3010PROJECT VERSES\u3011",
-      "channelTitle": "riyu_thelamb"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-28T10:47:49Z",
-      "twitch": true
-    }
-  },
   "rn2SX1mvIyc": {
     "snippet": {
       "publishedAt": "2023-01-17T06:13:35Z",
@@ -6642,18 +6623,6 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC3M2UE5oREIweXpVKicKGFVDX2ZQLXc2MFJKVzVyUUNad2hmTkRydxILczZQTmhEQjB5elU"
-    }
-  },
-  "s8YBKeWq1fM": {
-    "snippet": {
-      "publishedAt": "2024-06-22T22:14:53Z",
-      "channelId": "UC0ZTVxCHkZanT5dnP2FZD4Q",
-      "title": "\u30103D Live\u3011I finally got an actual 3D Model!\u30103rd Year Annivesary\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-28T13:08:23Z",
-      "scheduledStartTime": "2024-06-28T13:00:00Z",
-      "activeLiveChatId": "Cg0KC3M4WUJLZVdxMWZNKicKGFVDMFpUVnhDSGtaYW5UNWRuUDJGWkQ0URILczhZQktlV3ExZk0"
     }
   },
   "sHeLDvRx3Zk": {
