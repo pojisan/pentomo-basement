@@ -1449,18 +1449,6 @@
       "activeLiveChatId": "Cg0KC0QtdklOUWtNWXY0KicKGFVDb3ZLd2dBOWVIVXV0SVdDVldTX0FHdxILRC12SU5Ra01ZdjQ"
     }
   },
-  "DB7qYkRjwO4": {
-    "snippet": {
-      "publishedAt": "2024-06-28T05:00:35Z",
-      "channelId": "UC1cExET9xoWSO9iSnRsW_1Q",
-      "title": "\u3010RDR2/#\u30ec\u30c9\u30b9\u30c8/\u30df\u30c1\u30a7\u30eb\u30fb\u30d3\u30fc\u30ac\u30f3\u3011\u7570\u4e16\u754c\u3067\u30e9\u30a4\u30d5\u30eb\u306e\u30ab\u30b9\u30bf\u30e0\u3092\u3059\u308b\u7d2b\u7fe0\u307f\u3061\u308b\u3010Day8\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-28T05:24:20Z",
-      "scheduledStartTime": "2024-06-28T05:30:00Z",
-      "activeLiveChatId": "Cg0KC0RCN3FZa1Jqd080KicKGFVDMWNFeEVUOXhvV1NPOWlTblJzV18xURILREI3cVlrUmp3TzQ"
-    }
-  },
   "DBNXKMe6TRA": {
     "snippet": {
       "publishedAt": "2021-09-30T03:39:09Z",
@@ -2637,6 +2625,7 @@
       "title": "[PC] Quake (1996) co-op story mode with @JorunnaV"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T11:00:54Z",
       "scheduledStartTime": "2024-06-28T11:00:00Z",
       "activeLiveChatId": "Cg0KC0x6TnpaUWQ5X1lVKicKGFVDaXlEcFBlcnFYa2ljWm1ueEtCOXFaURILTHpOelpRZDlfWVU"
     }
@@ -3895,6 +3884,7 @@
       "title": "\u3010\u30da\u30fc\u30d1\u30fc\u30de\u30ea\u30aaRPG\u3011\u30c1\u30d3\u30e8\u30c3\u30b7\u30fc\u3082\u4ef2\u9593\u306b\u52a0\u308f\u3063\u3066\u66f4\u306b\u6226\u3046\u795e\u30b2\u30fc #4\u3010\u7d62\u4e16\u30e6\u30a6 / Phase Connect\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T11:01:44Z",
       "scheduledStartTime": "2024-06-28T11:00:00Z",
       "activeLiveChatId": "Cg0KC1Z0NU9vRHhLc2xRKicKGFVDbk5MWldqbDRHdlZGNHM4ekJUOV9rQRILVnQ1T29EeEtzbFE"
     }
@@ -4445,6 +4435,17 @@
       "activeLiveChatId": "Cg0KC19IZmE2QWtNdGtrKicKGFVDUEszUzlpajBEWElObVRqUTRLaFFWQRILX0hmYTZBa010a2s"
     }
   },
+  "_KD4WaFxU20": {
+    "snippet": {
+      "publishedAt": "2024-06-25T09:59:53Z",
+      "channelId": "UCvN5h1ShZtc7nly3pezRayg",
+      "title": "\u3010Content Warning\u3011All of Justice together! Super strong! So strong!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-28T18:00:00Z",
+      "activeLiveChatId": "Cg0KC19LRDRXYUZ4VTIwKicKGFVDdk41aDFTaFp0YzdubHkzcGV6UmF5ZxILX0tENFdhRnhVMjA"
+    }
+  },
   "_LMF6RRKyTs": {
     "snippet": {
       "publishedAt": "2024-06-16T15:29:21Z",
@@ -4767,6 +4768,17 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC2NVRVZTRjVsOERRKicKGFVDS0RJTFE5d2p2ZzhiNUxxMFI2Qm56URILY1VFVlNGNWw4RFE"
+    }
+  },
+  "carneliaasahi": {
+    "snippet": {
+      "channelId": "carneliaasahi",
+      "title": "\u3010BIRTHDAY DONOTHON 24HRS\u3011It's my birthday today!! !donate !brush",
+      "channelTitle": "CarneliaAsahi"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T10:56:18Z",
+      "twitch": true
     }
   },
   "clioaite": {
@@ -5476,6 +5488,17 @@
       "activeLiveChatId": "Cg0KC2ozWDFCVkdnNzQ4KicKGFVDdXBtalJyN2tQZ3pYS2gtY1B4eEdiZxILajNYMUJWR2c3NDg"
     }
   },
+  "j3uY47jboII": {
+    "snippet": {
+      "publishedAt": "2024-06-25T05:48:41Z",
+      "channelId": "UCi7TwomtS3ZyfjAM5TWEMSQ",
+      "title": "\u3010LoL\u3011Definitely Not A League Stream \ud83d\udc10\ud83c\udf7c\u3010VAllure\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-28T20:00:00Z",
+      "activeLiveChatId": "Cg0KC2ozdVk0N2pib0lJKicKGFVDaTdUd29tdFMzWnlmakFNNVRXRU1TURILajN1WTQ3amJvSUk"
+    }
+  },
   "j7dsRn97ii0": {
     "snippet": {
       "publishedAt": "2024-05-03T00:27:47Z",
@@ -5881,17 +5904,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-03-09T13:00:00Z",
       "activeLiveChatId": "Cg0KC21mb0hwWUEzOW9jKicKGFVDYXhpRGVfVHVNTFhrd1JNVkxtNVZ3URILbWZvSHBZQTM5b2M"
-    }
-  },
-  "michiru_shisui": {
-    "snippet": {
-      "channelId": "michiru_shisui",
-      "title": "\u3010RDR2/#\u30ec\u30c9\u30b9\u30c8\u3011RP\u30b9\u30c8\u30ea\u30fc\u30de\u30fc\u30b5\u30fc\u30d0\u30fcDay8",
-      "channelTitle": "\u7d2b\u7fe0\u307f\u3061\u308b"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-28T05:24:08Z",
-      "twitch": true
     }
   },
   "mxAjoDExNQ4": {
@@ -7037,6 +7049,7 @@
       "title": "\u3010Art Stream\u3011DRAWING MY SENPAI! #hololiveEnglish #holoJustice"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T10:59:33Z",
       "scheduledStartTime": "2024-06-28T11:00:00Z",
       "activeLiveChatId": "Cg0KC3gyMG5KdzhRaWxVKicKGFVDbDY5QUV4NE1kcU1aSDdKdHNtN1RpZxILeDIwbkp3OFFpbFU"
     }
