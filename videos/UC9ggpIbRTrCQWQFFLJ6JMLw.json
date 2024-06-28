@@ -511,12 +511,25 @@
     "snippet": {
       "publishedAt": "2024-06-26T20:37:59Z",
       "channelId": "UC9ggpIbRTrCQWQFFLJ6JMLw",
-      "title": "\u3010UNARCHIVED HUNIEPOP\u3011GOTTA FRICK THEM ALL \ud83d\udd31"
+      "title": "\u3010UNARCHIVED HUNIEPOP\u3011GOTTA FRICK THEM ALL \ud83d\udd31",
+      "private": true
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-28T20:00:24Z",
       "scheduledStartTime": "2024-06-28T20:00:00Z",
       "activeLiveChatId": "Cg0KC0VmaVE1RkNIc1g0KicKGFVDOWdncEliUlRyQ1FXUUZGTEo2Sk1MdxILRWZpUTVGQ0hzWDQ"
+    }
+  },
+  "UkzH6k_Xlvs": {
+    "snippet": {
+      "publishedAt": "2024-06-28T20:25:32Z",
+      "channelId": "UC9ggpIbRTrCQWQFFLJ6JMLw",
+      "title": "\u3010UNARCHIVED HUNIEPOP\u3011GOTTA FRICK THEM ALL \ud83d\udd31"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T20:26:22Z",
+      "scheduledStartTime": "2024-06-28T20:25:00Z",
+      "activeLiveChatId": "Cg0KC1Vrekg2a19YbHZzKicKGFVDOWdncEliUlRyQ1FXUUZGTEo2Sk1MdxILVWt6SDZrX1hsdnM"
     }
   }
 }
