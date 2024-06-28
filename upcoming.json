@@ -213,6 +213,7 @@
       "title": "\u3010Quantum Break\u3011 A Time-Amplified Suspenseful Blockbuster *spoilers \u3010NIJISANJI EN | Ryoma Barrenwort\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T02:32:52Z",
       "scheduledStartTime": "2024-06-28T02:30:00Z",
       "activeLiveChatId": "Cg0KCzBVMTFlekltd0tZKicKGFVDSXpaRGlpbGNQdjB3aW1fTWJ1aXpGQRILMFUxMWV6SW13S1k"
     }
@@ -446,6 +447,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-06-02T00:40:00Z",
       "activeLiveChatId": "Cg0KCzFaNU9CX3V2WGxVKicKGFVDc3d2ZDZfWVdtZDZyaVJrLThvVC1zQRILMVo1T0JfdXZYbFU"
+    }
+  },
+  "1dJlLzO85C4": {
+    "snippet": {
+      "publishedAt": "2024-06-28T02:31:39Z",
+      "channelId": "UCwxZaWfU45AA_gZReFvZErw",
+      "title": "\u3010 Passpartout 2: The Lost Artist \u3011Let's draw some Baguettes!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-29T19:00:00Z",
+      "activeLiveChatId": "Cg0KCzFkSmxMek84NUM0KicKGFVDd3haYVdmVTQ1QUFfZ1pSZUZ2WkVydxILMWRKbEx6Tzg1QzQ"
     }
   },
   "1i93bLBrLS0": {
@@ -3347,18 +3359,6 @@
       "activeLiveChatId": "Cg0KC1FNUnNZWXh6SkI4KicKGFVDb0F3M1NNTF8wOWRGLTd5aFFVOHdGURILUU1Sc1lZeHpKQjg"
     }
   },
-  "QNYRMR0nz7k": {
-    "snippet": {
-      "publishedAt": "2024-06-25T23:26:12Z",
-      "channelId": "UCy2mFNN1LoAzapcNY948gxw",
-      "title": "\u3010PLAY with MEMBERS\u3011Gaming with my beloved Guildmates!"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-27T23:02:19Z",
-      "scheduledStartTime": "2024-06-27T23:00:46Z",
-      "activeLiveChatId": "Cg0KC1FOWVJNUjBuejdrKicKGFVDeTJtRk5OMUxvQXphcGNOWTk0OGd4dxILUU5ZUk1SMG56N2s"
-    }
-  },
   "QW4zMJgYw_E": {
     "snippet": {
       "publishedAt": "2024-04-06T04:12:33Z",
@@ -4986,17 +4986,6 @@
       "activeLiveChatId": "Cg0KC2RaZ3BGLW5Qc1VzKicKGFVDRVk5Q25TSDBuMFFLbVkyUS1PSDdadxILZFpncEYtblBzVXM"
     }
   },
-  "dee_the_sphinx": {
-    "snippet": {
-      "channelId": "dee_the_sphinx",
-      "title": "\ud83d\udd06SCUFFATHON DAY 4: HAND CAM CRAFTING!!!",
-      "channelTitle": "Dee_the_Sphinx"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-27T23:04:31Z",
-      "twitch": true
-    }
-  },
   "discordia_ch": {
     "snippet": {
       "channelId": "discordia_ch",
@@ -6383,6 +6372,17 @@
       "activeLiveChatId": "Cg0KC3BSNXNZRUhwZnhNKicKGFVDN1RDQ3R2ckV1OHFfUzVPdFJKaC1hURILcFI1c1lFSHBmeE0"
     }
   },
+  "pTnD5U7tcJY": {
+    "snippet": {
+      "publishedAt": "2024-06-28T02:32:24Z",
+      "channelId": "UCxerQlE0t1yY4bqeK5ldM9A",
+      "title": "Former Best Dragoon in the World Returns to Take His Crown [Final Fantasy: Dawntrail]"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-28T13:00:00Z",
+      "activeLiveChatId": "Cg0KC3BUbkQ1VTd0Y0pZKicKGFVDeGVyUWxFMHQxeVk0YnFlSzVsZE05QRILcFRuRDVVN3RjSlk"
+    }
+  },
   "pVR1wmORb_c": {
     "snippet": {
       "publishedAt": "2024-06-24T09:53:42Z",
@@ -6518,9 +6518,10 @@
     "snippet": {
       "publishedAt": "2024-06-28T01:52:32Z",
       "channelId": "UCYadZR9mRignx4RKvPow44g",
-      "title": "METROID PRIME 4 JUST ANNOUNCED!? LET'S PLAY THE ORIGINAL! \ud83d\udc97 | MY FIRST TIME!\u3010 METROID PRIME \u3011"
+      "title": "\ud83d\udd34 LIVE - METROID PRIME 4 JUST ANNOUNCED!? LET'S PLAY THE ORIGINAL! \ud83d\udc97 MY FIRST TIME!\u3010 METROID PRIME \u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T02:38:35Z",
       "scheduledStartTime": "2024-06-28T02:30:00Z",
       "activeLiveChatId": "Cg0KC3FJUURZeHQwQXhrKicKGFVDWWFkWlI5bVJpZ254NFJLdlBvdzQ0ZxILcUlRRFl4dDBBeGs"
     }
@@ -6712,7 +6713,7 @@
   "rinapumpkin": {
     "snippet": {
       "channelId": "rinapumpkin",
-      "title": "\u0b68\ud83c\udf83 Would you let me in? \ud83c\udf83\u0b67 MWUAH! \u208a\u02da\u22b9 \u2661",
+      "title": "\u0b68\ud83c\udf83 Swifties for your heart \ud83c\udf83\u0b67 MWUAH! \u208a\u02da\u22b9 \u2661",
       "channelTitle": "RinaPumpkin"
     },
     "liveStreamingDetails": {
@@ -7384,6 +7385,17 @@
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-07-03T01:00:00Z"
+    }
+  },
+  "x20nJw8QilU": {
+    "snippet": {
+      "publishedAt": "2024-06-28T02:37:31Z",
+      "channelId": "UCl69AEx4MdqMZH7Jtsm7Tig",
+      "title": "\u3010Art Stream\u3011DRAWING MY SENPAI! #hololiveEnglish #holoJustice"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-28T11:00:00Z",
+      "activeLiveChatId": "Cg0KC3gyMG5KdzhRaWxVKicKGFVDbDY5QUV4NE1kcU1aSDdKdHNtN1RpZxILeDIwbkp3OFFpbFU"
     }
   },
   "x5o6ZP_rbKI": {
