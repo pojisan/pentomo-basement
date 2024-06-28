@@ -937,7 +937,7 @@
     "snippet": {
       "publishedAt": "2024-06-24T07:31:52Z",
       "channelId": "UCnpc7HpcifVpi6RBzNge51w",
-      "title": "\u3010Mobile Legends\u3011Solo Rank\u3010Cyanne Aria | bondlive_EN\u3011#shorts #vtuber #mlbb #mobilelegends"
+      "title": "\u3010Just Yapping\u3011Summer Sale Yap!\u3010Cyanne Aria | bondlive_EN\u3011#shorts #vtuber #chatting"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-28T06:00:00Z",
@@ -1480,6 +1480,7 @@
       "title": "\u3010RDR2/#\u30ec\u30c9\u30b9\u30c8/\u30df\u30c1\u30a7\u30eb\u30fb\u30d3\u30fc\u30ac\u30f3\u3011\u7570\u4e16\u754c\u3067\u30e9\u30a4\u30d5\u30eb\u306e\u30ab\u30b9\u30bf\u30e0\u3092\u3059\u308b\u7d2b\u7fe0\u307f\u3061\u308b\u3010Day8\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T05:24:20Z",
       "scheduledStartTime": "2024-06-28T05:30:00Z",
       "activeLiveChatId": "Cg0KC0RCN3FZa1Jqd080KicKGFVDMWNFeEVUOXhvV1NPOWlTblJzV18xURILREI3cVlrUmp3TzQ"
     }
@@ -2739,18 +2740,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-29T22:00:00Z",
       "activeLiveChatId": "Cg0KC01PTGxuLXZoeFRzKicKGFVDSTRQTGZ1aUw5akZPcHNFSUEyMEtqZxILTU9MbG4tdmh4VHM"
-    }
-  },
-  "MSdm1bpMlXI": {
-    "snippet": {
-      "publishedAt": "2024-06-22T00:00:06Z",
-      "channelId": "UCZIFph1bYyGxmFkkNNLAKdA",
-      "title": "FFXIV Fan Concert - Dawntrail Launch Celebration \u3010100+ GUESTS\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-27T23:15:58Z",
-      "scheduledStartTime": "2024-06-27T23:15:00Z",
-      "activeLiveChatId": "Cg0KC01TZG0xYnBNbFhJKicKGFVDWklGcGgxYll5R3htRmtrTk5MQUtkQRILTVNkbTFicE1sWEk"
     }
   },
   "MZW1Am-2KC4": {
@@ -5991,6 +5980,17 @@
       "activeLiveChatId": "Cg0KC21mb0hwWUEzOW9jKicKGFVDYXhpRGVfVHVNTFhrd1JNVkxtNVZ3URILbWZvSHBZQTM5b2M"
     }
   },
+  "michiru_shisui": {
+    "snippet": {
+      "channelId": "michiru_shisui",
+      "title": "\u3010RDR2/#\u30ec\u30c9\u30b9\u30c8\u3011RP\u30b9\u30c8\u30ea\u30fc\u30de\u30fc\u30b5\u30fc\u30d0\u30fcDay8",
+      "channelTitle": "\u7d2b\u7fe0\u307f\u3061\u308b"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T05:24:08Z",
+      "twitch": true
+    }
+  },
   "mukyapunch": {
     "snippet": {
       "channelId": "mukyapunch",
@@ -6213,6 +6213,7 @@
       "title": "\u3010WUTHERING WAVES\u3011WUWA ? MORE LIKE WUWAIFUS\u3010Ai Shinju\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T05:29:34Z",
       "scheduledStartTime": "2024-06-28T06:00:00Z",
       "activeLiveChatId": "Cg0KC3BSNXNZRUhwZnhNKicKGFVDN1RDQ3R2ckV1OHFfUzVPdFJKaC1hURILcFI1c1lFSHBmeE0"
     }
@@ -6258,18 +6259,6 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC3BhWFNIZlV2WDFnKicKGFVDVXI4TzZaOEp5QWc4M0tKYmNfdV9iURILcGFYU0hmVXZYMWc"
-    }
-  },
-  "pce-jxD-M6M": {
-    "snippet": {
-      "publishedAt": "2024-06-13T11:31:09Z",
-      "channelId": "UCyKsg-57XC9pyHbP7v3kCPQ",
-      "title": "A NEW BEGINNING... FALLOUT 4"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-28T01:03:16Z",
-      "scheduledStartTime": "2024-06-28T01:00:00Z",
-      "activeLiveChatId": "Cg0KC3BjZS1qeEQtTTZNKicKGFVDeUtzZy01N1hDOXB5SGJQN3Yza0NQURILcGNlLWp4RC1NNk0"
     }
   },
   "ple0UZgclBw": {
@@ -6685,7 +6674,7 @@
   "sayu": {
     "snippet": {
       "channelId": "sayu",
-      "title": "\ud83d\udd29WHO HAS THE BEST LUCK IN AIZAKAYA!? Playing Ludo!\u2503!website !merch",
+      "title": "\ud83d\udd29WHO HAS THE BEST LUCK IN AIZAKAYA!? Playing Sevens!\u2503!website !merch",
       "channelTitle": "Sayu"
     },
     "liveStreamingDetails": {
@@ -7142,6 +7131,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-30T17:00:00Z",
       "activeLiveChatId": "Cg0KC3dYdUlCcFpXV3JVKicKGFVDSHVWZ25PR3RETjlIMnA0VnJsRDYyQRILd1h1SUJwWldXclU"
+    }
+  },
+  "weO-qWmSmfU": {
+    "snippet": {
+      "publishedAt": "2024-06-28T05:30:10Z",
+      "channelId": "UCeGendL8CO5RkffB6IFwHow",
+      "title": "\u3010Minecraft | \ud83c\udf08 \u306b\u3058\u9bd6 \u3011\u30a2\u30a4\u30c6\u30e0\u7247\u4ed8\u3051\u3068\u6574\u5099 \u3010\u306b\u3058\u3055\u3093\u3058 | \u30bb\u30d5\u30a3\u30ca\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-28T07:00:00Z",
+      "activeLiveChatId": "Cg0KC3dlTy1xV21TbWZVKicKGFVDZUdlbmRMOENPNVJrZmZCNklGd0hvdxILd2VPLXFXbVNtZlU"
     }
   },
   "whOoZwV5D7s": {
