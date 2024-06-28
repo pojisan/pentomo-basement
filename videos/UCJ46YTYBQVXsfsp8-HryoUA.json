@@ -1259,7 +1259,8 @@
     "snippet": {
       "publishedAt": "2023-11-29T18:13:53Z",
       "channelId": "UCJ46YTYBQVXsfsp8-HryoUA",
-      "title": "\ud83d\uded2LIMITED 333k Merch Timer"
+      "title": "\ud83d\uded2LIMITED 333k Merch Timer",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-23T06:45:00Z",
@@ -9524,6 +9525,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-29T01:00:00Z",
       "activeLiveChatId": "Cg0KC18xRTdDeXBJR1NBKicKGFVDSjQ2WVRZQlFWWHNmc3A4LUhyeW9VQRILXzFFN0N5cElHU0E"
+    }
+  },
+  "WHxco51MyDg": {
+    "snippet": {
+      "publishedAt": "2024-06-28T05:37:29Z",
+      "channelId": "UCJ46YTYBQVXsfsp8-HryoUA",
+      "title": "the return || Katawa Shoujo Part 9\u3010Phase-Connect\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-07-06T01:00:00Z",
+      "activeLiveChatId": "Cg0KC1dIeGNvNTFNeURnKicKGFVDSjQ2WVRZQlFWWHNmc3A4LUhyeW9VQRILV0h4Y281MU15RGc"
     }
   }
 }
