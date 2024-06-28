@@ -4147,8 +4147,18 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-28T13:01:13Z",
       "actualEndTime": "2024-06-28T15:09:34Z",
-      "scheduledStartTime": "2024-06-28T13:00:00Z",
-      "activeLiveChatId": "Cg0KC3NIZUxEdlJ4M1prKicKGFVDYnJiRktGaHlIRDRiTUpiRWNYWnoxZxILc0hlTER2UngzWms"
+      "scheduledStartTime": "2024-06-28T13:00:00Z"
+    }
+  },
+  "_re1bvPlS0g": {
+    "snippet": {
+      "publishedAt": "2024-06-28T12:20:46Z",
+      "channelId": "UCbrbFKFhyHD4bMJbEcXZz1g",
+      "title": "\u3010CHARITY KARAOKE\u3011 Vtuber Summer Slam! Donating video games to hospitalized kids! #VTuber #\u6b4c\u67a0 #shorts"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-29T12:00:00Z",
+      "activeLiveChatId": "Cg0KC19yZTFidlBsUzBnKicKGFVDYnJiRktGaHlIRDRiTUpiRWNYWnoxZxILX3JlMWJ2UGxTMGc"
     }
   }
 }
