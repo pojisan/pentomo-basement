@@ -7225,8 +7225,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-28T01:06:48Z",
-      "scheduledStartTime": "2024-06-28T01:00:00Z",
-      "activeLiveChatId": "Cg0KC0l3LUZHaGIwZldnKicKGFVDeF9BNmZuczlxS2p5YnUtNmswdXIxZxILSXctRkdoYjBmV2c"
+      "actualEndTime": "2024-06-28T01:14:23Z",
+      "scheduledStartTime": "2024-06-28T01:00:00Z"
     }
   },
   "0U_1loFFBYA": {
@@ -7420,6 +7420,18 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-29T03:00:00Z",
       "activeLiveChatId": "Cg0KCzMxRS1IeUY4eVFnKicKGFVDeF9BNmZuczlxS2p5YnUtNmswdXIxZxILMzFFLUh5Rjh5UWc"
+    }
+  },
+  "zU1NCTD36a8": {
+    "snippet": {
+      "publishedAt": "2024-06-28T01:14:26Z",
+      "channelId": "UCx_A6fns9qKjybu-6k0ur1g",
+      "title": "\u3010Work With Me!\u3011Comfy ASMR Pomodoro work session! 20min Work, 5min Breaks w/ Comfy Lofi Music!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T01:14:35Z",
+      "scheduledStartTime": "2024-06-28T01:14:36Z",
+      "activeLiveChatId": "Cg0KC3pVMU5DVEQzNmE4KicKGFVDeF9BNmZuczlxS2p5YnUtNmswdXIxZxILelUxTkNURDM2YTg"
     }
   }
 }
