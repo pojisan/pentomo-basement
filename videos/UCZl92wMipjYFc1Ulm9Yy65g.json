@@ -3064,6 +3064,7 @@
       "title": "\u3010After Party\u3011 The Bride of Necro: Who is truly just? \u3010Yuno Hanaki\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T23:00:46Z",
       "scheduledStartTime": "2024-06-28T23:00:00Z",
       "activeLiveChatId": "Cg0KCzlGbERMUmF4dXprKicKGFVDWmw5MndNaXBqWUZjMVVsbTlZeTY1ZxILOUZsRExSYXh1ems"
     }
@@ -3149,9 +3150,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-28T22:50:06Z",
-      "scheduledStartTime": "2024-06-28T22:50:00Z",
-      "activeLiveChatId": "Cg0KCzFIOTVyVU10dnNZKicKGFVDWmw5MndNaXBqWUZjMVVsbTlZeTY1ZxILMUg5NXJVTXR2c1k",
-      "premiere": true
+      "actualEndTime": "2024-06-28T22:55:54Z",
+      "scheduledStartTime": "2024-06-28T22:50:00Z"
     }
   }
 }

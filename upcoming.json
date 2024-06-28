@@ -1104,6 +1104,7 @@
       "title": "\u3010After Party\u3011 The Bride of Necro: Who is truly just? \u3010Yuno Hanaki\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T23:00:46Z",
       "scheduledStartTime": "2024-06-28T23:00:00Z",
       "activeLiveChatId": "Cg0KCzlGbERMUmF4dXprKicKGFVDWmw5MndNaXBqWUZjMVVsbTlZeTY1ZxILOUZsRExSYXh1ems"
     }
@@ -1199,7 +1200,7 @@
       "title": "\u3010MELODITE GAME NIGHT\u3011Let's Get Creative!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-28T23:00:00Z",
+      "scheduledStartTime": "2024-06-28T23:04:00Z",
       "activeLiveChatId": "Cg0KC0FQc3dPWnJoSzc0KicKGFVDbWwtcjVhVHM0SkdlRWVYVUZuWjdlURILQVBzd09acmhLNzQ"
     }
   },
@@ -1388,7 +1389,8 @@
       "title": "\u3010TROMBONE CHAMP\u3011The best trombone-er around town\ud83d\ude0e | #EmiBLive"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-28T23:00:00Z",
+      "actualStartTime": "2024-06-28T22:59:39Z",
+      "scheduledStartTime": "2024-06-28T22:59:30Z",
       "activeLiveChatId": "Cg0KC0M3dkVmcElSaXpnKicKGFVDUXI5QTlFeERLWXkyd3h1MFJrQzRVZxILQzd2RWZwSVJpemc"
     }
   },
@@ -2207,18 +2209,6 @@
       "activeLiveChatId": "Cg0KC0k3eE9INXNQSW84KicKGFVDYnZSNDZTUXBPUFJLTXJWVDhOb0pUQRILSTd4T0g1c1BJbzg"
     }
   },
-  "IHSF5F3Os4U": {
-    "snippet": {
-      "publishedAt": "2024-06-28T15:08:39Z",
-      "channelId": "UCykMWf8B8I7c_jA8FTy2tGw",
-      "title": "\u3010Castlevania Chronicles\u3011Let's Play Some More!"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-28T19:00:30Z",
-      "scheduledStartTime": "2024-06-28T19:00:00Z",
-      "activeLiveChatId": "Cg0KC0lIU0Y1RjNPczRVKicKGFVDeWtNV2Y4QjhJN2NfakE4RlR5MnRHdxILSUhTRjVGM09zNFU"
-    }
-  },
   "IHdYP0EaI0s": {
     "snippet": {
       "publishedAt": "2024-04-20T13:54:22Z",
@@ -2701,6 +2691,18 @@
       "activeLiveChatId": "Cg0KC01PTGxuLXZoeFRzKicKGFVDSTRQTGZ1aUw5akZPcHNFSUEyMEtqZxILTU9MbG4tdmh4VHM"
     }
   },
+  "MXIKh65K4ss": {
+    "snippet": {
+      "publishedAt": "2024-06-26T20:11:35Z",
+      "channelId": "UC4R6ddhBJp2bjQHVNxgNQSA",
+      "title": "\u3010 METAL GEAR SOLID #2 \u3011 Culebrilla dura operando \u3010 Akugaki Koa | idolES \u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T22:55:57Z",
+      "scheduledStartTime": "2024-06-28T23:00:00Z",
+      "activeLiveChatId": "Cg0KC01YSUtoNjVLNHNzKicKGFVDNFI2ZGRoQkpwMmJqUUhWTnhnTlFTQRILTVhJS2g2NUs0c3M"
+    }
+  },
   "MZW1Am-2KC4": {
     "snippet": {
       "publishedAt": "2020-04-30T03:08:55Z",
@@ -2909,7 +2911,8 @@
       "title": "Getting diagnosed by online tests"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-28T23:00:00Z",
+      "actualStartTime": "2024-06-28T23:00:24Z",
+      "scheduledStartTime": "2024-06-28T23:00:13Z",
       "activeLiveChatId": "Cg0KC054bXdZOWs3Q1prKicKGFVDc0ZnZGF6TWVRdGY4bEh2SVNCMURMURILTnhtd1k5azdDWms"
     }
   },
@@ -4374,6 +4377,17 @@
       "activeLiveChatId": "Cg0KC19MVHlidWlZRk1nKicKGFVDOHlYUkJfaktEZWFwd1FhazJpMzBFQRILX0xUeWJ1aVlGTWc"
     }
   },
+  "_aA5B2Zcgp0": {
+    "snippet": {
+      "publishedAt": "2024-06-28T22:59:19Z",
+      "channelId": "UCm6JMVKxg8PvJjl3F7J0tdQ",
+      "title": "\u3010VSMP Minecraft\u3011 bear surveys real estate \ud83c\udfe1"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-29T00:00:00Z",
+      "activeLiveChatId": "Cg0KC19hQTVCMlpjZ3AwKicKGFVDbTZKTVZLeGc4UHZKamwzRjdKMHRkURILX2FBNUIyWmNncDA"
+    }
+  },
   "_ll-aXAQ2bI": {
     "snippet": {
       "publishedAt": "2024-06-28T17:10:02Z",
@@ -4491,6 +4505,7 @@
       "title": "\u3010Love songs KARAOKE\u3011 hehehe let me serenade you babygirls\u3010VyVid | Bunana \u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T22:58:57Z",
       "scheduledStartTime": "2024-06-28T23:00:00Z",
       "activeLiveChatId": "Cg0KC2FDbDF4UWQ0U3JNKicKGFVDVmpwRlAxX055M1BVb0UyNnI0SVRhdxILYUNsMXhRZDRTck0"
     }
@@ -4853,6 +4868,17 @@
       "activeLiveChatId": "Cg0KC2RaZ3BGLW5Qc1VzKicKGFVDRVk5Q25TSDBuMFFLbVkyUS1PSDdadxILZFpncEYtblBzVXM"
     }
   },
+  "dee_the_sphinx": {
+    "snippet": {
+      "channelId": "dee_the_sphinx",
+      "title": "\ud83d\udd06SCUFFATHON DAY 5: Horrible Voice Acting!!!",
+      "channelTitle": "Dee_the_Sphinx"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T23:02:42Z",
+      "twitch": true
+    }
+  },
   "dmVUfbaiS6w": {
     "snippet": {
       "publishedAt": "2024-06-28T22:20:06Z",
@@ -5067,6 +5093,7 @@
       "title": "drawing YOUR requests!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T23:01:37Z",
       "scheduledStartTime": "2024-06-28T23:00:00Z",
       "activeLiveChatId": "Cg0KC2ZmaDhTOVVMWGtZKicKGFVDazJrMXktZDI0bkZ5VkN2eXhuQWFZQRILZmZoOFM5VUxYa1k"
     }
@@ -5176,6 +5203,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-29T10:30:00Z",
       "activeLiveChatId": "Cg0KC2dTZDdvUThyNUxZKicKGFVDTzR6TWFZQkV6ZFlJU2Zlb082aXBfURILZ1NkN29ROHI1TFk"
+    }
+  },
+  "gStqA31TAEA": {
+    "snippet": {
+      "publishedAt": "2024-06-28T22:00:29Z",
+      "channelId": "UCi427aW2rjzGjUlE27SqteQ",
+      "title": "\u3010SM64\u3011(i don't actually have perms yet i'm just preemptively putting this up)\u3010V&U | GEN 5\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-07-03T01:30:00Z",
+      "activeLiveChatId": "Cg0KC2dTdHFBMzFUQUVBKicKGFVDaTQyN2FXMnJqekdqVWxFMjdTcXRlURILZ1N0cUEzMVRBRUE"
     }
   },
   "gzq9Sm2hEUs": {
@@ -5329,6 +5367,17 @@
       "activeLiveChatId": "Cg0KC2hweDFlTHE5aExFKicKGFVDblloSWs5YUdFeF9iSWdoZVZqczUzdxILaHB4MWVMcTloTEU"
     }
   },
+  "hqn-j2cayUw": {
+    "snippet": {
+      "publishedAt": "2024-06-28T21:47:25Z",
+      "channelId": "UCi427aW2rjzGjUlE27SqteQ",
+      "title": "\u3010VSMP\u3011im too shy to talk to girls...\u3010V&U | GEN 5\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-07-02T01:30:00Z",
+      "activeLiveChatId": "Cg0KC2hxbi1qMmNheVV3KicKGFVDaTQyN2FXMnJqekdqVWxFMjdTcXRlURILaHFuLWoyY2F5VXc"
+    }
+  },
   "hvbd782pD4w": {
     "snippet": {
       "publishedAt": "2024-05-07T14:54:05Z",
@@ -5430,6 +5479,7 @@
       "title": "[KARAOKE] Anything goes! Just singing whatever!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T23:01:40Z",
       "scheduledStartTime": "2024-06-28T23:00:00Z",
       "activeLiveChatId": "Cg0KC2lTRTBmY3A2bkxZKicKGFVDa0o2NFcwSjdSMHpDU0FzWmZSSWhWURILaVNFMGZjcDZuTFk"
     }
@@ -5626,6 +5676,7 @@
       "title": "\u3010Platform 8\u3011Anomawies"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T22:58:57Z",
       "scheduledStartTime": "2024-06-28T23:00:00Z",
       "activeLiveChatId": "Cg0KC2tFWXJDLXhObE1BKicKGFVDOXBfbHFRMEZFRHozMjdWZ2Y1SndxQRILa0VZckMteE5sTUE"
     }
@@ -5658,6 +5709,7 @@
       "title": "\ud83c\udf0fFINALLY JOINING THE VSMP (i'm nervy & shy, there's cute girls here)"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T23:00:30Z",
       "scheduledStartTime": "2024-06-28T23:00:00Z",
       "activeLiveChatId": "Cg0KC2tfR3Bxek9kUVVvKicKGFVDOU5OTXdhZnk5cXV2TldhZkZ1a05EdxILa19HcHF6T2RRVW8"
     }
@@ -6337,6 +6389,17 @@
       "activeLiveChatId": "Cg0KC3FxQTlCLUZrbTZVKicKGFVDMEpGdDVKamw1YV9fek9hWkxxazdQZxILcXFBOUItRmttNlU"
     }
   },
+  "qyVgtYwWjNQ": {
+    "snippet": {
+      "publishedAt": "2024-06-27T22:33:25Z",
+      "channelId": "UCIzZDiilcPv0wim_MbuizFA",
+      "title": "\u3010Denauth\u3011 1 Month Special! SURPRISE INSIDE! \u3010NIJISANJI EN | Ryoma Barrenwort\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-29T02:00:00Z",
+      "activeLiveChatId": "Cg0KC3F5Vmd0WXdXak5RKicKGFVDSXpaRGlpbGNQdjB3aW1fTWJ1aXpGQRILcXlWZ3RZd1dqTlE"
+    }
+  },
   "r4G8YJwjs6s": {
     "snippet": {
       "publishedAt": "2024-06-17T07:01:21Z",
@@ -6402,6 +6465,28 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-04-28T09:00:00Z",
       "activeLiveChatId": "Cg0KC3JnZGk4YnRlUWdjKicKGFVDOHpnS2FTOExpeUwyOG1kaFJDMm5CZxILcmdkaThidGVRZ2M"
+    }
+  },
+  "rixxybrightful": {
+    "snippet": {
+      "channelId": "rixxybrightful",
+      "title": "DREAM RAIDS WITH NO WARRANT - AI: THE SOMNIUM FILES",
+      "channelTitle": "rixxybrightful"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T22:58:14Z",
+      "twitch": true
+    }
+  },
+  "rlyzFobeb2s": {
+    "snippet": {
+      "publishedAt": "2024-06-28T21:48:56Z",
+      "channelId": "UCi427aW2rjzGjUlE27SqteQ",
+      "title": "reviewing your marriage applications so i can get a visa\u3010V&U | GEN 5\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-07-06T01:30:00Z",
+      "activeLiveChatId": "Cg0KC3JseXpGb2JlYjJzKicKGFVDaTQyN2FXMnJqekdqVWxFMjdTcXRlURILcmx5ekZvYmViMnM"
     }
   },
   "rn2SX1mvIyc": {
@@ -6978,7 +7063,7 @@
       "title": "\u3010ELDEN RING\u3011\ud83c\udfba\u2218\u02d9\u25cb\u02da.\u2022 MORE DLC Exploring~ *spoilers*"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-28T23:00:00Z",
+      "scheduledStartTime": "2024-06-28T23:10:00Z",
       "activeLiveChatId": "Cg0KC3dsLTA4MjhVcExRKicKGFVDeWwxejNqbzNYSFIxcmlMRktHNVVBZxILd2wtMDgyOFVwTFE"
     }
   },
