@@ -116,12 +116,23 @@
     "snippet": {
       "publishedAt": "2024-06-27T23:59:39Z",
       "channelId": "UCW5uhrG1eCBYditmhL0Ykjw",
-      "title": "REBROADCAST =\u3010UNARCHIVED KARAOKE\u3011Kiss From A Rose?~! \ud83d\udc84 #hololiveEnglish #holoJustice"
+      "title": "REBROADCAST =\u3010UNARCHIVED KARAOKE\u3011Kiss From A Rose?~! \ud83d\udc84 #hololiveEnglish #holoJustice",
+      "private": true
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-28T05:00:53Z",
       "scheduledStartTime": "2024-06-28T05:00:00Z",
       "activeLiveChatId": "Cg0KC3ZHV0k5OTB3WnJBKicKGFVDVzV1aHJHMWVDQllkaXRtaEwwWWtqdxILdkdXSTk5MHdackE"
+    }
+  },
+  "lWhR8sk-0xo": {
+    "snippet": {
+      "publishedAt": "2024-06-28T06:23:39Z",
+      "channelId": "UCW5uhrG1eCBYditmhL0Ykjw",
+      "title": "\u3010JUSTICE JAMS\u3011CONTENT WARNING~! \ud83d\udc84 #hololiveEnglish #holoJustice"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-28T18:00:00Z"
     }
   }
 }
