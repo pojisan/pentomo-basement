@@ -5252,6 +5252,17 @@
       "activeLiveChatId": "Cg0KC2c3UzVpbkdaSUY0KicKGFVDaUJNSDFkN2V3XzNiaTJBX3paR3NtdxILZzdTNWluR1pJRjQ"
     }
   },
+  "gEFSFzqNr5Y": {
+    "snippet": {
+      "publishedAt": "2024-06-28T17:20:54Z",
+      "channelId": "UCwaS8_S7kMiKA3izlTWHbQg",
+      "title": "Romancing and Farming? - SunnySide\u3010Maria Marionette | NIJISANJI EN\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-29T07:00:00Z",
+      "activeLiveChatId": "Cg0KC2dFRlNGenFOcjVZKicKGFVDd2FTOF9TN2tNaUtBM2l6bFRXSGJRZxILZ0VGU0Z6cU5yNVk"
+    }
+  },
   "gK31rX-EsIw": {
     "snippet": {
       "publishedAt": "2024-04-15T16:41:48Z",
@@ -5978,17 +5989,6 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-28T12:50:39Z",
-      "twitch": true
-    }
-  },
-  "mumuguru": {
-    "snippet": {
-      "channelId": "mumuguru",
-      "title": "gamingz",
-      "channelTitle": "mumuguru"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-28T15:00:34Z",
       "twitch": true
     }
   },
@@ -7311,6 +7311,7 @@
       "title": "\u3010ELDEN RING\u3011OUR FIRST SOULS-LIKE!!!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T17:12:39Z",
       "scheduledStartTime": "2024-06-28T16:00:00Z",
       "activeLiveChatId": "Cg0KC3llaHhuZXNCUHk0KicKGFVDbGNNVDlWOWl1N3hwaGtIVkhnbEhUZxILeWVoeG5lc0JQeTQ"
     }
