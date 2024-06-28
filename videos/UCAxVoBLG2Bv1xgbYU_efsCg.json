@@ -622,17 +622,18 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-28T00:58:28Z",
-      "scheduledStartTime": "2024-06-28T01:00:00Z",
-      "activeLiveChatId": "Cg0KC0MwQ0Rod282ZFY0KicKGFVDQXhWb0JMRzJCdjF4Z2JZVV9lZnNDZxILQzBDRGh3bzZkVjQ"
+      "actualEndTime": "2024-06-28T03:36:13Z",
+      "scheduledStartTime": "2024-06-28T01:00:00Z"
     }
   },
   "NHRWhZm3O28": {
     "snippet": {
       "publishedAt": "2024-06-28T00:07:32Z",
       "channelId": "UCAxVoBLG2Bv1xgbYU_efsCg",
-      "title": "BIG HATS, BIGGER HEARTS!!! CYON + DAIYA IN THE VSMP! [PIXEL VSMP]"
+      "title": "SO WE BACK IN THE MINES [PIXEL VSMP]"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T03:37:17Z",
       "scheduledStartTime": "2024-06-28T04:00:00Z",
       "activeLiveChatId": "Cg0KC05IUldoWm0zTzI4KicKGFVDQXhWb0JMRzJCdjF4Z2JZVV9lZnNDZxILTkhSV2habTNPMjg"
     }
