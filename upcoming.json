@@ -2532,18 +2532,6 @@
       "activeLiveChatId": "Cg0KC0xKekRDT3pSMV93KicKGFVDMWVYX01Wck4wRUJLZHBrbjliLWpodxILTEp6RENPelIxX3c"
     }
   },
-  "LLQf-QrCIdg": {
-    "snippet": {
-      "publishedAt": "2024-06-27T21:05:06Z",
-      "channelId": "UC2Ne6dDcFxnM2hCBLii3IUg",
-      "title": "\u3010WII SPORTS\u3011DEFEATING MATT AT BOXING\u3010Dr.NOVA(e) | V4Mirai | ENVtuber\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-28T20:59:58Z",
-      "scheduledStartTime": "2024-06-28T21:00:00Z",
-      "activeLiveChatId": "Cg0KC0xMUWYtUXJDSWRnKicKGFVDMk5lNmREY0Z4bk0yaENCTGlpM0lVZxILTExRZi1RckNJZGc"
-    }
-  },
   "LTstMf1gROM": {
     "snippet": {
       "publishedAt": "2023-03-18T10:24:00Z",
@@ -3871,6 +3859,7 @@
       "title": "\u3010BROOMEMBERS\u3011Are you my little birdie?\u3010Yumi The Witch | V4Mirai | ENVtuber\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T23:37:34Z",
       "scheduledStartTime": "2024-06-28T23:30:00Z",
       "activeLiveChatId": "Cg0KC1dSc3R3WW83M1hjKicKGFVDMUpuYWdycWpUekVScWZwTnRSZngxQRILV1JzdHdZbzczWGM"
     }
@@ -4737,6 +4726,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-29T03:00:00Z",
       "activeLiveChatId": "Cg0KC2NKNi1KMGJ1bDZrKicKGFVDSjRPNlBXQTQ3ZjZYYkNnckxRTnFFURILY0o2LUowYnVsNms"
+    }
+  },
+  "cJI5VbT0K3c": {
+    "snippet": {
+      "publishedAt": "2024-06-28T23:33:46Z",
+      "channelId": "UCucJYLJSEFRRfV2CA_JGHIQ",
+      "title": "\u3010BIOHAZARD RE:2\u3011\u306f\u3058\u3081\u3066\u306e\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c9 RE:2 -\u30af\u30ec\u30a2\u7de8- \u3010#\u5deb\u30ed\u30ad/Phase Connect\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-29T14:00:00Z",
+      "activeLiveChatId": "Cg0KC2NKSTVWYlQwSzNjKicKGFVDdWNKWUxKU0VGUlJmVjJDQV9KR0hJURILY0pJNVZiVDBLM2M"
     }
   },
   "cUEVSF5l8DQ": {
@@ -6013,6 +6013,18 @@
       "twitch": true
     }
   },
+  "muso3OxMdDY": {
+    "snippet": {
+      "publishedAt": "2024-06-28T23:23:53Z",
+      "channelId": "UCu-J8uIXuLZh16gG-cT1naw",
+      "title": "\u30b5\u30a4\u30d0\u30fc\u30d1\u30f3\u30af\u30c7\u30c3\u30c9\u30dc\u30fc\u30a4 (CYBERPUNK DEAD BOY) / Finana \u00d7 Claude \u00d7 Shu \u00d7 Meloco \u00d7 Kotoka (Cover)"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-07-01T01:00:00Z",
+      "activeLiveChatId": "Cg0KC211c28zT3hNZERZKicKGFVDdS1KOHVJWHVMWmgxNmdHLWNUMW5hdxILbXVzbzNPeE1kRFk",
+      "premiere": true
+    }
+  },
   "mxAjoDExNQ4": {
     "snippet": {
       "publishedAt": "2024-06-27T05:59:34Z",
@@ -6757,7 +6769,7 @@
   "tea_the_khajiit": {
     "snippet": {
       "channelId": "tea_the_khajiit",
-      "title": "GOLDEN KAPPA!?\u2728DROPS\u2728!CHARITY STREAM! RAISING MONEY FOR GAMERS OUTREACH #VTUBERSUMMERSLAM",
+      "title": "\u2728DROPS\u2728!CHARITY STREAM! RAISING MONEY FOR GAMERS OUTREACH #VTUBERSUMMERSLAM",
       "channelTitle": "Tea_The_Khajiit"
     },
     "liveStreamingDetails": {
