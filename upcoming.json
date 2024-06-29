@@ -557,18 +557,6 @@
       "activeLiveChatId": "Cg0KCzNrS2FpTHNWY09jKicKGFVDNFI2ZGRoQkpwMmJqUUhWTnhnTlFTQRILM2tLYWlMc1ZjT2M"
     }
   },
-  "3l-GuwmEwfs": {
-    "snippet": {
-      "publishedAt": "2024-06-24T19:24:24Z",
-      "channelId": "UC3AYtmMNdJczCvQNoPy-gjw",
-      "title": "CHARITY STREAM!! LET'S GO!!  #VTuberSS2024"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-29T19:02:42Z",
-      "scheduledStartTime": "2024-06-29T19:00:00Z",
-      "activeLiveChatId": "Cg0KCzNsLUd1d21Fd2ZzKicKGFVDM0FZdG1NTmRKY3pDdlFOb1B5LWdqdxILM2wtR3V3bUV3ZnM"
-    }
-  },
   "3my-Na3fQNo": {
     "snippet": {
       "publishedAt": "2023-03-16T05:47:27Z",
@@ -2021,18 +2009,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2026-01-31T04:00:00Z",
       "activeLiveChatId": "Cg0KC0ljV1ZMNDk0NFY4KicKGFVDMmhXRmxxTWV3NjFKeTZBOHp1NUh6URILSWNXVkw0OTQ0Vjg"
-    }
-  },
-  "IsPr8VVLYSc": {
-    "snippet": {
-      "publishedAt": "2024-06-27T08:56:27Z",
-      "channelId": "UCBnmfjpmhGxao6v54fIIMUA",
-      "title": "\u3010 72 hours Donothon \u3011Save The Grease Monkey Vtuber - Day 2"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-29T13:06:54Z",
-      "scheduledStartTime": "2024-06-29T13:00:00Z",
-      "activeLiveChatId": "Cg0KC0lzUHI4VlZMWVNjKicKGFVDQm5tZmpwbWhHeGFvNnY1NGZJSU1VQRILSXNQcjhWVkxZU2M"
     }
   },
   "IwPlOfOMBRU": {
@@ -5829,6 +5805,17 @@
       "activeLiveChatId": "Cg0KC3J0aXhzNm1BRXJFKicKGFVDVlFFYmpBY0pSZVB4T0RWTTVtV0N2URILcnRpeHM2bUFFckU"
     }
   },
+  "rurumi": {
+    "snippet": {
+      "channelId": "rurumi",
+      "title": "RURURURURU!!!!!!!!!!!!",
+      "channelTitle": "Rurumi"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-29T22:21:34Z",
+      "twitch": true
+    }
+  },
   "rvWwaulJ6RA": {
     "snippet": {
       "publishedAt": "2023-01-24T09:17:20Z",
@@ -6095,6 +6082,7 @@
       "title": "\u3010#VTuberSS2024\u3011VTuber juggles 4 jobs now\u3010Ran Tsukiha | Production kawaii\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-29T22:15:52Z",
       "scheduledStartTime": "2024-06-29T22:15:00Z",
       "activeLiveChatId": "Cg0KC3VJUkNNS0VQMFhFKicKGFVDYi04RmtnLW1TVTJSbWxQOEZkcHlNdxILdUlSQ01LRVAwWEU"
     }
