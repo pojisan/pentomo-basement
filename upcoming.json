@@ -3737,6 +3737,7 @@
       "title": "I try Viewers Favorite Snacks"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-29T03:45:07Z",
       "scheduledStartTime": "2024-06-29T03:30:00Z",
       "activeLiveChatId": "Cg0KC1Z4V1VuWVowRjNrKicKGFVDRmdYV1pPVVpBMm9ZSE5yNnFEbXNUURILVnhXVW5ZWjBGM2s"
     }
@@ -4466,7 +4467,7 @@
     "snippet": {
       "publishedAt": "2024-06-28T13:14:17Z",
       "channelId": "UCv1ThyE4KVYnnVY8GLftnoA",
-      "title": "\u301035k Celebration!\u3011Drunk Minecraft in The VSMP Server!\u3010V4Mirai | Serina Maiko | ENVtuber\u3011"
+      "title": "\u301035k Celebration!\u3011Drunk Minecraft +V4Mirai + ZATSU | Serina Maiko | ENVtuber\u3011"
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-28T23:57:42Z",
@@ -5194,17 +5195,6 @@
       "activeLiveChatId": "Cg0KC2hpc1drOWRQeHhrKicKGFVDVmpwRlAxX055M1BVb0UyNnI0SVRhdxILaGlzV2s5ZFB4eGs"
     }
   },
-  "hiyorisinn": {
-    "snippet": {
-      "channelId": "hiyorisinn",
-      "title": "everyone is playing FFXIV except for me / !streamloots !asmr",
-      "channelTitle": "HiyorisInn"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-28T20:52:17Z",
-      "twitch": true
-    }
-  },
   "hlDFczhR2mo": {
     "snippet": {
       "publishedAt": "2023-09-07T02:29:02Z",
@@ -5580,17 +5570,6 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-29T03:08:42Z",
-      "twitch": true
-    }
-  },
-  "kirastarfyre": {
-    "snippet": {
-      "channelId": "kirastarfyre",
-      "title": "[Advice appreciated | Open lobby] cries bcuz no frens | FATALIS TRAINING ARC | !join the hunt",
-      "channelTitle": "KiraStarfyre"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-29T00:16:18Z",
       "twitch": true
     }
   },
@@ -6936,7 +6915,7 @@
       "title": "\uc800 \uc774\uac9c \uc911\ub3c5\ub42b\uc74c - Dave the Diver (KR stream)"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-30T13:00:00Z",
+      "scheduledStartTime": "2024-06-29T12:00:00Z",
       "activeLiveChatId": "Cg0KC3dsNThDZWphRVJRKicKGFVDeUtzZy01N1hDOXB5SGJQN3Yza0NQURILd2w1OENlamFFUlE"
     }
   },
