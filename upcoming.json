@@ -2406,18 +2406,6 @@
       "activeLiveChatId": "Cg0KC0w3d0QwZjN3TERzKicKGFVDeGVyUWxFMHQxeVk0YnFlSzVsZE05QRILTDd3RDBmM3dMRHM"
     }
   },
-  "L8JNlY-PLUU": {
-    "snippet": {
-      "publishedAt": "2024-06-28T06:08:53Z",
-      "channelId": "UCB1s_IdO-r0nUkY2mXeti-A",
-      "title": "\u3010\u5192\u982d\u7121\u6599\u30d1\u30fc\u30c8\u3011\u96e8\u2191\u308a\u3046\u3080 \u301cRe:AcT 2\u671f\u751f 1st One-Man Live\u301c\u3010#\u30ea\u30a2\u30af\u30c82\u671f\u751f\u30e9\u30a4\u30d6\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-29T09:15:25Z",
-      "scheduledStartTime": "2024-06-29T09:00:00Z",
-      "activeLiveChatId": "Cg0KC0w4Sk5sWS1QTFVVKicKGFVDQjFzX0lkTy1yMG5Va1kybVhldGktQRILTDhKTmxZLVBMVVU"
-    }
-  },
   "LByigPaA2nk": {
     "snippet": {
       "publishedAt": "2022-06-05T05:25:03Z",
@@ -4657,6 +4645,17 @@
       "activeLiveChatId": "Cg0KC2VjS3VZb3M4ZzhzKicKGFVDSjRwdnNwd2puTS1oU1hxa29JdU1HURILZWNLdVlvczhnOHM"
     }
   },
+  "eliastellaria": {
+    "snippet": {
+      "channelId": "eliastellaria",
+      "title": "I yearn for the mines \u3010VSMP MINECRAFT \u3011",
+      "channelTitle": "EliaStellaria"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-29T10:30:51Z",
+      "twitch": true
+    }
+  },
   "eulNaT_7F2w": {
     "snippet": {
       "publishedAt": "2024-06-24T22:30:09Z",
@@ -4814,6 +4813,7 @@
       "title": "I yearn for the mines \u3010VSMP MINECRAFT \u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-29T10:31:06Z",
       "scheduledStartTime": "2024-06-29T10:30:00Z",
       "activeLiveChatId": "Cg0KC2dTZDdvUThyNUxZKicKGFVDTzR6TWFZQkV6ZFlJU2Zlb082aXBfURILZ1NkN29ROHI1TFk"
     }
@@ -6530,6 +6530,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-07-28T12:00:00Z",
       "activeLiveChatId": "Cg0KC3doT29ad1Y1RDdzKicKGFVDYmkzTU01LVFQNE1ZMVlrV2Z2NFVKQRILd2hPb1p3VjVEN3M"
+    }
+  },
+  "wiAA4y7Ag4M": {
+    "snippet": {
+      "publishedAt": "2024-06-29T10:24:07Z",
+      "channelId": "UClrQ7xhRBxS_v_-WuudGKmA",
+      "title": "\u3010 steam\u30bb\u30fc\u30eb\u4e2d\uff01 \u3011\u304a\u3059\u3059\u3081\u306e\u30b2\u30fc\u30e0\u3044\uff5e\uff5e\uff5e\u3063\u3071\u3044\u6559\u3048\u3066\uff01\uff01\u3010 \u93d1\u6728\u308d\u3053\uffe4\u306b\u3058\u3055\u3093\u3058 \u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-29T11:00:00Z",
+      "activeLiveChatId": "Cg0KC3dpQUE0eTdBZzRNKicKGFVDbHJRN3hoUkJ4U192Xy1XdXVkR0ttQRILd2lBQTR5N0FnNE0"
     }
   },
   "wjDz5GbSQxo": {
