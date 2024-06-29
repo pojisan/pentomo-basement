@@ -879,6 +879,7 @@
       "title": "\u3010Infinity Nikki\u3011closed beta test impressions!\u3010Fionna fon Engels \u2661 Project: Verses\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-29T02:00:10Z",
       "scheduledStartTime": "2024-06-29T02:00:00Z",
       "activeLiveChatId": "Cg0KCzZKTXhWZGNhWHNRKicKGFVDb3ZLd2dBOWVIVXV0SVdDVldTX0FHdxILNkpNeFZkY2FYc1E"
     }
@@ -1029,6 +1030,7 @@
       "title": "\u3010Karaoke\u3011Mooooodie\u3010Yuuki Ame\u30fbbondlive EN\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-29T02:01:13Z",
       "scheduledStartTime": "2024-06-29T02:00:00Z",
       "activeLiveChatId": "Cg0KCzhGd0NLalJQY1FNKicKGFVDSFZZZDJGdGVrNUhpZWdSanQyWDkyZxILOEZ3Q0tqUlBjUU0"
     }
@@ -1401,6 +1403,7 @@
       "title": "\u3010Anime Watch Along\u3011Kill La Kill Episode 19 to 24 Finale"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-29T02:01:01Z",
       "scheduledStartTime": "2024-06-29T03:00:20Z",
       "activeLiveChatId": "Cg0KC0NYa3lnc09RTG4wKicKGFVDM3dvNGJ5X0JhbkRXZ0hBNlp6TmFRdxILQ1hreWdzT1FMbjA"
     }
@@ -1550,6 +1553,7 @@
       "title": "\u3010AI: The Somnium Files\u3011The investigation continues!\u3010Yume+ | Aimee\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-29T01:55:34Z",
       "scheduledStartTime": "2024-06-29T02:00:00Z",
       "activeLiveChatId": "Cg0KC0RYMFMydmUwUFNvKicKGFVDX3Q3d3RTY1ZMazg1SWFEOWpZU1JBQRILRFgwUzJ2ZTBQU28"
     }
@@ -2918,6 +2922,7 @@
       "title": "\u3010YAKUZA 3\u3011 kiryu, are you watching vtubers again..."
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-29T02:01:22Z",
       "scheduledStartTime": "2024-06-29T02:00:00Z",
       "activeLiveChatId": "Cg0KC083cXpHbHRPMUFNKicKGFVDZlcwZjJKNm8tX3IzZm1lV3MzSEZfQRILTzdxekdsdE8xQU0"
     }
@@ -3405,6 +3410,7 @@
       "title": "\u3010HANDCAM\u3011WILL I FINISH THIS LEGO SET?\u3010VyVid | Eva Ananova \u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-29T02:00:05Z",
       "scheduledStartTime": "2024-06-29T02:00:00Z",
       "activeLiveChatId": "Cg0KC1NBWW00NlA1eEtvKicKGFVDVE5wd1d5b0xnZUotdHN4V3E3dWN2dxILU0FZbTQ2UDV4S28"
     }
@@ -3621,6 +3627,7 @@
       "title": "\u3010LALANIGHT #6\u3011Six Night \u00bfCuentitos al aire libre? ~\u3010idolES\u3011\ud83c\udf80"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-29T01:54:44Z",
       "scheduledStartTime": "2024-06-29T02:00:00Z",
       "activeLiveChatId": "Cg0KC1VSeG9Kbmh3ZzRJKicKGFVDdURtVWwzV1k0MUZxR0lfYlVyNjJQQRILVVJ4b0puaHdnNEk"
     }
@@ -3960,6 +3967,7 @@
       "title": "Hehe Spear go Brrr\u3010Hades 2\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-29T01:58:17Z",
       "scheduledStartTime": "2024-06-29T02:00:00Z",
       "activeLiveChatId": "Cg0KC1hFTWduRTZWR1pjKicKGFVDQXhWb0JMRzJCdjF4Z2JZVV9lZnNDZxILWEVNZ25FNlZHWmM"
     }
@@ -5058,6 +5066,17 @@
       "activeLiveChatId": "Cg0KC2ZpMTdueFRxSGpnKicKGFVDdHVveU9aaG54SjEycEUyOTRGZEg4URILZmkxN254VHFIamc"
     }
   },
+  "fionnafonengels": {
+    "snippet": {
+      "channelId": "fionnafonengels",
+      "title": "closed beta test impressions!\u3010Fionna fon Engels \u2661 Project: Verses\u3011",
+      "channelTitle": "FionnafonEngels"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-29T01:59:56Z",
+      "twitch": true
+    }
+  },
   "fmudzcJ_iSs": {
     "snippet": {
       "publishedAt": "2024-04-15T19:22:34Z",
@@ -5845,7 +5864,7 @@
   "matarakan": {
     "snippet": {
       "channelId": "matarakan",
-      "title": "POST WINE AND CHEESE AND HAGS YAPPING!!! !youtube !podcast",
+      "title": "POST WINE AND CHEESE AND HAGS YAPPING!!! w/ @JuniperActias !youtube !podcast",
       "channelTitle": "MataraKan"
     },
     "liveStreamingDetails": {
@@ -6136,6 +6155,17 @@
       "twitch": true
     }
   },
+  "pippa": {
+    "snippet": {
+      "channelId": "pippa",
+      "title": "DRUNK karaoke",
+      "channelTitle": "Pippa"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-29T01:52:20Z",
+      "twitch": true
+    }
+  },
   "ple0UZgclBw": {
     "snippet": {
       "publishedAt": "2024-06-23T00:36:42Z",
@@ -6380,17 +6410,6 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-29T01:13:57Z",
-      "twitch": true
-    }
-  },
-  "rixxybrightful": {
-    "snippet": {
-      "channelId": "rixxybrightful",
-      "title": "DREAM RAIDS WITH NO WARRANT - AI: THE SOMNIUM FILES",
-      "channelTitle": "rixxybrightful"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-28T22:58:14Z",
       "twitch": true
     }
   },
@@ -7307,18 +7326,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-01-01T05:00:00Z",
       "activeLiveChatId": "Cg0KC3poeVR0MkhTS3M4KicKGFVDVlBCR21sc0M4Uy1UTmFfSUVWY3oxQRILemh5VHQySFNLczg"
-    }
-  },
-  "zvkWkC-b3RU": {
-    "snippet": {
-      "publishedAt": "2024-06-25T15:58:14Z",
-      "channelId": "UCpu_YSDy-0bfsypkaOeC-sA",
-      "title": "\u3010Meeta Osita | V&U\u3011BUY MY ART, IT'S WORTH MILLIONS (Passpartout 2: The Lost Artist)"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-28T23:57:43Z",
-      "scheduledStartTime": "2024-06-29T00:00:00Z",
-      "activeLiveChatId": "Cg0KC3p2a1drQy1iM1JVKicKGFVDcHVfWVNEeS0wYmZzeXBrYU9lQy1zQRILenZrV2tDLWIzUlU"
     }
   }
 }
