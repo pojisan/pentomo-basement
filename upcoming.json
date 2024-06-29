@@ -3123,7 +3123,7 @@
       "title": "Comedy Night but chat can't boo me off stage \u3010NIJISANJI EN | Aia Amare \u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-29T23:00:00Z",
+      "scheduledStartTime": "2024-06-29T23:15:00Z",
       "activeLiveChatId": "Cg0KC1Q5TG5FWlN1X3pFKicKGFVDTjY4TG9NM2toUzRnZEJNaVdKTzhXQRILVDlMbkVaU3VfekU"
     }
   },
@@ -3983,6 +3983,17 @@
       "scheduledStartTime": "2024-07-01T02:30:00Z",
       "activeLiveChatId": "Cg0KC2FQS2pJQlBXVUkwKicKGFVDdTFJTnplZnczUjdNOS0zUUVIWW1NURILYVBLaklCUFdVSTA",
       "premiere": true
+    }
+  },
+  "akumeowie": {
+    "snippet": {
+      "channelId": "akumeowie",
+      "title": "\u2728 [FIRST GAMEPLAY] I never knew I could dislike nature this much \u27a4 KINGDOM HEARTS \u2503 !merch",
+      "channelTitle": "AkuMeowie"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-29T22:50:02Z",
+      "twitch": true
     }
   },
   "amfGSwMn_Qk": {
