@@ -1251,18 +1251,6 @@
       "activeLiveChatId": "Cg0KC0FvOEJ3MlljaExRKicKGFVDNGFtTVdxdEFmb1RZVUdxenkxX1o1URILQW84QncyWWNoTFE"
     }
   },
-  "AtmM8Lyd3VA": {
-    "snippet": {
-      "publishedAt": "2024-06-24T08:11:14Z",
-      "channelId": "UCQY5mpFtPyWJZHbjaxmHnzw",
-      "title": "\u3010Art\u3011Drawing V&SouthPark\u3010V&U | GEN4\u3011#drawing"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-28T22:32:33Z",
-      "scheduledStartTime": "2024-06-28T22:30:00Z",
-      "activeLiveChatId": "Cg0KC0F0bU04THlkM1ZBKicKGFVDUVk1bXBGdFB5V0paSGJqYXhtSG56dxILQXRtTThMeWQzVkE"
-    }
-  },
   "AuQytjkbOPo": {
     "snippet": {
       "publishedAt": "2024-06-17T00:38:08Z",
@@ -1896,6 +1884,7 @@
       "title": "WAITING FOR FUN ANNOUNCEMENT"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-29T00:19:11Z",
       "scheduledStartTime": "2024-06-29T00:15:00Z",
       "activeLiveChatId": "Cg0KC0cweFYxYUVxcHhVKicKGFVDeUtzZy01N1hDOXB5SGJQN3Yza0NQURILRzB4VjFhRXFweFU"
     }
@@ -5741,6 +5730,17 @@
       "activeLiveChatId": "Cg0KC2tlMTZnRmdhbUdRKicKGFVDSzlsNnJUd1UzaGlTWmlqSU1xNTFHdxILa2UxNmdGZ2FtR1E"
     }
   },
+  "kirastarfyre": {
+    "snippet": {
+      "channelId": "kirastarfyre",
+      "title": "[Advice appreciated | Open lobby] cries bcuz no frens | FATALIS TRAINING ARC | !join the hunt",
+      "channelTitle": "KiraStarfyre"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-29T00:16:18Z",
+      "twitch": true
+    }
+  },
   "kpcW83biiHo": {
     "snippet": {
       "publishedAt": "2024-06-27T00:50:56Z",
@@ -6720,7 +6720,7 @@
   "tea_the_khajiit": {
     "snippet": {
       "channelId": "tea_the_khajiit",
-      "title": "\u2728DROPS\u2728!CHARITY STREAM! RAISING MONEY FOR GAMERS OUTREACH #VTUBERSUMMERSLAM",
+      "title": "\u2728DROPS\u2728!CHARITY STREAM! RAISING MONEY WITH @NEIOMICIELO @STAR2D2 BOOMI & XANDER FOR GAMERS OUTREACH #VTUBERSUMMERSLAM",
       "channelTitle": "Tea_The_Khajiit"
     },
     "liveStreamingDetails": {
