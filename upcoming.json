@@ -755,7 +755,7 @@
       "title": "\u3010Among Us\u3011 New Roles and Cute Girls"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-29T17:00:00Z",
+      "scheduledStartTime": "2024-06-30T17:00:00Z",
       "activeLiveChatId": "Cg0KCzVtZ1pOR0JmNDNZKicKGFVDMEpGdDVKamw1YV9fek9hWkxxazdQZxILNW1nWk5HQmY0M1k"
     }
   },
@@ -2082,6 +2082,17 @@
       "actualStartTime": "2024-06-29T13:06:54Z",
       "scheduledStartTime": "2024-06-29T13:00:00Z",
       "activeLiveChatId": "Cg0KC0lzUHI4VlZMWVNjKicKGFVDQm5tZmpwbWhHeGFvNnY1NGZJSU1VQRILSXNQcjhWVkxZU2M"
+    }
+  },
+  "IwPlOfOMBRU": {
+    "snippet": {
+      "publishedAt": "2024-06-29T17:06:39Z",
+      "channelId": "UCpeRj9-GaLGNUoKdI5I7vZA",
+      "title": "\u3010Pina Punch\u3011 Gru Meme, but Pina version!? Lets goooooo!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-30T00:00:00Z",
+      "activeLiveChatId": "Cg0KC0l3UGxPZk9NQlJVKicKGFVDcGVSajktR2FMR05Vb0tkSTVJN3ZaQRILSXdQbE9mT01CUlU"
     }
   },
   "J09Y3gDiIk8": {
@@ -5926,17 +5937,6 @@
       "activeLiveChatId": "Cg0KC3JnZGk4YnRlUWdjKicKGFVDOHpnS2FTOExpeUwyOG1kaFJDMm5CZxILcmdkaThidGVRZ2M"
     }
   },
-  "rixxybrightful": {
-    "snippet": {
-      "channelId": "rixxybrightful",
-      "title": "GOOB MRONING!!! Tech Talk!!!",
-      "channelTitle": "rixxybrightful"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-29T15:07:41Z",
-      "twitch": true
-    }
-  },
   "rj0i9z8ybOM": {
     "snippet": {
       "publishedAt": "2024-06-29T07:04:54Z",
@@ -6236,6 +6236,17 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-29T16:11:38Z",
+      "twitch": true
+    }
+  },
+  "tenma": {
+    "snippet": {
+      "channelId": "tenma",
+      "title": "i am playing one hour one game idk 4 hour stream, short stream wow CHECK !song .thank you!",
+      "channelTitle": "Tenma"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-29T17:10:14Z",
       "twitch": true
     }
   },
