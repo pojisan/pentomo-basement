@@ -2488,5 +2488,17 @@
       "actualEndTime": "2024-06-26T16:07:46Z",
       "scheduledStartTime": "2024-06-26T13:00:00Z"
     }
+  },
+  "mrZ8NWOSkJ0": {
+    "snippet": {
+      "publishedAt": "2024-05-26T12:18:26Z",
+      "channelId": "UC1LegxCNa6lqmSsZTSm7GyA",
+      "title": "Amusement Park (from NieR:Automata) | Cover by Cinnia Antimony"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-30T13:00:00Z",
+      "activeLiveChatId": "Cg0KC21yWjhOV09Ta0owKicKGFVDMUxlZ3hDTmE2bHFtU3NaVFNtN0d5QRILbXJaOE5XT1NrSjA",
+      "premiere": true
+    }
   }
 }
