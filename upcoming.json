@@ -489,6 +489,7 @@
       "title": "VERTICAL\u3010JUST ACT NATURAL\u3011: SNITCHES GET STICHES \u3010bondlive EN\u3011#vtuber #shorts"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-29T14:00:13Z",
       "scheduledStartTime": "2024-06-29T14:00:00Z",
       "activeLiveChatId": "Cg0KCzMwM01KckZXbHZRKicKGFVDWk8wQ2lySGVXWVRVTWwtN3pQRzZZZxILMzAzTUpyRldsdlE"
     }
@@ -1068,18 +1069,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-29T20:20:00Z",
       "activeLiveChatId": "Cg0KC0E2R0dQQjdJV0VZKicKGFVDUGFOSTJWVURjMkwwQ1VYVEp6dG80QRILQTZHR1BCN0lXRVk"
-    }
-  },
-  "AF6Ug4ZacnI": {
-    "snippet": {
-      "publishedAt": "2024-06-28T20:45:56Z",
-      "channelId": "UCQYwIUCLqFoin7lHKmePjJw",
-      "title": "\u3010ZATSUDAN\u3011Trying To Speak Thai! Let's Talk About Food!\u3010NIJISANJ EN | Klara Charmwood\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-29T12:01:32Z",
-      "scheduledStartTime": "2024-06-29T12:00:00Z",
-      "activeLiveChatId": "Cg0KC0FGNlVnNFphY25JKicKGFVDUVl3SVVDTHFGb2luN2xIS21lUGpKdxILQUY2VWc0WmFjbkk"
     }
   },
   "AIlDMlaTGEY": {
@@ -2139,6 +2128,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-01-02T08:30:00Z",
       "activeLiveChatId": "Cg0KC0owOVkzZ0RpSWs4KicKGFVDYkRISVMwTnBYUk9oWWpzYVhRWDRwQRILSjA5WTNnRGlJazg"
+    }
+  },
+  "J2_-OpQa9XU": {
+    "snippet": {
+      "publishedAt": "2024-06-29T13:52:17Z",
+      "channelId": "UCW5uhrG1eCBYditmhL0Ykjw",
+      "title": "\u3010UNARCHIVED KARAOKE\u3011Shall We Dance?~! \ud83d\udc84 #hololiveEnglish #holoJustice"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-29T18:00:00Z",
+      "activeLiveChatId": "Cg0KC0oyXy1PcFFhOVhVKicKGFVDVzV1aHJHMWVDQllkaXRtaEwwWWtqdxILSjJfLU9wUWE5WFU"
     }
   },
   "JAUSrqX0hW8": {
@@ -3571,6 +3571,7 @@
       "title": "\u3010Idol Showdown\u3011Throwing down with @oumiyaemma \u3010Fionna fon Engels \u2661 Project: Verses\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-29T14:00:02Z",
       "scheduledStartTime": "2024-06-29T14:00:00Z",
       "activeLiveChatId": "Cg0KC1cyUVgyWEFOSko0KicKGFVDb3ZLd2dBOWVIVXV0SVdDVldTX0FHdxILVzJRWDJYQU5KSjQ"
     }
@@ -3907,18 +3908,6 @@
       "activeLiveChatId": "Cg0KC1ltRGx3dzRsVER3KicKGFVDdTFJTnplZnczUjdNOS0zUUVIWW1NURILWW1EbHd3NGxURHc"
     }
   },
-  "YswbLe66tt8": {
-    "snippet": {
-      "publishedAt": "2024-06-29T06:51:04Z",
-      "channelId": "UCnJNNk45O1QYS2oMRYFKSyw",
-      "title": "Shiina Cooks Katsudon with Baked Tonkatsu! (Handcam)"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-29T11:56:12Z",
-      "scheduledStartTime": "2024-06-29T12:00:00Z",
-      "activeLiveChatId": "Cg0KC1lzd2JMZTY2dHQ4KicKGFVDbkpOTms0NU8xUVlTMm9NUllGS1N5dxILWXN3YkxlNjZ0dDg"
-    }
-  },
   "Z3gCECpoVVk": {
     "snippet": {
       "publishedAt": "2024-06-24T00:00:34Z",
@@ -4208,6 +4197,17 @@
       "activeLiveChatId": "Cg0KC2FtZkdTd01uX1FrKicKGFVDazB2dXd3c21fVVFISElPZ0d2eFUtQRILYW1mR1N3TW5fUWs"
     }
   },
+  "arurivtuber": {
+    "snippet": {
+      "channelId": "arurivtuber",
+      "title": "\ud83d\udd34 Blending In With NPCs... OR ELSE \u2726 !donathon DAY 131 | !socials !discord !yt !stickers !tips",
+      "channelTitle": "AruriVtuber"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-29T14:01:31Z",
+      "twitch": true
+    }
+  },
   "auCkpoNM1yE": {
     "snippet": {
       "publishedAt": "2024-03-24T19:34:20Z",
@@ -4355,6 +4355,7 @@
       "title": "\u3010BIOHAZARD RE:2\u3011\u306f\u3058\u3081\u3066\u306e\u30d0\u30a4\u30aa\u30cf\u30b6\u30fc\u30c9 RE:2 -\u30af\u30ec\u30a2\u7de8- \u3010#\u5deb\u30ed\u30ad/Phase Connect\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-29T14:00:00Z",
       "scheduledStartTime": "2024-06-29T14:00:00Z",
       "activeLiveChatId": "Cg0KC2NKSTVWYlQwSzNjKicKGFVDdWNKWUxKU0VGUlJmVjJDQV9KR0hJURILY0pJNVZiVDBLM2M"
     }
@@ -4533,9 +4534,10 @@
     "snippet": {
       "publishedAt": "2024-06-24T13:06:04Z",
       "channelId": "UCRkdFGXwBtxvm9SsfmNmMZA",
-      "title": "2k celebration!!!"
+      "title": "2k celebration!!! Batz wheel, Songs and more!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-29T14:00:44Z",
       "scheduledStartTime": "2024-06-29T14:00:00Z",
       "activeLiveChatId": "Cg0KC2VPS0NaV3R3WUFNKicKGFVDUmtkRkdYd0J0eHZtOVNzZm1ObU1aQRILZU9LQ1pXdHdZQU0"
     }
@@ -4701,6 +4703,17 @@
       "activeLiveChatId": "Cg0KC2ZobXZwem10Q2ZrKicKGFVDeUY3U2VJeVdsVXpua19zZ19YakM4URILZmhtdnB6bXRDZms"
     }
   },
+  "fionnafonengels": {
+    "snippet": {
+      "channelId": "fionnafonengels",
+      "title": "Throwing down with my wife @oumiyaemma!!\u3010Fionna fon Engels \u2661 Project: Verses\u3011",
+      "channelTitle": "FionnafonEngels"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-29T13:59:25Z",
+      "twitch": true
+    }
+  },
   "fmudzcJ_iSs": {
     "snippet": {
       "publishedAt": "2024-04-15T19:22:34Z",
@@ -4742,18 +4755,6 @@
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-28T13:00:00Z"
-    }
-  },
-  "gEFSFzqNr5Y": {
-    "snippet": {
-      "publishedAt": "2024-06-28T17:20:54Z",
-      "channelId": "UCwaS8_S7kMiKA3izlTWHbQg",
-      "title": "Romancing and Farming? - SunnySide\u3010Maria Marionette | NIJISANJI EN\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-29T07:00:21Z",
-      "scheduledStartTime": "2024-06-29T07:00:00Z",
-      "activeLiveChatId": "Cg0KC2dFRlNGenFOcjVZKicKGFVDd2FTOF9TN2tNaUtBM2l6bFRXSGJRZxILZ0VGU0Z6cU5yNVk"
     }
   },
   "gK31rX-EsIw": {
@@ -5064,6 +5065,17 @@
       "activeLiveChatId": "Cg0KC2pPZmpHLXBKeDN3KicKGFVDb0F3M1NNTF8wOWRGLTd5aFFVOHdGURILak9makctcEp4M3c"
     }
   },
+  "jRBgLf8ljyw": {
+    "snippet": {
+      "publishedAt": "2024-06-29T13:57:04Z",
+      "channelId": "UC-6rZgmxZSIbq786j3RD5ow",
+      "title": "\u3010\u30b9\u30fc\u30d1\u30fc\u30e2\u30f3\u30ad\u30fc\u30dc\u30fc\u30eb \u30d0\u30ca\u30ca\u30e9\u30f3\u30d6\u30eb\u3011\u30a6\u30ad\u30a6\u30ad\u30ab\u30c3\u30d7\u306b\u5411\u3051\u3066\u7df4\u7fd2\u3088\uff5e\uff01\u3010\u30ec\u30aa\u30b9\u30fb\u30f4\u30a3\u30f3\u30bb\u30f3\u30c8  \u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-29T14:00:00Z",
+      "activeLiveChatId": "Cg0KC2pSQmdMZjhsanl3KicKGFVDLTZyWmdteFpTSWJxNzg2ajNSRDVvdxILalJCZ0xmOGxqeXc"
+    }
+  },
   "jRPo7Ekwuso": {
     "snippet": {
       "publishedAt": "2024-06-26T03:37:20Z",
@@ -5353,6 +5365,17 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC2x5bXprYkQ5TlZJKicKGFVDQzRoakpwX010dHdmWmN1V2MwT3BWURILbHltemtiRDlOVkk"
+    }
+  },
+  "lz1DjnLMo8M": {
+    "snippet": {
+      "publishedAt": "2024-06-29T13:52:32Z",
+      "channelId": "UCgmFrRcyH7d1zR9sIVQhFow",
+      "title": "\u3010\u30b9\u30fc\u30d1\u30fc\u30e2\u30f3\u30ad\u30fc\u30dc\u30fc\u30eb \u30d0\u30ca\u30ca\u30e9\u30f3\u30d6\u30eb\u3011\u5927\u4f1a\u524d\u65e5\u3066\u3043\u3080\u7df4\u7fd2 with \u3066\u3043\u3080\u592a\u967d\u306e\u65b9\u3005 \u3010\u30ed\u30fc\u30ec\u30f3\u30fb\u30a4\u30ed\u30a2\u30b9/\u306b\u3058\u3055\u3093\u3058\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-29T14:00:00Z",
+      "activeLiveChatId": "Cg0KC2x6MURqbkxNbzhNKicKGFVDZ21GclJjeUg3ZDF6UjlzSVZRaEZvdxILbHoxRGpuTE1vOE0"
     }
   },
   "m7ldlTI3jik": {
