@@ -380,8 +380,18 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-28T20:05:23Z",
       "actualEndTime": "2024-06-29T04:50:48Z",
-      "scheduledStartTime": "2024-06-28T20:00:00Z",
-      "activeLiveChatId": "Cg0KC2ozdVk0N2pib0lJKicKGFVDaTdUd29tdFMzWnlmakFNNVRXRU1TURILajN1WTQ3amJvSUk"
+      "scheduledStartTime": "2024-06-28T20:00:00Z"
+    }
+  },
+  "GOzT9g7Woy8": {
+    "snippet": {
+      "publishedAt": "2024-06-25T05:51:27Z",
+      "channelId": "UCi7TwomtS3ZyfjAM5TWEMSQ",
+      "title": "\u3010Stray\u3011I've always wanted to be a car!!! \ud83d\udc10\ud83c\udf7cPT 3\u3010VAllure\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-30T00:00:00Z",
+      "activeLiveChatId": "Cg0KC0dPelQ5ZzdXb3k4KicKGFVDaTdUd29tdFMzWnlmakFNNVRXRU1TURILR096VDlnN1dveTg"
     }
   }
 }
