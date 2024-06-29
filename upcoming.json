@@ -169,6 +169,7 @@
       "title": "\u3010 AKUGAKI POV \u3011 Cuidado con los animales sueltos! \u219d \u3010 Oh Deer | Akugaki Koa | idolES \u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-29T21:13:47Z",
       "scheduledStartTime": "2024-06-29T21:00:00Z",
       "activeLiveChatId": "Cg0KCzBSMUMtbXVpeVFzKicKGFVDNFI2ZGRoQkpwMmJqUUhWTnhnTlFTQRILMFIxQy1tdWl5UXM"
     }
@@ -3743,18 +3744,6 @@
       "activeLiveChatId": "Cg0KC1lYbEMtTnRpMEZFKicKGFVDdjFUaHlFNEtWWW5uVlk4R0xmdG5vQRILWVhsQy1OdGkwRkU"
     }
   },
-  "YZaCpCTLQH4": {
-    "snippet": {
-      "publishedAt": "2024-06-25T16:25:23Z",
-      "channelId": "UCpu_YSDy-0bfsypkaOeC-sA",
-      "title": "\u3010Meeta Osita | V&U\u3011WELCOME SUMMER! TIME TO HAVE FUN! (MIDSUMMER MEDLEY KARAOKE RELAY)"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-29T20:50:48Z",
-      "scheduledStartTime": "2024-06-29T21:00:00Z",
-      "activeLiveChatId": "Cg0KC1laYUNwQ1RMUUg0KicKGFVDcHVfWVNEeS0wYmZzeXBrYU9lQy1zQRILWVphQ3BDVExRSDQ"
-    }
-  },
   "Ye3gcEzRlN4": {
     "snippet": {
       "publishedAt": "2023-05-20T09:29:57Z",
@@ -5280,6 +5269,17 @@
       "activeLiveChatId": "Cg0KC21fSlMxY2N2RWs4KicKGFVDX3Q3d3RTY1ZMazg1SWFEOWpZU1JBQRILbV9KUzFjY3ZFazg"
     }
   },
+  "meica05": {
+    "snippet": {
+      "channelId": "meica05",
+      "title": "\ud83d\udfe2  \u3010ES/JP\u3011AYYY MIS ETERNALS GOOD!!! | Collab Eternals jugando Oh Deer! | !redes !video \ud83c\udf31",
+      "channelTitle": "Meica05"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-29T21:13:16Z",
+      "twitch": true
+    }
+  },
   "mfoHpYA39oc": {
     "snippet": {
       "publishedAt": "2024-03-10T12:20:05Z",
@@ -5894,18 +5894,6 @@
       "activeLiveChatId": "Cg0KC3J2a2VON0RxMWZBKicKGFVDY1BjLTVPckxialZCZ1EtemlFV1BTURILcnZrZU43RHExZkE"
     }
   },
-  "s-owM7kHMso": {
-    "snippet": {
-      "publishedAt": "2024-06-29T16:19:17Z",
-      "channelId": "UC2gPbOjo_NM2QeroArW8Yeg",
-      "title": "No complaints, no rage allowed! [Elden Ring]"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-29T17:00:49Z",
-      "scheduledStartTime": "2024-06-29T17:00:00Z",
-      "activeLiveChatId": "Cg0KC3Mtb3dNN2tITXNvKicKGFVDMmdQYk9qb19OTTJRZXJvQXJXOFllZxILcy1vd003a0hNc28"
-    }
-  },
   "s6PNhDB0yzU": {
     "snippet": {
       "publishedAt": "2023-02-02T08:35:47Z",
@@ -6140,6 +6128,7 @@
       "title": "KARAOKE RELAY AFTER-PARTY! V&U Open Totsu\u3010Karaoke Relay: V&U's Midsummer Medley!\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-29T21:14:05Z",
       "scheduledStartTime": "2024-06-29T21:20:00Z",
       "activeLiveChatId": "Cg0KC3RtWTRRZjRsN3BNKicKGFVDdnFmNDI2X1hFQ1hnaTJzNnRJamdPdxILdG1ZNFFmNGw3cE0"
     }
