@@ -7575,7 +7575,7 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-29T12:14:56Z",
-      "activeLiveChatId": "Cg0KC1Jmajhwci1qUnVFKicKGFVDTzBEcFZLUjRDSDVFWGdvc2N6OTliQRILUmZqOHByLWpSdUU"
+      "actualEndTime": "2024-06-29T14:43:01Z"
     }
   },
   "y-v0RLGzt8o": {
@@ -7618,6 +7618,16 @@
       "publishedAt": "2024-06-28T23:00:04Z",
       "channelId": "UCO0DpVKR4CH5EXgoscz99bA",
       "title": "No Friends or Allies in Mario Party"
+    }
+  },
+  "y3YRfw_bdxw": {
+    "snippet": {
+      "publishedAt": "2024-06-29T14:45:38Z",
+      "channelId": "UCO0DpVKR4CH5EXgoscz99bA",
+      "title": "Learning Chinese on Duolingo~"
+    },
+    "liveStreamingDetails": {
+      "activeLiveChatId": "Cg0KC3kzWVJmd19iZHh3KicKGFVDTzBEcFZLUjRDSDVFWGdvc2N6OTliQRILeTNZUmZ3X2JkeHc"
     }
   }
 }
