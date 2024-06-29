@@ -4211,10 +4211,12 @@
     "snippet": {
       "publishedAt": "2022-01-19T01:25:40Z",
       "channelId": "UCyl1z3jo3XHR1riLFKG5UAg",
-      "title": "\u2192 CHATROOM  \ud83d\udce2standby for Watson Weekend"
+      "title": "\ud83d\udce2UNARCHIVED KARAOKE~",
+      "private": true
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-25T22:00:00Z",
+      "actualStartTime": "2024-06-26T04:00:34Z",
+      "scheduledStartTime": "2024-06-26T04:00:00Z",
       "activeLiveChatId": "Cg0KC3hjZGxUSDJGWkVvKicKGFVDeWwxejNqbzNYSFIxcmlMRktHNVVBZxILeGNkbFRIMkZaRW8"
     }
   },
@@ -9773,6 +9775,42 @@
       "actualStartTime": "2024-06-17T04:16:06Z",
       "scheduledStartTime": "2024-06-17T04:15:00Z",
       "activeLiveChatId": "Cg0KCzRxMlRKR0hQLUFjKicKGFVDeWwxejNqbzNYSFIxcmlMRktHNVVBZxILNHEyVEpHSFAtQWM"
+    }
+  },
+  "J64XZrfQ-vY": {
+    "snippet": {
+      "publishedAt": "2024-06-26T02:23:23Z",
+      "channelId": "UCyl1z3jo3XHR1riLFKG5UAg",
+      "title": "\u3010ELDEN RING\u3011LETS GET THIS STARTED IN HERE ( \u0361\u00b0 \u035c\u0296 \u0361\u00b0)/ *spoilers*"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T22:00:28Z",
+      "actualEndTime": "2024-06-27T04:37:45Z",
+      "scheduledStartTime": "2024-06-26T22:00:00Z"
+    }
+  },
+  "RSvidli06gs": {
+    "snippet": {
+      "publishedAt": "2024-06-27T13:25:18Z",
+      "channelId": "UCyl1z3jo3XHR1riLFKG5UAg",
+      "title": "\u3010ELDEN RING\u3011\ud83c\udfba\u2218\u02d9\u25cb\u02da.\u2022 DLC time! *spoilers*"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T19:00:12Z",
+      "actualEndTime": "2024-06-27T23:09:58Z",
+      "scheduledStartTime": "2024-06-27T19:00:00Z"
+    }
+  },
+  "wl-0828UpLQ": {
+    "snippet": {
+      "publishedAt": "2024-06-28T20:03:34Z",
+      "channelId": "UCyl1z3jo3XHR1riLFKG5UAg",
+      "title": "\u3010ELDEN RING\u3011\ud83c\udfba\u2218\u02d9\u25cb\u02da.\u2022 MORE DLC Exploring~ *spoilers*"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T23:10:59Z",
+      "actualEndTime": "2024-06-29T04:04:19Z",
+      "scheduledStartTime": "2024-06-28T23:10:00Z"
     }
   }
 }

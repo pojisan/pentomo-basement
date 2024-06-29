@@ -4621,8 +4621,9 @@
       "title": "\u3010Minecraft\u3011First time experience\u3010Yurikago Kokone | V&U\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-25T01:00:00Z",
-      "activeLiveChatId": "Cg0KC3dmMG5pMURHZmxBKicKGFVDQi04bk50aHR1VklabmlxWE55cmhLURILd2YwbmkxREdmbEE"
+      "actualStartTime": "2024-06-25T00:57:06Z",
+      "actualEndTime": "2024-06-25T05:38:12Z",
+      "scheduledStartTime": "2024-06-25T01:00:00Z"
     }
   },
   "lHLIgDYi1x0": {
@@ -4630,6 +4631,41 @@
       "publishedAt": "2024-06-24T22:00:27Z",
       "channelId": "UCB-8nNthtuVIZniqXNyrhKQ",
       "title": "When you only draw hands one way #art #vtuber #shorts"
+    }
+  },
+  "hsGKLjXGfYE": {
+    "snippet": {
+      "publishedAt": "2024-06-25T19:08:31Z",
+      "channelId": "UCB-8nNthtuVIZniqXNyrhKQ",
+      "title": "\u3010Drawing\u3011I need help\u3010Yurikago Kokone | V&U\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-25T23:59:17Z",
+      "actualEndTime": "2024-06-26T03:11:55Z",
+      "scheduledStartTime": "2024-06-26T00:00:00Z"
+    }
+  },
+  "JgkM5rwd-Pw": {
+    "snippet": {
+      "publishedAt": "2024-06-26T04:35:47Z",
+      "channelId": "UCB-8nNthtuVIZniqXNyrhKQ",
+      "title": "\u3010Midsummer Medley\u3011Unarchived Karaoke~! \u590f\u3063\u307d\u3044\u66f2\u6b4c\u3046\u3088\uff5e\uff01\u3010Yurikago Kokone | V&U\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-29T19:20:00Z",
+      "activeLiveChatId": "Cg0KC0pna001cndkLVB3KicKGFVDQi04bk50aHR1VklabmlxWE55cmhLURILSmdrTTVyd2QtUHc"
+    }
+  },
+  "S0sk5mSXScQ": {
+    "snippet": {
+      "publishedAt": "2024-06-28T20:18:39Z",
+      "channelId": "UCB-8nNthtuVIZniqXNyrhKQ",
+      "title": "\u3010Minecraft\u3011F4A Dream Goddess Builds Staircase. No railings!\u3010Yurikago Kokone | V&U\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-29T00:05:53Z",
+      "actualEndTime": "2024-06-29T05:24:21Z",
+      "scheduledStartTime": "2024-06-29T00:00:00Z"
     }
   }
 }

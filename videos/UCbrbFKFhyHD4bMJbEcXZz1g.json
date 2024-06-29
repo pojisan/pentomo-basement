@@ -4086,8 +4086,9 @@
       "title": "\u3010VSMP MINECRAFT\u3011 proximity voice chat in Pixellink Minecraft Server!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-26T12:00:00Z",
-      "activeLiveChatId": "Cg0KC3ZfcXdvd21zOC1ZKicKGFVDYnJiRktGaHlIRDRiTUpiRWNYWnoxZxILdl9xd293bXM4LVk"
+      "actualStartTime": "2024-06-26T12:02:36Z",
+      "actualEndTime": "2024-06-26T14:54:13Z",
+      "scheduledStartTime": "2024-06-26T12:00:00Z"
     }
   },
   "8xrH_zd8shw": {
@@ -4097,8 +4098,9 @@
       "title": "\u3010THE QUARRY\u3011  No more deaths... right?"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-25T12:00:00Z",
-      "activeLiveChatId": "Cg0KCzh4ckhfemQ4c2h3KicKGFVDYnJiRktGaHlIRDRiTUpiRWNYWnoxZxILOHhySF96ZDhzaHc"
+      "actualStartTime": "2024-06-25T12:31:11Z",
+      "actualEndTime": "2024-06-25T14:41:31Z",
+      "scheduledStartTime": "2024-06-25T12:30:00Z"
     }
   },
   "QOsPpzn2ZlI": {
@@ -4111,6 +4113,66 @@
       "actualStartTime": "2024-06-24T12:04:38Z",
       "actualEndTime": "2024-06-24T14:38:59Z",
       "scheduledStartTime": "2024-06-24T12:00:00Z"
+    }
+  },
+  "fVMZsydTj6g": {
+    "snippet": {
+      "publishedAt": "2024-06-26T11:32:01Z",
+      "channelId": "UCbrbFKFhyHD4bMJbEcXZz1g",
+      "title": "\u3010Singing & Piano\u3011 Song Requests on the Piano! (Cloud under the weather!)  #\u6b4c\u67a0"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T12:02:42Z",
+      "actualEndTime": "2024-06-27T15:01:37Z",
+      "scheduledStartTime": "2024-06-27T12:00:00Z"
+    }
+  },
+  "6IFPUMlRMxg": {
+    "snippet": {
+      "publishedAt": "2024-06-26T11:50:36Z",
+      "channelId": "UCbrbFKFhyHD4bMJbEcXZz1g",
+      "title": "\u3010VSMP MINECRAFT\u3011 Spica plays Pixellink Minecraft Server!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-30T12:00:00Z",
+      "activeLiveChatId": "Cg0KCzZJRlBVTWxSTXhnKicKGFVDYnJiRktGaHlIRDRiTUpiRWNYWnoxZxILNklGUFVNbFJNeGc"
+    }
+  },
+  "sHeLDvRx3Zk": {
+    "snippet": {
+      "publishedAt": "2024-06-27T17:20:26Z",
+      "channelId": "UCbrbFKFhyHD4bMJbEcXZz1g",
+      "title": "\u3010CHAINED TOGETHER\u3011  V-Dere Stuck Together Forever!!! \ud83d\udd17 \ud83c\udf51\ud83d\udc9b\ud83d\udc9a\ud83d\udc97"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T13:01:13Z",
+      "actualEndTime": "2024-06-28T15:09:34Z",
+      "scheduledStartTime": "2024-06-28T13:00:00Z"
+    }
+  },
+  "_re1bvPlS0g": {
+    "snippet": {
+      "publishedAt": "2024-06-28T12:20:46Z",
+      "channelId": "UCbrbFKFhyHD4bMJbEcXZz1g",
+      "title": "\u3010CHARITY KARAOKE\u3011 Vtuber Summer Slam! Donating video games to hospitalized kids! #VTuber #\u6b4c\u67a0 #shorts"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-29T12:07:18Z",
+      "actualEndTime": "2024-06-29T12:07:19Z",
+      "scheduledStartTime": "2024-06-29T12:00:00Z",
+      "activeLiveChatId": "Cg0KC19yZTFidlBsUzBnKicKGFVDYnJiRktGaHlIRDRiTUpiRWNYWnoxZxILX3JlMWJ2UGxTMGc"
+    }
+  },
+  "kMCFDikFAm4": {
+    "snippet": {
+      "publishedAt": "2024-06-29T12:07:22Z",
+      "channelId": "UCbrbFKFhyHD4bMJbEcXZz1g",
+      "title": "\u3010CHARITY KARAOKE\u3011 Vtuber Summer Slam! Donating video games to hospitalized kids! #VTuber #\u6b4c\u67a0"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-29T12:07:38Z",
+      "scheduledStartTime": "2024-06-29T12:07:32Z",
+      "activeLiveChatId": "Cg0KC2tNQ0ZEaWtGQW00KicKGFVDYnJiRktGaHlIRDRiTUpiRWNYWnoxZxILa01DRkRpa0ZBbTQ"
     }
   }
 }

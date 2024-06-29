@@ -1438,8 +1438,9 @@
       "title": "\u3010Eternal Return\u3011new waifu game to hyperfixate on \ud83d\udd78\ufe0f \u3010VOLs\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-25T12:00:00Z",
-      "activeLiveChatId": "Cg0KC0xKZl9HejFrbm1nKicKGFVDa3dCUjllNXJDSTJnbW1sUXktYnpmURILTEpmX0d6MWtubWc"
+      "actualStartTime": "2024-06-25T12:59:48Z",
+      "actualEndTime": "2024-06-25T16:57:36Z",
+      "scheduledStartTime": "2024-06-25T13:00:00Z"
     }
   },
   "51AzmH4iMWw": {
@@ -1461,8 +1462,58 @@
       "title": "\u3010League of Legends\u3011ENDURANCE BATSU PART TWO ELECTRIC SPOODALOO \ud83d\udd78\ufe0f \u3010VOLs\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-29T10:00:00Z",
+      "scheduledStartTime": "2024-06-30T10:30:00Z",
       "activeLiveChatId": "Cg0KC2VSYzlyUnlUdUdJKicKGFVDa3dCUjllNXJDSTJnbW1sUXktYnpmURILZVJjOXJSeVR1R0k"
+    }
+  },
+  "6jnNnyG31SQ": {
+    "snippet": {
+      "publishedAt": "2024-06-25T17:42:26Z",
+      "channelId": "UCkwBR9e5rCI2gmmlQy-bzfQ",
+      "title": "\u3010Karaoke\u3011trying to save my idol image  \ud83d\udd78\ufe0f  \u3010VOLs\u3011",
+      "private": true
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T12:44:37Z",
+      "scheduledStartTime": "2024-06-28T12:30:00Z",
+      "activeLiveChatId": "Cg0KCzZqbk5ueUczMVNRKicKGFVDa3dCUjllNXJDSTJnbW1sUXktYnpmURILNmpuTm55RzMxU1E"
+    }
+  },
+  "pg-hgBDjaiQ": {
+    "snippet": {
+      "publishedAt": "2024-06-27T00:43:49Z",
+      "channelId": "UCkwBR9e5rCI2gmmlQy-bzfQ",
+      "title": "\u3010Free Talk\u3011 comfy afternoon \ud83d\udd78\ufe0f \u3010VOLs\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T05:58:07Z",
+      "actualEndTime": "2024-06-27T08:26:16Z",
+      "scheduledStartTime": "2024-06-27T06:00:00Z"
+    }
+  },
+  "NFSnn7tmAG8": {
+    "snippet": {
+      "publishedAt": "2024-06-27T00:54:13Z",
+      "channelId": "UCkwBR9e5rCI2gmmlQy-bzfQ",
+      "title": "\u3010Eternal Return\u3011CHARLOTTE MAIN! Playing with Charlings! \ud83d\udd78\ufe0f \u3010VOLs\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T12:10:10Z",
+      "actualEndTime": "2024-06-27T16:04:28Z",
+      "scheduledStartTime": "2024-06-27T12:15:00Z"
+    }
+  },
+  "mGClWD25TLw": {
+    "snippet": {
+      "publishedAt": "2024-06-27T11:54:48Z",
+      "channelId": "UCkwBR9e5rCI2gmmlQy-bzfQ",
+      "title": "\u3010Palworld\u3011PINK CHILLET UOOOOH \ud83d\udca2\ud83d\udca2 \ud83d\udd78\ufe0f \u3010VOLs\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-29T10:17:10Z",
+      "actualEndTime": "2024-06-29T12:27:28Z",
+      "scheduledStartTime": "2024-06-29T10:30:00Z",
+      "activeLiveChatId": "Cg0KC21HQ2xXRDI1VEx3KicKGFVDa3dCUjllNXJDSTJnbW1sUXktYnpmURILbUdDbFdEMjVUTHc"
     }
   }
 }

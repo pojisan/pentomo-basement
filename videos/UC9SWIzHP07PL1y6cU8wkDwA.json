@@ -1016,8 +1016,9 @@
       "title": "\u3010Octopath Traveler\u3011Getting More Travelers~!!\u3010Yume+ | Mero Umiko\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-28T02:00:00Z",
-      "activeLiveChatId": "Cg0KC0NxX0YyWmJuc2M4KicKGFVDOVNXSXpIUDA3UEwxeTZjVTh3a0R3QRILQ3FfRjJaYm5zYzg"
+      "actualStartTime": "2024-06-28T01:59:32Z",
+      "actualEndTime": "2024-06-28T05:05:22Z",
+      "scheduledStartTime": "2024-06-28T02:00:00Z"
     }
   },
   "QbwlyfSEqdc": {
@@ -1028,8 +1029,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-24T18:01:03Z",
-      "scheduledStartTime": "2024-06-24T15:00:00Z",
-      "activeLiveChatId": "Cg0KC1Fid2x5ZlNFcWRjKicKGFVDOVNXSXpIUDA3UEwxeTZjVTh3a0R3QRILUWJ3bHlmU0VxZGM"
+      "actualEndTime": "2024-06-25T01:26:23Z",
+      "scheduledStartTime": "2024-06-24T15:00:00Z"
     }
   },
   "XR0HewIgiMU": {
@@ -1051,8 +1052,67 @@
       "title": "\u3010League of Legends\u3011why\u3010Yume+ | Mero Umiko\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-25T02:00:00Z",
-      "activeLiveChatId": "Cg0KC0dQRGU1SkhtWmRNKicKGFVDOVNXSXpIUDA3UEwxeTZjVTh3a0R3QRILR1BEZTVKSG1aZE0"
+      "actualStartTime": "2024-06-25T02:01:41Z",
+      "actualEndTime": "2024-06-25T03:43:51Z",
+      "scheduledStartTime": "2024-06-25T02:00:00Z"
+    }
+  },
+  "C4dD8mUlGR8": {
+    "snippet": {
+      "publishedAt": "2024-06-26T13:42:20Z",
+      "channelId": "UC9SWIzHP07PL1y6cU8wkDwA",
+      "title": "\u3010Karaoke\u3011 Autoplay Setlist~!! \u3010Yume+ | Mero Umiko\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T20:00:11Z",
+      "actualEndTime": "2024-06-26T22:17:01Z",
+      "scheduledStartTime": "2024-06-26T20:00:00Z"
+    }
+  },
+  "in6Y1GmyG5E": {
+    "snippet": {
+      "publishedAt": "2024-06-27T13:49:47Z",
+      "channelId": "UC9SWIzHP07PL1y6cU8wkDwA",
+      "title": "\u3010Space for the Unbound: Prologue\u3011 Another Pretty Adventure~!! \u3010Yume+ | Mero Umiko\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T13:59:07Z",
+      "actualEndTime": "2024-06-27T15:10:33Z",
+      "scheduledStartTime": "2024-06-27T14:00:00Z"
+    }
+  },
+  "18M4IKWaRgk": {
+    "snippet": {
+      "publishedAt": "2024-06-27T15:14:23Z",
+      "channelId": "UC9SWIzHP07PL1y6cU8wkDwA",
+      "title": "\u3010Space for the Unbound\u3011 The Adventure Continues~!! \u3010Yume+ | Mero Umiko\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-07-01T14:00:00Z",
+      "activeLiveChatId": "Cg0KCzE4TTRJS1dhUmdrKicKGFVDOVNXSXpIUDA3UEwxeTZjVTh3a0R3QRILMThNNElLV2FSZ2s"
+    }
+  },
+  "C-n0AGqGYpc": {
+    "snippet": {
+      "publishedAt": "2024-06-28T09:35:28Z",
+      "channelId": "UC9SWIzHP07PL1y6cU8wkDwA",
+      "title": "\u3010Apex Legends\u3011PEW PEW w/ @MimosaShirosaki & @raeinclowd \u3010Yume+ | Mero Umiko\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-29T00:57:40Z",
+      "actualEndTime": "2024-06-29T04:21:29Z",
+      "scheduledStartTime": "2024-06-29T01:00:00Z"
+    }
+  },
+  "Jj-J_OXqCbA": {
+    "snippet": {
+      "publishedAt": "2024-06-29T09:33:16Z",
+      "channelId": "UC9SWIzHP07PL1y6cU8wkDwA",
+      "title": "\u3010Zomboid\u3011Endurance Stream 2 :D\u3010Yume+ | Mero Umiko\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-29T18:00:00Z",
+      "activeLiveChatId": "Cg0KC0pqLUpfT1hxQ2JBKicKGFVDOVNXSXpIUDA3UEwxeTZjVTh3a0R3QRILSmotSl9PWHFDYkE"
     }
   }
 }

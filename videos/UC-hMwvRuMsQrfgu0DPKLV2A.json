@@ -8658,8 +8658,9 @@
       "title": "My Oshi Can't Be This Cute + Special Suprise 50K CELEBRATION!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-26T16:00:00Z",
-      "activeLiveChatId": "Cg0KC1lwQnZ0QkZwTjNnKicKGFVDLWhNd3ZSdU1zUXJmZ3UwRFBLTFYyQRILWXBCdnRCRnBOM2c"
+      "actualStartTime": "2024-06-26T15:59:36Z",
+      "actualEndTime": "2024-06-26T18:38:45Z",
+      "scheduledStartTime": "2024-06-26T16:00:00Z"
     }
   },
   "hfmVsUCVz58": {
@@ -8669,8 +8670,16 @@
       "title": "I'm a brat"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-28T16:00:00Z",
-      "activeLiveChatId": "Cg0KC2hmbVZzVUNWejU4KicKGFVDLWhNd3ZSdU1zUXJmZ3UwRFBLTFYyQRILaGZtVnNVQ1Z6NTg"
+      "actualStartTime": "2024-06-28T16:05:30Z",
+      "actualEndTime": "2024-06-28T18:37:18Z",
+      "scheduledStartTime": "2024-06-28T16:00:00Z"
+    }
+  },
+  "FmHbaWjHTOc": {
+    "snippet": {
+      "publishedAt": "2024-06-27T16:00:21Z",
+      "channelId": "UC-hMwvRuMsQrfgu0DPKLV2A",
+      "title": "candy? #shorts #vtuber"
     }
   }
 }

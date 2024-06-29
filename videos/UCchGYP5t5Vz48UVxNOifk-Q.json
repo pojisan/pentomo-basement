@@ -1419,8 +1419,33 @@
       "title": "\u3010MEGA MAN X3 #3\u3011no one can stop Miu..."
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-25T04:00:00Z",
-      "activeLiveChatId": "Cg0KC0I0d0IyRTcwN1Q0KicKGFVDY2hHWVA1dDVWejQ4VVZ4Tk9pZmstURILQjR3QjJFNzA3VDQ"
+      "actualStartTime": "2024-06-25T04:15:03Z",
+      "actualEndTime": "2024-06-25T07:32:56Z",
+      "scheduledStartTime": "2024-06-25T04:14:52Z"
+    }
+  },
+  "KOe5Q9capyU": {
+    "snippet": {
+      "publishedAt": "2024-06-26T01:10:05Z",
+      "channelId": "UCchGYP5t5Vz48UVxNOifk-Q",
+      "title": "\u3010MEGA MAN X3 #4\u3011BEATING UP SIGMA... AGAIN?"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T04:32:25Z",
+      "actualEndTime": "2024-06-26T09:25:31Z",
+      "scheduledStartTime": "2024-06-26T04:32:14Z"
+    }
+  },
+  "Oy_WyFKSd9Q": {
+    "snippet": {
+      "publishedAt": "2024-06-28T16:50:13Z",
+      "channelId": "UCchGYP5t5Vz48UVxNOifk-Q",
+      "title": "IT'S MIU TIME!!!!!!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-29T04:05:40Z",
+      "actualEndTime": "2024-06-29T06:07:11Z",
+      "scheduledStartTime": "2024-06-29T04:05:31Z"
     }
   }
 }

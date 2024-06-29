@@ -4047,7 +4047,7 @@
     "snippet": {
       "publishedAt": "2024-06-17T08:59:00Z",
       "channelId": "UCRlQzuVeYxTDPobPN1jaVkQ",
-      "title": "\u3016This Week's Schedule\u3017July 17 - 23\u3016Cyon \u2765 V&U\u3017"
+      "title": "\u3016This Week's Schedule\u3017July 24 - 30\u3016Cyon \u2765 V&U\u3017"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2026-06-17T08:50:00Z",
@@ -4106,23 +4106,24 @@
     "snippet": {
       "publishedAt": "2024-06-20T11:24:43Z",
       "channelId": "UCRlQzuVeYxTDPobPN1jaVkQ",
-      "title": "\u3016Minecraft VSMP\u3017...who could have guessed XD\u3016Cyon \u2765 V&U\u3017",
-      "private": true
+      "title": "\u3016Minecraft VSMP\u3017...who could have guessed XD\u3016Cyon \u2765 V&U\u3017"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-25T08:00:00Z",
-      "activeLiveChatId": "Cg0KCzBUZEo3eXJyblpRKicKGFVDUmxRenVWZVl4VERQb2JQTjFqYVZrURILMFRkSjd5cnJuWlE"
+      "actualStartTime": "2024-06-27T08:00:27Z",
+      "actualEndTime": "2024-06-27T11:30:01Z",
+      "scheduledStartTime": "2024-06-27T08:00:00Z"
     }
   },
   "soDpjvdcqLI": {
     "snippet": {
       "publishedAt": "2024-06-20T11:23:45Z",
       "channelId": "UCRlQzuVeYxTDPobPN1jaVkQ",
-      "title": "\u3016soft read | ASMR\u3017Beaming at least 1 new thing into your earholes :3\u3016Cyon \u2765 V&U\u3017"
+      "title": "\u3016soft read | ASMR\u3017Why was this all about ways people were ended? owo\u3016Cyon \u2765 V&U\u3017"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-26T08:00:00Z",
-      "activeLiveChatId": "Cg0KC3NvRHBqdmRjcUxJKicKGFVDUmxRenVWZVl4VERQb2JQTjFqYVZrURILc29EcGp2ZGNxTEk"
+      "actualStartTime": "2024-06-26T08:02:04Z",
+      "actualEndTime": "2024-06-26T11:23:26Z",
+      "scheduledStartTime": "2024-06-26T08:00:00Z"
     }
   },
   "NASwB6aZ--8": {
@@ -4135,6 +4136,41 @@
       "actualStartTime": "2024-06-22T08:09:35Z",
       "actualEndTime": "2024-06-22T11:50:44Z",
       "scheduledStartTime": "2024-06-22T08:00:00Z"
+    }
+  },
+  "XK0u-4hP6aQ": {
+    "snippet": {
+      "publishedAt": "2024-06-26T12:29:38Z",
+      "channelId": "UCRlQzuVeYxTDPobPN1jaVkQ",
+      "title": "\u3016Midsummer Medley\u3017Unarchived Karaoke relay but the vtuber is sick?! D:\u3016Cyon \u2765 V&U\u3017"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-29T19:40:00Z",
+      "activeLiveChatId": "Cg0KC1hLMHUtNGhQNmFRKicKGFVDUmxRenVWZVl4VERQb2JQTjFqYVZrURILWEswdS00aFA2YVE"
+    }
+  },
+  "bJTLYgtTcV0": {
+    "snippet": {
+      "publishedAt": "2024-06-26T12:27:17Z",
+      "channelId": "UCRlQzuVeYxTDPobPN1jaVkQ",
+      "title": "\u3016Beholder 2\u3017Upwards and onwards to glory!\u3016Cyon \u2765 V&U\u3017",
+      "private": true
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-27T08:00:00Z",
+      "activeLiveChatId": "Cg0KC2JKVExZZ3RUY1YwKicKGFVDUmxRenVWZVl4VERQb2JQTjFqYVZrURILYkpUTFlndFRjVjA"
+    }
+  },
+  "afwYhF9PyYc": {
+    "snippet": {
+      "publishedAt": "2024-06-27T14:55:54Z",
+      "channelId": "UCRlQzuVeYxTDPobPN1jaVkQ",
+      "title": "\u3016Minecraft VSMP\u3017Daiya time! Cute girls and blocks ehehe\u3016Cyon \u2765 V&U\u3017",
+      "private": true
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-28T04:00:00Z",
+      "activeLiveChatId": "Cg0KC2Fmd1loRjlQeVljKicKGFVDUmxRenVWZVl4VERQb2JQTjFqYVZrURILYWZ3WWhGOVB5WWM"
     }
   }
 }

@@ -1927,8 +1927,9 @@
       "title": "\u3010ASMR/3DIO\u3011there, there \u2665 it'll be okay~\u3010Kou Mariya | V4Mirai | ENVtuber\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-25T04:00:00Z",
-      "activeLiveChatId": "Cg0KC1Y4bk1kSkJUY2R3KicKGFVDcXlMMG9CMmpsLTVHcFNnLUdXWl9ndxILVjhuTWRKQlRjZHc"
+      "actualStartTime": "2024-06-25T04:04:40Z",
+      "actualEndTime": "2024-06-25T05:02:20Z",
+      "scheduledStartTime": "2024-06-25T04:00:00Z"
     }
   },
   "6xWzd_DEv6U": {
@@ -1950,7 +1951,7 @@
       "title": "\u3010\u6b4c\u67a0\u3011GOOD-BYE KARAOKE!!~\u3010Kou Mariya | V4Mirai | ENVtuber\u3011#shortsfeed #shorts"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-29T22:00:00Z",
+      "scheduledStartTime": "2024-07-01T01:00:00Z",
       "activeLiveChatId": "Cg0KC1RVUzRUWjFCZW5FKicKGFVDcXlMMG9CMmpsLTVHcFNnLUdXWl9ndxILVFVTNFRaMUJlbkU"
     }
   },
@@ -1961,8 +1962,21 @@
       "title": "\u3010VSMP Minecraft\u3011we're digging a hole\u3010Kou Mariya | VTuber | V4Mirai\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-28T22:00:00Z",
-      "activeLiveChatId": "Cg0KCzY1YnU1SE1pcjlJKicKGFVDcXlMMG9CMmpsLTVHcFNnLUdXWl9ndxILNjVidTVITWlyOUk"
+      "actualStartTime": "2024-06-28T19:05:38Z",
+      "actualEndTime": "2024-06-28T21:56:42Z",
+      "scheduledStartTime": "2024-06-28T19:00:00Z"
+    }
+  },
+  "EbusIaSEjLA": {
+    "snippet": {
+      "publishedAt": "2024-06-26T17:36:51Z",
+      "channelId": "UCqyL0oB2jl-5GpSg-GWZ_gw",
+      "title": "??? \u2014 Cover by Mariya"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-07-01T02:00:00Z",
+      "activeLiveChatId": "Cg0KC0VidXNJYVNFakxBKicKGFVDcXlMMG9CMmpsLTVHcFNnLUdXWl9ndxILRWJ1c0lhU0VqTEE",
+      "premiere": true
     }
   }
 }

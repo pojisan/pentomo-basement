@@ -1156,8 +1156,40 @@
       "title": "\u3010AMONG US\u3011VALLURE x YUME+ sus competition\u3010Yume Plus | Rhea Nevermore\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-26T00:00:00Z",
-      "activeLiveChatId": "Cg0KC2M0cFJKbXJab1VzKicKGFVDSUlkMmJBM0JzQmVCQjgwYmR3TnM0URILYzRwUkptclpvVXM"
+      "actualStartTime": "2024-06-26T00:02:38Z",
+      "actualEndTime": "2024-06-26T02:15:28Z",
+      "scheduledStartTime": "2024-06-26T00:00:00Z"
+    }
+  },
+  "99UTF6tXjAE": {
+    "snippet": {
+      "publishedAt": "2024-06-25T01:23:28Z",
+      "channelId": "UCIId2bA3BsBeBB80bdwNs4Q",
+      "title": "\u3010VALORANT\u3011Iron 2 gameplay I know I know PRO MOVES\u3010Yume Plus | Rhea Nevermore\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T22:01:12Z",
+      "actualEndTime": "2024-06-27T01:33:48Z",
+      "scheduledStartTime": "2024-06-26T22:00:00Z"
+    }
+  },
+  "_HZMjcEjFm8": {
+    "snippet": {
+      "publishedAt": "2024-06-26T19:00:16Z",
+      "channelId": "UCIId2bA3BsBeBB80bdwNs4Q",
+      "title": "this vtuber said WHAT?!?!?!"
+    }
+  },
+  "_v7uLrrNlRo": {
+    "snippet": {
+      "publishedAt": "2024-06-28T20:58:26Z",
+      "channelId": "UCIId2bA3BsBeBB80bdwNs4Q",
+      "title": "\u3010IDENTITY V\u3011Playing with chat so go on and join !!!\u3010Yume Plus | Rhea Nevermore\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T22:02:13Z",
+      "actualEndTime": "2024-06-29T00:00:46Z",
+      "scheduledStartTime": "2024-06-28T22:00:00Z"
     }
   }
 }

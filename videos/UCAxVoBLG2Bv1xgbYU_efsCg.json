@@ -555,8 +555,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-24T23:59:24Z",
-      "scheduledStartTime": "2024-06-25T00:00:00Z",
-      "activeLiveChatId": "Cg0KC25kSVJuRnh5NVhNKicKGFVDQXhWb0JMRzJCdjF4Z2JZVV9lZnNDZxILbmRJUm5GeHk1WE0"
+      "actualEndTime": "2024-06-25T02:27:38Z",
+      "scheduledStartTime": "2024-06-25T00:00:00Z"
     }
   },
   "ijlI7nDO3ww": {
@@ -564,6 +564,90 @@
       "publishedAt": "2024-06-24T21:30:06Z",
       "channelId": "UCAxVoBLG2Bv1xgbYU_efsCg",
       "title": "The VTuber Master Plan #VSMP  #daiyafortuna  #minecraft #vtuberclips"
+    }
+  },
+  "hcNWDzyfKLA": {
+    "snippet": {
+      "publishedAt": "2024-06-25T02:26:37Z",
+      "channelId": "UCAxVoBLG2Bv1xgbYU_efsCg",
+      "title": "MINE TIME MINE TIME [PIXEL VSMP]"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-25T02:29:13Z",
+      "actualEndTime": "2024-06-25T06:18:11Z",
+      "scheduledStartTime": "2024-06-25T02:25:00Z"
+    }
+  },
+  "ECuSndmhCFs": {
+    "snippet": {
+      "publishedAt": "2024-06-25T07:43:59Z",
+      "channelId": "UCAxVoBLG2Bv1xgbYU_efsCg",
+      "title": "1 Month Anniversary?! Already!? ((Q+A and Blackjack HANDCAM))"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-25T23:58:46Z",
+      "actualEndTime": "2024-06-26T03:53:27Z",
+      "scheduledStartTime": "2024-06-26T00:00:00Z"
+    }
+  },
+  "821lwlTyUhU": {
+    "snippet": {
+      "publishedAt": "2024-06-26T16:28:53Z",
+      "channelId": "UCAxVoBLG2Bv1xgbYU_efsCg",
+      "title": "Working 9-5 for the Company with PixelChron and Raki!\u3010Lethal Company\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T17:02:07Z",
+      "actualEndTime": "2024-06-26T19:16:45Z",
+      "scheduledStartTime": "2024-06-26T17:00:00Z"
+    }
+  },
+  "fHWpQ00cERc": {
+    "snippet": {
+      "publishedAt": "2024-06-26T16:43:45Z",
+      "channelId": "UCAxVoBLG2Bv1xgbYU_efsCg",
+      "title": "I GOTTA START MY BUILD!! ACTUALLY THIS TIME!!! [PIXEL VSMP]"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T19:18:42Z",
+      "actualEndTime": "2024-06-26T22:14:55Z",
+      "scheduledStartTime": "2024-06-26T19:00:00Z"
+    }
+  },
+  "C0CDhwo6dV4": {
+    "snippet": {
+      "publishedAt": "2024-06-27T22:47:30Z",
+      "channelId": "UCAxVoBLG2Bv1xgbYU_efsCg",
+      "title": "Don't be Suspicious...!\u3010GOOSE GOOSE DUCK COLLAB\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T00:58:28Z",
+      "actualEndTime": "2024-06-28T03:36:13Z",
+      "scheduledStartTime": "2024-06-28T01:00:00Z"
+    }
+  },
+  "NHRWhZm3O28": {
+    "snippet": {
+      "publishedAt": "2024-06-28T00:07:32Z",
+      "channelId": "UCAxVoBLG2Bv1xgbYU_efsCg",
+      "title": "SO WE BACK IN THE MINES [PIXEL VSMP]"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T03:37:17Z",
+      "actualEndTime": "2024-06-28T05:43:42Z",
+      "scheduledStartTime": "2024-06-28T04:00:00Z"
+    }
+  },
+  "XEMgnE6VGZc": {
+    "snippet": {
+      "publishedAt": "2024-06-28T05:55:24Z",
+      "channelId": "UCAxVoBLG2Bv1xgbYU_efsCg",
+      "title": "Hehe Spear go Brrr\u3010Hades 2\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-29T01:58:17Z",
+      "actualEndTime": "2024-06-29T06:13:40Z",
+      "scheduledStartTime": "2024-06-29T02:00:00Z"
     }
   }
 }

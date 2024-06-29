@@ -228,8 +228,9 @@
       "title": "\u3010POPPYPLAYTIME\u3011WHAT IS THAT THING?!?! Get me out of this factory! | #EmiBLive"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-25T18:00:00Z",
-      "activeLiveChatId": "Cg0KC2FHeVVqZWZFQjcwKicKGFVDUXI5QTlFeERLWXkyd3h1MFJrQzRVZxILYUd5VWplZkVCNzA"
+      "actualStartTime": "2024-06-25T18:30:32Z",
+      "actualEndTime": "2024-06-25T23:03:05Z",
+      "scheduledStartTime": "2024-06-25T18:30:25Z"
     }
   },
   "o40vMxgG4Pw": {
@@ -240,8 +241,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-24T23:31:04Z",
-      "scheduledStartTime": "2024-06-24T23:30:56Z",
-      "activeLiveChatId": "Cg0KC280MHZNeGdHNFB3KicKGFVDUXI5QTlFeERLWXkyd3h1MFJrQzRVZxILbzQwdk14Z0c0UHc"
+      "actualEndTime": "2024-06-25T02:59:49Z",
+      "scheduledStartTime": "2024-06-24T23:30:56Z"
     }
   },
   "2FBZUKj9Z5w": {
@@ -251,8 +252,9 @@
       "title": "\u3010UNARCHIVED\u3011Karaoke but... Minecraft parodies??? | #EmiBLive"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-27T17:00:00Z",
-      "activeLiveChatId": "Cg0KCzJGQlpVS2o5WjV3KicKGFVDUXI5QTlFeERLWXkyd3h1MFJrQzRVZxILMkZCWlVLajlaNXc"
+      "actualStartTime": "2024-06-27T17:00:56Z",
+      "actualEndTime": "2024-06-27T18:49:02Z",
+      "scheduledStartTime": "2024-06-27T17:00:50Z"
     }
   },
   "-RNNbdYfmzc": {
@@ -262,8 +264,32 @@
       "title": "\u3010UNDERTALE\u3011So far under who knows if we'll get out | #EmiBLive"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-26T23:00:00Z",
-      "activeLiveChatId": "Cg0KCy1STk5iZFlmbXpjKicKGFVDUXI5QTlFeERLWXkyd3h1MFJrQzRVZxILLVJOTmJkWWZtemM"
+      "actualStartTime": "2024-06-26T23:00:54Z",
+      "actualEndTime": "2024-06-27T04:11:26Z",
+      "scheduledStartTime": "2024-06-26T23:00:47Z"
+    }
+  },
+  "C7vEfpIRizg": {
+    "snippet": {
+      "publishedAt": "2024-06-27T20:29:31Z",
+      "channelId": "UCQr9A9ExDKYy2wxu0RkC4Ug",
+      "title": "\u3010TROMBONE CHAMP\u3011The best trombone-er around town\ud83d\ude0e | #EmiBLive"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T22:59:39Z",
+      "actualEndTime": "2024-06-29T01:11:10Z",
+      "scheduledStartTime": "2024-06-28T22:59:30Z"
+    }
+  },
+  "uLrr16dBoNs": {
+    "snippet": {
+      "publishedAt": "2024-06-27T20:33:09Z",
+      "channelId": "UCQr9A9ExDKYy2wxu0RkC4Ug",
+      "title": "\u3010THE QUARRY\u3011I LOVE THIS GAME BUT IT SCARES ME TOO | #EmiBLive"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-29T17:00:00Z",
+      "activeLiveChatId": "Cg0KC3VMcnIxNmRCb05zKicKGFVDUXI5QTlFeERLWXkyd3h1MFJrQzRVZxILdUxycjE2ZEJvTnM"
     }
   }
 }

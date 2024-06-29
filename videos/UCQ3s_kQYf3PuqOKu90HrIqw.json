@@ -834,7 +834,8 @@
     "snippet": {
       "publishedAt": "2024-06-23T17:19:35Z",
       "channelId": "UCQ3s_kQYf3PuqOKu90HrIqw",
-      "title": "\u3010MineCraft\u3011Mage Tower Build pt.3\u3010globie 2nd Gen - Equinnox\u3011"
+      "title": "\u3010MineCraft\u3011Mage Tower Build pt.3\u3010globie 2nd Gen - Equinnox\u3011",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-25T16:00:00Z",
@@ -850,8 +851,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-24T16:01:28Z",
       "actualEndTime": "2024-06-24T18:58:55Z",
-      "scheduledStartTime": "2024-06-24T16:00:00Z",
-      "activeLiveChatId": "Cg0KC09lMHJWSVZJMUE0KicKGFVDUTNzX2tRWWYzUHVxT0t1OTBIcklxdxILT2UwclZJVkkxQTQ"
+      "scheduledStartTime": "2024-06-24T16:00:00Z"
     }
   },
   "PyyO9jLxro4": {
@@ -861,8 +861,9 @@
       "title": "\u3010MONETIZATION\u3011Memberships Open! Let's Party!!!\u3010globie 2nd Gen - Equinnox\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-26T16:00:00Z",
-      "activeLiveChatId": "Cg0KC1B5eU85akx4cm80KicKGFVDUTNzX2tRWWYzUHVxT0t1OTBIcklxdxILUHl5TzlqTHhybzQ"
+      "actualStartTime": "2024-06-26T16:00:26Z",
+      "actualEndTime": "2024-06-26T20:05:15Z",
+      "scheduledStartTime": "2024-06-26T16:00:00Z"
     }
   },
   "wZE9x4BDnmo": {
@@ -872,8 +873,9 @@
       "title": "\u3010Fall Guys\u3011Battlepass Grinding Time!\u3010globie 2nd Gen - Equinnox\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-27T16:00:00Z",
-      "activeLiveChatId": "Cg0KC3daRTl4NEJEbm1vKicKGFVDUTNzX2tRWWYzUHVxT0t1OTBIcklxdxILd1pFOXg0QkRubW8"
+      "actualStartTime": "2024-06-27T16:14:19Z",
+      "actualEndTime": "2024-06-27T19:02:12Z",
+      "scheduledStartTime": "2024-06-27T16:00:00Z"
     }
   },
   "aYVLsWGRT8w": {
@@ -894,8 +896,9 @@
       "title": "\u3010Mario Kart 8 Deluxe\u3011BRING IT ON HYOUMIES\u3010globie 2nd Gen - Equinnox\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-28T16:00:00Z",
-      "activeLiveChatId": "Cg0KC3VRWndIcmU5ak1BKicKGFVDUTNzX2tRWWYzUHVxT0t1OTBIcklxdxILdVFad0hyZTlqTUE"
+      "actualStartTime": "2024-06-28T17:00:02Z",
+      "actualEndTime": "2024-06-28T19:34:35Z",
+      "scheduledStartTime": "2024-06-28T17:00:00Z"
     }
   }
 }

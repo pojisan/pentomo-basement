@@ -1108,8 +1108,9 @@
       "title": "\u3010Goal Crochet\u3011Crocheting a Baby Godzilla"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-25T13:00:00Z",
-      "activeLiveChatId": "Cg0KCzhyVTZCUTlQaU13KicKGFVDazB2dXd3c21fVVFISElPZ0d2eFUtQRILOHJVNkJROVBpTXc"
+      "actualStartTime": "2024-06-25T12:59:33Z",
+      "actualEndTime": "2024-06-25T15:50:38Z",
+      "scheduledStartTime": "2024-06-25T13:00:00Z"
     }
   },
   "ebG2gjx0FCo": {
@@ -1197,6 +1198,7 @@
       "title": "\u3010Member Watchalong\u3011JAWS (1975)"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-29T12:59:37Z",
       "scheduledStartTime": "2024-06-29T13:00:00Z",
       "activeLiveChatId": "Cg0KC1R2NXQ4bi1UMGtZKicKGFVDazB2dXd3c21fVVFISElPZ0d2eFUtQRILVHY1dDhuLVQwa1k"
     }
@@ -1208,8 +1210,9 @@
       "title": "\u3010Minecraft\u3011Playing in VSMP Server!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-28T13:00:00Z",
-      "activeLiveChatId": "Cg0KC2ZHNEFwNjNOcEpBKicKGFVDazB2dXd3c21fVVFISElPZ0d2eFUtQRILZkc0QXA2M05wSkE"
+      "actualStartTime": "2024-06-28T13:00:53Z",
+      "actualEndTime": "2024-06-28T16:07:16Z",
+      "scheduledStartTime": "2024-06-28T13:00:00Z"
     }
   },
   "M3vL8FBxnZs": {
@@ -1219,8 +1222,16 @@
       "title": "\u3010Pokemon Legends: Arceus\u3011Gotta Catch'em all"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-27T13:00:00Z",
-      "activeLiveChatId": "Cg0KC00zdkw4RkJ4blpzKicKGFVDazB2dXd3c21fVVFISElPZ0d2eFUtQRILTTN2TDhGQnhuWnM"
+      "actualStartTime": "2024-06-27T13:00:24Z",
+      "actualEndTime": "2024-06-27T15:39:31Z",
+      "scheduledStartTime": "2024-06-27T13:00:00Z"
+    }
+  },
+  "vAukDQbql70": {
+    "snippet": {
+      "publishedAt": "2024-06-26T12:00:57Z",
+      "channelId": "UCk0vuwwsm_UQHHIOgGvxU-A",
+      "title": "Vtubing is so dayum good man #vtuber #indie #softvoice #lidaoriana"
     }
   }
 }

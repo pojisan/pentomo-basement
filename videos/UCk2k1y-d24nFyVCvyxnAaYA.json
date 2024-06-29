@@ -3348,8 +3348,33 @@
       "title": "I SURVIVED!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-25T23:00:00Z",
-      "activeLiveChatId": "Cg0KCzdGZEdGNEZIRE5VKicKGFVDazJrMXktZDI0bkZ5VkN2eXhuQWFZQRILN0ZkR0Y0RkhETlU"
+      "actualStartTime": "2024-06-25T23:02:24Z",
+      "actualEndTime": "2024-06-26T01:07:59Z",
+      "scheduledStartTime": "2024-06-25T23:02:00Z"
+    }
+  },
+  "oIjCpHkfTks": {
+    "snippet": {
+      "publishedAt": "2024-06-26T19:53:26Z",
+      "channelId": "UCk2k1y-d24nFyVCvyxnAaYA",
+      "title": "i forced my friends to play MINECRAFT"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T22:49:49Z",
+      "actualEndTime": "2024-06-27T05:03:19Z",
+      "scheduledStartTime": "2024-06-26T23:00:00Z"
+    }
+  },
+  "ffh8S9ULXkY": {
+    "snippet": {
+      "publishedAt": "2024-06-27T19:54:58Z",
+      "channelId": "UCk2k1y-d24nFyVCvyxnAaYA",
+      "title": "drawing YOUR requests!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T23:01:37Z",
+      "actualEndTime": "2024-06-29T07:50:53Z",
+      "scheduledStartTime": "2024-06-28T23:00:00Z"
     }
   }
 }

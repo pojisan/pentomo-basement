@@ -2463,5 +2463,41 @@
       "actualEndTime": "2024-06-23T07:36:48Z",
       "scheduledStartTime": "2024-06-23T05:00:00Z"
     }
+  },
+  "Q7IF_6X-Z50": {
+    "snippet": {
+      "publishedAt": "2024-06-25T03:13:38Z",
+      "channelId": "UC4amMWqtAfoTYUGqzy1_Z5Q",
+      "title": "\u3010 VALORANT \u3011Ranked Before the New Act! Solo Queue\u3010 VOLS \u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-25T03:28:18Z",
+      "actualEndTime": "2024-06-25T05:37:18Z",
+      "scheduledStartTime": "2024-06-25T05:30:00Z"
+    }
+  },
+  "RNz9r2Kc0Zw": {
+    "snippet": {
+      "publishedAt": "2024-06-28T05:59:22Z",
+      "channelId": "UC4amMWqtAfoTYUGqzy1_Z5Q",
+      "title": "\u3010 VALORANT \u2192  Dead by Daylight \u3011GORILLA 2 HORROR GAMES BTW\u3010 VOLS \u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T06:04:19Z",
+      "actualEndTime": "2024-06-28T08:58:28Z",
+      "scheduledStartTime": "2024-06-28T06:00:00Z"
+    }
+  },
+  "Ao8Bw2YchLQ": {
+    "snippet": {
+      "publishedAt": "2024-06-28T12:31:18Z",
+      "channelId": "UC4amMWqtAfoTYUGqzy1_Z5Q",
+      "title": "\u3010 1st Anniversary \u3011YOUR FAVORITE DATA ENTITY - COME CELEBRATE WITH ME! \u3010 VOLS \u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-29T12:14:48Z",
+      "scheduledStartTime": "2024-06-29T12:00:00Z",
+      "activeLiveChatId": "Cg0KC0FvOEJ3MlljaExRKicKGFVDNGFtTVdxdEFmb1RZVUdxenkxX1o1URILQW84QncyWWNoTFE"
+    }
   }
 }

@@ -1259,7 +1259,8 @@
     "snippet": {
       "publishedAt": "2023-11-29T18:13:53Z",
       "channelId": "UCJ46YTYBQVXsfsp8-HryoUA",
-      "title": "\ud83d\uded2LIMITED 333k Merch Timer"
+      "title": "\ud83d\uded2LIMITED 333k Merch Timer",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-23T06:45:00Z",
@@ -9489,6 +9490,64 @@
       "actualStartTime": "2024-06-23T01:00:32Z",
       "actualEndTime": "2024-06-23T03:18:26Z",
       "scheduledStartTime": "2024-06-23T01:00:00Z"
+    }
+  },
+  "GXvB6qN0GC0": {
+    "snippet": {
+      "publishedAt": "2024-06-25T22:11:49Z",
+      "channelId": "UCJ46YTYBQVXsfsp8-HryoUA",
+      "title": "ranting about anime"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T01:01:12Z",
+      "actualEndTime": "2024-06-26T04:27:23Z",
+      "scheduledStartTime": "2024-06-26T01:00:00Z"
+    }
+  },
+  "18VOKhc0xF4": {
+    "snippet": {
+      "publishedAt": "2024-06-27T21:08:53Z",
+      "channelId": "UCJ46YTYBQVXsfsp8-HryoUA",
+      "title": "is this really the WORST visual novel?"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T01:01:31Z",
+      "actualEndTime": "2024-06-28T04:15:50Z",
+      "scheduledStartTime": "2024-06-28T01:00:00Z"
+    }
+  },
+  "_1E7CypIGSA": {
+    "snippet": {
+      "publishedAt": "2024-06-28T05:14:22Z",
+      "channelId": "UCJ46YTYBQVXsfsp8-HryoUA",
+      "title": "1 SCARE = 1 SHOT || Vtuber Gin & Vtuber Horror || Ruby's Vitten Party"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-29T01:01:01Z",
+      "actualEndTime": "2024-06-29T01:51:27Z",
+      "scheduledStartTime": "2024-06-29T01:00:00Z"
+    }
+  },
+  "WHxco51MyDg": {
+    "snippet": {
+      "publishedAt": "2024-06-28T05:37:29Z",
+      "channelId": "UCJ46YTYBQVXsfsp8-HryoUA",
+      "title": "the return || Katawa Shoujo Part 9\u3010Phase-Connect\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-07-06T01:00:00Z",
+      "activeLiveChatId": "Cg0KC1dIeGNvNTFNeURnKicKGFVDSjQ2WVRZQlFWWHNmc3A4LUhyeW9VQRILV0h4Y281MU15RGc"
+    }
+  },
+  "deuBxVKIIyU": {
+    "snippet": {
+      "publishedAt": "2024-06-28T23:14:17Z",
+      "channelId": "UCJ46YTYBQVXsfsp8-HryoUA",
+      "title": "How to be a Vtuber on a Budget"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-07-07T01:00:00Z",
+      "activeLiveChatId": "Cg0KC2RldUJ4VktJSXlVKicKGFVDSjQ2WVRZQlFWWHNmc3A4LUhyeW9VQRILZGV1QnhWS0lJeVU"
     }
   }
 }

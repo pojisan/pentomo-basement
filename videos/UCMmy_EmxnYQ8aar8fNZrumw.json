@@ -1313,8 +1313,9 @@
       "title": "\u3010Watch Dogs\u3011IM IN YOUR IP"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-22T08:00:00Z",
-      "activeLiveChatId": "Cg0KC19VS251R3dhMkhvKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILX1VLbnVHd2EySG8"
+      "actualStartTime": "2024-06-26T13:37:46Z",
+      "actualEndTime": "2024-06-26T17:05:16Z",
+      "scheduledStartTime": "2024-06-22T08:00:00Z"
     }
   },
   "D8dtgPom9qc": {
@@ -1372,8 +1373,9 @@
       "title": "\u3010The Abduction\u3011kidnapping @ShabelTonya"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-25T17:00:00Z",
-      "activeLiveChatId": "Cg0KC255aWt1NGo1elFvKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILbnlpa3U0ajV6UW8"
+      "actualStartTime": "2024-06-25T18:05:07Z",
+      "actualEndTime": "2024-06-25T20:24:10Z",
+      "scheduledStartTime": "2024-06-25T17:00:00Z"
     }
   },
   "SqJlA4LEpIU": {
@@ -1395,8 +1397,9 @@
       "title": "\u3010The Abduction\u3011kidnapping @SheeIchoKawaii"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-27T14:00:00Z",
-      "activeLiveChatId": "Cg0KCzI2dFpZQ2d6X1U4KicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILMjZ0WllDZ3pfVTg"
+      "actualStartTime": "2024-06-27T14:07:21Z",
+      "actualEndTime": "2024-06-27T15:39:45Z",
+      "scheduledStartTime": "2024-06-27T14:00:00Z"
     }
   },
   "DpQm5uVoL1I": {
@@ -1406,8 +1409,9 @@
       "title": "\u3010The Expanse\u3011 Impossible Objects"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-26T11:00:00Z",
-      "activeLiveChatId": "Cg0KC0RwUW01dVZvTDFJKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILRHBRbTV1Vm9MMUk"
+      "actualStartTime": "2024-06-26T12:06:10Z",
+      "actualEndTime": "2024-06-26T13:33:56Z",
+      "scheduledStartTime": "2024-06-26T12:00:00Z"
     }
   },
   "R8TGFwczh0Y": {
@@ -1417,8 +1421,9 @@
       "title": "\u3010Dead Island\u3011getting off this place"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-27T17:00:00Z",
-      "activeLiveChatId": "Cg0KC1I4VEdGd2N6aDBZKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILUjhUR0Z3Y3poMFk"
+      "actualStartTime": "2024-06-27T18:12:14Z",
+      "actualEndTime": "2024-06-27T20:11:11Z",
+      "scheduledStartTime": "2024-06-27T18:00:00Z"
     }
   },
   "E8KA442WeHE": {
@@ -1428,8 +1433,9 @@
       "title": "\u3010Watch Dogs\u3011watch cats"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-25T08:00:00Z",
-      "activeLiveChatId": "Cg0KC0U4S0E0NDJXZUhFKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILRThLQTQ0MldlSEU"
+      "actualStartTime": "2024-06-25T08:17:05Z",
+      "actualEndTime": "2024-06-25T12:14:54Z",
+      "scheduledStartTime": "2024-06-25T08:00:00Z"
     }
   },
   "mGMRDFzvXq0": {
@@ -1442,6 +1448,18 @@
       "actualStartTime": "2024-06-23T12:11:54Z",
       "actualEndTime": "2024-06-23T13:48:22Z",
       "scheduledStartTime": "2024-06-23T12:00:00Z"
+    }
+  },
+  "yxiCdifz46c": {
+    "snippet": {
+      "publishedAt": "2024-06-25T20:28:04Z",
+      "channelId": "UCMmy_EmxnYQ8aar8fNZrumw",
+      "title": "\u3010The Abduction\u3011kidnapping @RubyRuneheart"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T08:13:07Z",
+      "actualEndTime": "2024-06-26T10:29:50Z",
+      "scheduledStartTime": "2024-06-26T08:00:00Z"
     }
   }
 }

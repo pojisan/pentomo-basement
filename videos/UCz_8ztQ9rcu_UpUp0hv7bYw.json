@@ -1915,12 +1915,12 @@
     "snippet": {
       "publishedAt": "2024-06-09T22:31:33Z",
       "channelId": "UCz_8ztQ9rcu_UpUp0hv7bYw",
-      "title": "\u3010 VERTICAL ZATSU \u96d1\u8ac7 \u3011 Late Night Chatting #shorts",
-      "private": true
+      "title": "\u3010 VERTICAL ZATSU \u96d1\u8ac7 \u3011 Evening Chatting #shorts"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-16T14:00:00Z",
-      "activeLiveChatId": "Cg0KC1B5Z0dNcmw2S3E0KicKGFVDel84enRROXJjdV9VcFVwMGh2N2JZdxILUHlnR01ybDZLcTQ"
+      "actualStartTime": "2024-06-27T21:00:18Z",
+      "actualEndTime": "2024-06-27T23:24:33Z",
+      "scheduledStartTime": "2024-06-27T21:00:00Z"
     }
   },
   "-RuBCVMKcxk": {
@@ -1942,6 +1942,36 @@
       "publishedAt": "2024-06-24T20:00:03Z",
       "channelId": "UCz_8ztQ9rcu_UpUp0hv7bYw",
       "title": "\u3010 3Dio ASMR \u3011 THIGH CUPPING | THIGH MASSAGE | OIL | NO TALKING"
+    }
+  },
+  "D_TtAp0rUug": {
+    "snippet": {
+      "publishedAt": "2024-06-28T15:51:53Z",
+      "channelId": "UCz_8ztQ9rcu_UpUp0hv7bYw",
+      "title": "\u3010 PUTT-PUTT JOINS THE PARADE \u3011 Am I even smart enough for point-and-click?? \u3010 EIEN Project \u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T19:00:30Z",
+      "actualEndTime": "2024-06-28T21:18:19Z",
+      "scheduledStartTime": "2024-06-28T19:00:00Z"
+    }
+  },
+  "P40MyDBuPj8": {
+    "snippet": {
+      "publishedAt": "2024-06-29T04:00:14Z",
+      "channelId": "UCz_8ztQ9rcu_UpUp0hv7bYw",
+      "title": "VTuber Distracted by Quality ART #shorts"
+    }
+  },
+  "h_QnSFghTYg": {
+    "snippet": {
+      "publishedAt": "2024-06-29T04:46:27Z",
+      "channelId": "UCz_8ztQ9rcu_UpUp0hv7bYw",
+      "title": "\u3010 BUCKSHOT ROULETTE \u3011 I failed mat :) \u3010 EIEN Project \u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-29T19:00:00Z",
+      "activeLiveChatId": "Cg0KC2hfUW5TRmdoVFlnKicKGFVDel84enRROXJjdV9VcFVwMGh2N2JZdxILaF9RblNGZ2hUWWc"
     }
   }
 }

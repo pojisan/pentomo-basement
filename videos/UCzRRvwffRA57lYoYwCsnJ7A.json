@@ -333,8 +333,9 @@
       "title": "\u3010Death Mark\u3011do-you-like-bees?\u3010VAllure\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-27T03:00:00Z",
-      "activeLiveChatId": "Cg0KCzBTNkU1U21wYVJvKicKGFVDelJSdndmZlJBNTdsWW9Zd0Nzbko3QRILMFM2RTVTbXBhUm8"
+      "actualStartTime": "2024-06-27T03:00:44Z",
+      "actualEndTime": "2024-06-27T04:35:14Z",
+      "scheduledStartTime": "2024-06-27T03:00:00Z"
     }
   },
   "T6wSocRSzRA": {
@@ -344,8 +345,9 @@
       "title": "\u3010Among Us\u3011Collab Stream: Kick 'em out from the ship!! feat. Yume+\u3010VAllure\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-26T00:00:00Z",
-      "activeLiveChatId": "Cg0KC1Q2d1NvY1JTelJBKicKGFVDelJSdndmZlJBNTdsWW9Zd0Nzbko3QRILVDZ3U29jUlN6UkE"
+      "actualStartTime": "2024-06-26T00:03:27Z",
+      "actualEndTime": "2024-06-26T02:19:14Z",
+      "scheduledStartTime": "2024-06-26T00:00:00Z"
     }
   },
   "KBHgjQWZ8vE": {
@@ -355,8 +357,23 @@
       "title": "\u3010Mario RPG\u3011Trying the remake on Switch! (It's my first time)\u3010VAllure\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-25T03:00:00Z",
-      "activeLiveChatId": "Cg0KC0tCSGdqUVdaOHZFKicKGFVDelJSdndmZlJBNTdsWW9Zd0Nzbko3QRILS0JIZ2pRV1o4dkU"
+      "actualStartTime": "2024-06-25T03:01:31Z",
+      "actualEndTime": "2024-06-25T08:03:56Z",
+      "scheduledStartTime": "2024-06-25T03:00:00Z"
+    }
+  },
+  "cj1SeOVoDTI": {
+    "snippet": {
+      "publishedAt": "2024-06-25T14:30:14Z",
+      "channelId": "UCzRRvwffRA57lYoYwCsnJ7A",
+      "title": "Mercy Modiste Raging For 3 minutes and 6 seconds on A Diffucult Game About Climbing..."
+    }
+  },
+  "QU1VP8bYGx0": {
+    "snippet": {
+      "publishedAt": "2024-06-26T14:30:08Z",
+      "channelId": "UCzRRvwffRA57lYoYwCsnJ7A",
+      "title": "Mercy Modiste On Why She CAN'T Do Cooking Streams... #shorts #vtuber #vallure"
     }
   }
 }

@@ -744,11 +744,12 @@
     "snippet": {
       "publishedAt": "2024-06-17T15:40:33Z",
       "channelId": "UCUI1qpjJSEbgzdlwmpdVmMw",
-      "title": "\u3010Minecraft\u3011What are we doing\u250aSurvival Let's Play #10\u3010Twisty Amanozako | NIJISANJI EN\u3011"
+      "title": "\u3010Minecraft HARCORE\u3011AHHHHHHHHHH\u3010Twisty Amanozako | NIJISANJI EN\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-25T12:00:00Z",
-      "activeLiveChatId": "Cg0KC1A4QW1CR29FR3JjKicKGFVDVUkxcXBqSlNFYmd6ZGx3bXBkVm1NdxILUDhBbUJHb0VHcmM"
+      "actualStartTime": "2024-06-25T12:01:19Z",
+      "actualEndTime": "2024-06-25T14:42:13Z",
+      "scheduledStartTime": "2024-06-25T12:00:00Z"
     }
   },
   "OmbnJaOQKtg": {
@@ -885,8 +886,9 @@
       "title": "\u3010PLANET COASTER\u3011Psychopath Park :D\u3010Twisty Amanozako | NIJISANJI EN\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-27T06:00:00Z",
-      "activeLiveChatId": "Cg0KC0ZaTEU4Q3ZYOVA4KicKGFVDVUkxcXBqSlNFYmd6ZGx3bXBkVm1NdxILRlpMRThDdlg5UDg"
+      "actualStartTime": "2024-06-25T06:47:52Z",
+      "actualEndTime": "2024-06-25T11:48:49Z",
+      "scheduledStartTime": "2024-06-25T06:45:00Z"
     }
   },
   "y8MfBsWHnjI": {
@@ -899,6 +901,72 @@
       "actualStartTime": "2024-06-24T15:13:29Z",
       "actualEndTime": "2024-06-24T17:14:36Z",
       "scheduledStartTime": "2024-06-24T15:15:00Z"
+    }
+  },
+  "tnjNry_Us6U": {
+    "snippet": {
+      "publishedAt": "2024-06-26T04:40:00Z",
+      "channelId": "UCUI1qpjJSEbgzdlwmpdVmMw",
+      "title": "\u3010PLANET COASTER\u3011Amanozako EMPIRE (i didnt forgot our park name)\u3010Twisty Amanozako | NIJISANJI EN\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T06:58:07Z",
+      "actualEndTime": "2024-06-26T10:55:13Z",
+      "scheduledStartTime": "2024-06-26T07:00:00Z"
+    }
+  },
+  "4L3SCGAOcEM": {
+    "snippet": {
+      "publishedAt": "2024-06-26T10:52:45Z",
+      "channelId": "UCUI1qpjJSEbgzdlwmpdVmMw",
+      "title": "\u3010Call of Duty: Black Ops III\u3011round 25 omw\u3010Twisty Amanozako | NIJISANJI EN\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T11:10:23Z",
+      "actualEndTime": "2024-06-26T16:23:38Z",
+      "scheduledStartTime": "2024-06-26T11:15:00Z"
+    }
+  },
+  "yziRexwX4_Q": {
+    "snippet": {
+      "publishedAt": "2024-06-26T10:51:34Z",
+      "channelId": "UCUI1qpjJSEbgzdlwmpdVmMw",
+      "title": "\u3010Minecraft HARCORE\u3011HOUSE KUN ONEGAI\u3010Twisty Amanozako | NIJISANJI EN\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-09-27T10:50:00Z",
+      "activeLiveChatId": "Cg0KC3l6aVJleHdYNF9RKicKGFVDVUkxcXBqSlNFYmd6ZGx3bXBkVm1NdxILeXppUmV4d1g0X1E"
+    }
+  },
+  "givzeAa8iwc": {
+    "snippet": {
+      "publishedAt": "2024-06-27T11:16:02Z",
+      "channelId": "UCUI1qpjJSEbgzdlwmpdVmMw",
+      "title": "\u3010League of Legends\u3011TO CHALLENGER\u3010Twisty Amanozako | NIJISANJI EN\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T12:04:27Z",
+      "actualEndTime": "2024-06-27T17:25:22Z",
+      "scheduledStartTime": "2024-06-27T12:00:00Z"
+    }
+  },
+  "M7vRqqzwCwo": {
+    "snippet": {
+      "publishedAt": "2024-06-28T17:08:58Z",
+      "channelId": "UCUI1qpjJSEbgzdlwmpdVmMw",
+      "title": "Duet with @KlaraCharmwood \u2661 Identity / Kanaria"
+    }
+  },
+  "jpF--cixSkg": {
+    "snippet": {
+      "publishedAt": "2024-06-28T19:14:55Z",
+      "channelId": "UCUI1qpjJSEbgzdlwmpdVmMw",
+      "title": "Denauth 1 Month Celebration with @KlaraCharmwood @RyomaBarrenwort\u3010Twisty Amanozako | NIJISANJI EN\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-29T02:06:21Z",
+      "actualEndTime": "2024-06-29T04:20:37Z",
+      "scheduledStartTime": "2024-06-29T02:00:00Z"
     }
   }
 }

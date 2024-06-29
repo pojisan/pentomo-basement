@@ -6004,8 +6004,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-25T00:11:20Z",
-      "scheduledStartTime": "2024-06-25T00:00:00Z",
-      "activeLiveChatId": "Cg0KC09zX2VUWTBxN3FVKicKGFVDalhKWVBzS3hvSnljLTFSUEI2ZFN5dxILT3NfZVRZMHE3cVU"
+      "actualEndTime": "2024-06-25T09:03:40Z",
+      "scheduledStartTime": "2024-06-25T00:00:00Z"
     }
   },
   "H94SjhQce3A": {
@@ -6015,8 +6015,9 @@
       "title": "This Vtuber can play violin??"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-26T02:30:00Z",
-      "activeLiveChatId": "Cg0KC0g5NFNqaFFjZTNBKicKGFVDalhKWVBzS3hvSnljLTFSUEI2ZFN5dxILSDk0U2poUWNlM0E"
+      "actualStartTime": "2024-06-26T02:40:38Z",
+      "actualEndTime": "2024-06-26T06:42:49Z",
+      "scheduledStartTime": "2024-06-26T02:30:00Z"
     }
   },
   "CdoPXT6ZYLo": {
@@ -6026,8 +6027,9 @@
       "title": "Violin Vtuber tries a $150 violin from Amazon??"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-27T02:30:00Z",
-      "activeLiveChatId": "Cg0KC0Nkb1BYVDZaWUxvKicKGFVDalhKWVBzS3hvSnljLTFSUEI2ZFN5dxILQ2RvUFhUNlpZTG8"
+      "actualStartTime": "2024-06-27T02:33:46Z",
+      "actualEndTime": "2024-06-27T06:19:48Z",
+      "scheduledStartTime": "2024-06-27T02:30:00Z"
     }
   },
   "lRjBARJBGyE": {
@@ -6037,8 +6039,9 @@
       "title": "This Palworld update is for the weebs!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-27T21:00:00Z",
-      "activeLiveChatId": "Cg0KC2xSakJBUkpCR3lFKicKGFVDalhKWVBzS3hvSnljLTFSUEI2ZFN5dxILbFJqQkFSSkJHeUU"
+      "actualStartTime": "2024-06-27T21:15:25Z",
+      "actualEndTime": "2024-06-28T06:25:02Z",
+      "scheduledStartTime": "2024-06-27T21:00:00Z"
     }
   },
   "zbccP55oPJw": {
@@ -6048,8 +6051,9 @@
       "title": "Vtuber plays violin for you on this fine night! #shorts"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-29T06:00:00Z",
-      "activeLiveChatId": "Cg0KC3piY2NQNTVvUEp3KicKGFVDalhKWVBzS3hvSnljLTFSUEI2ZFN5dxILemJjY1A1NW9QSnc"
+      "actualStartTime": "2024-06-29T06:15:01Z",
+      "actualEndTime": "2024-06-29T08:53:11Z",
+      "scheduledStartTime": "2024-06-29T06:00:00Z"
     }
   },
   "pVR1wmORb_c": {
@@ -6061,6 +6065,31 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-30T00:00:00Z",
       "activeLiveChatId": "Cg0KC3BWUjF3bU9SYl9jKicKGFVDalhKWVBzS3hvSnljLTFSUEI2ZFN5dxILcFZSMXdtT1JiX2M"
+    }
+  },
+  "L86PvNQA238": {
+    "snippet": {
+      "publishedAt": "2024-06-28T07:46:15Z",
+      "channelId": "UCjXJYPsKxoJyc-1RPB6dSyw",
+      "title": "Yapping and reading YOUR messages"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T23:10:52Z",
+      "actualEndTime": "2024-06-28T23:20:35Z",
+      "scheduledStartTime": "2024-06-28T23:00:00Z",
+      "activeLiveChatId": "Cg0KC0w4NlB2TlFBMjM4KicKGFVDalhKWVBzS3hvSnljLTFSUEI2ZFN5dxILTDg2UHZOUUEyMzg"
+    }
+  },
+  "6E_xxKfX054": {
+    "snippet": {
+      "publishedAt": "2024-06-28T23:21:20Z",
+      "channelId": "UCjXJYPsKxoJyc-1RPB6dSyw",
+      "title": "Yapping and reading YOUR messages (REAL)"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T23:23:42Z",
+      "actualEndTime": "2024-06-29T02:56:20Z",
+      "scheduledStartTime": "2024-06-28T23:20:00Z"
     }
   }
 }

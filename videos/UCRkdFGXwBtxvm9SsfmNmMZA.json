@@ -881,20 +881,22 @@
     "snippet": {
       "publishedAt": "2024-06-24T13:08:04Z",
       "channelId": "UCRkdFGXwBtxvm9SsfmNmMZA",
-      "title": "Let's grind in Valorant today!\ud83d\udc7c"
+      "title": "Let's grind Clove in Valorant today!\ud83d\udc7c"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-26T08:00:00Z",
-      "activeLiveChatId": "Cg0KC1ZwRG1nRHpOV2NVKicKGFVDUmtkRkdYd0J0eHZtOVNzZm1ObU1aQRILVnBEbWdEek5XY1U"
+      "actualStartTime": "2024-06-26T07:59:50Z",
+      "actualEndTime": "2024-06-26T11:30:19Z",
+      "scheduledStartTime": "2024-06-26T08:00:00Z"
     }
   },
   "eOKCZWtwYAM": {
     "snippet": {
       "publishedAt": "2024-06-24T13:06:04Z",
       "channelId": "UCRkdFGXwBtxvm9SsfmNmMZA",
-      "title": "2k celebration!!!"
+      "title": "2k celebration!!! Batz wheel, Songs and more!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-29T14:00:44Z",
       "scheduledStartTime": "2024-06-29T14:00:00Z",
       "activeLiveChatId": "Cg0KC2VPS0NaV3R3WUFNKicKGFVDUmtkRkdYd0J0eHZtOVNzZm1ObU1aQRILZU9LQ1pXdHdZQU0"
     }
@@ -906,8 +908,9 @@
       "title": "Yandere simulator in the most wholesome game\ud83d\udc7c"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-28T16:30:00Z",
-      "activeLiveChatId": "Cg0KC3V6dGlpTDhBTFFJKicKGFVDUmtkRkdYd0J0eHZtOVNzZm1ObU1aQRILdXp0aWlMOEFMUUk"
+      "actualStartTime": "2024-06-28T16:41:55Z",
+      "actualEndTime": "2024-06-28T19:02:27Z",
+      "scheduledStartTime": "2024-06-28T16:30:00Z"
     }
   },
   "y8dRxXTSNvk": {
@@ -925,11 +928,12 @@
     "snippet": {
       "publishedAt": "2024-06-24T13:02:40Z",
       "channelId": "UCRkdFGXwBtxvm9SsfmNmMZA",
-      "title": "Throwback Zatsu Episode 2"
+      "title": "Throwback Zatsu Episode 2 - Naruto"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-27T15:00:00Z",
-      "activeLiveChatId": "Cg0KC3BMcDRzb1VPWmc0KicKGFVDUmtkRkdYd0J0eHZtOVNzZm1ObU1aQRILcExwNHNvVU9aZzQ"
+      "actualStartTime": "2024-06-27T15:00:35Z",
+      "actualEndTime": "2024-06-27T17:12:10Z",
+      "scheduledStartTime": "2024-06-27T15:00:00Z"
     }
   },
   "gdlpkdrgLy0": {
@@ -939,8 +943,21 @@
       "title": "Resident Evil 2 Claire route will be EEZY"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-26T15:00:00Z",
-      "activeLiveChatId": "Cg0KC2dkbHBrZHJnTHkwKicKGFVDUmtkRkdYd0J0eHZtOVNzZm1ObU1aQRILZ2RscGtkcmdMeTA"
+      "actualStartTime": "2024-06-26T14:58:30Z",
+      "actualEndTime": "2024-06-26T20:05:20Z",
+      "scheduledStartTime": "2024-06-26T15:00:00Z"
+    }
+  },
+  "GRDH8KlpIOk": {
+    "snippet": {
+      "publishedAt": "2024-06-24T13:07:02Z",
+      "channelId": "UCRkdFGXwBtxvm9SsfmNmMZA",
+      "title": "Quaso's sleep angel - Ear rubbies and soothing voice"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T22:00:20Z",
+      "actualEndTime": "2024-06-28T23:25:34Z",
+      "scheduledStartTime": "2024-06-28T22:00:00Z"
     }
   }
 }

@@ -1325,8 +1325,9 @@
       "title": "yay! i don't have a driver's license! \u3010EUROTRUCK SIMULATOR 2\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-26T16:00:00Z",
-      "activeLiveChatId": "Cg0KC0Q5TnpmQW00UGFZKicKGFVDeUY3U2VJeVdsVXpua19zZ19YakM4URILRDlOemZBbTRQYVk"
+      "actualStartTime": "2024-06-26T16:03:28Z",
+      "actualEndTime": "2024-06-26T20:47:26Z",
+      "scheduledStartTime": "2024-06-26T16:00:00Z"
     }
   },
   "Ae10IkbzIIc": {
@@ -1336,8 +1337,32 @@
       "title": "WE'VE FRICKED THEM ALL \ud83d\udca6"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-25T20:30:00Z",
-      "activeLiveChatId": "Cg0KC0FlMTBJa2J6SUljKicKGFVDeUY3U2VJeVdsVXpua19zZ19YakM4URILQWUxMElrYnpJSWM"
+      "actualStartTime": "2024-06-25T21:59:17Z",
+      "actualEndTime": "2024-06-26T02:29:41Z",
+      "scheduledStartTime": "2024-06-25T21:30:00Z"
+    }
+  },
+  "NEMIDbQ-IBo": {
+    "snippet": {
+      "publishedAt": "2024-06-25T06:10:13Z",
+      "channelId": "UCyF7SeIyWlUznk_sg_XjC8Q",
+      "title": "LISTENING TO MY FIRST EVER SINGLE!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-29T20:30:00Z",
+      "activeLiveChatId": "Cg0KC05FTUlEYlEtSUJvKicKGFVDeUY3U2VJeVdsVXpua19zZ19YakM4URILTkVNSURiUS1JQm8"
+    }
+  },
+  "5QK_bQjnVws": {
+    "snippet": {
+      "publishedAt": "2024-06-25T05:12:15Z",
+      "channelId": "UCyF7SeIyWlUznk_sg_XjC8Q",
+      "title": "Endless Blue - Umi Kyoku (Official Lyric Video)"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-29T20:00:00Z",
+      "activeLiveChatId": "Cg0KCzVRS19iUWpuVndzKicKGFVDeUY3U2VJeVdsVXpua19zZ19YakM4URILNVFLX2JRam5Wd3M",
+      "premiere": true
     }
   }
 }

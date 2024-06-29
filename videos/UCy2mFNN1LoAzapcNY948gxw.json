@@ -4101,5 +4101,41 @@
       "actualEndTime": "2024-06-24T16:21:49Z",
       "scheduledStartTime": "2024-06-24T13:00:33Z"
     }
+  },
+  "77uBegVTdM0": {
+    "snippet": {
+      "publishedAt": "2024-06-25T23:17:53Z",
+      "channelId": "UCy2mFNN1LoAzapcNY948gxw",
+      "title": "\u3010Persona 3 Reload\u3011The arcana is the means by which all is revealed"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-25T23:29:17Z",
+      "actualEndTime": "2024-06-26T02:46:58Z",
+      "scheduledStartTime": "2024-06-25T23:30:27Z"
+    }
+  },
+  "QNYRMR0nz7k": {
+    "snippet": {
+      "publishedAt": "2024-06-25T23:26:12Z",
+      "channelId": "UCy2mFNN1LoAzapcNY948gxw",
+      "title": "\u3010PLAY with MEMBERS\u3011Gaming with my beloved Guildmates!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T23:02:19Z",
+      "actualEndTime": "2024-06-28T02:34:02Z",
+      "scheduledStartTime": "2024-06-27T23:00:46Z"
+    }
+  },
+  "bIpAw4dzYxs": {
+    "snippet": {
+      "publishedAt": "2024-06-28T12:31:39Z",
+      "channelId": "UCy2mFNN1LoAzapcNY948gxw",
+      "title": "\u3010Travellers Rest\u3011Taking care of our tavern once again"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T13:00:40Z",
+      "actualEndTime": "2024-06-28T16:30:32Z",
+      "scheduledStartTime": "2024-06-28T13:00:08Z"
+    }
   }
 }

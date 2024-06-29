@@ -3391,7 +3391,7 @@
     "snippet": {
       "publishedAt": "2023-01-04T08:17:47Z",
       "channelId": "UCupmjRr7kPgzXKh-cPxxGbg",
-      "title": "\u3010Schedule & Free Chat\u301106.17 - 06.23"
+      "title": "\u3010Schedule & Free Chat\u301106.24 - 06.30"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-01-04T08:15:00Z",
@@ -4880,6 +4880,42 @@
       "actualStartTime": "2024-06-23T15:46:00Z",
       "actualEndTime": "2024-06-23T17:56:08Z",
       "scheduledStartTime": "2024-06-23T15:45:00Z"
+    }
+  },
+  "xwn4kEI0m1E": {
+    "snippet": {
+      "publishedAt": "2024-06-27T15:07:08Z",
+      "channelId": "UCupmjRr7kPgzXKh-cPxxGbg",
+      "title": "u..uuuu... uh-- uhm!!! erm--"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T15:32:03Z",
+      "actualEndTime": "2024-06-27T18:10:28Z",
+      "scheduledStartTime": "2024-06-27T15:30:00Z"
+    }
+  },
+  "j3X1BVGg748": {
+    "snippet": {
+      "publishedAt": "2024-06-27T17:19:50Z",
+      "channelId": "UCupmjRr7kPgzXKh-cPxxGbg",
+      "title": "\u3010SPYRO: REIGNITED TRILOGY\u3011I'll Show YOU a Dragon! \ud83d\udd25 #11",
+      "private": true
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-30T15:00:00Z",
+      "activeLiveChatId": "Cg0KC2ozWDFCVkdnNzQ4KicKGFVDdXBtalJyN2tQZ3pYS2gtY1B4eEdiZxILajNYMUJWR2c3NDg"
+    }
+  },
+  "iY_cKBR4JOc": {
+    "snippet": {
+      "publishedAt": "2024-06-27T17:12:56Z",
+      "channelId": "UCupmjRr7kPgzXKh-cPxxGbg",
+      "title": "\u3010SPYRO: REIGNITED TRILOGY\u3011YEAR OF THE DRAGON \ud83d\udd25 #10",
+      "private": true
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-28T15:00:00Z",
+      "activeLiveChatId": "Cg0KC2lZX2NLQlI0Sk9jKicKGFVDdXBtalJyN2tQZ3pYS2gtY1B4eEdiZxILaVlfY0tCUjRKT2M"
     }
   }
 }

@@ -4417,6 +4417,8 @@
       "title": "\u3010FUWAMOCO MORNING\u3011episode 103 \ud83d\udc3e #FWMCMORNING"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T14:55:17Z",
+      "actualEndTime": "2024-06-26T15:40:49Z",
       "scheduledStartTime": "2024-06-26T15:00:00Z"
     }
   },
@@ -4424,10 +4426,56 @@
     "snippet": {
       "publishedAt": "2024-06-23T09:45:56Z",
       "channelId": "UCt9H_RpQzhxzlyBxFqrdHqA",
-      "title": "\u3010FIVE NIGHT AT FREDDY'S\u3011why is there no paws menu \ud83d\udc3e\u3010FUWAMOCO\u3011"
+      "title": "\u3010FIVE NIGHTS AT FREDDY'S\u3011why is there no paws menu \ud83d\udc3e\u3010FUWAMOCO\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T00:55:10Z",
+      "actualEndTime": "2024-06-26T04:12:32Z",
       "scheduledStartTime": "2024-06-26T01:00:00Z"
+    }
+  },
+  "hbIXj998i_Y": {
+    "snippet": {
+      "publishedAt": "2024-06-26T14:24:10Z",
+      "channelId": "UCt9H_RpQzhxzlyBxFqrdHqA",
+      "title": "\u3010THE GAME OF SISYPHUS\u3011fuzzy MOCOCO vs fluffy fuwawa \ud83d\udc3e#shorts \u3010MOCOCO POV \u7e26\u578b\u914d\u4fe1 VERTICAL\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T00:55:10Z",
+      "actualEndTime": "2024-06-27T03:11:00Z",
+      "scheduledStartTime": "2024-06-27T01:00:00Z"
+    }
+  },
+  "5alo7tvE5ps": {
+    "snippet": {
+      "publishedAt": "2024-06-26T14:21:56Z",
+      "channelId": "UCt9H_RpQzhxzlyBxFqrdHqA",
+      "title": "\u3010THE GAME OF SISYPHUS\u3011fluffy FUWAWA vs fuzzy mococo \ud83d\udc3e#shorts \u3010FUWAWA POV \u7e26\u578b\u914d\u4fe1 VERTICAL\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T00:55:35Z",
+      "actualEndTime": "2024-06-27T03:02:22Z",
+      "scheduledStartTime": "2024-06-27T01:00:00Z"
+    }
+  },
+  "kuuIKlM8624": {
+    "snippet": {
+      "publishedAt": "2024-06-26T18:27:13Z",
+      "channelId": "UCt9H_RpQzhxzlyBxFqrdHqA",
+      "title": "\u3010FUWAMOCO MORNING\u3011episode 104 \ud83d\udc3e #FWMCMORNING"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-07-01T15:00:00Z"
+    }
+  },
+  "wp_aymzvCJ4": {
+    "snippet": {
+      "publishedAt": "2024-06-26T18:25:28Z",
+      "channelId": "UCt9H_RpQzhxzlyBxFqrdHqA",
+      "title": "\u3010PORTAL 2\u3011co-op means COOPERATION not fighting \ud83d\udc3e\u3010FUWAMOCO\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-07-03T01:00:00Z"
     }
   }
 }

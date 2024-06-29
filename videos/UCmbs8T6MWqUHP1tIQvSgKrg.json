@@ -4698,5 +4698,41 @@
       "actualEndTime": "2024-06-21T06:48:30Z",
       "scheduledStartTime": "2024-06-21T03:00:00Z"
     }
+  },
+  "ax1A57kw5VQ": {
+    "snippet": {
+      "publishedAt": "2024-06-25T23:38:11Z",
+      "channelId": "UCmbs8T6MWqUHP1tIQvSgKrg",
+      "title": "\u3010Viewfinder\u3011Open Your Eyes"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T03:06:43Z",
+      "actualEndTime": "2024-06-26T08:52:35Z",
+      "scheduledStartTime": "2024-06-26T03:00:00Z"
+    }
+  },
+  "K2i2rqBcqZs": {
+    "snippet": {
+      "publishedAt": "2024-06-26T08:59:49Z",
+      "channelId": "UCmbs8T6MWqUHP1tIQvSgKrg",
+      "title": "\u3010Pacific Drive\u3011Hang Behind Me | #3"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T03:10:25Z",
+      "actualEndTime": "2024-06-27T08:05:11Z",
+      "scheduledStartTime": "2024-06-27T03:00:00Z"
+    }
+  },
+  "V9sevCMBhks": {
+    "snippet": {
+      "publishedAt": "2024-06-28T02:54:44Z",
+      "channelId": "UCmbs8T6MWqUHP1tIQvSgKrg",
+      "title": "\u3010Rental\u3011Let's Move Out!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T03:15:35Z",
+      "actualEndTime": "2024-06-28T05:10:57Z",
+      "scheduledStartTime": "2024-06-28T03:15:00Z"
+    }
   }
 }

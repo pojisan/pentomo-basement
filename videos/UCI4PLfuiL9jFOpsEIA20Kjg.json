@@ -7889,8 +7889,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-24T19:00:33Z",
-      "scheduledStartTime": "2024-06-24T19:00:00Z",
-      "activeLiveChatId": "Cg0KCzhqOE1fMll5NUo0KicKGFVDSTRQTGZ1aUw5akZPcHNFSUEyMEtqZxILOGo4TV8yWXk1SjQ"
+      "actualEndTime": "2024-06-25T02:16:19Z",
+      "scheduledStartTime": "2024-06-24T19:00:00Z"
     }
   },
   "Kn3-2Ev5tcQ": {
@@ -7900,8 +7900,9 @@
       "title": "I HATE THIS GAME! (Yes, im calling it in advance) [Elden Ring: Shadow of the Erdtree] w/ Jazz"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-25T19:00:00Z",
-      "activeLiveChatId": "Cg0KC0tuMy0yRXY1dGNRKicKGFVDSTRQTGZ1aUw5akZPcHNFSUEyMEtqZxILS24zLTJFdjV0Y1E"
+      "actualStartTime": "2024-06-25T19:03:55Z",
+      "actualEndTime": "2024-06-26T06:54:33Z",
+      "scheduledStartTime": "2024-06-25T19:00:00Z"
     }
   },
   "MOLln-vhxTs": {
@@ -7922,8 +7923,20 @@
       "title": "FOR THE KIDDOS! [Elden Ring: Shadow of the Erdtree] w/ Jazz | !charity stream for @GamersOutreach"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-28T19:00:00Z",
-      "activeLiveChatId": "Cg0KC010UmtUbnlBZEpVKicKGFVDSTRQTGZ1aUw5akZPcHNFSUEyMEtqZxILTXRSa1RueUFkSlU"
+      "actualStartTime": "2024-06-27T20:03:47Z",
+      "actualEndTime": "2024-06-28T01:09:07Z",
+      "scheduledStartTime": "2024-06-28T19:00:00Z"
+    }
+  },
+  "z3iaXXOPy0k": {
+    "snippet": {
+      "publishedAt": "2024-06-28T04:52:44Z",
+      "channelId": "UCI4PLfuiL9jFOpsEIA20Kjg",
+      "title": "If im late its cause im at a job interview, sorry... [Ring Fit Fridays]"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-07-05T22:00:00Z",
+      "activeLiveChatId": "Cg0KC3ozaWFYWE9QeTBrKicKGFVDSTRQTGZ1aUw5akZPcHNFSUEyMEtqZxILejNpYVhYT1B5MGs"
     }
   }
 }

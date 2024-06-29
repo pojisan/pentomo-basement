@@ -1393,8 +1393,9 @@
       "title": "\u3010TGDPSSP\u3011Platform 8 // \uff18\u756a\u306e\u308a\u3070"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-26T21:00:00Z",
-      "activeLiveChatId": "Cg0KC3hXTy1WSlAwQmNrKicKGFVDZWpiaWNvUm5RakNPZEFQQXY1SlB3ZxILeFdPLVZKUDBCY2s"
+      "actualStartTime": "2024-06-26T21:00:20Z",
+      "actualEndTime": "2024-06-26T22:14:56Z",
+      "scheduledStartTime": "2024-06-26T21:00:00Z"
     }
   },
   "-ly11lZRPdk": {
@@ -1405,8 +1406,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-25T00:00:19Z",
-      "scheduledStartTime": "2024-06-25T00:00:00Z",
-      "activeLiveChatId": "Cg0KCy1seTExbFpSUGRrKicKGFVDZWpiaWNvUm5RakNPZEFQQXY1SlB3ZxILLWx5MTFsWlJQZGs"
+      "actualEndTime": "2024-06-25T01:19:24Z",
+      "scheduledStartTime": "2024-06-25T00:00:00Z"
     }
   },
   "GCKxw2pkdk0": {

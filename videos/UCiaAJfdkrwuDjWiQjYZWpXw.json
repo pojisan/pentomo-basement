@@ -428,8 +428,9 @@
       "title": "\u3010ZATSUDAN\u3011 1 month anniversary?? Monthsary?? let's yap!!\u3010PixelLink\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-25T19:00:00Z",
-      "activeLiveChatId": "Cg0KC05MUGFVdGFVZ2VrKicKGFVDaWFBSmZka3J3dURqV2lRallaV3BYdxILTkxQYVV0YVVnZWs"
+      "actualStartTime": "2024-06-25T18:57:10Z",
+      "actualEndTime": "2024-06-25T22:25:14Z",
+      "scheduledStartTime": "2024-06-25T19:00:00Z"
     }
   },
   "GxCKHDL3PbM": {
@@ -439,8 +440,9 @@
       "title": "\u3010LETHAL COMPANY\u3011 im not good at scary games....\u3010PixelLink\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-26T17:00:00Z",
-      "activeLiveChatId": "Cg0KC0d4Q0tIREwzUGJNKicKGFVDaWFBSmZka3J3dURqV2lRallaV3BYdxILR3hDS0hETDNQYk0"
+      "actualStartTime": "2024-06-26T17:05:56Z",
+      "actualEndTime": "2024-06-26T19:42:00Z",
+      "scheduledStartTime": "2024-06-26T17:00:00Z"
     }
   },
   "Y10RozXRkUA": {
@@ -473,6 +475,8 @@
       "title": "\u3010MEMBERS STREAM\u3011Skribblio with Wisuknights!!! Imma win lots!!\u3010PixelLink\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T18:58:13Z",
+      "actualEndTime": "2024-06-28T21:36:50Z",
       "scheduledStartTime": "2024-06-28T19:00:00Z",
       "activeLiveChatId": "Cg0KC3cyNEh0YUNRQWlBKicKGFVDaWFBSmZka3J3dURqV2lRallaV3BYdxILdzI0SHRhQ1FBaUE"
     }
@@ -486,6 +490,18 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-30T21:00:00Z",
       "activeLiveChatId": "Cg0KC2taQnlaRndHOWVBKicKGFVDaWFBSmZka3J3dURqV2lRallaV3BYdxILa1pCeVpGd0c5ZUE"
+    }
+  },
+  "0-htYeXACyU": {
+    "snippet": {
+      "publishedAt": "2024-06-27T21:07:49Z",
+      "channelId": "UCiaAJfdkrwuDjWiQjYZWpXw",
+      "title": "\u3010GOOSE GOOSE DUCK\u3011 Quaa! I mean uh goose noises\u3010PixelLink\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T00:57:43Z",
+      "actualEndTime": "2024-06-28T03:35:42Z",
+      "scheduledStartTime": "2024-06-28T01:00:00Z"
     }
   }
 }

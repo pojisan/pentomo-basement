@@ -793,8 +793,9 @@
       "title": "Skyrim except I'm a Monk part 3?!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-26T22:00:00Z",
-      "activeLiveChatId": "Cg0KC3R0Njc0QXBuMmEwKicKGFVDZS1fcDZvdW40cDAtZ2RCNEFrZlQxURILdHQ2NzRBcG4yYTA"
+      "actualStartTime": "2024-06-26T22:01:40Z",
+      "actualEndTime": "2024-06-27T02:01:42Z",
+      "scheduledStartTime": "2024-06-26T22:00:00Z"
     }
   },
   "Mv1Ntzy7QAc": {
@@ -804,19 +805,21 @@
       "title": "Skyrim except I'm a Monk part 4?!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-27T22:00:00Z",
-      "activeLiveChatId": "Cg0KC012MU50enk3UUFjKicKGFVDZS1fcDZvdW40cDAtZ2RCNEFrZlQxURILTXYxTnR6eTdRQWM"
+      "actualStartTime": "2024-06-27T21:59:00Z",
+      "actualEndTime": "2024-06-28T00:42:34Z",
+      "scheduledStartTime": "2024-06-27T22:00:00Z"
     }
   },
   "ouKHrYADVjs": {
     "snippet": {
       "publishedAt": "2024-06-24T18:49:20Z",
       "channelId": "UCe-_p6oun4p0-gdB4AkfT1Q",
-      "title": "COLLAB: Minecraft VSMP w/@EstellaStarfall"
+      "title": "COLLAB: Minecraft VSMP w/@UtahimeMochizuki"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-25T20:00:00Z",
-      "activeLiveChatId": "Cg0KC291S0hyWUFEVmpzKicKGFVDZS1fcDZvdW40cDAtZ2RCNEFrZlQxURILb3VLSHJZQURWanM"
+      "actualStartTime": "2024-06-25T19:51:56Z",
+      "actualEndTime": "2024-06-26T00:01:57Z",
+      "scheduledStartTime": "2024-06-25T20:00:00Z"
     }
   },
   "6VMygT_9pgA": {
@@ -827,19 +830,32 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-24T21:53:38Z",
-      "scheduledStartTime": "2024-06-24T22:00:00Z",
-      "activeLiveChatId": "Cg0KCzZWTXlnVF85cGdBKicKGFVDZS1fcDZvdW40cDAtZ2RCNEFrZlQxURILNlZNeWdUXzlwZ0E"
+      "actualEndTime": "2024-06-25T00:55:29Z",
+      "scheduledStartTime": "2024-06-24T22:00:00Z"
     }
   },
   "8EIzk-KpnZ0": {
     "snippet": {
       "publishedAt": "2024-06-24T18:51:33Z",
       "channelId": "UCe-_p6oun4p0-gdB4AkfT1Q",
-      "title": "COLLAB: Godskin Duo part 2 w/@EstellaStarfall"
+      "title": "Back to Oblivion: Old School fantasy frolicking"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-29T01:00:00Z",
-      "activeLiveChatId": "Cg0KCzhFSXprLUtwblowKicKGFVDZS1fcDZvdW40cDAtZ2RCNEFrZlQxURILOEVJemstS3BuWjA"
+      "actualStartTime": "2024-06-28T22:00:58Z",
+      "actualEndTime": "2024-06-29T01:15:27Z",
+      "scheduledStartTime": "2024-06-28T22:00:00Z"
+    }
+  },
+  "1QmgBXinzM8": {
+    "snippet": {
+      "publishedAt": "2024-06-27T21:26:37Z",
+      "channelId": "UCe-_p6oun4p0-gdB4AkfT1Q",
+      "title": "VSMP i am a strongwilled individual with control over myself"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T01:02:55Z",
+      "actualEndTime": "2024-06-28T05:17:14Z",
+      "scheduledStartTime": "2024-06-28T01:00:00Z"
     }
   }
 }

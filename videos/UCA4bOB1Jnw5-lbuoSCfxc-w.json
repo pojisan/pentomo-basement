@@ -6817,8 +6817,32 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-25T00:03:13Z",
-      "scheduledStartTime": "2024-06-25T00:00:00Z",
-      "activeLiveChatId": "Cg0KC0NQc0IwWHlyZzQ0KicKGFVDQTRiT0IxSm53NS1sYnVvU0NmeGMtdxILQ1BzQjBYeXJnNDQ"
+      "actualEndTime": "2024-06-25T03:00:36Z",
+      "scheduledStartTime": "2024-06-25T00:00:00Z"
+    }
+  },
+  "--XCVbOp4pc": {
+    "snippet": {
+      "publishedAt": "2024-06-26T19:56:21Z",
+      "channelId": "UCA4bOB1Jnw5-lbuoSCfxc-w",
+      "title": "Vtuber Plays Digimon TGG"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T00:16:40Z",
+      "actualEndTime": "2024-06-27T02:26:41Z",
+      "scheduledStartTime": "2024-06-27T00:00:00Z"
+    }
+  },
+  "_yI5i9EvEDg": {
+    "snippet": {
+      "publishedAt": "2024-06-28T17:04:20Z",
+      "channelId": "UCA4bOB1Jnw5-lbuoSCfxc-w",
+      "title": "Why Was Catapult Turtle Banned In Yugioh Master Duel???"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-29T00:02:45Z",
+      "actualEndTime": "2024-06-29T02:04:56Z",
+      "scheduledStartTime": "2024-06-29T00:00:00Z"
     }
   }
 }

@@ -6065,5 +6065,41 @@
       "scheduledStartTime": "2024-07-16T16:00:00Z",
       "activeLiveChatId": "Cg0KC2xnSm8zVXlxQkpzKicKGFVDeF96d1p1R0lTNGp4TzA3a0ZrOEc2URILbGdKbzNVeXFCSnM"
     }
+  },
+  "EUGTmQtJDQU": {
+    "snippet": {
+      "publishedAt": "2024-06-25T07:24:26Z",
+      "channelId": "UCx_zwZuGIS4jxO07kFk8G6Q",
+      "title": "Let's spend a day down by the river, chat"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-25T18:01:35Z",
+      "actualEndTime": "2024-06-25T18:53:35Z",
+      "scheduledStartTime": "2024-06-25T18:00:00Z"
+    }
+  },
+  "q0C9lnRcopc": {
+    "snippet": {
+      "publishedAt": "2024-06-24T17:42:16Z",
+      "channelId": "UCx_zwZuGIS4jxO07kFk8G6Q",
+      "title": "The Loomis Theatrical Release"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T15:00:06Z",
+      "actualEndTime": "2024-06-27T15:19:04Z",
+      "scheduledStartTime": "2024-06-27T15:00:00Z"
+    }
+  },
+  "fi2rOKG4NuQ": {
+    "snippet": {
+      "publishedAt": "2024-06-28T08:00:34Z",
+      "channelId": "UCx_zwZuGIS4jxO07kFk8G6Q",
+      "title": "[Total War: Warhammer 3] I am in a mood."
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T17:00:29Z",
+      "actualEndTime": "2024-06-28T19:29:31Z",
+      "scheduledStartTime": "2024-06-28T17:00:00Z"
+    }
   }
 }

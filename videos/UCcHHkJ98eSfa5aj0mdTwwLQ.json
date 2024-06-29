@@ -690,8 +690,55 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-24T22:59:50Z",
-      "scheduledStartTime": "2024-06-24T23:00:00Z",
-      "activeLiveChatId": "Cg0KCzVnejJla1ZPbGFJKicKGFVDY0hIa0o5OGVTZmE1YWowbWRUd3dMURILNWd6MmVrVk9sYUk"
+      "actualEndTime": "2024-06-25T03:30:43Z",
+      "scheduledStartTime": "2024-06-24T23:00:00Z"
+    }
+  },
+  "G1s3T8UxIxs": {
+    "snippet": {
+      "publishedAt": "2024-06-25T05:37:12Z",
+      "channelId": "UCcHHkJ98eSfa5aj0mdTwwLQ",
+      "title": "\u3010OUTER WILDS: ECHOES OF THE EYE pt.3\u3011endurance!!\u3010Maid Mint Fantome\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-25T19:01:32Z",
+      "actualEndTime": "2024-06-26T04:47:38Z",
+      "scheduledStartTime": "2024-06-25T19:00:00Z"
+    }
+  },
+  "2V6X4pVrkwk": {
+    "snippet": {
+      "publishedAt": "2024-06-26T04:51:02Z",
+      "channelId": "UCcHHkJ98eSfa5aj0mdTwwLQ",
+      "title": "\u3010KARAOKE!!!\u3011singing to break the blues!!!!!!\u3010Maid Mint Fantome\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T17:24:40Z",
+      "actualEndTime": "2024-06-26T19:59:52Z",
+      "scheduledStartTime": "2024-06-26T17:15:00Z"
+    }
+  },
+  "w0nXIcjrVWE": {
+    "snippet": {
+      "publishedAt": "2024-06-29T01:44:25Z",
+      "channelId": "UCcHHkJ98eSfa5aj0mdTwwLQ",
+      "title": "\u3010METAL GEAR PRODUCTION HOTLINE WATCHALONG\u3011news news news!!! \u3010Maid Mint Fantome\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-29T02:03:21Z",
+      "actualEndTime": "2024-06-29T03:34:55Z",
+      "scheduledStartTime": "2024-06-29T02:00:00Z"
+    }
+  },
+  "_Y_aHYrJJqk": {
+    "snippet": {
+      "publishedAt": "2024-06-29T03:57:54Z",
+      "channelId": "UCcHHkJ98eSfa5aj0mdTwwLQ",
+      "title": "\u3010METAL GEAR SOLID pt2\u3011my brainrot is incurable\u3010Maid Mint Fantome\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-29T19:00:00Z",
+      "activeLiveChatId": "Cg0KC19ZX2FIWXJKSnFrKicKGFVDY0hIa0o5OGVTZmE1YWowbWRUd3dMURILX1lfYUhZckpKcWs"
     }
   }
 }

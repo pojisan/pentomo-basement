@@ -52,7 +52,7 @@
     "snippet": {
       "publishedAt": "2024-06-23T06:01:20Z",
       "channelId": "UCl69AEx4MdqMZH7Jtsm7Tig",
-      "title": "\u3010Art Stream\u3011Ciaora! It's time for some art!"
+      "title": "\u3010Art Stream\u3011Ciaora! It's time for some art! #hololiveEnglish #holoJustice"
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-23T10:59:33Z",
@@ -64,7 +64,7 @@
     "snippet": {
       "publishedAt": "2024-06-24T03:36:39Z",
       "channelId": "UCl69AEx4MdqMZH7Jtsm7Tig",
-      "title": "\u3010Cult of the Lamb\u3011WORLD DOMINATION STARTS TODAY!\ud83d\ude3c\u3010#1\u3011"
+      "title": "\u3010Cult of the Lamb\u3011WORLD DOMINATION STARTS TODAY!\ud83d\ude3c\u3010#1\u3011#hololiveEnglish #holoJustice"
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-24T11:00:02Z",
@@ -79,8 +79,70 @@
       "title": "\u3010Art Stream\u3011She is not OLD! She is NONNA! \ud83d\udc75#hololiveEnglish #holoJustice"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-25T11:00:00Z",
-      "activeLiveChatId": "Cg0KC1VUdGk1UUI4VmdZKicKGFVDbDY5QUV4NE1kcU1aSDdKdHNtN1RpZxILVVR0aTVRQjhWZ1k"
+      "actualStartTime": "2024-06-25T10:59:25Z",
+      "actualEndTime": "2024-06-25T15:15:07Z",
+      "scheduledStartTime": "2024-06-25T11:00:00Z"
+    }
+  },
+  "F_NfN-M3_k4": {
+    "snippet": {
+      "publishedAt": "2024-06-26T04:44:13Z",
+      "channelId": "UCl69AEx4MdqMZH7Jtsm7Tig",
+      "title": "\u3010COLLAB\u3011CHAT & ART w/ Liz! \ud83d\udc84\ud83d\udc31 #hololiveEnglish #holoJustice"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T10:59:33Z",
+      "actualEndTime": "2024-06-26T13:39:35Z",
+      "scheduledStartTime": "2024-06-26T11:00:00Z"
+    }
+  },
+  "_LkbcEcJYzI": {
+    "snippet": {
+      "publishedAt": "2024-06-26T14:37:24Z",
+      "channelId": "UCl69AEx4MdqMZH7Jtsm7Tig",
+      "title": "\u3010#hololiveERROR\u3011I AM NOT SCARED, SENPAIS! #hololiveEnglish #holoJustice"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T10:59:40Z",
+      "actualEndTime": "2024-06-27T13:10:58Z",
+      "scheduledStartTime": "2024-06-27T11:00:00Z"
+    }
+  },
+  "x20nJw8QilU": {
+    "snippet": {
+      "publishedAt": "2024-06-28T02:37:31Z",
+      "channelId": "UCl69AEx4MdqMZH7Jtsm7Tig",
+      "title": "\u3010Art Stream\u3011DRAWING MY SENPAI! #hololiveEnglish #holoJustice"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T10:59:33Z",
+      "actualEndTime": "2024-06-28T15:10:08Z",
+      "scheduledStartTime": "2024-06-28T11:00:00Z"
+    }
+  },
+  "RjdbQ_mU1qM": {
+    "snippet": {
+      "publishedAt": "2024-06-28T05:14:06Z",
+      "channelId": "UCl69AEx4MdqMZH7Jtsm7Tig",
+      "title": "\u3010COLLAB\u3011Content Warning w/ JUSTICE!  #hololiveEnglish #holoJustice"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T17:59:20Z",
+      "actualEndTime": "2024-06-28T20:12:06Z",
+      "scheduledStartTime": "2024-06-28T18:00:00Z"
+    }
+  },
+  "CTpt9rJSJrc": {
+    "snippet": {
+      "publishedAt": "2024-06-29T05:43:04Z",
+      "channelId": "UCl69AEx4MdqMZH7Jtsm7Tig",
+      "title": "\u3010Pizza Tower\u3011I COOKA DA PIZZA \ud83c\udf55 #hololiveEnglish #holoJustice"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-29T10:59:51Z",
+      "actualEndTime": "2024-06-29T13:37:55Z",
+      "scheduledStartTime": "2024-06-29T11:00:00Z",
+      "activeLiveChatId": "Cg0KC0NUcHQ5ckpTSnJjKicKGFVDbDY5QUV4NE1kcU1aSDdKdHNtN1RpZxILQ1RwdDlySlNKcmM"
     }
   }
 }

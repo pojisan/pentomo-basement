@@ -1695,8 +1695,9 @@
       "title": "\u3010RUNIE RUSEDAY #28\u3011SWEATING AND SINGING AND SINGING AND SWEATING"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-26T00:00:00Z",
-      "activeLiveChatId": "Cg0KC29mempxQkpKMTRVKicKGFVDb0FRc2MtRFEwTWpmVHAwNTlvdFFBdxILb2Z6anFCSkoxNFU"
+      "actualStartTime": "2024-06-26T00:04:00Z",
+      "actualEndTime": "2024-06-26T02:28:16Z",
+      "scheduledStartTime": "2024-06-26T00:00:00Z"
     }
   },
   "5djSJLBvi9c": {
@@ -1706,8 +1707,16 @@
       "title": "\u3010RUNIE RUSEDAY #28\u3011Can I walk and sing at the same time!?! #shorts"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-26T00:00:00Z",
-      "activeLiveChatId": "Cg0KCzVkalNKTEJ2aTljKicKGFVDb0FRc2MtRFEwTWpmVHAwNTlvdFFBdxILNWRqU0pMQnZpOWM"
+      "actualStartTime": "2024-06-26T00:08:15Z",
+      "actualEndTime": "2024-06-26T02:27:25Z",
+      "scheduledStartTime": "2024-06-26T00:00:00Z"
+    }
+  },
+  "Y0Oj2cgmO-4": {
+    "snippet": {
+      "publishedAt": "2024-06-25T19:00:14Z",
+      "channelId": "UCoAQsc-DQ0MjfTp059otQAw",
+      "title": "Now THIS is POETRY!"
     }
   }
 }

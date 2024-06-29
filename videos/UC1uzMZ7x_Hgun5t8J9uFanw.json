@@ -1216,7 +1216,8 @@
     "snippet": {
       "publishedAt": "2024-06-10T00:30:25Z",
       "channelId": "UC1uzMZ7x_Hgun5t8J9uFanw",
-      "title": "THEY GAVE ME A HAMMER IM UNSTOPPABLE  [ CODE VEIN PART 2 ]"
+      "title": "THEY GAVE ME A HAMMER IM UNSTOPPABLE  [ CODE VEIN PART 2 ]",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-13T23:00:00Z",
@@ -1227,7 +1228,8 @@
     "snippet": {
       "publishedAt": "2024-06-10T00:29:02Z",
       "channelId": "UC1uzMZ7x_Hgun5t8J9uFanw",
-      "title": "COLLECTING ALL MAGIC IN ELDEN RING | ER Challenge Run Part 3"
+      "title": "COLLECTING ALL MAGIC IN ELDEN RING | ER Challenge Run Part 3",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-12T23:00:00Z",
@@ -1269,7 +1271,8 @@
     "snippet": {
       "publishedAt": "2024-06-15T19:19:31Z",
       "channelId": "UC1uzMZ7x_Hgun5t8J9uFanw",
-      "title": "BEHIND THE SCENES STREAMER WORK!"
+      "title": "BEHIND THE SCENES STREAMER WORK!",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-16T19:30:00Z",
@@ -1368,8 +1371,55 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-25T00:35:10Z",
-      "scheduledStartTime": "2024-06-25T00:30:00Z",
-      "activeLiveChatId": "Cg0KCzdmM1J5QkpaOFhZKicKGFVDMXV6TVo3eF9IZ3VuNXQ4Sjl1RmFudxILN2YzUnlCSlo4WFk"
+      "actualEndTime": "2024-06-25T04:39:36Z",
+      "scheduledStartTime": "2024-06-25T00:30:00Z"
+    }
+  },
+  "4-9FCFuf7Ig": {
+    "snippet": {
+      "publishedAt": "2024-06-25T18:29:09Z",
+      "channelId": "UC1uzMZ7x_Hgun5t8J9uFanw",
+      "title": "R E L L A N A :( (ft. a punishment) | ER Shadow Of The Erdtree"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-25T23:09:26Z",
+      "actualEndTime": "2024-06-26T03:59:38Z",
+      "scheduledStartTime": "2024-06-25T23:15:00Z"
+    }
+  },
+  "yXkWFPdIiJA": {
+    "snippet": {
+      "publishedAt": "2024-06-25T22:43:52Z",
+      "channelId": "UC1uzMZ7x_Hgun5t8J9uFanw",
+      "title": "IT'S MY BIRTHDAY!! | 12- HOUR 2-DAY DONOTHON!! | DAY 1"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-29T17:00:00Z",
+      "activeLiveChatId": "Cg0KC3lYa1dGUGRJaUpBKicKGFVDMXV6TVo3eF9IZ3VuNXQ4Sjl1RmFudxILeVhrV0ZQZElpSkE"
+    }
+  },
+  "n1wbISN4RnQ": {
+    "snippet": {
+      "publishedAt": "2024-06-26T21:46:34Z",
+      "channelId": "UC1uzMZ7x_Hgun5t8J9uFanw",
+      "title": "ELDEN RING BINGO 2V2S | FT @MaeveVNU @SaltyPhish @Twobold"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T23:01:52Z",
+      "actualEndTime": "2024-06-27T02:46:06Z",
+      "scheduledStartTime": "2024-06-26T23:00:00Z"
+    }
+  },
+  "pXaJVCxpInc": {
+    "snippet": {
+      "publishedAt": "2024-06-27T21:47:06Z",
+      "channelId": "UC1uzMZ7x_Hgun5t8J9uFanw",
+      "title": "MINECRAFT :D"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T23:00:17Z",
+      "actualEndTime": "2024-06-28T04:42:27Z",
+      "scheduledStartTime": "2024-06-27T23:00:00Z"
     }
   }
 }

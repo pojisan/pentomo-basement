@@ -723,8 +723,9 @@
       "title": "\u3010STAR SPRINT!!!\u3011EP.6 ft. @Evanit0 - WHO'S BEING INTERVIEWED?\u3010globie | Kiri Kilovolt\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-26T18:00:00Z",
-      "activeLiveChatId": "Cg0KC1Z6LW93YXF2eENrKicKGFVDMXNtOUgyb3J2eW5EYWpjRTRqcll1ZxILVnotb3dhcXZ4Q2s"
+      "actualStartTime": "2024-06-26T18:14:43Z",
+      "actualEndTime": "2024-06-26T19:51:31Z",
+      "scheduledStartTime": "2024-06-26T18:00:00Z"
     }
   },
   "YZOg6dtMunY": {
@@ -774,11 +775,38 @@
     "snippet": {
       "publishedAt": "2024-06-23T22:59:58Z",
       "channelId": "UC1sm9H2orvynDajcE4jrYug",
-      "title": "\u3010STAR SPRINT!!!\u3011EP.7 - SHE CAN FIX ME...SURELY \u3010globie | Kiri Kilovolt\u3011"
+      "title": "\u3010STAR SPRINT!!!\u3011EP.7 - SHE CAN FIX ME...SURELY ft. @KanekoLumi  \u3010globie | Kiri Kilovolt\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-27T18:00:00Z",
-      "activeLiveChatId": "Cg0KC0Z3c090UDFrNUY0KicKGFVDMXNtOUgyb3J2eW5EYWpjRTRqcll1ZxILRndzT3RQMWs1RjQ"
+      "actualStartTime": "2024-06-27T17:57:31Z",
+      "actualEndTime": "2024-06-27T19:44:39Z",
+      "scheduledStartTime": "2024-06-27T18:00:00Z"
+    }
+  },
+  "gYPCPxB_UEU": {
+    "snippet": {
+      "publishedAt": "2024-06-25T07:04:08Z",
+      "channelId": "UC1sm9H2orvynDajcE4jrYug",
+      "title": "\u3010ZOOKEEPER SIMULATOR\u3011LET'S RAISE MONEY FOR CHARITY! COLLAB\u3010globie | Kiri Kilovolt\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-25T17:55:15Z",
+      "actualEndTime": "2024-06-25T20:02:27Z",
+      "scheduledStartTime": "2024-06-25T18:00:00Z"
+    }
+  },
+  "uYzqyFwDaIY": {
+    "snippet": {
+      "publishedAt": "2024-06-26T11:00:44Z",
+      "channelId": "UC1sm9H2orvynDajcE4jrYug",
+      "title": "Managing Parking Lots is HORRIFIC"
+    }
+  },
+  "wzHXo6pH3t8": {
+    "snippet": {
+      "publishedAt": "2024-06-27T11:00:52Z",
+      "channelId": "UC1sm9H2orvynDajcE4jrYug",
+      "title": "BRITISH measurements are WEIRD"
     }
   }
 }

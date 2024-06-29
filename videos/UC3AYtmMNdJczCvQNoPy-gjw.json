@@ -4593,7 +4593,7 @@
     "snippet": {
       "publishedAt": "2024-06-24T19:24:24Z",
       "channelId": "UC3AYtmMNdJczCvQNoPy-gjw",
-      "title": "CHARITY STREAM!! LET'S GO!!"
+      "title": "CHARITY STREAM!! LET'S GO!!  #VTuberSS2024"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-29T19:00:00Z",
@@ -4604,7 +4604,8 @@
     "snippet": {
       "publishedAt": "2024-06-24T20:23:33Z",
       "channelId": "UC3AYtmMNdJczCvQNoPy-gjw",
-      "title": "Just MELONS"
+      "title": "Just MELONS",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-27T21:00:00Z",
@@ -4618,15 +4619,17 @@
       "title": "Beach Episode!!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-28T21:00:00Z",
-      "activeLiveChatId": "Cg0KC2ZPcUk5MlRVbzk4KicKGFVDM0FZdG1NTmRKY3pDdlFOb1B5LWdqdxILZk9xSTkyVFVvOTg"
+      "actualStartTime": "2024-06-28T21:07:35Z",
+      "actualEndTime": "2024-06-28T22:25:53Z",
+      "scheduledStartTime": "2024-06-28T21:00:00Z"
     }
   },
   "Qb8LATzHFV4": {
     "snippet": {
       "publishedAt": "2024-06-24T20:09:08Z",
       "channelId": "UC3AYtmMNdJczCvQNoPy-gjw",
-      "title": "DRUNK German Party Songs Karaoke"
+      "title": "DRUNK German Party Songs Karaoke",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-26T21:00:00Z",
@@ -4640,8 +4643,61 @@
       "title": "Your girlfriend complains it's to F$%king hot \u2665 ASMR f4a"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-25T21:00:00Z",
-      "activeLiveChatId": "Cg0KC0RWaTNVQXZEMHNrKicKGFVDM0FZdG1NTmRKY3pDdlFOb1B5LWdqdxILRFZpM1VBdkQwc2s"
+      "actualStartTime": "2024-06-25T21:05:17Z",
+      "actualEndTime": "2024-06-25T21:32:48Z",
+      "scheduledStartTime": "2024-06-25T21:00:00Z"
+    }
+  },
+  "q2pn-yC0Ljw": {
+    "snippet": {
+      "publishedAt": "2024-06-25T19:00:22Z",
+      "channelId": "UC3AYtmMNdJczCvQNoPy-gjw",
+      "title": "Don't let this Vtuber COOK #vtuber #vtuberclip"
+    }
+  },
+  "DpX2W0ncTLQ": {
+    "snippet": {
+      "publishedAt": "2024-06-25T21:06:49Z",
+      "channelId": "UC3AYtmMNdJczCvQNoPy-gjw",
+      "title": "DRUNK German Party Songs Karaoke"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T21:01:32Z",
+      "actualEndTime": "2024-06-26T22:17:28Z",
+      "scheduledStartTime": "2024-06-26T21:00:00Z"
+    }
+  },
+  "Az5rLOwp81M": {
+    "snippet": {
+      "publishedAt": "2024-06-26T19:00:05Z",
+      "channelId": "UC3AYtmMNdJczCvQNoPy-gjw",
+      "title": "Don't Show this CLIP- #vtuber #vtuberclip"
+    }
+  },
+  "7WAAg4oLTMU": {
+    "snippet": {
+      "publishedAt": "2024-06-27T19:00:02Z",
+      "channelId": "UC3AYtmMNdJczCvQNoPy-gjw",
+      "title": "I showed you my MEMES, Please respond #vtuber #vtuberclip"
+    }
+  },
+  "6dX427k0Rzk": {
+    "snippet": {
+      "publishedAt": "2024-06-28T12:41:09Z",
+      "channelId": "UC3AYtmMNdJczCvQNoPy-gjw",
+      "title": "CHAINED UP for CHARITY!! #vtuberss2024"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T12:59:34Z",
+      "actualEndTime": "2024-06-28T15:10:03Z",
+      "scheduledStartTime": "2024-06-28T13:00:00Z"
+    }
+  },
+  "SqTe4Ra8Fbo": {
+    "snippet": {
+      "publishedAt": "2024-06-28T19:00:23Z",
+      "channelId": "UC3AYtmMNdJczCvQNoPy-gjw",
+      "title": "This vtuber is DEGENERATE #vtuber #vtuberclip"
     }
   }
 }

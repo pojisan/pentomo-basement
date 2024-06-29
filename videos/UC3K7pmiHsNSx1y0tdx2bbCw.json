@@ -7872,8 +7872,9 @@
       "title": "Dear Kanpainiki,... [ Phase-Connect ]"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-25T18:00:00Z",
-      "activeLiveChatId": "Cg0KCzM1ZnJlTGdpNVZZKicKGFVDM0s3cG1pSHNOU3gxeTB0ZHgyYmJDdxILMzVmcmVMZ2k1Vlk"
+      "actualStartTime": "2024-06-26T18:00:48Z",
+      "actualEndTime": "2024-06-26T18:51:05Z",
+      "scheduledStartTime": "2024-06-26T18:00:00Z"
     }
   },
   "yNl1DgpqS7Q": {
@@ -7897,6 +7898,30 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-07-04T18:00:00Z",
       "activeLiveChatId": "Cg0KC2VUMVQxLUJQODVrKicKGFVDM0s3cG1pSHNOU3gxeTB0ZHgyYmJDdxILZVQxVDEtQlA4NWs"
+    }
+  },
+  "WSQtZISv7_4": {
+    "snippet": {
+      "publishedAt": "2024-06-26T20:26:27Z",
+      "channelId": "UC3K7pmiHsNSx1y0tdx2bbCw",
+      "title": "Dear Tenma,... [ Phase-Connect ]"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T18:00:18Z",
+      "actualEndTime": "2024-06-27T23:11:09Z",
+      "scheduledStartTime": "2024-06-27T18:00:00Z"
+    }
+  },
+  "BTMslvMDdBM": {
+    "snippet": {
+      "publishedAt": "2024-06-28T14:58:56Z",
+      "channelId": "UC3K7pmiHsNSx1y0tdx2bbCw",
+      "title": "\u3010 WEDNESDAY CAMPANELLA - Buckingham \u3011\u6b4c\u3063\u3066\u307f\u305f \u3010 Tenma Maemi \u30fb Phase-Connect \u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-07-02T18:00:00Z",
+      "activeLiveChatId": "Cg0KC0JUTXNsdk1EZEJNKicKGFVDM0s3cG1pSHNOU3gxeTB0ZHgyYmJDdxILQlRNc2x2TURkQk0",
+      "premiere": true
     }
   }
 }

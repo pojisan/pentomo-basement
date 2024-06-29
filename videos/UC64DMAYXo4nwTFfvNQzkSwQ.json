@@ -2582,8 +2582,44 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-24T23:59:42Z",
-      "scheduledStartTime": "2024-06-24T23:00:00Z",
-      "activeLiveChatId": "Cg0KC0FqNTVrTmRVcGdZKicKGFVDNjRETUFZWG80bndURmZ2TlF6a1N3URILQWo1NWtOZFVwZ1k"
+      "actualEndTime": "2024-06-25T04:45:34Z",
+      "scheduledStartTime": "2024-06-24T23:00:00Z"
+    }
+  },
+  "i3rmZpoOP10": {
+    "snippet": {
+      "publishedAt": "2024-06-25T13:18:32Z",
+      "channelId": "UC64DMAYXo4nwTFfvNQzkSwQ",
+      "title": "\u3010ELDEN RING #25\u3011day 3! more exploring?? fight bosses???\u3010PixelLink\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-25T23:00:57Z",
+      "actualEndTime": "2024-06-26T02:55:19Z",
+      "scheduledStartTime": "2024-06-25T23:00:00Z"
+    }
+  },
+  "jJBWzHVkIvw": {
+    "snippet": {
+      "publishedAt": "2024-06-26T14:06:08Z",
+      "channelId": "UC64DMAYXo4nwTFfvNQzkSwQ",
+      "title": "\u3010ELDEN RING #26\u3011time for the next boss~!!\u3010PixelLink\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T23:00:41Z",
+      "actualEndTime": "2024-06-27T03:54:08Z",
+      "scheduledStartTime": "2024-06-26T23:00:00Z"
+    }
+  },
+  "dWkXrtvvLig": {
+    "snippet": {
+      "publishedAt": "2024-06-26T14:11:15Z",
+      "channelId": "UC64DMAYXo4nwTFfvNQzkSwQ",
+      "title": "GOOSE GOOSE DUCK WITH EVEN MORE CUTE GIRLS!!!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T00:58:04Z",
+      "actualEndTime": "2024-06-28T03:41:50Z",
+      "scheduledStartTime": "2024-06-28T01:00:00Z"
     }
   }
 }

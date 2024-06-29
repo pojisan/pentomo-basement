@@ -8155,8 +8155,21 @@
       "title": "We'll face our future together!! | Xenoblade Chronicles Future Connected"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-25T22:00:00Z",
-      "activeLiveChatId": "Cg0KC3dXT3ZBYlAzMHRFKicKGFVDQkpGc2FDdmdCYTFhOUJuRWF4dTk3URILd1dPdkFiUDMwdEU"
+      "actualStartTime": "2024-06-25T21:59:26Z",
+      "actualEndTime": "2024-06-26T01:08:30Z",
+      "scheduledStartTime": "2024-06-25T22:00:00Z"
+    }
+  },
+  "CMRNWwP_zsg": {
+    "snippet": {
+      "publishedAt": "2024-06-26T13:10:29Z",
+      "channelId": "UCBJFsaCvgBa1a9BnEaxu97Q",
+      "title": "Racing for #VTuberSS2024! | Mario Kart 8"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T21:57:41Z",
+      "actualEndTime": "2024-06-26T23:47:05Z",
+      "scheduledStartTime": "2024-06-26T22:00:00Z"
     }
   }
 }

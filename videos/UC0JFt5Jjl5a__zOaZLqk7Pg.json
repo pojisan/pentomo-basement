@@ -2245,8 +2245,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-24T18:31:32Z",
       "actualEndTime": "2024-06-24T19:57:44Z",
-      "scheduledStartTime": "2024-06-24T18:30:00Z",
-      "activeLiveChatId": "Cg0KC3VNdm1VZVQ2bzJZKicKGFVDMEpGdDVKamw1YV9fek9hWkxxazdQZxILdU12bVVlVDZvMlk"
+      "scheduledStartTime": "2024-06-24T18:30:00Z"
     }
   },
   "qqA9B-Fkm6U": {
@@ -2264,7 +2263,8 @@
     "snippet": {
       "publishedAt": "2024-06-24T16:13:30Z",
       "channelId": "UC0JFt5Jjl5a__zOaZLqk7Pg",
-      "title": "\u3010Minecraft VSMP EP3\u3011MINECRAFTMINECRAFTMINECRAFTMINECRAFTMINECRAFT"
+      "title": "\u3010Minecraft VSMP EP3\u3011MINECRAFTMINECRAFTMINECRAFTMINECRAFTMINECRAFT",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-28T13:00:00Z",

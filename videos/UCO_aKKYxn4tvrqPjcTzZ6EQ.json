@@ -6444,8 +6444,32 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-24T22:00:21Z",
-      "scheduledStartTime": "2024-06-24T22:00:00Z",
-      "activeLiveChatId": "Cg0KC2pqY0MyLURmS3h3KicKGFVDT19hS0tZeG40dHZycVBqY1R6WjZFURILampjQzItRGZLeHc"
+      "actualEndTime": "2024-06-25T01:59:04Z",
+      "scheduledStartTime": "2024-06-24T22:00:00Z"
+    }
+  },
+  "PnAYQzcFlSE": {
+    "snippet": {
+      "publishedAt": "2024-06-25T22:15:40Z",
+      "channelId": "UCO_aKKYxn4tvrqPjcTzZ6EQ",
+      "title": "\u3010Nintendo Switch Sports\u3011 Screw the rules I have green hair #mocopi"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-25T22:23:07Z",
+      "actualEndTime": "2024-06-26T00:21:38Z",
+      "scheduledStartTime": "2024-06-25T22:20:00Z"
+    }
+  },
+  "pEzw_Yg1U48": {
+    "snippet": {
+      "publishedAt": "2024-06-26T19:18:10Z",
+      "channelId": "UCO_aKKYxn4tvrqPjcTzZ6EQ",
+      "title": "\u3010Wii Sports\u3011 Kirin plays Wii Sports in the year 2024"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T22:00:23Z",
+      "actualEndTime": "2024-06-26T23:17:08Z",
+      "scheduledStartTime": "2024-06-26T22:00:00Z"
     }
   }
 }

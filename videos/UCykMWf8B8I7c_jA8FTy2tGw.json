@@ -10788,8 +10788,9 @@
       "title": "\u3010Games\u3011Crash n Burn + Off-World Interceptor on 3do!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-25T19:00:00Z",
-      "activeLiveChatId": "Cg0KCzJNYXBBM0wzemxjKicKGFVDeWtNV2Y4QjhJN2NfakE4RlR5MnRHdxILMk1hcEEzTDN6bGM"
+      "actualStartTime": "2024-06-25T19:00:23Z",
+      "actualEndTime": "2024-06-25T22:40:49Z",
+      "scheduledStartTime": "2024-06-25T19:00:00Z"
     }
   },
   "9esY2F2bqV0": {
@@ -11166,8 +11167,9 @@
       "title": "\u3010Sonic Advance 2\u3011The Advanced Adventures Continue!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-27T19:00:00Z",
-      "activeLiveChatId": "Cg0KC0xndGFrc1ZhS0pzKicKGFVDeWtNV2Y4QjhJN2NfakE4RlR5MnRHdxILTGd0YWtzVmFLSnM"
+      "actualStartTime": "2024-06-27T18:59:55Z",
+      "actualEndTime": "2024-06-27T21:24:39Z",
+      "scheduledStartTime": "2024-06-27T19:00:00Z"
     }
   },
   "Wk3T5lueEUg": {
@@ -11177,15 +11179,17 @@
       "title": "\u3010Castlevania Chronicles\u3011Going Back To The VERY Beginning!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-26T19:00:00Z",
-      "activeLiveChatId": "Cg0KC1drM1Q1bHVlRVVnKicKGFVDeWtNV2Y4QjhJN2NfakE4RlR5MnRHdxILV2szVDVsdWVFVWc"
+      "actualStartTime": "2024-06-26T18:59:49Z",
+      "actualEndTime": "2024-06-26T22:43:56Z",
+      "scheduledStartTime": "2024-06-26T19:00:00Z"
     }
   },
   "okjUMfzocwo": {
     "snippet": {
       "publishedAt": "2024-06-23T17:10:33Z",
       "channelId": "UCykMWf8B8I7c_jA8FTy2tGw",
-      "title": "\u3010Unarchived Karaoke\u3011Ringing In The Summer Season!"
+      "title": "\u3010Unarchived Karaoke\u3011Ringing In The Summer Season!",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-28T19:00:00Z",
@@ -11213,6 +11217,30 @@
       "actualStartTime": "2024-06-23T22:06:28Z",
       "actualEndTime": "2024-06-24T00:04:30Z",
       "scheduledStartTime": "2024-06-23T22:00:00Z"
+    }
+  },
+  "GFfnZoezLr0": {
+    "snippet": {
+      "publishedAt": "2024-06-28T15:09:24Z",
+      "channelId": "UCykMWf8B8I7c_jA8FTy2tGw",
+      "title": "\u3010Elder Scrolls: Morrowind\u3011Stinky Cat Theives Again",
+      "private": true
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-29T19:00:00Z",
+      "activeLiveChatId": "Cg0KC0dGZm5ab2V6THIwKicKGFVDeWtNV2Y4QjhJN2NfakE4RlR5MnRHdxILR0ZmblpvZXpMcjA"
+    }
+  },
+  "IHSF5F3Os4U": {
+    "snippet": {
+      "publishedAt": "2024-06-28T15:08:39Z",
+      "channelId": "UCykMWf8B8I7c_jA8FTy2tGw",
+      "title": "\u3010Castlevania Chronicles\u3011Let's Play Some More!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T19:00:30Z",
+      "actualEndTime": "2024-06-28T23:01:02Z",
+      "scheduledStartTime": "2024-06-28T19:00:00Z"
     }
   }
 }

@@ -4325,5 +4325,41 @@
       "actualEndTime": "2024-06-23T17:43:17Z",
       "scheduledStartTime": "2024-06-23T14:30:00Z"
     }
+  },
+  "hO4UPLA8_VE": {
+    "snippet": {
+      "publishedAt": "2024-06-25T05:33:32Z",
+      "channelId": "UCz_ZRw6ak4Foy8zZy0kEprQ",
+      "title": "hallowed by thy name"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-25T14:47:43Z",
+      "actualEndTime": "2024-06-25T18:50:03Z",
+      "scheduledStartTime": "2024-06-25T14:30:00Z"
+    }
+  },
+  "6J4C37E2Xlg": {
+    "snippet": {
+      "publishedAt": "2024-06-27T06:59:40Z",
+      "channelId": "UCz_ZRw6ak4Foy8zZy0kEprQ",
+      "title": "hex haywire plays that's not my neighbor",
+      "private": true
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-27T15:45:00Z",
+      "activeLiveChatId": "Cg0KCzZKNEMzN0UyWGxnKicKGFVDel9aUnc2YWs0Rm95OHpaeTBrRXByURILNko0QzM3RTJYbGc"
+    }
+  },
+  "ydvgx77FMss": {
+    "snippet": {
+      "publishedAt": "2024-06-27T16:05:54Z",
+      "channelId": "UCz_ZRw6ak4Foy8zZy0kEprQ",
+      "title": "hex haywire plays that's not my neighbor"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T16:12:04Z",
+      "actualEndTime": "2024-06-27T19:32:33Z",
+      "scheduledStartTime": "2024-06-27T16:05:00Z"
+    }
   }
 }

@@ -1995,8 +1995,68 @@
       "title": "[Coffee Date Zatsu] Let's Get Cozy and Make Some Mischief"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-25T12:00:00Z",
-      "activeLiveChatId": "Cg0KC2pUcXRSX3dMRDdJKicKGFVDMVpSWG9UUVV3WnRLbnBPZkp3R05QdxILalRxdFJfd0xEN0k"
+      "actualStartTime": "2024-06-25T12:00:57Z",
+      "actualEndTime": "2024-06-25T14:59:32Z",
+      "scheduledStartTime": "2024-06-25T12:00:00Z"
+    }
+  },
+  "f761gseTHaQ": {
+    "snippet": {
+      "publishedAt": "2024-06-26T02:32:22Z",
+      "channelId": "UC1ZRXoTQUwZtKnpOfJwGNPw",
+      "title": "INCUMARKED IS EXPANDING!? TIME TO CRUSH THE COMPETITION",
+      "private": true
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T10:02:00Z",
+      "scheduledStartTime": "2024-06-26T10:00:00Z",
+      "activeLiveChatId": "Cg0KC2Y3NjFnc2VUSGFRKicKGFVDMVpSWG9UUVV3WnRLbnBPZkp3R05QdxILZjc2MWdzZVRIYVE"
+    }
+  },
+  "DtDg78nVjMA": {
+    "snippet": {
+      "publishedAt": "2024-06-28T00:24:07Z",
+      "channelId": "UC1ZRXoTQUwZtKnpOfJwGNPw",
+      "title": "Let's Write a Script Together and I'll Record it!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T10:00:41Z",
+      "actualEndTime": "2024-06-28T12:15:56Z",
+      "scheduledStartTime": "2024-06-28T10:00:00Z"
+    }
+  },
+  "PcoGkWTcjbU": {
+    "snippet": {
+      "publishedAt": "2024-06-28T00:30:20Z",
+      "channelId": "UC1ZRXoTQUwZtKnpOfJwGNPw",
+      "title": "Looks Like our Ship has Sailed! [Layers of Fear 2]"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T16:02:37Z",
+      "actualEndTime": "2024-06-28T19:03:03Z",
+      "scheduledStartTime": "2024-06-28T16:00:00Z"
+    }
+  },
+  "d-uNhx2sLg8": {
+    "snippet": {
+      "publishedAt": "2024-06-29T00:33:20Z",
+      "channelId": "UC1ZRXoTQUwZtKnpOfJwGNPw",
+      "title": "Is now a good time to tell you I can't swim? [Subnautica]"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-29T16:00:00Z",
+      "activeLiveChatId": "Cg0KC2QtdU5oeDJzTGc4KicKGFVDMVpSWG9UUVV3WnRLbnBPZkp3R05QdxILZC11Tmh4MnNMZzg"
+    }
+  },
+  "EupeRQDBzIE": {
+    "snippet": {
+      "publishedAt": "2024-06-29T00:41:56Z",
+      "channelId": "UC1ZRXoTQUwZtKnpOfJwGNPw",
+      "title": "[ASMR Minecraft] Get Cozy as we Wander, Build, and Prepare to Battle!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-30T12:00:00Z",
+      "activeLiveChatId": "Cg0KC0V1cGVSUURCeklFKicKGFVDMVpSWG9UUVV3WnRLbnBPZkp3R05QdxILRXVwZVJRREJ6SUU"
     }
   }
 }

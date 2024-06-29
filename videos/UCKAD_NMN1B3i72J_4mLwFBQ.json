@@ -1886,19 +1886,28 @@
       "title": "To be Holy or NOT to be Holy [SAINTMAKER]"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-26T13:00:00Z",
-      "activeLiveChatId": "Cg0KC2JoalRXZGgzQ3h3KicKGFVDS0FEX05NTjFCM2k3MkpfNG1Md0ZCURILYmhqVFdkaDNDeHc"
+      "actualStartTime": "2024-06-26T12:57:39Z",
+      "actualEndTime": "2024-06-26T15:34:37Z",
+      "scheduledStartTime": "2024-06-26T13:00:00Z"
     }
   },
   "bPjhrKAp51g": {
     "snippet": {
       "publishedAt": "2024-06-22T20:23:35Z",
       "channelId": "UCKAD_NMN1B3i72J_4mLwFBQ",
-      "title": "Jollibee? Jollibae! [JOLLIBAE: THE HORROR GAME]"
+      "title": "Jollibee? Jollibae! [JOLLIBAE: THE HORROR GAME] + Minecraft Afterparty"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-25T13:00:00Z",
-      "activeLiveChatId": "Cg0KC2JQamhyS0FwNTFnKicKGFVDS0FEX05NTjFCM2k3MkpfNG1Md0ZCURILYlBqaHJLQXA1MWc"
+      "actualStartTime": "2024-06-25T13:00:47Z",
+      "actualEndTime": "2024-06-25T15:55:56Z",
+      "scheduledStartTime": "2024-06-25T13:00:00Z"
+    }
+  },
+  "22Q5WilQeBM": {
+    "snippet": {
+      "publishedAt": "2024-06-29T13:00:02Z",
+      "channelId": "UCKAD_NMN1B3i72J_4mLwFBQ",
+      "title": "Serjay taught me how to play LADIVA!!! #reelgina #vtuber"
     }
   }
 }

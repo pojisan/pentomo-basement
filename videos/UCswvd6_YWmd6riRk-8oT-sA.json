@@ -10511,9 +10511,9 @@
       "title": "\u3010Shiki Miyoshino\u3011Second Flight - KOTOKO & Hiromi Satou\u3010Cover\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-25T23:00:00Z",
-      "activeLiveChatId": "Cg0KC2VSdjVLLUhaZkNNKicKGFVDc3d2ZDZfWVdtZDZyaVJrLThvVC1zQRILZVJ2NUstSFpmQ00",
-      "premiere": true
+      "actualStartTime": "2024-06-25T23:00:07Z",
+      "actualEndTime": "2024-06-25T23:06:48Z",
+      "scheduledStartTime": "2024-06-25T23:00:00Z"
     }
   },
   "tjZs1N4blhA": {
@@ -10523,8 +10523,9 @@
       "title": "\u3010ANNIVERSARY + NEW OUTFIT REVEAL!\u3011HAPPY ANNIVERSARY TO MEEEEE!!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-25T23:15:00Z",
-      "activeLiveChatId": "Cg0KC3RqWnMxTjRibGhBKicKGFVDc3d2ZDZfWVdtZDZyaVJrLThvVC1zQRILdGpaczFONGJsaEE"
+      "actualStartTime": "2024-06-25T23:13:39Z",
+      "actualEndTime": "2024-06-26T01:39:25Z",
+      "scheduledStartTime": "2024-06-25T23:11:05Z"
     }
   },
   "VkE259XVsUw": {
@@ -10546,8 +10547,32 @@
       "title": "\u3010HANDCAM UNBOXING\u3011Unboxing the gifts you got me from throne!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-26T15:00:00Z",
-      "activeLiveChatId": "Cg0KC05qT0dQWWZvRk84KicKGFVDc3d2ZDZfWVdtZDZyaVJrLThvVC1zQRILTmpPR1BZZm9GTzg"
+      "actualStartTime": "2024-06-26T14:57:10Z",
+      "actualEndTime": "2024-06-26T17:00:47Z",
+      "scheduledStartTime": "2024-06-26T14:55:21Z"
+    }
+  },
+  "d-tNvThsZTM": {
+    "snippet": {
+      "publishedAt": "2024-06-26T14:35:29Z",
+      "channelId": "UCswvd6_YWmd6riRk-8oT-sA",
+      "title": "Racing for #VTuberSS2024! | Mario Kart 8 w/ prima friends!!!!!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T21:57:07Z",
+      "actualEndTime": "2024-06-26T23:36:32Z",
+      "scheduledStartTime": "2024-06-26T21:55:42Z"
+    }
+  },
+  "5-vWrocHS2E": {
+    "snippet": {
+      "publishedAt": "2024-06-28T00:02:31Z",
+      "channelId": "UCswvd6_YWmd6riRk-8oT-sA",
+      "title": "\u3010Ao Oni\u3011it's been years let's see how much my pea brain remembers!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-29T21:00:00Z",
+      "activeLiveChatId": "Cg0KCzUtdldyb2NIUzJFKicKGFVDc3d2ZDZfWVdtZDZyaVJrLThvVC1zQRILNS12V3JvY0hTMkU"
     }
   }
 }

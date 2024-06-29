@@ -1275,11 +1275,36 @@
     "snippet": {
       "publishedAt": "2024-06-24T04:03:25Z",
       "channelId": "UCKZOVCP06BgPdIgWL0467AA",
-      "title": "\u3010STILL WAKES THE DEEP\u3011I'm going in DEEP!!!\u3010CADENCE NINE\u3011"
+      "title": "\u3010MINECRAFT\u3011Mine Mine Mine\u3010CADENCE NINE\u3011",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-25T12:00:00Z",
       "activeLiveChatId": "Cg0KCzFNRzFvQkFZSDh3KicKGFVDS1pPVkNQMDZCZ1BkSWdXTDA0NjdBQRILMU1HMW9CQVlIOHc"
+    }
+  },
+  "7eL4wsZPDXg": {
+    "snippet": {
+      "publishedAt": "2024-06-25T12:04:48Z",
+      "channelId": "UCKZOVCP06BgPdIgWL0467AA",
+      "title": "\u3010MINECRAFT\u3011Mine Mine Mine\u3010CADENCE NINE\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-25T12:06:14Z",
+      "actualEndTime": "2024-06-25T15:52:50Z",
+      "scheduledStartTime": "2024-06-25T12:05:00Z"
+    }
+  },
+  "xktbx0K3UK0": {
+    "snippet": {
+      "publishedAt": "2024-06-26T03:18:31Z",
+      "channelId": "UCKZOVCP06BgPdIgWL0467AA",
+      "title": "\u3010FINAL FANTASY XIV\u3011Dance into a new dawn!!!\u3010CADENCE NINE\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T09:01:59Z",
+      "actualEndTime": "2024-06-28T11:11:50Z",
+      "scheduledStartTime": "2024-06-28T09:00:00Z"
     }
   }
 }

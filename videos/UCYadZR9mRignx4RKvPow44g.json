@@ -9250,8 +9250,9 @@
       "title": "ULTRA LOW INTELLIGENCE RUN \ud83d\udc97 | FPS TIME!\u3010 FALLOUT NEW VEGAS \u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-24T02:30:00Z",
-      "activeLiveChatId": "Cg0KC05qQVdVSlFVU1JVKicKGFVDWWFkWlI5bVJpZ254NFJLdlBvdzQ0ZxILTmpBV1VKUVVTUlU"
+      "actualStartTime": "2024-06-26T02:35:59Z",
+      "actualEndTime": "2024-06-26T11:15:54Z",
+      "scheduledStartTime": "2024-06-26T02:30:00Z"
     }
   },
   "RhP-DOPm2_Q": {
@@ -9276,6 +9277,55 @@
       "actualStartTime": "2024-06-23T04:06:31Z",
       "actualEndTime": "2024-06-23T10:20:17Z",
       "scheduledStartTime": "2024-06-23T04:00:00Z"
+    }
+  },
+  "k_pGk3G6OKc": {
+    "snippet": {
+      "publishedAt": "2024-06-25T00:58:40Z",
+      "channelId": "UCYadZR9mRignx4RKvPow44g",
+      "title": "HARRY POTTER MARATHON \ud83d\udc97\u3010 Movies 1-2 | Members Only \u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-25T02:41:21Z",
+      "actualEndTime": "2024-06-25T09:58:50Z",
+      "scheduledStartTime": "2024-06-25T02:30:00Z",
+      "activeLiveChatId": "Cg0KC2tfcEdrM0c2T0tjKicKGFVDWWFkWlI5bVJpZ254NFJLdlBvdzQ0ZxILa19wR2szRzZPS2M"
+    }
+  },
+  "C6QUi1lN7eI": {
+    "snippet": {
+      "publishedAt": "2024-06-27T01:25:10Z",
+      "channelId": "UCYadZR9mRignx4RKvPow44g",
+      "title": "\u3010 MINECRAFT: PIXEL ART \u3011Making Reina Sun! \ud83d\udc97"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T02:31:57Z",
+      "actualEndTime": "2024-06-27T08:32:23Z",
+      "scheduledStartTime": "2024-06-27T02:30:00Z"
+    }
+  },
+  "qIQDYxt0Axk": {
+    "snippet": {
+      "publishedAt": "2024-06-28T01:52:32Z",
+      "channelId": "UCYadZR9mRignx4RKvPow44g",
+      "title": "METROID PRIME 4 JUST ANNOUNCED!? LET'S PLAY THE ORIGINAL! \ud83d\udc97 MY FIRST TIME!\u3010 METROID PRIME \u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T02:38:35Z",
+      "actualEndTime": "2024-06-28T10:38:49Z",
+      "scheduledStartTime": "2024-06-28T02:30:00Z"
+    }
+  },
+  "C6O8OMduHPM": {
+    "snippet": {
+      "publishedAt": "2024-06-29T03:26:21Z",
+      "channelId": "UCYadZR9mRignx4RKvPow44g",
+      "title": "\ud83d\udd34 LIVE - How Difficult is This Elden Ring DLC!? \ud83d\udc97\u3010 ELDEN RING: Shadow of the Erdtree \u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-29T04:04:36Z",
+      "actualEndTime": "2024-06-29T10:18:52Z",
+      "scheduledStartTime": "2024-06-29T04:00:00Z"
     }
   }
 }

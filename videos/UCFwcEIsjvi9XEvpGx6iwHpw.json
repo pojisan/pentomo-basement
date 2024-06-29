@@ -1621,8 +1621,32 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-25T00:01:15Z",
-      "scheduledStartTime": "2024-06-25T00:00:00Z",
-      "activeLiveChatId": "Cg0KC3l5c0syQXNuTkU4KicKGFVDRndjRUlzanZpOVhFdnBHeDZpd0hwdxILeXlzSzJBc25ORTg"
+      "actualEndTime": "2024-06-25T01:28:05Z",
+      "scheduledStartTime": "2024-06-25T00:00:00Z"
+    }
+  },
+  "D4wERkEmQ0g": {
+    "snippet": {
+      "publishedAt": "2024-06-25T15:57:56Z",
+      "channelId": "UCFwcEIsjvi9XEvpGx6iwHpw",
+      "title": "BUILDING THE GREAT WALL OF AVALLUM\u3010Minecraft\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T00:01:19Z",
+      "actualEndTime": "2024-06-26T04:01:30Z",
+      "scheduledStartTime": "2024-06-26T00:00:00Z"
+    }
+  },
+  "sgH8-j2_5U0": {
+    "snippet": {
+      "publishedAt": "2024-06-26T12:08:16Z",
+      "channelId": "UCFwcEIsjvi9XEvpGx6iwHpw",
+      "title": "THE BEST DETECTIVES IN THE WORLD ARE HERE! DO NOT FEAR\u3010Doki Doki AI Interrogation\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T14:01:11Z",
+      "actualEndTime": "2024-06-26T16:04:00Z",
+      "scheduledStartTime": "2024-06-26T14:00:00Z"
     }
   }
 }

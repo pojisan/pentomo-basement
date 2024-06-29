@@ -580,8 +580,32 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-24T22:56:16Z",
-      "scheduledStartTime": "2024-06-24T23:00:00Z",
-      "activeLiveChatId": "Cg0KC3RpdGpNTXZWSmhVKicKGFVDNFI2ZGRoQkpwMmJqUUhWTnhnTlFTQRILdGl0ak1NdlZKaFU"
+      "actualEndTime": "2024-06-25T03:43:10Z",
+      "scheduledStartTime": "2024-06-24T23:00:00Z"
+    }
+  },
+  "X4z0hasFymc": {
+    "snippet": {
+      "publishedAt": "2024-06-26T20:10:24Z",
+      "channelId": "UC4R6ddhBJp2bjQHVNxgNQSA",
+      "title": "I dozed off on the train and... \u3010 8\u756a\u306e\u308a\u3070  / Platform 8\u3011 \u3010 Akugaki Koa | idolES \u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T16:56:09Z",
+      "actualEndTime": "2024-06-28T19:13:42Z",
+      "scheduledStartTime": "2024-06-28T17:00:00Z"
+    }
+  },
+  "MXIKh65K4ss": {
+    "snippet": {
+      "publishedAt": "2024-06-26T20:11:35Z",
+      "channelId": "UC4R6ddhBJp2bjQHVNxgNQSA",
+      "title": "\u3010 METAL GEAR SOLID #2 \u3011 Culebrilla dura operando \u3010 Akugaki Koa | idolES \u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T22:55:57Z",
+      "actualEndTime": "2024-06-29T03:14:36Z",
+      "scheduledStartTime": "2024-06-28T23:00:00Z"
     }
   }
 }

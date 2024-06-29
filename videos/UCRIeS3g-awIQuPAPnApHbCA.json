@@ -544,11 +544,36 @@
     "snippet": {
       "publishedAt": "2024-06-24T09:23:48Z",
       "channelId": "UCRIeS3g-awIQuPAPnApHbCA",
-      "title": "\u3010PKMN SS\u3011IT'S SAFARI WEEK  #pkmnpride2024"
+      "title": "\u3010PKMN SS\u3011IT'S SAFARI WEEK  #pkmnpride2024",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-25T02:00:00Z",
       "activeLiveChatId": "Cg0KC3FWSkhQR3NKcmJnKicKGFVDUkllUzNnLWF3SVF1UEFQbkFwSGJDQRILcVZKSFBHc0pyYmc"
+    }
+  },
+  "3uyIrLLFGL8": {
+    "snippet": {
+      "publishedAt": "2024-06-26T01:57:08Z",
+      "channelId": "UCRIeS3g-awIQuPAPnApHbCA",
+      "title": "\u3010ART STREAM!\u3011LET'S DRAW POKEMON AGAIN!  #pkmnpride2024"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T03:59:39Z",
+      "actualEndTime": "2024-06-26T05:58:59Z",
+      "scheduledStartTime": "2024-06-26T04:00:00Z"
+    }
+  },
+  "dcSjgAUI9h8": {
+    "snippet": {
+      "publishedAt": "2024-06-26T12:26:55Z",
+      "channelId": "UCRIeS3g-awIQuPAPnApHbCA",
+      "title": "\u3010PKMN SOULLINK: X AND Y\u3011HERE WE GO AGAIN  #pkmnpride2024"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T04:00:38Z",
+      "actualEndTime": "2024-06-27T08:34:56Z",
+      "scheduledStartTime": "2024-06-27T04:00:00Z"
     }
   }
 }

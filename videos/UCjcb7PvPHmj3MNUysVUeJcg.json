@@ -660,8 +660,9 @@
       "title": "\u3010Batman: Arkham Asylum\u3011Sneaking around"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-25T01:00:00Z",
-      "activeLiveChatId": "Cg0KC2VqRG03SUhTR2VrKicKGFVDamNiN1B2UEhtajNNTlV5c1ZVZUpjZxILZWpEbTdJSFNHZWs"
+      "actualStartTime": "2024-06-25T01:02:39Z",
+      "actualEndTime": "2024-06-25T05:02:23Z",
+      "scheduledStartTime": "2024-06-25T01:00:00Z"
     }
   },
   "41pF_8TwCWo": {
@@ -681,6 +682,8 @@
       "title": "Guide to surviving Australia"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T02:01:48Z",
+      "actualEndTime": "2024-06-26T04:14:58Z",
       "scheduledStartTime": "2024-06-26T02:00:00Z"
     }
   }

@@ -10869,5 +10869,41 @@
       "actualEndTime": "2024-06-24T01:03:59Z",
       "scheduledStartTime": "2024-06-23T23:30:00Z"
     }
+  },
+  "4ZoKKOYP9S0": {
+    "snippet": {
+      "publishedAt": "2024-06-25T20:01:58Z",
+      "channelId": "UCKJexadCeNo3lu0U20skmNg",
+      "title": "[CYA] We're Getting Married"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-25T23:16:09Z",
+      "actualEndTime": "2024-06-26T01:00:26Z",
+      "scheduledStartTime": "2024-06-25T23:00:00Z"
+    }
+  },
+  "FTOBRcGZ_tc": {
+    "snippet": {
+      "publishedAt": "2024-06-26T19:45:22Z",
+      "channelId": "UCKJexadCeNo3lu0U20skmNg",
+      "title": "[VTUBER SUMMER SLAM!] Singing Summer Tunes for Charity! #VTSS2024"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T22:23:49Z",
+      "actualEndTime": "2024-06-27T01:48:19Z",
+      "scheduledStartTime": "2024-06-26T22:15:00Z"
+    }
+  },
+  "bntYEViUIDs": {
+    "snippet": {
+      "publishedAt": "2024-06-27T15:43:07Z",
+      "channelId": "UCKJexadCeNo3lu0U20skmNg",
+      "title": "[VTUBER SUMMER SLAM!] Dancing #Zumba for Charity! #VTSS2024"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T22:48:20Z",
+      "actualEndTime": "2024-06-28T01:03:36Z",
+      "scheduledStartTime": "2024-06-27T22:30:00Z"
+    }
   }
 }

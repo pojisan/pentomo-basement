@@ -483,7 +483,7 @@
     "snippet": {
       "publishedAt": "2024-01-23T11:24:25Z",
       "channelId": "UCdh-YF2gTzqDNu0VU9lwPPw",
-      "title": "\u3010schedule / free chat\u3011\u3010NIJISANJI EN | Claude Clawmark\u3011"
+      "title": "\u3010schedule / free chat\u3011"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2026-01-01T08:00:00Z",
@@ -1555,11 +1555,12 @@
     "snippet": {
       "publishedAt": "2024-06-19T00:50:36Z",
       "channelId": "UCdh-YF2gTzqDNu0VU9lwPPw",
-      "title": "\u3010APEX LEGENDS\u3011CAR zooming thru plat lobbies\u3010NIJISANJI EN | Claude Clawmark\u3011"
+      "title": "\u3010APEX LEGENDS\u3011ape back car time\u3010NIJISANJI EN | Claude Clawmark\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-26T02:00:00Z",
-      "activeLiveChatId": "Cg0KC3JPdVE0LWZpdC04KicKGFVDZGgtWUYyZ1R6cUROdTBWVTlsd1BQdxILck91UTQtZml0LTg"
+      "actualStartTime": "2024-06-26T01:58:35Z",
+      "actualEndTime": "2024-06-26T06:20:02Z",
+      "scheduledStartTime": "2024-06-26T02:00:00Z"
     }
   },
   "CLy9FuDstYM": {
@@ -1590,11 +1591,48 @@
     "snippet": {
       "publishedAt": "2024-06-25T00:33:28Z",
       "channelId": "UCdh-YF2gTzqDNu0VU9lwPPw",
-      "title": "\u3010VALORANT\u3011EPISODE 8 LAST RANKED PUSH\u3010NIJISANJI EN | Claude Clawmark\u3011"
+      "title": "\u3010VALORANT\u3011EP 8 LAST RANKED PUSH W/ @kugaleo_Q \u3010NIJISANJI EN | Claude Clawmark\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-25T01:00:00Z",
-      "activeLiveChatId": "Cg0KC2MzdngzQ01yajgwKicKGFVDZGgtWUYyZ1R6cUROdTBWVTlsd1BQdxILYzN2eDNDTXJqODA"
+      "actualStartTime": "2024-06-25T00:53:21Z",
+      "actualEndTime": "2024-06-25T08:02:01Z",
+      "scheduledStartTime": "2024-06-25T01:00:00Z"
+    }
+  },
+  "H8Jd5zEo5eA": {
+    "snippet": {
+      "publishedAt": "2024-06-26T13:41:56Z",
+      "channelId": "UCdh-YF2gTzqDNu0VU9lwPPw",
+      "title": "\u3010CHAINED TOGETHER\u3011krisisis bonding exercise\u3010NIJISANJI EN | Claude Clawmark\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T21:07:34Z",
+      "actualEndTime": "2024-06-27T04:20:16Z",
+      "scheduledStartTime": "2024-06-26T21:00:00Z"
+    }
+  },
+  "FFb1cEvGU2c": {
+    "snippet": {
+      "publishedAt": "2024-06-27T17:37:22Z",
+      "channelId": "UCdh-YF2gTzqDNu0VU9lwPPw",
+      "title": "\u3010TREPANG 2\u3011AND THEN I STARTED BLASTING\u3010NIJISANJI EN | Claude Clawmark\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T19:07:21Z",
+      "actualEndTime": "2024-06-27T23:53:25Z",
+      "scheduledStartTime": "2024-06-27T20:00:00Z"
+    }
+  },
+  "waF8C2IlZ5E": {
+    "snippet": {
+      "publishedAt": "2024-06-28T09:52:42Z",
+      "channelId": "UCdh-YF2gTzqDNu0VU9lwPPw",
+      "title": "\u3010NEON WHITE\u3011speedrunner in the making\u3010NIJISANJI EN | Claude Clawmark\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-29T01:10:42Z",
+      "actualEndTime": "2024-06-29T05:13:21Z",
+      "scheduledStartTime": "2024-06-28T22:00:00Z"
     }
   }
 }

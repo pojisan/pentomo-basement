@@ -6067,8 +6067,20 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-24T22:05:42Z",
-      "scheduledStartTime": "2024-06-24T22:00:00Z",
-      "activeLiveChatId": "Cg0KC3F2eXl4c2FnYjZ3KicKGFVDTjY4TG9NM2toUzRnZEJNaVdKTzhXQRILcXZ5eXhzYWdiNnc"
+      "actualEndTime": "2024-06-25T03:02:35Z",
+      "scheduledStartTime": "2024-06-24T22:00:00Z"
+    }
+  },
+  "_ll-aXAQ2bI": {
+    "snippet": {
+      "publishedAt": "2024-06-28T17:10:02Z",
+      "channelId": "UCN68LoM3khS4gdBMiWJO8WA",
+      "title": "What are your WILDEST work stories? \u3010NIJISANJI EN | Aia Amare \u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T22:08:30Z",
+      "actualEndTime": "2024-06-29T02:43:29Z",
+      "scheduledStartTime": "2024-06-28T22:00:00Z"
     }
   }
 }

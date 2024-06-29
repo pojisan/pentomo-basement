@@ -858,5 +858,52 @@
       "actualEndTime": "2024-06-22T20:04:22Z",
       "scheduledStartTime": "2024-06-22T16:00:00Z"
     }
+  },
+  "MUfn4QWe9vE": {
+    "snippet": {
+      "publishedAt": "2024-06-25T03:20:08Z",
+      "channelId": "UClcMT9V9iu7xphkHVHglHTg",
+      "title": "\u3010PERSONA 3 RELOAD\u3011THE GANG'S ALL HERE NOW"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T16:03:07Z",
+      "actualEndTime": "2024-06-26T21:12:59Z",
+      "scheduledStartTime": "2024-06-26T16:00:00Z"
+    }
+  },
+  "BL3C1LlTCZY": {
+    "snippet": {
+      "publishedAt": "2024-06-25T03:19:14Z",
+      "channelId": "UClcMT9V9iu7xphkHVHglHTg",
+      "title": "\u3010HONKAI: STAR RAIL\u3011THE FINALE OF PENACONY"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-25T16:18:13Z",
+      "actualEndTime": "2024-06-25T21:51:07Z",
+      "scheduledStartTime": "2024-06-25T16:00:00Z"
+    }
+  },
+  "UCBxJH98V74": {
+    "snippet": {
+      "publishedAt": "2024-06-25T03:22:39Z",
+      "channelId": "UClcMT9V9iu7xphkHVHglHTg",
+      "title": "\u3010SISTER SOUL-LINK\u3011PLEASE NO MORE DEATHS"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-29T16:00:00Z",
+      "activeLiveChatId": "Cg0KC1VDQnhKSDk4Vjc0KicKGFVDbGNNVDlWOWl1N3hwaGtIVkhnbEhUZxILVUNCeEpIOThWNzQ"
+    }
+  },
+  "yehxnesBPy4": {
+    "snippet": {
+      "publishedAt": "2024-06-25T03:21:52Z",
+      "channelId": "UClcMT9V9iu7xphkHVHglHTg",
+      "title": "\u3010ELDEN RING\u3011OUR FIRST SOULS-LIKE!!!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T17:12:39Z",
+      "actualEndTime": "2024-06-28T21:34:30Z",
+      "scheduledStartTime": "2024-06-28T16:00:00Z"
+    }
   }
 }

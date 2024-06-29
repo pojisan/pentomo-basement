@@ -1112,8 +1112,93 @@
       "title": "\u2600\ufe0fSUMMER SUBATHON DAY 02 ! \u2600\ufe0f Starting strong \ud83d\udcaa WE PERSIST!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-25T10:00:00Z",
-      "activeLiveChatId": "Cg0KC3pUN051Q1NXanY4KicKGFVDYXhpRGVfVHVNTFhrd1JNVkxtNVZ3URILelQ3TnVDU1dqdjg"
+      "actualStartTime": "2024-06-25T10:01:06Z",
+      "actualEndTime": "2024-06-25T16:00:19Z",
+      "scheduledStartTime": "2024-06-25T10:00:00Z"
+    }
+  },
+  "QdxNcX9dtok": {
+    "snippet": {
+      "publishedAt": "2024-06-25T22:09:37Z",
+      "channelId": "UCaxiDe_TuMLXkwRMVLm5VwQ",
+      "title": "\u2600\ufe0fSUMMER SUBATHON DAY 03 ! \u2600\ufe0fDid you know this is my 100th video? \ud83d\udcaf\ud83d\udcaf 100x MORE FUN"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T10:01:03Z",
+      "actualEndTime": "2024-06-26T14:04:26Z",
+      "scheduledStartTime": "2024-06-26T10:00:00Z"
+    }
+  },
+  "Vx2DenCwB4o": {
+    "snippet": {
+      "publishedAt": "2024-06-26T14:13:44Z",
+      "channelId": "UCaxiDe_TuMLXkwRMVLm5VwQ",
+      "title": "\u2600\ufe0fSUMMER SUBATHON DAY 04 ! \u2600\ufe0fKaraoke? Making new alerts? \ud83d\udc40\ud83d\udc40\u2764\ufe0f\u2764\ufe0f\u2764\ufe0f"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T03:00:31Z",
+      "actualEndTime": "2024-06-27T09:00:33Z",
+      "scheduledStartTime": "2024-06-27T03:00:00Z"
+    }
+  },
+  "BliDoHjdRbc": {
+    "snippet": {
+      "publishedAt": "2024-06-28T00:19:48Z",
+      "channelId": "UCaxiDe_TuMLXkwRMVLm5VwQ",
+      "title": "\u2600\ufe0fSUMMER SUBATHON DAY 05 ! \u2600\ufe0fI ran out of things to put in the title"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T03:00:59Z",
+      "actualEndTime": "2024-06-28T07:02:29Z",
+      "scheduledStartTime": "2024-06-28T03:00:00Z"
+    }
+  },
+  "MEhX2pLqlXs": {
+    "snippet": {
+      "publishedAt": "2024-06-28T00:21:26Z",
+      "channelId": "UCaxiDe_TuMLXkwRMVLm5VwQ",
+      "title": "\u3010FFXIV\u3011LET'S WAIT FOR DAWNTRAIL TOGETHER! \u2727"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T08:01:11Z",
+      "actualEndTime": "2024-06-28T13:16:35Z",
+      "scheduledStartTime": "2024-06-28T08:00:00Z"
+    }
+  },
+  "UAvWVucvhwI": {
+    "snippet": {
+      "publishedAt": "2024-06-28T14:09:17Z",
+      "channelId": "UCaxiDe_TuMLXkwRMVLm5VwQ",
+      "title": "\u3010FFXIV\u3011LET'S CONTINUE WITH MAIN SCENARIO! \u2727"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-29T08:00:23Z",
+      "actualEndTime": "2024-06-29T11:10:23Z",
+      "scheduledStartTime": "2024-06-29T08:00:00Z",
+      "activeLiveChatId": "Cg0KC1VBdldWdWN2aHdJKicKGFVDYXhpRGVfVHVNTFhrd1JNVkxtNVZ3URILVUF2V1Z1Y3Zod0k"
+    }
+  },
+  "DbLt0gnnPf8": {
+    "snippet": {
+      "publishedAt": "2024-06-28T14:07:45Z",
+      "channelId": "UCaxiDe_TuMLXkwRMVLm5VwQ",
+      "title": "\u2600\ufe0fSUMMER SUBATHON DAY 06 ! \u2600\ufe0fWait it's Day 6 already?!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-29T03:02:01Z",
+      "actualEndTime": "2024-06-29T07:39:53Z",
+      "scheduledStartTime": "2024-06-29T03:00:00Z"
+    }
+  },
+  "a4Dds7MaJGw": {
+    "snippet": {
+      "publishedAt": "2024-06-29T14:56:48Z",
+      "channelId": "UCaxiDe_TuMLXkwRMVLm5VwQ",
+      "title": "\u2600\ufe0fFINAL DAY OF SUBATHON! \u2600\ufe0fHandcam stream! What does VEGEMITE taste like? And other things!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-30T03:00:00Z",
+      "activeLiveChatId": "Cg0KC2E0RGRzN01hSkd3KicKGFVDYXhpRGVfVHVNTFhrd1JNVkxtNVZ3URILYTREZHM3TWFKR3c"
     }
   }
 }

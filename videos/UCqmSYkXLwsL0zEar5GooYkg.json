@@ -1206,8 +1206,9 @@
       "title": "\u3010Drawing Stream\u3011no tablet? no problem! \ud83d\udc01\u3010Yume+ | Mimosa Shirosaki\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-25T03:00:00Z",
-      "activeLiveChatId": "Cg0KCzNGQnk1VjZ4akZJKicKGFVDcW1TWWtYTHdzTDB6RWFyNUdvb1lrZxILM0ZCeTVWNnhqRkk"
+      "actualStartTime": "2024-06-25T02:59:28Z",
+      "actualEndTime": "2024-06-25T06:21:32Z",
+      "scheduledStartTime": "2024-06-25T03:00:00Z"
     }
   },
   "8oPIIf3_56E": {
@@ -1217,8 +1218,51 @@
       "title": "\u3010Among Us\u3011VAllure VS Yume+ !!\u3010Yume+ | Mimosa Shirosaki\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-26T00:00:00Z",
-      "activeLiveChatId": "Cg0KCzhvUElJZjNfNTZFKicKGFVDcW1TWWtYTHdzTDB6RWFyNUdvb1lrZxILOG9QSUlmM181NkU"
+      "actualStartTime": "2024-06-26T00:00:55Z",
+      "actualEndTime": "2024-06-26T02:11:44Z",
+      "scheduledStartTime": "2024-06-26T00:00:00Z"
+    }
+  },
+  "Xkne5nXP4M0": {
+    "snippet": {
+      "publishedAt": "2024-06-25T19:42:15Z",
+      "channelId": "UCqmSYkXLwsL0zEar5GooYkg",
+      "title": "\u3010Stream Medley\u30118 (jk it was 7) HOURS OF GAMING\u3010Yume+ | Mimosa Shirosaki\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T21:59:23Z",
+      "actualEndTime": "2024-06-27T05:12:26Z",
+      "scheduledStartTime": "2024-06-26T22:00:00Z"
+    }
+  },
+  "Jkw9reztrm0": {
+    "snippet": {
+      "publishedAt": "2024-06-29T00:47:47Z",
+      "channelId": "UCqmSYkXLwsL0zEar5GooYkg",
+      "title": "\u3010Apex Legends\u3011apeggs with @MeroUmiko @raeinclowd \u3010Yume+ | Mimosa Shirosaki\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-29T00:58:03Z",
+      "actualEndTime": "2024-06-29T04:18:19Z",
+      "scheduledStartTime": "2024-06-29T01:15:00Z"
+    }
+  },
+  "cdkRV0n-7_w": {
+    "snippet": {
+      "publishedAt": "2024-06-29T13:49:20Z",
+      "channelId": "UCqmSYkXLwsL0zEar5GooYkg",
+      "title": "\u3010Watch With Me: True Crime\u3011CEREAL KRILLERS?! \ud83e\udd63\ud83e\udd90\u3010Yume+ | Mimosa Shirosaki\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-30T03:00:00Z",
+      "activeLiveChatId": "Cg0KC2Nka1JWMG4tN193KicKGFVDcW1TWWtYTHdzTDB6RWFyNUdvb1lrZxILY2RrUlYwbi03X3c"
+    }
+  },
+  "5uYoKxelWOA": {
+    "snippet": {
+      "publishedAt": "2024-06-29T14:37:57Z",
+      "channelId": "UCqmSYkXLwsL0zEar5GooYkg",
+      "title": "HER LAUGH WILL BRIGHTEN YOUR DAY #vtuber"
     }
   }
 }

@@ -6712,5 +6712,40 @@
       "actualEndTime": "2024-06-22T04:04:23Z",
       "scheduledStartTime": "2024-06-22T00:00:00Z"
     }
+  },
+  "waezTy07apE": {
+    "snippet": {
+      "publishedAt": "2024-06-26T17:01:35Z",
+      "channelId": "UCpeRj9-GaLGNUoKdI5I7vZA",
+      "title": "\u3010Charity Stream\u3011 Racing with the girls for #VTuberSS2024! | Mario Kart 8"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T21:57:57Z",
+      "actualEndTime": "2024-06-27T00:45:46Z",
+      "scheduledStartTime": "2024-06-26T22:00:00Z"
+    }
+  },
+  "ancgdnh2puo": {
+    "snippet": {
+      "publishedAt": "2024-06-27T19:26:58Z",
+      "channelId": "UCpeRj9-GaLGNUoKdI5I7vZA",
+      "title": "\u3010Minecraft\u3011 There's a fan Minecraft server!? Gonna go check it out!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T00:00:15Z",
+      "actualEndTime": "2024-06-28T03:02:10Z",
+      "scheduledStartTime": "2024-06-28T00:00:00Z"
+    }
+  },
+  "QMCkHdaMCxc": {
+    "snippet": {
+      "publishedAt": "2024-06-27T22:48:35Z",
+      "channelId": "UCpeRj9-GaLGNUoKdI5I7vZA",
+      "title": "\u30103D Chibi Debut\u3011 Celebrating 3rd Anniversary + Announcement"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-29T14:00:00Z",
+      "activeLiveChatId": "Cg0KC1FNQ2tIZGFNQ3hjKicKGFVDcGVSajktR2FMR05Vb0tkSTVJN3ZaQRILUU1Da0hkYU1DeGM"
+    }
   }
 }

@@ -768,11 +768,43 @@
     "snippet": {
       "publishedAt": "2024-06-24T20:47:24Z",
       "channelId": "UC678sJnqTwlsWwNk2RWRK2g",
-      "title": "\u3010ZooKeeper Simulator\u3011Charity Collab Stream!\u3010Vilhelm Vanderbos | globie Gen 2 | Equinnox\u3011"
+      "title": "\u3010ZooKeeper Simulator\u3011Part 1 WWF Charity Awareness!\u3010Vilhelm Vanderbos | globie Gen 2 | Equinnox\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-25T17:30:00Z",
-      "activeLiveChatId": "Cg0KC3JEeHdhdFNvelg0KicKGFVDNjc4c0pucVR3bHNXd05rMlJXUksyZxILckR4d2F0U296WDQ"
+      "actualStartTime": "2024-06-25T17:35:18Z",
+      "actualEndTime": "2024-06-25T19:22:05Z",
+      "scheduledStartTime": "2024-06-25T17:30:00Z"
+    }
+  },
+  "ckfPoGgGJ9w": {
+    "snippet": {
+      "publishedAt": "2024-06-25T19:23:26Z",
+      "channelId": "UC678sJnqTwlsWwNk2RWRK2g",
+      "title": "\u3010ZooKeeper Simulator\u3011Part 2 WWF Charity Awareness!\u3010Vilhelm Vanderbos | globie Gen 2 | Equinnox\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-25T19:24:51Z",
+      "actualEndTime": "2024-06-25T20:18:00Z",
+      "scheduledStartTime": "2024-06-25T19:25:00Z"
+    }
+  },
+  "VNRdPRReyug": {
+    "snippet": {
+      "publishedAt": "2024-06-26T13:31:54Z",
+      "channelId": "UC678sJnqTwlsWwNk2RWRK2g",
+      "title": "Can you pronounce 7777 in Swedish? #vtuber #duolingo #swedish #swedishforbeginners"
+    }
+  },
+  "aDVOhwRYZFM": {
+    "snippet": {
+      "publishedAt": "2024-06-27T15:06:21Z",
+      "channelId": "UC678sJnqTwlsWwNk2RWRK2g",
+      "title": "\u3010Stardew Valley\u3011Part 9: More mining, more expansions!\u3010Vilhelm Vanderbos | globie Gen 2 | Equinnox\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T16:59:54Z",
+      "actualEndTime": "2024-06-27T20:39:18Z",
+      "scheduledStartTime": "2024-06-27T17:00:00Z"
     }
   }
 }

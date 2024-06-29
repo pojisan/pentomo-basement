@@ -6460,8 +6460,9 @@
       "title": "APEX BOIS GRINDING TO MASTERS ft. @RyomaBarrenwort & @ClaudeClawmark"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-26T02:00:00Z",
-      "activeLiveChatId": "Cg0KCzZnaWlPNnRzRmhRKicKGFVDcHp4Wlc1a2doR25PNVRtQUZKUUFWdxILNmdpaU82dHNGaFE"
+      "actualStartTime": "2024-06-26T02:07:34Z",
+      "actualEndTime": "2024-06-26T05:55:35Z",
+      "scheduledStartTime": "2024-06-26T02:00:00Z"
     }
   },
   "BV_-MYftNfU": {
@@ -6541,6 +6542,66 @@
       "actualStartTime": "2024-06-24T00:13:46Z",
       "actualEndTime": "2024-06-24T07:25:46Z",
       "scheduledStartTime": "2024-06-24T00:00:00Z"
+    }
+  },
+  "mZMy-Fkhtjw": {
+    "snippet": {
+      "publishedAt": "2024-06-26T05:53:14Z",
+      "channelId": "UCpzxZW5kghGnO5TmAFJQAVw",
+      "title": "LEAGUE OF LEGENDS CHALLENGER GRIND PART 12"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T06:35:57Z",
+      "actualEndTime": "2024-06-26T10:17:32Z",
+      "scheduledStartTime": "2024-06-26T06:15:00Z"
+    }
+  },
+  "LN7mooylkW4": {
+    "snippet": {
+      "publishedAt": "2024-06-26T10:16:07Z",
+      "channelId": "UCpzxZW5kghGnO5TmAFJQAVw",
+      "title": "ELDEN RING SHADOW OF THE ERDTREE... CURSE YOU BAYLE!!! \ud83d\udd25 Part 3"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T10:18:24Z",
+      "actualEndTime": "2024-06-26T14:26:32Z",
+      "scheduledStartTime": "2024-06-26T10:30:00Z"
+    }
+  },
+  "cTpo9P8F_Qk": {
+    "snippet": {
+      "publishedAt": "2024-06-26T14:41:26Z",
+      "channelId": "UCpzxZW5kghGnO5TmAFJQAVw",
+      "title": "LEAGUE OF LEGENDS CHALLENGER GRIND PART 13"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T02:26:42Z",
+      "actualEndTime": "2024-06-27T08:04:29Z",
+      "scheduledStartTime": "2024-06-27T02:00:00Z"
+    }
+  },
+  "gbwlRE_vgQY": {
+    "snippet": {
+      "publishedAt": "2024-06-27T08:07:18Z",
+      "channelId": "UCpzxZW5kghGnO5TmAFJQAVw",
+      "title": "ELDEN RING SHADOW OF THE ERDTREE... Boss rush to Messmer!!! \ud83d\udd25 Part 4"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T02:01:16Z",
+      "actualEndTime": "2024-06-28T13:39:04Z",
+      "scheduledStartTime": "2024-06-28T02:00:00Z"
+    }
+  },
+  "42vNdBhPPug": {
+    "snippet": {
+      "publishedAt": "2024-06-28T15:21:33Z",
+      "channelId": "UCpzxZW5kghGnO5TmAFJQAVw",
+      "title": "LEAGUE OF LEGENDS CHALLENGER GRIND PART 14"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-29T02:41:33Z",
+      "scheduledStartTime": "2024-06-29T02:30:00Z",
+      "activeLiveChatId": "Cg0KCzQydk5kQmhQUHVnKicKGFVDcHp4Wlc1a2doR25PNVRtQUZKUUFWdxILNDJ2TmRCaFBQdWc"
     }
   }
 }

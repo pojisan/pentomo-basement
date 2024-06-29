@@ -390,8 +390,32 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-25T00:02:58Z",
-      "scheduledStartTime": "2024-06-25T00:00:00Z",
-      "activeLiveChatId": "Cg0KC0d1bTRwRUVodFlRKicKGFVDN1RDQ3R2ckV1OHFfUzVPdFJKaC1hURILR3VtNHBFRWh0WVE"
+      "actualEndTime": "2024-06-25T03:47:40Z",
+      "scheduledStartTime": "2024-06-25T00:00:00Z"
+    }
+  },
+  "1Qxhkl1kre0": {
+    "snippet": {
+      "publishedAt": "2024-06-26T07:54:46Z",
+      "channelId": "UC7TCCtvrEu8q_S5OtRJh-aQ",
+      "title": "\u3010HONKAI STAR RAIL\u3011AI FINISHES UNFINISHED HSR STUFF\u3010Ai Shinju\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T11:58:18Z",
+      "actualEndTime": "2024-06-26T15:53:44Z",
+      "scheduledStartTime": "2024-06-26T12:00:00Z"
+    }
+  },
+  "pR5sYEHpfxM": {
+    "snippet": {
+      "publishedAt": "2024-06-27T16:30:02Z",
+      "channelId": "UC7TCCtvrEu8q_S5OtRJh-aQ",
+      "title": "\u3010WUTHERING WAVES\u3011WUWA ? MORE LIKE WUWAIFUS\u3010Ai Shinju\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T05:29:34Z",
+      "actualEndTime": "2024-06-28T08:52:47Z",
+      "scheduledStartTime": "2024-06-28T06:00:00Z"
     }
   }
 }

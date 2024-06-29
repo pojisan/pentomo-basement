@@ -8636,5 +8636,53 @@
       "actualEndTime": "2024-06-24T21:02:40Z",
       "scheduledStartTime": "2024-06-24T14:00:00Z"
     }
+  },
+  "pLZqmHASMOQ": {
+    "snippet": {
+      "publishedAt": "2024-06-26T00:56:53Z",
+      "channelId": "UCBURM8S4LH7cRZ0Clea9RDA",
+      "title": "We finally made it to new vegas ol' pal\ud83e\udd20\u3010NIJISANJI EN | Reimu Endou\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-26T15:06:17Z",
+      "actualEndTime": "2024-06-26T21:40:13Z",
+      "scheduledStartTime": "2024-06-26T15:00:00Z"
+    }
+  },
+  "acnD7JLwdTM": {
+    "snippet": {
+      "publishedAt": "2024-06-27T03:29:16Z",
+      "channelId": "UCBURM8S4LH7cRZ0Clea9RDA",
+      "title": "\u3010FINAL FANTASY XVI: THE RISING TIDE\u3011LEVIATHAAAAAAAAAAN\u3010NIJISANJI EN | Reimu Endou\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-28T03:02:52Z",
+      "actualEndTime": "2024-06-28T07:23:07Z",
+      "scheduledStartTime": "2024-06-28T03:00:00Z"
+    }
+  },
+  "MZIleINJU54": {
+    "snippet": {
+      "publishedAt": "2024-06-27T03:27:08Z",
+      "channelId": "UCBURM8S4LH7cRZ0Clea9RDA",
+      "title": "\u3010SILENT HILL 4: THE ROOM\u3011oh my god it's actually been a year \ud83e\udd74\u3010NIJISANJI EN | Reimu Endou\u3011",
+      "private": true
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-27T15:00:00Z",
+      "activeLiveChatId": "Cg0KC01aSWxlSU5KVTU0KicKGFVDQlVSTThTNExIN2NSWjBDbGVhOVJEQRILTVpJbGVJTkpVNTQ"
+    }
+  },
+  "GSKvsdZCHnw": {
+    "snippet": {
+      "publishedAt": "2024-06-28T10:47:16Z",
+      "channelId": "UCBURM8S4LH7cRZ0Clea9RDA",
+      "title": "\u3010STILL WAKES THE DEEP\u3011good horror game???? YES?\u3010NIJISANJI EN | Reimu Endou\u3011",
+      "private": true
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-29T15:00:00Z",
+      "activeLiveChatId": "Cg0KC0dTS3ZzZFpDSG53KicKGFVDQlVSTThTNExIN2NSWjBDbGVhOVJEQRILR1NLdnNkWkNIbnc"
+    }
   }
 }

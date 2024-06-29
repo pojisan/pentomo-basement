@@ -299,6 +299,7 @@
       "title": "\u3010Idol Showdown\u3011Throwing down with @oumiyaemma \u3010Fionna fon Engels \u2661 Project: Verses\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-29T14:00:02Z",
       "scheduledStartTime": "2024-06-29T14:00:00Z",
       "activeLiveChatId": "Cg0KC1cyUVgyWEFOSko0KicKGFVDb3ZLd2dBOWVIVXV0SVdDVldTX0FHdxILVzJRWDJYQU5KSjQ"
     }
@@ -331,7 +332,7 @@
     "snippet": {
       "publishedAt": "2024-06-09T22:52:33Z",
       "channelId": "UCovKwgA9eHUutIWCVWS_AGw",
-      "title": "i have a dream\u2026. #vtuber #envtuber"
+      "title": "this vtuber's dream is..."
     }
   },
   "USGPvKRvgRQ": {
@@ -401,7 +402,7 @@
     "snippet": {
       "publishedAt": "2024-06-21T15:10:21Z",
       "channelId": "UCovKwgA9eHUutIWCVWS_AGw",
-      "title": "Ultimates over saving danchou\ud83d\ude12 | Granblue Fantasy: Relink"
+      "title": "Granblue Fantasy: Relink | Ultimates over saving danchou\ud83d\ude12"
     }
   },
   "NIXdTPB1V94": {
@@ -427,11 +428,12 @@
     "snippet": {
       "publishedAt": "2024-06-25T00:39:38Z",
       "channelId": "UCovKwgA9eHUutIWCVWS_AGw",
-      "title": "\u3010Granblue Fantasy: Relink\u3011WHY ISN'T THIS A DATING SIM?\u3010Fionna fon Engels \u2661 Project: Verses\u3011"
+      "title": "\u3010Chatting\u3011chatting about the end of the week\u3010Fionna fon Engels \u2661 Project: Verses\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-28T00:00:00Z",
-      "activeLiveChatId": "Cg0KC2U4VUxDdWJHZTNzKicKGFVDb3ZLd2dBOWVIVXV0SVdDVldTX0FHdxILZThVTEN1YkdlM3M"
+      "actualStartTime": "2024-06-28T00:03:29Z",
+      "actualEndTime": "2024-06-28T03:39:29Z",
+      "scheduledStartTime": "2024-06-28T00:00:00Z"
     }
   },
   "HlodRhbHDHw": {
@@ -441,8 +443,45 @@
       "title": "\u3010Hades II\u3011THIS IS A DATING SIM\u3010Fionna fon Engels \u2661 Project: Verses\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-26T00:00:00Z",
+      "scheduledStartTime": "2024-07-03T00:00:00Z",
       "activeLiveChatId": "Cg0KC0hsb2RSaGJIREh3KicKGFVDb3ZLd2dBOWVIVXV0SVdDVldTX0FHdxILSGxvZFJoYkhESHc"
+    }
+  },
+  "D-vINQkMYv4": {
+    "snippet": {
+      "publishedAt": "2024-06-25T01:05:13Z",
+      "channelId": "UCovKwgA9eHUutIWCVWS_AGw",
+      "title": "\u3010Phogs!\u3011got that dog in me ft. @riyu_thelamb \u3010Fionna fon Engels \u2661 Project: Verses\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-30T17:00:00Z",
+      "activeLiveChatId": "Cg0KC0QtdklOUWtNWXY0KicKGFVDb3ZLd2dBOWVIVXV0SVdDVldTX0FHdxILRC12SU5Ra01ZdjQ"
+    }
+  },
+  "cQ0OVp7jlIA": {
+    "snippet": {
+      "publishedAt": "2024-06-25T01:00:53Z",
+      "channelId": "UCovKwgA9eHUutIWCVWS_AGw",
+      "title": "THEY SAID THIS GAME WAS RELAXING! | Katamari"
+    }
+  },
+  "bKYS7LiUl-4": {
+    "snippet": {
+      "publishedAt": "2024-06-26T12:01:56Z",
+      "channelId": "UCovKwgA9eHUutIWCVWS_AGw",
+      "title": "THE MOST EVIL MECHANIC IN HADES II LETS BE REAL #envtuber #hades #hades2"
+    }
+  },
+  "6JMxVdcaXsQ": {
+    "snippet": {
+      "publishedAt": "2024-06-28T20:39:29Z",
+      "channelId": "UCovKwgA9eHUutIWCVWS_AGw",
+      "title": "\u3010Infinity Nikki\u3011closed beta test impressions!\u3010Fionna fon Engels \u2661 Project: Verses\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-29T02:00:10Z",
+      "actualEndTime": "2024-06-29T03:41:17Z",
+      "scheduledStartTime": "2024-06-29T02:00:00Z"
     }
   }
 }

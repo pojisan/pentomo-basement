@@ -3798,8 +3798,67 @@
       "title": "\u3010YAKUZA 3\u3011 it ain't lookin too hot, boys..."
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-25T02:00:00Z",
-      "activeLiveChatId": "Cg0KC0E1UTBXT2hkUzVrKicKGFVDZlcwZjJKNm8tX3IzZm1lV3MzSEZfQRILQTVRMFdPaGRTNWs"
+      "actualStartTime": "2024-06-25T02:01:51Z",
+      "actualEndTime": "2024-06-25T05:08:55Z",
+      "scheduledStartTime": "2024-06-25T02:00:00Z"
+    }
+  },
+  "hIkC1uMzoVA": {
+    "snippet": {
+      "publishedAt": "2024-06-25T10:53:37Z",
+      "channelId": "UCfW0f2J6o-_r3fmeWs3HF_A",
+      "title": "\u3010RED DEAD REDEMPTION 2\u3011 but i'm trying really really hard to be a good person"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-27T11:01:47Z",
+      "actualEndTime": "2024-06-27T14:29:12Z",
+      "scheduledStartTime": "2024-06-27T11:00:00Z"
+    }
+  },
+  "ez_bv2GktzY": {
+    "snippet": {
+      "publishedAt": "2024-06-25T11:10:23Z",
+      "channelId": "UCfW0f2J6o-_r3fmeWs3HF_A",
+      "title": "\u3010BALDUR'S GATE 3\u3011 sir im calling the police (w/ @WalkyriaLiora )",
+      "private": true
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-29T03:00:00Z",
+      "activeLiveChatId": "Cg0KC2V6X2J2MkdrdHpZKicKGFVDZlcwZjJKNm8tX3IzZm1lV3MzSEZfQRILZXpfYnYyR2t0elk"
+    }
+  },
+  "1Ytbm7E7pfc": {
+    "snippet": {
+      "publishedAt": "2024-06-25T11:16:35Z",
+      "channelId": "UCfW0f2J6o-_r3fmeWs3HF_A",
+      "title": "\u3010RED DEAD REDEMPTION 2\u3011 but i feel bad for being mean ; n ;"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-30T11:00:00Z",
+      "activeLiveChatId": "Cg0KCzFZdGJtN0U3cGZjKicKGFVDZlcwZjJKNm8tX3IzZm1lV3MzSEZfQRILMVl0Ym03RTdwZmM"
+    }
+  },
+  "Q8S0oqbrYwo": {
+    "snippet": {
+      "publishedAt": "2024-06-25T11:15:49Z",
+      "channelId": "UCfW0f2J6o-_r3fmeWs3HF_A",
+      "title": "\u3010ASMR\u3011 MY FIRST and last ASMR (lunch monching, item clanking, and... idk)"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-07-01T02:00:00Z",
+      "activeLiveChatId": "Cg0KC1E4UzBvcWJyWXdvKicKGFVDZlcwZjJKNm8tX3IzZm1lV3MzSEZfQRILUThTMG9xYnJZd28"
+    }
+  },
+  "O7qzGltO1AM": {
+    "snippet": {
+      "publishedAt": "2024-06-25T11:14:38Z",
+      "channelId": "UCfW0f2J6o-_r3fmeWs3HF_A",
+      "title": "\u3010YAKUZA 3\u3011 kiryu, are you watching vtubers again..."
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-29T02:01:29Z",
+      "actualEndTime": "2024-06-29T05:21:58Z",
+      "scheduledStartTime": "2024-06-29T02:00:00Z"
     }
   }
 }
