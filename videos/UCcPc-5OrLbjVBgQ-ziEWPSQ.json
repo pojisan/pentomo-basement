@@ -396,7 +396,8 @@
     "snippet": {
       "publishedAt": "2024-06-24T01:09:33Z",
       "channelId": "UCcPc-5OrLbjVBgQ-ziEWPSQ",
-      "title": "Happy Birthday to Me! You are invited to the CookieBox for a fun little party!"
+      "title": "Happy Birthday to Me! You are invited to the CookieBox for a fun little party!",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-07-02T00:00:00Z",
@@ -407,7 +408,8 @@
     "snippet": {
       "publishedAt": "2024-06-24T01:13:08Z",
       "channelId": "UCcPc-5OrLbjVBgQ-ziEWPSQ",
-      "title": "It's the 4th of July! Let's Valley Forge ahead and get our revolution on!"
+      "title": "It's the 4th of July! Let's Valley Forge ahead and get our revolution on!",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-07-05T00:00:00Z",
