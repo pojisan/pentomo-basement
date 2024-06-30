@@ -7382,8 +7382,18 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-30T14:00:39Z",
       "actualEndTime": "2024-06-30T16:40:57Z",
-      "scheduledStartTime": "2024-06-30T14:00:00Z",
-      "activeLiveChatId": "Cg0KC1hkQllyWVlzTXpjKicKGFVDd2FTOF9TN2tNaUtBM2l6bFRXSGJRZxILWGRCWXJZWXNNemM"
+      "scheduledStartTime": "2024-06-30T14:00:00Z"
+    }
+  },
+  "GcoXSxnRoJM": {
+    "snippet": {
+      "publishedAt": "2024-06-30T16:48:24Z",
+      "channelId": "UCwaS8_S7kMiKA3izlTWHbQg",
+      "title": "IN THE NAME OF SPARKLES!!! - VALORANT \u3010Maria Marionette | NIJISANJI EN\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-07-01T10:00:00Z",
+      "activeLiveChatId": "Cg0KC0djb1hTeG5Sb0pNKicKGFVDd2FTOF9TN2tNaUtBM2l6bFRXSGJRZxILR2NvWFN4blJvSk0"
     }
   }
 }
