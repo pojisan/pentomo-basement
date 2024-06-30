@@ -107,18 +107,6 @@
       "activeLiveChatId": "Cg0KCy1jbGlpUkhtMkpFKicKGFVDYXNadnNrRkNfU0hzNkxYeDJfMjZjURILLWNsaWlSSG0ySkU"
     }
   },
-  "-q4q6euOnZ8": {
-    "snippet": {
-      "publishedAt": "2024-06-29T17:52:08Z",
-      "channelId": "UCPK3S9ij0DXINmTjQ4KhQVA",
-      "title": "\u3010VTUBER SUMMER SLAM!\u3011BEACH DAY KARAOKE \ud83c\udf0a\ud83c\udf0a #VTuberSS2024"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-29T20:03:44Z",
-      "scheduledStartTime": "2024-06-29T20:00:00Z",
-      "activeLiveChatId": "Cg0KCy1xNHE2ZXVPblo4KicKGFVDUEszUzlpajBEWElObVRqUTRLaFFWQRILLXE0cTZldU9uWjg"
-    }
-  },
   "-uosGnUXlng": {
     "snippet": {
       "publishedAt": "2024-06-24T21:38:00Z",
@@ -1411,6 +1399,7 @@
       "title": "\u3010Elden Ring\u3011 Oh nyooww, it's not even the boss!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-30T00:35:41Z",
       "scheduledStartTime": "2024-06-30T00:30:00Z",
       "activeLiveChatId": "Cg0KC0VZMWdnLVd1dVRrKicKGFVDVDQxV25RWTNPMkY3T2JpMWhoUE95QRILRVkxZ2ctV3V1VGs"
     }
@@ -3975,6 +3964,17 @@
       "twitch": true
     }
   },
+  "apolloalto": {
+    "snippet": {
+      "channelId": "apolloalto",
+      "title": "Campfire Chatting for Charity w/ @reiiflynn @cynth_ai @mukyapunch [VTUBER Summerslam 2024] !discord !socials !charity",
+      "channelTitle": "ApolloAlto"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-30T00:33:11Z",
+      "twitch": true
+    }
+  },
   "auCkpoNM1yE": {
     "snippet": {
       "publishedAt": "2024-03-24T19:34:20Z",
@@ -4144,6 +4144,17 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-29T22:59:17Z",
+      "twitch": true
+    }
+  },
+  "cynth_ai": {
+    "snippet": {
+      "channelId": "cynth_ai",
+      "title": "VTUBER SUMMER SLAM CHARITY STREAM | Campfire Night with @mukyapunch @apolloalto @reiiflynn | !Charity !Lurk",
+      "channelTitle": "cynth_AI"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-30T00:33:43Z",
       "twitch": true
     }
   },
@@ -4327,6 +4338,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-07-03T22:00:00Z",
       "activeLiveChatId": "Cg0KC2VjS3VZb3M4ZzhzKicKGFVDSjRwdnNwd2puTS1oU1hxa29JdU1HURILZWNLdVlvczhnOHM"
+    }
+  },
+  "essie_ch": {
+    "snippet": {
+      "channelId": "essie_ch",
+      "title": "essie on da weekend",
+      "channelTitle": "essie_ch"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-30T00:40:30Z",
+      "twitch": true
     }
   },
   "eulNaT_7F2w": {
@@ -5609,6 +5631,17 @@
       "activeLiveChatId": "Cg0KC3JWSEx0OS1oa0ZFKicKGFVDWUl6cWJWUDZGTFpyNEt0ZW81Z0pyQRILclZITHQ5LWhrRkU"
     }
   },
+  "reiiflynn": {
+    "snippet": {
+      "channelId": "reiiflynn",
+      "title": "SUMMER SLAM! VIRTUX Campfire!",
+      "channelTitle": "reiiflynn"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-30T00:34:11Z",
+      "twitch": true
+    }
+  },
   "rgZ1D59sQIQ": {
     "snippet": {
       "publishedAt": "2024-06-24T18:26:02Z",
@@ -5951,18 +5984,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2026-03-31T16:45:00Z",
       "activeLiveChatId": "Cg0KC3RwUHVpTkRGdHBvKicKGFVDOHlYUkJfaktEZWFwd1FhazJpMzBFQRILdHBQdWlOREZ0cG8"
-    }
-  },
-  "uIRCMKEP0XE": {
-    "snippet": {
-      "publishedAt": "2024-06-24T16:51:10Z",
-      "channelId": "UCb-8Fkg-mSU2RmlP8FdpyMw",
-      "title": "\u3010#VTuberSS2024\u3011VTuber juggles 4 jobs now\u3010Ran Tsukiha | Production kawaii\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-29T22:15:52Z",
-      "scheduledStartTime": "2024-06-29T22:15:00Z",
-      "activeLiveChatId": "Cg0KC3VJUkNNS0VQMFhFKicKGFVDYi04RmtnLW1TVTJSbWxQOEZkcHlNdxILdUlSQ01LRVAwWEU"
     }
   },
   "uYb35WT1eq4": {
