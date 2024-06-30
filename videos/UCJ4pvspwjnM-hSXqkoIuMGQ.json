@@ -444,6 +444,7 @@
       "title": "\u301010-HOUR HATCHDAY PARTY\u3011 It's My Hatchday!!!\u3010PixelLink\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-30T15:00:48Z",
       "scheduledStartTime": "2024-06-30T15:00:00Z",
       "activeLiveChatId": "Cg0KC3h3TEJ0RHBlWmlNKicKGFVDSjRwdnNwd2puTS1oU1hxa29JdU1HURILeHdMQnREcGVaaU0"
     }
@@ -482,6 +483,18 @@
       "actualStartTime": "2024-06-26T19:47:00Z",
       "actualEndTime": "2024-06-27T01:48:26Z",
       "scheduledStartTime": "2024-06-26T19:45:00Z"
+    }
+  },
+  "EkC5KK9jRik": {
+    "snippet": {
+      "publishedAt": "2024-06-30T14:46:57Z",
+      "channelId": "UCJ4pvspwjnM-hSXqkoIuMGQ",
+      "title": "Butterfly - Digimon \u3010Chio Chompi\u3011COVER"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-07-01T01:00:00Z",
+      "activeLiveChatId": "Cg0KC0VrQzVLSzlqUmlrKicKGFVDSjRwdnNwd2puTS1oU1hxa29JdU1HURILRWtDNUtLOWpSaWs",
+      "premiere": true
     }
   }
 }
