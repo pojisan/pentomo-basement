@@ -3810,8 +3810,21 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-30T22:15:43Z",
+      "actualEndTime": "2024-06-30T23:06:36Z",
       "scheduledStartTime": "2024-06-30T22:15:45Z",
       "activeLiveChatId": "Cg0KC2xKU1EyWUZLbUpjKicKGFVDVXI4TzZaOEp5QWc4M0tKYmNfdV9iURILbEpTUTJZRkttSmM"
+    }
+  },
+  "O0zkNYeJE18": {
+    "snippet": {
+      "publishedAt": "2024-06-30T23:06:46Z",
+      "channelId": "UCUr8O6Z8JyAg83KJbc_u_bQ",
+      "title": "SWORDBURST 3"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-30T23:07:23Z",
+      "scheduledStartTime": "2024-06-30T23:06:56Z",
+      "activeLiveChatId": "Cg0KC08wemtOWWVKRTE4KicKGFVDVXI4TzZaOEp5QWc4M0tKYmNfdV9iURILTzB6a05ZZUpFMTg"
     }
   }
 }
