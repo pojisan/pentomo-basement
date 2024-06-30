@@ -921,18 +921,6 @@
       "activeLiveChatId": "Cg0KCzhYaWVvaEhkNjFrKicKGFVDel84enRROXJjdV9VcFVwMGh2N2JZdxILOFhpZW9oSGQ2MWs"
     }
   },
-  "8dRYjQuIRKA": {
-    "snippet": {
-      "publishedAt": "2024-06-30T02:33:46Z",
-      "channelId": "UCUr8O6Z8JyAg83KJbc_u_bQ",
-      "title": "SWORDBURST 3"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-30T02:33:56Z",
-      "scheduledStartTime": "2024-06-30T02:33:56Z",
-      "activeLiveChatId": "Cg0KCzhkUllqUXVJUktBKicKGFVDVXI4TzZaOEp5QWc4M0tKYmNfdV9iURILOGRSWWpRdUlSS0E"
-    }
-  },
   "8kb21V4gjp8": {
     "snippet": {
       "publishedAt": "2024-06-28T14:03:54Z",
@@ -2260,6 +2248,7 @@
       "title": "\u3010Birthday!Call-in!\u3011#PicoBirthday2024\u3000\u51f8\u5f85\u3061\uff01\u3010\u5009\u5922\u3074\u3053 / Phase Connect\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-30T03:30:31Z",
       "scheduledStartTime": "2024-06-30T03:30:00Z",
       "activeLiveChatId": "Cg0KC0x1RXlCZ293elFzKicKGFVDdFdIMHRWQWNVY1NtNHY5Nkg1Y0FxURILTHVFeUJnb3d6UXM"
     }
@@ -3661,6 +3650,18 @@
       "activeLiveChatId": "Cg0KC1pmZGQyb3VNMUZNKicKGFVDdDJuWDZ2RVVUMElrNmQycGVWT2pEdxILWmZkZDJvdU0xRk0"
     }
   },
+  "ZkSsVAHFNkc": {
+    "snippet": {
+      "publishedAt": "2024-06-30T03:29:25Z",
+      "channelId": "UCUr8O6Z8JyAg83KJbc_u_bQ",
+      "title": "SWORDBURST 3"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-30T03:29:35Z",
+      "scheduledStartTime": "2024-06-30T03:29:34Z",
+      "activeLiveChatId": "Cg0KC1prU3NWQUhGTmtjKicKGFVDVXI4TzZaOEp5QWc4M0tKYmNfdV9iURILWmtTc1ZBSEZOa2M"
+    }
+  },
   "_-TIgyRvkoE": {
     "snippet": {
       "publishedAt": "2024-05-08T02:36:45Z",
@@ -4285,6 +4286,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-30T18:00:00Z",
       "activeLiveChatId": "Cg0KC2V1bE5hVF83RjJ3KicKGFVDRmdYV1pPVVpBMm9ZSE5yNnFEbXNUURILZXVsTmFUXzdGMnc"
+    }
+  },
+  "f7a02HkaehA": {
+    "snippet": {
+      "publishedAt": "2024-06-30T03:21:12Z",
+      "channelId": "UCIzZDiilcPv0wim_MbuizFA",
+      "title": "Ryoma B. Gaming\u3010NIJISANJI EN | Ryoma Barrenwort\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-30T03:30:00Z",
+      "activeLiveChatId": "Cg0KC2Y3YTAySGthZWhBKicKGFVDSXpaRGlpbGNQdjB3aW1fTWJ1aXpGQRILZjdhMDJIa2FlaEE"
     }
   },
   "fSfZhyj3yus": {
@@ -5100,7 +5112,7 @@
       "channelTitle": "miyuyus"
     },
     "liveStreamingDetails": {
-      "actualStartTime": "2024-06-30T02:33:48Z",
+      "actualStartTime": "2024-06-30T03:29:29Z",
       "twitch": true
     }
   },

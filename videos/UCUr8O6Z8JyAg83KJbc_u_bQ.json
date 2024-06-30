@@ -3757,12 +3757,25 @@
     "snippet": {
       "publishedAt": "2024-06-30T02:33:46Z",
       "channelId": "UCUr8O6Z8JyAg83KJbc_u_bQ",
-      "title": "SWORDBURST 3"
+      "title": "SWORDBURST 3",
+      "private": true
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-30T02:33:56Z",
       "scheduledStartTime": "2024-06-30T02:33:56Z",
       "activeLiveChatId": "Cg0KCzhkUllqUXVJUktBKicKGFVDVXI4TzZaOEp5QWc4M0tKYmNfdV9iURILOGRSWWpRdUlSS0E"
+    }
+  },
+  "ZkSsVAHFNkc": {
+    "snippet": {
+      "publishedAt": "2024-06-30T03:29:25Z",
+      "channelId": "UCUr8O6Z8JyAg83KJbc_u_bQ",
+      "title": "SWORDBURST 3"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-30T03:29:35Z",
+      "scheduledStartTime": "2024-06-30T03:29:34Z",
+      "activeLiveChatId": "Cg0KC1prU3NWQUhGTmtjKicKGFVDVXI4TzZaOEp5QWc4M0tKYmNfdV9iURILWmtTc1ZBSEZOa2M"
     }
   }
 }
