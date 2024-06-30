@@ -1799,8 +1799,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-30T12:01:03Z",
-      "scheduledStartTime": "2024-06-30T12:00:00Z",
-      "activeLiveChatId": "Cg0KC253RUJXR3ZrallvKicKGFVDMWVYX01Wck4wRUJLZHBrbjliLWpodxILbndFQldHdmtqWW8"
+      "actualEndTime": "2024-06-30T12:44:44Z",
+      "scheduledStartTime": "2024-06-30T12:00:00Z"
     }
   },
   "S3A6y8UBL5g": {
@@ -1845,6 +1845,18 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-07-06T00:30:00Z",
       "activeLiveChatId": "Cg0KCzRvM0g2cS15SDgwKicKGFVDMWVYX01Wck4wRUJLZHBrbjliLWpodxILNG8zSDZxLXlIODA"
+    }
+  },
+  "sId4zoqq04Y": {
+    "snippet": {
+      "publishedAt": "2024-06-30T12:42:59Z",
+      "channelId": "UC1eX_MVrN0EBKdpkn9b-jhw",
+      "title": "\u3010 Dinkum \u3011 Mencari nafkah di kota baru\u3010 MASAKI RINA \u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-30T12:45:40Z",
+      "scheduledStartTime": "2024-06-30T12:45:00Z",
+      "activeLiveChatId": "Cg0KC3NJZDR6b3FxMDRZKicKGFVDMWVYX01Wck4wRUJLZHBrbjliLWpodxILc0lkNHpvcXEwNFk"
     }
   }
 }
