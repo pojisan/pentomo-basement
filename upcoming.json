@@ -723,6 +723,7 @@
       "title": "i found girls who play minecraft (REAL)"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-30T02:00:54Z",
       "scheduledStartTime": "2024-06-30T02:00:00Z",
       "activeLiveChatId": "Cg0KCzV3TTJ0U3VaZU80KicKGFVDazJrMXktZDI0bkZ5VkN2eXhuQWFZQRILNXdNMnRTdVplTzQ"
     }
@@ -2196,6 +2197,7 @@
       "title": "I am definitely NOT lost in the scary horror mansion... (Resident Evil 1)"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-30T02:00:34Z",
       "scheduledStartTime": "2024-06-30T02:00:00Z",
       "activeLiveChatId": "Cg0KC0xDdWdtUWhieTZnKicKGFVDQXhWb0JMRzJCdjF4Z2JZVV9lZnNDZxILTEN1Z21RaGJ5Nmc"
     }
@@ -2364,6 +2366,7 @@
       "title": "\ud83c\udd71\ufe0fELDEN \ud83c\udd71\ufe0fING!!!!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-30T02:00:55Z",
       "scheduledStartTime": "2024-06-30T02:00:00Z",
       "activeLiveChatId": "Cg0KC01naHBLaXgzaV84KicKGFVDdVROSFlfYjdFdnFoUk83Q09ib3hzURILTWdocEtpeDNpXzg"
     }
@@ -3885,6 +3888,17 @@
       "twitch": true
     }
   },
+  "apollomythos": {
+    "snippet": {
+      "channelId": "apollomythos",
+      "title": "18+ \u2600\ufe0fWe Were Here\u2600\ufe0f Quality time with Momma @zeusmythosvt  (SOUND ALERTS R ON) \u3010!discord\u3011\u3010!mythos\u3011\u3010!raid\u3011\u3010!Donate\u3011",
+      "channelTitle": "ApolloMythos"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-30T02:00:17Z",
+      "twitch": true
+    }
+  },
   "auCkpoNM1yE": {
     "snippet": {
       "publishedAt": "2024-03-24T19:34:20Z",
@@ -5051,6 +5065,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2026-05-30T14:45:00Z",
       "activeLiveChatId": "Cg0KC21fSlMxY2N2RWs4KicKGFVDX3Q3d3RTY1ZMazg1SWFEOWpZU1JBQRILbV9KUzFjY3ZFazg"
+    }
+  },
+  "mbXKKnjg_FU": {
+    "snippet": {
+      "publishedAt": "2024-06-30T01:54:33Z",
+      "channelId": "UC1cExET9xoWSO9iSnRsW_1Q",
+      "title": "\u3010RDR2/#\u30ec\u30c9\u30b9\u30c8/\u30df\u30c1\u30a7\u30eb\u30fb\u30d3\u30fc\u30ac\u30f3\u3011\u7570\u4e16\u754c\u3067\u72e9\u4eba\u30e9\u30a4\u30d5\u6e80\u55ab\u3059\u308b\u7d2b\u7fe0\u307f\u3061\u308b\u3010Day10\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-30T05:30:00Z",
+      "activeLiveChatId": "Cg0KC21iWEtLbmpnX0ZVKicKGFVDMWNFeEVUOXhvV1NPOWlTblJzV18xURILbWJYS0tuamdfRlU"
     }
   },
   "metorial": {
@@ -6374,6 +6399,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2023-12-30T16:00:00Z",
       "activeLiveChatId": "Cg0KC3pCazlKTFR3cE9rKicKGFVDdDd2bS03aGx3UGNZc1JhY1g3UUpZdxILekJrOUpMVHdwT2s"
+    }
+  },
+  "zeusmythosvt": {
+    "snippet": {
+      "channelId": "zeusmythosvt",
+      "title": "\u300c \ud83c\udf29\ufe0f WE WERE HERE \ud83c\udf29\ufe0f \u300dMOTHER-DAUGHTER BONDING TIME w/ @apollomythos + VIBING AFTER COLLAB LATER \u26a1 !discord !throne !lurk !daki !uwu !GS",
+      "channelTitle": "ZeusMythosVT"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-30T01:59:58Z",
+      "twitch": true
     }
   },
   "zhyTt2HSKs8": {
