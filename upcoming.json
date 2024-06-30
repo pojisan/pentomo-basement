@@ -1988,6 +1988,7 @@
       "title": "INSIDE US \u3010AIA'S TABLETOP ADVENTURES\u3011\u3010NIJISANJI EN | Aia Amare \u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-30T21:22:17Z",
       "scheduledStartTime": "2024-06-30T21:15:00Z",
       "activeLiveChatId": "Cg0KC0hUN3QtU1BDeF8wKicKGFVDTjY4TG9NM2toUzRnZEJNaVdKTzhXQRILSFQ3dC1TUEN4XzA"
     }
@@ -5402,6 +5403,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-03-09T13:00:00Z",
       "activeLiveChatId": "Cg0KC21mb0hwWUEzOW9jKicKGFVDYXhpRGVfVHVNTFhrd1JNVkxtNVZ3URILbWZvSHBZQTM5b2M"
+    }
+  },
+  "miyuyus": {
+    "snippet": {
+      "channelId": "miyuyus",
+      "title": "SWORDBURST 3",
+      "channelTitle": "miyuyus"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-30T21:31:05Z",
+      "twitch": true
     }
   },
   "muso3OxMdDY": {
