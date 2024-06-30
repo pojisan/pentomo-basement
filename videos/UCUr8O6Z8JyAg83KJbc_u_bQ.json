@@ -3777,5 +3777,17 @@
       "actualEndTime": "2024-06-30T03:49:20Z",
       "scheduledStartTime": "2024-06-30T03:29:34Z"
     }
+  },
+  "vqlPaTvL-Po": {
+    "snippet": {
+      "publishedAt": "2024-06-30T19:35:01Z",
+      "channelId": "UCUr8O6Z8JyAg83KJbc_u_bQ",
+      "title": "SWORDBURST 3"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-30T19:35:12Z",
+      "scheduledStartTime": "2024-06-30T19:35:10Z",
+      "activeLiveChatId": "Cg0KC3ZxbFBhVHZMLVBvKicKGFVDVXI4TzZaOEp5QWc4M0tKYmNfdV9iURILdnFsUGFUdkwtUG8"
+    }
   }
 }
