@@ -3799,8 +3799,20 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-30T21:31:41Z",
-      "scheduledStartTime": "2024-06-30T21:31:13Z",
-      "activeLiveChatId": "Cg0KC2JCSlRaWXYydXFnKicKGFVDVXI4TzZaOEp5QWc4M0tKYmNfdV9iURILYkJKVFpZdjJ1cWc"
+      "actualEndTime": "2024-06-30T22:15:20Z",
+      "scheduledStartTime": "2024-06-30T21:31:13Z"
+    }
+  },
+  "lJSQ2YFKmJc": {
+    "snippet": {
+      "publishedAt": "2024-06-30T22:15:35Z",
+      "channelId": "UCUr8O6Z8JyAg83KJbc_u_bQ",
+      "title": "PET SIMULATOR 99"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-30T22:15:43Z",
+      "scheduledStartTime": "2024-06-30T22:15:45Z",
+      "activeLiveChatId": "Cg0KC2xKU1EyWUZLbUpjKicKGFVDVXI4TzZaOEp5QWc4M0tKYmNfdV9iURILbEpTUTJZRkttSmM"
     }
   }
 }
