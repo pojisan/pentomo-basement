@@ -492,18 +492,6 @@
       "activeLiveChatId": "Cg0KCzNEbS1icWRUbjRnKicKGFVDdXBtalJyN2tQZ3pYS2gtY1B4eEdiZxILM0RtLWJxZFRuNGc"
     }
   },
-  "3EiNj-it6Dk": {
-    "snippet": {
-      "publishedAt": "2024-06-30T01:09:58Z",
-      "channelId": "UC4R6ddhBJp2bjQHVNxgNQSA",
-      "title": "\u3010 KARAOKE \u6b4c\u67a0\u3011 SINGING LOTS OF RANDOM STUFF!!!! \ud83d\udd25 (unarchived)  #vtuber #shorts"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-30T01:31:37Z",
-      "scheduledStartTime": "2024-06-30T01:30:00Z",
-      "activeLiveChatId": "Cg0KCzNFaU5qLWl0NkRrKicKGFVDNFI2ZGRoQkpwMmJqUUhWTnhnTlFTQRILM0VpTmotaXQ2RGs"
-    }
-  },
   "3Ii9NpTYHm4": {
     "snippet": {
       "publishedAt": "2024-06-06T08:01:35Z",
@@ -2155,18 +2143,6 @@
       "activeLiveChatId": "Cg0KC0xCeWlnUGFBMm5rKicKGFVDTW15X0VteG5ZUThhYXI4Zk5acnVtdxILTEJ5aWdQYUEybms"
     }
   },
-  "LCugmQhby6g": {
-    "snippet": {
-      "publishedAt": "2024-06-29T16:57:02Z",
-      "channelId": "UCAxVoBLG2Bv1xgbYU_efsCg",
-      "title": "I am definitely NOT lost in the scary horror mansion... (Resident Evil 1)"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-30T02:00:34Z",
-      "scheduledStartTime": "2024-06-30T02:00:00Z",
-      "activeLiveChatId": "Cg0KC0xDdWdtUWhieTZnKicKGFVDQXhWb0JMRzJCdjF4Z2JZVV9lZnNDZxILTEN1Z21RaGJ5Nmc"
-    }
-  },
   "LJzDCOzR1_w": {
     "snippet": {
       "publishedAt": "2024-06-23T09:55:26Z",
@@ -3112,6 +3088,7 @@
       "title": "\u3010Community Review\u3011Identifying your local flowers!!\u3010Cosmia\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-30T04:00:10Z",
       "scheduledStartTime": "2024-06-30T04:00:00Z",
       "activeLiveChatId": "Cg0KC1Vfend6Y3dES1dRKicKGFVDMmhXRmxxTWV3NjFKeTZBOHp1NUh6URILVV96d3pjd0RLV1E"
     }
@@ -4037,17 +4014,6 @@
       "twitch": true
     }
   },
-  "clothovmelodiam": {
-    "snippet": {
-      "channelId": "clothovmelodiam",
-      "title": "\u3010Devil May Cry 5\u3011Can we finally finish it?",
-      "channelTitle": "clothovmelodiam"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-30T01:23:57Z",
-      "twitch": true
-    }
-  },
   "cynth_ai": {
     "snippet": {
       "channelId": "cynth_ai",
@@ -4604,6 +4570,7 @@
       "title": "\u3010ART STREAM!\u3011OUR LAST ART STREAM FOR PRIDE!!  #pkmnpride2024"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-30T03:59:54Z",
       "scheduledStartTime": "2024-06-30T04:00:00Z",
       "activeLiveChatId": "Cg0KC2h6YkJGTnNCRXZjKicKGFVDUkllUzNnLWF3SVF1UEFQbkFwSGJDQRILaHpiQkZOc0JFdmM"
     }
@@ -4956,7 +4923,7 @@
   "lilinerach": {
     "snippet": {
       "channelId": "lilinerach",
-      "title": "Manifesting good pulls | !jin !lupus !tiktok !socials !throne !astral",
+      "title": "honestly just vibing | !jin !lupus !tiktok !socials !throne !astral",
       "channelTitle": "LilineraCh"
     },
     "liveStreamingDetails": {
@@ -4984,6 +4951,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-12-31T15:45:00Z",
       "activeLiveChatId": "Cg0KC2xydm9FbUZfZDkwKicKGFVDMWVYX01Wck4wRUJLZHBrbjliLWpodxILbHJ2b0VtRl9kOTA"
+    }
+  },
+  "lululasso": {
+    "snippet": {
+      "channelId": "lululasso",
+      "title": "Gyaru Cowgirl plays American Truck Sim!",
+      "channelTitle": "lululasso"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-30T04:00:06Z",
+      "twitch": true
     }
   },
   "lymzkbD9NVI": {
@@ -5282,6 +5260,7 @@
       "title": "~REBROADCAST~\u3010KARAOKE\u301170s and 80s baby!!!!!!!!! IT'S A FEVER NIGHT #kfp #shorts"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-30T04:00:22Z",
       "scheduledStartTime": "2024-06-30T04:00:00Z",
       "activeLiveChatId": "Cg0KC3BVNFBXS09weGp3KicKGFVDSHN4NEhxYS0xT1JqUVRoOVRZRGh3dxILcFU0UFdLT3B4anc"
     }
