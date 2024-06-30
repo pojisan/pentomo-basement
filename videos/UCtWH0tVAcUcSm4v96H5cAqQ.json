@@ -2164,8 +2164,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-30T08:00:36Z",
-      "scheduledStartTime": "2024-06-30T08:00:00Z",
-      "activeLiveChatId": "Cg0KC0c1ZDg3ZE5mdGZVKicKGFVDdFdIMHRWQWNVY1NtNHY5Nkg1Y0FxURILRzVkODdkTmZ0ZlU"
+      "actualEndTime": "2024-06-30T09:56:01Z",
+      "scheduledStartTime": "2024-06-30T08:00:00Z"
     }
   },
   "oU7zOt4Blr4": {
@@ -2238,6 +2238,19 @@
       "actualStartTime": "2024-06-29T11:03:47Z",
       "actualEndTime": "2024-06-29T12:58:04Z",
       "scheduledStartTime": "2024-06-29T11:00:00Z"
+    }
+  },
+  "yC1XYdkuAwQ": {
+    "snippet": {
+      "publishedAt": "2024-06-30T10:00:06Z",
+      "channelId": "UCtWH0tVAcUcSm4v96H5cAqQ",
+      "title": "\u3010Cover\u3011\u541b\u306f\u50d5\u306b\u4f3c\u3066\u3044\u308b / See-Saw\u3010\u5009\u5922\u3074\u3053 / Phase Connect\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-30T10:00:06Z",
+      "scheduledStartTime": "2024-06-30T10:00:00Z",
+      "activeLiveChatId": "Cg0KC3lDMVhZZGt1QXdRKicKGFVDdFdIMHRWQWNVY1NtNHY5Nkg1Y0FxURILeUMxWFlka3VBd1E",
+      "premiere": true
     }
   }
 }
