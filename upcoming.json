@@ -4925,17 +4925,6 @@
       "activeLiveChatId": "Cg0KC2xnSm8zVXlxQkpzKicKGFVDeF96d1p1R0lTNGp4TzA3a0ZrOEc2URILbGdKbzNVeXFCSnM"
     }
   },
-  "lilinerach": {
-    "snippet": {
-      "channelId": "lilinerach",
-      "title": "honestly just vibing | !jin !lupus !tiktok !socials !throne !astral",
-      "channelTitle": "LilineraCh"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-30T02:50:03Z",
-      "twitch": true
-    }
-  },
   "ljBVQKCB5Jg": {
     "snippet": {
       "publishedAt": "2024-06-26T05:53:19Z",
@@ -5046,9 +5035,10 @@
     "snippet": {
       "publishedAt": "2024-06-30T01:54:33Z",
       "channelId": "UC1cExET9xoWSO9iSnRsW_1Q",
-      "title": "\u3010RDR2/#\u30ec\u30c9\u30b9\u30c8/\u30df\u30c1\u30a7\u30eb\u30fb\u30d3\u30fc\u30ac\u30f3\u3011\u7570\u4e16\u754c\u3067\u72e9\u4eba\u30e9\u30a4\u30d5\u6e80\u55ab\u3059\u308b\u7d2b\u7fe0\u307f\u3061\u308b\u3010Day10\u3011"
+      "title": "\u3010RDR2/#\u30ec\u30c9\u30b9\u30c8/\u30df\u30c1\u30a7\u30eb\u30fb\u30d3\u30fc\u30ac\u30f3\u3011\u7570\u4e16\u754c\u3067\u307e\u3063\u305f\u308a\u3057\u305f\u3044\u7d2b\u7fe0\u307f\u3061\u308b\u3010Day10\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-30T05:31:21Z",
       "scheduledStartTime": "2024-06-30T05:30:00Z",
       "activeLiveChatId": "Cg0KC21iWEtLbmpnX0ZVKicKGFVDMWNFeEVUOXhvV1NPOWlTblJzV18xURILbWJYS0tuamdfRlU"
     }
@@ -5062,6 +5052,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-03-09T13:00:00Z",
       "activeLiveChatId": "Cg0KC21mb0hwWUEzOW9jKicKGFVDYXhpRGVfVHVNTFhrd1JNVkxtNVZ3URILbWZvSHBZQTM5b2M"
+    }
+  },
+  "michiru_shisui": {
+    "snippet": {
+      "channelId": "michiru_shisui",
+      "title": "\u3010RDR2/#\u30ec\u30c9\u30b9\u30c8\u3011RP\u30b9\u30c8\u30ea\u30fc\u30de\u30fc\u30b5\u30fc\u30d0\u30fcDay10",
+      "channelTitle": "\u7d2b\u7fe0\u307f\u3061\u308b"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-30T05:31:19Z",
+      "twitch": true
     }
   },
   "mrZ8NWOSkJ0": {
