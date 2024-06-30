@@ -417,7 +417,8 @@
       "title": "\u3010Master Duel\u3011Playing vs. YOU! Come fight me!!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-30T16:00:38Z",
+      "actualStartTime": "2024-06-30T16:01:04Z",
+      "scheduledStartTime": "2024-06-30T16:00:55Z",
       "activeLiveChatId": "Cg0KCzI2aTJQNmhKX05FKicKGFVDN3NxYlE0XzVfRUx6LU92LWJWQmk4QRILMjZpMlA2aEpfTkU"
     }
   },
@@ -769,6 +770,7 @@
       "title": "\u3010ASMR\u3011Weekend Tingles\u3010VAllure\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-30T15:55:57Z",
       "scheduledStartTime": "2024-06-30T16:00:00Z",
       "activeLiveChatId": "Cg0KCzVtVmE3SUp4bkwwKicKGFVDOE9GeFBaTjY5WTBZbllsUTdMTmwwZxILNW1WYTdJSnhuTDA"
     }
@@ -2977,18 +2979,6 @@
       "activeLiveChatId": "Cg0KC1FBUTVIREFyTTM4KicKGFVDVHoxRmtvRUU2UWUtRV9nRC1NNjdRdxILUUFRNUhEQXJNMzg"
     }
   },
-  "QMCkHdaMCxc": {
-    "snippet": {
-      "publishedAt": "2024-06-27T22:48:35Z",
-      "channelId": "UCpeRj9-GaLGNUoKdI5I7vZA",
-      "title": "\u30103D Chibi Debut\u3011 Celebrating 3rd Anniversary + Announcement"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-30T14:01:51Z",
-      "scheduledStartTime": "2024-06-30T14:00:00Z",
-      "activeLiveChatId": "Cg0KC1FNQ2tIZGFNQ3hjKicKGFVDcGVSajktR2FMR05Vb0tkSTVJN3ZaQRILUU1Da0hkYU1DeGM"
-    }
-  },
   "QMRsYYxzJB8": {
     "snippet": {
       "publishedAt": "2021-12-12T17:41:21Z",
@@ -3159,18 +3149,6 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC1NCVlJIbDRUaTJRKicKGFVDR2hxeGhvdk5mYVBCcHhmQ3J1eTlFQRILU0JWUkhsNFRpMlE"
-    }
-  },
-  "SCYSXk4rp5k": {
-    "snippet": {
-      "publishedAt": "2024-06-30T10:48:10Z",
-      "channelId": "UCiyDpPerqXkicZmnxKB9qZQ",
-      "title": "[PS2] Monster Hunter (2004) #18"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-30T12:02:01Z",
-      "scheduledStartTime": "2024-06-30T12:00:00Z",
-      "activeLiveChatId": "Cg0KC1NDWVNYazRycDVrKicKGFVDaXlEcFBlcnFYa2ljWm1ueEtCOXFaURILU0NZU1hrNHJwNWs"
     }
   },
   "SFsSIawv6do": {
@@ -4428,18 +4406,6 @@
       "activeLiveChatId": "Cg0KC2U2OXA0a0ozQVhvKicKGFVDWER5dGxKVTZSTDhENjhWclBaR3lJQRILZTY5cDRrSjNBWG8"
     }
   },
-  "eRc9rRyTuGI": {
-    "snippet": {
-      "publishedAt": "2024-06-24T01:15:58Z",
-      "channelId": "UCkwBR9e5rCI2gmmlQy-bzfQ",
-      "title": "\u3010League of Legends\u3011Playing with Charlings! \ud83d\udd78\ufe0f \u3010VOLs\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-30T12:05:24Z",
-      "scheduledStartTime": "2024-06-30T12:00:00Z",
-      "activeLiveChatId": "Cg0KC2VSYzlyUnlUdUdJKicKGFVDa3dCUjllNXJDSTJnbW1sUXktYnpmURILZVJjOXJSeVR1R0k"
-    }
-  },
   "eT1T1-BP85k": {
     "snippet": {
       "publishedAt": "2024-06-22T18:56:49Z",
@@ -4493,6 +4459,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-07-03T22:00:00Z",
       "activeLiveChatId": "Cg0KC2VjS3VZb3M4ZzhzKicKGFVDSjRwdnNwd2puTS1oU1hxa29JdU1HURILZWNLdVlvczhnOHM"
+    }
+  },
+  "erislefaire": {
+    "snippet": {
+      "channelId": "erislefaire",
+      "title": "New Phasmo Map so we going on an adventure with @reanxcrow and @HarutoraAwie !kofi !discord |",
+      "channelTitle": "ErisLefaire"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-30T15:58:25Z",
+      "twitch": true
     }
   },
   "eulNaT_7F2w": {
@@ -4675,6 +4652,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-07-03T07:00:00Z",
       "activeLiveChatId": "Cg0KC2dhVElyMHhLWlQ4KicKGFVDUm02bHF0ZHhzX1FvNkhlTC1TUlEtdxILZ2FUSXIweEtaVDg"
+    }
+  },
+  "gx_aura": {
+    "snippet": {
+      "channelId": "gx_aura",
+      "title": "BUILDING MY OWN THEME PARK!| !ironside  [RollerCoaster Tycoon 2]",
+      "channelTitle": "GX_Aura"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-30T16:00:33Z",
+      "twitch": true
     }
   },
   "h4426bmybDA": {
@@ -4900,18 +4888,6 @@
       "activeLiveChatId": "Cg0KC2lRVmpoN0Nlc0VRKicKGFVDYl9hbmdmRjhpbzEtMURydks1azVMQRILaVFWamg3Q2VzRVE"
     }
   },
-  "i_Sfaf6FBe0": {
-    "snippet": {
-      "publishedAt": "2024-06-30T07:19:17Z",
-      "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
-      "title": "\u3010DEBUT 2.0\u3011Time to share more secrets !!\u3010#VSPOEN #AryaKuroha\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-30T14:00:46Z",
-      "scheduledStartTime": "2024-06-30T14:00:00Z",
-      "activeLiveChatId": "Cg0KC2lfU2ZhZjZGQmUwKicKGFVDTGxKcHhYdDZMNWQtWFEwY0RkSXlEURILaV9TZmFmNkZCZTA"
-    }
-  },
   "ieC07z1Ki_8": {
     "snippet": {
       "publishedAt": "2024-06-17T20:14:40Z",
@@ -5060,6 +5036,17 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC2taenl3cGxYSThjKicKGFVDaEtYZDdvcUQxOHFpSVlCb1JJSFRsdxILa1p6eXdwbFhJOGM"
+    }
+  },
+  "kanekolumi": {
+    "snippet": {
+      "channelId": "kanekolumi",
+      "title": "trust me i'm an engineer | !expressvpn",
+      "channelTitle": "KanekoLumi"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-30T16:00:16Z",
+      "twitch": true
     }
   },
   "ke16gFgamGQ": {
