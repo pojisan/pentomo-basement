@@ -1747,8 +1747,20 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-30T17:54:41Z",
-      "scheduledStartTime": "2024-06-30T18:00:00Z",
-      "activeLiveChatId": "Cg0KCzZvaHc2R1FlczAwKicKGFVDR3dMU3lQTGFIcHEwbnVUX0pWU010URILNm9odzZHUWVzMDA"
+      "actualEndTime": "2024-06-30T20:36:04Z",
+      "scheduledStartTime": "2024-06-30T18:00:00Z"
+    }
+  },
+  "T_P18tkOLEM": {
+    "snippet": {
+      "publishedAt": "2024-06-30T20:34:47Z",
+      "channelId": "UCGwLSyPLaHpq0nuT_JVSMtQ",
+      "title": "\u3010UNARCHIVED\u3011SINGING TIME/Unarchived\u3010Kanenui Mienai | globie\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-30T20:36:59Z",
+      "scheduledStartTime": "2024-06-30T20:40:00Z",
+      "activeLiveChatId": "Cg0KC1RfUDE4dGtPTEVNKicKGFVDR3dMU3lQTGFIcHEwbnVUX0pWU010URILVF9QMTh0a09MRU0"
     }
   }
 }
