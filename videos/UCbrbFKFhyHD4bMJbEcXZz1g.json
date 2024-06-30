@@ -4135,6 +4135,7 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-30T12:00:55Z",
+      "actualEndTime": "2024-06-30T14:00:05Z",
       "scheduledStartTime": "2024-06-30T12:00:00Z",
       "activeLiveChatId": "Cg0KCzZJRlBVTWxSTXhnKicKGFVDYnJiRktGaHlIRDRiTUpiRWNYWnoxZxILNklGUFVNbFJNeGc"
     }
@@ -4182,6 +4183,7 @@
       "title": "\u3010Audience Recording\u3011Spica at OffKai Live! Fancams!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-30T14:00:06Z",
       "scheduledStartTime": "2024-06-30T14:00:00Z",
       "activeLiveChatId": "Cg0KC0VnNEpLRHI4aEJVKicKGFVDYnJiRktGaHlIRDRiTUpiRWNYWnoxZxILRWc0SktEcjhoQlU",
       "premiere": true

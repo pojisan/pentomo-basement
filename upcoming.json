@@ -826,18 +826,6 @@
       "activeLiveChatId": "Cg0KCzY1WjdLai1Tc05RKicKGFVDM1Q3Tnd5UUJBeWx5V180WE9hOXdFURILNjVaN0tqLVNzTlE"
     }
   },
-  "6IFPUMlRMxg": {
-    "snippet": {
-      "publishedAt": "2024-06-26T11:50:36Z",
-      "channelId": "UCbrbFKFhyHD4bMJbEcXZz1g",
-      "title": "\u3010VSMP MINECRAFT\u3011 Spica plays Pixellink Minecraft Server!"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-30T12:00:55Z",
-      "scheduledStartTime": "2024-06-30T12:00:00Z",
-      "activeLiveChatId": "Cg0KCzZJRlBVTWxSTXhnKicKGFVDYnJiRktGaHlIRDRiTUpiRWNYWnoxZxILNklGUFVNbFJNeGc"
-    }
-  },
   "6fWhFiUlZs8": {
     "snippet": {
       "publishedAt": "2024-06-04T05:34:00Z",
@@ -1483,18 +1471,6 @@
       "premiere": true
     }
   },
-  "Eg4JKDr8hBU": {
-    "snippet": {
-      "publishedAt": "2024-06-30T05:45:17Z",
-      "channelId": "UCbrbFKFhyHD4bMJbEcXZz1g",
-      "title": "\u3010Audience Recording\u3011Spica at OffKai Live! Fancams!"
-    },
-    "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-30T14:00:00Z",
-      "activeLiveChatId": "Cg0KC0VnNEpLRHI4aEJVKicKGFVDYnJiRktGaHlIRDRiTUpiRWNYWnoxZxILRWc0SktEcjhoQlU",
-      "premiere": true
-    }
-  },
   "EjqJKHYq4ps": {
     "snippet": {
       "publishedAt": "2024-06-30T13:01:28Z",
@@ -2127,7 +2103,8 @@
       "title": "\u3010MEMBER'S ONLY\u3011game time! what are we playing? (tbd)"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-30T14:00:00Z",
+      "actualStartTime": "2024-06-30T13:59:50Z",
+      "scheduledStartTime": "2024-06-30T13:59:11Z",
       "activeLiveChatId": "Cg0KC0pPMEd6ZUVETVA4KicKGFVDTF9xaGd0T3kwZHkxQWdwOHZreVNRZxILSk8wR3plRURNUDg"
     }
   },
@@ -3674,6 +3651,7 @@
       "title": "APEX WITH REIMU AND HAYUN SENPAIs\u3010Maria Marionette| NIJISANJI EN \u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-30T14:00:39Z",
       "scheduledStartTime": "2024-06-30T14:00:00Z",
       "activeLiveChatId": "Cg0KC1hkQllyWVlzTXpjKicKGFVDd2FTOF9TN2tNaUtBM2l6bFRXSGJRZxILWGRCWXJZWXNNemM"
     }
@@ -3834,6 +3812,7 @@
       "title": "\u3010Rise & Ruse, Runatics!\u3011Brewing PICO-CHAN !!!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-30T13:59:48Z",
       "scheduledStartTime": "2024-06-30T14:00:00Z",
       "activeLiveChatId": "Cg0KC1ozZ0NFQ3BvVlZrKicKGFVDb0FRc2MtRFEwTWpmVHAwNTlvdFFBdxILWjNnQ0VDcG9WVms"
     }
@@ -4095,6 +4074,17 @@
       "actualStartTime": "2024-06-30T13:00:22Z",
       "scheduledStartTime": "2024-06-30T13:00:00Z",
       "activeLiveChatId": "Cg0KC2FtZkdTd01uX1FrKicKGFVDazB2dXd3c21fVVFISElPZ0d2eFUtQRILYW1mR1N3TW5fUWs"
+    }
+  },
+  "apollomythos": {
+    "snippet": {
+      "channelId": "apollomythos",
+      "title": "18+ \u2600\ufe0fASMR  GF\u2600\ufe0f sleepy girlfriend ASMR NYAA (SOUND ALERTS R ON) \u3010!discord\u3011\u3010!mythos\u3011\u3010!raid\u3011\u3010!Donate\u3011",
+      "channelTitle": "ApolloMythos"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-30T14:01:20Z",
+      "twitch": true
     }
   },
   "arurivtuber": {
@@ -4852,6 +4842,7 @@
       "title": "\u3010DEBUT 2.0\u3011Time to share more secrets !!\u3010#VSPOEN #AryaKuroha\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-30T14:00:46Z",
       "scheduledStartTime": "2024-06-30T14:00:00Z",
       "activeLiveChatId": "Cg0KC2lfU2ZhZjZGQmUwKicKGFVDTGxKcHhYdDZMNWQtWFEwY0RkSXlEURILaV9TZmFmNkZCZTA"
     }
