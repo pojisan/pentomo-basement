@@ -562,6 +562,7 @@
       "title": "A song for you #shortsfeed"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-30T02:02:46Z",
       "scheduledStartTime": "2024-06-30T02:00:00Z",
       "activeLiveChatId": "Cg0KCzQxcEZfOFR3Q1dvKicKGFVDamNiN1B2UEhtajNNTlV5c1ZVZUpjZxILNDFwRl84VHdDV28"
     }
@@ -2008,18 +2009,6 @@
       "activeLiveChatId": "Cg0KC0pZdEZ5Nm1rVG5ZKicKGFVDaFRBOGtIeUlucjJyS1oyYUJ2NVVMdxILSll0Rnk2bWtUblk"
     }
   },
-  "Jj-J_OXqCbA": {
-    "snippet": {
-      "publishedAt": "2024-06-29T09:33:16Z",
-      "channelId": "UC9SWIzHP07PL1y6cU8wkDwA",
-      "title": "\u3010Zomboid\u3011Endurance Stream 2 :D\u3010Yume+ | Mero Umiko\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-29T17:55:09Z",
-      "scheduledStartTime": "2024-06-29T18:00:00Z",
-      "activeLiveChatId": "Cg0KC0pqLUpfT1hxQ2JBKicKGFVDOVNXSXpIUDA3UEwxeTZjVTh3a0R3QRILSmotSl9PWHFDYkE"
-    }
-  },
   "JlKInYGDvt0": {
     "snippet": {
       "publishedAt": "2024-01-23T08:48:00Z",
@@ -3181,18 +3170,6 @@
       "scheduledStartTime": "2025-05-03T02:00:00Z"
     }
   },
-  "Uta4ladnvXU": {
-    "snippet": {
-      "publishedAt": "2024-06-17T07:02:28Z",
-      "channelId": "UCLlJpxXt6L5d-XQ0cDdIyDQ",
-      "title": "\u3010DEBUT\u3011Don't get too excited !!\u3010#VSPOEN #AryaKuroha\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-30T01:40:43Z",
-      "scheduledStartTime": "2024-06-30T01:40:00Z",
-      "activeLiveChatId": "Cg0KC1V0YTRsYWRudlhVKicKGFVDTGxKcHhYdDZMNWQtWFEwY0RkSXlEURILVXRhNGxhZG52WFU"
-    }
-  },
   "UveyQxRG97U": {
     "snippet": {
       "publishedAt": "2023-12-11T16:45:39Z",
@@ -3700,6 +3677,7 @@
       "title": "Claymore! full event +with hard mode ending  live English voice acting  \u3010GODDESS OF VICTORY: NIKKE\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-30T02:02:14Z",
       "scheduledStartTime": "2024-06-30T02:00:00Z",
       "activeLiveChatId": "Cg0KC19CNUV3a19pOUlJKicKGFVDWklGcGgxYll5R3htRmtrTk5MQUtkQRILX0I1RXdrX2k5SUk"
     }
@@ -4227,7 +4205,7 @@
       "title": "\u3010League of Legends\u3011ENDURANCE BATSU PART TWO ELECTRIC SPOODALOO \ud83d\udd78\ufe0f \u3010VOLs\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-30T10:30:00Z",
+      "scheduledStartTime": "2024-06-30T11:00:00Z",
       "activeLiveChatId": "Cg0KC2VSYzlyUnlUdUdJKicKGFVDa3dCUjllNXJDSTJnbW1sUXktYnpmURILZVJjOXJSeVR1R0k"
     }
   },
@@ -4907,6 +4885,17 @@
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-07-01T15:00:00Z"
+    }
+  },
+  "kyubalt": {
+    "snippet": {
+      "channelId": "kyubalt",
+      "title": "\u3010  i have no mouth and i must scream \u3011 stop traumadumping, am - !essay + !merch + !discord",
+      "channelTitle": "kyubalt"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-30T02:02:12Z",
+      "twitch": true
     }
   },
   "l3uqelUhGhU": {
@@ -5738,7 +5727,7 @@
   "shirozevalia": {
     "snippet": {
       "channelId": "shirozevalia",
-      "title": "duties and chillen in dawntrail come vibe! !charity",
+      "title": "Robots and Physics with THE  @Belleais !charity",
       "channelTitle": "ShiroZevalia"
     },
     "liveStreamingDetails": {
