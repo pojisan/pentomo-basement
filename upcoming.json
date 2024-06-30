@@ -1023,18 +1023,6 @@
       "activeLiveChatId": "Cg0KC0IzZnFqTm5OUmc4KicKGFVDdEhZLXRQMGR5eWtoVFJNbW5mUHNfZxILQjNmcWpObk5SZzg"
     }
   },
-  "B4PqDjFmDlA": {
-    "snippet": {
-      "publishedAt": "2024-06-27T05:19:47Z",
-      "channelId": "UC_sFNM0z0MWm9A6WlKPuMMg",
-      "title": "Higurashi: Whats happening in Hinamizawa?\u3010WATCHALONG\u3011\ud83c\udfbc #shorts"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-29T23:54:54Z",
-      "scheduledStartTime": "2024-06-30T00:00:00Z",
-      "activeLiveChatId": "Cg0KC0I0UHFEakZtRGxBKicKGFVDX3NGTk0wejBNV205QTZXbEtQdU1NZxILQjRQcURqRm1EbEE"
-    }
-  },
   "B5ISqD1aMI0": {
     "snippet": {
       "publishedAt": "2023-06-26T09:38:48Z",
@@ -1180,6 +1168,7 @@
       "title": "\u3010\u3074\u306a\u68ee\u3011 \u30cf\u30c3\u30d4\u30fc\u30db\u30fc\u30e0\u30d1\u30e9\u30c0\u30a4\u30b9 #1 \u3010\u306b\u3058\u3055\u3093\u3058 | \u30bb\u30d5\u30a3\u30ca\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-06-30T05:59:50Z",
       "scheduledStartTime": "2024-06-30T06:00:00Z",
       "activeLiveChatId": "Cg0KC0RIZVRzbHhfZDFVKicKGFVDZUdlbmRMOENPNVJrZmZCNklGd0hvdxILREhlVHNseF9kMVU"
     }
@@ -2031,6 +2020,17 @@
       "scheduledStartTime": "2026-05-11T15:30:00Z"
     }
   },
+  "KCnt5r2tsEM": {
+    "snippet": {
+      "publishedAt": "2024-06-30T05:57:17Z",
+      "channelId": "UCn7IbVBtkoUaZELqtrb9qNQ",
+      "title": "\u3010STARDEW VALLEY\u3011how to SHANE VALLEY??\u2764\ufe0f\u3010ArashiNebula_HOSHIZORA\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-06-30T12:30:00Z",
+      "activeLiveChatId": "Cg0KC0tDbnQ1cjJ0c0VNKicKGFVDbjdJYlZCdGtvVWFaRUxxdHJiOXFOURILS0NudDVyMnRzRU0"
+    }
+  },
   "KD54xF_ZIjY": {
     "snippet": {
       "publishedAt": "2022-10-14T08:39:39Z",
@@ -2465,18 +2465,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-30T22:00:00Z",
       "activeLiveChatId": "Cg0KC084NDJncDZIZjFjKicKGFVDYlpabHFBU1U2Njgtd3lXMUsya1lCdxILTzg0MmdwNkhmMWM"
-    }
-  },
-  "O8IUREMbl98": {
-    "snippet": {
-      "publishedAt": "2024-06-23T12:57:55Z",
-      "channelId": "UCJ4O6PWA47f6XbCgrLQNqEQ",
-      "title": "Time to get jouzu'd...?\u3010Fatal Frame: Mask Of The Lunar Eclipse #1\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-30T03:17:31Z",
-      "scheduledStartTime": "2024-06-30T03:00:00Z",
-      "activeLiveChatId": "Cg0KC084SVVSRU1ibDk4KicKGFVDSjRPNlBXQTQ3ZjZYYkNnckxRTnFFURILTzhJVVJFTWJsOTg"
     }
   },
   "O8SoM626j2k": {
@@ -3983,6 +3971,18 @@
       "twitch": true
     }
   },
+  "cvnaZZOG5lM": {
+    "snippet": {
+      "publishedAt": "2024-06-30T05:50:19Z",
+      "channelId": "UCqmSYkXLwsL0zEar5GooYkg",
+      "title": "\u3010Overwatch 2\u3011i am alive\u3010Yume+ | Mimosa Shirosaki\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-06-30T05:52:25Z",
+      "scheduledStartTime": "2024-06-30T06:00:00Z",
+      "activeLiveChatId": "Cg0KC2N2bmFaWk9HNWxNKicKGFVDcW1TWWtYTHdzTDB6RWFyNUdvb1lrZxILY3ZuYVpaT0c1bE0"
+    }
+  },
   "d-U2t6BuMNU": {
     "snippet": {
       "publishedAt": "2023-06-12T16:00:17Z",
@@ -4912,7 +4912,7 @@
   "lululasso": {
     "snippet": {
       "channelId": "lululasso",
-      "title": "Gyaru Cowgirl plays American Truck Sim!",
+      "title": "Gyaru Cowgirl crashed a truck and bailed. Let's not talk about it!",
       "channelTitle": "lululasso"
     },
     "liveStreamingDetails": {
@@ -5209,18 +5209,6 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC3A2N0FlTk02bzEwKicKGFVDOENLR1N2cDliUmZtdFd5ZlY1TDlKdxILcDY3QWVOTTZvMTA"
-    }
-  },
-  "pU4PWKOpxjw": {
-    "snippet": {
-      "publishedAt": "2024-06-29T16:18:59Z",
-      "channelId": "UCHsx4Hqa-1ORjQTh9TYDhww",
-      "title": "~REBROADCAST~\u3010KARAOKE\u301170s and 80s baby!!!!!!!!! IT'S A FEVER NIGHT #kfp #shorts"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-30T04:00:22Z",
-      "scheduledStartTime": "2024-06-30T04:00:00Z",
-      "activeLiveChatId": "Cg0KC3BVNFBXS09weGp3KicKGFVDSHN4NEhxYS0xT1JqUVRoOVRZRGh3dxILcFU0UFdLT3B4anc"
     }
   },
   "paXSHfUvX1g": {
