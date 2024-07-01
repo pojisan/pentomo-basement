@@ -5716,8 +5716,18 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-07-01T14:09:00Z",
       "actualEndTime": "2024-07-01T16:17:09Z",
-      "scheduledStartTime": "2024-07-01T14:00:00Z",
-      "activeLiveChatId": "Cg0KC2RHNUZTWG1YZU5RKicKGFVDY2tkZllER3Jqb2pKTTI4bjVTSFlyQRILZEc1RlNYbVhlTlE"
+      "scheduledStartTime": "2024-07-01T14:00:00Z"
+    }
+  },
+  "ycqL0XfFpPE": {
+    "snippet": {
+      "publishedAt": "2024-07-01T11:19:36Z",
+      "channelId": "UCckdfYDGrjojJM28n5SHYrA",
+      "title": "\u3010#Vox3D \u304a\u62ab\u9732\u76ee\u3011MINOTAUR \ud83d\udc02\u3010NIJISANJI EN | Vox Akuma\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-07-06T13:00:00Z",
+      "activeLiveChatId": "Cg0KC3ljcUwwWGZGcFBFKicKGFVDY2tkZllER3Jqb2pKTTI4bjVTSFlyQRILeWNxTDBYZkZwUEU"
     }
   }
 }
