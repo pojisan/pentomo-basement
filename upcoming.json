@@ -1947,6 +1947,7 @@
       "title": "IN THE NAME OF SPARKLES!!! - VALORANT \u3010Maria Marionette | NIJISANJI EN\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-07-01T10:00:22Z",
       "scheduledStartTime": "2024-07-01T10:00:00Z",
       "activeLiveChatId": "Cg0KC0djb1hTeG5Sb0pNKicKGFVDd2FTOF9TN2tNaUtBM2l6bFRXSGJRZxILR2NvWFN4blJvSk0"
     }
@@ -6194,6 +6195,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-04-28T09:00:00Z",
       "activeLiveChatId": "Cg0KC3JnZGk4YnRlUWdjKicKGFVDOHpnS2FTOExpeUwyOG1kaFJDMm5CZxILcmdkaThidGVRZ2M"
+    }
+  },
+  "riyu_thelamb": {
+    "snippet": {
+      "channelId": "riyu_thelamb",
+      "title": "CHILL TIMES WITH A CHILL LAMB\u3010PROJECT VERSES\u3011",
+      "channelTitle": "riyu_thelamb"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-07-01T10:00:17Z",
+      "twitch": true
     }
   },
   "rj0i9z8ybOM": {
