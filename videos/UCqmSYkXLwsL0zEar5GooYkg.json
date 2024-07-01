@@ -1334,5 +1334,17 @@
       "actualEndTime": "2024-06-30T16:07:58Z",
       "scheduledStartTime": "2024-06-30T15:00:00Z"
     }
+  },
+  "0fasYyUStM0": {
+    "snippet": {
+      "publishedAt": "2024-07-01T15:25:37Z",
+      "channelId": "UCqmSYkXLwsL0zEar5GooYkg",
+      "title": "\u3010English Cover\u3011IGAKU / Medicine\u3010Mimosa Shirosaki\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-07-01T22:00:00Z",
+      "activeLiveChatId": "Cg0KCzBmYXNZeVVTdE0wKicKGFVDcW1TWWtYTHdzTDB6RWFyNUdvb1lrZxILMGZhc1l5VVN0TTA",
+      "premiere": true
+    }
   }
 }
