@@ -184,6 +184,17 @@
       "activeLiveChatId": "Cg0KCzBCQVpsbXZGRHZ3KicKGFVDSFZZZDJGdGVrNUhpZWdSanQyWDkyZxILMEJBWmxtdkZEdnc"
     }
   },
+  "0ClnhRrUb44": {
+    "snippet": {
+      "publishedAt": "2024-07-01T19:30:04Z",
+      "channelId": "UCH8mDMzaR5MGFdCF4WdsGDA",
+      "title": "\u3010Kingdom Hearts Final Mix\u3011Guerilla Stream!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-07-01T20:00:00Z",
+      "activeLiveChatId": "Cg0KCzBDbG5oUnJVYjQ0KicKGFVDSDhtRE16YVI1TUdGZENGNFdkc0dEQRILMENsbmhSclViNDQ"
+    }
+  },
   "0EPUS4Dn-nI": {
     "snippet": {
       "publishedAt": "2024-06-30T23:18:20Z",
@@ -464,18 +475,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-07-02T00:00:00Z",
       "activeLiveChatId": "Cg0KCzFmTkl6R0p5c3lNKicKGFVDalhKWVBzS3hvSnljLTFSUEI2ZFN5dxILMWZOSXpHSnlzeU0"
-    }
-  },
-  "1hSRhAFcD7o": {
-    "snippet": {
-      "publishedAt": "2024-07-01T07:41:26Z",
-      "channelId": "UC-LAnFLXU9BusFv7n8lFj8g",
-      "title": "\u3010Variety games stream RAAAAA\u3011HAD TO CHANGE GAME CUZ TDF AINT OUT YET TwT\u3010Sarugaku Leon Jr. | Globie\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-07-01T16:01:21Z",
-      "scheduledStartTime": "2024-07-01T16:00:00Z",
-      "activeLiveChatId": "Cg0KCzFoU1JoQUZjRDdvKicKGFVDLUxBbkZMWFU5QnVzRnY3bjhsRmo4ZxILMWhTUmhBRmNEN28"
     }
   },
   "1i93bLBrLS0": {
@@ -3372,6 +3371,7 @@
       "title": "\u3010Just Chatting\u3011Health Update + Let's Yap A Little Before I Go!\u3010REM Kanashibari | V4Mirai | ENVtuber\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-07-01T19:30:56Z",
       "scheduledStartTime": "2024-07-01T19:30:00Z",
       "activeLiveChatId": "Cg0KC1BocHVZMEsybzJzKicKGFVDYlpabHFBU1U2Njgtd3lXMUsya1lCdxILUGhwdVkwSzJvMnM"
     }
@@ -3809,6 +3809,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-03-26T04:00:00Z",
       "activeLiveChatId": "Cg0KC1Q2cUh1a1dST0c4KicKGFVDNFlYMlp0NjZSNHVZcUxIRmt3UDFhdxILVDZxSHVrV1JPRzg"
+    }
+  },
+  "TLVJfmf8HMg": {
+    "snippet": {
+      "publishedAt": "2024-07-01T19:24:18Z",
+      "channelId": "UCbsP4BIsPYaRLv9f_yXDoDA",
+      "title": "\u3010BROTHERS: A TALE OF TWO SONS\u3011just bro things w/ @VilhelmVanderbos\u3010Komiyama Ambros | globie\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-07-05T17:00:00Z",
+      "activeLiveChatId": "Cg0KC1RMVkpmbWY4SE1nKicKGFVDYnNQNEJJc1BZYVJMdjlmX3lYRG9EQRILVExWSmZtZjhITWc"
     }
   },
   "TcvPUgG8wuw": {
@@ -4979,18 +4990,6 @@
       "activeLiveChatId": "Cg0KC2N3NGxKV3FBYXdVKicKGFVDRmdYV1pPVVpBMm9ZSE5yNnFEbXNUURILY3c0bEpXcUFhd1U"
     }
   },
-  "cySniXsuRTw": {
-    "snippet": {
-      "publishedAt": "2024-07-01T01:54:28Z",
-      "channelId": "UCGhqxhovNfaPBpxfCruy9EA",
-      "title": "Party Animals With Lots of Awesome People"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-07-01T15:11:56Z",
-      "scheduledStartTime": "2024-07-01T15:00:00Z",
-      "activeLiveChatId": "Cg0KC2N5U25pWHN1UlR3KicKGFVDR2hxeGhvdk5mYVBCcHhmQ3J1eTlFQRILY3lTbmlYc3VSVHc"
-    }
-  },
   "d-U2t6BuMNU": {
     "snippet": {
       "publishedAt": "2023-06-12T16:00:17Z",
@@ -5257,6 +5256,7 @@
       "title": "\u3010MINECRAFT SMP\u3011BUILD SHOWCASE \u2b50 100+ VTUBER SERVER \u2b50"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-07-01T19:32:24Z",
       "scheduledStartTime": "2024-07-01T19:30:00Z",
       "activeLiveChatId": "Cg0KC2Y1U0lfV0g0VkRrKicKGFVDTGRrY1R0NXZPZkdpX215dkstaU8wZxILZjVTSV9XSDRWRGs"
     }
@@ -5753,18 +5753,6 @@
       "activeLiveChatId": "Cg0KC2llQzA3ejFLaV84KicKGFVDSHQ0RjMtLUhxMHNOWFA2REVkbFNtZxILaWVDMDd6MUtpXzg"
     }
   },
-  "ilQLOHLDeX4": {
-    "snippet": {
-      "publishedAt": "2024-07-01T14:33:57Z",
-      "channelId": "UC_kVJhBQC6TDFysN9TuPSYg",
-      "title": "\u3010WUTHERING WAVES\u3011Husbando Simulator \u3010globie 1st Gen\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-07-01T16:56:03Z",
-      "scheduledStartTime": "2024-07-01T16:30:00Z",
-      "activeLiveChatId": "Cg0KC2lsUUxPSExEZVg0KicKGFVDX2tWSmhCUUM2VERGeXNOOVR1UFNZZxILaWxRTE9ITERlWDQ"
-    }
-  },
   "inislein": {
     "snippet": {
       "channelId": "inislein",
@@ -6076,6 +6064,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-07-16T16:00:00Z",
       "activeLiveChatId": "Cg0KC2xnSm8zVXlxQkpzKicKGFVDeF96d1p1R0lTNGp4TzA3a0ZrOEc2URILbGdKbzNVeXFCSnM"
+    }
+  },
+  "lgTZ48NZ2nU": {
+    "snippet": {
+      "publishedAt": "2024-07-01T19:30:50Z",
+      "channelId": "UCA4bOB1Jnw5-lbuoSCfxc-w",
+      "title": "Is imperialdramon The Most TOXIC Digimon Deck?"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-07-02T01:00:00Z",
+      "activeLiveChatId": "Cg0KC2xnVFo0OE5aMm5VKicKGFVDQTRiT0IxSm53NS1sYnVvU0NmeGMtdxILbGdUWjQ4TloyblU"
     }
   },
   "llAv86-sxM4": {
@@ -7017,6 +7016,17 @@
       "activeLiveChatId": "Cg0KC3NrVENLZ003YmlJKicKGFVDazB2dXd3c21fVVFISElPZ0d2eFUtQRILc2tUQ0tnTTdiaUk"
     }
   },
+  "stVqsXQKzcY": {
+    "snippet": {
+      "publishedAt": "2024-07-01T19:24:50Z",
+      "channelId": "UCiyzorDNw6tJWGEVItH4Smg",
+      "title": "THE BUILD SHOWCASE & ANCIENT CITY TAKEOVER EPISODE\u3010MINECRAFT\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-07-01T20:15:00Z",
+      "activeLiveChatId": "Cg0KC3N0VnFzWFFLemNZKicKGFVDaXl6b3JETnc2dEpXR0VWSXRINFNtZxILc3RWcXNYUUt6Y1k"
+    }
+  },
   "su2wbOAvLjI": {
     "snippet": {
       "publishedAt": "2023-11-20T14:49:46Z",
@@ -7586,18 +7596,6 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC3hoejNaZUhYaVI4KicKGFVDZWpiaWNvUm5RakNPZEFQQXY1SlB3ZxILeGh6M1plSFhpUjg"
-    }
-  },
-  "xoDMt_6kwQg": {
-    "snippet": {
-      "publishedAt": "2024-07-01T08:04:13Z",
-      "channelId": "UCx_zwZuGIS4jxO07kFk8G6Q",
-      "title": "[Trickster Online] 2007"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-07-01T17:01:16Z",
-      "scheduledStartTime": "2024-07-01T17:00:00Z",
-      "activeLiveChatId": "Cg0KC3hvRE10XzZrd1FnKicKGFVDeF96d1p1R0lTNGp4TzA3a0ZrOEc2URILeG9ETXRfNmt3UWc"
     }
   },
   "xvk04wgMLaA": {
