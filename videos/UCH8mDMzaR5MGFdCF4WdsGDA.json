@@ -2463,6 +2463,7 @@
       "title": "\u3010Weird Meese\u3011Awawawaw Mysterious?!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-07-01T22:04:13Z",
       "scheduledStartTime": "2024-07-01T22:00:00Z",
       "activeLiveChatId": "Cg0KC2NwOS1SSGNSMFpFKicKGFVDSDhtRE16YVI1TUdGZENGNFdkc0dEQRILY3A5LVJIY1IwWkU"
     }
@@ -2475,8 +2476,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-07-01T20:37:51Z",
-      "scheduledStartTime": "2024-07-01T20:30:00Z",
-      "activeLiveChatId": "Cg0KCzBDbG5oUnJVYjQ0KicKGFVDSDhtRE16YVI1TUdGZENGNFdkc0dEQRILMENsbmhSclViNDQ"
+      "actualEndTime": "2024-07-01T22:03:16Z",
+      "scheduledStartTime": "2024-07-01T20:30:00Z"
     }
   }
 }
