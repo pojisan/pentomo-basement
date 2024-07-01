@@ -963,6 +963,7 @@
       "title": "\u3010STILL WAKES THE DEEP\u3011Hold my hand, I'm going in DEEP!!!\u3010CADENCE NINE\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-07-01T11:56:14Z",
       "scheduledStartTime": "2024-07-01T12:00:00Z",
       "activeLiveChatId": "Cg0KCzZ6bFhaQ2RVVTRvKicKGFVDS1pPVkNQMDZCZ1BkSWdXTDA0NjdBQRILNnpsWFpDZFVVNG8"
     }
@@ -3001,6 +3002,7 @@
       "title": "\u3010VALORANT\u3011CRCUP\u3066\u3043\u3080\u3057\u30fc\u3074\u30fc\u3066\u3043\u30fc\u9854\u5408\u308f\u305bSCRIM\u3010\u30ed\u30fc\u30ec\u30f3\u30fb\u30a4\u30ed\u30a2\u30b9/\u306b\u3058\u3055\u3093\u3058\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-07-01T11:54:12Z",
       "scheduledStartTime": "2024-07-01T12:00:00Z",
       "activeLiveChatId": "Cg0KC09oNjA0SEI5Zy1zKicKGFVDZ21GclJjeUg3ZDF6UjlzSVZRaEZvdxILT2g2MDRIQjlnLXM"
     }
@@ -4754,6 +4756,17 @@
       "activeLiveChatId": "Cg0KC2RHNUZTWG1YZU5RKicKGFVDY2tkZllER3Jqb2pKTTI4bjVTSFlyQRILZEc1RlNYbVhlTlE"
     }
   },
+  "dI3Qgiy9wLY": {
+    "snippet": {
+      "publishedAt": "2024-07-01T11:53:22Z",
+      "channelId": "UCwmG_7y6pToRWHJ9TwFdZ1Q",
+      "title": "\u3010Kameo\u3011It's about drive it's about ELEMNTAL POWER ha, get it? Cause... ah...  \ud83e\udd91\ud83d\uded0\u3010VAllure\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-07-02T18:00:00Z",
+      "activeLiveChatId": "Cg0KC2RJM1FnaXk5d0xZKicKGFVDd21HXzd5NnBUb1JXSEo5VHdGZFoxURILZEkzUWdpeTl3TFk"
+    }
+  },
   "dPa1MYYZpE8": {
     "snippet": {
       "publishedAt": "2024-06-30T07:52:40Z",
@@ -5879,7 +5892,8 @@
       "title": "\u3010Goose Goose Duck\u3011HI:STREET NIGHT, GAMING WITH THE GIRLS!\u3010hololive ID 2nd Gen | Anya Melfissa\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-07-01T12:00:00Z"
+      "scheduledStartTime": "2024-07-01T12:00:00Z",
+      "activeLiveChatId": "Cg0KC21oNGxaSHVqV2NRKicKGFVDNzI3U1FZVXZ4NXBEREdRcFRJQ05XZxILbWg0bFpIdWpXY1E"
     }
   },
   "michiru_shisui": {
@@ -6857,6 +6871,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-07-12T02:30:00Z",
       "activeLiveChatId": "Cg0KC3ZUUGZKLVE3VW9nKicKGFVDYmkzTU01LVFQNE1ZMVlrV2Z2NFVKQRILdlRQZkotUTdVb2c"
+    }
+  },
+  "valryia": {
+    "snippet": {
+      "channelId": "valryia",
+      "title": "A return to Sun Haven (and streaming) ft @frozen_env",
+      "channelTitle": "Valryia"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-07-01T12:00:52Z",
+      "twitch": true
     }
   },
   "vbhfY2vFttc": {
