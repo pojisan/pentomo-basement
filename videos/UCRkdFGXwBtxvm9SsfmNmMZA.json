@@ -960,5 +960,38 @@
       "actualEndTime": "2024-06-28T23:25:34Z",
       "scheduledStartTime": "2024-06-28T22:00:00Z"
     }
+  },
+  "0I0tPuDvV34": {
+    "snippet": {
+      "publishedAt": "2024-07-01T15:40:52Z",
+      "channelId": "UCRkdFGXwBtxvm9SsfmNmMZA",
+      "title": "Resident Evil 4 SPEEDRUN Episode 2 I HATE ASHLEY"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-07-03T15:00:00Z",
+      "activeLiveChatId": "Cg0KCzBJMHRQdUR2VjM0KicKGFVDUmtkRkdYd0J0eHZtOVNzZm1ObU1aQRILMEkwdFB1RHZWMzQ"
+    }
+  },
+  "KPevuxhiEaU": {
+    "snippet": {
+      "publishedAt": "2024-07-01T15:39:37Z",
+      "channelId": "UCRkdFGXwBtxvm9SsfmNmMZA",
+      "title": "\u3010Throwback Zatsu\u3011 Episode 3 - Console history"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-07-05T15:00:00Z",
+      "activeLiveChatId": "Cg0KC0tQZXZ1eGhpRWFVKicKGFVDUmtkRkdYd0J0eHZtOVNzZm1ObU1aQRILS1BldnV4aGlFYVU"
+    }
+  },
+  "AwN2SiwfsU4": {
+    "snippet": {
+      "publishedAt": "2024-07-01T15:38:20Z",
+      "channelId": "UCRkdFGXwBtxvm9SsfmNmMZA",
+      "title": "Axolotl Aquarium is almost ready for the public! #VSMP"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-07-02T15:00:00Z",
+      "activeLiveChatId": "Cg0KC0F3TjJTaXdmc1U0KicKGFVDUmtkRkdYd0J0eHZtOVNzZm1ObU1aQRILQXdOMlNpd2ZzVTQ"
+    }
   }
 }
