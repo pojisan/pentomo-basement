@@ -2177,6 +2177,7 @@
       "title": "THANK YOU FOR 100K! \ud83d\udc97 \u3010 KARAOKE CELEBRATION | 3D FULL-BODY TRACKING \u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-07-01T04:15:45Z",
       "scheduledStartTime": "2024-07-01T04:00:00Z",
       "activeLiveChatId": "Cg0KC0p5WEpSNnk4MHJRKicKGFVDWWFkWlI5bVJpZ254NFJLdlBvdzQ0ZxILSnlYSlI2eTgwclE"
     }
@@ -4008,17 +4009,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2026-01-31T08:25:00Z",
       "activeLiveChatId": "Cg0KC2FOa2lCQWNnTzMwKicKGFVDbkpOTms0NU8xUVlTMm9NUllGS1N5dxILYU5raUJBY2dPMzA"
-    }
-  },
-  "adventureralm": {
-    "snippet": {
-      "channelId": "adventureralm",
-      "title": "Making Mega [Stage Building Only] | !discord !socials !bounty",
-      "channelTitle": "AdventurerAlm"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-07-01T02:17:12Z",
-      "twitch": true
     }
   },
   "akumeowie": {
@@ -5867,6 +5857,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-04-28T09:00:00Z",
       "activeLiveChatId": "Cg0KC3JnZGk4YnRlUWdjKicKGFVDOHpnS2FTOExpeUwyOG1kaFJDMm5CZxILcmdkaThidGVRZ2M"
+    }
+  },
+  "rixxybrightful": {
+    "snippet": {
+      "channelId": "rixxybrightful",
+      "title": "ANILIVE RESTREAM TEST",
+      "channelTitle": "rixxybrightful"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-07-01T04:12:46Z",
+      "twitch": true
     }
   },
   "rj0i9z8ybOM": {
