@@ -175,5 +175,38 @@
       "actualEndTime": "2024-07-01T04:05:36Z",
       "scheduledStartTime": "2024-07-01T00:00:00Z"
     }
+  },
+  "4XZoIZ4i9TU": {
+    "snippet": {
+      "publishedAt": "2024-07-01T20:58:35Z",
+      "channelId": "UCb_angfF8io1-1DrvK5k5LA",
+      "title": "\u3010FFXIV\u3011DAWN OF A NEW TRAIL"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-07-03T22:00:00Z",
+      "activeLiveChatId": "Cg0KCzRYWm9JWjRpOVRVKicKGFVDYl9hbmdmRjhpbzEtMURydks1azVMQRILNFhab0laNGk5VFU"
+    }
+  },
+  "xQMLsOQC7nE": {
+    "snippet": {
+      "publishedAt": "2024-07-01T20:56:42Z",
+      "channelId": "UCb_angfF8io1-1DrvK5k5LA",
+      "title": "\u3010FFXIV\u3011DAWN OF THE FINAL TRAIL -24 LIMIT CUTS REMAIN-"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-07-02T22:00:00Z",
+      "activeLiveChatId": "Cg0KC3hRTUxzT1FDN25FKicKGFVDYl9hbmdmRjhpbzEtMURydks1azVMQRILeFFNTHNPUUM3bkU"
+    }
+  },
+  "RiDccBnCdSA": {
+    "snippet": {
+      "publishedAt": "2024-07-01T20:55:35Z",
+      "channelId": "UCb_angfF8io1-1DrvK5k5LA",
+      "title": "\u3010FFXIV\u3011DAWN OF THE SECOND TRAIL -48 LIMIT CUTS REMAIN-"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-07-01T22:00:00Z",
+      "activeLiveChatId": "Cg0KC1JpRGNjQm5DZFNBKicKGFVDYl9hbmdmRjhpbzEtMURydks1azVMQRILUmlEY2NCbkNkU0E"
+    }
   }
 }
