@@ -1461,18 +1461,6 @@
       "activeLiveChatId": "Cg0KC0VYVnhnakVEdVo4KicKGFVDb09FZXIyYzJwbjJMcVBYNnNrTld0QRILRVhWeGdqRUR1Wjg"
     }
   },
-  "EbusIaSEjLA": {
-    "snippet": {
-      "publishedAt": "2024-06-26T17:36:51Z",
-      "channelId": "UCqyL0oB2jl-5GpSg-GWZ_gw",
-      "title": "??? \u2014 Cover by Mariya"
-    },
-    "liveStreamingDetails": {
-      "scheduledStartTime": "2024-07-01T02:00:00Z",
-      "activeLiveChatId": "Cg0KC0VidXNJYVNFakxBKicKGFVDcXlMMG9CMmpsLTVHcFNnLUdXWl9ndxILRWJ1c0lhU0VqTEE",
-      "premiere": true
-    }
-  },
   "EqvELyTJiZI": {
     "snippet": {
       "publishedAt": "2024-06-30T08:04:07Z",
@@ -1850,6 +1838,7 @@
       "title": "\u3010ART STREAM!\u3011OUR LAST LAST ART STREAM FOR PRIDE!!  #pkmnpride2024"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-07-01T01:59:47Z",
       "scheduledStartTime": "2024-07-01T02:00:00Z",
       "activeLiveChatId": "Cg0KC0hRVGVRYk1RdUJjKicKGFVDUkllUzNnLWF3SVF1UEFQbkFwSGJDQRILSFFUZVFiTVF1QmM"
     }
@@ -2679,18 +2668,6 @@
       "activeLiveChatId": "Cg0KC09mbmJLbldIVVQwKicKGFVDZzdzVy1oMVBVb3dkaVI1SzRIbEJldxILT2ZuYktuV0hVVDA"
     }
   },
-  "OhlyiOUqN68": {
-    "snippet": {
-      "publishedAt": "2024-06-30T18:42:26Z",
-      "channelId": "UCQr9A9ExDKYy2wxu0RkC4Ug",
-      "title": "\u3010FIVE NIGHTS AT FREDDYS\u3011Why am I working here..? | #EmiBLive"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-30T23:01:11Z",
-      "scheduledStartTime": "2024-06-30T23:01:02Z",
-      "activeLiveChatId": "Cg0KC09obHlpT1VxTjY4KicKGFVDUXI5QTlFeERLWXkyd3h1MFJrQzRVZxILT2hseWlPVXFONjg"
-    }
-  },
   "OnQovDWPwVI": {
     "snippet": {
       "publishedAt": "2024-07-01T01:30:01Z",
@@ -2893,6 +2870,7 @@
       "title": "\u3010ASMR\u3011 MY FIRST and last ASMR (lunch monching, item clanking, and... idk)"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-07-01T01:59:20Z",
       "scheduledStartTime": "2024-07-01T02:00:00Z",
       "activeLiveChatId": "Cg0KC1E4UzBvcWJyWXdvKicKGFVDZlcwZjJKNm8tX3IzZm1lV3MzSEZfQRILUThTMG9xYnJZd28"
     }
@@ -4175,6 +4153,17 @@
       "activeLiveChatId": "Cg0KC2NVRVZTRjVsOERRKicKGFVDS0RJTFE5d2p2ZzhiNUxxMFI2Qm56URILY1VFVlNGNWw4RFE"
     }
   },
+  "cySniXsuRTw": {
+    "snippet": {
+      "publishedAt": "2024-07-01T01:54:28Z",
+      "channelId": "UCGhqxhovNfaPBpxfCruy9EA",
+      "title": "Party Animals With Lots of Awesome People"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-07-01T15:00:00Z",
+      "activeLiveChatId": "Cg0KC2N5U25pWHN1UlR3KicKGFVDR2hxeGhvdk5mYVBCcHhmQ3J1eTlFQRILY3lTbmlYc3VSVHc"
+    }
+  },
   "d-U2t6BuMNU": {
     "snippet": {
       "publishedAt": "2023-06-12T16:00:17Z",
@@ -4724,6 +4713,17 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-07-01T00:58:38Z",
+      "twitch": true
+    }
+  },
+  "hanya": {
+    "snippet": {
+      "channelId": "hanya",
+      "title": "\ud83c\udf38TOTAL WAR WARHAMMER BABY\ud83c\udf38Yap & Gamin !supps !vershion",
+      "channelTitle": "Hanya"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-07-01T02:00:14Z",
       "twitch": true
     }
   },
@@ -6366,6 +6366,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-07-05T21:00:00Z",
       "activeLiveChatId": "Cg0KC3d0RmZxc2dHcUF3KicKGFVDbnBjN0hwY2lmVnBpNlJCek5nZTUxdxILd3RGZnFzZ0dxQXc"
+    }
+  },
+  "x-F410ufGOA": {
+    "snippet": {
+      "publishedAt": "2024-07-01T01:51:12Z",
+      "channelId": "UCswvd6_YWmd6riRk-8oT-sA",
+      "title": "\u3010Sonic Adventure 2\u3011GOTTA GO FAST!!!!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-07-02T18:00:00Z",
+      "activeLiveChatId": "Cg0KC3gtRjQxMHVmR09BKicKGFVDc3d2ZDZfWVdtZDZyaVJrLThvVC1zQRILeC1GNDEwdWZHT0E"
     }
   },
   "x5o6ZP_rbKI": {
