@@ -255,6 +255,7 @@
       "title": "[PC] Pathologic (2005) Classic HD version (2015) #9"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-07-01T12:03:25Z",
       "scheduledStartTime": "2024-07-01T12:00:00Z",
       "activeLiveChatId": "Cg0KCzBmMFpKc1dFUEE0KicKGFVDaXlEcFBlcnFYa2ljWm1ueEtCOXFaURILMGYwWkpzV0VQQTQ"
     }
@@ -577,6 +578,7 @@
       "title": "\u3010VSMP MINECRAFT\u3011 sheep base!!! Pixellink Minecraft Server!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-07-01T12:02:18Z",
       "scheduledStartTime": "2024-07-01T12:00:00Z",
       "activeLiveChatId": "Cg0KCzMzeWVNRFJJaDZZKicKGFVDYnJiRktGaHlIRDRiTUpiRWNYWnoxZxILMzN5ZU1EUkloNlk"
     }
@@ -4660,17 +4662,6 @@
       "activeLiveChatId": "Cg0KC2NVRVZTRjVsOERRKicKGFVDS0RJTFE5d2p2ZzhiNUxxMFI2Qm56URILY1VFVlNGNWw4RFE"
     }
   },
-  "cozysoma": {
-    "snippet": {
-      "channelId": "cozysoma",
-      "title": "Zatsudan to smooth jazz/ jazz-fi",
-      "channelTitle": "CozySoma"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-07-01T03:01:36Z",
-      "twitch": true
-    }
-  },
   "cw4lJWqAawU": {
     "snippet": {
       "publishedAt": "2024-07-01T09:05:32Z",
@@ -4937,6 +4928,7 @@
       "title": "\u3010\u50d5\u3001\u30a2\u30eb\u30d0\u30a4\u30c8\u30a9\u30a9\uff01\uff01\u3011\u5408\u6cd5\u7684\u306b\u4eba\u3092\u6bb4\u308c\u308b\u30b2\u30fc\u30e0\u3010\u306b\u3058\u3055\u3093\u3058/\u753a\u7530\u3061\u307e\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-07-01T12:03:47Z",
       "scheduledStartTime": "2024-07-01T12:00:00Z",
       "activeLiveChatId": "Cg0KC2VKMFg0TXVVWE5ZKicKGFVDbzdUUmozY1MtZl8xRDlaRG11VHNqdxILZUowWDRNdVVYTlk"
     }
@@ -5640,6 +5632,17 @@
       "activeLiveChatId": "Cg0KC2toOUZ3MU9FZGZZKicKGFVDUTNzX2tRWWYzUHVxT0t1OTBIcklxdxILa2g5RncxT0VkZlk"
     }
   },
+  "kirispica": {
+    "snippet": {
+      "channelId": "kirispica",
+      "title": "sheeping around!! VSMP Minecraft!! \u3010Kirispica | V-Dere\u3011",
+      "channelTitle": "kirispica"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-07-01T12:01:32Z",
+      "twitch": true
+    }
+  },
   "kuuIKlM8624": {
     "snippet": {
       "publishedAt": "2024-06-26T18:27:13Z",
@@ -5892,6 +5895,7 @@
       "title": "\u3010Goose Goose Duck\u3011HI:STREET NIGHT, GAMING WITH THE GIRLS!\u3010hololive ID 2nd Gen | Anya Melfissa\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-07-01T12:04:36Z",
       "scheduledStartTime": "2024-07-01T12:00:00Z",
       "activeLiveChatId": "Cg0KC21oNGxaSHVqV2NRKicKGFVDNzI3U1FZVXZ4NXBEREdRcFRJQ05XZxILbWg0bFpIdWpXY1E"
     }
@@ -6537,6 +6541,7 @@
       "title": "\u3010MINECRAFT\u3011Okay! Now I'm building the SKY house!\u3010Hoshizora\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-07-01T12:01:43Z",
       "scheduledStartTime": "2024-07-01T12:00:00Z",
       "activeLiveChatId": "Cg0KC3J6aDQwSDk0c0tBKicKGFVDcjg1NzlaY2xiZDZGOVJzX2NxeF9JURILcnpoNDBIOTRzS0E"
     }
@@ -7031,18 +7036,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-06-30T17:00:00Z",
       "activeLiveChatId": "Cg0KC3dYdUlCcFpXV3JVKicKGFVDSHVWZ25PR3RETjlIMnA0VnJsRDYyQRILd1h1SUJwWldXclU"
-    }
-  },
-  "wc2JvwyyfNM": {
-    "snippet": {
-      "publishedAt": "2024-06-30T22:35:47Z",
-      "channelId": "UCW5uhrG1eCBYditmhL0Ykjw",
-      "title": "REBROADCAST =\u3010UNARCHIVED KARAOKE\u3011Shall We Dance?~! \ud83d\udc84 #hololiveEnglish #holoJustice"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-07-01T09:05:14Z",
-      "scheduledStartTime": "2024-07-01T09:00:00Z",
-      "activeLiveChatId": "Cg0KC3djMkp2d3l5Zk5NKicKGFVDVzV1aHJHMWVDQllkaXRtaEwwWWtqdxILd2MySnZ3eXlmTk0"
     }
   },
   "whOoZwV5D7s": {
