@@ -4212,6 +4212,7 @@
       "title": "HUNTING FOR CUTE GI- BUILDING. WE ARE BUILDING [PIXEL VSMP]"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-07-01T19:04:17Z",
       "scheduledStartTime": "2024-07-01T19:00:00Z",
       "activeLiveChatId": "Cg0KC1gyYmFnMFNJTWRzKicKGFVDQXhWb0JMRzJCdjF4Z2JZVV9lZnNDZxILWDJiYWcwU0lNZHM"
     }
@@ -5257,7 +5258,7 @@
       "title": "\u3010MINECRAFT SMP\u3011BUILD SHOWCASE \u2b50 100+ VTUBER SERVER \u2b50"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-07-01T19:00:00Z",
+      "scheduledStartTime": "2024-07-01T19:30:00Z",
       "activeLiveChatId": "Cg0KC2Y1U0lfV0g0VkRrKicKGFVDTGRrY1R0NXZPZkdpX215dkstaU8wZxILZjVTSV9XSDRWRGs"
     }
   },
@@ -5270,18 +5271,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-07-02T22:00:00Z",
       "activeLiveChatId": "Cg0KC2Y5ZjZ6bXk4ZGFvKicKGFVDSUlkMmJBM0JzQmVCQjgwYmR3TnM0URILZjlmNnpteThkYW8"
-    }
-  },
-  "fAzC6-XESpo": {
-    "snippet": {
-      "publishedAt": "2024-07-01T13:38:35Z",
-      "channelId": "UCsaCRWOX3IInUOSj-XRUCpg",
-      "title": "[Gaming] Let's Chat with Yagami Noah\uff5cVTuber /GTA5 in Street Junkies #\u30b9\u30c8\u30b8\u30e3\u30f3\u3010GTA5\u3011\u65e5\u672c\u8a9e/PC"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-07-01T13:41:24Z",
-      "scheduledStartTime": "2024-07-01T13:40:00Z",
-      "activeLiveChatId": "Cg0KC2ZBekM2LVhFU3BvKicKGFVDc2FDUldPWDNJSW5VT1NqLVhSVUNwZxILZkF6QzYtWEVTcG8"
     }
   },
   "fSfZhyj3yus": {
@@ -5312,6 +5301,7 @@
       "title": "\u3010MARRIED IN RED\u3011I WILL play every studio investigrave game to release\u3010Yume Plus | Rhea Nevermore\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-07-01T19:02:33Z",
       "scheduledStartTime": "2024-07-01T19:00:00Z",
       "activeLiveChatId": "Cg0KC2ZfVm10SXhuZzY0KicKGFVDSUlkMmJBM0JzQmVCQjgwYmR3TnM0URILZl9WbXRJeG5nNjQ"
     }
@@ -5594,6 +5584,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-07-01T23:00:00Z",
       "activeLiveChatId": "Cg0KC2hfak9WTTFBdkRrKicKGFVDOXBfbHFRMEZFRHozMjdWZ2Y1SndxQRILaF9qT1ZNMUF2RGs"
+    }
+  },
+  "haruna": {
+    "snippet": {
+      "channelId": "haruna",
+      "title": "i graduate next week",
+      "channelTitle": "haruna"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-07-01T19:09:47Z",
+      "twitch": true
     }
   },
   "hisWk9dPxxk": {
@@ -7529,6 +7530,7 @@
       "title": "Session 56: Aboard the Shadow Serpent | Into The Mists [DND] w/ Vtubers"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-07-01T19:04:22Z",
       "scheduledStartTime": "2024-07-01T19:00:00Z",
       "activeLiveChatId": "Cg0KC3haV2t5Ym8wQ19FKicKGFVDSTRQTGZ1aUw5akZPcHNFSUEyMEtqZxILeFpXa3libzBDX0U"
     }
