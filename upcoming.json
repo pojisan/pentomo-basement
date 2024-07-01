@@ -1146,7 +1146,7 @@
     "snippet": {
       "publishedAt": "2024-04-07T20:50:02Z",
       "channelId": "UCbZZlqASU668-wyW1K2kYBw",
-      "title": "\u3010This Week's Schedule\u301124th June - 30th June"
+      "title": "\u3010This Week's Schedule\u30111st July - 7th July"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-08-01T22:00:00Z",
@@ -3730,6 +3730,7 @@
       "title": "\u3010Stellar Blade\u3011Muscle memory, don't fail me now"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-07-01T13:05:36Z",
       "scheduledStartTime": "2024-07-01T13:00:00Z",
       "activeLiveChatId": "Cg0KC1YzaU1sY2oxWDY4KicKGFVDMFpUVnhDSGtaYW5UNWRuUDJGWkQ0URILVjNpTWxjajFYNjg"
     }
@@ -4504,6 +4505,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-07-04T16:00:00Z",
       "activeLiveChatId": "Cg0KC2FxdFJodHJkajRBKicKGFVDLWhNd3ZSdU1zUXJmZ3UwRFBLTFYyQRILYXF0Umh0cmRqNEE"
+    }
+  },
+  "arurivtuber": {
+    "snippet": {
+      "channelId": "arurivtuber",
+      "title": "\ud83d\udd34 WHY Are They Chasing Me!?!?!?? \u2726 !donathon DAY 133 | !socials !discord !yt !stickers !tips",
+      "channelTitle": "AruriVtuber"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-07-01T13:05:02Z",
+      "twitch": true
     }
   },
   "auCkpoNM1yE": {
@@ -6041,7 +6053,7 @@
     "snippet": {
       "publishedAt": "2024-01-29T07:47:51Z",
       "channelId": "UCQpD-UhHdhFL1DTJxhJpuyA",
-      "title": "Weekly schedule (Jun 24~30), Announcements"
+      "title": "Weekly schedule (Jul 1~7), Announcements"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-03-03T13:00:00Z",
@@ -6614,6 +6626,7 @@
       "title": "\ud83d\udd34\u3010LITTLE NIGHTMARES 2\u3011 An Entire City Where Only Monsters Exist \ud83d\udd6f\ufe0f | Long Playthrough"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-07-01T13:05:24Z",
       "scheduledStartTime": "2024-07-01T13:00:00Z",
       "activeLiveChatId": "Cg0KC3NLaHBrUW51cmY0KicKGFVDNDE3UVBhV0xMNHJjWUJBRVNQTGZyQRILc0tocGtRbnVyZjQ"
     }
@@ -6766,6 +6779,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2026-04-30T06:00:00Z",
       "activeLiveChatId": "Cg0KC3RPeWpnYWU4UmZrKicKGFVDVEpDb0hFdDVjMjdyY2VxMnNoNjlrZxILdE95amdhZThSZms"
+    }
+  },
+  "tatsuhikohiroki": {
+    "snippet": {
+      "channelId": "tatsuhikohiroki",
+      "title": "Wuwaing again #Vtuber",
+      "channelTitle": "tatsuhikohiroki"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-07-01T13:08:05Z",
+      "twitch": true
     }
   },
   "thKmAPsyAPE": {
