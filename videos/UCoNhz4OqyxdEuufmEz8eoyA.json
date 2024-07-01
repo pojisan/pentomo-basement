@@ -683,5 +683,16 @@
       "actualEndTime": "2024-06-28T14:58:07Z",
       "scheduledStartTime": "2024-06-28T12:00:00Z"
     }
+  },
+  "DK-HN1ckTlA": {
+    "snippet": {
+      "publishedAt": "2024-07-01T10:29:32Z",
+      "channelId": "UCoNhz4OqyxdEuufmEz8eoyA",
+      "title": "Trying out the Imaginarium Theater | Genshin Impact"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-07-01T14:00:00Z",
+      "activeLiveChatId": "Cg0KC0RLLUhOMWNrVGxBKicKGFVDb05oejRPcXl4ZEV1dWZtRXo4ZW95QRILREstSE4xY2tUbEE"
+    }
   }
 }
