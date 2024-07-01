@@ -1225,7 +1225,7 @@
     "snippet": {
       "publishedAt": "2024-01-29T19:35:42Z",
       "channelId": "UCucJYLJSEFRRfV2CA_JGHIQ",
-      "title": "\u258cSchedule\uff1a6.24 - 6.30\u300c\u30de\u30a4\u30af\u30e9\u306f\u8d77\u304d\u3089\u308c\u305f\u3089\u30b2\u30ea\u30e9\u3057\u307e\u3059\u300d"
+      "title": "\u258cSchedule\uff1a7.1 - 7.7\u300cSSR\uff01\u6b4c\u67a0\u3001\u3042\u308a\u307e\u3059\u300d"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2026-01-31T14:00:00Z",
@@ -1495,6 +1495,17 @@
       "actualStartTime": "2024-06-29T14:00:00Z",
       "actualEndTime": "2024-06-29T20:59:05Z",
       "scheduledStartTime": "2024-06-29T14:00:00Z"
+    }
+  },
+  "W3hkt_OnriM": {
+    "snippet": {
+      "publishedAt": "2024-07-01T05:38:04Z",
+      "channelId": "UCucJYLJSEFRRfV2CA_JGHIQ",
+      "title": "\u3010\u98f2\u9152\u96d1\u8ac7\u3011\u3059\u3000\u3054\u3000\u3044\u30007\u3000\u6708\u3010#\u5deb\u30ed\u30ad/Phase Connect\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-07-01T14:00:00Z",
+      "activeLiveChatId": "Cg0KC1czaGt0X09ucmlNKicKGFVDdWNKWUxKU0VGUlJmVjJDQV9KR0hJURILVzNoa3RfT25yaU0"
     }
   }
 }
