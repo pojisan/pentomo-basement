@@ -383,7 +383,7 @@
     "snippet": {
       "publishedAt": "2023-12-11T01:32:26Z",
       "channelId": "UCv1ThyE4KVYnnVY8GLftnoA",
-      "title": "\u3010SCHEDULE\u3011\ud83d\uddd3\ufe0f 06/17 - 06/23 \ud83d\uddd3\ufe0f\u3010V4Mirai | Serina Maiko\u3011"
+      "title": "\u3010SCHEDULE\u3011\ud83d\uddd3\ufe0f 07/01 - 07/11 \ud83d\uddd3\ufe0f\u3010V4Mirai | Serina Maiko\u3011"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-01-01T05:00:00Z",
@@ -1667,18 +1667,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-07-04T01:30:00Z",
       "activeLiveChatId": "Cg0KC0RuN05HOExEZXRjKicKGFVDSUlkMmJBM0JzQmVCQjgwYmR3TnM0URILRG43Tkc4TERldGM"
-    }
-  },
-  "DnnBGW3x9Rs": {
-    "snippet": {
-      "publishedAt": "2024-07-01T10:43:50Z",
-      "channelId": "UC1cExET9xoWSO9iSnRsW_1Q",
-      "title": "\u3010RDR2/#\u30ec\u30c9\u30b9\u30c8/\u30df\u30c1\u30a7\u30eb\u30fb\u30d3\u30fc\u30ac\u30f3\u3011\u7570\u4e16\u754c\u3067\u6599\u7406\u3092\u899a\u3048\u305f\u3044\u7d2b\u7fe0\u307f\u3061\u308b\u3010Day11-2\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-07-01T11:07:43Z",
-      "scheduledStartTime": "2024-07-01T11:15:00Z",
-      "activeLiveChatId": "Cg0KC0RubkJHVzN4OVJzKicKGFVDMWNFeEVUOXhvV1NPOWlTblJzV18xURILRG5uQkdXM3g5UnM"
     }
   },
   "DoTdHWE2p3M": {
@@ -3602,6 +3590,7 @@
       "title": "\u3010Kameo\u3011Xbox Babies Rise UP \ud83e\udd91\ud83d\uded0\u3010VAllure\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-07-01T18:03:47Z",
       "scheduledStartTime": "2024-07-01T18:00:00Z",
       "activeLiveChatId": "Cg0KC1JwM0JJdjlzemgwKicKGFVDd21HXzd5NnBUb1JXSEo5VHdGZFoxURILUnAzQkl2OXN6aDA"
     }
@@ -5020,18 +5009,6 @@
       "activeLiveChatId": "Cg0KC2Q5UEx5d2xkN1ZzKicKGFVDb21JblcxME1rSEpzLV92aTRySFFDURILZDlQTHl3bGQ3VnM"
     }
   },
-  "dEf_cO4AGFk": {
-    "snippet": {
-      "publishedAt": "2024-07-01T04:07:07Z",
-      "channelId": "UC7sqbQ4_5_ELz-Ov-bVBi8A",
-      "title": "\u3010Master Duel\u3011Slowly working our way up!"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-07-01T16:00:17Z",
-      "scheduledStartTime": "2024-07-01T16:00:05Z",
-      "activeLiveChatId": "Cg0KC2RFZl9jTzRBR0ZrKicKGFVDN3NxYlE0XzVfRUx6LU92LWJWQmk4QRILZEVmX2NPNEFHRms"
-    }
-  },
   "dI3Qgiy9wLY": {
     "snippet": {
       "publishedAt": "2024-07-01T11:53:22Z",
@@ -6241,17 +6218,6 @@
       "activeLiveChatId": "Cg0KC21mb0hwWUEzOW9jKicKGFVDYXhpRGVfVHVNTFhrd1JNVkxtNVZ3URILbWZvSHBZQTM5b2M"
     }
   },
-  "michiru_shisui": {
-    "snippet": {
-      "channelId": "michiru_shisui",
-      "title": "\u3010RDR2/#\u30ec\u30c9\u30b9\u30c8\u3011RP\u30b9\u30c8\u30ea\u30fc\u30de\u30fc\u30b5\u30fc\u30d0\u30fcDay11",
-      "channelTitle": "\u7d2b\u7fe0\u307f\u3061\u308b"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-07-01T11:06:46Z",
-      "twitch": true
-    }
-  },
   "miyuyus": {
     "snippet": {
       "channelId": "miyuyus",
@@ -6336,6 +6302,7 @@
       "title": "\u3010Bday 2.0\u3011Zatsu, batsus and bathbombs \u3010Alicja Da Lontano | Globie Gen 2 Solstia\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-07-01T18:02:48Z",
       "scheduledStartTime": "2024-07-01T18:00:00Z",
       "activeLiveChatId": "Cg0KC25mb0xpdlEtSUMwKicKGFVDcWxndGs5SF8xR29XdHZXOFZpaTM4dxILbmZvTGl2US1JQzA"
     }
