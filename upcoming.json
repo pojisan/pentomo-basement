@@ -281,18 +281,6 @@
       "activeLiveChatId": "Cg0KCzBlSHFUNG9TU3JRKicKGFVDWmZRUnV3U0x0eTc0UUFqNTVCYUtsQRILMGVIcVQ0b1NTclE"
     }
   },
-  "0fasYyUStM0": {
-    "snippet": {
-      "publishedAt": "2024-07-01T15:25:37Z",
-      "channelId": "UCqmSYkXLwsL0zEar5GooYkg",
-      "title": "\u3010English Cover\u3011IGAKU / Medicine\u3010Mimosa Shirosaki\u3011"
-    },
-    "liveStreamingDetails": {
-      "scheduledStartTime": "2024-07-01T22:00:00Z",
-      "activeLiveChatId": "Cg0KCzBmYXNZeVVTdE0wKicKGFVDcW1TWWtYTHdzTDB6RWFyNUdvb1lrZxILMGZhc1l5VVN0TTA",
-      "premiere": true
-    }
-  },
   "0nCfnSyRn_o": {
     "snippet": {
       "publishedAt": "2024-04-29T17:41:30Z",
@@ -986,6 +974,7 @@
       "title": "\u3010MEDIA SHARE\u3011SUPER SUMMER JAMS!\u3010Reina Ronronea | globie\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-07-01T21:59:15Z",
       "scheduledStartTime": "2024-07-01T22:00:00Z",
       "activeLiveChatId": "Cg0KCzZZS2hpS2RTRlRFKicKGFVDVm1oZzR3Y1RWcGp5Q29LRFk1OW1ZdxILNllLaGlLZFNGVEU"
     }
@@ -1376,6 +1365,17 @@
       "actualStartTime": "2024-07-01T17:20:38Z",
       "scheduledStartTime": "2024-07-01T17:00:00Z",
       "activeLiveChatId": "Cg0KC0I4a3ozR05FaXRNKicKGFVDVUkxcXBqSlNFYmd6ZGx3bXBkVm1NdxILQjhrejNHTkVpdE0"
+    }
+  },
+  "BB6V62cQj_k": {
+    "snippet": {
+      "publishedAt": "2024-07-01T21:54:00Z",
+      "channelId": "UCvYzwEkCQ27gPaj54wBsVOg",
+      "title": "\u3010Hades\u3011Percy Jackson has NOTHING on me\u3010VAllure\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-07-06T22:00:00Z",
+      "activeLiveChatId": "Cg0KC0JCNlY2MmNRal9rKicKGFVDdll6d0VrQ1EyN2dQYWo1NHdCc1ZPZxILQkI2VjYyY1FqX2s"
     }
   },
   "BRXEltk5UOE": {
@@ -2255,6 +2255,17 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC0hHci1zdlBrejQwKicKGFVDOXhSN3VOMHg1YTZDSDNVb3BxN2N6QRILSEdyLXN2UGt6NDA"
+    }
+  },
+  "HK44Pduiu04": {
+    "snippet": {
+      "publishedAt": "2024-07-01T21:50:54Z",
+      "channelId": "UCvYzwEkCQ27gPaj54wBsVOg",
+      "title": "\u3010Audio Roleplay\u3011Studying With your Gyaru Classmate..?\u3010VAllure\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-07-05T20:00:00Z",
+      "activeLiveChatId": "Cg0KC0hLNDRQZHVpdTA0KicKGFVDdll6d0VrQ1EyN2dQYWo1NHdCc1ZPZxILSEs0NFBkdWl1MDQ"
     }
   },
   "HXYNBzRc5y4": {
@@ -3340,6 +3351,7 @@
       "title": "RKNGL Radio: AzureSniper - vtuber violinist!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-07-01T21:58:15Z",
       "scheduledStartTime": "2024-07-01T22:00:00Z",
       "activeLiveChatId": "Cg0KC1BTTVh4Y1ZKUUxNKicKGFVDQkpGc2FDdmdCYTFhOUJuRWF4dTk3URILUFNNWHhjVkpRTE0"
     }
@@ -3646,7 +3658,8 @@
       "title": "\u3010Zatsu/Art\u3011ART FIGHT (And happy canada day)\ud83e\udd0e\ud83e\udde9\u3010#LaikaCream\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-07-01T22:00:00Z",
+      "actualStartTime": "2024-07-01T22:00:30Z",
+      "scheduledStartTime": "2024-07-01T22:00:18Z",
       "activeLiveChatId": "Cg0KC1I5NnRGYURWcEZVKicKGFVDb3FQc1VXXzJJX2JaN041SDNGNFliURILUjk2dEZhRFZwRlU"
     }
   },
@@ -3668,6 +3681,7 @@
       "title": "\u3010FFXIV\u3011DAWN OF THE SECOND TRAIL -48 LIMIT CUTS REMAIN-"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-07-01T22:00:18Z",
       "scheduledStartTime": "2024-07-01T22:00:00Z",
       "activeLiveChatId": "Cg0KC1JpRGNjQm5DZFNBKicKGFVDYl9hbmdmRjhpbzEtMURydks1azVMQRILUmlEY2NCbkNkU0E"
     }
@@ -4257,6 +4271,7 @@
       "title": "Morrowind: First time playing!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-07-01T21:57:49Z",
       "scheduledStartTime": "2024-07-01T22:00:00Z",
       "activeLiveChatId": "Cg0KC1dwcE9aVzMzQlVvKicKGFVDZS1fcDZvdW40cDAtZ2RCNEFrZlQxURILV3BwT1pXMzNCVW8"
     }
@@ -4688,6 +4703,17 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC19MVHlidWlZRk1nKicKGFVDOHlYUkJfaktEZWFwd1FhazJpMzBFQRILX0xUeWJ1aVlGTWc"
+    }
+  },
+  "_MbbHuR31Bc": {
+    "snippet": {
+      "publishedAt": "2024-07-01T21:58:36Z",
+      "channelId": "UCiBMH1d7ew_3bi2A_zZGsmw",
+      "title": "\u3010Yakuza 0\u3011Our drama is getting better and better\u3010idolES | Taiga Toragami\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-07-06T02:00:00Z",
+      "activeLiveChatId": "Cg0KC19NYmJIdVIzMUJjKicKGFVDaUJNSDFkN2V3XzNiaTJBX3paR3NtdxILX01iYkh1UjMxQmM"
     }
   },
   "_o9DF2Dcem8": {
@@ -5914,6 +5940,7 @@
       "title": "\u3010BUCKSHOT ROULETTE\u3011LET'S TAKE A CHANCE ~\u3010#VSPOEN #AryaKuroha\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-07-01T22:00:56Z",
       "scheduledStartTime": "2024-07-01T22:00:00Z",
       "activeLiveChatId": "Cg0KC2o5cGt5RXJBSlVRKicKGFVDTGxKcHhYdDZMNWQtWFEwY0RkSXlEURILajlwa3lFckFKVVE"
     }
@@ -6265,18 +6292,6 @@
       "activeLiveChatId": "Cg0KC21CTVAtY3BOTzFRKicKGFVDMXRScVFUSTNCY2hzOFh2VW5qOHl2URILbUJNUC1jcE5PMVE"
     }
   },
-  "mBfgIZp0r94": {
-    "snippet": {
-      "publishedAt": "2024-07-01T14:08:47Z",
-      "channelId": "UCvN5h1ShZtc7nly3pezRayg",
-      "title": "\u3010DRAWING\u3011Let's make chat game assets!!! #hololiveEnglish #holoJustice"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-07-01T18:58:30Z",
-      "scheduledStartTime": "2024-07-01T19:00:00Z",
-      "activeLiveChatId": "Cg0KC21CZmdJWnAwcjk0KicKGFVDdk41aDFTaFp0YzdubHkzcGV6UmF5ZxILbUJmZ0lacDByOTQ"
-    }
-  },
   "mMglUjYOQYw": {
     "snippet": {
       "publishedAt": "2022-07-14T11:55:46Z",
@@ -6621,6 +6636,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-07-21T06:59:00Z",
       "activeLiveChatId": "Cg0KC3BsZTBVWmdjbEJ3KicKGFVDalhKWVBzS3hvSnljLTFSUEI2ZFN5dxILcGxlMFVaZ2NsQnc"
+    }
+  },
+  "poseidonmythos": {
+    "snippet": {
+      "channelId": "poseidonmythos",
+      "title": "\u2500\ud83d\udd31 i'm sick... \ud83d\udd31 Free stream today!!! \u250a !merch !gsupps !throne !discord !socials",
+      "channelTitle": "PoseidonMythos"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-07-01T22:00:26Z",
+      "twitch": true
     }
   },
   "q2Gb5JMp0k8": {
@@ -7159,6 +7185,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-08-30T04:35:00Z",
       "activeLiveChatId": "Cg0KC3NrVENLZ003YmlJKicKGFVDazB2dXd3c21fVVFISElPZ0d2eFUtQRILc2tUQ0tnTTdiaUk"
+    }
+  },
+  "srbLDHd_yOQ": {
+    "snippet": {
+      "publishedAt": "2024-07-01T21:54:55Z",
+      "channelId": "UCiBMH1d7ew_3bi2A_zZGsmw",
+      "title": "\u3010Zenless Zone Zero\u3011 I was waiting for you\u3010idolES | Taiga Toragami\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-07-04T02:00:00Z",
+      "activeLiveChatId": "Cg0KC3NyYkxESGRfeU9RKicKGFVDaUJNSDFkN2V3XzNiaTJBX3paR3NtdxILc3JiTERIZF95T1E"
     }
   },
   "stVqsXQKzcY": {
@@ -7990,6 +8027,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-07-01T22:00:00Z",
       "activeLiveChatId": "Cg0KC3pTQXQ5S19NWU9VKicKGFVDTjY4TG9NM2toUzRnZEJNaVdKTzhXQRILelNBdDlLX01ZT1U"
+    }
+  },
+  "zh6qU7P0YFQ": {
+    "snippet": {
+      "publishedAt": "2024-07-01T21:52:44Z",
+      "channelId": "UCiBMH1d7ew_3bi2A_zZGsmw",
+      "title": "\u3010OVERCOOKED2\u3011 Call me Tata Ramsay \u3010idolES | Taiga Toragami\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-07-02T19:00:00Z",
+      "activeLiveChatId": "Cg0KC3poNnFVN1AwWUZRKicKGFVDaUJNSDFkN2V3XzNiaTJBX3paR3NtdxILemg2cVU3UDBZRlE"
     }
   },
   "zhyTt2HSKs8": {
