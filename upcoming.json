@@ -611,6 +611,17 @@
       "activeLiveChatId": "Cg0KCzRRcHJ3c245QUswKicKGFVDdTFJTnplZnczUjdNOS0zUUVIWW1NURILNFFwcndzbjlBSzA"
     }
   },
+  "4RrLkwyWpQE": {
+    "snippet": {
+      "publishedAt": "2024-07-01T03:19:47Z",
+      "channelId": "UCM_Mb-ZC3jMg3p32jN6v4cA",
+      "title": "TRAINING TO HARD CARRY \ud83d\udd2b | Splatoon 3"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-07-06T01:00:00Z",
+      "activeLiveChatId": "Cg0KCzRSckxrd3lXcFFFKicKGFVDTV9NYi1aQzNqTWczcDMyak42djRjQRILNFJyTGt3eVdwUUU"
+    }
+  },
   "4nfPB4RQabw": {
     "snippet": {
       "publishedAt": "2023-12-01T23:28:00Z",
@@ -907,6 +918,7 @@
       "title": "\u3010Resident Evil 5\u3011 is this the finale?"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-07-01T03:17:53Z",
       "scheduledStartTime": "2024-07-01T03:15:07Z",
       "activeLiveChatId": "Cg0KCzdxbk52QUNJTnVzKicKGFVDS2FiWC1GbmFCenRjeG1nZXgyLWZZQRILN3FuTnZBQ0lOdXM"
     }
@@ -2916,18 +2928,6 @@
       "activeLiveChatId": "Cg0KC1E3MWNwTDhmQzgwKicKGFVDSzZvQ01pYjYyZVlBSVBybHJZUlZydxILUTcxY3BMOGZDODA"
     }
   },
-  "Q8S0oqbrYwo": {
-    "snippet": {
-      "publishedAt": "2024-06-25T11:15:49Z",
-      "channelId": "UCfW0f2J6o-_r3fmeWs3HF_A",
-      "title": "\u3010ASMR\u3011 MY FIRST and last ASMR (lunch monching, item clanking, and... idk)"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-07-01T01:59:20Z",
-      "scheduledStartTime": "2024-07-01T02:00:00Z",
-      "activeLiveChatId": "Cg0KC1E4UzBvcWJyWXdvKicKGFVDZlcwZjJKNm8tX3IzZm1lV3MzSEZfQRILUThTMG9xYnJZd28"
-    }
-  },
   "QAQ5HDArM38": {
     "snippet": {
       "publishedAt": "2024-06-30T11:19:08Z",
@@ -2957,7 +2957,8 @@
       "title": "\u30b9\u30a4\u30ab\u30b9\u30a4\u30ab\u30b9\u30a4\u30ab\ud83c\udf49\u6708\u66dc\u65e5\u306e\u30b9\u30a4\u30e1\u30ed\u9811\u5f35\u308c\u3000#\u30b9\u30a4\u30ab\u30b2\u30fc\u30e0"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-07-01T03:15:00Z",
+      "actualStartTime": "2024-07-01T03:20:57Z",
+      "scheduledStartTime": "2024-07-01T03:17:32Z",
       "activeLiveChatId": "Cg0KC1FWekxhbmRZU3NjKicKGFVDNkVnalVaU1lTQVFlOUNERnhINzE1dxILUVZ6TGFuZFlTc2M"
     }
   },
@@ -4358,7 +4359,7 @@
   "discordia_ch": {
     "snippet": {
       "channelId": "discordia_ch",
-      "title": "REACTS + WAR THUNDER SUFFERING LATER~ | !Discord !UwU !GG !Starforge | @Discordia_Ch",
+      "title": "WAR CRIMES W/ WAIFUS~ | !Discord !UwU !GG !Starforge | @Discordia_Ch",
       "channelTitle": "Discordia_Ch"
     },
     "liveStreamingDetails": {
@@ -4901,6 +4902,17 @@
       "activeLiveChatId": "Cg0KC2llQzA3ejFLaV84KicKGFVDSHQ0RjMtLUhxMHNOWFA2REVkbFNtZxILaWVDMDd6MUtpXzg"
     }
   },
+  "inumaromugi": {
+    "snippet": {
+      "channelId": "inumaromugi",
+      "title": "\u3010Eri\u3011karaoke!!!!! |\u2726 \u207a.",
+      "channelTitle": "InumaroMugi"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-07-01T03:14:04Z",
+      "twitch": true
+    }
+  },
   "iqeWWpeAasc": {
     "snippet": {
       "publishedAt": "2024-06-29T19:28:13Z",
@@ -5413,6 +5425,7 @@
       "title": "\u3010Resident Evil 5\u3011Is this really the FINALE???"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-07-01T03:15:55Z",
       "scheduledStartTime": "2024-07-01T03:15:00Z",
       "activeLiveChatId": "Cg0KC284TFdPV2tzWUNFKicKGFVDVDQxV25RWTNPMkY3T2JpMWhoUE95QRILbzhMV09Xa3NZQ0U"
     }
