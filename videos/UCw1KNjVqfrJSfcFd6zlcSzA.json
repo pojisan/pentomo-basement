@@ -5861,5 +5861,16 @@
       "actualEndTime": "2024-06-27T22:15:41Z",
       "scheduledStartTime": "2024-06-27T20:00:00Z"
     }
+  },
+  "bkWo8DE5oIY": {
+    "snippet": {
+      "publishedAt": "2024-07-01T21:08:42Z",
+      "channelId": "UCw1KNjVqfrJSfcFd6zlcSzA",
+      "title": "MeowMoewMowMew"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-07-01T22:00:00Z",
+      "activeLiveChatId": "Cg0KC2JrV284REU1b0lZKicKGFVDdzFLTmpWcWZySlNmY0ZkNnpsY1N6QRILYmtXbzhERTVvSVk"
+    }
   }
 }

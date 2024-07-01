@@ -66,8 +66,21 @@
       "title": "\u3010COUNTER-STRIKE 2\u3011Getting Comp rank\u3010#VSPOEN #RemiaAotsuki\u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-07-01T21:00:00Z",
-      "activeLiveChatId": "Cg0KCzUwZDltZkNLZDFZKicKGFVDQ3JhMXQtZUlsTzNVTHlYUVFNRDlYdxILNTBkOW1mQ0tkMVk"
+      "actualStartTime": "2024-07-01T21:04:02Z",
+      "actualEndTime": "2024-07-01T21:04:02Z",
+      "scheduledStartTime": "2024-07-01T21:00:00Z"
+    }
+  },
+  "Os-Q2NKy7zs": {
+    "snippet": {
+      "publishedAt": "2024-07-01T21:05:10Z",
+      "channelId": "UCCra1t-eIlO3ULyXQQMD9Xw",
+      "title": "\u3010COUNTER-STRIKE 2\u3011Getting Comp rank\u3010#VSPOEN #RemiaAotsuki\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-07-01T21:05:58Z",
+      "scheduledStartTime": "2024-07-01T21:05:00Z",
+      "activeLiveChatId": "Cg0KC09zLVEyTkt5N3pzKicKGFVDQ3JhMXQtZUlsTzNVTHlYUVFNRDlYdxILT3MtUTJOS3k3enM"
     }
   }
 }
