@@ -1367,6 +1367,7 @@
       "title": "\u3010STORYTIME\u3011I was at DOKOMI + photos"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-07-01T14:06:09Z",
       "scheduledStartTime": "2024-07-01T14:00:00Z",
       "activeLiveChatId": "Cg0KC0M0azFUM0trdEZVKicKGFVDSzZvQ01pYjYyZVlBSVBybHJZUlZydxILQzRrMVQzS2t0RlU"
     }
@@ -2022,18 +2023,6 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-07-10T09:55:00Z",
       "activeLiveChatId": "Cg0KC0daM1c2Z3ZITXVnKicKGFVDNmxaTEFPZ1NZZ0o2WmtXMlpUSTc1URILR1ozVzZndkhNdWc"
-    }
-  },
-  "GcoXSxnRoJM": {
-    "snippet": {
-      "publishedAt": "2024-06-30T16:48:24Z",
-      "channelId": "UCwaS8_S7kMiKA3izlTWHbQg",
-      "title": "IN THE NAME OF SPARKLES!!! - VALORANT \u3010Maria Marionette | NIJISANJI EN\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-07-01T10:00:22Z",
-      "scheduledStartTime": "2024-07-01T10:00:00Z",
-      "activeLiveChatId": "Cg0KC0djb1hTeG5Sb0pNKicKGFVDd2FTOF9TN2tNaUtBM2l6bFRXSGJRZxILR2NvWFN4blJvSk0"
     }
   },
   "GgZpXA0PVFw": {
@@ -2945,7 +2934,8 @@
       "title": "\u30c9\u30a5\u304d\u307e\u30ae\u30eb\u30c9\u6bce\u9031\u6708\u66dc\u65e5\u306f\u30a2\u30f3\u30da\u30fc\u30c7\u3060\u3088\u3049\u3000#\u30c9\u30a5\u30fc\u30e0\u30ba\u30c7\u30a3"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-07-01T14:10:00Z",
+      "actualStartTime": "2024-07-01T14:11:03Z",
+      "scheduledStartTime": "2024-07-01T14:06:45Z",
       "activeLiveChatId": "Cg0KC083ZHhkZGlXNERRKicKGFVDNkVnalVaU1lTQVFlOUNERnhINzE1dxILTzdkeGRkaVc0RFE"
     }
   },
@@ -4477,6 +4467,17 @@
       "activeLiveChatId": "Cg0KC2FOa2lCQWNnTzMwKicKGFVDbkpOTms0NU8xUVlTMm9NUllGS1N5dxILYU5raUJBY2dPMzA"
     }
   },
+  "apollomythos": {
+    "snippet": {
+      "channelId": "apollomythos",
+      "title": "18+ \u2600\ufe0fJust Chatting\u2600\ufe0f QNA with Fulgur Ovid OMG + Party Animals  (SOUND ALERTS R ON) \u3010!discord\u3011\u3010!mythos\u3011\u3010!raid\u3011\u3010!Donate\u3011",
+      "channelTitle": "ApolloMythos"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-07-01T14:05:08Z",
+      "twitch": true
+    }
+  },
   "aqBZ8yEhrwE": {
     "snippet": {
       "publishedAt": "2024-07-01T02:04:02Z",
@@ -4785,6 +4786,7 @@
       "title": "LUXIEM MARIO PARTY COLLAB"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-07-01T14:09:00Z",
       "scheduledStartTime": "2024-07-01T14:00:00Z",
       "activeLiveChatId": "Cg0KC2RHNUZTWG1YZU5RKicKGFVDY2tkZllER3Jqb2pKTTI4bjVTSFlyQRILZEc1RlNYbVhlTlE"
     }
@@ -5589,6 +5591,17 @@
       "activeLiveChatId": "Cg0KC2pibm9TckRKNDFJKicKGFVDdS1KOHVJWHVMWmgxNmdHLWNUMW5hdxILamJub1NyREo0MUk"
     }
   },
+  "jp5IYj9tS9k": {
+    "snippet": {
+      "publishedAt": "2024-07-01T14:06:18Z",
+      "channelId": "UC-W-yaVIjqkXoh6dZ6_TcMA",
+      "title": "\u3010OUTLAST\u3011vtuber won't scream"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-07-01T14:45:00Z",
+      "activeLiveChatId": "Cg0KC2pwNUlZajl0UzlrKicKGFVDLVcteWFWSWpxa1hvaDZkWjZfVGNNQRILanA1SVlqOXRTOWs"
+    }
+  },
   "js2p5ocQQ6E": {
     "snippet": {
       "publishedAt": "2024-06-30T14:35:49Z",
@@ -5682,7 +5695,8 @@
       "title": "\u3010FUWAMOCO MORNING\u3011episode 104 \ud83d\udc3e #FWMCMORNING"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-07-01T15:00:00Z"
+      "scheduledStartTime": "2024-07-01T15:00:00Z",
+      "activeLiveChatId": "Cg0KC2t1dUlLbE04NjI0KicKGFVDdDlIX1JwUXpoeHpseUJ4RnFyZEhxQRILa3V1SUtsTTg2MjQ"
     }
   },
   "kxS0BTz1x-M": {
@@ -5856,6 +5870,17 @@
       "activeLiveChatId": "Cg0KC21CTVAtY3BOTzFRKicKGFVDMXRScVFUSTNCY2hzOFh2VW5qOHl2URILbUJNUC1jcE5PMVE"
     }
   },
+  "mBfgIZp0r94": {
+    "snippet": {
+      "publishedAt": "2024-07-01T14:08:47Z",
+      "channelId": "UCvN5h1ShZtc7nly3pezRayg",
+      "title": "\u3010DRAWING\u3011Let's make chat game assets!!! #hololiveEnglish #holoJustice"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-07-01T19:00:00Z",
+      "activeLiveChatId": "Cg0KC21CZmdJWnAwcjk0KicKGFVDdk41aDFTaFp0YzdubHkzcGV6UmF5ZxILbUJmZ0lacDByOTQ"
+    }
+  },
   "mMglUjYOQYw": {
     "snippet": {
       "publishedAt": "2022-07-14T11:55:46Z",
@@ -5917,6 +5942,17 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-07-01T11:06:46Z",
+      "twitch": true
+    }
+  },
+  "miya_mareena": {
+    "snippet": {
+      "channelId": "miya_mareena",
+      "title": "DOKOMI STORYTIME - Shark Girl went to Dokomi and brought some photos! - [!gg, !redebut]",
+      "channelTitle": "miya_mareena"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-07-01T14:05:55Z",
       "twitch": true
     }
   },
@@ -7145,6 +7181,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-07-05T21:00:00Z",
       "activeLiveChatId": "Cg0KC3d0RmZxc2dHcUF3KicKGFVDbnBjN0hwY2lmVnBpNlJCek5nZTUxdxILd3RGZnFzZ0dxQXc"
+    }
+  },
+  "wvfbHJcy2Hc": {
+    "snippet": {
+      "publishedAt": "2024-07-01T14:10:16Z",
+      "channelId": "UCcPc-5OrLbjVBgQ-ziEWPSQ",
+      "title": "Forgotten Hill continues! We found a ticket and are entering a new area of the museum!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-07-09T00:00:00Z",
+      "activeLiveChatId": "Cg0KC3d2ZmJISmN5MkhjKicKGFVDY1BjLTVPckxialZCZ1EtemlFV1BTURILd3ZmYkhKY3kySGM"
     }
   },
   "x-F410ufGOA": {
