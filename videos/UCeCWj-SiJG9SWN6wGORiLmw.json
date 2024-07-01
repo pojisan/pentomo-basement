@@ -19,8 +19,19 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-07-01T00:00:55Z",
-      "scheduledStartTime": "2024-07-01T00:00:00Z",
-      "activeLiveChatId": "Cg0KC1QxQU11UFVWcjdzKicKGFVDZUNXai1TaUpHOVNXTjZ3R09SaUxtdxILVDFBTXVQVVZyN3M"
+      "actualEndTime": "2024-07-01T00:35:35Z",
+      "scheduledStartTime": "2024-07-01T00:00:00Z"
+    }
+  },
+  "ExwulL6BFeY": {
+    "snippet": {
+      "publishedAt": "2024-06-30T00:17:45Z",
+      "channelId": "UCeCWj-SiJG9SWN6wGORiLmw",
+      "title": "\u3010GigaBash\u3011it's bashin' time\u3010#VSPOEN #JiraJisaki\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-07-01T00:40:07Z",
+      "activeLiveChatId": "Cg0KC0V4d3VsTDZCRmVZKicKGFVDZUNXai1TaUpHOVNXTjZ3R09SaUxtdxILRXh3dWxMNkJGZVk"
     }
   }
 }

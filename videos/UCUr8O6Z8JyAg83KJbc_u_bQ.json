@@ -3823,8 +3823,21 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-30T23:07:23Z",
+      "actualEndTime": "2024-07-01T00:38:04Z",
       "scheduledStartTime": "2024-06-30T23:06:56Z",
       "activeLiveChatId": "Cg0KC08wemtOWWVKRTE4KicKGFVDVXI4TzZaOEp5QWc4M0tKYmNfdV9iURILTzB6a05ZZUpFMTg"
+    }
+  },
+  "5qmUi6NelII": {
+    "snippet": {
+      "publishedAt": "2024-07-01T00:38:17Z",
+      "channelId": "UCUr8O6Z8JyAg83KJbc_u_bQ",
+      "title": "fortnITE"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-07-01T00:38:25Z",
+      "scheduledStartTime": "2024-07-01T00:38:27Z",
+      "activeLiveChatId": "Cg0KCzVxbVVpNk5lbElJKicKGFVDVXI4TzZaOEp5QWc4M0tKYmNfdV9iURILNXFtVWk2TmVsSUk"
     }
   }
 }

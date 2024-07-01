@@ -7628,7 +7628,7 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-06-30T23:58:46Z",
-      "activeLiveChatId": "Cg0KC3kzWVJmd19iZHh3KicKGFVDTzBEcFZLUjRDSDVFWGdvc2N6OTliQRILeTNZUmZ3X2JkeHc"
+      "actualEndTime": "2024-07-01T00:34:18Z"
     }
   },
   "xmuJ-K6BHYY": {
@@ -7643,6 +7643,17 @@
       "publishedAt": "2024-06-30T23:00:11Z",
       "channelId": "UCO0DpVKR4CH5EXgoscz99bA",
       "title": "Bowser's Chance Time!"
+    }
+  },
+  "bAEKM8kbTMk": {
+    "snippet": {
+      "publishedAt": "2024-07-01T00:40:36Z",
+      "channelId": "UCO0DpVKR4CH5EXgoscz99bA",
+      "title": "Playing on my Minecraft server!"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-07-01T00:40:57Z",
+      "activeLiveChatId": "Cg0KC2JBRUtNOGtiVE1rKicKGFVDTzBEcFZLUjRDSDVFWGdvc2N6OTliQRILYkFFS004a2JUTWs"
     }
   }
 }
