@@ -1576,6 +1576,7 @@
       "title": "\u3010RDR2/#\u30ec\u30c9\u30b9\u30c8/\u30df\u30c1\u30a7\u30eb\u30fb\u30d3\u30fc\u30ac\u30f3\u3011\u7570\u4e16\u754c\u3067\u6599\u7406\u3092\u899a\u3048\u305f\u3044\u7d2b\u7fe0\u307f\u3061\u308b\u3010Day11-2\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-07-01T11:07:43Z",
       "scheduledStartTime": "2024-07-01T11:15:00Z",
       "activeLiveChatId": "Cg0KC0RubkJHVzN4OVJzKicKGFVDMWNFeEVUOXhvV1NPOWlTblJzV18xURILRG5uQkdXM3g5UnM"
     }
@@ -2015,6 +2016,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-08-29T00:00:00Z",
       "activeLiveChatId": "Cg0KC0dtMmxnN2tfOGg0KicKGFVDa2ItcjcwMnVoeDQtNkxybWV0cC1PdxILR20ybGc3a184aDQ"
+    }
+  },
+  "GoFS_GErz-Q": {
+    "snippet": {
+      "publishedAt": "2024-07-01T11:04:05Z",
+      "channelId": "UChKXd7oqD18qiIYBoRIHTlw",
+      "title": "\u3010YAKUZA 0\uffe4\u9f8d\u304c\u5982\u304f0\u3011FINALLY I'LL PLAY \u3064\u3044\u306b\u3001\u3042\u306e\u540d\u4f5c\u3092\uff01\u3010NIJISANJI EN | Meloco Kyoran\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-07-01T12:30:00Z",
+      "activeLiveChatId": "Cg0KC0dvRlNfR0Vyei1RKicKGFVDaEtYZDdvcUQxOHFpSVlCb1JJSFRsdxILR29GU19HRXJ6LVE"
     }
   },
   "GpfNAkH36H8": {
@@ -4893,6 +4905,17 @@
       "activeLiveChatId": "Cg0KC2VjS3VZb3M4ZzhzKicKGFVDSjRwdnNwd2puTS1oU1hxa29JdU1HURILZWNLdVlvczhnOHM"
     }
   },
+  "enominya_andi": {
+    "snippet": {
+      "channelId": "enominya_andi",
+      "title": "WUTHERING WAVES! Quest cleaning come hang!",
+      "channelTitle": "Enominya_Andi"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-07-01T11:06:40Z",
+      "twitch": true
+    }
+  },
   "f9f6zmy8dao": {
     "snippet": {
       "publishedAt": "2024-07-01T05:24:17Z",
@@ -4912,18 +4935,6 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC2ZTZlpoeWozeXVzKicKGFVDdjFUaHlFNEtWWW5uVlk4R0xmdG5vQRILZlNmWmh5ajN5dXM"
-    }
-  },
-  "fToGEBnZY2Y": {
-    "snippet": {
-      "publishedAt": "2024-06-27T09:04:33Z",
-      "channelId": "UCBnmfjpmhGxao6v54fIIMUA",
-      "title": "\u3010 72 hours Donothon \u3011Save The Grease Monkey Vtuber - PART #8"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-06-30T23:49:44Z",
-      "scheduledStartTime": "2024-06-30T23:45:00Z",
-      "activeLiveChatId": "Cg0KC2ZUb0dFQm5aWTJZKicKGFVDQm5tZmpwbWhHeGFvNnY1NGZJSU1VQRILZlRvR0VCblpZMlk"
     }
   },
   "fViGyRB4JuM": {
@@ -5787,7 +5798,7 @@
     "snippet": {
       "publishedAt": "2024-03-10T12:20:05Z",
       "channelId": "UCaxiDe_TuMLXkwRMVLm5VwQ",
-      "title": "\u2726 SUBATHON SCHEDULE 24/06 - 30/06 \u2727"
+      "title": "\u2726 SUBATHON SCHEDULE 02/07 - 07/07 \u2727"
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2025-03-09T13:00:00Z",
@@ -5802,6 +5813,17 @@
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-07-01T12:00:00Z"
+    }
+  },
+  "michiru_shisui": {
+    "snippet": {
+      "channelId": "michiru_shisui",
+      "title": "\u3010RDR2/#\u30ec\u30c9\u30b9\u30c8\u3011RP\u30b9\u30c8\u30ea\u30fc\u30de\u30fc\u30b5\u30fc\u30d0\u30fcDay11",
+      "channelTitle": "\u7d2b\u7fe0\u307f\u3061\u308b"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-07-01T11:06:46Z",
+      "twitch": true
     }
   },
   "mzJLAzhiRrc": {
