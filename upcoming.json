@@ -5336,6 +5336,7 @@
       "title": "I went to CEO 2024!!!\u3010Post-Con Zatsu\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-07-02T15:30:48Z",
       "scheduledStartTime": "2024-07-02T15:30:00Z",
       "activeLiveChatId": "Cg0KC2NSbklQc3MyenNRKicKGFVDSW8zM2IwaGYyX21kcXRBWnZLbGF5URILY1JuSVBzczJ6c1E"
     }
@@ -5878,7 +5879,7 @@
       "title": "\u3010KARAOKE\u3011 Random Karaoke!\u3010VyVid | Bunana \u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-07-03T23:00:00Z",
+      "scheduledStartTime": "2024-07-02T23:00:00Z",
       "activeLiveChatId": "Cg0KC2dGMTF0eXpPWUw4KicKGFVDVmpwRlAxX055M1BVb0UyNnI0SVRhdxILZ0YxMXR5ek9ZTDg"
     }
   },
@@ -7182,6 +7183,7 @@
       "title": "\u3010FORTNITE\u3011doot doot\u3010Komiyama Ambros | globie\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-07-02T15:31:11Z",
       "scheduledStartTime": "2024-07-02T15:30:00Z",
       "activeLiveChatId": "Cg0KC3FXSzNZMFVFM1l3KicKGFVDYnNQNEJJc1BZYVJMdjlmX3lYRG9EQRILcVdLM1kwVUUzWXc"
     }
@@ -7964,6 +7966,17 @@
       "activeLiveChatId": "Cg0KC3ZjM1JPeWNtdlBnKicKGFVDOU5OTXdhZnk5cXV2TldhZkZ1a05EdxILdmMzUk95Y212UGc"
     }
   },
+  "vfPyKyYd9X4": {
+    "snippet": {
+      "publishedAt": "2024-07-02T15:27:23Z",
+      "channelId": "UCqlgtk9H_1GoWtvW8Vii38w",
+      "title": "\u3010Q&A\u30111h of Mellows~\u3010Alicja Da Lontano | Globie Gen 2 Solstia\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-07-02T16:00:00Z",
+      "activeLiveChatId": "Cg0KC3ZmUHlLeVlkOVg0KicKGFVDcWxndGs5SF8xR29XdHZXOFZpaTM4dxILdmZQeUt5WWQ5WDQ"
+    }
+  },
   "vgyslJ7BvxQ": {
     "snippet": {
       "publishedAt": "2023-12-25T13:50:52Z",
@@ -8315,7 +8328,7 @@
       "title": "\u30103K Celebration\u3011Drinking and driving ... in Truck sim!\u3010VyVid | Bunana \u3011"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-07-02T23:00:00Z",
+      "scheduledStartTime": "2024-07-03T23:00:00Z",
       "activeLiveChatId": "Cg0KC3k2ZXFRS0JRNlVBKicKGFVDVmpwRlAxX055M1BVb0UyNnI0SVRhdxILeTZlcVFLQlE2VUE"
     }
   },
