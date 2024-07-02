@@ -4921,18 +4921,6 @@
       "activeLiveChatId": "Cg0KC2JMRk80bUdOWG1JKicKGFVDb0F3M1NNTF8wOWRGLTd5aFFVOHdGURILYkxGTzRtR05YbUk"
     }
   },
-  "bTxERZ8oy2A": {
-    "snippet": {
-      "publishedAt": "2024-06-30T15:45:19Z",
-      "channelId": "UCoAw3SML_09dF-7yhQU8wFQ",
-      "title": "dinner will be served shortly \u3010state of the kawaii union address - july 2024\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-07-02T02:02:16Z",
-      "scheduledStartTime": "2024-07-02T02:01:47Z",
-      "activeLiveChatId": "Cg0KC2JUeEVSWjhveTJBKicKGFVDb0F3M1NNTF8wOWRGLTd5aFFVOHdGURILYlR4RVJaOG95MkE"
-    }
-  },
   "bWrKy65IOAc": {
     "snippet": {
       "publishedAt": "2024-02-13T15:16:19Z",
@@ -6314,6 +6302,7 @@
       "title": "HARRY POTTER MARATHON \ud83d\udc97\u3010 Movies 3-4 | Members Only \u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-07-02T03:37:49Z",
       "scheduledStartTime": "2024-07-02T03:30:00Z",
       "activeLiveChatId": "Cg0KC203dU9mZXpkaXRjKicKGFVDWWFkWlI5bVJpZ254NFJLdlBvdzQ0ZxILbTd1T2ZlemRpdGM"
     }
@@ -7227,6 +7216,17 @@
       "activeLiveChatId": "Cg0KC3NWY29UVFNvZ2dvKicKGFVDcW1TWWtYTHdzTDB6RWFyNUdvb1lrZxILc1Zjb1RUU29nZ28"
     }
   },
+  "sayu": {
+    "snippet": {
+      "channelId": "sayu",
+      "title": "\ud83d\udd29RETURN TO HORROR: Anemoiapolis where? HSR Viewer pulls after!\u2503!website !merch",
+      "channelTitle": "Sayu"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-07-02T03:34:41Z",
+      "twitch": true
+    }
+  },
   "sharksprite": {
     "snippet": {
       "channelId": "sharksprite",
@@ -7387,6 +7387,7 @@
       "title": "\u3010HORROR NIGHT: Anemoiapolis\u3011It's been a while so uh, I might be a donkey..."
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-07-02T03:35:11Z",
       "scheduledStartTime": "2024-07-02T03:30:00Z",
       "activeLiveChatId": "Cg0KC3Q1U2NYcjFxWFBJKicKGFVDWVhfaUdyaEJuRnQwZHlYd1NpN1U0URILdDVTY1hyMXFYUEk"
     }
