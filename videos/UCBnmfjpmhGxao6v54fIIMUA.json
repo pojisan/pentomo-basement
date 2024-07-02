@@ -886,15 +886,16 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-07-01T11:17:23Z",
-      "scheduledStartTime": "2024-07-01T11:15:00Z",
-      "activeLiveChatId": "Cg0KC0o3Qko4cS1jRURrKicKGFVDQm5tZmpwbWhHeGFvNnY1NGZJSU1VQRILSjdCSjhxLWNFRGs"
+      "actualEndTime": "2024-07-02T00:17:03Z",
+      "scheduledStartTime": "2024-07-01T11:15:00Z"
     }
   },
   "yRcPfCiO2jU": {
     "snippet": {
       "publishedAt": "2024-06-27T09:08:24Z",
       "channelId": "UCBnmfjpmhGxao6v54fIIMUA",
-      "title": "\u3010 72 hours Donothon \u3011Save The Grease Monkey Vtuber  - MOAR"
+      "title": "\u3010 72 hours Donothon \u3011Save The Grease Monkey Vtuber  - MOAR",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-07-01T17:00:00Z",
