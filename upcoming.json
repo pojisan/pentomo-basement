@@ -2517,6 +2517,7 @@
       "title": "\u3010OniMon #33\u3011 Window Shopping the Steam Summer Sale! \u3010Yuno Hanaki\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-07-02T00:05:04Z",
       "scheduledStartTime": "2024-07-02T00:00:00Z",
       "activeLiveChatId": "Cg0KC0lxbzRiZVVBZ2k0KicKGFVDWmw5MndNaXBqWUZjMVVsbTlZeTY1ZxILSXFvNGJlVUFnaTQ"
     }
@@ -5141,18 +5142,6 @@
       "activeLiveChatId": "Cg0KC2NVRVZTRjVsOERRKicKGFVDS0RJTFE5d2p2ZzhiNUxxMFI2Qm56URILY1VFVlNGNWw4RFE"
     }
   },
-  "cp9-RHcR0ZE": {
-    "snippet": {
-      "publishedAt": "2024-07-01T18:22:33Z",
-      "channelId": "UCH8mDMzaR5MGFdCF4WdsGDA",
-      "title": "\u3010Weird Meese\u3011Awawawaw Mysterious?!"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-07-01T22:04:13Z",
-      "scheduledStartTime": "2024-07-01T22:00:00Z",
-      "activeLiveChatId": "Cg0KC2NwOS1SSGNSMFpFKicKGFVDSDhtRE16YVI1TUdGZENGNFdkc0dEQRILY3A5LVJIY1IwWkU"
-    }
-  },
   "cw4lJWqAawU": {
     "snippet": {
       "publishedAt": "2024-07-01T09:05:32Z",
@@ -6490,7 +6479,7 @@
       "title": "D&D \ud83d\ude0e\ud83d\udcaa"
     },
     "liveStreamingDetails": {
-      "actualStartTime": "2024-07-02T00:01:09Z",
+      "actualStartTime": "2024-07-02T00:01:40Z",
       "scheduledStartTime": "2024-07-02T00:00:00Z",
       "activeLiveChatId": "Cg0KC245cy0xejVCNUwwKicKGFVDdVROSFlfYjdFdnFoUk83Q09ib3hzURILbjlzLTF6NUI1TDA"
     }
@@ -7092,7 +7081,7 @@
   "rixxybrightful": {
     "snippet": {
       "channelId": "rixxybrightful",
-      "title": "MARSHMALLOW READING & VA STUFF | 12 HR ANILIVE RESTREAM",
+      "title": "AI DUNGEON | 12 HR ANILIVE RESTREAM",
       "channelTitle": "rixxybrightful"
     },
     "liveStreamingDetails": {
@@ -7302,6 +7291,17 @@
     },
     "liveStreamingDetails": {
       "activeLiveChatId": "Cg0KC3NoaXdHZ212YzlVKicKGFVDdzBvMmtTdXItaXFtODJHTUtVbVZoURILc2hpd0dnbXZjOVU"
+    }
+  },
+  "shurahiwa": {
+    "snippet": {
+      "channelId": "shurahiwa",
+      "title": "ESPOSADA A MIS ESPOSAS con VJiN  \u2661 !merch !twitter !youtube !streamloots",
+      "channelTitle": "shurahiwa"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-07-02T00:02:31Z",
+      "twitch": true
     }
   },
   "skTCKgM7biI": {
@@ -7541,6 +7541,7 @@
       "title": "ELDEN RING SHADOW OF THE ERDTREE... I WILL BEAT THE FINAL BOSS!!! \ud83d\udd25 Part 6"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-07-02T00:11:59Z",
       "scheduledStartTime": "2024-07-02T00:00:00Z",
       "activeLiveChatId": "Cg0KC3VoNHRvS0xNRHpnKicKGFVDcHp4Wlc1a2doR25PNVRtQUZKUUFWdxILdWg0dG9LTE1Eemc"
     }
@@ -8122,6 +8123,7 @@
       "title": "\u3010Working + Chat!\u3011Drowning in homework\u3010Cosmia\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-07-02T00:02:27Z",
       "scheduledStartTime": "2024-07-02T00:00:00Z",
       "activeLiveChatId": "Cg0KC3lzUFRrb0p2bmxnKicKGFVDUldGNlFTdWtsbXdZM1VKSHlWVFExdxILeXNQVGtvSnZubGc"
     }
