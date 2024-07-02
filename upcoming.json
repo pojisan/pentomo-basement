@@ -1440,7 +1440,8 @@
       "title": "\u30103D FULL BODY KARAOKE\u3011 You WILL go to karaoke with me, RIGHT???"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-07-02T04:15:00Z",
+      "actualStartTime": "2024-07-02T04:18:09Z",
+      "scheduledStartTime": "2024-07-02T04:17:53Z",
       "activeLiveChatId": "Cg0KC0JjdElJdzY5XzBBKicKGFVDdWFEaWRHazRITkxPblFFOXd6TU1lURILQmN0SUl3NjlfMEE"
     }
   },
@@ -5213,18 +5214,6 @@
       "activeLiveChatId": "Cg0KC2RYMU5aVE1vQ0VZKicKGFVDQmdoVUtBX0wwbmEwU2VRNnNuek1NURILZFgxTlpUTW9DRVk"
     }
   },
-  "dZgpF-nPsUs": {
-    "snippet": {
-      "publishedAt": "2024-06-25T08:05:15Z",
-      "channelId": "UCEY9CnSH0n0QKmY2Q-OH7Zw",
-      "title": "\u3010 LIVE \ud83d\udd343Dio Binaural ASMR\u3011Make Those Cute Sounds For Me\u3010 Trigger Test | Practice | Request OK\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-07-02T02:04:41Z",
-      "scheduledStartTime": "2024-07-02T02:00:00Z",
-      "activeLiveChatId": "Cg0KC2RaZ3BGLW5Qc1VzKicKGFVDRVk5Q25TSDBuMFFLbVkyUS1PSDdadxILZFpncEYtblBzVXM"
-    }
-  },
   "deuBxVKIIyU": {
     "snippet": {
       "publishedAt": "2024-06-28T23:14:17Z",
@@ -5557,7 +5546,7 @@
       "title": "\u300e First Official Zatsudan... & Art \u300fZatsuOtsuPotsuNotsuJotsu! Finally! | #OSHICelanis #OshiLinkEN"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-28T13:00:00Z"
+      "scheduledStartTime": "2024-07-10T13:00:00Z"
     }
   },
   "g5mrDdrjYZA": {
@@ -7277,17 +7266,6 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-07-02T03:34:41Z",
-      "twitch": true
-    }
-  },
-  "sharksprite": {
-    "snippet": {
-      "channelId": "sharksprite",
-      "title": "karaoke time cuz i missed u !!  | !newmerch !throne !merch !adv !noods !uwu",
-      "channelTitle": "sharksprite"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-07-02T01:54:49Z",
       "twitch": true
     }
   },
