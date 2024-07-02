@@ -549,18 +549,6 @@
       "activeLiveChatId": "Cg0KCzJid1UxVTVrSk1rKicKGFVDMW9nbUxWZE1yVTRIdUxCVVl0empWURILMmJ3VTFVNWtKTWs"
     }
   },
-  "2bzHD3p3kvQ": {
-    "snippet": {
-      "publishedAt": "2024-06-29T22:51:22Z",
-      "channelId": "UCUP8TmlO7NNra88AMqGU_vQ",
-      "title": "#2\u3010 ELDEN RING \u3011\u521d\u898b\u30d7\u30ec\u30a4\uff01\u521d\u3081\u3066\u306e\u30d5\u30ed\u30e0\u30b2\u30fc\uff01\u4f38\u3073\u3057\u308d\u306e\u7d20\u5bd2\u8ca7\ud83d\ude32\u3010\u5c0f\u6e05\u6c34 \u900f / \u306b\u3058\u3055\u3093\u3058\u3011"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-07-01T15:30:59Z",
-      "scheduledStartTime": "2024-07-01T15:30:00Z",
-      "activeLiveChatId": "Cg0KCzJiekhEM3Aza3ZRKicKGFVDVVA4VG1sTzdOTnJhODhBTXFHVV92URILMmJ6SEQzcDNrdlE"
-    }
-  },
   "2xId7nJ9Tso": {
     "snippet": {
       "publishedAt": "2024-06-30T08:07:14Z",
@@ -611,7 +599,8 @@
       "title": "\u3010Monster Loves You!\u3011What a good boy!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-07-02T01:00:00Z"
+      "scheduledStartTime": "2024-07-02T01:00:00Z",
+      "activeLiveChatId": "Cg0KCzM0RWRzNE1JR01NKicKGFVDamNiN1B2UEhtajNNTlV5c1ZVZUpjZxILMzRFZHM0TUlHTU0"
     }
   },
   "35eqZgSFtds": {
@@ -3109,6 +3098,17 @@
       "activeLiveChatId": "Cg0KC04tdVF0UjVHN21ZKicKGFVDVHoxRmtvRUU2UWUtRV9nRC1NNjdRdxILTi11UXRSNUc3bVk"
     }
   },
+  "N4KnOKYOJNg": {
+    "snippet": {
+      "publishedAt": "2024-07-02T00:21:13Z",
+      "channelId": "UCxbNEW7xykTC7hE5FYgwrOw",
+      "title": "Baldur's Gate 3 - Trying to get halsin to love me \ud83e\udd72\u2764\ufe0f"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-07-02T00:30:00Z",
+      "activeLiveChatId": "Cg0KC040S25PS1lPSk5nKicKGFVDeGJORVc3eHlrVEM3aEU1Rllnd3JPdxILTjRLbk9LWU9KTmc"
+    }
+  },
   "N5uz4ZiA3BQ": {
     "snippet": {
       "publishedAt": "2024-05-26T23:32:01Z",
@@ -4886,7 +4886,7 @@
       "channelTitle": "ApolloAlto"
     },
     "liveStreamingDetails": {
-      "actualStartTime": "2024-07-02T00:15:19Z",
+      "actualStartTime": "2024-07-02T00:28:25Z",
       "twitch": true
     }
   },
