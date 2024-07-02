@@ -967,6 +967,7 @@
       "title": "\u3010ANIMAL CROSSING: NEW HORIZONS\u3011GOOD MORNING GOOD MORNING\u3010NIJISANJI EN | Yu Q. Wilson\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-07-02T12:02:39Z",
       "scheduledStartTime": "2024-07-02T12:00:00Z",
       "activeLiveChatId": "Cg0KCzVYQUZ6MGNmZUNNKicKGFVDS3BLQzNNNWZrY0V2dE9yMDZkbVlsQRILNVhBRnowY2ZlQ00"
     }
@@ -3996,6 +3997,7 @@
       "title": "\u3010 The Classrooms \u3011 Tempat yang aneh untuk diterokai\u3010 MASAKI RINA \u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-07-02T12:03:17Z",
       "scheduledStartTime": "2024-07-02T13:00:00Z",
       "activeLiveChatId": "Cg0KC1MzQTZ5OFVCTDVnKicKGFVDMWVYX01Wck4wRUJLZHBrbjliLWpodxILUzNBNnk4VUJMNWc"
     }
@@ -6654,6 +6656,17 @@
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-07-04T15:30:00Z",
       "activeLiveChatId": "Cg0KC25ZMlFTd0dwUnRVKicKGFVDYnNQNEJJc1BZYVJMdjlmX3lYRG9EQRILblkyUVN3R3BSdFU"
+    }
+  },
+  "ninete_en": {
+    "snippet": {
+      "channelId": "ninete_en",
+      "title": "\u3010Drops\u2705\u3011Day62\uff1aOW\u9670\u8b00\u8ad6\u3002",
+      "channelTitle": "\u30ca\u30a4\u30f3\u30c6\u30a3\u30fc\u30f3"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-07-02T12:08:20Z",
+      "twitch": true
     }
   },
   "nkUfR7Wjz3A": {
