@@ -3312,18 +3312,6 @@
       "activeLiveChatId": "Cg0KC01pNFNzbGZCYVpBKicKGFVDRU1HWVA3cURFeTgwN2dKRVN6NFR6QRILTWk0U3NsZkJhWkE"
     }
   },
-  "MkGVOKWvZpE": {
-    "snippet": {
-      "publishedAt": "2024-07-01T15:40:43Z",
-      "channelId": "UCl69AEx4MdqMZH7Jtsm7Tig",
-      "title": "\u3010DON'T SCREAM\u3011HELP HELP HELP"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-07-02T10:59:56Z",
-      "scheduledStartTime": "2024-07-02T11:00:00Z",
-      "activeLiveChatId": "Cg0KC01rR1ZPS1d2WnBFKicKGFVDbDY5QUV4NE1kcU1aSDdKdHNtN1RpZxILTWtHVk9LV3ZacEU"
-    }
-  },
   "MntqBtiOsDY": {
     "snippet": {
       "publishedAt": "2022-12-01T04:43:01Z",
@@ -3598,7 +3586,7 @@
       "title": "Keep yourself safe!"
     },
     "liveStreamingDetails": {
-      "scheduledStartTime": "2024-06-30T20:00:00Z",
+      "scheduledStartTime": "2024-07-07T20:00:00Z",
       "activeLiveChatId": "Cg0KC1AxeDdFRkwzSDVvKicKGFVDVEZDU0NQdnFqWEVzM3pxOTFhZU9WZxILUDF4N0VGTDNINW8"
     }
   },
@@ -5589,6 +5577,17 @@
       "activeLiveChatId": "Cg0KC2VwVm1tOWVrT0xZKicKGFVDUmtkRkdYd0J0eHZtOVNzZm1ObU1aQRILZXBWbW05ZWtPTFk"
     }
   },
+  "erislefaire": {
+    "snippet": {
+      "channelId": "erislefaire",
+      "title": "i'm sry if i sound weak but the show must go on  | !kofi !discord |",
+      "channelTitle": "ErisLefaire"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-07-02T13:29:33Z",
+      "twitch": true
+    }
+  },
   "f3BTwKDD05k": {
     "snippet": {
       "publishedAt": "2024-07-02T01:23:49Z",
@@ -5911,6 +5910,7 @@
       "title": "\u3010Yakuza: Like a Dragon\u3011Susilo... Kasuga?\u3010VTUBER ID\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-07-02T13:29:38Z",
       "scheduledStartTime": "2024-07-02T13:30:00Z",
       "activeLiveChatId": "Cg0KC2hFdTQxLVdvN2tZKicKGFVDUXBELVVoSGRoRkwxRFRKeGhKcHV5QRILaEV1NDEtV283a1k"
     }
@@ -7918,6 +7918,7 @@
       "title": "[HANDCAM] Trying different Japanese alcoholic drinks!!"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-07-02T13:30:58Z",
       "scheduledStartTime": "2024-07-02T13:30:00Z",
       "activeLiveChatId": "Cg0KC3ZmTWhjc0duRUNBKicKGFVDVi05ZGd0VlhIbXF2elk5cWR2b0dZQRILdmZNaGNzR25FQ0E"
     }
