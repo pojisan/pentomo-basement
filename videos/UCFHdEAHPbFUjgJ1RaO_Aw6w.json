@@ -1120,11 +1120,24 @@
     "snippet": {
       "publishedAt": "2024-06-30T18:11:23Z",
       "channelId": "UCFHdEAHPbFUjgJ1RaO_Aw6w",
-      "title": "\u3010Monetization Celebration!!\u3011Memberships are Open! Let's Hang!!!\u3010globie 2nd Gen - Equinnox\u3011"
+      "title": "\u3010Monetization Celebration!!\u3011Memberships are Open! Let's Hang!!!\u3010globie 2nd Gen - Equinnox\u3011",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-07-02T17:00:00Z",
       "activeLiveChatId": "Cg0KC2dHeXh1ZkI1bmtRKicKGFVDRkhkRUFIUGJGVWpnSjFSYU9fQXc2dxILZ0d5eHVmQjVua1E"
+    }
+  },
+  "QLsOiEaty0U": {
+    "snippet": {
+      "publishedAt": "2024-07-02T16:59:03Z",
+      "channelId": "UCFHdEAHPbFUjgJ1RaO_Aw6w",
+      "title": "\u3010Monetization Celebration!!\u3011Memberships are Open! Let's Hang!!!\u3010globie 2nd Gen - Equinnox\u3011"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-07-02T16:59:44Z",
+      "scheduledStartTime": "2024-07-02T17:00:00Z",
+      "activeLiveChatId": "Cg0KC1FMc09pRWF0eTBVKicKGFVDRkhkRUFIUGJGVWpnSjFSYU9fQXc2dxILUUxzT2lFYXR5MFU"
     }
   }
 }

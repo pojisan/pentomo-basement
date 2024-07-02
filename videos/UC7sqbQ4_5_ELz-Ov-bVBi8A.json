@@ -656,8 +656,7 @@
     "liveStreamingDetails": {
       "actualStartTime": "2024-07-02T13:00:15Z",
       "actualEndTime": "2024-07-02T15:39:52Z",
-      "scheduledStartTime": "2024-07-02T13:00:07Z",
-      "activeLiveChatId": "Cg0KC0UtNDktbFExOFFBKicKGFVDN3NxYlE0XzVfRUx6LU92LWJWQmk4QRILRS00OS1sUTE4UUE"
+      "scheduledStartTime": "2024-07-02T13:00:07Z"
     }
   },
   "P6P8zbUS_2E": {
@@ -670,6 +669,17 @@
       "actualStartTime": "2024-07-02T16:00:39Z",
       "scheduledStartTime": "2024-07-02T16:00:30Z",
       "activeLiveChatId": "Cg0KC1A2UDh6YlVTXzJFKicKGFVDN3NxYlE0XzVfRUx6LU92LWJWQmk4QRILUDZQOHpiVVNfMkU"
+    }
+  },
+  "rJhuwkPHZrY": {
+    "snippet": {
+      "publishedAt": "2024-07-02T15:17:59Z",
+      "channelId": "UC7sqbQ4_5_ELz-Ov-bVBi8A",
+      "title": "\u3010Casual Chat\u3011Celebrating something pretty cool I think!"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-07-02T19:00:16Z",
+      "activeLiveChatId": "Cg0KC3JKaHV3a1BIWnJZKicKGFVDN3NxYlE0XzVfRUx6LU92LWJWQmk4QRILckpodXdrUEhaclk"
     }
   }
 }
