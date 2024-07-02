@@ -7919,6 +7919,7 @@
       "title": "\u3010 WEDNESDAY CAMPANELLA - Buckingham \u3011\u6b4c\u3063\u3066\u307f\u305f \u3010 Tenma Maemi \u30fb Phase-Connect \u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-07-02T18:00:07Z",
       "scheduledStartTime": "2024-07-02T18:00:00Z",
       "activeLiveChatId": "Cg0KC0JUTXNsdk1EZEJNKicKGFVDM0s3cG1pSHNOU3gxeTB0ZHgyYmJDdxILQlRNc2x2TURkQk0",
       "premiere": true
@@ -7943,8 +7944,8 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-07-02T15:58:42Z",
-      "scheduledStartTime": "2024-07-02T16:00:00Z",
-      "activeLiveChatId": "Cg0KC21UeGZEaThQX3EwKicKGFVDM0s3cG1pSHNOU3gxeTB0ZHgyYmJDdxILbVR4ZkRpOFBfcTA"
+      "actualEndTime": "2024-07-02T17:53:58Z",
+      "scheduledStartTime": "2024-07-02T16:00:00Z"
     }
   }
 }
