@@ -764,6 +764,17 @@
       "activeLiveChatId": "Cg0KCzRYWm9JWjRpOVRVKicKGFVDYl9hbmdmRjhpbzEtMURydks1azVMQRILNFhab0laNGk5VFU"
     }
   },
+  "4fOC4CpJR6w": {
+    "snippet": {
+      "publishedAt": "2024-07-02T02:06:50Z",
+      "channelId": "UChTA8kHyInr2rKZ2aBv5ULw",
+      "title": "\u3010Devil May Cry 3 - PT.5 \u3011I'M FEELINNG MOTIVATED\u3010NIJISANJI EN | Victoria Brightshield\u3011"
+    },
+    "liveStreamingDetails": {
+      "scheduledStartTime": "2024-07-03T03:00:00Z",
+      "activeLiveChatId": "Cg0KCzRmT0M0Q3BKUjZ3KicKGFVDaFRBOGtIeUlucjJyS1oyYUJ2NVVMdxILNGZPQzRDcEpSNnc"
+    }
+  },
   "4nfPB4RQabw": {
     "snippet": {
       "publishedAt": "2023-12-01T23:28:00Z",
@@ -3206,18 +3217,6 @@
       "activeLiveChatId": "Cg0KC055aVJSWGtEWXV3KicKGFVDc1FxazRjbjhwbGpVZWFkWWJVVmd5ZxILTnlpUlJYa0RZdXc"
     }
   },
-  "NzlpMQAUMG4": {
-    "snippet": {
-      "publishedAt": "2024-07-01T22:06:21Z",
-      "channelId": "UCGuwYlFddLhCwjJrxUYupxA",
-      "title": "\u3010PALWORLD\u3011Working through the update! #zhunisession"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-07-01T23:01:11Z",
-      "scheduledStartTime": "2024-07-01T23:00:00Z",
-      "activeLiveChatId": "Cg0KC056bHBNUUFVTUc0KicKGFVDR3V3WWxGZGRMaEN3akpyeFVZdXB4QRILTnpscE1RQVVNRzQ"
-    }
-  },
   "O8SoM626j2k": {
     "snippet": {
       "publishedAt": "2024-06-20T01:49:04Z",
@@ -5247,6 +5246,7 @@
       "title": "\u3010 LIVE \ud83d\udd343Dio Binaural ASMR\u3011Make Those Cute Sounds For Me\u3010 Trigger Test | Practice | Request OK\u3011"
     },
     "liveStreamingDetails": {
+      "actualStartTime": "2024-07-02T02:04:41Z",
       "scheduledStartTime": "2024-07-02T02:00:00Z",
       "activeLiveChatId": "Cg0KC2RaZ3BGLW5Qc1VzKicKGFVDRVk5Q25TSDBuMFFLbVkyUS1PSDdadxILZFpncEYtblBzVXM"
     }
@@ -7276,18 +7276,6 @@
       "activeLiveChatId": "Cg0KC3M2VHNzaTFqSXpVKicKGFVDSzZvQ01pYjYyZVlBSVBybHJZUlZydxILczZUc3NpMWpJelU"
     }
   },
-  "s6gRvT1d3hc": {
-    "snippet": {
-      "publishedAt": "2024-07-01T17:26:27Z",
-      "channelId": "UC98iRMvRqUxRD6GP4NtRskw",
-      "title": "Canada Day Drinking Stream"
-    },
-    "liveStreamingDetails": {
-      "actualStartTime": "2024-07-02T00:00:18Z",
-      "scheduledStartTime": "2024-07-02T00:00:00Z",
-      "activeLiveChatId": "Cg0KC3M2Z1J2VDFkM2hjKicKGFVDOThpUk12UnFVeFJENkdQNE50UnNrdxILczZnUnZUMWQzaGM"
-    }
-  },
   "sIekrrFDCSs": {
     "snippet": {
       "publishedAt": "2024-06-30T16:19:40Z",
@@ -7339,6 +7327,17 @@
     },
     "liveStreamingDetails": {
       "actualStartTime": "2024-07-02T01:54:49Z",
+      "twitch": true
+    }
+  },
+  "shimadatiger": {
+    "snippet": {
+      "channelId": "shimadatiger",
+      "title": "Harada took the wok to Poland | LEARNING SMALL TEKKEN IN TEKKEN 8 (!newvideo)",
+      "channelTitle": "ShimadaTiger"
+    },
+    "liveStreamingDetails": {
+      "actualStartTime": "2024-07-02T02:05:43Z",
       "twitch": true
     }
   },
