@@ -7324,7 +7324,8 @@
     "snippet": {
       "publishedAt": "2024-07-01T15:02:56Z",
       "channelId": "UCJ4O6PWA47f6XbCgrLQNqEQ",
-      "title": "\u3010TWITCH STREAM\u3011BITO SLEEPOVER!!!! (we hang out)"
+      "title": "\u3010TWITCH STREAM\u3011BITO SLEEPOVER!!!! (we hang out)",
+      "private": true
     },
     "liveStreamingDetails": {
       "scheduledStartTime": "2024-07-02T03:00:00Z",
